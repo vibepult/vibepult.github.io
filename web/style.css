@@ -99,10 +99,10 @@ svg { fill: none; stroke: currentColor; stroke-width: 2.5; stroke-linecap: round
 .lever__head { display: flex; align-items: center; gap: 8px; margin-bottom: 4px; }
 .lever__name { font-size: 15px; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; }
 .lever__val { margin-left: auto; font-size: 13px; }
-.lever__track { position: relative; height: 44px; touch-action: none; cursor: ew-resize; }
+.lever__track { position: relative; height: 44px; cursor: ew-resize; }
 .lever__track::before { content: ""; position: absolute; left: 14px; right: 14px; top: 50%; height: 6px; margin-top: -3px; background: var(--slot); border-radius: 3px; box-shadow: inset 0 1px 2px rgba(0,0,0,.8); }
 .detent { position: absolute; top: 6px; bottom: 6px; width: 2px; background: var(--btn-line); left: calc(var(--lever-cap) / 2 + (100% - var(--lever-cap)) * var(--v) / 100); }
-.lever__cap { position: absolute; z-index: 1; top: 0; height: 44px; width: var(--lever-cap); left: calc((100% - var(--lever-cap)) * var(--v, 50) / 100); border-radius: 4px; background-image: var(--lever-face, none), var(--cap-tex, none), var(--cap-across); background-size: 100% 100%, auto, auto; background-blend-mode: normal, overlay, normal; box-shadow: 0 3px 6px rgba(0,0,0,.6); }
+.lever__cap { position: absolute; z-index: 1; touch-action: none; top: 0; height: 44px; width: var(--lever-cap); left: calc((100% - var(--lever-cap)) * var(--v, 50) / 100); border-radius: 4px; background-image: var(--lever-face, none), var(--cap-tex, none), var(--cap-across); background-size: 100% 100%, auto, auto; background-blend-mode: normal, overlay, normal; box-shadow: 0 3px 6px rgba(0,0,0,.6); }
 .lever__cap::after { content: ""; position: absolute; top: 0; bottom: 0; left: 50%; width: 2px; margin-left: -1px; background: var(--bg); }
 [data-pack] .lever__cap::after, [data-pack] .cap::after { content: none; } /* a skinned cap face draws its own grip */
 .settling .lever__cap, .settling .cap { transition: left 150ms ease-out, bottom 150ms ease-out; }
@@ -185,9 +185,9 @@ svg { fill: none; stroke: currentColor; stroke-width: 2.5; stroke-linecap: round
 .meter i.on { background: var(--led-on); } /* the answer band */
 .fader { position: relative; width: 52px; }
 .fader::before { content: ""; position: absolute; left: 0; right: 0; top: calc(var(--cap-h) / 2); bottom: calc(var(--cap-h) / 2); background: repeating-linear-gradient(to bottom, var(--btn-line) 0, var(--btn-line) 1px, transparent 1px, transparent 10%); }
-.rail { position: absolute; inset: 0; touch-action: none; cursor: ns-resize; }
+.rail { position: absolute; inset: 0; cursor: ns-resize; }
 .rail::before { content: ""; position: absolute; left: 50%; top: calc(var(--cap-h) / 2 - 4px); bottom: calc(var(--cap-h) / 2 - 4px); width: 6px; margin-left: -3px; background: var(--slot); border-radius: 3px; box-shadow: inset 0 1px 2px rgba(0,0,0,.8); }
-.cap { position: absolute; z-index: 1; left: 4px; right: 4px; height: var(--cap-h); bottom: calc((100% - var(--cap-h)) * var(--v, 50) / 100); background-image: var(--cap-face, none), var(--cap-tex, none), var(--cap-silver); background-size: 100% 100%, auto, auto; background-blend-mode: normal, overlay, normal; box-shadow: 0 3px 6px rgba(0,0,0,.6); }
+.cap { position: absolute; z-index: 1; touch-action: none; left: 4px; right: 4px; height: var(--cap-h); bottom: calc((100% - var(--cap-h)) * var(--v, 50) / 100); background-image: var(--cap-face, none), var(--cap-tex, none), var(--cap-silver); background-size: 100% 100%, auto, auto; background-blend-mode: normal, overlay, normal; box-shadow: 0 3px 6px rgba(0,0,0,.6); }
 .cap::after { content: ""; position: absolute; left: 0; right: 0; top: 50%; height: 2px; margin-top: -1px; background: var(--bg); }
 /* Reference ticks: a notch per quintile band at the right of the slot; names show on the hovered or focused strip. */
 .ticks { position: absolute; left: calc(50% + 6px); top: calc(var(--cap-h) / 2); bottom: calc(var(--cap-h) / 2); width: 0; }
@@ -219,12 +219,10 @@ svg { fill: none; stroke: currentColor; stroke-width: 2.5; stroke-linecap: round
 @media (max-width: 1023px) {
   .console { padding: 0 0 16px; gap: 10px; }
   .console[aria-busy="true"] .row { opacity: 1; } /* the pinned output must stay readable while loading */
-  .row { display: contents; } /* the six columns become one stack, ordered below */
-  .output { order: -1; } .panel[aria-label="Master and levers"] { order: 1; } .strips[data-group="audio"] { order: 2; }
-  .donate { order: 2; } .strips[data-group="audio"] { order: 3; } .strips[data-group="character"] { order: 4; }
-  .bank.panel { order: 5; } .selects { order: 6; }
-  .panel[aria-label="Filters"] { display: contents; } /* its donate box and selectors join the stack on their own */
-  .donate, .selects { background: var(--panel); border-top: 1px solid var(--panel-line); border-bottom: 1px solid var(--panel-line); padding: 12px; }
+  .row, .panel[aria-label="Master and levers"], .panel[aria-label="Filters"] { display: contents; } /* one stack: band and player, search, faders, tips, lyrics, selectors, master and levers */
+  .brand { order: 1; } .strips[data-group="audio"] { order: 2; } .strips[data-group="character"] { order: 3; }
+  .donate { order: 4; } .bank.panel { order: 5; } .selects { order: 6; } .left-body { order: 7; }
+  .brand, .left-body, .donate, .selects { background: var(--panel); border-top: 1px solid var(--panel-line); border-bottom: 1px solid var(--panel-line); padding: 12px; }
   .donate { border-radius: 0; border-left: 0; border-right: 0; }
   .col { flex: 0 0 auto; min-width: 0; border-radius: 0; border-left: 0; border-right: 0; }
   .strips__inner { height: auto; }
@@ -252,9 +250,11 @@ svg { fill: none; stroke: currentColor; stroke-width: 2.5; stroke-linecap: round
   .lever--vertical .lever__track { min-height: 140px; }
   .selects { gap: 10px; }
   .bank__grid { grid-template-rows: repeat(5, 44px); }
-  .strips { overflow-x: auto; scrollbar-width: thin; scrollbar-color: var(--lcd) transparent; }
-  .strips__inner { width: max-content; min-width: 100%; } /* fills a tablet, scrolls on a phone */
-  .strip { flex: 1 0 88px; }
+  .console { overflow-x: clip; } /* tick names and readouts at the right edge stay off the page's scroll width */
+  .strips__inner { flex-wrap: wrap; } /* nothing scrolls sideways: three strips a row on a phone, six on a tablet */
+  .strip { flex: 1 1 33.3%; }
+  @media (min-width: 600px) { .strip { flex-basis: 16.6%; } }
+  .strip:nth-child(3n) .readout { left: auto; right: 2px; }
   .strip__fader { min-height: 190px; }
   .onoff { height: 36px; }
   .readout { max-width: 180px; }

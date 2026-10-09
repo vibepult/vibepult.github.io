@@ -343,6 +343,7 @@ function wireSlider({ surface, focus, ctl, readout, text, fromPointer, setValue,
 
   surface.addEventListener('pointerdown', e => {
     if (e.button !== 0 || !e.isPrimary) return;
+    if (e.pointerType !== 'mouse' && e.target !== focus) return; // a finger grabs the cap; on the rail it scrolls the page
     surface.setPointerCapture(e.pointerId);
     focus.focus({ preventScroll: true });
     engage();
