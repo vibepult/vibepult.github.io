@@ -1,0 +1,127 @@
+{
+ "slug": "esoteric",
+ "name": "Esoteric",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1261100580,
+  "deezer": 56142,
+  "spotify": "36b4aldhhv4vxGWtykfTRA"
+ },
+ "metadata": {
+  "formed": 1992,
+  "split": null,
+  "country": "GB",
+  "status": "active",
+  "members": 5,
+  "past_members": 11,
+  "full_lengths": 7,
+  "genre": "Funeral Doom/Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 5276,
+  "themes": "Misanthropy, Hopelessness, Pessimism, Infinity, Space, Dreams, Isolation, Psychedelia",
+  "release_year": 2009
+ },
+ "partial": false,
+ "clips": [
+  "esoteric/1491787285-105",
+  "esoteric/583574098-104",
+  "esoteric/583570226-104",
+  "esoteric/1476937008-103",
+  "esoteric/1491787285-104",
+  "esoteric/583574098-103",
+  "esoteric/583570226-103",
+  "esoteric/1476937008-104",
+  "esoteric/1491787285-106",
+  "esoteric/583574098-201",
+  "esoteric/583570226-201",
+  "esoteric/1476937008-102"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.69701086956522,
+   "iqr": 33.63364277580973
+  },
+  "onset_rate": {
+   "median": 2.806635794986181,
+   "iqr": 2.7063988023081027
+  },
+  "tempo_var": {
+   "median": 8.883808759562488,
+   "iqr": 9.814295397770092
+  },
+  "low_onset_rate": {
+   "median": 6.649053847645833,
+   "iqr": 4.460546174174464
+  },
+  "lufs": {
+   "median": -14.443606104054524,
+   "iqr": 6.11657845003195
+  },
+  "rms_dbfs": {
+   "median": -13.63965031502106,
+   "iqr": 6.088115089221562
+  },
+  "crest": {
+   "median": 13.26756238937378,
+   "iqr": 4.101732969284058
+  },
+  "centroid": {
+   "median": 1637.1939472272024,
+   "iqr": 947.3027365432063
+  },
+  "flatness": {
+   "median": 0.009163246024399996,
+   "iqr": 0.018471760267857462
+  },
+  "sub100_share": {
+   "median": 0.29652421176433563,
+   "iqr": 0.11425114050507545
+  },
+  "lowest_pitch": {
+   "median": 41.7205810546875,
+   "iqr": 25.5706787109375
+  },
+  "harmonic_share": {
+   "median": 0.8657349050045013,
+   "iqr": 0.07918412983417511
+  },
+  "clean_share": {
+   "median": 0.7106283941039566,
+   "iqr": 0.5841737781225756
+  },
+  "minor_share": {
+   "median": -0.02971285655647514,
+   "iqr": 0.13737026307961717
+  },
+  "chord_rate": {
+   "median": 1.0023699267807789,
+   "iqr": 0.6765997005770257
+  },
+  "repetitiveness": {
+   "median": 0.757142961025238,
+   "iqr": 0.14279282093048096
+  },
+  "vocal_share": {
+   "median": 0.1034480631351471,
+   "iqr": 0.06520212814211845
+  },
+  "vocal_voiced": {
+   "median": 0.3662109375,
+   "iqr": 0.6237291894104804
+  },
+  "song_length": {
+   "median": 765.807,
+   "iqr": 406.75
+  },
+  "vocal_presence": {
+   "median": 0.4166666666666667,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "dark-tranquillity/1045620646-106",
+ "band": "dark-tranquillity",
+ "title": "At the Point of Ignition",
+ "source": "itunes",
+ "album": "We Are the Void",
+ "year": 2010,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 6.096138651405988,
+  "tempo_var": 4.445292488487057,
+  "low_onset_rate": 7.362003507982094,
+  "lufs": -6.883051228841494,
+  "rms_dbfs": -6.509076017490376,
+  "crest": 6.50907564163208,
+  "centroid": 2677.2346558253475,
+  "flatness": 0.037723615765571594,
+  "sub100_share": 0.4617343246936798,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8262447714805603,
+  "clean_share": 0.0015467904098994587,
+  "minor_share": 0.2087887758754886,
+  "chord_rate": 1.2658648565761068,
+  "repetitiveness": 0.857283890247345,
+  "vocal_share": 0.06886125355958939,
+  "vocal_voiced": 0.12018140589569161,
+  "song_length": 232.413
+ }
+}

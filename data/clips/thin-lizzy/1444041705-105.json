@@ -1,0 +1,32 @@
+{
+ "id": "thin-lizzy/1444041705-105",
+ "band": "thin-lizzy",
+ "title": "Dancing in the Moonlight (It's Caught Me in It's Spotlight)",
+ "source": "itunes",
+ "album": "Bad Reputation",
+ "year": 1977,
+ "itunes_year": 1977,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.365505171715462,
+  "tempo_var": 2.7806407186008193,
+  "low_onset_rate": 3.6323668986029416,
+  "lufs": -18.050236745244696,
+  "rms_dbfs": -17.27742430692098,
+  "crest": 16.43670654296875,
+  "centroid": 2262.053364414401,
+  "flatness": 0.02038956619799137,
+  "sub100_share": 0.35303282737731934,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.5933528542518616,
+  "clean_share": 0.36117556071152357,
+  "minor_share": 0.06060275141826654,
+  "chord_rate": 1.999468017579601,
+  "repetitiveness": 0.7507142424583435,
+  "vocal_share": 0.2749156951904297,
+  "vocal_voiced": 0.8835978835978836,
+  "song_length": 206.467
+ }
+}

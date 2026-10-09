@@ -1,0 +1,32 @@
+{
+ "id": "rainbow/1444019501-106",
+ "band": "rainbow",
+ "title": "Desperate Heart",
+ "source": "itunes",
+ "album": "Bent Out of Shape",
+ "year": 1983,
+ "itunes_year": 1983,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.4666142613112427,
+  "tempo_var": 2.3664083086390737,
+  "low_onset_rate": 3.6332784084896677,
+  "lufs": -13.649991761411414,
+  "rms_dbfs": -13.526604641830724,
+  "crest": 13.526605606079102,
+  "centroid": 2442.8185720321367,
+  "flatness": 0.029117807745933533,
+  "sub100_share": 0.12610109150409698,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.6696594953536987,
+  "clean_share": 0.04408352668213457,
+  "minor_share": 0.2380743170974161,
+  "chord_rate": 1.5333101540415113,
+  "repetitiveness": 0.7513768672943115,
+  "vocal_share": 0.3643851578235626,
+  "vocal_voiced": 0.8423728813559322,
+  "song_length": 274.933
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "stam1na/1706841260-105",
+ "band": "stam1na",
+ "title": "Kivun kieli",
+ "source": "itunes",
+ "album": "X",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 6.096138651405988,
+  "tempo_var": 6.403982680744702,
+  "low_onset_rate": 8.228121567744694,
+  "lufs": -8.339092239463703,
+  "rms_dbfs": -7.8153494328664985,
+  "crest": 7.815349578857422,
+  "centroid": 2494.2881372532274,
+  "flatness": 0.04143229499459267,
+  "sub100_share": 0.32907021045684814,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7021610140800476,
+  "clean_share": 0.0,
+  "minor_share": 0.15565797319183844,
+  "chord_rate": 1.8321728187285755,
+  "repetitiveness": 0.9478819370269775,
+  "vocal_share": 0.13027381896972656,
+  "vocal_voiced": 0.188715953307393,
+  "song_length": 317.347
+ }
+}

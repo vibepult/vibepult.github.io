@@ -1,0 +1,32 @@
+{
+ "id": "evergrey/1608401395-106",
+ "band": "evergrey",
+ "title": "Reawakening",
+ "source": "itunes",
+ "album": "A Heartless Portrait (The Orphéan Testament)",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.7,
+  "tempo_var": 2.397768410479956,
+  "low_onset_rate": 6.3,
+  "lufs": -11.05433165082289,
+  "rms_dbfs": -10.52705439327009,
+  "crest": 10.527053833007812,
+  "centroid": 2186.093432251145,
+  "flatness": 0.022502237930893898,
+  "sub100_share": 0.2749282717704773,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7335454821586609,
+  "clean_share": 0.17260061919504643,
+  "minor_share": -0.03162757782041059,
+  "chord_rate": 1.3666666666666667,
+  "repetitiveness": 0.8317426443099976,
+  "vocal_share": 0.2766278386116028,
+  "vocal_voiced": 0.8939802336028752,
+  "song_length": 255.827
+ }
+}

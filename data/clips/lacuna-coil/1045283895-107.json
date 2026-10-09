@@ -1,0 +1,32 @@
+{
+ "id": "lacuna-coil/1045283895-107",
+ "band": "lacuna-coil",
+ "title": "Tight Rope",
+ "source": "itunes",
+ "album": "Comalies",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 2.9314765099657207,
+  "tempo_var": 16.00639852210124,
+  "low_onset_rate": 5.429893990050142,
+  "lufs": -7.378112832543707,
+  "rms_dbfs": -7.404331669453424,
+  "crest": 7.404331684112549,
+  "centroid": 2707.5557046799777,
+  "flatness": 0.04109971970319748,
+  "sub100_share": 0.3102405071258545,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8053088784217834,
+  "clean_share": 0.037122969837587005,
+  "minor_share": 0.03382496174068517,
+  "chord_rate": 1.5656749541862371,
+  "repetitiveness": 0.703869640827179,
+  "vocal_share": 0.19210577011108398,
+  "vocal_voiced": 0.905103668261563,
+  "song_length": 255.2
+ }
+}

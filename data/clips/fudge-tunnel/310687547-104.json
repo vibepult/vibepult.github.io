@@ -1,0 +1,32 @@
+{
+ "id": "fudge-tunnel/310687547-104",
+ "band": "fudge-tunnel",
+ "title": "Kitchen Belt",
+ "source": "itunes",
+ "album": "Hate Songs In E Minor",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.57748933229889,
+  "tempo_var": 12.202400407241438,
+  "low_onset_rate": 7.217063472821607,
+  "lufs": -17.15154056745384,
+  "rms_dbfs": -17.281545251879887,
+  "crest": 15.638660430908203,
+  "centroid": 3173.411852228746,
+  "flatness": 0.058660443872213364,
+  "sub100_share": 0.29884323477745056,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7643753886222839,
+  "clean_share": 0.017843289371605897,
+  "minor_share": 0.034297436860888486,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.8080756068229675,
+  "vocal_share": 0.042387641966342926,
+  "vocal_voiced": 0.7667910447761194,
+  "song_length": 231.533
+ }
+}

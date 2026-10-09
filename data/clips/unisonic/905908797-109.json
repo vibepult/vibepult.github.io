@@ -1,0 +1,32 @@
+{
+ "id": "unisonic/905908797-109",
+ "band": "unisonic",
+ "title": "When the Deed Is Done",
+ "source": "itunes",
+ "album": "Light of Dawn",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.009479707123115,
+  "tempo_var": 14.381548728527996,
+  "low_onset_rate": 3.94265504533773,
+  "lufs": -8.591183457336786,
+  "rms_dbfs": -8.093693261949873,
+  "crest": 8.093692779541016,
+  "centroid": 2350.108709365819,
+  "flatness": 0.02132953330874443,
+  "sub100_share": 0.2305718958377838,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8548167943954468,
+  "clean_share": 0.04499612102404965,
+  "minor_share": -0.2149169268853971,
+  "chord_rate": 1.1026069194588566,
+  "repetitiveness": 0.7107195258140564,
+  "vocal_share": 0.24291884899139404,
+  "vocal_voiced": 0.9023372287145242,
+  "song_length": 306.053
+ }
+}

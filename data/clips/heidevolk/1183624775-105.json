@@ -1,0 +1,32 @@
+{
+ "id": "heidevolk/1183624775-105",
+ "band": "heidevolk",
+ "title": "Walhalla Wacht",
+ "source": "itunes",
+ "album": "Walhalla Wacht",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 6.7,
+  "tempo_var": 10.810012619112285,
+  "low_onset_rate": 7.666666666666667,
+  "lufs": -7.646246723983795,
+  "rms_dbfs": -6.757437980789717,
+  "crest": 6.7574381828308105,
+  "centroid": 2601.167787492191,
+  "flatness": 0.030058622360229492,
+  "sub100_share": 0.3310381770133972,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8628726601600647,
+  "clean_share": 0.009287925696594427,
+  "minor_share": 0.05831380846908418,
+  "chord_rate": 2.066666666666667,
+  "repetitiveness": 0.8517886400222778,
+  "vocal_share": 0.02316068299114704,
+  "vocal_voiced": 0.7164179104477612,
+  "song_length": 251.133
+ }
+}

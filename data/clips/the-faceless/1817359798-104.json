@@ -1,0 +1,32 @@
+{
+ "id": "the-faceless/1817359798-104",
+ "band": "the-faceless",
+ "title": "Cup of Mephistopheles",
+ "source": "itunes",
+ "album": "In Becoming A Ghost",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 75.99954044117646,
+  "onset_rate": 1.7333071306556214,
+  "tempo_var": 31.068012691817685,
+  "low_onset_rate": 5.266587050838234,
+  "lufs": -13.56619725873705,
+  "rms_dbfs": -11.541675179837371,
+  "crest": 11.541675567626953,
+  "centroid": 1793.9449570404074,
+  "flatness": 0.01331083569675684,
+  "sub100_share": 0.5976071357727051,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7763306498527527,
+  "clean_share": 0.5614849187935035,
+  "minor_share": 0.17487990182114688,
+  "chord_rate": 2.0333025955767865,
+  "repetitiveness": 0.9606974124908447,
+  "vocal_share": 0.08662556856870651,
+  "vocal_voiced": 0.8072289156626506,
+  "song_length": 329.6
+ }
+}

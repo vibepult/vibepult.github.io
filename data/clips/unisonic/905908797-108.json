@@ -1,0 +1,32 @@
+{
+ "id": "unisonic/905908797-108",
+ "band": "unisonic",
+ "title": "Blood",
+ "source": "itunes",
+ "album": "Light of Dawn",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 2.773223464093488,
+  "tempo_var": 11.804475817218057,
+  "low_onset_rate": 4.878200310333123,
+  "lufs": -8.542097623298512,
+  "rms_dbfs": -7.811599695260157,
+  "crest": 7.811599254608154,
+  "centroid": 2068.479366588193,
+  "flatness": 0.016221309080719948,
+  "sub100_share": 0.2627624571323395,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.8880135416984558,
+  "clean_share": 0.3591931730023274,
+  "minor_share": -0.07243425447243168,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.6036746501922607,
+  "vocal_share": 0.2693762183189392,
+  "vocal_voiced": 0.9172749391727494,
+  "song_length": 285.547
+ }
+}

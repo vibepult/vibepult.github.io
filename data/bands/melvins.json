@@ -1,0 +1,127 @@
+{
+ "slug": "melvins",
+ "name": "Melvins",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 737433,
+  "deezer": 3382,
+  "spotify": "6aVjo0xHSiuW5hkasoYSR3"
+ },
+ "metadata": {
+  "formed": 1983,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 3,
+  "past_members": 19,
+  "full_lengths": 31,
+  "genre": "Sludge Metal, Various",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 67041,
+  "themes": "Randomness, Humour, Society",
+  "release_year": 1999
+ },
+ "partial": false,
+ "clips": [
+  "melvins/276576793-105",
+  "melvins/276578845-104",
+  "melvins/300975382-107",
+  "melvins/302097614-107",
+  "melvins/72788567-108",
+  "melvins/1891423096-108",
+  "melvins/1891399250-106",
+  "melvins/1891481963-106",
+  "melvins/1891408705-105",
+  "melvins/1891426900-105",
+  "melvins/1891402153-105",
+  "melvins/1892138556-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 24.78970231681035
+  },
+  "onset_rate": {
+   "median": 2.002641076875017,
+   "iqr": 1.0499936508320433
+  },
+  "tempo_var": {
+   "median": 6.397646462382157,
+   "iqr": 7.720519201508489
+  },
+  "low_onset_rate": {
+   "median": 3.8499594865221267,
+   "iqr": 2.1000090702399383
+  },
+  "lufs": {
+   "median": -10.42202831277615,
+   "iqr": 6.4775721361510605
+  },
+  "rms_dbfs": {
+   "median": -9.4459554068953,
+   "iqr": 4.190046495830563
+  },
+  "crest": {
+   "median": 9.445955276489258,
+   "iqr": 3.9904000759124756
+  },
+  "centroid": {
+   "median": 2270.9400381034607,
+   "iqr": 554.2500192301598
+  },
+  "flatness": {
+   "median": 0.017463956028223038,
+   "iqr": 0.030333145055919886
+  },
+  "sub100_share": {
+   "median": 0.3526627868413925,
+   "iqr": 0.19423140585422516
+  },
+  "lowest_pitch": {
+   "median": 68.6370849609375,
+   "iqr": 53.16009521484375
+  },
+  "harmonic_share": {
+   "median": 0.7945681810379028,
+   "iqr": 0.11223378777503967
+  },
+  "clean_share": {
+   "median": 0.15567443481850413,
+   "iqr": 0.3564625194602431
+  },
+  "minor_share": {
+   "median": 0.006077186791411282,
+   "iqr": 0.14126537567841724
+  },
+  "chord_rate": {
+   "median": 1.7854609260725152,
+   "iqr": 1.1833532090885157
+  },
+  "repetitiveness": {
+   "median": 0.8542312979698181,
+   "iqr": 0.06917212903499603
+  },
+  "vocal_share": {
+   "median": 0.1070818081498146,
+   "iqr": 0.11503983289003372
+  },
+  "vocal_voiced": {
+   "median": 0.6175771971496437,
+   "iqr": 0.4936034115138593
+  },
+  "song_length": {
+   "median": 234.212,
+   "iqr": 204.78625
+  },
+  "vocal_presence": {
+   "median": 0.4166666666666667,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.5
+ },
+ "sources_failed": []
+}

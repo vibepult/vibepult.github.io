@@ -1,0 +1,32 @@
+{
+ "id": "the-crown/56194227-105",
+ "band": "the-crown",
+ "title": "Vengeance",
+ "source": "itunes",
+ "album": "Deathrace King",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 2.338863162488484,
+  "tempo_var": 18.5467309268894,
+  "low_onset_rate": 4.911612641225816,
+  "lufs": -7.396460211278269,
+  "rms_dbfs": -7.6112581029139745,
+  "crest": 7.611258029937744,
+  "centroid": 2832.5359518751065,
+  "flatness": 0.04851438105106354,
+  "sub100_share": 0.1957213133573532,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.7253657579421997,
+  "clean_share": 0.003878975950349108,
+  "minor_share": -0.03136320144939031,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.914675772190094,
+  "vocal_share": 0.08227651566267014,
+  "vocal_voiced": 0.43425076452599387,
+  "song_length": 284.973
+ }
+}

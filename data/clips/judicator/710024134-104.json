@@ -1,0 +1,32 @@
+{
+ "id": "judicator/710024134-104",
+ "band": "judicator",
+ "title": "King of Rome",
+ "source": "itunes",
+ "album": "King of Rome",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 5.813745575328517,
+  "tempo_var": 15.120426962302957,
+  "low_onset_rate": 8.65379370120739,
+  "lufs": -14.306250684761762,
+  "rms_dbfs": -14.308684404456134,
+  "crest": 14.308683395385742,
+  "centroid": 2818.969519572309,
+  "flatness": 0.043267227709293365,
+  "sub100_share": 0.27734920382499695,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.675146222114563,
+  "clean_share": 0.007757951900698216,
+  "minor_share": 0.21591589544761403,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.9171714186668396,
+  "vocal_share": 0.241159588098526,
+  "vocal_voiced": 0.8287671232876712,
+  "song_length": 413.307
+ }
+}

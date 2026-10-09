@@ -1,0 +1,32 @@
+{
+ "id": "alice-in-chains/1751194761-106",
+ "band": "alice-in-chains",
+ "title": "Lab Monkey",
+ "source": "itunes",
+ "album": "The Devil Put Dinosaurs Here",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 2.8649515936038292,
+  "tempo_var": 4.511298158441483,
+  "low_onset_rate": 3.2647122810834333,
+  "lufs": -9.057363605164092,
+  "rms_dbfs": -8.567340661148751,
+  "crest": 8.567340850830078,
+  "centroid": 2214.2031182688506,
+  "flatness": 0.019572848454117775,
+  "sub100_share": 0.3419358432292938,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.8334805369377136,
+  "clean_share": 0.07347254447022429,
+  "minor_share": -0.059091215298564426,
+  "chord_rate": 1.6989829217883172,
+  "repetitiveness": 0.7353314161300659,
+  "vocal_share": 0.11668278276920319,
+  "vocal_voiced": 0.2822141560798548,
+  "song_length": 358.362
+ }
+}

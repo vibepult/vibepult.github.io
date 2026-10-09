@@ -1,0 +1,32 @@
+{
+ "id": "king-diamond/331251239-105",
+ "band": "king-diamond",
+ "title": "Moonlight (Remastered By Andy LaRocque)",
+ "source": "itunes",
+ "album": "The Spider's Lullabye (Remastered)",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.343603016050041,
+  "tempo_var": 12.646952931669082,
+  "low_onset_rate": 5.045261964796587,
+  "lufs": -10.096941444695721,
+  "rms_dbfs": -10.95826677437347,
+  "crest": 10.958266258239746,
+  "centroid": 3197.9556803962214,
+  "flatness": 0.053080521523952484,
+  "sub100_share": 0.20945872366428375,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.7673039436340332,
+  "clean_share": 0.0,
+  "minor_share": -0.07199269119972718,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.6780707240104675,
+  "vocal_share": 0.09145413339138031,
+  "vocal_voiced": 0.8501387604070305,
+  "song_length": 272.344
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "svartby/1241884703-106",
+ "band": "svartby",
+ "title": "Iron Stone",
+ "source": "itunes",
+ "album": "Swamp, My Neighbour",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 5.69702015272435,
+  "tempo_var": 14.388569378676397,
+  "low_onset_rate": 6.330022391915945,
+  "lufs": -8.843849355171193,
+  "rms_dbfs": -8.209204214651248,
+  "crest": 8.20920467376709,
+  "centroid": 2550.1423348140597,
+  "flatness": 0.0376589335501194,
+  "sub100_share": 0.30773404240608215,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6558511853218079,
+  "clean_share": 0.0448569218870843,
+  "minor_share": 0.07018021309610234,
+  "chord_rate": 2.298797605485264,
+  "repetitiveness": 0.9124906659126282,
+  "vocal_share": 0.12337376177310944,
+  "vocal_voiced": 0.26200873362445415,
+  "song_length": 146.255
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "sleep/6792864184-101",
+ "band": "sleep",
+ "title": "Have Spacesuit Will Travel",
+ "source": "itunes",
+ "album": "Hempispheres",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.533305921052632,
+  "tempo_var": 1.5162628800873514,
+  "low_onset_rate": 3.9666426809210527,
+  "lufs": -16.507690640212637,
+  "rms_dbfs": -14.245017326736013,
+  "crest": 14.245018005371094,
+  "centroid": 1799.1896579334677,
+  "flatness": 0.019733624532818794,
+  "sub100_share": 0.6497448682785034,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8218827843666077,
+  "clean_share": 0.6334106728538283,
+  "minor_share": 0.03278601162741912,
+  "chord_rate": 1.7333228521671826,
+  "repetitiveness": 0.9110974669456482,
+  "vocal_share": 2.1624327928293496e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 442.4
+ }
+}

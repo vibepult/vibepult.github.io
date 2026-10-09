@@ -1,0 +1,32 @@
+{
+ "id": "neaera/261652941-105",
+ "band": "neaera",
+ "title": "Harbinger",
+ "source": "itunes",
+ "album": "Armamentarium",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 1.9379151917761723,
+  "tempo_var": 16.22603671804829,
+  "low_onset_rate": 7.7850730979973815,
+  "lufs": -6.319570093045796,
+  "rms_dbfs": -6.022179618708666,
+  "crest": 6.02217960357666,
+  "centroid": 2757.128065121623,
+  "flatness": 0.050068266689777374,
+  "sub100_share": 0.4288846254348755,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7800422310829163,
+  "clean_share": 0.0,
+  "minor_share": 0.012232903424392316,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.9135249257087708,
+  "vocal_share": 0.09702325612306595,
+  "vocal_voiced": 0.1264591439688716,
+  "song_length": 296.747
+ }
+}

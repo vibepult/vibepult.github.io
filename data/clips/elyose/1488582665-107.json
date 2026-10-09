@@ -1,0 +1,32 @@
+{
+ "id": "elyose/1488582665-107",
+ "band": "elyose",
+ "title": "Mon charme",
+ "source": "itunes",
+ "album": "Ipso Facto",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.34597294283082,
+  "tempo_var": 16.65620859895735,
+  "low_onset_rate": 4.076304368908501,
+  "lufs": -8.87526956811613,
+  "rms_dbfs": -8.029280853374953,
+  "crest": 8.029280662536621,
+  "centroid": 2393.676135625353,
+  "flatness": 0.02758931741118431,
+  "sub100_share": 0.4135739803314209,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6613253355026245,
+  "clean_share": 0.03801396431342126,
+  "minor_share": 0.060229344534372675,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.8759656548500061,
+  "vocal_share": 0.1140945553779602,
+  "vocal_voiced": 0.7440476190476191,
+  "song_length": 286.8
+ }
+}

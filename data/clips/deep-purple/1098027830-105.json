@@ -1,0 +1,32 @@
+{
+ "id": "deep-purple/1098027830-105",
+ "band": "deep-purple",
+ "title": "I Need Love",
+ "source": "itunes",
+ "album": "Come Taste the Band",
+ "year": 1975,
+ "itunes_year": 1975,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.064092434270658,
+  "tempo_var": 1.031156239127222,
+  "low_onset_rate": 3.5977211713215667,
+  "lufs": -13.973167662517374,
+  "rms_dbfs": -13.972106413131478,
+  "crest": 13.97210693359375,
+  "centroid": 2523.639243997456,
+  "flatness": 0.028956608846783638,
+  "sub100_share": 0.14927716553211212,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.6930201053619385,
+  "clean_share": 0.09822119102861562,
+  "minor_share": 0.2818786405940254,
+  "chord_rate": 2.1652951494064983,
+  "repetitiveness": 0.7303640246391296,
+  "vocal_share": 0.2526291310787201,
+  "vocal_voiced": 0.6381798002219756,
+  "song_length": 263.44
+ }
+}

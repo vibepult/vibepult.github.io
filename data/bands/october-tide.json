@@ -1,0 +1,127 @@
+{
+ "slug": "october-tide",
+ "name": "October Tide",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 263664662,
+  "deezer": 12143,
+  "spotify": "4Ttdsj7ypWvHOhephBvXAl"
+ },
+ "metadata": {
+  "formed": 1994,
+  "split": null,
+  "country": "SE",
+  "status": "active",
+  "members": 5,
+  "past_members": 7,
+  "full_lengths": 7,
+  "genre": "Melodic Doom/Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 4183,
+  "themes": "Depression, Nature, Darkness",
+  "release_year": 2011
+ },
+ "partial": false,
+ "clips": [
+  "october-tide/293772206-104",
+  "october-tide/263664653-104",
+  "october-tide/1669836045-104",
+  "october-tide/1737378939-104",
+  "october-tide/1785690378-104",
+  "october-tide/1770019153-104",
+  "october-tide/1702717446-104",
+  "october-tide/293772206-103",
+  "october-tide/263664653-105",
+  "october-tide/1669836045-103",
+  "october-tide/1737378939-105",
+  "october-tide/1785690378-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 40.84675761353989
+  },
+  "onset_rate": {
+   "median": 3.040522111235029,
+   "iqr": 1.0369897901510479
+  },
+  "tempo_var": {
+   "median": 5.044259681673147,
+   "iqr": 12.580349469543279
+  },
+  "low_onset_rate": {
+   "median": 5.34597294283082,
+   "iqr": 2.8046843342684573
+  },
+  "lufs": {
+   "median": -9.634095153585672,
+   "iqr": 0.5423863114663412
+  },
+  "rms_dbfs": {
+   "median": -9.199133275657012,
+   "iqr": 1.003823818743621
+  },
+  "crest": {
+   "median": 9.199133396148682,
+   "iqr": 1.0038237571716309
+  },
+  "centroid": {
+   "median": 2438.004899837828,
+   "iqr": 184.4749951861054
+  },
+  "flatness": {
+   "median": 0.0286563690751791,
+   "iqr": 0.010538771282881498
+  },
+  "sub100_share": {
+   "median": 0.30561111867427826,
+   "iqr": 0.06969895958900452
+  },
+  "lowest_pitch": {
+   "median": 57.8704833984375,
+   "iqr": 14.13116455078125
+  },
+  "harmonic_share": {
+   "median": 0.8006386160850525,
+   "iqr": 0.10139790177345276
+  },
+  "clean_share": {
+   "median": 0.05308612767715391,
+   "iqr": 0.15928866241029307
+  },
+  "minor_share": {
+   "median": 0.0752544066142794,
+   "iqr": 0.19287697902407783
+  },
+  "chord_rate": {
+   "median": 1.7019354402043025,
+   "iqr": 0.44990125305080086
+  },
+  "repetitiveness": {
+   "median": 0.7702946960926056,
+   "iqr": 0.13919459283351898
+  },
+  "vocal_share": {
+   "median": 0.14409761130809784,
+   "iqr": 0.08744464069604874
+  },
+  "vocal_voiced": {
+   "median": 0.30678466076696165,
+   "iqr": 0.36778132286170084
+  },
+  "song_length": {
+   "median": 318.0,
+   "iqr": 87.50375000000003
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

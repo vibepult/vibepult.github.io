@@ -1,0 +1,32 @@
+{
+ "id": "caliban/1432345949-106",
+ "band": "caliban",
+ "title": "Walk Alone",
+ "source": "itunes",
+ "album": "Gravity",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 7.016589487465451,
+  "tempo_var": 13.044011076234654,
+  "low_onset_rate": 7.050001818358144,
+  "lufs": -7.983471598562514,
+  "rms_dbfs": -7.23014935477742,
+  "crest": 7.230148792266846,
+  "centroid": 2770.0581757738664,
+  "flatness": 0.0447486937046051,
+  "sub100_share": 0.4872153401374817,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8101773262023926,
+  "clean_share": 0.0,
+  "minor_share": -0.13873844491336773,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.8684681057929993,
+  "vocal_share": 0.07480783015489578,
+  "vocal_voiced": 0.3184885290148448,
+  "song_length": 250.773
+ }
+}

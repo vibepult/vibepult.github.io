@@ -1,0 +1,32 @@
+{
+ "id": "windhand/676466174-105",
+ "band": "windhand",
+ "title": "Cassock",
+ "source": "itunes",
+ "album": "Soma",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.1666187963900776,
+  "tempo_var": 8.901149897613983,
+  "low_onset_rate": 6.799897204879745,
+  "lufs": -8.316169260126363,
+  "rms_dbfs": -7.023348250994829,
+  "crest": 7.023348808288574,
+  "centroid": 1900.871909535363,
+  "flatness": 0.010558363050222397,
+  "sub100_share": 0.2990136742591858,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.8782087564468384,
+  "clean_share": 0.3480278422273782,
+  "minor_share": -0.07593290154758392,
+  "chord_rate": 1.0333177125062358,
+  "repetitiveness": 0.689492404460907,
+  "vocal_share": 7.092055511748185e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 825.2
+ }
+}

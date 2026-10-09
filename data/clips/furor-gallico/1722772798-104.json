@@ -1,0 +1,32 @@
+{
+ "id": "furor-gallico/1722772798-104",
+ "band": "furor-gallico",
+ "title": "Black Skies",
+ "source": "itunes",
+ "album": "Future To Come",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 2.466592090942073,
+  "tempo_var": 3.391173456204927,
+  "low_onset_rate": 4.333202321925263,
+  "lufs": -15.745263208860878,
+  "rms_dbfs": -15.33204304137547,
+  "crest": 15.332042694091797,
+  "centroid": 1865.7055314788379,
+  "flatness": 0.008986514061689377,
+  "sub100_share": 0.34083640575408936,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.7919217944145203,
+  "clean_share": 0.7107501933488012,
+  "minor_share": 0.26320067704492034,
+  "chord_rate": 1.0999667432579514,
+  "repetitiveness": 0.7509070038795471,
+  "vocal_share": 0.021848492324352264,
+  "vocal_voiced": 0.9250681198910081,
+  "song_length": 399.027
+ }
+}

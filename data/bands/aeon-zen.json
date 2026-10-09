@@ -1,0 +1,127 @@
+{
+ "slug": "aeon-zen",
+ "name": "Aeon Zen",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 314135538,
+  "deezer": 1055546,
+  "spotify": "0T073Nv8qEZ0Pd8dN0U3n4"
+ },
+ "metadata": {
+  "formed": 2008,
+  "split": null,
+  "country": "GB",
+  "status": "active",
+  "members": 5,
+  "past_members": 3,
+  "full_lengths": 6,
+  "genre": "Progressive Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 584,
+  "themes": "Relationships, Humanity, Time",
+  "release_year": 2013
+ },
+ "partial": false,
+ "clips": [
+  "aeon-zen/1498149548-105",
+  "aeon-zen/1498160107-105",
+  "aeon-zen/1541479708-105",
+  "aeon-zen/1498184874-106",
+  "aeon-zen/1498127463-104",
+  "aeon-zen/6803944652-104",
+  "aeon-zen/1498149548-106",
+  "aeon-zen/1498160107-106",
+  "aeon-zen/1541479708-104",
+  "aeon-zen/1498184874-108",
+  "aeon-zen/1498127463-105",
+  "aeon-zen/6803944652-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 16.852072010869563
+  },
+  "onset_rate": {
+   "median": 3.809005721766959,
+   "iqr": 1.9128559436066537
+  },
+  "tempo_var": {
+   "median": 9.580872213560985,
+   "iqr": 17.14836583676887
+  },
+  "low_onset_rate": {
+   "median": 4.159835196140232,
+   "iqr": 1.653910379188285
+  },
+  "lufs": {
+   "median": -12.50176264435932,
+   "iqr": 4.218876783746493
+  },
+  "rms_dbfs": {
+   "median": -11.482006250439717,
+   "iqr": 3.961939589027608
+  },
+  "crest": {
+   "median": 11.482006549835205,
+   "iqr": 3.961939811706543
+  },
+  "centroid": {
+   "median": 2576.799763241652,
+   "iqr": 897.3143273867363
+  },
+  "flatness": {
+   "median": 0.023448110558092594,
+   "iqr": 0.025762044242583215
+  },
+  "sub100_share": {
+   "median": 0.3699954003095627,
+   "iqr": 0.08263371884822845
+  },
+  "lowest_pitch": {
+   "median": 61.907958984375,
+   "iqr": 30.28106689453125
+  },
+  "harmonic_share": {
+   "median": 0.8391914069652557,
+   "iqr": 0.0973958969116211
+  },
+  "clean_share": {
+   "median": 0.13033359193173003,
+   "iqr": 0.533203523743416
+  },
+  "minor_share": {
+   "median": 0.0752171478633687,
+   "iqr": 0.30517071011152186
+  },
+  "chord_rate": {
+   "median": 1.5870857174028998,
+   "iqr": 1.2279031603064543
+  },
+  "repetitiveness": {
+   "median": 0.7646499872207642,
+   "iqr": 0.20580454170703888
+  },
+  "vocal_share": {
+   "median": 0.19386762380599976,
+   "iqr": 0.0922100692987442
+  },
+  "vocal_voiced": {
+   "median": 0.8838028169014085,
+   "iqr": 0.13142091114066023
+  },
+  "song_length": {
+   "median": 285.6,
+   "iqr": 116.14649999999997
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.0,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

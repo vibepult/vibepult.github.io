@@ -1,0 +1,127 @@
+{
+ "slug": "wake",
+ "name": "Wake",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1600312032,
+  "deezer": 1054758,
+  "spotify": "3eI8VStKilt8Wb2R4AD4vh"
+ },
+ "metadata": {
+  "formed": 2009,
+  "split": null,
+  "country": "CA",
+  "status": "active",
+  "members": 4,
+  "past_members": 7,
+  "full_lengths": 6,
+  "genre": "Grindcore/Crust (early); Black/Death Metal (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 531,
+  "themes": "N/A",
+  "release_year": 2017
+ },
+ "partial": false,
+ "clips": [
+  "wake/466601020-107",
+  "wake/1080119384-104",
+  "wake/1310867032-104",
+  "wake/1490809995-105",
+  "wake/1619195745-105",
+  "wake/466601020-112",
+  "wake/1080119384-103",
+  "wake/1310867032-105",
+  "wake/1490809995-107",
+  "wake/1619195745-103",
+  "wake/466601020-106",
+  "wake/1080119384-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 34.488921884990404
+  },
+  "onset_rate": {
+   "median": 4.460546174174466,
+   "iqr": 1.3949648147699176
+  },
+  "tempo_var": {
+   "median": 6.9449735479731105,
+   "iqr": 8.706616976497411
+  },
+  "low_onset_rate": {
+   "median": 6.264812042379868,
+   "iqr": 1.328140152984532
+  },
+  "lufs": {
+   "median": -9.269826734497101,
+   "iqr": 1.3526022998594183
+  },
+  "rms_dbfs": {
+   "median": -7.964109121203564,
+   "iqr": 0.7400134824903866
+  },
+  "crest": {
+   "median": 7.964108943939209,
+   "iqr": 0.7400130033493042
+  },
+  "centroid": {
+   "median": 2464.751024254589,
+   "iqr": 381.54735807039333
+  },
+  "flatness": {
+   "median": 0.02968074008822441,
+   "iqr": 0.011141585651785135
+  },
+  "sub100_share": {
+   "median": 0.4112262427806854,
+   "iqr": 0.1874765381217003
+  },
+  "lowest_pitch": {
+   "median": 44.4122314453125,
+   "iqr": 12.78533935546875
+  },
+  "harmonic_share": {
+   "median": 0.7779796719551086,
+   "iqr": 0.04786472022533417
+  },
+  "clean_share": {
+   "median": 0.007757951900698216,
+   "iqr": 0.019976726144297907
+  },
+  "minor_share": {
+   "median": -0.002190393606365526,
+   "iqr": 0.121033960887455
+  },
+  "chord_rate": {
+   "median": 2.138389177132328,
+   "iqr": 0.6682466178538524
+  },
+  "repetitiveness": {
+   "median": 0.9042298495769501,
+   "iqr": 0.06958737969398499
+  },
+  "vocal_share": {
+   "median": 0.09192273765802383,
+   "iqr": 0.04639469087123871
+  },
+  "vocal_voiced": {
+   "median": 0.33955223880597013,
+   "iqr": 0.09612559315069263
+  },
+  "song_length": {
+   "median": 193.03,
+   "iqr": 232.94350000000003
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

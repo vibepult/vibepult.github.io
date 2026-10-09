@@ -1,0 +1,32 @@
+{
+ "id": "def-leppard/1611600326-108",
+ "band": "def-leppard",
+ "title": "Goodbye For Good This Time",
+ "source": "itunes",
+ "album": "Diamond Star Halos",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 3.098861642661879,
+  "tempo_var": 31.429601062161225,
+  "low_onset_rate": 6.0977600065282145,
+  "lufs": -11.388746321128442,
+  "rms_dbfs": -10.262996453801609,
+  "crest": 10.262995719909668,
+  "centroid": 1670.3805580317307,
+  "flatness": 0.009947863407433033,
+  "sub100_share": 0.28350505232810974,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.8778003454208374,
+  "clean_share": 0.6612529002320185,
+  "minor_share": -0.1742718467588782,
+  "chord_rate": 1.232880438478382,
+  "repetitiveness": 0.7929661870002747,
+  "vocal_share": 0.3141065835952759,
+  "vocal_voiced": 0.9046121593291404,
+  "song_length": 267.12
+ }
+}

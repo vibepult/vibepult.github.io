@@ -1,0 +1,32 @@
+{
+ "id": "bucium/1656020532-105",
+ "band": "bucium",
+ "title": "Harap-Alb / White Moor",
+ "source": "itunes",
+ "album": "Zimbrul Alb / White Wisent",
+ "year": 2022,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.443840008728119,
+  "tempo_var": 3.5864410737020296,
+  "low_onset_rate": 5.245735950152742,
+  "lufs": -8.014592673791043,
+  "rms_dbfs": -7.255817133775383,
+  "crest": 7.25581693649292,
+  "centroid": 2531.5727609353303,
+  "flatness": 0.03146760165691376,
+  "sub100_share": 0.2865660786628723,
+  "lowest_pitch": 104.974365234375,
+  "harmonic_share": 0.7571937441825867,
+  "clean_share": 0.047323506594259115,
+  "minor_share": 0.09101020693488854,
+  "chord_rate": 1.871090529990787,
+  "repetitiveness": 0.7986772656440735,
+  "vocal_share": 0.2431907206773758,
+  "vocal_voiced": 0.6727853152434158,
+  "song_length": 298.773
+ }
+}

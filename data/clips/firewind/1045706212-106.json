@@ -1,0 +1,32 @@
+{
+ "id": "firewind/1045706212-106",
+ "band": "firewind",
+ "title": "Deliverance",
+ "source": "itunes",
+ "album": "Allegiance",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 66.25600961538461,
+  "onset_rate": 3.9760673762304224,
+  "tempo_var": 15.26267050335141,
+  "low_onset_rate": 4.57748933229889,
+  "lufs": -7.269744703166671,
+  "rms_dbfs": -6.952275160303341,
+  "crest": 6.95227575302124,
+  "centroid": 2719.6515342355606,
+  "flatness": 0.03293198347091675,
+  "sub100_share": 0.16822132468223572,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8648480772972107,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.08241594945510422,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.6782875061035156,
+  "vocal_share": 0.17866086959838867,
+  "vocal_voiced": 0.8467836257309942,
+  "song_length": 367.413
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "crystal-lake/1526473518-102",
+ "band": "crystal-lake",
+ "title": "Twisted Fate (Rerecorded)",
+ "source": "itunes",
+ "album": "The Voyages (Rerecorded Version)",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.744550986762353,
+  "tempo_var": 20.663092631961675,
+  "low_onset_rate": 5.4462099355088975,
+  "lufs": -9.065737112158251,
+  "rms_dbfs": -7.968995389358313,
+  "crest": 7.968995571136475,
+  "centroid": 2378.670799139106,
+  "flatness": 0.028797447681427002,
+  "sub100_share": 0.5611916184425354,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8404433727264404,
+  "clean_share": 0.05120248254460822,
+  "minor_share": 0.09359776806619102,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.9389117360115051,
+  "vocal_share": 0.09333778917789459,
+  "vocal_voiced": 0.22161572052401746,
+  "song_length": 161.688
+ }
+}

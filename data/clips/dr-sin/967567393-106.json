@@ -1,0 +1,32 @@
+{
+ "id": "dr-sin/967567393-106",
+ "band": "dr-sin",
+ "title": "This Is the Time",
+ "source": "itunes",
+ "album": "Intactus",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 2.8734604567715656,
+  "tempo_var": 20.920424060647303,
+  "low_onset_rate": 3.575119405518111,
+  "lufs": -11.664234773594561,
+  "rms_dbfs": -11.269752070602955,
+  "crest": 11.26975154876709,
+  "centroid": 2559.2580282324116,
+  "flatness": 0.027462037280201912,
+  "sub100_share": 0.2629911005496979,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.8035773038864136,
+  "clean_share": 0.10705973622963538,
+  "minor_share": -0.11718404954877482,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.6036871075630188,
+  "vocal_share": 0.2531227171421051,
+  "vocal_voiced": 0.9327024185068349,
+  "song_length": 254.08
+ }
+}

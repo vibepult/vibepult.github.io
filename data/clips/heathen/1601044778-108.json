@@ -1,0 +1,32 @@
+{
+ "id": "heathen/1601044778-108",
+ "band": "heathen",
+ "title": "Undone (Remastered 2020)",
+ "source": "itunes",
+ "album": "The Evolution of Chaos (10th Anniversary Edition)",
+ "year": 2010,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 1.2696685739223197,
+  "tempo_var": 23.89855192708262,
+  "low_onset_rate": 2.572749478737332,
+  "lufs": -12.485824745154616,
+  "rms_dbfs": -11.944022826809999,
+  "crest": 11.944023132324219,
+  "centroid": 2905.7279577318095,
+  "flatness": 0.029527973383665085,
+  "sub100_share": 0.4858754575252533,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.8568322062492371,
+  "clean_share": 0.048875096974398756,
+  "minor_share": 0.09004783449603104,
+  "chord_rate": 2.472512486059254,
+  "repetitiveness": 0.8951076865196228,
+  "vocal_share": 4.3334227939340053e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 402.093
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "troll/1711418009-104",
+ "band": "troll",
+ "title": "Ancient Fire",
+ "source": "itunes",
+ "album": "Trolldom",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.099922903659809,
+  "tempo_var": 16.563326180078608,
+  "low_onset_rate": 4.666596120995903,
+  "lufs": -11.044775217646622,
+  "rms_dbfs": -11.082830717438858,
+  "crest": 11.082830429077148,
+  "centroid": 2478.7236744008983,
+  "flatness": 0.03132236376404762,
+  "sub100_share": 0.24621517956256866,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.8056240081787109,
+  "clean_share": 0.0,
+  "minor_share": 0.23218522233236655,
+  "chord_rate": 0.9999848830705508,
+  "repetitiveness": 0.8889420628547668,
+  "vocal_share": 0.0005483146524056792,
+  "vocal_voiced": 0.0,
+  "song_length": 414.547
+ }
+}

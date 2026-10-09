@@ -1,0 +1,32 @@
+{
+ "id": "solstafir/730053037-105",
+ "band": "solstafir",
+ "title": "2000 Ár",
+ "source": "itunes",
+ "album": "Í Blóði Og Anda (In Blood and Spirit)",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.513034597294284,
+  "tempo_var": 19.763533198182223,
+  "low_onset_rate": 7.050001818358144,
+  "lufs": -8.460730646875069,
+  "rms_dbfs": -8.678847298123577,
+  "crest": 8.678847312927246,
+  "centroid": 2375.595897723322,
+  "flatness": 0.025422776117920876,
+  "sub100_share": 0.23364323377609253,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.792863130569458,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.06181133117900617,
+  "chord_rate": 1.7374412064200164,
+  "repetitiveness": 0.8595787286758423,
+  "vocal_share": 0.07085133343935013,
+  "vocal_voiced": 0.4124629080118694,
+  "song_length": 258.16
+ }
+}

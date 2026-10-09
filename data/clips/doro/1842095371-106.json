@@ -1,0 +1,32 @@
+{
+ "id": "doro/1842095371-106",
+ "band": "doro",
+ "title": "Heaven I See",
+ "source": "itunes",
+ "album": "Warrior Soul",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 2.399963719369322,
+  "tempo_var": 4.3771781424392735,
+  "low_onset_rate": 2.8332905020332273,
+  "lufs": -11.04132486107031,
+  "rms_dbfs": -10.323725446859592,
+  "crest": 10.323725700378418,
+  "centroid": 1544.1087881816725,
+  "flatness": 0.0055163404904305935,
+  "sub100_share": 0.2620695233345032,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8600406646728516,
+  "clean_share": 0.7873163186388245,
+  "minor_share": 0.1937412083169513,
+  "chord_rate": 1.1666490302489758,
+  "repetitiveness": 0.5976742506027222,
+  "vocal_share": 0.16581661999225616,
+  "vocal_voiced": 0.8064516129032258,
+  "song_length": 277.973
+ }
+}

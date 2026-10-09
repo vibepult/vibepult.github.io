@@ -1,0 +1,32 @@
+{
+ "id": "volbeat/1460660831-106",
+ "band": "volbeat",
+ "title": "Sorry Sack of Bones",
+ "source": "itunes",
+ "album": "Rewind, Replay, Rebound",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 5.112086626581972,
+  "tempo_var": 9.002181564011856,
+  "low_onset_rate": 7.8184854288900745,
+  "lufs": -8.798079559323561,
+  "rms_dbfs": -8.842280594746125,
+  "crest": 8.842280387878418,
+  "centroid": 2502.6497956131116,
+  "flatness": 0.03085293620824814,
+  "sub100_share": 0.259287565946579,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7803143858909607,
+  "clean_share": 0.017843289371605897,
+  "minor_share": 0.20427575560069788,
+  "chord_rate": 1.0357822576734714,
+  "repetitiveness": 0.8031774759292603,
+  "vocal_share": 0.2144726663827896,
+  "vocal_voiced": 0.8581560283687943,
+  "song_length": 228.667
+ }
+}

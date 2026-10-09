@@ -1,0 +1,32 @@
+{
+ "id": "voivod/1443471145-105",
+ "band": "voivod",
+ "title": "X-Ray Mirror",
+ "source": "itunes",
+ "album": "Nothing Face",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 6.1999062750374145,
+  "tempo_var": 23.845371731152216,
+  "low_onset_rate": 7.399888134722076,
+  "lufs": -15.142314168033591,
+  "rms_dbfs": -14.900231942830215,
+  "crest": 14.690703392028809,
+  "centroid": 2827.316285396255,
+  "flatness": 0.04412466287612915,
+  "sub100_share": 0.34876349568367004,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.650419294834137,
+  "clean_share": 0.020108275328692964,
+  "minor_share": 0.06597922256124095,
+  "chord_rate": 1.6666414717842513,
+  "repetitiveness": 0.8804301023483276,
+  "vocal_share": 0.16707047820091248,
+  "vocal_voiced": 0.7022900763358778,
+  "song_length": 268.8
+ }
+}

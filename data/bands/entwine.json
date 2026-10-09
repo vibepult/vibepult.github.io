@@ -1,0 +1,127 @@
+{
+ "slug": "entwine",
+ "name": "Entwine",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 131243841,
+  "deezer": 2430,
+  "spotify": "3PgNlHzp2aZ46SHJVQzdSU"
+ },
+ "metadata": {
+  "formed": 1997,
+  "split": 2019,
+  "country": "FI",
+  "status": "split-up",
+  "members": 5,
+  "past_members": 3,
+  "full_lengths": 7,
+  "genre": "Gothic Metal/Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 5634,
+  "themes": "Love, Death, Suicide",
+  "release_year": 2003
+ },
+ "partial": false,
+ "clips": [
+  "entwine/1669996717-105",
+  "entwine/1669925390-104",
+  "entwine/1669992929-106",
+  "entwine/1669915927-106",
+  "entwine/1669921564-105",
+  "entwine/1669947806-105",
+  "entwine/1669912133-105",
+  "entwine/1669996717-104",
+  "entwine/1669925390-105",
+  "entwine/1669992929-105",
+  "entwine/1669915927-107",
+  "entwine/1669921564-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.90049098320159,
+   "iqr": 36.9140625
+  },
+  "onset_rate": {
+   "median": 3.641944067303496,
+   "iqr": 0.9438983477185667
+  },
+  "tempo_var": {
+   "median": 2.140013065000545,
+   "iqr": 5.690043292843248
+  },
+  "low_onset_rate": {
+   "median": 4.610901663191582,
+   "iqr": 1.4200240629394374
+  },
+  "lufs": {
+   "median": -9.08023904935175,
+   "iqr": 2.3033236161742785
+  },
+  "rms_dbfs": {
+   "median": -8.413910029278101,
+   "iqr": 1.733670076694029
+  },
+  "crest": {
+   "median": 8.413910388946533,
+   "iqr": 1.7336697578430176
+  },
+  "centroid": {
+   "median": 2299.5302756749006,
+   "iqr": 583.3023187380545
+  },
+  "flatness": {
+   "median": 0.022515644319355488,
+   "iqr": 0.022194274235516787
+  },
+  "sub100_share": {
+   "median": 0.3610903471708298,
+   "iqr": 0.1401531919836998
+  },
+  "lowest_pitch": {
+   "median": 48.44970703125,
+   "iqr": 18.16864013671875
+  },
+  "harmonic_share": {
+   "median": 0.8377214968204498,
+   "iqr": 0.0588802695274353
+  },
+  "clean_share": {
+   "median": 0.16951124903025602,
+   "iqr": 0.4614041892940264
+  },
+  "minor_share": {
+   "median": 0.029301608983713923,
+   "iqr": 0.2027434319135669
+  },
+  "chord_rate": {
+   "median": 1.0357822576734714,
+   "iqr": 0.5429503770062551
+  },
+  "repetitiveness": {
+   "median": 0.7890781462192535,
+   "iqr": 0.1021832525730133
+  },
+  "vocal_share": {
+   "median": 0.20198959857225418,
+   "iqr": 0.05929436907172203
+  },
+  "vocal_voiced": {
+   "median": 0.833434139199247,
+   "iqr": 0.06244287698511153
+  },
+  "song_length": {
+   "median": 257.267,
+   "iqr": 44.71675000000002
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

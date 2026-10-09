@@ -1,0 +1,32 @@
+{
+ "id": "powerwolf/1441712658-105",
+ "band": "powerwolf",
+ "title": "Out in the Fields",
+ "source": "itunes",
+ "album": "Metallum Nostrum",
+ "year": 2019,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 2.8999824642027865,
+  "tempo_var": 16.840993614416863,
+  "low_onset_rate": 3.66664449496904,
+  "lufs": -8.460767026042168,
+  "rms_dbfs": -8.76569175436498,
+  "crest": 8.765691757202148,
+  "centroid": 1872.3516921897549,
+  "flatness": 0.017201406881213188,
+  "sub100_share": 0.48870646953582764,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8604453206062317,
+  "clean_share": 0.3681361175560712,
+  "minor_share": 0.19334434426496178,
+  "chord_rate": 1.0333270849458205,
+  "repetitiveness": 0.9687914848327637,
+  "vocal_share": 7.173823064476892e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 256.4
+ }
+}

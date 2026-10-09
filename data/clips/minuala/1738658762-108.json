@@ -1,0 +1,32 @@
+{
+ "id": "minuala/1738658762-108",
+ "band": "minuala",
+ "title": "Онего",
+ "source": "itunes",
+ "album": "В агонии",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.933273873410833,
+  "tempo_var": 16.13432700983858,
+  "low_onset_rate": 6.166573445601729,
+  "lufs": -8.005294326947338,
+  "rms_dbfs": -7.339265295560265,
+  "crest": 7.339265823364258,
+  "centroid": 2343.6251807917088,
+  "flatness": 0.026567723602056503,
+  "sub100_share": 0.2062118500471115,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7734044194221497,
+  "clean_share": 0.03248259860788863,
+  "minor_share": 0.05722343217823522,
+  "chord_rate": 2.199966742755212,
+  "repetitiveness": 0.8614755868911743,
+  "vocal_share": 0.01230466365814209,
+  "vocal_voiced": 0.3944954128440367,
+  "song_length": 271.037
+ }
+}

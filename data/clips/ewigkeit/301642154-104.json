@@ -1,0 +1,32 @@
+{
+ "id": "ewigkeit/301642154-104",
+ "band": "ewigkeit",
+ "title": "The Only Way",
+ "source": "itunes",
+ "album": "Land of Fog",
+ "year": 2003,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.9784373030112015,
+  "tempo_var": 6.773392261102671,
+  "low_onset_rate": 7.183651141928914,
+  "lufs": -15.099266833387272,
+  "rms_dbfs": -13.136576069743128,
+  "crest": 13.136576652526855,
+  "centroid": 1753.767314304094,
+  "flatness": 0.005524314008653164,
+  "sub100_share": 0.470665842294693,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.8590942025184631,
+  "clean_share": 0.5795190069821567,
+  "minor_share": 0.07319885392117198,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.762763500213623,
+  "vocal_share": 0.03179539740085602,
+  "vocal_voiced": 0.9798792756539235,
+  "song_length": 323.507
+ }
+}

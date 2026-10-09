@@ -1,0 +1,32 @@
+{
+ "id": "before-the-dawn/1460465791-106",
+ "band": "before-the-dawn",
+ "title": "Perfect Storm",
+ "source": "itunes",
+ "album": "Rise of the Phoenix",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.076304368908501,
+  "tempo_var": 11.073685586558067,
+  "low_onset_rate": 4.57748933229889,
+  "lufs": -12.050025529731748,
+  "rms_dbfs": -11.831220214610912,
+  "crest": 11.831220626831055,
+  "centroid": 2067.75213581636,
+  "flatness": 0.02490917034447193,
+  "sub100_share": 0.4372442066669464,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7774832248687744,
+  "clean_share": 0.28626842513576417,
+  "minor_share": -0.06731612038549883,
+  "chord_rate": 0.8687206032100082,
+  "repetitiveness": 0.9333882331848145,
+  "vocal_share": 0.0016967419069260359,
+  "vocal_voiced": 0.0,
+  "song_length": 282.72
+ }
+}

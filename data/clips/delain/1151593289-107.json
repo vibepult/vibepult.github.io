@@ -1,0 +1,32 @@
+{
+ "id": "delain/1151593289-107",
+ "band": "delain",
+ "title": "The Gathering",
+ "source": "itunes",
+ "album": "Lucidity",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.30782075837657,
+  "tempo_var": 2.7922743891199184,
+  "low_onset_rate": 1.9045028608834795,
+  "lufs": -8.629353246513341,
+  "rms_dbfs": -8.069237545370088,
+  "crest": 8.06923770904541,
+  "centroid": 2580.8952951595743,
+  "flatness": 0.03487638384103775,
+  "sub100_share": 0.32064759731292725,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7621724009513855,
+  "clean_share": 0.008533747090768037,
+  "minor_share": 0.24725057510410575,
+  "chord_rate": 2.205213838917713,
+  "repetitiveness": 0.8576484322547913,
+  "vocal_share": 0.2548350691795349,
+  "vocal_voiced": 0.2598091198303287,
+  "song_length": 215.011
+ }
+}

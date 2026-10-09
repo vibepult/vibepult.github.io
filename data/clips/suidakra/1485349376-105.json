@@ -1,0 +1,32 @@
+{
+ "id": "suidakra/1485349376-105",
+ "band": "suidakra",
+ "title": "Rise of Taliesin (Re-Recorded 2019)",
+ "source": "itunes",
+ "album": "Echoes of Yore",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 3.1407591039131066,
+  "tempo_var": 26.118274660578574,
+  "low_onset_rate": 4.343603016050041,
+  "lufs": -12.293305380130997,
+  "rms_dbfs": -11.760377329137508,
+  "crest": 11.760377883911133,
+  "centroid": 2334.149123256132,
+  "flatness": 0.01572716236114502,
+  "sub100_share": 0.12936803698539734,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.9059932231903076,
+  "clean_share": 0.32583397982932505,
+  "minor_share": 0.0522661207851256,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.7198152542114258,
+  "vocal_share": 0.16261814534664154,
+  "vocal_voiced": 0.6852886405959032,
+  "song_length": 396.627
+ }
+}

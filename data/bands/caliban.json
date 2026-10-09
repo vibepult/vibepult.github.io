@@ -1,0 +1,127 @@
+{
+ "slug": "caliban",
+ "name": "Caliban",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 107402910,
+  "deezer": 7009,
+  "spotify": "1oeo6cC9Fqa2bxxv67qBQL"
+ },
+ "metadata": {
+  "formed": 1997,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 5,
+  "past_members": 7,
+  "full_lengths": 13,
+  "genre": "Metalcore",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 41762,
+  "themes": "Inner struggles, Society, Love, Relationships",
+  "release_year": 2008
+ },
+ "partial": false,
+ "clips": [
+  "caliban/1679740309-107",
+  "caliban/1679533296-107",
+  "caliban/273555472-106",
+  "caliban/1045215689-106",
+  "caliban/1045282259-106",
+  "caliban/1045211785-107",
+  "caliban/1432345949-106",
+  "caliban/1343408770-107",
+  "caliban/1789598213-107",
+  "caliban/1679740309-109",
+  "caliban/1679533296-108",
+  "caliban/273555472-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 104.02513586956522,
+   "iqr": 36.05057565789474
+  },
+  "onset_rate": {
+   "median": 3.94265504533773,
+   "iqr": 1.410189451642978
+  },
+  "tempo_var": {
+   "median": 12.822876558082008,
+   "iqr": 6.554181135179968
+  },
+  "low_onset_rate": {
+   "median": 4.343603016050041,
+   "iqr": 3.5667663227949378
+  },
+  "lufs": {
+   "median": -8.494287510155175,
+   "iqr": 2.234767074234295
+  },
+  "rms_dbfs": {
+   "median": -7.871531597296148,
+   "iqr": 3.3711724901794753
+  },
+  "crest": {
+   "median": 7.8715314865112305,
+   "iqr": 3.3711726665496826
+  },
+  "centroid": {
+   "median": 2794.4453516609483,
+   "iqr": 194.08256544415735
+  },
+  "flatness": {
+   "median": 0.051243651658296585,
+   "iqr": 0.013242051936686039
+  },
+  "sub100_share": {
+   "median": 0.3756289929151535,
+   "iqr": 0.1705038845539093
+  },
+  "lowest_pitch": {
+   "median": 49.7955322265625,
+   "iqr": 17.4957275390625
+  },
+  "harmonic_share": {
+   "median": 0.7420563697814941,
+   "iqr": 0.08721610903739929
+  },
+  "clean_share": {
+   "median": 0.0007757951900698216,
+   "iqr": 0.007551403181300276
+  },
+  "minor_share": {
+   "median": 0.011405945326173283,
+   "iqr": 0.19558335025746548
+  },
+  "chord_rate": {
+   "median": 1.4180221064414296,
+   "iqr": 0.6431873696843331
+  },
+  "repetitiveness": {
+   "median": 0.895589679479599,
+   "iqr": 0.09049555659294128
+  },
+  "vocal_share": {
+   "median": 0.14507338404655457,
+   "iqr": 0.04413107968866825
+  },
+  "vocal_voiced": {
+   "median": 0.2336266606550113,
+   "iqr": 0.17102305103975318
+  },
+  "song_length": {
+   "median": 243.34699999999998,
+   "iqr": 27.966250000000002
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

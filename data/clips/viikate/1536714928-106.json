@@ -1,0 +1,32 @@
+{
+ "id": "viikate/1536714928-106",
+ "band": "viikate",
+ "title": "Tie",
+ "source": "itunes",
+ "album": "Unholan Urut",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.276778354264656,
+  "tempo_var": 15.975995608715332,
+  "low_onset_rate": 8.419907384958542,
+  "lufs": -8.09340522158963,
+  "rms_dbfs": -7.4597629815847775,
+  "crest": 7.4597625732421875,
+  "centroid": 2310.7857846981474,
+  "flatness": 0.025031108409166336,
+  "sub100_share": 0.3046112060546875,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7891722917556763,
+  "clean_share": 0.027928626842513578,
+  "minor_share": -0.16601691024099519,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.7821967005729675,
+  "vocal_share": 0.2060588151216507,
+  "vocal_voiced": 0.8215962441314554,
+  "song_length": 240.72
+ }
+}

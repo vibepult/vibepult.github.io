@@ -1,0 +1,32 @@
+{
+ "id": "shadow-gallery/500984995-105",
+ "band": "shadow-gallery",
+ "title": "Legacy",
+ "source": "itunes",
+ "album": "Legacy",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 6.415167531396984,
+  "tempo_var": 2.2055233519569115,
+  "low_onset_rate": 6.448579862289677,
+  "lufs": -10.005419130370992,
+  "rms_dbfs": -9.334958717169403,
+  "crest": 9.33495807647705,
+  "centroid": 2317.4443077133965,
+  "flatness": 0.024963634088635445,
+  "sub100_share": 0.3597131371498108,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.7352472543716431,
+  "clean_share": 0.04499612102404965,
+  "minor_share": -0.033902019339190126,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.9522155523300171,
+  "vocal_share": 0.18903173506259918,
+  "vocal_voiced": 0.718562874251497,
+  "song_length": 304.133
+ }
+}

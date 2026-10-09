@@ -1,0 +1,32 @@
+{
+ "id": "extreme-noise-terror/63610479-106",
+ "band": "extreme-noise-terror",
+ "title": "Invisible War",
+ "source": "itunes",
+ "album": "Retro-Bution",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 7.3507127963923775,
+  "tempo_var": 10.691311128221786,
+  "low_onset_rate": 7.551186781748533,
+  "lufs": -10.750349544256897,
+  "rms_dbfs": -10.898644400461885,
+  "crest": 10.898645401000977,
+  "centroid": 2804.7426215764076,
+  "flatness": 0.043621618300676346,
+  "sub100_share": 0.2593342363834381,
+  "lowest_pitch": 94.207763671875,
+  "harmonic_share": 0.7134701609611511,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.0071411042656537305,
+  "chord_rate": 2.472512486059254,
+  "repetitiveness": 0.917963981628418,
+  "vocal_share": 0.11584974825382233,
+  "vocal_voiced": 0.37437603993344426,
+  "song_length": 156.693
+ }
+}

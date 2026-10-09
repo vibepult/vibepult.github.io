@@ -1,0 +1,32 @@
+{
+ "id": "seigmen/299625972-105",
+ "band": "seigmen",
+ "title": "Sort Tulipan",
+ "source": "itunes",
+ "album": "Total",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.572749478737332,
+  "tempo_var": 2.7837588979066594,
+  "low_onset_rate": 5.546446928186976,
+  "lufs": -22.74842540794951,
+  "rms_dbfs": -20.717526233834093,
+  "crest": 12.674690246582031,
+  "centroid": 796.91699952739,
+  "flatness": 0.00075457216007635,
+  "sub100_share": 0.7049503922462463,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.9564286470413208,
+  "clean_share": 0.9852598913886734,
+  "minor_share": -0.07877032172432807,
+  "chord_rate": 1.0357822576734714,
+  "repetitiveness": 0.9138975739479065,
+  "vocal_share": 0.033951565623283386,
+  "vocal_voiced": 0.9648711943793911,
+  "song_length": 357.4
+ }
+}

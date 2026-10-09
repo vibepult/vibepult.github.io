@@ -1,0 +1,32 @@
+{
+ "id": "kekal/1549549865-106",
+ "band": "kekal",
+ "title": "After the Storm",
+ "source": "itunes",
+ "album": "The Painful Experience",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 78.30255681818181,
+  "onset_rate": 5.045261964796587,
+  "tempo_var": 21.858360219833227,
+  "low_onset_rate": 7.250475803714299,
+  "lufs": -12.092099963945289,
+  "rms_dbfs": -12.477890225363739,
+  "crest": 11.733293533325195,
+  "centroid": 2531.691156391193,
+  "flatness": 0.037002526223659515,
+  "sub100_share": 0.17508795857429504,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7472860217094421,
+  "clean_share": 0.0,
+  "minor_share": 0.05651145452887757,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.9049632549285889,
+  "vocal_share": 0.10441090911626816,
+  "vocal_voiced": 0.7554347826086957,
+  "song_length": 341.033
+ }
+}

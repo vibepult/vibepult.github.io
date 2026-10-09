@@ -1,0 +1,32 @@
+{
+ "id": "winterhorde/1681909313-107",
+ "band": "winterhorde",
+ "title": "The Curse of Gypsy",
+ "source": "itunes",
+ "album": "Underwatermoon",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 6.214693546040828,
+  "tempo_var": 3.557505949364405,
+  "low_onset_rate": 7.250475803714299,
+  "lufs": -8.336184547446376,
+  "rms_dbfs": -8.431808685545962,
+  "crest": 8.431808471679688,
+  "centroid": 2803.8020976695743,
+  "flatness": 0.05013152211904526,
+  "sub100_share": 0.17441949248313904,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7675580382347107,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.007267321806293303,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.7778554558753967,
+  "vocal_share": 0.05558740347623825,
+  "vocal_voiced": 0.32150313152400833,
+  "song_length": 567.253
+ }
+}

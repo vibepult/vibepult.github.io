@@ -1,0 +1,32 @@
+{
+ "id": "theatre-of-tragedy/1222135445-106",
+ "band": "theatre-of-tragedy",
+ "title": "Sweet Art Thou",
+ "source": "itunes",
+ "album": "Theatre of Tragedy",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 67.99958881578948,
+  "onset_rate": 2.599984278250774,
+  "tempo_var": 18.401703907009853,
+  "low_onset_rate": 1.9999879063467492,
+  "lufs": -14.048151118982513,
+  "rms_dbfs": -14.31695583296953,
+  "crest": 14.31695556640625,
+  "centroid": 1670.3044457222127,
+  "flatness": 0.024523060768842697,
+  "sub100_share": 0.10187675058841705,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.814413845539093,
+  "clean_share": 0.7045630317092034,
+  "minor_share": 0.16960173272830315,
+  "chord_rate": 1.7999891157120742,
+  "repetitiveness": 0.6469512581825256,
+  "vocal_share": 0.06371414661407471,
+  "vocal_voiced": 0.06338028169014084,
+  "song_length": 238.707
+ }
+}

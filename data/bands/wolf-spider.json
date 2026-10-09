@@ -1,0 +1,124 @@
+{
+ "slug": "wolf-spider",
+ "name": "Wolf Spider",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1046964854,
+  "deezer": 9026442,
+  "spotify": "1jkbvjg6emc6BmISf7vaQW"
+ },
+ "metadata": {
+  "formed": 1985,
+  "split": null,
+  "country": "PL",
+  "status": "active",
+  "members": 4,
+  "past_members": 9,
+  "full_lengths": 6,
+  "genre": "Technical Thrash Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 44,
+  "themes": "Society, Sex, Perversion, Paranoia, Human thoughts",
+  "release_year": 2023
+ },
+ "partial": false,
+ "clips": [
+  "wolf-spider/1680229430-106",
+  "wolf-spider/1680229430-105",
+  "wolf-spider/1680229430-107",
+  "wolf-spider/1680229430-104",
+  "wolf-spider/1680229430-108",
+  "wolf-spider/1680229430-103",
+  "wolf-spider/1680229430-109",
+  "wolf-spider/1680229430-102",
+  "wolf-spider/1680229430-110"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 33.49609375
+  },
+  "onset_rate": {
+   "median": 5.513034597294284,
+   "iqr": 2.1049768462396354
+  },
+  "tempo_var": {
+   "median": 3.7856295288322395,
+   "iqr": 8.930963542922749
+  },
+  "low_onset_rate": {
+   "median": 5.21232361926005,
+   "iqr": 1.9713275226688651
+  },
+  "lufs": {
+   "median": -8.449180810042732,
+   "iqr": 0.7961059176338416
+  },
+  "rms_dbfs": {
+   "median": -7.801890487404659,
+   "iqr": 0.9138104322687033
+  },
+  "crest": {
+   "median": 7.801890850067139,
+   "iqr": 0.9138102531433105
+  },
+  "centroid": {
+   "median": 2755.2969941614874,
+   "iqr": 29.00639009552151
+  },
+  "flatness": {
+   "median": 0.0404370091855526,
+   "iqr": 0.004697781056165695
+  },
+  "sub100_share": {
+   "median": 0.272440642118454,
+   "iqr": 0.1140294224023819
+  },
+  "lowest_pitch": {
+   "median": 75.3662109375,
+   "iqr": 21.533203125
+  },
+  "harmonic_share": {
+   "median": 0.6786532402038574,
+   "iqr": 0.0899580717086792
+  },
+  "clean_share": {
+   "median": 0.0023273855702094647,
+   "iqr": 0.026377036462373934
+  },
+  "minor_share": {
+   "median": -0.005158525844074613,
+   "iqr": 0.18137879969376358
+  },
+  "chord_rate": {
+   "median": 1.5035548901711682,
+   "iqr": 0.5011849633903895
+  },
+  "repetitiveness": {
+   "median": 0.8378554582595825,
+   "iqr": 0.0693177580833435
+  },
+  "vocal_share": {
+   "median": 0.2212836742401123,
+   "iqr": 0.011889353394508362
+  },
+  "vocal_voiced": {
+   "median": 0.7918683446272992,
+   "iqr": 0.055172152282724096
+  },
+  "song_length": {
+   "median": 298.947,
+   "iqr": 49.82600000000002
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

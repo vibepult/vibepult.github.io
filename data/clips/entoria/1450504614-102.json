@@ -1,0 +1,32 @@
+{
+ "id": "entoria/1450504614-102",
+ "band": "entoria",
+ "title": "Ich will euch bluten sehen",
+ "source": "itunes",
+ "album": "Aschheim",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 1.7040288755273238,
+  "tempo_var": 0.37821167308879,
+  "low_onset_rate": 6.816115502109295,
+  "lufs": -8.420738142081863,
+  "rms_dbfs": -7.343835998523803,
+  "crest": 7.343835830688477,
+  "centroid": 2412.5497800478634,
+  "flatness": 0.030939746648073196,
+  "sub100_share": 0.41736292839050293,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7696229219436646,
+  "clean_share": 0.035686578743211794,
+  "minor_share": 0.17638644507863216,
+  "chord_rate": 2.3054508315957913,
+  "repetitiveness": 0.9040164947509766,
+  "vocal_share": 0.19359134137630463,
+  "vocal_voiced": 0.13226452905811623,
+  "song_length": 220.174
+ }
+}

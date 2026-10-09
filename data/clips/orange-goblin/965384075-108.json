@@ -1,0 +1,32 @@
+{
+ "id": "orange-goblin/965384075-108",
+ "band": "orange-goblin",
+ "title": "Red Web",
+ "source": "itunes",
+ "album": "Coup De Grace",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.94265504533773,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 5.847157906221209,
+  "lufs": -7.846257995887426,
+  "rms_dbfs": -6.99277195107774,
+  "crest": 6.992771625518799,
+  "centroid": 2149.887886796759,
+  "flatness": 0.01867126114666462,
+  "sub100_share": 0.21413667500019073,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.7995391488075256,
+  "clean_share": 0.04654771140418929,
+  "minor_share": -0.22393653333973118,
+  "chord_rate": 2.606161809630025,
+  "repetitiveness": 0.8404954671859741,
+  "vocal_share": 6.995591661507206e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 313.227
+ }
+}

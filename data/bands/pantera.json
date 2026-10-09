@@ -1,0 +1,127 @@
+{
+ "slug": "pantera",
+ "name": "Pantera",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 155209,
+  "deezer": 2969,
+  "spotify": "14pVkFUHDL207LzLHtSA18"
+ },
+ "metadata": {
+  "formed": 1981,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 2,
+  "past_members": 8,
+  "full_lengths": 9,
+  "genre": "Glam/Heavy Metal (early); Groove Metal (later)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 1619966,
+  "themes": "Rocking, Partying, Humour, Sex, Love (early); Metal, Personal issues, Life, Violence, Hate, Death, Pain, Drugs, Suicide",
+  "release_year": 1993
+ },
+ "partial": false,
+ "clips": [
+  "pantera/1163813822-106",
+  "pantera/1049189134-106",
+  "pantera/1163813169-106",
+  "pantera/1163811316-106",
+  "pantera/1163814147-105",
+  "pantera/1163813822-107",
+  "pantera/1049189134-105",
+  "pantera/1163813169-107",
+  "pantera/1163811316-105",
+  "pantera/1163814147-106",
+  "pantera/1163813822-105",
+  "pantera/1049189134-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 40.8222169217551
+  },
+  "onset_rate": {
+   "median": 3.6151771716994996,
+   "iqr": 2.0230734363514955
+  },
+  "tempo_var": {
+   "median": 17.88750404744118,
+   "iqr": 13.216858801134972
+  },
+  "low_onset_rate": {
+   "median": 5.73111555424237,
+   "iqr": 2.5510007019945533
+  },
+  "lufs": {
+   "median": -11.230518187923069,
+   "iqr": 2.761183934937309
+  },
+  "rms_dbfs": {
+   "median": -11.183314842473429,
+   "iqr": 2.8183304556727915
+  },
+  "crest": {
+   "median": 11.183314800262451,
+   "iqr": 2.8183305263519287
+  },
+  "centroid": {
+   "median": 3102.199706929512,
+   "iqr": 267.0666186448966
+  },
+  "flatness": {
+   "median": 0.0579755250364542,
+   "iqr": 0.019100059755146503
+  },
+  "sub100_share": {
+   "median": 0.26165756583213806,
+   "iqr": 0.12455263361334801
+  },
+  "lowest_pitch": {
+   "median": 65.9454345703125,
+   "iqr": 35.66436767578125
+  },
+  "harmonic_share": {
+   "median": 0.678624838590622,
+   "iqr": 0.06700606644153595
+  },
+  "clean_share": {
+   "median": 0.014694508894044857,
+   "iqr": 0.02726218097447796
+  },
+  "minor_share": {
+   "median": 0.02433153531442943,
+   "iqr": 0.13899625558172252
+  },
+  "chord_rate": {
+   "median": 2.2824751543632136,
+   "iqr": 0.2841790925672507
+  },
+  "repetitiveness": {
+   "median": 0.8888282477855682,
+   "iqr": 0.041749998927116394
+  },
+  "vocal_share": {
+   "median": 0.14883384108543396,
+   "iqr": 0.04261449724435806
+  },
+  "vocal_voiced": {
+   "median": 0.32220609579100146,
+   "iqr": 0.33275702662321116
+  },
+  "song_length": {
+   "median": 286.525,
+   "iqr": 102.76999999999998
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

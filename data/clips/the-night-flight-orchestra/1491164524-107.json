@@ -1,0 +1,32 @@
+{
+ "id": "the-night-flight-orchestra/1491164524-107",
+ "band": "the-night-flight-orchestra",
+ "title": "Aeromantic",
+ "source": "itunes",
+ "album": "Aeromantic",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.310190685157349,
+  "tempo_var": 15.484895617052324,
+  "low_onset_rate": 4.276778354264656,
+  "lufs": -10.552215486716348,
+  "rms_dbfs": -9.622790889845822,
+  "crest": 9.622791290283203,
+  "centroid": 2350.9873348650262,
+  "flatness": 0.02290301024913788,
+  "sub100_share": 0.33464860916137695,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.6586828827857971,
+  "clean_share": 0.2583397982932506,
+  "minor_share": 0.10136930814713496,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.8185092210769653,
+  "vocal_share": 3.813211151282303e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 253.147
+ }
+}

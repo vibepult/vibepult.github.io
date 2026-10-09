@@ -1,0 +1,32 @@
+{
+ "id": "onslaught/1512039222-104",
+ "band": "onslaught",
+ "title": "Generation Antichrist",
+ "source": "itunes",
+ "album": "Generation Antichrist",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 1.336493235707705,
+  "tempo_var": 13.023927326308067,
+  "low_onset_rate": 5.178911288367357,
+  "lufs": -11.24689385298097,
+  "rms_dbfs": -10.606515079617582,
+  "crest": 10.606515884399414,
+  "centroid": 2710.2891223153892,
+  "flatness": 0.038999807089567184,
+  "sub100_share": 0.4981088638305664,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7995532751083374,
+  "clean_share": 0.017067494181536073,
+  "minor_share": 0.12461695947090812,
+  "chord_rate": 2.4391001551665616,
+  "repetitiveness": 0.9654520750045776,
+  "vocal_share": 0.014002306386828423,
+  "vocal_voiced": 0.0,
+  "song_length": 343.0
+ }
+}

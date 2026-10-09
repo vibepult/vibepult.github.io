@@ -1,0 +1,32 @@
+{
+ "id": "baroness/1455603119-108",
+ "band": "baroness",
+ "title": "I'd Do Anything",
+ "source": "itunes",
+ "album": "Gold & Grey",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 63.02400914634146,
+  "onset_rate": 0.8666614260835913,
+  "tempo_var": 22.364557207201354,
+  "low_onset_rate": 3.0666481230650153,
+  "lufs": -22.647317352399938,
+  "rms_dbfs": -22.535133879600906,
+  "crest": 16.54522705078125,
+  "centroid": 1098.4838361663963,
+  "flatness": 0.012625044211745262,
+  "sub100_share": 0.19661575555801392,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.930597722530365,
+  "clean_share": 0.9729311678267595,
+  "minor_share": -0.18466028632576026,
+  "chord_rate": 0.7999951625386997,
+  "repetitiveness": 0.7652676701545715,
+  "vocal_share": 2.154546791643952e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 250.12
+ }
+}

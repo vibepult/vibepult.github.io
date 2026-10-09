@@ -1,0 +1,127 @@
+{
+ "slug": "my-material-season",
+ "name": "My Material Season",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1113256153,
+  "deezer": 7689144,
+  "spotify": "6FFVlLMtNrIR9PDxak9viR"
+ },
+ "metadata": {
+  "formed": 2005,
+  "split": null,
+  "country": "JP",
+  "status": "active",
+  "members": 3,
+  "past_members": 3,
+  "full_lengths": 4,
+  "genre": "Melodic Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 39,
+  "themes": "N/A",
+  "release_year": 2012
+ },
+ "partial": false,
+ "clips": [
+  "my-material-season/1493056751-104",
+  "my-material-season/1515563123-104",
+  "my-material-season/1502067795-106",
+  "my-material-season/1493056751-103",
+  "my-material-season/1515563123-105",
+  "my-material-season/1502067795-105",
+  "my-material-season/1493056751-105",
+  "my-material-season/1515563123-103",
+  "my-material-season/1502067795-107",
+  "my-material-season/1493056751-102",
+  "my-material-season/1515563123-106",
+  "my-material-season/1502067795-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 97.54356971153845,
+   "iqr": 8.5107421875
+  },
+  "onset_rate": {
+   "median": 5.379385273723512,
+   "iqr": 1.3448463184308777
+  },
+  "tempo_var": {
+   "median": 13.773120716591986,
+   "iqr": 9.771504632421117
+  },
+  "low_onset_rate": {
+   "median": 6.699172343984872,
+   "iqr": 0.9271921822722202
+  },
+  "lufs": {
+   "median": -6.526555718492428,
+   "iqr": 2.3295238953965782
+  },
+  "rms_dbfs": {
+   "median": -6.0686632057894005,
+   "iqr": 2.2688547184437073
+  },
+  "crest": {
+   "median": 6.068663120269775,
+   "iqr": 2.268855094909668
+  },
+  "centroid": {
+   "median": 2689.9351007064292,
+   "iqr": 202.32224772779637
+  },
+  "flatness": {
+   "median": 0.04575565084815025,
+   "iqr": 0.00783646572381258
+  },
+  "sub100_share": {
+   "median": 0.2838876396417618,
+   "iqr": 0.038540154695510864
+  },
+  "lowest_pitch": {
+   "median": 47.1038818359375,
+   "iqr": 10.7666015625
+  },
+  "harmonic_share": {
+   "median": 0.7889687120914459,
+   "iqr": 0.10597994923591614
+  },
+  "clean_share": {
+   "median": 0.0007757951900698216,
+   "iqr": 0.0017455391776570986
+  },
+  "minor_share": {
+   "median": 0.01793103345534694,
+   "iqr": 0.11960540488018433
+  },
+  "chord_rate": {
+   "median": 1.553673386510207,
+   "iqr": 0.6264812042379868
+  },
+  "repetitiveness": {
+   "median": 0.8443708717823029,
+   "iqr": 0.06640070676803589
+  },
+  "vocal_share": {
+   "median": 0.10736310482025146,
+   "iqr": 0.05921800993382931
+  },
+  "vocal_voiced": {
+   "median": 0.1238165449295057,
+   "iqr": 0.13631315279854977
+  },
+  "song_length": {
+   "median": 272.2665,
+   "iqr": 60.56975
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

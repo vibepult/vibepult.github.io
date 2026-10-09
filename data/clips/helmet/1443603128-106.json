@@ -1,0 +1,32 @@
+{
+ "id": "helmet/1443603128-106",
+ "band": "helmet",
+ "title": "Unwound",
+ "source": "itunes",
+ "album": "Size Matters",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 2.773223464093488,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.276778354264656,
+  "lufs": -8.968118710903974,
+  "rms_dbfs": -7.998340770393072,
+  "crest": 7.998340606689453,
+  "centroid": 2383.685315390298,
+  "flatness": 0.02254631742835045,
+  "sub100_share": 0.38156524300575256,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.7569317817687988,
+  "clean_share": 0.21644685802948022,
+  "minor_share": 0.20190619743199367,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.702704668045044,
+  "vocal_share": 0.18320763111114502,
+  "vocal_voiced": 0.8726899383983573,
+  "song_length": 252.147
+ }
+}

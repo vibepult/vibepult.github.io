@@ -1,0 +1,32 @@
+{
+ "id": "heathen/1515868490-104",
+ "band": "heathen",
+ "title": "Dead and Gone",
+ "source": "itunes",
+ "album": "Empire of the Blind",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 2.0381521844542503,
+  "tempo_var": 22.621976072315583,
+  "low_onset_rate": 1.0023699267807789,
+  "lufs": -9.040461463164382,
+  "rms_dbfs": -8.055527600173976,
+  "crest": 8.055527687072754,
+  "centroid": 2668.6390419031623,
+  "flatness": 0.0342058502137661,
+  "sub100_share": 0.34441107511520386,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7427527904510498,
+  "clean_share": 0.06671838634600466,
+  "minor_share": -0.12522671044147604,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.8651232719421387,
+  "vocal_share": 8.019883352972101e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 236.747
+ }
+}

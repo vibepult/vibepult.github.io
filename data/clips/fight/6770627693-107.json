@@ -1,0 +1,32 @@
+{
+ "id": "fight/6770627693-107",
+ "band": "fight",
+ "title": "Gretna Greene",
+ "source": "itunes",
+ "album": "A Small Deadly Space",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.196708358575596,
+  "tempo_var": 3.66685031965156,
+  "low_onset_rate": 7.928311470134563,
+  "lufs": -7.789340908958482,
+  "rms_dbfs": -7.376886700413671,
+  "crest": 7.376886367797852,
+  "centroid": 2646.081527387101,
+  "flatness": 0.03472704440355301,
+  "sub100_share": 0.23381371796131134,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7844066023826599,
+  "clean_share": 0.0,
+  "minor_share": 0.1655617836436204,
+  "chord_rate": 2.465105247016629,
+  "repetitiveness": 0.9392951130867004,
+  "vocal_share": 0.15298116207122803,
+  "vocal_voiced": 0.7109826589595376,
+  "song_length": 232.693
+ }
+}

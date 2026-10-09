@@ -1,0 +1,32 @@
+{
+ "id": "wake/1619195745-105",
+ "band": "wake",
+ "title": "Venerate (The Undoing of All)",
+ "source": "itunes",
+ "album": "Thought Form Descent",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 3.2744084274838774,
+  "tempo_var": 4.953672017757513,
+  "low_onset_rate": 5.680096251757746,
+  "lufs": -10.413811903646451,
+  "rms_dbfs": -9.251471503935878,
+  "crest": 9.251471519470215,
+  "centroid": 2545.7605090863126,
+  "flatness": 0.027777068316936493,
+  "sub100_share": 0.5708537101745605,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8856592774391174,
+  "clean_share": 0.02482544608223429,
+  "minor_share": 0.19133413635356666,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.7633812427520752,
+  "vocal_share": 3.955769329877512e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 493.243
+ }
+}

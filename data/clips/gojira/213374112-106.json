@@ -1,0 +1,32 @@
+{
+ "id": "gojira/213374112-106",
+ "band": "gojira",
+ "title": "The Heaviest Matter of the Universe",
+ "source": "itunes",
+ "album": "From Mars to Sirius",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 7.533333333333333,
+  "tempo_var": 10.685247779412936,
+  "low_onset_rate": 5.433333333333334,
+  "lufs": -6.561083930955526,
+  "rms_dbfs": -6.084509277642595,
+  "crest": 6.084509372711182,
+  "centroid": 2458.5469648303374,
+  "flatness": 0.037463121116161346,
+  "sub100_share": 0.41239842772483826,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.7684671878814697,
+  "clean_share": 0.014705882352941176,
+  "minor_share": 0.12433615337235304,
+  "chord_rate": 1.8,
+  "repetitiveness": 0.9117493629455566,
+  "vocal_share": 0.03677321597933769,
+  "vocal_voiced": 0.7233201581027668,
+  "song_length": 237.84
+ }
+}

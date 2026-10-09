@@ -1,0 +1,32 @@
+{
+ "id": "sonata-arctica/1776756336-111",
+ "band": "sonata-arctica",
+ "title": "I Can't Dance (Bonus Track)",
+ "source": "itunes",
+ "album": "Ecliptica Revisited (15th Anniversary Edition)",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.566666666666667,
+  "tempo_var": 5.2165323930402465,
+  "low_onset_rate": 3.466666666666667,
+  "lufs": -9.126193317838116,
+  "rms_dbfs": -8.870235797281888,
+  "crest": 8.870235443115234,
+  "centroid": 2577.906745647883,
+  "flatness": 0.028240138664841652,
+  "sub100_share": 0.32084956765174866,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7208483815193176,
+  "clean_share": 0.11919504643962849,
+  "minor_share": -0.057317213034094316,
+  "chord_rate": 2.033333333333333,
+  "repetitiveness": 0.860842764377594,
+  "vocal_share": 0.3504490256309509,
+  "vocal_voiced": 0.7576509511993383,
+  "song_length": 232.44
+ }
+}

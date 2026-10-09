@@ -1,0 +1,32 @@
+{
+ "id": "terrorizer/45445292-105",
+ "band": "terrorizer",
+ "title": "Corporation Pull-In",
+ "source": "itunes",
+ "album": "World Downfall",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 7.88531009067546,
+  "tempo_var": 2.1805067825606645,
+  "low_onset_rate": 6.782703171216603,
+  "lufs": -15.8467033432901,
+  "rms_dbfs": -16.037424285672166,
+  "crest": 14.97159194946289,
+  "centroid": 2902.811642819953,
+  "flatness": 0.05011748522520065,
+  "sub100_share": 0.22993239760398865,
+  "lowest_pitch": 88.824462890625,
+  "harmonic_share": 0.5524593591690063,
+  "clean_share": 0.0,
+  "minor_share": 0.021563901518577788,
+  "chord_rate": 3.040522111235029,
+  "repetitiveness": 0.9488105177879333,
+  "vocal_share": 0.07920694351196289,
+  "vocal_voiced": 0.09672131147540984,
+  "song_length": 141.6
+ }
+}

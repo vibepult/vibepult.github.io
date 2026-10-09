@@ -1,0 +1,32 @@
+{
+ "id": "charon/1660479126-106",
+ "band": "charon",
+ "title": "Erase Me",
+ "source": "itunes",
+ "album": "Downhearted",
+ "year": 2002,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.433333333333333,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.466666666666667,
+  "lufs": -7.128252288739915,
+  "rms_dbfs": -6.42545480137651,
+  "crest": 6.425454616546631,
+  "centroid": 2466.973222465113,
+  "flatness": 0.027549883350729942,
+  "sub100_share": 0.3790639638900757,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8260151743888855,
+  "clean_share": 0.03869969040247678,
+  "minor_share": -0.0032168759232491517,
+  "chord_rate": 1.6,
+  "repetitiveness": 0.7221408486366272,
+  "vocal_share": 0.21150311827659607,
+  "vocal_voiced": 0.7106382978723405,
+  "song_length": 210.333
+ }
+}

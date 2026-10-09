@@ -1,0 +1,32 @@
+{
+ "id": "dio/1131107858-105",
+ "band": "dio",
+ "title": "Naked In the Rain",
+ "source": "itunes",
+ "album": "Dream Evil (Remastered)",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 3.597878801613561,
+  "tempo_var": 18.952022226005813,
+  "low_onset_rate": 4.397407424194353,
+  "lufs": -8.692975655629684,
+  "rms_dbfs": -8.586566698322912,
+  "crest": 8.586566925048828,
+  "centroid": 2063.553169057868,
+  "flatness": 0.017502352595329285,
+  "sub100_share": 0.14988534152507782,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7205492258071899,
+  "clean_share": 0.1956689868522815,
+  "minor_share": 0.32027600689473734,
+  "chord_rate": 1.165979241263654,
+  "repetitiveness": 0.8216528296470642,
+  "vocal_share": 0.23298227787017822,
+  "vocal_voiced": 0.796092796092796,
+  "song_length": 311.114
+ }
+}

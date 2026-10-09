@@ -1,0 +1,32 @@
+{
+ "id": "evile/260741068-105",
+ "band": "evile",
+ "title": "Burned Alive",
+ "source": "itunes",
+ "album": "Enter the Grave",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 6.166666666666667,
+  "tempo_var": 15.331667812017722,
+  "low_onset_rate": 7.6,
+  "lufs": -7.2255659618741115,
+  "rms_dbfs": -7.732052193462465,
+  "crest": 7.732052326202393,
+  "centroid": 3096.574164909718,
+  "flatness": 0.06919832527637482,
+  "sub100_share": 0.1158948615193367,
+  "lowest_pitch": 104.974365234375,
+  "harmonic_share": 0.6356127262115479,
+  "clean_share": 0.0023219814241486067,
+  "minor_share": 0.02412484977097895,
+  "chord_rate": 1.5333333333333334,
+  "repetitiveness": 0.8581947684288025,
+  "vocal_share": 0.17567215859889984,
+  "vocal_voiced": 0.048748353096179184,
+  "song_length": 354.92
+ }
+}

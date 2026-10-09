@@ -1,0 +1,32 @@
+{
+ "id": "unsun/1045628709-104",
+ "band": "unsun",
+ "title": "Face the Truth",
+ "source": "itunes",
+ "album": "The End of Life",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.57748933229889,
+  "tempo_var": 2.4917313005524493,
+  "low_onset_rate": 4.777963317655045,
+  "lufs": -10.655104382687872,
+  "rms_dbfs": -10.693938069013578,
+  "crest": 10.693939208984375,
+  "centroid": 2189.6066018584747,
+  "flatness": 0.01105464156717062,
+  "sub100_share": 0.054390210658311844,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.8909736275672913,
+  "clean_share": 0.6229635376260667,
+  "minor_share": 0.22655276674634206,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.7663890719413757,
+  "vocal_share": 0.6989773511886597,
+  "vocal_voiced": 0.8822152886115444,
+  "song_length": 305.12
+ }
+}

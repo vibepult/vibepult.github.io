@@ -1,0 +1,32 @@
+{
+ "id": "stravaganzza/922088256-107",
+ "band": "stravaganzza",
+ "title": "Frustración",
+ "source": "itunes",
+ "album": "Sentimientos",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 0.3675356398196189,
+  "tempo_var": 9.882474055414663,
+  "low_onset_rate": 1.2696685739223197,
+  "lufs": -7.512917888052805,
+  "rms_dbfs": -6.580042931533936,
+  "crest": 6.580042839050293,
+  "centroid": 2515.5715655599706,
+  "flatness": 0.028237057849764824,
+  "sub100_share": 0.4702337682247162,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.835355281829834,
+  "clean_share": 0.004654771140418929,
+  "minor_share": -0.20048733238954375,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.8389804363250732,
+  "vocal_share": 0.004057243466377258,
+  "vocal_voiced": 1.0,
+  "song_length": 307.987
+ }
+}

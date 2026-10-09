@@ -1,0 +1,32 @@
+{
+ "id": "swallow-the-sun/1045922579-203",
+ "band": "swallow-the-sun",
+ "title": "Away",
+ "source": "itunes",
+ "album": "Songs from the North I, II & III",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.098037675304682,
+  "tempo_var": 2.262574214724971,
+  "low_onset_rate": 3.164662141440267,
+  "lufs": -10.513341614178438,
+  "rms_dbfs": -9.255915536697996,
+  "crest": 9.255915641784668,
+  "centroid": 1788.0062916632894,
+  "flatness": 0.006090974900871515,
+  "sub100_share": 0.4468640387058258,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.9198222160339355,
+  "clean_share": 0.6635730858468677,
+  "minor_share": -0.15563490970977512,
+  "chord_rate": 0.6995568944236379,
+  "repetitiveness": 0.5829935073852539,
+  "vocal_share": 0.18847806751728058,
+  "vocal_voiced": 0.8638132295719845,
+  "song_length": 322.307
+ }
+}

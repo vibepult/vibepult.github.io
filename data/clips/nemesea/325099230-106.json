@@ -1,0 +1,32 @@
+{
+ "id": "nemesea/325099230-106",
+ "band": "nemesea",
+ "title": "Remember",
+ "source": "itunes",
+ "album": "In Control",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 2.9999546492116522,
+  "tempo_var": 5.765794321963901,
+  "low_onset_rate": 3.2332844552614475,
+  "lufs": -10.062505110192422,
+  "rms_dbfs": -9.417937083400437,
+  "crest": 9.417936325073242,
+  "centroid": 1974.3069596462556,
+  "flatness": 0.018251288682222366,
+  "sub100_share": 0.491990864276886,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7919986844062805,
+  "clean_share": 0.440061871616396,
+  "minor_share": -0.07007511899449581,
+  "chord_rate": 1.6999743012199362,
+  "repetitiveness": 0.7326238751411438,
+  "vocal_share": 0.19958652555942535,
+  "vocal_voiced": 0.8923465096719932,
+  "song_length": 215.64
+ }
+}

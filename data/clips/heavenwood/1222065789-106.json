@@ -1,0 +1,32 @@
+{
+ "id": "heavenwood/1222065789-106",
+ "band": "heavenwood",
+ "title": "Foreclosure",
+ "source": "itunes",
+ "album": "Redemption",
+ "year": 2008,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 1.5035548901711682,
+  "tempo_var": 14.823127162743708,
+  "low_onset_rate": 1.0023699267807789,
+  "lufs": -8.44857923611092,
+  "rms_dbfs": -7.564389183341004,
+  "crest": 7.564389705657959,
+  "centroid": 2146.561893552181,
+  "flatness": 0.019877398386597633,
+  "sub100_share": 0.336404949426651,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8573155403137207,
+  "clean_share": 0.19317300232738557,
+  "minor_share": -0.17201885468903633,
+  "chord_rate": 0.9689575958880862,
+  "repetitiveness": 0.748954176902771,
+  "vocal_share": 5.480856088979635e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 356.867
+ }
+}

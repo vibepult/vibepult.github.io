@@ -1,0 +1,32 @@
+{
+ "id": "bell-witch/571352228-105",
+ "band": "bell-witch",
+ "title": "I Wait",
+ "source": "itunes",
+ "album": "Longing",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 71.77734375,
+  "onset_rate": 1.4367302283857828,
+  "tempo_var": 13.764555279447585,
+  "low_onset_rate": 6.8829401638946806,
+  "lufs": -11.394517624291305,
+  "rms_dbfs": -10.168036057685029,
+  "crest": 10.168036460876465,
+  "centroid": 1553.0385506814298,
+  "flatness": 0.005563732236623764,
+  "sub100_share": 0.39582228660583496,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.9231120347976685,
+  "clean_share": 0.6617532971295578,
+  "minor_share": -0.27163457717334183,
+  "chord_rate": 0.8353082723173156,
+  "repetitiveness": 0.6579868793487549,
+  "vocal_share": 9.139754979514692e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 744.84
+ }
+}

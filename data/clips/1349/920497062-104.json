@@ -1,0 +1,32 @@
+{
+ "id": "1349/920497062-104",
+ "band": "1349",
+ "title": "Postmortem",
+ "source": "itunes",
+ "album": "Massive Cauldron of Chaos",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 2.7063988023081027,
+  "tempo_var": 17.18613234827274,
+  "low_onset_rate": 5.880570237113902,
+  "lufs": -11.69640349559218,
+  "rms_dbfs": -11.043325360624287,
+  "crest": 11.043325424194336,
+  "centroid": 2456.6677509477995,
+  "flatness": 0.02828526683151722,
+  "sub100_share": 0.34192779660224915,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7858350276947021,
+  "clean_share": 0.018619084561675717,
+  "minor_share": -0.14356875228872135,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.8876403570175171,
+  "vocal_share": 0.020622452720999718,
+  "vocal_voiced": 0.07627118644067797,
+  "song_length": 275.453
+ }
+}

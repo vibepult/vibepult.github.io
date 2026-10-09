@@ -1,0 +1,32 @@
+{
+ "id": "metsatoll/1656547728-104",
+ "band": "metsatoll",
+ "title": "Sõjasarv",
+ "source": "itunes",
+ "album": "Iivakivi",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 6.214693546040828,
+  "tempo_var": 22.46459072711351,
+  "low_onset_rate": 6.181281215148136,
+  "lufs": -8.607927014564948,
+  "rms_dbfs": -7.859183773528546,
+  "crest": 7.859183311462402,
+  "centroid": 2557.093433391996,
+  "flatness": 0.032599546015262604,
+  "sub100_share": 0.3834979236125946,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7570175528526306,
+  "clean_share": 0.041117145073700546,
+  "minor_share": 0.03909141957713069,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.8885354995727539,
+  "vocal_share": 0.12265538424253464,
+  "vocal_voiced": 0.879136690647482,
+  "song_length": 275.853
+ }
+}

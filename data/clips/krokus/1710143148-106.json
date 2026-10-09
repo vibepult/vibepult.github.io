@@ -1,0 +1,32 @@
+{
+ "id": "krokus/1710143148-106",
+ "band": "krokus",
+ "title": "Help",
+ "source": "itunes",
+ "album": "Dirty Dynamite",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.0333025955767865,
+  "tempo_var": 3.124805212163272,
+  "low_onset_rate": 4.366600656074739,
+  "lufs": -10.070186776757643,
+  "rms_dbfs": -9.533086834600343,
+  "crest": 9.533086776733398,
+  "centroid": 1988.0711071766827,
+  "flatness": 0.009683770127594471,
+  "sub100_share": 0.25102293491363525,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.7719564437866211,
+  "clean_share": 0.3882443928847641,
+  "minor_share": -0.19406214146858192,
+  "chord_rate": 1.099983371377606,
+  "repetitiveness": 0.6492428779602051,
+  "vocal_share": 0.17141632735729218,
+  "vocal_voiced": 0.83271719038817,
+  "song_length": 265.893
+ }
+}

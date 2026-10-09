@@ -1,0 +1,32 @@
+{
+ "id": "avalanch/1477507330-105",
+ "band": "avalanch",
+ "title": "El Peregrino",
+ "source": "itunes",
+ "album": "El Secreto",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.842418052659652,
+  "tempo_var": 1.760620183064065,
+  "low_onset_rate": 3.742181059981574,
+  "lufs": -8.576389802168764,
+  "rms_dbfs": -8.533638129105691,
+  "crest": 8.533638000488281,
+  "centroid": 2583.2215152687286,
+  "flatness": 0.033949773758649826,
+  "sub100_share": 0.1521643102169037,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.7250382900238037,
+  "clean_share": 0.028704422032583398,
+  "minor_share": 0.09931530665058275,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.855380117893219,
+  "vocal_share": 0.3209424316883087,
+  "vocal_voiced": 0.7946666666666666,
+  "song_length": 235.227
+ }
+}

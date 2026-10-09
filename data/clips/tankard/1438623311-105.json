@@ -1,0 +1,32 @@
+{
+ "id": "tankard/1438623311-105",
+ "band": "tankard",
+ "title": "Alcohol (2017 - Remaster)",
+ "source": "itunes",
+ "album": "Zombie Attack",
+ "year": 1986,
+ "itunes_year": 1988,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 6.314930538718906,
+  "tempo_var": 21.497684786389748,
+  "low_onset_rate": 7.217063472821607,
+  "lufs": -10.574649587971999,
+  "rms_dbfs": -10.868825854927994,
+  "crest": 10.868825912475586,
+  "centroid": 2961.108473809734,
+  "flatness": 0.07032225281000137,
+  "sub100_share": 0.23374511301517487,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.5668311715126038,
+  "clean_share": 0.0,
+  "minor_share": 0.059220073943735185,
+  "chord_rate": 2.5393371478446394,
+  "repetitiveness": 0.9586569666862488,
+  "vocal_share": 0.2492469698190689,
+  "vocal_voiced": 0.24317295188556567,
+  "song_length": 129.44
+ }
+}

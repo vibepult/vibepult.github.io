@@ -1,0 +1,32 @@
+{
+ "id": "nemesea/1183612927-107",
+ "band": "nemesea",
+ "title": "Say",
+ "source": "itunes",
+ "album": "The Quiet Resistance",
+ "year": 2011,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 3.1,
+  "tempo_var": 30.338806287828795,
+  "low_onset_rate": 4.7,
+  "lufs": -8.558351171900393,
+  "rms_dbfs": -7.869541418883403,
+  "crest": 7.869541645050049,
+  "centroid": 2137.1126361030215,
+  "flatness": 0.019314253702759743,
+  "sub100_share": 0.3337189257144928,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8086632490158081,
+  "clean_share": 0.22678018575851394,
+  "minor_share": 0.053878755220992613,
+  "chord_rate": 0.7,
+  "repetitiveness": 0.7464264035224915,
+  "vocal_share": 0.15514950454235077,
+  "vocal_voiced": 0.7881157154026583,
+  "song_length": 244.493
+ }
+}

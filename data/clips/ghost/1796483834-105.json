@@ -1,0 +1,32 @@
+{
+ "id": "ghost/1796483834-105",
+ "band": "ghost",
+ "title": "De Profundis Borealis",
+ "source": "itunes",
+ "album": "Skeletá",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.56398967801199,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.830500024173274,
+  "lufs": -7.971772908532275,
+  "rms_dbfs": -7.043184944986306,
+  "crest": 7.043184757232666,
+  "centroid": 2453.4816895001522,
+  "flatness": 0.02761397324502468,
+  "sub100_share": 0.42751526832580566,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.7262697815895081,
+  "clean_share": 0.033255993812838364,
+  "minor_share": -0.0802244404988035,
+  "chord_rate": 1.632375870237865,
+  "repetitiveness": 0.7915590405464172,
+  "vocal_share": 0.09288293123245239,
+  "vocal_voiced": 0.6505538771399798,
+  "song_length": 272.563
+ }
+}

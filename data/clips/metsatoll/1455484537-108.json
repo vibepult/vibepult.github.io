@@ -1,0 +1,32 @@
+{
+ "id": "metsatoll/1455484537-108",
+ "band": "metsatoll",
+ "title": "Tõiv",
+ "source": "itunes",
+ "album": "Katk Kutsariks",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.646683920865054,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.847157906221209,
+  "lufs": -11.598184846501942,
+  "rms_dbfs": -11.059779740211624,
+  "crest": 11.05978012084961,
+  "centroid": 2294.396351079296,
+  "flatness": 0.02042592503130436,
+  "sub100_share": 0.29058101773262024,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.6381776928901672,
+  "clean_share": 0.0612878200155159,
+  "minor_share": 0.08672777952255029,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.808445155620575,
+  "vocal_share": 0.2510499954223633,
+  "vocal_voiced": 0.9371884346959123,
+  "song_length": 170.566
+ }
+}

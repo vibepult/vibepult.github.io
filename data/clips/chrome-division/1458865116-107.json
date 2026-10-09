@@ -1,0 +1,32 @@
+{
+ "id": "chrome-division/1458865116-107",
+ "band": "chrome-division",
+ "title": "I'm on Fire Tonight",
+ "source": "itunes",
+ "album": "One Last Ride",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 198.76802884615384,
+  "onset_rate": 2.9736974494496438,
+  "tempo_var": 14.22072448878888,
+  "low_onset_rate": 3.107346773020414,
+  "lufs": -10.411035482287774,
+  "rms_dbfs": -9.855460917932396,
+  "crest": 9.855461120605469,
+  "centroid": 2622.550396306527,
+  "flatness": 0.04721884801983833,
+  "sub100_share": 0.5584116578102112,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8743414878845215,
+  "clean_share": 0.13343677269200932,
+  "minor_share": 0.011067787742487734,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.7681468725204468,
+  "vocal_share": 3.5375450124774943e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 240.84
+ }
+}

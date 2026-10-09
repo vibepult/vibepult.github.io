@@ -1,0 +1,32 @@
+{
+ "id": "dissection/1632020898-106",
+ "band": "dissection",
+ "title": "Reinkaos",
+ "source": "itunes",
+ "album": "Reinkaos (Instrumental)",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.109716699801193,
+  "tempo_var": 7.733905936014527,
+  "low_onset_rate": 3.641944067303496,
+  "lufs": -16.321887511781746,
+  "rms_dbfs": -15.612460068530874,
+  "crest": 15.612460136413574,
+  "centroid": 2140.6774449521704,
+  "flatness": 0.008759262971580029,
+  "sub100_share": 0.28495627641677856,
+  "lowest_pitch": 115.740966796875,
+  "harmonic_share": 0.5688589215278625,
+  "clean_share": 0.3638479441427463,
+  "minor_share": 0.11703707706580796,
+  "chord_rate": 2.1718015080250206,
+  "repetitiveness": 0.8603010177612305,
+  "vocal_share": 4.548896015421633e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 276.793
+ }
+}

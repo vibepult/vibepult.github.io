@@ -1,0 +1,32 @@
+{
+ "id": "type-o-negative/214478798-107",
+ "band": "type-o-negative",
+ "title": "My Girlfriend's Girlfriend",
+ "source": "itunes",
+ "album": "October Rust",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.399599140237432,
+  "tempo_var": 0.9557598700168017,
+  "low_onset_rate": 5.732657373733709,
+  "lufs": -10.29695861804688,
+  "rms_dbfs": -9.726422750817258,
+  "crest": 9.726423263549805,
+  "centroid": 2899.280455877744,
+  "flatness": 0.04704172536730766,
+  "sub100_share": 0.3005126416683197,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6639317870140076,
+  "clean_share": 0.0015467904098994587,
+  "minor_share": 0.060042707916346805,
+  "chord_rate": 1.8331171834613607,
+  "repetitiveness": 0.8770292401313782,
+  "vocal_share": 0.15237903594970703,
+  "vocal_voiced": 0.18584905660377357,
+  "song_length": 226.467
+ }
+}

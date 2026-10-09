@@ -1,0 +1,32 @@
+{
+ "id": "vondur/1892028093-106",
+ "band": "vondur",
+ "title": "I Eldur Og Þrumur",
+ "source": "itunes",
+ "album": "Striðsyfirlýsing",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.499931973817478,
+  "tempo_var": 1.8993999075373602,
+  "low_onset_rate": 6.599900228265635,
+  "lufs": -9.011772550825757,
+  "rms_dbfs": -10.125594867984377,
+  "crest": 10.125594139099121,
+  "centroid": 3778.2092751821147,
+  "flatness": 0.0648871660232544,
+  "sub100_share": 0.31703537702560425,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.5855916142463684,
+  "clean_share": 0.0015467904098994587,
+  "minor_share": 0.1254781628884699,
+  "chord_rate": 2.1666339133195267,
+  "repetitiveness": 0.9141576886177063,
+  "vocal_share": 0.029950005933642387,
+  "vocal_voiced": 0.33537832310838445,
+  "song_length": 177.333
+ }
+}

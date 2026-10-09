@@ -1,0 +1,127 @@
+{
+ "slug": "athena",
+ "name": "Athena",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 260533877,
+  "deezer": 97094,
+  "spotify": "1Hy8tdpH9ygqoohumHZqVl"
+ },
+ "metadata": {
+  "formed": 1987,
+  "split": null,
+  "country": "TR",
+  "status": "active",
+  "members": 6,
+  "past_members": 9,
+  "full_lengths": 8,
+  "genre": "Thrash Metal (early); Ska/Punk (later)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 61991,
+  "themes": "N/A",
+  "release_year": 2014
+ },
+ "partial": false,
+ "clips": [
+  "athena/938230792-107",
+  "athena/938230792-106",
+  "athena/938230792-108",
+  "athena/938230792-105",
+  "athena/938230792-109",
+  "athena/938230792-104",
+  "athena/938230792-110",
+  "athena/938230792-103",
+  "athena/938230792-111",
+  "athena/938230792-102",
+  "athena/938230792-112",
+  "athena/938230792-101"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 107.666015625,
+   "iqr": 22.077240740610208
+  },
+  "onset_rate": {
+   "median": 4.199873019712179,
+   "iqr": 1.1249659874229043
+  },
+  "tempo_var": {
+   "median": 10.281550515155015,
+   "iqr": 30.389958567418184
+  },
+  "low_onset_rate": {
+   "median": 3.3998972064336677,
+   "iqr": 1.6249508707219729
+  },
+  "lufs": {
+   "median": -10.538192329165696,
+   "iqr": 2.7351839033472256
+  },
+  "rms_dbfs": {
+   "median": -9.820007772664798,
+   "iqr": 2.4551502294960645
+  },
+  "crest": {
+   "median": 9.820007801055908,
+   "iqr": 2.4551503658294678
+  },
+  "centroid": {
+   "median": 1811.8849829893288,
+   "iqr": 156.75347220459935
+  },
+  "flatness": {
+   "median": 0.008323194459080696,
+   "iqr": 0.0051643195329234
+  },
+  "sub100_share": {
+   "median": 0.23946034163236618,
+   "iqr": 0.14108611643314362
+  },
+  "lowest_pitch": {
+   "median": 79.4036865234375,
+   "iqr": 59.21630859375
+  },
+  "harmonic_share": {
+   "median": 0.7619076073169708,
+   "iqr": 0.13584281504154205
+  },
+  "clean_share": {
+   "median": 0.559938128383604,
+   "iqr": 0.2616009280742459
+  },
+  "minor_share": {
+   "median": 0.03806831003099698,
+   "iqr": 0.10545266506445973
+  },
+  "chord_rate": {
+   "median": 1.6999486032168338,
+   "iqr": 0.7583104063369208
+  },
+  "repetitiveness": {
+   "median": 0.7509691119194031,
+   "iqr": 0.09254659712314606
+  },
+  "vocal_share": {
+   "median": 0.285321906208992,
+   "iqr": 0.10150730237364769
+  },
+  "vocal_voiced": {
+   "median": 0.8641570141570141,
+   "iqr": 0.0653811683878126
+  },
+  "song_length": {
+   "median": 242.8675,
+   "iqr": 49.344750000000005
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

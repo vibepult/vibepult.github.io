@@ -1,0 +1,32 @@
+{
+ "id": "exodus/1460466743-107",
+ "band": "exodus",
+ "title": "Nanking",
+ "source": "itunes",
+ "album": "Exhibit B: The Human Condition",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 0.6014219560684673,
+  "tempo_var": 8.72486487097026,
+  "low_onset_rate": 0.8353082723173156,
+  "lufs": -10.512095844759665,
+  "rms_dbfs": -10.12724275344922,
+  "crest": 10.127243041992188,
+  "centroid": 2636.8950288212823,
+  "flatness": 0.02309742011129856,
+  "sub100_share": 0.2537868916988373,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8459258675575256,
+  "clean_share": 0.09387121799844841,
+  "minor_share": -0.06873081724620744,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.8689500689506531,
+  "vocal_share": 6.917745167811518e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 442.413
+ }
+}

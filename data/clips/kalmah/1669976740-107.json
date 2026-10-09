@@ -1,0 +1,32 @@
+{
+ "id": "kalmah/1669976740-107",
+ "band": "kalmah",
+ "title": "With Terminal Intensity",
+ "source": "itunes",
+ "album": "The Black Waltz",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 6.4,
+  "tempo_var": 17.54080155359467,
+  "low_onset_rate": 7.433333333333334,
+  "lufs": -7.651447913992803,
+  "rms_dbfs": -7.057665648754831,
+  "crest": 7.057665824890137,
+  "centroid": 3058.9014612062633,
+  "flatness": 0.06051858887076378,
+  "sub100_share": 0.35293257236480713,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.735977828502655,
+  "clean_share": 0.0007739938080495357,
+  "minor_share": 0.0019445102121931068,
+  "chord_rate": 2.466666666666667,
+  "repetitiveness": 0.9350416660308838,
+  "vocal_share": 0.06628834456205368,
+  "vocal_voiced": 0.11333333333333333,
+  "song_length": 296.44
+ }
+}

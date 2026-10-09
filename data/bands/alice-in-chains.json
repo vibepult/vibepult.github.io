@@ -1,0 +1,127 @@
+{
+ "slug": "alice-in-chains",
+ "name": "Alice in Chains",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 462221,
+  "deezer": 691,
+  "spotify": "64tNsm6TnZe2zpcMVMOoHL"
+ },
+ "metadata": {
+  "formed": 1988,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 4,
+  "past_members": 2,
+  "full_lengths": 6,
+  "genre": "Heavy Metal/Grunge",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 1300025,
+  "themes": "Depression, Drugs, Suicide, Death, Pain, Inner struggles",
+  "release_year": 2002
+ },
+ "partial": false,
+ "clips": [
+  "alice-in-chains/274953009-106",
+  "alice-in-chains/157316517-106",
+  "alice-in-chains/158711724-106",
+  "alice-in-chains/1751195189-106",
+  "alice-in-chains/1751194761-106",
+  "alice-in-chains/1398087293-105",
+  "alice-in-chains/274953009-107",
+  "alice-in-chains/157316517-107",
+  "alice-in-chains/158711724-107",
+  "alice-in-chains/1751195189-107",
+  "alice-in-chains/1751194761-107",
+  "alice-in-chains/1398087293-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.19921875,
+   "iqr": 35.888671875
+  },
+  "onset_rate": {
+   "median": 2.9152342729962495,
+   "iqr": 0.4242392910030648
+  },
+  "tempo_var": {
+   "median": 5.621717341183109,
+   "iqr": 9.674794103028724
+  },
+  "low_onset_rate": {
+   "median": 4.463839231084165,
+   "iqr": 2.508070813836926
+  },
+  "lufs": {
+   "median": -10.454403250028399,
+   "iqr": 3.665839142701376
+  },
+  "rms_dbfs": {
+   "median": -9.868845046865165,
+   "iqr": 3.2170587690848915
+  },
+  "crest": {
+   "median": 9.868845462799072,
+   "iqr": 3.217057943344116
+  },
+  "centroid": {
+   "median": 2287.468809312997,
+   "iqr": 165.7648301407994
+  },
+  "flatness": {
+   "median": 0.019960475154221058,
+   "iqr": 0.005413434002548456
+  },
+  "sub100_share": {
+   "median": 0.2906073331832886,
+   "iqr": 0.09551305696368217
+  },
+  "lowest_pitch": {
+   "median": 69.98291015625,
+   "iqr": 29.608154296875
+  },
+  "harmonic_share": {
+   "median": 0.7826219201087952,
+   "iqr": 0.1490955352783203
+  },
+  "clean_share": {
+   "median": 0.1848414539829853,
+   "iqr": 0.2132369402761715
+  },
+  "minor_share": {
+   "median": 0.08075377781631718,
+   "iqr": 0.14953524023248851
+  },
+  "chord_rate": {
+   "median": 1.5989871872540293,
+   "iqr": 0.7166103443702319
+  },
+  "repetitiveness": {
+   "median": 0.7577998042106628,
+   "iqr": 0.14896875619888306
+  },
+  "vocal_share": {
+   "median": 0.1869257092475891,
+   "iqr": 0.08240266144275665
+  },
+  "vocal_voiced": {
+   "median": 0.6349333077209369,
+   "iqr": 0.2582402137238886
+  },
+  "song_length": {
+   "median": 325.55150000000003,
+   "iqr": 95.22299999999996
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "flotsam-and-jetsam/56827514-106",
+ "band": "flotsam-and-jetsam",
+ "title": "Trash",
+ "source": "itunes",
+ "album": "My God",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.9760673762304224,
+  "tempo_var": 24.864057010868454,
+  "low_onset_rate": 3.9760673762304224,
+  "lufs": -10.099294367876006,
+  "rms_dbfs": -9.733845563063314,
+  "crest": 9.733845710754395,
+  "centroid": 2417.0811237593516,
+  "flatness": 0.025644993409514427,
+  "sub100_share": 0.21964305639266968,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.6505089402198792,
+  "clean_share": 0.12490302560124127,
+  "minor_share": -0.1088187621604707,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.8949609398841858,
+  "vocal_share": 0.20913976430892944,
+  "vocal_voiced": 0.7992164544564153,
+  "song_length": 274.6
+ }
+}

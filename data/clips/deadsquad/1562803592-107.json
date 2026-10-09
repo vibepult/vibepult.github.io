@@ -1,0 +1,32 @@
+{
+ "id": "deadsquad/1562803592-107",
+ "band": "deadsquad",
+ "title": "Demi Logam yang Mulia",
+ "source": "itunes",
+ "album": "Tyranation",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 6.314930538718906,
+  "tempo_var": 21.49972651748875,
+  "low_onset_rate": 7.083414149250837,
+  "lufs": -8.388419140523995,
+  "rms_dbfs": -7.844365282191977,
+  "crest": 7.844365119934082,
+  "centroid": 2502.148872952224,
+  "flatness": 0.03749070689082146,
+  "sub100_share": 0.20728139579296112,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.6386024951934814,
+  "clean_share": 0.02948021722265322,
+  "minor_share": 0.08348203355593467,
+  "chord_rate": 2.606161809630025,
+  "repetitiveness": 0.9319431781768799,
+  "vocal_share": 0.1983182579278946,
+  "vocal_voiced": 0.030623020063357972,
+  "song_length": 262.094
+ }
+}

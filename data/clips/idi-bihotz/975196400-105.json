@@ -1,0 +1,32 @@
+{
+ "id": "idi-bihotz/975196400-105",
+ "band": "idi-bihotz",
+ "title": "Gurutzearen seinalea",
+ "source": "itunes",
+ "album": "Amaigabe berria",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.780333244435824,
+  "tempo_var": 11.133776205408102,
+  "low_onset_rate": 3.2744084274838774,
+  "lufs": -9.38569073496095,
+  "rms_dbfs": -8.827799138342412,
+  "crest": 8.827798843383789,
+  "centroid": 2726.5739145729913,
+  "flatness": 0.03294099122285843,
+  "sub100_share": 0.28115537762641907,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.6453109979629517,
+  "clean_share": 0.02482544608223429,
+  "minor_share": 0.029055216035323128,
+  "chord_rate": 1.1026069194588566,
+  "repetitiveness": 0.7940143346786499,
+  "vocal_share": 0.21189096570014954,
+  "vocal_voiced": 0.6956521739130435,
+  "song_length": 262.093
+ }
+}

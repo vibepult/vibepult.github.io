@@ -1,0 +1,32 @@
+{
+ "id": "volbeat/1440874757-108",
+ "band": "volbeat",
+ "title": "My Body",
+ "source": "itunes",
+ "album": "Outlaw Gentlemen & Shady Ladies (Bonus Track Version)",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.69991383350214,
+  "tempo_var": 1.7438398491615137,
+  "low_onset_rate": 5.733246662937824,
+  "lufs": -9.086422683695172,
+  "rms_dbfs": -8.944218702584012,
+  "crest": 8.944218635559082,
+  "centroid": 2754.9737267317173,
+  "flatness": 0.04047318547964096,
+  "sub100_share": 0.24677962064743042,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.636039674282074,
+  "clean_share": 0.010054137664346482,
+  "minor_share": -0.34795060858673943,
+  "chord_rate": 0.6666565887137005,
+  "repetitiveness": 0.8304640054702759,
+  "vocal_share": 0.18684524297714233,
+  "vocal_voiced": 0.75,
+  "song_length": 222.836
+ }
+}

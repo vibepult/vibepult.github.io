@@ -1,0 +1,32 @@
+{
+ "id": "panopticon/1563194198-104",
+ "band": "panopticon",
+ "title": "A Snowless Winter",
+ "source": "itunes",
+ "album": "...And Again Into the Light",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 7.283888134606992,
+  "tempo_var": 2.64761910445283,
+  "low_onset_rate": 9.55592663531009,
+  "lufs": -12.003653613517132,
+  "rms_dbfs": -11.392482480099613,
+  "crest": 11.39248275756836,
+  "centroid": 2512.2872807710373,
+  "flatness": 0.02320258319377899,
+  "sub100_share": 0.5183928608894348,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.847723126411438,
+  "clean_share": 0.018619084561675717,
+  "minor_share": 0.09303907914065246,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.9064326882362366,
+  "vocal_share": 0.003325573867186904,
+  "vocal_voiced": 0.19337016574585636,
+  "song_length": 730.008
+ }
+}

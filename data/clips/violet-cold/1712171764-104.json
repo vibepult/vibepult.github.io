@@ -1,0 +1,32 @@
+{
+ "id": "violet-cold/1712171764-104",
+ "band": "violet-cold",
+ "title": "Battle Unicorn",
+ "source": "itunes",
+ "album": "Noir Kid",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.766579492373509,
+  "tempo_var": 10.27714820372301,
+  "low_onset_rate": 7.466553793593445,
+  "lufs": -8.961649726018491,
+  "rms_dbfs": -8.610279069041347,
+  "crest": 8.610279083251953,
+  "centroid": 2693.11777101345,
+  "flatness": 0.04617127403616905,
+  "sub100_share": 0.3266206681728363,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8175740838050842,
+  "clean_share": 0.0,
+  "minor_share": -0.21091142606533464,
+  "chord_rate": 0.5666581004066454,
+  "repetitiveness": 0.7103517055511475,
+  "vocal_share": 0.026172999292612076,
+  "vocal_voiced": 0.932761087267525,
+  "song_length": 281.793
+ }
+}

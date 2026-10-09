@@ -1,0 +1,32 @@
+{
+ "id": "sepultura/1392358661-105",
+ "band": "sepultura",
+ "title": "Subtraction (Remastered)",
+ "source": "itunes",
+ "album": "Arise (Remastered)",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 4.2974663463717535,
+  "tempo_var": 9.300136152396481,
+  "low_onset_rate": 5.496759280242941,
+  "lufs": -9.487435388081497,
+  "rms_dbfs": -10.005388026340341,
+  "crest": 10.005388259887695,
+  "centroid": 2983.448404825528,
+  "flatness": 0.04255877062678337,
+  "sub100_share": 0.22114494442939758,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.6400176882743835,
+  "clean_share": 0.01237432327919567,
+  "minor_share": -0.06712088864700816,
+  "chord_rate": 1.0660381634410552,
+  "repetitiveness": 0.8881862163543701,
+  "vocal_share": 0.058497410267591476,
+  "vocal_voiced": 0.10344827586206896,
+  "song_length": 287.593
+ }
+}

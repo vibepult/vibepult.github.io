@@ -1,0 +1,32 @@
+{
+ "id": "arcturus/1556122705-105",
+ "band": "arcturus",
+ "title": "Alone",
+ "source": "itunes",
+ "album": "La Masquerade Infernale",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 4.57748933229889,
+  "tempo_var": 18.659453118791134,
+  "low_onset_rate": 6.916352494787374,
+  "lufs": -7.898425750987781,
+  "rms_dbfs": -7.476704023302951,
+  "crest": 7.476704120635986,
+  "centroid": 2820.4108113143147,
+  "flatness": 0.03324291110038757,
+  "sub100_share": 0.36801838874816895,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8491107225418091,
+  "clean_share": 0.0,
+  "minor_share": 0.06610439252743794,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.7624858617782593,
+  "vocal_share": 0.16314829885959625,
+  "vocal_voiced": 0.8230958230958231,
+  "song_length": 282.507
+ }
+}

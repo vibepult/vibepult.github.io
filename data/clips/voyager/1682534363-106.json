@@ -1,0 +1,32 @@
+{
+ "id": "voyager/1682534363-106",
+ "band": "voyager",
+ "title": "Submarine",
+ "source": "itunes",
+ "album": "Fearless in Love",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.333333333333333,
+  "tempo_var": 16.108116430825486,
+  "low_onset_rate": 4.8,
+  "lufs": -11.166687921668178,
+  "rms_dbfs": -9.935408789320814,
+  "crest": 9.935408592224121,
+  "centroid": 2459.0380118850403,
+  "flatness": 0.02848426252603531,
+  "sub100_share": 0.5098223090171814,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8494070768356323,
+  "clean_share": 0.3026315789473684,
+  "minor_share": 0.019500774951378252,
+  "chord_rate": 1.7666666666666666,
+  "repetitiveness": 0.7140539288520813,
+  "vocal_share": 0.109132781624794,
+  "vocal_voiced": 0.7890743550834598,
+  "song_length": 286.485
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "moonspell",
+ "name": "Moonspell",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 18098384,
+  "deezer": 5767,
+  "spotify": "17bYSQ9ZRnreVnJjE5X2x6"
+ },
+ "metadata": {
+  "formed": 1992,
+  "split": null,
+  "country": "PT",
+  "status": "active",
+  "members": 5,
+  "past_members": 6,
+  "full_lengths": 14,
+  "genre": "Gothic Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 56020,
+  "themes": "Satanism (early); Folklore, Poetry, Magic, Sex (later)",
+  "release_year": 2000
+ },
+ "partial": false,
+ "clips": [
+  "moonspell/1045593277-105",
+  "moonspell/1045512582-106",
+  "moonspell/1045437995-106",
+  "moonspell/1045598974-106",
+  "moonspell/1045500827-105",
+  "moonspell/1637599726-106",
+  "moonspell/1184697194-105",
+  "moonspell/1275038593-106",
+  "moonspell/1538989824-105",
+  "moonspell/1045593277-103",
+  "moonspell/1045512582-107",
+  "moonspell/1045437995-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.32652698863637,
+   "iqr": 46.39846054049457
+  },
+  "onset_rate": {
+   "median": 4.037994189335532,
+   "iqr": 1.425308366824785
+  },
+  "tempo_var": {
+   "median": 12.677003430969142,
+   "iqr": 16.127066247028324
+  },
+  "low_onset_rate": {
+   "median": 5.997513395238326,
+   "iqr": 1.8454391078487378
+  },
+  "lufs": {
+   "median": -10.717565541177224,
+   "iqr": 4.431316305372388
+  },
+  "rms_dbfs": {
+   "median": -10.303627360652369,
+   "iqr": 3.8984972045837996
+  },
+  "crest": {
+   "median": 10.303627014160156,
+   "iqr": 3.898497223854065
+  },
+  "centroid": {
+   "median": 2449.4021224726175,
+   "iqr": 813.1051043684588
+  },
+  "flatness": {
+   "median": 0.026717272587120533,
+   "iqr": 0.02981195820029825
+  },
+  "sub100_share": {
+   "median": 0.453082799911499,
+   "iqr": 0.17805317789316177
+  },
+  "lowest_pitch": {
+   "median": 48.44970703125,
+   "iqr": 22.20611572265625
+  },
+  "harmonic_share": {
+   "median": 0.8160983324050903,
+   "iqr": 0.11584284901618958
+  },
+  "clean_share": {
+   "median": 0.0677728798081452,
+   "iqr": 0.3792074279387146
+  },
+  "minor_share": {
+   "median": 0.08801776029603073,
+   "iqr": 0.10243781456655465
+  },
+  "chord_rate": {
+   "median": 1.7875597027590553,
+   "iqr": 0.5059430319689824
+  },
+  "repetitiveness": {
+   "median": 0.820642352104187,
+   "iqr": 0.14650288224220276
+  },
+  "vocal_share": {
+   "median": 0.07786691933870316,
+   "iqr": 0.026025131344795227
+  },
+  "vocal_voiced": {
+   "median": 0.6215469613259669,
+   "iqr": 0.5041212411644902
+  },
+  "song_length": {
+   "median": 264.37350000000004,
+   "iqr": 75.66674999999998
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.5,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

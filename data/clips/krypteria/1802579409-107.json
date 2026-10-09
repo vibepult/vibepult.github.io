@@ -1,0 +1,32 @@
+{
+ "id": "krypteria/1802579409-107",
+ "band": "krypteria",
+ "title": "Concordia",
+ "source": "itunes",
+ "album": "In Medias Res",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 3.1999516258257623,
+  "tempo_var": 29.33709045842812,
+  "low_onset_rate": 2.633293525419117,
+  "lufs": -10.961791919653118,
+  "rms_dbfs": -10.791359786464,
+  "crest": 10.791359901428223,
+  "centroid": 2060.0134164588835,
+  "flatness": 0.014133385382592678,
+  "sub100_share": 0.08256353437900543,
+  "lowest_pitch": 137.274169921875,
+  "harmonic_share": 0.8606134653091431,
+  "clean_share": 0.21577726218097448,
+  "minor_share": 0.0613802054166116,
+  "chord_rate": 0.8333207358921256,
+  "repetitiveness": 0.6204478740692139,
+  "vocal_share": 0.44619086384773254,
+  "vocal_voiced": 0.71484375,
+  "song_length": 241.147
+ }
+}

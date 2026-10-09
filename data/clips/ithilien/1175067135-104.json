@@ -1,0 +1,32 @@
+{
+ "id": "ithilien/1175067135-104",
+ "band": "ithilien",
+ "title": "Walk Away",
+ "source": "itunes",
+ "album": "Shaping the Soul",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.9760673762304224,
+  "tempo_var": 1.8564228518812003,
+  "low_onset_rate": 4.0428920380158075,
+  "lufs": -8.529623674049269,
+  "rms_dbfs": -7.680813703035165,
+  "crest": 7.680813789367676,
+  "centroid": 1888.3584808439944,
+  "flatness": 0.008737747557461262,
+  "sub100_share": 0.21111224591732025,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.9020481109619141,
+  "clean_share": 0.4895267649340574,
+  "minor_share": 0.09917082714642522,
+  "chord_rate": 0.9689575958880862,
+  "repetitiveness": 0.8720387816429138,
+  "vocal_share": 8.147090397869761e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 478.6
+ }
+}

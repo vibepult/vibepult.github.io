@@ -1,0 +1,32 @@
+{
+ "id": "rammstein/1440735807-106",
+ "band": "rammstein",
+ "title": "Frühling in Paris",
+ "source": "itunes",
+ "album": "Liebe ist für alle da",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "hand",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.011849633903894,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.379385273723512,
+  "lufs": -7.998070708120815,
+  "rms_dbfs": -7.055105593873041,
+  "crest": 7.055105686187744,
+  "centroid": 2331.800996707579,
+  "flatness": 0.02118060179054737,
+  "sub100_share": 0.37653473019599915,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.820992112159729,
+  "clean_share": 0.07680372381691233,
+  "minor_share": 0.10291667241464841,
+  "chord_rate": 0.801895941424623,
+  "repetitiveness": 0.6549239158630371,
+  "vocal_share": 0.1853967308998108,
+  "vocal_voiced": 0.7746591820368885,
+  "song_length": 284.92
+ }
+}

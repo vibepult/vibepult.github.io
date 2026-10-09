@@ -1,0 +1,32 @@
+{
+ "id": "marduk/1045116272-105",
+ "band": "marduk",
+ "title": "Temple of Decay",
+ "source": "itunes",
+ "album": "Serpent Sermon",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.67298647141541,
+  "tempo_var": 2.634016253727503,
+  "low_onset_rate": 8.319670392280464,
+  "lufs": -8.054246229541084,
+  "rms_dbfs": -8.357995513569868,
+  "crest": 8.357995986938477,
+  "centroid": 2498.9142881387525,
+  "flatness": 0.030708247795701027,
+  "sub100_share": 0.1613157093524933,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.7724660038948059,
+  "clean_share": 0.003878975950349108,
+  "minor_share": -0.10652981599754241,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.9197518825531006,
+  "vocal_share": 0.15166527032852173,
+  "vocal_voiced": 0.4712460063897764,
+  "song_length": 325.293
+ }
+}

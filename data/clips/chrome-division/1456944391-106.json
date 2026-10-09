@@ -1,0 +1,32 @@
+{
+ "id": "chrome-division/1456944391-106",
+ "band": "chrome-division",
+ "title": "Fight",
+ "source": "itunes",
+ "album": "3rd Round Knockout",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.8758303835523447,
+  "tempo_var": 24.416190580077508,
+  "low_onset_rate": 3.174171434805799,
+  "lufs": -9.675171448781912,
+  "rms_dbfs": -8.583468116336345,
+  "crest": 8.583468437194824,
+  "centroid": 2002.9746541600657,
+  "flatness": 0.02177734673023224,
+  "sub100_share": 0.46369436383247375,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.7936699986457825,
+  "clean_share": 0.21024049650892165,
+  "minor_share": 0.04315521937906186,
+  "chord_rate": 2.405687824273869,
+  "repetitiveness": 0.9551202654838562,
+  "vocal_share": 0.02451922744512558,
+  "vocal_voiced": 0.7317073170731707,
+  "song_length": 218.22
+ }
+}

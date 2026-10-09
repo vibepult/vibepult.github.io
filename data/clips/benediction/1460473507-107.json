@@ -1,0 +1,32 @@
+{
+ "id": "benediction/1460473507-107",
+ "band": "benediction",
+ "title": "Grind Bastard",
+ "source": "itunes",
+ "album": "Grind Bastard",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 3.575119405518111,
+  "tempo_var": 20.899663744852752,
+  "low_onset_rate": 1.0357822576734714,
+  "lufs": -13.093444935218072,
+  "rms_dbfs": -12.583452839908029,
+  "crest": 12.583452224731445,
+  "centroid": 2511.7976856219248,
+  "flatness": 0.049685850739479065,
+  "sub100_share": 0.270374596118927,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7703328728675842,
+  "clean_share": 0.2273079906904577,
+  "minor_share": -0.1710741724246676,
+  "chord_rate": 2.3722754933811765,
+  "repetitiveness": 0.8306293487548828,
+  "vocal_share": 8.519196512679628e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 443.16
+ }
+}

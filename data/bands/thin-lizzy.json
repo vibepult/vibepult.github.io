@@ -1,0 +1,127 @@
+{
+ "slug": "thin-lizzy",
+ "name": "Thin Lizzy",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 79217,
+  "deezer": 2139,
+  "spotify": "6biWAmrHyiMkX49LkycGqQ"
+ },
+ "metadata": {
+  "formed": 1969,
+  "split": null,
+  "country": "IE",
+  "status": "on hold",
+  "members": 5,
+  "past_members": 16,
+  "full_lengths": 13,
+  "genre": "Hard Rock/Heavy Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 165338,
+  "themes": "Life, Love, Stories, History, Rock",
+  "release_year": 1975
+ },
+ "partial": false,
+ "clips": [
+  "thin-lizzy/1444102885-107",
+  "thin-lizzy/1443482007-105",
+  "thin-lizzy/1716054381-104",
+  "thin-lizzy/1443836724-105",
+  "thin-lizzy/1444216568-105",
+  "thin-lizzy/1440918303-105",
+  "thin-lizzy/1443855366-105",
+  "thin-lizzy/1444041705-105",
+  "thin-lizzy/78981020-105",
+  "thin-lizzy/322038272-105",
+  "thin-lizzy/322038330-105",
+  "thin-lizzy/1444102885-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 20.5078125
+  },
+  "onset_rate": {
+   "median": 4.44867250945056,
+   "iqr": 0.45733784936502353
+  },
+  "tempo_var": {
+   "median": 3.1909060081495184,
+   "iqr": 15.149704145029787
+  },
+  "low_onset_rate": {
+   "median": 4.4821101480219925,
+   "iqr": 1.725791540957525
+  },
+  "lufs": {
+   "median": -13.50812733556161,
+   "iqr": 5.3461259124213125
+  },
+  "rms_dbfs": {
+   "median": -13.003779413477147,
+   "iqr": 5.43877016398493
+  },
+  "crest": {
+   "median": 13.003779411315918,
+   "iqr": 3.69528865814209
+  },
+  "centroid": {
+   "median": 1968.4981261396638,
+   "iqr": 778.9680734016224
+  },
+  "flatness": {
+   "median": 0.011688514146953821,
+   "iqr": 0.014724619453772902
+  },
+  "sub100_share": {
+   "median": 0.1434764638543129,
+   "iqr": 0.1490558758378029
+  },
+  "lowest_pitch": {
+   "median": 86.1328125,
+   "iqr": 44.4122314453125
+  },
+  "harmonic_share": {
+   "median": 0.7128591239452362,
+   "iqr": 0.21232154965400696
+  },
+  "clean_share": {
+   "median": 0.4334880123743233,
+   "iqr": 0.5713457076566124
+  },
+  "minor_share": {
+   "median": -0.044801943817791734,
+   "iqr": 0.25449831557596136
+  },
+  "chord_rate": {
+   "median": 1.6164760617795633,
+   "iqr": 0.490934913521335
+  },
+  "repetitiveness": {
+   "median": 0.7892873585224152,
+   "iqr": 0.10216841101646423
+  },
+  "vocal_share": {
+   "median": 0.23637206852436066,
+   "iqr": 0.09653045237064362
+  },
+  "vocal_voiced": {
+   "median": 0.8676293622141997,
+   "iqr": 0.19102323565320556
+  },
+  "song_length": {
+   "median": 221.787,
+   "iqr": 60.51125000000002
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

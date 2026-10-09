@@ -1,0 +1,32 @@
+{
+ "id": "kyuss/207914986-107",
+ "band": "kyuss",
+ "title": "Jumbo Blimp Jumbo",
+ "source": "itunes",
+ "album": "...And the Circus Leaves Town",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.2999501141328174,
+  "tempo_var": 3.0744703411592975,
+  "low_onset_rate": 3.899941043975148,
+  "lufs": -11.05538503409104,
+  "rms_dbfs": -9.512179325585949,
+  "crest": 9.512178421020508,
+  "centroid": 2100.787249534391,
+  "flatness": 0.011341147124767303,
+  "sub100_share": 0.3651195764541626,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7788842916488647,
+  "clean_share": 0.4137664346481052,
+  "minor_share": 0.05527222813801913,
+  "chord_rate": 1.433311665734456,
+  "repetitiveness": 0.9423759579658508,
+  "vocal_share": 8.630313459434547e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 279.6
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "ghost/1368196699-105",
+ "band": "ghost",
+ "title": "Miasma",
+ "source": "itunes",
+ "album": "Prequelle",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.866608214539463,
+  "tempo_var": 18.23959515337376,
+  "low_onset_rate": 4.466599144381793,
+  "lufs": -10.45296098634407,
+  "rms_dbfs": -9.646278546545995,
+  "crest": 9.646278381347656,
+  "centroid": 2735.216294187556,
+  "flatness": 0.028028177097439766,
+  "sub100_share": 0.29176026582717896,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.741784930229187,
+  "clean_share": 0.0007733952049497294,
+  "minor_share": -0.04051130341755271,
+  "chord_rate": 1.333313177427401,
+  "repetitiveness": 0.7188768982887268,
+  "vocal_share": 1.0963492513837991e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 317.8
+ }
+}

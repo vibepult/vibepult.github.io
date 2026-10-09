@@ -1,0 +1,32 @@
+{
+ "id": "sodom/1531939745-107",
+ "band": "sodom",
+ "title": "The Harpooneer",
+ "source": "itunes",
+ "album": "Genesis XIX",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 1.971327522668865,
+  "tempo_var": 9.398531609419761,
+  "low_onset_rate": 4.443840008728119,
+  "lufs": -11.738789512640123,
+  "rms_dbfs": -11.220987067619543,
+  "crest": 11.220987319946289,
+  "centroid": 2610.792508632762,
+  "flatness": 0.02962510474026203,
+  "sub100_share": 0.2506115138530731,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8109735250473022,
+  "clean_share": 0.0,
+  "minor_share": -0.018759723499096936,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.5777482390403748,
+  "vocal_share": 5.051022640145675e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 429.96
+ }
+}

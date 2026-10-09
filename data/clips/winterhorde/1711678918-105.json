@@ -1,0 +1,32 @@
+{
+ "id": "winterhorde/1711678918-105",
+ "band": "winterhorde",
+ "title": "Alone in the Ocean",
+ "source": "itunes",
+ "album": "Neptunian",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.399869390914203,
+  "tempo_var": 0.0,
+  "low_onset_rate": 8.333131776102165,
+  "lufs": -8.779142946010417,
+  "rms_dbfs": -7.879932593010932,
+  "crest": 7.8799333572387695,
+  "centroid": 2420.7484240272474,
+  "flatness": 0.028244594112038612,
+  "sub100_share": 0.3409789800643921,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8599652647972107,
+  "clean_share": 0.0038669760247486465,
+  "minor_share": 0.03255609398051329,
+  "chord_rate": 1.8999540449512937,
+  "repetitiveness": 0.8473072648048401,
+  "vocal_share": 0.1953255832195282,
+  "vocal_voiced": 0.940795559666975,
+  "song_length": 559.587
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "alestorm/1184712464-105",
+ "band": "alestorm",
+ "title": "Death Before the Mast",
+ "source": "itunes",
+ "album": "Captain Morgan's Revenge",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.166666666666667,
+  "tempo_var": 22.86762531059117,
+  "low_onset_rate": 7.6,
+  "lufs": -8.310563792711715,
+  "rms_dbfs": -8.313600594060235,
+  "crest": 8.313600540161133,
+  "centroid": 2958.113255107007,
+  "flatness": 0.06591621786355972,
+  "sub100_share": 0.2658006548881531,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.5814156532287598,
+  "clean_share": 0.0046439628482972135,
+  "minor_share": -0.03201184096967585,
+  "chord_rate": 2.9,
+  "repetitiveness": 0.9419019222259521,
+  "vocal_share": 0.1785566806793213,
+  "vocal_voiced": 0.05189873417721519,
+  "song_length": 197.493
+ }
+}

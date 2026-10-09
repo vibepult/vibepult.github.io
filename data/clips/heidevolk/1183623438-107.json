@@ -1,0 +1,32 @@
+{
+ "id": "heidevolk/1183623438-107",
+ "band": "heidevolk",
+ "title": "Drankgelag",
+ "source": "itunes",
+ "album": "Velua",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.033333333333333,
+  "tempo_var": 8.217246977430923,
+  "low_onset_rate": 6.6,
+  "lufs": -8.836015360453395,
+  "rms_dbfs": -8.313368696013734,
+  "crest": 8.313368797302246,
+  "centroid": 2605.5033951124087,
+  "flatness": 0.03493408113718033,
+  "sub100_share": 0.3448292911052704,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7810683846473694,
+  "clean_share": 0.013157894736842105,
+  "minor_share": 0.04457311432968403,
+  "chord_rate": 2.033333333333333,
+  "repetitiveness": 0.9092299938201904,
+  "vocal_share": 0.144439697265625,
+  "vocal_voiced": 0.1842948717948718,
+  "song_length": 270.413
+ }
+}

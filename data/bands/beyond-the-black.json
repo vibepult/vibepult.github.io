@@ -1,0 +1,127 @@
+{
+ "slug": "beyond-the-black",
+ "name": "Beyond the Black",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 955346353,
+  "deezer": 7308658,
+  "spotify": "6swnqiL41Bd4gO2fnAXXrf"
+ },
+ "metadata": {
+  "formed": 2014,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 4,
+  "past_members": 7,
+  "full_lengths": 6,
+  "genre": "Symphonic Metal/Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 45577,
+  "themes": "Emotions, Hope, Love, Inner struggles",
+  "release_year": 2018
+ },
+ "partial": false,
+ "clips": [
+  "beyond-the-black/1461100856-106",
+  "beyond-the-black/1461106179-109",
+  "beyond-the-black/1503575962-107",
+  "beyond-the-black/1645556503-105",
+  "beyond-the-black/1825330337-105",
+  "beyond-the-black/1461100856-107",
+  "beyond-the-black/1461106179-108",
+  "beyond-the-black/1503575962-106",
+  "beyond-the-black/1645556503-106",
+  "beyond-the-black/1825330337-106",
+  "beyond-the-black/1461100856-105",
+  "beyond-the-black/1461106179-110"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 59.525433708639696
+  },
+  "onset_rate": {
+   "median": 3.1999431609631817,
+   "iqr": 1.6915820135619288
+  },
+  "tempo_var": {
+   "median": 13.319524431348597,
+   "iqr": 17.558640637497962
+  },
+  "low_onset_rate": {
+   "median": 3.54997853376548,
+   "iqr": 1.2916579487560855
+  },
+  "lufs": {
+   "median": -10.564673898682866,
+   "iqr": 3.196285809104987
+  },
+  "rms_dbfs": {
+   "median": -9.794386283428127,
+   "iqr": 2.6657238439399418
+  },
+  "crest": {
+   "median": 9.794386386871338,
+   "iqr": 2.6657235622406006
+  },
+  "centroid": {
+   "median": 2184.365294848155,
+   "iqr": 757.7854259458477
+  },
+  "flatness": {
+   "median": 0.01760093681514263,
+   "iqr": 0.02118285559117794
+  },
+  "sub100_share": {
+   "median": 0.3748903423547745,
+   "iqr": 0.3043261840939522
+  },
+  "lowest_pitch": {
+   "median": 64.599609375,
+   "iqr": 32.97271728515625
+  },
+  "harmonic_share": {
+   "median": 0.8524766564369202,
+   "iqr": 0.09208318591117859
+  },
+  "clean_share": {
+   "median": 0.257153905645785,
+   "iqr": 0.6807811291569993
+  },
+  "minor_share": {
+   "median": 0.06809769855289194,
+   "iqr": 0.1590044762427866
+  },
+  "chord_rate": {
+   "median": 1.4333246662151704,
+   "iqr": 0.42499743009868407
+  },
+  "repetitiveness": {
+   "median": 0.8491474986076355,
+   "iqr": 0.17220152914524078
+  },
+  "vocal_share": {
+   "median": 0.20554637163877487,
+   "iqr": 0.1774614043533802
+  },
+  "vocal_voiced": {
+   "median": 0.8773455842672218,
+   "iqr": 0.07946672483888684
+  },
+  "song_length": {
+   "median": 253.9735,
+   "iqr": 63.94349999999997
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "absu/1660169929-102",
+ "band": "absu",
+ "title": "Circles of the Oath",
+ "source": "itunes",
+ "album": "Abzu",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.30782075837657,
+  "tempo_var": 16.045937479289545,
+  "low_onset_rate": 7.183651141928914,
+  "lufs": -10.046314777500118,
+  "rms_dbfs": -10.37591063988599,
+  "crest": 10.375910758972168,
+  "centroid": 3001.7522418856397,
+  "flatness": 0.0655912235379219,
+  "sub100_share": 0.2605925500392914,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6730709671974182,
+  "clean_share": 0.02482544608223429,
+  "minor_share": -0.04317745542458451,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.8738589286804199,
+  "vocal_share": 0.10134980827569962,
+  "vocal_voiced": 0.03529411764705882,
+  "song_length": 311.88
+ }
+}

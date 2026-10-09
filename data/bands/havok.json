@@ -1,0 +1,127 @@
+{
+ "slug": "havok",
+ "name": "Havok",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 260581125,
+  "deezer": 299373,
+  "spotify": "2jw4wgixxa20jls9N3Bdpq"
+ },
+ "metadata": {
+  "formed": 2004,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 12,
+  "full_lengths": 5,
+  "genre": "Thrash Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 39964,
+  "themes": "Destruction, Cheating, Lying, Death, Politics",
+  "release_year": 2012
+ },
+ "partial": false,
+ "clips": [
+  "havok/1659167963-107",
+  "havok/1659209643-105",
+  "havok/1660674129-105",
+  "havok/1193420909-105",
+  "havok/1498836075-105",
+  "havok/1659167963-106",
+  "havok/1659209643-106",
+  "havok/1660674129-106",
+  "havok/1193420909-106",
+  "havok/1498836075-107",
+  "havok/1659167963-108",
+  "havok/1659209643-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 118.4326171875,
+   "iqr": 52.61506645927601
+  },
+  "onset_rate": {
+   "median": 5.966666666666667,
+   "iqr": 1.6765997005770252
+  },
+  "tempo_var": {
+   "median": 16.617745174894303,
+   "iqr": 4.937314262983817
+  },
+  "low_onset_rate": {
+   "median": 5.566666666666666,
+   "iqr": 2.3789696273578045
+  },
+  "lufs": {
+   "median": -9.034475393235315,
+   "iqr": 1.2045324117170235
+  },
+  "rms_dbfs": {
+   "median": -8.369939516941006,
+   "iqr": 1.7471500630488048
+  },
+  "crest": {
+   "median": 8.369938850402832,
+   "iqr": 1.7471504211425781
+  },
+  "centroid": {
+   "median": 2713.269409182234,
+   "iqr": 261.60785689667364
+  },
+  "flatness": {
+   "median": 0.03737573325634003,
+   "iqr": 0.014135430566966534
+  },
+  "sub100_share": {
+   "median": 0.40788210928440094,
+   "iqr": 0.0732320100069046
+  },
+  "lowest_pitch": {
+   "median": 55.1788330078125,
+   "iqr": 45.758056640625
+  },
+  "harmonic_share": {
+   "median": 0.7163233757019043,
+   "iqr": 0.08672355115413666
+  },
+  "clean_share": {
+   "median": 0.025541795665634675,
+   "iqr": 0.029218266253869973
+  },
+  "minor_share": {
+   "median": 0.07778392237138348,
+   "iqr": 0.12380054567503848
+  },
+  "chord_rate": {
+   "median": 2.269313084905203,
+   "iqr": 0.6407186959543549
+  },
+  "repetitiveness": {
+   "median": 0.9158781468868256,
+   "iqr": 0.03978799283504486
+  },
+  "vocal_share": {
+   "median": 0.0882033035159111,
+   "iqr": 0.0633845804259181
+  },
+  "vocal_voiced": {
+   "median": 0.057280673539486626,
+   "iqr": 0.21789053046567003
+  },
+  "song_length": {
+   "median": 276.5335,
+   "iqr": 105.55100000000004
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

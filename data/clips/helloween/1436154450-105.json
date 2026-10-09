@@ -1,0 +1,32 @@
+{
+ "id": "helloween/1436154450-105",
+ "band": "helloween",
+ "title": "From Out of Nowhere",
+ "source": "itunes",
+ "album": "Metal Jukebox",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.312560611938127,
+  "tempo_var": 20.03119447107567,
+  "low_onset_rate": 5.513034597294284,
+  "lufs": -8.390557453127242,
+  "rms_dbfs": -8.36562576796767,
+  "crest": 8.365625381469727,
+  "centroid": 2785.759254833866,
+  "flatness": 0.04524610936641693,
+  "sub100_share": 0.3478735387325287,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7467983365058899,
+  "clean_share": 0.017843289371605897,
+  "minor_share": -0.1984749350253201,
+  "chord_rate": 2.1718015080250206,
+  "repetitiveness": 0.8504933714866638,
+  "vocal_share": 0.12048614770174026,
+  "vocal_voiced": 0.8408163265306122,
+  "song_length": 199.173
+ }
+}

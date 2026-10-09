@@ -1,0 +1,126 @@
+{
+ "slug": "begerith",
+ "name": "Begerith",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 715150445,
+  "deezer": 53549012,
+  "spotify": "7gxE9KvBYn6AV533pL0pOV"
+ },
+ "metadata": {
+  "formed": 2003,
+  "split": null,
+  "country": "RU",
+  "status": "active",
+  "members": 4,
+  "past_members": 6,
+  "full_lengths": 1,
+  "genre": "Black/Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 47,
+  "themes": "Occultism, Theology, Philosophy, Cosmos, Psychology of consciousness",
+  "release_year": 2017
+ },
+ "partial": false,
+ "clips": [
+  "begerith/1448527393-106",
+  "begerith/1448527393-105",
+  "begerith/1448527393-107",
+  "begerith/1448527393-104",
+  "begerith/1448527393-108",
+  "begerith/1448527393-103",
+  "begerith/1448527393-109",
+  "begerith/1448527393-102",
+  "begerith/1448527393-110",
+  "begerith/1448527393-101",
+  "begerith/1448527393-111"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.19921875,
+   "iqr": 20.5078125
+  },
+  "onset_rate": {
+   "median": 5.613271589972361,
+   "iqr": 2.522630982398293
+  },
+  "tempo_var": {
+   "median": 4.096080844559272,
+   "iqr": 5.1317945762650465
+  },
+  "low_onset_rate": {
+   "median": 8.119196406924308,
+   "iqr": 1.787559702759057
+  },
+  "lufs": {
+   "median": -7.668712201500056,
+   "iqr": 0.7999350017903737
+  },
+  "rms_dbfs": {
+   "median": -6.928152007708366,
+   "iqr": 0.8151894438030061
+  },
+  "crest": {
+   "median": 6.928152084350586,
+   "iqr": 0.8151893615722656
+  },
+  "centroid": {
+   "median": 2583.6512754301953,
+   "iqr": 112.49879812286417
+  },
+  "flatness": {
+   "median": 0.03809310123324394,
+   "iqr": 0.00836377777159214
+  },
+  "sub100_share": {
+   "median": 0.4325160086154938,
+   "iqr": 0.09584933519363403
+  },
+  "lowest_pitch": {
+   "median": 37.68310546875,
+   "iqr": 34.991455078125
+  },
+  "harmonic_share": {
+   "median": 0.7449843287467957,
+   "iqr": 0.06331422924995422
+  },
+  "clean_share": {
+   "median": 0.0,
+   "iqr": 0.04383242823894492
+  },
+  "minor_share": {
+   "median": 0.08548821473583612,
+   "iqr": 0.16559097260595987
+  },
+  "chord_rate": {
+   "median": 1.6372042137419387,
+   "iqr": 0.5178911288367356
+  },
+  "repetitiveness": {
+   "median": 0.90215665102005,
+   "iqr": 0.10346806049346924
+  },
+  "vocal_share": {
+   "median": 0.052713289856910706,
+   "iqr": 0.020423876121640205
+  },
+  "vocal_voiced": {
+   "median": 0.09698275862068965,
+   "iqr": 0.10712436236536041
+  },
+  "song_length": {
+   "median": 284.733,
+   "iqr": 49.153999999999996
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

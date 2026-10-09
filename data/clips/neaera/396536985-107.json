@@ -1,0 +1,32 @@
+{
+ "id": "neaera/396536985-107",
+ "band": "neaera",
+ "title": "Sirens of Black",
+ "source": "itunes",
+ "album": "Forging the Eclipse",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 5.9473948988992875,
+  "tempo_var": 19.812529981724477,
+  "low_onset_rate": 3.94265504533773,
+  "lufs": -7.453170230419045,
+  "rms_dbfs": -7.390748070383704,
+  "crest": 7.390748023986816,
+  "centroid": 2943.625661147983,
+  "flatness": 0.05883379653096199,
+  "sub100_share": 0.4266180396080017,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7519192099571228,
+  "clean_share": 0.0,
+  "minor_share": 0.00207052844034461,
+  "chord_rate": 2.2720385007030983,
+  "repetitiveness": 0.9755071997642517,
+  "vocal_share": 0.09862961620092392,
+  "vocal_voiced": 0.017674418604651163,
+  "song_length": 271.68
+ }
+}

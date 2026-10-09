@@ -1,0 +1,32 @@
+{
+ "id": "hammerfall/1460465290-106",
+ "band": "hammerfall",
+ "title": "Dia De Los Muertos",
+ "source": "itunes",
+ "album": "Infected",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 0.9355452649953935,
+  "tempo_var": 20.542014439315203,
+  "low_onset_rate": 5.011849633903894,
+  "lufs": -8.65314400451818,
+  "rms_dbfs": -10.681838154724812,
+  "crest": 10.681838035583496,
+  "centroid": 1402.2230620611558,
+  "flatness": 0.013410520739853382,
+  "sub100_share": 0.3810572028160095,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7219953536987305,
+  "clean_share": 0.7114041892940264,
+  "minor_share": -0.033488928365964454,
+  "chord_rate": 2.3054508315957913,
+  "repetitiveness": 0.9418089389801025,
+  "vocal_share": 3.7655806295333605e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 307.813
+ }
+}

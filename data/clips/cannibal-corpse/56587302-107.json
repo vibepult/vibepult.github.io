@@ -1,0 +1,32 @@
+{
+ "id": "cannibal-corpse/56587302-107",
+ "band": "cannibal-corpse",
+ "title": "Festering In the Crypt",
+ "source": "itunes",
+ "album": "The Wretched Spawn",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.1666187963900776,
+  "tempo_var": 3.0222076288125725,
+  "low_onset_rate": 6.533234569394265,
+  "lufs": -8.232733296403854,
+  "rms_dbfs": -7.7415586335760755,
+  "crest": 7.741559028625488,
+  "centroid": 2525.754036476928,
+  "flatness": 0.024638991802930832,
+  "sub100_share": 0.13028734922409058,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8597699403762817,
+  "clean_share": 0.0843000773395205,
+  "minor_share": -0.10772678296526239,
+  "chord_rate": 1.8333056189626764,
+  "repetitiveness": 0.7571982741355896,
+  "vocal_share": 0.18156778812408447,
+  "vocal_voiced": 0.7247706422018348,
+  "song_length": 278.133
+ }
+}

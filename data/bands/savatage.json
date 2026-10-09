@@ -1,0 +1,127 @@
+{
+ "slug": "savatage",
+ "name": "Savatage",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 154040,
+  "deezer": 3708,
+  "spotify": "3N1B1g6JtIgd6ClRkzD4yT"
+ },
+ "metadata": {
+  "formed": 1983,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 6,
+  "past_members": 6,
+  "full_lengths": 11,
+  "genre": "Heavy/Power Metal, Progressive Metal/Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 34736,
+  "themes": "Dark fantasy, Horror, Metal (early); Society, Life, Literature, Introspection (later)",
+  "release_year": 1988
+ },
+ "partial": false,
+ "clips": [
+  "savatage/1550699163-105",
+  "savatage/300996478-105",
+  "savatage/906588290-105",
+  "savatage/358460112-105",
+  "savatage/301009994-106",
+  "savatage/297529747-109",
+  "savatage/300974655-107",
+  "savatage/302091228-105",
+  "savatage/302057727-107",
+  "savatage/550938871-107",
+  "savatage/1550699163-104",
+  "savatage/300996478-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 18.022354789402172
+  },
+  "onset_rate": {
+   "median": 3.4748824128400333,
+   "iqr": 2.0734526749508726
+  },
+  "tempo_var": {
+   "median": 5.053987967928807,
+   "iqr": 5.236457778622567
+  },
+  "low_onset_rate": {
+   "median": 5.273503677597896,
+   "iqr": 3.0739344421277215
+  },
+  "lufs": {
+   "median": -13.52363241845022,
+   "iqr": 4.0588923104621415
+  },
+  "rms_dbfs": {
+   "median": -12.775965519500705,
+   "iqr": 4.521846052262404
+  },
+  "crest": {
+   "median": 12.775965690612793,
+   "iqr": 4.286131143569946
+  },
+  "centroid": {
+   "median": 2327.09615471389,
+   "iqr": 771.1946003927428
+  },
+  "flatness": {
+   "median": 0.027393552474677563,
+   "iqr": 0.026171862264163792
+  },
+  "sub100_share": {
+   "median": 0.1792779117822647,
+   "iqr": 0.08210727386176586
+  },
+  "lowest_pitch": {
+   "median": 59.21630859375,
+   "iqr": 23.55194091796875
+  },
+  "harmonic_share": {
+   "median": 0.7631396651268005,
+   "iqr": 0.20373913645744324
+  },
+  "clean_share": {
+   "median": 0.16097750193948795,
+   "iqr": 0.4681901472210872
+  },
+  "minor_share": {
+   "median": -0.06394477978494428,
+   "iqr": 0.30343666418884874
+  },
+  "chord_rate": {
+   "median": 1.3531994011540514,
+   "iqr": 0.4750126948227633
+  },
+  "repetitiveness": {
+   "median": 0.8180851936340332,
+   "iqr": 0.1376556158065796
+  },
+  "vocal_share": {
+   "median": 0.17026282846927643,
+   "iqr": 0.12570634484291077
+  },
+  "vocal_voiced": {
+   "median": 0.59026369168357,
+   "iqr": 0.27669172932330827
+  },
+  "song_length": {
+   "median": 235.627,
+   "iqr": 87.7645
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

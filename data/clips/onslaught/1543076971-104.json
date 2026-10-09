@@ -1,0 +1,32 @@
+{
+ "id": "onslaught/1543076971-104",
+ "band": "onslaught",
+ "title": "Lightning War",
+ "source": "itunes",
+ "album": "In Search of Sanity",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.813745575328517,
+  "tempo_var": 13.2011585345957,
+  "low_onset_rate": 5.21232361926005,
+  "lufs": -7.886471791327672,
+  "rms_dbfs": -7.246629521051286,
+  "crest": 7.24662971496582,
+  "centroid": 3093.4360776328604,
+  "flatness": 0.06821483373641968,
+  "sub100_share": 0.38073545694351196,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.6095863580703735,
+  "clean_share": 0.021722265321955005,
+  "minor_share": -0.017896657911341873,
+  "chord_rate": 1.971327522668865,
+  "repetitiveness": 0.9789146780967712,
+  "vocal_share": 0.12558281421661377,
+  "vocal_voiced": 0.4335195530726257,
+  "song_length": 416.067
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "a-dark-halo/1344674483-104",
+ "band": "a-dark-halo",
+ "title": "Silence",
+ "source": "itunes",
+ "album": "Catalyst (Reissue)",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 2.405687824273869,
+  "tempo_var": 10.437070133590153,
+  "low_onset_rate": 4.644313994084275,
+  "lufs": -15.000761809462217,
+  "rms_dbfs": -13.524854741340619,
+  "crest": 13.524855613708496,
+  "centroid": 1868.0423270826761,
+  "flatness": 0.012612348422408104,
+  "sub100_share": 0.5831834673881531,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8416216373443604,
+  "clean_share": 0.4662529092319628,
+  "minor_share": 0.2302580132606874,
+  "chord_rate": 1.1026069194588566,
+  "repetitiveness": 0.7243657112121582,
+  "vocal_share": 0.10675916075706482,
+  "vocal_voiced": 0.4357638888888889,
+  "song_length": 303.72
+ }
+}

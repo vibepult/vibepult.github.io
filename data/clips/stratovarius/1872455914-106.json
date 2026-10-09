@@ -1,0 +1,32 @@
+{
+ "id": "stratovarius/1872455914-106",
+ "band": "stratovarius",
+ "title": "Uncertainty",
+ "source": "itunes",
+ "album": "Episode",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 2.399985487616099,
+  "tempo_var": 40.590021087309225,
+  "low_onset_rate": 2.4999848829334366,
+  "lufs": -10.818681416547042,
+  "rms_dbfs": -10.315007103465355,
+  "crest": 10.315007209777832,
+  "centroid": 2422.4331373551267,
+  "flatness": 0.0244925394654274,
+  "sub100_share": 0.3321703374385834,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.8179807066917419,
+  "clean_share": 0.1214230471771075,
+  "minor_share": 0.06363570285140985,
+  "chord_rate": 2.199986696981424,
+  "repetitiveness": 0.7931023240089417,
+  "vocal_share": 4.6846167833791696e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 359.0
+ }
+}

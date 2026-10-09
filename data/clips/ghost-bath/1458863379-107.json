@@ -1,0 +1,32 @@
+{
+ "id": "ghost-bath/1458863379-107",
+ "band": "ghost-bath",
+ "title": "Calling",
+ "source": "itunes",
+ "album": "Funeral",
+ "year": 2014,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 2.2386261698104057,
+  "tempo_var": 18.73351156311694,
+  "low_onset_rate": 3.809005721766959,
+  "lufs": -8.619982090663358,
+  "rms_dbfs": -9.683088765218837,
+  "crest": 9.683088302612305,
+  "centroid": 2520.3607633841107,
+  "flatness": 0.06993553787469864,
+  "sub100_share": 0.06100856885313988,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.8338447213172913,
+  "clean_share": 0.2948021722265322,
+  "minor_share": 0.22285525039897747,
+  "chord_rate": 2.071564515346943,
+  "repetitiveness": 0.7658447623252869,
+  "vocal_share": 0.056319884955883026,
+  "vocal_voiced": 0.6170731707317073,
+  "song_length": 345.904
+ }
+}

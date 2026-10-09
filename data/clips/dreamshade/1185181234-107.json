@@ -1,0 +1,32 @@
+{
+ "id": "dreamshade/1185181234-107",
+ "band": "dreamshade",
+ "title": "Up All Night",
+ "source": "itunes",
+ "album": "Vibrant",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.7087687290888813,
+  "tempo_var": 14.674059966987558,
+  "low_onset_rate": 3.9092427144450372,
+  "lufs": -8.628855319631205,
+  "rms_dbfs": -8.38047502241278,
+  "crest": 8.380475044250488,
+  "centroid": 2621.2977002029993,
+  "flatness": 0.03746087849140167,
+  "sub100_share": 0.35615360736846924,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6673908829689026,
+  "clean_share": 0.017843289371605897,
+  "minor_share": 0.2142128518912917,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.8469586968421936,
+  "vocal_share": 0.226737841963768,
+  "vocal_voiced": 0.5419722901385493,
+  "song_length": 175.938
+ }
+}

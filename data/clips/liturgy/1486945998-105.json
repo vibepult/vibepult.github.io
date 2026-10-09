@@ -1,0 +1,32 @@
+{
+ "id": "liturgy/1486945998-105",
+ "band": "liturgy",
+ "title": "EXACO II",
+ "source": "itunes",
+ "album": "H.A.Q.Q.",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 61.5234375,
+  "onset_rate": 0.4009479707123115,
+  "tempo_var": 31.569181649200754,
+  "low_onset_rate": 5.847157906221209,
+  "lufs": -18.00571435885035,
+  "rms_dbfs": -18.32817647124385,
+  "crest": 16.910690307617188,
+  "centroid": 823.5516564741386,
+  "flatness": 0.0010874989675357938,
+  "sub100_share": 0.001180897350423038,
+  "lowest_pitch": 145.34912109375,
+  "harmonic_share": 0.9812365770339966,
+  "clean_share": 0.9767261442979054,
+  "minor_share": -0.025277028106088117,
+  "chord_rate": 0.6348342869611598,
+  "repetitiveness": 0.7758330702781677,
+  "vocal_share": 1.7556054444867186e-05,
+  "vocal_voiced": 0.0,
+  "song_length": 136.027
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "swallow-the-sun/1757878639-105",
+ "band": "swallow-the-sun",
+ "title": "Kold",
+ "source": "itunes",
+ "album": "Shining",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.164662141440267,
+  "tempo_var": 4.934707985784106,
+  "low_onset_rate": 3.3978477729148127,
+  "lufs": -7.5089617430146935,
+  "rms_dbfs": -6.77341366855122,
+  "crest": 6.77341365814209,
+  "centroid": 2347.0438916742737,
+  "flatness": 0.031822700053453445,
+  "sub100_share": 0.38671788573265076,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7928541302680969,
+  "clean_share": 0.03944315545243619,
+  "minor_share": 0.11100469275197655,
+  "chord_rate": 1.89879728486416,
+  "repetitiveness": 0.832809567451477,
+  "vocal_share": 0.1528896689414978,
+  "vocal_voiced": 0.5408079142621599,
+  "song_length": 227.453
+ }
+}

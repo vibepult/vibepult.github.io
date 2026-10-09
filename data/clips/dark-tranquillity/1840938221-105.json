@@ -1,0 +1,32 @@
+{
+ "id": "dark-tranquillity/1840938221-105",
+ "band": "dark-tranquillity",
+ "title": "Skywards",
+ "source": "itunes",
+ "album": "Skydancer",
+ "year": 1993,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.730919374916909,
+  "tempo_var": 21.274913636176358,
+  "low_onset_rate": 6.695667806770524,
+  "lufs": -9.156669695048619,
+  "rms_dbfs": -8.563102040914817,
+  "crest": 8.563101768493652,
+  "centroid": 3348.3104978618267,
+  "flatness": 0.05893615633249283,
+  "sub100_share": 0.4753832519054413,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.831965982913971,
+  "clean_share": 0.0,
+  "minor_share": -0.284050392692636,
+  "chord_rate": 3.031371992119989,
+  "repetitiveness": 0.8808042407035828,
+  "vocal_share": 0.021581990644335747,
+  "vocal_voiced": 0.2149321266968326,
+  "song_length": 305.457
+ }
+}

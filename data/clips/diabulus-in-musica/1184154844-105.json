@@ -1,0 +1,32 @@
+{
+ "id": "diabulus-in-musica/1184154844-105",
+ "band": "diabulus-in-musica",
+ "title": "Maitagarri",
+ "source": "itunes",
+ "album": "Argia",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 2.7666666666666666,
+  "tempo_var": 19.71084295807437,
+  "low_onset_rate": 3.3666666666666667,
+  "lufs": -10.403084530651263,
+  "rms_dbfs": -9.96860514590312,
+  "crest": 9.968605041503906,
+  "centroid": 1927.3702879909529,
+  "flatness": 0.01419325452297926,
+  "sub100_share": 0.21698984503746033,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.9316500425338745,
+  "clean_share": 0.3397832817337461,
+  "minor_share": 0.07829226969058767,
+  "chord_rate": 1.2666666666666666,
+  "repetitiveness": 0.71108078956604,
+  "vocal_share": 0.005973522085696459,
+  "vocal_voiced": 0.8717948717948718,
+  "song_length": 348.893
+ }
+}

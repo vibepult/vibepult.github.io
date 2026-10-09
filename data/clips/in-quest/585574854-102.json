@@ -1,0 +1,32 @@
+{
+ "id": "in-quest/585574854-102",
+ "band": "in-quest",
+ "title": "Mind Over Matter",
+ "source": "itunes",
+ "album": "Made Out of Negative Matter",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 6.014219560684673,
+  "tempo_var": 4.263256414560601e-14,
+  "low_onset_rate": 9.28862798816855,
+  "lufs": -7.23210275985186,
+  "rms_dbfs": -6.674584926955205,
+  "crest": 6.674585342407227,
+  "centroid": 2396.9876984923417,
+  "flatness": 0.03412146493792534,
+  "sub100_share": 0.3246026039123535,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7209925055503845,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.06544014042022922,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.932755708694458,
+  "vocal_share": 0.1826300173997879,
+  "vocal_voiced": 0.0611541774332472,
+  "song_length": 193.413
+ }
+}

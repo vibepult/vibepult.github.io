@@ -1,0 +1,32 @@
+{
+ "id": "skyclad/429707494-106",
+ "band": "skyclad",
+ "title": "No Strings Attached",
+ "source": "itunes",
+ "album": "Vintage Whine",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 6.047631891577365,
+  "tempo_var": 17.724706003657502,
+  "low_onset_rate": 6.047631891577365,
+  "lufs": -11.23305806058485,
+  "rms_dbfs": -11.024526338975587,
+  "crest": 11.024526596069336,
+  "centroid": 3137.917150936851,
+  "flatness": 0.037457238882780075,
+  "sub100_share": 0.20769453048706055,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7470735907554626,
+  "clean_share": 0.01008533747090768,
+  "minor_share": -0.188656305471527,
+  "chord_rate": 1.0357822576734714,
+  "repetitiveness": 0.84528648853302,
+  "vocal_share": 0.33630457520484924,
+  "vocal_voiced": 0.892416225749559,
+  "song_length": 293.44
+ }
+}

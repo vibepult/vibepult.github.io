@@ -1,0 +1,32 @@
+{
+ "id": "akercocke/42365514-106",
+ "band": "akercocke",
+ "title": "Valley of the Crucified",
+ "source": "itunes",
+ "album": "Choronzon",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.443840008728119,
+  "tempo_var": 2.9220532402119814,
+  "low_onset_rate": 6.014219560684673,
+  "lufs": -9.310335514200776,
+  "rms_dbfs": -8.669395971760315,
+  "crest": 8.66939640045166,
+  "centroid": 2395.222104321327,
+  "flatness": 0.022856423631310463,
+  "sub100_share": 0.37027212977409363,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8781942129135132,
+  "clean_share": 0.005430566330488751,
+  "minor_share": 0.05283730198575731,
+  "chord_rate": 1.1026069194588566,
+  "repetitiveness": 0.7411127090454102,
+  "vocal_share": 0.13851869106292725,
+  "vocal_voiced": 0.7664291369754552,
+  "song_length": 309.227
+ }
+}

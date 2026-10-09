@@ -1,0 +1,32 @@
+{
+ "id": "dr-sin/1549458076-106",
+ "band": "dr-sin",
+ "title": "Best Friends",
+ "source": "itunes",
+ "album": "Back Home Again",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 78.30255681818181,
+  "onset_rate": 3.4080577510546477,
+  "tempo_var": 27.154244432360635,
+  "low_onset_rate": 4.109716699801193,
+  "lufs": -9.311279293073605,
+  "rms_dbfs": -8.94137178001963,
+  "crest": 8.94137191772461,
+  "centroid": 2633.551239846825,
+  "flatness": 0.036932941526174545,
+  "sub100_share": 0.2573799192905426,
+  "lowest_pitch": 104.974365234375,
+  "harmonic_share": 0.7074394226074219,
+  "clean_share": 0.028704422032583398,
+  "minor_share": 0.09005573661188115,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.8105351328849792,
+  "vocal_share": 0.19084027409553528,
+  "vocal_voiced": 0.794973544973545,
+  "song_length": 172.16
+ }
+}

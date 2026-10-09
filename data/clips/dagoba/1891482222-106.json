@@ -1,0 +1,32 @@
+{
+ "id": "dagoba/1891482222-106",
+ "band": "dagoba",
+ "title": "Phoenix Noir",
+ "source": "itunes",
+ "album": "Different Breed",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.799824646269198,
+  "tempo_var": 10.92640403869528,
+  "low_onset_rate": 6.233144878461724,
+  "lufs": -7.4565883431663345,
+  "rms_dbfs": -6.974419806354318,
+  "crest": 6.974419593811035,
+  "centroid": 2801.2626369944132,
+  "flatness": 0.051203977316617966,
+  "sub100_share": 0.35223516821861267,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.7137464284896851,
+  "clean_share": 0.0,
+  "minor_share": -0.1246011121199177,
+  "chord_rate": 1.5999516265570202,
+  "repetitiveness": 0.8540869951248169,
+  "vocal_share": 0.17189474403858185,
+  "vocal_voiced": 0.4356807511737089,
+  "song_length": 208.649
+ }
+}

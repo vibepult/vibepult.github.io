@@ -1,0 +1,32 @@
+{
+ "id": "earth/3251842-104",
+ "band": "earth",
+ "title": "Song 4",
+ "source": "itunes",
+ "album": "Phase 3 - Thrones and Dominions",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.713508582650439,
+  "tempo_var": 9.754537452539177,
+  "low_onset_rate": 6.214693546040828,
+  "lufs": -9.730566862358877,
+  "rms_dbfs": -8.845656388781178,
+  "crest": 8.84565544128418,
+  "centroid": 1605.5792231486562,
+  "flatness": 0.002299661049619317,
+  "sub100_share": 0.03992646932601929,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.9496985673904419,
+  "clean_share": 0.9627618308766486,
+  "minor_share": 0.05114518589193395,
+  "chord_rate": 0.46777263249769674,
+  "repetitiveness": 0.6307510137557983,
+  "vocal_share": 2.2492674816021463e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 170.333
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "dozer/338904995-105",
+ "band": "dozer",
+ "title": "Earth Yeti",
+ "source": "itunes",
+ "album": "Madre de Dios",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.4414700819473403,
+  "tempo_var": 5.752883751787217,
+  "low_onset_rate": 5.680096251757746,
+  "lufs": -9.193733344020204,
+  "rms_dbfs": -8.144801432870572,
+  "crest": 8.144801139831543,
+  "centroid": 1953.2133160858896,
+  "flatness": 0.007777838502079248,
+  "sub100_share": 0.15647311508655548,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8389647006988525,
+  "clean_share": 0.2660977501939488,
+  "minor_share": -0.034345110659431355,
+  "chord_rate": 2.138389177132328,
+  "repetitiveness": 0.8367928862571716,
+  "vocal_share": 1.240068513652659e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 204.0
+ }
+}

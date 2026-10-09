@@ -1,0 +1,32 @@
+{
+ "id": "nocturnus/583648327-105",
+ "band": "nocturnus",
+ "title": "Search for the Trident",
+ "source": "itunes",
+ "album": "Ethereal Tomb",
+ "year": 1999,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 7.484362119963148,
+  "tempo_var": 6.234578489066923,
+  "low_onset_rate": 7.584599112641226,
+  "lufs": -16.105084147560184,
+  "rms_dbfs": -14.214409412720633,
+  "crest": 13.578582763671875,
+  "centroid": 1532.8563281359382,
+  "flatness": 0.0044736098498106,
+  "sub100_share": 0.4559726417064667,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.9787320494651794,
+  "clean_share": 0.7152831652443755,
+  "minor_share": -0.003314814171277103,
+  "chord_rate": 0.30071097803423363,
+  "repetitiveness": 0.41358527541160583,
+  "vocal_share": 0.004586373921483755,
+  "vocal_voiced": 0.9047619047619048,
+  "song_length": 459.36
+ }
+}

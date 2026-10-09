@@ -1,0 +1,32 @@
+{
+ "id": "evile/260741068-104",
+ "band": "evile",
+ "title": "Man Against Machine",
+ "source": "itunes",
+ "album": "Enter the Grave",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.7333333333333334,
+  "tempo_var": 0.3802607526671608,
+  "low_onset_rate": 2.2,
+  "lufs": -14.434638133303611,
+  "rms_dbfs": -14.463103744809745,
+  "crest": 14.463104248046875,
+  "centroid": 1322.992550225697,
+  "flatness": 0.00021013336663600057,
+  "sub100_share": 0.060741715133190155,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.9820096492767334,
+  "clean_share": 0.9992260061919505,
+  "minor_share": -0.207647152784031,
+  "chord_rate": 0.6666666666666666,
+  "repetitiveness": 0.5767027735710144,
+  "vocal_share": 1.39422388656385e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 381.627
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "lost-soul/1044209458-105",
+ "band": "lost-soul",
+ "title": "The Next Generation",
+ "source": "itunes",
+ "album": "Atlantis: The New Beginning",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 7.3173004654996845,
+  "tempo_var": 12.29227685278268,
+  "low_onset_rate": 8.687206032100082,
+  "lufs": -9.392446994436188,
+  "rms_dbfs": -8.805324510151792,
+  "crest": 8.80532455444336,
+  "centroid": 2636.959669126573,
+  "flatness": 0.03896090015769005,
+  "sub100_share": 0.38335928320884705,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7223895788192749,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.16913071131600388,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.9265108704566956,
+  "vocal_share": 0.07432195544242859,
+  "vocal_voiced": 0.2710843373493976,
+  "song_length": 315.147
+ }
+}

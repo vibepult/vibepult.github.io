@@ -1,0 +1,32 @@
+{
+ "id": "paul-chain-violet-theatre/1201258900-102",
+ "band": "paul-chain-violet-theatre",
+ "title": "Meat",
+ "source": "itunes",
+ "album": "In the Darkness",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 4.009479707123115,
+  "tempo_var": 3.1191167257316295,
+  "low_onset_rate": 4.410427677835426,
+  "lufs": -14.52807867088456,
+  "rms_dbfs": -13.853493157275496,
+  "crest": 13.853492736816406,
+  "centroid": 2552.6389699416227,
+  "flatness": 0.027654509991407394,
+  "sub100_share": 0.2954068183898926,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.6185088157653809,
+  "clean_share": 0.01008533747090768,
+  "minor_share": 0.30673671177298834,
+  "chord_rate": 2.205213838917713,
+  "repetitiveness": 0.8951418995857239,
+  "vocal_share": 0.2431725561618805,
+  "vocal_voiced": 0.8931506849315068,
+  "song_length": 361.2
+ }
+}

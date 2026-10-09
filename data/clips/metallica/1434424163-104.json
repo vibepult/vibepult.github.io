@@ -1,0 +1,32 @@
+{
+ "id": "metallica/1434424163-104",
+ "band": "metallica",
+ "title": "One",
+ "source": "itunes",
+ "album": "...And Justice for All (Remastered)",
+ "year": 1988,
+ "itunes_year": 1988,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.366634215363777,
+  "tempo_var": 17.567991078331332,
+  "low_onset_rate": 3.8333101538312695,
+  "lufs": -26.83022860838286,
+  "rms_dbfs": -30.80503522940777,
+  "crest": 23.255138397216797,
+  "centroid": 1750.8620577285894,
+  "flatness": 0.012763651087880135,
+  "sub100_share": 0.0335979089140892,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.9513689875602722,
+  "clean_share": 0.4756380510440835,
+  "minor_share": -0.1511810108143855,
+  "chord_rate": 2.2999860922987616,
+  "repetitiveness": 0.863034725189209,
+  "vocal_share": 0.0016488031251356006,
+  "vocal_voiced": 0.0,
+  "song_length": 446.146
+ }
+}

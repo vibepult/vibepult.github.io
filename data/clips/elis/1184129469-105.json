@@ -1,0 +1,32 @@
+{
+ "id": "elis/1184129469-105",
+ "band": "elis",
+ "title": "I Come Undone",
+ "source": "itunes",
+ "album": "Catharsis",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.8333333333333335,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.8,
+  "lufs": -6.4684114906777195,
+  "rms_dbfs": -6.834434120552647,
+  "crest": 6.834433555603027,
+  "centroid": 2422.957813280945,
+  "flatness": 0.025187240913510323,
+  "sub100_share": 0.12961727380752563,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8438718318939209,
+  "clean_share": 0.04256965944272446,
+  "minor_share": 0.20628979230322753,
+  "chord_rate": 0.6666666666666666,
+  "repetitiveness": 0.7781758904457092,
+  "vocal_share": 0.37802866101264954,
+  "vocal_voiced": 0.9231499051233396,
+  "song_length": 265.0
+ }
+}

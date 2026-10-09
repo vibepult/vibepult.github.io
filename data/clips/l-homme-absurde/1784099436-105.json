@@ -1,0 +1,32 @@
+{
+ "id": "l-homme-absurde/1784099436-105",
+ "band": "l-homme-absurde",
+ "title": "Departure",
+ "source": "itunes",
+ "album": "Belong",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.3982225472390857,
+  "tempo_var": 0.0,
+  "low_onset_rate": 2.898483937350985,
+  "lufs": -11.60394158092997,
+  "rms_dbfs": -10.379864948295879,
+  "crest": 10.379865646362305,
+  "centroid": 1374.7585296915177,
+  "flatness": 0.004191537853330374,
+  "sub100_share": 0.4605603814125061,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.8025027513504028,
+  "clean_share": 0.7819025522041764,
+  "minor_share": 0.035784153155728526,
+  "chord_rate": 1.2993203857090623,
+  "repetitiveness": 0.7318425178527832,
+  "vocal_share": 5.560294198403426e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 356.803
+ }
+}

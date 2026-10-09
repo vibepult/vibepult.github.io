@@ -1,0 +1,32 @@
+{
+ "id": "girlschool/1505573437-108",
+ "band": "girlschool",
+ "title": "Still Waters",
+ "source": "itunes",
+ "album": "Legacy",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.809005721766959,
+  "tempo_var": 22.00374688631007,
+  "low_onset_rate": 5.21232361926005,
+  "lufs": -8.373011222140892,
+  "rms_dbfs": -7.381451210846111,
+  "crest": 7.381451606750488,
+  "centroid": 2352.0142783113215,
+  "flatness": 0.024015134200453758,
+  "sub100_share": 0.4265340566635132,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8214326500892639,
+  "clean_share": 0.3351435221101629,
+  "minor_share": 0.03301434264103942,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.8289330005645752,
+  "vocal_share": 0.08530259132385254,
+  "vocal_voiced": 0.8171368861024033,
+  "song_length": 183.173
+ }
+}

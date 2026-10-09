@@ -1,0 +1,32 @@
+{
+ "id": "firewind/1709919082-105",
+ "band": "firewind",
+ "title": "Come Undone",
+ "source": "itunes",
+ "album": "Stand United",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 6.066556615753002,
+  "tempo_var": 18.102147669606076,
+  "low_onset_rate": 6.666545731596706,
+  "lufs": -8.397685074610747,
+  "rms_dbfs": -8.1460821880658,
+  "crest": 8.146081924438477,
+  "centroid": 2858.668856474068,
+  "flatness": 0.05083578824996948,
+  "sub100_share": 0.28595736622810364,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6694797873497009,
+  "clean_share": 0.0,
+  "minor_share": -0.011648090366114139,
+  "chord_rate": 1.7333018902151436,
+  "repetitiveness": 0.9058512449264526,
+  "vocal_share": 0.17682074010372162,
+  "vocal_voiced": 0.548489666136725,
+  "song_length": 285.462
+ }
+}

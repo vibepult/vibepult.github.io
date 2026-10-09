@@ -1,0 +1,32 @@
+{
+ "id": "insomnium/1660162295-105",
+ "band": "insomnium",
+ "title": "At the Gates of Sleep",
+ "source": "itunes",
+ "album": "Above the Weeping World",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 1.8,
+  "tempo_var": 8.589293220499908,
+  "low_onset_rate": 3.7,
+  "lufs": -11.65080210396029,
+  "rms_dbfs": -11.58695579026916,
+  "crest": 11.586956024169922,
+  "centroid": 2127.1017709048915,
+  "flatness": 0.016001785174012184,
+  "sub100_share": 0.27835613489151,
+  "lowest_pitch": 196.490478515625,
+  "harmonic_share": 0.7600761651992798,
+  "clean_share": 0.5278637770897833,
+  "minor_share": 0.1452413136426567,
+  "chord_rate": 0.8666666666666667,
+  "repetitiveness": 0.7642168402671814,
+  "vocal_share": 0.003903473960235715,
+  "vocal_voiced": 0.4036144578313253,
+  "song_length": 425.427
+ }
+}

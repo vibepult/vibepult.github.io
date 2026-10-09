@@ -1,0 +1,32 @@
+{
+ "id": "ayreon/1600456714-202",
+ "band": "ayreon",
+ "title": "The Dream Dissolves",
+ "source": "itunes",
+ "album": "The Source",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 1.3030809048150125,
+  "tempo_var": 24.24587746367721,
+  "low_onset_rate": 6.181281215148136,
+  "lufs": -16.701441267984034,
+  "rms_dbfs": -14.192850283884662,
+  "crest": 12.321191787719727,
+  "centroid": 756.3770439349609,
+  "flatness": 0.0004988702712580562,
+  "sub100_share": 0.6458132266998291,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.9885604381561279,
+  "clean_share": 0.9875872769588828,
+  "minor_share": -0.18748961477146114,
+  "chord_rate": 0.801895941424623,
+  "repetitiveness": 0.48341992497444153,
+  "vocal_share": 9.385201451550529e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 371.834
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "krypteria/1802579409-108",
+ "band": "krypteria",
+ "title": "Save Me",
+ "source": "itunes",
+ "album": "In Medias Res",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.799942555668093,
+  "tempo_var": 3.2808569077326784,
+  "low_onset_rate": 5.633248174630769,
+  "lufs": -10.80180372147494,
+  "rms_dbfs": -10.74426191795957,
+  "crest": 10.744261741638184,
+  "centroid": 2338.644298285129,
+  "flatness": 0.02696879766881466,
+  "sub100_share": 0.1581478714942932,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.716505765914917,
+  "clean_share": 0.065738592420727,
+  "minor_share": -0.22204812590338274,
+  "chord_rate": 1.2666475185560309,
+  "repetitiveness": 0.7987164258956909,
+  "vocal_share": 0.3147687315940857,
+  "vocal_voiced": 0.6466826538768985,
+  "song_length": 206.253
+ }
+}

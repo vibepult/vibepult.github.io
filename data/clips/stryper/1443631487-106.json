@@ -1,0 +1,32 @@
+{
+ "id": "stryper/1443631487-106",
+ "band": "stryper",
+ "title": "Murder By Pride",
+ "source": "itunes",
+ "album": "Murder By Pride",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.040522111235029,
+  "tempo_var": 2.6820615049457737,
+  "low_onset_rate": 3.742181059981574,
+  "lufs": -6.588705464717257,
+  "rms_dbfs": -6.616105405349155,
+  "crest": 6.616105079650879,
+  "centroid": 2506.6317212372646,
+  "flatness": 0.029095284640789032,
+  "sub100_share": 0.18672017753124237,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.7437303066253662,
+  "clean_share": 0.10395655546935609,
+  "minor_share": 0.3820315328755318,
+  "chord_rate": 0.6682466178538525,
+  "repetitiveness": 0.7760630249977112,
+  "vocal_share": 0.2452995926141739,
+  "vocal_voiced": 0.7851596203623814,
+  "song_length": 198.347
+ }
+}

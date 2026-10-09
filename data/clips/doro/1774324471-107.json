@@ -1,0 +1,32 @@
+{
+ "id": "doro/1774324471-107",
+ "band": "doro",
+ "title": "Rock Before We Bleed",
+ "source": "itunes",
+ "album": "Fight",
+ "year": 2002,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.033260167616007,
+  "tempo_var": 1.6368007404751184,
+  "low_onset_rate": 6.23322025904292,
+  "lufs": -8.15451222093754,
+  "rms_dbfs": -7.07175916182957,
+  "crest": 7.0717597007751465,
+  "centroid": 1811.9696234697878,
+  "flatness": 0.006829719990491867,
+  "sub100_share": 0.37394243478775024,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.896554708480835,
+  "clean_share": 0.5614849187935035,
+  "minor_share": 0.14595615666572515,
+  "chord_rate": 1.7999673475311104,
+  "repetitiveness": 0.6294035315513611,
+  "vocal_share": 0.18996402621269226,
+  "vocal_voiced": 0.9178445229681979,
+  "song_length": 262.973
+ }
+}

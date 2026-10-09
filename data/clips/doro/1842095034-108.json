@@ -1,0 +1,32 @@
+{
+ "id": "doro/1842095034-108",
+ "band": "doro",
+ "title": "Tausend Mal Gelebt (feat. The Classic Night Orchestra)",
+ "source": "itunes",
+ "album": "Classic Diamonds (feat. The Classic Night Orchestra)",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 73.828125,
+  "onset_rate": 3.6332784084896677,
+  "tempo_var": 12.201087453450928,
+  "low_onset_rate": 8.266541700049887,
+  "lufs": -14.411578703708827,
+  "rms_dbfs": -13.63343869046004,
+  "crest": 13.633440017700195,
+  "centroid": 1496.9613551400955,
+  "flatness": 0.005621214862912893,
+  "sub100_share": 0.19791118800640106,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.873525857925415,
+  "clean_share": 0.8004640371229699,
+  "minor_share": 0.0804089540296089,
+  "chord_rate": 0.7333222475850706,
+  "repetitiveness": 0.5231651663780212,
+  "vocal_share": 0.4001178741455078,
+  "vocal_voiced": 0.8603491271820449,
+  "song_length": 257.293
+ }
+}

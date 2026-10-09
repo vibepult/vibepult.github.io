@@ -1,0 +1,32 @@
+{
+ "id": "a-n-i-m-a-l/298701932-107",
+ "band": "a-n-i-m-a-l",
+ "title": "Sol",
+ "source": "itunes",
+ "album": "El Nuevo Camino del Hombre",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.410427677835426,
+  "tempo_var": 22.54685821055514,
+  "low_onset_rate": 5.98080722979198,
+  "lufs": -9.439365143612253,
+  "rms_dbfs": -9.16344118501963,
+  "crest": 9.163440704345703,
+  "centroid": 2404.6025059914637,
+  "flatness": 0.029491936787962914,
+  "sub100_share": 0.18438036739826202,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.6751914024353027,
+  "clean_share": 0.022498060512024826,
+  "minor_share": -0.1591013512077772,
+  "chord_rate": 2.1718015080250206,
+  "repetitiveness": 0.866468071937561,
+  "vocal_share": 0.21296074986457825,
+  "vocal_voiced": 0.6086529006882989,
+  "song_length": 223.2
+ }
+}

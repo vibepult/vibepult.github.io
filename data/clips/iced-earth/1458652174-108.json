@@ -1,0 +1,32 @@
+{
+ "id": "iced-earth/1458652174-108",
+ "band": "iced-earth",
+ "title": "Hollow Man",
+ "source": "itunes",
+ "album": "The Glorious Burden",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.2744084274838774,
+  "tempo_var": 7.52746226140419,
+  "low_onset_rate": 3.94265504533773,
+  "lufs": -15.045266808651089,
+  "rms_dbfs": -15.219307767495032,
+  "crest": 15.219306945800781,
+  "centroid": 2787.6724673802496,
+  "flatness": 0.04398955777287483,
+  "sub100_share": 0.2687463164329529,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.692602813243866,
+  "clean_share": 0.0069821567106283944,
+  "minor_share": 0.1046732066135534,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.7703114151954651,
+  "vocal_share": 0.14797110855579376,
+  "vocal_voiced": 0.5892323030907278,
+  "song_length": 265.533
+ }
+}

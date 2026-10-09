@@ -1,0 +1,127 @@
+{
+ "slug": "anvil",
+ "name": "Anvil",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 129779577,
+  "deezer": 10237,
+  "spotify": "0maNhqGx60ucjS4UaAH6cP"
+ },
+ "metadata": {
+  "formed": 1981,
+  "split": null,
+  "country": "CA",
+  "status": "active",
+  "members": 3,
+  "past_members": 7,
+  "full_lengths": 20,
+  "genre": "Heavy/Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 16745,
+  "themes": "Love, Heavy Metal, Sex, Life, Society, Politics",
+  "release_year": 1998
+ },
+ "partial": false,
+ "clips": [
+  "anvil/282833091-105",
+  "anvil/282837728-105",
+  "anvil/1710219593-106",
+  "anvil/1710156716-105",
+  "anvil/1710192852-105",
+  "anvil/1710158922-105",
+  "anvil/1710206665-105",
+  "anvil/1763655670-106",
+  "anvil/1710209348-105",
+  "anvil/1710215743-105",
+  "anvil/329675819-107",
+  "anvil/1349448865-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.19921875,
+   "iqr": 22.01891447368422
+  },
+  "onset_rate": {
+   "median": 5.266587050838234,
+   "iqr": 1.5083105319647485
+  },
+  "tempo_var": {
+   "median": 6.67847620861834,
+   "iqr": 13.642060853962892
+  },
+  "low_onset_rate": {
+   "median": 5.723139118423109,
+   "iqr": 2.341631267856873
+  },
+  "lufs": {
+   "median": -9.511043391453232,
+   "iqr": 1.4817592388571104
+  },
+  "rms_dbfs": {
+   "median": -9.264839607915675,
+   "iqr": 1.567126179205486
+  },
+  "crest": {
+   "median": 9.264840126037598,
+   "iqr": 1.5671272277832031
+  },
+  "centroid": {
+   "median": 2764.58101620267,
+   "iqr": 528.2946415550418
+  },
+  "flatness": {
+   "median": 0.04201739840209484,
+   "iqr": 0.022786261048167944
+  },
+  "sub100_share": {
+   "median": 0.27616043388843536,
+   "iqr": 0.11402837932109833
+  },
+  "lowest_pitch": {
+   "median": 57.8704833984375,
+   "iqr": 27.58941650390625
+  },
+  "harmonic_share": {
+   "median": 0.7583913505077362,
+   "iqr": 0.07440373301506042
+  },
+  "clean_share": {
+   "median": 0.017050694285695427,
+   "iqr": 0.03852021117469072
+  },
+  "minor_share": {
+   "median": 0.04953069714496147,
+   "iqr": 0.14854037695223
+  },
+  "chord_rate": {
+   "median": 2.0691794716367147,
+   "iqr": 0.604105130242474
+  },
+  "repetitiveness": {
+   "median": 0.8997576534748077,
+   "iqr": 0.017950445413589478
+  },
+  "vocal_share": {
+   "median": 0.0808231271803379,
+   "iqr": 0.08460310567170382
+  },
+  "vocal_voiced": {
+   "median": 0.6151972078824821,
+   "iqr": 0.34139853293079336
+  },
+  "song_length": {
+   "median": 250.22,
+   "iqr": 78.82675000000003
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.5
+ },
+ "sources_failed": []
+}

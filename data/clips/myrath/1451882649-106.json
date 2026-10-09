@@ -1,0 +1,32 @@
+{
+ "id": "myrath/1451882649-106",
+ "band": "myrath",
+ "title": "Monster in My Closet",
+ "source": "itunes",
+ "album": "Shehili",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 4.84478797944043,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.644313994084275,
+  "lufs": -9.126113846723632,
+  "rms_dbfs": -7.924475856192457,
+  "crest": 7.924476146697998,
+  "centroid": 2292.509093610763,
+  "flatness": 0.02366890013217926,
+  "sub100_share": 0.3914015293121338,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.6737591028213501,
+  "clean_share": 0.10240496508921644,
+  "minor_share": -0.016875639123789477,
+  "chord_rate": 2.505924816951947,
+  "repetitiveness": 0.8948646187782288,
+  "vocal_share": 0.3346078395843506,
+  "vocal_voiced": 0.7261146496815286,
+  "song_length": 289.443
+ }
+}

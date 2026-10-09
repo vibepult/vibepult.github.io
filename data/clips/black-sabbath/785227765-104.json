@@ -1,0 +1,32 @@
+{
+ "id": "black-sabbath/785227765-104",
+ "band": "black-sabbath",
+ "title": "Gypsy",
+ "source": "itunes",
+ "album": "Technical Ecstasy",
+ "year": 1976,
+ "itunes_year": 1976,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.065012784940972,
+  "tempo_var": 3.9628022594100782,
+  "low_onset_rate": 4.931722974810946,
+  "lufs": -14.804131344987853,
+  "rms_dbfs": -14.60960243476108,
+  "crest": 14.609602928161621,
+  "centroid": 2818.942903979142,
+  "flatness": 0.03515550494194031,
+  "sub100_share": 0.07610709965229034,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.7646948099136353,
+  "clean_share": 0.0015467904098994587,
+  "minor_share": -0.21768130364052263,
+  "chord_rate": 2.732441107665524,
+  "repetitiveness": 0.7682462334632874,
+  "vocal_share": 0.13723300397396088,
+  "vocal_voiced": 0.8404907975460123,
+  "song_length": 308.24
+ }
+}

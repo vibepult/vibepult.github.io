@@ -1,0 +1,32 @@
+{
+ "id": "rainbow/1443913143-105",
+ "band": "rainbow",
+ "title": "Since You Been Gone",
+ "source": "itunes",
+ "album": "Down to Earth",
+ "year": 1979,
+ "itunes_year": 1979,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.197360390140139,
+  "tempo_var": 1.6990423254634883,
+  "low_onset_rate": 3.098051716532007,
+  "lufs": -11.391285187194194,
+  "rms_dbfs": -12.02750659423705,
+  "crest": 12.027506828308105,
+  "centroid": 2665.24138740424,
+  "flatness": 0.038464419543743134,
+  "sub100_share": 0.07349416613578796,
+  "lowest_pitch": 148.040771484375,
+  "harmonic_share": 0.5987908840179443,
+  "clean_share": 0.0920340293890178,
+  "minor_share": -0.2576831367891702,
+  "chord_rate": 1.932118274826413,
+  "repetitiveness": 0.7354629635810852,
+  "vocal_share": 0.43334484100341797,
+  "vocal_voiced": 0.700086430423509,
+  "song_length": 197.16
+ }
+}

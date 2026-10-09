@@ -1,0 +1,32 @@
+{
+ "id": "briqueville/1526167897-104",
+ "band": "briqueville",
+ "title": "Akte XI",
+ "source": "itunes",
+ "album": "Quelle",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.443840008728119,
+  "tempo_var": 11.258471304646942,
+  "low_onset_rate": 6.214693546040828,
+  "lufs": -9.056699273428015,
+  "rms_dbfs": -8.672045521855074,
+  "crest": 8.672045707702637,
+  "centroid": 2161.0271236250255,
+  "flatness": 0.01575317792594433,
+  "sub100_share": 0.13775816559791565,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.924344003200531,
+  "clean_share": 0.0,
+  "minor_share": 0.07460433105503861,
+  "chord_rate": 0.4009479707123115,
+  "repetitiveness": 0.9146724343299866,
+  "vocal_share": 0.0028982555959373713,
+  "vocal_voiced": 1.0,
+  "song_length": 310.51
+ }
+}

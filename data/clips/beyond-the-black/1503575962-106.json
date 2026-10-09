@@ -1,0 +1,32 @@
+{
+ "id": "beyond-the-black/1503575962-106",
+ "band": "beyond-the-black",
+ "title": "Golden Pariahs",
+ "source": "itunes",
+ "album": "Hørizøns",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 6.2,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.2,
+  "lufs": -10.449392647849347,
+  "rms_dbfs": -9.076418482819156,
+  "crest": 9.076417922973633,
+  "centroid": 2167.721207402261,
+  "flatness": 0.01866290718317032,
+  "sub100_share": 0.4622308015823364,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.8292746543884277,
+  "clean_share": 0.2089783281733746,
+  "minor_share": 0.22942560888342212,
+  "chord_rate": 1.8666666666666667,
+  "repetitiveness": 0.8817178606987,
+  "vocal_share": 0.16428379714488983,
+  "vocal_voiced": 0.7953125,
+  "song_length": 215.067
+ }
+}

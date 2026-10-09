@@ -1,0 +1,124 @@
+{
+ "slug": "ved-buens-ende",
+ "name": "Ved Buens Ende",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 78950026,
+  "deezer": 1235791,
+  "spotify": "21vmt9OUXyQVJEOrNad6JX"
+ },
+ "metadata": {
+  "formed": 1994,
+  "split": null,
+  "country": "NO",
+  "status": "active",
+  "members": 3,
+  "past_members": 2,
+  "full_lengths": 1,
+  "genre": "Avant-garde/Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 1024,
+  "themes": "Otherworldy, Loss",
+  "release_year": 1995
+ },
+ "partial": false,
+ "clips": [
+  "ved-buens-ende/1437841397-105",
+  "ved-buens-ende/1437841397-104",
+  "ved-buens-ende/1437841397-106",
+  "ved-buens-ende/1437841397-103",
+  "ved-buens-ende/1437841397-107",
+  "ved-buens-ende/1437841397-102",
+  "ved-buens-ende/1437841397-108",
+  "ved-buens-ende/1437841397-101",
+  "ved-buens-ende/1437841397-109"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 23.652030892448522
+  },
+  "onset_rate": {
+   "median": 3.641944067303496,
+   "iqr": 0.6682466178538524
+  },
+  "tempo_var": {
+   "median": 6.727117603871409,
+   "iqr": 13.648196022956125
+  },
+  "low_onset_rate": {
+   "median": 4.443840008728119,
+   "iqr": 1.837678199098094
+  },
+  "lufs": {
+   "median": -12.710148885728948,
+   "iqr": 1.1695264907856355
+  },
+  "rms_dbfs": {
+   "median": -11.89655589306007,
+   "iqr": 1.435186045319485
+  },
+  "crest": {
+   "median": 11.896556854248047,
+   "iqr": 1.435185432434082
+  },
+  "centroid": {
+   "median": 2113.9430755486737,
+   "iqr": 380.03984927105375
+  },
+  "flatness": {
+   "median": 0.013620022684335709,
+   "iqr": 0.014738650061190128
+  },
+  "sub100_share": {
+   "median": 0.33276671171188354,
+   "iqr": 0.05469664931297302
+  },
+  "lowest_pitch": {
+   "median": 40.374755859375,
+   "iqr": 43.06640625
+  },
+  "harmonic_share": {
+   "median": 0.8325719237327576,
+   "iqr": 0.09224897623062134
+  },
+  "clean_share": {
+   "median": 0.22808378588052755,
+   "iqr": 0.3925523661753297
+  },
+  "minor_share": {
+   "median": 0.03523948900737239,
+   "iqr": 0.12034328757579738
+  },
+  "chord_rate": {
+   "median": 1.5703795519565533,
+   "iqr": 0.735071279639238
+  },
+  "repetitiveness": {
+   "median": 0.71418297290802,
+   "iqr": 0.10344696044921875
+  },
+  "vocal_share": {
+   "median": 0.07258845865726471,
+   "iqr": 0.0
+  },
+  "vocal_voiced": {
+   "median": 0.9585987261146497,
+   "iqr": 0.0
+  },
+  "song_length": {
+   "median": 421.427,
+   "iqr": 152.933
+  },
+  "vocal_presence": {
+   "median": 0.1111111111111111,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

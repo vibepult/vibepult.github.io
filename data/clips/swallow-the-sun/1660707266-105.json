@@ -1,0 +1,32 @@
+{
+ "id": "swallow-the-sun/1660707266-105",
+ "band": "swallow-the-sun",
+ "title": "Too Cold For Tears",
+ "source": "itunes",
+ "album": "Hope",
+ "year": 2007,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 1.603791882849246,
+  "tempo_var": 3.9477200326829682,
+  "low_onset_rate": 3.641944067303496,
+  "lufs": -14.406611979202403,
+  "rms_dbfs": -12.6221374797385,
+  "crest": 12.622137069702148,
+  "centroid": 1347.6152558505385,
+  "flatness": 0.003578315954655409,
+  "sub100_share": 0.6029870510101318,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.9438809156417847,
+  "clean_share": 0.8153607447633825,
+  "minor_share": 0.20255703034737482,
+  "chord_rate": 0.8687206032100082,
+  "repetitiveness": 0.5870150923728943,
+  "vocal_share": 0.05954515188932419,
+  "vocal_voiced": 0.8143564356435643,
+  "song_length": 556.08
+ }
+}

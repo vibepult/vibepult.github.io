@@ -1,0 +1,32 @@
+{
+ "id": "enforcer/1452858633-106",
+ "band": "enforcer",
+ "title": "Sail On",
+ "source": "itunes",
+ "album": "Zenith",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 3.575119405518111,
+  "tempo_var": 30.79872113064515,
+  "low_onset_rate": 4.57748933229889,
+  "lufs": -12.76769225414692,
+  "rms_dbfs": -12.55634504922995,
+  "crest": 12.556344032287598,
+  "centroid": 2435.212575467605,
+  "flatness": 0.02552926167845726,
+  "sub100_share": 0.22424998879432678,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.6275472640991211,
+  "clean_share": 0.19006982156710628,
+  "minor_share": 0.19098119683551124,
+  "chord_rate": 1.7374412064200164,
+  "repetitiveness": 0.8526889085769653,
+  "vocal_share": 0.2016472965478897,
+  "vocal_voiced": 0.9040511727078892,
+  "song_length": 183.0
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "tristania/1183572661-104",
+ "band": "tristania",
+ "title": "December Elegy",
+ "source": "itunes",
+ "album": "Widow's Weeds",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 2.8,
+  "tempo_var": 31.202556170061154,
+  "low_onset_rate": 2.6,
+  "lufs": -17.844919330170192,
+  "rms_dbfs": -15.64713581175689,
+  "crest": 15.646869659423828,
+  "centroid": 1888.561017721996,
+  "flatness": 0.006657583639025688,
+  "sub100_share": 0.6307181119918823,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.9035306572914124,
+  "clean_share": 0.6462848297213623,
+  "minor_share": 0.2284324966081802,
+  "chord_rate": 1.7666666666666666,
+  "repetitiveness": 0.524149477481842,
+  "vocal_share": 0.16577297449111938,
+  "vocal_voiced": 0.9809885931558935,
+  "song_length": 451.347
+ }
+}

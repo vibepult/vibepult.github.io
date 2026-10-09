@@ -1,0 +1,32 @@
+{
+ "id": "ministry/396450120-105",
+ "band": "ministry",
+ "title": "Step",
+ "source": "itunes",
+ "album": "Dark Side of the Spoon",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 5.746920913543131,
+  "tempo_var": 4.565790864830653,
+  "low_onset_rate": 5.245735950152742,
+  "lufs": -9.518301464739794,
+  "rms_dbfs": -9.227540199323444,
+  "crest": 9.227540969848633,
+  "centroid": 3167.0323953054476,
+  "flatness": 0.06920880824327469,
+  "sub100_share": 0.4154254198074341,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.6859810948371887,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": 0.19883496682552515,
+  "chord_rate": 2.840048125878873,
+  "repetitiveness": 0.8983883261680603,
+  "vocal_share": 0.16524332761764526,
+  "vocal_voiced": 0.6162570888468809,
+  "song_length": 246.933
+ }
+}

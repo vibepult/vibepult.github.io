@@ -1,0 +1,32 @@
+{
+ "id": "mantar/1622538324-105",
+ "band": "mantar",
+ "title": "Swinging the Eclipse",
+ "source": "itunes",
+ "album": "Death by Burning",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 5.646683920865054,
+  "tempo_var": 15.062440435803024,
+  "low_onset_rate": 6.983177156572759,
+  "lufs": -6.6340506803198345,
+  "rms_dbfs": -6.048205041764399,
+  "crest": 6.048205375671387,
+  "centroid": 2665.859796078379,
+  "flatness": 0.0408453494310379,
+  "sub100_share": 0.3331693410873413,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7403585910797119,
+  "clean_share": 0.06904577191621412,
+  "minor_share": 0.013024902372163027,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.8621508479118347,
+  "vocal_share": 0.0762772336602211,
+  "vocal_voiced": 0.48589341692789967,
+  "song_length": 242.333
+ }
+}

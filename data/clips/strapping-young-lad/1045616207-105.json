@@ -1,0 +1,32 @@
+{
+ "id": "strapping-young-lad/1045616207-105",
+ "band": "strapping-young-lad",
+ "title": "Shine",
+ "source": "itunes",
+ "album": "Alien",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.929577486067026,
+  "tempo_var": 3.5665572758524404,
+  "low_onset_rate": 7.528564673321056,
+  "lufs": -9.919585350075415,
+  "rms_dbfs": -9.785047644134245,
+  "crest": 9.78504753112793,
+  "centroid": 2940.3540691074463,
+  "flatness": 0.06150096654891968,
+  "sub100_share": 0.3721855878829956,
+  "lowest_pitch": 29.608154296875,
+  "harmonic_share": 0.769247829914093,
+  "clean_share": 0.0007733952049497294,
+  "minor_share": 0.05058716633932153,
+  "chord_rate": 2.032046217135329,
+  "repetitiveness": 0.9191632866859436,
+  "vocal_share": 0.15431424975395203,
+  "vocal_voiced": 0.4641350210970464,
+  "song_length": 313.56
+ }
+}

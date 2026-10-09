@@ -1,0 +1,32 @@
+{
+ "id": "dawn-of-ashes/267859858-108",
+ "band": "dawn-of-ashes",
+ "title": "Slasher",
+ "source": "itunes",
+ "album": "The Crypt Injections",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.847157906221209,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 7.985547083353538,
+  "lufs": -7.21898083209438,
+  "rms_dbfs": -5.72808413998105,
+  "crest": 5.728084564208984,
+  "centroid": 2209.7919090201303,
+  "flatness": 0.022934412583708763,
+  "sub100_share": 0.4674580991268158,
+  "lowest_pitch": 29.608154296875,
+  "harmonic_share": 0.7911686897277832,
+  "clean_share": 0.07137315748642359,
+  "minor_share": 0.07127630076215064,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.9784333109855652,
+  "vocal_share": 0.001529090921394527,
+  "vocal_voiced": 1.0,
+  "song_length": 311.453
+ }
+}

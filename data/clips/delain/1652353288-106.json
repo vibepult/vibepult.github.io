@@ -1,0 +1,32 @@
+{
+ "id": "delain/1652353288-106",
+ "band": "delain",
+ "title": "The Cold",
+ "source": "itunes",
+ "album": "Dark Waters",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.466666666666667,
+  "tempo_var": 0.0,
+  "low_onset_rate": 7.333333333333333,
+  "lufs": -9.583745913061223,
+  "rms_dbfs": -8.607514401612029,
+  "crest": 8.607514381408691,
+  "centroid": 2429.27468767094,
+  "flatness": 0.02665741741657257,
+  "sub100_share": 0.3737640678882599,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8166805505752563,
+  "clean_share": 0.01393188854489164,
+  "minor_share": 0.06966371033295271,
+  "chord_rate": 1.5333333333333334,
+  "repetitiveness": 0.8822513222694397,
+  "vocal_share": 0.09461205452680588,
+  "vocal_voiced": 0.74640522875817,
+  "song_length": 277.173
+ }
+}

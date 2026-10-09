@@ -1,0 +1,32 @@
+{
+ "id": "avatar/1298681927-106",
+ "band": "avatar",
+ "title": "The King Speaks",
+ "source": "itunes",
+ "album": "Avatar Country",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.2333137819272446,
+  "tempo_var": 14.943527708909771,
+  "low_onset_rate": 4.333307130417957,
+  "lufs": -19.221244957943497,
+  "rms_dbfs": -20.73136077216766,
+  "crest": 20.731361389160156,
+  "centroid": 1845.3775551840338,
+  "flatness": 0.0196673721075058,
+  "sub100_share": 0.14221449196338654,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.41912344098091125,
+  "clean_share": 0.5754060324825986,
+  "minor_share": -0.224323028705469,
+  "chord_rate": 2.466651751160991,
+  "repetitiveness": 0.8610800504684448,
+  "vocal_share": 0.9539311528205872,
+  "vocal_voiced": 0.6190476190476191,
+  "song_length": 197.652
+ }
+}

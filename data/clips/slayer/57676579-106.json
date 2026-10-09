@@ -1,0 +1,32 @@
+{
+ "id": "slayer/57676579-106",
+ "band": "slayer",
+ "title": "Black Magic",
+ "source": "itunes",
+ "album": "Show No Mercy",
+ "year": 1983,
+ "itunes_year": 1983,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 4.999924415352754,
+  "tempo_var": 14.655448517126992,
+  "low_onset_rate": 5.366585539145289,
+  "lufs": -11.861656490422257,
+  "rms_dbfs": -12.387943532633983,
+  "crest": 12.387943267822266,
+  "centroid": 2959.256262630693,
+  "flatness": 0.03285080939531326,
+  "sub100_share": 0.3423949182033539,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7349227070808411,
+  "clean_share": 0.0,
+  "minor_share": 0.07333425299461582,
+  "chord_rate": 2.4332965488050067,
+  "repetitiveness": 0.8934071063995361,
+  "vocal_share": 4.096285692867241e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 243.36
+ }
+}

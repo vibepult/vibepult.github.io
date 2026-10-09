@@ -1,0 +1,32 @@
+{
+ "id": "norther/1660521113-104",
+ "band": "norther",
+ "title": "Midnight Walker",
+ "source": "itunes",
+ "album": "Mirror of Madness",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 4.677726324976968,
+  "tempo_var": 3.4902385257147697,
+  "low_onset_rate": 6.8829401638946806,
+  "lufs": -8.027846135484687,
+  "rms_dbfs": -7.799213271066251,
+  "crest": 7.799213409423828,
+  "centroid": 2670.1363727185926,
+  "flatness": 0.04562060162425041,
+  "sub100_share": 0.2660892903804779,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7832606434822083,
+  "clean_share": 0.0,
+  "minor_share": -0.007542159273514537,
+  "chord_rate": 1.1026069194588566,
+  "repetitiveness": 0.6537836790084839,
+  "vocal_share": 0.11024601757526398,
+  "vocal_voiced": 0.12184873949579832,
+  "song_length": 284.72
+ }
+}

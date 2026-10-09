@@ -1,0 +1,32 @@
+{
+ "id": "entoria/1450504614-101",
+ "band": "entoria",
+ "title": "Am Rande der Welt",
+ "source": "itunes",
+ "album": "Aschheim",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.040522111235029,
+  "tempo_var": 2.3173756540809096,
+  "low_onset_rate": 5.680096251757746,
+  "lufs": -17.5208507875163,
+  "rms_dbfs": -17.159637719478724,
+  "crest": 14.415688514709473,
+  "centroid": 1210.6889438899898,
+  "flatness": 0.0010869852267205715,
+  "sub100_share": 0.0204476285725832,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.9736151099205017,
+  "clean_share": 0.9891388673390225,
+  "minor_share": 0.04874163002935428,
+  "chord_rate": 0.534597294283082,
+  "repetitiveness": 0.6900525689125061,
+  "vocal_share": 6.757232995369122e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 124.958
+ }
+}

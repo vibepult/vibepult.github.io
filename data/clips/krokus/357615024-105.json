@@ -1,0 +1,32 @@
+{
+ "id": "krokus/357615024-105",
+ "band": "krokus",
+ "title": "Down the Drain",
+ "source": "itunes",
+ "album": "One Vice At a Time",
+ "year": 1982,
+ "itunes_year": 1982,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.840048125878873,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.57748933229889,
+  "lufs": -14.326747029669002,
+  "rms_dbfs": -14.945627205153237,
+  "crest": 14.945362091064453,
+  "centroid": 2534.8023881604304,
+  "flatness": 0.030932489782571793,
+  "sub100_share": 0.13059696555137634,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.663865864276886,
+  "clean_share": 0.0,
+  "minor_share": -0.15453136899198172,
+  "chord_rate": 0.6348342869611598,
+  "repetitiveness": 0.8674306869506836,
+  "vocal_share": 0.19482116401195526,
+  "vocal_voiced": 0.7669082125603864,
+  "song_length": 195.676
+ }
+}

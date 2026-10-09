@@ -1,0 +1,32 @@
+{
+ "id": "gwar/1526590538-107",
+ "band": "gwar",
+ "title": "Horror of Yig",
+ "source": "itunes",
+ "album": "Scumdogs of the Universe",
+ "year": 1990,
+ "itunes_year": 1990,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.6666666666666665,
+  "tempo_var": 12.41308307494606,
+  "low_onset_rate": 3.533333333333333,
+  "lufs": -23.71524228911956,
+  "rms_dbfs": -25.167061266580856,
+  "crest": 23.719566345214844,
+  "centroid": 2947.017536359852,
+  "flatness": 0.005857363808900118,
+  "sub100_share": 0.1117098480463028,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.7613270878791809,
+  "clean_share": 0.7407120743034056,
+  "minor_share": -0.32287328276472593,
+  "chord_rate": 1.2,
+  "repetitiveness": 0.7912918329238892,
+  "vocal_share": 0.11131617426872253,
+  "vocal_voiced": 0.0,
+  "song_length": 320.472
+ }
+}

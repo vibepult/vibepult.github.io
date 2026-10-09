@@ -1,0 +1,32 @@
+{
+ "id": "ensiferum/700734035-106",
+ "band": "ensiferum",
+ "title": "Little Dreamer (Väinämöinen, Pt. II)",
+ "source": "itunes",
+ "album": "Ensiferum",
+ "year": 2001,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.546446928186976,
+  "tempo_var": 11.958644301961675,
+  "low_onset_rate": 6.715878509431217,
+  "lufs": -9.096708618842722,
+  "rms_dbfs": -8.699991526128555,
+  "crest": 8.699991226196289,
+  "centroid": 2914.4790628176597,
+  "flatness": 0.04460791498422623,
+  "sub100_share": 0.3958926200866699,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7789151668548584,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.1655675355386813,
+  "chord_rate": 2.0047398535615577,
+  "repetitiveness": 0.7503051161766052,
+  "vocal_share": 0.09905931353569031,
+  "vocal_voiced": 0.06666666666666667,
+  "song_length": 320.4
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "wake/1490809995-105",
+ "band": "wake",
+ "title": "Mouth of Abolition",
+ "source": "itunes",
+ "album": "Devouring Ruin",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.777963317655045,
+  "tempo_var": 17.986508984399386,
+  "low_onset_rate": 6.047631891577365,
+  "lufs": -8.673954005420878,
+  "rms_dbfs": -8.076592616486826,
+  "crest": 8.076592445373535,
+  "centroid": 2569.879288935742,
+  "flatness": 0.04049907997250557,
+  "sub100_share": 0.32320404052734375,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7588632106781006,
+  "clean_share": 0.0,
+  "minor_share": 0.02208021388416126,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.8944745063781738,
+  "vocal_share": 0.09192273765802383,
+  "vocal_voiced": 0.5154185022026432,
+  "song_length": 376.435
+ }
+}

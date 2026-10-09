@@ -1,0 +1,32 @@
+{
+ "id": "kaunis-kuolematon/1488921331-106",
+ "band": "kaunis-kuolematon",
+ "title": "Sieluni sirpaleet",
+ "source": "itunes",
+ "album": "Kylmä kaunis maailma",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 2.3054508315957913,
+  "tempo_var": 1.444839953216798,
+  "low_onset_rate": 4.0428920380158075,
+  "lufs": -8.445003011473448,
+  "rms_dbfs": -8.12705825073127,
+  "crest": 8.127058029174805,
+  "centroid": 2452.08545433324,
+  "flatness": 0.03573328256607056,
+  "sub100_share": 0.3069136142730713,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6347491145133972,
+  "clean_share": 0.0062063615205585725,
+  "minor_share": 0.09506754103973192,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.769538938999176,
+  "vocal_share": 0.26974785327911377,
+  "vocal_voiced": 0.16393442622950818,
+  "song_length": 279.507
+ }
+}

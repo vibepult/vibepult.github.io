@@ -1,0 +1,127 @@
+{
+ "slug": "brujeria",
+ "name": "Brujeria",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 4163922,
+  "deezer": 14964,
+  "spotify": "1VV61UepOgsPiOjljK6mBY"
+ },
+ "metadata": {
+  "formed": 1989,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 6,
+  "past_members": 15,
+  "full_lengths": 5,
+  "genre": "Death/Groove Metal/Grindcore",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 38070,
+  "themes": "Drug smuggling, Mexican pride, Satanism, Sex, Gore, Racism, Politics",
+  "release_year": 1997
+ },
+ "partial": false,
+ "clips": [
+  "brujeria/215211258-114",
+  "brujeria/214478345-107",
+  "brujeria/214475115-107",
+  "brujeria/1458652924-107",
+  "brujeria/1692888991-108",
+  "brujeria/215211258-111",
+  "brujeria/214478345-108",
+  "brujeria/214475115-106",
+  "brujeria/1458652924-106",
+  "brujeria/1692888991-109",
+  "brujeria/215211258-115",
+  "brujeria/214478345-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 45.9460823235828
+  },
+  "onset_rate": {
+   "median": 3.887809678247894,
+   "iqr": 2.322156997042138
+  },
+  "tempo_var": {
+   "median": 11.23116580566281,
+   "iqr": 9.782208765897817
+  },
+  "low_onset_rate": {
+   "median": 6.097750387916404,
+   "iqr": 1.3133431899976635
+  },
+  "lufs": {
+   "median": -9.811739456848793,
+   "iqr": 2.6836701661034823
+  },
+  "rms_dbfs": {
+   "median": -9.291033179958468,
+   "iqr": 2.2282540790335172
+  },
+  "crest": {
+   "median": 9.291033267974854,
+   "iqr": 2.228254556655884
+  },
+  "centroid": {
+   "median": 2500.0511664574005,
+   "iqr": 155.49428531570857
+  },
+  "flatness": {
+   "median": 0.029606733471155167,
+   "iqr": 0.00998378312215209
+  },
+  "sub100_share": {
+   "median": 0.2998933047056198,
+   "iqr": 0.14085585623979568
+  },
+  "lowest_pitch": {
+   "median": 60.5621337890625,
+   "iqr": 24.89776611328125
+  },
+  "harmonic_share": {
+   "median": 0.6436259746551514,
+   "iqr": 0.08812752366065979
+  },
+  "clean_share": {
+   "median": 0.08068269976726145,
+   "iqr": 0.11889061287820016
+  },
+  "minor_share": {
+   "median": -0.02708046327448177,
+   "iqr": 0.11582171797132537
+  },
+  "chord_rate": {
+   "median": 2.636339965798488,
+   "iqr": 0.48766964024200377
+  },
+  "repetitiveness": {
+   "median": 0.9414336383342743,
+   "iqr": 0.04658538103103638
+  },
+  "vocal_share": {
+   "median": 0.09890050441026688,
+   "iqr": 0.14479874819517136
+  },
+  "vocal_voiced": {
+   "median": 0.1352154531946508,
+   "iqr": 0.09722442611363245
+  },
+  "song_length": {
+   "median": 180.0065,
+   "iqr": 62.780249999999995
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.9,
+  "camp": 0.7
+ },
+ "sources_failed": []
+}

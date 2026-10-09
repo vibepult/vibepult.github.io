@@ -1,0 +1,32 @@
+{
+ "id": "bathory/298777463-105",
+ "band": "bathory",
+ "title": "Blood and Soil",
+ "source": "itunes",
+ "album": "Requiem",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.112086626581972,
+  "tempo_var": 2.733080121255286,
+  "low_onset_rate": 7.083414149250837,
+  "lufs": -9.728559503301398,
+  "rms_dbfs": -8.949317663467989,
+  "crest": 8.949317932128906,
+  "centroid": 2922.207585839518,
+  "flatness": 0.0356011763215065,
+  "sub100_share": 0.6653048396110535,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8888653516769409,
+  "clean_share": 0.031031807602792862,
+  "minor_share": 0.02226431776703225,
+  "chord_rate": 2.8734604567715656,
+  "repetitiveness": 0.9551336765289307,
+  "vocal_share": 0.023757658898830414,
+  "vocal_voiced": 0.27379209370424595,
+  "song_length": 215.013
+ }
+}

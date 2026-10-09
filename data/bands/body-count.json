@@ -1,0 +1,127 @@
+{
+ "slug": "body-count",
+ "name": "Body Count",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 645352,
+  "deezer": 2987,
+  "spotify": "5KCph1z3jaSwhtwPzoYp6i"
+ },
+ "metadata": {
+  "formed": 1990,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 7,
+  "past_members": 8,
+  "full_lengths": 8,
+  "genre": "Crossover/Thrash/Groove Metal, Rap Rock/Hardcore",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 58017,
+  "themes": "Social issues, Death, Humour, Politics, Violence, Police brutality, Gang life, Anti-racism",
+  "release_year": 2005
+ },
+ "partial": false,
+ "clips": [
+  "body-count/862275493-111",
+  "body-count/724597674-109",
+  "body-count/1820880340-107",
+  "body-count/1201912007-105",
+  "body-count/862275493-110",
+  "body-count/724597674-107",
+  "body-count/1820880340-108",
+  "body-count/1201912007-107",
+  "body-count/862275493-112",
+  "body-count/724597674-110",
+  "body-count/1820880340-106",
+  "body-count/1201912007-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 103.359375,
+   "iqr": 26.566938920454547
+  },
+  "onset_rate": {
+   "median": 4.43844971752107,
+   "iqr": 1.997246732633874
+  },
+  "tempo_var": {
+   "median": 15.203176452415518,
+   "iqr": 11.455740118127698
+  },
+  "low_onset_rate": {
+   "median": 5.420845308208672,
+   "iqr": 2.420372235548139
+  },
+  "lufs": {
+   "median": -8.891077543148642,
+   "iqr": 5.393010927419295
+  },
+  "rms_dbfs": {
+   "median": -8.316492365370024,
+   "iqr": 5.172471334475521
+  },
+  "crest": {
+   "median": 8.316492319107056,
+   "iqr": 5.172471523284912
+  },
+  "centroid": {
+   "median": 2579.1115726040352,
+   "iqr": 219.0888143557704
+  },
+  "flatness": {
+   "median": 0.03600542992353439,
+   "iqr": 0.01776061626151204
+  },
+  "sub100_share": {
+   "median": 0.24860069900751114,
+   "iqr": 0.11544936522841454
+  },
+  "lowest_pitch": {
+   "median": 61.907958984375,
+   "iqr": 23.55194091796875
+  },
+  "harmonic_share": {
+   "median": 0.666733980178833,
+   "iqr": 0.03766489028930664
+  },
+  "clean_share": {
+   "median": 0.00580046403712297,
+   "iqr": 0.13216703056441048
+  },
+  "minor_share": {
+   "median": -0.0011224050362606264,
+   "iqr": 0.07756748237448345
+  },
+  "chord_rate": {
+   "median": 1.7018425854596149,
+   "iqr": 0.5117015768024564
+  },
+  "repetitiveness": {
+   "median": 0.878495067358017,
+   "iqr": 0.06274102628231049
+  },
+  "vocal_share": {
+   "median": 0.24783354997634888,
+   "iqr": 0.10243087261915207
+  },
+  "vocal_voiced": {
+   "median": 0.6172945205479452,
+   "iqr": 0.23166215877382657
+  },
+  "song_length": {
+   "median": 244.8585,
+   "iqr": 76.701
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

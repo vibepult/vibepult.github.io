@@ -1,0 +1,32 @@
+{
+ "id": "seigmen/1833401146-105",
+ "band": "seigmen",
+ "title": "Dissonans",
+ "source": "itunes",
+ "album": "Dissonans",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 1.9666369367054164,
+  "tempo_var": 0.0,
+  "low_onset_rate": 2.4332965488050067,
+  "lufs": -7.801329834620651,
+  "rms_dbfs": -7.012762877492228,
+  "crest": 7.012762546539307,
+  "centroid": 1848.7181004779068,
+  "flatness": 0.01591924950480461,
+  "sub100_share": 0.30744045972824097,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8423646688461304,
+  "clean_share": 0.39597834493426143,
+  "minor_share": 0.1418041820832504,
+  "chord_rate": 1.7666399600913063,
+  "repetitiveness": 0.7154260873794556,
+  "vocal_share": 0.054654426872730255,
+  "vocal_voiced": 0.7730769230769231,
+  "song_length": 222.64
+ }
+}

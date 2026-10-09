@@ -1,0 +1,32 @@
+{
+ "id": "saxon/1437341373-107",
+ "band": "saxon",
+ "title": "For Whom the Bell Tolls",
+ "source": "itunes",
+ "album": "Destiny",
+ "year": 1988,
+ "itunes_year": 1988,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.099922903659809,
+  "tempo_var": 13.831017324757392,
+  "low_onset_rate": 6.69989871657269,
+  "lufs": -11.1629130806898,
+  "rms_dbfs": -11.220265421140372,
+  "crest": 11.22026538848877,
+  "centroid": 2460.569428884492,
+  "flatness": 0.026762712746858597,
+  "sub100_share": 0.2687768340110779,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7809478044509888,
+  "clean_share": 0.037122969837587005,
+  "minor_share": 0.06250676178437281,
+  "chord_rate": 2.299965231062267,
+  "repetitiveness": 0.8904470205307007,
+  "vocal_share": 0.28051623702049255,
+  "vocal_voiced": 0.8224852071005917,
+  "song_length": 234.693
+ }
+}

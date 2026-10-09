@@ -1,0 +1,32 @@
+{
+ "id": "skid-row/1804940607-108",
+ "band": "skid-row",
+ "title": "You Lie",
+ "source": "itunes",
+ "album": "Revolutions Per Minute",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 5.2,
+  "tempo_var": 0.0,
+  "low_onset_rate": 3.533333333333333,
+  "lufs": -9.437535216417528,
+  "rms_dbfs": -9.470287482775833,
+  "crest": 9.470287322998047,
+  "centroid": 2423.004483643038,
+  "flatness": 0.032258693128824234,
+  "sub100_share": 0.2352023422718048,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6132697463035583,
+  "clean_share": 0.08126934984520123,
+  "minor_share": -0.24683886134247857,
+  "chord_rate": 0.8666666666666667,
+  "repetitiveness": 0.9191252589225769,
+  "vocal_share": 0.270047128200531,
+  "vocal_voiced": 0.8366788321167883,
+  "song_length": 163.516
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "ensiferum/1743849495-105",
+ "band": "ensiferum",
+ "title": "Scars in My Heart (feat. Madeleine Liljestam)",
+ "source": "itunes",
+ "album": "Winter Storm",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.2332844552614475,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 4.966591585917069,
+  "lufs": -9.456674183373428,
+  "rms_dbfs": -9.019889369946746,
+  "crest": 9.019888877868652,
+  "centroid": 2495.2628989861837,
+  "flatness": 0.026338893920183182,
+  "sub100_share": 0.25776907801628113,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.7750688195228577,
+  "clean_share": 0.008507347254447023,
+  "minor_share": 0.2726578320161491,
+  "chord_rate": 1.1333162008132909,
+  "repetitiveness": 0.7305611371994019,
+  "vocal_share": 0.14530494809150696,
+  "vocal_voiced": 0.8975741239892183,
+  "song_length": 279.453
+ }
+}

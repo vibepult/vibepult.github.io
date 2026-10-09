@@ -1,0 +1,32 @@
+{
+ "id": "daniel-lioneye/1675486309-105",
+ "band": "daniel-lioneye",
+ "title": "Ravensong",
+ "source": "itunes",
+ "album": "Vol. III",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 2.9068727876642586,
+  "tempo_var": 4.0226882003863675,
+  "low_onset_rate": 4.410427677835426,
+  "lufs": -7.960020210307308,
+  "rms_dbfs": -7.76866647267958,
+  "crest": 7.7686662673950195,
+  "centroid": 2165.585390699255,
+  "flatness": 0.022519748657941818,
+  "sub100_share": 0.24622777104377747,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7602906823158264,
+  "clean_share": 0.17843289371605897,
+  "minor_share": -0.2072942562785156,
+  "chord_rate": 1.1026069194588566,
+  "repetitiveness": 0.8702879548072815,
+  "vocal_share": 0.19214722514152527,
+  "vocal_voiced": 0.782716049382716,
+  "song_length": 356.587
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "dagoba/1590527101-105",
+ "band": "dagoba",
+ "title": "On the Run",
+ "source": "itunes",
+ "album": "By Night",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.4989526247857645,
+  "tempo_var": 3.7695831938876005,
+  "low_onset_rate": 5.798650049723874,
+  "lufs": -6.706055053424854,
+  "rms_dbfs": -6.475921056178421,
+  "crest": 6.475920677185059,
+  "centroid": 2575.6429827442594,
+  "flatness": 0.03858700394630432,
+  "sub100_share": 0.27074509859085083,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7215845584869385,
+  "clean_share": 0.009280742459396751,
+  "minor_share": 0.13136698004470782,
+  "chord_rate": 1.466325299930175,
+  "repetitiveness": 0.7861423492431641,
+  "vocal_share": 0.2757107615470886,
+  "vocal_voiced": 0.4374475230898405,
+  "song_length": 244.573
+ }
+}

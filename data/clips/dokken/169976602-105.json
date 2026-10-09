@@ -1,0 +1,32 @@
+{
+ "id": "dokken/169976602-105",
+ "band": "dokken",
+ "title": "Nothing Left to Say",
+ "source": "itunes",
+ "album": "Dysfunctional",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.23065359960962,
+  "tempo_var": 0.9654863450447174,
+  "low_onset_rate": 4.96352272710105,
+  "lufs": -17.657645476295645,
+  "rms_dbfs": -17.074887083076845,
+  "crest": 17.074886322021484,
+  "centroid": 2150.566436981229,
+  "flatness": 0.013307594694197178,
+  "sub100_share": 0.2591427266597748,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8989402055740356,
+  "clean_share": 0.4075792730085073,
+  "minor_share": 0.014980081833018799,
+  "chord_rate": 1.0993036912371452,
+  "repetitiveness": 0.55545574426651,
+  "vocal_share": 0.41303756833076477,
+  "vocal_voiced": 0.7798982188295165,
+  "song_length": 270.2
+ }
+}

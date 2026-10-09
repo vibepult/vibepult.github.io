@@ -1,0 +1,127 @@
+{
+ "slug": "seigmen",
+ "name": "Seigmen",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 160817502,
+  "deezer": 158543,
+  "spotify": "2Z1eA0HAiJ3yAr7byuj4v4"
+ },
+ "metadata": {
+  "formed": 1989,
+  "split": null,
+  "country": "NO",
+  "status": "active",
+  "members": 5,
+  "past_members": 0,
+  "full_lengths": 8,
+  "genre": "Gothic Metal (early); Atmospheric Alternative/Gothic Rock (later)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 918,
+  "themes": "Abstract, Modern life, Inner struggles",
+  "release_year": 2006
+ },
+ "partial": false,
+ "clips": [
+  "seigmen/299629257-104",
+  "seigmen/299625972-105",
+  "seigmen/273641184-106",
+  "seigmen/1750077459-105",
+  "seigmen/1750949561-105",
+  "seigmen/1833401146-105",
+  "seigmen/299629257-105",
+  "seigmen/299625972-106",
+  "seigmen/273641184-107",
+  "seigmen/1750077459-106",
+  "seigmen/1750949561-106",
+  "seigmen/1833401146-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 15.478597277382946
+  },
+  "onset_rate": {
+   "median": 3.349949358286345,
+   "iqr": 1.667391305888449
+  },
+  "tempo_var": {
+   "median": 2.3675818431952695,
+   "iqr": 3.9120228284263465
+  },
+  "low_onset_rate": {
+   "median": 4.399933485510424,
+   "iqr": 1.073010658502529
+  },
+  "lufs": {
+   "median": -13.113657513259113,
+   "iqr": 7.356149029971284
+  },
+  "rms_dbfs": {
+   "median": -12.266020410525092,
+   "iqr": 7.70112790138083
+  },
+  "crest": {
+   "median": 12.067112922668457,
+   "iqr": 5.621402978897095
+  },
+  "centroid": {
+   "median": 1724.4423551138107,
+   "iqr": 933.1509453025049
+  },
+  "flatness": {
+   "median": 0.00841233180835843,
+   "iqr": 0.015278965962352231
+  },
+  "sub100_share": {
+   "median": 0.42754417657852173,
+   "iqr": 0.2647508382797241
+  },
+  "lowest_pitch": {
+   "median": 57.8704833984375,
+   "iqr": 31.62689208984375
+  },
+  "harmonic_share": {
+   "median": 0.8509373366832733,
+   "iqr": 0.06952725350856781
+  },
+  "clean_share": {
+   "median": 0.6423047177107502,
+   "iqr": 0.5425218863643044
+  },
+  "minor_share": {
+   "median": 0.0635539075773473,
+   "iqr": 0.11371428590846613
+  },
+  "chord_rate": {
+   "median": 1.2833139332738734,
+   "iqr": 0.5857493095632196
+  },
+  "repetitiveness": {
+   "median": 0.7469156682491302,
+   "iqr": 0.13662895560264587
+  },
+  "vocal_share": {
+   "median": 0.07308598980307579,
+   "iqr": 0.04032520577311516
+  },
+  "vocal_voiced": {
+   "median": 0.8436888525989025,
+   "iqr": 0.09321477047736337
+  },
+  "song_length": {
+   "median": 281.0935,
+   "iqr": 81.87000000000003
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "sirenia/1694699134-107",
+ "band": "sirenia",
+ "title": "Decadence",
+ "source": "itunes",
+ "album": "Perils Of The Deep Blue",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.766598338352139,
+  "tempo_var": 16.936008787163917,
+  "low_onset_rate": 4.233256539563908,
+  "lufs": -8.279817591181917,
+  "rms_dbfs": -7.7633364611404065,
+  "crest": 7.763336181640625,
+  "centroid": 2815.811186100066,
+  "flatness": 0.04229758307337761,
+  "sub100_share": 0.501544177532196,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.8190736174583435,
+  "clean_share": 0.0,
+  "minor_share": 0.038393508099965,
+  "chord_rate": 1.69996916155716,
+  "repetitiveness": 0.8834367394447327,
+  "vocal_share": 0.11441098153591156,
+  "vocal_voiced": 0.8613953488372093,
+  "song_length": 298.92
+ }
+}

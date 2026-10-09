@@ -1,0 +1,32 @@
+{
+ "id": "megadeth/268441837-104",
+ "band": "megadeth",
+ "title": "Rattlehead",
+ "source": "itunes",
+ "album": "Killing Is My Business... And Business Is Good!",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 7.0288811773041715,
+  "tempo_var": 24.673246410851508,
+  "low_onset_rate": 6.296012049812742,
+  "lufs": -8.150043248517768,
+  "rms_dbfs": -8.04205879454625,
+  "crest": 8.042058944702148,
+  "centroid": 2674.5906737305077,
+  "flatness": 0.036212462931871414,
+  "sub100_share": 0.3321000933647156,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.6257290840148926,
+  "clean_share": 0.004640371229698376,
+  "minor_share": -0.10245318792273972,
+  "chord_rate": 2.032046217135329,
+  "repetitiveness": 0.9060826301574707,
+  "vocal_share": 0.06915517896413803,
+  "vocal_voiced": 0.3706293706293706,
+  "song_length": 223.04
+ }
+}

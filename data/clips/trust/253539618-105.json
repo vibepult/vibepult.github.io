@@ -1,0 +1,32 @@
+{
+ "id": "trust/253539618-105",
+ "band": "trust",
+ "title": "Passe",
+ "source": "itunes",
+ "album": "Répression",
+ "year": 1980,
+ "itunes_year": 1980,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.430526998016373,
+  "tempo_var": 3.1453021746558836,
+  "low_onset_rate": 5.39658175698235,
+  "lufs": -15.623891554247466,
+  "rms_dbfs": -15.16327238363762,
+  "crest": 15.163272857666016,
+  "centroid": 2686.328851660588,
+  "flatness": 0.028675058856606483,
+  "sub100_share": 0.17545580863952637,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7311081290245056,
+  "clean_share": 0.0448569218870843,
+  "minor_share": -0.16328309931361262,
+  "chord_rate": 2.131982916338706,
+  "repetitiveness": 0.7094339728355408,
+  "vocal_share": 0.24431096017360687,
+  "vocal_voiced": 0.6779448621553885,
+  "song_length": 223.64
+ }
+}

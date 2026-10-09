@@ -1,0 +1,32 @@
+{
+ "id": "after-the-burial/1817267453-104",
+ "band": "after-the-burial",
+ "title": "In Flux",
+ "source": "itunes",
+ "album": "Evergreen",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.433266314946108,
+  "tempo_var": 7.523333835419094,
+  "low_onset_rate": 3.666611237925353,
+  "lufs": -7.814922149871489,
+  "rms_dbfs": -7.199963713490355,
+  "crest": 7.199963569641113,
+  "centroid": 2549.284855576738,
+  "flatness": 0.035866402089595795,
+  "sub100_share": 0.4424547255039215,
+  "lowest_pitch": 29.608154296875,
+  "harmonic_share": 0.6894476413726807,
+  "clean_share": 0.03480278422273782,
+  "minor_share": -0.055216654211688254,
+  "chord_rate": 2.4332965488050067,
+  "repetitiveness": 0.9603723287582397,
+  "vocal_share": 0.22075726091861725,
+  "vocal_voiced": 0.17073170731707318,
+  "song_length": 364.654
+ }
+}

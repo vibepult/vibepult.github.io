@@ -1,0 +1,32 @@
+{
+ "id": "kreator/1440510376-107",
+ "band": "kreator",
+ "title": "Carrion",
+ "source": "itunes",
+ "album": "Pleasure to Kill",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 8.233333333333333,
+  "tempo_var": 4.243195952570829,
+  "low_onset_rate": 9.1,
+  "lufs": -9.742101618478781,
+  "rms_dbfs": -9.208055430778382,
+  "crest": 9.20805549621582,
+  "centroid": 2782.6059750069744,
+  "flatness": 0.035904478281736374,
+  "sub100_share": 0.4154462218284607,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7837846875190735,
+  "clean_share": 0.0,
+  "minor_share": 0.0520389440307146,
+  "chord_rate": 2.2,
+  "repetitiveness": 0.9477089643478394,
+  "vocal_share": 0.07500088959932327,
+  "vocal_voiced": 0.022435897435897436,
+  "song_length": 286.933
+ }
+}

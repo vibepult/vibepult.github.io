@@ -1,0 +1,127 @@
+{
+ "slug": "whitechapel",
+ "name": "Whitechapel",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 127084107,
+  "deezer": 123972,
+  "spotify": "5274obTQJjzjyycRyJlfml"
+ },
+ "metadata": {
+  "formed": 2006,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 6,
+  "past_members": 4,
+  "full_lengths": 9,
+  "genre": "Deathcore",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 95970,
+  "themes": "Whitechapel murders (early); Anti-religion, Corruption, Inner struggles, Conceptual stories (later)",
+  "release_year": 2011
+ },
+ "partial": false,
+ "clips": [
+  "whitechapel/606269645-106",
+  "whitechapel/280784515-106",
+  "whitechapel/368981100-106",
+  "whitechapel/522968606-105",
+  "whitechapel/828056300-107",
+  "whitechapel/1106659171-106",
+  "whitechapel/1440345266-105",
+  "whitechapel/1579782691-105",
+  "whitechapel/1781939814-106",
+  "whitechapel/606269645-105",
+  "whitechapel/280784515-105",
+  "whitechapel/368981100-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 27.53983347039474
+  },
+  "onset_rate": {
+   "median": 5.4332922656749965,
+   "iqr": 1.5500472404045285
+  },
+  "tempo_var": {
+   "median": 15.219041926686678,
+   "iqr": 6.641485961013029
+  },
+  "low_onset_rate": {
+   "median": 6.049954145314004,
+   "iqr": 1.3999604440346083
+  },
+  "lufs": {
+   "median": -8.577034243724636,
+   "iqr": 1.3418400363524041
+  },
+  "rms_dbfs": {
+   "median": -8.060413122412173,
+   "iqr": 1.176560858936078
+  },
+  "crest": {
+   "median": 8.060413122177124,
+   "iqr": 1.1765612363815308
+  },
+  "centroid": {
+   "median": 2417.7670990317174,
+   "iqr": 233.8189873399947
+  },
+  "flatness": {
+   "median": 0.032374742440879345,
+   "iqr": 0.01165526220574975
+  },
+  "sub100_share": {
+   "median": 0.3360407203435898,
+   "iqr": 0.10757749900221825
+  },
+  "lowest_pitch": {
+   "median": 51.141357421875,
+   "iqr": 11.43951416015625
+  },
+  "harmonic_share": {
+   "median": 0.6935620307922363,
+   "iqr": 0.0813760906457901
+  },
+  "clean_share": {
+   "median": 0.004642765642097601,
+   "iqr": 0.026295436968290797
+  },
+  "minor_share": {
+   "median": 0.046549974653963266,
+   "iqr": 0.1200366835436458
+  },
+  "chord_rate": {
+   "median": 2.0999682544481564,
+   "iqr": 0.6000000000000003
+  },
+  "repetitiveness": {
+   "median": 0.9188230931758881,
+   "iqr": 0.022184833884239197
+  },
+  "vocal_share": {
+   "median": 0.20782620459794998,
+   "iqr": 0.07459495961666107
+  },
+  "vocal_voiced": {
+   "median": 0.12827036300541972,
+   "iqr": 0.16173851923416047
+  },
+  "song_length": {
+   "median": 213.1255,
+   "iqr": 55.439750000000004
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

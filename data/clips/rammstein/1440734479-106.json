@@ -1,0 +1,32 @@
+{
+ "id": "rammstein/1440734479-106",
+ "band": "rammstein",
+ "title": "Amerika",
+ "source": "itunes",
+ "album": "Reise, Reise",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "hand",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.6333174100232197,
+  "tempo_var": 4.945756889119922,
+  "low_onset_rate": 4.266640866873065,
+  "lufs": -9.544310698928943,
+  "rms_dbfs": -10.115267820973713,
+  "crest": 10.11526870727539,
+  "centroid": 2092.686689911759,
+  "flatness": 0.025382904335856438,
+  "sub100_share": 0.1218569353222847,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.6731663942337036,
+  "clean_share": 0.44779582366589327,
+  "minor_share": -0.10052316270128603,
+  "chord_rate": 1.0333270849458205,
+  "repetitiveness": 0.7854539155960083,
+  "vocal_share": 0.4158458411693573,
+  "vocal_voiced": 0.6214057507987221,
+  "song_length": 226.76
+ }
+}

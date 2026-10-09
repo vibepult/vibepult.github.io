@@ -1,0 +1,32 @@
+{
+ "id": "callisto/313241977-104",
+ "band": "callisto",
+ "title": "Eastern Era",
+ "source": "itunes",
+ "album": "Providence",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.809005721766959,
+  "tempo_var": 6.7006834292928135,
+  "low_onset_rate": 5.9473948988992875,
+  "lufs": -10.805600653564545,
+  "rms_dbfs": -9.331454035116016,
+  "crest": 9.331454277038574,
+  "centroid": 1631.797961707344,
+  "flatness": 0.0060433512553572655,
+  "sub100_share": 0.5181369185447693,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8501431941986084,
+  "clean_share": 0.6617532971295578,
+  "minor_share": 0.12996658409232315,
+  "chord_rate": 0.801895941424623,
+  "repetitiveness": 0.7934072017669678,
+  "vocal_share": 5.085323664388852e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 339.24
+ }
+}

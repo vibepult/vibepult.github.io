@@ -1,0 +1,32 @@
+{
+ "id": "mercenary/1606815905-105",
+ "band": "mercenary",
+ "title": "Perceptive",
+ "source": "itunes",
+ "album": "First Breath",
+ "year": 1998,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 3.207583765698492,
+  "tempo_var": 23.620863940937348,
+  "low_onset_rate": 5.780333244435824,
+  "lufs": -10.86145540528374,
+  "rms_dbfs": -9.971763034382041,
+  "crest": 9.971762657165527,
+  "centroid": 2795.0974179009004,
+  "flatness": 0.04198327660560608,
+  "sub100_share": 0.602155864238739,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8496081829071045,
+  "clean_share": 0.032583397982932506,
+  "minor_share": -0.13098386585155997,
+  "chord_rate": 2.472512486059254,
+  "repetitiveness": 0.88388991355896,
+  "vocal_share": 0.0033073476515710354,
+  "vocal_voiced": 0.0,
+  "song_length": 385.507
+ }
+}

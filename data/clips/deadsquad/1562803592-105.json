@@ -1,0 +1,32 @@
+{
+ "id": "deadsquad/1562803592-105",
+ "band": "deadsquad",
+ "title": "Pragmatis Sintetis",
+ "source": "itunes",
+ "album": "Tyranation",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 7.116826480143529,
+  "tempo_var": 0.4521480977658144,
+  "low_onset_rate": 8.319670392280464,
+  "lufs": -7.22025486065076,
+  "rms_dbfs": -7.002967748459833,
+  "crest": 7.002967834472656,
+  "centroid": 2510.997307404653,
+  "flatness": 0.04384596645832062,
+  "sub100_share": 0.2069699615240097,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.6350523829460144,
+  "clean_share": 0.0,
+  "minor_share": 0.007984855519262979,
+  "chord_rate": 2.773223464093488,
+  "repetitiveness": 0.9529135823249817,
+  "vocal_share": 0.10652265697717667,
+  "vocal_voiced": 0.17955112219451372,
+  "song_length": 259.096
+ }
+}

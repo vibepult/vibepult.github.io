@@ -1,0 +1,32 @@
+{
+ "id": "aeon-zen/1498184874-106",
+ "band": "aeon-zen",
+ "title": "Unite",
+ "source": "itunes",
+ "album": "Ephemera (Game of the Year Edition)",
+ "year": 2014,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.412797604616205,
+  "tempo_var": 0.0,
+  "low_onset_rate": 7.3841251272850705,
+  "lufs": -9.074299289232572,
+  "rms_dbfs": -8.761052175083758,
+  "crest": 8.761052131652832,
+  "centroid": 2864.089041370279,
+  "flatness": 0.03605911135673523,
+  "sub100_share": 0.367082417011261,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.8144672513008118,
+  "clean_share": 0.0031031807602792862,
+  "minor_share": 0.11806569508009118,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.928796648979187,
+  "vocal_share": 0.25486236810684204,
+  "vocal_voiced": 0.6913385826771653,
+  "song_length": 311.84
+ }
+}

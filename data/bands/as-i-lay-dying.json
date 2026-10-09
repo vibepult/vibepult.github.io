@@ -1,0 +1,127 @@
+{
+ "slug": "as-i-lay-dying",
+ "name": "As I Lay Dying",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 54266496,
+  "deezer": 3823,
+  "spotify": "2vd2HnNh4pdYa9gDVHFjEu"
+ },
+ "metadata": {
+  "formed": 2000,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 14,
+  "full_lengths": 9,
+  "genre": "Metalcore",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 122134,
+  "themes": "Christianity (early); Relationships, Inner struggles (later)",
+  "release_year": 2008
+ },
+ "partial": false,
+ "clips": [
+  "as-i-lay-dying/54266890-106",
+  "as-i-lay-dying/65637667-106",
+  "as-i-lay-dying/259908993-106",
+  "as-i-lay-dying/366245095-106",
+  "as-i-lay-dying/551761012-105",
+  "as-i-lay-dying/1777013177-107",
+  "as-i-lay-dying/1766143431-106",
+  "as-i-lay-dying/6809840586-105",
+  "as-i-lay-dying/54266890-105",
+  "as-i-lay-dying/65637667-107",
+  "as-i-lay-dying/259908993-107",
+  "as-i-lay-dying/366245095-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 135.99917763157896,
+   "iqr": 33.87408088235293
+  },
+  "onset_rate": {
+   "median": 5.316586294991762,
+   "iqr": 2.599945956977219
+  },
+  "tempo_var": {
+   "median": 13.340815474681627,
+   "iqr": 8.670338526360295
+  },
+  "low_onset_rate": {
+   "median": 6.149907030883887,
+   "iqr": 1.908243261628698
+  },
+  "lufs": {
+   "median": -8.178866245626214,
+   "iqr": 1.0957826456917443
+  },
+  "rms_dbfs": {
+   "median": -7.789539833786292,
+   "iqr": 1.484677533059589
+  },
+  "crest": {
+   "median": 7.789539813995361,
+   "iqr": 1.4846770763397217
+  },
+  "centroid": {
+   "median": 2755.9984374816327,
+   "iqr": 237.10855075967538
+  },
+  "flatness": {
+   "median": 0.04654843360185623,
+   "iqr": 0.017203000374138355
+  },
+  "sub100_share": {
+   "median": 0.405150905251503,
+   "iqr": 0.2024945579469204
+  },
+  "lowest_pitch": {
+   "median": 51.141357421875,
+   "iqr": 16.14990234375
+  },
+  "harmonic_share": {
+   "median": 0.7555060386657715,
+   "iqr": 0.061997681856155396
+  },
+  "clean_share": {
+   "median": 0.0027068832173240526,
+   "iqr": 0.008120649651972157
+  },
+  "minor_share": {
+   "median": -0.003471962996695832,
+   "iqr": 0.08171475710443912
+  },
+  "chord_rate": {
+   "median": 1.066657344560173,
+   "iqr": 0.7833184683527085
+  },
+  "repetitiveness": {
+   "median": 0.8989396393299103,
+   "iqr": 0.0647629052400589
+  },
+  "vocal_share": {
+   "median": 0.13762283325195312,
+   "iqr": 0.06025625951588154
+  },
+  "vocal_voiced": {
+   "median": 0.20030943863303596,
+   "iqr": 0.2892882903839226
+  },
+  "song_length": {
+   "median": 232.50799999999998,
+   "iqr": 77.35624999999999
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

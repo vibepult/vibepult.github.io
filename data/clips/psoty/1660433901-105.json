@@ -1,0 +1,32 @@
+{
+ "id": "psoty/1660433901-105",
+ "band": "psoty",
+ "title": "Queen of Hades",
+ "source": "itunes",
+ "album": "Sunless",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 2.205213838917713,
+  "tempo_var": 38.002918279539706,
+  "low_onset_rate": 3.4414700819473403,
+  "lufs": -9.850721219545642,
+  "rms_dbfs": -8.969456321129215,
+  "crest": 8.969456672668457,
+  "centroid": 1936.9618931828425,
+  "flatness": 0.009322564117610455,
+  "sub100_share": 0.2378813922405243,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7970535755157471,
+  "clean_share": 0.45151280062063615,
+  "minor_share": 0.004289345036674663,
+  "chord_rate": 0.6682466178538525,
+  "repetitiveness": 0.8522957563400269,
+  "vocal_share": 8.70906433192431e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 479.213
+ }
+}

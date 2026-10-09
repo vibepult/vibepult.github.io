@@ -1,0 +1,32 @@
+{
+ "id": "quiet-riot/1474008991-106",
+ "band": "quiet-riot",
+ "title": "Roll On",
+ "source": "itunes",
+ "album": "Hollywood Cowboys",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 2.9736974494496438,
+  "tempo_var": 1.6531301556529794,
+  "low_onset_rate": 3.4080577510546477,
+  "lufs": -7.978483668943318,
+  "rms_dbfs": -7.5408512446102325,
+  "crest": 7.540850639343262,
+  "centroid": 1983.9104588006448,
+  "flatness": 0.013528630137443542,
+  "sub100_share": 0.13823138177394867,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8002775311470032,
+  "clean_share": 0.2986811481768813,
+  "minor_share": -0.18358028437538176,
+  "chord_rate": 0.9689575958880862,
+  "repetitiveness": 0.8240582942962646,
+  "vocal_share": 0.2765602171421051,
+  "vocal_voiced": 0.71875,
+  "song_length": 353.229
+ }
+}

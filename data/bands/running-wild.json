@@ -1,0 +1,127 @@
+{
+ "slug": "running-wild",
+ "name": "Running Wild",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 7296903,
+  "deezer": 14547,
+  "spotify": "7954VFaZClkL503srfV5PE"
+ },
+ "metadata": {
+  "formed": 1979,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 4,
+  "past_members": 17,
+  "full_lengths": 18,
+  "genre": "Heavy/Power/Speed Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 35108,
+  "themes": "Satan, Metal (early); Pirates, History, Tales, Literature",
+  "release_year": 1991
+ },
+ "partial": false,
+ "clips": [
+  "running-wild/1436099776-105",
+  "running-wild/1436103096-104",
+  "running-wild/1436187957-104",
+  "running-wild/1436097979-106",
+  "running-wild/1461778739-109",
+  "running-wild/1436135784-107",
+  "running-wild/1436103560-108",
+  "running-wild/1438450370-107",
+  "running-wild/1438450015-107",
+  "running-wild/1675500517-105",
+  "running-wild/1349468474-106",
+  "running-wild/1576195115-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 110.00658118206522,
+   "iqr": 34.25736860795455
+  },
+  "onset_rate": {
+   "median": 5.479622266401591,
+   "iqr": 1.032247116892143
+  },
+  "tempo_var": {
+   "median": 12.64998383821551,
+   "iqr": 20.539301596716967
+  },
+  "low_onset_rate": {
+   "median": 6.548816854967754,
+   "iqr": 1.0567524729670756
+  },
+  "lufs": {
+   "median": -10.100535657185741,
+   "iqr": 3.5592136951785296
+  },
+  "rms_dbfs": {
+   "median": -10.271601740039173,
+   "iqr": 3.235851180109723
+  },
+  "crest": {
+   "median": 10.271601676940918,
+   "iqr": 3.2358503341674805
+  },
+  "centroid": {
+   "median": 2799.6432674484754,
+   "iqr": 287.0727623779203
+  },
+  "flatness": {
+   "median": 0.04652138613164425,
+   "iqr": 0.014928949996829033
+  },
+  "sub100_share": {
+   "median": 0.2445700466632843,
+   "iqr": 0.15786854177713394
+  },
+  "lowest_pitch": {
+   "median": 57.8704833984375,
+   "iqr": 11.43951416015625
+  },
+  "harmonic_share": {
+   "median": 0.7019737362861633,
+   "iqr": 0.12036408483982086
+  },
+  "clean_share": {
+   "median": 0.0,
+   "iqr": 0.025407292474786656
+  },
+  "minor_share": {
+   "median": 0.0866595657996693,
+   "iqr": 0.14165728182558895
+  },
+  "chord_rate": {
+   "median": 1.8042658682054018,
+   "iqr": 0.45106646705135045
+  },
+  "repetitiveness": {
+   "median": 0.8758401870727539,
+   "iqr": 0.07478633522987366
+  },
+  "vocal_share": {
+   "median": 0.1495835967361927,
+   "iqr": 0.10697483457624912
+  },
+  "vocal_voiced": {
+   "median": 0.45191828181368043,
+   "iqr": 0.2312933481519695
+  },
+  "song_length": {
+   "median": 268.7935,
+   "iqr": 69.03825000000003
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.6,
+  "camp": 0.5
+ },
+ "sources_failed": []
+}

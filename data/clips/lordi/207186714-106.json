@@ -1,0 +1,32 @@
+{
+ "id": "lordi/207186714-106",
+ "band": "lordi",
+ "title": "Icon of Dominance",
+ "source": "itunes",
+ "album": "Get Heavy",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.0428920380158075,
+  "tempo_var": 4.263256414560601e-14,
+  "low_onset_rate": 5.713508582650439,
+  "lufs": -8.350545140877188,
+  "rms_dbfs": -8.08248864425179,
+  "crest": 8.082489013671875,
+  "centroid": 3046.6490601177525,
+  "flatness": 0.05510636419057846,
+  "sub100_share": 0.24550919234752655,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7330405116081238,
+  "clean_share": 0.003878975950349108,
+  "minor_share": 0.14879378903814666,
+  "chord_rate": 1.7374412064200164,
+  "repetitiveness": 0.8112044930458069,
+  "vocal_share": 0.205911785364151,
+  "vocal_voiced": 0.2518059855521156,
+  "song_length": 275.04
+ }
+}

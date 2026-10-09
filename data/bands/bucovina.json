@@ -1,0 +1,127 @@
+{
+ "slug": "bucovina",
+ "name": "Bucovina",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 744998616,
+  "deezer": 5575127,
+  "spotify": "2Z912EMB8D91VQT4rFUEX1"
+ },
+ "metadata": {
+  "formed": 2000,
+  "split": null,
+  "country": "RO",
+  "status": "active",
+  "members": 4,
+  "past_members": 5,
+  "full_lengths": 5,
+  "genre": "Black/Folk Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 4161,
+  "themes": "Nature, Love, Tales, Romanian folklore",
+  "release_year": 2014
+ },
+ "partial": false,
+ "clips": [
+  "bucovina/1663374786-105",
+  "bucovina/744998562-104",
+  "bucovina/1066776823-105",
+  "bucovina/1445858384-106",
+  "bucovina/1658692510-105",
+  "bucovina/1663374786-104",
+  "bucovina/744998562-103",
+  "bucovina/1066776823-104",
+  "bucovina/1445858384-105",
+  "bucovina/1658692510-106",
+  "bucovina/1663374786-106",
+  "bucovina/744998562-102"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 147.77688419117646,
+   "iqr": 41.12708050271739
+  },
+  "onset_rate": {
+   "median": 5.462916100955244,
+   "iqr": 1.1861377466905871
+  },
+  "tempo_var": {
+   "median": 10.698846861650093,
+   "iqr": 11.330179525744192
+  },
+  "low_onset_rate": {
+   "median": 6.632347682199486,
+   "iqr": 2.4641594033360814
+  },
+  "lufs": {
+   "median": -9.723446609017573,
+   "iqr": 2.2257560349493755
+  },
+  "rms_dbfs": {
+   "median": -8.927720364899738,
+   "iqr": 2.7879123791133997
+  },
+  "crest": {
+   "median": 8.927720069885254,
+   "iqr": 2.7879127264022827
+  },
+  "centroid": {
+   "median": 2391.600331648335,
+   "iqr": 519.9770402813906
+  },
+  "flatness": {
+   "median": 0.026475601829588413,
+   "iqr": 0.0162546974606812
+  },
+  "sub100_share": {
+   "median": 0.3369859606027603,
+   "iqr": 0.13053812086582184
+  },
+  "lowest_pitch": {
+   "median": 47.1038818359375,
+   "iqr": 10.09368896484375
+  },
+  "harmonic_share": {
+   "median": 0.8094078004360199,
+   "iqr": 0.06310020387172699
+  },
+  "clean_share": {
+   "median": 0.0069821567106283944,
+   "iqr": 0.01512800620636152
+  },
+  "minor_share": {
+   "median": 0.0522347346413114,
+   "iqr": 0.17207203225621182
+  },
+  "chord_rate": {
+   "median": 1.4367302283857828,
+   "iqr": 0.5095380461135626
+  },
+  "repetitiveness": {
+   "median": 0.821416974067688,
+   "iqr": 0.08057913184165955
+  },
+  "vocal_share": {
+   "median": 0.11992313712835312,
+   "iqr": 0.14750773459672928
+  },
+  "vocal_voiced": {
+   "median": 0.509594882729211,
+   "iqr": 0.25022295081967216
+  },
+  "song_length": {
+   "median": 279.1935,
+   "iqr": 57.892750000000035
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

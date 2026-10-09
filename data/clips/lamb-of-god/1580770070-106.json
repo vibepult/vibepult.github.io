@@ -1,0 +1,32 @@
+{
+ "id": "lamb-of-god/1580770070-106",
+ "band": "lamb-of-god",
+ "title": "Descending",
+ "source": "itunes",
+ "album": "Sacrament (15th Anniversary Edition)",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.629767388456895,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.229387583677156,
+  "lufs": -7.501334530951833,
+  "rms_dbfs": -7.1760981950802805,
+  "crest": 7.176098346710205,
+  "centroid": 2463.229378573193,
+  "flatness": 0.03539494052529335,
+  "sub100_share": 0.2569597065448761,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.6438366770744324,
+  "clean_share": 0.0038669760247486465,
+  "minor_share": -0.09850679252411576,
+  "chord_rate": 1.4657382549828604,
+  "repetitiveness": 0.9539270997047424,
+  "vocal_share": 0.21760836243629456,
+  "vocal_voiced": 0.09547325102880659,
+  "song_length": 215.24
+ }
+}

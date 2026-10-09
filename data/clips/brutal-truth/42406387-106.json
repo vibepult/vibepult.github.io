@@ -1,0 +1,32 @@
+{
+ "id": "brutal-truth/42406387-106",
+ "band": "brutal-truth",
+ "title": "Ironlung",
+ "source": "itunes",
+ "album": "Need to Control",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.21232361926005,
+  "tempo_var": 15.564711473324834,
+  "low_onset_rate": 8.353082723173156,
+  "lufs": -13.530802615993492,
+  "rms_dbfs": -11.656903796224562,
+  "crest": 11.656638145446777,
+  "centroid": 560.3706300500563,
+  "flatness": 0.00010818615555763245,
+  "sub100_share": 0.4846343994140625,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7693711519241333,
+  "clean_share": 1.0,
+  "minor_share": 0.1418470429055132,
+  "chord_rate": 4.109716699801193,
+  "repetitiveness": 0.9892499446868896,
+  "vocal_share": 0.06494146585464478,
+  "vocal_voiced": 0.01728201099764336,
+  "song_length": 261.933
+ }
+}

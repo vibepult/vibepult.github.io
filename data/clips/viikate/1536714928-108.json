@@ -1,0 +1,32 @@
+{
+ "id": "viikate/1536714928-108",
+ "band": "viikate",
+ "title": "Käki",
+ "source": "itunes",
+ "album": "Unholan Urut",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 4.5106646705135045,
+  "tempo_var": 31.964086165693146,
+  "low_onset_rate": 6.949764825680066,
+  "lufs": -8.267191444300177,
+  "rms_dbfs": -7.454359004667576,
+  "crest": 7.454359531402588,
+  "centroid": 2311.544253111184,
+  "flatness": 0.025091350078582764,
+  "sub100_share": 0.3737630546092987,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8001779317855835,
+  "clean_share": 0.09387121799844841,
+  "minor_share": 0.10528479644840971,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.8284198641777039,
+  "vocal_share": 0.12902776896953583,
+  "vocal_voiced": 0.6986046511627907,
+  "song_length": 241.973
+ }
+}

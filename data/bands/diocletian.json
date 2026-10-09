@@ -1,0 +1,127 @@
+{
+ "slug": "diocletian",
+ "name": "Diocletian",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 350979321,
+  "deezer": 500120,
+  "spotify": "6kEQuZgj4hm2mE2ZfZ6mcD"
+ },
+ "metadata": {
+  "formed": 2004,
+  "split": null,
+  "country": "NZ",
+  "status": "active",
+  "members": 4,
+  "past_members": 9,
+  "full_lengths": 5,
+  "genre": "Black/Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 1145,
+  "themes": "War, Apocalyptic, Violence, Anti-religion",
+  "release_year": 2014
+ },
+ "partial": false,
+ "clips": [
+  "diocletian/6810823975-105",
+  "diocletian/6810824954-105",
+  "diocletian/6814577594-104",
+  "diocletian/1746131242-104",
+  "diocletian/6810823975-104",
+  "diocletian/6810824954-106",
+  "diocletian/6814577594-105",
+  "diocletian/1746131242-105",
+  "diocletian/6810823975-106",
+  "diocletian/6810824954-104",
+  "diocletian/6814577594-103",
+  "diocletian/1746131242-102"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 24.82231367098113
+  },
+  "onset_rate": {
+   "median": 5.866666666666667,
+   "iqr": 1.4082588824557956
+  },
+  "tempo_var": {
+   "median": 6.9116019427060245,
+   "iqr": 4.553244985554111
+  },
+  "low_onset_rate": {
+   "median": 8.4,
+   "iqr": 1.5748658372511386
+  },
+  "lufs": {
+   "median": -11.252674418950235,
+   "iqr": 1.8693268971985937
+  },
+  "rms_dbfs": {
+   "median": -10.844724246087596,
+   "iqr": 2.1864130431278603
+  },
+  "crest": {
+   "median": 10.844724178314209,
+   "iqr": 2.186412811279297
+  },
+  "centroid": {
+   "median": 2206.086890034105,
+   "iqr": 96.01150866133503
+  },
+  "flatness": {
+   "median": 0.02120433747768402,
+   "iqr": 0.009062916971743107
+  },
+  "sub100_share": {
+   "median": 0.23939845710992813,
+   "iqr": 0.06062746420502663
+  },
+  "lowest_pitch": {
+   "median": 63.2537841796875,
+   "iqr": 34.991455078125
+  },
+  "harmonic_share": {
+   "median": 0.7493924796581268,
+   "iqr": 0.034782081842422485
+  },
+  "clean_share": {
+   "median": 0.020502156168365503,
+   "iqr": 0.06346749226006193
+  },
+  "minor_share": {
+   "median": 0.02684768731466053,
+   "iqr": 0.18012973478418312
+  },
+  "chord_rate": {
+   "median": 2.283333333333333,
+   "iqr": 0.3416742251313911
+  },
+  "repetitiveness": {
+   "median": 0.945330411195755,
+   "iqr": 0.022731900215148926
+  },
+  "vocal_share": {
+   "median": 0.05238328129053116,
+   "iqr": 0.02083728928118944
+  },
+  "vocal_voiced": {
+   "median": 0.06927831715210356,
+   "iqr": 0.3926101693816775
+  },
+  "song_length": {
+   "median": 226.608,
+   "iqr": 50.59100000000001
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

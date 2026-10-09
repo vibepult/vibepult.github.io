@@ -1,0 +1,32 @@
+{
+ "id": "baroness/538195776-201",
+ "band": "baroness",
+ "title": "Green Theme",
+ "source": "itunes",
+ "album": "Yellow & Green",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 1.5666429834771962,
+  "tempo_var": 16.782078177100477,
+  "low_onset_rate": 2.599960695983432,
+  "lufs": -21.293838931075836,
+  "rms_dbfs": -19.795730360590888,
+  "crest": 17.490581512451172,
+  "centroid": 1302.1540352841087,
+  "flatness": 0.0008950697956606746,
+  "sub100_share": 0.3983975350856781,
+  "lowest_pitch": 24.224853515625,
+  "harmonic_share": 0.8336812257766724,
+  "clean_share": 0.9938128383604021,
+  "minor_share": -0.3065113116078856,
+  "chord_rate": 0.43332678266390534,
+  "repetitiveness": 0.7021706700325012,
+  "vocal_share": 4.5656119596060307e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 262.44
+ }
+}

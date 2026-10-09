@@ -1,0 +1,32 @@
+{
+ "id": "trollfest/1582910438-107",
+ "band": "trollfest",
+ "title": "Hen of Hades",
+ "source": "itunes",
+ "album": "Helluva",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 6.61564151675314,
+  "tempo_var": 4.851179061023843,
+  "low_onset_rate": 7.3841251272850705,
+  "lufs": -9.19207689757979,
+  "rms_dbfs": -8.403401099730903,
+  "crest": 8.403400421142578,
+  "centroid": 2666.7761637327526,
+  "flatness": 0.0404706634581089,
+  "sub100_share": 0.3548220992088318,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7099172472953796,
+  "clean_share": 0.0,
+  "minor_share": 0.1941909867077879,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.9440782070159912,
+  "vocal_share": 0.04553213715553284,
+  "vocal_voiced": 0.4132231404958678,
+  "song_length": 210.093
+ }
+}

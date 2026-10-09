@@ -1,0 +1,32 @@
+{
+ "id": "rainbow/1443913143-103",
+ "band": "rainbow",
+ "title": "No Time to Lose",
+ "source": "itunes",
+ "album": "Down to Earth",
+ "year": 1979,
+ "itunes_year": 1979,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 78.30255681818181,
+  "onset_rate": 3.8332753851037777,
+  "tempo_var": 22.683060215058852,
+  "low_onset_rate": 4.266602167767683,
+  "lufs": -10.366728323466942,
+  "rms_dbfs": -10.964895370492183,
+  "crest": 10.964895248413086,
+  "centroid": 2601.2222675812673,
+  "flatness": 0.03409511595964432,
+  "sub100_share": 0.07814017683267593,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.6181097626686096,
+  "clean_share": 0.013147718484145398,
+  "minor_share": -0.026766801402533735,
+  "chord_rate": 1.7999727895269915,
+  "repetitiveness": 0.9259300827980042,
+  "vocal_share": 0.23580822348594666,
+  "vocal_voiced": 0.7317574511819116,
+  "song_length": 221.773
+ }
+}

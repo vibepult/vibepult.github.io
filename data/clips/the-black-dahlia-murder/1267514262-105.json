@@ -1,0 +1,32 @@
+{
+ "id": "the-black-dahlia-murder/1267514262-105",
+ "band": "the-black-dahlia-murder",
+ "title": "Jars",
+ "source": "itunes",
+ "album": "Nightbringers",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 7.43322096415776,
+  "tempo_var": 2.046963100190754,
+  "low_onset_rate": 8.733201312149477,
+  "lufs": -8.068687711587216,
+  "rms_dbfs": -8.070804819806806,
+  "crest": 8.070804595947266,
+  "centroid": 2791.349647370099,
+  "flatness": 0.06084407493472099,
+  "sub100_share": 0.2315213531255722,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7151037454605103,
+  "clean_share": 0.0,
+  "minor_share": 0.033356432855011164,
+  "chord_rate": 3.0999531375187073,
+  "repetitiveness": 0.9483803510665894,
+  "vocal_share": 0.1578570157289505,
+  "vocal_voiced": 0.054221533694810226,
+  "song_length": 217.32
+ }
+}

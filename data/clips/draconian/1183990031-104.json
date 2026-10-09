@@ -1,0 +1,32 @@
+{
+ "id": "draconian/1183990031-104",
+ "band": "draconian",
+ "title": "Serenade of Sorrow",
+ "source": "itunes",
+ "album": "The Burning Halo",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.3666666666666667,
+  "tempo_var": 3.5041506412866856,
+  "low_onset_rate": 4.2,
+  "lufs": -7.09279336843688,
+  "rms_dbfs": -7.129014109442763,
+  "crest": 7.12901496887207,
+  "centroid": 2535.088670597782,
+  "flatness": 0.03237692266702652,
+  "sub100_share": 0.10312503576278687,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.777301549911499,
+  "clean_share": 0.0023219814241486067,
+  "minor_share": 0.14874066612933434,
+  "chord_rate": 1.3666666666666667,
+  "repetitiveness": 0.687542736530304,
+  "vocal_share": 0.20835399627685547,
+  "vocal_voiced": 0.5231441048034935,
+  "song_length": 300.72
+ }
+}

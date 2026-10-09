@@ -1,0 +1,32 @@
+{
+ "id": "vreid/448520728-105",
+ "band": "vreid",
+ "title": "Hengebjørn",
+ "source": "itunes",
+ "album": "Pitch Black Brigade",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 4.410427677835426,
+  "tempo_var": 16.782615645739458,
+  "low_onset_rate": 2.4391001551665616,
+  "lufs": -18.95176410877443,
+  "rms_dbfs": -18.621066620182084,
+  "crest": 16.722734451293945,
+  "centroid": 2831.215960694756,
+  "flatness": 0.03937777876853943,
+  "sub100_share": 0.31132763624191284,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.7137889862060547,
+  "clean_share": 0.08688906128782002,
+  "minor_share": 0.2995063198850007,
+  "chord_rate": 0.6348342869611598,
+  "repetitiveness": 0.7204868197441101,
+  "vocal_share": 0.009214555844664574,
+  "vocal_voiced": 0.884,
+  "song_length": 560.973
+ }
+}

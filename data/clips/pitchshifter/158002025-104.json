@@ -1,0 +1,32 @@
+{
+ "id": "pitchshifter/158002025-104",
+ "band": "pitchshifter",
+ "title": "New Flesh",
+ "source": "itunes",
+ "album": "Industrial",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.9092427144450372,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.644313994084275,
+  "lufs": -15.001804428268276,
+  "rms_dbfs": -15.356119753485835,
+  "crest": 15.356120109558105,
+  "centroid": 3093.846586358741,
+  "flatness": 0.0513470396399498,
+  "sub100_share": 0.33347612619400024,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.6573042273521423,
+  "clean_share": 0.08223429014740109,
+  "minor_share": 0.02947751080158001,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.9540748000144958,
+  "vocal_share": 0.10830575972795486,
+  "vocal_voiced": 0.3218390804597701,
+  "song_length": 273.707
+ }
+}

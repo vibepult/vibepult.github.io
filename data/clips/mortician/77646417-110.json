@@ -1,0 +1,32 @@
+{
+ "id": "mortician/77646417-110",
+ "band": "mortician",
+ "title": "Dead and Buried",
+ "source": "itunes",
+ "album": "Darkest Day of Horror",
+ "year": 2002,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.98080722979198,
+  "tempo_var": 2.011373696379227,
+  "low_onset_rate": 7.684836105319304,
+  "lufs": -13.694731905076795,
+  "rms_dbfs": -12.141130066279684,
+  "crest": 12.141130447387695,
+  "centroid": 2202.7813677195695,
+  "flatness": 0.019933238625526428,
+  "sub100_share": 0.5450493693351746,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7719600200653076,
+  "clean_share": 0.208688906128782,
+  "minor_share": 0.1019497941269567,
+  "chord_rate": 2.2720385007030983,
+  "repetitiveness": 0.9294154644012451,
+  "vocal_share": 0.04771646112203598,
+  "vocal_voiced": 0.4123422159887798,
+  "song_length": 158.653
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "ultar/1622740565-104",
+ "band": "ultar",
+ "title": "Xasthur",
+ "source": "itunes",
+ "album": "Kadath",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.412797604616205,
+  "tempo_var": 7.1529053591053975,
+  "low_onset_rate": 5.312560611938127,
+  "lufs": -8.61094174084078,
+  "rms_dbfs": -8.459539573791309,
+  "crest": 8.459539413452148,
+  "centroid": 2477.513567042548,
+  "flatness": 0.031241249293088913,
+  "sub100_share": 0.32820507884025574,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7946345806121826,
+  "clean_share": 0.07835531419705198,
+  "minor_share": 0.20572781130656703,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.7830787301063538,
+  "vocal_share": 0.02191876247525215,
+  "vocal_voiced": 0.31437598736176936,
+  "song_length": 396.747
+ }
+}

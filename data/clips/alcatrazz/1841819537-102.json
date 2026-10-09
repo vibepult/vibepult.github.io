@@ -1,0 +1,32 @@
+{
+ "id": "alcatrazz/1841819537-102",
+ "band": "alcatrazz",
+ "title": "Stand And Wait Your Turn",
+ "source": "itunes",
+ "album": "Prior Convictions",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.066605191153573,
+  "tempo_var": 2.7638711866776378,
+  "low_onset_rate": 5.433251198016659,
+  "lufs": -9.415345635871027,
+  "rms_dbfs": -8.95107094145512,
+  "crest": 8.951070785522461,
+  "centroid": 2435.859543147498,
+  "flatness": 0.030897265300154686,
+  "sub100_share": 0.3002200722694397,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7801468968391418,
+  "clean_share": 0.017014694508894045,
+  "minor_share": 0.16112917710517116,
+  "chord_rate": 1.299980347991716,
+  "repetitiveness": 0.8458883166313171,
+  "vocal_share": 0.1725761592388153,
+  "vocal_voiced": 0.7204757858963466,
+  "song_length": 347.595
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "hammerfall/1244186991-105",
+ "band": "hammerfall",
+ "title": "Twilight Princess",
+ "source": "itunes",
+ "album": "Built to Last",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 3.2666666666666666,
+  "tempo_var": 28.1906625280788,
+  "low_onset_rate": 4.466666666666667,
+  "lufs": -10.859079254924845,
+  "rms_dbfs": -11.491860527083318,
+  "crest": 11.491860389709473,
+  "centroid": 1890.9663540293152,
+  "flatness": 0.008579309098422527,
+  "sub100_share": 7.936625479487702e-05,
+  "lowest_pitch": 148.040771484375,
+  "harmonic_share": 0.8903768658638,
+  "clean_share": 0.7670278637770898,
+  "minor_share": 0.26619671720254645,
+  "chord_rate": 1.2,
+  "repetitiveness": 0.688228189945221,
+  "vocal_share": 0.7985646724700928,
+  "vocal_voiced": 0.9447463768115942,
+  "song_length": 303.971
+ }
+}

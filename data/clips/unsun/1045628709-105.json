@@ -1,0 +1,32 @@
+{
+ "id": "unsun/1045628709-105",
+ "band": "unsun",
+ "title": "The Other Side",
+ "source": "itunes",
+ "album": "The End of Life",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.9784373030112015,
+  "tempo_var": 12.967158872795325,
+  "low_onset_rate": 4.176541361586578,
+  "lufs": -6.334830695344215,
+  "rms_dbfs": -6.801124550955393,
+  "crest": 6.801124095916748,
+  "centroid": 2800.0733494101087,
+  "flatness": 0.04679429158568382,
+  "sub100_share": 0.12968292832374573,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6794785261154175,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": 0.1294514144149742,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.9184978604316711,
+  "vocal_share": 0.3722376823425293,
+  "vocal_voiced": 0.9192546583850931,
+  "song_length": 243.467
+ }
+}

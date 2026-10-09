@@ -1,0 +1,32 @@
+{
+ "id": "avatar/1230558651-106",
+ "band": "avatar",
+ "title": "All Hail the Queen",
+ "source": "itunes",
+ "album": "Schlacht",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.811375648547738,
+  "tempo_var": 11.762350492257776,
+  "low_onset_rate": 5.579859259079669,
+  "lufs": -7.951464746681464,
+  "rms_dbfs": -7.795380308682373,
+  "crest": 7.795380592346191,
+  "centroid": 2384.4312560898297,
+  "flatness": 0.03397173434495926,
+  "sub100_share": 0.335636705160141,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.7073150277137756,
+  "clean_share": 0.012412723041117145,
+  "minor_share": 0.03115541722028259,
+  "chord_rate": 2.606161809630025,
+  "repetitiveness": 0.9278358817100525,
+  "vocal_share": 0.19462718069553375,
+  "vocal_voiced": 0.23497757847533632,
+  "song_length": 146.6
+ }
+}

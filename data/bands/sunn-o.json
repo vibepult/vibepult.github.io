@@ -1,0 +1,127 @@
+{
+ "slug": "sunn-o",
+ "name": "Sunn O)))",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 206246072,
+  "deezer": 6380,
+  "spotify": "2e7hYqRjL82c1nIoREHc4J"
+ },
+ "metadata": {
+  "formed": 1998,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 2,
+  "past_members": 2,
+  "full_lengths": 11,
+  "genre": "Drone/Doom Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 19104,
+  "themes": "Darkness, Nothingness, Occultism",
+  "release_year": 2005
+ },
+ "partial": false,
+ "clips": [
+  "sunn-o/928502285-103",
+  "sunn-o/261574831-104",
+  "sunn-o/1839324568-103",
+  "sunn-o/928502285-102",
+  "sunn-o/261574831-103",
+  "sunn-o/1839324568-104",
+  "sunn-o/928502285-104",
+  "sunn-o/261574831-105",
+  "sunn-o/1839324568-102",
+  "sunn-o/928502285-101",
+  "sunn-o/261574831-102",
+  "sunn-o/1839324568-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 31.207540760869563
+  },
+  "onset_rate": {
+   "median": 3.8925365489986907,
+   "iqr": 3.313468356508944
+  },
+  "tempo_var": {
+   "median": 4.624949294065766,
+   "iqr": 0.9771197818365263
+  },
+  "low_onset_rate": {
+   "median": 7.033295652911798,
+   "iqr": 4.244650454559157
+  },
+  "lufs": {
+   "median": -9.602761077695698,
+   "iqr": 3.176304005214451
+  },
+  "rms_dbfs": {
+   "median": -7.450582258148598,
+   "iqr": 4.7901608223706615
+  },
+  "crest": {
+   "median": 7.450582265853882,
+   "iqr": 4.790160894393921
+  },
+  "centroid": {
+   "median": 1160.4823674282745,
+   "iqr": 148.77013134717185
+  },
+  "flatness": {
+   "median": 0.0007802415639162064,
+   "iqr": 0.0008954570948844776
+  },
+  "sub100_share": {
+   "median": 0.39508022367954254,
+   "iqr": 0.4159034416079521
+  },
+  "lowest_pitch": {
+   "median": 53.8330078125,
+   "iqr": 48.44970703125
+  },
+  "harmonic_share": {
+   "median": 0.9464397728443146,
+   "iqr": 0.04257817566394806
+  },
+  "clean_share": {
+   "median": 0.9996133023975251,
+   "iqr": 0.019006982156710595
+  },
+  "minor_share": {
+   "median": -0.0300124649652751,
+   "iqr": 0.0914097984638971
+  },
+  "chord_rate": {
+   "median": 0.7851897759782767,
+   "iqr": 0.652965424007286
+  },
+  "repetitiveness": {
+   "median": 0.7177819609642029,
+   "iqr": 0.3543146699666977
+  },
+  "vocal_share": {
+   "median": 0.4465204682201147,
+   "iqr": 0.4230348262935877
+  },
+  "vocal_voiced": {
+   "median": 0.3470648815653965,
+   "iqr": 0.3470648815653965
+  },
+  "song_length": {
+   "median": 606.62,
+   "iqr": 301.45550000000003
+  },
+  "vocal_presence": {
+   "median": 0.16666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.7,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

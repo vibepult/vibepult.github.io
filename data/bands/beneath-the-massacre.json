@@ -1,0 +1,127 @@
+{
+ "slug": "beneath-the-massacre",
+ "name": "Beneath the Massacre",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 214355791,
+  "deezer": 131884,
+  "spotify": "5E2FPuRWzBojRkL6CwyBzw"
+ },
+ "metadata": {
+  "formed": 2004,
+  "split": null,
+  "country": "CA",
+  "status": "active",
+  "members": 4,
+  "past_members": 4,
+  "full_lengths": 4,
+  "genre": "Technical Death Metal/Deathcore",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 8736,
+  "themes": "Politics, Society",
+  "release_year": 2010
+ },
+ "partial": false,
+ "clips": [
+  "beneath-the-massacre/965453262-106",
+  "beneath-the-massacre/965451780-106",
+  "beneath-the-massacre/493430045-105",
+  "beneath-the-massacre/1488791623-105",
+  "beneath-the-massacre/965453262-104",
+  "beneath-the-massacre/965451780-105",
+  "beneath-the-massacre/493430045-106",
+  "beneath-the-massacre/1488791623-106",
+  "beneath-the-massacre/965453262-107",
+  "beneath-the-massacre/965451780-107",
+  "beneath-the-massacre/493430045-104",
+  "beneath-the-massacre/1488791623-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.90049098320159,
+   "iqr": 10.699728260869563
+  },
+  "onset_rate": {
+   "median": 2.338863162488484,
+   "iqr": 5.872332105359843
+  },
+  "tempo_var": {
+   "median": 7.309347450970607,
+   "iqr": 8.246211198707536
+  },
+  "low_onset_rate": {
+   "median": 6.488788673963581,
+   "iqr": 4.262474536615918
+  },
+  "lufs": {
+   "median": -7.559076558324389,
+   "iqr": 0.3117731885319204
+  },
+  "rms_dbfs": {
+   "median": -6.8257104816375325,
+   "iqr": 0.35816343924075955
+  },
+  "crest": {
+   "median": 6.82571005821228,
+   "iqr": 0.35816335678100586
+  },
+  "centroid": {
+   "median": 2675.2745891020254,
+   "iqr": 77.07016865689548
+  },
+  "flatness": {
+   "median": 0.044588202610611916,
+   "iqr": 0.005249952897429466
+  },
+  "sub100_share": {
+   "median": 0.4320167899131775,
+   "iqr": 0.08925825357437134
+  },
+  "lowest_pitch": {
+   "median": 44.4122314453125,
+   "iqr": 8.074951171875
+  },
+  "harmonic_share": {
+   "median": 0.758309543132782,
+   "iqr": 0.061637282371520996
+  },
+  "clean_share": {
+   "median": 0.005034268787533517,
+   "iqr": 0.012606671838634599
+  },
+  "minor_share": {
+   "median": -0.0754334598521823,
+   "iqr": 0.18051598645548167
+  },
+  "chord_rate": {
+   "median": 1.3364932357077048,
+   "iqr": 0.6441132745646612
+  },
+  "repetitiveness": {
+   "median": 0.9563042223453522,
+   "iqr": 0.020785391330718994
+  },
+  "vocal_share": {
+   "median": 0.10044386610388756,
+   "iqr": 0.032882822677493095
+  },
+  "vocal_voiced": {
+   "median": 0.2987721399845983,
+   "iqr": 0.21615456858176482
+  },
+  "song_length": {
+   "median": 182.473,
+   "iqr": 29.195749999999975
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

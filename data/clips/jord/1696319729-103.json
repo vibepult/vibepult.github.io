@@ -1,0 +1,32 @@
+{
+ "id": "jord/1696319729-103",
+ "band": "jord",
+ "title": "The Fall",
+ "source": "itunes",
+ "album": "Tundra",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 73.828125,
+  "onset_rate": 3.433333333333333,
+  "tempo_var": 0.9367970060303747,
+  "low_onset_rate": 2.8333333333333335,
+  "lufs": -13.972947849074252,
+  "rms_dbfs": -12.83868646903873,
+  "crest": 12.8386869430542,
+  "centroid": 2084.3757635008296,
+  "flatness": 0.01285966020077467,
+  "sub100_share": 0.47815361618995667,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8599421381950378,
+  "clean_share": 0.3746130030959752,
+  "minor_share": 0.1970874110269899,
+  "chord_rate": 0.7666666666666667,
+  "repetitiveness": 0.7285563349723816,
+  "vocal_share": 5.116317538522708e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 395.827
+ }
+}

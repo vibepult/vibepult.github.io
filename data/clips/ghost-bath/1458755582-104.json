@@ -1,0 +1,32 @@
+{
+ "id": "ghost-bath/1458755582-104",
+ "band": "ghost-bath",
+ "title": "Beneath the Shade Tree",
+ "source": "itunes",
+ "album": "Moonlover",
+ "year": 2015,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.107346773020414,
+  "tempo_var": 16.51039826180716,
+  "low_onset_rate": 5.245735950152742,
+  "lufs": -20.52433952124274,
+  "rms_dbfs": -20.762000720883446,
+  "crest": 16.42831802368164,
+  "centroid": 1157.2765573761083,
+  "flatness": 4.353367330622859e-05,
+  "sub100_share": 0.004143825266510248,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.9922413229942322,
+  "clean_share": 1.0,
+  "minor_share": 0.1481156396615222,
+  "chord_rate": 1.0023699267807789,
+  "repetitiveness": 0.8612334728240967,
+  "vocal_share": 2.1387720607890515e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 287.5
+ }
+}

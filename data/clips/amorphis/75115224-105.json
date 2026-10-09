@@ -1,0 +1,32 @@
+{
+ "id": "amorphis/75115224-105",
+ "band": "amorphis",
+ "title": "Crimson Wave",
+ "source": "itunes",
+ "album": "Am Universum",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.575119405518111,
+  "tempo_var": 3.4085625655447385,
+  "low_onset_rate": 3.5417070746254184,
+  "lufs": -8.830091222328688,
+  "rms_dbfs": -8.8970490389474,
+  "crest": 8.897048950195312,
+  "centroid": 2758.8640788313555,
+  "flatness": 0.04555604234337807,
+  "sub100_share": 0.3071100413799286,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7317003011703491,
+  "clean_share": 0.02404965089216447,
+  "minor_share": -0.04923099723519486,
+  "chord_rate": 1.4367302283857828,
+  "repetitiveness": 0.810933530330658,
+  "vocal_share": 0.2135429084300995,
+  "vocal_voiced": 0.6270218839200761,
+  "song_length": 285.32
+ }
+}

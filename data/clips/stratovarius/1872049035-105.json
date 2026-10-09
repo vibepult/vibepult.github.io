@@ -1,0 +1,32 @@
+{
+ "id": "stratovarius/1872049035-105",
+ "band": "stratovarius",
+ "title": "Glory of the World",
+ "source": "itunes",
+ "album": "Infinite",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 2.1666535652089784,
+  "tempo_var": 20.591469697755674,
+  "low_onset_rate": 6.033296850812693,
+  "lufs": -7.3093046766715455,
+  "rms_dbfs": -6.919059771043433,
+  "crest": 6.919059753417969,
+  "centroid": 2921.8919831516964,
+  "flatness": 0.04302847012877464,
+  "sub100_share": 0.4525168836116791,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8521015644073486,
+  "clean_share": 0.01160092807424594,
+  "minor_share": 0.05202963649393866,
+  "chord_rate": 2.5333180147058822,
+  "repetitiveness": 0.8539429306983948,
+  "vocal_share": 0.0058051953092217445,
+  "vocal_voiced": 0.68,
+  "song_length": 293.027
+ }
+}

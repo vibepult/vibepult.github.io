@@ -1,0 +1,127 @@
+{
+ "slug": "terrorizer",
+ "name": "Terrorizer",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 45445107,
+  "deezer": 161232,
+  "spotify": "09eXH2A1Zi3E7MZJXGg5oG"
+ },
+ "metadata": {
+  "formed": 1987,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 2,
+  "past_members": 12,
+  "full_lengths": 4,
+  "genre": "Death Metal/Grindcore",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 11404,
+  "themes": "Death, Politics, Social issues, Violence",
+  "release_year": 2009
+ },
+ "partial": false,
+ "clips": [
+  "terrorizer/45445292-108",
+  "terrorizer/1045512018-107",
+  "terrorizer/584501420-109",
+  "terrorizer/1763634170-107",
+  "terrorizer/45445292-109",
+  "terrorizer/1045512018-106",
+  "terrorizer/584501420-108",
+  "terrorizer/1763634170-108",
+  "terrorizer/45445292-105",
+  "terrorizer/1045512018-108",
+  "terrorizer/584501420-110",
+  "terrorizer/1763634170-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 39.07643037683823
+  },
+  "onset_rate": {
+   "median": 7.5922023612602025,
+   "iqr": 0.9148332918596642
+  },
+  "tempo_var": {
+   "median": 10.658292396704063,
+   "iqr": 7.725814095032835
+  },
+  "low_onset_rate": {
+   "median": 7.275421229435683,
+   "iqr": 1.3197870702613592
+  },
+  "lufs": {
+   "median": -7.703341469398735,
+   "iqr": 3.0155882873783586
+  },
+  "rms_dbfs": {
+   "median": -7.331543116407822,
+   "iqr": 2.8421788705839264
+  },
+  "crest": {
+   "median": 7.33154296875,
+   "iqr": 2.6395150423049927
+  },
+  "centroid": {
+   "median": 2676.2673427918826,
+   "iqr": 382.11936887113916
+  },
+  "flatness": {
+   "median": 0.03884381614625454,
+   "iqr": 0.01968918927013874
+  },
+  "sub100_share": {
+   "median": 0.3150757700204849,
+   "iqr": 0.12069239839911461
+  },
+  "lowest_pitch": {
+   "median": 61.907958984375,
+   "iqr": 22.8790283203125
+  },
+  "harmonic_share": {
+   "median": 0.7118480205535889,
+   "iqr": 0.05244648456573486
+  },
+  "clean_share": {
+   "median": 0.0003878975950349108,
+   "iqr": 0.007161705597425296
+  },
+  "minor_share": {
+   "median": -0.013417999605496556,
+   "iqr": 0.18193360302866607
+  },
+  "chord_rate": {
+   "median": 2.4391001551665616,
+   "iqr": 0.40094797071231136
+  },
+  "repetitiveness": {
+   "median": 0.9444369375705719,
+   "iqr": 0.04413239657878876
+  },
+  "vocal_share": {
+   "median": 0.07181480526924133,
+   "iqr": 0.057569459080696106
+  },
+  "vocal_voiced": {
+   "median": 0.13875598086124402,
+   "iqr": 0.35550339027794187
+  },
+  "song_length": {
+   "median": 196.8265,
+   "iqr": 71.19624999999999
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

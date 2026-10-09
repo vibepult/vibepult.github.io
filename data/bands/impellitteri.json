@@ -1,0 +1,127 @@
+{
+ "slug": "impellitteri",
+ "name": "Impellitteri",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 201642854,
+  "deezer": 4850,
+  "spotify": "5z1vzTURV3bwwXqxkjy47W"
+ },
+ "metadata": {
+  "formed": 1986,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 18,
+  "full_lengths": 12,
+  "genre": "Heavy/Power Metal/Shred",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 4562,
+  "themes": "Women, Cars, Society, Religion",
+  "release_year": 1998
+ },
+ "partial": false,
+ "clips": [
+  "impellitteri/1605947595-105",
+  "impellitteri/1605949412-105",
+  "impellitteri/1605951267-106",
+  "impellitteri/1605951863-105",
+  "impellitteri/1605952610-105",
+  "impellitteri/1605953871-105",
+  "impellitteri/969731901-106",
+  "impellitteri/1409651352-106",
+  "impellitteri/1766554955-106",
+  "impellitteri/1605947595-104",
+  "impellitteri/1605949412-104",
+  "impellitteri/1605951267-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 121.83259662828948,
+   "iqr": 53.192138671875
+  },
+  "onset_rate": {
+   "median": 4.7612571522086995,
+   "iqr": 1.6585308272317318
+  },
+  "tempo_var": {
+   "median": 15.576440134575408,
+   "iqr": 8.502527493826577
+  },
+  "low_onset_rate": {
+   "median": 5.596565424526014,
+   "iqr": 2.0632114326237696
+  },
+  "lufs": {
+   "median": -8.896339402010675,
+   "iqr": 3.5043846577454634
+  },
+  "rms_dbfs": {
+   "median": -8.614027197783615,
+   "iqr": 3.320925714041124
+  },
+  "crest": {
+   "median": 8.614027500152588,
+   "iqr": 3.3209261894226074
+  },
+  "centroid": {
+   "median": 2644.0611721779205,
+   "iqr": 309.4508431543941
+  },
+  "flatness": {
+   "median": 0.03339827619493008,
+   "iqr": 0.005199209786951542
+  },
+  "sub100_share": {
+   "median": 0.2758404463529587,
+   "iqr": 0.09434472769498825
+  },
+  "lowest_pitch": {
+   "median": 47.1038818359375,
+   "iqr": 40.374755859375
+  },
+  "harmonic_share": {
+   "median": 0.7681906819343567,
+   "iqr": 0.08932386338710785
+  },
+  "clean_share": {
+   "median": 0.008909935702671089,
+   "iqr": 0.05760279286268425
+  },
+  "minor_share": {
+   "median": 0.1340287665871741,
+   "iqr": 0.2001167116522457
+  },
+  "chord_rate": {
+   "median": 1.6204980482955924,
+   "iqr": 0.3508294743732727
+  },
+  "repetitiveness": {
+   "median": 0.8630890846252441,
+   "iqr": 0.06510406732559204
+  },
+  "vocal_share": {
+   "median": 0.2300812155008316,
+   "iqr": 0.07818877696990967
+  },
+  "vocal_voiced": {
+   "median": 0.6844444444444444,
+   "iqr": 0.10046632342014239
+  },
+  "song_length": {
+   "median": 246.7665,
+   "iqr": 52.748249999999985
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

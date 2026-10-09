@@ -1,0 +1,32 @@
+{
+ "id": "ankhara/1707583853-106",
+ "band": "ankhara",
+ "title": "En La Oscuridad",
+ "source": "itunes",
+ "album": "Sinergia",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 2.733250695368243,
+  "tempo_var": 24.53776007463163,
+  "low_onset_rate": 3.4665618575402104,
+  "lufs": -7.386361375975524,
+  "rms_dbfs": -6.891577898346406,
+  "crest": 6.89157772064209,
+  "centroid": 2396.016854442297,
+  "flatness": 0.026437655091285706,
+  "sub100_share": 0.3085486590862274,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8005602955818176,
+  "clean_share": 0.1840680587780356,
+  "minor_share": 0.11692973518699268,
+  "chord_rate": 1.566619301003749,
+  "repetitiveness": 0.7023679614067078,
+  "vocal_share": 0.17850527167320251,
+  "vocal_voiced": 0.5210589651022864,
+  "song_length": 310.08
+ }
+}

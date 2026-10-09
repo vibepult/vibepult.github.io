@@ -1,0 +1,32 @@
+{
+ "id": "skid-row/1727790222-107",
+ "band": "skid-row",
+ "title": "Youth Gone Wild",
+ "source": "itunes",
+ "album": "Skid Row",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.1666535652089784,
+  "tempo_var": 19.408432006295627,
+  "low_onset_rate": 3.2666469136996903,
+  "lufs": -11.062326322015492,
+  "rms_dbfs": -11.193913677729581,
+  "crest": 11.193913459777832,
+  "centroid": 2538.4460269821866,
+  "flatness": 0.03291778266429901,
+  "sub100_share": 0.34498366713523865,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7427465915679932,
+  "clean_share": 0.09667440061871617,
+  "minor_share": 0.13981844427931828,
+  "chord_rate": 2.199986696981424,
+  "repetitiveness": 0.8632509708404541,
+  "vocal_share": 0.09321599453687668,
+  "vocal_voiced": 0.90625,
+  "song_length": 199.336
+ }
+}

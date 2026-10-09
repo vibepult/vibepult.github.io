@@ -1,0 +1,32 @@
+{
+ "id": "whitechapel/606269645-106",
+ "band": "whitechapel",
+ "title": "Ear to Ear",
+ "source": "itunes",
+ "album": "The Somatic Defilement (Remastered)",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.399918368580974,
+  "tempo_var": 7.779632713209246,
+  "low_onset_rate": 6.7665643754440605,
+  "lufs": -7.192363874567651,
+  "rms_dbfs": -6.833559699518191,
+  "crest": 6.833559989929199,
+  "centroid": 2298.4121268173194,
+  "flatness": 0.030465034767985344,
+  "sub100_share": 0.342807412147522,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7336836457252502,
+  "clean_share": 0.0,
+  "minor_share": 0.10890588959794167,
+  "chord_rate": 1.7666399600913063,
+  "repetitiveness": 0.9230616688728333,
+  "vocal_share": 0.12391498684883118,
+  "vocal_voiced": 0.24034334763948498,
+  "song_length": 210.627
+ }
+}

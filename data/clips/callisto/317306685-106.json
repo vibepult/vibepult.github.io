@@ -1,0 +1,32 @@
+{
+ "id": "callisto/317306685-106",
+ "band": "callisto",
+ "title": "Pathos",
+ "source": "itunes",
+ "album": "Noir",
+ "year": 2006,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 3.240996096591185,
+  "tempo_var": 0.0,
+  "low_onset_rate": 3.742181059981574,
+  "lufs": -8.655080030769948,
+  "rms_dbfs": -7.449912881210637,
+  "crest": 7.4499125480651855,
+  "centroid": 1883.182825216964,
+  "flatness": 0.008505572564899921,
+  "sub100_share": 0.5297062993049622,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.8816337585449219,
+  "clean_share": 0.5624515128006207,
+  "minor_share": 0.19879428453283676,
+  "chord_rate": 1.7374412064200164,
+  "repetitiveness": 0.625831127166748,
+  "vocal_share": 0.014934094622731209,
+  "vocal_voiced": 0.9188712522045855,
+  "song_length": 359.827
+ }
+}

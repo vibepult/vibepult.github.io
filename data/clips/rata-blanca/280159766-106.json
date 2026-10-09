@@ -1,0 +1,32 @@
+{
+ "id": "rata-blanca/280159766-106",
+ "band": "rata-blanca",
+ "title": "Bajo el Poder del Sol",
+ "source": "itunes",
+ "album": "La Llave de la puerta secreta",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.933333333333334,
+  "tempo_var": 1.0677961870373158,
+  "low_onset_rate": 6.266666666666667,
+  "lufs": -5.835568629696714,
+  "rms_dbfs": -5.516932332569794,
+  "crest": 5.516932487487793,
+  "centroid": 2239.775812592311,
+  "flatness": 0.019184410572052002,
+  "sub100_share": 0.23586802184581757,
+  "lowest_pitch": 131.890869140625,
+  "harmonic_share": 0.817400336265564,
+  "clean_share": 0.0456656346749226,
+  "minor_share": 0.03560547188844898,
+  "chord_rate": 1.5666666666666667,
+  "repetitiveness": 0.7279598116874695,
+  "vocal_share": 0.4058729410171509,
+  "vocal_voiced": 0.90625,
+  "song_length": 319.827
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "lost-soul/1313311215-105",
+ "band": "lost-soul",
+ "title": "One Step Too Far",
+ "source": "itunes",
+ "album": "Immerse in Infinity",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.880570237113902,
+  "tempo_var": 10.378547331655643,
+  "low_onset_rate": 8.887680017456239,
+  "lufs": -8.113089465385382,
+  "rms_dbfs": -7.340616425340008,
+  "crest": 7.340616226196289,
+  "centroid": 2711.0521870413854,
+  "flatness": 0.04196540638804436,
+  "sub100_share": 0.5055142641067505,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8195345997810364,
+  "clean_share": 0.06516679596586501,
+  "minor_share": 0.1140629190941072,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.9075959920883179,
+  "vocal_share": 1.446569058316527e-05,
+  "vocal_voiced": 0.0,
+  "song_length": 402.813
+ }
+}

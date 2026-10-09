@@ -1,0 +1,32 @@
+{
+ "id": "quiet-riot/327338445-106",
+ "band": "quiet-riot",
+ "title": "The Joker",
+ "source": "itunes",
+ "album": "QR",
+ "year": 1988,
+ "itunes_year": 1988,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.5977211713215667,
+  "tempo_var": 6.195024493565474,
+  "low_onset_rate": 3.3312233067792283,
+  "lufs": -14.665175299247432,
+  "rms_dbfs": -15.013241524579024,
+  "crest": 15.0132417678833,
+  "centroid": 3026.1243992634227,
+  "flatness": 0.05951479449868202,
+  "sub100_share": 0.1006031408905983,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.581609845161438,
+  "clean_share": 0.0,
+  "minor_share": -0.07005918156585877,
+  "chord_rate": 2.131982916338706,
+  "repetitiveness": 0.8466704487800598,
+  "vocal_share": 0.4898580312728882,
+  "vocal_voiced": 0.7358490566037735,
+  "song_length": 235.39
+ }
+}

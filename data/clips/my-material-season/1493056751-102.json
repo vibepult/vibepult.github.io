@@ -1,0 +1,32 @@
+{
+ "id": "my-material-season/1493056751-102",
+ "band": "my-material-season",
+ "title": "The Time Limit Approach",
+ "source": "itunes",
+ "album": "Mind of You Fragile in Vitroform",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 7.150238811036222,
+  "tempo_var": 15.154280152614092,
+  "low_onset_rate": 6.281518207826213,
+  "lufs": -8.549878193798614,
+  "rms_dbfs": -8.14257163712697,
+  "crest": 8.142572402954102,
+  "centroid": 3045.7868825914734,
+  "flatness": 0.047592055052518845,
+  "sub100_share": 0.2860073149204254,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8115902543067932,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.13974325213820132,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.8402289152145386,
+  "vocal_share": 0.03475448116660118,
+  "vocal_voiced": 0.19786096256684493,
+  "song_length": 273.76
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "budgie/1848934363-104",
+ "band": "budgie",
+ "title": "Hammer And Tongs",
+ "source": "itunes",
+ "album": "In For The Kill!",
+ "year": 1974,
+ "itunes_year": 1974,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.9996734960411398,
+  "tempo_var": 6.642815842956683,
+  "low_onset_rate": 4.566293907980301,
+  "lufs": -14.17361824688011,
+  "rms_dbfs": -12.971014849797964,
+  "crest": 12.971014976501465,
+  "centroid": 1596.3231309588875,
+  "flatness": 0.005852147005498409,
+  "sub100_share": 0.33958014845848083,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8554611206054688,
+  "clean_share": 0.7208043310131477,
+  "minor_share": -0.0201777000147223,
+  "chord_rate": 2.1998204228226266,
+  "repetitiveness": 0.7487751841545105,
+  "vocal_share": 0.12982866168022156,
+  "vocal_voiced": 0.8969210174029452,
+  "song_length": 417.96
+ }
+}

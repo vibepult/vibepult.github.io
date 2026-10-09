@@ -1,0 +1,32 @@
+{
+ "id": "nile/73640587-106",
+ "band": "nile",
+ "title": "Stones of Sorrow",
+ "source": "itunes",
+ "album": "Amongst the Catacombs of Nephren-Ka",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.499916856888029,
+  "tempo_var": 14.9144136629907,
+  "low_onset_rate": 7.366555305286391,
+  "lufs": -9.79214980444715,
+  "rms_dbfs": -10.003727881189956,
+  "crest": 10.003727912902832,
+  "centroid": 3086.6576846378402,
+  "flatness": 0.05443292856216431,
+  "sub100_share": 0.29652896523475647,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.6875855326652527,
+  "clean_share": 0.0015467904098994587,
+  "minor_share": 0.006242896863141334,
+  "chord_rate": 2.0333025955767865,
+  "repetitiveness": 0.8940204977989197,
+  "vocal_share": 0.15463857352733612,
+  "vocal_voiced": 0.42857142857142855,
+  "song_length": 257.24
+ }
+}

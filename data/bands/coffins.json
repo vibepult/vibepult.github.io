@@ -1,0 +1,127 @@
+{
+ "slug": "coffins",
+ "name": "Coffins",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 258055259,
+  "deezer": 1251878,
+  "spotify": "34Dog4Ylyg3eUFJF5Rk7Hc"
+ },
+ "metadata": {
+  "formed": 1996,
+  "split": null,
+  "country": "JP",
+  "status": "active",
+  "members": 4,
+  "past_members": 7,
+  "full_lengths": 6,
+  "genre": "Doom/Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 2701,
+  "themes": "Evil, Death, Blasphemy, Torture",
+  "release_year": 2016
+ },
+ "partial": false,
+ "clips": [
+  "coffins/373729454-104",
+  "coffins/625430454-105",
+  "coffins/1471259030-104",
+  "coffins/1716579574-105",
+  "coffins/373729454-105",
+  "coffins/625430454-104",
+  "coffins/1471259030-105",
+  "coffins/1716579574-106",
+  "coffins/373729454-103",
+  "coffins/625430454-106",
+  "coffins/1471259030-103",
+  "coffins/1716579574-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 132.59919819078948,
+   "iqr": 41.8988770780051
+  },
+  "onset_rate": {
+   "median": 2.99040361489599,
+   "iqr": 2.6321097803423363
+  },
+  "tempo_var": {
+   "median": 7.408941401110731,
+   "iqr": 7.823539510417721
+  },
+  "low_onset_rate": {
+   "median": 6.423815945788682,
+   "iqr": 2.8509093811117037
+  },
+  "lufs": {
+   "median": -7.099982033858057,
+   "iqr": 1.2291265048290745
+  },
+  "rms_dbfs": {
+   "median": -7.229097162238363,
+   "iqr": 1.1271300259096408
+  },
+  "crest": {
+   "median": 7.229097604751587,
+   "iqr": 1.1271299123764038
+  },
+  "centroid": {
+   "median": 2701.3280209358986,
+   "iqr": 242.826039347216
+  },
+  "flatness": {
+   "median": 0.03796673193573952,
+   "iqr": 0.017432705033570528
+  },
+  "sub100_share": {
+   "median": 0.218301922082901,
+   "iqr": 0.1854859311133623
+  },
+  "lowest_pitch": {
+   "median": 65.9454345703125,
+   "iqr": 26.91650390625
+  },
+  "harmonic_share": {
+   "median": 0.8033242523670197,
+   "iqr": 0.10026708245277405
+  },
+  "clean_share": {
+   "median": 0.001939487975174554,
+   "iqr": 0.08262218774243599
+  },
+  "minor_share": {
+   "median": -0.08569431739069205,
+   "iqr": 0.11438782545688686
+  },
+  "chord_rate": {
+   "median": 1.4516194499668655,
+   "iqr": 0.9361179973007483
+  },
+  "repetitiveness": {
+   "median": 0.8513974249362946,
+   "iqr": 0.12781548500061035
+  },
+  "vocal_share": {
+   "median": 0.07022863626480103,
+   "iqr": 0.03532402589917183
+  },
+  "vocal_voiced": {
+   "median": 0.2995658465991317,
+   "iqr": 0.15222491909385114
+  },
+  "song_length": {
+   "median": 326.19550000000004,
+   "iqr": 123.82000000000005
+  },
+  "vocal_presence": {
+   "median": 0.4166666666666667,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

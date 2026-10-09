@@ -1,0 +1,32 @@
+{
+ "id": "cro-mags/1469735225-106",
+ "band": "cro-mags",
+ "title": "Without Her",
+ "source": "itunes",
+ "album": "Revenge",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.145498957474664,
+  "tempo_var": 12.327230142974622,
+  "low_onset_rate": 6.281518207826213,
+  "lufs": -7.762288647448259,
+  "rms_dbfs": -8.033452134902763,
+  "crest": 8.033452987670898,
+  "centroid": 2523.177634106019,
+  "flatness": 0.03643343225121498,
+  "sub100_share": 0.1762344390153885,
+  "lowest_pitch": 148.040771484375,
+  "harmonic_share": 0.7478058338165283,
+  "clean_share": 0.0,
+  "minor_share": 0.03725588454476114,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.8430257439613342,
+  "vocal_share": 0.2182072401046753,
+  "vocal_voiced": 0.8454198473282443,
+  "song_length": 193.56
+ }
+}

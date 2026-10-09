@@ -1,0 +1,32 @@
+{
+ "id": "xandria/1183578584-107",
+ "band": "xandria",
+ "title": "The Dream Is Still Alive",
+ "source": "itunes",
+ "album": "Neverworld's End",
+ "year": 2012,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 2.7666666666666666,
+  "tempo_var": 14.237180023601208,
+  "low_onset_rate": 1.8333333333333333,
+  "lufs": -11.948350010824397,
+  "rms_dbfs": -11.68175846023761,
+  "crest": 11.681757926940918,
+  "centroid": 2546.3612871626597,
+  "flatness": 0.02425404079258442,
+  "sub100_share": 0.09775198251008987,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8738147020339966,
+  "clean_share": 0.48761609907120745,
+  "minor_share": 0.09166719163105141,
+  "chord_rate": 1.2,
+  "repetitiveness": 0.7010729312896729,
+  "vocal_share": 0.7337732911109924,
+  "vocal_voiced": 0.8250773993808049,
+  "song_length": 263.573
+ }
+}

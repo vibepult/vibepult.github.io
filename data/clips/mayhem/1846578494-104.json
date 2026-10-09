@@ -1,0 +1,32 @@
+{
+ "id": "mayhem/1846578494-104",
+ "band": "mayhem",
+ "title": "Aeon's End",
+ "source": "itunes",
+ "album": "Liturgy of Death",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.796328553795857,
+  "tempo_var": 12.378324081477164,
+  "low_onset_rate": 7.928311470134563,
+  "lufs": -8.903935708081995,
+  "rms_dbfs": -8.839496247638307,
+  "crest": 8.839495658874512,
+  "centroid": 2942.305843516971,
+  "flatness": 0.06854749470949173,
+  "sub100_share": 0.25796473026275635,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.6729179620742798,
+  "clean_share": 0.0,
+  "minor_share": 0.06165630763518665,
+  "chord_rate": 2.032046217135329,
+  "repetitiveness": 0.9586011171340942,
+  "vocal_share": 0.146292045712471,
+  "vocal_voiced": 0.16638655462184873,
+  "song_length": 295.954
+ }
+}

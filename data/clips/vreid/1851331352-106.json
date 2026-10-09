@@ -1,0 +1,32 @@
+{
+ "id": "vreid/1851331352-106",
+ "band": "vreid",
+ "title": "Build & Destroy",
+ "source": "itunes",
+ "album": "The Skies Turn Black",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.966591585917069,
+  "tempo_var": 30.326453631146283,
+  "low_onset_rate": 5.499916856888029,
+  "lufs": -9.473669526831365,
+  "rms_dbfs": -8.415492882749213,
+  "crest": 8.41549301147461,
+  "centroid": 2586.1036629728014,
+  "flatness": 0.0334722101688385,
+  "sub100_share": 0.5257498621940613,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7911533117294312,
+  "clean_share": 0.018561484918793503,
+  "minor_share": 0.15379820548078904,
+  "chord_rate": 1.4999773246058261,
+  "repetitiveness": 0.8425132036209106,
+  "vocal_share": 0.05024454742670059,
+  "vocal_voiced": 0.10638297872340426,
+  "song_length": 188.827
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "seventh-wonder/1690226553-105",
+ "band": "seventh-wonder",
+ "title": "Not An Angel",
+ "source": "itunes",
+ "album": "Waiting In The Wings",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.813745575328517,
+  "tempo_var": 24.566673614870556,
+  "low_onset_rate": 5.178911288367357,
+  "lufs": -8.477200661859058,
+  "rms_dbfs": -8.236395375445069,
+  "crest": 8.236394882202148,
+  "centroid": 2926.1602875665944,
+  "flatness": 0.049422573298215866,
+  "sub100_share": 0.3352065980434418,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.722884476184845,
+  "clean_share": 0.07447633824670287,
+  "minor_share": 0.08325987394425682,
+  "chord_rate": 1.971327522668865,
+  "repetitiveness": 0.8839396238327026,
+  "vocal_share": 0.16267253458499908,
+  "vocal_voiced": 0.7597137014314929,
+  "song_length": 404.92
+ }
+}

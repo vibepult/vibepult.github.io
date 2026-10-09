@@ -1,0 +1,32 @@
+{
+ "id": "evile/628156231-105",
+ "band": "evile",
+ "title": "Tomb",
+ "source": "itunes",
+ "album": "Skull",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.4080577510546477,
+  "tempo_var": 1.1649148589460077,
+  "low_onset_rate": 4.176541361586578,
+  "lufs": -10.757272330462257,
+  "rms_dbfs": -10.180079833273052,
+  "crest": 10.18008041381836,
+  "centroid": 2433.2785707471253,
+  "flatness": 0.021796787157654762,
+  "sub100_share": 0.2928760349750519,
+  "lowest_pitch": 115.740966796875,
+  "harmonic_share": 0.8097533583641052,
+  "clean_share": 0.208688906128782,
+  "minor_share": -0.10116213528959872,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.7213493585586548,
+  "vocal_share": 0.013429950922727585,
+  "vocal_voiced": 0.9139784946236559,
+  "song_length": 446.013
+ }
+}

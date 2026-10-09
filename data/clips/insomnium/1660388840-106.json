@@ -1,0 +1,32 @@
+{
+ "id": "insomnium/1660388840-106",
+ "band": "insomnium",
+ "title": "Black Waters",
+ "source": "itunes",
+ "album": "In the Halls of Awaiting",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 5.5,
+  "tempo_var": 22.66003261326172,
+  "low_onset_rate": 6.566666666666666,
+  "lufs": -8.676953629006672,
+  "rms_dbfs": -8.632455419057498,
+  "crest": 8.632455825805664,
+  "centroid": 2978.232362985065,
+  "flatness": 0.054748453199863434,
+  "sub100_share": 0.28605711460113525,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7044938206672668,
+  "clean_share": 0.003869969040247678,
+  "minor_share": 0.11409101143861222,
+  "chord_rate": 1.7333333333333334,
+  "repetitiveness": 0.8328947424888611,
+  "vocal_share": 0.1054924726486206,
+  "vocal_voiced": 0.025219298245614034,
+  "song_length": 300.507
+ }
+}

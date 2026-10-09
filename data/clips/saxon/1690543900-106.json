@@ -1,0 +1,32 @@
+{
+ "id": "saxon/1690543900-106",
+ "band": "saxon",
+ "title": "Song of Evil",
+ "source": "itunes",
+ "album": "Metalhead",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.742181059981574,
+  "tempo_var": 1.6129259955241868,
+  "low_onset_rate": 5.011849633903894,
+  "lufs": -11.22208476737988,
+  "rms_dbfs": -11.150485607592529,
+  "crest": 11.150485038757324,
+  "centroid": 2801.437564181017,
+  "flatness": 0.04777710139751434,
+  "sub100_share": 0.20641306042671204,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.6401493549346924,
+  "clean_share": 0.013188518231186967,
+  "minor_share": -0.05833920431398343,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.8421445488929749,
+  "vocal_share": 0.23021310567855835,
+  "vocal_voiced": 0.6742738589211619,
+  "song_length": 252.307
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "autopsy/673995374-105",
+ "band": "autopsy",
+ "title": "Slaughterday",
+ "source": "itunes",
+ "album": "Mental Funeral",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.7332768967967227,
+  "tempo_var": 17.075205690442438,
+  "low_onset_rate": 4.933258756481384,
+  "lufs": -11.591047020805416,
+  "rms_dbfs": -11.930488976996351,
+  "crest": 11.930489540100098,
+  "centroid": 2283.694222522116,
+  "flatness": 0.031071756035089493,
+  "sub100_share": 0.06518928706645966,
+  "lowest_pitch": 104.974365234375,
+  "harmonic_share": 0.6499070525169373,
+  "clean_share": 0.027068832173240527,
+  "minor_share": -0.1799292285545453,
+  "chord_rate": 1.099983371377606,
+  "repetitiveness": 0.8395212888717651,
+  "vocal_share": 0.0971134826540947,
+  "vocal_voiced": 0.6885714285714286,
+  "song_length": 244.027
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "godflesh/263698843-106",
+ "band": "godflesh",
+ "title": "Monotremata",
+ "source": "itunes",
+ "album": "Pure",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.207583765698492,
+  "tempo_var": 12.45429553181619,
+  "low_onset_rate": 6.548816854967755,
+  "lufs": -12.482394732214036,
+  "rms_dbfs": -13.05091397261229,
+  "crest": 13.05091381072998,
+  "centroid": 2986.989196118967,
+  "flatness": 0.04715973138809204,
+  "sub100_share": 0.36968398094177246,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7348930239677429,
+  "clean_share": 0.04266873545384019,
+  "minor_share": -0.021671972488645497,
+  "chord_rate": 2.138389177132328,
+  "repetitiveness": 0.95069420337677,
+  "vocal_share": 2.982835030707065e-05,
+  "vocal_voiced": 0.0,
+  "song_length": 560.667
+ }
+}

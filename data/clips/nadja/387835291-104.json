@@ -1,0 +1,32 @@
+{
+ "id": "nadja/387835291-104",
+ "band": "nadja",
+ "title": "SUN4flood",
+ "source": "itunes",
+ "album": "Under the Jaguar Sun",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.572749478737332,
+  "tempo_var": 7.420041288778637,
+  "low_onset_rate": 2.8066357949861804,
+  "lufs": -16.241168178248934,
+  "rms_dbfs": -14.801954607542074,
+  "crest": 12.933584213256836,
+  "centroid": 484.1452933027417,
+  "flatness": 6.200175266712904e-05,
+  "sub100_share": 0.05311406031250954,
+  "lowest_pitch": 107.666015625,
+  "harmonic_share": 0.9959172010421753,
+  "clean_share": 1.0,
+  "minor_share": -0.0070421077742790494,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.8296889662742615,
+  "vocal_share": 0.019462695345282555,
+  "vocal_voiced": 0.822429906542056,
+  "song_length": 862.253
+ }
+}

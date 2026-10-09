@@ -1,0 +1,32 @@
+{
+ "id": "finntroll/704667329-107",
+ "band": "finntroll",
+ "title": "Kitteldags",
+ "source": "itunes",
+ "album": "Jaktens tid",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 7.150238811036222,
+  "tempo_var": 13.316999501242764,
+  "low_onset_rate": 7.8184854288900745,
+  "lufs": -9.108751163421518,
+  "rms_dbfs": -8.433631420126082,
+  "crest": 8.43363094329834,
+  "centroid": 2705.5778937540795,
+  "flatness": 0.04766325280070305,
+  "sub100_share": 0.4567391574382782,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7619362473487854,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.07322797400657366,
+  "chord_rate": 1.4367302283857828,
+  "repetitiveness": 0.9004837274551392,
+  "vocal_share": 0.09178014099597931,
+  "vocal_voiced": 0.00513347022587269,
+  "song_length": 125.467
+ }
+}

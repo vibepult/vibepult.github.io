@@ -1,0 +1,32 @@
+{
+ "id": "amon-amarth/1453761098-106",
+ "band": "amon-amarth",
+ "title": "Raven's Flight",
+ "source": "itunes",
+ "album": "Berserker",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 7.1332254992365955,
+  "tempo_var": 1.967196529375527,
+  "low_onset_rate": 7.866547746821666,
+  "lufs": -8.737744155338182,
+  "rms_dbfs": -7.675366312091295,
+  "crest": 7.675366401672363,
+  "centroid": 2425.2946958994335,
+  "flatness": 0.03137146681547165,
+  "sub100_share": 0.3418058156967163,
+  "lowest_pitch": 24.224853515625,
+  "harmonic_share": 0.587244987487793,
+  "clean_share": 0.0,
+  "minor_share": 0.013442782712139278,
+  "chord_rate": 1.4999773246058261,
+  "repetitiveness": 0.9228988289833069,
+  "vocal_share": 0.15030701458454132,
+  "vocal_voiced": 0.10601092896174863,
+  "song_length": 321.656
+ }
+}

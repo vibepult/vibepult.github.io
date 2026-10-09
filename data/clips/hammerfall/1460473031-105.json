@@ -1,0 +1,32 @@
+{
+ "id": "hammerfall/1460473031-105",
+ "band": "hammerfall",
+ "title": "Remember Yesterday",
+ "source": "itunes",
+ "album": "Legacy of Kings",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.766649937113003,
+  "tempo_var": 18.334762384241383,
+  "low_onset_rate": 1.5333240615325077,
+  "lufs": -15.77661407915001,
+  "rms_dbfs": -16.511732205308473,
+  "crest": 16.51146697998047,
+  "centroid": 2059.181344150897,
+  "flatness": 0.027066241949796677,
+  "sub100_share": 0.020599232986569405,
+  "lowest_pitch": 104.974365234375,
+  "harmonic_share": 0.9079092144966125,
+  "clean_share": 0.7532869296210364,
+  "minor_share": 0.1103089502468535,
+  "chord_rate": 1.099993348490712,
+  "repetitiveness": 0.6874419450759888,
+  "vocal_share": 0.5202577114105225,
+  "vocal_voiced": 0.9037328094302554,
+  "song_length": 305.267
+ }
+}

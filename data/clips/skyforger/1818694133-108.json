@@ -1,0 +1,32 @@
+{
+ "id": "skyforger/1818694133-108",
+ "band": "skyforger",
+ "title": "Zilaiskalns",
+ "source": "itunes",
+ "album": "Teikas",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.466666666666667,
+  "tempo_var": 0.0,
+  "low_onset_rate": 8.666666666666666,
+  "lufs": -10.113118864208664,
+  "rms_dbfs": -9.41136444793315,
+  "crest": 9.411364555358887,
+  "centroid": 2535.99660318288,
+  "flatness": 0.03015751950442791,
+  "sub100_share": 0.4426736533641815,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7968189716339111,
+  "clean_share": 0.04256965944272446,
+  "minor_share": -0.050077697955370315,
+  "chord_rate": 0.6666666666666666,
+  "repetitiveness": 0.9076316952705383,
+  "vocal_share": 5.079535299046256e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 245.0
+ }
+}

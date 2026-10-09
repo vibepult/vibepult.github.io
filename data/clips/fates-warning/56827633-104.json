@@ -1,0 +1,32 @@
+{
+ "id": "fates-warning/56827633-104",
+ "band": "fates-warning",
+ "title": "Pirates of the Underground",
+ "source": "itunes",
+ "album": "The Spectre Within (Remastered)",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.945024972118508,
+  "tempo_var": 32.28918071699867,
+  "low_onset_rate": 5.513034597294284,
+  "lufs": -11.820581004035569,
+  "rms_dbfs": -12.734051840874393,
+  "crest": 12.734051704406738,
+  "centroid": 2895.4520767891195,
+  "flatness": 0.03948969021439552,
+  "sub100_share": 0.13646282255649567,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.6604887247085571,
+  "clean_share": 0.0,
+  "minor_share": -0.01621062585450822,
+  "chord_rate": 2.1049768462396354,
+  "repetitiveness": 0.846122682094574,
+  "vocal_share": 7.16624663255061e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 425.44
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "black-royal/1354970984-106",
+ "band": "black-royal",
+ "title": "Lightbringer",
+ "source": "itunes",
+ "album": "Lightbringer",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 2.8734604567715656,
+  "tempo_var": 11.202898550008976,
+  "low_onset_rate": 6.916352494787374,
+  "lufs": -8.020603778035136,
+  "rms_dbfs": -7.02331861624515,
+  "crest": 7.023318290710449,
+  "centroid": 1721.0694499591277,
+  "flatness": 0.014960775151848793,
+  "sub100_share": 0.6747082471847534,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.9310697913169861,
+  "clean_share": 0.6664080682699767,
+  "minor_share": 0.03818336973233538,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.9365201592445374,
+  "vocal_share": 0.017132319509983063,
+  "vocal_voiced": 0.9251968503937008,
+  "song_length": 294.227
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "graveworm/1804249437-105",
+ "band": "graveworm",
+ "title": "Threnody",
+ "source": "itunes",
+ "album": "Scourge of malice",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.5666127496182978,
+  "tempo_var": 28.768717567149245,
+  "low_onset_rate": 4.633263291560218,
+  "lufs": -19.447247365030197,
+  "rms_dbfs": -19.13446996082587,
+  "crest": 19.08902359008789,
+  "centroid": 1609.6093910384338,
+  "flatness": 0.0026756003499031067,
+  "sub100_share": 0.010351689532399178,
+  "lowest_pitch": 123.81591796875,
+  "harmonic_share": 0.9618651866912842,
+  "clean_share": 0.860015467904099,
+  "minor_share": 0.18252656472838868,
+  "chord_rate": 0.9999848830705508,
+  "repetitiveness": 0.6212714314460754,
+  "vocal_share": 1.6438511920568999e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 270.627
+ }
+}

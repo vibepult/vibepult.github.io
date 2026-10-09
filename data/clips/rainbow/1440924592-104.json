@@ -1,0 +1,32 @@
+{
+ "id": "rainbow/1440924592-104",
+ "band": "rainbow",
+ "title": "Catch the Rainbow",
+ "source": "itunes",
+ "album": "Ritchie Blackmore's Rainbow",
+ "year": 1975,
+ "itunes_year": 1975,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.766624843161857,
+  "tempo_var": 4.484342895904521,
+  "low_onset_rate": 2.366630889933637,
+  "lufs": -16.872680328847263,
+  "rms_dbfs": -16.052623084438455,
+  "crest": 16.052623748779297,
+  "centroid": 1596.216772503116,
+  "flatness": 0.007681119255721569,
+  "sub100_share": 0.11756538599729538,
+  "lowest_pitch": 150.732421875,
+  "harmonic_share": 0.7561411261558533,
+  "clean_share": 0.6689868522815159,
+  "minor_share": 0.05044363566984783,
+  "chord_rate": 1.199981859684661,
+  "repetitiveness": 0.6672203540802002,
+  "vocal_share": 0.31449905037879944,
+  "vocal_voiced": 0.925700365408039,
+  "song_length": 396.467
+ }
+}

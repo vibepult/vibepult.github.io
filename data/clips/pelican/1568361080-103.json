@@ -1,0 +1,32 @@
+{
+ "id": "pelican/1568361080-103",
+ "band": "pelican",
+ "title": "March to the Sea",
+ "source": "itunes",
+ "album": "The Fire In Our Throats Will Beckon the Thaw",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.0428920380158075,
+  "tempo_var": 7.455152186611942,
+  "low_onset_rate": 7.8184854288900745,
+  "lufs": -8.788133125319243,
+  "rms_dbfs": -8.569580164918701,
+  "crest": 8.569580078125,
+  "centroid": 2602.15808378268,
+  "flatness": 0.035987962037324905,
+  "sub100_share": 0.29458123445510864,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7924548983573914,
+  "clean_share": 0.0,
+  "minor_share": -0.08647231780533238,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.801658570766449,
+  "vocal_share": 4.79747711779055e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 697.707
+ }
+}

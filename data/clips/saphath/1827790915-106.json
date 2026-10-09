@@ -1,0 +1,32 @@
+{
+ "id": "saphath/1827790915-106",
+ "band": "saphath",
+ "title": "Asphodel Meadows",
+ "source": "itunes",
+ "album": "Ascension of the Dark Prophet",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 0.8999863947634957,
+  "tempo_var": 9.769953545693806,
+  "low_onset_rate": 2.5332950371120617,
+  "lufs": -9.773773178917322,
+  "rms_dbfs": -9.584365679119774,
+  "crest": 9.584365844726562,
+  "centroid": 1882.4457855791327,
+  "flatness": 0.010975194163620472,
+  "sub100_share": 0.09056297689676285,
+  "lowest_pitch": 115.740966796875,
+  "harmonic_share": 0.8982627391815186,
+  "clean_share": 0.4037122969837587,
+  "minor_share": -0.04797241752864212,
+  "chord_rate": 0.5666581004066454,
+  "repetitiveness": 0.584192156791687,
+  "vocal_share": 0.4269946217536926,
+  "vocal_voiced": 0.5931091058244463,
+  "song_length": 337.095
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "tersivel/1301081760-108",
+ "band": "tersivel",
+ "title": "Dignitas",
+ "source": "itunes",
+ "album": "Worship of the Gods",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 0.7350712796392378,
+  "tempo_var": 1.8321414063612882,
+  "low_onset_rate": 3.641944067303496,
+  "lufs": -9.369563338631275,
+  "rms_dbfs": -9.248287861729175,
+  "crest": 9.24828815460205,
+  "centroid": 2999.353953629684,
+  "flatness": 0.05478872358798981,
+  "sub100_share": 0.16948486864566803,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.799048125743866,
+  "clean_share": 0.01474010861132661,
+  "minor_share": -0.10330340353008671,
+  "chord_rate": 0.9689575958880862,
+  "repetitiveness": 0.8168118000030518,
+  "vocal_share": 0.13707035779953003,
+  "vocal_voiced": 0.17372262773722627,
+  "song_length": 259.431
+ }
+}

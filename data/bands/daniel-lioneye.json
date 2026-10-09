@@ -1,0 +1,127 @@
+{
+ "slug": "daniel-lioneye",
+ "name": "Daniel Lioneye",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 5545029,
+  "deezer": 16729,
+  "spotify": "2i9NRYNKiEtRVvF7XU4qE7"
+ },
+ "metadata": {
+  "formed": 2001,
+  "split": null,
+  "country": "FI",
+  "status": "active",
+  "members": 4,
+  "past_members": 2,
+  "full_lengths": 3,
+  "genre": "Stoner Rock (early); Melodic Black/Gothic Metal (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 1837,
+  "themes": "Sex, Drugs (early); Hatred, Supernatural (later)",
+  "release_year": 2008
+ },
+ "partial": false,
+ "clips": [
+  "daniel-lioneye/255722381-105",
+  "daniel-lioneye/1675486309-106",
+  "daniel-lioneye/255722381-104",
+  "daniel-lioneye/1675486309-107",
+  "daniel-lioneye/255722381-106",
+  "daniel-lioneye/1675486309-105",
+  "daniel-lioneye/255722381-103",
+  "daniel-lioneye/1675486309-108",
+  "daniel-lioneye/255722381-107",
+  "daniel-lioneye/1675486309-104",
+  "daniel-lioneye/255722381-102",
+  "daniel-lioneye/1675486309-109"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 35.40835731907896
+  },
+  "onset_rate": {
+   "median": 5.295854446491781,
+   "iqr": 2.338863162488484
+  },
+  "tempo_var": {
+   "median": 2.9976082506203907,
+   "iqr": 7.273241242759361
+  },
+  "low_onset_rate": {
+   "median": 6.314930538718906,
+   "iqr": 0.9522514304417395
+  },
+  "lufs": {
+   "median": -5.984654185161595,
+   "iqr": 2.4188888905739185
+  },
+  "rms_dbfs": {
+   "median": -5.938695293659613,
+   "iqr": 2.6438837039898564
+  },
+  "crest": {
+   "median": 5.938695192337036,
+   "iqr": 2.64388370513916
+  },
+  "centroid": {
+   "median": 2574.4468398830822,
+   "iqr": 348.98460696389066
+  },
+  "flatness": {
+   "median": 0.0364771094173193,
+   "iqr": 0.01586896227672696
+  },
+  "sub100_share": {
+   "median": 0.2272728905081749,
+   "iqr": 0.06982890516519547
+  },
+  "lowest_pitch": {
+   "median": 75.3662109375,
+   "iqr": 18.841552734375
+  },
+  "harmonic_share": {
+   "median": 0.7807297706604004,
+   "iqr": 0.07666619122028351
+  },
+  "clean_share": {
+   "median": 0.010861132660977503,
+   "iqr": 0.06555469356089993
+  },
+  "minor_share": {
+   "median": 0.05620065200805585,
+   "iqr": 0.1692232242774151
+  },
+  "chord_rate": {
+   "median": 1.9880336881152112,
+   "iqr": 0.6515404524075061
+  },
+  "repetitiveness": {
+   "median": 0.8523365259170532,
+   "iqr": 0.07405112683773041
+  },
+  "vocal_share": {
+   "median": 0.13951145857572556,
+   "iqr": 0.0577012337744236
+  },
+  "vocal_voiced": {
+   "median": 0.7202882305844676,
+   "iqr": 0.1441696821591687
+  },
+  "song_length": {
+   "median": 223.53449999999998,
+   "iqr": 81.03999999999996
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "gwar/56830181-107",
+ "band": "gwar",
+ "title": "Knife In Yer Guts",
+ "source": "itunes",
+ "album": "Ragnarök",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 5.099922903659809,
+  "tempo_var": 13.732124779907805,
+  "low_onset_rate": 5.633248174630769,
+  "lufs": -10.568977238189506,
+  "rms_dbfs": -9.899543487438931,
+  "crest": 9.899543762207031,
+  "centroid": 2259.2070452052617,
+  "flatness": 0.021578317508101463,
+  "sub100_share": 0.32468435168266296,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7004393339157104,
+  "clean_share": 0.19644238205723125,
+  "minor_share": 0.033048685286840906,
+  "chord_rate": 2.1333010838838415,
+  "repetitiveness": 0.8899106979370117,
+  "vocal_share": 0.09369156509637833,
+  "vocal_voiced": 0.35194585448392557,
+  "song_length": 195.133
+ }
+}

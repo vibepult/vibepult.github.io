@@ -1,0 +1,32 @@
+{
+ "id": "dark-tranquillity/1045081591-106",
+ "band": "dark-tranquillity",
+ "title": "Format C: For Cortex",
+ "source": "itunes",
+ "album": "Damage Done",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 6.348342869611598,
+  "tempo_var": 14.593504958645031,
+  "low_onset_rate": 7.751660767104689,
+  "lufs": -9.220598492625282,
+  "rms_dbfs": -8.94838350015532,
+  "crest": 8.948383331298828,
+  "centroid": 2757.813491459645,
+  "flatness": 0.04657003656029701,
+  "sub100_share": 0.2862245440483093,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7318918108940125,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.07180017140917916,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.8891182541847229,
+  "vocal_share": 0.08095330744981766,
+  "vocal_voiced": 0.1345962113659023,
+  "song_length": 269.933
+ }
+}

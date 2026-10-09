@@ -1,0 +1,127 @@
+{
+ "slug": "striker",
+ "name": "Striker",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 118405724,
+  "deezer": 152451,
+  "spotify": "0lwL1Cu96Wvy1hMwfLqHHC"
+ },
+ "metadata": {
+  "formed": 2007,
+  "split": null,
+  "country": "CA",
+  "status": "active",
+  "members": 5,
+  "past_members": 9,
+  "full_lengths": 7,
+  "genre": "Heavy/Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 2364,
+  "themes": "Metal, Beer, Life, Death",
+  "release_year": 2016
+ },
+ "partial": false,
+ "clips": [
+  "striker/372514666-105",
+  "striker/1184702313-108",
+  "striker/1072498049-106",
+  "striker/1190995026-105",
+  "striker/1410683935-105",
+  "striker/1724009435-106",
+  "striker/372514666-106",
+  "striker/1184702313-107",
+  "striker/1072498049-105",
+  "striker/1190995026-106",
+  "striker/1410683935-106",
+  "striker/1724009435-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 111.21544471153845,
+   "iqr": 47.20199377828054
+  },
+  "onset_rate": {
+   "median": 5.279148281045435,
+   "iqr": 1.0174763916500984
+  },
+  "tempo_var": {
+   "median": 8.113886786730415,
+   "iqr": 11.625312673410367
+  },
+  "low_onset_rate": {
+   "median": 6.197987380594482,
+   "iqr": 1.7675347306405467
+  },
+  "lufs": {
+   "median": -7.889668264018093,
+   "iqr": 0.6526148769424722
+  },
+  "rms_dbfs": {
+   "median": -7.188538688958561,
+   "iqr": 0.8284806140478729
+  },
+  "crest": {
+   "median": 7.1885387897491455,
+   "iqr": 0.8284814357757568
+  },
+  "centroid": {
+   "median": 2659.4557871519437,
+   "iqr": 157.57502431057173
+  },
+  "flatness": {
+   "median": 0.03822643868625164,
+   "iqr": 0.010058568790555
+  },
+  "sub100_share": {
+   "median": 0.33710916340351105,
+   "iqr": 0.05515948683023453
+  },
+  "lowest_pitch": {
+   "median": 43.06640625,
+   "iqr": 10.7666015625
+  },
+  "harmonic_share": {
+   "median": 0.7242784202098846,
+   "iqr": 0.08499008417129517
+  },
+  "clean_share": {
+   "median": 0.004654771140418929,
+   "iqr": 0.015312047402767402
+  },
+  "minor_share": {
+   "median": 0.13457442393336944,
+   "iqr": 0.11700244414006426
+  },
+  "chord_rate": {
+   "median": 1.9333333333333333,
+   "iqr": 0.5011849633903895
+  },
+  "repetitiveness": {
+   "median": 0.8891021013259888,
+   "iqr": 0.06652016937732697
+  },
+  "vocal_share": {
+   "median": 0.19717639684677124,
+   "iqr": 0.06697319447994232
+  },
+  "vocal_voiced": {
+   "median": 0.7740963855421686,
+   "iqr": 0.16470770661996936
+  },
+  "song_length": {
+   "median": 232.23149999999998,
+   "iqr": 35.582750000000004
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.6
+ },
+ "sources_failed": []
+}

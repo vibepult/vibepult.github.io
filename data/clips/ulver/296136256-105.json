@@ -1,0 +1,32 @@
+{
+ "id": "ulver/296136256-105",
+ "band": "ulver",
+ "title": "The Future Sound of Music",
+ "source": "itunes",
+ "album": "Perdition City",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 3.3333333333333335,
+  "tempo_var": 30.092644941521975,
+  "low_onset_rate": 5.266666666666667,
+  "lufs": -25.680678424230752,
+  "rms_dbfs": -24.989082208267654,
+  "crest": 19.936222076416016,
+  "centroid": 1797.812843742388,
+  "flatness": 0.005813400261104107,
+  "sub100_share": 0.1623205542564392,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.9110727310180664,
+  "clean_share": 0.684984520123839,
+  "minor_share": 0.014612237480896184,
+  "chord_rate": 1.5666666666666667,
+  "repetitiveness": 0.6802992224693298,
+  "vocal_share": 2.287079269081005e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 399.8
+ }
+}

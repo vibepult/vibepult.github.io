@@ -1,0 +1,32 @@
+{
+ "id": "neurosis/252614879-105",
+ "band": "neurosis",
+ "title": "Shadow",
+ "source": "itunes",
+ "album": "Given to the Rising",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 1.2696685739223197,
+  "tempo_var": 12.236347194820146,
+  "low_onset_rate": 8.754030693885468,
+  "lufs": -19.35447654330638,
+  "rms_dbfs": -17.666922349523485,
+  "crest": 14.691237449645996,
+  "centroid": 838.5310942738257,
+  "flatness": 0.0016034990549087524,
+  "sub100_share": 0.6678618788719177,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.9404478073120117,
+  "clean_share": 0.9542280837858805,
+  "minor_share": -0.1218516749305919,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.7967551350593567,
+  "vocal_share": 0.050026774406433105,
+  "vocal_voiced": 0.17647058823529413,
+  "song_length": 148.347
+ }
+}

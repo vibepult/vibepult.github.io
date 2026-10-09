@@ -1,0 +1,32 @@
+{
+ "id": "overkill/300973105-106",
+ "band": "overkill",
+ "title": "Horrorscope",
+ "source": "itunes",
+ "album": "Horrorscope",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.3999486024398724,
+  "tempo_var": 2.0545421983260574,
+  "low_onset_rate": 5.633248174630769,
+  "lufs": -15.861340738128236,
+  "rms_dbfs": -16.000201036945253,
+  "crest": 16.000202178955078,
+  "centroid": 2969.4653839180896,
+  "flatness": 0.042109228670597076,
+  "sub100_share": 0.25093328952789307,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7873014211654663,
+  "clean_share": 0.07192575406032482,
+  "minor_share": -0.012516828363823174,
+  "chord_rate": 2.599960695983432,
+  "repetitiveness": 0.828313410282135,
+  "vocal_share": 0.04291717708110809,
+  "vocal_voiced": 0.6173570019723866,
+  "song_length": 349.173
+ }
+}

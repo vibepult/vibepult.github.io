@@ -1,0 +1,32 @@
+{
+ "id": "ministry/302136278-105",
+ "band": "ministry",
+ "title": "Over the Shoulder",
+ "source": "itunes",
+ "album": "Twitch",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 6.29990476334447,
+  "tempo_var": 18.83450574149822,
+  "low_onset_rate": 6.2332391044731,
+  "lufs": -16.48665554272044,
+  "rms_dbfs": -16.074421429061736,
+  "crest": 16.074420928955078,
+  "centroid": 2379.654905582192,
+  "flatness": 0.025492427870631218,
+  "sub100_share": 0.29511284828186035,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.4983792304992676,
+  "clean_share": 0.02397525135344161,
+  "minor_share": 0.19439818528403707,
+  "chord_rate": 2.1666339133195267,
+  "repetitiveness": 0.9856431484222412,
+  "vocal_share": 0.020854869857430458,
+  "vocal_voiced": 0.34080717488789236,
+  "song_length": 313.56
+ }
+}

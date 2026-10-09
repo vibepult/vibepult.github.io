@@ -1,0 +1,32 @@
+{
+ "id": "the-lonely/1777517624-105",
+ "band": "the-lonely",
+ "title": "Slaves",
+ "source": "itunes",
+ "album": "Inhuman",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.832369051073709,
+  "tempo_var": 8.382711342118322,
+  "low_onset_rate": 6.465376523505514,
+  "lufs": -11.246543281822193,
+  "rms_dbfs": -9.822967674455034,
+  "crest": 9.822967529296875,
+  "centroid": 1358.0296200065477,
+  "flatness": 0.003836210584267974,
+  "sub100_share": 0.25831758975982666,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.9220945835113525,
+  "clean_share": 0.7416860015467904,
+  "minor_share": -0.12374415299321995,
+  "chord_rate": 1.4997007399883924,
+  "repetitiveness": 0.732495129108429,
+  "vocal_share": 0.021967120468616486,
+  "vocal_voiced": 0.31796690307328607,
+  "song_length": 281.267
+ }
+}

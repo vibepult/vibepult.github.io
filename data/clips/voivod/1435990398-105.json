@@ -1,0 +1,32 @@
+{
+ "id": "voivod/1435990398-105",
+ "band": "voivod",
+ "title": "Horror",
+ "source": "itunes",
+ "album": "Rrröööaaarrr",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.733333333333333,
+  "tempo_var": 14.496439110917956,
+  "low_onset_rate": 9.8,
+  "lufs": -15.408525526662105,
+  "rms_dbfs": -15.918674066137083,
+  "crest": 15.034923553466797,
+  "centroid": 2755.174063319263,
+  "flatness": 0.04862434044480324,
+  "sub100_share": 0.25024932622909546,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.6746426224708557,
+  "clean_share": 0.008513931888544891,
+  "minor_share": -0.2766910948708467,
+  "chord_rate": 1.8666666666666667,
+  "repetitiveness": 0.9667810201644897,
+  "vocal_share": 0.13881969451904297,
+  "vocal_voiced": 0.2054483541430193,
+  "song_length": 251.0
+ }
+}

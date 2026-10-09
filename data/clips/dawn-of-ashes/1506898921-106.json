@@ -1,0 +1,32 @@
+{
+ "id": "dawn-of-ashes/1506898921-106",
+ "band": "dawn-of-ashes",
+ "title": "Straight to the Core",
+ "source": "itunes",
+ "album": "The Antinomian",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.677726324976968,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 8.119196406924308,
+  "lufs": -10.47441225877571,
+  "rms_dbfs": -9.524006062387544,
+  "crest": 9.524005889892578,
+  "centroid": 2598.8732942848037,
+  "flatness": 0.04766134172677994,
+  "sub100_share": 0.39601126313209534,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.6511741280555725,
+  "clean_share": 0.0,
+  "minor_share": 0.15650471960383439,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.9234566688537598,
+  "vocal_share": 0.03447950258851051,
+  "vocal_voiced": 0.05299313052011776,
+  "song_length": 146.0
+ }
+}

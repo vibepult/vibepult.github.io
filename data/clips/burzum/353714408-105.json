@@ -1,0 +1,32 @@
+{
+ "id": "burzum/353714408-105",
+ "band": "burzum",
+ "title": "v. Sverddans",
+ "source": "itunes",
+ "album": "Belus",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.379385273723512,
+  "tempo_var": 16.54595182062049,
+  "low_onset_rate": 9.589338966202783,
+  "lufs": -8.804703494454744,
+  "rms_dbfs": -8.546751947761932,
+  "crest": 8.546751976013184,
+  "centroid": 2359.963775277641,
+  "flatness": 0.022196345031261444,
+  "sub100_share": 0.23898230493068695,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7402611970901489,
+  "clean_share": 0.1256788207913111,
+  "minor_share": 0.28744699155389625,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.8575883507728577,
+  "vocal_share": 0.10364510118961334,
+  "vocal_voiced": 0.16501240694789082,
+  "song_length": 147.815
+ }
+}

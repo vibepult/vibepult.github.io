@@ -1,0 +1,32 @@
+{
+ "id": "graveworm/1456966069-106",
+ "band": "graveworm",
+ "title": "Anxiety",
+ "source": "itunes",
+ "album": "Fragments of Death",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 64.599609375,
+  "onset_rate": 2.0381521844542503,
+  "tempo_var": 11.84673995245369,
+  "low_onset_rate": 0.8353082723173156,
+  "lufs": -4.890118267241784,
+  "rms_dbfs": -7.397453799981651,
+  "crest": 7.397453308105469,
+  "centroid": 1842.6693818344897,
+  "flatness": 0.022392094135284424,
+  "sub100_share": 0.30514630675315857,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.7458689212799072,
+  "clean_share": 0.49418153607447635,
+  "minor_share": 0.03302874294708369,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.8682217001914978,
+  "vocal_share": 0.1055002436041832,
+  "vocal_voiced": 0.4957698815566836,
+  "song_length": 273.013
+ }
+}

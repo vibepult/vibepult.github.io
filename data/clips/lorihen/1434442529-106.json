@@ -1,0 +1,32 @@
+{
+ "id": "lorihen/1434442529-106",
+ "band": "lorihen",
+ "title": "Volver a Nacer",
+ "source": "itunes",
+ "album": "Bajo la Cruz",
+ "year": 2007,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.6085317364108036,
+  "tempo_var": 14.849423826415903,
+  "low_onset_rate": 3.7755933908742665,
+  "lufs": -9.270158584707781,
+  "rms_dbfs": -10.48290550281317,
+  "crest": 10.482906341552734,
+  "centroid": 2220.2839435615474,
+  "flatness": 0.015321114100515842,
+  "sub100_share": 0.3014933168888092,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.869625985622406,
+  "clean_share": 0.33979829325058186,
+  "minor_share": 0.05957013544288592,
+  "chord_rate": 0.801895941424623,
+  "repetitiveness": 0.7940816283226013,
+  "vocal_share": 0.004787716083228588,
+  "vocal_voiced": 1.0,
+  "song_length": 305.451
+ }
+}

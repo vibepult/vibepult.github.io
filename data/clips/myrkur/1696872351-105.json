@@ -1,0 +1,32 @@
+{
+ "id": "myrkur/1696872351-105",
+ "band": "myrkur",
+ "title": "Spine",
+ "source": "itunes",
+ "album": "Spine",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 2.466666666666667,
+  "tempo_var": 20.564587748614997,
+  "low_onset_rate": 5.733333333333333,
+  "lufs": -12.055352728386456,
+  "rms_dbfs": -11.740911609333438,
+  "crest": 11.740911483764648,
+  "centroid": 1465.278430245356,
+  "flatness": 0.00379651109687984,
+  "sub100_share": 0.014671612530946732,
+  "lowest_pitch": 196.490478515625,
+  "harmonic_share": 0.9697830677032471,
+  "clean_share": 0.8753869969040248,
+  "minor_share": 0.1065665664210449,
+  "chord_rate": 0.9666666666666667,
+  "repetitiveness": 0.5997095704078674,
+  "vocal_share": 0.6458128690719604,
+  "vocal_voiced": 0.8991935483870968,
+  "song_length": 243.645
+ }
+}

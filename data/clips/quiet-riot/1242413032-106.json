@@ -1,0 +1,32 @@
+{
+ "id": "quiet-riot/1242413032-106",
+ "band": "quiet-riot",
+ "title": "Still Wild",
+ "source": "itunes",
+ "album": "Road Rage",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.94265504533773,
+  "tempo_var": 3.6945766121770207,
+  "low_onset_rate": 3.174171434805799,
+  "lufs": -10.43137243469968,
+  "rms_dbfs": -10.437637652268482,
+  "crest": 10.437637329101562,
+  "centroid": 2502.526142417745,
+  "flatness": 0.027845529839396477,
+  "sub100_share": 0.10715071111917496,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7100179195404053,
+  "clean_share": 0.06516679596586501,
+  "minor_share": 0.04145648042232042,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.7523605227470398,
+  "vocal_share": 0.4020581543445587,
+  "vocal_voiced": 0.9070990359333918,
+  "song_length": 327.51
+ }
+}

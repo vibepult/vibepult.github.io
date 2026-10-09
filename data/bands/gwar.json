@@ -1,0 +1,127 @@
+{
+ "slug": "gwar",
+ "name": "Gwar",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 28693087,
+  "deezer": 13096,
+  "spotify": "3dnH7fdVm2X07MK6Fkbhbt"
+ },
+ "metadata": {
+  "formed": 1984,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 21,
+  "full_lengths": 15,
+  "genre": "Various",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 16225,
+  "themes": "Sex, Violence, Humour, Satire, Hate, Science fiction, Politics, Social criticism",
+  "release_year": 1998
+ },
+ "partial": false,
+ "clips": [
+  "gwar/1526594577-108",
+  "gwar/1526590538-107",
+  "gwar/336254451-106",
+  "gwar/56827094-108",
+  "gwar/56830181-107",
+  "gwar/56824769-109",
+  "gwar/210631125-109",
+  "gwar/210625259-107",
+  "gwar/1526590028-105",
+  "gwar/1526588304-107",
+  "gwar/1559318815-106",
+  "gwar/1559321934-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.19921875,
+   "iqr": 16.239440041866033
+  },
+  "onset_rate": {
+   "median": 5.2666281184965715,
+   "iqr": 1.5248354413741971
+  },
+  "tempo_var": {
+   "median": 12.247692874519299,
+   "iqr": 6.238645487312693
+  },
+  "low_onset_rate": {
+   "median": 6.4241714348058,
+   "iqr": 1.482446429148685
+  },
+  "lufs": {
+   "median": -9.33268797068488,
+   "iqr": 2.8755830931148765
+  },
+  "rms_dbfs": {
+   "median": -8.899306507232067,
+   "iqr": 2.5955615915592904
+  },
+  "crest": {
+   "median": 8.899306774139404,
+   "iqr": 2.5955612659454346
+  },
+  "centroid": {
+   "median": 2526.040394301573,
+   "iqr": 415.30275234502005
+  },
+  "flatness": {
+   "median": 0.03052168246358633,
+   "iqr": 0.018169871997088194
+  },
+  "sub100_share": {
+   "median": 0.3011711835861206,
+   "iqr": 0.10601386055350304
+  },
+  "lowest_pitch": {
+   "median": 68.6370849609375,
+   "iqr": 27.58941650390625
+  },
+  "harmonic_share": {
+   "median": 0.7067151367664337,
+   "iqr": 0.05543455481529236
+  },
+  "clean_share": {
+   "median": 0.01934984520123839,
+   "iqr": 0.06991913499981502
+  },
+  "minor_share": {
+   "median": 0.010626322201526095,
+   "iqr": 0.2597623514170122
+  },
+  "chord_rate": {
+   "median": 2.2499823635823093,
+   "iqr": 0.4503781644112903
+  },
+  "repetitiveness": {
+   "median": 0.8603056371212006,
+   "iqr": 0.09011933207511902
+  },
+  "vocal_share": {
+   "median": 0.1479477733373642,
+   "iqr": 0.07198718935251236
+  },
+  "vocal_voiced": {
+   "median": 0.3411760007875171,
+   "iqr": 0.3708890024100998
+  },
+  "song_length": {
+   "median": 225.78750000000002,
+   "iqr": 98.16449999999998
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 1.0,
+  "camp": 1.0
+ },
+ "sources_failed": []
+}

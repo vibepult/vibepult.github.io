@@ -1,0 +1,32 @@
+{
+ "id": "suspyre/512819010-105",
+ "band": "suspyre",
+ "title": "The Fire Dancer",
+ "source": "itunes",
+ "album": "Suspyre",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 5.780333244435824,
+  "tempo_var": 5.998086258827813,
+  "low_onset_rate": 4.9784373030112015,
+  "lufs": -7.92347445461495,
+  "rms_dbfs": -7.498986372263149,
+  "crest": 7.498986721038818,
+  "centroid": 2638.443798151541,
+  "flatness": 0.03443307429552078,
+  "sub100_share": 0.3084149658679962,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7556992173194885,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.01809837498874589,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.854841947555542,
+  "vocal_share": 0.08947600424289703,
+  "vocal_voiced": 0.35841313269493846,
+  "song_length": 311.917
+ }
+}

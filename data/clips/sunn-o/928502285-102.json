@@ -1,0 +1,32 @@
+{
+ "id": "sunn-o/928502285-102",
+ "band": "sunn-o",
+ "title": "Death Becomes You",
+ "source": "itunes",
+ "album": "Flight of the Behemoth",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.780333244435824,
+  "tempo_var": 4.5320193589009445,
+  "low_onset_rate": 9.722988289773554,
+  "lufs": -8.469365061714894,
+  "rms_dbfs": -4.166098116178996,
+  "crest": 4.166098117828369,
+  "centroid": 732.1318697541672,
+  "flatness": 0.00016251017223112285,
+  "sub100_share": 0.756382405757904,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.9704787731170654,
+  "clean_share": 1.0,
+  "minor_share": -0.1784240053543521,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.5157603025436401,
+  "vocal_share": 1.2889522622572258e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 789.84
+ }
+}

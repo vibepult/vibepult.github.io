@@ -1,0 +1,32 @@
+{
+ "id": "type-o-negative/214478798-108",
+ "band": "type-o-negative",
+ "title": "Die With Me",
+ "source": "itunes",
+ "album": "October Rust",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.33294033356611,
+  "tempo_var": 2.7253086329077267,
+  "low_onset_rate": 6.599221860460898,
+  "lufs": -19.21532729527765,
+  "rms_dbfs": -19.048109356128304,
+  "crest": 15.745234489440918,
+  "centroid": 2694.9938757070345,
+  "flatness": 0.02865770272910595,
+  "sub100_share": 0.026827752590179443,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.8747926950454712,
+  "clean_share": 0.09048723897911833,
+  "minor_share": -0.19129758375418993,
+  "chord_rate": 1.633140763447394,
+  "repetitiveness": 0.7551456689834595,
+  "vocal_share": 0.4802890419960022,
+  "vocal_voiced": 0.7339534883720931,
+  "song_length": 432.507
+ }
+}

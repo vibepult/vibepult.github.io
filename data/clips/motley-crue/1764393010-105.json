@@ -1,0 +1,32 @@
+{
+ "id": "motley-crue/1764393010-105",
+ "band": "motley-crue",
+ "title": "Home Sweet Home",
+ "source": "itunes",
+ "album": "Theatre of Pain",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 75.99954044117646,
+  "onset_rate": 2.966621819775967,
+  "tempo_var": 14.690544718858494,
+  "low_onset_rate": 5.533249686323714,
+  "lufs": -9.899067816909033,
+  "rms_dbfs": -9.911790865425626,
+  "crest": 9.91179084777832,
+  "centroid": 2359.2670365217446,
+  "flatness": 0.01964574120938778,
+  "sub100_share": 0.12126007676124573,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.829201340675354,
+  "clean_share": 0.0843000773395205,
+  "minor_share": -0.010172430303456714,
+  "chord_rate": 0.43332678266390534,
+  "repetitiveness": 0.7266969084739685,
+  "vocal_share": 0.2808060944080353,
+  "vocal_voiced": 0.8662361623616236,
+  "song_length": 240.933
+ }
+}

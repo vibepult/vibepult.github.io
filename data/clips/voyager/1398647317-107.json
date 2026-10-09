@@ -1,0 +1,32 @@
+{
+ "id": "voyager/1398647317-107",
+ "band": "voyager",
+ "title": "Orpheus",
+ "source": "itunes",
+ "album": "V",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 6.314930538718906,
+  "tempo_var": 19.523198457991434,
+  "low_onset_rate": 6.081044222470058,
+  "lufs": -8.761446856876084,
+  "rms_dbfs": -8.87445946421474,
+  "crest": 8.874460220336914,
+  "centroid": 2880.1328853409827,
+  "flatness": 0.05257188528776169,
+  "sub100_share": 0.2898631691932678,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.7352327108383179,
+  "clean_share": 0.0,
+  "minor_share": -0.20154088229661116,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.8460328578948975,
+  "vocal_share": 0.2791101336479187,
+  "vocal_voiced": 0.8380503144654088,
+  "song_length": 259.333
+ }
+}

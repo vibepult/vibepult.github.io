@@ -1,0 +1,32 @@
+{
+ "id": "death/214477696-105",
+ "band": "death",
+ "title": "1,000 Eyes",
+ "source": "itunes",
+ "album": "Symbolic",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 6.36591603711127,
+  "tempo_var": 18.538324377779293,
+  "low_onset_rate": 6.999174700488831,
+  "lufs": -9.993537247946886,
+  "rms_dbfs": -9.707690799821572,
+  "crest": 9.707690238952637,
+  "centroid": 2969.9357819033944,
+  "flatness": 0.04764363914728165,
+  "sub100_share": 0.33745720982551575,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.6996967196464539,
+  "clean_share": 0.0,
+  "minor_share": 0.1825068281947519,
+  "chord_rate": 1.8331171834613607,
+  "repetitiveness": 0.8352272510528564,
+  "vocal_share": 0.08785843849182129,
+  "vocal_voiced": 0.16880341880341881,
+  "song_length": 268.653
+ }
+}

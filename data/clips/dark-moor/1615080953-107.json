@@ -1,0 +1,32 @@
+{
+ "id": "dark-moor/1615080953-107",
+ "band": "dark-moor",
+ "title": "Going On",
+ "source": "itunes",
+ "album": "Beyond the Sea",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 1.1026069194588566,
+  "tempo_var": 8.218632547551527,
+  "low_onset_rate": 1.0023699267807789,
+  "lufs": -8.827771918950816,
+  "rms_dbfs": -8.243573103740824,
+  "crest": 8.243573188781738,
+  "centroid": 2100.161664905021,
+  "flatness": 0.011440077796578407,
+  "sub100_share": 0.329968124628067,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8970776200294495,
+  "clean_share": 0.2552366175329713,
+  "minor_share": 0.23737407079144124,
+  "chord_rate": 0.6682466178538525,
+  "repetitiveness": 0.6170157790184021,
+  "vocal_share": 4.401186401992163e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 281.987
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "jag-panzer/1045619885-105",
+ "band": "jag-panzer",
+ "title": "The Scarlet Letter",
+ "source": "itunes",
+ "album": "Mechanized Warfare",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.34597294283082,
+  "tempo_var": 2.713903576537176,
+  "low_onset_rate": 5.746920913543131,
+  "lufs": -10.004839239918496,
+  "rms_dbfs": -9.810475583683512,
+  "crest": 9.81047534942627,
+  "centroid": 2836.29354262033,
+  "flatness": 0.03396761417388916,
+  "sub100_share": 0.17808803915977478,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.7469167113304138,
+  "clean_share": 0.022498060512024826,
+  "minor_share": 0.12912155845010576,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.8075112700462341,
+  "vocal_share": 0.25569355487823486,
+  "vocal_voiced": 0.5497553017944535,
+  "song_length": 233.72
+ }
+}

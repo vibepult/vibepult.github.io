@@ -1,0 +1,32 @@
+{
+ "id": "we-are-wolf/1633298813-104",
+ "band": "we-are-wolf",
+ "title": "The Invisible",
+ "source": "itunes",
+ "album": "Aeons",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.9139825680065945,
+  "tempo_var": 2.771802769120666,
+  "low_onset_rate": 8.453319715851235,
+  "lufs": -6.060643681642103,
+  "rms_dbfs": -5.954560741434319,
+  "crest": 5.95456075668335,
+  "centroid": 3008.266617235032,
+  "flatness": 0.06402134150266647,
+  "sub100_share": 0.31704482436180115,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7217350006103516,
+  "clean_share": 0.0,
+  "minor_share": 0.3295055110341384,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.8985481262207031,
+  "vocal_share": 0.09708520770072937,
+  "vocal_voiced": 0.09491525423728814,
+  "song_length": 198.539
+ }
+}

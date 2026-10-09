@@ -1,0 +1,125 @@
+{
+ "slug": "oceanhoarse",
+ "name": "Oceanhoarse",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1334351246,
+  "deezer": 13940677,
+  "spotify": "6NNanF6LZJW0RWlyyUC1Ys"
+ },
+ "metadata": {
+  "formed": 2016,
+  "split": 2024,
+  "country": "FI",
+  "status": "split-up",
+  "members": 4,
+  "past_members": 2,
+  "full_lengths": 2,
+  "genre": "Heavy/Groove Metal/Hard Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 212,
+  "themes": "Inner struggles, Life, Society",
+  "release_year": 2021
+ },
+ "partial": false,
+ "clips": [
+  "oceanhoarse/1564503784-106",
+  "oceanhoarse/1564503784-108",
+  "oceanhoarse/1564503784-105",
+  "oceanhoarse/1564503784-109",
+  "oceanhoarse/1564503784-104",
+  "oceanhoarse/1564503784-110",
+  "oceanhoarse/1564503784-103",
+  "oceanhoarse/1564503784-111",
+  "oceanhoarse/1564503784-102",
+  "oceanhoarse/1564503784-113"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 99.38401442307692,
+   "iqr": 26.878858446241267
+  },
+  "onset_rate": {
+   "median": 4.811375648547738,
+   "iqr": 1.5369672210638612
+  },
+  "tempo_var": {
+   "median": 14.07134427221132,
+   "iqr": 9.905776057243466
+  },
+  "low_onset_rate": {
+   "median": 6.047631891577365,
+   "iqr": 1.9963867708383845
+  },
+  "lufs": {
+   "median": -9.551593100595465,
+   "iqr": 0.5236234187360367
+  },
+  "rms_dbfs": {
+   "median": -8.498832038269622,
+   "iqr": 0.4284933169588445
+  },
+  "crest": {
+   "median": 8.49883222579956,
+   "iqr": 0.4284937381744385
+  },
+  "centroid": {
+   "median": 2738.58234776895,
+   "iqr": 119.82291234632112
+  },
+  "flatness": {
+   "median": 0.04033404961228371,
+   "iqr": 0.007803825661540031
+  },
+  "sub100_share": {
+   "median": 0.43194395303726196,
+   "iqr": 0.057176508009433746
+  },
+  "lowest_pitch": {
+   "median": 56.524658203125,
+   "iqr": 17.4957275390625
+  },
+  "harmonic_share": {
+   "median": 0.7562937140464783,
+   "iqr": 0.08609670400619507
+  },
+  "clean_share": {
+   "median": 0.010861132660977503,
+   "iqr": 0.01299456943366951
+  },
+  "minor_share": {
+   "median": 0.14976655348599682,
+   "iqr": 0.12360322945082947
+  },
+  "chord_rate": {
+   "median": 2.0214460190079038,
+   "iqr": 0.3341233089269262
+  },
+  "repetitiveness": {
+   "median": 0.8855032026767731,
+   "iqr": 0.03077693283557892
+  },
+  "vocal_share": {
+   "median": 0.1319246143102646,
+   "iqr": 0.03879559226334095
+  },
+  "vocal_voiced": {
+   "median": 0.5712376933895922,
+   "iqr": 0.23735235313348152
+  },
+  "song_length": {
+   "median": 250.9205,
+   "iqr": 46.19675000000001
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

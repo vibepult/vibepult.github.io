@@ -1,0 +1,32 @@
+{
+ "id": "ithilien/1175067135-107",
+ "band": "ithilien",
+ "title": "Edelweiss",
+ "source": "itunes",
+ "album": "Shaping the Soul",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 5.713508582650439,
+  "tempo_var": 14.525087451065131,
+  "low_onset_rate": 6.582229185860447,
+  "lufs": -9.307385802807255,
+  "rms_dbfs": -8.859675915433531,
+  "crest": 8.859676361083984,
+  "centroid": 2633.269891612336,
+  "flatness": 0.03581148013472557,
+  "sub100_share": 0.3481699526309967,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7803148627281189,
+  "clean_share": 0.1768813033359193,
+  "minor_share": -0.051054536297577835,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.8364997506141663,
+  "vocal_share": 0.08031310141086578,
+  "vocal_voiced": 0.13725490196078433,
+  "song_length": 260.147
+ }
+}

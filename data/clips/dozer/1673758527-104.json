@@ -1,0 +1,32 @@
+{
+ "id": "dozer/1673758527-104",
+ "band": "dozer",
+ "title": "Andromeda",
+ "source": "itunes",
+ "album": "Drifting in the Endless Void",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.3412330892692625,
+  "tempo_var": 1.4035907387544202,
+  "low_onset_rate": 4.343603016050041,
+  "lufs": -9.046064891995513,
+  "rms_dbfs": -7.962647550867362,
+  "crest": 7.962647438049316,
+  "centroid": 2081.892795319301,
+  "flatness": 0.014011377468705177,
+  "sub100_share": 0.40053343772888184,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7994410991668701,
+  "clean_share": 0.07680372381691233,
+  "minor_share": 0.024506473581413446,
+  "chord_rate": 0.9021329341027009,
+  "repetitiveness": 0.8557811975479126,
+  "vocal_share": 5.880503408661752e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 313.507
+ }
+}

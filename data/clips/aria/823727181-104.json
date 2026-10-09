@@ -1,0 +1,32 @@
+{
+ "id": "aria/823727181-104",
+ "band": "aria",
+ "title": "Искушение",
+ "source": "itunes",
+ "album": "Игра с огнём",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 0.534597294283082,
+  "tempo_var": 16.332301942559145,
+  "low_onset_rate": 2.1718015080250206,
+  "lufs": -12.310163161628086,
+  "rms_dbfs": -12.891995316046984,
+  "crest": 12.891730308532715,
+  "centroid": 2074.675355194517,
+  "flatness": 0.012895496562123299,
+  "sub100_share": 0.10355376452207565,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8722760677337646,
+  "clean_share": 0.29635376260667184,
+  "minor_share": 0.21444715148828053,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.6267083883285522,
+  "vocal_share": 0.016988782212138176,
+  "vocal_voiced": 0.4868421052631579,
+  "song_length": 240.44
+ }
+}

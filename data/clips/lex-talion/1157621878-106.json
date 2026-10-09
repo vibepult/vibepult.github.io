@@ -1,0 +1,32 @@
+{
+ "id": "lex-talion/1157621878-106",
+ "band": "lex-talion",
+ "title": "Mirrors",
+ "source": "itunes",
+ "album": "Funeral in the Forest",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.410427677835426,
+  "tempo_var": 18.105400527314938,
+  "low_onset_rate": 3.809005721766959,
+  "lufs": -9.97965393910429,
+  "rms_dbfs": -9.439846554533757,
+  "crest": 9.43984603881836,
+  "centroid": 2430.212408526323,
+  "flatness": 0.027205390855669975,
+  "sub100_share": 0.25231701135635376,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.6233664155006409,
+  "clean_share": 0.05120248254460822,
+  "minor_share": 0.2968254875191021,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.7432586550712585,
+  "vocal_share": 0.15772387385368347,
+  "vocal_voiced": 0.17972350230414746,
+  "song_length": 298.292
+ }
+}

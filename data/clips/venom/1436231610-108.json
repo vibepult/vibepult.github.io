@@ -1,0 +1,32 @@
+{
+ "id": "venom/1436231610-108",
+ "band": "venom",
+ "title": "Moonshine",
+ "source": "itunes",
+ "album": "Possessed (Bonus Track Edition)",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.566582515759399,
+  "tempo_var": 4.577548047061817,
+  "low_onset_rate": 5.9999092984233044,
+  "lufs": -15.004299651652486,
+  "rms_dbfs": -14.646282785895936,
+  "crest": 14.646283149719238,
+  "centroid": 2266.756468188794,
+  "flatness": 0.01794205605983734,
+  "sub100_share": 0.15081265568733215,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7374652028083801,
+  "clean_share": 0.07037896365042537,
+  "minor_share": -0.02988732204608613,
+  "chord_rate": 1.9333041072697315,
+  "repetitiveness": 0.9500073194503784,
+  "vocal_share": 0.07913912832736969,
+  "vocal_voiced": 0.5032537960954447,
+  "song_length": 199.293
+ }
+}

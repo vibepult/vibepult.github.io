@@ -1,0 +1,126 @@
+{
+ "slug": "meathook-seed",
+ "name": "Meathook Seed",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 258834910,
+  "deezer": 2913491,
+  "spotify": "6OGGt8xNFOHWcHu3HlGc29"
+ },
+ "metadata": {
+  "formed": 1992,
+  "split": 1999,
+  "country": "GB",
+  "status": "split-up",
+  "members": 4,
+  "past_members": 2,
+  "full_lengths": 2,
+  "genre": "Industrial Death Metal (early); Industrial Rock (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 307,
+  "themes": "Personal struggles",
+  "release_year": 1993
+ },
+ "partial": false,
+ "clips": [
+  "meathook-seed/567237242-106",
+  "meathook-seed/567237242-105",
+  "meathook-seed/567237242-107",
+  "meathook-seed/567237242-104",
+  "meathook-seed/567237242-108",
+  "meathook-seed/567237242-103",
+  "meathook-seed/567237242-109",
+  "meathook-seed/567237242-102",
+  "meathook-seed/567237242-110",
+  "meathook-seed/567237242-101",
+  "meathook-seed/567237242-111"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 43.94234722925103
+  },
+  "onset_rate": {
+   "median": 4.71113865586966,
+   "iqr": 1.0357822576734712
+  },
+  "tempo_var": {
+   "median": 12.933777259785264,
+   "iqr": 11.197968764036178
+  },
+  "low_onset_rate": {
+   "median": 7.751660767104689,
+   "iqr": 0.8520144377636605
+  },
+  "lufs": {
+   "median": -13.925704595171279,
+   "iqr": 1.1612598076513354
+  },
+  "rms_dbfs": {
+   "median": -13.805572932851566,
+   "iqr": 1.0238667707901623
+  },
+  "crest": {
+   "median": 13.634320259094238,
+   "iqr": 0.7883644104003906
+  },
+  "centroid": {
+   "median": 2769.4453876876787,
+   "iqr": 278.15166073217233
+  },
+  "flatness": {
+   "median": 0.04169166833162308,
+   "iqr": 0.016032777726650238
+  },
+  "sub100_share": {
+   "median": 0.3587215542793274,
+   "iqr": 0.2235831767320633
+  },
+  "lowest_pitch": {
+   "median": 69.98291015625,
+   "iqr": 24.224853515625
+  },
+  "harmonic_share": {
+   "median": 0.7443169951438904,
+   "iqr": 0.10267242789268494
+  },
+  "clean_share": {
+   "median": 0.0062063615205585725,
+   "iqr": 0.044608223429014736
+  },
+  "minor_share": {
+   "median": -0.01649495574782478,
+   "iqr": 0.2326844701075707
+  },
+  "chord_rate": {
+   "median": 2.7063988023081027,
+   "iqr": 0.701658948746545
+  },
+  "repetitiveness": {
+   "median": 0.9412944912910461,
+   "iqr": 0.0320553183555603
+  },
+  "vocal_share": {
+   "median": 0.04737684968858957,
+   "iqr": 0.07689044764265418
+  },
+  "vocal_voiced": {
+   "median": 0.241472121082316,
+   "iqr": 0.36848542000473083
+  },
+  "song_length": {
+   "median": 200.333,
+   "iqr": 63.666499999999985
+  },
+  "vocal_presence": {
+   "median": 0.7272727272727273,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

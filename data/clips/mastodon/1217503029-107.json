@@ -1,0 +1,32 @@
+{
+ "id": "mastodon/1217503029-107",
+ "band": "mastodon",
+ "title": "Colony of Birchmen",
+ "source": "itunes",
+ "album": "Blood Mountain",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.463778537847016,
+  "tempo_var": 10.490195003126823,
+  "low_onset_rate": 6.429173565705032,
+  "lufs": -5.860680182856986,
+  "rms_dbfs": -5.724272601876809,
+  "crest": 5.724272727966309,
+  "centroid": 2564.0378170929694,
+  "flatness": 0.03058108501136303,
+  "sub100_share": 0.16776317358016968,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8159772753715515,
+  "clean_share": 0.0030935808197989174,
+  "minor_share": 0.12483084117403631,
+  "chord_rate": 1.5656536662597744,
+  "repetitiveness": 0.7443996667861938,
+  "vocal_share": 0.1883377581834793,
+  "vocal_voiced": 0.5982694684796045,
+  "song_length": 259.68
+ }
+}

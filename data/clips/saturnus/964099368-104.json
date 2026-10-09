@@ -1,0 +1,32 @@
+{
+ "id": "saturnus/964099368-104",
+ "band": "saturnus",
+ "title": "A Father's Providence",
+ "source": "itunes",
+ "album": "Saturn in Ascension",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.842418052659652,
+  "tempo_var": 1.2434450564557833,
+  "low_onset_rate": 7.183651141928914,
+  "lufs": -9.011482641658022,
+  "rms_dbfs": -7.882036310806036,
+  "crest": 7.8820366859436035,
+  "centroid": 2295.831761416136,
+  "flatness": 0.01947323977947235,
+  "sub100_share": 0.3872014582157135,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.852472722530365,
+  "clean_share": 0.15205585725368503,
+  "minor_share": 0.02816763115283738,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.6933895945549011,
+  "vocal_share": 0.10964098572731018,
+  "vocal_voiced": 0.5983739837398374,
+  "song_length": 302.118
+ }
+}

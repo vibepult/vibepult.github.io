@@ -1,0 +1,127 @@
+{
+ "slug": "ajattara",
+ "name": "Ajattara",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 71466223,
+  "deezer": 16012,
+  "spotify": "19WQljDiwhjoGNc8CMbQgn"
+ },
+ "metadata": {
+  "formed": 1996,
+  "split": null,
+  "country": "FI",
+  "status": "active",
+  "members": 6,
+  "past_members": 12,
+  "full_lengths": 8,
+  "genre": "Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 2266,
+  "themes": "Death, Evil, Paganism, Satanism",
+  "release_year": 2005
+ },
+ "partial": false,
+ "clips": [
+  "ajattara/1669935704-105",
+  "ajattara/1669938604-105",
+  "ajattara/1670003264-106",
+  "ajattara/1669900342-105",
+  "ajattara/1669937053-105",
+  "ajattara/1669942832-105",
+  "ajattara/416069891-105",
+  "ajattara/1498677263-105",
+  "ajattara/1669935704-106",
+  "ajattara/1669938604-106",
+  "ajattara/1670003264-107",
+  "ajattara/1669900342-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 103.359375,
+   "iqr": 17.920693861166015
+  },
+  "onset_rate": {
+   "median": 3.4414700819473403,
+   "iqr": 1.4784956420016488
+  },
+  "tempo_var": {
+   "median": 2.4578111089408727,
+   "iqr": 15.032807297924483
+  },
+  "low_onset_rate": {
+   "median": 5.847157906221209,
+   "iqr": 4.0094797071231145
+  },
+  "lufs": {
+   "median": -8.606828695578985,
+   "iqr": 0.8084169489825719
+  },
+  "rms_dbfs": {
+   "median": -7.839976555415149,
+   "iqr": 0.9490153477351368
+  },
+  "crest": {
+   "median": 7.839976787567139,
+   "iqr": 0.9490158557891846
+  },
+  "centroid": {
+   "median": 2403.5526013929048,
+   "iqr": 152.02883906772058
+  },
+  "flatness": {
+   "median": 0.02563311904668808,
+   "iqr": 0.007990242447704077
+  },
+  "sub100_share": {
+   "median": 0.39860332012176514,
+   "iqr": 0.06354213505983353
+  },
+  "lowest_pitch": {
+   "median": 51.141357421875,
+   "iqr": 40.374755859375
+  },
+  "harmonic_share": {
+   "median": 0.8070650398731232,
+   "iqr": 0.05707572400569916
+  },
+  "clean_share": {
+   "median": 0.06982156710628394,
+   "iqr": 0.10647788983708302
+  },
+  "minor_share": {
+   "median": 0.05283213610238774,
+   "iqr": 0.11907550992737741
+  },
+  "chord_rate": {
+   "median": 1.9045028608834795,
+   "iqr": 0.743424362362411
+  },
+  "repetitiveness": {
+   "median": 0.8027485013008118,
+   "iqr": 0.09855003654956818
+  },
+  "vocal_share": {
+   "median": 0.11431808769702911,
+   "iqr": 0.04960590600967407
+  },
+  "vocal_voiced": {
+   "median": 0.08410138248847926,
+   "iqr": 0.09006618258350668
+  },
+  "song_length": {
+   "median": 211.92649999999998,
+   "iqr": 39.60900000000004
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.5,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "red-fang/1131695807-105",
+ "band": "red-fang",
+ "title": "Shadows",
+ "source": "itunes",
+ "album": "Only Ghosts",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.744550986762353,
+  "tempo_var": 26.846907549327504,
+  "low_onset_rate": 5.479622266401591,
+  "lufs": -10.112303207537124,
+  "rms_dbfs": -9.320617650774519,
+  "crest": 9.32061767578125,
+  "centroid": 2204.4703855376097,
+  "flatness": 0.0195937380194664,
+  "sub100_share": 0.38893309235572815,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.6068564653396606,
+  "clean_share": 0.10318076027928627,
+  "minor_share": 0.13718674828857658,
+  "chord_rate": 2.3054508315957913,
+  "repetitiveness": 0.9231305718421936,
+  "vocal_share": 0.039861999452114105,
+  "vocal_voiced": 0.6902050113895216,
+  "song_length": 191.353
+ }
+}

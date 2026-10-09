@@ -1,0 +1,32 @@
+{
+ "id": "eldamar/1080870362-105",
+ "band": "eldamar",
+ "title": "Valkyrjur Ancient One",
+ "source": "itunes",
+ "album": "The Force of the Ancient Land",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.680096251757746,
+  "tempo_var": 4.431542337948651,
+  "low_onset_rate": 7.8184854288900745,
+  "lufs": -12.522416973039682,
+  "rms_dbfs": -11.200463340103079,
+  "crest": 11.200464248657227,
+  "centroid": 623.03386055807,
+  "flatness": 3.867015038849786e-05,
+  "sub100_share": 0.23256166279315948,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.9323304295539856,
+  "clean_share": 1.0,
+  "minor_share": 0.1994204316278263,
+  "chord_rate": 0.5680096251757746,
+  "repetitiveness": 0.5189802050590515,
+  "vocal_share": 5.622985668196634e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 188.271
+ }
+}

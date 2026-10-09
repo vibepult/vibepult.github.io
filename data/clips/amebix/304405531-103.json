@@ -1,0 +1,32 @@
+{
+ "id": "amebix/304405531-103",
+ "band": "amebix",
+ "title": "The Power Remains",
+ "source": "itunes",
+ "album": "Monolith",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 5.112086626581972,
+  "tempo_var": 3.655968944678411,
+  "low_onset_rate": 7.016589487465451,
+  "lufs": -15.27621173963585,
+  "rms_dbfs": -15.114479437352838,
+  "crest": 14.160306930541992,
+  "centroid": 2135.2820872511597,
+  "flatness": 0.02040748856961727,
+  "sub100_share": 0.2696637809276581,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.781916618347168,
+  "clean_share": 0.027928626842513578,
+  "minor_share": 0.13385250560881617,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.8624604344367981,
+  "vocal_share": 0.17053698003292084,
+  "vocal_voiced": 0.39798850574712646,
+  "song_length": 273.827
+ }
+}

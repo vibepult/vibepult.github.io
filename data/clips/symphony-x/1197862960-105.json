@@ -1,0 +1,32 @@
+{
+ "id": "symphony-x/1197862960-105",
+ "band": "symphony-x",
+ "title": "Through the Looking Glass - Part I, II & III",
+ "source": "itunes",
+ "album": "Twilight in Olympus (Special Edition)",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.333267826639053,
+  "tempo_var": 8.027239671584553,
+  "low_onset_rate": 3.666611237925353,
+  "lufs": -14.918484767686751,
+  "rms_dbfs": -14.532616397202503,
+  "crest": 14.532615661621094,
+  "centroid": 2394.0020268002304,
+  "flatness": 0.02194894477725029,
+  "sub100_share": 0.25978201627731323,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.6995738744735718,
+  "clean_share": 0.07269914926527456,
+  "minor_share": 0.16789321922002332,
+  "chord_rate": 1.9666369367054164,
+  "repetitiveness": 0.8144040107727051,
+  "vocal_share": 1.5941219544401974e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 786.467
+ }
+}

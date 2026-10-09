@@ -1,0 +1,32 @@
+{
+ "id": "grai/819537535-105",
+ "band": "grai",
+ "title": "Средь лесов",
+ "source": "itunes",
+ "album": "О земле родной",
+ "year": 2011,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.209953692479271,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.515404524075062,
+  "lufs": -7.403869339142131,
+  "rms_dbfs": -7.186927263893495,
+  "crest": 7.186927318572998,
+  "centroid": 2309.6640758107433,
+  "flatness": 0.021038463339209557,
+  "sub100_share": 0.17357991635799408,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8650236129760742,
+  "clean_share": 0.04344453064391001,
+  "minor_share": 0.2263696395651404,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.7520229816436768,
+  "vocal_share": 0.05707217752933502,
+  "vocal_voiced": 0.10875331564986737,
+  "song_length": 350.786
+ }
+}

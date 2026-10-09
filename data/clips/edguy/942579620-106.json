@@ -1,0 +1,32 @@
+{
+ "id": "edguy/942579620-106",
+ "band": "edguy",
+ "title": "The Pharaoh",
+ "source": "itunes",
+ "album": "Mandrake",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.276778354264656,
+  "tempo_var": 11.633791070407497,
+  "low_onset_rate": 5.011849633903894,
+  "lufs": -8.179249968401729,
+  "rms_dbfs": -8.072408438827841,
+  "crest": 8.072408676147461,
+  "centroid": 2818.072474961542,
+  "flatness": 0.05146601423621178,
+  "sub100_share": 0.2529698610305786,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.6875492930412292,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.11007750265029148,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.8405824303627014,
+  "vocal_share": 0.20049157738685608,
+  "vocal_voiced": 0.5619546247818499,
+  "song_length": 637.227
+ }
+}

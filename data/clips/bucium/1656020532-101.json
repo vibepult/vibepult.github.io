@@ -1,0 +1,32 @@
+{
+ "id": "bucium/1656020532-101",
+ "band": "bucium",
+ "title": "Zimbrul Alb / White Wisent",
+ "source": "itunes",
+ "album": "Zimbrul Alb / White Wisent",
+ "year": 2022,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.7398111332007953,
+  "tempo_var": 11.139192800508997,
+  "low_onset_rate": 5.613271589972361,
+  "lufs": -15.449319361670192,
+  "rms_dbfs": -14.728557181641017,
+  "crest": 14.16628646850586,
+  "centroid": 1553.381583084447,
+  "flatness": 0.007061556447297335,
+  "sub100_share": 0.04489467293024063,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.9232653379440308,
+  "clean_share": 0.7548487199379363,
+  "minor_share": -0.19668689210894486,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.6155511140823364,
+  "vocal_share": 0.4418365955352783,
+  "vocal_voiced": 0.8777885548011639,
+  "song_length": 344.453
+ }
+}

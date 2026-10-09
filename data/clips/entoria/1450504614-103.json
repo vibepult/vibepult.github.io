@@ -1,0 +1,32 @@
+{
+ "id": "entoria/1450504614-103",
+ "band": "entoria",
+ "title": "Tod in rot",
+ "source": "itunes",
+ "album": "Aschheim",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 6.3817552005042915,
+  "tempo_var": 2.6833387941312585,
+  "low_onset_rate": 7.3841251272850705,
+  "lufs": -8.011071046533758,
+  "rms_dbfs": -7.005939284204693,
+  "crest": 7.005939483642578,
+  "centroid": 2229.3432235890027,
+  "flatness": 0.02023184299468994,
+  "sub100_share": 0.41323453187942505,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8722906708717346,
+  "clean_share": 0.04422032583397983,
+  "minor_share": -0.0080346451437448,
+  "chord_rate": 2.3722754933811765,
+  "repetitiveness": 0.8794136643409729,
+  "vocal_share": 0.0471060648560524,
+  "vocal_voiced": 0.5532786885245902,
+  "song_length": 444.932
+ }
+}

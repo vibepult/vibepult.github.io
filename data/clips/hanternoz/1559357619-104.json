@@ -1,0 +1,32 @@
+{
+ "id": "hanternoz/1559357619-104",
+ "band": "hanternoz",
+ "title": "L'Hanterdro de Languidic",
+ "source": "itunes",
+ "album": "Au fleuve de loire",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 1.0357822576734714,
+  "tempo_var": 23.345182089526627,
+  "low_onset_rate": 1.971327522668865,
+  "lufs": -10.151328199192864,
+  "rms_dbfs": -10.02428623274465,
+  "crest": 10.024286270141602,
+  "centroid": 2786.8259766969095,
+  "flatness": 0.03495687618851662,
+  "sub100_share": 0.20688089728355408,
+  "lowest_pitch": 99.591064453125,
+  "harmonic_share": 0.8008394241333008,
+  "clean_share": 0.01474010861132661,
+  "minor_share": 0.08894739174509592,
+  "chord_rate": 2.5393371478446394,
+  "repetitiveness": 0.8503543734550476,
+  "vocal_share": 9.018280024974956e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 436.8
+ }
+}

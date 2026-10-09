@@ -1,0 +1,127 @@
+{
+ "slug": "sons-of-apollo",
+ "name": "Sons of Apollo",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 348367792,
+  "deezer": 1431245,
+  "spotify": "3oBGGy1VOs6IHOa1ZdUx2f"
+ },
+ "metadata": {
+  "formed": 2017,
+  "split": 2023,
+  "country": "US",
+  "status": "split-up",
+  "members": 5,
+  "past_members": 0,
+  "full_lengths": 2,
+  "genre": "Progressive Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 12043,
+  "themes": "Life, Metaphors, Inner struggles",
+  "release_year": 2018
+ },
+ "partial": false,
+ "clips": [
+  "sons-of-apollo/1267878801-104",
+  "sons-of-apollo/1487863127-104",
+  "sons-of-apollo/1267878801-105",
+  "sons-of-apollo/1487863127-105",
+  "sons-of-apollo/1267878801-103",
+  "sons-of-apollo/1487863127-103",
+  "sons-of-apollo/1267878801-106",
+  "sons-of-apollo/1487863127-106",
+  "sons-of-apollo/1267878801-102",
+  "sons-of-apollo/1487863127-102",
+  "sons-of-apollo/1267878801-108",
+  "sons-of-apollo/1487863127-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 31.589918870192307
+  },
+  "onset_rate": {
+   "median": 4.670969721796194,
+   "iqr": 1.0745748466545577
+  },
+  "tempo_var": {
+   "median": 8.454111618449303,
+   "iqr": 4.412245181734486
+  },
+  "low_onset_rate": {
+   "median": 4.878200310333123,
+   "iqr": 1.9652665186063887
+  },
+  "lufs": {
+   "median": -9.746722859620649,
+   "iqr": 1.6963692790395442
+  },
+  "rms_dbfs": {
+   "median": -9.542386640070164,
+   "iqr": 1.8354025870856212
+  },
+  "crest": {
+   "median": 9.542386531829834,
+   "iqr": 1.835402250289917
+  },
+  "centroid": {
+   "median": 2422.7660714612525,
+   "iqr": 155.31204764217136
+  },
+  "flatness": {
+   "median": 0.02834962960332632,
+   "iqr": 0.009098106529563665
+  },
+  "sub100_share": {
+   "median": 0.27927266061306,
+   "iqr": 0.09369638189673424
+  },
+  "lowest_pitch": {
+   "median": 65.9454345703125,
+   "iqr": 25.5706787109375
+  },
+  "harmonic_share": {
+   "median": 0.6690175831317902,
+   "iqr": 0.06628863513469696
+  },
+  "clean_share": {
+   "median": 0.003872975987548877,
+   "iqr": 0.19334880123743234
+  },
+  "minor_share": {
+   "median": 0.13415230507239473,
+   "iqr": 0.16947475815051
+  },
+  "chord_rate": {
+   "median": 1.6515080313906767,
+   "iqr": 0.8363592994787694
+  },
+  "repetitiveness": {
+   "median": 0.833281934261322,
+   "iqr": 0.11378073692321777
+  },
+  "vocal_share": {
+   "median": 0.19147616624832153,
+   "iqr": 0.040345869958400726
+  },
+  "vocal_voiced": {
+   "median": 0.6325878594249201,
+   "iqr": 0.18617674892288527
+  },
+  "song_length": {
+   "median": 307.09749999999997,
+   "iqr": 85.63550000000004
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

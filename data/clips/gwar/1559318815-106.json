@@ -1,0 +1,32 @@
+{
+ "id": "gwar/1559318815-106",
+ "band": "gwar",
+ "title": "Metal Metal Land",
+ "source": "itunes",
+ "album": "Lust in Space",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.433333333333334,
+  "tempo_var": 9.425636158679685,
+  "low_onset_rate": 5.4,
+  "lufs": -8.459972850217392,
+  "rms_dbfs": -8.086843840408045,
+  "crest": 8.086844444274902,
+  "centroid": 2697.023935983092,
+  "flatness": 0.03762714937329292,
+  "sub100_share": 0.3088274598121643,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7046360969543457,
+  "clean_share": 0.015479876160990712,
+  "minor_share": 0.2980915224511521,
+  "chord_rate": 2.1666666666666665,
+  "repetitiveness": 0.8395523428916931,
+  "vocal_share": 0.186555877327919,
+  "vocal_voiced": 0.27358490566037735,
+  "song_length": 185.32
+ }
+}

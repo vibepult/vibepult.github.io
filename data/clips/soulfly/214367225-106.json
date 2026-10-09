@@ -1,0 +1,32 @@
+{
+ "id": "soulfly/214367225-106",
+ "band": "soulfly",
+ "title": "Brasil",
+ "source": "itunes",
+ "album": "3",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 5.546446928186976,
+  "tempo_var": 17.001025173462786,
+  "low_onset_rate": 6.48199219318237,
+  "lufs": -8.707098174875092,
+  "rms_dbfs": -7.670287289429146,
+  "crest": 7.670287132263184,
+  "centroid": 2337.2287894531078,
+  "flatness": 0.02295682765543461,
+  "sub100_share": 0.29192882776260376,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7697750926017761,
+  "clean_share": 0.06671838634600466,
+  "minor_share": 0.01997615746769471,
+  "chord_rate": 2.3054508315957913,
+  "repetitiveness": 0.9560244083404541,
+  "vocal_share": 0.10682754218578339,
+  "vocal_voiced": 0.04551724137931035,
+  "song_length": 300.653
+ }
+}

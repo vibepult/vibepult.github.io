@@ -1,0 +1,32 @@
+{
+ "id": "venom/1435991510-109",
+ "band": "venom",
+ "title": "Angel Dust",
+ "source": "itunes",
+ "album": "Welcome to Hell",
+ "year": 1981,
+ "itunes_year": 1981,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.1,
+  "tempo_var": 6.21111850929904,
+  "low_onset_rate": 8.1,
+  "lufs": -11.883128915449277,
+  "rms_dbfs": -11.929935916928297,
+  "crest": 11.929936408996582,
+  "centroid": 2270.6110198404212,
+  "flatness": 0.021439364179968834,
+  "sub100_share": 0.05782071128487587,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.6944629549980164,
+  "clean_share": 0.0,
+  "minor_share": 0.16738491180526247,
+  "chord_rate": 2.533333333333333,
+  "repetitiveness": 0.9673722386360168,
+  "vocal_share": 0.1427541822195053,
+  "vocal_voiced": 0.01904761904761905,
+  "song_length": 159.333
+ }
+}

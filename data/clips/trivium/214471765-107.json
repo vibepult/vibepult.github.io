@@ -1,0 +1,32 @@
+{
+ "id": "trivium/214471765-107",
+ "band": "trivium",
+ "title": "Like Light to the Flies",
+ "source": "itunes",
+ "album": "Ascendancy",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 5.965963197083337,
+  "tempo_var": 15.184453313767408,
+  "low_onset_rate": 6.532563053789576,
+  "lufs": -9.311070959718252,
+  "rms_dbfs": -8.79274503878215,
+  "crest": 8.792745590209961,
+  "centroid": 2677.8583492702833,
+  "flatness": 0.03512099012732506,
+  "sub100_share": 0.38228747248649597,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7995595932006836,
+  "clean_share": 0.010054137664346482,
+  "minor_share": 0.2745087623429202,
+  "chord_rate": 0.999882100069833,
+  "repetitiveness": 0.8750624060630798,
+  "vocal_share": 0.08463677018880844,
+  "vocal_voiced": 0.8717434869739479,
+  "song_length": 340.68
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "armored-saint/716372910-105",
+ "band": "armored-saint",
+ "title": "Chemical Euphoria",
+ "source": "itunes",
+ "album": "Raising Fear",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 5.011849633903894,
+  "tempo_var": 33.19742036201754,
+  "low_onset_rate": 5.479622266401591,
+  "lufs": -11.251405085615984,
+  "rms_dbfs": -11.291138427385224,
+  "crest": 11.291139602661133,
+  "centroid": 2364.646722103285,
+  "flatness": 0.03006724826991558,
+  "sub100_share": 0.09508825093507767,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.6869531869888306,
+  "clean_share": 0.023273855702094646,
+  "minor_share": -0.1575854235563236,
+  "chord_rate": 1.0023699267807789,
+  "repetitiveness": 0.8385064005851746,
+  "vocal_share": 0.21461018919944763,
+  "vocal_voiced": 0.6626297577854672,
+  "song_length": 284.64
+ }
+}

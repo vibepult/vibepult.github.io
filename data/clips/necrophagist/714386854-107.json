@@ -1,0 +1,32 @@
+{
+ "id": "necrophagist/714386854-107",
+ "band": "necrophagist",
+ "title": "Extreme Unction",
+ "source": "itunes",
+ "album": "Onset of Putrefaction",
+ "year": 1999,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.899941043975148,
+  "tempo_var": 14.697609436742368,
+  "low_onset_rate": 5.499916856888029,
+  "lufs": -8.240423700029492,
+  "rms_dbfs": -7.681194158041203,
+  "crest": 7.681193828582764,
+  "centroid": 2573.962877232072,
+  "flatness": 0.03254031389951706,
+  "sub100_share": 0.3190879821777344,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.6974301934242249,
+  "clean_share": 0.027068832173240527,
+  "minor_share": -0.18612942702145102,
+  "chord_rate": 2.5332950371120617,
+  "repetitiveness": 0.9467909932136536,
+  "vocal_share": 0.09090007096529007,
+  "vocal_voiced": 0.21321961620469082,
+  "song_length": 286.093
+ }
+}

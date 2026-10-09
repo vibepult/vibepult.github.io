@@ -1,0 +1,32 @@
+{
+ "id": "skid-row/1727227096-108",
+ "band": "skid-row",
+ "title": "Frozen",
+ "source": "itunes",
+ "album": "Subhuman Race",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 3.0666481230650153,
+  "tempo_var": 33.187623919170285,
+  "low_onset_rate": 5.233301688273994,
+  "lufs": -12.218415197231504,
+  "rms_dbfs": -11.900540547541478,
+  "crest": 11.900540351867676,
+  "centroid": 2485.299945649946,
+  "flatness": 0.028100814670324326,
+  "sub100_share": 0.4375639259815216,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.8207387924194336,
+  "clean_share": 0.23665893271461716,
+  "minor_share": 0.2337936367577061,
+  "chord_rate": 2.4999848829334366,
+  "repetitiveness": 0.801472008228302,
+  "vocal_share": 5.580030233431899e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 283.573
+ }
+}

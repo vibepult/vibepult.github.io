@@ -1,0 +1,32 @@
+{
+ "id": "the-agonist/1464617096-106",
+ "band": "the-agonist",
+ "title": "Dust to Dust",
+ "source": "itunes",
+ "album": "Orphans",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 1.9999879063467492,
+  "tempo_var": 2.273648455719229,
+  "low_onset_rate": 2.2999860922987616,
+  "lufs": -9.680754823830384,
+  "rms_dbfs": -9.447059852086934,
+  "crest": 9.447060585021973,
+  "centroid": 2474.958642590483,
+  "flatness": 0.027261927723884583,
+  "sub100_share": 0.3504525125026703,
+  "lowest_pitch": 99.591064453125,
+  "harmonic_share": 0.7967984080314636,
+  "clean_share": 0.1136890951276102,
+  "minor_share": -0.13996389223608374,
+  "chord_rate": 2.4333186193885448,
+  "repetitiveness": 0.8965518474578857,
+  "vocal_share": 0.164426788687706,
+  "vocal_voiced": 0.6524486571879937,
+  "song_length": 197.509
+ }
+}

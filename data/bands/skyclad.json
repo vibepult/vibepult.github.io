@@ -1,0 +1,127 @@
+{
+ "slug": "skyclad",
+ "name": "Skyclad",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 20069556,
+  "deezer": 12244,
+  "spotify": "3CgDRO3wUoner5eZocDuQN"
+ },
+ "metadata": {
+  "formed": 1990,
+  "split": null,
+  "country": "GB",
+  "status": "active",
+  "members": 5,
+  "past_members": 10,
+  "full_lengths": 14,
+  "genre": "Folk Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 4116,
+  "themes": "Social and personal issues, Politics, History",
+  "release_year": 1996
+ },
+ "partial": false,
+ "clips": [
+  "skyclad/1439214981-105",
+  "skyclad/1438565592-106",
+  "skyclad/1438564519-107",
+  "skyclad/1439312549-107",
+  "skyclad/1438564387-106",
+  "skyclad/423811052-107",
+  "skyclad/423810593-106",
+  "skyclad/423811529-107",
+  "skyclad/429707494-106",
+  "skyclad/423810083-106",
+  "skyclad/423811530-104",
+  "skyclad/423813595-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 99.53125,
+   "iqr": 35.48205145474138
+  },
+  "onset_rate": {
+   "median": 5.112086626581972,
+   "iqr": 0.9522514304417395
+  },
+  "tempo_var": {
+   "median": 13.888510559333103,
+   "iqr": 10.84668121162597
+  },
+  "low_onset_rate": {
+   "median": 6.11445655336275,
+   "iqr": 0.8770736859331816
+  },
+  "lufs": {
+   "median": -11.134887382787161,
+   "iqr": 5.837063427246553
+  },
+  "rms_dbfs": {
+   "median": -10.91800143503486,
+   "iqr": 5.683141948552143
+  },
+  "crest": {
+   "median": 10.918001651763916,
+   "iqr": 3.5243771076202393
+  },
+  "centroid": {
+   "median": 2262.311943115423,
+   "iqr": 420.98523234718596
+  },
+  "flatness": {
+   "median": 0.01797512173652649,
+   "iqr": 0.014262689976021647
+  },
+  "sub100_share": {
+   "median": 0.19157743453979492,
+   "iqr": 0.14033593609929085
+  },
+  "lowest_pitch": {
+   "median": 92.8619384765625,
+   "iqr": 42.39349365234375
+  },
+  "harmonic_share": {
+   "median": 0.7708471417427063,
+   "iqr": 0.09295493364334106
+  },
+  "clean_share": {
+   "median": 0.17532971295577968,
+   "iqr": 0.23138091543832426
+  },
+  "minor_share": {
+   "median": 0.03461139089941495,
+   "iqr": 0.20700111470067328
+  },
+  "chord_rate": {
+   "median": 1.453436393832129,
+   "iqr": 1.294727822091839
+  },
+  "repetitiveness": {
+   "median": 0.862981915473938,
+   "iqr": 0.05298115313053131
+  },
+  "vocal_share": {
+   "median": 0.17161646485328674,
+   "iqr": 0.10868033953011036
+  },
+  "vocal_voiced": {
+   "median": 0.8041604603068812,
+   "iqr": 0.39063394579711413
+  },
+  "song_length": {
+   "median": 242.5065,
+   "iqr": 105.51024999999998
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

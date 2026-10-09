@@ -1,0 +1,32 @@
+{
+ "id": "jord/1696319729-102",
+ "band": "jord",
+ "title": "Själens död",
+ "source": "itunes",
+ "album": "Tundra",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.7666666666666666,
+  "tempo_var": 1.5393181703910637,
+  "low_onset_rate": 5.7,
+  "lufs": -11.6916865754508,
+  "rms_dbfs": -10.414117371405275,
+  "crest": 10.414117813110352,
+  "centroid": 2478.316467212012,
+  "flatness": 0.024363603442907333,
+  "sub100_share": 0.5571317672729492,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8796300292015076,
+  "clean_share": 0.006191950464396285,
+  "minor_share": 0.02613600379160641,
+  "chord_rate": 1.2,
+  "repetitiveness": 0.7163164019584656,
+  "vocal_share": 4.4774094476451864e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 377.947
+ }
+}

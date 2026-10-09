@@ -1,0 +1,32 @@
+{
+ "id": "hammerfall/1738614908-105",
+ "band": "hammerfall",
+ "title": "Hero To All",
+ "source": "itunes",
+ "album": "Avenge The Fallen",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.8999824642027865,
+  "tempo_var": 1.7164485211828726,
+  "low_onset_rate": 2.6333174100232197,
+  "lufs": -10.243063077489062,
+  "rms_dbfs": -9.722604307221625,
+  "crest": 9.722604751586914,
+  "centroid": 2670.960331561912,
+  "flatness": 0.03579987958073616,
+  "sub100_share": 0.26328447461128235,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7280941605567932,
+  "clean_share": 0.030935808197989172,
+  "minor_share": 0.1051265901057099,
+  "chord_rate": 1.2333258755804954,
+  "repetitiveness": 0.7698265314102173,
+  "vocal_share": 0.05464691296219826,
+  "vocal_voiced": 0.317351598173516,
+  "song_length": 297.38
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "ultar/1733631051-103",
+ "band": "ultar",
+ "title": "Antiques",
+ "source": "itunes",
+ "album": "At the Gates of Dusk",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.533249686323714,
+  "tempo_var": 2.9381216650201543,
+  "low_onset_rate": 5.933243639551934,
+  "lufs": -7.171160833019185,
+  "rms_dbfs": -6.69907045711861,
+  "crest": 6.699070453643799,
+  "centroid": 2316.0539235497745,
+  "flatness": 0.03223598748445511,
+  "sub100_share": 0.23404444754123688,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7358336448669434,
+  "clean_share": 0.007733952049497293,
+  "minor_share": 0.23580339687001206,
+  "chord_rate": 0.8333207358921256,
+  "repetitiveness": 0.7840211987495422,
+  "vocal_share": 0.13295228779315948,
+  "vocal_voiced": 0.1259765625,
+  "song_length": 382.08
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "grim-reaper/1835427124-104",
+ "band": "grim-reaper",
+ "title": "Wrath Of The Ripper",
+ "source": "itunes",
+ "album": "See You In Hell",
+ "year": 1983,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.4665840274523445,
+  "tempo_var": 15.379126316968652,
+  "low_onset_rate": 6.9332285226224855,
+  "lufs": -9.20573523975749,
+  "rms_dbfs": -8.822742403285291,
+  "crest": 8.822742462158203,
+  "centroid": 3088.969092534247,
+  "flatness": 0.041784144937992096,
+  "sub100_share": 0.22256916761398315,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7737874984741211,
+  "clean_share": 0.0,
+  "minor_share": 0.06581878077450254,
+  "chord_rate": 1.8666384483983613,
+  "repetitiveness": 0.977816641330719,
+  "vocal_share": 0.1543184369802475,
+  "vocal_voiced": 0.4367269267364415,
+  "song_length": 193.829
+ }
+}

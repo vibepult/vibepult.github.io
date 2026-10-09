@@ -1,0 +1,32 @@
+{
+ "id": "sirenia/1539956864-106",
+ "band": "sirenia",
+ "title": "Downwards Spiral",
+ "source": "itunes",
+ "album": "Riddles, Ruins & Revelations",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.333333333333333,
+  "tempo_var": 4.136253509243701,
+  "low_onset_rate": 3.966666666666667,
+  "lufs": -10.570886212723472,
+  "rms_dbfs": -10.069886479592858,
+  "crest": 10.069886207580566,
+  "centroid": 2392.486132687833,
+  "flatness": 0.022315556183457375,
+  "sub100_share": 0.3043529689311981,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7661744356155396,
+  "clean_share": 0.0781733746130031,
+  "minor_share": 0.02996877722227953,
+  "chord_rate": 1.7333333333333334,
+  "repetitiveness": 0.8878352046012878,
+  "vocal_share": 0.3746585249900818,
+  "vocal_voiced": 0.7381329113924051,
+  "song_length": 355.938
+ }
+}

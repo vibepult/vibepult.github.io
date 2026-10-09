@@ -1,0 +1,32 @@
+{
+ "id": "brujeria/1692888991-108",
+ "band": "brujeria",
+ "title": "Bestia De La Muerte",
+ "source": "itunes",
+ "album": "Esto Es Brujería",
+ "year": 2023,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.174171434805799,
+  "tempo_var": 10.417173079816587,
+  "low_onset_rate": 5.112086626581972,
+  "lufs": -10.613864547366028,
+  "rms_dbfs": -9.963995597132687,
+  "crest": 9.963995933532715,
+  "centroid": 2430.980267030138,
+  "flatness": 0.031208617612719536,
+  "sub100_share": 0.33409133553504944,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6094108819961548,
+  "clean_share": 0.08145849495733126,
+  "minor_share": -0.08918734756975077,
+  "chord_rate": 2.1718015080250206,
+  "repetitiveness": 0.8820375204086304,
+  "vocal_share": 0.28384929895401,
+  "vocal_voiced": 0.2631578947368421,
+  "song_length": 225.36
+ }
+}

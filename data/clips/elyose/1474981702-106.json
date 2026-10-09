@@ -1,0 +1,32 @@
+{
+ "id": "elyose/1474981702-106",
+ "band": "elyose",
+ "title": "Mes 100 ciels",
+ "source": "itunes",
+ "album": "Reconnexion",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.6085317364108036,
+  "tempo_var": 16.22958485230103,
+  "low_onset_rate": 3.5417070746254184,
+  "lufs": -9.404993789072577,
+  "rms_dbfs": -9.252508692210856,
+  "crest": 9.252508163452148,
+  "centroid": 2563.6177324460873,
+  "flatness": 0.043694816529750824,
+  "sub100_share": 0.27322423458099365,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.6866174936294556,
+  "clean_share": 0.08301008533747091,
+  "minor_share": 0.21285165755746294,
+  "chord_rate": 2.2720385007030983,
+  "repetitiveness": 0.8906044960021973,
+  "vocal_share": 0.3161216080188751,
+  "vocal_voiced": 0.5373134328358209,
+  "song_length": 239.398
+ }
+}

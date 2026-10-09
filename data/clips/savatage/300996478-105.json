@@ -1,0 +1,32 @@
+{
+ "id": "savatage/300996478-105",
+ "band": "savatage",
+ "title": "Washed Out",
+ "source": "itunes",
+ "album": "Power of the Night",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 5.379385273723512,
+  "tempo_var": 6.737326232261297,
+  "low_onset_rate": 7.050001818358144,
+  "lufs": -15.606467857768088,
+  "rms_dbfs": -15.959771492002748,
+  "crest": 15.959772109985352,
+  "centroid": 2851.732680289956,
+  "flatness": 0.060701947659254074,
+  "sub100_share": 0.09939853101968765,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7046667337417603,
+  "clean_share": 0.1404189294026377,
+  "minor_share": -0.08607005229324405,
+  "chord_rate": 1.3030809048150125,
+  "repetitiveness": 0.9057464599609375,
+  "vocal_share": 0.08292527496814728,
+  "vocal_voiced": 0.41025641025641024,
+  "song_length": 135.04
+ }
+}

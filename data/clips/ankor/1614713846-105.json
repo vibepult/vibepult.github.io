@@ -1,0 +1,32 @@
+{
+ "id": "ankor/1614713846-105",
+ "band": "ankor",
+ "title": "Shhh… (I'm Not Gonna Lose It)",
+ "source": "itunes",
+ "album": "Beyond the Silence of These Years",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 4.443840008728119,
+  "tempo_var": 21.686955494415823,
+  "low_onset_rate": 5.9473948988992875,
+  "lufs": -8.634287053994292,
+  "rms_dbfs": -7.5158036809658295,
+  "crest": 7.515804290771484,
+  "centroid": 2569.739058367399,
+  "flatness": 0.02815696969628334,
+  "sub100_share": 0.4121978282928467,
+  "lowest_pitch": 129.19921875,
+  "harmonic_share": 0.7629221081733704,
+  "clean_share": 0.14274631497284718,
+  "minor_share": 0.30637619739839383,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.756207287311554,
+  "vocal_share": 0.12375152111053467,
+  "vocal_voiced": 0.8218232044198895,
+  "song_length": 220.607
+ }
+}

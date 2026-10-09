@@ -1,0 +1,32 @@
+{
+ "id": "stream-of-passion/1184111666-108",
+ "band": "stream-of-passion",
+ "title": "Broken",
+ "source": "itunes",
+ "album": "Darker Days",
+ "year": 2011,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 2.2666666666666666,
+  "tempo_var": 39.83551936182452,
+  "low_onset_rate": 1.4333333333333333,
+  "lufs": -14.99454113060564,
+  "rms_dbfs": -13.70511984470355,
+  "crest": 13.705120086669922,
+  "centroid": 1510.9906473218834,
+  "flatness": 0.002795750042423606,
+  "sub100_share": 0.5498755574226379,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.9496214389801025,
+  "clean_share": 0.8939628482972136,
+  "minor_share": 0.2704094038422479,
+  "chord_rate": 1.4,
+  "repetitiveness": 0.5354413390159607,
+  "vocal_share": 0.3254709243774414,
+  "vocal_voiced": 0.9212007504690432,
+  "song_length": 287.093
+ }
+}

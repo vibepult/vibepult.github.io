@@ -1,0 +1,32 @@
+{
+ "id": "volbeat/1440847412-108",
+ "band": "volbeat",
+ "title": "Mary Jane Kelly",
+ "source": "itunes",
+ "album": "Seal the Deal & Let's Boogie (Deluxe)",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 73.828125,
+  "onset_rate": 4.599930462124534,
+  "tempo_var": 19.39676714198778,
+  "low_onset_rate": 6.49990173995858,
+  "lufs": -9.154357755040047,
+  "rms_dbfs": -8.582610724265583,
+  "crest": 8.582611083984375,
+  "centroid": 2517.4870861851823,
+  "flatness": 0.025741105899214745,
+  "sub100_share": 0.3477960228919983,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7294493913650513,
+  "clean_share": 0.054137664346481054,
+  "minor_share": -0.3138340334915829,
+  "chord_rate": 1.199981859684661,
+  "repetitiveness": 0.838200032711029,
+  "vocal_share": 0.11607559025287628,
+  "vocal_voiced": 0.8841269841269841,
+  "song_length": 339.573
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "elyose/1665196585-105",
+ "band": "elyose",
+ "title": "Retour au réel",
+ "source": "itunes",
+ "album": "Déviante",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 2.9736974494496438,
+  "tempo_var": 12.145293204610885,
+  "low_onset_rate": 5.9139825680065945,
+  "lufs": -9.676696178864743,
+  "rms_dbfs": -8.899248995341797,
+  "crest": 8.899249076843262,
+  "centroid": 2604.2272043571757,
+  "flatness": 0.03153000399470329,
+  "sub100_share": 0.4190848767757416,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7973526120185852,
+  "clean_share": 0.051978277734678044,
+  "minor_share": -0.0883899842066711,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.9032949805259705,
+  "vocal_share": 0.13726015388965607,
+  "vocal_voiced": 0.6512681159420289,
+  "song_length": 237.657
+ }
+}

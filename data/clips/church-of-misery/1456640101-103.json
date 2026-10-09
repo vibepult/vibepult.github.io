@@ -1,0 +1,32 @@
+{
+ "id": "church-of-misery/1456640101-103",
+ "band": "church-of-misery",
+ "title": "Red Ripper Blues",
+ "source": "itunes",
+ "album": "The Second Coming",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.2333137819272446,
+  "tempo_var": 2.492318069087139,
+  "low_onset_rate": 3.866643285603715,
+  "lufs": -11.4034314209283,
+  "rms_dbfs": -11.201878024126568,
+  "crest": 11.20187759399414,
+  "centroid": 2182.9969492159994,
+  "flatness": 0.042711395770311356,
+  "sub100_share": 0.17227183282375336,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.6981627345085144,
+  "clean_share": 0.15699922660479504,
+  "minor_share": 0.10111880322079758,
+  "chord_rate": 2.0999873016640866,
+  "repetitiveness": 0.7793939113616943,
+  "vocal_share": 0.04651355370879173,
+  "vocal_voiced": 0.255663430420712,
+  "song_length": 419.187
+ }
+}

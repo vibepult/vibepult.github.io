@@ -1,0 +1,32 @@
+{
+ "id": "eluveitie/1456950322-108",
+ "band": "eluveitie",
+ "title": "Neverland",
+ "source": "itunes",
+ "album": "Helvetios",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 1.6333234568498451,
+  "tempo_var": 9.250050062288139,
+  "low_onset_rate": 2.6666505417956654,
+  "lufs": -6.552884771580749,
+  "rms_dbfs": -5.878026508938785,
+  "crest": 5.878026485443115,
+  "centroid": 2449.6314149921423,
+  "flatness": 0.03162612020969391,
+  "sub100_share": 0.36496052145957947,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7003492116928101,
+  "clean_share": 0.02242846094354215,
+  "minor_share": 0.11648282273688437,
+  "chord_rate": 1.6333234568498451,
+  "repetitiveness": 0.9320208430290222,
+  "vocal_share": 0.07993714511394501,
+  "vocal_voiced": 0.012195121951219513,
+  "song_length": 222.8
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "helmet/1440915669-106",
+ "band": "helmet",
+ "title": "He Feels Bad",
+ "source": "itunes",
+ "album": "Meantime",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 1.4666444951701412,
+  "tempo_var": 32.23681257853993,
+  "low_onset_rate": 2.799957672597542,
+  "lufs": -12.896116568655792,
+  "rms_dbfs": -12.134445908661721,
+  "crest": 12.134446144104004,
+  "centroid": 2582.983073474471,
+  "flatness": 0.026162834838032722,
+  "sub100_share": 0.4454721212387085,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.6957989931106567,
+  "clean_share": 0.10518174787316319,
+  "minor_share": 0.16136798230853042,
+  "chord_rate": 1.9333041072697315,
+  "repetitiveness": 0.8210912346839905,
+  "vocal_share": 0.08036984503269196,
+  "vocal_voiced": 0.7914285714285715,
+  "song_length": 243.333
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "cradle-of-filth/164212996-106",
+ "band": "cradle-of-filth",
+ "title": "Amor e Morte",
+ "source": "itunes",
+ "album": "Midian",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 6.029514185270403,
+  "tempo_var": 7.341291581903292,
+  "low_onset_rate": 8.361370500015862,
+  "lufs": -6.789646561178096,
+  "rms_dbfs": -6.741413432565774,
+  "crest": 6.741413116455078,
+  "centroid": 2385.317102466945,
+  "flatness": 0.037369996309280396,
+  "sub100_share": 0.17033131420612335,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7014560103416443,
+  "clean_share": 0.03789636504253674,
+  "minor_share": 0.1938898893811446,
+  "chord_rate": 1.89879728486416,
+  "repetitiveness": 0.8292246460914612,
+  "vocal_share": 0.1823076754808426,
+  "vocal_voiced": 0.26819620253164556,
+  "song_length": 404.373
+ }
+}

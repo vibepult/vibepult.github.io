@@ -1,0 +1,32 @@
+{
+ "id": "tnt/1650582096-105",
+ "band": "tnt",
+ "title": "Me & Dad",
+ "source": "itunes",
+ "album": "Atlantis",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 198.76802884615384,
+  "onset_rate": 2.7398111332007953,
+  "tempo_var": 31.32967987769304,
+  "low_onset_rate": 3.6753563981961888,
+  "lufs": -15.279005018619463,
+  "rms_dbfs": -14.79501524674494,
+  "crest": 14.69316291809082,
+  "centroid": 2139.589919405075,
+  "flatness": 0.009611513465642929,
+  "sub100_share": 0.03741636499762535,
+  "lowest_pitch": 102.28271484375,
+  "harmonic_share": 0.8933890461921692,
+  "clean_share": 0.6656322730799069,
+  "minor_share": 0.00025901020049945433,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.5682427287101746,
+  "vocal_share": 0.7135777473449707,
+  "vocal_voiced": 0.9182948490230906,
+  "song_length": 471.76
+ }
+}

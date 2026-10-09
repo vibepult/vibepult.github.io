@@ -1,0 +1,32 @@
+{
+ "id": "cyhra/1686897099-106",
+ "band": "cyhra",
+ "title": "The Voice You Need To Hear",
+ "source": "itunes",
+ "album": "The Vertigo Trigger",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.107346773020414,
+  "tempo_var": 20.06855113687126,
+  "low_onset_rate": 4.5106646705135045,
+  "lufs": -13.059312093420289,
+  "rms_dbfs": -12.441011655977638,
+  "crest": 12.440747261047363,
+  "centroid": 2600.017380366297,
+  "flatness": 0.021448999643325806,
+  "sub100_share": 0.27843645215034485,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.8848103284835815,
+  "clean_share": 0.31419705197827774,
+  "minor_share": 0.2627156785968314,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.7320711016654968,
+  "vocal_share": 0.5969730615615845,
+  "vocal_voiced": 0.8949579831932774,
+  "song_length": 190.16
+ }
+}

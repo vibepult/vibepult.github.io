@@ -1,0 +1,32 @@
+{
+ "id": "01101111011101100110111001101001/1468013152-104",
+ "band": "01101111011101100110111001101001",
+ "title": "Hd189733b",
+ "source": "itunes",
+ "album": "Sdss J0333+0651",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 4.143129030693886,
+  "tempo_var": 10.814111333511145,
+  "low_onset_rate": 8.887680017456239,
+  "lufs": -6.726280792660123,
+  "rms_dbfs": -6.153559899486335,
+  "crest": 6.153559684753418,
+  "centroid": 2625.505515641209,
+  "flatness": 0.03455968201160431,
+  "sub100_share": 0.3608485162258148,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.8063342571258545,
+  "clean_share": 0.04809930178432894,
+  "minor_share": -0.029982313915356773,
+  "chord_rate": 2.5393371478446394,
+  "repetitiveness": 0.9367090463638306,
+  "vocal_share": 0.0005950554041191936,
+  "vocal_voiced": 0.6534653465346535,
+  "song_length": 147.738
+ }
+}

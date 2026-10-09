@@ -1,0 +1,32 @@
+{
+ "id": "volbeat/1440847412-107",
+ "band": "volbeat",
+ "title": "Rebound",
+ "source": "itunes",
+ "album": "Seal the Deal & Let's Boogie (Deluxe)",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.766594609302959,
+  "tempo_var": 3.657984003541483,
+  "low_onset_rate": 4.499931973817478,
+  "lufs": -9.022879193568205,
+  "rms_dbfs": -8.525531474834636,
+  "crest": 8.525531768798828,
+  "centroid": 2714.0941765212383,
+  "flatness": 0.03145764023065567,
+  "sub100_share": 0.3900595009326935,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7889034152030945,
+  "clean_share": 0.0015467904098994587,
+  "minor_share": -0.22047841496676468,
+  "chord_rate": 1.4666444951701412,
+  "repetitiveness": 0.776482105255127,
+  "vocal_share": 0.22587385773658752,
+  "vocal_voiced": 0.6962879640044994,
+  "song_length": 149.453
+ }
+}

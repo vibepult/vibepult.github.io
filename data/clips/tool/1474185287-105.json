@@ -1,0 +1,32 @@
+{
+ "id": "tool/1474185287-105",
+ "band": "tool",
+ "title": "Crawl Away",
+ "source": "itunes",
+ "album": "Undertow",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "hand",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.3978477729148127,
+  "tempo_var": 21.52084547119825,
+  "low_onset_rate": 5.6963918545924805,
+  "lufs": -12.492511915761101,
+  "rms_dbfs": -11.493437222148595,
+  "crest": 11.493436813354492,
+  "centroid": 2929.505729247342,
+  "flatness": 0.03211664408445358,
+  "sub100_share": 0.49323830008506775,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7609241008758545,
+  "clean_share": 0.027068832173240527,
+  "minor_share": 0.1216684577287101,
+  "chord_rate": 2.032046217135329,
+  "repetitiveness": 0.8773362040519714,
+  "vocal_share": 3.7358884696914174e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 330.427
+ }
+}

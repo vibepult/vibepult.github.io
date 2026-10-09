@@ -1,0 +1,32 @@
+{
+ "id": "ulver/1753043219-104",
+ "band": "ulver",
+ "title": "September IV",
+ "source": "itunes",
+ "album": "Wars of the Roses",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.7666666666666666,
+  "tempo_var": 1.5901172354922821,
+  "low_onset_rate": 3.466666666666667,
+  "lufs": -13.07619786762569,
+  "rms_dbfs": -11.278829504026643,
+  "crest": 11.278829574584961,
+  "centroid": 1857.8720263510882,
+  "flatness": 0.009518024511635303,
+  "sub100_share": 0.5514941215515137,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8419741988182068,
+  "clean_share": 0.47832817337461303,
+  "minor_share": 0.16578726433766955,
+  "chord_rate": 1.1333333333333333,
+  "repetitiveness": 0.5026853680610657,
+  "vocal_share": 0.16431890428066254,
+  "vocal_voiced": 0.9257861635220126,
+  "song_length": 279.325
+ }
+}

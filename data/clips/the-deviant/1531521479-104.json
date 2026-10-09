@@ -1,0 +1,32 @@
+{
+ "id": "the-deviant/1531521479-104",
+ "band": "the-deviant",
+ "title": "Torment Inferno",
+ "source": "itunes",
+ "album": "Rotting Dreams of Carrion",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.575119405518111,
+  "tempo_var": 3.718917047085038,
+  "low_onset_rate": 3.7755933908742665,
+  "lufs": -10.041331947708866,
+  "rms_dbfs": -9.50138577141229,
+  "crest": 9.501385688781738,
+  "centroid": 2264.0840443833154,
+  "flatness": 0.017548082396388054,
+  "sub100_share": 0.24598605930805206,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8502981066703796,
+  "clean_share": 0.035686578743211794,
+  "minor_share": 0.33662508048879214,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.7286519408226013,
+  "vocal_share": 0.025537069886922836,
+  "vocal_voiced": 0.9181636726546906,
+  "song_length": 371.069
+ }
+}

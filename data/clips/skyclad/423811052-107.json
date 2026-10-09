@@ -1,0 +1,32 @@
+{
+ "id": "skyclad/423811052-107",
+ "band": "skyclad",
+ "title": "The Spiral Staircase",
+ "source": "itunes",
+ "album": "Irrational Anthems",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 7.217063472821607,
+  "tempo_var": 16.426301753213483,
+  "low_onset_rate": 5.9473948988992875,
+  "lufs": -16.710296409675628,
+  "rms_dbfs": -16.764036044597752,
+  "crest": 14.324084281921387,
+  "centroid": 1904.8293066417352,
+  "flatness": 0.0019020945765078068,
+  "sub100_share": 0.001240135869011283,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.9839079976081848,
+  "clean_share": 0.9875872769588828,
+  "minor_share": 0.041868778549421615,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.8812256455421448,
+  "vocal_share": 0.0001826960506150499,
+  "vocal_voiced": 1.0,
+  "song_length": 143.533
+ }
+}

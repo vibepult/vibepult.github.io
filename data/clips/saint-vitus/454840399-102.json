@@ -1,0 +1,32 @@
+{
+ "id": "saint-vitus/454840399-102",
+ "band": "saint-vitus",
+ "title": "White Magic / Black Magic",
+ "source": "itunes",
+ "album": "Saint Vitus",
+ "year": 1984,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.377015346942734,
+  "tempo_var": 2.5462443522138307,
+  "low_onset_rate": 5.279148281045435,
+  "lufs": -12.827619830683824,
+  "rms_dbfs": -11.215138370342414,
+  "crest": 11.21513843536377,
+  "centroid": 1754.3947272549533,
+  "flatness": 0.00735819898545742,
+  "sub100_share": 0.4098333716392517,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8798032999038696,
+  "clean_share": 0.6012412723041117,
+  "minor_share": -0.004996526597015327,
+  "chord_rate": 2.3054508315957913,
+  "repetitiveness": 0.879370391368866,
+  "vocal_share": 0.03805287182331085,
+  "vocal_voiced": 0.7141382868937048,
+  "song_length": 327.123
+ }
+}

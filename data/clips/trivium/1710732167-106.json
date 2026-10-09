@@ -1,0 +1,32 @@
+{
+ "id": "trivium/1710732167-106",
+ "band": "trivium",
+ "title": "At the End of This War (2023 Remaster)",
+ "source": "itunes",
+ "album": "Vengeance Falls (2023 Remaster)",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 6.03293204987121,
+  "tempo_var": 11.755088985705699,
+  "low_onset_rate": 6.2329187476569965,
+  "lufs": -8.49803259016083,
+  "rms_dbfs": -8.099233910219391,
+  "crest": 8.099233627319336,
+  "centroid": 2841.337366045903,
+  "flatness": 0.043869391083717346,
+  "sub100_share": 0.4192301332950592,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7214905619621277,
+  "clean_share": 0.0,
+  "minor_share": 0.1371164959322685,
+  "chord_rate": 1.5332313496910257,
+  "repetitiveness": 0.904547393321991,
+  "vocal_share": 0.13826672732830048,
+  "vocal_voiced": 0.48155737704918034,
+  "song_length": 287.68
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "the-lonely/1777496278-104",
+ "band": "the-lonely",
+ "title": "Ha Ha Ha",
+ "source": "itunes",
+ "album": "Homicidal Tendencies",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 7.23322398754365,
+  "tempo_var": 1.9316057684436831,
+  "low_onset_rate": 7.999879064564406,
+  "lufs": -13.911297295320322,
+  "rms_dbfs": -11.914464515125218,
+  "crest": 11.914463996887207,
+  "centroid": 2011.0480532274255,
+  "flatness": 0.013101850636303425,
+  "sub100_share": 0.6399021148681641,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8584820628166199,
+  "clean_share": 0.1794276875483372,
+  "minor_share": -0.11583968683277523,
+  "chord_rate": 0.8999863947634957,
+  "repetitiveness": 0.9848501086235046,
+  "vocal_share": 0.024756483733654022,
+  "vocal_voiced": 0.8180019782393669,
+  "song_length": 256.0
+ }
+}

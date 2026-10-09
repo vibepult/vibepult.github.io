@@ -1,0 +1,32 @@
+{
+ "id": "within-temptation/1550899956-105",
+ "band": "within-temptation",
+ "title": "The Promise",
+ "source": "itunes",
+ "album": "Mother Earth",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 1.8376781990980944,
+  "tempo_var": 11.605851659990194,
+  "low_onset_rate": 1.4701425592784756,
+  "lufs": -22.312030328669337,
+  "rms_dbfs": -20.64602851722407,
+  "crest": 16.49464988708496,
+  "centroid": 760.3493245772787,
+  "flatness": 0.008285908959805965,
+  "sub100_share": 0.4547436237335205,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.9466610550880432,
+  "clean_share": 0.9837083010085338,
+  "minor_share": 0.033523479771207176,
+  "chord_rate": 0.4343603016050041,
+  "repetitiveness": 0.805008590221405,
+  "vocal_share": 0.005137421656399965,
+  "vocal_voiced": 0.18518518518518517,
+  "song_length": 482.2
+ }
+}

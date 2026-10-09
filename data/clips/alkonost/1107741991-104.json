@@ -1,0 +1,32 @@
+{
+ "id": "alkonost/1107741991-104",
+ "band": "alkonost",
+ "title": "В Сердце Легенды",
+ "source": "itunes",
+ "album": "Песни вечного древа",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.5417070746254184,
+  "tempo_var": 13.309190132222,
+  "low_onset_rate": 6.448579862289677,
+  "lufs": -15.133764612302825,
+  "rms_dbfs": -14.300998366952104,
+  "crest": 14.30099868774414,
+  "centroid": 1270.5291761627184,
+  "flatness": 0.003337097354233265,
+  "sub100_share": 0.06805605441331863,
+  "lowest_pitch": 99.591064453125,
+  "harmonic_share": 0.9168993830680847,
+  "clean_share": 0.8774243599689682,
+  "minor_share": -0.04580200242752119,
+  "chord_rate": 1.4367302283857828,
+  "repetitiveness": 0.8615045547485352,
+  "vocal_share": 2.598180117274751e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 444.093
+ }
+}

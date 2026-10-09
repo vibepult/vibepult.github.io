@@ -1,0 +1,32 @@
+{
+ "id": "volbeat/1460660831-107",
+ "band": "volbeat",
+ "title": "Cloud 9",
+ "source": "itunes",
+ "album": "Rewind, Replay, Rebound",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.677726324976968,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.11445655336275,
+  "lufs": -8.526107667553918,
+  "rms_dbfs": -8.04041046745423,
+  "crest": 8.040410995483398,
+  "centroid": 2432.3301437716973,
+  "flatness": 0.021917244419455528,
+  "sub100_share": 0.31085655093193054,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.8273118138313293,
+  "clean_share": 0.017843289371605897,
+  "minor_share": -0.13328734488685634,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.7102233171463013,
+  "vocal_share": 0.22414250671863556,
+  "vocal_voiced": 0.8811252268602541,
+  "song_length": 297.8
+ }
+}

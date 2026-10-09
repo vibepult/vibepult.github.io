@@ -1,0 +1,32 @@
+{
+ "id": "soulfly/1458641417-106",
+ "band": "soulfly",
+ "title": "Spiral",
+ "source": "itunes",
+ "album": "Savages (Deluxe)",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 1.6706165446346313,
+  "tempo_var": 3.659871608079538,
+  "low_onset_rate": 1.1360192503515492,
+  "lufs": -9.419471174752118,
+  "rms_dbfs": -9.187611524707997,
+  "crest": 9.18761157989502,
+  "centroid": 2700.910721693691,
+  "flatness": 0.04355788230895996,
+  "sub100_share": 0.3428129553794861,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7303329706192017,
+  "clean_share": 0.005430566330488751,
+  "minor_share": -0.036793408191620136,
+  "chord_rate": 2.071564515346943,
+  "repetitiveness": 0.9327524304389954,
+  "vocal_share": 0.14955107867717743,
+  "vocal_voiced": 0.17647058823529413,
+  "song_length": 334.053
+ }
+}

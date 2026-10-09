@@ -1,0 +1,32 @@
+{
+ "id": "gloryhammer/1183597485-105",
+ "band": "gloryhammer",
+ "title": "Magic Dragon",
+ "source": "itunes",
+ "album": "Tales from the Kingdom of Fife",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.833333333333333,
+  "tempo_var": 1.5480077226040272,
+  "low_onset_rate": 6.266666666666667,
+  "lufs": -8.299523455648748,
+  "rms_dbfs": -7.442378045340031,
+  "crest": 7.442378044128418,
+  "centroid": 2426.5931763764543,
+  "flatness": 0.0265792403370142,
+  "sub100_share": 0.41109535098075867,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7791626453399658,
+  "clean_share": 0.015479876160990712,
+  "minor_share": -0.10269424530365423,
+  "chord_rate": 1.1,
+  "repetitiveness": 0.8728553056716919,
+  "vocal_share": 0.1685667484998703,
+  "vocal_voiced": 0.6443594646271511,
+  "song_length": 327.68
+ }
+}

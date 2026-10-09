@@ -1,0 +1,32 @@
+{
+ "id": "scorpions/1440925014-104",
+ "band": "scorpions",
+ "title": "Coast to Coast",
+ "source": "itunes",
+ "album": "Lovedrive",
+ "year": 1979,
+ "itunes_year": 1979,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.4332814318755576,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 5.166588562531179,
+  "lufs": -12.106446150685555,
+  "rms_dbfs": -12.239769509910325,
+  "crest": 12.23976993560791,
+  "centroid": 3102.349541462435,
+  "flatness": 0.041024718433618546,
+  "sub100_share": 0.11877734214067459,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7823109030723572,
+  "clean_share": 0.0,
+  "minor_share": 0.15373106183803387,
+  "chord_rate": 1.2666475185560309,
+  "repetitiveness": 0.849189043045044,
+  "vocal_share": 6.604834652534919e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 283.427
+ }
+}

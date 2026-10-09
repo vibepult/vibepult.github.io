@@ -1,0 +1,32 @@
+{
+ "id": "damageplan/5356931-112",
+ "band": "damageplan",
+ "title": "Blunt Force Trauma",
+ "source": "itunes",
+ "album": "New Found Power",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 4.032406763676374,
+  "tempo_var": 13.87536166404222,
+  "low_onset_rate": 5.9319702804495416,
+  "lufs": -8.303486388980051,
+  "rms_dbfs": -8.376184002715053,
+  "crest": 8.376184463500977,
+  "centroid": 2577.429945232183,
+  "flatness": 0.036467138677835464,
+  "sub100_share": 0.20669248700141907,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7319112420082092,
+  "clean_share": 0.0317092034029389,
+  "minor_share": 0.014377328164650094,
+  "chord_rate": 2.1661689226360683,
+  "repetitiveness": 0.8349571824073792,
+  "vocal_share": 0.15943969786167145,
+  "vocal_voiced": 0.1760154738878143,
+  "song_length": 296.933
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "black-sabbath/298099519-104",
+ "band": "black-sabbath",
+ "title": "Heaven and Hell",
+ "source": "itunes",
+ "album": "Heaven and Hell",
+ "year": 1980,
+ "itunes_year": 1980,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 3.0663051068808214,
+  "tempo_var": 45.0451671957432,
+  "low_onset_rate": 4.732775273663877,
+  "lufs": -11.708759534026283,
+  "rms_dbfs": -10.563848891986897,
+  "crest": 10.563849449157715,
+  "centroid": 2309.2856638327835,
+  "flatness": 0.017050517722964287,
+  "sub100_share": 0.28182387351989746,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7350813746452332,
+  "clean_share": 0.2652745552977572,
+  "minor_share": 0.07837955721949597,
+  "chord_rate": 0.8665644867271887,
+  "repetitiveness": 0.818636953830719,
+  "vocal_share": 0.08684290945529938,
+  "vocal_voiced": 0.8963660834454913,
+  "song_length": 419.933
+ }
+}

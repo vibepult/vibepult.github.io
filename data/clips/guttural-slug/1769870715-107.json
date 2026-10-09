@@ -1,0 +1,32 @@
+{
+ "id": "guttural-slug/1769870715-107",
+ "band": "guttural-slug",
+ "title": "Forsaken",
+ "source": "itunes",
+ "album": "Intercranial Purgatory",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.0666354250124717,
+  "tempo_var": 9.882362265361877,
+  "low_onset_rate": 7.09989266980091,
+  "lufs": -9.76001074178503,
+  "rms_dbfs": -6.979407164457845,
+  "crest": 6.979407787322998,
+  "centroid": 2116.1820833326396,
+  "flatness": 0.013607066124677658,
+  "sub100_share": 0.7254279851913452,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.8169593811035156,
+  "clean_share": 0.15390564578499613,
+  "minor_share": -0.0938108285393674,
+  "chord_rate": 0.7666550770207556,
+  "repetitiveness": 0.9345325827598572,
+  "vocal_share": 0.06248483806848526,
+  "vocal_voiced": 0.5983263598326359,
+  "song_length": 138.646
+ }
+}

@@ -1,0 +1,124 @@
+{
+ "slug": "agoraphobic-nosebleed",
+ "name": "Agoraphobic Nosebleed",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 21479313,
+  "deezer": 3421,
+  "spotify": "5DVkkJqypmjmRLJL9UurmI"
+ },
+ "metadata": {
+  "formed": 1994,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 4,
+  "past_members": 6,
+  "full_lengths": 4,
+  "genre": "Cybergrind/Grindcore, Sludge/Doom Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 6129,
+  "themes": "Drugs, Humour, Disillusionment, Nihilism",
+  "release_year": 2009
+ },
+ "partial": false,
+ "clips": [
+  "agoraphobic-nosebleed/308198482-107",
+  "agoraphobic-nosebleed/308198482-106",
+  "agoraphobic-nosebleed/308198482-108",
+  "agoraphobic-nosebleed/308198482-105",
+  "agoraphobic-nosebleed/308198482-110",
+  "agoraphobic-nosebleed/308198482-104",
+  "agoraphobic-nosebleed/308198482-111",
+  "agoraphobic-nosebleed/308198482-101",
+  "agoraphobic-nosebleed/308198482-113"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 11.745383522727266
+  },
+  "onset_rate": {
+   "median": 6.081044222470058,
+   "iqr": 2.305450831595791
+  },
+  "tempo_var": {
+   "median": 6.445584525770671,
+   "iqr": 4.31084564779553
+  },
+  "low_onset_rate": {
+   "median": 5.746920913543131,
+   "iqr": 2.405687824273869
+  },
+  "lufs": {
+   "median": -6.862379947278251,
+   "iqr": 0.9272242901445225
+  },
+  "rms_dbfs": {
+   "median": -5.804334965540935,
+   "iqr": 0.5335759897741639
+  },
+  "crest": {
+   "median": 5.80433464050293,
+   "iqr": 0.5335760116577148
+  },
+  "centroid": {
+   "median": 2735.2842284923277,
+   "iqr": 78.13904259178298
+  },
+  "flatness": {
+   "median": 0.04273694008588791,
+   "iqr": 0.007722076028585434
+  },
+  "sub100_share": {
+   "median": 0.5077683925628662,
+   "iqr": 0.013777405023574829
+  },
+  "lowest_pitch": {
+   "median": 32.2998046875,
+   "iqr": 2.691650390625
+  },
+  "harmonic_share": {
+   "median": 0.6871601939201355,
+   "iqr": 0.047820448875427246
+  },
+  "clean_share": {
+   "median": 0.0015515903801396431,
+   "iqr": 0.0015515903801396431
+  },
+  "minor_share": {
+   "median": -0.11988329977624823,
+   "iqr": 0.1779453465146228
+  },
+  "chord_rate": {
+   "median": 1.971327522668865,
+   "iqr": 0.30071097803423363
+  },
+  "repetitiveness": {
+   "median": 0.9554219841957092,
+   "iqr": 0.031910479068756104
+  },
+  "vocal_share": {
+   "median": 0.06064219772815704,
+   "iqr": 0.0222572423517704
+  },
+  "vocal_voiced": {
+   "median": 0.23492063492063492,
+   "iqr": 0.21295328279372724
+  },
+  "song_length": {
+   "median": 145.867,
+   "iqr": 43.105999999999995
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.6
+ },
+ "sources_failed": []
+}

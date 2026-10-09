@@ -1,0 +1,127 @@
+{
+ "slug": "down",
+ "name": "Down",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 149695,
+  "deezer": 7274,
+  "spotify": "1m0B9ak05G0jqDY4ACLhQu"
+ },
+ "metadata": {
+  "formed": 1991,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 3,
+  "full_lengths": 4,
+  "genre": "Southern/Sludge Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 70167,
+  "themes": "Personal struggles, Misery, Drugs, Life",
+  "release_year": 1995
+ },
+ "partial": false,
+ "clips": [
+  "down/299793030-106",
+  "down/299793030-107",
+  "down/6796236881-106",
+  "down/299793030-105",
+  "down/299793030-108",
+  "down/299793030-104",
+  "down/299793030-109",
+  "down/299793030-103",
+  "down/299793030-110",
+  "down/299793030-102",
+  "down/299793030-112",
+  "down/299793030-101"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 135.99917763157896,
+   "iqr": 34.52868009868422
+  },
+  "onset_rate": {
+   "median": 3.666234366922721,
+   "iqr": 0.6168635362842672
+  },
+  "tempo_var": {
+   "median": 10.22055779394477,
+   "iqr": 12.630476729495744
+  },
+  "low_onset_rate": {
+   "median": 5.016075202016996,
+   "iqr": 1.224855572585546
+  },
+  "lufs": {
+   "median": -9.987768316378958,
+   "iqr": 0.8960525751583308
+  },
+  "rms_dbfs": {
+   "median": -9.889360738130602,
+   "iqr": 0.7518363955050003
+  },
+  "crest": {
+   "median": 9.889360427856445,
+   "iqr": 0.7518360614776611
+  },
+  "centroid": {
+   "median": 2622.6086567378543,
+   "iqr": 273.96995621402993
+  },
+  "flatness": {
+   "median": 0.03557856194674969,
+   "iqr": 0.016453737393021584
+  },
+  "sub100_share": {
+   "median": 0.23192701488733292,
+   "iqr": 0.07780243828892708
+  },
+  "lowest_pitch": {
+   "median": 61.907958984375,
+   "iqr": 14.13116455078125
+  },
+  "harmonic_share": {
+   "median": 0.6774746775627136,
+   "iqr": 0.12892471253871918
+  },
+  "clean_share": {
+   "median": 0.01082753286929621,
+   "iqr": 0.026488785769528227
+  },
+  "minor_share": {
+   "median": 0.07490270207787142,
+   "iqr": 0.1455677046006594
+  },
+  "chord_rate": {
+   "median": 2.066423006810988,
+   "iqr": 0.4749439975331706
+  },
+  "repetitiveness": {
+   "median": 0.8709909021854401,
+   "iqr": 0.05901597440242767
+  },
+  "vocal_share": {
+   "median": 0.12767478823661804,
+   "iqr": 0.09005682170391083
+  },
+  "vocal_voiced": {
+   "median": 0.4207920792079208,
+   "iqr": 0.5641198569208788
+  },
+  "song_length": {
+   "median": 272.0,
+   "iqr": 51.44375000000002
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

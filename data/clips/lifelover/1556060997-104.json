@@ -1,0 +1,32 @@
+{
+ "id": "lifelover/1556060997-104",
+ "band": "lifelover",
+ "title": "Cancertid",
+ "source": "itunes",
+ "album": "Konkurs",
+ "year": 2008,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.033272361717888,
+  "tempo_var": 6.320545055243423,
+  "low_onset_rate": 6.83323003431543,
+  "lufs": -8.67948762161931,
+  "rms_dbfs": -8.455617721818546,
+  "crest": 8.455617904663086,
+  "centroid": 2313.915351302648,
+  "flatness": 0.024271605536341667,
+  "sub100_share": 0.3306668698787689,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8210291862487793,
+  "clean_share": 0.05877803557617943,
+  "minor_share": 0.18821699676377124,
+  "chord_rate": 1.299980347991716,
+  "repetitiveness": 0.8487318158149719,
+  "vocal_share": 0.23833225667476654,
+  "vocal_voiced": 0.8626609442060086,
+  "song_length": 296.48
+ }
+}

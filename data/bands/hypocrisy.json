@@ -1,0 +1,127 @@
+{
+ "slug": "hypocrisy",
+ "name": "Hypocrisy",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 15788810,
+  "deezer": 3023,
+  "spotify": "73UIalJYgktSi7qQFV53Qv"
+ },
+ "metadata": {
+  "formed": 1991,
+  "split": null,
+  "country": "SE",
+  "status": "active",
+  "members": 2,
+  "past_members": 5,
+  "full_lengths": 14,
+  "genre": "Death Metal (early); Melodic Death Metal (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 69942,
+  "themes": "Satanism (early); Aliens, New World Order, Science fiction, Occultism (later)",
+  "release_year": 1998
+ },
+ "partial": false,
+ "clips": [
+  "hypocrisy/1586587725-105",
+  "hypocrisy/1587904861-105",
+  "hypocrisy/1686918708-106",
+  "hypocrisy/1450454586-107",
+  "hypocrisy/1460473504-106",
+  "hypocrisy/1460472935-106",
+  "hypocrisy/1450458521-105",
+  "hypocrisy/1460471617-105",
+  "hypocrisy/1456967667-106",
+  "hypocrisy/1833807986-106",
+  "hypocrisy/1578690121-106",
+  "hypocrisy/1586587725-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 107.85326086956522,
+   "iqr": 32.02979587088558
+  },
+  "onset_rate": {
+   "median": 1.2696685739223197,
+   "iqr": 2.205213838917713
+  },
+  "tempo_var": {
+   "median": 8.40248592008099,
+   "iqr": 19.82882874345002
+  },
+  "low_onset_rate": {
+   "median": 1.4200240629394365,
+   "iqr": 3.238415924394846
+  },
+  "lufs": {
+   "median": -9.790037269286348,
+   "iqr": 1.9083445592539974
+  },
+  "rms_dbfs": {
+   "median": -9.58170058351729,
+   "iqr": 1.793396163595098
+  },
+  "crest": {
+   "median": 9.581700325012207,
+   "iqr": 1.793395757675171
+  },
+  "centroid": {
+   "median": 2744.370738379804,
+   "iqr": 207.33309652833168
+  },
+  "flatness": {
+   "median": 0.04433126002550125,
+   "iqr": 0.0145265506580472
+  },
+  "sub100_share": {
+   "median": 0.36104679107666016,
+   "iqr": 0.11282342672348022
+  },
+  "lowest_pitch": {
+   "median": 51.141357421875,
+   "iqr": 8.074951171875
+  },
+  "harmonic_share": {
+   "median": 0.8020549714565277,
+   "iqr": 0.08197560906410217
+  },
+  "clean_share": {
+   "median": 0.006194361594958111,
+   "iqr": 0.03704422032583398
+  },
+  "minor_share": {
+   "median": -0.028774135245699328,
+   "iqr": 0.22062170431796202
+  },
+  "chord_rate": {
+   "median": 2.0047398535615577,
+   "iqr": 0.3435564637322879
+  },
+  "repetitiveness": {
+   "median": 0.9167877733707428,
+   "iqr": 0.08057287335395813
+  },
+  "vocal_share": {
+   "median": 0.090570367872715,
+   "iqr": 0.03547698725014925
+  },
+  "vocal_voiced": {
+   "median": 0.060955518945634266,
+   "iqr": 0.15448569598075365
+  },
+  "song_length": {
+   "median": 252.38,
+   "iqr": 70.08974999999998
+  },
+  "vocal_presence": {
+   "median": 0.5,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

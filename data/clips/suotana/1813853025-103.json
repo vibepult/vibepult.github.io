@@ -1,0 +1,32 @@
+{
+ "id": "suotana/1813853025-103",
+ "band": "suotana",
+ "title": "Winter Visions",
+ "source": "itunes",
+ "album": "Ounas II",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.199980650154799,
+  "tempo_var": 7.1836183015759065,
+  "low_onset_rate": 4.333307130417957,
+  "lufs": -10.550046688320954,
+  "rms_dbfs": -9.613126556667435,
+  "crest": 9.613126754760742,
+  "centroid": 2427.687897947655,
+  "flatness": 0.03983750194311142,
+  "sub100_share": 0.39563578367233276,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7032575011253357,
+  "clean_share": 0.005413766434648105,
+  "minor_share": 0.1841793797048204,
+  "chord_rate": 1.9666547745743035,
+  "repetitiveness": 0.8683270215988159,
+  "vocal_share": 6.052774779163883e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 328.633
+ }
+}

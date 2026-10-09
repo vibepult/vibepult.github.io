@@ -1,0 +1,32 @@
+{
+ "id": "versailles/444673147-105",
+ "band": "versailles",
+ "title": "Remember Forever",
+ "source": "itunes",
+ "album": "Holy Grail",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 3.240996096591185,
+  "tempo_var": 26.432976525939853,
+  "low_onset_rate": 3.207583765698492,
+  "lufs": -6.398218422606069,
+  "rms_dbfs": -6.842834296519321,
+  "crest": 6.84283447265625,
+  "centroid": 2393.8930814790187,
+  "flatness": 0.02466142363846302,
+  "sub100_share": 0.18501843512058258,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.7265063524246216,
+  "clean_share": 0.13343677269200932,
+  "minor_share": -0.2974409564921252,
+  "chord_rate": 1.0357822576734714,
+  "repetitiveness": 0.6765066385269165,
+  "vocal_share": 0.36024799942970276,
+  "vocal_voiced": 0.8202127659574469,
+  "song_length": 397.12
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "ancient/54261194-107",
+ "band": "ancient",
+ "title": "Blackeyes",
+ "source": "itunes",
+ "album": "Mad Grandiose Bloodfiends",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 5.312560611938127,
+  "tempo_var": 20.19319965351255,
+  "low_onset_rate": 6.181281215148136,
+  "lufs": -14.290580101560378,
+  "rms_dbfs": -15.886984542542065,
+  "crest": 15.886983871459961,
+  "centroid": 3372.6690840937554,
+  "flatness": 0.08851329982280731,
+  "sub100_share": 0.1287444680929184,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.5220834016799927,
+  "clean_share": 0.0,
+  "minor_share": 0.0494551774279246,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.9100172519683838,
+  "vocal_share": 0.25168272852897644,
+  "vocal_voiced": 0.024365482233502538,
+  "song_length": 441.68
+ }
+}

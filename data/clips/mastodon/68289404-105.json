@@ -1,0 +1,32 @@
+{
+ "id": "mastodon/68289404-105",
+ "band": "mastodon",
+ "title": "Ol'e Nessie",
+ "source": "itunes",
+ "album": "Remission",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.866577980680565,
+  "tempo_var": 24.580249317278433,
+  "low_onset_rate": 5.299919880273919,
+  "lufs": -10.888129541490594,
+  "rms_dbfs": -10.830094275343624,
+  "crest": 10.830093383789062,
+  "centroid": 2258.0831537682147,
+  "flatness": 0.011571351438760757,
+  "sub100_share": 0.39863744378089905,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8663341403007507,
+  "clean_share": 0.0897138437741686,
+  "minor_share": 0.020100442495885162,
+  "chord_rate": 2.2332995721908966,
+  "repetitiveness": 0.8971790075302124,
+  "vocal_share": 7.594125008836272e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 364.533
+ }
+}

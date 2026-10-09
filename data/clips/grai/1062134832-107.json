@@ -1,0 +1,32 @@
+{
+ "id": "grai/1062134832-107",
+ "band": "grai",
+ "title": "Посею горе",
+ "source": "itunes",
+ "album": "Млада",
+ "year": 2014,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.474882412840033,
+  "tempo_var": 3.4656852508129097,
+  "low_onset_rate": 3.474882412840033,
+  "lufs": -9.474034067944421,
+  "rms_dbfs": -8.604627923207646,
+  "crest": 8.60462760925293,
+  "centroid": 2108.2101425237115,
+  "flatness": 0.009910992346704006,
+  "sub100_share": 0.39986178278923035,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8900153040885925,
+  "clean_share": 0.4437548487199379,
+  "minor_share": -0.19257677671301565,
+  "chord_rate": 0.8353082723173156,
+  "repetitiveness": 0.6914039254188538,
+  "vocal_share": 0.2566540837287903,
+  "vocal_voiced": 0.9779951100244498,
+  "song_length": 283.719
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "xandria/1175814658-106",
+ "band": "xandria",
+ "title": "Dark Night of the Soul",
+ "source": "itunes",
+ "album": "Theater of Dimensions",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 3.533333333333333,
+  "tempo_var": 31.196934229541593,
+  "low_onset_rate": 7.3,
+  "lufs": -15.35563079660655,
+  "rms_dbfs": -16.456158771512087,
+  "crest": 16.270763397216797,
+  "centroid": 2221.980781336292,
+  "flatness": 0.01049324031919241,
+  "sub100_share": 0.010249366983771324,
+  "lowest_pitch": 104.974365234375,
+  "harmonic_share": 0.9005979299545288,
+  "clean_share": 0.6578947368421053,
+  "minor_share": 0.15330337023650936,
+  "chord_rate": 1.3,
+  "repetitiveness": 0.582115113735199,
+  "vocal_share": 0.8753662705421448,
+  "vocal_voiced": 0.9089316987740805,
+  "song_length": 321.174
+ }
+}

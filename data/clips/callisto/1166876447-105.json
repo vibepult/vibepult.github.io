@@ -1,0 +1,32 @@
+{
+ "id": "callisto/1166876447-105",
+ "band": "callisto",
+ "title": "Storm",
+ "source": "itunes",
+ "album": "True Nature Unfolds",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.240996096591185,
+  "tempo_var": 5.1574700240016025,
+  "low_onset_rate": 6.515404524075062,
+  "lufs": -12.225508768402339,
+  "rms_dbfs": -11.350371384563221,
+  "crest": 11.350370407104492,
+  "centroid": 1710.4231822787401,
+  "flatness": 0.00917503796517849,
+  "sub100_share": 0.33518603444099426,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8104547262191772,
+  "clean_share": 0.4499612102404965,
+  "minor_share": -0.12635541592596322,
+  "chord_rate": 0.7016589487465451,
+  "repetitiveness": 0.8325388431549072,
+  "vocal_share": 7.921061637716775e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 554.787
+ }
+}

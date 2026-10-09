@@ -1,0 +1,32 @@
+{
+ "id": "threshold/1458639525-105",
+ "band": "threshold",
+ "title": "Lost in Your Memory",
+ "source": "itunes",
+ "album": "For the Journey",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 2.205213838917713,
+  "tempo_var": 27.2898188621184,
+  "low_onset_rate": 2.8734604567715656,
+  "lufs": -12.125294647007388,
+  "rms_dbfs": -11.587467781741989,
+  "crest": 11.587468147277832,
+  "centroid": 1884.5249145362072,
+  "flatness": 0.008608268573880196,
+  "sub100_share": 0.32622089982032776,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.9093450903892517,
+  "clean_share": 0.5143522110162917,
+  "minor_share": 0.05270029697594569,
+  "chord_rate": 1.336493235707705,
+  "repetitiveness": 0.7232977151870728,
+  "vocal_share": 6.368987897076295e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 276.0
+ }
+}

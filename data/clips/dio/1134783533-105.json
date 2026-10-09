@@ -1,0 +1,32 @@
+{
+ "id": "dio/1134783533-105",
+ "band": "dio",
+ "title": "Night Music",
+ "source": "itunes",
+ "album": "Lock Up the Wolves (Remastered)",
+ "year": 1990,
+ "itunes_year": 1990,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 2.9323536656687637,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.731752505965505,
+  "lufs": -9.649292367581781,
+  "rms_dbfs": -9.248362934195752,
+  "crest": 9.24836254119873,
+  "centroid": 2465.5547550128144,
+  "flatness": 0.026786893606185913,
+  "sub100_share": 0.2207873910665512,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7343998551368713,
+  "clean_share": 0.09822119102861562,
+  "minor_share": 0.17945225863641467,
+  "chord_rate": 1.8660432417892132,
+  "repetitiveness": 0.7526912093162537,
+  "vocal_share": 0.1807718276977539,
+  "vocal_voiced": 0.8645598194130926,
+  "song_length": 308.147
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "bleed-from-within/1336131286-108",
+ "band": "bleed-from-within",
+ "title": "Alone in the Sun",
+ "source": "itunes",
+ "album": "Era",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 6.229387583677156,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 6.962256711168587,
+  "lufs": -6.961975207991089,
+  "rms_dbfs": -6.342819005071098,
+  "crest": 6.342818737030029,
+  "centroid": 2493.32044965089,
+  "flatness": 0.041211847215890884,
+  "sub100_share": 0.3597707450389862,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.6962023973464966,
+  "clean_share": 0.020108275328692964,
+  "minor_share": 0.06977930760226958,
+  "chord_rate": 1.9321095179319523,
+  "repetitiveness": 0.9278508424758911,
+  "vocal_share": 0.21734486520290375,
+  "vocal_voiced": 0.0334841628959276,
+  "song_length": 256.213
+ }
+}

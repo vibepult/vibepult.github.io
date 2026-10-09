@@ -1,0 +1,32 @@
+{
+ "id": "l-homme-absurde/1837460225-101",
+ "band": "l-homme-absurde",
+ "title": "Lost",
+ "source": "itunes",
+ "album": "Flicker in the Rearview",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 1.7999891157120742,
+  "tempo_var": 21.170156655449244,
+  "low_onset_rate": 2.199986696981424,
+  "lufs": -12.499286324343123,
+  "rms_dbfs": -10.965153337841604,
+  "crest": 10.965152740478516,
+  "centroid": 2468.3942403288906,
+  "flatness": 0.019726397469639778,
+  "sub100_share": 0.5541319847106934,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.6976065635681152,
+  "clean_share": 0.17014694508894046,
+  "minor_share": 0.19417842323654078,
+  "chord_rate": 1.3999915344427245,
+  "repetitiveness": 0.6650587320327759,
+  "vocal_share": 3.23075227015579e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 391.28
+ }
+}

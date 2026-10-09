@@ -1,0 +1,32 @@
+{
+ "id": "voyager/1446371711-106",
+ "band": "voyager",
+ "title": "This Bitter Land",
+ "source": "itunes",
+ "album": "Element V",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.7755933908742665,
+  "tempo_var": 14.655355184955818,
+  "low_onset_rate": 2.7398111332007953,
+  "lufs": -10.829958439057043,
+  "rms_dbfs": -10.01995061542264,
+  "crest": 10.019950866699219,
+  "centroid": 2503.0681379422695,
+  "flatness": 0.024689650163054466,
+  "sub100_share": 0.39350223541259766,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.8406266570091248,
+  "clean_share": 0.023273855702094646,
+  "minor_share": -0.1170083080887756,
+  "chord_rate": 0.9689575958880862,
+  "repetitiveness": 0.6247352957725525,
+  "vocal_share": 0.13082772493362427,
+  "vocal_voiced": 0.344180225281602,
+  "song_length": 286.187
+ }
+}

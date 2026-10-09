@@ -1,0 +1,32 @@
+{
+ "id": "anata/163531383-106",
+ "band": "anata",
+ "title": "I Would Dream of Blood",
+ "source": "itunes",
+ "album": "The Conductor's Departure",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 198.76802884615384,
+  "onset_rate": 4.076304368908501,
+  "tempo_var": 21.982771598054047,
+  "low_onset_rate": 5.112086626581972,
+  "lufs": -9.912072480606096,
+  "rms_dbfs": -9.824660209099692,
+  "crest": 9.82465934753418,
+  "centroid": 2768.150366368458,
+  "flatness": 0.0350012369453907,
+  "sub100_share": 0.3088456690311432,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8144276142120361,
+  "clean_share": 0.04499612102404965,
+  "minor_share": -0.2701675375601121,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.7336582541465759,
+  "vocal_share": 9.649484127294272e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 329.947
+ }
+}

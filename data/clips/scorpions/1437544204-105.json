@@ -1,0 +1,32 @@
+{
+ "id": "scorpions/1437544204-105",
+ "band": "scorpions",
+ "title": "The Sails of Charon (2015 Remaster)",
+ "source": "itunes",
+ "album": "Taken by Force",
+ "year": 1977,
+ "itunes_year": 1977,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.165860574219955,
+  "tempo_var": 2.2928200310381994,
+  "low_onset_rate": 5.332301535001542,
+  "lufs": -7.541490309853921,
+  "rms_dbfs": -7.443732503946756,
+  "crest": 7.443732261657715,
+  "centroid": 2623.506275409901,
+  "flatness": 0.0303543359041214,
+  "sub100_share": 0.1754961907863617,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7248421907424927,
+  "clean_share": 0.04795050270688322,
+  "minor_share": 0.12520820281118294,
+  "chord_rate": 2.7994583058758096,
+  "repetitiveness": 0.8486960530281067,
+  "vocal_share": 0.09219818562269211,
+  "vocal_voiced": 0.8010610079575596,
+  "song_length": 311.867
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "gamma-ray/1733325981-105",
+ "band": "gamma-ray",
+ "title": "Master of Confusion",
+ "source": "itunes",
+ "album": "Empire of the Undead",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.2,
+  "tempo_var": 11.717599221022715,
+  "low_onset_rate": 6.333333333333333,
+  "lufs": -7.587159823629311,
+  "rms_dbfs": -7.153851061620658,
+  "crest": 7.153850555419922,
+  "centroid": 2692.9610528907388,
+  "flatness": 0.040410611778497696,
+  "sub100_share": 0.27152061462402344,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.6861962080001831,
+  "clean_share": 0.005417956656346749,
+  "minor_share": 0.11338822414848126,
+  "chord_rate": 1.6666666666666667,
+  "repetitiveness": 0.8445867896080017,
+  "vocal_share": 0.22455495595932007,
+  "vocal_voiced": 0.7945736434108527,
+  "song_length": 294.493
+ }
+}

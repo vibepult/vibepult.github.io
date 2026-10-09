@@ -1,0 +1,32 @@
+{
+ "id": "burning-inside/35962342-104",
+ "band": "burning-inside",
+ "title": "The Unknown",
+ "source": "itunes",
+ "album": "The Eve of the Entities",
+ "year": 1999,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 198.76802884615384,
+  "onset_rate": 6.548816854967755,
+  "tempo_var": 9.678121032893275,
+  "low_onset_rate": 5.813745575328517,
+  "lufs": -9.585392911998923,
+  "rms_dbfs": -9.375377098628334,
+  "crest": 9.37537670135498,
+  "centroid": 2790.878896248686,
+  "flatness": 0.041259102523326874,
+  "sub100_share": 0.2069932371377945,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.611095666885376,
+  "clean_share": 0.015515903801396431,
+  "minor_share": -0.034971036017816315,
+  "chord_rate": 2.9068727876642586,
+  "repetitiveness": 0.8844820857048035,
+  "vocal_share": 0.04075919836759567,
+  "vocal_voiced": 0.1864406779661017,
+  "song_length": 327.173
+ }
+}

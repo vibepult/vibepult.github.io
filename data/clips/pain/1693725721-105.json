@@ -1,0 +1,32 @@
+{
+ "id": "pain/1693725721-105",
+ "band": "pain",
+ "title": "Injected Paradise",
+ "source": "itunes",
+ "album": "Nothing Remains The Same",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 4.933303502321982,
+  "tempo_var": 23.222180724884915,
+  "low_onset_rate": 3.699977626741486,
+  "lufs": -15.994770887123602,
+  "rms_dbfs": -14.978142258602317,
+  "crest": 14.978142738342285,
+  "centroid": 1544.0385187973375,
+  "flatness": 0.017451617866754532,
+  "sub100_share": 0.26927706599235535,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7922297120094299,
+  "clean_share": 0.7177107501933488,
+  "minor_share": 0.009460711373267539,
+  "chord_rate": 1.099993348490712,
+  "repetitiveness": 0.9447838068008423,
+  "vocal_share": 0.04919489473104477,
+  "vocal_voiced": 0.9409722222222222,
+  "song_length": 310.293
+ }
+}

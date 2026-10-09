@@ -1,0 +1,32 @@
+{
+ "id": "kaunis-kuolematon/1841595461-104",
+ "band": "kaunis-kuolematon",
+ "title": "Rauniot",
+ "source": "itunes",
+ "album": "Kun Valo Minussa Kuoli",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.7999080899025874,
+  "tempo_var": 19.336400435838456,
+  "low_onset_rate": 9.133112426607973,
+  "lufs": -9.179955859624343,
+  "rms_dbfs": -8.183691660887028,
+  "crest": 8.183691024780273,
+  "centroid": 2429.5376579618965,
+  "flatness": 0.03270299732685089,
+  "sub100_share": 0.45607855916023254,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7628093361854553,
+  "clean_share": 0.002320185614849188,
+  "minor_share": -0.1498319251418952,
+  "chord_rate": 1.4999637196983897,
+  "repetitiveness": 0.9143416881561279,
+  "vocal_share": 0.11559147387742996,
+  "vocal_voiced": 0.04430379746835443,
+  "song_length": 365.533
+ }
+}

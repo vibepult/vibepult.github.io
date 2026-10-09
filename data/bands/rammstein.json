@@ -1,0 +1,127 @@
+{
+ "slug": "rammstein",
+ "name": "Rammstein",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 408932,
+  "deezer": 464,
+  "spotify": "6wWVKhxIU2cEi0K81v7HvP"
+ },
+ "metadata": {
+  "formed": 1994,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 6,
+  "past_members": 0,
+  "full_lengths": 8,
+  "genre": "Industrial Metal, Neue Deutsche Härte",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 2728354,
+  "themes": "Sex, Violence, Taboo, Irony",
+  "release_year": 2002
+ },
+ "partial": false,
+ "clips": [
+  "rammstein/1532029367-106",
+  "rammstein/1390562159-106",
+  "rammstein/1440770702-106",
+  "rammstein/1440734479-106",
+  "rammstein/1440785589-106",
+  "rammstein/1440735807-106",
+  "rammstein/1456789831-106",
+  "rammstein/1612051984-106",
+  "rammstein/1532029367-105",
+  "rammstein/1390562159-105",
+  "rammstein/1440770702-105",
+  "rammstein/1440734479-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 16.398819633152172
+  },
+  "onset_rate": {
+   "median": 3.7982972370496415,
+   "iqr": 1.3763580954434556
+  },
+  "tempo_var": {
+   "median": 2.749488763035722,
+   "iqr": 12.957269980783579
+  },
+  "low_onset_rate": {
+   "median": 4.232311394697785,
+   "iqr": 1.7597808996904485
+  },
+  "lufs": {
+   "median": -9.924033256570993,
+   "iqr": 2.964310829229845
+  },
+  "rms_dbfs": {
+   "median": -10.123081475474956,
+   "iqr": 3.3816785782378442
+  },
+  "crest": {
+   "median": 10.123082160949707,
+   "iqr": 3.381678819656372
+  },
+  "centroid": {
+   "median": 2387.0858940682915,
+   "iqr": 612.2006867532205
+  },
+  "flatness": {
+   "median": 0.025954630225896835,
+   "iqr": 0.019700984470546246
+  },
+  "sub100_share": {
+   "median": 0.36609072983264923,
+   "iqr": 0.15255546942353249
+  },
+  "lowest_pitch": {
+   "median": 67.291259765625,
+   "iqr": 26.91650390625
+  },
+  "harmonic_share": {
+   "median": 0.7065461575984955,
+   "iqr": 0.12754105031490326
+  },
+  "clean_share": {
+   "median": 0.17130703789636503,
+   "iqr": 0.2828692962103635
+  },
+  "minor_share": {
+   "median": 0.04832790216798116,
+   "iqr": 0.1400632421130228
+  },
+  "chord_rate": {
+   "median": 1.5160987940369348,
+   "iqr": 0.8994721961662824
+  },
+  "repetitiveness": {
+   "median": 0.815450131893158,
+   "iqr": 0.20607224106788635
+  },
+  "vocal_share": {
+   "median": 0.1815924569964409,
+   "iqr": 0.07917502149939537
+  },
+  "vocal_voiced": {
+   "median": 0.5905988892641791,
+   "iqr": 0.41222449648858933
+  },
+  "song_length": {
+   "median": 254.3935,
+   "iqr": 44.14999999999998
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.8,
+  "camp": 0.8
+ },
+ "sources_failed": []
+}

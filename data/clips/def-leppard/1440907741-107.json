@@ -1,0 +1,32 @@
+{
+ "id": "def-leppard/1440907741-107",
+ "band": "def-leppard",
+ "title": "It's Only Love",
+ "source": "itunes",
+ "album": "Euphoria",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.233269338331998,
+  "tempo_var": 10.391014911606815,
+  "low_onset_rate": 3.866608214539463,
+  "lufs": -9.933384509906192,
+  "rms_dbfs": -9.414978820213634,
+  "crest": 9.414978981018066,
+  "centroid": 2462.8681619299473,
+  "flatness": 0.029231660068035126,
+  "sub100_share": 0.2218102067708969,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7472941279411316,
+  "clean_share": 0.0634184068058778,
+  "minor_share": -0.2984303230227533,
+  "chord_rate": 1.4666444951701412,
+  "repetitiveness": 0.7001098394393921,
+  "vocal_share": 0.3732118606567383,
+  "vocal_voiced": 0.7619909502262443,
+  "song_length": 246.255
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "burzum/290345171-103",
+ "band": "burzum",
+ "title": "Balferd Baldrs",
+ "source": "itunes",
+ "album": "Daudi Baldrs",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 1.6706165446346313,
+  "tempo_var": 7.813944938013924,
+  "low_onset_rate": 4.84478797944043,
+  "lufs": -16.038498390684573,
+  "rms_dbfs": -15.536294911272355,
+  "crest": 15.450519561767578,
+  "centroid": 1384.9441644110273,
+  "flatness": 0.0007002686616033316,
+  "sub100_share": 0.031562600284814835,
+  "lowest_pitch": 115.740966796875,
+  "harmonic_share": 0.9590795636177063,
+  "clean_share": 0.9992242048099301,
+  "minor_share": -0.14686307472213567,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.7725780010223389,
+  "vocal_share": 0.0005981932627037168,
+  "vocal_voiced": 0.0,
+  "song_length": 365.333
+ }
+}

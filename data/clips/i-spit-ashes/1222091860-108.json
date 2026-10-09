@@ -1,0 +1,32 @@
+{
+ "id": "i-spit-ashes/1222091860-108",
+ "band": "i-spit-ashes",
+ "title": "Towards the Sun",
+ "source": "itunes",
+ "album": "Inhaling Blackness...Reflecting Light",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.840048125878873,
+  "tempo_var": 2.2181179629841115,
+  "low_onset_rate": 0.5011849633903894,
+  "lufs": -14.90067161565021,
+  "rms_dbfs": -13.66352690946937,
+  "crest": 13.66352653503418,
+  "centroid": 1712.2775234570308,
+  "flatness": 0.015693599358201027,
+  "sub100_share": 0.501573920249939,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.862399697303772,
+  "clean_share": 0.552366175329713,
+  "minor_share": 0.005921360998518477,
+  "chord_rate": 0.7350712796392378,
+  "repetitiveness": 0.9183883666992188,
+  "vocal_share": 2.66044889940531e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 282.987
+ }
+}

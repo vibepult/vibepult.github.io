@@ -1,0 +1,32 @@
+{
+ "id": "def-leppard/1671076722-107",
+ "band": "def-leppard",
+ "title": "Energized",
+ "source": "itunes",
+ "album": "Def Leppard",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 2.499962207676377,
+  "tempo_var": 40.626887615804236,
+  "low_onset_rate": 3.2332844552614475,
+  "lufs": -10.667745282088203,
+  "rms_dbfs": -8.834132789053648,
+  "crest": 8.83413314819336,
+  "centroid": 2290.2212327899488,
+  "flatness": 0.024593789130449295,
+  "sub100_share": 0.5651645064353943,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.9046230316162109,
+  "clean_share": 0.20649651972157773,
+  "minor_share": -0.07264136137447563,
+  "chord_rate": 1.1666490302489758,
+  "repetitiveness": 0.7040669918060303,
+  "vocal_share": 0.11798110604286194,
+  "vocal_voiced": 0.3921747042766151,
+  "song_length": 202.968
+ }
+}

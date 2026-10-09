@@ -1,0 +1,32 @@
+{
+ "id": "queensryche/1451850207-105",
+ "band": "queensryche",
+ "title": "The Great Divide",
+ "source": "itunes",
+ "album": "Tribe",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.533333333333333,
+  "tempo_var": 11.298815132688626,
+  "low_onset_rate": 3.6,
+  "lufs": -10.960790340294093,
+  "rms_dbfs": -9.584427326032463,
+  "crest": 9.584426879882812,
+  "centroid": 1937.9668698285925,
+  "flatness": 0.010961417108774185,
+  "sub100_share": 0.4087909162044525,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7810783982276917,
+  "clean_share": 0.5936532507739938,
+  "minor_share": -0.02045581551394743,
+  "chord_rate": 1.5,
+  "repetitiveness": 0.7056793570518494,
+  "vocal_share": 0.3034957945346832,
+  "vocal_voiced": 0.8196872125114996,
+  "song_length": 241.667
+ }
+}

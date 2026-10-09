@@ -1,0 +1,32 @@
+{
+ "id": "in-flames/1497720092-105",
+ "band": "in-flames",
+ "title": "Everlost, Pt. 1",
+ "source": "itunes",
+ "album": "Lunar Strain",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 0.6666626354489164,
+  "tempo_var": 8.739834259718712,
+  "low_onset_rate": 2.033321038119195,
+  "lufs": -13.54450701646982,
+  "rms_dbfs": -13.920864964745627,
+  "crest": 13.920865058898926,
+  "centroid": 2959.949228133887,
+  "flatness": 0.038510750979185104,
+  "sub100_share": 0.2589128315448761,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8593122959136963,
+  "clean_share": 0.009280742459396751,
+  "minor_share": 0.09600602949698356,
+  "chord_rate": 1.7666559839396285,
+  "repetitiveness": 0.785240650177002,
+  "vocal_share": 9.335716981695441e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 256.36
+ }
+}

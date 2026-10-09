@@ -1,0 +1,127 @@
+{
+ "slug": "edenbridge",
+ "name": "Edenbridge",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 125552515,
+  "deezer": 1955,
+  "spotify": "4kRllkt5ryNVBqFinVjBQZ"
+ },
+ "metadata": {
+  "formed": 1998,
+  "split": null,
+  "country": "AT",
+  "status": "active",
+  "members": 5,
+  "past_members": 12,
+  "full_lengths": 12,
+  "genre": "Symphonic Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 11238,
+  "themes": "Fantasy, Nature, Love",
+  "release_year": 2005
+ },
+ "partial": false,
+ "clips": [
+  "edenbridge/1710349896-109",
+  "edenbridge/1708331466-107",
+  "edenbridge/1708291061-106",
+  "edenbridge/1708329490-111",
+  "edenbridge/1345878109-105",
+  "edenbridge/1184126193-106",
+  "edenbridge/1183980108-106",
+  "edenbridge/1708137865-105",
+  "edenbridge/1348627114-105",
+  "edenbridge/1475229532-105",
+  "edenbridge/1710349896-201",
+  "edenbridge/1708331466-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.90049098320159,
+   "iqr": 23.66286057692308
+  },
+  "onset_rate": {
+   "median": 4.399966490806387,
+   "iqr": 1.558367598373418
+  },
+  "tempo_var": {
+   "median": 4.117307646257945,
+   "iqr": 9.074989820051496
+  },
+  "low_onset_rate": {
+   "median": 4.766630889933637,
+   "iqr": 2.2632824809575127
+  },
+  "lufs": {
+   "median": -11.03859144238306,
+   "iqr": 2.4425168840686844
+  },
+  "rms_dbfs": {
+   "median": -10.246658128341647,
+   "iqr": 2.4812043422397867
+  },
+  "crest": {
+   "median": 10.246658325195312,
+   "iqr": 2.4812045097351074
+  },
+  "centroid": {
+   "median": 2284.351966710475,
+   "iqr": 315.9399331520385
+  },
+  "flatness": {
+   "median": 0.015187805518507957,
+   "iqr": 0.012944457004778087
+  },
+  "sub100_share": {
+   "median": 0.26597946882247925,
+   "iqr": 0.1621026173233986
+  },
+  "lowest_pitch": {
+   "median": 67.291259765625,
+   "iqr": 20.1873779296875
+  },
+  "harmonic_share": {
+   "median": 0.8808006346225739,
+   "iqr": 0.09631943702697754
+  },
+  "clean_share": {
+   "median": 0.19573004436846175,
+   "iqr": 0.4054830687449118
+  },
+  "minor_share": {
+   "median": 0.026681839023795145,
+   "iqr": 0.15695765466560524
+  },
+  "chord_rate": {
+   "median": 1.084588979971885,
+   "iqr": 0.33161349874991164
+  },
+  "repetitiveness": {
+   "median": 0.7784558832645416,
+   "iqr": 0.08103719353675842
+  },
+  "vocal_share": {
+   "median": 0.1979426145553589,
+   "iqr": 0.047054681926965714
+  },
+  "vocal_voiced": {
+   "median": 0.9267028011026848,
+   "iqr": 0.06986575048447008
+  },
+  "song_length": {
+   "median": 298.296,
+   "iqr": 92.64825000000002
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

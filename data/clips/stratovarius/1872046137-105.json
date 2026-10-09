@@ -1,0 +1,32 @@
+{
+ "id": "stratovarius/1872046137-105",
+ "band": "stratovarius",
+ "title": "Stratovarius",
+ "source": "itunes",
+ "album": "Fourth Dimension",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 2.8333162006578947,
+  "tempo_var": 24.312580744384093,
+  "low_onset_rate": 2.266652960526316,
+  "lufs": -12.695365027119191,
+  "rms_dbfs": -12.121687634037087,
+  "crest": 12.121686935424805,
+  "centroid": 2492.880038798772,
+  "flatness": 0.02742583490908146,
+  "sub100_share": 0.22369793057441711,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7646591663360596,
+  "clean_share": 0.13225058004640372,
+  "minor_share": -0.12335020005421904,
+  "chord_rate": 0.8333282943111455,
+  "repetitiveness": 0.8990108370780945,
+  "vocal_share": 6.606978786294349e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 382.36
+ }
+}

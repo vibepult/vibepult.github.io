@@ -1,0 +1,32 @@
+{
+ "id": "baron-rojo/911207029-104",
+ "band": "baron-rojo",
+ "title": "¿Qué Puedo Hacer?",
+ "source": "itunes",
+ "album": "Metalmorfosis",
+ "year": 1983,
+ "itunes_year": 1983,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 5.39658175698235,
+  "tempo_var": 13.317195013222731,
+  "low_onset_rate": 5.796328553795857,
+  "lufs": -11.734200826431515,
+  "rms_dbfs": -11.426823513831266,
+  "crest": 11.426822662353516,
+  "centroid": 1972.485774031403,
+  "flatness": 0.01581670343875885,
+  "sub100_share": 0.14545635879039764,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.6955544352531433,
+  "clean_share": 0.13534416086620263,
+  "minor_share": 0.13790702192882975,
+  "chord_rate": 1.8321728187285755,
+  "repetitiveness": 0.8598096966743469,
+  "vocal_share": 0.22891223430633545,
+  "vocal_voiced": 0.6868867082961642,
+  "song_length": 269.0
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "alvenrad/1555270377-104",
+ "band": "alvenrad",
+ "title": "De Zonne-Ever",
+ "source": "itunes",
+ "album": "Heer",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 6.48199219318237,
+  "tempo_var": 18.94596189551595,
+  "low_onset_rate": 7.183651141928914,
+  "lufs": -9.83613663817386,
+  "rms_dbfs": -8.814910705755132,
+  "crest": 8.814910888671875,
+  "centroid": 2385.470841877237,
+  "flatness": 0.021292846649885178,
+  "sub100_share": 0.3707595467567444,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7745475172996521,
+  "clean_share": 0.09309542280837858,
+  "minor_share": 0.08214323262471285,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.9115437269210815,
+  "vocal_share": 0.13342945277690887,
+  "vocal_voiced": 0.8197474167623421,
+  "song_length": 325.72
+ }
+}

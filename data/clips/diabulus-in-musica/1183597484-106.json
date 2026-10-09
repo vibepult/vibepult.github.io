@@ -1,0 +1,32 @@
+{
+ "id": "diabulus-in-musica/1183597484-106",
+ "band": "diabulus-in-musica",
+ "title": "Hidden Reality",
+ "source": "itunes",
+ "album": "The Wanderer",
+ "year": 2012,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.8,
+  "tempo_var": 34.385943625665526,
+  "low_onset_rate": 6.433333333333334,
+  "lufs": -10.157455669957821,
+  "rms_dbfs": -8.966973227963324,
+  "crest": 8.966973304748535,
+  "centroid": 2522.0484826089582,
+  "flatness": 0.023739511147141457,
+  "sub100_share": 0.4849216341972351,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8710079789161682,
+  "clean_share": 0.08591331269349846,
+  "minor_share": 0.23928912786775836,
+  "chord_rate": 1.8,
+  "repetitiveness": 0.8303728699684143,
+  "vocal_share": 0.21582917869091034,
+  "vocal_voiced": 0.8140382862351869,
+  "song_length": 283.387
+ }
+}

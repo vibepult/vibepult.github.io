@@ -1,0 +1,32 @@
+{
+ "id": "trust/1480410296-107",
+ "band": "trust",
+ "title": "Le soleil brille pour tous",
+ "source": "itunes",
+ "album": "Fils de lutte",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.174171434805799,
+  "tempo_var": 15.73600595577503,
+  "low_onset_rate": 3.8758303835523447,
+  "lufs": -12.055780254188551,
+  "rms_dbfs": -11.041927957779569,
+  "crest": 11.0419282913208,
+  "centroid": 2063.6114633115358,
+  "flatness": 0.014766559936106205,
+  "sub100_share": 0.4315683841705322,
+  "lowest_pitch": 137.274169921875,
+  "harmonic_share": 0.7440217733383179,
+  "clean_share": 0.4569433669511249,
+  "minor_share": -0.11961365043628625,
+  "chord_rate": 2.338863162488484,
+  "repetitiveness": 0.7669484615325928,
+  "vocal_share": 7.065814884299471e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 205.907
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "hanzel-und-gretyl",
+ "name": "Hanzel und Gretyl",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 56766498,
+  "deezer": 3116,
+  "spotify": "0cMQ1u5neB0RWhQiSCXjdH"
+ },
+ "metadata": {
+  "formed": 1993,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 2,
+  "past_members": 0,
+  "full_lengths": 9,
+  "genre": "Industrial Rock, Industrial/Groove Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 4978,
+  "themes": "Humour, Third Reich, Space, Science fiction (early); Witchcraft, Occultism (later)",
+  "release_year": 2010
+ },
+ "partial": false,
+ "clips": [
+  "hanzel-und-gretyl/414254268-106",
+  "hanzel-und-gretyl/414442854-106",
+  "hanzel-und-gretyl/414274208-106",
+  "hanzel-und-gretyl/564904424-106",
+  "hanzel-und-gretyl/929883765-106",
+  "hanzel-und-gretyl/1391439792-106",
+  "hanzel-und-gretyl/1484437494-106",
+  "hanzel-und-gretyl/414254268-107",
+  "hanzel-und-gretyl/414442854-105",
+  "hanzel-und-gretyl/414274208-107",
+  "hanzel-und-gretyl/564904424-105",
+  "hanzel-und-gretyl/929883765-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.52302631578948,
+   "iqr": 36.96533203125
+  },
+  "onset_rate": {
+   "median": 3.859124218105998,
+   "iqr": 1.3114339875381855
+  },
+  "tempo_var": {
+   "median": 14.045419771344285,
+   "iqr": 14.16460409899168
+  },
+  "low_onset_rate": {
+   "median": 4.343603016050041,
+   "iqr": 3.0238159457886833
+  },
+  "lufs": {
+   "median": -8.326967214147484,
+   "iqr": 1.272021326073145
+  },
+  "rms_dbfs": {
+   "median": -7.689521383304993,
+   "iqr": 1.8560510576444944
+  },
+  "crest": {
+   "median": 7.689521312713623,
+   "iqr": 1.8560513257980347
+  },
+  "centroid": {
+   "median": 2826.9639776984204,
+   "iqr": 298.4024818218536
+  },
+  "flatness": {
+   "median": 0.05759317800402641,
+   "iqr": 0.03410532232373953
+  },
+  "sub100_share": {
+   "median": 0.33266277611255646,
+   "iqr": 0.14266522973775864
+  },
+  "lowest_pitch": {
+   "median": 39.0289306640625,
+   "iqr": 13.458251953125
+  },
+  "harmonic_share": {
+   "median": 0.6854437589645386,
+   "iqr": 0.15526126325130463
+  },
+  "clean_share": {
+   "median": 0.0007757951900698216,
+   "iqr": 0.03277734678044996
+  },
+  "minor_share": {
+   "median": 0.062133337922012755,
+   "iqr": 0.14655733674959803
+  },
+  "chord_rate": {
+   "median": 1.6706165446346313,
+   "iqr": 0.8269551895941425
+  },
+  "repetitiveness": {
+   "median": 0.9170353710651398,
+   "iqr": 0.05209752917289734
+  },
+  "vocal_share": {
+   "median": 0.15716347098350525,
+   "iqr": 0.15687402337789536
+  },
+  "vocal_voiced": {
+   "median": 0.23641559272715706,
+   "iqr": 0.18502376473635807
+  },
+  "song_length": {
+   "median": 202.142,
+   "iqr": 37.212500000000006
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.8,
+  "camp": 0.9
+ },
+ "sources_failed": []
+}

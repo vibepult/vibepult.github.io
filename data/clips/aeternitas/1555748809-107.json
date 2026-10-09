@@ -1,0 +1,32 @@
+{
+ "id": "aeternitas/1555748809-107",
+ "band": "aeternitas",
+ "title": "Rex Tremendae",
+ "source": "itunes",
+ "album": "Requiem",
+ "year": 2000,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 7.250475803714299,
+  "tempo_var": 9.454404631497097,
+  "low_onset_rate": 4.310190685157349,
+  "lufs": -10.406902023521678,
+  "rms_dbfs": -9.576871426577219,
+  "crest": 9.576871871948242,
+  "centroid": 3030.4889273839285,
+  "flatness": 0.05019337683916092,
+  "sub100_share": 0.4011539816856384,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.8409013748168945,
+  "clean_share": 0.005430566330488751,
+  "minor_share": -0.09789670697379932,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.8586846590042114,
+  "vocal_share": 0.16710452735424042,
+  "vocal_voiced": 0.4956521739130435,
+  "song_length": 179.347
+ }
+}

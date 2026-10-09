@@ -1,0 +1,32 @@
+{
+ "id": "violet-cold/1712109963-105",
+ "band": "violet-cold",
+ "title": "Calliope",
+ "source": "itunes",
+ "album": "Multiverse",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 4.333267826639053,
+  "tempo_var": 1.4846424721093465,
+  "low_onset_rate": 4.933258756481384,
+  "lufs": -7.451091712227245,
+  "rms_dbfs": -7.154120636803149,
+  "crest": 7.154120922088623,
+  "centroid": 2167.376472691603,
+  "flatness": 0.02288944646716118,
+  "sub100_share": 0.29530689120292664,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7628895044326782,
+  "clean_share": 0.0,
+  "minor_share": 0.2612150119410406,
+  "chord_rate": 1.0333177125062358,
+  "repetitiveness": 0.6809868812561035,
+  "vocal_share": 0.01851266622543335,
+  "vocal_voiced": 0.16470588235294117,
+  "song_length": 281.724
+ }
+}

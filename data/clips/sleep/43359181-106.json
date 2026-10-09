@@ -1,0 +1,32 @@
+{
+ "id": "sleep/43359181-106",
+ "band": "sleep",
+ "title": "Holy Mountain",
+ "source": "itunes",
+ "album": "Sleep's Holy Mountain",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.966666666666667,
+  "tempo_var": 23.429825720806747,
+  "low_onset_rate": 4.6,
+  "lufs": -13.821947516746041,
+  "rms_dbfs": -13.268520911194205,
+  "crest": 13.26852035522461,
+  "centroid": 2179.629542345147,
+  "flatness": 0.017848385497927666,
+  "sub100_share": 0.08952870965003967,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7515283226966858,
+  "clean_share": 0.02631578947368421,
+  "minor_share": -0.08927141010848993,
+  "chord_rate": 0.3,
+  "repetitiveness": 0.9303296804428101,
+  "vocal_share": 0.14144425094127655,
+  "vocal_voiced": 0.7963800904977375,
+  "song_length": 524.293
+ }
+}

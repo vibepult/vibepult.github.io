@@ -1,0 +1,32 @@
+{
+ "id": "ancient/1410429638-106",
+ "band": "ancient",
+ "title": "Paa Evig Vandring",
+ "source": "itunes",
+ "album": "Svartalvheim",
+ "year": 1994,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.7755933908742665,
+  "tempo_var": 7.728094606128749,
+  "low_onset_rate": 3.1407591039131066,
+  "lufs": -14.51173400827367,
+  "rms_dbfs": -13.665937901343852,
+  "crest": 13.665938377380371,
+  "centroid": 2417.8442746173687,
+  "flatness": 0.0302536990493536,
+  "sub100_share": 0.3328000605106354,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7900188565254211,
+  "clean_share": 0.037238169123351435,
+  "minor_share": 0.06972291385701146,
+  "chord_rate": 1.1026069194588566,
+  "repetitiveness": 0.6723703145980835,
+  "vocal_share": 0.06188926473259926,
+  "vocal_voiced": 0.3621951219512195,
+  "song_length": 555.68
+ }
+}

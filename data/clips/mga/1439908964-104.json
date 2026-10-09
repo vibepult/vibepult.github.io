@@ -1,0 +1,32 @@
+{
+ "id": "mga/1439908964-104",
+ "band": "mga",
+ "title": "With Hearts Toward None IV",
+ "source": "itunes",
+ "album": "With Hearts Toward None",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 6.3,
+  "tempo_var": 10.8361293836675,
+  "low_onset_rate": 6.833333333333333,
+  "lufs": -7.551600497388377,
+  "rms_dbfs": -7.622800158602344,
+  "crest": 7.622799873352051,
+  "centroid": 2501.4080253044235,
+  "flatness": 0.040978919714689255,
+  "sub100_share": 0.249704971909523,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7563262581825256,
+  "clean_share": 0.0015479876160990713,
+  "minor_share": -0.09751206955092784,
+  "chord_rate": 1.5,
+  "repetitiveness": 0.9372084140777588,
+  "vocal_share": 0.09698688238859177,
+  "vocal_voiced": 0.3995381062355658,
+  "song_length": 348.801
+ }
+}

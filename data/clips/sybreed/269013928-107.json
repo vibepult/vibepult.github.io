@@ -1,0 +1,32 @@
+{
+ "id": "sybreed/269013928-107",
+ "band": "sybreed",
+ "title": "Ex-inferis",
+ "source": "itunes",
+ "album": "Antares",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 5.011849633903894,
+  "tempo_var": 16.23994854082464,
+  "low_onset_rate": 7.283888134606992,
+  "lufs": -10.34818355748323,
+  "rms_dbfs": -7.902568518819698,
+  "crest": 7.9025678634643555,
+  "centroid": 2054.616385826635,
+  "flatness": 0.015751628205180168,
+  "sub100_share": 0.7570458650588989,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8737428188323975,
+  "clean_share": 0.3413498836307215,
+  "minor_share": -0.055828981808097145,
+  "chord_rate": 2.8734604567715656,
+  "repetitiveness": 0.8706766366958618,
+  "vocal_share": 3.675917525924888e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 124.253
+ }
+}

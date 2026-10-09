@@ -1,0 +1,127 @@
+{
+ "slug": "ultra-vomit",
+ "name": "Ultra Vomit",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 269394962,
+  "deezer": 14563,
+  "spotify": "4mnp6YW545j0Qb5PYS9Wmv"
+ },
+ "metadata": {
+  "formed": 1999,
+  "split": null,
+  "country": "FR",
+  "status": "active",
+  "members": 4,
+  "past_members": 7,
+  "full_lengths": 4,
+  "genre": "Death Metal/Grindcore (early); Various (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 160629,
+  "themes": "Humour, Parody",
+  "release_year": 2016
+ },
+ "partial": false,
+ "clips": [
+  "ultra-vomit/291371325-121",
+  "ultra-vomit/269417820-119",
+  "ultra-vomit/1751639502-110",
+  "ultra-vomit/291371325-122",
+  "ultra-vomit/269417820-123",
+  "ultra-vomit/1751639502-111",
+  "ultra-vomit/269417820-106",
+  "ultra-vomit/1751639502-109",
+  "ultra-vomit/269417820-124",
+  "ultra-vomit/1751639502-112",
+  "ultra-vomit/1751639502-106",
+  "ultra-vomit/1751639502-113"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 24.951675072460432
+  },
+  "onset_rate": {
+   "median": 4.25483183908621,
+   "iqr": 1.3082995726136541
+  },
+  "tempo_var": {
+   "median": 8.452699744175057,
+   "iqr": 6.631813952092848
+  },
+  "low_onset_rate": {
+   "median": 5.806665102789726,
+   "iqr": 1.766658478329882
+  },
+  "lufs": {
+   "median": -9.62289026480039,
+   "iqr": 7.401110824785809
+  },
+  "rms_dbfs": {
+   "median": -9.099059122886638,
+   "iqr": 8.46504893495843
+  },
+  "crest": {
+   "median": 9.099059104919434,
+   "iqr": 3.623337984085083
+  },
+  "centroid": {
+   "median": 2651.4424119626037,
+   "iqr": 145.09447799111786
+  },
+  "flatness": {
+   "median": 0.03972188010811806,
+   "iqr": 0.005881762132048607
+  },
+  "sub100_share": {
+   "median": 0.2906206101179123,
+   "iqr": 0.20649373903870583
+  },
+  "lowest_pitch": {
+   "median": 43.06640625,
+   "iqr": 25.5706787109375
+  },
+  "harmonic_share": {
+   "median": 0.6877554357051849,
+   "iqr": 0.051541537046432495
+  },
+  "clean_share": {
+   "median": 0.010440835266821345,
+   "iqr": 0.10756209309954291
+  },
+  "minor_share": {
+   "median": 0.011902879479941675,
+   "iqr": 0.3661221019032825
+  },
+  "chord_rate": {
+   "median": 1.5666313941816794,
+   "iqr": 0.5499523823920665
+  },
+  "repetitiveness": {
+   "median": 0.8680146634578705,
+   "iqr": 0.08324958384037018
+  },
+  "vocal_share": {
+   "median": 0.1688174158334732,
+   "iqr": 0.1001739427447319
+  },
+  "vocal_voiced": {
+   "median": 0.4539829853054911,
+   "iqr": 0.28585573740123016
+  },
+  "song_length": {
+   "median": 165.5865,
+   "iqr": 68.75675000000001
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.7,
+  "camp": 1.0
+ },
+ "sources_failed": []
+}

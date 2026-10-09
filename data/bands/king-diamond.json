@@ -1,0 +1,127 @@
+{
+ "slug": "king-diamond",
+ "name": "King Diamond",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 16660913,
+  "deezer": 5831,
+  "spotify": "5i0ph60TnwTlIGrOZAmcZa"
+ },
+ "metadata": {
+  "formed": 1985,
+  "split": null,
+  "country": "DK",
+  "status": "active",
+  "members": 5,
+  "past_members": 16,
+  "full_lengths": 12,
+  "genre": "Heavy Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 54195,
+  "themes": "Horror, Occultism, Death, Darkness, Literature, Tales",
+  "release_year": 1995
+ },
+ "partial": false,
+ "clips": [
+  "king-diamond/1296456160-105",
+  "king-diamond/1296470250-105",
+  "king-diamond/1296481392-105",
+  "king-diamond/1296824607-105",
+  "king-diamond/1296831934-106",
+  "king-diamond/331251239-105",
+  "king-diamond/331247722-108",
+  "king-diamond/336196905-107",
+  "king-diamond/336178222-106",
+  "king-diamond/60371659-107",
+  "king-diamond/60375443-107",
+  "king-diamond/257150114-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 139.77693256578948,
+   "iqr": 36.99220055564838
+  },
+  "onset_rate": {
+   "median": 4.605098056830027,
+   "iqr": 1.1401732014801969
+  },
+  "tempo_var": {
+   "median": 11.111078746584003,
+   "iqr": 17.03839040422031
+  },
+  "low_onset_rate": {
+   "median": 5.856947444907894,
+   "iqr": 1.299165458057387
+  },
+  "lufs": {
+   "median": -11.561020367619976,
+   "iqr": 5.906668039385183
+  },
+  "rms_dbfs": {
+   "median": -11.895485204859929,
+   "iqr": 6.676136204352524
+  },
+  "crest": {
+   "median": 11.895484924316406,
+   "iqr": 5.90545916557312
+  },
+  "centroid": {
+   "median": 2782.0184869408595,
+   "iqr": 593.8337739871276
+  },
+  "flatness": {
+   "median": 0.04474155604839325,
+   "iqr": 0.02040385827422142
+  },
+  "sub100_share": {
+   "median": 0.17507801949977875,
+   "iqr": 0.0846624132245779
+  },
+  "lowest_pitch": {
+   "median": 84.7869873046875,
+   "iqr": 41.7205810546875
+  },
+  "harmonic_share": {
+   "median": 0.7278278768062592,
+   "iqr": 0.08111639320850372
+  },
+  "clean_share": {
+   "median": 0.002320185614849188,
+   "iqr": 0.015695452688193334
+  },
+  "minor_share": {
+   "median": 0.02398938358722627,
+   "iqr": 0.12995274314179117
+  },
+  "chord_rate": {
+   "median": 1.551884603727536,
+   "iqr": 0.5435267625695603
+  },
+  "repetitiveness": {
+   "median": 0.7890181243419647,
+   "iqr": 0.04988323152065277
+  },
+  "vocal_share": {
+   "median": 0.2255808338522911,
+   "iqr": 0.09001969173550606
+  },
+  "vocal_voiced": {
+   "median": 0.6196478680085238,
+   "iqr": 0.23158840067710518
+  },
+  "song_length": {
+   "median": 253.747,
+   "iqr": 49.41799999999998
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 1.0,
+  "camp": 0.6
+ },
+ "sources_failed": []
+}

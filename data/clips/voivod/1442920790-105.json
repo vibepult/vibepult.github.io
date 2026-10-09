@@ -1,0 +1,32 @@
+{
+ "id": "voivod/1442920790-105",
+ "band": "voivod",
+ "title": "The Lost Machine",
+ "source": "itunes",
+ "album": "The Outer Limits",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.112086626581972,
+  "tempo_var": 19.955908803801165,
+  "low_onset_rate": 6.74929084032391,
+  "lufs": -11.722302263420529,
+  "rms_dbfs": -11.385196936304766,
+  "crest": 11.385196685791016,
+  "centroid": 2741.1627683151164,
+  "flatness": 0.04053930193185806,
+  "sub100_share": 0.4080776572227478,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7250989675521851,
+  "clean_share": 0.021722265321955005,
+  "minor_share": 0.054673785648845286,
+  "chord_rate": 2.338863162488484,
+  "repetitiveness": 0.9057674407958984,
+  "vocal_share": 0.12039415538311005,
+  "vocal_voiced": 0.7460978147762747,
+  "song_length": 352.653
+ }
+}

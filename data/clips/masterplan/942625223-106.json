@@ -1,0 +1,32 @@
+{
+ "id": "masterplan/942625223-106",
+ "band": "masterplan",
+ "title": "Heroes",
+ "source": "itunes",
+ "album": "Masterplan",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 5.713508582650439,
+  "tempo_var": 14.451556124602748,
+  "low_onset_rate": 6.682466178538525,
+  "lufs": -7.960062616745387,
+  "rms_dbfs": -7.367341674720388,
+  "crest": 7.367341995239258,
+  "centroid": 2667.1144495781837,
+  "flatness": 0.03546898439526558,
+  "sub100_share": 0.3502936065196991,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8323081731796265,
+  "clean_share": 0.004654771140418929,
+  "minor_share": 0.23456399177857723,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.8200128078460693,
+  "vocal_share": 0.15011844038963318,
+  "vocal_voiced": 0.514760147601476,
+  "song_length": 213.573
+ }
+}

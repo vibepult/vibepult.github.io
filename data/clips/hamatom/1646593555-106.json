@@ -1,0 +1,32 @@
+{
+ "id": "hamatom/1646593555-106",
+ "band": "hamatom",
+ "title": "Nobody's perfect",
+ "source": "itunes",
+ "album": "Lang lebe der Hass",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.132991909835173,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.632958654299638,
+  "lufs": -8.243823367494183,
+  "rms_dbfs": -7.662168651664336,
+  "crest": 7.662168502807617,
+  "centroid": 2751.1289727097073,
+  "flatness": 0.050267525017261505,
+  "sub100_share": 0.3873233497142792,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.6189484000205994,
+  "clean_share": 0.02242846094354215,
+  "minor_share": 0.027899050036027495,
+  "chord_rate": 1.9332047452625978,
+  "repetitiveness": 0.9044175148010254,
+  "vocal_share": 0.15003162622451782,
+  "vocal_voiced": 0.1180931744312026,
+  "song_length": 185.053
+ }
+}

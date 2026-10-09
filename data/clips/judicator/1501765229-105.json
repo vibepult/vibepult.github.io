@@ -1,0 +1,32 @@
+{
+ "id": "judicator/1501765229-105",
+ "band": "judicator",
+ "title": "Gloria",
+ "source": "itunes",
+ "album": "Let There Be Nothing",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.57748933229889,
+  "tempo_var": 22.82126926681068,
+  "low_onset_rate": 5.880570237113902,
+  "lufs": -10.507802046571477,
+  "rms_dbfs": -10.537097636964113,
+  "crest": 10.537097930908203,
+  "centroid": 2479.7242698691803,
+  "flatness": 0.029743662104010582,
+  "sub100_share": 0.22640886902809143,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.6232841610908508,
+  "clean_share": 0.02017067494181536,
+  "minor_share": 0.1665023217771786,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.8628393411636353,
+  "vocal_share": 0.31158047914505005,
+  "vocal_voiced": 0.4,
+  "song_length": 344.89
+ }
+}

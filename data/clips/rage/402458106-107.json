@@ -1,0 +1,32 @@
+{
+ "id": "rage/402458106-107",
+ "band": "rage",
+ "title": "Voice from the Vault",
+ "source": "itunes",
+ "album": "End of All Days",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.7755933908742665,
+  "tempo_var": 2.3624495169826405,
+  "low_onset_rate": 7.618011443533918,
+  "lufs": -10.06041554424147,
+  "rms_dbfs": -9.914689846441036,
+  "crest": 9.914690017700195,
+  "centroid": 2654.3408423120736,
+  "flatness": 0.03917684406042099,
+  "sub100_share": 0.23414573073387146,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7061249017715454,
+  "clean_share": 0.031031807602792862,
+  "minor_share": 0.05017566109499638,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.8144434690475464,
+  "vocal_share": 0.21131429076194763,
+  "vocal_voiced": 0.7051835853131749,
+  "song_length": 336.667
+ }
+}

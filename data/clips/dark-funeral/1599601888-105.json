@@ -1,0 +1,32 @@
+{
+ "id": "dark-funeral/1599601888-105",
+ "band": "dark-funeral",
+ "title": "When I'm Gone",
+ "source": "itunes",
+ "album": "We Are The Apocalypse",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.945024972118508,
+  "tempo_var": 6.76851695090991,
+  "low_onset_rate": 7.517774450855841,
+  "lufs": -8.727004809985091,
+  "rms_dbfs": -8.63657689678597,
+  "crest": 8.636577606201172,
+  "centroid": 2483.305169923074,
+  "flatness": 0.036535147577524185,
+  "sub100_share": 0.2689472436904907,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7023505568504333,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": 0.11200439714519261,
+  "chord_rate": 1.971327522668865,
+  "repetitiveness": 0.9054725170135498,
+  "vocal_share": 0.21782302856445312,
+  "vocal_voiced": 0.0945395273023635,
+  "song_length": 346.378
+ }
+}

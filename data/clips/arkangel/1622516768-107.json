@@ -1,0 +1,32 @@
+{
+ "id": "arkangel/1622516768-107",
+ "band": "arkangel",
+ "title": "The Darkest Crime",
+ "source": "itunes",
+ "album": "Dead Man Walking",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 5.847157906221209,
+  "tempo_var": 20.458916398169773,
+  "low_onset_rate": 6.782703171216603,
+  "lufs": -10.682474118223682,
+  "rms_dbfs": -10.500849623776391,
+  "crest": 10.500849723815918,
+  "centroid": 2581.231281943054,
+  "flatness": 0.03397190198302269,
+  "sub100_share": 0.2846606969833374,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7221822738647461,
+  "clean_share": 0.0682699767261443,
+  "minor_share": 0.12979646668232458,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.8485264182090759,
+  "vocal_share": 0.08505916595458984,
+  "vocal_voiced": 0.08548387096774193,
+  "song_length": 159.533
+ }
+}

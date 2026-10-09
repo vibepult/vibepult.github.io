@@ -1,0 +1,32 @@
+{
+ "id": "ulcerate/1442859087-104",
+ "band": "ulcerate",
+ "title": "Beneath",
+ "source": "itunes",
+ "album": "The Destroyers of All",
+ "year": 2011,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.4080577510546477,
+  "tempo_var": 3.3498478087350403,
+  "low_onset_rate": 6.047631891577365,
+  "lufs": -10.972775291306943,
+  "rms_dbfs": -10.567404715207939,
+  "crest": 10.567403793334961,
+  "centroid": 2337.579856998745,
+  "flatness": 0.016692809760570526,
+  "sub100_share": 0.27198079228401184,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.8221598267555237,
+  "clean_share": 0.1613653995345229,
+  "minor_share": 0.10827874808594107,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.8109126091003418,
+  "vocal_share": 1.1850357850562432e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 416.573
+ }
+}

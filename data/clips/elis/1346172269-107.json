@@ -1,0 +1,32 @@
+{
+ "id": "elis/1346172269-107",
+ "band": "elis",
+ "title": "Devil's Temptation",
+ "source": "itunes",
+ "album": "God's Silence, Devil's Temptation",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.6666666666666665,
+  "tempo_var": 3.4320996330926747,
+  "low_onset_rate": 5.1,
+  "lufs": -9.130501224435966,
+  "rms_dbfs": -8.306407896263412,
+  "crest": 8.306407928466797,
+  "centroid": 2348.629685479275,
+  "flatness": 0.026533233001828194,
+  "sub100_share": 0.289074182510376,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7577608823776245,
+  "clean_share": 0.13390092879256965,
+  "minor_share": 0.03965726889558485,
+  "chord_rate": 1.4666666666666666,
+  "repetitiveness": 0.8077988624572754,
+  "vocal_share": 0.18373437225818634,
+  "vocal_voiced": 0.5049019607843137,
+  "song_length": 287.72
+ }
+}

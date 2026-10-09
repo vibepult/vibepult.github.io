@@ -1,0 +1,32 @@
+{
+ "id": "immolation/1861901597-105",
+ "band": "immolation",
+ "title": "Attrition",
+ "source": "itunes",
+ "album": "Descent",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.066544119870117,
+  "tempo_var": 0.0,
+  "low_onset_rate": 8.366464303206573,
+  "lufs": -6.962317898787757,
+  "rms_dbfs": -6.540309262704929,
+  "crest": 6.540308952331543,
+  "centroid": 2684.387190212157,
+  "flatness": 0.05428580939769745,
+  "sub100_share": 0.3193199932575226,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7115970849990845,
+  "clean_share": 0.0,
+  "minor_share": 0.06145696389856786,
+  "chord_rate": 2.633269641248284,
+  "repetitiveness": 0.9379745721817017,
+  "vocal_share": 0.06106582656502724,
+  "vocal_voiced": 0.28716904276985744,
+  "song_length": 284.749
+ }
+}

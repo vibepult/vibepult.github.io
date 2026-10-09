@@ -1,0 +1,32 @@
+{
+ "id": "vondur/1892028093-113",
+ "band": "vondur",
+ "title": "Ekki Krist-Opinberun I & II",
+ "source": "itunes",
+ "album": "Striðsyfirlýsing",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.366630889933637,
+  "tempo_var": 19.7167337472181,
+  "low_onset_rate": 7.166558328672281,
+  "lufs": -9.44810546531802,
+  "rms_dbfs": -9.647776639256376,
+  "crest": 9.64777660369873,
+  "centroid": 3065.950828442829,
+  "flatness": 0.06278247386217117,
+  "sub100_share": 0.4304055869579315,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.7567847371101379,
+  "clean_share": 0.23201856148491878,
+  "minor_share": 0.14680085267295845,
+  "chord_rate": 0.8999863947634957,
+  "repetitiveness": 0.7544237971305847,
+  "vocal_share": 0.05753583461046219,
+  "vocal_voiced": 0.2225705329153605,
+  "song_length": 211.16
+ }
+}

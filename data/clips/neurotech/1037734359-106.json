@@ -1,0 +1,32 @@
+{
+ "id": "neurotech/1037734359-106",
+ "band": "neurotech",
+ "title": "Versus You",
+ "source": "itunes",
+ "album": "Infra Versus Ultra",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.641944067303496,
+  "tempo_var": 1.6997015536277023,
+  "low_onset_rate": 5.546446928186976,
+  "lufs": -11.897457983642369,
+  "rms_dbfs": -7.522957508335859,
+  "crest": 7.522957801818848,
+  "centroid": 497.9728870346609,
+  "flatness": 3.89142514904961e-05,
+  "sub100_share": 0.957137942314148,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.980943500995636,
+  "clean_share": 1.0,
+  "minor_share": -0.29901753463702246,
+  "chord_rate": 0.6014219560684673,
+  "repetitiveness": 0.8171133399009705,
+  "vocal_share": 5.378330456551339e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 177.0
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "darkestrah/1106605128-102",
+ "band": "darkestrah",
+ "title": "Erlik-Khan",
+ "source": "itunes",
+ "album": "Turan",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.0428920380158075,
+  "tempo_var": 4.863015348807127,
+  "low_onset_rate": 5.21232361926005,
+  "lufs": -10.472488667187628,
+  "rms_dbfs": -10.171162109622173,
+  "crest": 10.171161651611328,
+  "centroid": 2157.2800808517604,
+  "flatness": 0.020868830382823944,
+  "sub100_share": 0.19054701924324036,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7815568447113037,
+  "clean_share": 0.14817688130333592,
+  "minor_share": -0.10084437972550453,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.7743324637413025,
+  "vocal_share": 0.060616232454776764,
+  "vocal_voiced": 0.18013468013468015,
+  "song_length": 489.587
+ }
+}

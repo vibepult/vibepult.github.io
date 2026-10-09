@@ -1,0 +1,32 @@
+{
+ "id": "quiet-riot/185992193-105",
+ "band": "quiet-riot",
+ "title": "Rise or Fall",
+ "source": "itunes",
+ "album": "QR III",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.297278065745204,
+  "tempo_var": 10.773951816097167,
+  "low_onset_rate": 3.9308435019994894,
+  "lufs": -16.298550082744047,
+  "rms_dbfs": -16.22091051658399,
+  "crest": 16.220911026000977,
+  "centroid": 2546.0458441662627,
+  "flatness": 0.032060299068689346,
+  "sub100_share": 0.15935449302196503,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.6647990942001343,
+  "clean_share": 0.02088167053364269,
+  "minor_share": 0.026707178257378894,
+  "chord_rate": 2.231919615542083,
+  "repetitiveness": 0.8541216850280762,
+  "vocal_share": 0.24314431846141815,
+  "vocal_voiced": 0.5823336968375137,
+  "song_length": 240.933
+ }
+}

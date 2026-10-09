@@ -1,0 +1,32 @@
+{
+ "id": "emperor/1281113501-104",
+ "band": "emperor",
+ "title": "The Prophet",
+ "source": "itunes",
+ "album": "Prometheus: The Discipline of Fire & Demise",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 7.3173004654996845,
+  "tempo_var": 0.0,
+  "low_onset_rate": 9.021329341027009,
+  "lufs": -8.488572586716227,
+  "rms_dbfs": -7.737247589886387,
+  "crest": 7.737247467041016,
+  "centroid": 2749.6890464097273,
+  "flatness": 0.035336412489414215,
+  "sub100_share": 0.4131866693496704,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.8381996154785156,
+  "clean_share": 0.021722265321955005,
+  "minor_share": 0.1906391775129722,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.9160359501838684,
+  "vocal_share": 0.015271919779479504,
+  "vocal_voiced": 0.31467181467181465,
+  "song_length": 339.693
+ }
+}

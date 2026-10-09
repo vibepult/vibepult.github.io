@@ -1,0 +1,32 @@
+{
+ "id": "ghost/1603122391-105",
+ "band": "ghost",
+ "title": "Hunter’s Moon",
+ "source": "itunes",
+ "album": "IMPERA",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.866608214539463,
+  "tempo_var": 7.273672940271459,
+  "low_onset_rate": 3.4999470907469274,
+  "lufs": -9.653415107862315,
+  "rms_dbfs": -8.881731138221614,
+  "crest": 8.881731033325195,
+  "centroid": 2595.209719905431,
+  "flatness": 0.04145963862538338,
+  "sub100_share": 0.45008018612861633,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6599600315093994,
+  "clean_share": 0.06109822119102862,
+  "minor_share": 0.3943677172121962,
+  "chord_rate": 1.7999727895269915,
+  "repetitiveness": 0.7554267048835754,
+  "vocal_share": 0.1676599532365799,
+  "vocal_voiced": 0.42191780821917807,
+  "song_length": 196.099
+ }
+}

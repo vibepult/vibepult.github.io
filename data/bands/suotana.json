@@ -1,0 +1,127 @@
+{
+ "slug": "suotana",
+ "name": "Suotana",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1047599951,
+  "deezer": 9024530,
+  "spotify": "3hGRvDW3UnwxI5OIsfwEGx"
+ },
+ "metadata": {
+  "formed": 2005,
+  "split": null,
+  "country": "FI",
+  "status": "active",
+  "members": 6,
+  "past_members": 3,
+  "full_lengths": 4,
+  "genre": "Melodic Death/Power Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 630,
+  "themes": "Nature, Winter, Death, History",
+  "release_year": 2018
+ },
+ "partial": false,
+ "clips": [
+  "suotana/1047605668-104",
+  "suotana/1490917725-105",
+  "suotana/1813853025-104",
+  "suotana/1047605668-105",
+  "suotana/1490917725-106",
+  "suotana/1813853025-103",
+  "suotana/1047605668-103",
+  "suotana/1490917725-104",
+  "suotana/1813853025-105",
+  "suotana/1047605668-106",
+  "suotana/1490917725-107",
+  "suotana/1813853025-102"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 151.99908088235293,
+   "iqr": 57.601318359375
+  },
+  "onset_rate": {
+   "median": 5.797039409882171,
+   "iqr": 2.9562017172636934
+  },
+  "tempo_var": {
+   "median": 12.263676413695647,
+   "iqr": 9.179226344392543
+  },
+  "low_onset_rate": {
+   "median": 7.166944976482569,
+   "iqr": 2.0240199904159253
+  },
+  "lufs": {
+   "median": -11.120516255211026,
+   "iqr": 1.658241655015047
+  },
+  "rms_dbfs": {
+   "median": -10.330296582096967,
+   "iqr": 1.1690497280063905
+  },
+  "crest": {
+   "median": 10.330296039581299,
+   "iqr": 1.1690495014190674
+  },
+  "centroid": {
+   "median": 2409.561155295578,
+   "iqr": 127.86195682796915
+  },
+  "flatness": {
+   "median": 0.03217591159045696,
+   "iqr": 0.010166756343096495
+  },
+  "sub100_share": {
+   "median": 0.44452524185180664,
+   "iqr": 0.25447073578834534
+  },
+  "lowest_pitch": {
+   "median": 43.06640625,
+   "iqr": 10.09368896484375
+  },
+  "harmonic_share": {
+   "median": 0.728867381811142,
+   "iqr": 0.09456975758075714
+  },
+  "clean_share": {
+   "median": 0.0011636927851047323,
+   "iqr": 0.027289180807078997
+  },
+  "minor_share": {
+   "median": 0.12877938950045825,
+   "iqr": 0.2821261510147304
+  },
+  "chord_rate": {
+   "median": 1.7207350409736701,
+   "iqr": 0.6804384334461309
+  },
+  "repetitiveness": {
+   "median": 0.8831275701522827,
+   "iqr": 0.03219595551490784
+  },
+  "vocal_share": {
+   "median": 0.07137937843799591,
+   "iqr": 0.05025220662355423
+  },
+  "vocal_voiced": {
+   "median": 0.1323851203501094,
+   "iqr": 0.05298319189785633
+  },
+  "song_length": {
+   "median": 314.92150000000004,
+   "iqr": 58.04049999999995
+  },
+  "vocal_presence": {
+   "median": 0.5833333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

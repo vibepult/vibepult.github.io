@@ -1,0 +1,32 @@
+{
+ "id": "w-a-s-p/1183582979-105",
+ "band": "w-a-s-p",
+ "title": "Fallen Under",
+ "source": "itunes",
+ "album": "Golgotha",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.3,
+  "tempo_var": 4.631125234637361,
+  "low_onset_rate": 4.3,
+  "lufs": -9.616162560306469,
+  "rms_dbfs": -9.059650643314868,
+  "crest": 9.059650421142578,
+  "centroid": 2482.546837972816,
+  "flatness": 0.022766532376408577,
+  "sub100_share": 0.5584517121315002,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7698620557785034,
+  "clean_share": 0.2979876160990712,
+  "minor_share": 0.004860393929710716,
+  "chord_rate": 1.1,
+  "repetitiveness": 0.9223712682723999,
+  "vocal_share": 0.1596255898475647,
+  "vocal_voiced": 0.5160142348754448,
+  "song_length": 296.933
+ }
+}

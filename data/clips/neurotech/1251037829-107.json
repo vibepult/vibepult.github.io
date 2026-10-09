@@ -1,0 +1,32 @@
+{
+ "id": "neurotech/1251037829-107",
+ "band": "neurotech",
+ "title": "Epitaph",
+ "source": "itunes",
+ "album": "The Catalyst",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.5106646705135045,
+  "tempo_var": 25.1416087312446,
+  "low_onset_rate": 7.250475803714299,
+  "lufs": -10.637921179874548,
+  "rms_dbfs": -8.733238322192124,
+  "crest": 8.733238220214844,
+  "centroid": 1800.6532696221473,
+  "flatness": 0.010433544404804707,
+  "sub100_share": 0.5596604347229004,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8406299948692322,
+  "clean_share": 0.4003103180760279,
+  "minor_share": 0.04785655437776115,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.7838321924209595,
+  "vocal_share": 0.01863841339945793,
+  "vocal_voiced": 0.7036637931034483,
+  "song_length": 269.481
+ }
+}

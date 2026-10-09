@@ -1,0 +1,32 @@
+{
+ "id": "rammstein/1390562159-105",
+ "band": "rammstein",
+ "title": "Du hast",
+ "source": "itunes",
+ "album": "Sehnsucht",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "hand",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.565451973473422,
+  "tempo_var": 2.6550547262319313,
+  "low_onset_rate": 5.6651593831422025,
+  "lufs": -12.419891478239094,
+  "rms_dbfs": -11.672336587867989,
+  "crest": 11.672335624694824,
+  "centroid": 2851.495010599062,
+  "flatness": 0.03703564405441284,
+  "sub100_share": 0.3556467294692993,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6848827600479126,
+  "clean_share": 0.12606341840680588,
+  "minor_share": 0.0739020892977944,
+  "chord_rate": 1.4996010131847006,
+  "repetitiveness": 0.9023986458778381,
+  "vocal_share": 0.1021987646818161,
+  "vocal_voiced": 0.20920502092050208,
+  "song_length": 234.227
+ }
+}

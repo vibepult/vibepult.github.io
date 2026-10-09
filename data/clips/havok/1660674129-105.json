@@ -1,0 +1,32 @@
+{
+ "id": "havok/1660674129-105",
+ "band": "havok",
+ "title": "Waste of Life",
+ "source": "itunes",
+ "album": "Unnatural Selection",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.966666666666667,
+  "tempo_var": 11.858453033023398,
+  "low_onset_rate": 3.533333333333333,
+  "lufs": -8.886373342746365,
+  "rms_dbfs": -8.328217264584229,
+  "crest": 8.328216552734375,
+  "centroid": 2723.6966475391814,
+  "flatness": 0.031605832278728485,
+  "sub100_share": 0.4330107569694519,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8170592188835144,
+  "clean_share": 0.043343653250773995,
+  "minor_share": 0.11797185402614796,
+  "chord_rate": 2.3666666666666667,
+  "repetitiveness": 0.9135248064994812,
+  "vocal_share": 0.05884267017245293,
+  "vocal_voiced": 0.5401662049861495,
+  "song_length": 382.081
+ }
+}

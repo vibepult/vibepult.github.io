@@ -1,0 +1,32 @@
+{
+ "id": "meathook-seed/567237242-101",
+ "band": "meathook-seed",
+ "title": "Famine Sector",
+ "source": "itunes",
+ "album": "Embedded",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 4.677726324976968,
+  "tempo_var": 27.709245080956546,
+  "low_onset_rate": 7.684836105319304,
+  "lufs": -13.89225568937705,
+  "rms_dbfs": -13.290696150793273,
+  "crest": 13.290696144104004,
+  "centroid": 2752.868502668876,
+  "flatness": 0.04169166833162308,
+  "sub100_share": 0.47643646597862244,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7586458325386047,
+  "clean_share": 0.0062063615205585725,
+  "minor_share": -0.19125332365019038,
+  "chord_rate": 2.940285118556951,
+  "repetitiveness": 0.9676595330238342,
+  "vocal_share": 0.022500930353999138,
+  "vocal_voiced": 0.15650741350906094,
+  "song_length": 249.667
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "earth/455070521-103",
+ "band": "earth",
+ "title": "Miami Morning Coming Down II (Shine)",
+ "source": "itunes",
+ "album": "The Bees Made Honey In the Lion's Skull",
+ "year": 2008,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 1.5,
+  "tempo_var": 1.664087826746582,
+  "low_onset_rate": 3.933333333333333,
+  "lufs": -12.659964994638312,
+  "rms_dbfs": -12.023541813083689,
+  "crest": 12.023542404174805,
+  "centroid": 1195.0291946528096,
+  "flatness": 0.0011278358288109303,
+  "sub100_share": 0.32830700278282166,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.9347608089447021,
+  "clean_share": 0.9574303405572755,
+  "minor_share": -0.13470282984338444,
+  "chord_rate": 0.3333333333333333,
+  "repetitiveness": 0.9463962316513062,
+  "vocal_share": 9.485689247412665e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 481.04
+ }
+}

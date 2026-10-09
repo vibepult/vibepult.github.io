@@ -1,0 +1,32 @@
+{
+ "id": "liturgy/1645369077-107",
+ "band": "liturgy",
+ "title": "Angel of Hierarchy",
+ "source": "itunes",
+ "album": "93696",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.911612641225816,
+  "tempo_var": 0.9038961643516211,
+  "low_onset_rate": 5.145498957474664,
+  "lufs": -16.861345413831273,
+  "rms_dbfs": -16.288531180038397,
+  "crest": 13.785161018371582,
+  "centroid": 423.1090680929831,
+  "flatness": 5.9963081184832845e-06,
+  "sub100_share": 0.010727815330028534,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.9907583594322205,
+  "clean_share": 1.0,
+  "minor_share": 0.1860665855166751,
+  "chord_rate": 0.7016589487465451,
+  "repetitiveness": 0.5940784215927124,
+  "vocal_share": 2.59990065387683e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 193.78
+ }
+}

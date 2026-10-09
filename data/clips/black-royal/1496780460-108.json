@@ -1,0 +1,32 @@
+{
+ "id": "black-royal/1496780460-108",
+ "band": "black-royal",
+ "title": "Firebride",
+ "source": "itunes",
+ "album": "Firebride",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.412797604616205,
+  "tempo_var": 7.446688822595945,
+  "low_onset_rate": 8.620381370314698,
+  "lufs": -7.145645714872882,
+  "rms_dbfs": -6.061480343616767,
+  "crest": 6.0614800453186035,
+  "centroid": 2184.0552180400077,
+  "flatness": 0.02475929632782936,
+  "sub100_share": 0.47609710693359375,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8043678998947144,
+  "clean_share": 0.04809930178432894,
+  "minor_share": 0.21861866750375197,
+  "chord_rate": 2.405687824273869,
+  "repetitiveness": 0.9125312566757202,
+  "vocal_share": 0.11949002742767334,
+  "vocal_voiced": 0.04554079696394687,
+  "song_length": 284.747
+ }
+}

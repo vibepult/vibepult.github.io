@@ -1,0 +1,32 @@
+{
+ "id": "neonfly/1458600028-106",
+ "band": "neonfly",
+ "title": "The Ornament",
+ "source": "itunes",
+ "album": "Outshine the Sun",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 69.83741554054055,
+  "onset_rate": 2.472512486059254,
+  "tempo_var": 23.3600801336924,
+  "low_onset_rate": 2.940285118556951,
+  "lufs": -11.555820619602104,
+  "rms_dbfs": -13.979374071361173,
+  "crest": 13.979373931884766,
+  "centroid": 1688.349835294532,
+  "flatness": 0.013758162967860699,
+  "sub100_share": 0.38692009449005127,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.5475906133651733,
+  "clean_share": 0.5779674166020171,
+  "minor_share": 0.09086447551543597,
+  "chord_rate": 1.1026069194588566,
+  "repetitiveness": 0.6998344659805298,
+  "vocal_share": 1.0470542974871933e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 271.798
+ }
+}

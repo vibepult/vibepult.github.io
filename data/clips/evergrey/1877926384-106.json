@@ -1,0 +1,32 @@
+{
+ "id": "evergrey/1877926384-106",
+ "band": "evergrey",
+ "title": "The Script",
+ "source": "itunes",
+ "album": "Architects Of A New Weave",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.6999836735681115,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.133302292956657,
+  "lufs": -11.247178568303502,
+  "rms_dbfs": -10.89037271249252,
+  "crest": 10.890373229980469,
+  "centroid": 2379.255755619848,
+  "flatness": 0.038129840046167374,
+  "sub100_share": 0.4343385100364685,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.8425998091697693,
+  "clean_share": 0.07347254447022429,
+  "minor_share": 0.004873360149612482,
+  "chord_rate": 1.133326480263158,
+  "repetitiveness": 0.7966169118881226,
+  "vocal_share": 4.777138542522152e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 267.973
+ }
+}

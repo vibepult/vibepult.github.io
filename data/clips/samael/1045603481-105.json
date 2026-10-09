@@ -1,0 +1,32 @@
+{
+ "id": "samael/1045603481-105",
+ "band": "samael",
+ "title": "Night Ride",
+ "source": "itunes",
+ "album": "Era One",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 5.513034597294284,
+  "tempo_var": 10.223996149571821,
+  "low_onset_rate": 5.178911288367357,
+  "lufs": -7.2974560620200375,
+  "rms_dbfs": -6.082558405466544,
+  "crest": 6.082558631896973,
+  "centroid": 2500.1441585692296,
+  "flatness": 0.03698687627911568,
+  "sub100_share": 0.5173642039299011,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7528085112571716,
+  "clean_share": 0.08844065166795965,
+  "minor_share": 0.2067588654602941,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.7915246486663818,
+  "vocal_share": 0.10136476904153824,
+  "vocal_voiced": 0.03410059676044331,
+  "song_length": 280.267
+ }
+}

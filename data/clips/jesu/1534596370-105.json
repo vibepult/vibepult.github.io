@@ -1,0 +1,32 @@
+{
+ "id": "jesu/1534596370-105",
+ "band": "jesu",
+ "title": "Medicine",
+ "source": "itunes",
+ "album": "Conqueror",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.374645420161955,
+  "tempo_var": 5.4422481376333325,
+  "low_onset_rate": 7.183651141928914,
+  "lufs": -10.41123497182114,
+  "rms_dbfs": -9.699776276551962,
+  "crest": 9.699775695800781,
+  "centroid": 2698.957313234624,
+  "flatness": 0.020291591063141823,
+  "sub100_share": 0.34173160791397095,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.9385364055633545,
+  "clean_share": 0.16912335143522111,
+  "minor_share": 0.2704890524016941,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.8702707290649414,
+  "vocal_share": 0.15152250230312347,
+  "vocal_voiced": 0.895247332686712,
+  "song_length": 442.0
+ }
+}

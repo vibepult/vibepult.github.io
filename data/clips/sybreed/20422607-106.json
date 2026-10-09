@@ -1,0 +1,32 @@
+{
+ "id": "sybreed/20422607-106",
+ "band": "sybreed",
+ "title": "Machine Gun Messiah",
+ "source": "itunes",
+ "album": "Slave Design",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.143129030693886,
+  "tempo_var": 16.963343783847556,
+  "low_onset_rate": 4.076304368908501,
+  "lufs": -7.988992719282251,
+  "rms_dbfs": -7.576367586155582,
+  "crest": 7.5763678550720215,
+  "centroid": 2755.674477702754,
+  "flatness": 0.05024663731455803,
+  "sub100_share": 0.43081119656562805,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.7543328404426575,
+  "clean_share": 0.0062063615205585725,
+  "minor_share": 0.06204752563939808,
+  "chord_rate": 2.472512486059254,
+  "repetitiveness": 0.9556505680084229,
+  "vocal_share": 0.12082535773515701,
+  "vocal_voiced": 0.22067363530778164,
+  "song_length": 258.867
+ }
+}

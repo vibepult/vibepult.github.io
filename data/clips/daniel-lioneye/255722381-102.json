@@ -1,0 +1,32 @@
+{
+ "id": "daniel-lioneye/255722381-102",
+ "band": "daniel-lioneye",
+ "title": "Roller",
+ "source": "itunes",
+ "album": "The King of Rock 'N' Roll",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 1.6372042137419387,
+  "tempo_var": 14.922896843121228,
+  "low_onset_rate": 6.3817552005042915,
+  "lufs": -5.068335646717622,
+  "rms_dbfs": -4.989342543681056,
+  "crest": 4.98934268951416,
+  "centroid": 2799.872757754123,
+  "flatness": 0.04008486866950989,
+  "sub100_share": 0.16315186023712158,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.8097514510154724,
+  "clean_share": 0.027928626842513578,
+  "minor_share": 0.18607912507745095,
+  "chord_rate": 2.6395741405227175,
+  "repetitiveness": 0.7899519205093384,
+  "vocal_share": 0.04692232608795166,
+  "vocal_voiced": 0.72,
+  "song_length": 236.836
+ }
+}

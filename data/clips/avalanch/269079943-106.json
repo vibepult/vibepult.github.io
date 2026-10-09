@@ -1,0 +1,32 @@
+{
+ "id": "avalanch/269079943-106",
+ "band": "avalanch",
+ "title": "Otra vida",
+ "source": "itunes",
+ "album": "Muerte y Vida",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.479622266401591,
+  "tempo_var": 15.28486636669138,
+  "low_onset_rate": 5.613271589972361,
+  "lufs": -10.837296825085353,
+  "rms_dbfs": -9.82024747570992,
+  "crest": 9.820247650146484,
+  "centroid": 2368.3328948561357,
+  "flatness": 0.016876239329576492,
+  "sub100_share": 0.45965713262557983,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7730762958526611,
+  "clean_share": 0.17843289371605897,
+  "minor_share": 0.23694581446321328,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.65683913230896,
+  "vocal_share": 4.5749197852273937e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 352.347
+ }
+}

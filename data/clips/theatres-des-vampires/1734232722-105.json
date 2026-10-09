@@ -1,0 +1,32 @@
+{
+ "id": "theatres-des-vampires/1734232722-105",
+ "band": "theatres-des-vampires",
+ "title": "Lady Bathory",
+ "source": "itunes",
+ "album": "In Nomine Sanguinis",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.06664207623839,
+  "tempo_var": 4.360694387373213,
+  "low_onset_rate": 2.399985487616099,
+  "lufs": -12.12957829551388,
+  "rms_dbfs": -13.030406905315834,
+  "crest": 13.030406951904297,
+  "centroid": 1909.1218612232185,
+  "flatness": 0.012943780049681664,
+  "sub100_share": 0.3985912799835205,
+  "lowest_pitch": 196.490478515625,
+  "harmonic_share": 0.8663662075996399,
+  "clean_share": 0.4168600154679041,
+  "minor_share": -0.09737670165719647,
+  "chord_rate": 1.5333240615325077,
+  "repetitiveness": 0.7621021270751953,
+  "vocal_share": 0.0039076898247003555,
+  "vocal_voiced": 0.9373297002724795,
+  "song_length": 230.467
+ }
+}

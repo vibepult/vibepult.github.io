@@ -1,0 +1,32 @@
+{
+ "id": "volturian/1699045579-104",
+ "band": "volturian",
+ "title": "Empty World",
+ "source": "itunes",
+ "album": "Red Dragon",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.299869996371991,
+  "tempo_var": 1.9117839822343727,
+  "low_onset_rate": 3.4665618575402104,
+  "lufs": -8.92000453030581,
+  "rms_dbfs": -8.959775833715195,
+  "crest": 8.959775924682617,
+  "centroid": 2368.0807371799892,
+  "flatness": 0.02258894219994545,
+  "sub100_share": 0.3668930232524872,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.8673394322395325,
+  "clean_share": 0.11291569992266048,
+  "minor_share": -0.12962117962527375,
+  "chord_rate": 1.166631394364494,
+  "repetitiveness": 0.7124743461608887,
+  "vocal_share": 0.27429357171058655,
+  "vocal_voiced": 0.9110535405872193,
+  "song_length": 207.058
+ }
+}

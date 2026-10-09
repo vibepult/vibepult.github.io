@@ -1,0 +1,32 @@
+{
+ "id": "threshold/1794134646-107",
+ "band": "threshold",
+ "title": "He Is I Am",
+ "source": "itunes",
+ "album": "Psychedelicatessen (2024 Remix)",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 73.828125,
+  "onset_rate": 0.6333295036764706,
+  "tempo_var": 29.315224048500404,
+  "low_onset_rate": 1.499990929760062,
+  "lufs": -10.537950611810146,
+  "rms_dbfs": -9.56665758662327,
+  "crest": 9.566658020019531,
+  "centroid": 2695.4024907724256,
+  "flatness": 0.032395459711551666,
+  "sub100_share": 0.4172753095626831,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8193582892417908,
+  "clean_share": 0.01082753286929621,
+  "minor_share": 0.0405281714119633,
+  "chord_rate": 1.5666571933049536,
+  "repetitiveness": 0.7791420221328735,
+  "vocal_share": 0.092029869556427,
+  "vocal_voiced": 0.8115079365079365,
+  "song_length": 351.893
+ }
+}

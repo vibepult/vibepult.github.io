@@ -1,0 +1,32 @@
+{
+ "id": "furor-gallico/1734757013-104",
+ "band": "furor-gallico",
+ "title": "Nebbia Della Mia Terra",
+ "source": "itunes",
+ "album": "Dusk of the Ages",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 2.733316805340557,
+  "tempo_var": 17.750583913791896,
+  "low_onset_rate": 4.399973393962848,
+  "lufs": -8.86575532456806,
+  "rms_dbfs": -9.94703074323759,
+  "crest": 9.947031021118164,
+  "centroid": 2293.1905753097803,
+  "flatness": 0.027737831696867943,
+  "sub100_share": 0.24562744796276093,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8211642503738403,
+  "clean_share": 0.26218097447795824,
+  "minor_share": 0.27614731662521885,
+  "chord_rate": 1.7333228521671826,
+  "repetitiveness": 0.7809858322143555,
+  "vocal_share": 6.458551524701761e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 366.96
+ }
+}

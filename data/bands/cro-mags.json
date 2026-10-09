@@ -1,0 +1,127 @@
+{
+ "slug": "cro-mags",
+ "name": "Cro-Mags",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 4110585,
+  "deezer": 8917,
+  "spotify": "5WCrzTQZ6S6EgebqI57Ilg"
+ },
+ "metadata": {
+  "formed": 1980,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 4,
+  "past_members": 24,
+  "full_lengths": 7,
+  "genre": "Thrash Metal/Crossover/Hardcore Punk",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 12429,
+  "themes": "Violence, Hardships, Street life (early); Hare Krishna, Animal liberation",
+  "release_year": 1992
+ },
+ "partial": false,
+ "clips": [
+  "cro-mags/1474115345-107",
+  "cro-mags/1475367892-104",
+  "cro-mags/1045105590-104",
+  "cro-mags/1045140770-104",
+  "cro-mags/1469735225-106",
+  "cro-mags/1506072113-107",
+  "cro-mags/1474115345-104",
+  "cro-mags/1475367892-105",
+  "cro-mags/1045105590-105",
+  "cro-mags/1045140770-105",
+  "cro-mags/1469735225-107",
+  "cro-mags/1506072113-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 105.5126953125,
+   "iqr": 21.446416274245223
+  },
+  "onset_rate": {
+   "median": 4.939380368670969,
+   "iqr": 1.903126031012723
+  },
+  "tempo_var": {
+   "median": 10.854243965412518,
+   "iqr": 14.495711266193753
+  },
+  "low_onset_rate": {
+   "median": 6.123808834035893,
+   "iqr": 0.9018177874837852
+  },
+  "lufs": {
+   "median": -11.089515053076479,
+   "iqr": 7.189106751352508
+  },
+  "rms_dbfs": {
+   "median": -10.64050784314197,
+   "iqr": 7.538864185146151
+  },
+  "crest": {
+   "median": 10.640507698059082,
+   "iqr": 6.226765394210815
+  },
+  "centroid": {
+   "median": 2636.030093894739,
+   "iqr": 607.1191546776481
+  },
+  "flatness": {
+   "median": 0.03421172499656677,
+   "iqr": 0.027476526331156492
+  },
+  "sub100_share": {
+   "median": 0.27750857174396515,
+   "iqr": 0.13101404905319214
+  },
+  "lowest_pitch": {
+   "median": 64.599609375,
+   "iqr": 18.16864013671875
+  },
+  "harmonic_share": {
+   "median": 0.75252965092659,
+   "iqr": 0.07157963514328003
+  },
+  "clean_share": {
+   "median": 0.01587020160475005,
+   "iqr": 0.12721991123655035
+  },
+  "minor_share": {
+   "median": -0.01427015795786507,
+   "iqr": 0.11287532826494534
+  },
+  "chord_rate": {
+   "median": 1.8514815276223309,
+   "iqr": 0.4427133843281774
+  },
+  "repetitiveness": {
+   "median": 0.8912738859653473,
+   "iqr": 0.07606486976146698
+  },
+  "vocal_share": {
+   "median": 0.15065883100032806,
+   "iqr": 0.09605595096945763
+  },
+  "vocal_voiced": {
+   "median": 0.6378316032295271,
+   "iqr": 0.2517359441244056
+  },
+  "song_length": {
+   "median": 214.5505,
+   "iqr": 48.156499999999994
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "beast-in-black/1580370124-106",
+ "band": "beast-in-black",
+ "title": "Moonlight Rendezvous",
+ "source": "itunes",
+ "album": "Dark Connection",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 2.966648727747678,
+  "tempo_var": 6.773537419623032,
+  "low_onset_rate": 1.3666584026702786,
+  "lufs": -12.837605662644279,
+  "rms_dbfs": -12.96432525621949,
+  "crest": 12.964324951171875,
+  "centroid": 2103.864089928378,
+  "flatness": 0.022243481129407883,
+  "sub100_share": 0.384405255317688,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.4935125410556793,
+  "clean_share": 0.2691415313225058,
+  "minor_share": -0.0054188324123720655,
+  "chord_rate": 0.7999951625386997,
+  "repetitiveness": 0.9206593036651611,
+  "vocal_share": 0.10848870128393173,
+  "vocal_voiced": 0.7547892720306514,
+  "song_length": 338.761
+ }
+}

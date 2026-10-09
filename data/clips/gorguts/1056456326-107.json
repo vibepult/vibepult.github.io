@@ -1,0 +1,32 @@
+{
+ "id": "gorguts/1056456326-107",
+ "band": "gorguts",
+ "title": "Subtle Body",
+ "source": "itunes",
+ "album": "Obscura",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 7.217063472821607,
+  "tempo_var": 6.03891141798934,
+  "low_onset_rate": 9.15497866459778,
+  "lufs": -5.791235481576945,
+  "rms_dbfs": -5.654227924211391,
+  "crest": 5.6542277336120605,
+  "centroid": 2525.2023174285296,
+  "flatness": 0.03547584265470505,
+  "sub100_share": 0.2908288538455963,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7968308329582214,
+  "clean_share": 0.007757951900698216,
+  "minor_share": 0.054720464666975,
+  "chord_rate": 2.6395741405227175,
+  "repetitiveness": 0.9122838377952576,
+  "vocal_share": 0.0231127068400383,
+  "vocal_voiced": 0.3978779840848806,
+  "song_length": 203.053
+ }
+}

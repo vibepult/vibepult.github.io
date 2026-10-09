@@ -1,0 +1,32 @@
+{
+ "id": "myrath/1451882649-107",
+ "band": "myrath",
+ "title": "Lili Twil",
+ "source": "itunes",
+ "album": "Shehili",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 2.138389177132328,
+  "tempo_var": 13.485342692013907,
+  "low_onset_rate": 4.544077001406197,
+  "lufs": -8.628601282804906,
+  "rms_dbfs": -7.825925766649893,
+  "crest": 7.825925350189209,
+  "centroid": 2381.9023446691835,
+  "flatness": 0.028332440182566643,
+  "sub100_share": 0.33718952536582947,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7892524003982544,
+  "clean_share": 0.05896043444530644,
+  "minor_share": -0.2825448421107925,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.7876694202423096,
+  "vocal_share": 0.21690300107002258,
+  "vocal_voiced": 0.8920353982300885,
+  "song_length": 226.81
+ }
+}

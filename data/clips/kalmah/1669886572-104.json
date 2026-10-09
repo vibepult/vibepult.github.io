@@ -1,0 +1,32 @@
+{
+ "id": "kalmah/1669886572-104",
+ "band": "kalmah",
+ "title": "Black Roija",
+ "source": "itunes",
+ "album": "Swamplord",
+ "year": 2000,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 5.34597294283082,
+  "tempo_var": 15.75659824060328,
+  "low_onset_rate": 5.9473948988992875,
+  "lufs": -7.853187934992548,
+  "rms_dbfs": -7.809888922083429,
+  "crest": 7.80988883972168,
+  "centroid": 2760.1428654229085,
+  "flatness": 0.04458673298358917,
+  "sub100_share": 0.3415098190307617,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6703241467475891,
+  "clean_share": 0.07990690457719161,
+  "minor_share": -0.14867927059937902,
+  "chord_rate": 2.338863162488484,
+  "repetitiveness": 0.923931360244751,
+  "vocal_share": 0.042906977236270905,
+  "vocal_voiced": 0.08980582524271845,
+  "song_length": 254.667
+ }
+}

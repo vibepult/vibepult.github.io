@@ -1,0 +1,32 @@
+{
+ "id": "unsun/1045628709-102",
+ "band": "unsun",
+ "title": "Lost Innocence",
+ "source": "itunes",
+ "album": "The End of Life",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 6.314930538718906,
+  "tempo_var": 15.175753296096982,
+  "low_onset_rate": 4.143129030693886,
+  "lufs": -6.821112671927384,
+  "rms_dbfs": -6.7937113182086275,
+  "crest": 6.793711185455322,
+  "centroid": 2529.794068129066,
+  "flatness": 0.03115757741034031,
+  "sub100_share": 0.18421395123004913,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8282858729362488,
+  "clean_share": 0.012412723041117145,
+  "minor_share": -0.1357660068284806,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.9452887773513794,
+  "vocal_share": 0.3821841776371002,
+  "vocal_voiced": 0.9338006230529595,
+  "song_length": 198.507
+ }
+}

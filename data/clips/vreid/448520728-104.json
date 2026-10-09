@@ -1,0 +1,32 @@
+{
+ "id": "vreid/448520728-104",
+ "band": "vreid",
+ "title": "The Red Smell",
+ "source": "itunes",
+ "album": "Pitch Black Brigade",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 4.009479707123115,
+  "tempo_var": 38.23522766148768,
+  "low_onset_rate": 5.880570237113902,
+  "lufs": -9.679433872305419,
+  "rms_dbfs": -9.073801615711153,
+  "crest": 9.07380199432373,
+  "centroid": 2406.561971750337,
+  "flatness": 0.03270365670323372,
+  "sub100_share": 0.4072687327861786,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6858773231506348,
+  "clean_share": 0.16446858029480219,
+  "minor_share": 0.26163516650627605,
+  "chord_rate": 1.7374412064200164,
+  "repetitiveness": 0.8154904842376709,
+  "vocal_share": 0.12177267670631409,
+  "vocal_voiced": 0.07414104882459313,
+  "song_length": 282.387
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "vondur/1892028093-109",
+ "band": "vondur",
+ "title": "Eitt Bergmál Ur Framtiðinnar Dagar",
+ "source": "itunes",
+ "album": "Striðsyfirlýsing",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 6.9332285226224855,
+  "tempo_var": 10.36095948065589,
+  "low_onset_rate": 5.666581004066455,
+  "lufs": -9.903402231997026,
+  "rms_dbfs": -12.078382173883053,
+  "crest": 12.07838249206543,
+  "centroid": 4086.373250547769,
+  "flatness": 0.09268885850906372,
+  "sub100_share": 0.13438527286052704,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.46111494302749634,
+  "clean_share": 0.0,
+  "minor_share": -0.21666128668669937,
+  "chord_rate": 1.1666490302489758,
+  "repetitiveness": 0.9453449845314026,
+  "vocal_share": 0.04965962469577789,
+  "vocal_voiced": 0.2029769959404601,
+  "song_length": 218.493
+ }
+}

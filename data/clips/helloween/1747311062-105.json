@@ -1,0 +1,32 @@
+{
+ "id": "helloween/1747311062-105",
+ "band": "helloween",
+ "title": "Metal Invaders (2024 Remaster)",
+ "source": "itunes",
+ "album": "Walls of Jericho (2024 Remaster)",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 6.8998956931868,
+  "tempo_var": 8.333500250039434,
+  "low_onset_rate": 8.533204335535366,
+  "lufs": -8.700828023495506,
+  "rms_dbfs": -9.016311427114234,
+  "crest": 9.016311645507812,
+  "centroid": 2819.9814660530865,
+  "flatness": 0.042852047830820084,
+  "sub100_share": 0.18383724987506866,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7578158378601074,
+  "clean_share": 0.0,
+  "minor_share": -0.09007080897171404,
+  "chord_rate": 1.7999727895269915,
+  "repetitiveness": 0.8873034119606018,
+  "vocal_share": 0.18488849699497223,
+  "vocal_voiced": 0.8258928571428571,
+  "song_length": 251.733
+ }
+}

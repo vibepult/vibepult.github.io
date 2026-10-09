@@ -1,0 +1,32 @@
+{
+ "id": "mar-de-grises/1531058389-102",
+ "band": "mar-de-grises",
+ "title": "To See Saturn Fall",
+ "source": "itunes",
+ "album": "The Tatterdemalion Express (Remastered 2020)",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.878200310333123,
+  "tempo_var": 4.077009580413345,
+  "low_onset_rate": 5.713508582650439,
+  "lufs": -10.75562643633844,
+  "rms_dbfs": -10.471783766707176,
+  "crest": 10.471783638000488,
+  "centroid": 2656.9439421295197,
+  "flatness": 0.03931903466582298,
+  "sub100_share": 0.30269116163253784,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8135101199150085,
+  "clean_share": 0.0,
+  "minor_share": 0.0010835934243765277,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.9251031279563904,
+  "vocal_share": 0.05540022999048233,
+  "vocal_voiced": 0.4412470023980815,
+  "song_length": 488.32
+ }
+}

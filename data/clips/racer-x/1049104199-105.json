@@ -1,0 +1,32 @@
+{
+ "id": "racer-x/1049104199-105",
+ "band": "racer-x",
+ "title": "Hammer Away",
+ "source": "itunes",
+ "album": "Second Heat",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 0.9689575958880862,
+  "tempo_var": 23.166176753718023,
+  "low_onset_rate": 6.448579862289677,
+  "lufs": -17.302908404118305,
+  "rms_dbfs": -18.179998378423207,
+  "crest": 15.422587394714355,
+  "centroid": 3021.7461151905036,
+  "flatness": 0.048841316252946854,
+  "sub100_share": 0.17761069536209106,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.652151882648468,
+  "clean_share": 0.0069821567106283944,
+  "minor_share": 0.1475000443069363,
+  "chord_rate": 2.773223464093488,
+  "repetitiveness": 0.9308565258979797,
+  "vocal_share": 9.9944327303092e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 224.667
+ }
+}

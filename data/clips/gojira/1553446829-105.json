@@ -1,0 +1,32 @@
+{
+ "id": "gojira/1553446829-105",
+ "band": "gojira",
+ "title": "New Found",
+ "source": "itunes",
+ "album": "Fortitude",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.297716773571737,
+  "tempo_var": 14.59171580870812,
+  "low_onset_rate": 5.696056245260274,
+  "lufs": -8.221936435901169,
+  "rms_dbfs": -7.457372405081464,
+  "crest": 7.457372665405273,
+  "centroid": 2501.5723534873027,
+  "flatness": 0.03332272171974182,
+  "sub100_share": 0.3530178964138031,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7617728114128113,
+  "clean_share": 0.0030935808197989174,
+  "minor_share": -0.10749401738832709,
+  "chord_rate": 1.8986854150867578,
+  "repetitiveness": 0.7684191465377808,
+  "vocal_share": 0.03781935200095177,
+  "vocal_voiced": 0.49074074074074076,
+  "song_length": 396.635
+ }
+}

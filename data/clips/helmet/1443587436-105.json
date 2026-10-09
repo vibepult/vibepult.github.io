@@ -1,0 +1,32 @@
+{
+ "id": "helmet/1443587436-105",
+ "band": "helmet",
+ "title": "Fbla",
+ "source": "itunes",
+ "album": "Strap It On",
+ "year": 1990,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 2.3332980604979516,
+  "tempo_var": 10.854281513950184,
+  "low_onset_rate": 2.766624843161857,
+  "lufs": -13.178359153786527,
+  "rms_dbfs": -12.418537353614266,
+  "crest": 12.418537139892578,
+  "centroid": 2494.6169510258546,
+  "flatness": 0.027116741985082626,
+  "sub100_share": 0.3343907296657562,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.5198028087615967,
+  "clean_share": 0.12219644238205724,
+  "minor_share": 0.06906459634163245,
+  "chord_rate": 2.0666354250124717,
+  "repetitiveness": 0.8800736665725708,
+  "vocal_share": 0.18441203236579895,
+  "vocal_voiced": 0.665938864628821,
+  "song_length": 159.64
+ }
+}

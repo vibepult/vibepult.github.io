@@ -1,0 +1,32 @@
+{
+ "id": "candlemass/1444369306-104",
+ "band": "candlemass",
+ "title": "Bridge of the Blind",
+ "source": "itunes",
+ "album": "The Door to Doom",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.466666666666667,
+  "tempo_var": 15.99518862593592,
+  "low_onset_rate": 3.5,
+  "lufs": -13.89144239805078,
+  "rms_dbfs": -12.006122781675746,
+  "crest": 12.005858421325684,
+  "centroid": 1330.5551625812302,
+  "flatness": 0.003241573227569461,
+  "sub100_share": 0.5577347278594971,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.9481343626976013,
+  "clean_share": 0.9024767801857585,
+  "minor_share": -0.09270149377384607,
+  "chord_rate": 1.1,
+  "repetitiveness": 0.500459611415863,
+  "vocal_share": 0.16431917250156403,
+  "vocal_voiced": 0.861969111969112,
+  "song_length": 223.827
+ }
+}

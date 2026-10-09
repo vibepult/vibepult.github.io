@@ -1,0 +1,32 @@
+{
+ "id": "arkangel/1622516768-104",
+ "band": "arkangel",
+ "title": "Day of Apocalypse",
+ "source": "itunes",
+ "album": "Dead Man Walking",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.71113865586966,
+  "tempo_var": 22.123853991118672,
+  "low_onset_rate": 5.011849633903894,
+  "lufs": -10.569091699317342,
+  "rms_dbfs": -10.483199738918538,
+  "crest": 10.483200073242188,
+  "centroid": 2657.237531676252,
+  "flatness": 0.03740965574979782,
+  "sub100_share": 0.28869733214378357,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.683393120765686,
+  "clean_share": 0.02094647013188518,
+  "minor_share": -0.09467529781175643,
+  "chord_rate": 1.971327522668865,
+  "repetitiveness": 0.9031592607498169,
+  "vocal_share": 0.13517539203166962,
+  "vocal_voiced": 0.0735826296743064,
+  "song_length": 238.653
+ }
+}

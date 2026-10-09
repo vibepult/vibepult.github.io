@@ -1,0 +1,32 @@
+{
+ "id": "orange-goblin/965384114-104",
+ "band": "orange-goblin",
+ "title": "Song of the Purple Mushroom Fish",
+ "source": "itunes",
+ "album": "Frequencies from Planet Ten",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 198.76802884615384,
+  "onset_rate": 4.166666666666667,
+  "tempo_var": 32.53850774519079,
+  "low_onset_rate": 6.566666666666666,
+  "lufs": -16.190774456196348,
+  "rms_dbfs": -15.404716813217725,
+  "crest": 15.404716491699219,
+  "centroid": 711.2701908918212,
+  "flatness": 5.478148887050338e-05,
+  "sub100_share": 0.004202698823064566,
+  "lowest_pitch": 145.34912109375,
+  "harmonic_share": 0.970573365688324,
+  "clean_share": 0.9992260061919505,
+  "minor_share": -0.23249690298274206,
+  "chord_rate": 0.8,
+  "repetitiveness": 0.5531666278839111,
+  "vocal_share": 0.009555998258292675,
+  "vocal_voiced": 0.22181146025878004,
+  "song_length": 158.747
+ }
+}

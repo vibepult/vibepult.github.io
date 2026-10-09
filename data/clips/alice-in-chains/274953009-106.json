@@ -1,0 +1,32 @@
+{
+ "id": "alice-in-chains/274953009-106",
+ "band": "alice-in-chains",
+ "title": "Love, Hate, Love",
+ "source": "itunes",
+ "album": "Facelift",
+ "year": 1990,
+ "itunes_year": 1990,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 2.9314765099657207,
+  "tempo_var": 2.6268602332253748,
+  "low_onset_rate": 1.9987339840675369,
+  "lufs": -15.316756815044519,
+  "rms_dbfs": -14.975348302406053,
+  "crest": 14.975347518920898,
+  "centroid": 2345.042458873277,
+  "flatness": 0.023487620055675507,
+  "sub100_share": 0.22123165428638458,
+  "lowest_pitch": 115.740966796875,
+  "harmonic_share": 0.5791382789611816,
+  "clean_share": 0.36040216550657383,
+  "minor_share": -0.03322107802365171,
+  "chord_rate": 1.6322994203218217,
+  "repetitiveness": 0.7763612866401672,
+  "vocal_share": 0.21585270762443542,
+  "vocal_voiced": 0.7979591836734694,
+  "song_length": 387.907
+ }
+}

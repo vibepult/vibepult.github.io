@@ -1,0 +1,32 @@
+{
+ "id": "vader/1570431995-105",
+ "band": "vader",
+ "title": "Sothis",
+ "source": "itunes",
+ "album": "De Profundis",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 1.5035548901711682,
+  "tempo_var": 5.610871888631514,
+  "low_onset_rate": 0.8353082723173156,
+  "lufs": -11.172463969463948,
+  "rms_dbfs": -10.304796729114758,
+  "crest": 10.30479621887207,
+  "centroid": 2550.5593552040787,
+  "flatness": 0.030431773513555527,
+  "sub100_share": 0.36464032530784607,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7423255443572998,
+  "clean_share": 0.011636927851047323,
+  "minor_share": -0.17287539351960568,
+  "chord_rate": 2.071564515346943,
+  "repetitiveness": 0.9009913206100464,
+  "vocal_share": 6.27087615612254e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 222.48
+ }
+}

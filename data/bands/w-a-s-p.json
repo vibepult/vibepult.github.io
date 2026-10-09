@@ -1,0 +1,127 @@
+{
+ "slug": "w-a-s-p",
+ "name": "W.A.S.P.",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 3202725,
+  "deezer": 3016,
+  "spotify": "3BVkDHWRvLJEyKdvhLbjsq"
+ },
+ "metadata": {
+  "formed": 1982,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 3,
+  "past_members": 14,
+  "full_lengths": 16,
+  "genre": "Heavy Metal/Hard Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 153110,
+  "themes": "Sex, Lust (early); Society, Politics, Evil, Christianity (later)",
+  "release_year": 1996
+ },
+ "partial": false,
+ "clips": [
+  "w-a-s-p/210337187-107",
+  "w-a-s-p/210601553-106",
+  "w-a-s-p/152119168-108",
+  "w-a-s-p/155739327-108",
+  "w-a-s-p/157997368-107",
+  "w-a-s-p/1436221348-105",
+  "w-a-s-p/1435990565-105",
+  "w-a-s-p/1436190711-105",
+  "w-a-s-p/1183993330-105",
+  "w-a-s-p/1183625146-105",
+  "w-a-s-p/1183582979-105",
+  "w-a-s-p/210337187-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 130.50426136363637,
+   "iqr": 48.63970588235293
+  },
+  "onset_rate": {
+   "median": 3.7880731868948914,
+   "iqr": 1.625
+  },
+  "tempo_var": {
+   "median": 17.034224555591273,
+   "iqr": 10.324432863936494
+  },
+  "low_onset_rate": {
+   "median": 4.722117498262458,
+   "iqr": 1.9083333333333332
+  },
+  "lufs": {
+   "median": -11.025841965158246,
+   "iqr": 4.030811597291363
+  },
+  "rms_dbfs": {
+   "median": -10.844142554036287,
+   "iqr": 4.2995693097720356
+  },
+  "crest": {
+   "median": 10.84414291381836,
+   "iqr": 4.210726737976074
+  },
+  "centroid": {
+   "median": 2502.5028489669085,
+   "iqr": 503.1506951052811
+  },
+  "flatness": {
+   "median": 0.02605926524847746,
+   "iqr": 0.018564365338534117
+  },
+  "sub100_share": {
+   "median": 0.292974129319191,
+   "iqr": 0.12291974201798439
+  },
+  "lowest_pitch": {
+   "median": 61.907958984375,
+   "iqr": 16.14990234375
+  },
+  "harmonic_share": {
+   "median": 0.7700801193714142,
+   "iqr": 0.10450460016727448
+  },
+  "clean_share": {
+   "median": 0.04256965944272446,
+   "iqr": 0.3415247678018576
+  },
+  "minor_share": {
+   "median": 0.050756188286734005,
+   "iqr": 0.1156749604963658
+  },
+  "chord_rate": {
+   "median": 1.4016589487465452,
+   "iqr": 0.6916666666666669
+  },
+  "repetitiveness": {
+   "median": 0.8611226081848145,
+   "iqr": 0.1440771520137787
+  },
+  "vocal_share": {
+   "median": 0.26464319229125977,
+   "iqr": 0.09447553008794785
+  },
+  "vocal_voiced": {
+   "median": 0.6640634462984034,
+   "iqr": 0.23820829999367565
+  },
+  "song_length": {
+   "median": 302.74,
+   "iqr": 113.52275000000003
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.8,
+  "camp": 0.7
+ },
+ "sources_failed": []
+}

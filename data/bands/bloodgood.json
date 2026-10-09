@@ -1,0 +1,127 @@
+{
+ "slug": "bloodgood",
+ "name": "Bloodgood",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 167245012,
+  "deezer": 614499,
+  "spotify": "5WJ6VEY43MOngJJJNabAId"
+ },
+ "metadata": {
+  "formed": 1984,
+  "split": 2022,
+  "country": "US",
+  "status": "split-up",
+  "members": 4,
+  "past_members": 10,
+  "full_lengths": 6,
+  "genre": "Heavy Metal/Hard Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 4413,
+  "themes": "Christianity",
+  "release_year": 1988
+ },
+ "partial": false,
+ "clips": [
+  "bloodgood/555484160-105",
+  "bloodgood/1460857465-107",
+  "bloodgood/560189773-105",
+  "bloodgood/560189464-105",
+  "bloodgood/167250108-106",
+  "bloodgood/757636758-106",
+  "bloodgood/555484160-106",
+  "bloodgood/1460857465-106",
+  "bloodgood/560189773-104",
+  "bloodgood/560189464-104",
+  "bloodgood/167250108-107",
+  "bloodgood/757636758-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 135.99917763157896,
+   "iqr": 35.565582041240404
+  },
+  "onset_rate": {
+   "median": 4.076304368908501,
+   "iqr": 1.4952018074479945
+  },
+  "tempo_var": {
+   "median": 3.9482106136794846,
+   "iqr": 10.913515371917859
+  },
+  "low_onset_rate": {
+   "median": 4.360309181496388,
+   "iqr": 1.8376781990980948
+  },
+  "lufs": {
+   "median": -8.786471184546773,
+   "iqr": 3.082259131157606
+  },
+  "rms_dbfs": {
+   "median": -8.768164409244013,
+   "iqr": 2.187886501174212
+  },
+  "crest": {
+   "median": 8.768164157867432,
+   "iqr": 2.187887191772461
+  },
+  "centroid": {
+   "median": 2630.956608575889,
+   "iqr": 378.28113259938436
+  },
+  "flatness": {
+   "median": 0.03245236538350582,
+   "iqr": 0.019397946540266275
+  },
+  "sub100_share": {
+   "median": 0.21489263325929642,
+   "iqr": 0.09337922185659409
+  },
+  "lowest_pitch": {
+   "median": 61.907958984375,
+   "iqr": 24.224853515625
+  },
+  "harmonic_share": {
+   "median": 0.7516791820526123,
+   "iqr": 0.13477908074855804
+  },
+  "clean_share": {
+   "median": 0.026764934057408842,
+   "iqr": 0.13013964313421258
+  },
+  "minor_share": {
+   "median": 0.08907076880823092,
+   "iqr": 0.12511778139363605
+  },
+  "chord_rate": {
+   "median": 1.3699055666003976,
+   "iqr": 0.5011849633903891
+  },
+  "repetitiveness": {
+   "median": 0.7254162132740021,
+   "iqr": 0.13505350053310394
+  },
+  "vocal_share": {
+   "median": 0.30159594118595123,
+   "iqr": 0.08458223193883896
+  },
+  "vocal_voiced": {
+   "median": 0.8508917021540161,
+   "iqr": 0.04662344330973822
+  },
+  "song_length": {
+   "median": 226.66649999999998,
+   "iqr": 38.02350000000001
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

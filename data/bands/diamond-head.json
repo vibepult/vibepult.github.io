@@ -1,0 +1,127 @@
+{
+ "slug": "diamond-head",
+ "name": "Diamond Head",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 7278795,
+  "deezer": 11873,
+  "spotify": "3z3KnhKZObj216IgfHYGVf"
+ },
+ "metadata": {
+  "formed": 1976,
+  "split": null,
+  "country": "GB",
+  "status": "on hold",
+  "members": 5,
+  "past_members": 15,
+  "full_lengths": 9,
+  "genre": "NWOBHM, Heavy Metal/Hard Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 16632,
+  "themes": "Fantasy, Fiction, Love (early); Society, Life, Introspection (later)",
+  "release_year": 1988
+ },
+ "partial": false,
+ "clips": [
+  "diamond-head/1635259055-110",
+  "diamond-head/1458154418-103",
+  "diamond-head/1438186838-106",
+  "diamond-head/1799713337-105",
+  "diamond-head/1140554704-106",
+  "diamond-head/1140922705-106",
+  "diamond-head/1090088897-106",
+  "diamond-head/1454257658-106",
+  "diamond-head/1529297365-108",
+  "diamond-head/1635259055-109",
+  "diamond-head/1458154418-105",
+  "diamond-head/1438186838-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 112.55992542613637,
+   "iqr": 36.20391901088931
+  },
+  "onset_rate": {
+   "median": 4.0997238893377626,
+   "iqr": 0.6905259242150628
+  },
+  "tempo_var": {
+   "median": 8.495714708984504,
+   "iqr": 14.6155347250732
+  },
+  "low_onset_rate": {
+   "median": 5.105576813354997,
+   "iqr": 1.1949450623296816
+  },
+  "lufs": {
+   "median": -9.46572531559219,
+   "iqr": 3.090642330873802
+  },
+  "rms_dbfs": {
+   "median": -9.379170286466522,
+   "iqr": 2.1584924841791917
+  },
+  "crest": {
+   "median": 9.379170417785645,
+   "iqr": 2.1584925651550293
+  },
+  "centroid": {
+   "median": 2615.4771996141053,
+   "iqr": 447.4529583913395
+  },
+  "flatness": {
+   "median": 0.030378786846995354,
+   "iqr": 0.014676162041723728
+  },
+  "sub100_share": {
+   "median": 0.22791089862585068,
+   "iqr": 0.07823799178004265
+  },
+  "lowest_pitch": {
+   "median": 67.291259765625,
+   "iqr": 39.70184326171875
+  },
+  "harmonic_share": {
+   "median": 0.743392825126648,
+   "iqr": 0.10212495923042297
+  },
+  "clean_share": {
+   "median": 0.06516679596586501,
+   "iqr": 0.10350790825096884
+  },
+  "minor_share": {
+   "median": 0.0454275278444774,
+   "iqr": 0.1948654295746012
+  },
+  "chord_rate": {
+   "median": 1.735285089937197,
+   "iqr": 0.3159055640627495
+  },
+  "repetitiveness": {
+   "median": 0.8558337092399597,
+   "iqr": 0.1499025523662567
+  },
+  "vocal_share": {
+   "median": 0.1404566466808319,
+   "iqr": 0.132818054407835
+  },
+  "vocal_voiced": {
+   "median": 0.8527508090614887,
+   "iqr": 0.12775760733164876
+  },
+  "song_length": {
+   "median": 353.6735,
+   "iqr": 170.17125000000004
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

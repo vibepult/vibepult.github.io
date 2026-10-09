@@ -1,0 +1,32 @@
+{
+ "id": "meathook-seed/567237242-108",
+ "band": "meathook-seed",
+ "title": "Focal Point Blur",
+ "source": "itunes",
+ "album": "Embedded",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 6.448579862289677,
+  "tempo_var": 0.0,
+  "low_onset_rate": 8.520144377636619,
+  "lufs": -16.068006976892743,
+  "rms_dbfs": -14.503531194317548,
+  "crest": 14.207494735717773,
+  "centroid": 2807.193483536658,
+  "flatness": 0.035183198750019073,
+  "sub100_share": 0.6705573797225952,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8545860648155212,
+  "clean_share": 0.05430566330488751,
+  "minor_share": -0.018123382743320426,
+  "chord_rate": 2.572749478737332,
+  "repetitiveness": 0.9435608386993408,
+  "vocal_share": 0.021611621603369713,
+  "vocal_voiced": 0.09202453987730061,
+  "song_length": 184.0
+ }
+}

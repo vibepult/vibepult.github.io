@@ -1,0 +1,32 @@
+{
+ "id": "skyclad/423810593-106",
+ "band": "skyclad",
+ "title": "Bombjour!",
+ "source": "itunes",
+ "album": "Oui Avant-Garde A Chance",
+ "year": 1996,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 4.9784373030112015,
+  "tempo_var": 25.389806173787555,
+  "low_onset_rate": 4.945024972118508,
+  "lufs": -12.774015232761712,
+  "rms_dbfs": -12.655409613265752,
+  "crest": 12.655409812927246,
+  "centroid": 2098.9137128167145,
+  "flatness": 0.014295271597802639,
+  "sub100_share": 0.18485502898693085,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.7042403221130371,
+  "clean_share": 0.11404189294026378,
+  "minor_share": 0.016709504418885524,
+  "chord_rate": 2.572749478737332,
+  "repetitiveness": 0.8771073818206787,
+  "vocal_share": 0.22564288973808289,
+  "vocal_voiced": 0.5843429636533085,
+  "song_length": 244.373
+ }
+}

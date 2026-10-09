@@ -1,0 +1,32 @@
+{
+ "id": "suidakra/1436580764-105",
+ "band": "suidakra",
+ "title": "Black Dawn",
+ "source": "itunes",
+ "album": "Cimbric Yarns",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.8758303835523447,
+  "tempo_var": 9.965529085397932,
+  "low_onset_rate": 1.871090529990787,
+  "lufs": -10.933843455770301,
+  "rms_dbfs": -8.856359253086051,
+  "crest": 8.856359481811523,
+  "centroid": 1154.9229508826595,
+  "flatness": 0.008467692881822586,
+  "sub100_share": 0.6120333671569824,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.9568149447441101,
+  "clean_share": 0.8634600465477114,
+  "minor_share": 0.06058769417507026,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.8110111951828003,
+  "vocal_share": 0.013337080366909504,
+  "vocal_voiced": 0.9753363228699552,
+  "song_length": 176.627
+ }
+}

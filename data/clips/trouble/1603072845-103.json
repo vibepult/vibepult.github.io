@@ -1,0 +1,32 @@
+{
+ "id": "trouble/1603072845-103",
+ "band": "trouble",
+ "title": "The Wish (Remastered 2020)",
+ "source": "itunes",
+ "album": "The Skull (Remastered 2020)",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 2.405687824273869,
+  "tempo_var": 23.549178472679028,
+  "low_onset_rate": 4.176541361586578,
+  "lufs": -17.937797007094257,
+  "rms_dbfs": -16.77290085407468,
+  "crest": 16.77290153503418,
+  "centroid": 1459.1138293389483,
+  "flatness": 0.004621034488081932,
+  "sub100_share": 0.3826829195022583,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.9065330624580383,
+  "clean_share": 0.764934057408844,
+  "minor_share": -0.006414486652864038,
+  "chord_rate": 1.336493235707705,
+  "repetitiveness": 0.5028377771377563,
+  "vocal_share": 0.09692166745662689,
+  "vocal_voiced": 0.9604261796042618,
+  "song_length": 694.573
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "primordial/327891253-104",
+ "band": "primordial",
+ "title": "Journey's End",
+ "source": "itunes",
+ "album": "A Journey's End",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.777963317655045,
+  "tempo_var": 10.653617860917985,
+  "low_onset_rate": 5.178911288367357,
+  "lufs": -11.617512041015418,
+  "rms_dbfs": -11.102300143664685,
+  "crest": 11.102299690246582,
+  "centroid": 2196.6739309357445,
+  "flatness": 0.021245203912258148,
+  "sub100_share": 0.2665865123271942,
+  "lowest_pitch": 99.591064453125,
+  "harmonic_share": 0.8430611491203308,
+  "clean_share": 0.33747090768037236,
+  "minor_share": 0.11325265927203532,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.8051503896713257,
+  "vocal_share": 6.027198082847463e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 480.84
+ }
+}

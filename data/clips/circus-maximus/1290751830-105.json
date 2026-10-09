@@ -1,0 +1,32 @@
+{
+ "id": "circus-maximus/1290751830-105",
+ "band": "circus-maximus",
+ "title": "Reach Within",
+ "source": "itunes",
+ "album": "Nine",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 66.25600961538461,
+  "onset_rate": 0.6348342869611598,
+  "tempo_var": 25.519572187995394,
+  "low_onset_rate": 4.544077001406197,
+  "lufs": -27.21253978851787,
+  "rms_dbfs": -26.65816258254712,
+  "crest": 14.299506187438965,
+  "centroid": 630.0431225386407,
+  "flatness": 0.0034206558484584093,
+  "sub100_share": 0.09628985822200775,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.9944561123847961,
+  "clean_share": 0.9891388673390225,
+  "minor_share": -0.1731022201672936,
+  "chord_rate": 0.801895941424623,
+  "repetitiveness": 0.4770406484603882,
+  "vocal_share": 2.7033402147935703e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 299.387
+ }
+}

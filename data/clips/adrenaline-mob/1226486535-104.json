@@ -1,0 +1,32 @@
+{
+ "id": "adrenaline-mob/1226486535-104",
+ "band": "adrenaline-mob",
+ "title": "Bleeding Hands",
+ "source": "itunes",
+ "album": "We the People",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 4.544077001406197,
+  "tempo_var": 0.0,
+  "low_onset_rate": 3.6085317364108036,
+  "lufs": -7.335384973160429,
+  "rms_dbfs": -6.756146408740276,
+  "crest": 6.75614595413208,
+  "centroid": 2473.6784063184177,
+  "flatness": 0.027887584641575813,
+  "sub100_share": 0.29072561860084534,
+  "lowest_pitch": 156.11572265625,
+  "harmonic_share": 0.7415995001792908,
+  "clean_share": 0.04965089216446858,
+  "minor_share": -0.0333992158138372,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.738036572933197,
+  "vocal_share": 0.3028830885887146,
+  "vocal_voiced": 0.6830601092896175,
+  "song_length": 293.907
+ }
+}

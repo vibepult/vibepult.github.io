@@ -1,0 +1,32 @@
+{
+ "id": "warlock/1444038520-104",
+ "band": "warlock",
+ "title": "Wrathchild",
+ "source": "itunes",
+ "album": "Hellbound",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.2744084274838774,
+  "tempo_var": 4.263256414560601e-14,
+  "low_onset_rate": 5.546446928186976,
+  "lufs": -17.605724410759912,
+  "rms_dbfs": -17.811304546507003,
+  "crest": 17.527873992919922,
+  "centroid": 2454.3222147864044,
+  "flatness": 0.026464208960533142,
+  "sub100_share": 0.2260953038930893,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7440711855888367,
+  "clean_share": 0.0031031807602792862,
+  "minor_share": -0.17018585391809438,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.7518380284309387,
+  "vocal_share": 0.22687186300754547,
+  "vocal_voiced": 0.7960526315789473,
+  "song_length": 212.16
+ }
+}

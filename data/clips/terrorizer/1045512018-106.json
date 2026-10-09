@@ -1,0 +1,32 @@
+{
+ "id": "terrorizer/1045512018-106",
+ "band": "terrorizer",
+ "title": "Mayhem",
+ "source": "itunes",
+ "album": "Darker Days Ahead",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 7.851897759782767,
+  "tempo_var": 12.070233959984725,
+  "low_onset_rate": 7.918722421568152,
+  "lufs": -6.156644887662726,
+  "rms_dbfs": -5.5300941266191685,
+  "crest": 5.530094146728516,
+  "centroid": 2366.973965318755,
+  "flatness": 0.03056395798921585,
+  "sub100_share": 0.2243526726961136,
+  "lowest_pitch": 88.824462890625,
+  "harmonic_share": 0.7286252379417419,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": -0.10894325892960915,
+  "chord_rate": 2.505924816951947,
+  "repetitiveness": 0.9597771167755127,
+  "vocal_share": 0.12369760870933533,
+  "vocal_voiced": 0.13875598086124402,
+  "song_length": 237.093
+ }
+}

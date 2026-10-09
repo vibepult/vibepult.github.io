@@ -1,0 +1,32 @@
+{
+ "id": "bloodbound/307341717-108",
+ "band": "bloodbound",
+ "title": "Master of My Dreams",
+ "source": "itunes",
+ "album": "Tabula Rasa",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.1407591039131066,
+  "tempo_var": 10.928876881558752,
+  "low_onset_rate": 1.9045028608834795,
+  "lufs": -9.015140015044011,
+  "rms_dbfs": -9.34719335085146,
+  "crest": 9.347192764282227,
+  "centroid": 2723.9011484763473,
+  "flatness": 0.0330885574221611,
+  "sub100_share": 0.46978649497032166,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.85320645570755,
+  "clean_share": 0.21644685802948022,
+  "minor_share": 0.17990172145334493,
+  "chord_rate": 1.871090529990787,
+  "repetitiveness": 0.8042850494384766,
+  "vocal_share": 0.013772955164313316,
+  "vocal_voiced": 0.2153846153846154,
+  "song_length": 213.76
+ }
+}

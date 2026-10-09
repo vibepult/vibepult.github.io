@@ -1,0 +1,32 @@
+{
+ "id": "the-lonely/1777517624-106",
+ "band": "the-lonely",
+ "title": "Jealousy",
+ "source": "itunes",
+ "album": "Inhuman",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 6.866562863751115,
+  "tempo_var": 1.3732973076914972,
+  "low_onset_rate": 8.199876041178516,
+  "lufs": -14.766446385865349,
+  "rms_dbfs": -15.080347523447902,
+  "crest": 15.080081939697266,
+  "centroid": 1847.5691643429939,
+  "flatness": 0.013175098225474358,
+  "sub100_share": 0.01819217950105667,
+  "lowest_pitch": 123.81591796875,
+  "harmonic_share": 0.745810866355896,
+  "clean_share": 0.002320185614849188,
+  "minor_share": -0.07267392362547942,
+  "chord_rate": 1.4666444951701412,
+  "repetitiveness": 0.9145033955574036,
+  "vocal_share": 0.03139529749751091,
+  "vocal_voiced": 0.832,
+  "song_length": 252.923
+ }
+}

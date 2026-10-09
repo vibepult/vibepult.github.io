@@ -1,0 +1,32 @@
+{
+ "id": "dokken/1727314316-105",
+ "band": "dokken",
+ "title": "Lightnin' Strikes Again",
+ "source": "itunes",
+ "album": "Under Lock and Key",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 3.5666450996517027,
+  "tempo_var": 14.429678828557782,
+  "low_onset_rate": 3.2333137819272446,
+  "lufs": -17.519167702859427,
+  "rms_dbfs": -17.81813296607674,
+  "crest": 17.39250373840332,
+  "centroid": 2605.7378447197457,
+  "flatness": 0.03548011928796768,
+  "sub100_share": 0.18372686207294464,
+  "lowest_pitch": 88.824462890625,
+  "harmonic_share": 0.6530115604400635,
+  "clean_share": 0.11214230471771075,
+  "minor_share": 0.18762854883041413,
+  "chord_rate": 2.23331982875387,
+  "repetitiveness": 0.9484567046165466,
+  "vocal_share": 0.12424927949905396,
+  "vocal_voiced": 0.9446254071661238,
+  "song_length": 228.707
+ }
+}

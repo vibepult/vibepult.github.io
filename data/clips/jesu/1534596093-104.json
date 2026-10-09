@@ -1,0 +1,32 @@
+{
+ "id": "jesu/1534596093-104",
+ "band": "jesu",
+ "title": "We All Faulter",
+ "source": "itunes",
+ "album": "Jesu",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.174171434805799,
+  "tempo_var": 0.6609872809908361,
+  "low_onset_rate": 7.8184854288900745,
+  "lufs": -10.083966154837888,
+  "rms_dbfs": -8.698168407865465,
+  "crest": 8.698168754577637,
+  "centroid": 1971.9474121808819,
+  "flatness": 0.009135300293564796,
+  "sub100_share": 0.5661643147468567,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.9688133597373962,
+  "clean_share": 0.5585725368502715,
+  "minor_share": 0.25957427642082825,
+  "chord_rate": 1.336493235707705,
+  "repetitiveness": 0.7888197898864746,
+  "vocal_share": 0.023380404338240623,
+  "vocal_voiced": 0.6403940886699507,
+  "song_length": 416.573
+ }
+}

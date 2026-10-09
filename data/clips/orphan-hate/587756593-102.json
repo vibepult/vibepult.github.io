@@ -1,0 +1,32 @@
+{
+ "id": "orphan-hate/587756593-102",
+ "band": "orphan-hate",
+ "title": "Bring Me Down",
+ "source": "itunes",
+ "album": "Attitude & Consequences",
+ "year": 2012,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 4.310190685157349,
+  "tempo_var": 25.293929977601124,
+  "low_onset_rate": 6.649053847645832,
+  "lufs": -8.428058640356706,
+  "rms_dbfs": -7.346223267737524,
+  "crest": 7.346222877502441,
+  "centroid": 2392.6464596826445,
+  "flatness": 0.025691835209727287,
+  "sub100_share": 0.5257507562637329,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7655055522918701,
+  "clean_share": 0.06516679596586501,
+  "minor_share": 0.20904897909809933,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.9517534971237183,
+  "vocal_share": 0.12187521904706955,
+  "vocal_voiced": 0.5884476534296029,
+  "song_length": 284.48
+ }
+}

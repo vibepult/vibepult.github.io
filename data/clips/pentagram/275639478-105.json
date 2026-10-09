@@ -1,0 +1,32 @@
+{
+ "id": "pentagram/275639478-105",
+ "band": "pentagram",
+ "title": "Relentless",
+ "source": "itunes",
+ "album": "Relentless",
+ "year": 1993,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 5.266666666666667,
+  "tempo_var": 7.0888618646453265,
+  "low_onset_rate": 5.866666666666666,
+  "lufs": -12.032914062741854,
+  "rms_dbfs": -11.12663671474602,
+  "crest": 11.126636505126953,
+  "centroid": 2590.00578892002,
+  "flatness": 0.02468744106590748,
+  "sub100_share": 0.2933277487754822,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7546741962432861,
+  "clean_share": 0.034055727554179564,
+  "minor_share": 0.17199182998877316,
+  "chord_rate": 1.7333333333333334,
+  "repetitiveness": 0.8761767745018005,
+  "vocal_share": 0.126203715801239,
+  "vocal_voiced": 0.8745019920318725,
+  "song_length": 229.64
+ }
+}

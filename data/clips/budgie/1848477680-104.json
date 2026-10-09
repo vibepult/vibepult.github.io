@@ -1,0 +1,32 @@
+{
+ "id": "budgie/1848477680-104",
+ "band": "budgie",
+ "title": "Quacktors And Bureaucats",
+ "source": "itunes",
+ "album": "If I Were Brittania I'd Waive The Rules",
+ "year": 1976,
+ "itunes_year": 1976,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.796961561762089,
+  "tempo_var": 2.842170943040401e-14,
+  "low_onset_rate": 3.631033404389359,
+  "lufs": -16.862738644070912,
+  "rms_dbfs": -16.20913313605549,
+  "crest": 16.20913314819336,
+  "centroid": 2124.1067289537605,
+  "flatness": 0.01868421956896782,
+  "sub100_share": 0.300314724445343,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.4169803857803345,
+  "clean_share": 0.34725444702242847,
+  "minor_share": 0.0007452458384835658,
+  "chord_rate": 2.3318563147454596,
+  "repetitiveness": 0.9187598824501038,
+  "vocal_share": 0.14418213069438934,
+  "vocal_voiced": 0.7924187725631769,
+  "song_length": 235.693
+ }
+}

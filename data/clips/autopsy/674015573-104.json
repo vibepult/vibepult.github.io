@@ -1,0 +1,32 @@
+{
+ "id": "autopsy/674015573-104",
+ "band": "autopsy",
+ "title": "Coffin Crawlers",
+ "source": "itunes",
+ "album": "The Headless Ritual",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 1.871090529990787,
+  "tempo_var": 4.282809075308947,
+  "low_onset_rate": 4.5106646705135045,
+  "lufs": -8.686032048655903,
+  "rms_dbfs": -8.291421031101265,
+  "crest": 8.291420936584473,
+  "centroid": 2208.4313147617645,
+  "flatness": 0.015543547458946705,
+  "sub100_share": 0.2729799747467041,
+  "lowest_pitch": 94.207763671875,
+  "harmonic_share": 0.8808099627494812,
+  "clean_share": 0.26532195500387895,
+  "minor_share": 0.04360200250191881,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.6003165245056152,
+  "vocal_share": 0.022211981937289238,
+  "vocal_voiced": 0.3308270676691729,
+  "song_length": 272.56
+ }
+}

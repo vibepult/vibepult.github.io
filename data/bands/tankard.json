@@ -1,0 +1,127 @@
+{
+ "slug": "tankard",
+ "name": "Tankard",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 72276068,
+  "deezer": 7114,
+  "spotify": "0lKpKsvjBKLUeyVIAPHUy1"
+ },
+ "metadata": {
+  "formed": 1983,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 4,
+  "past_members": 6,
+  "full_lengths": 19,
+  "genre": "Thrash Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 40058,
+  "themes": "Alcoholism, Society, Life, Anti-fascism, Anti-racism, Humour",
+  "release_year": 1999
+ },
+ "partial": false,
+ "clips": [
+  "tankard/1438623311-105",
+  "tankard/1438554042-106",
+  "tankard/1438584220-108",
+  "tankard/1438442477-109",
+  "tankard/1435779906-110",
+  "tankard/6770621385-106",
+  "tankard/1186816608-106",
+  "tankard/942700104-105",
+  "tankard/942639745-105",
+  "tankard/1456945859-106",
+  "tankard/1460463020-105",
+  "tankard/1458859383-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 48.65675706129808
+  },
+  "onset_rate": {
+   "median": 3.9760673762304224,
+   "iqr": 3.0802406050964435
+  },
+  "tempo_var": {
+   "median": 12.077243931004567,
+   "iqr": 13.308901328946375
+  },
+  "low_onset_rate": {
+   "median": 5.9050738615904645,
+   "iqr": 1.806197836990738
+  },
+  "lufs": {
+   "median": -10.026488842710318,
+   "iqr": 1.9574154541024136
+  },
+  "rms_dbfs": {
+   "median": -10.04229750721316,
+   "iqr": 2.6264122947023596
+  },
+  "crest": {
+   "median": 10.04229736328125,
+   "iqr": 2.6264113187789917
+  },
+  "centroid": {
+   "median": 2622.2209592938,
+   "iqr": 479.92498060087064
+  },
+  "flatness": {
+   "median": 0.0314435800537467,
+   "iqr": 0.02731064986437559
+  },
+  "sub100_share": {
+   "median": 0.3014903664588928,
+   "iqr": 0.0949113704264164
+  },
+  "lowest_pitch": {
+   "median": 49.7955322265625,
+   "iqr": 17.4957275390625
+  },
+  "harmonic_share": {
+   "median": 0.6984132528305054,
+   "iqr": 0.12579454481601715
+  },
+  "clean_share": {
+   "median": 0.008906044782522349,
+   "iqr": 0.09833204034134989
+  },
+  "minor_share": {
+   "median": 0.029518523780862393,
+   "iqr": 0.11931308917917588
+  },
+  "chord_rate": {
+   "median": 1.921209026329826,
+   "iqr": 0.7431746315458387
+  },
+  "repetitiveness": {
+   "median": 0.8651169836521149,
+   "iqr": 0.036272674798965454
+  },
+  "vocal_share": {
+   "median": 0.16522982716560364,
+   "iqr": 0.11541741527616978
+  },
+  "vocal_voiced": {
+   "median": 0.375,
+   "iqr": 0.2914551530785032
+  },
+  "song_length": {
+   "median": 241.24,
+   "iqr": 59.79974999999999
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.9
+ },
+ "sources_failed": []
+}

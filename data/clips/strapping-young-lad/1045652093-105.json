@@ -1,0 +1,32 @@
+{
+ "id": "strapping-young-lad/1045652093-105",
+ "band": "strapping-young-lad",
+ "title": "Wrong Side",
+ "source": "itunes",
+ "album": "The New Black",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 7.083414149250837,
+  "tempo_var": 7.097432907863818,
+  "low_onset_rate": 10.19076092227125,
+  "lufs": -7.451628306897889,
+  "rms_dbfs": -7.293139794259201,
+  "crest": 7.293139457702637,
+  "centroid": 2757.9802573869665,
+  "flatness": 0.04730159789323807,
+  "sub100_share": 0.3355071544647217,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7876775860786438,
+  "clean_share": 0.0,
+  "minor_share": -0.026112350858288225,
+  "chord_rate": 2.071564515346943,
+  "repetitiveness": 0.9442175626754761,
+  "vocal_share": 0.23941656947135925,
+  "vocal_voiced": 0.7311129163281884,
+  "song_length": 215.027
+ }
+}

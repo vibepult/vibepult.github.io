@@ -1,0 +1,32 @@
+{
+ "id": "superjoint/1610770939-108",
+ "band": "superjoint",
+ "title": "Messages",
+ "source": "itunes",
+ "album": "Use Once and Destroy",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 4.8,
+  "tempo_var": 22.83371804412179,
+  "low_onset_rate": 5.1,
+  "lufs": -8.345899628740588,
+  "rms_dbfs": -8.593688931803545,
+  "crest": 8.59368896484375,
+  "centroid": 2670.5465940676445,
+  "flatness": 0.04397425428032875,
+  "sub100_share": 0.18578897416591644,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.6874226331710815,
+  "clean_share": 0.04411764705882353,
+  "minor_share": 0.11350764715494055,
+  "chord_rate": 1.3666666666666667,
+  "repetitiveness": 0.8300513625144958,
+  "vocal_share": 0.16497363150119781,
+  "vocal_voiced": 0.07162921348314606,
+  "song_length": 121.28
+ }
+}

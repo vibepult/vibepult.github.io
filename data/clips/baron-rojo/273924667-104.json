@@ -1,0 +1,32 @@
+{
+ "id": "baron-rojo/273924667-104",
+ "band": "baron-rojo",
+ "title": "Tierra de Nadie",
+ "source": "itunes",
+ "album": "Tierra de Nadie",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 198.76802884615384,
+  "onset_rate": 3.107346773020414,
+  "tempo_var": 15.528602261234694,
+  "low_onset_rate": 7.250475803714299,
+  "lufs": -14.621900029801452,
+  "rms_dbfs": -14.368149274916506,
+  "crest": 14.368148803710938,
+  "centroid": 2178.110633963828,
+  "flatness": 0.008353023789823055,
+  "sub100_share": 0.00971914641559124,
+  "lowest_pitch": 145.34912109375,
+  "harmonic_share": 0.9388935565948486,
+  "clean_share": 0.4965089216446858,
+  "minor_share": 0.14501745522929643,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.7221049666404724,
+  "vocal_share": 0.5276930332183838,
+  "vocal_voiced": 0.9046746104491292,
+  "song_length": 386.4
+ }
+}

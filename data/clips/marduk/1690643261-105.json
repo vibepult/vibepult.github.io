@@ -1,0 +1,32 @@
+{
+ "id": "marduk/1690643261-105",
+ "band": "marduk",
+ "title": "Charlatan",
+ "source": "itunes",
+ "album": "Memento Mori",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.09740466733845,
+  "tempo_var": 16.32219533127505,
+  "low_onset_rate": 9.9270454542021,
+  "lufs": -8.93914173081784,
+  "rms_dbfs": -9.199572284508804,
+  "crest": 9.199572563171387,
+  "centroid": 2680.9957855917487,
+  "flatness": 0.040533505380153656,
+  "sub100_share": 0.214225172996521,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7426397204399109,
+  "clean_share": 0.01237432327919567,
+  "minor_share": -0.11600882493496123,
+  "chord_rate": 1.7988605856607833,
+  "repetitiveness": 0.9149013757705688,
+  "vocal_share": 0.13479945063591003,
+  "vocal_voiced": 0.510752688172043,
+  "song_length": 251.507
+ }
+}

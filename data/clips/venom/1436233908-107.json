@@ -1,0 +1,32 @@
+{
+ "id": "venom/1436233908-107",
+ "band": "venom",
+ "title": "Aaaaaarrghh",
+ "source": "itunes",
+ "album": "At War with Satan (Bonus Track Edition)",
+ "year": 1984,
+ "itunes_year": 1983,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.866608214539463,
+  "tempo_var": 12.511087124876923,
+  "low_onset_rate": 5.266587050838234,
+  "lufs": -16.382654086674076,
+  "rms_dbfs": -16.30318671310532,
+  "crest": 15.650230407714844,
+  "centroid": 2322.448103046849,
+  "flatness": 0.02432098612189293,
+  "sub100_share": 0.2309822142124176,
+  "lowest_pitch": 156.11572265625,
+  "harmonic_share": 0.7463719248771667,
+  "clean_share": 0.19798917246713071,
+  "minor_share": 0.01739698654828492,
+  "chord_rate": 2.1666339133195267,
+  "repetitiveness": 0.8662170171737671,
+  "vocal_share": 0.1803051233291626,
+  "vocal_voiced": 0.16985645933014354,
+  "song_length": 140.333
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "enslaved/280923015-105",
+ "band": "enslaved",
+ "title": "Aeges Draum",
+ "source": "itunes",
+ "album": "Mardraum",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 6.515404524075062,
+  "tempo_var": 9.941831177793128,
+  "low_onset_rate": 8.887680017456239,
+  "lufs": -7.732646998294572,
+  "rms_dbfs": -7.488869782930742,
+  "crest": 7.488869667053223,
+  "centroid": 2819.065892900881,
+  "flatness": 0.05548999086022377,
+  "sub100_share": 0.3966369926929474,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.7576501369476318,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.0169996220870115,
+  "chord_rate": 2.7063988023081027,
+  "repetitiveness": 0.9406334757804871,
+  "vocal_share": 0.13600216805934906,
+  "vocal_voiced": 0.14332247557003258,
+  "song_length": 282.507
+ }
+}

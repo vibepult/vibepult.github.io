@@ -1,0 +1,32 @@
+{
+ "id": "insomnium/1660388840-105",
+ "band": "insomnium",
+ "title": "The Elder",
+ "source": "itunes",
+ "album": "In the Halls of Awaiting",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 71.77734375,
+  "onset_rate": 3.7666666666666666,
+  "tempo_var": 13.481645923425978,
+  "low_onset_rate": 5.466666666666667,
+  "lufs": -9.739085003668784,
+  "rms_dbfs": -10.300126490294694,
+  "crest": 10.300126075744629,
+  "centroid": 2632.615807302265,
+  "flatness": 0.033881206065416336,
+  "sub100_share": 0.2112223207950592,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7554504871368408,
+  "clean_share": 0.1803405572755418,
+  "minor_share": 0.21153391031087765,
+  "chord_rate": 1.6333333333333333,
+  "repetitiveness": 0.7472713589668274,
+  "vocal_share": 0.039472389966249466,
+  "vocal_voiced": 0.09235668789808917,
+  "song_length": 286.36
+ }
+}

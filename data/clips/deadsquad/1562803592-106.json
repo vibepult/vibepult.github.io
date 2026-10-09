@@ -1,0 +1,32 @@
+{
+ "id": "deadsquad/1562803592-106",
+ "band": "deadsquad",
+ "title": "Tyranation",
+ "source": "itunes",
+ "album": "Tyranation",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.98080722979198,
+  "tempo_var": 5.88039952850153,
+  "low_onset_rate": 7.8184854288900745,
+  "lufs": -7.28662120538377,
+  "rms_dbfs": -7.231043203783996,
+  "crest": 7.231043815612793,
+  "centroid": 2631.0608986219663,
+  "flatness": 0.04863454028964043,
+  "sub100_share": 0.20270618796348572,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.6679960489273071,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": -0.03918510402581932,
+  "chord_rate": 2.572749478737332,
+  "repetitiveness": 0.9464898705482483,
+  "vocal_share": 0.07657503336668015,
+  "vocal_voiced": 0.13333333333333333,
+  "song_length": 150.686
+ }
+}

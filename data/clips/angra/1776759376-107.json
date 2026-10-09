@@ -1,0 +1,32 @@
+{
+ "id": "angra/1776759376-107",
+ "band": "angra",
+ "title": "Gods of the World",
+ "source": "itunes",
+ "album": "Cycles of Pain",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 5.066666666666666,
+  "tempo_var": 15.86890207425445,
+  "low_onset_rate": 7.8,
+  "lufs": -8.060204864428563,
+  "rms_dbfs": -6.764392214989973,
+  "crest": 6.764392375946045,
+  "centroid": 2189.359097559228,
+  "flatness": 0.02143140323460102,
+  "sub100_share": 0.4489305913448334,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.7758879065513611,
+  "clean_share": 0.09442724458204334,
+  "minor_share": -0.09110949689360953,
+  "chord_rate": 1.8,
+  "repetitiveness": 0.8899008631706238,
+  "vocal_share": 0.03195340558886528,
+  "vocal_voiced": 0.3698630136986301,
+  "song_length": 283.683
+ }
+}

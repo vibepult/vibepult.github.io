@@ -1,0 +1,32 @@
+{
+ "id": "my-dying-bride/73594927-105",
+ "band": "my-dying-bride",
+ "title": "The Fever Sea",
+ "source": "itunes",
+ "album": "The Light At the End of the World",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.078674295689279,
+  "tempo_var": 17.953797741782015,
+  "low_onset_rate": 5.98080722979198,
+  "lufs": -13.057688990404108,
+  "rms_dbfs": -12.004783270882529,
+  "crest": 12.004783630371094,
+  "centroid": 2758.044645781256,
+  "flatness": 0.03771735355257988,
+  "sub100_share": 0.465409517288208,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8061583638191223,
+  "clean_share": 0.02948021722265322,
+  "minor_share": -0.20197937937247945,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.8345870971679688,
+  "vocal_share": 0.05569423735141754,
+  "vocal_voiced": 0.15803108808290156,
+  "song_length": 245.467
+ }
+}

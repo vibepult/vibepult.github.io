@@ -1,0 +1,32 @@
+{
+ "id": "anthropia/206720151-106",
+ "band": "anthropia",
+ "title": "Lion-Snake",
+ "source": "itunes",
+ "album": "The Ereyn Chronicles, Part 1 - The Journey of Beginnings",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.279148281045435,
+  "tempo_var": 17.11269731856225,
+  "low_onset_rate": 5.145498957474664,
+  "lufs": -9.22450151876439,
+  "rms_dbfs": -8.93257454221944,
+  "crest": 8.932575225830078,
+  "centroid": 3439.266583593302,
+  "flatness": 0.06265523284673691,
+  "sub100_share": 0.4330970346927643,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.6777302622795105,
+  "clean_share": 0.008533747090768037,
+  "minor_share": 0.1102078488645506,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.9014807343482971,
+  "vocal_share": 0.1961238831281662,
+  "vocal_voiced": 0.0791311093871218,
+  "song_length": 329.453
+ }
+}

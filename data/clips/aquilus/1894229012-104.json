@@ -1,0 +1,32 @@
+{
+ "id": "aquilus/1894229012-104",
+ "band": "aquilus",
+ "title": "Moon Isabelline",
+ "source": "itunes",
+ "album": "Bellum I",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 1.8333056189626764,
+  "tempo_var": 16.056779806059055,
+  "low_onset_rate": 7.533219452464816,
+  "lufs": -16.50195221953098,
+  "rms_dbfs": -15.899706703731509,
+  "crest": 14.012580871582031,
+  "centroid": 1041.6970683164002,
+  "flatness": 0.00040199991781264544,
+  "sub100_share": 0.045502010732889175,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.9591896533966064,
+  "clean_share": 0.9922660479505027,
+  "minor_share": -0.10526679586884402,
+  "chord_rate": 0.46665961209959034,
+  "repetitiveness": 0.7367515563964844,
+  "vocal_share": 7.112332127690024e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 336.92
+ }
+}

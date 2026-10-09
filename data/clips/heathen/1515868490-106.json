@@ -1,0 +1,32 @@
+{
+ "id": "heathen/1515868490-106",
+ "band": "heathen",
+ "title": "Blood to Be Let",
+ "source": "itunes",
+ "album": "Empire of the Blind",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.773223464093488,
+  "tempo_var": 20.68763851782429,
+  "low_onset_rate": 1.336493235707705,
+  "lufs": -8.679308409923298,
+  "rms_dbfs": -7.522454677646167,
+  "crest": 7.522454261779785,
+  "centroid": 2534.273770161384,
+  "flatness": 0.029002932831645012,
+  "sub100_share": 0.34432414174079895,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7535297274589539,
+  "clean_share": 0.09542280837858805,
+  "minor_share": 0.1391575724126064,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.8594440221786499,
+  "vocal_share": 1.0264757293043658e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 216.467
+ }
+}

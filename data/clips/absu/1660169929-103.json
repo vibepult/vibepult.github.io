@@ -1,0 +1,32 @@
+{
+ "id": "absu/1660169929-103",
+ "band": "absu",
+ "title": "Abraxas Connexus",
+ "source": "itunes",
+ "album": "Abzu",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 6.74929084032391,
+  "tempo_var": 12.950346927797067,
+  "low_onset_rate": 9.589338966202783,
+  "lufs": -9.250256501947836,
+  "rms_dbfs": -9.591515736012834,
+  "crest": 9.59151554107666,
+  "centroid": 3227.688015809688,
+  "flatness": 0.08666427433490753,
+  "sub100_share": 0.2447236031293869,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.6176076531410217,
+  "clean_share": 0.0,
+  "minor_share": 0.1636986041942991,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.968948245048523,
+  "vocal_share": 0.11565492302179337,
+  "vocal_voiced": 0.0,
+  "song_length": 233.0
+ }
+}

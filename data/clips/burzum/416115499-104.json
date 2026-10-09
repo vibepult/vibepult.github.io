@@ -1,0 +1,32 @@
+{
+ "id": "burzum/416115499-104",
+ "band": "burzum",
+ "title": "Vanvidd",
+ "source": "itunes",
+ "album": "Fallen",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 8.78744302477816,
+  "tempo_var": 8.453345079714875,
+  "low_onset_rate": 8.419907384958542,
+  "lufs": -6.484860603686415,
+  "rms_dbfs": -6.868018609199554,
+  "crest": 6.868018627166748,
+  "centroid": 2772.8403538385273,
+  "flatness": 0.04007262364029884,
+  "sub100_share": 0.2390335351228714,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7805577516555786,
+  "clean_share": 0.0,
+  "minor_share": 0.10954355089538648,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.934743344783783,
+  "vocal_share": 0.06617164611816406,
+  "vocal_voiced": 0.729103726082578,
+  "song_length": 426.427
+ }
+}

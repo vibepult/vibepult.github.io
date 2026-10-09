@@ -1,0 +1,32 @@
+{
+ "id": "diabulus-in-musica/1184154844-107",
+ "band": "diabulus-in-musica",
+ "title": "Spoilt Vampire",
+ "source": "itunes",
+ "album": "Argia",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 9.5,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 8.1,
+  "lufs": -9.344442217913125,
+  "rms_dbfs": -8.148365137983847,
+  "crest": 8.14836597442627,
+  "centroid": 2488.036657081934,
+  "flatness": 0.027166195213794708,
+  "sub100_share": 0.5484969615936279,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.8791492581367493,
+  "clean_share": 0.0,
+  "minor_share": 0.07427808817680559,
+  "chord_rate": 1.3333333333333333,
+  "repetitiveness": 0.9437450170516968,
+  "vocal_share": 0.1300569772720337,
+  "vocal_voiced": 0.9479418886198547,
+  "song_length": 271.92
+ }
+}

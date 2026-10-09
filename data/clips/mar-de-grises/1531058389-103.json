@@ -1,0 +1,32 @@
+{
+ "id": "mar-de-grises/1531058389-103",
+ "band": "mar-de-grises",
+ "title": "Storm",
+ "source": "itunes",
+ "album": "The Tatterdemalion Express (Remastered 2020)",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 1.9045028608834795,
+  "tempo_var": 19.26936651070159,
+  "low_onset_rate": 5.98080722979198,
+  "lufs": -19.665375276019116,
+  "rms_dbfs": -17.684290165027544,
+  "crest": 15.281120300292969,
+  "centroid": 410.1818662735347,
+  "flatness": 6.065003253752366e-05,
+  "sub100_share": 0.41602200269699097,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.9345911741256714,
+  "clean_share": 0.9992242048099301,
+  "minor_share": 0.05922531675231313,
+  "chord_rate": 0.9689575958880862,
+  "repetitiveness": 0.7745424509048462,
+  "vocal_share": 1.09327947939164e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 647.187
+ }
+}

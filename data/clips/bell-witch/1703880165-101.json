@@ -1,0 +1,32 @@
+{
+ "id": "bell-witch/1703880165-101",
+ "band": "bell-witch",
+ "title": "Mirror Reaper",
+ "source": "itunes",
+ "album": "Mirror Reaper",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 0.6333237592780154,
+  "tempo_var": 19.903191861873907,
+  "low_onset_rate": 5.933243639551934,
+  "lufs": -21.42090804467193,
+  "rms_dbfs": -20.319167575874168,
+  "crest": 12.352279663085938,
+  "centroid": 508.8186735645092,
+  "flatness": 1.5126297512324527e-05,
+  "sub100_share": 0.05377107113599777,
+  "lowest_pitch": 139.9658203125,
+  "harmonic_share": 0.9929261803627014,
+  "clean_share": 0.9992266047950503,
+  "minor_share": 0.20576446876077648,
+  "chord_rate": 0.8333207358921256,
+  "repetitiveness": 0.497559517621994,
+  "vocal_share": 1.1097496098955162e-05,
+  "vocal_voiced": 0.0,
+  "song_length": 4995.314
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "w-a-s-p/210601553-106",
+ "band": "w-a-s-p",
+ "title": "Blind In Texas",
+ "source": "itunes",
+ "album": "The Last Command",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 5.2,
+  "tempo_var": 27.703879277905187,
+  "low_onset_rate": 4.833333333333333,
+  "lufs": -10.075057399436234,
+  "rms_dbfs": -10.287619065077973,
+  "crest": 10.287618637084961,
+  "centroid": 2326.778501732256,
+  "flatness": 0.024450883269309998,
+  "sub100_share": 0.1682056188583374,
+  "lowest_pitch": 102.28271484375,
+  "harmonic_share": 0.68659907579422,
+  "clean_share": 0.01393188854489164,
+  "minor_share": 0.01820360785103503,
+  "chord_rate": 1.4,
+  "repetitiveness": 0.8562858700752258,
+  "vocal_share": 0.38610658049583435,
+  "vocal_voiced": 0.5486875529212532,
+  "song_length": 261.24
+ }
+}

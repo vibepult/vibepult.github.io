@@ -1,0 +1,32 @@
+{
+ "id": "warlock/1440658703-104",
+ "band": "warlock",
+ "title": "Kiss of Death",
+ "source": "itunes",
+ "album": "Triumph and Agony",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.399933485510424,
+  "tempo_var": 2.014137138694553,
+  "low_onset_rate": 4.699928950431588,
+  "lufs": -16.130866894878867,
+  "rms_dbfs": -16.200917098435333,
+  "crest": 15.405342102050781,
+  "centroid": 2272.848101647959,
+  "flatness": 0.020476384088397026,
+  "sub100_share": 0.15813536942005157,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.6399621963500977,
+  "clean_share": 0.04331013147718484,
+  "minor_share": 0.22220829020370192,
+  "chord_rate": 1.6666414717842513,
+  "repetitiveness": 0.8178061842918396,
+  "vocal_share": 0.36390504240989685,
+  "vocal_voiced": 0.7968460111317254,
+  "song_length": 246.16
+ }
+}

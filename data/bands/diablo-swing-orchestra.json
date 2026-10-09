@@ -1,0 +1,127 @@
+{
+ "slug": "diablo-swing-orchestra",
+ "name": "Diablo Swing Orchestra",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 200832523,
+  "deezer": 15730,
+  "spotify": "2cbWJP4X5b9sKEDW80uc5r"
+ },
+ "metadata": {
+  "formed": 2003,
+  "split": null,
+  "country": "SE",
+  "status": "active",
+  "members": 8,
+  "past_members": 4,
+  "full_lengths": 5,
+  "genre": "Avant-garde Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 37013,
+  "themes": "Life struggles, Philosophy",
+  "release_year": 2010
+ },
+ "partial": false,
+ "clips": [
+  "diablo-swing-orchestra/1659204046-106",
+  "diablo-swing-orchestra/1201982690-105",
+  "diablo-swing-orchestra/1201984804-106",
+  "diablo-swing-orchestra/1659194772-106",
+  "diablo-swing-orchestra/1659201023-107",
+  "diablo-swing-orchestra/1659204046-108",
+  "diablo-swing-orchestra/1201982690-104",
+  "diablo-swing-orchestra/1201984804-107",
+  "diablo-swing-orchestra/1659194772-105",
+  "diablo-swing-orchestra/1659201023-106",
+  "diablo-swing-orchestra/1659204046-104",
+  "diablo-swing-orchestra/1201982690-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.19921875,
+   "iqr": 23.18274456521739
+  },
+  "onset_rate": {
+   "median": 4.237915191776172,
+   "iqr": 1.8137437569703732
+  },
+  "tempo_var": {
+   "median": 12.630198497731396,
+   "iqr": 15.718476849077609
+  },
+  "low_onset_rate": {
+   "median": 4.32195950314374,
+   "iqr": 1.6977692281271723
+  },
+  "lufs": {
+   "median": -9.703871261814434,
+   "iqr": 1.5922336354806426
+  },
+  "rms_dbfs": {
+   "median": -9.341887809002563,
+   "iqr": 1.7819763643921434
+  },
+  "crest": {
+   "median": 9.341887950897217,
+   "iqr": 1.7819762229919434
+  },
+  "centroid": {
+   "median": 2477.5729514985696,
+   "iqr": 300.0830567436933
+  },
+  "flatness": {
+   "median": 0.028327378444373608,
+   "iqr": 0.007466710638254881
+  },
+  "sub100_share": {
+   "median": 0.2677319794893265,
+   "iqr": 0.17190950363874435
+  },
+  "lowest_pitch": {
+   "median": 60.5621337890625,
+   "iqr": 63.92669677734375
+  },
+  "harmonic_share": {
+   "median": 0.7245475351810455,
+   "iqr": 0.1494649350643158
+  },
+  "clean_share": {
+   "median": 0.10628394103956555,
+   "iqr": 0.1456791150170411
+  },
+  "minor_share": {
+   "median": 0.10360548430562441,
+   "iqr": 0.1999067141646872
+  },
+  "chord_rate": {
+   "median": 2.305450831595791,
+   "iqr": 0.6718005988459488
+  },
+  "repetitiveness": {
+   "median": 0.8684954047203064,
+   "iqr": 0.09589938819408417
+  },
+  "vocal_share": {
+   "median": 0.15449312329292297,
+   "iqr": 0.10417145490646362
+  },
+  "vocal_voiced": {
+   "median": 0.8175985334555453,
+   "iqr": 0.39068953149506624
+  },
+  "song_length": {
+   "median": 293.5,
+   "iqr": 64.18300000000002
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.6,
+  "camp": 0.8
+ },
+ "sources_failed": []
+}

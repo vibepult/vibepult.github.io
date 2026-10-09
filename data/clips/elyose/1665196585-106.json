@@ -1,0 +1,32 @@
+{
+ "id": "elyose/1665196585-106",
+ "band": "elyose",
+ "title": "Humaine",
+ "source": "itunes",
+ "album": "Déviante",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.21232361926005,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.3817552005042915,
+  "lufs": -11.18045666064194,
+  "rms_dbfs": -9.629094910096402,
+  "crest": 9.629095077514648,
+  "centroid": 2566.8880484341303,
+  "flatness": 0.02710909955203533,
+  "sub100_share": 0.5492662787437439,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8240106105804443,
+  "clean_share": 0.010861132660977503,
+  "minor_share": -0.06878950003197748,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.9384572505950928,
+  "vocal_share": 0.10473769903182983,
+  "vocal_voiced": 0.820097244732577,
+  "song_length": 283.717
+ }
+}

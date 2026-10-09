@@ -1,0 +1,32 @@
+{
+ "id": "ankor/1614714165-104",
+ "band": "ankor",
+ "title": "New Kingdom",
+ "source": "itunes",
+ "album": "White Dragon",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 3.575119405518111,
+  "tempo_var": 17.153648236521068,
+  "low_onset_rate": 3.742181059981574,
+  "lufs": -8.97900707637426,
+  "rms_dbfs": -8.979080650711754,
+  "crest": 8.979081153869629,
+  "centroid": 2873.296456666734,
+  "flatness": 0.04703466221690178,
+  "sub100_share": 0.21964779496192932,
+  "lowest_pitch": 131.890869140625,
+  "harmonic_share": 0.7264404296875,
+  "clean_share": 0.03180760279286268,
+  "minor_share": -0.010778000274956068,
+  "chord_rate": 2.338863162488484,
+  "repetitiveness": 0.9141761660575867,
+  "vocal_share": 0.3399018347263336,
+  "vocal_voiced": 0.7977941176470589,
+  "song_length": 253.301
+ }
+}

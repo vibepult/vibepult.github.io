@@ -1,0 +1,32 @@
+{
+ "id": "soulfly/214474320-108",
+ "band": "soulfly",
+ "title": "Soulfly",
+ "source": "itunes",
+ "album": "Soulfly",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 5.532680953719742,
+  "tempo_var": 19.500116159453217,
+  "low_onset_rate": 2.966316896873838,
+  "lufs": -11.867125793458454,
+  "rms_dbfs": -10.286282257080872,
+  "crest": 10.286282539367676,
+  "centroid": 1284.0864067299437,
+  "flatness": 0.00222351448610425,
+  "sub100_share": 0.42739546298980713,
+  "lowest_pitch": 29.608154296875,
+  "harmonic_share": 0.886342465877533,
+  "clean_share": 0.9017788089713844,
+  "minor_share": -0.04136630646880224,
+  "chord_rate": 1.5998113601117327,
+  "repetitiveness": 0.8554994463920593,
+  "vocal_share": 4.419661763677141e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 288.827
+ }
+}

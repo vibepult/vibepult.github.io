@@ -1,0 +1,32 @@
+{
+ "id": "borknagar/1045217298-105",
+ "band": "borknagar",
+ "title": "White",
+ "source": "itunes",
+ "album": "Origin",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 2.2386261698104057,
+  "tempo_var": 31.13032413240337,
+  "low_onset_rate": 2.8734604567715656,
+  "lufs": -13.522344040641924,
+  "rms_dbfs": -14.66361195938224,
+  "crest": 14.66361141204834,
+  "centroid": 1538.5730306808648,
+  "flatness": 0.004749874584376812,
+  "sub100_share": 0.08803768455982208,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.849544882774353,
+  "clean_share": 0.8370830100853375,
+  "minor_share": 0.10361884475168259,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.439251184463501,
+  "vocal_share": 0.3780626654624939,
+  "vocal_voiced": 0.8232044198895028,
+  "song_length": 285.733
+ }
+}

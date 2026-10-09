@@ -1,0 +1,32 @@
+{
+ "id": "sleep/43359181-105",
+ "band": "sleep",
+ "title": "Aquarian",
+ "source": "itunes",
+ "album": "Sleep's Holy Mountain",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 3.2333333333333334,
+  "tempo_var": 28.287678582911823,
+  "low_onset_rate": 5.0,
+  "lufs": -14.628081586499809,
+  "rms_dbfs": -15.139387095274977,
+  "crest": 15.139387130737305,
+  "centroid": 2596.068082402437,
+  "flatness": 0.03001834638416767,
+  "sub100_share": 0.16207164525985718,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.5920178890228271,
+  "clean_share": 0.016253869969040248,
+  "minor_share": -0.3241035876634227,
+  "chord_rate": 1.7333333333333334,
+  "repetitiveness": 0.8580336570739746,
+  "vocal_share": 0.1281331330537796,
+  "vocal_voiced": 0.43309859154929575,
+  "song_length": 337.773
+ }
+}

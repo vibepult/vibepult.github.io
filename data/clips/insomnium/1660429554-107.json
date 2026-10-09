@@ -1,0 +1,32 @@
+{
+ "id": "insomnium/1660429554-107",
+ "band": "insomnium",
+ "title": "Resonance",
+ "source": "itunes",
+ "album": "Since the Day It All Came Down",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.4414700819473403,
+  "tempo_var": 3.9962189611003045,
+  "low_onset_rate": 3.9760673762304224,
+  "lufs": -14.477335764893779,
+  "rms_dbfs": -13.719824295056135,
+  "crest": 12.904181480407715,
+  "centroid": 1226.944459155911,
+  "flatness": 0.0020424704998731613,
+  "sub100_share": 0.23553556203842163,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.9457671046257019,
+  "clean_share": 0.8789759503491078,
+  "minor_share": 0.2558859257709427,
+  "chord_rate": 0.6682466178538525,
+  "repetitiveness": 0.6087650060653687,
+  "vocal_share": 1.0977277270285413e-05,
+  "vocal_voiced": 0.0,
+  "song_length": 149.547
+ }
+}

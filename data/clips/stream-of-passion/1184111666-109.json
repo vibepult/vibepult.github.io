@@ -1,0 +1,32 @@
+{
+ "id": "stream-of-passion/1184111666-109",
+ "band": "stream-of-passion",
+ "title": "This Moment",
+ "source": "itunes",
+ "album": "Darker Days",
+ "year": 2011,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 2.8333333333333335,
+  "tempo_var": 2.1313716384333623,
+  "low_onset_rate": 2.6666666666666665,
+  "lufs": -12.530291623517035,
+  "rms_dbfs": -11.713834988691794,
+  "crest": 11.713834762573242,
+  "centroid": 2282.8003347470885,
+  "flatness": 0.0136720584705472,
+  "sub100_share": 0.3602082133293152,
+  "lowest_pitch": 148.040771484375,
+  "harmonic_share": 0.8576899170875549,
+  "clean_share": 0.45743034055727555,
+  "minor_share": -0.06263239217195249,
+  "chord_rate": 1.4333333333333333,
+  "repetitiveness": 0.598825216293335,
+  "vocal_share": 0.28786104917526245,
+  "vocal_voiced": 0.8850380388841927,
+  "song_length": 235.32
+ }
+}

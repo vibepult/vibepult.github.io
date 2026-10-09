@@ -1,0 +1,32 @@
+{
+ "id": "the-night-flight-orchestra/1573577827-106",
+ "band": "the-night-flight-orchestra",
+ "title": "Change",
+ "source": "itunes",
+ "album": "Aeromantic II",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 2.840048125878873,
+  "tempo_var": 5.714572131155898,
+  "low_onset_rate": 1.871090529990787,
+  "lufs": -13.148172662713721,
+  "rms_dbfs": -13.044091690865315,
+  "crest": 13.04409122467041,
+  "centroid": 1909.7292585005382,
+  "flatness": 0.014663631096482277,
+  "sub100_share": 0.21470725536346436,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.5739275217056274,
+  "clean_share": 0.6035686578743211,
+  "minor_share": -0.09185961265876097,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.9101184010505676,
+  "vocal_share": 0.0074742818251252174,
+  "vocal_voiced": 0.9292929292929293,
+  "song_length": 275.76
+ }
+}

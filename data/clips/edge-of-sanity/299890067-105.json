@@ -1,0 +1,32 @@
+{
+ "id": "edge-of-sanity/299890067-105",
+ "band": "edge-of-sanity",
+ "title": "Crimson, Pt. 5",
+ "source": "itunes",
+ "album": "Crimson",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.742181059981574,
+  "tempo_var": 19.33676149222051,
+  "low_onset_rate": 5.379385273723512,
+  "lufs": -13.269497936183699,
+  "rms_dbfs": -12.748183648750878,
+  "crest": 12.748184204101562,
+  "centroid": 1877.433487775716,
+  "flatness": 0.019961746409535408,
+  "sub100_share": 0.16123275458812714,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8136377930641174,
+  "clean_share": 0.5702094647013188,
+  "minor_share": 0.13038627415070098,
+  "chord_rate": 2.1049768462396354,
+  "repetitiveness": 0.6524336338043213,
+  "vocal_share": 0.07540255784988403,
+  "vocal_voiced": 0.4171656686626746,
+  "song_length": 249.12
+ }
+}

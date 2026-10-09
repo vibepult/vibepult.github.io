@@ -1,0 +1,32 @@
+{
+ "id": "paul-chain-violet-theatre/1201258900-105",
+ "band": "paul-chain-violet-theatre",
+ "title": "Grey Life",
+ "source": "itunes",
+ "album": "In the Darkness",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.809005721766959,
+  "tempo_var": 21.28841075686248,
+  "low_onset_rate": 5.880570237113902,
+  "lufs": -17.561978196297883,
+  "rms_dbfs": -17.09881312916401,
+  "crest": 17.098812103271484,
+  "centroid": 2770.257156529219,
+  "flatness": 0.03243668004870415,
+  "sub100_share": 0.4306156039237976,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.643589437007904,
+  "clean_share": 0.24204809930178434,
+  "minor_share": 0.12859688331086827,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.859182596206665,
+  "vocal_share": 6.704330530737934e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 381.6
+ }
+}

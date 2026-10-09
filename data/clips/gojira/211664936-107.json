@@ -1,0 +1,32 @@
+{
+ "id": "gojira/211664936-107",
+ "band": "gojira",
+ "title": "Embrace the World",
+ "source": "itunes",
+ "album": "The Link",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 7.466666666666667,
+  "tempo_var": 11.892613215324955,
+  "low_onset_rate": 8.133333333333333,
+  "lufs": -7.731206230862152,
+  "rms_dbfs": -5.8056763175612005,
+  "crest": 5.805676460266113,
+  "centroid": 2666.060875840072,
+  "flatness": 0.03888702392578125,
+  "sub100_share": 0.5973966121673584,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8040734529495239,
+  "clean_share": 0.03560371517027864,
+  "minor_share": 0.1230203252724194,
+  "chord_rate": 2.3666666666666667,
+  "repetitiveness": 0.9427555203437805,
+  "vocal_share": 0.08188130706548691,
+  "vocal_voiced": 0.0756578947368421,
+  "song_length": 279.827
+ }
+}

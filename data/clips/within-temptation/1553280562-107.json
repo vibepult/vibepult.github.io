@@ -1,0 +1,32 @@
+{
+ "id": "within-temptation/1553280562-107",
+ "band": "within-temptation",
+ "title": "Angels",
+ "source": "itunes",
+ "album": "The Silent Force",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 2.1666535652089784,
+  "tempo_var": 10.220736843358473,
+  "low_onset_rate": 6.033296850812693,
+  "lufs": -17.69506439302991,
+  "rms_dbfs": -17.94782113289719,
+  "crest": 17.837112426757812,
+  "centroid": 1902.7978945067657,
+  "flatness": 0.017678353935480118,
+  "sub100_share": 0.023856142535805702,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.9275218844413757,
+  "clean_share": 0.7470997679814385,
+  "minor_share": 0.16969444949414614,
+  "chord_rate": 0.8666614260835913,
+  "repetitiveness": 0.6317945122718811,
+  "vocal_share": 0.6468341946601868,
+  "vocal_voiced": 0.9127988748241913,
+  "song_length": 240.44
+ }
+}

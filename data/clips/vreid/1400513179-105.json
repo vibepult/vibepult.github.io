@@ -1,0 +1,32 @@
+{
+ "id": "vreid/1400513179-105",
+ "band": "vreid",
+ "title": "Hello Darkness",
+ "source": "itunes",
+ "album": "Lifehunger",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.0739344421277215,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 5.045261964796587,
+  "lufs": -11.08629264630019,
+  "rms_dbfs": -9.791580863248775,
+  "crest": 9.791581153869629,
+  "centroid": 1575.447181285999,
+  "flatness": 0.006064245011657476,
+  "sub100_share": 0.42315036058425903,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.8286194801330566,
+  "clean_share": 0.5577967416602017,
+  "minor_share": -0.04526755697800822,
+  "chord_rate": 1.9379151917761723,
+  "repetitiveness": 0.8792387843132019,
+  "vocal_share": 0.06165248528122902,
+  "vocal_voiced": 0.8541176470588235,
+  "song_length": 279.2
+ }
+}

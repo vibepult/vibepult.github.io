@@ -1,0 +1,32 @@
+{
+ "id": "beaten-to-death/1651442368-104",
+ "band": "beaten-to-death",
+ "title": "Bjørnstjerne Ibsen",
+ "source": "itunes",
+ "album": "Agronomicon",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.811375648547738,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 9.823225282451633,
+  "lufs": -7.628215627875341,
+  "rms_dbfs": -7.338612103898077,
+  "crest": 7.338612079620361,
+  "centroid": 2497.2706346726272,
+  "flatness": 0.03758998587727547,
+  "sub100_share": 0.2586519122123718,
+  "lowest_pitch": 24.224853515625,
+  "harmonic_share": 0.6815316677093506,
+  "clean_share": 0.007757951900698216,
+  "minor_share": 0.07616626513046704,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.9341742396354675,
+  "vocal_share": 0.11740291118621826,
+  "vocal_voiced": 0.1663135593220339,
+  "song_length": 120.387
+ }
+}

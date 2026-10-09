@@ -1,0 +1,32 @@
+{
+ "id": "svartby/1484563926-105",
+ "band": "svartby",
+ "title": "Tommy Guns",
+ "source": "itunes",
+ "album": "Big Boss",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 6.214693546040828,
+  "tempo_var": 0.7862910631279959,
+  "low_onset_rate": 6.849527833001988,
+  "lufs": -7.979294166787825,
+  "rms_dbfs": -6.921886719639094,
+  "crest": 6.921886444091797,
+  "centroid": 2650.071485316928,
+  "flatness": 0.0347878560423851,
+  "sub100_share": 0.49772095680236816,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8099369406700134,
+  "clean_share": 0.055857253685027156,
+  "minor_share": 0.08506269720731097,
+  "chord_rate": 2.2720385007030983,
+  "repetitiveness": 0.9654180407524109,
+  "vocal_share": 7.353982027780148e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 197.335
+ }
+}

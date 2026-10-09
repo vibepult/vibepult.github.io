@@ -1,0 +1,32 @@
+{
+ "id": "dozer/338594196-104",
+ "band": "dozer",
+ "title": "Inside the Falcon",
+ "source": "itunes",
+ "album": "In the Tail of a Comet",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 3.4999365090882706,
+  "tempo_var": 3.1743783387862003,
+  "low_onset_rate": 5.533232957225266,
+  "lufs": -9.637481642789398,
+  "rms_dbfs": -8.777578533563055,
+  "crest": 8.777578353881836,
+  "centroid": 2358.224833002954,
+  "flatness": 0.017513703554868698,
+  "sub100_share": 0.10287854820489883,
+  "lowest_pitch": 104.974365234375,
+  "harmonic_share": 0.875316321849823,
+  "clean_share": 0.06496519721577726,
+  "minor_share": -0.008324007922077215,
+  "chord_rate": 1.5999709755832094,
+  "repetitiveness": 0.8245232701301575,
+  "vocal_share": 0.09041702002286911,
+  "vocal_voiced": 0.9740871613663133,
+  "song_length": 238.04
+ }
+}

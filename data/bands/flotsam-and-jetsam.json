@@ -1,0 +1,127 @@
+{
+ "slug": "flotsam-and-jetsam",
+ "name": "Flotsam and Jetsam",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 162270,
+  "deezer": 122069,
+  "spotify": "1ApBh0VSoxRjjT3kFQZrpz"
+ },
+ "metadata": {
+  "formed": 1984,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 11,
+  "full_lengths": 17,
+  "genre": "Power/Thrash Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 10202,
+  "themes": "Insanity, Dreams, Drugs, Life, Death, Humour, Literature, Society, Politics, War",
+  "release_year": 1998
+ },
+ "partial": false,
+ "clips": [
+  "flotsam-and-jetsam/56821765-105",
+  "flotsam-and-jetsam/1443756136-106",
+  "flotsam-and-jetsam/1586259977-105",
+  "flotsam-and-jetsam/56824943-106",
+  "flotsam-and-jetsam/56825528-105",
+  "flotsam-and-jetsam/56827514-106",
+  "flotsam-and-jetsam/439795099-105",
+  "flotsam-and-jetsam/584483914-105",
+  "flotsam-and-jetsam/604315051-106",
+  "flotsam-and-jetsam/1439163760-106",
+  "flotsam-and-jetsam/56821765-106",
+  "flotsam-and-jetsam/1443756136-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.32652698863637,
+   "iqr": 25.89897382723113
+  },
+  "onset_rate": {
+   "median": 4.2600721888183095,
+   "iqr": 0.42658729021479136
+  },
+  "tempo_var": {
+   "median": 3.4561937151384834,
+   "iqr": 9.785408576234145
+  },
+  "low_onset_rate": {
+   "median": 5.245735950152742,
+   "iqr": 1.666492742767005
+  },
+  "lufs": {
+   "median": -10.577116664434467,
+   "iqr": 1.9954165683382374
+  },
+  "rms_dbfs": {
+   "median": -10.068756325058537,
+   "iqr": 1.5571047446968276
+  },
+  "crest": {
+   "median": 10.068756103515625,
+   "iqr": 1.5571048259735107
+  },
+  "centroid": {
+   "median": 2702.1443576962843,
+   "iqr": 489.5702078949662
+  },
+  "flatness": {
+   "median": 0.030566860921680927,
+   "iqr": 0.016729550901800394
+  },
+  "sub100_share": {
+   "median": 0.20506782084703445,
+   "iqr": 0.20326955616474152
+  },
+  "lowest_pitch": {
+   "median": 84.7869873046875,
+   "iqr": 39.70184326171875
+  },
+  "harmonic_share": {
+   "median": 0.6922368407249451,
+   "iqr": 0.1313517689704895
+  },
+  "clean_share": {
+   "median": 0.055857253685027156,
+   "iqr": 0.1578743211792087
+  },
+  "minor_share": {
+   "median": 0.12305198132559808,
+   "iqr": 0.17799787182941096
+  },
+  "chord_rate": {
+   "median": 1.7513911370060682,
+   "iqr": 1.1109600021820296
+  },
+  "repetitiveness": {
+   "median": 0.8837584257125854,
+   "iqr": 0.0820930004119873
+  },
+  "vocal_share": {
+   "median": 0.1420694813132286,
+   "iqr": 0.08438841812312603
+  },
+  "vocal_voiced": {
+   "median": 0.7003636056147471,
+   "iqr": 0.24150878795826747
+  },
+  "song_length": {
+   "median": 276.44,
+   "iqr": 87.97349999999994
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

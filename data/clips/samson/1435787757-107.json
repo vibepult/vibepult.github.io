@@ -1,0 +1,32 @@
+{
+ "id": "samson/1435787757-107",
+ "band": "samson",
+ "title": "Once Bitten",
+ "source": "itunes",
+ "album": "Shock Tactics (Bonus Track Edition)",
+ "year": 1981,
+ "itunes_year": 1981,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.3,
+  "tempo_var": 15.968487623109237,
+  "low_onset_rate": 4.4,
+  "lufs": -10.609690584812101,
+  "rms_dbfs": -10.578995267075562,
+  "crest": 10.578995704650879,
+  "centroid": 2273.377993200079,
+  "flatness": 0.02508045919239521,
+  "sub100_share": 0.11097657680511475,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7274733781814575,
+  "clean_share": 0.11996904024767802,
+  "minor_share": -0.14705610025358817,
+  "chord_rate": 1.0,
+  "repetitiveness": 0.8068700432777405,
+  "vocal_share": 0.1856759786605835,
+  "vocal_voiced": 0.7016706443914081,
+  "song_length": 276.147
+ }
+}

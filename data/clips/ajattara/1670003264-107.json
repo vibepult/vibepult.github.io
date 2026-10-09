@@ -1,0 +1,32 @@
+{
+ "id": "ajattara/1670003264-107",
+ "band": "ajattara",
+ "title": "Harhojen Renki",
+ "source": "itunes",
+ "album": "Tyhjyys",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 4.0428920380158075,
+  "tempo_var": 0.0,
+  "low_onset_rate": 7.851897759782767,
+  "lufs": -8.991549377311328,
+  "rms_dbfs": -7.9482288258582825,
+  "crest": 7.94822883605957,
+  "centroid": 2405.134346600039,
+  "flatness": 0.02437562867999077,
+  "sub100_share": 0.46250662207603455,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.8208822011947632,
+  "clean_share": 0.019394879751745538,
+  "minor_share": 0.12072029166425746,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.7960312366485596,
+  "vocal_share": 0.086319200694561,
+  "vocal_voiced": 0.1653306613226453,
+  "song_length": 204.093
+ }
+}

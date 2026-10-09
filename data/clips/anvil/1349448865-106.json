@@ -1,0 +1,32 @@
+{
+ "id": "anvil/1349448865-106",
+ "band": "anvil",
+ "title": "Zombie Apocalypse",
+ "source": "itunes",
+ "album": "Anvil Is Anvil",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.472512486059254,
+  "tempo_var": 3.5819438652023754,
+  "low_onset_rate": 3.1407591039131066,
+  "lufs": -8.176310365240706,
+  "rms_dbfs": -7.947258044295492,
+  "crest": 7.947257995605469,
+  "centroid": 2779.87944447343,
+  "flatness": 0.039608366787433624,
+  "sub100_share": 0.2558627128601074,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7602279186248779,
+  "clean_share": 0.023273855702094646,
+  "minor_share": -0.020425997022441078,
+  "chord_rate": 2.205213838917713,
+  "repetitiveness": 0.789614737033844,
+  "vocal_share": 0.2507551610469818,
+  "vocal_voiced": 0.7968885047536733,
+  "song_length": 260.053
+ }
+}

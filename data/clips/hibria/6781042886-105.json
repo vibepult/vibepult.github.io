@@ -1,0 +1,32 @@
+{
+ "id": "hibria/6781042886-105",
+ "band": "hibria",
+ "title": "Melting Alive",
+ "source": "itunes",
+ "album": "On the Shortness of Life",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.533249686323714,
+  "tempo_var": 15.01369920924389,
+  "low_onset_rate": 4.666596120995903,
+  "lufs": -8.694794333782566,
+  "rms_dbfs": -8.706854730040781,
+  "crest": 8.706854820251465,
+  "centroid": 2505.9780424328974,
+  "flatness": 0.037844665348529816,
+  "sub100_share": 0.2607080042362213,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6611752510070801,
+  "clean_share": 0.0,
+  "minor_share": 0.12234284965514275,
+  "chord_rate": 1.5999758129128812,
+  "repetitiveness": 0.8826391100883484,
+  "vocal_share": 0.2535249590873718,
+  "vocal_voiced": 0.25957049486461253,
+  "song_length": 308.351
+ }
+}

@@ -1,0 +1,124 @@
+{
+ "slug": "drautran",
+ "name": "Drautran",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 271922226,
+  "deezer": 1682032,
+  "spotify": "5Q1Q0YhgdpAX1oTQ2lfjLm"
+ },
+ "metadata": {
+  "formed": 1996,
+  "split": null,
+  "country": "DE",
+  "status": "on hold",
+  "members": 4,
+  "past_members": 4,
+  "full_lengths": 1,
+  "genre": "Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 237,
+  "themes": "Germanic/Norse mythology, Nature, Death, Existence, Primordial times",
+  "release_year": 2007
+ },
+ "partial": false,
+ "clips": [
+  "drautran/1555711075-105",
+  "drautran/1555711075-104",
+  "drautran/1555711075-106",
+  "drautran/1555711075-103",
+  "drautran/1555711075-107",
+  "drautran/1555711075-102",
+  "drautran/1555711075-108",
+  "drautran/1555711075-101",
+  "drautran/1555711075-109"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.19921875,
+   "iqr": 31.207540760869563
+  },
+  "onset_rate": {
+   "median": 5.078674295689279,
+   "iqr": 5.813745575328516
+  },
+  "tempo_var": {
+   "median": 6.449678853985462,
+   "iqr": 4.725051655486184
+  },
+  "low_onset_rate": {
+   "median": 9.489101973524706,
+   "iqr": 0.7350712796392376
+  },
+  "lufs": {
+   "median": -8.543623088492339,
+   "iqr": 1.8895744882894991
+  },
+  "rms_dbfs": {
+   "median": -9.24284833646887,
+   "iqr": 2.0353665504724887
+  },
+  "crest": {
+   "median": 9.24284839630127,
+   "iqr": 2.035367012023926
+  },
+  "centroid": {
+   "median": 2485.8971618340092,
+   "iqr": 360.8222933238894
+  },
+  "flatness": {
+   "median": 0.031071368604898453,
+   "iqr": 0.016008375212550163
+  },
+  "sub100_share": {
+   "median": 0.14526227116584778,
+   "iqr": 0.04336033761501312
+  },
+  "lowest_pitch": {
+   "median": 64.599609375,
+   "iqr": 29.608154296875
+  },
+  "harmonic_share": {
+   "median": 0.7679684162139893,
+   "iqr": 0.0870516300201416
+  },
+  "clean_share": {
+   "median": 0.1474010861132661,
+   "iqr": 0.26687354538401864
+  },
+  "minor_share": {
+   "median": -0.015055235976776604,
+   "iqr": 0.041343865587439355
+  },
+  "chord_rate": {
+   "median": 1.7708535373127092,
+   "iqr": 0.5011849633903893
+  },
+  "repetitiveness": {
+   "median": 0.927415668964386,
+   "iqr": 0.039722740650177
+  },
+  "vocal_share": {
+   "median": 0.09928406774997711,
+   "iqr": 0.06278268620371819
+  },
+  "vocal_voiced": {
+   "median": 0.7355072463768116,
+   "iqr": 0.19329723773834295
+  },
+  "song_length": {
+   "median": 333.693,
+   "iqr": 41.692999999999984
+  },
+  "vocal_presence": {
+   "median": 0.7777777777777778,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

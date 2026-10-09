@@ -1,0 +1,32 @@
+{
+ "id": "toluca/1435125975-104",
+ "band": "toluca",
+ "title": "Bune",
+ "source": "itunes",
+ "album": "Memoria",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 7.450949789070456,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.377015346942734,
+  "lufs": -12.769404910068099,
+  "rms_dbfs": -11.362516919595889,
+  "crest": 11.362516403198242,
+  "centroid": 1897.282618340854,
+  "flatness": 0.0075949616730213165,
+  "sub100_share": 0.4271741807460785,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.8818092346191406,
+  "clean_share": 0.395655546935609,
+  "minor_share": 0.21902738702140445,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.576702356338501,
+  "vocal_share": 5.435094294625742e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 297.081
+ }
+}

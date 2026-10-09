@@ -1,0 +1,32 @@
+{
+ "id": "pain/1693724631-106",
+ "band": "pain",
+ "title": "Play Dead",
+ "source": "itunes",
+ "album": "Psalms Of Extinction",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 0.3675356398196189,
+  "tempo_var": 28.754368015782532,
+  "low_onset_rate": 1.6372042137419387,
+  "lufs": -8.994769105228688,
+  "rms_dbfs": -9.056808966830417,
+  "crest": 9.056808471679688,
+  "centroid": 2788.129359497651,
+  "flatness": 0.06090351939201355,
+  "sub100_share": 0.30392783880233765,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.7554837465286255,
+  "clean_share": 0.0,
+  "minor_share": 0.002299191649457355,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.9622846245765686,
+  "vocal_share": 0.0052846698090434074,
+  "vocal_voiced": 0.9955947136563876,
+  "song_length": 243.64
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "dagoba/1648505444-105",
+ "band": "dagoba",
+ "title": "The Infinite Chase",
+ "source": "itunes",
+ "album": "Black Nova",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 6.014219560684673,
+  "tempo_var": 23.0505758063643,
+  "low_onset_rate": 4.777963317655045,
+  "lufs": -9.41358934277918,
+  "rms_dbfs": -8.518979116855379,
+  "crest": 8.5189790725708,
+  "centroid": 2551.2113825807555,
+  "flatness": 0.034119486808776855,
+  "sub100_share": 0.3993454575538635,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7807855606079102,
+  "clean_share": 0.01474010861132661,
+  "minor_share": 0.009925831982934341,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.923082709312439,
+  "vocal_share": 0.13558536767959595,
+  "vocal_voiced": 0.14837712519319937,
+  "song_length": 306.963
+ }
+}

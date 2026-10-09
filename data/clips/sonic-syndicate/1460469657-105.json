@@ -1,0 +1,32 @@
+{
+ "id": "sonic-syndicate/1460469657-105",
+ "band": "sonic-syndicate",
+ "title": "Enclave",
+ "source": "itunes",
+ "album": "Only Inhuman (Tour Edition)",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.4666457043343653,
+  "tempo_var": 2.8387223478714763,
+  "low_onset_rate": 2.8999824642027865,
+  "lufs": -14.857663578687193,
+  "rms_dbfs": -14.07805819692031,
+  "crest": 14.078058242797852,
+  "centroid": 1696.1308405190478,
+  "flatness": 0.009380546398460865,
+  "sub100_share": 0.24448752403259277,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7529747486114502,
+  "clean_share": 0.7269914926527455,
+  "minor_share": -0.0005484241925740596,
+  "chord_rate": 1.0333270849458205,
+  "repetitiveness": 0.6784706711769104,
+  "vocal_share": 0.29036736488342285,
+  "vocal_voiced": 0.8596774193548387,
+  "song_length": 248.895
+ }
+}

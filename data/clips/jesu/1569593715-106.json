@@ -1,0 +1,32 @@
+{
+ "id": "jesu/1569593715-106",
+ "band": "jesu",
+ "title": "Black Lies",
+ "source": "itunes",
+ "album": "Ascension",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 64.599609375,
+  "onset_rate": 2.6395741405227175,
+  "tempo_var": 2.3663398744791246,
+  "low_onset_rate": 5.98080722979198,
+  "lufs": -10.722753840573805,
+  "rms_dbfs": -9.937501284179188,
+  "crest": 9.937500953674316,
+  "centroid": 2037.6960550796825,
+  "flatness": 0.01263971347361803,
+  "sub100_share": 0.2967859208583832,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.8080294132232666,
+  "clean_share": 0.32040341349883633,
+  "minor_share": -0.19803490838723592,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.7505213618278503,
+  "vocal_share": 0.019001800566911697,
+  "vocal_voiced": 0.8333333333333334,
+  "song_length": 326.6
+ }
+}

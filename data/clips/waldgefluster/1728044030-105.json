@@ -1,0 +1,32 @@
+{
+ "id": "waldgefluster/1728044030-105",
+ "band": "waldgefluster",
+ "title": "Ruinenfelder",
+ "source": "itunes",
+ "album": "Ruinen",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 1.9666547745743035,
+  "tempo_var": 25.71573954859831,
+  "low_onset_rate": 2.1333204334365323,
+  "lufs": -21.6598942784327,
+  "rms_dbfs": -20.673518875758695,
+  "crest": 17.80986976623535,
+  "centroid": 819.5896796418714,
+  "flatness": 0.007616898510605097,
+  "sub100_share": 0.3222792446613312,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.9793242812156677,
+  "clean_share": 0.9767981438515081,
+  "minor_share": 0.17707399798005652,
+  "chord_rate": 0.4999969765866873,
+  "repetitiveness": 0.6506564617156982,
+  "vocal_share": 1.1840726301670657e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 372.733
+ }
+}

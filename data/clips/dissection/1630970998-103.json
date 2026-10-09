@@ -1,0 +1,32 @@
+{
+ "id": "dissection/1630970998-103",
+ "band": "dissection",
+ "title": "Unhallowed",
+ "source": "itunes",
+ "album": "Storm of the Light's Bane",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 6.566666666666666,
+  "tempo_var": 8.22622833275806,
+  "low_onset_rate": 6.633333333333334,
+  "lufs": -10.672886236307098,
+  "rms_dbfs": -10.693203938454968,
+  "crest": 10.693204879760742,
+  "centroid": 2658.7344193861722,
+  "flatness": 0.041299570351839066,
+  "sub100_share": 0.14265988767147064,
+  "lowest_pitch": 123.81591796875,
+  "harmonic_share": 0.6344966888427734,
+  "clean_share": 0.0,
+  "minor_share": 0.07306560970863174,
+  "chord_rate": 2.1333333333333333,
+  "repetitiveness": 0.9161288142204285,
+  "vocal_share": 0.07508185505867004,
+  "vocal_voiced": 0.04291287386215865,
+  "song_length": 448.679
+ }
+}

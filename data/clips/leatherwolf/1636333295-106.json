@@ -1,0 +1,32 @@
+{
+ "id": "leatherwolf/1636333295-106",
+ "band": "leatherwolf",
+ "title": "Thunder",
+ "source": "itunes",
+ "album": "Street Ready",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.9784373030112015,
+  "tempo_var": 7.105004276711265,
+  "low_onset_rate": 6.014219560684673,
+  "lufs": -9.880235448084006,
+  "rms_dbfs": -10.076992699469434,
+  "crest": 10.07699203491211,
+  "centroid": 3015.3590503105784,
+  "flatness": 0.04769544675946236,
+  "sub100_share": 0.2108382284641266,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7368248105049133,
+  "clean_share": 0.019394879751745538,
+  "minor_share": -0.047687658211324147,
+  "chord_rate": 1.971327522668865,
+  "repetitiveness": 0.9647123217582703,
+  "vocal_share": 0.12414513528347015,
+  "vocal_voiced": 0.8492647058823529,
+  "song_length": 227.693
+ }
+}

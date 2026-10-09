@@ -1,0 +1,32 @@
+{
+ "id": "nadja/387815063-103",
+ "band": "nadja",
+ "title": "Machina",
+ "source": "itunes",
+ "album": "Belles Betes",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.412797604616205,
+  "tempo_var": 4.060564798712993,
+  "low_onset_rate": 8.754030693885468,
+  "lufs": -13.15049508675361,
+  "rms_dbfs": -12.176723004586938,
+  "crest": 12.176722526550293,
+  "centroid": 1913.767962815537,
+  "flatness": 0.013453701511025429,
+  "sub100_share": 0.1728876382112503,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8510428071022034,
+  "clean_share": 0.0031031807602792862,
+  "minor_share": -0.12368608371747147,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.8480310440063477,
+  "vocal_share": 4.239948611939326e-05,
+  "vocal_voiced": 0.0,
+  "song_length": 608.8
+ }
+}

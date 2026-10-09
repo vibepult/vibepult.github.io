@@ -1,0 +1,32 @@
+{
+ "id": "esoteric/1476937008-103",
+ "band": "esoteric",
+ "title": "Antim Yatra",
+ "source": "itunes",
+ "album": "A Pyrrhic Existence",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.880570237113902,
+  "tempo_var": 4.1393418263571435,
+  "low_onset_rate": 10.32441024584202,
+  "lufs": -18.766061700853832,
+  "rms_dbfs": -18.02761066007163,
+  "crest": 12.967633247375488,
+  "centroid": 1171.9715814882475,
+  "flatness": 0.00018266733968630433,
+  "sub100_share": 0.1871180683374405,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.971688985824585,
+  "clean_share": 0.9992242048099301,
+  "minor_share": -0.09574749684376915,
+  "chord_rate": 0.5011849633903894,
+  "repetitiveness": 0.7073131799697876,
+  "vocal_share": 0.029098957777023315,
+  "vocal_voiced": 1.0,
+  "song_length": 280.011
+ }
+}

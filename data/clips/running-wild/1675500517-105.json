@@ -1,0 +1,32 @@
+{
+ "id": "running-wild/1675500517-105",
+ "band": "running-wild",
+ "title": "Locomotive",
+ "source": "itunes",
+ "album": "Shadowmaker",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.4462099355088975,
+  "tempo_var": 9.594159411481717,
+  "low_onset_rate": 6.047631891577365,
+  "lufs": -6.8778138974894425,
+  "rms_dbfs": -6.16549898438172,
+  "crest": 6.165499687194824,
+  "centroid": 2240.138250146834,
+  "flatness": 0.02224455028772354,
+  "sub100_share": 0.28173431754112244,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7097729444503784,
+  "clean_share": 0.02482544608223429,
+  "minor_share": 0.09377725238592838,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.8471580147743225,
+  "vocal_share": 0.18161901831626892,
+  "vocal_voiced": 0.39095744680851063,
+  "song_length": 280.507
+ }
+}

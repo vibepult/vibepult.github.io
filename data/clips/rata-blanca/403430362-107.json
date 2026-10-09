@@ -1,0 +1,32 @@
+{
+ "id": "rata-blanca/403430362-107",
+ "band": "rata-blanca",
+ "title": "Vuelo Nocturno",
+ "source": "itunes",
+ "album": "Rata Blanca VII",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 2.2333333333333334,
+  "tempo_var": 9.56489577745179,
+  "low_onset_rate": 2.0,
+  "lufs": -14.174265112827852,
+  "rms_dbfs": -13.528219727688853,
+  "crest": 13.528221130371094,
+  "centroid": 2151.8113138362364,
+  "flatness": 0.011572770774364471,
+  "sub100_share": 0.481432169675827,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8712674975395203,
+  "clean_share": 0.31037151702786375,
+  "minor_share": 0.10221928459618901,
+  "chord_rate": 1.1666666666666667,
+  "repetitiveness": 0.7662517428398132,
+  "vocal_share": 0.1534198522567749,
+  "vocal_voiced": 0.8688046647230321,
+  "song_length": 273.839
+ }
+}

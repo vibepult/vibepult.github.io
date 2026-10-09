@@ -1,0 +1,32 @@
+{
+ "id": "cyhra/1440915884-105",
+ "band": "cyhra",
+ "title": "Closure",
+ "source": "itunes",
+ "album": "Letters to Myself",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.911612641225816,
+  "tempo_var": 8.00446169955388,
+  "low_onset_rate": 6.014219560684673,
+  "lufs": -12.008734113614668,
+  "rms_dbfs": -11.114545526201363,
+  "crest": 11.114544868469238,
+  "centroid": 2096.7314636541323,
+  "flatness": 0.017318958416581154,
+  "sub100_share": 0.3472525477409363,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.8313993215560913,
+  "clean_share": 0.3297129557796742,
+  "minor_share": 0.25951552213756324,
+  "chord_rate": 0.8353082723173156,
+  "repetitiveness": 0.7272768020629883,
+  "vocal_share": 0.3159327507019043,
+  "vocal_voiced": 0.8572984749455338,
+  "song_length": 300.8
+ }
+}

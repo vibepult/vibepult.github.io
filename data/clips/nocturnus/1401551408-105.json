@@ -1,0 +1,32 @@
+{
+ "id": "nocturnus/1401551408-105",
+ "band": "nocturnus",
+ "title": "Bc/Ad",
+ "source": "itunes",
+ "album": "The Key (Full Dynamic Range Edition)",
+ "year": 1990,
+ "itunes_year": 1990,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.57748933229889,
+  "tempo_var": 8.254737242471322,
+  "low_onset_rate": 8.486732046743926,
+  "lufs": -16.277718151251108,
+  "rms_dbfs": -16.89863056181276,
+  "crest": 16.04007911682129,
+  "centroid": 2616.1174905269777,
+  "flatness": 0.02800976298749447,
+  "sub100_share": 0.26078519225120544,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.6550484895706177,
+  "clean_share": 0.03646237393328161,
+  "minor_share": -0.09457139495379863,
+  "chord_rate": 2.1049768462396354,
+  "repetitiveness": 0.9672778248786926,
+  "vocal_share": 0.10229802876710892,
+  "vocal_voiced": 0.13783783783783785,
+  "song_length": 296.573
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "nadja/1403573859-103",
+ "band": "nadja",
+ "title": "Sunwell",
+ "source": "itunes",
+ "album": "Sonnborner",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.742181059981574,
+  "tempo_var": 20.53602654134942,
+  "low_onset_rate": 8.386495054065849,
+  "lufs": -9.46763471110205,
+  "rms_dbfs": -8.383262808049816,
+  "crest": 8.383262634277344,
+  "centroid": 2823.1499919289236,
+  "flatness": 0.05332500487565994,
+  "sub100_share": 0.47821342945098877,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.7916380167007446,
+  "clean_share": 0.015515903801396431,
+  "minor_share": 0.0348663496592993,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.9185164570808411,
+  "vocal_share": 0.008520952425897121,
+  "vocal_voiced": 0.05263157894736842,
+  "song_length": 205.497
+ }
+}

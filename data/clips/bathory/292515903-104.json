@@ -1,0 +1,32 @@
+{
+ "id": "bathory/292515903-104",
+ "band": "bathory",
+ "title": "Pace Till Death",
+ "source": "itunes",
+ "album": "Blood Fire Death",
+ "year": 1988,
+ "itunes_year": 1988,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 6.166666666666667,
+  "tempo_var": 0.0,
+  "low_onset_rate": 7.0,
+  "lufs": -12.825454776247097,
+  "rms_dbfs": -13.298708817640092,
+  "crest": 13.298707962036133,
+  "centroid": 2690.9414098652123,
+  "flatness": 0.03143015876412392,
+  "sub100_share": 0.2237372249364853,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.6528548002243042,
+  "clean_share": 0.0,
+  "minor_share": -0.02143943161775419,
+  "chord_rate": 2.3333333333333335,
+  "repetitiveness": 0.9700152277946472,
+  "vocal_share": 0.08222836256027222,
+  "vocal_voiced": 0.20231958762886598,
+  "song_length": 220.2
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "myrath/347711638-106",
+ "band": "myrath",
+ "title": "Memories",
+ "source": "itunes",
+ "album": "Desert Call",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 64.599609375,
+  "onset_rate": 2.6395741405227175,
+  "tempo_var": 3.63485075742181,
+  "low_onset_rate": 3.4414700819473403,
+  "lufs": -15.558407516504712,
+  "rms_dbfs": -15.255329822962365,
+  "crest": 14.33069133758545,
+  "centroid": 2096.0161492268353,
+  "flatness": 0.009873910807073116,
+  "sub100_share": 0.03647482395172119,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.878113329410553,
+  "clean_share": 0.45927075252133437,
+  "minor_share": 0.0594935512352861,
+  "chord_rate": 1.336493235707705,
+  "repetitiveness": 0.6605014204978943,
+  "vocal_share": 0.5438035130500793,
+  "vocal_voiced": 0.8921484037963762,
+  "song_length": 291.615
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "draconian/1184718236-105",
+ "band": "draconian",
+ "title": "No Lonelier Star",
+ "source": "itunes",
+ "album": "Sovran",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.4,
+  "tempo_var": 2.81603935514172,
+  "low_onset_rate": 3.8666666666666667,
+  "lufs": -10.80606688056011,
+  "rms_dbfs": -10.050439344193688,
+  "crest": 10.050439834594727,
+  "centroid": 2314.490715803699,
+  "flatness": 0.022266872227191925,
+  "sub100_share": 0.2875667214393616,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8274935483932495,
+  "clean_share": 0.08513931888544891,
+  "minor_share": 0.15418706729630294,
+  "chord_rate": 1.4,
+  "repetitiveness": 0.6527456641197205,
+  "vocal_share": 0.171245738863945,
+  "vocal_voiced": 0.07785642062689585,
+  "song_length": 470.347
+ }
+}

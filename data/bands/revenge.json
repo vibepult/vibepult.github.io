@@ -1,0 +1,127 @@
+{
+ "slug": "revenge",
+ "name": "Revenge",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1449759051,
+  "deezer": 57417,
+  "spotify": "50U1jrMV6FoddCGhjovDpG"
+ },
+ "metadata": {
+  "formed": 2000,
+  "split": null,
+  "country": "CA",
+  "status": "active",
+  "members": 1,
+  "past_members": 1,
+  "full_lengths": 7,
+  "genre": "Black/Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 4016,
+  "themes": "Militant Satanism, Antichrist supremacy, Nihilism, Anti-humanity",
+  "release_year": 2020
+ },
+ "partial": false,
+ "clips": [
+  "revenge/1043142384-105",
+  "revenge/1498846568-104",
+  "revenge/1776647240-105",
+  "revenge/1043142384-106",
+  "revenge/1498846568-105",
+  "revenge/1776647240-106",
+  "revenge/1043142384-103",
+  "revenge/1498846568-103",
+  "revenge/1776647240-104",
+  "revenge/1043142384-107",
+  "revenge/1498846568-107",
+  "revenge/1776647240-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 107.666015625,
+   "iqr": 10.048828125
+  },
+  "onset_rate": {
+   "median": 5.356359303528423,
+   "iqr": 3.6050944333996022
+  },
+  "tempo_var": {
+   "median": 14.089306135222035,
+   "iqr": 6.358389742540462
+  },
+  "low_onset_rate": {
+   "median": 9.133333333333333,
+   "iqr": 5.838506764292296
+  },
+  "lufs": {
+   "median": -13.866550309354526,
+   "iqr": 5.630348011403072
+  },
+  "rms_dbfs": {
+   "median": -13.138406691885582,
+   "iqr": 5.189285945000515
+  },
+  "crest": {
+   "median": 13.138406753540039,
+   "iqr": 5.189285516738892
+  },
+  "centroid": {
+   "median": 2415.6186104684457,
+   "iqr": 249.79487942943206
+  },
+  "flatness": {
+   "median": 0.033725712448358536,
+   "iqr": 0.010826255660504103
+  },
+  "sub100_share": {
+   "median": 0.34845995903015137,
+   "iqr": 0.06532309204339981
+  },
+  "lowest_pitch": {
+   "median": 53.8330078125,
+   "iqr": 10.09368896484375
+  },
+  "harmonic_share": {
+   "median": 0.7594680488109589,
+   "iqr": 0.09595787525177002
+  },
+  "clean_share": {
+   "median": 0.021697045973671003,
+   "iqr": 0.03327723029107932
+  },
+  "minor_share": {
+   "median": 0.05508648046435312,
+   "iqr": 0.15007121043488558
+  },
+  "chord_rate": {
+   "median": 2.636493235707705,
+   "iqr": 0.5375785429698228
+  },
+  "repetitiveness": {
+   "median": 0.9449506103992462,
+   "iqr": 0.01163947582244873
+  },
+  "vocal_share": {
+   "median": 0.0924350842833519,
+   "iqr": 0.09631845261901617
+  },
+  "vocal_voiced": {
+   "median": 0.008568293456549879,
+   "iqr": 0.048315571413943305
+  },
+  "song_length": {
+   "median": 262.323,
+   "iqr": 41.17675000000003
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.5,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

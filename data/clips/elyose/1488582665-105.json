@@ -1,0 +1,32 @@
+{
+ "id": "elyose/1488582665-105",
+ "band": "elyose",
+ "title": "Plus qu'humain",
+ "source": "itunes",
+ "album": "Ipso Facto",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 3.6085317364108036,
+  "tempo_var": 28.25048826766564,
+  "low_onset_rate": 3.8758303835523447,
+  "lufs": -9.235029313895252,
+  "rms_dbfs": -8.615349679969937,
+  "crest": 8.615349769592285,
+  "centroid": 2482.9897093027757,
+  "flatness": 0.028918642550706863,
+  "sub100_share": 0.4023136794567108,
+  "lowest_pitch": 88.824462890625,
+  "harmonic_share": 0.6596821546554565,
+  "clean_share": 0.009309542280837859,
+  "minor_share": 0.008776006879695042,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.8354567885398865,
+  "vocal_share": 0.17897137999534607,
+  "vocal_voiced": 0.6164705882352941,
+  "song_length": 261.413
+ }
+}

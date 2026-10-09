@@ -1,0 +1,32 @@
+{
+ "id": "cobrakill/1713246114-106",
+ "band": "cobrakill",
+ "title": "Same Ol' Nasty Rock N' Roll",
+ "source": "itunes",
+ "album": "Serpent's Kiss",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 1.8999885110294117,
+  "tempo_var": 12.41830621146754,
+  "low_onset_rate": 2.3333192240712073,
+  "lufs": -11.603937696706645,
+  "rms_dbfs": -10.317370535326658,
+  "crest": 10.317371368408203,
+  "centroid": 2313.4134790180656,
+  "flatness": 0.02319326438009739,
+  "sub100_share": 0.5444123148918152,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.798201858997345,
+  "clean_share": 0.22583139984532097,
+  "minor_share": 0.0020419800095224927,
+  "chord_rate": 1.666656588622291,
+  "repetitiveness": 0.8651231527328491,
+  "vocal_share": 0.04281511530280113,
+  "vocal_voiced": 0.6387096774193548,
+  "song_length": 219.032
+ }
+}

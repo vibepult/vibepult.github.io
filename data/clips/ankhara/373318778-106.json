@@ -1,0 +1,32 @@
+{
+ "id": "ankhara/373318778-106",
+ "band": "ankhara",
+ "title": "No Mires Atrás",
+ "source": "itunes",
+ "album": "Dueño Del Tiempo",
+ "year": 1999,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.746920913543131,
+  "tempo_var": 2.861578810069195,
+  "low_onset_rate": 6.649053847645832,
+  "lufs": -8.404920643247296,
+  "rms_dbfs": -7.726219117756336,
+  "crest": 7.726219177246094,
+  "centroid": 2604.7606382320323,
+  "flatness": 0.02378215454518795,
+  "sub100_share": 0.2569654583930969,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7963408827781677,
+  "clean_share": 0.015515903801396431,
+  "minor_share": 0.09710313512619295,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.7888811826705933,
+  "vocal_share": 0.13541987538337708,
+  "vocal_voiced": 0.8746081504702194,
+  "song_length": 271.68
+ }
+}

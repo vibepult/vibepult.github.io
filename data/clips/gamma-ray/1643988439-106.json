@@ -1,0 +1,32 @@
+{
+ "id": "gamma-ray/1643988439-106",
+ "band": "gamma-ray",
+ "title": "Damn the Machine",
+ "source": "itunes",
+ "album": "No World Order",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.133258353589958,
+  "tempo_var": 2.842170943040401e-14,
+  "low_onset_rate": 7.333200304756376,
+  "lufs": -7.908886764144943,
+  "rms_dbfs": -7.753662693792642,
+  "crest": 7.753663063049316,
+  "centroid": 2375.697001806456,
+  "flatness": 0.03558376803994179,
+  "sub100_share": 0.16739584505558014,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.6974157094955444,
+  "clean_share": 0.013147718484145398,
+  "minor_share": 0.1482502973106563,
+  "chord_rate": 1.0333145883974895,
+  "repetitiveness": 0.8595258593559265,
+  "vocal_share": 0.1525839865207672,
+  "vocal_voiced": 0.8163082437275986,
+  "song_length": 304.32
+ }
+}

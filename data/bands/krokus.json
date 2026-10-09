@@ -1,0 +1,127 @@
+{
+ "slug": "krokus",
+ "name": "Krokus",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 393632,
+  "deezer": 9336,
+  "spotify": "4YveAIZNQZBiWbt7iWsvCa"
+ },
+ "metadata": {
+  "formed": 1975,
+  "split": null,
+  "country": "CH",
+  "status": "active",
+  "members": 6,
+  "past_members": 27,
+  "full_lengths": 18,
+  "genre": "Heavy Metal/Hard Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 17451,
+  "themes": "Metal, Sex, Society, Life",
+  "release_year": 1997
+ },
+ "partial": false,
+ "clips": [
+  "krokus/285002476-105",
+  "krokus/357615024-105",
+  "krokus/269810333-104",
+  "krokus/298295960-104",
+  "krokus/1752971153-106",
+  "krokus/1652638244-106",
+  "krokus/1753747354-105",
+  "krokus/1824169730-107",
+  "krokus/1824169383-107",
+  "krokus/353667373-106",
+  "krokus/1710143148-106",
+  "krokus/1181488067-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 12.568803267045453
+  },
+  "onset_rate": {
+   "median": 3.302865916044003,
+   "iqr": 0.7625652490735257
+  },
+  "tempo_var": {
+   "median": 2.717262408251152,
+   "iqr": 8.959638152158902
+  },
+  "low_onset_rate": {
+   "median": 4.8817364018142975,
+   "iqr": 1.240361857329531
+  },
+  "lufs": {
+   "median": -10.90734045931892,
+   "iqr": 6.868920385874173
+  },
+  "rms_dbfs": {
+   "median": -10.56082399841479,
+   "iqr": 7.637180286690368
+  },
+  "crest": {
+   "median": 10.560824394226074,
+   "iqr": 6.9765565395355225
+  },
+  "centroid": {
+   "median": 2374.564178677236,
+   "iqr": 433.8707450241668
+  },
+  "flatness": {
+   "median": 0.023267005570232868,
+   "iqr": 0.014133874792605639
+  },
+  "sub100_share": {
+   "median": 0.24008001387119293,
+   "iqr": 0.10802540928125381
+  },
+  "lowest_pitch": {
+   "median": 53.8330078125,
+   "iqr": 10.09368896484375
+  },
+  "harmonic_share": {
+   "median": 0.6981598734855652,
+   "iqr": 0.07016177475452423
+  },
+  "clean_share": {
+   "median": 0.049883990719257545,
+   "iqr": 0.36112336103516157
+  },
+  "minor_share": {
+   "median": -0.13098373415006453,
+   "iqr": 0.1132281793312144
+  },
+  "chord_rate": {
+   "median": 1.0829874147734795,
+   "iqr": 0.4165073877332627
+  },
+  "repetitiveness": {
+   "median": 0.9007662236690521,
+   "iqr": 0.07499375939369202
+  },
+  "vocal_share": {
+   "median": 0.17683184146881104,
+   "iqr": 0.08687392249703407
+  },
+  "vocal_voiced": {
+   "median": 0.6866669576858158,
+   "iqr": 0.2673923733232908
+  },
+  "song_length": {
+   "median": 242.16649999999998,
+   "iqr": 44.95474999999999
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

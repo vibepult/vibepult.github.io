@@ -1,0 +1,32 @@
+{
+ "id": "motley-crue/1606692388-106",
+ "band": "motley-crue",
+ "title": "Beauty",
+ "source": "itunes",
+ "album": "Generation Swine",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 2.0333025955767865,
+  "tempo_var": 8.064178562640363,
+  "low_onset_rate": 6.133240616166045,
+  "lufs": -9.296870166430205,
+  "rms_dbfs": -8.861261843827354,
+  "crest": 8.861262321472168,
+  "centroid": 2454.8649706862434,
+  "flatness": 0.037753064185380936,
+  "sub100_share": 0.2709406912326813,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7255175709724426,
+  "clean_share": 0.0765661252900232,
+  "minor_share": 0.031018398530084423,
+  "chord_rate": 1.8333056189626764,
+  "repetitiveness": 0.8727326989173889,
+  "vocal_share": 0.11046121269464493,
+  "vocal_voiced": 0.11983471074380166,
+  "song_length": 227.16
+ }
+}

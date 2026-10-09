@@ -1,0 +1,32 @@
+{
+ "id": "welicoruss/1694726447-101",
+ "band": "welicoruss",
+ "title": "Spellcaster",
+ "source": "itunes",
+ "album": "Siberian Heathen Horde",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.9665584297790515,
+  "tempo_var": 0.7592263414706932,
+  "low_onset_rate": 7.799858505968146,
+  "lufs": -8.263808458650848,
+  "rms_dbfs": -7.837801503437904,
+  "crest": 7.837801456451416,
+  "centroid": 2115.9916899636296,
+  "flatness": 0.019583921879529953,
+  "sub100_share": 0.2653009593486786,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8282135725021362,
+  "clean_share": 0.06109822119102862,
+  "minor_share": 0.02284294756125782,
+  "chord_rate": 0.8999836737655552,
+  "repetitiveness": 0.8580499887466431,
+  "vocal_share": 0.04582483693957329,
+  "vocal_voiced": 0.7320261437908496,
+  "song_length": 372.593
+ }
+}

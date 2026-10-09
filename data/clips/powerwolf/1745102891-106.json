@@ -1,0 +1,32 @@
+{
+ "id": "powerwolf/1745102891-106",
+ "band": "powerwolf",
+ "title": "Viva Vulgata",
+ "source": "itunes",
+ "album": "Wake Up The Wicked",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.49896622393645,
+  "tempo_var": 24.148991117059293,
+  "low_onset_rate": 6.198575686312442,
+  "lufs": -8.851728283091528,
+  "rms_dbfs": -8.429284006509791,
+  "crest": 8.42928409576416,
+  "centroid": 2342.4126745134786,
+  "flatness": 0.026320071890950203,
+  "sub100_share": 0.29018160700798035,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7841882705688477,
+  "clean_share": 0.07965970610982212,
+  "minor_share": -0.0645789046980948,
+  "chord_rate": 1.0330959477187402,
+  "repetitiveness": 0.8388966917991638,
+  "vocal_share": 0.24756324291229248,
+  "vocal_voiced": 0.7115044247787611,
+  "song_length": 188.316
+ }
+}

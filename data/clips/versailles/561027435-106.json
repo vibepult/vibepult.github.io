@@ -1,0 +1,32 @@
+{
+ "id": "versailles/561027435-106",
+ "band": "versailles",
+ "title": "Ayakashi",
+ "source": "itunes",
+ "album": "Versailles",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.9473948988992875,
+  "tempo_var": 18.214896117167278,
+  "low_onset_rate": 3.641944067303496,
+  "lufs": -10.112049781918097,
+  "rms_dbfs": -8.86136092909141,
+  "crest": 8.861360549926758,
+  "centroid": 2190.5216229912658,
+  "flatness": 0.032682809978723526,
+  "sub100_share": 0.5097752809524536,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8595935106277466,
+  "clean_share": 0.2529092319627618,
+  "minor_share": 0.16359563711044378,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.8829748034477234,
+  "vocal_share": 6.197875563884736e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 277.04
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "manowar/815994497-105",
+ "band": "manowar",
+ "title": "The Blood of the Kings MMXIV",
+ "source": "itunes",
+ "album": "Kings of Metal MMXIV (Silver Edition)",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.7,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.8,
+  "lufs": -11.864943875498577,
+  "rms_dbfs": -10.76361814042131,
+  "crest": 10.763617515563965,
+  "centroid": 2152.985676535635,
+  "flatness": 0.013999029994010925,
+  "sub100_share": 0.4003361463546753,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7765087485313416,
+  "clean_share": 0.2654798761609907,
+  "minor_share": -0.01944901431418078,
+  "chord_rate": 1.2333333333333334,
+  "repetitiveness": 0.8089814186096191,
+  "vocal_share": 0.06480883806943893,
+  "vocal_voiced": 0.09401709401709402,
+  "song_length": 481.252
+ }
+}

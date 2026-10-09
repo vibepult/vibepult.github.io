@@ -1,0 +1,32 @@
+{
+ "id": "trust/253539618-106",
+ "band": "trust",
+ "title": "Fatalité",
+ "source": "itunes",
+ "album": "Répression",
+ "year": 1980,
+ "itunes_year": 1980,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 5.829640786863649,
+  "tempo_var": 16.555412926519423,
+  "low_onset_rate": 6.795695545829625,
+  "lufs": -15.150753373828765,
+  "rms_dbfs": -14.989940641427275,
+  "crest": 14.950353622436523,
+  "centroid": 2308.7606085250127,
+  "flatness": 0.024116631597280502,
+  "sub100_share": 0.15061606466770172,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.6899418234825134,
+  "clean_share": 0.09822119102861562,
+  "minor_share": -0.14730532557459897,
+  "chord_rate": 1.5989871872540296,
+  "repetitiveness": 0.807063639163971,
+  "vocal_share": 0.296355277299881,
+  "vocal_voiced": 0.7906666666666666,
+  "song_length": 173.973
+ }
+}

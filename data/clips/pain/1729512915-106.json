@@ -1,0 +1,32 @@
+{
+ "id": "pain/1729512915-106",
+ "band": "pain",
+ "title": "I Am",
+ "source": "itunes",
+ "album": "I Am",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 2.766649937113003,
+  "tempo_var": 30.63359522940714,
+  "low_onset_rate": 2.4999848829334366,
+  "lufs": -13.769450971979268,
+  "rms_dbfs": -13.027811035513938,
+  "crest": 13.027811050415039,
+  "centroid": 1630.939417271201,
+  "flatness": 0.025841988623142242,
+  "sub100_share": 0.2744256854057312,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7259988784790039,
+  "clean_share": 0.6411446249033256,
+  "minor_share": 0.1024611061279771,
+  "chord_rate": 0.6999957672213623,
+  "repetitiveness": 0.8059821724891663,
+  "vocal_share": 0.21437576413154602,
+  "vocal_voiced": 0.3891625615763547,
+  "song_length": 238.8
+ }
+}

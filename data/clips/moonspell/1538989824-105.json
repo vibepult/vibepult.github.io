@@ -1,0 +1,32 @@
+{
+ "id": "moonspell/1538989824-105",
+ "band": "moonspell",
+ "title": "Entitlement",
+ "source": "itunes",
+ "album": "Hermitage",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 2.8666666666666667,
+  "tempo_var": 19.648183782151605,
+  "low_onset_rate": 3.466666666666667,
+  "lufs": -15.307106856120921,
+  "rms_dbfs": -12.865054084870984,
+  "crest": 12.865055084228516,
+  "centroid": 1641.3396797866017,
+  "flatness": 0.0051987250335514545,
+  "sub100_share": 0.6056355237960815,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7744986414909363,
+  "clean_share": 0.6075851393188855,
+  "minor_share": -0.1153414860419264,
+  "chord_rate": 1.5333333333333334,
+  "repetitiveness": 0.7819170951843262,
+  "vocal_share": 3.5912026419282483e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 376.0
+ }
+}

@@ -1,0 +1,521 @@
+{
+ "slug": "aria",
+ "metadata": {
+  "genre": "Heavy  Metal",
+  "country": "RU",
+  "formed": 1985,
+  "split": null,
+  "status": "active",
+  "members": 5,
+  "past_members": 11,
+  "themes": "Metal, History, War, Religion, Bikers",
+  "albums": [
+   {
+    "title": "Мания величия",
+    "type": "Full-length",
+    "year": 1985
+   },
+   {
+    "title": "С кем ты?",
+    "type": "Full-length",
+    "year": 1986
+   },
+   {
+    "title": "Герой асфальта",
+    "type": "Full-length",
+    "year": 1987
+   },
+   {
+    "title": "Игра с огнём",
+    "type": "Full-length",
+    "year": 1989
+   },
+   {
+    "title": "Кровь за кровь",
+    "type": "Full-length",
+    "year": 1991
+   },
+   {
+    "title": "День длиннее ночи",
+    "type": "Demo",
+    "year": 1994
+   },
+   {
+    "title": "Ночь короче дня",
+    "type": "Full-length",
+    "year": 1995
+   },
+   {
+    "title": "Сделано в России",
+    "type": "Live album",
+    "year": 1996
+   },
+   {
+    "title": "Легенды русского рока",
+    "type": "Compilation",
+    "year": 1997
+   },
+   {
+    "title": "Сделано в России",
+    "type": "Video",
+    "year": 1998
+   },
+   {
+    "title": "Генератор зла",
+    "type": "Full-length",
+    "year": 1998
+   },
+   {
+    "title": "2000 и одна ночь",
+    "type": "Full-length",
+    "year": 1999
+   },
+   {
+    "title": "Tribute to Harley-Davidson",
+    "type": "EP",
+    "year": 1999
+   },
+   {
+    "title": "Лучшие песни 85-89",
+    "type": "Compilation",
+    "year": 1999
+   },
+   {
+    "title": "Grand Collection",
+    "type": "Compilation",
+    "year": 2000
+   },
+   {
+    "title": "Потерянный рай",
+    "type": "Single",
+    "year": 2000
+   },
+   {
+    "title": "Tribute to Harley-Davidson II",
+    "type": "Split",
+    "year": 2001
+   },
+   {
+    "title": "Химера",
+    "type": "Full-length",
+    "year": 2001
+   },
+   {
+    "title": "Дальнобойщики-2",
+    "type": "Full-length",
+    "year": 2001
+   },
+   {
+    "title": "Штиль",
+    "type": "Compilation",
+    "year": 2002
+   },
+   {
+    "title": "Колизей",
+    "type": "Single",
+    "year": 2002
+   },
+   {
+    "title": "Энциклопедия российского рока, диск 1",
+    "type": "Compilation",
+    "year": 2003
+   },
+   {
+    "title": "В поисках новой жертвы...",
+    "type": "Live album",
+    "year": 2003
+   },
+   {
+    "title": "Легенды русского рока - Выпуск 2",
+    "type": "Compilation",
+    "year": 2003
+   },
+   {
+    "title": "Крещение огнём",
+    "type": "Full-length",
+    "year": 2003
+   },
+   {
+    "title": "Золотая серия, часть 1",
+    "type": "Compilation",
+    "year": 2004
+   },
+   {
+    "title": "Золотая серия, часть 2",
+    "type": "Compilation",
+    "year": 2004
+   },
+   {
+    "title": "Миссия",
+    "type": "Compilation",
+    "year": 2004
+   },
+   {
+    "title": "Беспечный ангел",
+    "type": "Compilation",
+    "year": 2004
+   },
+   {
+    "title": "Живой огонь",
+    "type": "Live album",
+    "year": 2004
+   },
+   {
+    "title": "Живой огонь, часть 1",
+    "type": "Video",
+    "year": 2004
+   },
+   {
+    "title": "Живой огонь, часть 2",
+    "type": "Video",
+    "year": 2004
+   },
+   {
+    "title": "Grand Collection, часть 1",
+    "type": "Compilation",
+    "year": 2005
+   },
+   {
+    "title": "Grand Collection, часть 2",
+    "type": "Compilation",
+    "year": 2005
+   },
+   {
+    "title": "Энциклопедия российского рока, диск 2",
+    "type": "Compilation",
+    "year": 2006
+   },
+   {
+    "title": "Чужой",
+    "type": "Single",
+    "year": 2006
+   },
+   {
+    "title": "Армагеддон",
+    "type": "Full-length",
+    "year": 2006
+   },
+   {
+    "title": "Лучшие песни",
+    "type": "Compilation",
+    "year": 2007
+   },
+   {
+    "title": "Пляска ада",
+    "type": "Live album",
+    "year": 2007
+   },
+   {
+    "title": "Пляска ада",
+    "type": "Video",
+    "year": 2007
+   },
+   {
+    "title": "Все клипы",
+    "type": "Video",
+    "year": 2008
+   },
+   {
+    "title": "Герой асфальта: 20 лет",
+    "type": "Live album",
+    "year": 2008
+   },
+   {
+    "title": "Герой асфальта: 20 лет",
+    "type": "Video",
+    "year": 2008
+   },
+   {
+    "title": "Поле битвы",
+    "type": "Single",
+    "year": 2009
+   },
+   {
+    "title": "Золотые баллады",
+    "type": "Compilation",
+    "year": 2011
+   },
+   {
+    "title": "Феникс",
+    "type": "Full-length",
+    "year": 2011
+   },
+   {
+    "title": "Live in Studio",
+    "type": "Live album",
+    "year": 2012
+   },
+   {
+    "title": "В жёлтом круге арены",
+    "type": "Live album",
+    "year": 2012
+   },
+   {
+    "title": "Лучшее",
+    "type": "Compilation",
+    "year": 2013
+   },
+   {
+    "title": "Через все времена",
+    "type": "Full-length",
+    "year": 2014
+   },
+   {
+    "title": "Собрание сочинений",
+    "type": "Boxed set",
+    "year": 2015
+   },
+   {
+    "title": "Котёл истории - Live MMXV",
+    "type": "Live album",
+    "year": 2015
+   },
+   {
+    "title": "30 (1985-2015)",
+    "type": "Compilation",
+    "year": 2015
+   },
+   {
+    "title": "Классическая Ария",
+    "type": "Video",
+    "year": 2016
+   },
+   {
+    "title": "Классическая Ария",
+    "type": "Live album",
+    "year": 2016
+   },
+   {
+    "title": "30 лет! Юбилейный концерт",
+    "type": "Live album",
+    "year": 2016
+   },
+   {
+    "title": "30 лет! Юбилейный концерт",
+    "type": "Video",
+    "year": 2016
+   },
+   {
+    "title": "Гонка за славой",
+    "type": "Single",
+    "year": 2018
+   },
+   {
+    "title": "Проклятье морей",
+    "type": "Full-length",
+    "year": 2018
+   },
+   {
+    "title": "Гость из царства теней",
+    "type": "Live album",
+    "year": 2019
+   },
+   {
+    "title": "Армагеддон (Перезагрузка)",
+    "type": "Full-length",
+    "year": 2020
+   },
+   {
+    "title": "Крещение огнём (Перезагрузка)",
+    "type": "Full-length",
+    "year": 2020
+   },
+   {
+    "title": "XX лет",
+    "type": "Live album",
+    "year": 2021
+   },
+   {
+    "title": "Ballads",
+    "type": "Compilation",
+    "year": 2022
+   },
+   {
+    "title": "Ария",
+    "type": "Boxed set",
+    "year": 2024
+   },
+   {
+    "title": "Гость из царства теней. Наследие",
+    "type": "Live album",
+    "year": 2024
+   },
+   {
+    "title": "Гость из царства теней. Наследие",
+    "type": "Video",
+    "year": 2024
+   },
+   {
+    "title": "Это рок",
+    "type": "Live album",
+    "year": 2025
+   },
+   {
+    "title": "Гордиев узел",
+    "type": "Single",
+    "year": 2025
+   },
+   {
+    "title": "Когда настанет завтра",
+    "type": "Full-length",
+    "year": 2025
+   }
+  ],
+  "full_lengths": 18,
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 122845
+ },
+ "clips": [
+  {
+   "id": "aria/819705886-104",
+   "title": "Бивни чёрных скал",
+   "album": "Мания величия",
+   "album_id": 819705886,
+   "year": 1985,
+   "itunes_year": 1985,
+   "year_source": "metal-archives",
+   "source": "itunes",
+   "song_length": 291.333,
+   "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/06/f7/f9/06f7f945-80ac-d8f5-6098-09335c0affef/mzaf_14422350746873359660.plus.aac.p.m4a"
+  },
+  {
+   "id": "aria/819701693-104",
+   "title": "С кем ты?",
+   "album": "С кем ты?",
+   "album_id": 819701693,
+   "year": 1986,
+   "itunes_year": 1986,
+   "year_source": "metal-archives",
+   "source": "itunes",
+   "song_length": 283.36,
+   "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f9/ec/45/f9ec454b-a811-838c-5ce4-2c2f99688857/mzaf_3007419574465754997.plus.aac.p.m4a"
+  },
+  {
+   "id": "aria/819711321-103",
+   "title": "Мёртвая зона",
+   "album": "Герой асфальта",
+   "album_id": 819711321,
+   "year": 1987,
+   "itunes_year": 1987,
+   "year_source": "metal-archives",
+   "source": "itunes",
+   "song_length": 403.24,
+   "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/da/97/5b/da975bda-3684-a62d-65ee-f1bf1357dfaa/mzaf_15086451005329560083.plus.aac.p.m4a"
+  },
+  {
+   "id": "aria/823727181-104",
+   "title": "Искушение",
+   "album": "Игра с огнём",
+   "album_id": 823727181,
+   "year": 1989,
+   "itunes_year": 1989,
+   "year_source": "metal-archives",
+   "source": "itunes",
+   "song_length": 240.44,
+   "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0f/2c/2f/0f2c2f04-9476-4d52-8ce6-862f112ba3fa/mzaf_644178820920475462.plus.aac.p.m4a"
+  },
+  {
+   "id": "aria/819720980-104",
+   "title": "Не хочешь - не верь мне",
+   "album": "Кровь за кровь",
+   "album_id": 819720980,
+   "year": 1991,
+   "itunes_year": 1991,
+   "year_source": "metal-archives",
+   "source": "itunes",
+   "song_length": 242.867,
+   "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/93/65/d1/9365d1bb-aaca-bbc9-4ba6-02dcb0ce7d14/mzaf_14454770132785946348.plus.aac.p.m4a"
+  },
+  {
+   "id": "aria/824645472-105",
+   "title": "Король дороги",
+   "album": "Ночь короче дня",
+   "album_id": 824645472,
+   "year": 1995,
+   "itunes_year": 1995,
+   "year_source": "metal-archives",
+   "source": "itunes",
+   "song_length": 257.507,
+   "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a5/55/eb/a555ebd1-77ac-c6b7-cf77-29578ee12082/mzaf_10083419008917080364.plus.aac.p.m4a"
+  },
+  {
+   "id": "aria/819719967-105",
+   "title": "Беги за солнцем",
+   "album": "Генератор зла",
+   "album_id": 819719967,
+   "year": 1998,
+   "itunes_year": 1998,
+   "year_source": "metal-archives",
+   "source": "itunes",
+   "song_length": 371.84,
+   "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/8e/f3/8d8ef342-8e68-19e6-5d92-ca75862c62a5/mzaf_2650126736775628602.plus.aac.p.m4a"
+  },
+  {
+   "id": "aria/646981642-108",
+   "title": "Кто ты?",
+   "album": "2000 и одна ночь",
+   "album_id": 646981642,
+   "year": 1999,
+   "itunes_year": 1999,
+   "year_source": "metal-archives",
+   "source": "itunes",
+   "song_length": 286.52,
+   "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/80/80/ac/8080acbd-2c4c-b2e7-dc55-ea6a8476e286/mzaf_3081961005588848966.plus.aac.p.m4a"
+  },
+  {
+   "id": "aria/646971999-105",
+   "title": "Горящая стрела",
+   "album": "Химера",
+   "album_id": 646971999,
+   "year": 2001,
+   "itunes_year": 2001,
+   "year_source": "metal-archives",
+   "source": "itunes",
+   "song_length": 250.547,
+   "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ea/bd/d6/eabdd67a-6962-0a07-33b0-5c441c572f4f/mzaf_5202979948040031303.plus.aac.p.m4a"
+  },
+  {
+   "id": "aria/672032273-112",
+   "title": "Небо",
+   "album": "Дальнобойщики 2 (Саундтрек к компьютерной игре)",
+   "album_id": 672032273,
+   "year": 2001,
+   "itunes_year": 2001,
+   "year_source": "metal-archives",
+   "source": "itunes",
+   "song_length": 179.733,
+   "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/eb/a5/c7/eba5c7df-47fc-cc63-41ea-c7936bb39921/mzaf_17496621086897910789.plus.aac.p.m4a"
+  },
+  {
+   "id": "aria/1565216936-105",
+   "title": "Твой новый мир",
+   "album": "Крещение огнём",
+   "album_id": 1565216936,
+   "year": 2003,
+   "itunes_year": 2003,
+   "year_source": "metal-archives",
+   "source": "itunes",
+   "song_length": 247.8,
+   "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/38/d4/df/38d4df69-8f8b-f077-9de7-23c96cc66f56/mzaf_3857295041747034276.plus.aac.p.m4a"
+  },
+  {
+   "id": "aria/1567084606-105",
+   "title": "Мессия",
+   "album": "Армагеддон",
+   "album_id": 1567084606,
+   "year": 2006,
+   "itunes_year": 2006,
+   "year_source": "metal-archives",
+   "source": "itunes",
+   "song_length": 278.52,
+   "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6b/98/f3/6b98f3b4-45c5-3b7d-e29f-d4fb1d3691c7/mzaf_2352280394856727840.plus.aac.p.m4a"
+  }
+ ],
+ "unmatched_albums": [
+  "Легенды русского рока: Ария, Ч. 1",
+  "Легенды русского рока: Ария, Ч. 2",
+  "Through All Times"
+ ],
+ "sources_failed": []
+}

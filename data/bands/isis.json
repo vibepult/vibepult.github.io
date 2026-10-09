@@ -1,0 +1,127 @@
+{
+ "slug": "isis",
+ "name": "Isis",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 407685008,
+  "deezer": 2984,
+  "spotify": "2vsXeWGC8rILp3rpSN2Fyk"
+ },
+ "metadata": {
+  "formed": 1997,
+  "split": 2018,
+  "country": "US",
+  "status": "split-up",
+  "members": 5,
+  "past_members": 3,
+  "full_lengths": 5,
+  "genre": "Atmospheric Sludge/Post-Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 23180,
+  "themes": "Loss, Personal struggles, Life, Humanity",
+  "release_year": 2003
+ },
+ "partial": false,
+ "clips": [
+  "isis/368094228-106",
+  "isis/1891405758-105",
+  "isis/1891405282-104",
+  "isis/1891427559-105",
+  "isis/1891480629-103",
+  "isis/368094228-104",
+  "isis/1891405758-104",
+  "isis/1891405282-103",
+  "isis/1891427559-104",
+  "isis/1891480629-105",
+  "isis/368094228-108",
+  "isis/1891405758-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 17.99560546875
+  },
+  "onset_rate": {
+   "median": 2.8499827665441178,
+   "iqr": 2.568336552246438
+  },
+  "tempo_var": {
+   "median": 4.5700532640528575,
+   "iqr": 9.815462682945693
+  },
+  "low_onset_rate": {
+   "median": 2.249986394640093,
+   "iqr": 3.344024858257963
+  },
+  "lufs": {
+   "median": -13.585960994899596,
+   "iqr": 8.21300852586075
+  },
+  "rms_dbfs": {
+   "median": -13.089923934987755,
+   "iqr": 8.554290897847832
+  },
+  "crest": {
+   "median": 11.656325340270996,
+   "iqr": 4.847826719284058
+  },
+  "centroid": {
+   "median": 1557.6736511572294,
+   "iqr": 1122.9463648561775
+  },
+  "flatness": {
+   "median": 0.004818823421373963,
+   "iqr": 0.01374099962413311
+  },
+  "sub100_share": {
+   "median": 0.279322013258934,
+   "iqr": 0.36929793772287667
+  },
+  "lowest_pitch": {
+   "median": 65.9454345703125,
+   "iqr": 30.28106689453125
+  },
+  "harmonic_share": {
+   "median": 0.8153043687343597,
+   "iqr": 0.24978913366794586
+  },
+  "clean_share": {
+   "median": 0.7927300850734725,
+   "iqr": 0.6593951617499971
+  },
+  "minor_share": {
+   "median": 0.04157088392687197,
+   "iqr": 0.28649813615733294
+  },
+  "chord_rate": {
+   "median": 1.2666590073529411,
+   "iqr": 0.8360606639596602
+  },
+  "repetitiveness": {
+   "median": 0.8100124001502991,
+   "iqr": 0.09227477014064789
+  },
+  "vocal_share": {
+   "median": 0.03777138143777847,
+   "iqr": 0.029673839453607798
+  },
+  "vocal_voiced": {
+   "median": 0.4072707793077419,
+   "iqr": 0.12590257385221593
+  },
+  "song_length": {
+   "median": 409.71500000000003,
+   "iqr": 150.51975
+  },
+  "vocal_presence": {
+   "median": 0.3333333333333333,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

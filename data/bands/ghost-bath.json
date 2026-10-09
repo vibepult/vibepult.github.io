@@ -1,0 +1,127 @@
+{
+ "slug": "ghost-bath",
+ "name": "Ghost Bath",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1451198653,
+  "deezer": 9741138,
+  "spotify": "37Vukf7o6CBPG68BRDpStb"
+ },
+ "metadata": {
+  "formed": 2012,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 6,
+  "full_lengths": 5,
+  "genre": "Depressive/Post-Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 4309,
+  "themes": "Depression, Loneliness, Death",
+  "release_year": 2016
+ },
+ "partial": false,
+ "clips": [
+  "ghost-bath/1458863379-106",
+  "ghost-bath/1458755582-105",
+  "ghost-bath/1458760377-106",
+  "ghost-bath/1576479325-105",
+  "ghost-bath/1791128882-105",
+  "ghost-bath/1458863379-105",
+  "ghost-bath/1458755582-104",
+  "ghost-bath/1458760377-107",
+  "ghost-bath/1576479325-106",
+  "ghost-bath/1791128882-106",
+  "ghost-bath/1458863379-107",
+  "ghost-bath/1458755582-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.19921875,
+   "iqr": 27.78785129433639
+  },
+  "onset_rate": {
+   "median": 1.5369672210638607,
+   "iqr": 1.4350670468606
+  },
+  "tempo_var": {
+   "median": 9.198974493179039,
+   "iqr": 11.37941968928688
+  },
+  "low_onset_rate": {
+   "median": 4.806108907051326,
+   "iqr": 1.937915191776173
+  },
+  "lufs": {
+   "median": -13.217518251371656,
+   "iqr": 9.750196244156129
+  },
+  "rms_dbfs": {
+   "median": -13.549159563569601,
+   "iqr": 8.662274870125923
+  },
+  "crest": {
+   "median": 13.125096321105957,
+   "iqr": 4.461036682128906
+  },
+  "centroid": {
+   "median": 2142.983412603376,
+   "iqr": 1246.466882223006
+  },
+  "flatness": {
+   "median": 0.02604308258742094,
+   "iqr": 0.030079522577580065
+  },
+  "sub100_share": {
+   "median": 0.046520162373781204,
+   "iqr": 0.1978593128733337
+  },
+  "lowest_pitch": {
+   "median": 110.357666015625,
+   "iqr": 65.9454345703125
+  },
+  "harmonic_share": {
+   "median": 0.9340637922286987,
+   "iqr": 0.16638559103012085
+  },
+  "clean_share": {
+   "median": 0.5034910783553141,
+   "iqr": 0.929790535298681
+  },
+  "minor_share": {
+   "median": 0.1333964603807427,
+   "iqr": 0.11699965284086113
+  },
+  "chord_rate": {
+   "median": 1.318321886536793,
+   "iqr": 0.7851897759782767
+  },
+  "repetitiveness": {
+   "median": 0.8221388459205627,
+   "iqr": 0.13478724658489227
+  },
+  "vocal_share": {
+   "median": 0.06361408904194832,
+   "iqr": 0.03600742621347308
+  },
+  "vocal_voiced": {
+   "median": 0.5774711168164313,
+   "iqr": 0.1038808126727564
+  },
+  "song_length": {
+   "median": 306.95500000000004,
+   "iqr": 91.65699999999998
+  },
+  "vocal_presence": {
+   "median": 0.3333333333333333,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.5,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

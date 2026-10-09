@@ -1,0 +1,127 @@
+{
+ "slug": "xandria",
+ "name": "Xandria",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 76752772,
+  "deezer": 8009,
+  "spotify": "1jzIEzXVJ4p1kFDmio6LEL"
+ },
+ "metadata": {
+  "formed": 1994,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 4,
+  "past_members": 19,
+  "full_lengths": 9,
+  "genre": "Symphonic Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 93630,
+  "themes": "Inner struggles, Feelings",
+  "release_year": 2013
+ },
+ "partial": false,
+ "clips": [
+  "xandria/976312213-106",
+  "xandria/976556322-106",
+  "xandria/1183578584-106",
+  "xandria/1183612978-106",
+  "xandria/1175814658-107",
+  "xandria/1648931542-107",
+  "xandria/6771421060-106",
+  "xandria/976312213-107",
+  "xandria/976556322-107",
+  "xandria/1183578584-107",
+  "xandria/1183612978-107",
+  "xandria/1175814658-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 118.4326171875,
+   "iqr": 51.26953125
+  },
+  "onset_rate": {
+   "median": 3.55,
+   "iqr": 1.2927519739287852
+  },
+  "tempo_var": {
+   "median": 15.158342644472029,
+   "iqr": 9.846447060387138
+  },
+  "low_onset_rate": {
+   "median": 4.966651045697884,
+   "iqr": 2.872926314066818
+  },
+  "lufs": {
+   "median": -9.905721021005125,
+   "iqr": 3.492323725886017
+  },
+  "rms_dbfs": {
+   "median": -9.01389319860259,
+   "iqr": 3.5281344336923572
+  },
+  "crest": {
+   "median": 9.013893127441406,
+   "iqr": 3.5281342267990112
+  },
+  "centroid": {
+   "median": 2394.9780152310495,
+   "iqr": 211.20941787520042
+  },
+  "flatness": {
+   "median": 0.02518094703555107,
+   "iqr": 0.009467903524637222
+  },
+  "sub100_share": {
+   "median": 0.3339404761791229,
+   "iqr": 0.13739702850580215
+  },
+  "lowest_pitch": {
+   "median": 37.68310546875,
+   "iqr": 6.05621337890625
+  },
+  "harmonic_share": {
+   "median": 0.7900639176368713,
+   "iqr": 0.12981566786766052
+  },
+  "clean_share": {
+   "median": 0.06591196766158997,
+   "iqr": 0.3699533269163081
+  },
+  "minor_share": {
+   "median": 0.11057550505796043,
+   "iqr": 0.10503804134944261
+  },
+  "chord_rate": {
+   "median": 1.5999951625386997,
+   "iqr": 0.43430105343548475
+  },
+  "repetitiveness": {
+   "median": 0.8204956650733948,
+   "iqr": 0.075675368309021
+  },
+  "vocal_share": {
+   "median": 0.18957491219043732,
+   "iqr": 0.12132751941680908
+  },
+  "vocal_voiced": {
+   "median": 0.8250773993808049,
+   "iqr": 0.1874277849273801
+  },
+  "song_length": {
+   "median": 301.0665,
+   "iqr": 60.421249999999986
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

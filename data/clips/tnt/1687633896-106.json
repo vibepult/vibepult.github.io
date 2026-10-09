@@ -1,0 +1,32 @@
+{
+ "id": "tnt/1687633896-106",
+ "band": "tnt",
+ "title": "Perfectly",
+ "source": "itunes",
+ "album": "My Religion (DeLuxe Edition)",
+ "year": 2004,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.4414700819473403,
+  "tempo_var": 11.643213842538293,
+  "low_onset_rate": 4.57748933229889,
+  "lufs": -15.299230480575789,
+  "rms_dbfs": -15.050392235688024,
+  "crest": 14.924906730651855,
+  "centroid": 2310.82574302496,
+  "flatness": 0.011465117335319519,
+  "sub100_share": 0.23044830560684204,
+  "lowest_pitch": 104.974365234375,
+  "harmonic_share": 0.9120644927024841,
+  "clean_share": 0.4034134988363072,
+  "minor_share": -0.36246100583707586,
+  "chord_rate": 0.7684836105319304,
+  "repetitiveness": 0.540713369846344,
+  "vocal_share": 0.39790308475494385,
+  "vocal_voiced": 0.8923884514435696,
+  "song_length": 314.92
+ }
+}

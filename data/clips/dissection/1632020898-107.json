@@ -1,0 +1,32 @@
+{
+ "id": "dissection/1632020898-107",
+ "band": "dissection",
+ "title": "Dark Mother Divine",
+ "source": "itunes",
+ "album": "Reinkaos (Instrumental)",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.310190685157349,
+  "tempo_var": 12.524637892023707,
+  "low_onset_rate": 5.245735950152742,
+  "lufs": -18.454028292142553,
+  "rms_dbfs": -17.706175108982755,
+  "crest": 17.0225887298584,
+  "centroid": 1977.4479149772596,
+  "flatness": 0.009129763580858707,
+  "sub100_share": 0.12945112586021423,
+  "lowest_pitch": 118.4326171875,
+  "harmonic_share": 0.7104268670082092,
+  "clean_share": 0.3103180760279286,
+  "minor_share": 0.00234082043786904,
+  "chord_rate": 1.871090529990787,
+  "repetitiveness": 0.832599937915802,
+  "vocal_share": 6.708564228574687e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 320.575
+ }
+}

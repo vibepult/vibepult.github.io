@@ -1,0 +1,32 @@
+{
+ "id": "voyager/1446371711-107",
+ "band": "voyager",
+ "title": "The Ancient Labyrinth",
+ "source": "itunes",
+ "album": "Element V",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 6.081044222470058,
+  "tempo_var": 22.928212083398996,
+  "low_onset_rate": 3.240996096591185,
+  "lufs": -9.545920273803956,
+  "rms_dbfs": -8.39151182056221,
+  "crest": 8.391511917114258,
+  "centroid": 2391.9981292339016,
+  "flatness": 0.023709533736109734,
+  "sub100_share": 0.4657992422580719,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8204666972160339,
+  "clean_share": 0.05120248254460822,
+  "minor_share": -0.11034314717448357,
+  "chord_rate": 2.472512486059254,
+  "repetitiveness": 0.843982458114624,
+  "vocal_share": 0.10815528780221939,
+  "vocal_voiced": 0.8775510204081632,
+  "song_length": 323.84
+ }
+}

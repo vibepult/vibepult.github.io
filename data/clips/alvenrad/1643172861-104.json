@@ -1,0 +1,32 @@
+{
+ "id": "alvenrad/1643172861-104",
+ "band": "alvenrad",
+ "title": "De Marke",
+ "source": "itunes",
+ "album": "Veluws Ĳzer",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.474882412840033,
+  "tempo_var": 2.3947764008294072,
+  "low_onset_rate": 5.579859259079669,
+  "lufs": -11.525976455266903,
+  "rms_dbfs": -11.378369346486089,
+  "crest": 11.378369331359863,
+  "centroid": 2632.5518452445394,
+  "flatness": 0.04443243145942688,
+  "sub100_share": 0.2393033355474472,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.687641441822052,
+  "clean_share": 0.013964313421256789,
+  "minor_share": 0.18922552952698146,
+  "chord_rate": 1.1026069194588566,
+  "repetitiveness": 0.896264374256134,
+  "vocal_share": 0.1303236335515976,
+  "vocal_voiced": 0.5435816164817749,
+  "song_length": 304.833
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "the-deviant/1531977122-103",
+ "band": "the-deviant",
+ "title": "Deception",
+ "source": "itunes",
+ "album": "Lightning Bolts",
+ "year": 2017,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.613271589972361,
+  "tempo_var": 20.526406967543906,
+  "low_onset_rate": 7.250475803714299,
+  "lufs": -10.768830134402826,
+  "rms_dbfs": -10.02481571532741,
+  "crest": 10.024815559387207,
+  "centroid": 2600.65609954194,
+  "flatness": 0.03414246439933777,
+  "sub100_share": 0.36468732357025146,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7153236865997314,
+  "clean_share": 0.010861132660977503,
+  "minor_share": 0.07211743360796019,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.9171739220619202,
+  "vocal_share": 0.04854849725961685,
+  "vocal_voiced": 0.35693215339233036,
+  "song_length": 336.124
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "trouble/1774324071-106",
+ "band": "trouble",
+ "title": "Have I Told You",
+ "source": "itunes",
+ "album": "The Distortion Field",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.5666019664042374,
+  "tempo_var": 15.992929429933104,
+  "low_onset_rate": 4.799912926749628,
+  "lufs": -12.645543534859835,
+  "rms_dbfs": -11.786328612955263,
+  "crest": 11.786328315734863,
+  "centroid": 2110.7400253171863,
+  "flatness": 0.014492164365947247,
+  "sub100_share": 0.24120865762233734,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.7475118637084961,
+  "clean_share": 0.3750966744006187,
+  "minor_share": 0.06486769562393724,
+  "chord_rate": 1.1666455030294234,
+  "repetitiveness": 0.7801941633224487,
+  "vocal_share": 0.22510501742362976,
+  "vocal_voiced": 0.8598382749326146,
+  "song_length": 259.5
+ }
+}

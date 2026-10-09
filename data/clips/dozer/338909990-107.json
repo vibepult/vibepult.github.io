@@ -1,0 +1,32 @@
+{
+ "id": "dozer/338909990-107",
+ "band": "dozer",
+ "title": "Man Made Mountain",
+ "source": "itunes",
+ "album": "Call It Conspiracy",
+ "year": 2002,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.06659289627399,
+  "tempo_var": 3.8676924120921115,
+  "low_onset_rate": 4.599916554801727,
+  "lufs": -9.300430774635975,
+  "rms_dbfs": -8.711840897859668,
+  "crest": 8.711841583251953,
+  "centroid": 2838.532475113196,
+  "flatness": 0.04060786962509155,
+  "sub100_share": 0.3846455216407776,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7273145914077759,
+  "clean_share": 0.01082753286929621,
+  "minor_share": 0.10864992791271633,
+  "chord_rate": 2.766616478612633,
+  "repetitiveness": 0.8423517346382141,
+  "vocal_share": 0.10387799143791199,
+  "vocal_voiced": 0.7414634146341463,
+  "song_length": 290.324
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "quiet-riot",
+ "name": "Quiet Riot",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 548598,
+  "deezer": 5732,
+  "spotify": "1dLWg6m8RRhizsdqJbhyj3"
+ },
+ "metadata": {
+  "formed": 1975,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 4,
+  "past_members": 26,
+  "full_lengths": 15,
+  "genre": "Hard Rock, Heavy Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 157046,
+  "themes": "Life, Partying, Love, Metal, Society",
+  "release_year": 1993
+ },
+ "partial": false,
+ "clips": [
+  "quiet-riot/192486740-105",
+  "quiet-riot/185992193-105",
+  "quiet-riot/327338445-105",
+  "quiet-riot/151039123-108",
+  "quiet-riot/1671500124-106",
+  "quiet-riot/1242413032-106",
+  "quiet-riot/1474008991-106",
+  "quiet-riot/192486740-106",
+  "quiet-riot/185992193-106",
+  "quiet-riot/327338445-106",
+  "quiet-riot/151039123-107",
+  "quiet-riot/1671500124-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.19921875,
+   "iqr": 30.618307473776213
+  },
+  "onset_rate": {
+   "median": 3.5977211713215667,
+   "iqr": 0.6006512835814952
+  },
+  "tempo_var": {
+   "median": 3.681810861963851,
+   "iqr": 4.4398723917390726
+  },
+  "low_onset_rate": {
+   "median": 4.09740466733845,
+   "iqr": 1.7953571617892714
+  },
+  "lufs": {
+   "median": -12.901325351864333,
+   "iqr": 5.594751044911337
+  },
+  "rms_dbfs": {
+   "median": -12.673932899713902,
+   "iqr": 6.540767375783089
+  },
+  "crest": {
+   "median": 12.673933029174805,
+   "iqr": 6.3229475021362305
+  },
+  "centroid": {
+   "median": 2585.590573670738,
+   "iqr": 393.42132617368
+  },
+  "flatness": {
+   "median": 0.03473414108157158,
+   "iqr": 0.021748750936239958
+  },
+  "sub100_share": {
+   "median": 0.1603996828198433,
+   "iqr": 0.15274925902485847
+  },
+  "lowest_pitch": {
+   "median": 55.1788330078125,
+   "iqr": 28.93524169921875
+  },
+  "harmonic_share": {
+   "median": 0.6795321702957153,
+   "iqr": 0.09915348887443542
+  },
+  "clean_share": {
+   "median": 0.012374323279195668,
+   "iqr": 0.07117920868890613
+  },
+  "minor_share": {
+   "median": -0.06726393241186315,
+   "iqr": 0.17918450807467387
+  },
+  "chord_rate": {
+   "median": 2.11532679980481,
+   "iqr": 0.3157405049134996
+  },
+  "repetitiveness": {
+   "median": 0.8362480103969574,
+   "iqr": 0.07569266855716705
+  },
+  "vocal_share": {
+   "median": 0.2598522678017616,
+   "iqr": 0.2574902977794409
+  },
+  "vocal_voiced": {
+   "median": 0.6453506070581573,
+   "iqr": 0.19974233554292808
+  },
+  "song_length": {
+   "median": 277.165,
+   "iqr": 74.03599999999997
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.6
+ },
+ "sources_failed": []
+}

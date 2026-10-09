@@ -1,0 +1,127 @@
+{
+ "slug": "annihilator",
+ "name": "Annihilator",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 7264636,
+  "deezer": 3936,
+  "spotify": "0L8QRAAuWjqvTM8FpQ1gYO"
+ },
+ "metadata": {
+  "formed": 1984,
+  "split": null,
+  "country": "CA",
+  "status": "active",
+  "members": 4,
+  "past_members": 29,
+  "full_lengths": 19,
+  "genre": "Technical Speed/Thrash Metal (early); Groove/Thrash Metal (later)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 83368,
+  "themes": "Metal, Perversion, Mental demons, Paranoia, Psychology, Humour, Disorders, Death",
+  "release_year": 2001
+ },
+ "partial": false,
+ "clips": [
+  "annihilator/215211921-107",
+  "annihilator/214479691-107",
+  "annihilator/1829447885-107",
+  "annihilator/1829446569-106",
+  "annihilator/1829446361-106",
+  "annihilator/1829445384-106",
+  "annihilator/1550273558-105",
+  "annihilator/1550669513-105",
+  "annihilator/1550093078-105",
+  "annihilator/1671515888-105",
+  "annihilator/1550302120-105",
+  "annihilator/1578919029-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.32652698863637,
+   "iqr": 38.5040406756073
+  },
+  "onset_rate": {
+   "median": 6.047631891577366,
+   "iqr": 1.8459647238462011
+  },
+  "tempo_var": {
+   "median": 4.060687888072241,
+   "iqr": 17.887401063568998
+  },
+  "low_onset_rate": {
+   "median": 6.598935351306793,
+   "iqr": 1.7131352179963333
+  },
+  "lufs": {
+   "median": -11.265821255086742,
+   "iqr": 1.5391046701454396
+  },
+  "rms_dbfs": {
+   "median": -10.486147081898396,
+   "iqr": 1.2336127818735374
+  },
+  "crest": {
+   "median": 10.486147403717041,
+   "iqr": 1.2336127758026123
+  },
+  "centroid": {
+   "median": 2604.883711669741,
+   "iqr": 247.40822736775954
+  },
+  "flatness": {
+   "median": 0.0285981772467494,
+   "iqr": 0.011378575582057238
+  },
+  "sub100_share": {
+   "median": 0.3662761151790619,
+   "iqr": 0.12548084557056427
+  },
+  "lowest_pitch": {
+   "median": 45.758056640625,
+   "iqr": 16.82281494140625
+  },
+  "harmonic_share": {
+   "median": 0.7120393514633179,
+   "iqr": 0.12641552090644836
+  },
+  "clean_share": {
+   "median": 0.02745552977571539,
+   "iqr": 0.16232344359464973
+  },
+  "minor_share": {
+   "median": 0.021789633158669802,
+   "iqr": 0.08230289331908275
+  },
+  "chord_rate": {
+   "median": 1.7687864994305116,
+   "iqr": 0.9075415626839121
+  },
+  "repetitiveness": {
+   "median": 0.9243761301040649,
+   "iqr": 0.06164295971393585
+  },
+  "vocal_share": {
+   "median": 0.11731979623436928,
+   "iqr": 0.08719466999173164
+  },
+  "vocal_voiced": {
+   "median": 0.3416351579432291,
+   "iqr": 0.4380596181878229
+  },
+  "song_length": {
+   "median": 290.573,
+   "iqr": 41.24549999999999
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

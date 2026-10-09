@@ -1,0 +1,32 @@
+{
+ "id": "avalanch/119520264-106",
+ "band": "avalanch",
+ "title": "Old Fortress",
+ "source": "itunes",
+ "album": "Mother Earth",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.911612641225816,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.443840008728119,
+  "lufs": -10.079088719572587,
+  "rms_dbfs": -9.591035446271341,
+  "crest": 9.591034889221191,
+  "centroid": 2800.4234893632797,
+  "flatness": 0.03828694298863411,
+  "sub100_share": 0.366352379322052,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.6963934898376465,
+  "clean_share": 0.0062063615205585725,
+  "minor_share": -0.1315712817354992,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.7863101959228516,
+  "vocal_share": 0.18571186065673828,
+  "vocal_voiced": 0.7420189818809318,
+  "song_length": 336.36
+ }
+}

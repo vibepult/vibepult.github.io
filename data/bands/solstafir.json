@@ -1,0 +1,127 @@
+{
+ "slug": "solstafir",
+ "name": "Sólstafir",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 255252706,
+  "deezer": 182911,
+  "spotify": "721C5U5rM8J0jjq6IQuSBK"
+ },
+ "metadata": {
+  "formed": 1995,
+  "split": null,
+  "country": "IS",
+  "status": "active",
+  "members": 4,
+  "past_members": 2,
+  "full_lengths": 8,
+  "genre": "Viking/Black Metal (early); Post-Metal/Rock (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 24297,
+  "themes": "Nature, Paganism (early); Depression, Emotions (later)",
+  "release_year": 2010
+ },
+ "partial": false,
+ "clips": [
+  "solstafir/730053037-105",
+  "solstafir/1660521671-104",
+  "solstafir/1660393188-104",
+  "solstafir/583597214-106",
+  "solstafir/1211022482-104",
+  "solstafir/1523694022-105",
+  "solstafir/730053037-104",
+  "solstafir/1660521671-103",
+  "solstafir/1660393188-105",
+  "solstafir/583597214-105",
+  "solstafir/1211022482-105",
+  "solstafir/1523694022-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.52302631578948,
+   "iqr": 34.00212358635709
+  },
+  "onset_rate": {
+   "median": 3.1908776002521457,
+   "iqr": 2.873460456771566
+  },
+  "tempo_var": {
+   "median": 7.595146338245224,
+   "iqr": 11.488454944993112
+  },
+  "low_onset_rate": {
+   "median": 5.446209935508898,
+   "iqr": 2.121683011685981
+  },
+  "lufs": {
+   "median": -9.199747050752187,
+   "iqr": 5.154270970861781
+  },
+  "rms_dbfs": {
+   "median": -8.837632475660929,
+   "iqr": 4.596216527049743
+  },
+  "crest": {
+   "median": 8.837632656097412,
+   "iqr": 4.596216082572937
+  },
+  "centroid": {
+   "median": 1784.6202462599572,
+   "iqr": 1140.8235213980538
+  },
+  "flatness": {
+   "median": 0.006930291187018156,
+   "iqr": 0.022712599486112595
+  },
+  "sub100_share": {
+   "median": 0.3295189291238785,
+   "iqr": 0.26772644370794296
+  },
+  "lowest_pitch": {
+   "median": 59.21630859375,
+   "iqr": 15.47698974609375
+  },
+  "harmonic_share": {
+   "median": 0.8124522268772125,
+   "iqr": 0.1626196652650833
+  },
+  "clean_share": {
+   "median": 0.5418929402637703,
+   "iqr": 0.8041117145073701
+  },
+  "minor_share": {
+   "median": 0.0809687057511328,
+   "iqr": 0.14526172387332978
+  },
+  "chord_rate": {
+   "median": 1.0023699267807789,
+   "iqr": 0.6014219560684674
+  },
+  "repetitiveness": {
+   "median": 0.7557404041290283,
+   "iqr": 0.1600080281496048
+  },
+  "vocal_share": {
+   "median": 0.0919334776699543,
+   "iqr": 0.10875554103404284
+  },
+  "vocal_voiced": {
+   "median": 0.9040320693520827,
+   "iqr": 0.42589707929862475
+  },
+  "song_length": {
+   "median": 363.1755,
+   "iqr": 138.0485
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

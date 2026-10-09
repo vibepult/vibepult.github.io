@@ -1,0 +1,32 @@
+{
+ "id": "tristania/1183572661-105",
+ "band": "tristania",
+ "title": "Midwintertears",
+ "source": "itunes",
+ "album": "Widow's Weeds",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.3333333333333335,
+  "tempo_var": 1.722386446380253,
+  "low_onset_rate": 5.766666666666667,
+  "lufs": -14.73792920590157,
+  "rms_dbfs": -14.090633187075136,
+  "crest": 14.090633392333984,
+  "centroid": 2693.2572221560326,
+  "flatness": 0.031440358608961105,
+  "sub100_share": 0.33972829580307007,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7657762169837952,
+  "clean_share": 0.0015479876160990713,
+  "minor_share": 0.18431400894901806,
+  "chord_rate": 1.7,
+  "repetitiveness": 0.7070199847221375,
+  "vocal_share": 0.12817515432834625,
+  "vocal_voiced": 0.6116504854368932,
+  "song_length": 512.107
+ }
+}

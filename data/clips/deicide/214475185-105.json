@@ -1,0 +1,32 @@
+{
+ "id": "deicide/214475185-105",
+ "band": "deicide",
+ "title": "The Gift That Keeps On Giving",
+ "source": "itunes",
+ "album": "Insineratehymn",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.94265504533773,
+  "tempo_var": 1.6821446534322282,
+  "low_onset_rate": 5.646683920865054,
+  "lufs": -12.172558584997613,
+  "rms_dbfs": -11.138677563984121,
+  "crest": 11.138677597045898,
+  "centroid": 2323.3806659018223,
+  "flatness": 0.018645761534571648,
+  "sub100_share": 0.3835792541503906,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.8388670682907104,
+  "clean_share": 0.2156710628394104,
+  "minor_share": -0.04206676900319306,
+  "chord_rate": 3.6753563981961888,
+  "repetitiveness": 0.8933099508285522,
+  "vocal_share": 0.1154462993144989,
+  "vocal_voiced": 0.09812667261373774,
+  "song_length": 182.173
+ }
+}

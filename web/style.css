@@ -1,0 +1,262 @@
+/* The desk, laid out per docs/designs/console (2026-10-07): two rows of three columns.
+   The mock's palette is derived here from the pack slots in themes.css, so every pack re-skins the whole desk. */
+:root {
+  --bg: color-mix(in srgb, var(--panel-inset) 80%, black);
+  --panel-line: color-mix(in srgb, var(--panel) 82%, white);
+  --well: var(--panel-inset);
+  --slot: color-mix(in srgb, var(--panel-inset) 65%, black);
+  --btn: color-mix(in srgb, var(--panel) 93%, white);
+  --btn-line: color-mix(in srgb, var(--panel) 80%, white);
+  --text: var(--label);
+  --text-2: color-mix(in srgb, var(--label) 85%, var(--panel));
+  --text-3: color-mix(in srgb, var(--label) 62%, var(--panel));
+  --lcd: var(--accent);
+  --cap-silver: linear-gradient(to bottom, color-mix(in srgb, var(--cap) 90%, white) 0%, var(--cap) 45%, color-mix(in srgb, var(--cap) 72%, black) 55%, color-mix(in srgb, var(--cap) 96%, white) 100%);
+  --cap-across: linear-gradient(to right, color-mix(in srgb, var(--cap) 90%, white) 0%, var(--cap) 45%, color-mix(in srgb, var(--cap) 72%, black) 55%, color-mix(in srgb, var(--cap) 96%, white) 100%);
+  --font-ui: 'Barlow Condensed', 'Arial Narrow', sans-serif;
+  --font-lcd: var(--font-mono);
+  --cap-h: 36px;      /* fader cap height, CAP in console.js */
+  --lever-cap: 28px;  /* lever cap width and master cap height, LEVER_CAP in console.js */
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; background: var(--bg); color: var(--text); }
+/* The skin's scene (docs/designs/skins.md) sits behind the desk; the desk casts a shadow onto it. */
+@media (min-width: 1024px) {
+  body { background-image: var(--scene, none); background-size: cover; background-position: center; }
+  .console { filter: drop-shadow(0 24px 40px rgba(0,0,0,.7)); border-radius: 14px; position: relative; z-index: 1; }
+  #lights { display: block; }
+}
+html { font-synthesis: none; }
+body { font-family: var(--font-ui); font-size: 16px; line-height: 1.3; }
+button, select { font: inherit; color: inherit; }
+svg { fill: none; stroke: currentColor; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
+.lcd { font-family: var(--font-lcd); font-weight: 700; color: var(--lcd); }
+.label { font-size: 14px; letter-spacing: .16em; text-transform: uppercase; color: var(--text-3); }
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+[hidden] { display: none !important; }
+
+/* ---------- the light layer (skins.md): candle flicker, neon buzz, firefly drift, slow pulses, desktop only ---------- */
+#lights { display: none; position: fixed; inset: 0; z-index: 0; pointer-events: none; overflow: hidden; }
+.light { position: absolute; left: calc(var(--sx) + var(--x) * var(--ss) * 1px); top: calc(var(--sy) + var(--y) * var(--ss) * 1px);
+  width: calc(var(--r) * 2 * var(--ss) * 1px); height: calc(var(--r) * 2 * var(--ss) * 1px); transform: translate(-50%, -50%);
+  border-radius: 50%; background: radial-gradient(circle, var(--c) 0%, transparent 68%); mix-blend-mode: screen; opacity: .6;
+  animation: var(--anim) var(--t) var(--d) infinite ease-in-out; }
+.light--candle { --anim: flicker; }
+.light--neon { --anim: buzz; }
+.light--firefly { --anim: drift; }
+.light--pulse { --anim: pulse; }
+.light--ember { --anim: rise; }
+.light--flash { --anim: flash; opacity: 0; }
+@keyframes flicker { 0%, 100% { opacity: .7; transform: translate(-50%, -50%) scale(1); } 23% { opacity: .45; transform: translate(-50%, -50%) scale(.9); } 51% { opacity: .9; transform: translate(-50%, -50%) scale(1.08); } 78% { opacity: .55; transform: translate(-50%, -50%) scale(.96); } }
+@keyframes buzz { 0%, 86%, 100% { opacity: .75; } 88% { opacity: .15; } 90% { opacity: .75; } 93% { opacity: .3; } 95% { opacity: .75; } }
+@keyframes drift { 0%, 100% { opacity: 0; transform: translate(-50%, -50%); } 20% { opacity: 1; } 50% { opacity: .35; transform: translate(calc(-50% + 36px), calc(-50% - 44px)); } 80% { opacity: 1; transform: translate(calc(-50% - 24px), calc(-50% - 70px)); } }
+@keyframes pulse { 0%, 100% { opacity: .35; } 50% { opacity: .8; } }
+@keyframes rise { 0% { opacity: 0; transform: translate(-50%, -50%); } 15% { opacity: 1; } 100% { opacity: 0; transform: translate(calc(-50% + 20px), calc(-50% - 220px)); } }
+@keyframes flash { 0%, 100% { opacity: 0; } 2% { opacity: .9; } 4% { opacity: .1; } 6% { opacity: .6; } 10% { opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { .light { animation: none; } }
+
+/* ---------- page: two rows of three columns ---------- */
+.console { min-height: 100vh; display: flex; flex-direction: column; gap: 12px; padding: 12px 16px 16px; background-color: var(--bg); background-image: var(--chassis, none); background-blend-mode: overlay; } /* the chassis: the box the columns sit in */
+/* Desktop: the 1440 x 876 reference desk scaled to 80 percent of the viewport (console.js sets --zoom), centred. */
+@media (min-width: 1024px) {
+  body { min-height: 100vh; display: grid; place-items: center; }
+  .console { zoom: var(--zoom, .7); width: 1440px; min-height: 876px; }
+}
+.console[aria-busy="true"] .row { opacity: .4; pointer-events: none; }
+.row { display: flex; gap: 12px; align-items: stretch; }
+.row--top { flex: 0 0 auto; } /* sized by its content: the output column and four selectors */
+.row--bottom { flex: 1 1 auto; min-height: 380px; }
+.col { flex: 1 1 0; min-width: 0; background-color: var(--panel); background-image: var(--panel-tex, none); background-blend-mode: overlay; border: 1px solid var(--panel-line); border-radius: 8px; }
+.col:not(.output) { border-image: var(--ornament, none) 24 / 24px / 0 round; } /* skin ornaments: 9-slice corners and edge rule, inside the 22 px rim below */
+.panel { display: flex; flex-direction: column; gap: 12px; padding: 22px; } /* the rim the ornaments own */
+.strip.is-off, .lever.is-off { opacity: .4; } /* a bypassed control dims whole, OFF button included */
+
+/* ON/OFF: the bypass button */
+.onoff { width: 44px; height: 28px; padding: 0; font-family: var(--font-lcd); font-size: 11px; font-weight: 700; border: 1px solid var(--btn-line); border-radius: 3px; cursor: pointer; background: var(--btn); color: var(--text-3); }
+.onoff[aria-pressed="true"] { background: var(--led-on); color: var(--well); }
+
+/* ---------- top-left: brand, master fader, levers ---------- */
+.brand { display: flex; flex-wrap: wrap; align-items: baseline; gap: 10px; } /* the search wraps under the name on a phone */
+.brand__name { margin: 0; font-family: var(--font-display); font-size: 28px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; }
+.brand__sub { font-size: 13px; letter-spacing: .14em; text-transform: uppercase; color: var(--text-3); }
+/* Search: an LCD name display in the brand row (2026-10-09); type a band and the desk recalls it.
+   Matches drop out of the field as lines of the same LCD, the active one lit like a pressed pad. */
+.search { position: relative; flex: 1 1 150px; min-width: 0; margin-left: auto; }
+.search__input { width: 100%; height: 32px; padding: 0 10px; font-size: 14px; background: var(--well); border: 1px solid var(--btn-line); border-radius: 3px; box-shadow: inset 0 0 10px rgba(0,0,0,.9); outline: none; }
+.search__input::placeholder { color: var(--text-3); font-weight: 500; }
+.search__input:focus, .search__input[aria-expanded="true"] { border-color: var(--lcd); }
+.search__input[aria-expanded="true"] { border-radius: 3px 3px 0 0; }
+.search__input[aria-invalid="true"] { color: var(--text-3); }
+.search__list { position: absolute; z-index: 6; left: 0; right: 0; top: 100%; margin: 0; padding: 4px 0; list-style: none; background: var(--well); border: 1px solid var(--lcd); border-top: 0; border-radius: 0 0 3px 3px; box-shadow: inset 0 0 10px rgba(0,0,0,.9), 0 8px 16px rgba(0,0,0,.6); font-family: var(--font-lcd); font-size: 13px; font-weight: 500; color: var(--text-2); }
+.search__list li { padding: 5px 10px; cursor: pointer; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.search__list b { font-weight: 700; color: var(--lcd); }
+.search__list li[aria-selected="true"] { background: var(--lcd); color: var(--well); }
+.search__list li[aria-selected="true"] b { color: inherit; }
+.left-body { flex: 1 1 auto; display: flex; gap: 14px; min-height: 0; }
+.master { width: 70px; display: flex; }
+.levers { flex: 1 1 auto; min-width: 0; display: flex; flex-direction: column; justify-content: flex-start; gap: 18px; }
+.lever { position: relative; }
+.lever__head { display: flex; align-items: center; gap: 8px; margin-bottom: 4px; }
+.lever__name { font-size: 15px; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; }
+.lever__val { margin-left: auto; font-size: 13px; }
+.lever__track { position: relative; height: 44px; touch-action: none; cursor: ew-resize; }
+.lever__track::before { content: ""; position: absolute; left: 14px; right: 14px; top: 50%; height: 6px; margin-top: -3px; background: var(--slot); border-radius: 3px; box-shadow: inset 0 1px 2px rgba(0,0,0,.8); }
+.detent { position: absolute; top: 6px; bottom: 6px; width: 2px; background: var(--btn-line); left: calc(var(--lever-cap) / 2 + (100% - var(--lever-cap)) * var(--v) / 100); }
+.lever__cap { position: absolute; z-index: 1; top: 0; height: 44px; width: var(--lever-cap); left: calc((100% - var(--lever-cap)) * var(--v, 50) / 100); border-radius: 4px; background-image: var(--lever-face, none), var(--cap-tex, none), var(--cap-across); background-size: 100% 100%, auto, auto; background-blend-mode: normal, overlay, normal; box-shadow: 0 3px 6px rgba(0,0,0,.6); }
+.lever__cap::after { content: ""; position: absolute; top: 0; bottom: 0; left: 50%; width: 2px; margin-left: -1px; background: var(--bg); }
+[data-pack] .lever__cap::after, [data-pack] .cap::after { content: none; } /* a skinned cap face draws its own grip */
+.settling .lever__cap, .settling .cap { transition: left 150ms ease-out, bottom 150ms ease-out; }
+@media (prefers-reduced-motion: reduce) { .settling .lever__cap, .settling .cap { transition: none; } }
+
+/* the master is a lever stood upright: track above, name and LCD below */
+.lever--vertical { flex: 1 1 auto; display: flex; flex-direction: column-reverse; align-items: stretch; gap: 8px; }
+.lever--vertical .lever__head { margin: 0; flex-direction: column; gap: 2px; padding: 6px 4px; background-color: var(--well); background-image: var(--plate, none); background-blend-mode: overlay; border: 1px solid var(--panel-line); border-radius: 3px; text-align: center; }
+.lever--vertical .lever__name { font-size: 12px; }
+.lever--vertical .lever__val { margin: 0; font-size: 12px; }
+.lever--vertical .lever__track { height: auto; flex: 1 1 auto; min-height: 180px; cursor: ns-resize; }
+.lever--vertical .lever__track::before { left: 50%; right: auto; top: 14px; bottom: 14px; width: 8px; height: auto; margin: 0 0 0 -4px; }
+.lever--vertical .detent { top: auto; left: 10px; right: 10px; width: auto; height: 2px; bottom: calc(var(--lever-cap) / 2 + (100% - var(--lever-cap)) * var(--v) / 100); }
+.lever--vertical .lever__cap { top: auto; left: 2px; right: 2px; width: auto; height: var(--lever-cap); bottom: calc((100% - var(--lever-cap)) * var(--v, 0) / 100); background-image: var(--cap-face, none), var(--cap-tex, none), var(--cap-silver); }
+.lever--vertical .lever__cap::after { top: 50%; bottom: auto; left: 0; right: 0; width: auto; height: 2px; margin: -1px 0 0; }
+.lever--vertical .readout { left: 100%; top: auto; bottom: 0; }
+
+/* ---------- top-middle: U-shaped output ---------- */
+.output { display: flex; flex-direction: column; align-items: center; gap: 12px; padding: 18px 40px 72px; border-radius: 8px 8px 50% 50% / 8px 8px 60% 60%;
+  background-image: var(--emblem, none), var(--panel-tex, none); background-size: 96px, auto; background-position: center calc(100% - 8px), 0 0; background-repeat: no-repeat, repeat; background-blend-mode: normal, overlay; } /* the skin's sigil sits in the empty bottom of the U */
+.output__body { width: 100%; max-width: 480px; display: flex; flex-direction: column; gap: 12px; }
+.band { display: flex; flex-direction: column; align-items: center; gap: 6px; padding: 14px 16px; text-align: center; background: var(--well); border: 1px solid var(--panel-line); border-radius: 6px; }
+.band p, .band h2 { margin: 0; }
+.band__match { font-family: var(--font-lcd); font-size: 12px; color: var(--text-3); min-height: 15px; }
+.band__name { font-family: var(--font-display); font-size: 40px; font-weight: 700; line-height: 1.05; letter-spacing: .02em; text-transform: uppercase; color: var(--lcd); }
+.band__meta { font-family: var(--font-lcd); font-size: 13px; color: var(--text-2); min-height: 17px; }
+.hint, .message { font-size: 15px; color: var(--text-2); }
+.note { font-size: 12px; letter-spacing: .04em; color: var(--text-3); } /* fine print under the band */
+.message p { margin: 0; }
+.message code { display: block; margin-top: 6px; padding: 6px 8px; background: var(--slot); font-family: var(--font-lcd); font-size: 13px; }
+.embed-slot { --player: .7; position: relative; width: 88%; margin: 0 auto; height: calc(152px * var(--player)); background: var(--well); border-radius: 12px; overflow: hidden; } /* narrower and smaller: clear of the U's curve */
+/* The player lays out at its full 152 px height and 1/.75 of the width, then scales down to fit the slot. */
+.embed-slot iframe { position: absolute; top: 0; left: 0; width: calc(100% / var(--player)); height: 152px; border: 0; transform: scale(var(--player)); transform-origin: top left; }
+.embed-placeholder { position: absolute; inset: 0; display: grid; place-content: center; text-align: center; gap: 8px; padding: 16px; }
+.embed-placeholder strong { font-family: var(--font-display); font-size: 24px; }
+.embed-placeholder a, .open-spotify { color: var(--lcd); font-size: 14px; }
+.output__foot { width: 72%; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; gap: 12px; min-height: 36px; } /* inside the curve */
+.next { height: 36px; padding: 0 14px; border: 1px solid var(--lcd); background: transparent; border-radius: 18px; cursor: pointer; font-size: 15px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--lcd); }
+.next:hover { background: var(--well); }
+
+/* ---------- top-right: donations + stepped selectors ---------- */
+.donate { display: flex; flex-direction: column; gap: 8px; padding: 12px 14px; background: var(--well); border: 1px solid var(--btn-line); border-radius: 4px; }
+.donate__title { font-size: 18px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; }
+.donate__msg { font-size: 15px; line-height: 1.3; color: var(--text-2); }
+.donate__links { display: flex; flex-direction: column; gap: 8px; } /* Ko-fi over Patreon, each full width */
+.donate__btn {  min-height: 36px; display: flex; align-items: center; justify-content: center; padding: 0 12px; font-family: var(--font-display); font-size: 17px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; text-decoration: none; color: var(--panel-inset); background: var(--accent); border-radius: 4px; box-shadow: inset 0 1px 0 rgba(255,255,255,.35), 0 2px 0 rgba(0,0,0,.5); }
+.donate__btn small { margin-left: 8px; font-size: 11px; font-weight: 700; letter-spacing: .14em; opacity: .75; white-space: nowrap; }
+.donate__btn:hover { filter: brightness(1.1); }
+.donate__btn:active { transform: translateY(1px); box-shadow: inset 0 1px 0 rgba(255,255,255,.35); }
+.selects { flex: 1 1 auto; min-width: 0; display: flex; flex-direction: column; justify-content: space-around; gap: 8px; }
+.select__head { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 4px; }
+.select__name { font-size: 14px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--text-2); }
+.select__pos { font-family: var(--font-lcd); font-size: 12px; color: var(--text-3); }
+.select__box { display: flex; height: 44px; border: 1px solid var(--btn-line); border-radius: 4px; overflow: hidden; background: var(--btn); }
+.select__step { width: 44px; flex: 0 0 auto; padding: 0; display: flex; align-items: center; justify-content: center; background: linear-gradient(to bottom, var(--btn-line), var(--btn)); border: none; cursor: pointer; }
+.select__step:first-child { border-right: 1px solid var(--bg); }
+.select__step:last-child { border-left: 1px solid var(--bg); }
+.select__value {
+  flex: 1 1 auto; min-width: 0; appearance: none; padding: 0 28px 0 10px; font-size: 14px; border: none; cursor: pointer;
+  background: var(--well) linear-gradient(45deg, transparent 50%, var(--text-3) 50%) no-repeat right 12px center / 6px 6px;
+  box-shadow: inset 0 0 10px rgba(0,0,0,.9);
+}
+.select.is-any { opacity: .4; } /* Any is the bypass: the selector dims like an OFF strip */
+.select__value option { font-family: var(--font-ui); color: var(--text); background: var(--well); }
+.select__value option:disabled { color: var(--text-3); }
+
+/* ---------- bottom: channel strips ---------- */
+.strips { flex: 3 1 0; overflow: visible; }
+.bank { flex: 2 1 0; }
+.strips__inner { display: flex; height: 100%; padding: 12px; }
+.strip { position: relative; flex: 1 1 0; min-width: 0; display: flex; flex-direction: column; align-items: center; gap: 8px; padding: 10px 6px 10px; border-right: 1px solid var(--btn); }
+.strip:last-child { border-right: none; }
+.strips[data-group="character"] .strip:nth-last-child(-n+2) .readout { left: auto; right: 2px; } /* keep the last readouts on screen */
+.strip__head { width: 100%; display: flex; align-items: center; justify-content: space-between; }
+.strip__num { font-family: var(--font-lcd); font-size: 12px; color: var(--text-3); }
+.strip__fader { flex: 1 1 auto; width: 100%; display: flex; justify-content: center; gap: 8px; min-height: 180px; }
+.meter { display: flex; flex-direction: column-reverse; justify-content: space-between; gap: 3px; padding: calc(var(--cap-h) / 2) 0; pointer-events: none; }
+.meter i { display: block; width: 8px; flex: 1 1 0; border-radius: 1px; background: var(--led-off); }
+.meter i.ask { background: color-mix(in srgb, var(--led-on) 35%, var(--led-off)); } /* your fader */
+.meter i.on { background: var(--led-on); } /* the answer band */
+.fader { position: relative; width: 52px; }
+.fader::before { content: ""; position: absolute; left: 0; right: 0; top: calc(var(--cap-h) / 2); bottom: calc(var(--cap-h) / 2); background: repeating-linear-gradient(to bottom, var(--btn-line) 0, var(--btn-line) 1px, transparent 1px, transparent 10%); }
+.rail { position: absolute; inset: 0; touch-action: none; cursor: ns-resize; }
+.rail::before { content: ""; position: absolute; left: 50%; top: calc(var(--cap-h) / 2 - 4px); bottom: calc(var(--cap-h) / 2 - 4px); width: 6px; margin-left: -3px; background: var(--slot); border-radius: 3px; box-shadow: inset 0 1px 2px rgba(0,0,0,.8); }
+.cap { position: absolute; z-index: 1; left: 4px; right: 4px; height: var(--cap-h); bottom: calc((100% - var(--cap-h)) * var(--v, 50) / 100); background-image: var(--cap-face, none), var(--cap-tex, none), var(--cap-silver); background-size: 100% 100%, auto, auto; background-blend-mode: normal, overlay, normal; box-shadow: 0 3px 6px rgba(0,0,0,.6); }
+.cap::after { content: ""; position: absolute; left: 0; right: 0; top: 50%; height: 2px; margin-top: -1px; background: var(--bg); }
+/* Reference ticks: a notch per quintile band at the right of the slot; names show on the hovered or focused strip. */
+.ticks { position: absolute; left: calc(50% + 6px); top: calc(var(--cap-h) / 2); bottom: calc(var(--cap-h) / 2); width: 0; }
+.tick { position: absolute; left: 0; bottom: calc(var(--v) * 1%); transform: translateY(50%); z-index: 4; white-space: nowrap; font-size: 11px; font-weight: 600; color: transparent; }
+.tick::before { content: ""; display: inline-block; width: 6px; height: 2px; background: var(--text-3); margin-right: 3px; vertical-align: middle; }
+.strip:hover .tick, .strip:focus-within .tick { color: var(--text); background: var(--panel); padding: 1px 3px 1px 0; }
+/* the last two strips on the right: labels run leftwards so they stay on the desk */
+.strips[data-group="character"] .strip:nth-last-child(-n+2) .ticks { left: auto; right: calc(50% + 6px); }
+.strips[data-group="character"] .strip:nth-last-child(-n+2) .tick { left: auto; right: 0; }
+.strips[data-group="character"] .strip:nth-last-child(-n+2) .tick::before { content: none; }
+.strips[data-group="character"] .strip:nth-last-child(-n+2) .tick::after { content: ""; display: inline-block; width: 6px; height: 2px; background: var(--text-3); margin-left: 3px; vertical-align: middle; }
+.strips[data-group="character"] .strip:nth-last-child(-n+2):hover .tick, .strips[data-group="character"] .strip:nth-last-child(-n+2):focus-within .tick { padding: 1px 0 1px 3px; }
+.scribble { width: 100%; padding: 5px 4px; display: flex; flex-direction: column; gap: 2px; text-align: center; background-color: var(--well); background-image: var(--plate, none); background-blend-mode: overlay; border: 1px solid var(--panel-line); border-radius: 3px; }
+.scribble .lcd { font-size: 15px; }
+.scribble__name { font-size: 12px; font-weight: 600; letter-spacing: .02em; text-transform: uppercase; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+/* The hover/drag readout: percentile text and nearest reference band, over the scribble strip at the top or under a lever. */
+.readout { position: absolute; z-index: 6; left: 2px; top: 8px; width: max-content; max-width: 220px; padding: 6px 8px; background: var(--slot); border: 1px solid var(--lcd); border-radius: 3px; font-family: var(--font-lcd); font-size: 12px; line-height: 1.3; color: var(--text); pointer-events: none; }
+.lever .readout { left: 0; right: auto; bottom: auto; top: calc(100% + 4px); width: max-content; max-width: 260px; }
+
+/* ---------- bottom-middle: the lyrics bank ---------- */
+.bank__grid { flex: 1 1 auto; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); grid-template-rows: repeat(5, minmax(44px, 1fr)); gap: 8px; }
+.pad { min-width: 0; padding: 0 10px; display: flex; align-items: center; justify-content: center; border-radius: 4px; cursor: pointer; font-size: 15px; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; text-align: center; color: var(--text-3); background-image: var(--pad, none), linear-gradient(to bottom, var(--btn-line), var(--btn)); background-blend-mode: overlay, normal; border: 1px solid var(--btn-line); box-shadow: 0 2px 3px rgba(0,0,0,.5), inset 0 1px 0 rgba(255,255,255,.05); }
+.pad span:last-child { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.pad[aria-pressed="true"] { color: var(--well); background: var(--lcd); border-color: var(--lcd); box-shadow: 0 0 12px color-mix(in srgb, var(--lcd) 45%, transparent); }
+.pad:disabled { opacity: .35; cursor: default; }
+
+/* ---------- phone and tablet: result pinned on top, then the strips, then everything else (design-doc "Device support") ---------- */
+@media (max-width: 1023px) {
+  .console { padding: 0 0 16px; gap: 10px; }
+  .console[aria-busy="true"] .row { opacity: 1; } /* the pinned output must stay readable while loading */
+  .row { display: contents; } /* the six columns become one stack, ordered below */
+  .output { order: -1; } .panel[aria-label="Master and levers"] { order: 1; } .strips[data-group="audio"] { order: 2; }
+  .donate { order: 2; } .strips[data-group="audio"] { order: 3; } .strips[data-group="character"] { order: 4; }
+  .bank.panel { order: 5; } .selects { order: 6; }
+  .panel[aria-label="Filters"] { display: contents; } /* its donate box and selectors join the stack on their own */
+  .donate, .selects { background: var(--panel); border-top: 1px solid var(--panel-line); border-bottom: 1px solid var(--panel-line); padding: 12px; }
+  .donate { border-radius: 0; border-left: 0; border-right: 0; }
+  .col { flex: 0 0 auto; min-width: 0; border-radius: 0; border-left: 0; border-right: 0; }
+  .strips__inner { height: auto; }
+  .panel { padding: 12px; }
+  .output { position: sticky; top: 0; z-index: 10; padding: 6px 12px 8px; border-radius: 0; border-top: 0; }
+  .output .label { display: none; }
+  .output__body { max-width: none; gap: 6px; }
+  .band { padding: 6px 10px; gap: 0; }
+  .band__match { font-size: 11px; min-height: 0; }
+  .band__name { font-size: 22px; }
+  .band__meta, .hint, .message { font-size: 11px; }
+  .note { font-size: 10px; }
+  .embed-slot { --player: 1; width: 100%; height: 80px; border-radius: 8px; } /* Spotify's compact embed, unscaled */
+  .embed-slot iframe { height: 100%; }
+  .embed-placeholder { gap: 2px; padding: 6px; }
+  .embed-placeholder strong { font-size: 16px; }
+  .output__foot { width: 100%; min-height: 0; }
+  .open-spotify { display: none; } /* the compact embed carries its own Spotify link */
+  .next { height: 28px; font-size: 12px; padding: 0 10px; }
+  .left-body { gap: 12px; }
+  .search { flex-basis: 100%; margin-left: 0; } /* its own line under the brand, so the list has the full width */
+  .search__input { height: 40px; font-size: 16px; } /* 16px keeps iOS from zooming on focus */
+  .search__list { font-size: 15px; }
+  .search__list li { padding: 9px 10px; }
+  .lever--vertical .lever__track { min-height: 140px; }
+  .selects { gap: 10px; }
+  .bank__grid { grid-template-rows: repeat(5, 44px); }
+  .strips { overflow-x: auto; scrollbar-width: thin; scrollbar-color: var(--lcd) transparent; }
+  .strips__inner { width: max-content; min-width: 100%; } /* fills a tablet, scrolls on a phone */
+  .strip { flex: 1 0 88px; }
+  .strip__fader { min-height: 190px; }
+  .onoff { height: 36px; }
+  .readout { max-width: 180px; }
+  .strips .tick { pointer-events: none; }
+}

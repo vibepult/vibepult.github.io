@@ -1,0 +1,32 @@
+{
+ "id": "alkonost/1090253129-105",
+ "band": "alkonost",
+ "title": "Чудосветная Быль",
+ "source": "itunes",
+ "album": "На крыльях зова",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.410427677835426,
+  "tempo_var": 16.364823949420607,
+  "low_onset_rate": 3.474882412840033,
+  "lufs": -9.222117291867756,
+  "rms_dbfs": -8.547857895430143,
+  "crest": 8.547858238220215,
+  "centroid": 2007.3594573705102,
+  "flatness": 0.013010592199862003,
+  "sub100_share": 0.17990931868553162,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.8153616786003113,
+  "clean_share": 0.3475562451512801,
+  "minor_share": -0.028966479020720692,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.65423583984375,
+  "vocal_share": 0.2851055860519409,
+  "vocal_voiced": 0.9463452566096423,
+  "song_length": 415.627
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "soulfly/1458727670-106",
+ "band": "soulfly",
+ "title": "Shamash",
+ "source": "itunes",
+ "album": "Archangel",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 2.6666505417956654,
+  "tempo_var": 9.910562116205725,
+  "low_onset_rate": 8.499948601973685,
+  "lufs": -7.559033213181089,
+  "rms_dbfs": -10.392535984891877,
+  "crest": 10.392536163330078,
+  "centroid": 1863.4844999055565,
+  "flatness": 0.013384658843278885,
+  "sub100_share": 0.17005595564842224,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8082690238952637,
+  "clean_share": 0.31013147718484146,
+  "minor_share": 0.09776540029218661,
+  "chord_rate": 0.5999963719040248,
+  "repetitiveness": 0.838457465171814,
+  "vocal_share": 0.009206637740135193,
+  "vocal_voiced": 0.5898366606170599,
+  "song_length": 228.44
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "lacrimas-profundere",
+ "name": "Lacrimas Profundere",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 47712427,
+  "deezer": 6472,
+  "spotify": "4LtKoRSDo1uGlaGGEqsIhz"
+ },
+ "metadata": {
+  "formed": 1993,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 4,
+  "past_members": 22,
+  "full_lengths": 14,
+  "genre": "Melodic Doom/Death Metal (early); Gothic Metal/Rock (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 16486,
+  "themes": "Sadness, Loss, Death, Suicide",
+  "release_year": 2009
+ },
+ "partial": false,
+ "clips": [
+  "lacrimas-profundere/1184153513-104",
+  "lacrimas-profundere/1184158362-105",
+  "lacrimas-profundere/1184103476-106",
+  "lacrimas-profundere/1184739997-106",
+  "lacrimas-profundere/1183562519-107",
+  "lacrimas-profundere/1184163924-106",
+  "lacrimas-profundere/1184699169-108",
+  "lacrimas-profundere/1349555765-106",
+  "lacrimas-profundere/1455837921-105",
+  "lacrimas-profundere/1619322806-105",
+  "lacrimas-profundere/6791073961-105",
+  "lacrimas-profundere/1184153513-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 105.5126953125,
+   "iqr": 43.23344268897094
+  },
+  "onset_rate": {
+   "median": 3.916666666666667,
+   "iqr": 0.9787028566253451
+  },
+  "tempo_var": {
+   "median": 13.976964355630084,
+   "iqr": 6.125052512406723
+  },
+  "low_onset_rate": {
+   "median": 5.406438301087782,
+   "iqr": 0.8583333333333325
+  },
+  "lufs": {
+   "median": -8.998932606958471,
+   "iqr": 3.0906855422623227
+  },
+  "rms_dbfs": {
+   "median": -8.353407001526833,
+   "iqr": 2.9917837925237247
+  },
+  "crest": {
+   "median": 8.35340690612793,
+   "iqr": 2.9917834997177124
+  },
+  "centroid": {
+   "median": 2238.5297059087943,
+   "iqr": 378.11619899574794
+  },
+  "flatness": {
+   "median": 0.02172358427196741,
+   "iqr": 0.014965397072955966
+  },
+  "sub100_share": {
+   "median": 0.3405345380306244,
+   "iqr": 0.12192104756832123
+  },
+  "lowest_pitch": {
+   "median": 51.141357421875,
+   "iqr": 21.533203125
+  },
+  "harmonic_share": {
+   "median": 0.7861533463001251,
+   "iqr": 0.12645605206489563
+  },
+  "clean_share": {
+   "median": 0.11919504643962849,
+   "iqr": 0.28305716145426774
+  },
+  "minor_share": {
+   "median": 0.13946854761505467,
+   "iqr": 0.23973029021263254
+  },
+  "chord_rate": {
+   "median": 1.2015009536278265,
+   "iqr": 0.6024744248085327
+  },
+  "repetitiveness": {
+   "median": 0.7550360858440399,
+   "iqr": 0.16396395862102509
+  },
+  "vocal_share": {
+   "median": 0.09400730207562447,
+   "iqr": 0.0825690533965826
+  },
+  "vocal_voiced": {
+   "median": 0.6732570328744996,
+   "iqr": 0.20813793332293606
+  },
+  "song_length": {
+   "median": 228.31349999999998,
+   "iqr": 76.87400000000002
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

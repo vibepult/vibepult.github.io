@@ -1,0 +1,127 @@
+{
+ "slug": "warlock",
+ "name": "Warlock",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1486367759,
+  "deezer": 8553,
+  "spotify": "5XDeFQDarnwpR5WAfD6S0d"
+ },
+ "metadata": {
+  "formed": 1983,
+  "split": 1989,
+  "country": "DE",
+  "status": "split-up",
+  "members": 5,
+  "past_members": 6,
+  "full_lengths": 4,
+  "genre": "Heavy Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 16410,
+  "themes": "Witches, Wolves, Fantasy, Power, Struggles",
+  "release_year": 1985
+ },
+ "partial": false,
+ "clips": [
+  "warlock/1443457372-105",
+  "warlock/1444038520-105",
+  "warlock/1442215246-106",
+  "warlock/1440658703-105",
+  "warlock/1443457372-104",
+  "warlock/1444038520-104",
+  "warlock/1442215246-105",
+  "warlock/1440658703-106",
+  "warlock/1443457372-106",
+  "warlock/1444038520-106",
+  "warlock/1442215246-107",
+  "warlock/1440658703-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 19.722344509796912
+  },
+  "onset_rate": {
+   "median": 3.9382029637453044,
+   "iqr": 1.6121449655724192
+  },
+  "tempo_var": {
+   "median": 1.9077010055650336,
+   "iqr": 5.368083264682294
+  },
+  "low_onset_rate": {
+   "median": 5.295854446491781,
+   "iqr": 1.6527178573331707
+  },
+  "lufs": {
+   "median": -17.108031456934963,
+   "iqr": 2.06415307163255
+  },
+  "rms_dbfs": {
+   "median": -17.374424359200844,
+   "iqr": 2.1322439833822884
+  },
+  "crest": {
+   "median": 15.967211723327637,
+   "iqr": 1.0520834922790527
+  },
+  "centroid": {
+   "median": 2423.955641168178,
+   "iqr": 346.2497264031517
+  },
+  "flatness": {
+   "median": 0.025825289078056812,
+   "iqr": 0.009415242820978165
+  },
+  "sub100_share": {
+   "median": 0.16088732331991196,
+   "iqr": 0.079145647585392
+  },
+  "lowest_pitch": {
+   "median": 56.524658203125,
+   "iqr": 8.074951171875
+  },
+  "harmonic_share": {
+   "median": 0.6962265074253082,
+   "iqr": 0.07661202549934387
+  },
+  "clean_share": {
+   "median": 0.018231186966640806,
+   "iqr": 0.06648198781167558
+  },
+  "minor_share": {
+   "median": 0.023363632269031986,
+   "iqr": 0.21835784909585093
+  },
+  "chord_rate": {
+   "median": 1.5870857174028996,
+   "iqr": 0.40035170978475465
+  },
+  "repetitiveness": {
+   "median": 0.8385960161685944,
+   "iqr": 0.118162602186203
+  },
+  "vocal_share": {
+   "median": 0.29180601239204407,
+   "iqr": 0.15232425555586815
+  },
+  "vocal_voiced": {
+   "median": 0.8001838952785596,
+   "iqr": 0.2083251536486045
+  },
+  "song_length": {
+   "median": 246.3135,
+   "iqr": 61.35649999999998
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

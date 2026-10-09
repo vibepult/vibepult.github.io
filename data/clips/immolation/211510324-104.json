@@ -1,0 +1,32 @@
+{
+ "id": "immolation/211510324-104",
+ "band": "immolation",
+ "title": "I Feel Nothing",
+ "source": "itunes",
+ "album": "Here In After",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 4.4772523396208115,
+  "tempo_var": 11.247242795337876,
+  "low_onset_rate": 5.546446928186976,
+  "lufs": -12.434093564423414,
+  "rms_dbfs": -12.305853484889322,
+  "crest": 12.305852890014648,
+  "centroid": 2771.8349120241955,
+  "flatness": 0.03971103951334953,
+  "sub100_share": 0.25076285004615784,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.6994229555130005,
+  "clean_share": 0.03646237393328161,
+  "minor_share": -0.112247713044977,
+  "chord_rate": 2.940285118556951,
+  "repetitiveness": 0.8716657757759094,
+  "vocal_share": 0.1435585469007492,
+  "vocal_voiced": 0.0,
+  "song_length": 281.8
+ }
+}

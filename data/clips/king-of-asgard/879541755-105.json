@@ -1,0 +1,32 @@
+{
+ "id": "king-of-asgard/879541755-105",
+ "band": "king-of-asgard",
+ "title": "Omma",
+ "source": "itunes",
+ "album": "Karg",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 2.6395741405227175,
+  "tempo_var": 14.701845530929129,
+  "low_onset_rate": 6.147868884255443,
+  "lufs": -12.707563106495469,
+  "rms_dbfs": -12.399260418250094,
+  "crest": 12.399259567260742,
+  "centroid": 2213.5974563664945,
+  "flatness": 0.010289744473993778,
+  "sub100_share": 0.2475879192352295,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8390308022499084,
+  "clean_share": 0.045771916214119475,
+  "minor_share": 0.020556976967931462,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.9416170716285706,
+  "vocal_share": 6.833872703282395e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 456.32
+ }
+}

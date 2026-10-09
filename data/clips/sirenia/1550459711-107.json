@@ -1,0 +1,32 @@
+{
+ "id": "sirenia/1550459711-107",
+ "band": "sirenia",
+ "title": "A Seaside Serenade",
+ "source": "itunes",
+ "album": "The Enigma of Life",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 6.448579862289677,
+  "tempo_var": 19.875278658646753,
+  "low_onset_rate": 7.016589487465451,
+  "lufs": -7.836618249699735,
+  "rms_dbfs": -7.280499123255403,
+  "crest": 7.280499458312988,
+  "centroid": 2236.6901320001934,
+  "flatness": 0.017751073464751244,
+  "sub100_share": 0.28240540623664856,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8845061659812927,
+  "clean_share": 0.09076803723816912,
+  "minor_share": 0.2739357759793004,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.8116399645805359,
+  "vocal_share": 0.33123427629470825,
+  "vocal_voiced": 0.9313725490196079,
+  "song_length": 353.186
+ }
+}

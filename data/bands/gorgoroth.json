@@ -1,0 +1,127 @@
+{
+ "slug": "gorgoroth",
+ "name": "Gorgoroth",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 16339946,
+  "deezer": 11030,
+  "spotify": "1Dt7cfRzxM8qPVa82jX9y5"
+ },
+ "metadata": {
+  "formed": 1992,
+  "split": null,
+  "country": "NO",
+  "status": "active",
+  "members": 3,
+  "past_members": 17,
+  "full_lengths": 10,
+  "genre": "Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 61052,
+  "themes": "Satanism, Anti-Christianity, Darkness, Death, Nietzscheanism, War",
+  "release_year": 1997
+ },
+ "partial": false,
+ "clips": [
+  "gorgoroth/266310020-104",
+  "gorgoroth/448322843-104",
+  "gorgoroth/266311107-104",
+  "gorgoroth/928075846-104",
+  "gorgoroth/1445786642-104",
+  "gorgoroth/794529046-105",
+  "gorgoroth/988844457-104",
+  "gorgoroth/266310020-103",
+  "gorgoroth/448322843-103",
+  "gorgoroth/266311107-106",
+  "gorgoroth/928075846-105",
+  "gorgoroth/1445786642-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.19921875,
+   "iqr": 29.488622740351076
+  },
+  "onset_rate": {
+   "median": 1.2847115578434831,
+   "iqr": 5.361256243029627
+  },
+  "tempo_var": {
+   "median": 4.8090552167680105,
+   "iqr": 3.131704013158672
+  },
+  "low_onset_rate": {
+   "median": 7.392576047778371,
+   "iqr": 5.0870273784124524
+  },
+  "lufs": {
+   "median": -8.365675170292308,
+   "iqr": 2.780476389049948
+  },
+  "rms_dbfs": {
+   "median": -8.063659363286787,
+   "iqr": 3.682125237520526
+  },
+  "crest": {
+   "median": 8.063659191131592,
+   "iqr": 3.6821255683898926
+  },
+  "centroid": {
+   "median": 2580.5462855754586,
+   "iqr": 394.2163205818156
+  },
+  "flatness": {
+   "median": 0.035175202414393425,
+   "iqr": 0.02199644735082984
+  },
+  "sub100_share": {
+   "median": 0.2405097857117653,
+   "iqr": 0.21908468939363956
+  },
+  "lowest_pitch": {
+   "median": 56.524658203125,
+   "iqr": 32.2998046875
+  },
+  "harmonic_share": {
+   "median": 0.7641157805919647,
+   "iqr": 0.08502507209777832
+  },
+  "clean_share": {
+   "median": 0.010462435132902176,
+   "iqr": 0.04892591809893627
+  },
+  "minor_share": {
+   "median": 0.06156840573488381,
+   "iqr": 0.13753272565381616
+  },
+  "chord_rate": {
+   "median": 1.6333333333333333,
+   "iqr": 0.31153903326511934
+  },
+  "repetitiveness": {
+   "median": 0.9307597279548645,
+   "iqr": 0.025762811303138733
+  },
+  "vocal_share": {
+   "median": 0.052534956485033035,
+   "iqr": 0.04939112067222595
+  },
+  "vocal_voiced": {
+   "median": 0.11334745762711865,
+   "iqr": 0.12675349916145515
+  },
+  "song_length": {
+   "median": 277.38,
+   "iqr": 75.037
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.8,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

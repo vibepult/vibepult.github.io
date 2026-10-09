@@ -1,0 +1,127 @@
+{
+ "slug": "hibria",
+ "name": "Hibria",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 151033709,
+  "deezer": 337311,
+  "spotify": "72rswq5X0csZgWCsAqDwfU"
+ },
+ "metadata": {
+  "formed": 1996,
+  "split": null,
+  "country": "BR",
+  "status": "active",
+  "members": 5,
+  "past_members": 15,
+  "full_lengths": 9,
+  "genre": "Power/Speed Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 10053,
+  "themes": "Freedom, Life, Eastern culture",
+  "release_year": 2016
+ },
+ "partial": false,
+ "clips": [
+  "hibria/453667049-106",
+  "hibria/1222190643-106",
+  "hibria/1594763372-105",
+  "hibria/1603521743-105",
+  "hibria/6781042886-104",
+  "hibria/453667049-107",
+  "hibria/1222190643-105",
+  "hibria/1594763372-106",
+  "hibria/1603521743-106",
+  "hibria/6781042886-105",
+  "hibria/453667049-105",
+  "hibria/1222190643-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 25.540908359553782
+  },
+  "onset_rate": {
+   "median": 5.189018832882072,
+   "iqr": 1.8849996988149904
+  },
+  "tempo_var": {
+   "median": 10.69444100048878,
+   "iqr": 8.0988314973194
+  },
+  "low_onset_rate": {
+   "median": 5.279148281045435,
+   "iqr": 1.511907972894341
+  },
+  "lufs": {
+   "median": -8.549638459938063,
+   "iqr": 0.7475479261134783
+  },
+  "rms_dbfs": {
+   "median": -8.209615244922883,
+   "iqr": 0.8328696483404547
+  },
+  "crest": {
+   "median": 8.209615707397461,
+   "iqr": 0.832870364189148
+  },
+  "centroid": {
+   "median": 2636.172609002496,
+   "iqr": 205.70360264158126
+  },
+  "flatness": {
+   "median": 0.038572752848267555,
+   "iqr": 0.013003667816519737
+  },
+  "sub100_share": {
+   "median": 0.29820314049720764,
+   "iqr": 0.07756117358803749
+  },
+  "lowest_pitch": {
+   "median": 61.907958984375,
+   "iqr": 27.58941650390625
+  },
+  "harmonic_share": {
+   "median": 0.7725379467010498,
+   "iqr": 0.09834235906600952
+  },
+  "clean_share": {
+   "median": 0.010861132660977503,
+   "iqr": 0.07001611590008143
+  },
+  "minor_share": {
+   "median": -0.02028378323225377,
+   "iqr": 0.22902301127145974
+  },
+  "chord_rate": {
+   "median": 1.9880336881152112,
+   "iqr": 0.6014219560684668
+  },
+  "repetitiveness": {
+   "median": 0.904753565788269,
+   "iqr": 0.03511933982372284
+  },
+  "vocal_share": {
+   "median": 0.2113807201385498,
+   "iqr": 0.15933241322636604
+  },
+  "vocal_voiced": {
+   "median": 0.5112033195020746,
+   "iqr": 0.23394702152353197
+  },
+  "song_length": {
+   "median": 303.6175,
+   "iqr": 45.825500000000034
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

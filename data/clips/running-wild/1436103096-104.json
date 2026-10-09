@@ -1,0 +1,32 @@
+{
+ "id": "running-wild/1436103096-104",
+ "band": "running-wild",
+ "title": "Mordor",
+ "source": "itunes",
+ "album": "Branded and Exiled",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.613271589972361,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.646683920865054,
+  "lufs": -14.084351786550341,
+  "rms_dbfs": -13.743401049531325,
+  "crest": 13.743400573730469,
+  "centroid": 2821.578667850694,
+  "flatness": 0.04646672308444977,
+  "sub100_share": 0.3414783775806427,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.6698054075241089,
+  "clean_share": 0.027152831652443754,
+  "minor_share": 0.2676503264791072,
+  "chord_rate": 1.4367302283857828,
+  "repetitiveness": 0.867326557636261,
+  "vocal_share": 0.11627786606550217,
+  "vocal_voiced": 0.4066350710900474,
+  "song_length": 290.56
+ }
+}

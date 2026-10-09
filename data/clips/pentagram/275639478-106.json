@@ -1,0 +1,32 @@
+{
+ "id": "pentagram/275639478-106",
+ "band": "pentagram",
+ "title": "Run My Course",
+ "source": "itunes",
+ "album": "Relentless",
+ "year": 1993,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.433333333333334,
+  "tempo_var": 14.3714076328733,
+  "low_onset_rate": 6.1,
+  "lufs": -9.93311269417422,
+  "rms_dbfs": -9.25825114274597,
+  "crest": 9.258251190185547,
+  "centroid": 2803.2423779906335,
+  "flatness": 0.035839349031448364,
+  "sub100_share": 0.24660108983516693,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7516336441040039,
+  "clean_share": 0.02631578947368421,
+  "minor_share": -0.05741296360374348,
+  "chord_rate": 2.8333333333333335,
+  "repetitiveness": 0.8339143395423889,
+  "vocal_share": 0.16674354672431946,
+  "vocal_voiced": 0.7618403247631935,
+  "song_length": 166.307
+ }
+}

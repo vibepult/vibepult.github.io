@@ -1,0 +1,32 @@
+{
+ "id": "sear-bliss/334766539-103",
+ "band": "sear-bliss",
+ "title": "Land of Silence",
+ "source": "itunes",
+ "album": "The Haunting",
+ "year": 1998,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.009479707123115,
+  "tempo_var": 3.0188396753387603,
+  "low_onset_rate": 5.078674295689279,
+  "lufs": -14.072311806628699,
+  "rms_dbfs": -11.912849308173216,
+  "crest": 11.912849426269531,
+  "centroid": 1771.119403538617,
+  "flatness": 0.008100015111267567,
+  "sub100_share": 0.5750634074211121,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.767383873462677,
+  "clean_share": 0.4926299456943367,
+  "minor_share": 0.045777973043369835,
+  "chord_rate": 1.4367302283857828,
+  "repetitiveness": 0.7918014526367188,
+  "vocal_share": 0.05457586050033569,
+  "vocal_voiced": 0.2640845070422535,
+  "song_length": 274.273
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "versailles",
+ "name": "Versailles",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 285231924,
+  "deezer": 161777,
+  "spotify": "3suWpKrodV4J0ozhubrmir"
+ },
+ "metadata": {
+  "formed": 2007,
+  "split": null,
+  "country": "JP",
+  "status": "active",
+  "members": 4,
+  "past_members": 2,
+  "full_lengths": 4,
+  "genre": "Symphonic/Neoclassical Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 17578,
+  "themes": "Blood, Vampires, Roses, Death, Sadness",
+  "release_year": 2010
+ },
+ "partial": false,
+ "clips": [
+  "versailles/284259361-107",
+  "versailles/381647190-106",
+  "versailles/444673147-106",
+  "versailles/561027435-106",
+  "versailles/284259361-106",
+  "versailles/381647190-107",
+  "versailles/444673147-105",
+  "versailles/561027435-107",
+  "versailles/284259361-108",
+  "versailles/381647190-105",
+  "versailles/444673147-107",
+  "versailles/561027435-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 110.00658118206522,
+   "iqr": 27.821377725725483
+  },
+  "onset_rate": {
+   "median": 4.560783166852543,
+   "iqr": 1.4868487247248217
+  },
+  "tempo_var": {
+   "median": 13.416004932822334,
+   "iqr": 5.078731109706032
+  },
+  "low_onset_rate": {
+   "median": 4.995143468457547,
+   "iqr": 2.4307470724433884
+  },
+  "lufs": {
+   "median": -8.393483598851851,
+   "iqr": 4.354784184864451
+  },
+  "rms_dbfs": {
+   "median": -8.314091208526778,
+   "iqr": 4.800774295032823
+  },
+  "crest": {
+   "median": 8.314091682434082,
+   "iqr": 4.800774335861206
+  },
+  "centroid": {
+   "median": 2459.3029187490247,
+   "iqr": 257.0127839983411
+  },
+  "flatness": {
+   "median": 0.02912855986505747,
+   "iqr": 0.014433725271373987
+  },
+  "sub100_share": {
+   "median": 0.18498818576335907,
+   "iqr": 0.08386929333209991
+  },
+  "lowest_pitch": {
+   "median": 61.907958984375,
+   "iqr": 32.97271728515625
+  },
+  "harmonic_share": {
+   "median": 0.7830555737018585,
+   "iqr": 0.12516066431999207
+  },
+  "clean_share": {
+   "median": 0.09154383242823894,
+   "iqr": 0.1586501163692785
+  },
+  "minor_share": {
+   "median": 0.019659645761197497,
+   "iqr": 0.22094811095589278
+  },
+  "chord_rate": {
+   "median": 1.6372042137419385,
+   "iqr": 0.6765997005770257
+  },
+  "repetitiveness": {
+   "median": 0.8312956094741821,
+   "iqr": 0.18459895253181458
+  },
+  "vocal_share": {
+   "median": 0.3545188754796982,
+   "iqr": 0.11377967149019241
+  },
+  "vocal_voiced": {
+   "median": 0.8764083758503401,
+   "iqr": 0.08375553084017351
+  },
+  "song_length": {
+   "median": 308.9645,
+   "iqr": 120.16674999999998
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.9,
+  "camp": 0.7
+ },
+ "sources_failed": []
+}

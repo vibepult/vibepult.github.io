@@ -1,0 +1,32 @@
+{
+ "id": "darkest-hour/1558582119-104",
+ "band": "darkest-hour",
+ "title": "Another Reason",
+ "source": "itunes",
+ "album": "So Sedated, So Secure",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.579859259079669,
+  "tempo_var": 2.786655404608447,
+  "low_onset_rate": 6.715878509431217,
+  "lufs": -8.303697416375291,
+  "rms_dbfs": -8.152588721983214,
+  "crest": 8.152588844299316,
+  "centroid": 2873.7317059425113,
+  "flatness": 0.05411338433623314,
+  "sub100_share": 0.32304224371910095,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.7350397109985352,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": -0.14970350469455163,
+  "chord_rate": 2.2720385007030983,
+  "repetitiveness": 0.8920848965644836,
+  "vocal_share": 0.10180949419736862,
+  "vocal_voiced": 0.23169398907103825,
+  "song_length": 272.827
+ }
+}

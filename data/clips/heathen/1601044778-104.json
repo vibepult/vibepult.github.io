@@ -1,0 +1,32 @@
+{
+ "id": "heathen/1601044778-104",
+ "band": "heathen",
+ "title": "No Stone Unturned (Remastered 2020)",
+ "source": "itunes",
+ "album": "The Evolution of Chaos (10th Anniversary Edition)",
+ "year": 2010,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 57.421875,
+  "onset_rate": 2.7398111332007953,
+  "tempo_var": 27.759618723486774,
+  "low_onset_rate": 1.5035548901711682,
+  "lufs": -13.644627558147477,
+  "rms_dbfs": -12.712817439990374,
+  "crest": 12.712817192077637,
+  "centroid": 2354.186931181889,
+  "flatness": 0.02262428216636181,
+  "sub100_share": 0.5780436992645264,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8066977262496948,
+  "clean_share": 0.2637703646237393,
+  "minor_share": 0.04926277377868982,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.9773095846176147,
+  "vocal_share": 4.633742207715841e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 670.4
+ }
+}

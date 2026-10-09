@@ -1,0 +1,32 @@
+{
+ "id": "01101111011101100110111001101001/1468013152-105",
+ "band": "01101111011101100110111001101001",
+ "title": "A1689 - Zd1",
+ "source": "itunes",
+ "album": "Sdss J0333+0651",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.880570237113902,
+  "tempo_var": 10.272250223747024,
+  "low_onset_rate": 8.520144377636619,
+  "lufs": -7.173075227354716,
+  "rms_dbfs": -6.661142595412839,
+  "crest": 6.661142826080322,
+  "centroid": 2696.08142032714,
+  "flatness": 0.043156180530786514,
+  "sub100_share": 0.30988526344299316,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.7973472476005554,
+  "clean_share": 0.0062063615205585725,
+  "minor_share": 0.28976270156366085,
+  "chord_rate": 2.5393371478446394,
+  "repetitiveness": 0.9293850660324097,
+  "vocal_share": 0.04611412435770035,
+  "vocal_voiced": 0.18934348239771645,
+  "song_length": 157.989
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "alice-in-chains/1398087293-105",
+ "band": "alice-in-chains",
+ "title": "Drone",
+ "source": "itunes",
+ "album": "Rainier Fog",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 1.3,
+  "tempo_var": 18.259636265120623,
+  "low_onset_rate": 1.6666666666666667,
+  "lufs": -10.176471665072434,
+  "rms_dbfs": -9.433678352677848,
+  "crest": 9.43367862701416,
+  "centroid": 2319.9544978748195,
+  "flatness": 0.024098966270685196,
+  "sub100_share": 0.3797318935394287,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6816733479499817,
+  "clean_share": 0.1540247678018576,
+  "minor_share": 0.13206479478306526,
+  "chord_rate": 1.9333333333333333,
+  "repetitiveness": 0.8040941953659058,
+  "vocal_share": 0.21738240122795105,
+  "vocal_voiced": 0.7695238095238095,
+  "song_length": 390.0
+ }
+}

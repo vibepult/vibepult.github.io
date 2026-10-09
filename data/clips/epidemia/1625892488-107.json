@@ -1,0 +1,32 @@
+{
+ "id": "epidemia/1625892488-107",
+ "band": "epidemia",
+ "title": "Сумеречный ангел",
+ "source": "itunes",
+ "album": "Дорога домой",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 6.348342869611598,
+  "tempo_var": 22.05668168013595,
+  "low_onset_rate": 8.286258061387771,
+  "lufs": -8.861883925793384,
+  "rms_dbfs": -8.351610938433229,
+  "crest": 8.351611137390137,
+  "centroid": 2552.3621910831516,
+  "flatness": 0.026908159255981445,
+  "sub100_share": 0.37785717844963074,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8070988059043884,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": -0.23602513406985087,
+  "chord_rate": 1.3030809048150125,
+  "repetitiveness": 0.8809379935264587,
+  "vocal_share": 0.10570185631513596,
+  "vocal_voiced": 0.5227021040974529,
+  "song_length": 337.613
+ }
+}

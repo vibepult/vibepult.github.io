@@ -1,0 +1,32 @@
+{
+ "id": "orange-goblin/1372996410-106",
+ "band": "orange-goblin",
+ "title": "Turbo Effalunt (Elephant)",
+ "source": "itunes",
+ "album": "The Big Black",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 5.2,
+  "tempo_var": 4.890072902517899,
+  "low_onset_rate": 8.0,
+  "lufs": -6.919587036179731,
+  "rms_dbfs": -6.087778922670316,
+  "crest": 6.0877790451049805,
+  "centroid": 2112.129917944125,
+  "flatness": 0.019199620932340622,
+  "sub100_share": 0.3133191466331482,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7707068920135498,
+  "clean_share": 0.02476780185758514,
+  "minor_share": -0.09821079398351051,
+  "chord_rate": 1.5666666666666667,
+  "repetitiveness": 0.9107195734977722,
+  "vocal_share": 0.12077086418867111,
+  "vocal_voiced": 0.6965742251223491,
+  "song_length": 213.573
+ }
+}

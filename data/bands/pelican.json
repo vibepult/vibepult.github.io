@@ -1,0 +1,127 @@
+{
+ "slug": "pelican",
+ "name": "Pelican",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 73665204,
+  "deezer": 13451,
+  "spotify": "0Gq06EJlfPumvCdMsnkJFp"
+ },
+ "metadata": {
+  "formed": 2001,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 4,
+  "past_members": 1,
+  "full_lengths": 7,
+  "genre": "Post-Metal/Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 16351,
+  "themes": "Instrumental",
+  "release_year": 2008
+ },
+ "partial": false,
+ "clips": [
+  "pelican/1568590351-103",
+  "pelican/1568361080-104",
+  "pelican/1568587749-104",
+  "pelican/970887924-104",
+  "pelican/1451124621-105",
+  "pelican/1459564734-104",
+  "pelican/1790454812-104",
+  "pelican/1568590351-104",
+  "pelican/1568361080-103",
+  "pelican/1568587749-105",
+  "pelican/970887924-105",
+  "pelican/1451124621-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 147.77688419117646,
+   "iqr": 61.70376481681035
+  },
+  "onset_rate": {
+   "median": 3.491588578286379,
+   "iqr": 1.5331169992241676
+  },
+  "tempo_var": {
+   "median": 9.089280603252647,
+   "iqr": 15.495341388023125
+  },
+  "low_onset_rate": {
+   "median": 6.064338057023711,
+   "iqr": 2.3470394098821714
+  },
+  "lufs": {
+   "median": -9.300513852670521,
+   "iqr": 2.7926659478013587
+  },
+  "rms_dbfs": {
+   "median": -8.582982298618324,
+   "iqr": 2.3552081004308842
+  },
+  "crest": {
+   "median": 8.582982063293457,
+   "iqr": 2.355208158493042
+  },
+  "centroid": {
+   "median": 2213.7432486547414,
+   "iqr": 478.2338730290303
+  },
+  "flatness": {
+   "median": 0.017937864176928997,
+   "iqr": 0.01529174973256886
+  },
+  "sub100_share": {
+   "median": 0.3248513787984848,
+   "iqr": 0.10686323046684265
+  },
+  "lowest_pitch": {
+   "median": 75.3662109375,
+   "iqr": 30.28106689453125
+  },
+  "harmonic_share": {
+   "median": 0.8159730732440948,
+   "iqr": 0.11119996011257172
+  },
+  "clean_share": {
+   "median": 0.1080892260542288,
+   "iqr": 0.4435608999224205
+  },
+  "minor_share": {
+   "median": 0.03118151011523773,
+   "iqr": 0.2935233327501196
+  },
+  "chord_rate": {
+   "median": 1.3348737857408395,
+   "iqr": 0.51852310931161
+  },
+  "repetitiveness": {
+   "median": 0.8219020068645477,
+   "iqr": 0.08268634974956512
+  },
+  "vocal_share": {
+   "median": 0.0,
+   "iqr": 0.0
+  },
+  "vocal_voiced": {
+   "median": 0.0,
+   "iqr": 0.0
+  },
+  "song_length": {
+   "median": 419.8265,
+   "iqr": 192.12025
+  },
+  "vocal_presence": {
+   "median": 0.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.0,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

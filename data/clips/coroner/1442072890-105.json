@@ -1,0 +1,32 @@
+{
+ "id": "coroner/1442072890-105",
+ "band": "coroner",
+ "title": "Metamorphosis",
+ "source": "itunes",
+ "album": "Mental Vortex",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 4.433333333333334,
+  "tempo_var": 16.50739278832343,
+  "low_onset_rate": 4.7,
+  "lufs": -16.53694397462596,
+  "rms_dbfs": -15.763397152908851,
+  "crest": 15.763397216796875,
+  "centroid": 2654.997990045945,
+  "flatness": 0.024916253983974457,
+  "sub100_share": 0.2614743411540985,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.6362481117248535,
+  "clean_share": 0.1021671826625387,
+  "minor_share": 0.03933403620123932,
+  "chord_rate": 1.7333333333333334,
+  "repetitiveness": 0.9250125885009766,
+  "vocal_share": 5.443057943921303e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 334.453
+ }
+}

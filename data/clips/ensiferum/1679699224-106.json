@@ -1,0 +1,32 @@
+{
+ "id": "ensiferum/1679699224-106",
+ "band": "ensiferum",
+ "title": "Retribution Shall Be Mine",
+ "source": "itunes",
+ "album": "Unsung Heroes",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 6.715878509431217,
+  "tempo_var": 16.246784318096058,
+  "low_onset_rate": 8.186021068709692,
+  "lufs": -9.011955471064482,
+  "rms_dbfs": -8.417288318338516,
+  "crest": 8.417288780212402,
+  "centroid": 2622.720129971219,
+  "flatness": 0.041856568306684494,
+  "sub100_share": 0.3097246587276459,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.6869440674781799,
+  "clean_share": 0.0,
+  "minor_share": 0.09891567375394889,
+  "chord_rate": 1.7374412064200164,
+  "repetitiveness": 0.9264174103736877,
+  "vocal_share": 0.10833045095205307,
+  "vocal_voiced": 0.3785926660059465,
+  "song_length": 267.227
+ }
+}

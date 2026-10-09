@@ -1,0 +1,32 @@
+{
+ "id": "strapping-young-lad/1464748550-104",
+ "band": "strapping-young-lad",
+ "title": "Cod Metal King",
+ "source": "itunes",
+ "album": "Heavy As a Really Heavy Thing",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 7.3507127963923775,
+  "tempo_var": 0.0,
+  "low_onset_rate": 7.217063472821607,
+  "lufs": -9.876914167095707,
+  "rms_dbfs": -9.440189616713537,
+  "crest": 9.440189361572266,
+  "centroid": 2378.8612865009204,
+  "flatness": 0.03372286632657051,
+  "sub100_share": 0.24076175689697266,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.6477877497673035,
+  "clean_share": 0.0,
+  "minor_share": 0.11531166255416148,
+  "chord_rate": 2.840048125878873,
+  "repetitiveness": 0.9478621482849121,
+  "vocal_share": 0.15811704099178314,
+  "vocal_voiced": 0.007763975155279503,
+  "song_length": 308.133
+ }
+}

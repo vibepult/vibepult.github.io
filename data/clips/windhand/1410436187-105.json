@@ -1,0 +1,32 @@
+{
+ "id": "windhand/1410436187-105",
+ "band": "windhand",
+ "title": "Light into Dark",
+ "source": "itunes",
+ "album": "Eternal Return",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.066666666666667,
+  "tempo_var": 3.7259833328975924,
+  "low_onset_rate": 5.4,
+  "lufs": -11.620101134040693,
+  "rms_dbfs": -10.808774414308331,
+  "crest": 10.8087739944458,
+  "centroid": 1800.2839203210924,
+  "flatness": 0.0074149020947515965,
+  "sub100_share": 0.4138405919075012,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.8745271563529968,
+  "clean_share": 0.32972136222910214,
+  "minor_share": -0.01142534643621429,
+  "chord_rate": 1.6666666666666667,
+  "repetitiveness": 0.7554641962051392,
+  "vocal_share": 3.761019229386875e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 174.94
+ }
+}

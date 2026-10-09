@@ -1,0 +1,32 @@
+{
+ "id": "spinal-tap/1829091963-107",
+ "band": "spinal-tap",
+ "title": "I Kissed A Girl",
+ "source": "itunes",
+ "album": "The End Continues",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 2.398241652001178,
+  "tempo_var": 2.501232493766407,
+  "low_onset_rate": 5.229499157835902,
+  "lufs": -9.231626206521543,
+  "rms_dbfs": -8.667129885038939,
+  "crest": 8.667129516601562,
+  "centroid": 2411.4869099474467,
+  "flatness": 0.028769493103027344,
+  "sub100_share": 0.317536860704422,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6832818388938904,
+  "clean_share": 0.10054137664346481,
+  "minor_share": 0.14849725343407816,
+  "chord_rate": 1.4989010325007364,
+  "repetitiveness": 0.8288856744766235,
+  "vocal_share": 0.2072649449110031,
+  "vocal_voiced": 0.20452209660842754,
+  "song_length": 190.7
+ }
+}

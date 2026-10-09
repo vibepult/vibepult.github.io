@@ -1,0 +1,32 @@
+{
+ "id": "urfaust/1701821167-104",
+ "band": "urfaust",
+ "title": "Reliquienstaub",
+ "source": "itunes",
+ "album": "Untergang",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 198.76802884615384,
+  "onset_rate": 0.9999697665981376,
+  "tempo_var": 7.637038226382583,
+  "low_onset_rate": 4.999848832990688,
+  "lufs": -14.55281828135146,
+  "rms_dbfs": -13.937533393888778,
+  "crest": 13.937532424926758,
+  "centroid": 2153.551749956958,
+  "flatness": 0.011851166374981403,
+  "sub100_share": 0.4227359890937805,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.950898289680481,
+  "clean_share": 0.29389017788089716,
+  "minor_share": 0.0078111305455124125,
+  "chord_rate": 1.0999667432579514,
+  "repetitiveness": 0.5818785429000854,
+  "vocal_share": 4.308669758756878e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 219.56
+ }
+}

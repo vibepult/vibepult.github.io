@@ -1,0 +1,32 @@
+{
+ "id": "neaera/590883126-107",
+ "band": "neaera",
+ "title": "My Night Is Starless",
+ "source": "itunes",
+ "album": "Ours Is the Storm",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 4.310190685157349,
+  "tempo_var": 18.28173314987632,
+  "low_onset_rate": 5.746920913543131,
+  "lufs": -8.917523322361296,
+  "rms_dbfs": -8.518998444186435,
+  "crest": 8.518998146057129,
+  "centroid": 2717.7350117256374,
+  "flatness": 0.032842006534338,
+  "sub100_share": 0.3074468672275543,
+  "lowest_pitch": 94.207763671875,
+  "harmonic_share": 0.8186646699905396,
+  "clean_share": 0.0,
+  "minor_share": 0.2569272385577563,
+  "chord_rate": 1.4367302283857828,
+  "repetitiveness": 0.6878355145454407,
+  "vocal_share": 0.069728322327137,
+  "vocal_voiced": 0.03021978021978022,
+  "song_length": 228.127
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "aura-hiemis/1365982945-103",
+ "band": "aura-hiemis",
+ "title": "Doomentia",
+ "source": "itunes",
+ "album": "Five",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 6.181281215148136,
+  "tempo_var": 11.60779105785414,
+  "low_onset_rate": 7.517774450855841,
+  "lufs": -9.285211576787693,
+  "rms_dbfs": -9.448127575831888,
+  "crest": 9.448127746582031,
+  "centroid": 2687.184481662346,
+  "flatness": 0.05400676280260086,
+  "sub100_share": 0.15273575484752655,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6790831685066223,
+  "clean_share": 0.0,
+  "minor_share": -0.1918745926266311,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.9316157698631287,
+  "vocal_share": 0.1545676290988922,
+  "vocal_voiced": 0.17134416543574593,
+  "song_length": 699.333
+ }
+}

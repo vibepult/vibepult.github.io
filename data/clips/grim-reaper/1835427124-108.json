@@ -1,0 +1,32 @@
+{
+ "id": "grim-reaper/1835427124-108",
+ "band": "grim-reaper",
+ "title": "All Hell Let Loose",
+ "source": "itunes",
+ "album": "See You In Hell",
+ "year": 1983,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 73.828125,
+  "onset_rate": 4.766594609302959,
+  "tempo_var": 15.56090920974757,
+  "low_onset_rate": 7.499886623029131,
+  "lufs": -8.809720643282203,
+  "rms_dbfs": -9.610519804122184,
+  "crest": 9.610520362854004,
+  "centroid": 3764.5127114281045,
+  "flatness": 0.08618124574422836,
+  "sub100_share": 0.14154814183712006,
+  "lowest_pitch": 126.507568359375,
+  "harmonic_share": 0.6845014095306396,
+  "clean_share": 0.0,
+  "minor_share": 0.017659715221403527,
+  "chord_rate": 2.0666354250124717,
+  "repetitiveness": 0.9302014708518982,
+  "vocal_share": 0.19591940939426422,
+  "vocal_voiced": 0.324468085106383,
+  "song_length": 265.143
+ }
+}

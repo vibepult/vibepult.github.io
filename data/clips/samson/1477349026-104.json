@@ -1,0 +1,32 @@
+{
+ "id": "samson/1477349026-104",
+ "band": "samson",
+ "title": "Manwatcher",
+ "source": "itunes",
+ "album": "Head On (Bonus Tracks Edition)",
+ "year": 1980,
+ "itunes_year": 1980,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.3333333333333335,
+  "tempo_var": 13.326276005149987,
+  "low_onset_rate": 5.433333333333334,
+  "lufs": -12.04335356784193,
+  "rms_dbfs": -11.491302628335603,
+  "crest": 11.491303443908691,
+  "centroid": 2307.5011115939847,
+  "flatness": 0.02463504672050476,
+  "sub100_share": 0.28509634733200073,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.6938233971595764,
+  "clean_share": 0.17182662538699692,
+  "minor_share": 0.10254266650747584,
+  "chord_rate": 2.1666666666666665,
+  "repetitiveness": 0.7986325025558472,
+  "vocal_share": 0.1029295101761818,
+  "vocal_voiced": 0.6416558861578266,
+  "song_length": 215.773
+ }
+}

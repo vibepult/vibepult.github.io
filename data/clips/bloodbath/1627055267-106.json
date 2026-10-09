@@ -1,0 +1,32 @@
+{
+ "id": "bloodbath/1627055267-106",
+ "band": "bloodbath",
+ "title": "Born Infernal (feat. Luc Lemay)",
+ "source": "itunes",
+ "album": "\"Survival of the Sickest\"",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.066666666666666,
+  "tempo_var": 11.535155593410803,
+  "low_onset_rate": 7.133333333333334,
+  "lufs": -8.63399955927796,
+  "rms_dbfs": -7.538572047114975,
+  "crest": 7.538572311401367,
+  "centroid": 2392.5724990536064,
+  "flatness": 0.030676575377583504,
+  "sub100_share": 0.5380086898803711,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8139962553977966,
+  "clean_share": 0.007739938080495356,
+  "minor_share": 0.042234672719063726,
+  "chord_rate": 2.466666666666667,
+  "repetitiveness": 0.9415612816810608,
+  "vocal_share": 0.08358055353164673,
+  "vocal_voiced": 0.12564102564102564,
+  "song_length": 240.9
+ }
+}

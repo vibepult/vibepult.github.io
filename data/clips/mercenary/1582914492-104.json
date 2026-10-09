@@ -1,0 +1,32 @@
+{
+ "id": "mercenary/1582914492-104",
+ "band": "mercenary",
+ "title": "Memoria",
+ "source": "itunes",
+ "album": "Metamorphosis",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 5.279148281045435,
+  "tempo_var": 15.640258208119617,
+  "low_onset_rate": 6.582229185860447,
+  "lufs": -8.041010358842698,
+  "rms_dbfs": -8.05591762908981,
+  "crest": 8.055917739868164,
+  "centroid": 2709.653308731068,
+  "flatness": 0.0427749902009964,
+  "sub100_share": 0.27873703837394714,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7672523856163025,
+  "clean_share": 0.004654771140418929,
+  "minor_share": 0.12583561107620028,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.8094179034233093,
+  "vocal_share": 0.26970070600509644,
+  "vocal_voiced": 0.7062556663644606,
+  "song_length": 342.0
+ }
+}

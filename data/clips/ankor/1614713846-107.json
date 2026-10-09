@@ -1,0 +1,32 @@
+{
+ "id": "ankor/1614713846-107",
+ "band": "ankor",
+ "title": "From Marbles to Cocaine",
+ "source": "itunes",
+ "album": "Beyond the Silence of These Years",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.243366023371963,
+  "tempo_var": 14.142095287506953,
+  "low_onset_rate": 3.94265504533773,
+  "lufs": -7.436466962124107,
+  "rms_dbfs": -6.397245364069969,
+  "crest": 6.397244930267334,
+  "centroid": 2768.560297842548,
+  "flatness": 0.04232104867696762,
+  "sub100_share": 0.4557187259197235,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.7335995435714722,
+  "clean_share": 0.03491078355314197,
+  "minor_share": 0.13983359088668212,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.9450953006744385,
+  "vocal_share": 0.1363319754600525,
+  "vocal_voiced": 0.717564870259481,
+  "song_length": 271.278
+ }
+}

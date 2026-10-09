@@ -1,0 +1,32 @@
+{
+ "id": "trollfest/1591961291-105",
+ "band": "trollfest",
+ "title": "Fanden Flyr",
+ "source": "itunes",
+ "album": "Norwegian Fairytales",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 4.744550986762353,
+  "tempo_var": 23.711169634677674,
+  "low_onset_rate": 5.9473948988992875,
+  "lufs": -9.609792017472875,
+  "rms_dbfs": -8.549791045077056,
+  "crest": 8.549790382385254,
+  "centroid": 2071.9552569473503,
+  "flatness": 0.012934268452227116,
+  "sub100_share": 0.4705273509025574,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.8464271426200867,
+  "clean_share": 0.2009309542280838,
+  "minor_share": -0.019426682093164338,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.923977792263031,
+  "vocal_share": 0.18396198749542236,
+  "vocal_voiced": 0.9486552567237164,
+  "song_length": 240.787
+ }
+}

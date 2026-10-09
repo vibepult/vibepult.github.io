@@ -1,0 +1,32 @@
+{
+ "id": "kataklysm/1683434933-105",
+ "band": "kataklysm",
+ "title": "Combustion",
+ "source": "itunes",
+ "album": "Goliath",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 1.099993348490712,
+  "tempo_var": 12.913415443792188,
+  "low_onset_rate": 0.3333313177244582,
+  "lufs": -9.087506080442708,
+  "rms_dbfs": -8.063255530184026,
+  "crest": 8.063255310058594,
+  "centroid": 2671.3613175548244,
+  "flatness": 0.03976002335548401,
+  "sub100_share": 0.46826034784317017,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7783872485160828,
+  "clean_share": 0.0007733952049497294,
+  "minor_share": -0.08735287138209663,
+  "chord_rate": 1.133326480263158,
+  "repetitiveness": 0.9674565196037292,
+  "vocal_share": 0.059056319296360016,
+  "vocal_voiced": 0.24423963133640553,
+  "song_length": 237.747
+ }
+}

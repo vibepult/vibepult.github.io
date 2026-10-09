@@ -1,0 +1,32 @@
+{
+ "id": "a-dark-halo/1686540496-105",
+ "band": "a-dark-halo",
+ "title": "I, Revenant",
+ "source": "itunes",
+ "album": "Omnibus One",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.911612641225816,
+  "tempo_var": 5.204185231407549,
+  "low_onset_rate": 6.415167531396984,
+  "lufs": -8.27044931097253,
+  "rms_dbfs": -6.900553168200892,
+  "crest": 6.900553226470947,
+  "centroid": 2432.5725921607223,
+  "flatness": 0.023654531687498093,
+  "sub100_share": 0.622288167476654,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8847524523735046,
+  "clean_share": 0.08145849495733126,
+  "minor_share": 0.07448387407533164,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.8473397493362427,
+  "vocal_share": 0.0008445571875199676,
+  "vocal_voiced": 0.29743589743589743,
+  "song_length": 225.909
+ }
+}

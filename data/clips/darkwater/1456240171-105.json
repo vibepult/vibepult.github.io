@@ -1,0 +1,32 @@
+{
+ "id": "darkwater/1456240171-105",
+ "band": "darkwater",
+ "title": "The Play, Pt. I",
+ "source": "itunes",
+ "album": "Calling the Earth to Witness",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.6085317364108036,
+  "tempo_var": 19.0326765124294,
+  "low_onset_rate": 4.443840008728119,
+  "lufs": -17.59365072801839,
+  "rms_dbfs": -18.954127656487042,
+  "crest": 18.95412826538086,
+  "centroid": 1531.802267394143,
+  "flatness": 0.005708939861506224,
+  "sub100_share": 0.0012320522218942642,
+  "lowest_pitch": 123.81591796875,
+  "harmonic_share": 0.9086069464683533,
+  "clean_share": 0.8487199379363848,
+  "minor_share": 0.18342317408984365,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.7446662783622742,
+  "vocal_share": 0.6753512024879456,
+  "vocal_voiced": 0.767515923566879,
+  "song_length": 154.32
+ }
+}

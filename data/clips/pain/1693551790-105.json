@@ -1,0 +1,32 @@
+{
+ "id": "pain/1693551790-105",
+ "band": "pain",
+ "title": "Breathe",
+ "source": "itunes",
+ "album": "Pain",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.3412330892692625,
+  "tempo_var": 20.663726061517327,
+  "low_onset_rate": 3.5417070746254184,
+  "lufs": -15.127379753680447,
+  "rms_dbfs": -14.987809353453025,
+  "crest": 14.987810134887695,
+  "centroid": 3133.4262070259306,
+  "flatness": 0.059355732053518295,
+  "sub100_share": 0.40400785207748413,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7693395614624023,
+  "clean_share": 0.0,
+  "minor_share": -0.053834888350748344,
+  "chord_rate": 2.405687824273869,
+  "repetitiveness": 0.9493095278739929,
+  "vocal_share": 0.003763604909181595,
+  "vocal_voiced": 0.18660287081339713,
+  "song_length": 261.253
+ }
+}

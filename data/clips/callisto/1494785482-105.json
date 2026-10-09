@@ -1,0 +1,32 @@
+{
+ "id": "callisto/1494785482-105",
+ "band": "callisto",
+ "title": "Lost Prayer",
+ "source": "itunes",
+ "album": "Secret Youth",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 4.544077001406197,
+  "tempo_var": 1.889747055090278,
+  "low_onset_rate": 5.713508582650439,
+  "lufs": -8.065034488947928,
+  "rms_dbfs": -7.360872387569376,
+  "crest": 7.360872745513916,
+  "centroid": 2316.8268105595816,
+  "flatness": 0.018588200211524963,
+  "sub100_share": 0.34499025344848633,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.8552501797676086,
+  "clean_share": 0.010861132660977503,
+  "minor_share": -0.05125480534272342,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.7972667813301086,
+  "vocal_share": 0.19600428640842438,
+  "vocal_voiced": 0.8791893998441154,
+  "song_length": 317.115
+ }
+}

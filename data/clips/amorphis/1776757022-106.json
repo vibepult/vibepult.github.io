@@ -1,0 +1,32 @@
+{
+ "id": "amorphis/1776757022-106",
+ "band": "amorphis",
+ "title": "Sacrifice",
+ "source": "itunes",
+ "album": "Under the Red Cloud (Deluxe Edition)",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.6,
+  "tempo_var": 11.99647142396487,
+  "low_onset_rate": 4.266666666666667,
+  "lufs": -8.838316959903006,
+  "rms_dbfs": -8.249241000966139,
+  "crest": 8.24924087524414,
+  "centroid": 2464.1324803596126,
+  "flatness": 0.029376771301031113,
+  "sub100_share": 0.321167916059494,
+  "lowest_pitch": 99.591064453125,
+  "harmonic_share": 0.7920469045639038,
+  "clean_share": 0.09210526315789473,
+  "minor_share": 0.035046239073213914,
+  "chord_rate": 1.3,
+  "repetitiveness": 0.8510404825210571,
+  "vocal_share": 0.09917192161083221,
+  "vocal_voiced": 0.9012567324955116,
+  "song_length": 236.024
+ }
+}

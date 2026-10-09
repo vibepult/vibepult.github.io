@@ -1,0 +1,32 @@
+{
+ "id": "dozer/1609288371-106",
+ "band": "dozer",
+ "title": "Omega Glory",
+ "source": "itunes",
+ "album": "Through the Eyes of Heathens",
+ "year": 2005,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 78.30255681818181,
+  "onset_rate": 1.2696685739223197,
+  "tempo_var": 21.500942893797284,
+  "low_onset_rate": 2.606161809630025,
+  "lufs": -7.034313456883015,
+  "rms_dbfs": -7.13822175551996,
+  "crest": 7.138221740722656,
+  "centroid": 2258.771422648288,
+  "flatness": 0.022484062239527702,
+  "sub100_share": 0.37312400341033936,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.8474787473678589,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": -0.16480791970881592,
+  "chord_rate": 0.9689575958880862,
+  "repetitiveness": 0.9469618797302246,
+  "vocal_share": 1.1638026080618147e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 300.68
+ }
+}

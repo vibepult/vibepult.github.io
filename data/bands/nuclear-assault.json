@@ -1,0 +1,127 @@
+{
+ "slug": "nuclear-assault",
+ "name": "Nuclear Assault",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 137951351,
+  "deezer": 241440,
+  "spotify": "2iu7W76DMacXn6hzAqmJJU"
+ },
+ "metadata": {
+  "formed": 1984,
+  "split": 2022,
+  "country": "US",
+  "status": "split-up",
+  "members": 4,
+  "past_members": 10,
+  "full_lengths": 6,
+  "genre": "Thrash Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 29557,
+  "themes": "Politics, Social issues, Warfare, Death, Humour, Corruption",
+  "release_year": 1990
+ },
+ "partial": false,
+ "clips": [
+  "nuclear-assault/980775713-107",
+  "nuclear-assault/980776238-105",
+  "nuclear-assault/1771731131-106",
+  "nuclear-assault/1620568488-106",
+  "nuclear-assault/980775713-105",
+  "nuclear-assault/980776238-107",
+  "nuclear-assault/1771731131-105",
+  "nuclear-assault/1620568488-107",
+  "nuclear-assault/980775713-109",
+  "nuclear-assault/980776238-104",
+  "nuclear-assault/1771731131-107",
+  "nuclear-assault/1620568488-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.90049098320159,
+   "iqr": 36.05057565789474
+  },
+  "onset_rate": {
+   "median": 5.02855579935024,
+   "iqr": 1.7464451098288318
+  },
+  "tempo_var": {
+   "median": 8.280485199548757,
+   "iqr": 11.475425264061506
+  },
+  "low_onset_rate": {
+   "median": 6.131162718809097,
+   "iqr": 1.323124717144288
+  },
+  "lufs": {
+   "median": -9.926658950026287,
+   "iqr": 5.652341458793654
+  },
+  "rms_dbfs": {
+   "median": -10.213959745569673,
+   "iqr": 4.458779882188855
+  },
+  "crest": {
+   "median": 10.21396017074585,
+   "iqr": 3.4249930381774902
+  },
+  "centroid": {
+   "median": 2698.4174473789353,
+   "iqr": 363.2672292948432
+  },
+  "flatness": {
+   "median": 0.04764418490231037,
+   "iqr": 0.019856061786413193
+  },
+  "sub100_share": {
+   "median": 0.18617775291204453,
+   "iqr": 0.09329058974981308
+  },
+  "lowest_pitch": {
+   "median": 78.057861328125,
+   "iqr": 35.66436767578125
+  },
+  "harmonic_share": {
+   "median": 0.6060108542442322,
+   "iqr": 0.0949963927268982
+  },
+  "clean_share": {
+   "median": 0.013576415826221877,
+   "iqr": 0.08770613814918805
+  },
+  "minor_share": {
+   "median": -0.020053868555145404,
+   "iqr": 0.1724639855222852
+  },
+  "chord_rate": {
+   "median": 1.9045028608834798,
+   "iqr": 0.4938588489388873
+  },
+  "repetitiveness": {
+   "median": 0.9201880395412445,
+   "iqr": 0.06160835921764374
+  },
+  "vocal_share": {
+   "median": 0.1419200897216797,
+   "iqr": 0.05564316734671593
+  },
+  "vocal_voiced": {
+   "median": 0.5062137531068766,
+   "iqr": 0.35002245374508045
+  },
+  "song_length": {
+   "median": 208.173,
+   "iqr": 59.49324999999999
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.5
+ },
+ "sources_failed": []
+}

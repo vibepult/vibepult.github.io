@@ -1,0 +1,32 @@
+{
+ "id": "iron-maiden/1713839098-106",
+ "band": "iron-maiden",
+ "title": "Wasting Love",
+ "source": "itunes",
+ "album": "Fear of the Dark (2015 Remaster)",
+ "year": 1992,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.8332753851037777,
+  "tempo_var": 3.7782024453334486,
+  "low_onset_rate": 2.499962207676377,
+  "lufs": -16.225838717275433,
+  "rms_dbfs": -15.50553115986527,
+  "crest": 14.546918869018555,
+  "centroid": 1693.6962245467716,
+  "flatness": 0.006617812439799309,
+  "sub100_share": 0.21744436025619507,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.9271517992019653,
+  "clean_share": 0.774168600154679,
+  "minor_share": 0.16844437855693895,
+  "chord_rate": 0.9999848830705508,
+  "repetitiveness": 0.7389031648635864,
+  "vocal_share": 0.36409541964530945,
+  "vocal_voiced": 0.9251893939393939,
+  "song_length": 351.031
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "acute-mind/1522770126-103",
+ "band": "acute-mind",
+ "title": "Daddy",
+ "source": "itunes",
+ "album": "Under the Empty Sky",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.777963317655045,
+  "tempo_var": 16.915640433150163,
+  "low_onset_rate": 4.5106646705135045,
+  "lufs": -10.691140093993669,
+  "rms_dbfs": -10.314656548552195,
+  "crest": 10.314656257629395,
+  "centroid": 2289.5326934073196,
+  "flatness": 0.022956080734729767,
+  "sub100_share": 0.22408950328826904,
+  "lowest_pitch": 148.040771484375,
+  "harmonic_share": 0.6875093579292297,
+  "clean_share": 0.04965089216446858,
+  "minor_share": 0.10648921057777938,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.7895210981369019,
+  "vocal_share": 0.2578115165233612,
+  "vocal_voiced": 0.8465963566634708,
+  "song_length": 320.392
+ }
+}

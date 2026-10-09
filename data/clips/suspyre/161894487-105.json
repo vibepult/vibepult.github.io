@@ -1,0 +1,32 @@
+{
+ "id": "suspyre/161894487-105",
+ "band": "suspyre",
+ "title": "The Breath of Gloria",
+ "source": "itunes",
+ "album": "The Silvery Image",
+ "year": 2005,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.1049768462396354,
+  "tempo_var": 20.211854519354773,
+  "low_onset_rate": 1.1026069194588566,
+  "lufs": -16.719422738353288,
+  "rms_dbfs": -17.302414643626047,
+  "crest": 16.890972137451172,
+  "centroid": 1733.6977581125057,
+  "flatness": 0.005685322917997837,
+  "sub100_share": 0.14787179231643677,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.9332883358001709,
+  "clean_share": 0.8254460822342902,
+  "minor_share": -0.28233708225137755,
+  "chord_rate": 0.7016589487465451,
+  "repetitiveness": 0.47806039452552795,
+  "vocal_share": 0.42310619354248047,
+  "vocal_voiced": 0.9152276295133438,
+  "song_length": 455.013
+ }
+}

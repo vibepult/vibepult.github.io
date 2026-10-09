@@ -1,0 +1,127 @@
+{
+ "slug": "the-lonely",
+ "name": "The Lonely",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1776756631,
+  "deezer": 10504963,
+  "spotify": "0Qe6mZufp6ggvzsgG3w3ca"
+ },
+ "metadata": {
+  "formed": 2021,
+  "split": null,
+  "country": "MX",
+  "status": "active",
+  "members": 4,
+  "past_members": 1,
+  "full_lengths": 3,
+  "genre": "Depressive/Post-Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 67,
+  "themes": "Violence, Hatred, Misanthropy, Depression",
+  "release_year": 2023
+ },
+ "partial": false,
+ "clips": [
+  "the-lonely/1777496278-106",
+  "the-lonely/1777517624-105",
+  "the-lonely/1778908000-105",
+  "the-lonely/1777496278-105",
+  "the-lonely/1777517624-104",
+  "the-lonely/1778908000-106",
+  "the-lonely/1777496278-107",
+  "the-lonely/1777517624-106",
+  "the-lonely/1778908000-104",
+  "the-lonely/1777496278-104",
+  "the-lonely/1777517624-103",
+  "the-lonely/1778908000-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 112.34714673913044,
+   "iqr": 15.088300371503507
+  },
+  "onset_rate": {
+   "median": 5.18224069454566,
+   "iqr": 2.9022974940175295
+  },
+  "tempo_var": {
+   "median": 4.010149590129243,
+   "iqr": 5.640772156000955
+  },
+  "low_onset_rate": {
+   "median": 6.365974228707149,
+   "iqr": 1.979554931262725
+  },
+  "lufs": {
+   "median": -12.316864104821942,
+   "iqr": 2.75929188878003
+  },
+  "rms_dbfs": {
+   "median": -12.163069347291518,
+   "iqr": 2.7057327058713128
+  },
+  "crest": {
+   "median": 12.163069248199463,
+   "iqr": 2.6192777156829834
+  },
+  "centroid": {
+   "median": 1970.3743829598234,
+   "iqr": 669.9618151008272
+  },
+  "flatness": {
+   "median": 0.010791733395308256,
+   "iqr": 0.024328665458597243
+  },
+  "sub100_share": {
+   "median": 0.1393108144402504,
+   "iqr": 0.2887648344039917
+  },
+  "lowest_pitch": {
+   "median": 49.7955322265625,
+   "iqr": 63.2537841796875
+  },
+  "harmonic_share": {
+   "median": 0.8331620693206787,
+   "iqr": 0.09013114869594574
+  },
+  "clean_share": {
+   "median": 0.21268368136117555,
+   "iqr": 0.34976798143851506
+  },
+  "minor_share": {
+   "median": -0.09425680522912733,
+   "iqr": 0.25196387895712913
+  },
+  "chord_rate": {
+   "median": 1.4666444951701412,
+   "iqr": 0.7579998292841004
+  },
+  "repetitiveness": {
+   "median": 0.8499166965484619,
+   "iqr": 0.07647006213665009
+  },
+  "vocal_share": {
+   "median": 0.0425107404589653,
+   "iqr": 0.17279748246073723
+  },
+  "vocal_voiced": {
+   "median": 0.5398305084745763,
+   "iqr": 0.407776715824214
+  },
+  "song_length": {
+   "median": 257.351,
+   "iqr": 48.074749999999995
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

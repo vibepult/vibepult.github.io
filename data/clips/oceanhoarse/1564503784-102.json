@@ -1,0 +1,32 @@
+{
+ "id": "oceanhoarse/1564503784-102",
+ "band": "oceanhoarse",
+ "title": "Locks",
+ "source": "itunes",
+ "album": "Dead Reckoning",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.176541361586578,
+  "tempo_var": 16.217193414743832,
+  "low_onset_rate": 4.777963317655045,
+  "lufs": -9.10604173966435,
+  "rms_dbfs": -8.382212272431529,
+  "crest": 8.382211685180664,
+  "centroid": 2847.953059913376,
+  "flatness": 0.04277831315994263,
+  "sub100_share": 0.3670973479747772,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.6641098856925964,
+  "clean_share": 0.027928626842513578,
+  "minor_share": 0.10750027305954801,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.8468621969223022,
+  "vocal_share": 0.19544081389904022,
+  "vocal_voiced": 0.5222222222222223,
+  "song_length": 214.95
+ }
+}

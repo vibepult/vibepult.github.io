@@ -1,0 +1,32 @@
+{
+ "id": "mustasch/1486625112-104",
+ "band": "mustasch",
+ "title": "Freddie Mercury",
+ "source": "itunes",
+ "album": "Killing It for Life",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.840048125878873,
+  "tempo_var": 1.3164543429455298,
+  "low_onset_rate": 5.279148281045435,
+  "lufs": -7.197030796920049,
+  "rms_dbfs": -6.17931608127402,
+  "crest": 6.17931604385376,
+  "centroid": 2739.590999039577,
+  "flatness": 0.027532413601875305,
+  "sub100_share": 0.35680091381073,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8390483856201172,
+  "clean_share": 0.035686578743211794,
+  "minor_share": 0.11027034201612373,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.7636100649833679,
+  "vocal_share": 0.19609679281711578,
+  "vocal_voiced": 0.8844221105527639,
+  "song_length": 292.792
+ }
+}

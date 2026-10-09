@@ -1,0 +1,127 @@
+{
+ "slug": "acrosome",
+ "name": "Acrosome",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 457675780,
+  "deezer": 1415381,
+  "spotify": "192W25y4CLblS3VMcRJFKQ"
+ },
+ "metadata": {
+  "formed": 2009,
+  "split": null,
+  "country": "TR",
+  "status": "active",
+  "members": 1,
+  "past_members": 1,
+  "full_lengths": 2,
+  "genre": "Post-Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 61,
+  "themes": "Psychology, Abstract, Space, Fictional history, Life",
+  "release_year": 2015
+ },
+ "partial": false,
+ "clips": [
+  "acrosome/1037025454-104",
+  "acrosome/1190595496-103",
+  "acrosome/1037025454-103",
+  "acrosome/1190595496-104",
+  "acrosome/1037025454-105",
+  "acrosome/1190595496-102",
+  "acrosome/1037025454-102",
+  "acrosome/1190595496-105",
+  "acrosome/1037025454-106",
+  "acrosome/1190595496-101",
+  "acrosome/1037025454-101",
+  "acrosome/1190595496-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 23.66286057692308
+  },
+  "onset_rate": {
+   "median": 2.906872787664258,
+   "iqr": 3.508294743732726
+  },
+  "tempo_var": {
+   "median": 7.106727307872744,
+   "iqr": 8.987071297804636
+  },
+  "low_onset_rate": {
+   "median": 4.460546174174466,
+   "iqr": 3.3746454201619547
+  },
+  "lufs": {
+   "median": -10.633474621054765,
+   "iqr": 3.022229202969628
+  },
+  "rms_dbfs": {
+   "median": -10.54108284399609,
+   "iqr": 3.809692306390602
+  },
+  "crest": {
+   "median": 9.187544822692871,
+   "iqr": 2.868307113647461
+  },
+  "centroid": {
+   "median": 1761.472099383583,
+   "iqr": 1010.5132176357454
+  },
+  "flatness": {
+   "median": 0.009469572454690933,
+   "iqr": 0.018586442107334733
+  },
+  "sub100_share": {
+   "median": 0.14772893488407135,
+   "iqr": 0.15784812532365322
+  },
+  "lowest_pitch": {
+   "median": 55.1788330078125,
+   "iqr": 33.6456298828125
+  },
+  "harmonic_share": {
+   "median": 0.874199777841568,
+   "iqr": 0.12035807967185974
+  },
+  "clean_share": {
+   "median": 0.39022498060512023,
+   "iqr": 0.8116757176105508
+  },
+  "minor_share": {
+   "median": 0.04915365199718935,
+   "iqr": 0.09939556311530075
+  },
+  "chord_rate": {
+   "median": 0.968957595888086,
+   "iqr": 0.8353082723173155
+  },
+  "repetitiveness": {
+   "median": 0.8546301424503326,
+   "iqr": 0.16743402183055878
+  },
+  "vocal_share": {
+   "median": 0.06030077114701271,
+   "iqr": 0.05658973194658756
+  },
+  "vocal_voiced": {
+   "median": 0.6579321798385869,
+   "iqr": 0.41686525374428185
+  },
+  "song_length": {
+   "median": 329.404,
+   "iqr": 159.84675
+  },
+  "vocal_presence": {
+   "median": 0.5,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

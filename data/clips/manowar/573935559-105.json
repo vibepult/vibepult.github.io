@@ -1,0 +1,32 @@
+{
+ "id": "manowar/573935559-105",
+ "band": "manowar",
+ "title": "Touch the Sky",
+ "source": "itunes",
+ "album": "The Lord of Steel (Hammer Edition)",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.7087687290888813,
+  "tempo_var": 13.047869957563492,
+  "low_onset_rate": 5.011849633903894,
+  "lufs": -10.328494631665915,
+  "rms_dbfs": -9.006701998466673,
+  "crest": 9.006701469421387,
+  "centroid": 2267.2384898855084,
+  "flatness": 0.015520459972321987,
+  "sub100_share": 0.3987830877304077,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8457853198051453,
+  "clean_share": 0.30411171450737007,
+  "minor_share": 0.12314310784734916,
+  "chord_rate": 1.871090529990787,
+  "repetitiveness": 0.6053180694580078,
+  "vocal_share": 0.09130068123340607,
+  "vocal_voiced": 0.6569086651053864,
+  "song_length": 229.24
+ }
+}

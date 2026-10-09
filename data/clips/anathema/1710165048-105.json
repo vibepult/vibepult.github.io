@@ -1,0 +1,32 @@
+{
+ "id": "anathema/1710165048-105",
+ "band": "anathema",
+ "title": "Sunlight",
+ "source": "itunes",
+ "album": "Weather Systems",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.5332648032531635,
+  "tempo_var": 24.46033443018436,
+  "low_onset_rate": 5.033257244788439,
+  "lufs": -19.723778252251403,
+  "rms_dbfs": -19.258802754545925,
+  "crest": 15.092876434326172,
+  "centroid": 1711.321645727855,
+  "flatness": 0.00493347505107522,
+  "sub100_share": 0.08866193890571594,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.9501731395721436,
+  "clean_share": 0.7780355761794276,
+  "minor_share": -0.30849627981289507,
+  "chord_rate": 0.5999909298423305,
+  "repetitiveness": 0.7456642985343933,
+  "vocal_share": 0.5490482449531555,
+  "vocal_voiced": 0.8993028659953525,
+  "song_length": 295.64
+ }
+}

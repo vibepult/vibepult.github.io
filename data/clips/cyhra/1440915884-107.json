@@ -1,0 +1,32 @@
+{
+ "id": "cyhra/1440915884-107",
+ "band": "cyhra",
+ "title": "Dark Clarity",
+ "source": "itunes",
+ "album": "Letters to Myself",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 4.911612641225816,
+  "tempo_var": 18.50578111006219,
+  "low_onset_rate": 6.3817552005042915,
+  "lufs": -8.826986921557177,
+  "rms_dbfs": -8.252259412595134,
+  "crest": 8.252259254455566,
+  "centroid": 2556.0115016179843,
+  "flatness": 0.03476833179593086,
+  "sub100_share": 0.33767327666282654,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7689723968505859,
+  "clean_share": 0.02482544608223429,
+  "minor_share": 0.08093187481740055,
+  "chord_rate": 1.0357822576734714,
+  "repetitiveness": 0.7964984178543091,
+  "vocal_share": 0.21102342009544373,
+  "vocal_voiced": 0.7996894409937888,
+  "song_length": 246.24
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "sabaton/1463623890-108",
+ "band": "sabaton",
+ "title": "Talvisota",
+ "source": "itunes",
+ "album": "The Art of War",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.399979440789474,
+  "tempo_var": 1.3394940123204926,
+  "low_onset_rate": 6.133296246130031,
+  "lufs": -8.609097184207975,
+  "rms_dbfs": -7.665051698052526,
+  "crest": 7.6650519371032715,
+  "centroid": 2801.303668061721,
+  "flatness": 0.048831548541784286,
+  "sub100_share": 0.5109968781471252,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.820024847984314,
+  "clean_share": 0.0038669760247486465,
+  "minor_share": 0.221435275997099,
+  "chord_rate": 1.4333246662151702,
+  "repetitiveness": 0.9094123244285583,
+  "vocal_share": 0.07500090450048447,
+  "vocal_voiced": 0.5502846299810247,
+  "song_length": 212.333
+ }
+}

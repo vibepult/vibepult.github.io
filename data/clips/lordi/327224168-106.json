@@ -1,0 +1,32 @@
+{
+ "id": "lordi/327224168-106",
+ "band": "lordi",
+ "title": "The Children of the Night",
+ "source": "itunes",
+ "album": "The Monsterican Dream",
+ "year": 2004,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 67.99958881578948,
+  "onset_rate": 2.5393371478446394,
+  "tempo_var": 14.234437059024003,
+  "low_onset_rate": 4.544077001406197,
+  "lufs": -7.816288824317952,
+  "rms_dbfs": -7.1099929989367885,
+  "crest": 7.109992980957031,
+  "centroid": 2671.865096503678,
+  "flatness": 0.03161412104964256,
+  "sub100_share": 0.4292260706424713,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8685600161552429,
+  "clean_share": 0.028704422032583398,
+  "minor_share": 0.06929855713211475,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.6041232943534851,
+  "vocal_share": 0.13199570775032043,
+  "vocal_voiced": 0.05858421480878763,
+  "song_length": 223.505
+ }
+}

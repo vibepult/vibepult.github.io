@@ -1,0 +1,127 @@
+{
+ "slug": "spawn-of-possession",
+ "name": "Spawn of Possession",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 152587846,
+  "deezer": 893161,
+  "spotify": "0ZCbQOOfTwQacCamoOxx0D"
+ },
+ "metadata": {
+  "formed": 1997,
+  "split": 2017,
+  "country": "SE",
+  "status": "split-up",
+  "members": 5,
+  "past_members": 5,
+  "full_lengths": 3,
+  "genre": "Technical Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 10141,
+  "themes": "Death, Horror, Unholiness",
+  "release_year": 2006
+ },
+ "partial": false,
+ "clips": [
+  "spawn-of-possession/1298838392-106",
+  "spawn-of-possession/714400678-106",
+  "spawn-of-possession/494422030-105",
+  "spawn-of-possession/1298838392-107",
+  "spawn-of-possession/714400678-105",
+  "spawn-of-possession/494422030-106",
+  "spawn-of-possession/1298838392-105",
+  "spawn-of-possession/714400678-107",
+  "spawn-of-possession/494422030-104",
+  "spawn-of-possession/1298838392-108",
+  "spawn-of-possession/714400678-104",
+  "spawn-of-possession/494422030-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 18.545342404306226
+  },
+  "onset_rate": {
+   "median": 6.849896449033273,
+   "iqr": 1.373145250973458
+  },
+  "tempo_var": {
+   "median": 5.317803349331149,
+   "iqr": 8.773277185216969
+  },
+  "low_onset_rate": {
+   "median": 6.80800635349452,
+   "iqr": 1.210233961486515
+  },
+  "lufs": {
+   "median": -9.130930746582095,
+   "iqr": 1.4040167848506862
+  },
+  "rms_dbfs": {
+   "median": -8.726131938754879,
+   "iqr": 1.8959245686633928
+  },
+  "crest": {
+   "median": 8.726131916046143,
+   "iqr": 1.895924687385559
+  },
+  "centroid": {
+   "median": 2778.9509970695917,
+   "iqr": 249.8911657312301
+  },
+  "flatness": {
+   "median": 0.04929369315505028,
+   "iqr": 0.014019965194165707
+  },
+  "sub100_share": {
+   "median": 0.39181725680828094,
+   "iqr": 0.08022493124008179
+  },
+  "lowest_pitch": {
+   "median": 32.2998046875,
+   "iqr": 19.51446533203125
+  },
+  "harmonic_share": {
+   "median": 0.652533620595932,
+   "iqr": 0.09868529438972473
+  },
+  "clean_share": {
+   "median": 0.006971356777587979,
+   "iqr": 0.011645927795247668
+  },
+  "minor_share": {
+   "median": 0.07407622596280716,
+   "iqr": 0.1701208249340237
+  },
+  "chord_rate": {
+   "median": 2.4223939897202156,
+   "iqr": 0.5225672691733076
+  },
+  "repetitiveness": {
+   "median": 0.9150459468364716,
+   "iqr": 0.021913588047027588
+  },
+  "vocal_share": {
+   "median": 0.1279066652059555,
+   "iqr": 0.02711903117597103
+  },
+  "vocal_voiced": {
+   "median": 0.12231926759970536,
+   "iqr": 0.24026882339287
+  },
+  "song_length": {
+   "median": 250.42000000000002,
+   "iqr": 113.48650000000004
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

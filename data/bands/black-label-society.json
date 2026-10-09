@@ -1,0 +1,127 @@
+{
+ "slug": "black-label-society",
+ "name": "Black Label Society",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 2778807,
+  "deezer": 822,
+  "spotify": "0zfT626RwO6zN3RDYeRit5"
+ },
+ "metadata": {
+  "formed": 1998,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 4,
+  "past_members": 10,
+  "full_lengths": 12,
+  "genre": "Southern/Groove Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 282025,
+  "themes": "Personal struggles, War, Alcohol, Death, Religion, Drugs",
+  "release_year": 2005
+ },
+ "partial": false,
+ "clips": [
+  "black-label-society/1437327278-107",
+  "black-label-society/1437327838-105",
+  "black-label-society/1437328390-108",
+  "black-label-society/1437330261-108",
+  "black-label-society/1437330908-107",
+  "black-label-society/1578313502-107",
+  "black-label-society/383915446-106",
+  "black-label-society/854634229-106",
+  "black-label-society/1280594876-106",
+  "black-label-society/1577949922-106",
+  "black-label-society/1859687597-107",
+  "black-label-society/1437327278-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 41.94610651088931
+  },
+  "onset_rate": {
+   "median": 3.2164638660425284,
+   "iqr": 0.9416524315581016
+  },
+  "tempo_var": {
+   "median": 9.108292635026634,
+   "iqr": 12.05756751143532
+  },
+  "low_onset_rate": {
+   "median": 5.066590074224123,
+   "iqr": 1.0245399675194156
+  },
+  "lufs": {
+   "median": -8.898218191199486,
+   "iqr": 0.9674511817203477
+  },
+  "rms_dbfs": {
+   "median": -8.234997410741965,
+   "iqr": 0.7813998181902573
+  },
+  "crest": {
+   "median": 8.234997272491455,
+   "iqr": 0.7813997268676758
+  },
+  "centroid": {
+   "median": 2500.5469767164636,
+   "iqr": 349.6122026890321
+  },
+  "flatness": {
+   "median": 0.025845865719020367,
+   "iqr": 0.009648680686950684
+  },
+  "sub100_share": {
+   "median": 0.32096831500530243,
+   "iqr": 0.2086242362856865
+  },
+  "lowest_pitch": {
+   "median": 67.291259765625,
+   "iqr": 32.2998046875
+  },
+  "harmonic_share": {
+   "median": 0.798121452331543,
+   "iqr": 0.04280106723308563
+  },
+  "clean_share": {
+   "median": 0.07192575406032484,
+   "iqr": 0.2689361825956679
+  },
+  "minor_share": {
+   "median": 0.0441221627518725,
+   "iqr": 0.16335527667799118
+  },
+  "chord_rate": {
+   "median": 1.852158323748228,
+   "iqr": 0.6416509954859113
+  },
+  "repetitiveness": {
+   "median": 0.841262936592102,
+   "iqr": 0.06847555935382843
+  },
+  "vocal_share": {
+   "median": 0.17597124725580215,
+   "iqr": 0.1207842007279396
+  },
+  "vocal_voiced": {
+   "median": 0.717004317185778,
+   "iqr": 0.261951808923667
+  },
+  "song_length": {
+   "median": 219.66649999999998,
+   "iqr": 84.93824999999998
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

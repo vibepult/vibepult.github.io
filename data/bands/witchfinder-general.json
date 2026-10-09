@@ -1,0 +1,127 @@
+{
+ "slug": "witchfinder-general",
+ "name": "Witchfinder General",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 129201774,
+  "deezer": 2644311,
+  "spotify": "1QqtUGvZnULbTYLj6y69vO"
+ },
+ "metadata": {
+  "formed": 1979,
+  "split": 2008,
+  "country": "GB",
+  "status": "split-up",
+  "members": 4,
+  "past_members": 6,
+  "full_lengths": 3,
+  "genre": "NWOBHM/Heavy Metal, Doom Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 3343,
+  "themes": "Drugs, Sex, Music, Occultism, Death",
+  "release_year": 1982
+ },
+ "partial": false,
+ "clips": [
+  "witchfinder-general/305996132-104",
+  "witchfinder-general/304465824-104",
+  "witchfinder-general/305996132-103",
+  "witchfinder-general/304465824-105",
+  "witchfinder-general/305996132-105",
+  "witchfinder-general/304465824-103",
+  "witchfinder-general/305996132-102",
+  "witchfinder-general/304465824-106",
+  "witchfinder-general/305996132-106",
+  "witchfinder-general/304465824-102",
+  "witchfinder-general/305996132-101",
+  "witchfinder-general/304465824-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 55.910274453832
+  },
+  "onset_rate": {
+   "median": 4.644313994084275,
+   "iqr": 1.6873227100809771
+  },
+  "tempo_var": {
+   "median": 12.893066623284398,
+   "iqr": 18.41398705127654
+  },
+  "low_onset_rate": {
+   "median": 4.844787979440431,
+   "iqr": 0.7768366932551034
+  },
+  "lufs": {
+   "median": -15.207719211815816,
+   "iqr": 1.4911502383110289
+  },
+  "rms_dbfs": {
+   "median": -15.020700837411542,
+   "iqr": 0.9603426665192281
+  },
+  "crest": {
+   "median": 15.020568370819092,
+   "iqr": 0.9054419994354248
+  },
+  "centroid": {
+   "median": 2348.002027789041,
+   "iqr": 283.7517099099937
+  },
+  "flatness": {
+   "median": 0.021933667361736298,
+   "iqr": 0.01103674666956067
+  },
+  "sub100_share": {
+   "median": 0.07322397828102112,
+   "iqr": 0.048703212291002274
+  },
+  "lowest_pitch": {
+   "median": 96.8994140625,
+   "iqr": 55.85174560546875
+  },
+  "harmonic_share": {
+   "median": 0.7108303010463715,
+   "iqr": 0.046914905309677124
+  },
+  "clean_share": {
+   "median": 0.08262218774243599,
+   "iqr": 0.14972847168347556
+  },
+  "minor_share": {
+   "median": 0.07838353656614916,
+   "iqr": 0.21408958343867135
+  },
+  "chord_rate": {
+   "median": 1.7708535373127092,
+   "iqr": 0.3842418052659651
+  },
+  "repetitiveness": {
+   "median": 0.8041418492794037,
+   "iqr": 0.07669895887374878
+  },
+  "vocal_share": {
+   "median": 0.340374231338501,
+   "iqr": 0.17661435157060623
+  },
+  "vocal_voiced": {
+   "median": 0.8867924528301887,
+   "iqr": 0.0578537440145912
+  },
+  "song_length": {
+   "median": 246.853,
+   "iqr": 85.71324999999999
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

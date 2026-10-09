@@ -1,0 +1,127 @@
+{
+ "slug": "dissection",
+ "name": "Dissection",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 7024358,
+  "deezer": 7372,
+  "spotify": "6qpmcQfxhmNxNMCJUrpHwe"
+ },
+ "metadata": {
+  "formed": 1989,
+  "split": 2006,
+  "country": "SE",
+  "status": "split-up",
+  "members": 3,
+  "past_members": 7,
+  "full_lengths": 3,
+  "genre": "Melodic Black Metal, Melodic Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 43172,
+  "themes": "Occultism, Death, Chaos-Gnosticism, Darkness, Anti-Cosmic Satanism",
+  "release_year": 2000
+ },
+ "partial": false,
+ "clips": [
+  "dissection/1630970998-104",
+  "dissection/1632020898-105",
+  "dissection/1630970998-105",
+  "dissection/1632020898-106",
+  "dissection/1630970998-103",
+  "dissection/1632020898-104",
+  "dissection/1630970998-106",
+  "dissection/1632020898-107",
+  "dissection/1630970998-102",
+  "dissection/1632020898-103",
+  "dissection/1630970998-107",
+  "dissection/1632020898-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.90049098320159,
+   "iqr": 18.989445612980774
+  },
+  "onset_rate": {
+   "median": 4.360309181496388,
+   "iqr": 2.414237491716368
+  },
+  "tempo_var": {
+   "median": 7.914119450774097,
+   "iqr": 6.8331672677171476
+  },
+  "low_onset_rate": {
+   "median": 5.723104967754448,
+   "iqr": 1.5967206921075183
+  },
+  "lufs": {
+   "median": -12.94359527231956,
+   "iqr": 5.501735918516815
+  },
+  "rms_dbfs": {
+   "median": -12.381856115932457,
+   "iqr": 5.269778586941591
+  },
+  "crest": {
+   "median": 12.381855964660645,
+   "iqr": 5.26977801322937
+  },
+  "centroid": {
+   "median": 2488.720525728396,
+   "iqr": 460.4360251599064
+  },
+  "flatness": {
+   "median": 0.02349365595728159,
+   "iqr": 0.0185011753346771
+  },
+  "sub100_share": {
+   "median": 0.26008494198322296,
+   "iqr": 0.11295444145798683
+  },
+  "lowest_pitch": {
+   "median": 113.04931640625,
+   "iqr": 49.7955322265625
+  },
+  "harmonic_share": {
+   "median": 0.6436900496482849,
+   "iqr": 0.07263755798339844
+  },
+  "clean_share": {
+   "median": 0.008126934984520124,
+   "iqr": 0.17707525213343678
+  },
+  "minor_share": {
+   "median": 0.08161272729203278,
+   "iqr": 0.09555362627625183
+  },
+  "chord_rate": {
+   "median": 1.9355452649953935,
+   "iqr": 0.5125597027590556
+  },
+  "repetitiveness": {
+   "median": 0.9212520122528076,
+   "iqr": 0.08938100934028625
+  },
+  "vocal_share": {
+   "median": 0.05653754621744156,
+   "iqr": 0.05617722403258085
+  },
+  "vocal_voiced": {
+   "median": 0.059431120475383126,
+   "iqr": 0.11106468335267253
+  },
+  "song_length": {
+   "median": 305.894,
+   "iqr": 144.248
+  },
+  "vocal_presence": {
+   "median": 0.3333333333333333,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.6,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

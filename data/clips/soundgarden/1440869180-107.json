@@ -1,0 +1,32 @@
+{
+ "id": "soundgarden/1440869180-107",
+ "band": "soundgarden",
+ "title": "Loud Love",
+ "source": "itunes",
+ "album": "Louder Than Love",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.899941043975148,
+  "tempo_var": 2.4385918116196152,
+  "low_onset_rate": 5.366585539145289,
+  "lufs": -9.588243886810828,
+  "rms_dbfs": -9.484064173687283,
+  "crest": 9.484064102172852,
+  "centroid": 2155.0761034603893,
+  "flatness": 0.017688706517219543,
+  "sub100_share": 0.17539295554161072,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.723300576210022,
+  "clean_share": 0.09822119102861562,
+  "minor_share": 0.09170401426466501,
+  "chord_rate": 2.2666324016265817,
+  "repetitiveness": 0.904903769493103,
+  "vocal_share": 0.096258744597435,
+  "vocal_voiced": 0.9043927648578811,
+  "song_length": 297.072
+ }
+}

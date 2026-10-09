@@ -1,0 +1,32 @@
+{
+ "id": "threshold/1458641356-106",
+ "band": "threshold",
+ "title": "Round and Round",
+ "source": "itunes",
+ "album": "Critical Mass (Definitive Edition)",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.505924816951947,
+  "tempo_var": 4.035252869531884,
+  "low_onset_rate": 1.0023699267807789,
+  "lufs": -15.868194625792295,
+  "rms_dbfs": -14.169928805538849,
+  "crest": 11.590909957885742,
+  "centroid": 644.2166767552847,
+  "flatness": 0.012609505094587803,
+  "sub100_share": 0.6993353962898254,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.9868196249008179,
+  "clean_share": 0.9844840961986036,
+  "minor_share": -0.03950289161840359,
+  "chord_rate": 1.0357822576734714,
+  "repetitiveness": 0.5108118057250977,
+  "vocal_share": 0.029594311490654945,
+  "vocal_voiced": 0.9600760456273765,
+  "song_length": 326.32
+ }
+}

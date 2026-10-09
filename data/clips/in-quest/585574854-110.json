@@ -1,0 +1,32 @@
+{
+ "id": "in-quest/585574854-110",
+ "band": "in-quest",
+ "title": "Hybris",
+ "source": "itunes",
+ "album": "Made Out of Negative Matter",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.34597294283082,
+  "tempo_var": 3.2775326111749217,
+  "low_onset_rate": 6.448579862289677,
+  "lufs": -8.07640218986046,
+  "rms_dbfs": -7.775656585284105,
+  "crest": 7.775655746459961,
+  "centroid": 2244.293669019687,
+  "flatness": 0.020488839596509933,
+  "sub100_share": 0.24769756197929382,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7963253259658813,
+  "clean_share": 0.03491078355314197,
+  "minor_share": -0.03246914793446021,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.8670727610588074,
+  "vocal_share": 0.06032048165798187,
+  "vocal_voiced": 0.18125,
+  "song_length": 184.613
+ }
+}

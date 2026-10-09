@@ -1,0 +1,32 @@
+{
+ "id": "bonfire/1774753718-107",
+ "band": "bonfire",
+ "title": "Fallin'",
+ "source": "itunes",
+ "album": "Higher Ground",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.1,
+  "tempo_var": 1.0787757966498344,
+  "low_onset_rate": 5.133333333333334,
+  "lufs": -8.254672290131477,
+  "rms_dbfs": -7.358854931604259,
+  "crest": 7.358854293823242,
+  "centroid": 2451.418929811319,
+  "flatness": 0.02460995316505432,
+  "sub100_share": 0.38570117950439453,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8240615129470825,
+  "clean_share": 0.06191950464396285,
+  "minor_share": -0.18997270940721733,
+  "chord_rate": 1.5333333333333334,
+  "repetitiveness": 0.6540337204933167,
+  "vocal_share": 0.1464322805404663,
+  "vocal_voiced": 0.6925182481751825,
+  "song_length": 321.147
+ }
+}

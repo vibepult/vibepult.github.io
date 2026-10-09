@@ -1,0 +1,32 @@
+{
+ "id": "candlemass/265101693-107",
+ "band": "candlemass",
+ "title": "Dark Are the Veils of Death",
+ "source": "itunes",
+ "album": "Nightfall",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 198.76802884615384,
+  "onset_rate": 4.7,
+  "tempo_var": 13.095301910038414,
+  "low_onset_rate": 7.566666666666666,
+  "lufs": -8.477186938701468,
+  "rms_dbfs": -7.761959076510616,
+  "crest": 7.761959075927734,
+  "centroid": 2792.227877079991,
+  "flatness": 0.03188283368945122,
+  "sub100_share": 0.38836389780044556,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8309024572372437,
+  "clean_share": 0.0046439628482972135,
+  "minor_share": 0.2198054845668545,
+  "chord_rate": 2.433333333333333,
+  "repetitiveness": 0.88675856590271,
+  "vocal_share": 0.028313416987657547,
+  "vocal_voiced": 0.4751131221719457,
+  "song_length": 426.804
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "striker/372514666-105",
+ "band": "striker",
+ "title": "The White Knight",
+ "source": "itunes",
+ "album": "Eyes In the Night",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 7.3507127963923775,
+  "tempo_var": 5.683535414203852,
+  "low_onset_rate": 7.3841251272850705,
+  "lufs": -7.880580418907548,
+  "rms_dbfs": -7.127715490528573,
+  "crest": 7.127715110778809,
+  "centroid": 2645.4717497623533,
+  "flatness": 0.03180161118507385,
+  "sub100_share": 0.49111756682395935,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.8398028016090393,
+  "clean_share": 0.0,
+  "minor_share": -0.05023726560896258,
+  "chord_rate": 1.0023699267807789,
+  "repetitiveness": 0.8620306253433228,
+  "vocal_share": 0.12761014699935913,
+  "vocal_voiced": 0.6763990267639902,
+  "song_length": 235.309
+ }
+}

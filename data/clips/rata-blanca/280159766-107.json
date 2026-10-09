@@ -1,0 +1,32 @@
+{
+ "id": "rata-blanca/280159766-107",
+ "band": "rata-blanca",
+ "title": "Blues",
+ "source": "itunes",
+ "album": "La Llave de la puerta secreta",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 48.75442216981132,
+  "onset_rate": 2.433333333333333,
+  "tempo_var": 4.483806000281617,
+  "low_onset_rate": 2.5,
+  "lufs": -8.622459809728348,
+  "rms_dbfs": -7.6881512115644774,
+  "crest": 7.6881513595581055,
+  "centroid": 1697.074294863238,
+  "flatness": 0.007582739926874638,
+  "sub100_share": 0.24675267934799194,
+  "lowest_pitch": 123.81591796875,
+  "harmonic_share": 0.8891309499740601,
+  "clean_share": 0.5828173374613003,
+  "minor_share": -0.10933428158855307,
+  "chord_rate": 0.6,
+  "repetitiveness": 0.5662441253662109,
+  "vocal_share": 0.347900927066803,
+  "vocal_voiced": 0.7928436911487758,
+  "song_length": 526.48
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "mayhem/583648461-105",
+ "band": "mayhem",
+ "title": "You Must Fall",
+ "source": "itunes",
+ "album": "Chimera",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 9.833333333333334,
+  "tempo_var": 11.45830447724744,
+  "low_onset_rate": 8.1,
+  "lufs": -8.827642930180055,
+  "rms_dbfs": -9.035426714497827,
+  "crest": 9.03542709350586,
+  "centroid": 2687.663992346272,
+  "flatness": 0.047064147889614105,
+  "sub100_share": 0.2025528997182846,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7420240044593811,
+  "clean_share": 0.0,
+  "minor_share": 0.031118219627377153,
+  "chord_rate": 1.7333333333333334,
+  "repetitiveness": 0.9629952311515808,
+  "vocal_share": 0.10775742679834366,
+  "vocal_voiced": 0.2249269717624148,
+  "song_length": 253.933
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "norther/1660521113-105",
+ "band": "norther",
+ "title": "Cry",
+ "source": "itunes",
+ "album": "Mirror of Madness",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.3412330892692625,
+  "tempo_var": 9.130633969100362,
+  "low_onset_rate": 6.314930538718906,
+  "lufs": -8.362727838463131,
+  "rms_dbfs": -7.896463705652134,
+  "crest": 7.896463871002197,
+  "centroid": 2553.697650682957,
+  "flatness": 0.03630742430686951,
+  "sub100_share": 0.3677704930305481,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8117750883102417,
+  "clean_share": 0.004654771140418929,
+  "minor_share": 0.30118309456050074,
+  "chord_rate": 1.3030809048150125,
+  "repetitiveness": 0.7342819571495056,
+  "vocal_share": 0.08948658406734467,
+  "vocal_voiced": 0.07226354941551541,
+  "song_length": 297.053
+ }
+}

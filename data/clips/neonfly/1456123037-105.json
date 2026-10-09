@@ -1,0 +1,32 @@
+{
+ "id": "neonfly/1456123037-105",
+ "band": "neonfly",
+ "title": "Heart of the Sun",
+ "source": "itunes",
+ "album": "Strangers in Paradise",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.71113865586966,
+  "tempo_var": 14.75089890944307,
+  "low_onset_rate": 4.009479707123115,
+  "lufs": -9.860527762603583,
+  "rms_dbfs": -10.07241855943058,
+  "crest": 10.072418212890625,
+  "centroid": 2539.8170057526695,
+  "flatness": 0.037601176649332047,
+  "sub100_share": 0.26775917410850525,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.6854797601699829,
+  "clean_share": 0.13886733902249807,
+  "minor_share": 0.31732762203317977,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.8614327311515808,
+  "vocal_share": 0.06503889709711075,
+  "vocal_voiced": 0.8486842105263158,
+  "song_length": 272.773
+ }
+}

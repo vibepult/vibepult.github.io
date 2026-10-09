@@ -1,0 +1,32 @@
+{
+ "id": "pelican/1568587749-104",
+ "band": "pelican",
+ "title": "Winds With Hands",
+ "source": "itunes",
+ "album": "City of Echoes",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 5.245735950152742,
+  "tempo_var": 31.656608888973874,
+  "low_onset_rate": 6.782703171216603,
+  "lufs": -13.863000386206178,
+  "rms_dbfs": -12.825968377833041,
+  "crest": 12.825967788696289,
+  "centroid": 1241.9083340986551,
+  "flatness": 0.003748525632545352,
+  "sub100_share": 0.010991928167641163,
+  "lowest_pitch": 123.81591796875,
+  "harmonic_share": 0.95445716381073,
+  "clean_share": 0.834755624515128,
+  "minor_share": 0.24776327457921699,
+  "chord_rate": 1.0023699267807789,
+  "repetitiveness": 0.788171648979187,
+  "vocal_share": 9.638705478209886e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 237.173
+ }
+}

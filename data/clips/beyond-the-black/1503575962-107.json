@@ -1,0 +1,32 @@
+{
+ "id": "beyond-the-black/1503575962-107",
+ "band": "beyond-the-black",
+ "title": "Marching On",
+ "source": "itunes",
+ "album": "Hørizøns",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 4.766666666666667,
+  "tempo_var": 25.561203488482175,
+  "low_onset_rate": 3.1333333333333333,
+  "lufs": -9.931967019156282,
+  "rms_dbfs": -9.256343082992899,
+  "crest": 9.256342887878418,
+  "centroid": 2659.2742060788646,
+  "flatness": 0.03680349141359329,
+  "sub100_share": 0.3378749489784241,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7514402270317078,
+  "clean_share": 0.007739938080495356,
+  "minor_share": 0.10716578110296415,
+  "chord_rate": 1.6,
+  "repetitiveness": 0.8482624888420105,
+  "vocal_share": 0.2254522740840912,
+  "vocal_voiced": 0.8484609313338595,
+  "song_length": 241.72
+ }
+}

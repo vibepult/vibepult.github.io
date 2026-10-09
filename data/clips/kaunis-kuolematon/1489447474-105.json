@@ -1,0 +1,32 @@
+{
+ "id": "kaunis-kuolematon/1489447474-105",
+ "band": "kaunis-kuolematon",
+ "title": "Tuhottu Elämä",
+ "source": "itunes",
+ "album": "Vapaus",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.011849633903894,
+  "tempo_var": 2.2173695128595146,
+  "low_onset_rate": 5.880570237113902,
+  "lufs": -8.483731040282747,
+  "rms_dbfs": -7.610681744489357,
+  "crest": 7.610681056976318,
+  "centroid": 2342.0038610031434,
+  "flatness": 0.029319768771529198,
+  "sub100_share": 0.4272975027561188,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7174475789070129,
+  "clean_share": 0.013964313421256789,
+  "minor_share": 0.020927920674921247,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.8973942399024963,
+  "vocal_share": 0.1453891396522522,
+  "vocal_voiced": 0.3146551724137931,
+  "song_length": 372.774
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "empyrium/1556132381-105",
+ "band": "empyrium",
+ "title": "Wehmut",
+ "source": "itunes",
+ "album": "Where at Night the Wood Grouse Plays",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 4.9784373030112015,
+  "tempo_var": 17.38793473224818,
+  "low_onset_rate": 5.011849633903894,
+  "lufs": -12.099809846818639,
+  "rms_dbfs": -11.365841432210441,
+  "crest": 11.36584186553955,
+  "centroid": 922.9231771325361,
+  "flatness": 0.0004544269759207964,
+  "sub100_share": 0.00041978282388299704,
+  "lowest_pitch": 164.190673828125,
+  "harmonic_share": 0.9744079113006592,
+  "clean_share": 0.9860356865787432,
+  "minor_share": 0.2647335083455572,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.6589059829711914,
+  "vocal_share": 0.001233668182976544,
+  "vocal_voiced": 1.0,
+  "song_length": 179.84
+ }
+}

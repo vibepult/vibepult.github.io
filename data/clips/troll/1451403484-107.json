@@ -1,0 +1,32 @@
+{
+ "id": "troll/1451403484-107",
+ "band": "troll",
+ "title": "Eyes as in I",
+ "source": "itunes",
+ "album": "The Last Predators",
+ "year": 2000,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.646683920865054,
+  "tempo_var": 1.532534636782129,
+  "low_onset_rate": 9.322040319061243,
+  "lufs": -8.369562279441567,
+  "rms_dbfs": -9.409883632371091,
+  "crest": 9.409883499145508,
+  "centroid": 3278.8899564868543,
+  "flatness": 0.0948711633682251,
+  "sub100_share": 0.2941155433654785,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.6507912278175354,
+  "clean_share": 0.0,
+  "minor_share": 0.16378360284965382,
+  "chord_rate": 2.6395741405227175,
+  "repetitiveness": 0.9618349671363831,
+  "vocal_share": 0.20612283051013947,
+  "vocal_voiced": 0.20829015544041452,
+  "song_length": 152.2
+ }
+}

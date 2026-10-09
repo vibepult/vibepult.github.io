@@ -1,0 +1,32 @@
+{
+ "id": "motorhead/1444138350-106",
+ "band": "motorhead",
+ "title": "Down on Me",
+ "source": "itunes",
+ "album": "Inferno",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.666581004066455,
+  "tempo_var": 14.80559679653231,
+  "low_onset_rate": 6.133240616166045,
+  "lufs": -8.42412684030854,
+  "rms_dbfs": -8.590930931044818,
+  "crest": 8.590930938720703,
+  "centroid": 2780.409145645432,
+  "flatness": 0.05029555410146713,
+  "sub100_share": 0.14117078483104706,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.5779951214790344,
+  "clean_share": 0.0,
+  "minor_share": 0.09722226299202097,
+  "chord_rate": 0.8333207358921256,
+  "repetitiveness": 0.8482204675674438,
+  "vocal_share": 0.20947760343551636,
+  "vocal_voiced": 0.16194790486976218,
+  "song_length": 252.387
+ }
+}

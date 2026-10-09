@@ -1,0 +1,32 @@
+{
+ "id": "charon/1660642811-106",
+ "band": "charon",
+ "title": "Unbreak, Unchain",
+ "source": "itunes",
+ "album": "The Dying Daylights",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 2.472512486059254,
+  "tempo_var": 7.6891739339620235,
+  "low_onset_rate": 2.9736974494496438,
+  "lufs": -8.62608795641084,
+  "rms_dbfs": -8.919899916954758,
+  "crest": 8.919899940490723,
+  "centroid": 2246.0913542374483,
+  "flatness": 0.01937652751803398,
+  "sub100_share": 0.42433425784111023,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8306084275245667,
+  "clean_share": 0.24592707525213345,
+  "minor_share": 0.15181749775636344,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.6957315802574158,
+  "vocal_share": 0.19633598625659943,
+  "vocal_voiced": 0.8147590361445783,
+  "song_length": 320.933
+ }
+}

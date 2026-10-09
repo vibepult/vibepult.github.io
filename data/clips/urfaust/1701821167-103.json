@@ -1,0 +1,32 @@
+{
+ "id": "urfaust/1701821167-103",
+ "band": "urfaust",
+ "title": "Leere",
+ "source": "itunes",
+ "album": "Untergang",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 6.666465110654251,
+  "tempo_var": 2.4016721667548158,
+  "low_onset_rate": 7.899761156125287,
+  "lufs": -11.536927560483184,
+  "rms_dbfs": -10.513513540280567,
+  "crest": 10.513513565063477,
+  "centroid": 2473.477813289014,
+  "flatness": 0.021962616592645645,
+  "sub100_share": 0.5379027128219604,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8535425066947937,
+  "clean_share": 0.0,
+  "minor_share": -0.02557679810770702,
+  "chord_rate": 2.466592090942073,
+  "repetitiveness": 0.9447470307350159,
+  "vocal_share": 3.2423105267298524e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 392.613
+ }
+}

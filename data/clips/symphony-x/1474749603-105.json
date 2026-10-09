@@ -1,0 +1,32 @@
+{
+ "id": "symphony-x/1474749603-105",
+ "band": "symphony-x",
+ "title": "Paradise Lost",
+ "source": "itunes",
+ "album": "Paradise Lost",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.699928950431588,
+  "tempo_var": 22.79526203108893,
+  "low_onset_rate": 3.3666157730041877,
+  "lufs": -10.103644306513578,
+  "rms_dbfs": -9.40729510622978,
+  "crest": 9.407295227050781,
+  "centroid": 2328.443280941857,
+  "flatness": 0.018352828919887543,
+  "sub100_share": 0.3111230731010437,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.818191647529602,
+  "clean_share": 0.21423047177107502,
+  "minor_share": 0.12257209394879676,
+  "chord_rate": 1.6666414717842513,
+  "repetitiveness": 0.7734439969062805,
+  "vocal_share": 0.30444225668907166,
+  "vocal_voiced": 0.9094827586206896,
+  "song_length": 392.467
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "the-ocean",
+ "name": "The Ocean",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 47515973,
+  "deezer": 332642,
+  "spotify": "6fuALtryzj4cq7vkglKLxq"
+ },
+ "metadata": {
+  "formed": 2000,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 7,
+  "past_members": 22,
+  "full_lengths": 12,
+  "genre": "Progressive/Atmospheric Sludge/Post-Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 18150,
+  "themes": "Abstract, Philosophy, Globalization, Modernity, Antitheism",
+  "release_year": 2010
+ },
+ "partial": false,
+ "clips": [
+  "the-ocean/1069340295-103",
+  "the-ocean/1069341263-104",
+  "the-ocean/121006213-106",
+  "the-ocean/266822682-203",
+  "the-ocean/396512234-105",
+  "the-ocean/361893318-106",
+  "the-ocean/616886331-106",
+  "the-ocean/1432170369-104",
+  "the-ocean/1516861169-104",
+  "the-ocean/1667354072-104",
+  "the-ocean/6769156881-106",
+  "the-ocean/1069340295-102"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.69701086956522,
+   "iqr": 41.27197265625
+  },
+  "onset_rate": {
+   "median": 3.5666127496182978,
+   "iqr": 1.8165542730504507
+  },
+  "tempo_var": {
+   "median": 10.07031162456927,
+   "iqr": 8.805847080468695
+  },
+  "low_onset_rate": {
+   "median": 4.088280197662894,
+   "iqr": 1.9015071106188177
+  },
+  "lufs": {
+   "median": -10.094426922189555,
+   "iqr": 1.8818715424752401
+  },
+  "rms_dbfs": {
+   "median": -9.43953892915578,
+   "iqr": 1.7633401446988017
+  },
+  "crest": {
+   "median": 9.439538955688477,
+   "iqr": 1.7633403539657593
+  },
+  "centroid": {
+   "median": 2000.4583735696783,
+   "iqr": 667.527653434475
+  },
+  "flatness": {
+   "median": 0.01321099977940321,
+   "iqr": 0.016363839618861675
+  },
+  "sub100_share": {
+   "median": 0.42995327711105347,
+   "iqr": 0.23280313983559608
+  },
+  "lowest_pitch": {
+   "median": 51.141357421875,
+   "iqr": 25.5706787109375
+  },
+  "harmonic_share": {
+   "median": 0.8173376023769379,
+   "iqr": 0.11786182224750519
+  },
+  "clean_share": {
+   "median": 0.25454878983155876,
+   "iqr": 0.41376643464810514
+  },
+  "minor_share": {
+   "median": 0.042036686892252484,
+   "iqr": 0.15780549844512903
+  },
+  "chord_rate": {
+   "median": 1.6018440971525598,
+   "iqr": 0.4350956900823244
+  },
+  "repetitiveness": {
+   "median": 0.7824742496013641,
+   "iqr": 0.1060212105512619
+  },
+  "vocal_share": {
+   "median": 0.11542629450559616,
+   "iqr": 0.0974065363407135
+  },
+  "vocal_voiced": {
+   "median": 0.7631785995279308,
+   "iqr": 0.6338786108406362
+  },
+  "song_length": {
+   "median": 257.6135,
+   "iqr": 222.88725
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

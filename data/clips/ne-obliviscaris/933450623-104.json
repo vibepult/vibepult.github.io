@@ -1,0 +1,32 @@
+{
+ "id": "ne-obliviscaris/933450623-104",
+ "band": "ne-obliviscaris",
+ "title": "Pyrrhic",
+ "source": "itunes",
+ "album": "Citadel",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 7.3507127963923775,
+  "tempo_var": 4.383213067874533,
+  "low_onset_rate": 9.722988289773554,
+  "lufs": -8.008486577701499,
+  "rms_dbfs": -7.639337649547803,
+  "crest": 7.639337062835693,
+  "centroid": 2589.6940499049692,
+  "flatness": 0.03427454084157944,
+  "sub100_share": 0.32394757866859436,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7991524934768677,
+  "clean_share": 0.010861132660977503,
+  "minor_share": 0.1620069555505,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.9430972337722778,
+  "vocal_share": 0.03797197341918945,
+  "vocal_voiced": 0.5138888888888888,
+  "song_length": 590.093
+ }
+}

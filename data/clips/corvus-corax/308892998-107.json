@@ -1,0 +1,32 @@
+{
+ "id": "corvus-corax/308892998-107",
+ "band": "corvus-corax",
+ "title": "Para Barei",
+ "source": "itunes",
+ "album": "Seikilos",
+ "year": 2002,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.131967911787642,
+  "tempo_var": 0.0,
+  "low_onset_rate": 2.899228625490421,
+  "lufs": -14.095244310002142,
+  "rms_dbfs": -13.289228630771415,
+  "crest": 13.289228439331055,
+  "centroid": 2033.9008460369323,
+  "flatness": 0.005590379238128662,
+  "sub100_share": 0.35403165221214294,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.871556282043457,
+  "clean_share": 0.6326372776488786,
+  "minor_share": -0.14655631142134262,
+  "chord_rate": 1.5995744140636807,
+  "repetitiveness": 0.7745410799980164,
+  "vocal_share": 0.0008395183831453323,
+  "vocal_voiced": 0.39814814814814814,
+  "song_length": 217.6
+ }
+}

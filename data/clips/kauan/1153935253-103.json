@@ -1,0 +1,32 @@
+{
+ "id": "kauan/1153935253-103",
+ "band": "kauan",
+ "title": "Песнь матери",
+ "source": "itunes",
+ "album": "Tietäjän Laulu",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 67.99958881578948,
+  "onset_rate": 2.3054508315957913,
+  "tempo_var": 18.975239948626417,
+  "low_onset_rate": 2.840048125878873,
+  "lufs": -15.234226421520646,
+  "rms_dbfs": -15.104225478122329,
+  "crest": 15.018985748291016,
+  "centroid": 1700.469555483925,
+  "flatness": 0.005123497452586889,
+  "sub100_share": 0.008977963589131832,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.9478458166122437,
+  "clean_share": 0.8681148176881304,
+  "minor_share": 0.05677090464960788,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.7545492053031921,
+  "vocal_share": 0.3014560043811798,
+  "vocal_voiced": 0.9303977272727273,
+  "song_length": 361.84
+ }
+}

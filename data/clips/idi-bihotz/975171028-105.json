@@ -1,0 +1,32 @@
+{
+ "id": "idi-bihotz/975171028-105",
+ "band": "idi-bihotz",
+ "title": "Gaztemina",
+ "source": "itunes",
+ "album": "Arimaerratu",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 6.916352494787374,
+  "tempo_var": 1.5918228684140043,
+  "low_onset_rate": 6.916352494787374,
+  "lufs": -10.457881158842426,
+  "rms_dbfs": -9.777428569294912,
+  "crest": 9.77742862701416,
+  "centroid": 2747.460943974023,
+  "flatness": 0.0366264209151268,
+  "sub100_share": 0.3710899353027344,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7756587862968445,
+  "clean_share": 0.0031031807602792862,
+  "minor_share": 0.24849985488331178,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.8657989501953125,
+  "vocal_share": 0.24103589355945587,
+  "vocal_voiced": 0.6880252100840336,
+  "song_length": 214.0
+ }
+}

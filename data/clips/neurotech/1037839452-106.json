@@ -1,0 +1,32 @@
+{
+ "id": "neurotech/1037839452-106",
+ "band": "neurotech",
+ "title": "The Mannequin March",
+ "source": "itunes",
+ "album": "Antagonist",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 4.377015346942734,
+  "tempo_var": 19.02166200646157,
+  "low_onset_rate": 7.3173004654996845,
+  "lufs": -8.195036740374004,
+  "rms_dbfs": -6.771760699028056,
+  "crest": 6.771760940551758,
+  "centroid": 2157.8162848944703,
+  "flatness": 0.018961407244205475,
+  "sub100_share": 0.43574973940849304,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8720518350601196,
+  "clean_share": 0.1404189294026377,
+  "minor_share": 0.04518254650194636,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.9571872353553772,
+  "vocal_share": 0.04408351331949234,
+  "vocal_voiced": 0.07447973713033954,
+  "song_length": 161.067
+ }
+}

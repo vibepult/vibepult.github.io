@@ -1,0 +1,32 @@
+{
+ "id": "svartby/1241884703-104",
+ "band": "svartby",
+ "title": "Karl's Egg Farm",
+ "source": "itunes",
+ "album": "Swamp, My Neighbour",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.397699767015288,
+  "tempo_var": 30.87447022865626,
+  "low_onset_rate": 3.231643010609719,
+  "lufs": -9.025176101799138,
+  "rms_dbfs": -8.282884921891798,
+  "crest": 8.28288459777832,
+  "centroid": 2330.391503566285,
+  "flatness": 0.03318898752331734,
+  "sub100_share": 0.3210654556751251,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6250513195991516,
+  "clean_share": 0.11987625676720805,
+  "minor_share": -0.0611976531871693,
+  "chord_rate": 1.9989544395524035,
+  "repetitiveness": 0.898054838180542,
+  "vocal_share": 0.1399385631084442,
+  "vocal_voiced": 0.1527331189710611,
+  "song_length": 203.143
+ }
+}

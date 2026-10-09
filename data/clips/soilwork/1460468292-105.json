@@ -1,0 +1,32 @@
+{
+ "id": "soilwork/1460468292-105",
+ "band": "soilwork",
+ "title": "The Analyst",
+ "source": "itunes",
+ "album": "A Predator's Portrait (Reloaded)",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 1.6372042137419387,
+  "tempo_var": 16.94283558373502,
+  "low_onset_rate": 2.138389177132328,
+  "lufs": -8.649932399108273,
+  "rms_dbfs": -8.373387627165336,
+  "crest": 8.373387336730957,
+  "centroid": 2772.6646151742875,
+  "flatness": 0.029926203191280365,
+  "sub100_share": 0.48713141679763794,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8347523212432861,
+  "clean_share": 0.013964313421256789,
+  "minor_share": -0.1616813665687673,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.7867411971092224,
+  "vocal_share": 7.892174380685901e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 282.133
+ }
+}

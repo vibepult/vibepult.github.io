@@ -1,0 +1,32 @@
+{
+ "id": "dagoba/583584426-105",
+ "band": "dagoba",
+ "title": "Cancer",
+ "source": "itunes",
+ "album": "What Hell is About",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 5.4,
+  "tempo_var": 10.329640799436081,
+  "low_onset_rate": 7.266666666666667,
+  "lufs": -7.98991289098568,
+  "rms_dbfs": -7.843927159404562,
+  "crest": 7.843927383422852,
+  "centroid": 2699.367026736714,
+  "flatness": 0.04294795170426369,
+  "sub100_share": 0.42302364110946655,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.80730801820755,
+  "clean_share": 0.0,
+  "minor_share": -0.2597851580008033,
+  "chord_rate": 1.9666666666666666,
+  "repetitiveness": 0.8451201915740967,
+  "vocal_share": 0.15238243341445923,
+  "vocal_voiced": 0.484736355226642,
+  "song_length": 274.467
+ }
+}

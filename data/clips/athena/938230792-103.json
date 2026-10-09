@@ -1,0 +1,32 @@
+{
+ "id": "athena/938230792-103",
+ "band": "athena",
+ "title": "Üç Lira Bir Anahtar",
+ "source": "itunes",
+ "album": "Altüst",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 3.7665527875196516,
+  "tempo_var": 39.93182250952155,
+  "low_onset_rate": 3.1999032531140403,
+  "lufs": -10.82944426921006,
+  "rms_dbfs": -10.501147069995383,
+  "crest": 10.50114631652832,
+  "centroid": 1793.1726826118897,
+  "flatness": 0.008702787570655346,
+  "sub100_share": 0.12399671226739883,
+  "lowest_pitch": 123.81591796875,
+  "harmonic_share": 0.7732991576194763,
+  "clean_share": 0.5645784996133024,
+  "minor_share": 0.11564773578331988,
+  "chord_rate": 1.7666132543233763,
+  "repetitiveness": 0.7858517169952393,
+  "vocal_share": 0.4994201958179474,
+  "vocal_voiced": 0.8711711711711712,
+  "song_length": 239.293
+ }
+}

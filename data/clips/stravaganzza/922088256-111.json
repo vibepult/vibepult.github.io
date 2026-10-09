@@ -1,0 +1,32 @@
+{
+ "id": "stravaganzza/922088256-111",
+ "band": "stravaganzza",
+ "title": "Dolor",
+ "source": "itunes",
+ "album": "Sentimientos",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 2.405687824273869,
+  "tempo_var": 4.848036499422885,
+  "low_onset_rate": 5.579859259079669,
+  "lufs": -23.67223669978848,
+  "rms_dbfs": -23.89650621972903,
+  "crest": 20.861251831054688,
+  "centroid": 1319.4883554734845,
+  "flatness": 0.0011830858420580626,
+  "sub100_share": 0.004371255170553923,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8517844676971436,
+  "clean_share": 0.9961210240496509,
+  "minor_share": -0.060652373141588334,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.7945907115936279,
+  "vocal_share": 0.9932682514190674,
+  "vocal_voiced": 0.29356357927786497,
+  "song_length": 593.787
+ }
+}

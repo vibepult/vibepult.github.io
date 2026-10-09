@@ -1,0 +1,107 @@
+# The tuning surface: faders x inputs, signed weights over pool percentiles (0 to 100).
+# Inputs: an audio feature median (tempo_bpm), its spread (tempo_bpm_iqr), or a metadata/hand input below.
+# Blend = sum(w * percentile) / sum(|w|), then re-ranked so every fader spans 0 to 100.
+# expected_status: check.py fails if publish computes a different status (see poc-24h.md, Fader status).
+# label: the engraving on the strip, at most 10 characters so it fits a 60 px strip.
+# Edit, then: python -m ingest publish && python -m ingest check, then reload the page.
+
+# Not audio: zeroed out of every blend when check.py evaluates the premise gates.
+metadata_inputs: [vocals_harsh, persona, camp]
+
+faders:
+  # Audio group: the six the gates and data/ground-truth.yaml use, in this order.
+  aggression:
+    label: Aggressive
+    group: audio
+    expected_status: live
+    weights: {onset_rate: 1.5, tempo_bpm: 1.0, lufs: 1.0, flatness: 1.0, centroid: 0.5,
+              clean_share: -1.0, harmonic_share: -0.5, vocals_harsh: 1.5}
+  serenity:
+    label: Serene
+    group: audio
+    expected_status: live
+    # Re-weighted 2026-10-06 against data/ground-truth.yaml (rho over 16 bands 0.81 -> 0.94, blind 8 rows 0.72 -> 0.93).
+    # Out: clean_share (tonal frames under flatness 0.005 almost never occur in a reverb-washed tremolo wall),
+    # lufs (measures mastering era: Mayhem's masters are 3 dB quieter than Elderwind's) and tempo_bpm (octave
+    # errors on tremolo picking). In: few low-end hits, slow chord changes (also tracks distortion, see poc-24h.md)
+    # and low chroma self-similarity, the three inputs that follow the sheet most closely.
+    weights: {harmonic_share: 1.5, low_onset_rate: -1.5, chord_rate: -1.0, centroid: -1.0, flatness: -1.0,
+              repetitiveness: -1.0}
+  darkness:
+    label: Dark
+    group: audio
+    expected_status: live
+    # Audio only since 2026-10-07: "how buried and monotone it sounds". The 2026-10-06 definition leaned on
+    # themes_dark (Metal Archives themes, rho +0.76 over 50 sheet bands) because no audio input then tracked gut
+    # darkness beyond |0.37|; the Demucs vocal stem changed that (vocal_share -0.47). Equal weights on the five
+    # strongest audio inputs score +0.68 (half-sample mean +0.69, worst half +0.45), and larger or smaller weights
+    # on the same five score the same. Themes are reserved for the lyric axes. Known costs: instrumental drone and
+    # post-metal read dark (no voice looks like a buried one); overlap with Rawness +0.50 and Human -0.48.
+    weights: {vocal_share: -1.0, low_onset_rate: 1.0, minor_share_iqr: -1.0, tempo_var: -1.0, centroid_iqr: 1.0}
+  rawness:
+    label: Raw
+    group: audio
+    expected_status: live
+    # Re-weighted 2026-10-07 against data/ground-truth.yaml (50 rows; rho +0.14 -> +0.55). The old vector (flatness,
+    # crest, centroid, harmonic share) measured distortion density, not production: Meshuggah and DragonForce read raw,
+    # Burzum polished, and it correlated 0.87 with Aggression, a second aggression fader. No input the pipeline has
+    # tracks production primitiveness (loudness, crest, centroid, flatness, sub-bass all under |0.25| against the
+    # sheet); what tracks it is primitive music: low-end hit rate (+0.53), repetition (+0.36), chord changes (+0.32),
+    # a buried or absent voice (-0.36), a steady tempo (-0.33). Ceiling: a real production input (bandwidth, hiss)
+    # needs extractor 0.4.0. Overlap with Aggression now 0.68; brutal-cluster span on this fader 50 -> 17.
+    weights: {low_onset_rate: 1.5, repetitiveness: 1.0, chord_rate: 1.0, vocal_share: -1.0, tempo_var_iqr: -0.5}
+  speed:
+    label: Fast
+    group: audio
+    expected_status: live
+    weights: {onset_rate: 1.5, tempo_bpm: 1.0, low_onset_rate: 1.0}
+  heaviness:
+    label: Heavy
+    group: audio
+    expected_status: live
+    weights: {sub100_share: 2.0, lowest_pitch: -1.5, lufs: 0.5}
+  # Character group.
+  grandeur:
+    label: Grand
+    group: character
+    expected_status: live
+    weights: {song_length: 1.5, harmonic_share: 1.0, crest: 1.0, repetitiveness: -1.0}
+  melody:
+    label: Melodic
+    group: character
+    expected_status: live
+    # Re-built 2026-10-07. The old vector was a coin flip between plainly melodic and plainly unmelodic reference
+    # bands (AUC 0.51; Eyehategod, Godflesh and Mortician topped the fader): chord_rate measures distortion density
+    # (rho 0.54 with flatness) and vocals_harsh is a genre prior. Swapping the prior for vocal_voiced did not help
+    # (0.59) and dropping chord_rate made a Serenity clone (overlap 0.86) that buried melodic death metal, because
+    # melody in metal is in the guitars, not in whether the voice is sung. This vector, chosen on 24 reference bands
+    # and validated on 28 the search never saw (AUC 0.95; Serenity overlap 0.68): a minor-key tonal centre, moving
+    # chroma, no low-end hit wall, some brightness, and chord_rate with its sign flipped (less distortion noise).
+    weights: {minor_share: 1.0, repetitiveness: -1.0, low_onset_rate: -1.0, centroid: 0.5, chord_rate: -0.5}
+  technicality:
+    label: Technical
+    group: character
+    expected_status: live
+    weights: {tempo_var: 1.0, chord_rate: 1.0, onset_rate: 0.5}  # tempo_var weighted lightly by design
+  consistency:
+    label: Consistent
+    group: character
+    expected_status: live
+    weights: {tempo_bpm_iqr: -1.0, onset_rate_iqr: -1.0, centroid_iqr: -1.0, lufs_iqr: -1.0,
+              flatness_iqr: -1.0, harmonic_share_iqr: -1.0}
+  humanity:
+    label: Human
+    group: character
+    expected_status: live
+    # Re-built 2026-10-07 on the Demucs vocal stem (extractor 0.3.0). The old vector had no input that hears a voice:
+    # vocals_harsh is a genre prior that ties 359 bands, and clean_share peaks on drone walls, so Sunn O))) was the
+    # most human band. Now: share of audible vocal frames pyin calls voiced (sung 0.8 to 0.95, growled 0.1 to 0.45),
+    # share of previews that contain a voice at all, and the stem's energy share. All three are band-level medians
+    # over the previews with a voice (aggregate.py). Ceiling: a fifth of previews are instrumental intros, so bands
+    # whose label cuts previews from the track start read low (Metallica 18, two voiced previews of twelve).
+    weights: {vocal_voiced: 2.0, vocal_presence: 1.5, vocal_share: 0.5}
+  theatricality:
+    label: Theatrical
+    group: character
+    expected_status: live
+    weights: {persona: 2.0, camp: 2.0, harmonic_share: 0.5}

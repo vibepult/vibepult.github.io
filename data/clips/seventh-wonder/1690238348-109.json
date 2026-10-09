@@ -1,0 +1,32 @@
+{
+ "id": "seventh-wonder/1690238348-109",
+ "band": "seventh-wonder",
+ "title": "Fall in Line",
+ "source": "itunes",
+ "album": "Mercy Falls",
+ "year": 2008,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 6.548816854967755,
+  "tempo_var": 0.6464809369106389,
+  "low_onset_rate": 6.014219560684673,
+  "lufs": -8.199710055154181,
+  "rms_dbfs": -8.066817379708173,
+  "crest": 8.066817283630371,
+  "centroid": 2637.852713480529,
+  "flatness": 0.033286917954683304,
+  "sub100_share": 0.335442453622818,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8394113183021545,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.05411934830170828,
+  "chord_rate": 1.336493235707705,
+  "repetitiveness": 0.8334987163543701,
+  "vocal_share": 8.675147000758443e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 369.613
+ }
+}

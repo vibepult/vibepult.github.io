@@ -1,0 +1,32 @@
+{
+ "id": "nightwish/1669902575-105",
+ "band": "nightwish",
+ "title": "Angels Fall First (Remastered)",
+ "source": "itunes",
+ "album": "Angels Fall First",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.613271589972361,
+  "tempo_var": 3.6711122386950974,
+  "low_onset_rate": 8.520144377636619,
+  "lufs": -11.525275583858667,
+  "rms_dbfs": -11.616740737452618,
+  "crest": 11.616741180419922,
+  "centroid": 2120.3027193395546,
+  "flatness": 0.009173809550702572,
+  "sub100_share": 0.0591500848531723,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.9092555642127991,
+  "clean_share": 0.439100077579519,
+  "minor_share": 0.19201875950354919,
+  "chord_rate": 0.5011849633903894,
+  "repetitiveness": 0.6580525040626526,
+  "vocal_share": 0.24550747871398926,
+  "vocal_voiced": 0.9212121212121213,
+  "song_length": 334.493
+ }
+}

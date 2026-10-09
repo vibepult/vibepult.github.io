@@ -1,0 +1,32 @@
+{
+ "id": "wake/466601020-112",
+ "band": "wake",
+ "title": "Recycle the Sickness",
+ "source": "itunes",
+ "album": "Leeches",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 7.684836105319304,
+  "tempo_var": 5.180009347218383,
+  "low_onset_rate": 6.74929084032391,
+  "lufs": -9.499449436418828,
+  "rms_dbfs": -7.8516256259203026,
+  "crest": 7.851625442504883,
+  "centroid": 2884.134606427651,
+  "flatness": 0.03158441185951233,
+  "sub100_share": 0.5247313380241394,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7748972177505493,
+  "clean_share": 0.009309542280837859,
+  "minor_share": 0.05553371815244312,
+  "chord_rate": 2.6395741405227175,
+  "repetitiveness": 0.9187854528427124,
+  "vocal_share": 0.029541226103901863,
+  "vocal_voiced": 0.3150242326332795,
+  "song_length": 138.319
+ }
+}

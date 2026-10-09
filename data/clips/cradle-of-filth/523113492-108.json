@@ -1,0 +1,32 @@
+{
+ "id": "cradle-of-filth/523113492-108",
+ "band": "cradle-of-filth",
+ "title": "Carrion",
+ "source": "itunes",
+ "album": "Damnation and a Day",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 8.453319715851235,
+  "tempo_var": 5.9229684104471225,
+  "low_onset_rate": 6.849527833001988,
+  "lufs": -8.366017155559227,
+  "rms_dbfs": -8.419381642656385,
+  "crest": 8.419381141662598,
+  "centroid": 2650.2290300991,
+  "flatness": 0.0479242317378521,
+  "sub100_share": 0.2710910439491272,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.6678398251533508,
+  "clean_share": 0.0,
+  "minor_share": -0.1754167955909584,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.9076565504074097,
+  "vocal_share": 0.09548569470643997,
+  "vocal_voiced": 0.23752711496746204,
+  "song_length": 283.04
+ }
+}

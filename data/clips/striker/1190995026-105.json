@@ -1,0 +1,32 @@
+{
+ "id": "striker/1190995026-105",
+ "band": "striker",
+ "title": "Shadows in the Light",
+ "source": "itunes",
+ "album": "Striker",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 5.98080722979198,
+  "tempo_var": 14.203684526847601,
+  "low_onset_rate": 6.3817552005042915,
+  "lufs": -7.542633509444552,
+  "rms_dbfs": -7.622996900304491,
+  "crest": 7.622997283935547,
+  "centroid": 2861.2214109490933,
+  "flatness": 0.04533352330327034,
+  "sub100_share": 0.26850250363349915,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7221943140029907,
+  "clean_share": 0.0,
+  "minor_share": -0.024310898657049496,
+  "chord_rate": 1.971327522668865,
+  "repetitiveness": 0.886928141117096,
+  "vocal_share": 0.15117515623569489,
+  "vocal_voiced": 0.7740963855421686,
+  "song_length": 210.667
+ }
+}

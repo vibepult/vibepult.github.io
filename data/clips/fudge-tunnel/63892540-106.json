@@ -1,0 +1,32 @@
+{
+ "id": "fudge-tunnel/63892540-106",
+ "band": "fudge-tunnel",
+ "title": "Long Day",
+ "source": "itunes",
+ "album": "The Complicated Futility of Ignorance",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.109716699801193,
+  "tempo_var": 8.600406095860967,
+  "low_onset_rate": 3.5082947437327254,
+  "lufs": -14.682434617932184,
+  "rms_dbfs": -14.01107801015984,
+  "crest": 14.011077880859375,
+  "centroid": 2177.9279686179666,
+  "flatness": 0.02150130644440651,
+  "sub100_share": 0.2104974389076233,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.6094549298286438,
+  "clean_share": 0.022498060512024826,
+  "minor_share": 0.039839297472202384,
+  "chord_rate": 2.5393371478446394,
+  "repetitiveness": 0.9411212801933289,
+  "vocal_share": 0.026176411658525467,
+  "vocal_voiced": 0.5754475703324808,
+  "song_length": 201.493
+ }
+}

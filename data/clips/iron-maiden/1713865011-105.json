@@ -1,0 +1,32 @@
+{
+ "id": "iron-maiden/1713865011-105",
+ "band": "iron-maiden",
+ "title": "The Mercenary (2015 Remaster)",
+ "source": "itunes",
+ "album": "Brave New World (2015 Remaster)",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.366600656074739,
+  "tempo_var": 16.36456047272218,
+  "low_onset_rate": 5.166588562531179,
+  "lufs": -9.971952418281617,
+  "rms_dbfs": -9.810759113374656,
+  "crest": 9.810759544372559,
+  "centroid": 2421.2303682854786,
+  "flatness": 0.030290216207504272,
+  "sub100_share": 0.1567542552947998,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7494491338729858,
+  "clean_share": 0.025522041763341066,
+  "minor_share": 0.08904532123172804,
+  "chord_rate": 1.1333162008132909,
+  "repetitiveness": 0.7843137979507446,
+  "vocal_share": 0.20937709510326385,
+  "vocal_voiced": 0.8018200202224469,
+  "song_length": 282.894
+ }
+}

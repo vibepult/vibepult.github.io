@@ -1,0 +1,32 @@
+{
+ "id": "bleed-from-within/1336131286-107",
+ "band": "bleed-from-within",
+ "title": "I am Oblivion, Pt. II",
+ "source": "itunes",
+ "album": "Era",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.2645988406436435,
+  "tempo_var": 14.551154727116238,
+  "low_onset_rate": 3.1313499083724743,
+  "lufs": -9.142936603258978,
+  "rms_dbfs": -8.675987626072969,
+  "crest": 8.675987243652344,
+  "centroid": 2648.442689258191,
+  "flatness": 0.047574613243341446,
+  "sub100_share": 0.3118307590484619,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.618730366230011,
+  "clean_share": 0.048723897911832945,
+  "minor_share": 0.026063743917903448,
+  "chord_rate": 1.6989238864574063,
+  "repetitiveness": 0.8309986591339111,
+  "vocal_share": 0.2738628387451172,
+  "vocal_voiced": 0.14570858283433133,
+  "song_length": 238.68
+ }
+}

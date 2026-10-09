@@ -1,0 +1,32 @@
+{
+ "id": "opeth/268633375-104",
+ "band": "opeth",
+ "title": "The Drapery Falls",
+ "source": "itunes",
+ "album": "Blackwater Park",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.430526998016373,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.2966450577789725,
+  "lufs": -7.705927289957419,
+  "rms_dbfs": -7.764598253626356,
+  "crest": 7.7645978927612305,
+  "centroid": 2537.842511644141,
+  "flatness": 0.02691601775586605,
+  "sub100_share": 0.3130910098552704,
+  "lowest_pitch": 115.740966796875,
+  "harmonic_share": 0.860179603099823,
+  "clean_share": 0.0,
+  "minor_share": 0.07093733297148386,
+  "chord_rate": 1.5656749541862371,
+  "repetitiveness": 0.7044560313224792,
+  "vocal_share": 5.087218823973672e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 652.04
+ }
+}

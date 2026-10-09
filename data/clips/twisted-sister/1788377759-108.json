@@ -1,0 +1,32 @@
+{
+ "id": "twisted-sister/1788377759-108",
+ "band": "twisted-sister",
+ "title": "The Beast",
+ "source": "itunes",
+ "album": "Still Hungry",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 1.5999903250773995,
+  "tempo_var": 29.63978656817431,
+  "low_onset_rate": 2.733316805340557,
+  "lufs": -8.76228258066607,
+  "rms_dbfs": -8.065953151427264,
+  "crest": 8.065953254699707,
+  "centroid": 2017.6107885405113,
+  "flatness": 0.01605162024497986,
+  "sub100_share": 0.22625213861465454,
+  "lowest_pitch": 102.28271484375,
+  "harmonic_share": 0.8548421859741211,
+  "clean_share": 0.5444702242846094,
+  "minor_share": -0.06812738090901027,
+  "chord_rate": 1.6333234568498451,
+  "repetitiveness": 0.7696902751922607,
+  "vocal_share": 4.580092536343727e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 205.907
+ }
+}

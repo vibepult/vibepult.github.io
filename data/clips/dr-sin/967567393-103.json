@@ -1,0 +1,32 @@
+{
+ "id": "dr-sin/967567393-103",
+ "band": "dr-sin",
+ "title": "We're Not Alone",
+ "source": "itunes",
+ "album": "Intactus",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 6.147868884255443,
+  "tempo_var": 4.263256414560601e-14,
+  "low_onset_rate": 5.21232361926005,
+  "lufs": -11.460206799359687,
+  "rms_dbfs": -11.572392892581409,
+  "crest": 11.572393417358398,
+  "centroid": 2952.1672895981014,
+  "flatness": 0.045661039650440216,
+  "sub100_share": 0.29716771841049194,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.733808159828186,
+  "clean_share": 0.0,
+  "minor_share": -0.005598447536313889,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.820365846157074,
+  "vocal_share": 0.20793895423412323,
+  "vocal_voiced": 0.7578947368421053,
+  "song_length": 289.6
+ }
+}

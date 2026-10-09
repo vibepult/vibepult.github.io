@@ -1,0 +1,32 @@
+{
+ "id": "priestess/303298433-109",
+ "band": "priestess",
+ "title": "Performance",
+ "source": "itunes",
+ "album": "Hello Master",
+ "year": 2005,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.8309068027961124,
+  "tempo_var": 0.9984272155071153,
+  "low_onset_rate": 5.030147193236634,
+  "lufs": -6.418264409493821,
+  "rms_dbfs": -6.247111748105576,
+  "crest": 6.247112274169922,
+  "centroid": 2676.7133605767303,
+  "flatness": 0.040316857397556305,
+  "sub100_share": 0.28475630283355713,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.762008786201477,
+  "clean_share": 0.005413766434648105,
+  "minor_share": 0.15420464304593395,
+  "chord_rate": 1.89879728486416,
+  "repetitiveness": 0.809917151927948,
+  "vocal_share": 0.1561763435602188,
+  "vocal_voiced": 0.877208480565371,
+  "song_length": 221.88
+ }
+}

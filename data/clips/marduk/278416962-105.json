@@ -1,0 +1,32 @@
+{
+ "id": "marduk/278416962-105",
+ "band": "marduk",
+ "title": "Nightwing",
+ "source": "itunes",
+ "album": "Nightwing",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 0.5011849633903894,
+  "tempo_var": 9.458531207759973,
+  "low_onset_rate": 0.5011849633903894,
+  "lufs": -8.540049318527677,
+  "rms_dbfs": -9.296468918751282,
+  "crest": 9.296468734741211,
+  "centroid": 2777.3876552076895,
+  "flatness": 0.04088438302278519,
+  "sub100_share": 0.1425366848707199,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.9038052558898926,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": 0.08312465724304441,
+  "chord_rate": 0.534597294283082,
+  "repetitiveness": 0.6948919296264648,
+  "vocal_share": 1.2754100680467673e-05,
+  "vocal_voiced": 1.0,
+  "song_length": 454.8
+ }
+}

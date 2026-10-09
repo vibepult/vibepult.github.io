@@ -1,0 +1,32 @@
+{
+ "id": "dio/1434112945-105",
+ "band": "dio",
+ "title": "Stay Out Of My Mind",
+ "source": "itunes",
+ "album": "Angry Machines",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.4999470907469274,
+  "tempo_var": 2.3803904544257133,
+  "low_onset_rate": 4.733261779867274,
+  "lufs": -10.991579295454025,
+  "rms_dbfs": -10.630407093770893,
+  "crest": 10.630407333374023,
+  "centroid": 2256.2857872057266,
+  "flatness": 0.02348700910806656,
+  "sub100_share": 0.2406768500804901,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7010281085968018,
+  "clean_share": 0.14075792730085074,
+  "minor_share": 0.17715408166357044,
+  "chord_rate": 1.9999697661411016,
+  "repetitiveness": 0.7827531099319458,
+  "vocal_share": 0.31080755591392517,
+  "vocal_voiced": 0.8520461699895068,
+  "song_length": 431.307
+ }
+}

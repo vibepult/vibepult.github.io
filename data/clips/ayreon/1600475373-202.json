@@ -1,0 +1,32 @@
+{
+ "id": "ayreon/1600475373-202",
+ "band": "ayreon",
+ "title": "Valley of the Queens",
+ "source": "itunes",
+ "album": "Into the Electric Castle",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 2.2386261698104057,
+  "tempo_var": 3.8276222154385207,
+  "low_onset_rate": 3.040522111235029,
+  "lufs": -16.64940001139406,
+  "rms_dbfs": -16.209839211608585,
+  "crest": 13.960847854614258,
+  "centroid": 1594.7583822905976,
+  "flatness": 0.0028896338772028685,
+  "sub100_share": 0.09656082838773727,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.9442746639251709,
+  "clean_share": 0.9045771916214119,
+  "minor_share": 0.13854810631307357,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.5752171874046326,
+  "vocal_share": 0.2672449052333832,
+  "vocal_voiced": 0.8223684210526315,
+  "song_length": 144.96
+ }
+}

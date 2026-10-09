@@ -1,0 +1,32 @@
+{
+ "id": "avalanch/382250149-106",
+ "band": "avalanch",
+ "title": "Nunca Es Tarde",
+ "source": "itunes",
+ "album": "El Ladrón De Sueños",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 3.7755933908742665,
+  "tempo_var": 18.341182598563627,
+  "low_onset_rate": 4.243366023371963,
+  "lufs": -10.068106772948886,
+  "rms_dbfs": -9.84989076589694,
+  "crest": 9.84989070892334,
+  "centroid": 2440.3467979850006,
+  "flatness": 0.024167664349079132,
+  "sub100_share": 0.1614939272403717,
+  "lowest_pitch": 131.890869140625,
+  "harmonic_share": 0.7670997977256775,
+  "clean_share": 0.19006982156710628,
+  "minor_share": 0.24700364257663704,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.7249605059623718,
+  "vocal_share": 0.307788610458374,
+  "vocal_voiced": 0.8470149253731343,
+  "song_length": 257.35
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "evergrey/1541154456-106",
+ "band": "evergrey",
+ "title": "In the Absence of Sun",
+ "source": "itunes",
+ "album": "Escape of the Phoenix",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 2.066629176794979,
+  "tempo_var": 14.441824508363469,
+  "low_onset_rate": 7.099871204150491,
+  "lufs": -15.580170935552184,
+  "rms_dbfs": -15.427531846386145,
+  "crest": 15.427266120910645,
+  "centroid": 1659.8865201874494,
+  "flatness": 0.010305381380021572,
+  "sub100_share": 0.0024511143565177917,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.9142075181007385,
+  "clean_share": 0.8190255220417634,
+  "minor_share": 0.045075621498830376,
+  "chord_rate": 1.266643689003374,
+  "repetitiveness": 0.7502568960189819,
+  "vocal_share": 0.6194128394126892,
+  "vocal_voiced": 0.9058704453441295,
+  "song_length": 367.427
+ }
+}

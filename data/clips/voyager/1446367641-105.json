@@ -1,0 +1,32 @@
+{
+ "id": "voyager/1446367641-105",
+ "band": "voyager",
+ "title": "Close Your Eyes",
+ "source": "itunes",
+ "album": "I Am the Revolution",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 2.8066357949861804,
+  "tempo_var": 18.107962125002686,
+  "low_onset_rate": 3.809005721766959,
+  "lufs": -11.243964561211913,
+  "rms_dbfs": -10.059438318855495,
+  "crest": 10.059438705444336,
+  "centroid": 1991.3840117157943,
+  "flatness": 0.015545567497611046,
+  "sub100_share": 0.4421645402908325,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7851311564445496,
+  "clean_share": 0.25446082234290146,
+  "minor_share": 0.03425521852244018,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.7749472260475159,
+  "vocal_share": 6.885920811328106e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 362.413
+ }
+}

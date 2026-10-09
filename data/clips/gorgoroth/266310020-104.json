@@ -1,0 +1,32 @@
+{
+ "id": "gorgoroth/266310020-104",
+ "band": "gorgoroth",
+ "title": "Drommer Om Dod",
+ "source": "itunes",
+ "album": "Pentagram",
+ "year": 1994,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 1.169431581244242,
+  "tempo_var": 7.015264746171933,
+  "low_onset_rate": 7.8184854288900745,
+  "lufs": -7.6624650033961075,
+  "rms_dbfs": -7.514827776897826,
+  "crest": 7.514827728271484,
+  "centroid": 2357.092407117333,
+  "flatness": 0.02273731492459774,
+  "sub100_share": 0.24961555004119873,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7969631552696228,
+  "clean_share": 0.013964313421256789,
+  "minor_share": -0.00047525877514292825,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.9338234066963196,
+  "vocal_share": 0.027418075129389763,
+  "vocal_voiced": 0.0,
+  "song_length": 225.173
+ }
+}

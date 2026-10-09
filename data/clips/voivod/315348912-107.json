@@ -1,0 +1,32 @@
+{
+ "id": "voivod/315348912-107",
+ "band": "voivod",
+ "title": "Treasure Chase",
+ "source": "itunes",
+ "album": "Infini",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 2.8066357949861804,
+  "tempo_var": 18.98563303423272,
+  "low_onset_rate": 5.045261964796587,
+  "lufs": -7.828689043072715,
+  "rms_dbfs": -7.182395164811872,
+  "crest": 7.182394981384277,
+  "centroid": 2498.3848001715523,
+  "flatness": 0.025125592947006226,
+  "sub100_share": 0.38703322410583496,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7687069177627563,
+  "clean_share": 0.026377036462373934,
+  "minor_share": 0.14834638693284125,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.9025999903678894,
+  "vocal_share": 0.11248209327459335,
+  "vocal_voiced": 0.38638858397365533,
+  "song_length": 217.76
+ }
+}

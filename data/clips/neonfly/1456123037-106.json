@@ -1,0 +1,32 @@
+{
+ "id": "neonfly/1456123037-106",
+ "band": "neonfly",
+ "title": "Aztec Gold",
+ "source": "itunes",
+ "album": "Strangers in Paradise",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 6.11445655336275,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.181281215148136,
+  "lufs": -8.847692669249328,
+  "rms_dbfs": -7.339851040558276,
+  "crest": 7.339851379394531,
+  "centroid": 1786.9615532769483,
+  "flatness": 0.010016128420829773,
+  "sub100_share": 0.5307111740112305,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8856099843978882,
+  "clean_share": 0.5190069821567106,
+  "minor_share": -0.00937316499558194,
+  "chord_rate": 2.405687824273869,
+  "repetitiveness": 0.9617259502410889,
+  "vocal_share": 3.8772481047999463e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 186.147
+ }
+}

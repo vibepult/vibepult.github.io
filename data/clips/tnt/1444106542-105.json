@@ -1,0 +1,32 @@
+{
+ "id": "tnt/1444106542-105",
+ "band": "tnt",
+ "title": "Child's Play",
+ "source": "itunes",
+ "album": "Tell No Tales",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 1.236256243029627,
+  "tempo_var": 19.34296532216522,
+  "low_onset_rate": 2.405687824273869,
+  "lufs": -18.647321068926388,
+  "rms_dbfs": -19.48981952864247,
+  "crest": 17.923778533935547,
+  "centroid": 2563.533593292138,
+  "flatness": 0.017806660383939743,
+  "sub100_share": 0.1422928124666214,
+  "lowest_pitch": 156.11572265625,
+  "harmonic_share": 0.8375473022460938,
+  "clean_share": 0.2769588828549263,
+  "minor_share": -0.1471836823240411,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.5601232051849365,
+  "vocal_share": 0.5937258005142212,
+  "vocal_voiced": 0.9198635976129582,
+  "song_length": 265.373
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "sleep/6792864184-102",
+ "band": "sleep",
+ "title": "The Morrisist",
+ "source": "itunes",
+ "album": "Hempispheres",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 2.999981859520124,
+  "tempo_var": 18.68673815984918,
+  "low_onset_rate": 2.8999824642027865,
+  "lufs": -12.520593305118503,
+  "rms_dbfs": -10.499020076601015,
+  "crest": 10.499019622802734,
+  "centroid": 1630.7760431312784,
+  "flatness": 0.014669363386929035,
+  "sub100_share": 0.6806614398956299,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.9107884168624878,
+  "clean_share": 0.6597061098221191,
+  "minor_share": 0.003297856511456032,
+  "chord_rate": 1.5333240615325077,
+  "repetitiveness": 0.791032612323761,
+  "vocal_share": 3.303596940895659e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 282.64
+ }
+}

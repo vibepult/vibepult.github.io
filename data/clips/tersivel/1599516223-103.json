@@ -1,0 +1,32 @@
+{
+ "id": "tersivel/1599516223-103",
+ "band": "tersivel",
+ "title": "Moving On",
+ "source": "itunes",
+ "album": "To the Orphic Void",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 3.107346773020414,
+  "tempo_var": 16.286752733326725,
+  "low_onset_rate": 3.94265504533773,
+  "lufs": -10.632707454263166,
+  "rms_dbfs": -9.65865223539153,
+  "crest": 9.658652305603027,
+  "centroid": 2397.4124001236946,
+  "flatness": 0.023014625534415245,
+  "sub100_share": 0.33276623487472534,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8155450820922852,
+  "clean_share": 0.23506594259115593,
+  "minor_share": -0.02099928232158177,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.8622515201568604,
+  "vocal_share": 5.897159667256346e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 423.873
+ }
+}

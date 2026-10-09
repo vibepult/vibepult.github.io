@@ -1,0 +1,127 @@
+{
+ "slug": "kataklysm",
+ "name": "Kataklysm",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 15951546,
+  "deezer": 5599,
+  "spotify": "7kozeGeawfP7IEEL6dddrM"
+ },
+ "metadata": {
+  "formed": 1991,
+  "split": null,
+  "country": "CA",
+  "status": "active",
+  "members": 4,
+  "past_members": 9,
+  "full_lengths": 15,
+  "genre": "Death Metal (early); Melodic Death/Groove Metal (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 40405,
+  "themes": "Mysticism, Abstract, History, War, Materialism, Retaliation, Self-realization",
+  "release_year": 2007
+ },
+ "partial": false,
+ "clips": [
+  "kataklysm/1799363563-106",
+  "kataklysm/1460472779-105",
+  "kataklysm/1456946831-105",
+  "kataklysm/1456969058-105",
+  "kataklysm/1460466515-106",
+  "kataklysm/1458641009-106",
+  "kataklysm/1458735446-105",
+  "kataklysm/1458860416-105",
+  "kataklysm/1518990875-105",
+  "kataklysm/1683434933-105",
+  "kataklysm/1799363563-107",
+  "kataklysm/1460472779-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.90049098320159,
+   "iqr": 28.533673614625513
+  },
+  "onset_rate": {
+   "median": 1.3531994011540514,
+   "iqr": 1.4230377053845729
+  },
+  "tempo_var": {
+   "median": 7.619595129485667,
+   "iqr": 8.539340881991734
+  },
+  "low_onset_rate": {
+   "median": 0.7350712796392378,
+   "iqr": 3.1972957466732352
+  },
+  "lufs": {
+   "median": -8.322284107885404,
+   "iqr": 1.4810225602468332
+  },
+  "rms_dbfs": {
+   "median": -8.058342367554326,
+   "iqr": 1.8320218112765678
+  },
+  "crest": {
+   "median": 8.058341979980469,
+   "iqr": 1.8320211172103882
+  },
+  "centroid": {
+   "median": 2883.364529009475,
+   "iqr": 396.3725936531341
+  },
+  "flatness": {
+   "median": 0.04852812737226486,
+   "iqr": 0.012941742315888405
+  },
+  "sub100_share": {
+   "median": 0.4062308371067047,
+   "iqr": 0.18018534034490585
+  },
+  "lowest_pitch": {
+   "median": 45.758056640625,
+   "iqr": 8.74786376953125
+  },
+  "harmonic_share": {
+   "median": 0.7670219838619232,
+   "iqr": 0.08960632979869843
+  },
+  "clean_share": {
+   "median": 0.004260568708313018,
+   "iqr": 0.01474190860016668
+  },
+  "minor_share": {
+   "median": 0.026542953547288195,
+   "iqr": 0.1769944303543861
+  },
+  "chord_rate": {
+   "median": 1.749995464880031,
+   "iqr": 1.1702077031039548
+  },
+  "repetitiveness": {
+   "median": 0.9286338686943054,
+   "iqr": 0.058571115136146545
+  },
+  "vocal_share": {
+   "median": 0.057425329461693764,
+   "iqr": 0.03367644175887108
+  },
+  "vocal_voiced": {
+   "median": 0.1505084734029297,
+   "iqr": 0.1807464090628739
+  },
+  "song_length": {
+   "median": 237.74450000000002,
+   "iqr": 60.623249999999985
+  },
+  "vocal_presence": {
+   "median": 0.5,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

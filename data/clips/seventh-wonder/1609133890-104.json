@@ -1,0 +1,32 @@
+{
+ "id": "seventh-wonder/1609133890-104",
+ "band": "seventh-wonder",
+ "title": "Reflections",
+ "source": "itunes",
+ "album": "The Testament",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.6753563981961888,
+  "tempo_var": 18.300201475134912,
+  "low_onset_rate": 4.610901663191583,
+  "lufs": -11.893863498250086,
+  "rms_dbfs": -12.63912032465463,
+  "crest": 12.639121055603027,
+  "centroid": 1964.341212411539,
+  "flatness": 0.0170244462788105,
+  "sub100_share": 0.3571048676967621,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7285284399986267,
+  "clean_share": 0.38712179984484096,
+  "minor_share": 0.040149771682615576,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.8301524519920349,
+  "vocal_share": 1.0480197261131252e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 335.893
+ }
+}

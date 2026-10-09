@@ -1,0 +1,32 @@
+{
+ "id": "tarot/1513375516-105",
+ "band": "tarot",
+ "title": "Before the Skies Come Down",
+ "source": "itunes",
+ "album": "Crows Fly Black",
+ "year": 2006,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.4080577510546477,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.911612641225816,
+  "lufs": -9.23492008000183,
+  "rms_dbfs": -8.164788703350839,
+  "crest": 8.164788246154785,
+  "centroid": 2210.4580581995056,
+  "flatness": 0.017176927998661995,
+  "sub100_share": 0.378949373960495,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8590124845504761,
+  "clean_share": 0.2885958107059736,
+  "minor_share": 0.06775741830019555,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.8967795968055725,
+  "vocal_share": 0.12392623722553253,
+  "vocal_voiced": 0.8489208633093526,
+  "song_length": 246.32
+ }
+}

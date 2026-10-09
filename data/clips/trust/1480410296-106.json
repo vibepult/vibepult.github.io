@@ -1,0 +1,32 @@
+{
+ "id": "trust/1480410296-106",
+ "band": "trust",
+ "title": "Tendances",
+ "source": "itunes",
+ "album": "Fils de lutte",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 1.7374412064200164,
+  "tempo_var": 13.279224809211078,
+  "low_onset_rate": 3.7755933908742665,
+  "lufs": -9.983809208317458,
+  "rms_dbfs": -8.891781071006314,
+  "crest": 8.891780853271484,
+  "centroid": 2834.119555071928,
+  "flatness": 0.02420743927359581,
+  "sub100_share": 0.4946150481700897,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.8240002989768982,
+  "clean_share": 0.09387121799844841,
+  "minor_share": -0.29695755492898757,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.6227558851242065,
+  "vocal_share": 0.16247761249542236,
+  "vocal_voiced": 0.8991130820399114,
+  "song_length": 286.293
+ }
+}

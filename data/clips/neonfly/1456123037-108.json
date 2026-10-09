@@ -1,0 +1,32 @@
+{
+ "id": "neonfly/1456123037-108",
+ "band": "neonfly",
+ "title": "Sons of Liberty",
+ "source": "itunes",
+ "album": "Strangers in Paradise",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.8734604567715656,
+  "tempo_var": 11.737083234069212,
+  "low_onset_rate": 2.67298647141541,
+  "lufs": -8.898632156322789,
+  "rms_dbfs": -8.41645535925021,
+  "crest": 8.416455268859863,
+  "centroid": 2822.047844578955,
+  "flatness": 0.05000712350010872,
+  "sub100_share": 0.34483572840690613,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6967012286186218,
+  "clean_share": 0.008533747090768037,
+  "minor_share": 0.028929354748971847,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.8554162979125977,
+  "vocal_share": 0.0010552247986197472,
+  "vocal_voiced": 0.8571428571428571,
+  "song_length": 247.933
+ }
+}

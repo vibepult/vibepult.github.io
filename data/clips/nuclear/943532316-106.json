@@ -1,0 +1,32 @@
+{
+ "id": "nuclear/943532316-106",
+ "band": "nuclear",
+ "title": "Dolo",
+ "source": "itunes",
+ "album": "Heaven Denied",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 5.379385273723512,
+  "tempo_var": 11.57917273952001,
+  "low_onset_rate": 6.582229185860447,
+  "lufs": -7.728767609415038,
+  "rms_dbfs": -7.596344165673557,
+  "crest": 7.596344470977783,
+  "centroid": 2755.2897309859045,
+  "flatness": 0.03274136781692505,
+  "sub100_share": 0.31331098079681396,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.794830858707428,
+  "clean_share": 0.038789759503491075,
+  "minor_share": -0.06930309334675355,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.9246534109115601,
+  "vocal_share": 7.258657888087328e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 234.027
+ }
+}

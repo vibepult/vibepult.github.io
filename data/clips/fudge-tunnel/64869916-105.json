@@ -1,0 +1,32 @@
+{
+ "id": "fudge-tunnel/64869916-105",
+ "band": "fudge-tunnel",
+ "title": "Grit",
+ "source": "itunes",
+ "album": "Creep Diets",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.878200310333123,
+  "tempo_var": 23.59289257078109,
+  "low_onset_rate": 5.145498957474664,
+  "lufs": -9.265979227336711,
+  "rms_dbfs": -9.788317633822038,
+  "crest": 9.788317680358887,
+  "centroid": 2855.731043764064,
+  "flatness": 0.0493399053812027,
+  "sub100_share": 0.15348957479000092,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.6277524828910828,
+  "clean_share": 0.0,
+  "minor_share": 0.12227183920257578,
+  "chord_rate": 2.138389177132328,
+  "repetitiveness": 0.912143349647522,
+  "vocal_share": 0.05877207964658737,
+  "vocal_voiced": 0.14367816091954022,
+  "song_length": 204.68
+ }
+}

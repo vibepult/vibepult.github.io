@@ -1,0 +1,127 @@
+{
+ "slug": "krypteria",
+ "name": "Krypteria",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 45911654,
+  "deezer": 16177,
+  "spotify": "4MN5X8pr84Fliz62NlXhym"
+ },
+ "metadata": {
+  "formed": 2001,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 4,
+  "past_members": 0,
+  "full_lengths": 5,
+  "genre": "Symphonic/Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 12233,
+  "themes": "Inner struggles, Sadness, Anger",
+  "release_year": 2008
+ },
+ "partial": false,
+ "clips": [
+  "krypteria/1802579409-107",
+  "krypteria/1802580022-106",
+  "krypteria/327048907-106",
+  "krypteria/1791761121-108",
+  "krypteria/1802579409-106",
+  "krypteria/1802580022-107",
+  "krypteria/327048907-105",
+  "krypteria/1791761121-107",
+  "krypteria/1802579409-108",
+  "krypteria/1802580022-105",
+  "krypteria/327048907-107",
+  "krypteria/1791761121-109"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.52302631578948,
+   "iqr": 33.18858370885579
+  },
+  "onset_rate": {
+   "median": 4.016396954898586,
+   "iqr": 0.8165421163984998
+  },
+  "tempo_var": {
+   "median": 7.253463395675288,
+   "iqr": 13.884229894979942
+  },
+  "low_onset_rate": {
+   "median": 4.183049110726928,
+   "iqr": 1.849972033680519
+  },
+  "lufs": {
+   "median": -8.437405906778855,
+   "iqr": 2.4956530715987597
+  },
+  "rms_dbfs": {
+   "median": -8.24307916010882,
+   "iqr": 1.8677511020534014
+  },
+  "crest": {
+   "median": 8.24307918548584,
+   "iqr": 1.8677512407302856
+  },
+  "centroid": {
+   "median": 2442.8946030650504,
+   "iqr": 257.29831237046983
+  },
+  "flatness": {
+   "median": 0.030373078770935535,
+   "iqr": 0.013663168530911207
+  },
+  "sub100_share": {
+   "median": 0.2719457447528839,
+   "iqr": 0.15507907792925835
+  },
+  "lowest_pitch": {
+   "median": 49.7955322265625,
+   "iqr": 46.43096923828125
+  },
+  "harmonic_share": {
+   "median": 0.7064183354377747,
+   "iqr": 0.0937989354133606
+  },
+  "clean_share": {
+   "median": 0.03132250580046404,
+   "iqr": 0.07753286929621038
+  },
+  "minor_share": {
+   "median": 0.13101194129964489,
+   "iqr": 0.14280926527046883
+  },
+  "chord_rate": {
+   "median": 1.299980347991716,
+   "iqr": 0.31666873183905553
+  },
+  "repetitiveness": {
+   "median": 0.8214441537857056,
+   "iqr": 0.05740579962730408
+  },
+  "vocal_share": {
+   "median": 0.26216503977775574,
+   "iqr": 0.08167056366801262
+  },
+  "vocal_voiced": {
+   "median": 0.8031035175192368,
+   "iqr": 0.20802452493738555
+  },
+  "song_length": {
+   "median": 268.66,
+   "iqr": 37.573500000000024
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

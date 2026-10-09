@@ -1,0 +1,32 @@
+{
+ "id": "seigmen/1750077459-105",
+ "band": "seigmen",
+ "title": "Til Verdens Ende",
+ "source": "itunes",
+ "album": "Enola",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.1666036794606285,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.399933485510424,
+  "lufs": -12.217784799697663,
+  "rms_dbfs": -10.407258474494732,
+  "crest": 10.407258033752441,
+  "centroid": 1869.6860442319853,
+  "flatness": 0.007877758704125881,
+  "sub100_share": 0.6509988903999329,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8710711002349854,
+  "clean_share": 0.5622583139984532,
+  "minor_share": 0.17101264176141628,
+  "chord_rate": 0.8666535653278107,
+  "repetitiveness": 0.8021820187568665,
+  "vocal_share": 0.08837780356407166,
+  "vocal_voiced": 0.7662463627546072,
+  "song_length": 283.36
+ }
+}

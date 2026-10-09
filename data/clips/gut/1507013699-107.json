@@ -1,0 +1,32 @@
+{
+ "id": "gut/1507013699-107",
+ "band": "gut",
+ "title": "The Well of Ghouls",
+ "source": "itunes",
+ "album": "Disciples of Smut",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 6.081044222470058,
+  "tempo_var": 22.699142831579767,
+  "low_onset_rate": 8.319670392280464,
+  "lufs": -7.640046282479308,
+  "rms_dbfs": -7.054315389852524,
+  "crest": 7.054315567016602,
+  "centroid": 2630.102027013363,
+  "flatness": 0.048445671796798706,
+  "sub100_share": 0.3865596652030945,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.6595298051834106,
+  "clean_share": 0.0,
+  "minor_share": -8.135682311605219e-05,
+  "chord_rate": 2.8066357949861804,
+  "repetitiveness": 0.9470195174217224,
+  "vocal_share": 0.1442064791917801,
+  "vocal_voiced": 0.07907425265188042,
+  "song_length": 204.107
+ }
+}

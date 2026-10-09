@@ -1,0 +1,32 @@
+{
+ "id": "riverside/1536003559-105",
+ "band": "riverside",
+ "title": "Loose Heart",
+ "source": "itunes",
+ "album": "Out Of Myself",
+ "year": 2003,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 75.99954044117646,
+  "onset_rate": 4.343603016050041,
+  "tempo_var": 23.598661804653425,
+  "low_onset_rate": 3.94265504533773,
+  "lufs": -9.603780207070368,
+  "rms_dbfs": -8.377332277768193,
+  "crest": 8.377331733703613,
+  "centroid": 2144.7071220692687,
+  "flatness": 0.012339555658400059,
+  "sub100_share": 0.4662482738494873,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8800673484802246,
+  "clean_share": 0.39100077579519005,
+  "minor_share": 0.055559610572626816,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.6931912899017334,
+  "vocal_share": 0.19547004997730255,
+  "vocal_voiced": 0.945,
+  "song_length": 290.52
+ }
+}

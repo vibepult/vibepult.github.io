@@ -1,0 +1,32 @@
+{
+ "id": "burzum/513990988-106",
+ "band": "burzum",
+ "title": "Heidr",
+ "source": "itunes",
+ "album": "Umskiptar",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.0071097803423363,
+  "tempo_var": 11.51392196905994,
+  "low_onset_rate": 8.987917010134316,
+  "lufs": -6.542035282299074,
+  "rms_dbfs": -6.238447373683983,
+  "crest": 6.238447189331055,
+  "centroid": 1900.935407045892,
+  "flatness": 0.019390789791941643,
+  "sub100_share": 0.06640120595693588,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8297688364982605,
+  "clean_share": 0.3762606671838635,
+  "minor_share": -0.028898923897448414,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.8137874603271484,
+  "vocal_share": 0.0911720022559166,
+  "vocal_voiced": 0.48618219037871035,
+  "song_length": 177.48
+ }
+}

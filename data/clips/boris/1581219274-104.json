@@ -1,0 +1,32 @@
+{
+ "id": "boris/1581219274-104",
+ "band": "boris",
+ "title": "Jackson Head",
+ "source": "itunes",
+ "album": "Heavy Rocks (2011)",
+ "year": 2002,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.677726324976968,
+  "tempo_var": 24.49109170637327,
+  "low_onset_rate": 6.415167531396984,
+  "lufs": -8.09981361459513,
+  "rms_dbfs": -6.605857282787716,
+  "crest": 6.605856895446777,
+  "centroid": 2343.9714866774875,
+  "flatness": 0.02302531525492668,
+  "sub100_share": 0.5354534387588501,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.8184604644775391,
+  "clean_share": 0.1264546159813809,
+  "minor_share": 0.11282051175494145,
+  "chord_rate": 0.267298647141541,
+  "repetitiveness": 0.9317497611045837,
+  "vocal_share": 0.09429757297039032,
+  "vocal_voiced": 0.8008998875140607,
+  "song_length": 180.493
+ }
+}

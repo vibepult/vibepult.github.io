@@ -1,0 +1,127 @@
+{
+ "slug": "fudge-tunnel",
+ "name": "Fudge Tunnel",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 43974618,
+  "deezer": 2913501,
+  "spotify": "0LCMzkcs3bdMj1Vgw9Cg1N"
+ },
+ "metadata": {
+  "formed": 1988,
+  "split": 1995,
+  "country": "GB",
+  "status": "split-up",
+  "members": 3,
+  "past_members": 0,
+  "full_lengths": 3,
+  "genre": "Sludge/Groove Metal with Alternative/Noise Rock influences",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 1292,
+  "themes": "Humour, Politics",
+  "release_year": 1993
+ },
+ "partial": false,
+ "clips": [
+  "fudge-tunnel/310687547-106",
+  "fudge-tunnel/64869916-106",
+  "fudge-tunnel/63892540-106",
+  "fudge-tunnel/310687547-105",
+  "fudge-tunnel/64869916-107",
+  "fudge-tunnel/63892540-107",
+  "fudge-tunnel/310687547-107",
+  "fudge-tunnel/64869916-105",
+  "fudge-tunnel/63892540-105",
+  "fudge-tunnel/310687547-104",
+  "fudge-tunnel/64869916-109",
+  "fudge-tunnel/63892540-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 19.722344509796912
+  },
+  "onset_rate": {
+   "median": 3.4915885782863794,
+   "iqr": 1.3197870702613583
+  },
+  "tempo_var": {
+   "median": 10.401403251551201,
+   "iqr": 17.326109640458938
+  },
+  "low_onset_rate": {
+   "median": 5.362679108277167,
+   "iqr": 1.829325116374922
+  },
+  "lufs": {
+   "median": -14.122546099792423,
+   "iqr": 6.133009486113483
+  },
+  "rms_dbfs": {
+   "median": -13.49874255683693,
+   "iqr": 6.122790583389758
+  },
+  "crest": {
+   "median": 13.498742580413818,
+   "iqr": 4.891191005706787
+  },
+  "centroid": {
+   "median": 2823.82349336636,
+   "iqr": 886.1909414284528
+  },
+  "flatness": {
+   "median": 0.046115390956401825,
+   "iqr": 0.034304422326385975
+  },
+  "sub100_share": {
+   "median": 0.19620126485824585,
+   "iqr": 0.052614644169807434
+  },
+  "lowest_pitch": {
+   "median": 76.7120361328125,
+   "iqr": 14.13116455078125
+  },
+  "harmonic_share": {
+   "median": 0.7073553204536438,
+   "iqr": 0.11569611728191376
+  },
+  "clean_share": {
+   "median": 0.02017067494181536,
+   "iqr": 0.20694336695112492
+  },
+  "minor_share": {
+   "median": 0.05569485844879424,
+   "iqr": 0.2020235671459273
+  },
+  "chord_rate": {
+   "median": 2.188507673471367,
+   "iqr": 0.8937798513795279
+  },
+  "repetitiveness": {
+   "median": 0.82123664021492,
+   "iqr": 0.10080017149448395
+  },
+  "vocal_share": {
+   "median": 0.046747803688049316,
+   "iqr": 0.013685386627912521
+  },
+  "vocal_voiced": {
+   "median": 0.5020242914979757,
+   "iqr": 0.26774357369911417
+  },
+  "song_length": {
+   "median": 233.45299999999997,
+   "iqr": 90.59
+  },
+  "vocal_presence": {
+   "median": 0.5833333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

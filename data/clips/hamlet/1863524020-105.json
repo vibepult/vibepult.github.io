@@ -1,0 +1,32 @@
+{
+ "id": "hamlet/1863524020-105",
+ "band": "hamlet",
+ "title": "En El Nombre De Dios",
+ "source": "itunes",
+ "album": "La Puta Y El Diablo",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.0333089444659445,
+  "tempo_var": 26.30733653400657,
+  "low_onset_rate": 4.199974603328173,
+  "lufs": -8.643463720278998,
+  "rms_dbfs": -7.929329092628866,
+  "crest": 7.929328918457031,
+  "centroid": 2226.241446698923,
+  "flatness": 0.028868377208709717,
+  "sub100_share": 0.2534399926662445,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7096368074417114,
+  "clean_share": 0.11446249033255994,
+  "minor_share": 0.040143298316147324,
+  "chord_rate": 2.933315595975232,
+  "repetitiveness": 0.8942338824272156,
+  "vocal_share": 5.50890604245069e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 358.56
+ }
+}

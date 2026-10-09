@@ -1,0 +1,32 @@
+{
+ "id": "benighted/597203213-107",
+ "band": "benighted",
+ "title": "The Cold Remains",
+ "source": "itunes",
+ "album": "Asylum Cave",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 5.34597294283082,
+  "tempo_var": 12.117469749575328,
+  "low_onset_rate": 7.985547083353538,
+  "lufs": -7.569448314694231,
+  "rms_dbfs": -7.100021425924698,
+  "crest": 7.1000213623046875,
+  "centroid": 2575.393019609644,
+  "flatness": 0.03911493346095085,
+  "sub100_share": 0.3966823220252991,
+  "lowest_pitch": 29.608154296875,
+  "harmonic_share": 0.6884774565696716,
+  "clean_share": 0.0,
+  "minor_share": 0.24194653744328976,
+  "chord_rate": 1.4367302283857828,
+  "repetitiveness": 0.8618038892745972,
+  "vocal_share": 0.1921825110912323,
+  "vocal_voiced": 0.20372526193247964,
+  "song_length": 240.84
+ }
+}

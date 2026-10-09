@@ -1,0 +1,127 @@
+{
+ "slug": "brutal-truth",
+ "name": "Brutal Truth",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 42405824,
+  "deezer": 6457,
+  "spotify": "4TvgUScBiJZP1P9V1tmMPi"
+ },
+ "metadata": {
+  "formed": 1990,
+  "split": 2014,
+  "country": "US",
+  "status": "split-up",
+  "members": 4,
+  "past_members": 4,
+  "full_lengths": 5,
+  "genre": "Grindcore/Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 13193,
+  "themes": "Social issues, Environment, Politics, Drugs, Anti-homophobia",
+  "release_year": 1995
+ },
+ "partial": false,
+ "clips": [
+  "brutal-truth/61586058-108",
+  "brutal-truth/42406387-107",
+  "brutal-truth/6785652766-113",
+  "brutal-truth/308353322-115",
+  "brutal-truth/452333523-115",
+  "brutal-truth/61586058-110",
+  "brutal-truth/42406387-108",
+  "brutal-truth/6785652766-112",
+  "brutal-truth/308353322-112",
+  "brutal-truth/452333523-113",
+  "brutal-truth/61586058-106",
+  "brutal-truth/42406387-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 29.303668958569006
+  },
+  "onset_rate": {
+   "median": 5.095380461135626,
+   "iqr": 2.0679306276164153
+  },
+  "tempo_var": {
+   "median": 10.88536041209475,
+   "iqr": 10.011267947020015
+  },
+  "low_onset_rate": {
+   "median": 7.050001818358144,
+   "iqr": 0.7805684187557587
+  },
+  "lufs": {
+   "median": -9.951138465811248,
+   "iqr": 5.7701941620703465
+  },
+  "rms_dbfs": {
+   "median": -9.428428959492308,
+   "iqr": 4.0871581607836625
+  },
+  "crest": {
+   "median": 9.428428649902344,
+   "iqr": 4.08695924282074
+  },
+  "centroid": {
+   "median": 2696.212683892661,
+   "iqr": 677.6310408421623
+  },
+  "flatness": {
+   "median": 0.03542478196322918,
+   "iqr": 0.0268007623963058
+  },
+  "sub100_share": {
+   "median": 0.2405639812350273,
+   "iqr": 0.09766511619091034
+  },
+  "lowest_pitch": {
+   "median": 48.44970703125,
+   "iqr": 39.70184326171875
+  },
+  "harmonic_share": {
+   "median": 0.7595893442630768,
+   "iqr": 0.06945328414440155
+  },
+  "clean_share": {
+   "median": 0.024437548487199378,
+   "iqr": 0.1578743211792087
+  },
+  "minor_share": {
+   "median": -0.01580637390222278,
+   "iqr": 0.15494648375586528
+  },
+  "chord_rate": {
+   "median": 2.4892186515056007,
+   "iqr": 0.8895929807334855
+  },
+  "repetitiveness": {
+   "median": 0.9442345201969147,
+   "iqr": 0.13037048280239105
+  },
+  "vocal_share": {
+   "median": 0.11209089308977127,
+   "iqr": 0.0441566314548254
+  },
+  "vocal_voiced": {
+   "median": 0.19387213809865964,
+   "iqr": 0.15440988434396868
+  },
+  "song_length": {
+   "median": 182.96,
+   "iqr": 99.96974999999998
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

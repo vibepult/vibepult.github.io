@@ -1,0 +1,32 @@
+{
+ "id": "the-gathering/1045517045-106",
+ "band": "the-gathering",
+ "title": "Beautiful War",
+ "source": "itunes",
+ "album": "If_Then_Else",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 57.421875,
+  "onset_rate": 2.231919615542083,
+  "tempo_var": 30.75760078543411,
+  "low_onset_rate": 5.26333282471118,
+  "lufs": -13.459675311592486,
+  "rms_dbfs": -12.806240529731337,
+  "crest": 12.80624008178711,
+  "centroid": 2064.061265077348,
+  "flatness": 0.01721443049609661,
+  "sub100_share": 0.18255123496055603,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.879365861415863,
+  "clean_share": 0.2529002320185615,
+  "minor_share": -0.2714072039522717,
+  "chord_rate": 0.4996834960168842,
+  "repetitiveness": 0.7878655195236206,
+  "vocal_share": 8.007289693523489e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 152.533
+ }
+}

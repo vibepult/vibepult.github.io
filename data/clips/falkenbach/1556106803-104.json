@@ -1,0 +1,32 @@
+{
+ "id": "falkenbach/1556106803-104",
+ "band": "falkenbach",
+ "title": "Roman Land",
+ "source": "itunes",
+ "album": "Heralding - The Fireblade",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.744550986762353,
+  "tempo_var": 1.2857787295100767,
+  "low_onset_rate": 7.050001818358144,
+  "lufs": -7.924735840528702,
+  "rms_dbfs": -7.727063426481168,
+  "crest": 7.727063179016113,
+  "centroid": 2356.534319295235,
+  "flatness": 0.029940910637378693,
+  "sub100_share": 0.3205041289329529,
+  "lowest_pitch": 24.224853515625,
+  "harmonic_share": 0.6944801807403564,
+  "clean_share": 0.012412723041117145,
+  "minor_share": -0.0012097618653558184,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.7996566295623779,
+  "vocal_share": 0.11218906939029694,
+  "vocal_voiced": 0.22503725782414308,
+  "song_length": 258.533
+ }
+}

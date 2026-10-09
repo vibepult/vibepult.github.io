@@ -1,0 +1,32 @@
+{
+ "id": "armored-saint/356174240-105",
+ "band": "armored-saint",
+ "title": "Chilled",
+ "source": "itunes",
+ "album": "La Raza",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.9760673762304224,
+  "tempo_var": 3.977246539830259,
+  "low_onset_rate": 4.71113865586966,
+  "lufs": -10.63452942537397,
+  "rms_dbfs": -10.365523449300662,
+  "crest": 10.365523338317871,
+  "centroid": 2890.5919070400637,
+  "flatness": 0.036163825541734695,
+  "sub100_share": 0.13234539330005646,
+  "lowest_pitch": 102.28271484375,
+  "harmonic_share": 0.7420496940612793,
+  "clean_share": 0.0395655546935609,
+  "minor_share": 0.23580516574232657,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.8323418498039246,
+  "vocal_share": 0.17726455628871918,
+  "vocal_voiced": 0.7385740402193784,
+  "song_length": 301.928
+ }
+}

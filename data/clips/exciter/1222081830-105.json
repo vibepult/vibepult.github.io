@@ -1,0 +1,32 @@
+{
+ "id": "exciter/1222081830-105",
+ "band": "exciter",
+ "title": "Demon's Gate",
+ "source": "itunes",
+ "album": "Thrash Speed Burn",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 2.7063988023081027,
+  "tempo_var": 23.632830884108746,
+  "low_onset_rate": 4.209953692479271,
+  "lufs": -9.622910311499117,
+  "rms_dbfs": -9.188175883090384,
+  "crest": 9.188176155090332,
+  "centroid": 2518.6607160318877,
+  "flatness": 0.02644096501171589,
+  "sub100_share": 0.45427465438842773,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8155457973480225,
+  "clean_share": 0.004654771140418929,
+  "minor_share": 0.04150508023023708,
+  "chord_rate": 2.205213838917713,
+  "repetitiveness": 0.9250741600990295,
+  "vocal_share": 0.044294875115156174,
+  "vocal_voiced": 0.4622093023255814,
+  "song_length": 225.744
+ }
+}

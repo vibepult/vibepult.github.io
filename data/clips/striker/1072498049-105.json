@@ -1,0 +1,32 @@
+{
+ "id": "striker/1072498049-105",
+ "band": "striker",
+ "title": "The Iron Never Lies",
+ "source": "itunes",
+ "album": "Stand in the Fire",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.078674295689279,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.744550986762353,
+  "lufs": -6.699028051020081,
+  "rms_dbfs": -6.778897027503403,
+  "crest": 6.778896331787109,
+  "centroid": 2525.668280797776,
+  "flatness": 0.03895123675465584,
+  "sub100_share": 0.20477910339832306,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.6918825507164001,
+  "clean_share": 0.0,
+  "minor_share": 0.059810339915724486,
+  "chord_rate": 2.1049768462396354,
+  "repetitiveness": 0.877106785774231,
+  "vocal_share": 0.27883443236351013,
+  "vocal_voiced": 0.7158774373259053,
+  "song_length": 246.913
+ }
+}

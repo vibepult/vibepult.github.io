@@ -1,0 +1,32 @@
+{
+ "id": "exodus/1004702047-105",
+ "band": "exodus",
+ "title": "Cajun Hell",
+ "source": "itunes",
+ "album": "Fabulous Disaster",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.911612641225816,
+  "tempo_var": 21.603612685824455,
+  "low_onset_rate": 5.847157906221209,
+  "lufs": -11.04175514644143,
+  "rms_dbfs": -11.11822241678443,
+  "crest": 11.1182222366333,
+  "centroid": 2693.083743607282,
+  "flatness": 0.03196670487523079,
+  "sub100_share": 0.2812562882900238,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7273493409156799,
+  "clean_share": 0.02017067494181536,
+  "minor_share": -0.1446160676620954,
+  "chord_rate": 2.5393371478446394,
+  "repetitiveness": 0.9660353660583496,
+  "vocal_share": 4.0011858800426126e-05,
+  "vocal_voiced": 0.0,
+  "song_length": 363.773
+ }
+}

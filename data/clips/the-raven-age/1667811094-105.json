@@ -1,0 +1,32 @@
+{
+ "id": "the-raven-age/1667811094-105",
+ "band": "the-raven-age",
+ "title": "Nostradamus",
+ "source": "itunes",
+ "album": "Blood Omen",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.744550986762353,
+  "tempo_var": 2.1242008703778033,
+  "low_onset_rate": 4.57748933229889,
+  "lufs": -10.008831520919346,
+  "rms_dbfs": -9.94218542380082,
+  "crest": 9.942185401916504,
+  "centroid": 2636.418606227924,
+  "flatness": 0.041845180094242096,
+  "sub100_share": 0.22085018455982208,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7388437986373901,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.36439638631521465,
+  "chord_rate": 1.336493235707705,
+  "repetitiveness": 0.8641788363456726,
+  "vocal_share": 0.2134835422039032,
+  "vocal_voiced": 0.41679748822605966,
+  "song_length": 248.899
+ }
+}

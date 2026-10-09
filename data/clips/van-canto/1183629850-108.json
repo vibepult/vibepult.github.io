@@ -1,0 +1,32 @@
+{
+ "id": "van-canto/1183629850-108",
+ "band": "van-canto",
+ "title": "The Other Ones",
+ "source": "itunes",
+ "album": "Dawn of the Brave",
+ "year": 2014,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.3666666666666667,
+  "tempo_var": 15.231849922208918,
+  "low_onset_rate": 5.7,
+  "lufs": -12.591143810708846,
+  "rms_dbfs": -11.724043722731532,
+  "crest": 11.724043846130371,
+  "centroid": 1993.7856324052852,
+  "flatness": 0.013107729144394398,
+  "sub100_share": 0.2204207330942154,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.8698243498802185,
+  "clean_share": 0.5456656346749226,
+  "minor_share": 0.18492627217446345,
+  "chord_rate": 1.5,
+  "repetitiveness": 0.5658503174781799,
+  "vocal_share": 0.4973151683807373,
+  "vocal_voiced": 0.7538699690402477,
+  "song_length": 258.566
+ }
+}

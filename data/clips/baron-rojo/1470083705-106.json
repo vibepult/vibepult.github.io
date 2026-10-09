@@ -1,0 +1,32 @@
+{
+ "id": "baron-rojo/1470083705-106",
+ "band": "baron-rojo",
+ "title": "No odas",
+ "source": "itunes",
+ "album": "Arma secreta",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.9092427144450372,
+  "tempo_var": 3.317754485296078,
+  "low_onset_rate": 5.479622266401591,
+  "lufs": -18.439189830763866,
+  "rms_dbfs": -17.839048117470497,
+  "crest": 15.055017471313477,
+  "centroid": 1571.4544424257842,
+  "flatness": 0.0025743129663169384,
+  "sub100_share": 0.08257957547903061,
+  "lowest_pitch": 94.207763671875,
+  "harmonic_share": 0.953546941280365,
+  "clean_share": 0.861132660977502,
+  "minor_share": -0.010266874382383606,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.6976898312568665,
+  "vocal_share": 7.052947808006138e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 150.827
+ }
+}

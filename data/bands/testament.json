@@ -1,0 +1,127 @@
+{
+ "slug": "testament",
+ "name": "Testament",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 157139,
+  "deezer": 13193,
+  "spotify": "28hJdGN1Awf7u3ifk2lVkg"
+ },
+ "metadata": {
+  "formed": 1987,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 15,
+  "full_lengths": 14,
+  "genre": "Thrash Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 277396,
+  "themes": "Society, Suffering, Evil, Occult, Religion, Death, Life, Corruption, Politics",
+  "release_year": 1995
+ },
+ "partial": false,
+ "clips": [
+  "testament/1692634839-105",
+  "testament/1692636671-105",
+  "testament/1756527067-105",
+  "testament/1834889470-106",
+  "testament/281708836-106",
+  "testament/300977018-105",
+  "testament/1458859297-105",
+  "testament/1460462833-106",
+  "testament/1458859240-111",
+  "testament/1456969324-107",
+  "testament/1458697405-105",
+  "testament/1493544060-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 103.359375,
+   "iqr": 17.412778924540135
+  },
+  "onset_rate": {
+   "median": 2.466489564160855,
+   "iqr": 1.9137865332695525
+  },
+  "tempo_var": {
+   "median": 12.910567611827103,
+   "iqr": 14.484209467535429
+  },
+  "low_onset_rate": {
+   "median": 4.438256470750719,
+   "iqr": 3.988234288166352
+  },
+  "lufs": {
+   "median": -11.971563574299067,
+   "iqr": 4.592336926616321
+  },
+  "rms_dbfs": {
+   "median": -11.916238171011866,
+   "iqr": 5.561224764084072
+  },
+  "crest": {
+   "median": 11.916237831115723,
+   "iqr": 5.561224699020386
+  },
+  "centroid": {
+   "median": 2611.972061886314,
+   "iqr": 347.6896738930827
+  },
+  "flatness": {
+   "median": 0.03806404396891594,
+   "iqr": 0.018370260018855333
+  },
+  "sub100_share": {
+   "median": 0.3128647804260254,
+   "iqr": 0.20754915103316307
+  },
+  "lowest_pitch": {
+   "median": 72.674560546875,
+   "iqr": 19.51446533203125
+  },
+  "harmonic_share": {
+   "median": 0.7560776770114899,
+   "iqr": 0.05883975327014923
+  },
+  "clean_share": {
+   "median": 0.018561484918793503,
+   "iqr": 0.13901778808971385
+  },
+  "minor_share": {
+   "median": -0.019245739956435,
+   "iqr": 0.18834986558791877
+  },
+  "chord_rate": {
+   "median": 2.3833189217298765,
+   "iqr": 0.38768013763622644
+  },
+  "repetitiveness": {
+   "median": 0.9168137311935425,
+   "iqr": 0.042241230607032776
+  },
+  "vocal_share": {
+   "median": 0.1251525580883026,
+   "iqr": 0.07723004929721355
+  },
+  "vocal_voiced": {
+   "median": 0.3846994535519126,
+   "iqr": 0.14926893599883123
+  },
+  "song_length": {
+   "median": 269.2335,
+   "iqr": 116.31675000000001
+  },
+  "vocal_presence": {
+   "median": 0.25,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

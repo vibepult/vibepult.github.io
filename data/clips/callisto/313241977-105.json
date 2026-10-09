@@ -1,0 +1,32 @@
+{
+ "id": "callisto/313241977-105",
+ "band": "callisto",
+ "title": "New Canaan",
+ "source": "itunes",
+ "album": "Providence",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 1.6706165446346313,
+  "tempo_var": 45.36750017329749,
+  "low_onset_rate": 3.3412330892692625,
+  "lufs": -13.891442333821212,
+  "rms_dbfs": -12.583514008934657,
+  "crest": 12.583513259887695,
+  "centroid": 1414.9180279371456,
+  "flatness": 0.003551643807440996,
+  "sub100_share": 0.44039034843444824,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8634408712387085,
+  "clean_share": 0.8588052754072925,
+  "minor_share": 0.2886262569807624,
+  "chord_rate": 0.5680096251757746,
+  "repetitiveness": 0.5497607588768005,
+  "vocal_share": 5.021612196287606e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 416.133
+ }
+}

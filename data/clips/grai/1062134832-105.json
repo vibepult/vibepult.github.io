@@ -1,0 +1,32 @@
+{
+ "id": "grai/1062134832-105",
+ "band": "grai",
+ "title": "Сенокос",
+ "source": "itunes",
+ "album": "Млада",
+ "year": 2014,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.513034597294284,
+  "tempo_var": 34.763370389243704,
+  "low_onset_rate": 6.348342869611598,
+  "lufs": -7.514034595597005,
+  "rms_dbfs": -6.991895339963495,
+  "crest": 6.99189567565918,
+  "centroid": 2431.631421361574,
+  "flatness": 0.023455558344721794,
+  "sub100_share": 0.4544987380504608,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8688814640045166,
+  "clean_share": 0.07680372381691233,
+  "minor_share": -0.28493545528080544,
+  "chord_rate": 1.971327522668865,
+  "repetitiveness": 0.8862888216972351,
+  "vocal_share": 4.6376570139727846e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 271.583
+ }
+}

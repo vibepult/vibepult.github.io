@@ -1,0 +1,32 @@
+{
+ "id": "falkenbach/1556110990-104",
+ "band": "falkenbach",
+ "title": "Ultima Thule",
+ "source": "itunes",
+ "album": "...En Their Medh Riki Fara...",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.178911288367357,
+  "tempo_var": 2.9363272790248147,
+  "low_onset_rate": 8.453319715851235,
+  "lufs": -11.178068596020987,
+  "rms_dbfs": -11.769698537762338,
+  "crest": 11.769699096679688,
+  "centroid": 2680.7694276136926,
+  "flatness": 0.05361061170697212,
+  "sub100_share": 0.09183068573474884,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.7370124459266663,
+  "clean_share": 0.0,
+  "minor_share": -0.04033861401574623,
+  "chord_rate": 0.5011849633903894,
+  "repetitiveness": 0.9441604614257812,
+  "vocal_share": 0.04038434103131294,
+  "vocal_voiced": 0.2936893203883495,
+  "song_length": 203.493
+ }
+}

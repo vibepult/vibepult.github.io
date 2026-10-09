@@ -1,0 +1,127 @@
+{
+ "slug": "pain",
+ "name": "Pain",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 374074145,
+  "deezer": 6488,
+  "spotify": "0hGpZy6ws8FofByMkt0CV1"
+ },
+ "metadata": {
+  "formed": 1996,
+  "split": null,
+  "country": "SE",
+  "status": "active",
+  "members": 1,
+  "past_members": 0,
+  "full_lengths": 9,
+  "genre": "Electronic Industrial Metal/Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 42512,
+  "themes": "Contempt, Drugs, Dejection, Death, Aliens, Society",
+  "release_year": 2003
+ },
+ "partial": false,
+ "clips": [
+  "pain/1693551790-105",
+  "pain/1693551718-105",
+  "pain/1693725721-106",
+  "pain/1693553208-106",
+  "pain/1693724631-106",
+  "pain/1460467980-107",
+  "pain/1458646439-105",
+  "pain/1729512915-106",
+  "pain/1693551790-106",
+  "pain/1693551718-106",
+  "pain/1693725721-105",
+  "pain/1693553208-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 22.578312800480774
+  },
+  "onset_rate": {
+   "median": 2.753230535156899,
+   "iqr": 1.7154880992573196
+  },
+  "tempo_var": {
+   "median": 7.511630491640982,
+   "iqr": 20.186294562364118
+  },
+  "low_onset_rate": {
+   "median": 2.4862486844963456,
+   "iqr": 1.645040077720643
+  },
+  "lufs": {
+   "median": -11.593327327134123,
+   "iqr": 3.361272424976148
+  },
+  "rms_dbfs": {
+   "median": -11.475679205085068,
+   "iqr": 2.4954573526405106
+  },
+  "crest": {
+   "median": 11.475679397583008,
+   "iqr": 2.495457887649536
+  },
+  "centroid": {
+   "median": 2563.7395600397413,
+   "iqr": 1178.7084419101066
+  },
+  "flatness": {
+   "median": 0.03367521986365318,
+   "iqr": 0.033875381108373404
+  },
+  "sub100_share": {
+   "median": 0.3116837441921234,
+   "iqr": 0.10020975768566132
+  },
+  "lowest_pitch": {
+   "median": 59.21630859375,
+   "iqr": 32.97271728515625
+  },
+  "harmonic_share": {
+   "median": 0.7624166011810303,
+   "iqr": 0.0473661869764328
+  },
+  "clean_share": {
+   "median": 0.11679827585068972,
+   "iqr": 0.5343046373112488
+  },
+  "minor_share": {
+   "median": 0.005879951511362447,
+   "iqr": 0.17163795404895502
+  },
+  "chord_rate": {
+   "median": 1.653910379188285,
+   "iqr": 0.8873275475422779
+  },
+  "repetitiveness": {
+   "median": 0.9056594669818878,
+   "iqr": 0.09902799129486084
+  },
+  "vocal_share": {
+   "median": 0.14624008908867836,
+   "iqr": 0.13825145736336708
+  },
+  "vocal_voiced": {
+   "median": 0.4625453526444647,
+   "iqr": 0.37852474853985696
+  },
+  "song_length": {
+   "median": 241.2465,
+   "iqr": 21.19999999999996
+  },
+  "vocal_presence": {
+   "median": 0.5,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

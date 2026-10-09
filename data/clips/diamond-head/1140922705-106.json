@@ -1,0 +1,32 @@
+{
+ "id": "diamond-head/1140922705-106",
+ "band": "diamond-head",
+ "title": "Tonight",
+ "source": "itunes",
+ "album": "What's In Your Head?",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.84478797944043,
+  "tempo_var": 19.58430612873615,
+  "low_onset_rate": 4.610901663191583,
+  "lufs": -11.922512388979547,
+  "rms_dbfs": -10.956711172637203,
+  "crest": 10.956711769104004,
+  "centroid": 2281.489368541462,
+  "flatness": 0.02178308367729187,
+  "sub100_share": 0.36536771059036255,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8378098011016846,
+  "clean_share": 0.2529092319627618,
+  "minor_share": 0.1777636731900013,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.6881391406059265,
+  "vocal_share": 0.1404566466808319,
+  "vocal_voiced": 0.8292367399741267,
+  "song_length": 208.347
+ }
+}

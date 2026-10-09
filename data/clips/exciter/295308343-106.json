@@ -1,0 +1,32 @@
+{
+ "id": "exciter/295308343-106",
+ "band": "exciter",
+ "title": "Enemy Lines",
+ "source": "itunes",
+ "album": "Exciter",
+ "year": 1988,
+ "itunes_year": 1988,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 2.7063988023081027,
+  "tempo_var": 3.9791784056834976,
+  "low_onset_rate": 4.84478797944043,
+  "lufs": -16.539450336520254,
+  "rms_dbfs": -16.1085076182056,
+  "crest": 16.108509063720703,
+  "centroid": 2729.8696123774057,
+  "flatness": 0.03705984354019165,
+  "sub100_share": 0.3320446014404297,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7457799911499023,
+  "clean_share": 0.016291698991466253,
+  "minor_share": 0.09984690812471719,
+  "chord_rate": 2.071564515346943,
+  "repetitiveness": 0.9414631128311157,
+  "vocal_share": 0.03532658517360687,
+  "vocal_voiced": 0.5882352941176471,
+  "song_length": 239.107
+ }
+}

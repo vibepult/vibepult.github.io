@@ -1,0 +1,32 @@
+{
+ "id": "candlemass/1460469890-105",
+ "band": "candlemass",
+ "title": "Demonia 6",
+ "source": "itunes",
+ "album": "King of the Grey Islands",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 0.9355452649953935,
+  "tempo_var": 5.113367259289878,
+  "low_onset_rate": 2.205213838917713,
+  "lufs": -7.820342922944282,
+  "rms_dbfs": -7.011140903741589,
+  "crest": 7.011141300201416,
+  "centroid": 2619.016886842523,
+  "flatness": 0.03069741651415825,
+  "sub100_share": 0.4474467933177948,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.785275399684906,
+  "clean_share": 0.038789759503491075,
+  "minor_share": -0.1483351732810927,
+  "chord_rate": 2.773223464093488,
+  "repetitiveness": 0.888641357421875,
+  "vocal_share": 0.07654264569282532,
+  "vocal_voiced": 0.6394736842105263,
+  "song_length": 384.862
+ }
+}

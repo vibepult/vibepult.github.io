@@ -1,0 +1,32 @@
+{
+ "id": "elis/1183986837-107",
+ "band": "elis",
+ "title": "Black Angel",
+ "source": "itunes",
+ "album": "Dark Clouds in a Perfect Sky",
+ "year": 2004,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.066666666666667,
+  "tempo_var": 4.367925044610943,
+  "low_onset_rate": 5.233333333333333,
+  "lufs": -7.120536902517432,
+  "rms_dbfs": -6.295048891940524,
+  "crest": 6.29504919052124,
+  "centroid": 2221.4692549320334,
+  "flatness": 0.01620635576546192,
+  "sub100_share": 0.39066770672798157,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.884105920791626,
+  "clean_share": 0.05263157894736842,
+  "minor_share": 0.10378627317101685,
+  "chord_rate": 1.6,
+  "repetitiveness": 0.6329295635223389,
+  "vocal_share": 0.27662426233291626,
+  "vocal_voiced": 0.8890756302521008,
+  "song_length": 262.293
+ }
+}

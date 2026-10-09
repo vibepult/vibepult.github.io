@@ -1,0 +1,32 @@
+{
+ "id": "loudness/336668979-105",
+ "band": "loudness",
+ "title": "Take Me Home",
+ "source": "itunes",
+ "album": "Hurricane Eyes",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 5.078674295689279,
+  "tempo_var": 14.639113676017987,
+  "low_onset_rate": 6.715878509431217,
+  "lufs": -14.648245244677451,
+  "rms_dbfs": -14.775001969964256,
+  "crest": 14.369670867919922,
+  "centroid": 2671.411854516614,
+  "flatness": 0.03791135922074318,
+  "sub100_share": 0.22374841570854187,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7172083854675293,
+  "clean_share": 0.01474010861132661,
+  "minor_share": 0.11946614483196338,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.8404143452644348,
+  "vocal_share": 0.13945716619491577,
+  "vocal_voiced": 0.35185185185185186,
+  "song_length": 199.132
+ }
+}

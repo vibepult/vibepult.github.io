@@ -1,0 +1,32 @@
+{
+ "id": "quiet-riot/1671500124-107",
+ "band": "quiet-riot",
+ "title": "Strange Daze",
+ "source": "itunes",
+ "album": "Rehab: Relapsed & Remastered 2023",
+ "year": 2006,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.009479707123115,
+  "tempo_var": 2.970468009527969,
+  "low_onset_rate": 5.011849633903894,
+  "lufs": -8.376560771357115,
+  "rms_dbfs": -8.743871475262722,
+  "crest": 8.743871688842773,
+  "centroid": 3108.2174731184773,
+  "flatness": 0.06084836274385452,
+  "sub100_share": 0.27735939621925354,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6146093010902405,
+  "clean_share": 0.0,
+  "minor_share": 0.09362912275298102,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.8770304322242737,
+  "vocal_share": 0.177315816283226,
+  "vocal_voiced": 0.5324298160696999,
+  "song_length": 257.142
+ }
+}

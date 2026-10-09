@@ -1,0 +1,32 @@
+{
+ "id": "iron-monkey/1728347500-105",
+ "band": "iron-monkey",
+ "title": "Rat Flag",
+ "source": "itunes",
+ "album": "Spleen & Goad",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.266666666666667,
+  "tempo_var": 12.268769784686034,
+  "low_onset_rate": 6.033333333333333,
+  "lufs": -6.861732317737574,
+  "rms_dbfs": -6.606485874796727,
+  "crest": 6.606485366821289,
+  "centroid": 2452.327991676051,
+  "flatness": 0.027660103514790535,
+  "sub100_share": 0.2061682939529419,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.6227807998657227,
+  "clean_share": 0.005417956656346749,
+  "minor_share": -0.21370671488550497,
+  "chord_rate": 0.7,
+  "repetitiveness": 0.9622789621353149,
+  "vocal_share": 0.16477876901626587,
+  "vocal_voiced": 0.18571428571428572,
+  "song_length": 372.627
+ }
+}

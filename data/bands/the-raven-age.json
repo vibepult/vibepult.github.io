@@ -1,0 +1,127 @@
+{
+ "slug": "the-raven-age",
+ "name": "The Raven Age",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 891638660,
+  "deezer": 5987728,
+  "spotify": "1Ia5iTYHMBsMQfi7Fbcbuw"
+ },
+ "metadata": {
+  "formed": 2009,
+  "split": null,
+  "country": "GB",
+  "status": "active",
+  "members": 5,
+  "past_members": 3,
+  "full_lengths": 3,
+  "genre": "Melodic Groove Metal/Metalcore",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 7509,
+  "themes": "History, Religion, Desperation, Enlightenment, Inner conflict",
+  "release_year": 2019
+ },
+ "partial": false,
+ "clips": [
+  "the-raven-age/1671227645-107",
+  "the-raven-age/1479580805-106",
+  "the-raven-age/1667811094-105",
+  "the-raven-age/1671227645-108",
+  "the-raven-age/1479580805-107",
+  "the-raven-age/1667811094-104",
+  "the-raven-age/1671227645-106",
+  "the-raven-age/1479580805-105",
+  "the-raven-age/1667811094-106",
+  "the-raven-age/1671227645-109",
+  "the-raven-age/1479580805-108",
+  "the-raven-age/1667811094-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 112.34714673913044,
+   "iqr": 25.69413034539474
+  },
+  "onset_rate": {
+   "median": 4.744550986762353,
+   "iqr": 1.295220392130517
+  },
+  "tempo_var": {
+   "median": 6.868904692256738,
+   "iqr": 13.12871115734162
+  },
+  "low_onset_rate": {
+   "median": 4.755396417310436,
+   "iqr": 2.9168692521325528
+  },
+  "lufs": {
+   "median": -9.079733198168167,
+   "iqr": 2.3801096214555635
+  },
+  "rms_dbfs": {
+   "median": -9.397218372653068,
+   "iqr": 2.4269118785201345
+  },
+  "crest": {
+   "median": 9.397218227386475,
+   "iqr": 2.4269111156463623
+  },
+  "centroid": {
+   "median": 2652.8585301953494,
+   "iqr": 253.86459981832058
+  },
+  "flatness": {
+   "median": 0.03910933621227741,
+   "iqr": 0.01755145750939846
+  },
+  "sub100_share": {
+   "median": 0.31422294676303864,
+   "iqr": 0.18392810598015785
+  },
+  "lowest_pitch": {
+   "median": 39.0289306640625,
+   "iqr": 21.533203125
+  },
+  "harmonic_share": {
+   "median": 0.7656003832817078,
+   "iqr": 0.05976228415966034
+  },
+  "clean_share": {
+   "median": 0.006199161565198296,
+   "iqr": 0.06291455992972843
+  },
+  "minor_share": {
+   "median": 0.012912276175245874,
+   "iqr": 0.2138033603204885
+  },
+  "chord_rate": {
+   "median": 1.5351456412981843,
+   "iqr": 0.24301159039442766
+  },
+  "repetitiveness": {
+   "median": 0.8755726218223572,
+   "iqr": 0.059542134404182434
+  },
+  "vocal_share": {
+   "median": 0.18705859780311584,
+   "iqr": 0.029308751225471497
+  },
+  "vocal_voiced": {
+   "median": 0.6361520558572537,
+   "iqr": 0.3231015016729303
+  },
+  "song_length": {
+   "median": 277.375,
+   "iqr": 83.0
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

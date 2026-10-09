@@ -1,0 +1,32 @@
+{
+ "id": "arkangel/1622514165-103",
+ "band": "arkangel",
+ "title": "Slow but Heavy",
+ "source": "itunes",
+ "album": "Arkangel Is Your Enemy",
+ "year": 2008,
+ "itunes_year": 1981,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 2.0047398535615577,
+  "tempo_var": 16.334008155540072,
+  "low_onset_rate": 4.878200310333123,
+  "lufs": -6.463525053245476,
+  "rms_dbfs": -6.438817330324973,
+  "crest": 6.438817024230957,
+  "centroid": 2465.0413858084003,
+  "flatness": 0.02943955548107624,
+  "sub100_share": 0.22800731658935547,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7679432034492493,
+  "clean_share": 0.027928626842513578,
+  "minor_share": 0.13431495151250855,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.8728012442588806,
+  "vocal_share": 0.0713721439242363,
+  "vocal_voiced": 0.19047619047619047,
+  "song_length": 221.173
+ }
+}

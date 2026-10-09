@@ -1,0 +1,32 @@
+{
+ "id": "windhand/1410436187-106",
+ "band": "windhand",
+ "title": "Red Cloud",
+ "source": "itunes",
+ "album": "Eternal Return",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.2333333333333334,
+  "tempo_var": 6.231203997077113,
+  "low_onset_rate": 5.166666666666667,
+  "lufs": -10.970874923186281,
+  "rms_dbfs": -9.881296387398883,
+  "crest": 9.88129711151123,
+  "centroid": 1990.8987908481358,
+  "flatness": 0.012266901321709156,
+  "sub100_share": 0.3907134532928467,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.8106132745742798,
+  "clean_share": 0.10835913312693499,
+  "minor_share": 0.07211084438816773,
+  "chord_rate": 2.2,
+  "repetitiveness": 0.8230779767036438,
+  "vocal_share": 0.05769742280244827,
+  "vocal_voiced": 0.8833034111310593,
+  "song_length": 254.523
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "sonata-arctica/1776753794-105",
+ "band": "sonata-arctica",
+ "title": "Don't Say a Word",
+ "source": "itunes",
+ "album": "Reckoning Night",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 6.366666666666666,
+  "tempo_var": 0.5014520025211243,
+  "low_onset_rate": 7.666666666666667,
+  "lufs": -7.468869796268639,
+  "rms_dbfs": -6.41218916243362,
+  "crest": 6.41218900680542,
+  "centroid": 2274.5546728635763,
+  "flatness": 0.020387088879942894,
+  "sub100_share": 0.444716215133667,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8833879828453064,
+  "clean_share": 0.015479876160990712,
+  "minor_share": 0.1343832518061614,
+  "chord_rate": 0.9666666666666667,
+  "repetitiveness": 0.826503336429596,
+  "vocal_share": 0.11483637243509293,
+  "vocal_voiced": 0.5294579732914375,
+  "song_length": 348.987
+ }
+}

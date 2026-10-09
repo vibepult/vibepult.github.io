@@ -1,0 +1,32 @@
+{
+ "id": "grai/819537535-106",
+ "band": "grai",
+ "title": "Лешак",
+ "source": "itunes",
+ "album": "О земле родной",
+ "year": 2011,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.112086626581972,
+  "tempo_var": 15.797834845867516,
+  "low_onset_rate": 6.582229185860447,
+  "lufs": -6.758544032849636,
+  "rms_dbfs": -6.640481450725778,
+  "crest": 6.640481472015381,
+  "centroid": 2623.8569254324375,
+  "flatness": 0.04457937926054001,
+  "sub100_share": 0.23586367070674896,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.6749354004859924,
+  "clean_share": 0.012412723041117145,
+  "minor_share": 0.16997039066204733,
+  "chord_rate": 2.1049768462396354,
+  "repetitiveness": 0.8472225069999695,
+  "vocal_share": 0.14315223693847656,
+  "vocal_voiced": 0.06906614785992218,
+  "song_length": 306.972
+ }
+}

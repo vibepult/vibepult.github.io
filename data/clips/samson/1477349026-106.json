@@ -1,0 +1,32 @@
+{
+ "id": "samson/1477349026-106",
+ "band": "samson",
+ "title": "Thunderburst",
+ "source": "itunes",
+ "album": "Head On (Bonus Tracks Edition)",
+ "year": 1980,
+ "itunes_year": 1980,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.2,
+  "tempo_var": 13.65726530879432,
+  "low_onset_rate": 4.1,
+  "lufs": -12.92961562587407,
+  "rms_dbfs": -12.628284392649336,
+  "crest": 12.628284454345703,
+  "centroid": 2372.1523768195393,
+  "flatness": 0.018725790083408356,
+  "sub100_share": 0.1426011621952057,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8142894506454468,
+  "clean_share": 0.06888544891640867,
+  "minor_share": 0.1884542565769044,
+  "chord_rate": 1.8,
+  "repetitiveness": 0.7031919956207275,
+  "vocal_share": 4.674437263929576e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 126.013
+ }
+}

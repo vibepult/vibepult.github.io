@@ -1,0 +1,32 @@
+{
+ "id": "stratovarius/1878463164-104",
+ "band": "stratovarius",
+ "title": "Metal Frenzy",
+ "source": "itunes",
+ "album": "Twilight Time",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 1.7666559839396285,
+  "tempo_var": 6.712129509885316,
+  "low_onset_rate": 2.999981859520124,
+  "lufs": -13.29570763070979,
+  "rms_dbfs": -13.833171253781227,
+  "crest": 13.833170890808105,
+  "centroid": 2490.711666919493,
+  "flatness": 0.04980127513408661,
+  "sub100_share": 0.329405277967453,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.5958857536315918,
+  "clean_share": 0.0897138437741686,
+  "minor_share": -0.11992484978958495,
+  "chord_rate": 1.1666596120356036,
+  "repetitiveness": 0.9594976902008057,
+  "vocal_share": 7.713490049354732e-05,
+  "vocal_voiced": 0.36363636363636365,
+  "song_length": 140.227
+ }
+}

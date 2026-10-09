@@ -1,0 +1,32 @@
+{
+ "id": "entwine/1669992929-106",
+ "band": "entwine",
+ "title": "Falling Apart",
+ "source": "itunes",
+ "album": "Time of Despair",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.30782075837657,
+  "tempo_var": 2.409177108948854,
+  "low_onset_rate": 4.878200310333123,
+  "lufs": -12.61441261579186,
+  "rms_dbfs": -10.743442373471252,
+  "crest": 10.74344253540039,
+  "centroid": 1859.5712068987573,
+  "flatness": 0.012630075216293335,
+  "sub100_share": 0.5921594500541687,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8770812749862671,
+  "clean_share": 0.5663304887509697,
+  "minor_share": 0.1551635130225062,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.7010758519172668,
+  "vocal_share": 0.0842113047838211,
+  "vocal_voiced": 0.6742034943473793,
+  "song_length": 284.307
+ }
+}

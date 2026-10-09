@@ -1,0 +1,127 @@
+{
+ "slug": "hate-eternal",
+ "name": "Hate Eternal",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 42405655,
+  "deezer": 10678,
+  "spotify": "4Ru4H8nvpjbqHFStsJJcHV"
+ },
+ "metadata": {
+  "formed": 1997,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 3,
+  "past_members": 10,
+  "full_lengths": 7,
+  "genre": "Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 14195,
+  "themes": "The Ancient Ones, Domination",
+  "release_year": 2008
+ },
+ "partial": false,
+ "clips": [
+  "hate-eternal/42405799-106",
+  "hate-eternal/48609025-106",
+  "hate-eternal/258610265-105",
+  "hate-eternal/428164457-106",
+  "hate-eternal/1021663217-105",
+  "hate-eternal/1426113833-105",
+  "hate-eternal/42405799-105",
+  "hate-eternal/48609025-105",
+  "hate-eternal/258610265-106",
+  "hate-eternal/428164457-105",
+  "hate-eternal/1021663217-106",
+  "hate-eternal/1426113833-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 21.710891993447063
+  },
+  "onset_rate": {
+   "median": 7.3173004654996845,
+   "iqr": 2.1133299289628074
+  },
+  "tempo_var": {
+   "median": 5.135357384493988,
+   "iqr": 4.131275608946373
+  },
+  "low_onset_rate": {
+   "median": 8.353082723173156,
+   "iqr": 1.0357822576734712
+  },
+  "lufs": {
+   "median": -9.416945900159456,
+   "iqr": 0.8677722702829609
+  },
+  "rms_dbfs": {
+   "median": -8.456597561288465,
+   "iqr": 1.0397510279048552
+  },
+  "crest": {
+   "median": 8.456597328186035,
+   "iqr": 1.039750099182129
+  },
+  "centroid": {
+   "median": 2589.860155634934,
+   "iqr": 278.19873720663236
+  },
+  "flatness": {
+   "median": 0.033639075234532356,
+   "iqr": 0.009544661734253168
+  },
+  "sub100_share": {
+   "median": 0.45076270401477814,
+   "iqr": 0.11032223701477051
+  },
+  "lowest_pitch": {
+   "median": 45.758056640625,
+   "iqr": 22.8790283203125
+  },
+  "harmonic_share": {
+   "median": 0.7830088436603546,
+   "iqr": 0.047245800495147705
+  },
+  "clean_share": {
+   "median": 0.0003878975950349108,
+   "iqr": 0.004460822342901474
+  },
+  "minor_share": {
+   "median": 0.006055952591330099,
+   "iqr": 0.17097606017526135
+  },
+  "chord_rate": {
+   "median": 2.338863162488484,
+   "iqr": 0.35918255709644553
+  },
+  "repetitiveness": {
+   "median": 0.9536049067974091,
+   "iqr": 0.01732446253299713
+  },
+  "vocal_share": {
+   "median": 0.07867098599672318,
+   "iqr": 0.04005104675889015
+  },
+  "vocal_voiced": {
+   "median": 0.10502793296089385,
+   "iqr": 0.10118633469603314
+  },
+  "song_length": {
+   "median": 249.853,
+   "iqr": 108.88749999999999
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

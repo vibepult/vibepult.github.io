@@ -1,0 +1,127 @@
+{
+ "slug": "skid-row",
+ "name": "Skid Row",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 163805,
+  "deezer": 3019,
+  "spotify": "4opTS86dN9uO313J9CE8xg"
+ },
+ "metadata": {
+  "formed": 1986,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 4,
+  "past_members": 16,
+  "full_lengths": 6,
+  "genre": "Heavy Metal, Hard Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 445579,
+  "themes": "Rebellion, Hardship, Love, Society, Humour, Rock/Metal, Women",
+  "release_year": 1995
+ },
+ "partial": false,
+ "clips": [
+  "skid-row/1727790222-106",
+  "skid-row/1727227096-107",
+  "skid-row/1804940607-106",
+  "skid-row/1727790222-105",
+  "skid-row/1727227096-106",
+  "skid-row/1804940607-107",
+  "skid-row/1727790222-107",
+  "skid-row/1727227096-108",
+  "skid-row/1804940607-105",
+  "skid-row/1727790222-104",
+  "skid-row/1727227096-105",
+  "skid-row/1804940607-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 35.888671875
+  },
+  "onset_rate": {
+   "median": 2.966648727747678,
+   "iqr": 2.0000146131643444
+  },
+  "tempo_var": {
+   "median": 8.643751883402274,
+   "iqr": 15.098382857786808
+  },
+  "low_onset_rate": {
+   "median": 3.549989216492518,
+   "iqr": 2.4582995218381516
+  },
+  "lufs": {
+   "median": -10.53746710978384,
+   "iqr": 2.8502803442208506
+  },
+  "rms_dbfs": {
+   "median": -10.625599538100708,
+   "iqr": 2.9437256325972214
+  },
+  "crest": {
+   "median": 10.625599384307861,
+   "iqr": 2.9437255859375
+  },
+  "centroid": {
+   "median": 2417.022517784835,
+   "iqr": 269.17923563480235
+  },
+  "flatness": {
+   "median": 0.03078573662787676,
+   "iqr": 0.009852122981101274
+  },
+  "sub100_share": {
+   "median": 0.32066892087459564,
+   "iqr": 0.09724085032939911
+  },
+  "lowest_pitch": {
+   "median": 74.0203857421875,
+   "iqr": 36.3372802734375
+  },
+  "harmonic_share": {
+   "median": 0.7408723533153534,
+   "iqr": 0.10659439861774445
+  },
+  "clean_share": {
+   "median": 0.10324825986078887,
+   "iqr": 0.11945274507409509
+  },
+  "minor_share": {
+   "median": 0.027851595943409024,
+   "iqr": 0.25531635949772236
+  },
+  "chord_rate": {
+   "median": 1.8999885110294117,
+   "iqr": 1.0749847317627712
+  },
+  "repetitiveness": {
+   "median": 0.8771603405475616,
+   "iqr": 0.0967317521572113
+  },
+  "vocal_share": {
+   "median": 0.11384938657283783,
+   "iqr": 0.11745011061429977
+  },
+  "vocal_voiced": {
+   "median": 0.6326034063260341,
+   "iqr": 0.4870853361818289
+  },
+  "song_length": {
+   "median": 198.62900000000002,
+   "iqr": 74.10749999999999
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

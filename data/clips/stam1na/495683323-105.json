@@ -1,0 +1,32 @@
+{
+ "id": "stam1na/495683323-105",
+ "band": "stam1na",
+ "title": "Aivohalvaus",
+ "source": "itunes",
+ "album": "Nocebo",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.610901663191583,
+  "tempo_var": 1.3567633662443472,
+  "low_onset_rate": 4.377015346942734,
+  "lufs": -7.183035363943031,
+  "rms_dbfs": -6.704311585629262,
+  "crest": 6.704311847686768,
+  "centroid": 2640.9458743687437,
+  "flatness": 0.03832775726914406,
+  "sub100_share": 0.35820668935775757,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7385914325714111,
+  "clean_share": 0.010861132660977503,
+  "minor_share": -0.21061451812857823,
+  "chord_rate": 1.971327522668865,
+  "repetitiveness": 0.8149568438529968,
+  "vocal_share": 0.15485206246376038,
+  "vocal_voiced": 0.4325221238938053,
+  "song_length": 276.6
+ }
+}

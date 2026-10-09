@@ -1,0 +1,32 @@
+{
+ "id": "tiamat/1351352195-106",
+ "band": "tiamat",
+ "title": "Visionaire",
+ "source": "itunes",
+ "album": "Wildhoney",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 3.1313499083724743,
+  "tempo_var": 30.964832559428118,
+  "low_onset_rate": 4.863586027897673,
+  "lufs": -11.148841376729541,
+  "rms_dbfs": -10.369018630608249,
+  "crest": 10.3690185546875,
+  "centroid": 2570.6315186076104,
+  "flatness": 0.03218064084649086,
+  "sub100_share": 0.3479522168636322,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7211537957191467,
+  "clean_share": 0.007733952049497293,
+  "minor_share": -0.014689513309283697,
+  "chord_rate": 1.2325526235083144,
+  "repetitiveness": 0.7699234485626221,
+  "vocal_share": 0.032240185886621475,
+  "vocal_voiced": 0.59765625,
+  "song_length": 259.627
+ }
+}

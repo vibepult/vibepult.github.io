@@ -1,0 +1,32 @@
+{
+ "id": "finntroll/1660534543-105",
+ "band": "finntroll",
+ "title": "Nattfödd",
+ "source": "itunes",
+ "album": "Nattfödd",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.6,
+  "tempo_var": 0.0,
+  "low_onset_rate": 8.066666666666666,
+  "lufs": -9.56564629935391,
+  "rms_dbfs": -8.680750049919212,
+  "crest": 8.680749893188477,
+  "centroid": 2338.186756314999,
+  "flatness": 0.023397276178002357,
+  "sub100_share": 0.4586070477962494,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8635093569755554,
+  "clean_share": 0.023993808049535603,
+  "minor_share": 0.16277117802683116,
+  "chord_rate": 1.3666666666666667,
+  "repetitiveness": 0.7345404028892517,
+  "vocal_share": 0.04051981493830681,
+  "vocal_voiced": 0.022222222222222223,
+  "song_length": 291.507
+ }
+}

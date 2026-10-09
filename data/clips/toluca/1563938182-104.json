@@ -1,0 +1,32 @@
+{
+ "id": "toluca/1563938182-104",
+ "band": "toluca",
+ "title": "Shax",
+ "source": "itunes",
+ "album": "Soras",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 0.06682466178538525,
+  "tempo_var": 8.988712351895261,
+  "low_onset_rate": 3.30782075837657,
+  "lufs": -7.331858414922185,
+  "rms_dbfs": -7.524030352143188,
+  "crest": 7.524030685424805,
+  "centroid": 2749.411409911506,
+  "flatness": 0.04763662815093994,
+  "sub100_share": 0.19034713506698608,
+  "lowest_pitch": 123.81591796875,
+  "harmonic_share": 0.7248746752738953,
+  "clean_share": 0.0069821567106283944,
+  "minor_share": -0.09314345533369006,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.7840009331703186,
+  "vocal_share": 0.07093065977096558,
+  "vocal_voiced": 0.2912751677852349,
+  "song_length": 283.577
+ }
+}

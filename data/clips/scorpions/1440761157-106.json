@@ -1,0 +1,32 @@
+{
+ "id": "scorpions/1440761157-106",
+ "band": "scorpions",
+ "title": "Lust or Love",
+ "source": "itunes",
+ "album": "Crazy World",
+ "year": 1990,
+ "itunes_year": 1990,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 67.99958881578948,
+  "onset_rate": 3.799942555668093,
+  "tempo_var": 1.5175199710348848,
+  "low_onset_rate": 3.6332784084896677,
+  "lufs": -12.045082023248233,
+  "rms_dbfs": -12.791433777294106,
+  "crest": 12.791434288024902,
+  "centroid": 2620.0504899846414,
+  "flatness": 0.032104332000017166,
+  "sub100_share": 0.1565186083316803,
+  "lowest_pitch": 115.740966796875,
+  "harmonic_share": 0.6773483157157898,
+  "clean_share": 0.004640371229698376,
+  "minor_share": 0.03775681428565203,
+  "chord_rate": 1.1333162008132909,
+  "repetitiveness": 0.8121424913406372,
+  "vocal_share": 0.2864187955856323,
+  "vocal_voiced": 0.7305327868852459,
+  "song_length": 262.6
+ }
+}

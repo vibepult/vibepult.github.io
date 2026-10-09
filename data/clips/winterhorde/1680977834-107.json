@@ -1,0 +1,32 @@
+{
+ "id": "winterhorde/1680977834-107",
+ "band": "winterhorde",
+ "title": "A Dying Swan",
+ "source": "itunes",
+ "album": "Maestro",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 61.5234375,
+  "onset_rate": 1.871090529990787,
+  "tempo_var": 6.210005961357695,
+  "low_onset_rate": 4.644313994084275,
+  "lufs": -11.951730090865464,
+  "rms_dbfs": -11.243056361292087,
+  "crest": 11.243056297302246,
+  "centroid": 2402.6821614690475,
+  "flatness": 0.023976050317287445,
+  "sub100_share": 0.28175482153892517,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8751476407051086,
+  "clean_share": 0.0,
+  "minor_share": 0.08947671124715728,
+  "chord_rate": 1.0023699267807789,
+  "repetitiveness": 0.8049341440200806,
+  "vocal_share": 0.13454002141952515,
+  "vocal_voiced": 0.6275071633237822,
+  "song_length": 163.48
+ }
+}

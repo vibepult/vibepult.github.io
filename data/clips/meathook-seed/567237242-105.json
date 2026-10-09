@@ -1,0 +1,32 @@
+{
+ "id": "meathook-seed/567237242-105",
+ "band": "meathook-seed",
+ "title": "Cling to an Image",
+ "source": "itunes",
+ "album": "Embedded",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.742181059981574,
+  "tempo_var": 21.87863735225411,
+  "low_onset_rate": 6.582229185860447,
+  "lufs": -14.734948862797799,
+  "rms_dbfs": -14.4945720904017,
+  "crest": 14.494571685791016,
+  "centroid": 2976.7545588968565,
+  "flatness": 0.04918811470270157,
+  "sub100_share": 0.5511257648468018,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7609264254570007,
+  "clean_share": 0.037238169123351435,
+  "minor_share": -0.19421955757604364,
+  "chord_rate": 3.174171434805799,
+  "repetitiveness": 0.9187762141227722,
+  "vocal_share": 0.026183854788541794,
+  "vocal_voiced": 0.17587939698492464,
+  "song_length": 168.667
+ }
+}

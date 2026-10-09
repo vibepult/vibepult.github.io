@@ -1,0 +1,127 @@
+{
+ "slug": "black-moth",
+ "name": "Black Moth",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 440751202,
+  "deezer": 745967,
+  "spotify": "2kjn4KcvCR9atreeGcoest"
+ },
+ "metadata": {
+  "formed": 2010,
+  "split": 2019,
+  "country": "GB",
+  "status": "split-up",
+  "members": 5,
+  "past_members": 1,
+  "full_lengths": 3,
+  "genre": "Doom/Stoner Metal/Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 1611,
+  "themes": "Mystical, Drugs, Relationships",
+  "release_year": 2014
+ },
+ "partial": false,
+ "clips": [
+  "black-moth/1059109870-105",
+  "black-moth/1062845696-106",
+  "black-moth/1660465535-105",
+  "black-moth/1059109870-106",
+  "black-moth/1062845696-105",
+  "black-moth/1660465535-106",
+  "black-moth/1059109870-104",
+  "black-moth/1062845696-107",
+  "black-moth/1660465535-104",
+  "black-moth/1059109870-107",
+  "black-moth/1062845696-104",
+  "black-moth/1660465535-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 104.02513586956522,
+   "iqr": 59.53297334558823
+  },
+  "onset_rate": {
+   "median": 4.193247527032924,
+   "iqr": 1.3782586493235711
+  },
+  "tempo_var": {
+   "median": 10.404471333958998,
+   "iqr": 10.012873389550304
+  },
+  "low_onset_rate": {
+   "median": 4.861494144886777,
+   "iqr": 1.7123819582504973
+  },
+  "lufs": {
+   "median": -9.27921797116343,
+   "iqr": 2.3945113877028366
+  },
+  "rms_dbfs": {
+   "median": -8.382049230888772,
+   "iqr": 1.7216855280022374
+  },
+  "crest": {
+   "median": 8.382049083709717,
+   "iqr": 1.7216858863830566
+  },
+  "centroid": {
+   "median": 2311.8682607728315,
+   "iqr": 107.40185727541439
+  },
+  "flatness": {
+   "median": 0.02105136401951313,
+   "iqr": 0.004914268851280212
+  },
+  "sub100_share": {
+   "median": 0.4936247766017914,
+   "iqr": 0.09888885915279388
+  },
+  "lowest_pitch": {
+   "median": 43.06640625,
+   "iqr": 21.533203125
+  },
+  "harmonic_share": {
+   "median": 0.8106442093849182,
+   "iqr": 0.06218254566192627
+  },
+  "clean_share": {
+   "median": 0.10046547711404188,
+   "iqr": 0.09328937160589605
+  },
+  "minor_share": {
+   "median": -0.06938963395200601,
+   "iqr": 0.2314620555521994
+  },
+  "chord_rate": {
+   "median": 1.6873227100809776,
+   "iqr": 0.42600721888183113
+  },
+  "repetitiveness": {
+   "median": 0.8034265637397766,
+   "iqr": 0.10722295939922333
+  },
+  "vocal_share": {
+   "median": 0.1362452507019043,
+   "iqr": 0.052115365862846375
+  },
+  "vocal_voiced": {
+   "median": 0.8820445609436435,
+   "iqr": 0.07618225775358156
+  },
+  "song_length": {
+   "median": 223.8065,
+   "iqr": 57.63025000000002
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "minuala",
+ "name": "Minuala",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1536615772,
+  "deezer": 76777892,
+  "spotify": "5AhN3cikCXyZMwhw3drxd9"
+ },
+ "metadata": {
+  "formed": 2003,
+  "split": null,
+  "country": "RU",
+  "status": "active",
+  "members": 5,
+  "past_members": 4,
+  "full_lengths": 6,
+  "genre": "Blackened Crust Punk (early); Post-Black Metal (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 63,
+  "themes": "N/A",
+  "release_year": 2024
+ },
+ "partial": false,
+ "clips": [
+  "minuala/1738658762-105",
+  "minuala/1832687188-105",
+  "minuala/1738658762-106",
+  "minuala/1832687188-104",
+  "minuala/1738658762-104",
+  "minuala/1832687188-106",
+  "minuala/1738658762-107",
+  "minuala/1832687188-103",
+  "minuala/1738658762-103",
+  "minuala/1832687188-107",
+  "minuala/1738658762-108",
+  "minuala/1832687188-102"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 156.74905215992646,
+   "iqr": 36.51282269021739
+  },
+  "onset_rate": {
+   "median": 3.9832731175643605,
+   "iqr": 1.6666414717842515
+  },
+  "tempo_var": {
+   "median": 13.035369720484116,
+   "iqr": 4.5572202260243735
+  },
+  "low_onset_rate": {
+   "median": 5.649914589348612,
+   "iqr": 0.5916577224834096
+  },
+  "lufs": {
+   "median": -6.683349973685766,
+   "iqr": 1.4770786423906825
+  },
+  "rms_dbfs": {
+   "median": -5.758474389708691,
+   "iqr": 1.5557289098370592
+  },
+  "crest": {
+   "median": 5.758474111557007,
+   "iqr": 1.555728793144226
+  },
+  "centroid": {
+   "median": 2409.8500229958054,
+   "iqr": 107.37300141959531
+  },
+  "flatness": {
+   "median": 0.03304963372647762,
+   "iqr": 0.008141080383211374
+  },
+  "sub100_share": {
+   "median": 0.2919185012578964,
+   "iqr": 0.11422440782189369
+  },
+  "lowest_pitch": {
+   "median": 64.599609375,
+   "iqr": 21.533203125
+  },
+  "harmonic_share": {
+   "median": 0.7733937203884125,
+   "iqr": 0.10151103138923645
+  },
+  "clean_share": {
+   "median": 0.03441608662026295,
+   "iqr": 0.04040989945862336
+  },
+  "minor_share": {
+   "median": 0.010029458868481278,
+   "iqr": 0.10090001016941666
+  },
+  "chord_rate": {
+   "median": 1.366646006863086,
+   "iqr": 0.4583264047406692
+  },
+  "repetitiveness": {
+   "median": 0.8377085328102112,
+   "iqr": 0.07003091275691986
+  },
+  "vocal_share": {
+   "median": 0.0913376435637474,
+   "iqr": 0.05569462850689888
+  },
+  "vocal_voiced": {
+   "median": 0.17670682730923695,
+   "iqr": 0.44341383150632924
+  },
+  "song_length": {
+   "median": 225.5845,
+   "iqr": 60.83574999999999
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

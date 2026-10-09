@@ -1,0 +1,32 @@
+{
+ "id": "type-o-negative/216662943-104",
+ "band": "type-o-negative",
+ "title": "Pain",
+ "source": "itunes",
+ "album": "The Origin of the Feces",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 6.632551263796559,
+  "tempo_var": 3.9496817133772053,
+  "low_onset_rate": 7.165821717167137,
+  "lufs": -12.773404023625849,
+  "rms_dbfs": -13.092488795602309,
+  "crest": 13.092489242553711,
+  "centroid": 3310.864849667737,
+  "flatness": 0.08075232803821564,
+  "sub100_share": 0.2564775347709656,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.695414125919342,
+  "clean_share": 0.0,
+  "minor_share": -0.008778945474983257,
+  "chord_rate": 2.3997170401675993,
+  "repetitiveness": 0.9057519435882568,
+  "vocal_share": 0.18372951447963715,
+  "vocal_voiced": 0.5926449787835927,
+  "song_length": 280.0
+ }
+}

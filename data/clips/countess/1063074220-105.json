@@ -1,0 +1,32 @@
+{
+ "id": "countess/1063074220-105",
+ "band": "countess",
+ "title": "De Wilde Jacht",
+ "source": "itunes",
+ "album": "Heilig Vuur",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.107346773020414,
+  "tempo_var": 4.985841165394302,
+  "low_onset_rate": 4.209953692479271,
+  "lufs": -14.235765429489568,
+  "rms_dbfs": -14.320404587603948,
+  "crest": 14.320404052734375,
+  "centroid": 2899.238864557648,
+  "flatness": 0.06838013976812363,
+  "sub100_share": 0.3027498722076416,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7421072721481323,
+  "clean_share": 0.15671062839410396,
+  "minor_share": -0.0018754419217763552,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.9355677366256714,
+  "vocal_share": 0.0414416529238224,
+  "vocal_voiced": 0.33037300177619894,
+  "song_length": 384.04
+ }
+}

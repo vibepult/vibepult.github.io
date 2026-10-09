@@ -1,0 +1,32 @@
+{
+ "id": "hibria/1594763372-105",
+ "band": "hibria",
+ "title": "Sailing Ship",
+ "source": "itunes",
+ "album": "Moving Ground",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 75.99954044117646,
+  "onset_rate": 4.176541361586578,
+  "tempo_var": 14.179941495337971,
+  "low_onset_rate": 5.546446928186976,
+  "lufs": -9.54229185707566,
+  "rms_dbfs": -9.198629477484028,
+  "crest": 9.198629379272461,
+  "centroid": 2730.4103029107578,
+  "flatness": 0.04276363551616669,
+  "sub100_share": 0.2956157922744751,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7952390313148499,
+  "clean_share": 0.005430566330488751,
+  "minor_share": 0.15872435137989216,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.8989473581314087,
+  "vocal_share": 0.029681207612156868,
+  "vocal_voiced": 0.7559523809523809,
+  "song_length": 354.587
+ }
+}

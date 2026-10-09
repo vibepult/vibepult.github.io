@@ -1,0 +1,32 @@
+{
+ "id": "coroner/1372055980-103",
+ "band": "coroner",
+ "title": "Read My Scars",
+ "source": "itunes",
+ "album": "No More Color",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.813745575328517,
+  "tempo_var": 10.905617977141377,
+  "low_onset_rate": 5.780333244435824,
+  "lufs": -10.477972182427251,
+  "rms_dbfs": -10.468020650049922,
+  "crest": 10.46802043914795,
+  "centroid": 2894.1145709405646,
+  "flatness": 0.051766570657491684,
+  "sub100_share": 0.26886218786239624,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.6352881193161011,
+  "clean_share": 0.0,
+  "minor_share": -0.19330902863635768,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.891234278678894,
+  "vocal_share": 0.06585272401571274,
+  "vocal_voiced": 0.24958949096880131,
+  "song_length": 271.933
+ }
+}

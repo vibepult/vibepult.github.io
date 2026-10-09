@@ -1,0 +1,32 @@
+{
+ "id": "onslaught/1543074684-103",
+ "band": "onslaught",
+ "title": "Fight with the Beast",
+ "source": "itunes",
+ "album": "The Force",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 1.4367302283857828,
+  "tempo_var": 12.581660081481703,
+  "low_onset_rate": 5.746920913543131,
+  "lufs": -5.858436762893978,
+  "rms_dbfs": -6.5965417331153455,
+  "crest": 6.596541404724121,
+  "centroid": 2988.617766996182,
+  "flatness": 0.04454261437058449,
+  "sub100_share": 0.19800272583961487,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7782747745513916,
+  "clean_share": 0.003878975950349108,
+  "minor_share": -0.026066734739346953,
+  "chord_rate": 2.205213838917713,
+  "repetitiveness": 0.846615731716156,
+  "vocal_share": 0.0160866416990757,
+  "vocal_voiced": 0.2345679012345679,
+  "song_length": 363.973
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "anvil/1710209348-105",
+ "band": "anvil",
+ "title": "Don't Ask Me",
+ "source": "itunes",
+ "album": "Still Going Strong",
+ "year": 2002,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.666611237925353,
+  "tempo_var": 2.7575883669288466,
+  "low_onset_rate": 7.09989266980091,
+  "lufs": -7.4463358759206395,
+  "rms_dbfs": -7.074109039163142,
+  "crest": 7.074108600616455,
+  "centroid": 2426.7550865332837,
+  "flatness": 0.024324987083673477,
+  "sub100_share": 0.16518910229206085,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7992302179336548,
+  "clean_share": 0.07888631090487239,
+  "minor_share": 0.023510372158207504,
+  "chord_rate": 1.5999758129128812,
+  "repetitiveness": 0.7737188339233398,
+  "vocal_share": 0.0778319463133812,
+  "vocal_voiced": 0.8260869565217391,
+  "song_length": 279.747
+ }
+}

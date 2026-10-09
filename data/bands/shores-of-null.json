@@ -1,0 +1,127 @@
+{
+ "slug": "shores-of-null",
+ "name": "Shores of Null",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 804652889,
+  "deezer": 5498899,
+  "spotify": "76lKNyW77arKg42qdDO9Sm"
+ },
+ "metadata": {
+  "formed": 2013,
+  "split": null,
+  "country": "IT",
+  "status": "active",
+  "members": 5,
+  "past_members": 0,
+  "full_lengths": 5,
+  "genre": "Melodic Death/Doom Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 957,
+  "themes": "Darkness, Life, Death, Sorrow",
+  "release_year": 2017
+ },
+ "partial": false,
+ "clips": [
+  "shores-of-null/1660422533-106",
+  "shores-of-null/1660470059-106",
+  "shores-of-null/1672746396-107",
+  "shores-of-null/1660422533-105",
+  "shores-of-null/1660470059-105",
+  "shores-of-null/1672746396-106",
+  "shores-of-null/1660422533-107",
+  "shores-of-null/1660470059-107",
+  "shores-of-null/1672746396-108",
+  "shores-of-null/1660422533-104",
+  "shores-of-null/1660470059-104",
+  "shores-of-null/1672746396-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 132.59919819078948,
+   "iqr": 27.377524394762844
+  },
+  "onset_rate": {
+   "median": 5.847157906221209,
+   "iqr": 2.3806285761043497
+  },
+  "tempo_var": {
+   "median": 3.797052685505938,
+   "iqr": 9.28967270857735
+  },
+  "low_onset_rate": {
+   "median": 7.450949789070456,
+   "iqr": 1.0859007540125107
+  },
+  "lufs": {
+   "median": -8.191413713250293,
+   "iqr": 1.1875584123629768
+  },
+  "rms_dbfs": {
+   "median": -7.47021740049002,
+   "iqr": 1.3831078748055727
+  },
+  "crest": {
+   "median": 7.470217704772949,
+   "iqr": 1.3831079006195068
+  },
+  "centroid": {
+   "median": 2334.6837528006195,
+   "iqr": 140.88890365830548
+  },
+  "flatness": {
+   "median": 0.02335185557603836,
+   "iqr": 0.011828192044049501
+  },
+  "sub100_share": {
+   "median": 0.37027326226234436,
+   "iqr": 0.13546763360500336
+  },
+  "lowest_pitch": {
+   "median": 48.44970703125,
+   "iqr": 14.8040771484375
+  },
+  "harmonic_share": {
+   "median": 0.8413369655609131,
+   "iqr": 0.055323585867881775
+  },
+  "clean_share": {
+   "median": 0.008533747090768037,
+   "iqr": 0.03704422032583398
+  },
+  "minor_share": {
+   "median": 0.12039872906943633,
+   "iqr": 0.24923752405984087
+  },
+  "chord_rate": {
+   "median": 1.2863747393686662,
+   "iqr": 0.4260072188818309
+  },
+  "repetitiveness": {
+   "median": 0.8879178166389465,
+   "iqr": 0.12202158570289612
+  },
+  "vocal_share": {
+   "median": 0.12518611922860146,
+   "iqr": 0.051094330847263336
+  },
+  "vocal_voiced": {
+   "median": 0.7454120748079618,
+   "iqr": 0.24696220302709992
+  },
+  "song_length": {
+   "median": 288.3935,
+   "iqr": 68.39350000000002
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "emperor/1670679463-104",
+ "band": "emperor",
+ "title": "Beyond the Great Vast Forest",
+ "source": "itunes",
+ "album": "In the Nightside Eclipse",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.533333333333333,
+  "tempo_var": 15.928024003197077,
+  "low_onset_rate": 7.9,
+  "lufs": -9.427586917100758,
+  "rms_dbfs": -9.830280827115525,
+  "crest": 9.830280303955078,
+  "centroid": 2505.1588171454537,
+  "flatness": 0.03397645428776741,
+  "sub100_share": 0.13794125616550446,
+  "lowest_pitch": 102.28271484375,
+  "harmonic_share": 0.786214292049408,
+  "clean_share": 0.0,
+  "minor_share": -0.012675846821204262,
+  "chord_rate": 2.033333333333333,
+  "repetitiveness": 0.7431625127792358,
+  "vocal_share": 0.027539752423763275,
+  "vocal_voiced": 0.3733108108108108,
+  "song_length": 360.6
+ }
+}

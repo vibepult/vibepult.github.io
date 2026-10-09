@@ -1,0 +1,32 @@
+{
+ "id": "eluveitie/1472538688-110",
+ "band": "eluveitie",
+ "title": "Vianna",
+ "source": "itunes",
+ "album": "Origins",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 1.83332224748452,
+  "tempo_var": 3.3406753537228853,
+  "low_onset_rate": 3.399979440789474,
+  "lufs": -8.691513516065594,
+  "rms_dbfs": -8.18327061664734,
+  "crest": 8.183270454406738,
+  "centroid": 2566.6290092005315,
+  "flatness": 0.030201775953173637,
+  "sub100_share": 0.318701833486557,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7863584160804749,
+  "clean_share": 0.004640371229698376,
+  "minor_share": 0.20807048860969124,
+  "chord_rate": 1.5999903250773995,
+  "repetitiveness": 0.8195738792419434,
+  "vocal_share": 0.13264811038970947,
+  "vocal_voiced": 0.9894736842105263,
+  "song_length": 216.978
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "dreamshade/1185181234-106",
+ "band": "dreamshade",
+ "title": "The World in My Hands",
+ "source": "itunes",
+ "album": "Vibrant",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.078674295689279,
+  "tempo_var": 13.213249756605379,
+  "low_onset_rate": 5.880570237113902,
+  "lufs": -6.947627293533571,
+  "rms_dbfs": -6.59468314004423,
+  "crest": 6.594683647155762,
+  "centroid": 2588.820423019654,
+  "flatness": 0.03879440575838089,
+  "sub100_share": 0.41658422350883484,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.6552686095237732,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": -0.02918436479686387,
+  "chord_rate": 2.071564515346943,
+  "repetitiveness": 0.9326680302619934,
+  "vocal_share": 0.2185976803302765,
+  "vocal_voiced": 0.24958949096880131,
+  "song_length": 213.474
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "brutal-truth/42406387-108",
+ "band": "brutal-truth",
+ "title": "Ordinary Madness",
+ "source": "itunes",
+ "album": "Need to Control",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 1.7374412064200164,
+  "tempo_var": 15.765302036182739,
+  "low_onset_rate": 6.983177156572759,
+  "lufs": -11.464051653056929,
+  "rms_dbfs": -11.348504935527261,
+  "crest": 11.348505020141602,
+  "centroid": 2353.2626375562804,
+  "flatness": 0.02119273506104946,
+  "sub100_share": 0.20971594750881195,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7477473616600037,
+  "clean_share": 0.0395655546935609,
+  "minor_share": 0.011997630069529808,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.8419979810714722,
+  "vocal_share": 0.1485327184200287,
+  "vocal_voiced": 0.3947001394700139,
+  "song_length": 304.573
+ }
+}

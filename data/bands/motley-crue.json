@@ -1,0 +1,127 @@
+{
+ "slug": "motley-crue",
+ "name": "Mötley Crüe",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 284113,
+  "deezer": 531,
+  "spotify": "0cc6vw3VN8YlIcvr1v7tBL"
+ },
+ "metadata": {
+  "formed": 1981,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 4,
+  "past_members": 7,
+  "full_lengths": 9,
+  "genre": "Heavy/Glam Metal, Hard Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 827698,
+  "themes": "Rock/Metal, Girls/Women, Partying, Sex, Drugs, Alcohol, Love",
+  "release_year": 1989
+ },
+ "partial": false,
+ "clips": [
+  "motley-crue/1764391276-105",
+  "motley-crue/1606692937-107",
+  "motley-crue/1764393010-105",
+  "motley-crue/1606699863-108",
+  "motley-crue/1606692388-106",
+  "motley-crue/1606698881-106",
+  "motley-crue/1764391276-104",
+  "motley-crue/1606692937-106",
+  "motley-crue/1764393010-106",
+  "motley-crue/1606699863-107",
+  "motley-crue/1606692388-107",
+  "motley-crue/1606698881-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.90049098320159,
+   "iqr": 53.38062959558823
+  },
+  "onset_rate": {
+   "median": 3.9499402881286754,
+   "iqr": 0.9666520536348662
+  },
+  "tempo_var": {
+   "median": 9.56317518420033,
+   "iqr": 9.773486514371923
+  },
+  "low_onset_rate": {
+   "median": 5.416584783298816,
+   "iqr": 1.558309776118275
+  },
+  "lufs": {
+   "median": -9.729661195368312,
+   "iqr": 1.051873433334606
+  },
+  "rms_dbfs": {
+   "median": -9.51570523389493,
+   "iqr": 0.9539146413619761
+  },
+  "crest": {
+   "median": 9.515705108642578,
+   "iqr": 0.9539146423339844
+  },
+  "centroid": {
+   "median": 2498.9061901863433,
+   "iqr": 302.7626831024186
+  },
+  "flatness": {
+   "median": 0.02847221214324236,
+   "iqr": 0.009136362001299858
+  },
+  "sub100_share": {
+   "median": 0.2860296219587326,
+   "iqr": 0.18735523521900177
+  },
+  "lowest_pitch": {
+   "median": 60.5621337890625,
+   "iqr": 19.51446533203125
+  },
+  "harmonic_share": {
+   "median": 0.7657796144485474,
+   "iqr": 0.07025325298309326
+  },
+  "clean_share": {
+   "median": 0.04215003866976025,
+   "iqr": 0.06767208043310131
+  },
+  "minor_share": {
+   "median": 0.0399189299745685,
+   "iqr": 0.08851100127245848
+  },
+  "chord_rate": {
+   "median": 1.7833063748091489,
+   "iqr": 0.34999470907469266
+  },
+  "repetitiveness": {
+   "median": 0.8577066659927368,
+   "iqr": 0.07785095274448395
+  },
+  "vocal_share": {
+   "median": 0.16288792341947556,
+   "iqr": 0.10806736536324024
+  },
+  "vocal_voiced": {
+   "median": 0.7260894631404191,
+   "iqr": 0.20962832264416342
+  },
+  "song_length": {
+   "median": 233.54,
+   "iqr": 60.75999999999999
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.8,
+  "camp": 0.7
+ },
+ "sources_failed": []
+}

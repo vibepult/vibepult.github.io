@@ -1,0 +1,32 @@
+{
+ "id": "danzig/1662706727-106",
+ "band": "danzig",
+ "title": "HellMask",
+ "source": "itunes",
+ "album": "Circle of Snakes",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 1.866655379256966,
+  "tempo_var": 2.4552758014777125,
+  "low_onset_rate": 1.499990929760062,
+  "lufs": -8.06528761294727,
+  "rms_dbfs": -7.725764863213149,
+  "crest": 7.725765228271484,
+  "centroid": 2436.078857864795,
+  "flatness": 0.02205013856291771,
+  "sub100_share": 0.22075387835502625,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7852941751480103,
+  "clean_share": 0.2614075792730085,
+  "minor_share": 0.0034217573867247886,
+  "chord_rate": 1.666656588622291,
+  "repetitiveness": 0.9352991580963135,
+  "vocal_share": 0.03593531250953674,
+  "vocal_voiced": 0.8222222222222222,
+  "song_length": 194.093
+ }
+}

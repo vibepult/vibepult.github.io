@@ -1,0 +1,32 @@
+{
+ "id": "exciter/932622754-107",
+ "band": "exciter",
+ "title": "Rising of the Dead",
+ "source": "itunes",
+ "album": "Heavy Metal Maniac",
+ "year": 1983,
+ "itunes_year": 1983,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 0.06666626354489164,
+  "tempo_var": 6.707989383485528,
+  "low_onset_rate": 1.5666571933049536,
+  "lufs": -11.746385094207133,
+  "rms_dbfs": -12.812688343464169,
+  "crest": 12.812688827514648,
+  "centroid": 2944.6212451852757,
+  "flatness": 0.03279509022831917,
+  "sub100_share": 0.23603036999702454,
+  "lowest_pitch": 113.04931640625,
+  "harmonic_share": 0.7155733704566956,
+  "clean_share": 0.0,
+  "minor_share": -0.08125822295200213,
+  "chord_rate": 0.4999969765866873,
+  "repetitiveness": 0.8980021476745605,
+  "vocal_share": 0.11477670073509216,
+  "vocal_voiced": 0.4288840262582057,
+  "song_length": 212.373
+ }
+}

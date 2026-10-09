@@ -1,0 +1,32 @@
+{
+ "id": "we-are-wolf/1498021454-104",
+ "band": "we-are-wolf",
+ "title": "The Void",
+ "source": "itunes",
+ "album": "Oklahoma",
+ "year": 2015,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.71113865586966,
+  "tempo_var": 18.811777168785788,
+  "low_onset_rate": 7.116826480143529,
+  "lufs": -7.4151134670038825,
+  "rms_dbfs": -6.96055360626962,
+  "crest": 6.9605536460876465,
+  "centroid": 2534.2754435757943,
+  "flatness": 0.04440843313932419,
+  "sub100_share": 0.27533283829689026,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.6748487949371338,
+  "clean_share": 0.012412723041117145,
+  "minor_share": 0.10100308273871261,
+  "chord_rate": 2.405687824273869,
+  "repetitiveness": 0.8901889324188232,
+  "vocal_share": 0.15408456325531006,
+  "vocal_voiced": 0.2883522727272727,
+  "song_length": 211.509
+ }
+}

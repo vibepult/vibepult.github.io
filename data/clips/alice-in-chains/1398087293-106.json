@@ -1,0 +1,32 @@
+{
+ "id": "alice-in-chains/1398087293-106",
+ "band": "alice-in-chains",
+ "title": "Deaf Ears Blind Eyes",
+ "source": "itunes",
+ "album": "Rainier Fog",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 2.8,
+  "tempo_var": 13.193472263442569,
+  "low_onset_rate": 5.833333333333333,
+  "lufs": -10.289085347600789,
+  "rms_dbfs": -9.610929943951183,
+  "crest": 9.610930442810059,
+  "centroid": 2286.1044339664236,
+  "flatness": 0.01920945756137371,
+  "sub100_share": 0.27056726813316345,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8432981371879578,
+  "clean_share": 0.13854489164086686,
+  "minor_share": 0.07650168278293545,
+  "chord_rate": 1.3,
+  "repetitiveness": 0.70791095495224,
+  "vocal_share": 0.09437960386276245,
+  "vocal_voiced": 0.5383734249713631,
+  "song_length": 284.107
+ }
+}

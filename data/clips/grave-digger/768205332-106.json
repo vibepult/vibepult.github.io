@@ -1,0 +1,32 @@
+{
+ "id": "grave-digger/768205332-106",
+ "band": "grave-digger",
+ "title": "The House",
+ "source": "itunes",
+ "album": "The Grave Digger",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 2.505924816951947,
+  "tempo_var": 37.27399422349001,
+  "low_onset_rate": 5.34597294283082,
+  "lufs": -8.20800348549831,
+  "rms_dbfs": -8.052513319782097,
+  "crest": 8.052513122558594,
+  "centroid": 2466.9639271998453,
+  "flatness": 0.0352809764444828,
+  "sub100_share": 0.2442997694015503,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.6668630838394165,
+  "clean_share": 0.05508145849495733,
+  "minor_share": -0.020453414508012635,
+  "chord_rate": 0.8353082723173156,
+  "repetitiveness": 0.8921648263931274,
+  "vocal_share": 0.2830464243888855,
+  "vocal_voiced": 0.21422142214221424,
+  "song_length": 343.853
+ }
+}

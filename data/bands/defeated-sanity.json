@@ -1,0 +1,127 @@
+{
+ "slug": "defeated-sanity",
+ "name": "Defeated Sanity",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 277268753,
+  "deezer": 380399,
+  "spotify": "0dy6peOuKo2QkwaNWPoJpx"
+ },
+ "metadata": {
+  "formed": 1993,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 4,
+  "past_members": 10,
+  "full_lengths": 7,
+  "genre": "Technical Brutal Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 3557,
+  "themes": "Society, Nihilism, Mysticism, Delusions, Gore, Murder",
+  "release_year": 2011
+ },
+ "partial": false,
+ "clips": [
+  "defeated-sanity/1401018938-104",
+  "defeated-sanity/1401035969-104",
+  "defeated-sanity/714645118-105",
+  "defeated-sanity/714916150-105",
+  "defeated-sanity/1508648276-105",
+  "defeated-sanity/1757935262-104",
+  "defeated-sanity/1401018938-105",
+  "defeated-sanity/1401035969-105",
+  "defeated-sanity/714645118-104",
+  "defeated-sanity/714916150-106",
+  "defeated-sanity/1508648276-104",
+  "defeated-sanity/1757935262-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 15.892328143690193
+  },
+  "onset_rate": {
+   "median": 6.341075094150544,
+   "iqr": 1.6874623974794325
+  },
+  "tempo_var": {
+   "median": 9.729997191142473,
+   "iqr": 7.450875043467475
+  },
+  "low_onset_rate": {
+   "median": 7.633333333333333,
+   "iqr": 1.6707031433238972
+  },
+  "lufs": {
+   "median": -9.190223759001132,
+   "iqr": 1.9391173030017494
+  },
+  "rms_dbfs": {
+   "median": -8.414349732503437,
+   "iqr": 2.1296184509947587
+  },
+  "crest": {
+   "median": 8.414350032806396,
+   "iqr": 2.1296184062957764
+  },
+  "centroid": {
+   "median": 2580.960638104136,
+   "iqr": 180.57746943208667
+  },
+  "flatness": {
+   "median": 0.024649898521602154,
+   "iqr": 0.0038559050299227238
+  },
+  "sub100_share": {
+   "median": 0.385787233710289,
+   "iqr": 0.1245216652750969
+  },
+  "lowest_pitch": {
+   "median": 67.291259765625,
+   "iqr": 24.224853515625
+  },
+  "harmonic_share": {
+   "median": 0.8324877917766571,
+   "iqr": 0.04890449345111847
+  },
+  "clean_share": {
+   "median": 0.03297129557796742,
+   "iqr": 0.03991742046864944
+  },
+  "minor_share": {
+   "median": 0.10118346247108992,
+   "iqr": 0.1694687276474623
+  },
+  "chord_rate": {
+   "median": 2.8867083088380814,
+   "iqr": 0.4104851076468017
+  },
+  "repetitiveness": {
+   "median": 0.9341118931770325,
+   "iqr": 0.033178701996803284
+  },
+  "vocal_share": {
+   "median": 0.06920744478702545,
+   "iqr": 0.0564956096932292
+  },
+  "vocal_voiced": {
+   "median": 0.2907674151594022,
+   "iqr": 0.22299427482582412
+  },
+  "song_length": {
+   "median": 254.3465,
+   "iqr": 48.90699999999998
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

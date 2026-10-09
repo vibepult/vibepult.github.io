@@ -1,0 +1,32 @@
+{
+ "id": "savatage/297529747-109",
+ "band": "savatage",
+ "title": "Can You Hear Me Now",
+ "source": "itunes",
+ "album": "Streets: A Rock Opera",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.2332844552614475,
+  "tempo_var": 14.25250981306712,
+  "low_onset_rate": 4.733261779867274,
+  "lufs": -12.06124933063886,
+  "rms_dbfs": -11.976169812707463,
+  "crest": 11.97616958618164,
+  "centroid": 2457.173635102112,
+  "flatness": 0.028892502188682556,
+  "sub100_share": 0.18953488767147064,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7370712161064148,
+  "clean_share": 0.06960556844547564,
+  "minor_share": -0.04181950727664452,
+  "chord_rate": 1.8666384483983613,
+  "repetitiveness": 0.7631257772445679,
+  "vocal_share": 0.2577277421951294,
+  "vocal_voiced": 0.35906432748538014,
+  "song_length": 311.307
+ }
+}

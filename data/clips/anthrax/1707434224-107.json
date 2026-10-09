@@ -1,0 +1,32 @@
+{
+ "id": "anthrax/1707434224-107",
+ "band": "anthrax",
+ "title": "In the End",
+ "source": "itunes",
+ "album": "Worship Music",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 3.2666172846971326,
+  "tempo_var": 31.68311873718644,
+  "low_onset_rate": 4.833260268174329,
+  "lufs": -9.525650597078064,
+  "rms_dbfs": -8.410007916115024,
+  "crest": 8.41000747680664,
+  "centroid": 2360.6414270885934,
+  "flatness": 0.021375562995672226,
+  "sub100_share": 0.5490706562995911,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.7704663872718811,
+  "clean_share": 0.18561484918793503,
+  "minor_share": 0.334836573325648,
+  "chord_rate": 1.199981859684661,
+  "repetitiveness": 0.9572312235832214,
+  "vocal_share": 5.130671638653439e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 408.053
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "empyrium/1542693960-105",
+ "band": "empyrium",
+ "title": "The Archer",
+ "source": "itunes",
+ "album": "Über den Sternen",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 2.7398111332007953,
+  "tempo_var": 20.518372482447187,
+  "low_onset_rate": 2.773223464093488,
+  "lufs": -13.415344684631984,
+  "rms_dbfs": -12.30679985167261,
+  "crest": 12.30679988861084,
+  "centroid": 1684.3828301631713,
+  "flatness": 0.006759251467883587,
+  "sub100_share": 0.28089389204978943,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.8449920415878296,
+  "clean_share": 0.634600465477114,
+  "minor_share": 0.24137634649195683,
+  "chord_rate": 1.3030809048150125,
+  "repetitiveness": 0.6836291551589966,
+  "vocal_share": 0.26029467582702637,
+  "vocal_voiced": 0.849802371541502,
+  "song_length": 264.213
+ }
+}

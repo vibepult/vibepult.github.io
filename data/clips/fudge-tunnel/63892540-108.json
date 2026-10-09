@@ -1,0 +1,32 @@
+{
+ "id": "fudge-tunnel/63892540-108",
+ "band": "fudge-tunnel",
+ "title": "Find Your Fortune",
+ "source": "itunes",
+ "album": "The Complicated Futility of Ignorance",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.6753563981961888,
+  "tempo_var": 5.493584890047971,
+  "low_onset_rate": 7.150238811036222,
+  "lufs": -12.91530411910067,
+  "rms_dbfs": -11.876599033733285,
+  "crest": 11.876598358154297,
+  "centroid": 1680.7017789924394,
+  "flatness": 0.004783553071320057,
+  "sub100_share": 0.17699603736400604,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.9071468114852905,
+  "clean_share": 0.6687354538401862,
+  "minor_share": 0.07155041942538609,
+  "chord_rate": 1.3030809048150125,
+  "repetitiveness": 0.6889632940292358,
+  "vocal_share": 0.003173638368025422,
+  "vocal_voiced": 0.6086956521739131,
+  "song_length": 300.333
+ }
+}

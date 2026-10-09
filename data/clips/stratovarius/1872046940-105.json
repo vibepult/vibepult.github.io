@@ -1,0 +1,32 @@
+{
+ "id": "stratovarius/1872046940-105",
+ "band": "stratovarius",
+ "title": "Gypsy in Me",
+ "source": "itunes",
+ "album": "Stratovarius",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.499972789280186,
+  "tempo_var": 27.154658797226805,
+  "low_onset_rate": 2.4999848829334366,
+  "lufs": -13.037497856523352,
+  "rms_dbfs": -12.942880055386636,
+  "crest": 12.942880630493164,
+  "centroid": 2595.617379909712,
+  "flatness": 0.0188300684094429,
+  "sub100_share": 0.27958807349205017,
+  "lowest_pitch": 102.28271484375,
+  "harmonic_share": 0.6481944918632507,
+  "clean_share": 0.37819025522041766,
+  "minor_share": 0.016472281254520715,
+  "chord_rate": 1.7333228521671826,
+  "repetitiveness": 0.8425139784812927,
+  "vocal_share": 1.271003839065088e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 267.8
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "myrath/347711638-105",
+ "band": "myrath",
+ "title": "Silent cries",
+ "source": "itunes",
+ "album": "Desert Call",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 2.840048125878873,
+  "tempo_var": 19.383626578167743,
+  "low_onset_rate": 3.5417070746254184,
+  "lufs": -10.908811674194892,
+  "rms_dbfs": -10.668701166341634,
+  "crest": 10.668701171875,
+  "centroid": 2060.5471368305975,
+  "flatness": 0.016236843541264534,
+  "sub100_share": 0.20022903382778168,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.6910728216171265,
+  "clean_share": 0.20946470131885184,
+  "minor_share": 0.08620277090692463,
+  "chord_rate": 2.205213838917713,
+  "repetitiveness": 0.8439764976501465,
+  "vocal_share": 0.19460377097129822,
+  "vocal_voiced": 0.9022556390977443,
+  "song_length": 643.223
+ }
+}

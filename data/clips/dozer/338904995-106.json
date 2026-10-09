@@ -1,0 +1,32 @@
+{
+ "id": "dozer/338904995-106",
+ "band": "dozer",
+ "title": "Full Circle",
+ "source": "itunes",
+ "album": "Madre de Dios",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.5106646705135045,
+  "tempo_var": 2.12243241393384,
+  "low_onset_rate": 6.582229185860447,
+  "lufs": -8.702816866926987,
+  "rms_dbfs": -7.913505302093141,
+  "crest": 7.913505554199219,
+  "centroid": 1713.9920984049782,
+  "flatness": 0.0069737667217850685,
+  "sub100_share": 0.12160098552703857,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.8073689341545105,
+  "clean_share": 0.5182311869666408,
+  "minor_share": -0.1664337664130977,
+  "chord_rate": 0.801895941424623,
+  "repetitiveness": 0.843340277671814,
+  "vocal_share": 0.07114916294813156,
+  "vocal_voiced": 0.898034398034398,
+  "song_length": 299.067
+ }
+}

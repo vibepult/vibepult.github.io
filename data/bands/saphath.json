@@ -1,0 +1,125 @@
+{
+ "slug": "saphath",
+ "name": "Saphath",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1609537350,
+  "deezer": 160188062,
+  "spotify": "5qjfzysMFcmnHxVah6L6GW"
+ },
+ "metadata": {
+  "formed": 2019,
+  "split": null,
+  "country": "RU",
+  "status": "active",
+  "members": 7,
+  "past_members": 0,
+  "full_lengths": 1,
+  "genre": "Symphonic Death/Gothic Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 24,
+  "themes": "N/A",
+  "release_year": 2022
+ },
+ "partial": false,
+ "clips": [
+  "saphath/1827790915-105",
+  "saphath/1827790915-106",
+  "saphath/1827790915-104",
+  "saphath/1827790915-107",
+  "saphath/1827790915-103",
+  "saphath/1827790915-108",
+  "saphath/1827790915-102",
+  "saphath/1827790915-109",
+  "saphath/1827790915-101",
+  "saphath/1827790915-110"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 14.177139945652172
+  },
+  "onset_rate": {
+   "median": 4.749928194585117,
+   "iqr": 2.841623709392148
+  },
+  "tempo_var": {
+   "median": 9.55808136040756,
+   "iqr": 8.437319485823595
+  },
+  "low_onset_rate": {
+   "median": 5.633248174630769,
+   "iqr": 3.3249497362095806
+  },
+  "lufs": {
+   "median": -7.384014760194532,
+   "iqr": 0.8935884413858286
+  },
+  "rms_dbfs": {
+   "median": -6.733183823234578,
+   "iqr": 0.7067316219441393
+  },
+  "crest": {
+   "median": 6.733183860778809,
+   "iqr": 0.7067314386367798
+  },
+  "centroid": {
+   "median": 2589.739456758565,
+   "iqr": 160.93596225594683
+  },
+  "flatness": {
+   "median": 0.0361374095082283,
+   "iqr": 0.008683727122843266
+  },
+  "sub100_share": {
+   "median": 0.36101873219013214,
+   "iqr": 0.043718285858631134
+  },
+  "lowest_pitch": {
+   "median": 55.1788330078125,
+   "iqr": 14.13116455078125
+  },
+  "harmonic_share": {
+   "median": 0.7950181365013123,
+   "iqr": 0.08225370943546295
+  },
+  "clean_share": {
+   "median": 0.037122969837587005,
+   "iqr": 0.13843774168600156
+  },
+  "minor_share": {
+   "median": 0.06367972800658483,
+   "iqr": 0.22361968665981322
+  },
+  "chord_rate": {
+   "median": 1.4666444951701412,
+   "iqr": 0.35832791643361417
+  },
+  "repetitiveness": {
+   "median": 0.8365983068943024,
+   "iqr": 0.11609850823879242
+  },
+  "vocal_share": {
+   "median": 0.13388804718852043,
+   "iqr": 0.07787087000906467
+  },
+  "vocal_voiced": {
+   "median": 0.3121637110382374,
+   "iqr": 0.4546948345866083
+  },
+  "song_length": {
+   "median": 248.05599999999998,
+   "iqr": 89.11650000000003
+  },
+  "vocal_presence": {
+   "median": 0.8,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

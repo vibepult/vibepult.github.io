@@ -1,0 +1,127 @@
+{
+ "slug": "briqueville",
+ "name": "Briqueville",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 985848679,
+  "deezer": 11922515,
+  "spotify": "4xz5MCPATnYVHJyLEduBPV"
+ },
+ "metadata": {
+  "formed": 2014,
+  "split": null,
+  "country": "BE",
+  "status": "active",
+  "members": 0,
+  "past_members": 0,
+  "full_lengths": 4,
+  "genre": "Post-Metal/Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 591,
+  "themes": "N/A",
+  "release_year": 2020
+ },
+ "partial": false,
+ "clips": [
+  "briqueville/1526167897-104",
+  "briqueville/1705466340-103",
+  "briqueville/1526167897-105",
+  "briqueville/1705466340-102",
+  "briqueville/1526167897-103",
+  "briqueville/1705466340-104",
+  "briqueville/1526167897-106",
+  "briqueville/1705466340-101",
+  "briqueville/1526167897-102",
+  "briqueville/1705466340-105",
+  "briqueville/1526167897-107",
+  "briqueville/1526167897-101"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 112.34714673913044,
+   "iqr": 44.49638715378032
+  },
+  "onset_rate": {
+   "median": 3.2538708804086056,
+   "iqr": 1.0264812042379865
+  },
+  "tempo_var": {
+   "median": 7.439189292109454,
+   "iqr": 9.375119608212323
+  },
+  "low_onset_rate": {
+   "median": 5.863864071667556,
+   "iqr": 2.695360711745786
+  },
+  "lufs": {
+   "median": -12.253629897349633,
+   "iqr": 3.1540230555731323
+  },
+  "rms_dbfs": {
+   "median": -10.222866382124081,
+   "iqr": 3.343925336930763
+  },
+  "crest": {
+   "median": 9.990520477294922,
+   "iqr": 2.7651562690734863
+  },
+  "centroid": {
+   "median": 1425.070356104544,
+   "iqr": 1054.5232709636316
+  },
+  "flatness": {
+   "median": 0.002992397523485124,
+   "iqr": 0.012149306843639351
+  },
+  "sub100_share": {
+   "median": 0.759012371301651,
+   "iqr": 0.2888401597738266
+  },
+  "lowest_pitch": {
+   "median": 51.141357421875,
+   "iqr": 10.7666015625
+  },
+  "harmonic_share": {
+   "median": 0.9529899060726166,
+   "iqr": 0.07136541604995728
+  },
+  "clean_share": {
+   "median": 0.8693478636810161,
+   "iqr": 0.4876467225655523
+  },
+  "minor_share": {
+   "median": 0.01524546224314155,
+   "iqr": 0.09504449767823289
+  },
+  "chord_rate": {
+   "median": 1.168207119074173,
+   "iqr": 1.1960312818212677
+  },
+  "repetitiveness": {
+   "median": 0.8714981973171234,
+   "iqr": 0.10800354182720184
+  },
+  "vocal_share": {
+   "median": 0.07317568361759186,
+   "iqr": 0.0
+  },
+  "vocal_voiced": {
+   "median": 0.9949874686716792,
+   "iqr": 0.0
+  },
+  "song_length": {
+   "median": 392.5005,
+   "iqr": 123.43450000000001
+  },
+  "vocal_presence": {
+   "median": 0.08333333333333333,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "rata-blanca/477001908-106",
+ "band": "rata-blanca",
+ "title": "Patria",
+ "source": "itunes",
+ "album": "Entre el Cielo y el Infierno",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 1.8654850517963677,
+  "tempo_var": 35.03876672430202,
+  "low_onset_rate": 1.299177089643899,
+  "lufs": -20.87160406135339,
+  "rms_dbfs": -20.691695910671918,
+  "crest": 20.51712417602539,
+  "centroid": 2751.974531574679,
+  "flatness": 0.026901796460151672,
+  "sub100_share": 0.30732670426368713,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7902897596359253,
+  "clean_share": 0.025522041763341066,
+  "minor_share": 0.1381617009156314,
+  "chord_rate": 0.9993669920337684,
+  "repetitiveness": 0.5902023911476135,
+  "vocal_share": 0.1415051519870758,
+  "vocal_voiced": 0.8706467661691543,
+  "song_length": 440.8
+ }
+}

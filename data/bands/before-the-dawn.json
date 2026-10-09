@@ -1,0 +1,127 @@
+{
+ "slug": "before-the-dawn",
+ "name": "Before the Dawn",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 48888081,
+  "deezer": 15630,
+  "spotify": "6L77qXFnXb7Tac7xzPa0Y7"
+ },
+ "metadata": {
+  "formed": 1999,
+  "split": null,
+  "country": "FI",
+  "status": "active",
+  "members": 5,
+  "past_members": 16,
+  "full_lengths": 9,
+  "genre": "Melodic Death/Gothic Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 12851,
+  "themes": "Melancholy, Despair, Atheism, Dark fantasy",
+  "release_year": 2009
+ },
+ "partial": false,
+ "clips": [
+  "before-the-dawn/373360029-105",
+  "before-the-dawn/1186300939-105",
+  "before-the-dawn/1186303345-105",
+  "before-the-dawn/1456973811-106",
+  "before-the-dawn/1460465791-106",
+  "before-the-dawn/1678190815-105",
+  "before-the-dawn/1811701236-106",
+  "before-the-dawn/373360029-106",
+  "before-the-dawn/1186300939-106",
+  "before-the-dawn/1186303345-106",
+  "before-the-dawn/1456973811-107",
+  "before-the-dawn/1460465791-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 133.30078125,
+   "iqr": 44.17067307692308
+  },
+  "onset_rate": {
+   "median": 3.641944067303496,
+   "iqr": 1.7310154899297236
+  },
+  "tempo_var": {
+   "median": 14.235288299582585,
+   "iqr": 11.698663419363445
+  },
+  "low_onset_rate": {
+   "median": 4.71113865586966,
+   "iqr": 2.4892186515056003
+  },
+  "lufs": {
+   "median": -9.52720935889407,
+   "iqr": 2.3824371440117975
+  },
+  "rms_dbfs": {
+   "median": -9.2782522082241,
+   "iqr": 2.8611501969300566
+  },
+  "crest": {
+   "median": 9.278252124786377,
+   "iqr": 2.8611501455307007
+  },
+  "centroid": {
+   "median": 2493.6099498550557,
+   "iqr": 371.80308602052264
+  },
+  "flatness": {
+   "median": 0.030653880909085274,
+   "iqr": 0.01658710604533553
+  },
+  "sub100_share": {
+   "median": 0.3662275969982147,
+   "iqr": 0.10853410512208939
+  },
+  "lowest_pitch": {
+   "median": 55.1788330078125,
+   "iqr": 24.224853515625
+  },
+  "harmonic_share": {
+   "median": 0.772382378578186,
+   "iqr": 0.07991248369216919
+  },
+  "clean_share": {
+   "median": 0.05120248254460823,
+   "iqr": 0.20073700543056636
+  },
+  "minor_share": {
+   "median": 0.013142114696530371,
+   "iqr": 0.10114762928017892
+  },
+  "chord_rate": {
+   "median": 1.2195500775832808,
+   "iqr": 0.4934060742890055
+  },
+  "repetitiveness": {
+   "median": 0.8586070537567139,
+   "iqr": 0.07430832087993622
+  },
+  "vocal_share": {
+   "median": 0.11137926578521729,
+   "iqr": 0.08143716305494308
+  },
+  "vocal_voiced": {
+   "median": 0.34587813620071683,
+   "iqr": 0.36747098223294045
+  },
+  "song_length": {
+   "median": 261.336,
+   "iqr": 49.76350000000002
+  },
+  "vocal_presence": {
+   "median": 0.5833333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

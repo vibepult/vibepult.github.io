@@ -1,0 +1,32 @@
+{
+ "id": "aria/824645472-105",
+ "band": "aria",
+ "title": "Король дороги",
+ "source": "itunes",
+ "album": "Ночь короче дня",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.2333137819272446,
+  "tempo_var": 16.77547039079251,
+  "low_onset_rate": 3.7999770220588234,
+  "lufs": -15.088221947876331,
+  "rms_dbfs": -14.51439963489348,
+  "crest": 14.514399528503418,
+  "centroid": 2368.335831605107,
+  "flatness": 0.03576236963272095,
+  "sub100_share": 0.27998247742652893,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.765855073928833,
+  "clean_share": 0.12296983758700696,
+  "minor_share": -0.0010157329776726565,
+  "chord_rate": 1.2666590073529411,
+  "repetitiveness": 0.8070127964019775,
+  "vocal_share": 0.05549990385770798,
+  "vocal_voiced": 0.8470588235294118,
+  "song_length": 257.507
+ }
+}

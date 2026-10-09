@@ -1,0 +1,32 @@
+{
+ "id": "bloodgood/560189464-104",
+ "band": "bloodgood",
+ "title": "It's Alright",
+ "source": "itunes",
+ "album": "Out of the Darkness (Remastered)",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.30782075837657,
+  "tempo_var": 3.3122048418802015,
+  "low_onset_rate": 4.310190685157349,
+  "lufs": -8.960737709079021,
+  "rms_dbfs": -8.371098378838473,
+  "crest": 8.371098518371582,
+  "centroid": 2508.562993523896,
+  "flatness": 0.024417364969849586,
+  "sub100_share": 0.3140328526496887,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8059933185577393,
+  "clean_share": 0.11249030256012413,
+  "minor_share": -0.032587329441093216,
+  "chord_rate": 2.338863162488484,
+  "repetitiveness": 0.6753295063972473,
+  "vocal_share": 0.36652836203575134,
+  "vocal_voiced": 0.8500931098696461,
+  "song_length": 224.8
+ }
+}

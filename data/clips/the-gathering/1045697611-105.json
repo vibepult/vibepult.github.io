@@ -1,0 +1,32 @@
+{
+ "id": "the-gathering/1045697611-105",
+ "band": "the-gathering",
+ "title": "New Moon Different Day",
+ "source": "itunes",
+ "album": "Nighttime Birds",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.940285118556951,
+  "tempo_var": 2.6229855665186927,
+  "low_onset_rate": 3.1407591039131066,
+  "lufs": -10.570016058542278,
+  "rms_dbfs": -9.641558022130493,
+  "crest": 9.641558647155762,
+  "centroid": 1606.4789745248747,
+  "flatness": 0.005569114815443754,
+  "sub100_share": 0.24277964234352112,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8788774609565735,
+  "clean_share": 0.7292474786656322,
+  "minor_share": 0.14600512284249312,
+  "chord_rate": 0.7350712796392378,
+  "repetitiveness": 0.7360138893127441,
+  "vocal_share": 0.36433231830596924,
+  "vocal_voiced": 0.9806167400881057,
+  "song_length": 366.8
+ }
+}

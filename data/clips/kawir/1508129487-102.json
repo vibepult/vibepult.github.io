@@ -1,0 +1,32 @@
+{
+ "id": "kawir/1508129487-102",
+ "band": "kawir",
+ "title": "Oedipus",
+ "source": "itunes",
+ "album": "Εξιλασμός",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 4.610901663191583,
+  "tempo_var": 1.85343846699824,
+  "low_onset_rate": 7.7850730979973815,
+  "lufs": -9.361621095829264,
+  "rms_dbfs": -9.332280991380445,
+  "crest": 9.332281112670898,
+  "centroid": 2252.9498676018693,
+  "flatness": 0.029172152280807495,
+  "sub100_share": 0.19837304949760437,
+  "lowest_pitch": 29.608154296875,
+  "harmonic_share": 0.6612503528594971,
+  "clean_share": 0.0,
+  "minor_share": 0.03670236864528342,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.9479549527168274,
+  "vocal_share": 0.12467391788959503,
+  "vocal_voiced": 0.22999080036798528,
+  "song_length": 403.679
+ }
+}

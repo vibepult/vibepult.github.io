@@ -1,0 +1,32 @@
+{
+ "id": "metsatoll/1455484537-106",
+ "band": "metsatoll",
+ "title": "Talvehambad",
+ "source": "itunes",
+ "album": "Katk Kutsariks",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.878200310333123,
+  "tempo_var": 2.559820839255572,
+  "low_onset_rate": 4.243366023371963,
+  "lufs": -16.18113678927546,
+  "rms_dbfs": -14.785685932334404,
+  "crest": 14.785686492919922,
+  "centroid": 1351.3943276118828,
+  "flatness": 0.004079029429703951,
+  "sub100_share": 0.4910813271999359,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8346601724624634,
+  "clean_share": 0.7121799844840963,
+  "minor_share": 0.177314663133886,
+  "chord_rate": 1.1026069194588566,
+  "repetitiveness": 0.6437557339668274,
+  "vocal_share": 9.104346645472106e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 270.362
+ }
+}

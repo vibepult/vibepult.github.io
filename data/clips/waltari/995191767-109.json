@@ -1,0 +1,32 @@
+{
+ "id": "waltari/995191767-109",
+ "band": "waltari",
+ "title": "Fly into the Light",
+ "source": "itunes",
+ "album": "Blood Sample",
+ "year": 2005,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 5.279148281045435,
+  "tempo_var": 15.31081416032148,
+  "low_onset_rate": 8.887680017456239,
+  "lufs": -9.75902212178316,
+  "rms_dbfs": -8.429229353103288,
+  "crest": 8.429229736328125,
+  "centroid": 2478.751636569381,
+  "flatness": 0.026655027642846107,
+  "sub100_share": 0.5225337147712708,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8185257315635681,
+  "clean_share": 0.04034134988363072,
+  "minor_share": -0.0011670925809914579,
+  "chord_rate": 1.7374412064200164,
+  "repetitiveness": 0.832563579082489,
+  "vocal_share": 0.09912963956594467,
+  "vocal_voiced": 0.7800829875518672,
+  "song_length": 274.387
+ }
+}

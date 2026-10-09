@@ -1,0 +1,32 @@
+{
+ "id": "anata/163531383-104",
+ "band": "anata",
+ "title": "The Great Juggler",
+ "source": "itunes",
+ "album": "The Conductor's Departure",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.343603016050041,
+  "tempo_var": 1.0758160412313835,
+  "low_onset_rate": 2.572749478737332,
+  "lufs": -11.341069709996809,
+  "rms_dbfs": -10.588168488637177,
+  "crest": 10.588168144226074,
+  "centroid": 2777.1288197768745,
+  "flatness": 0.03600568324327469,
+  "sub100_share": 0.40377721190452576,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7974856495857239,
+  "clean_share": 0.04654771140418929,
+  "minor_share": -0.05026099082831176,
+  "chord_rate": 2.773223464093488,
+  "repetitiveness": 0.9500768780708313,
+  "vocal_share": 1.3558531009039143e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 360.547
+ }
+}

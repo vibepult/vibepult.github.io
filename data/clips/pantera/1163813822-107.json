@@ -1,0 +1,32 @@
+{
+ "id": "pantera/1163813822-107",
+ "band": "pantera",
+ "title": "Shattered",
+ "source": "itunes",
+ "album": "Cowboys from Hell",
+ "year": 1990,
+ "itunes_year": 1990,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.799255224611441,
+  "tempo_var": 19.281892253387216,
+  "low_onset_rate": 4.0989094360381815,
+  "lufs": -11.222591453738547,
+  "rms_dbfs": -11.28184319311346,
+  "crest": 11.281843185424805,
+  "centroid": 3260.687041599792,
+  "flatness": 0.05856133997440338,
+  "sub100_share": 0.2444624900817871,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.6924676299095154,
+  "clean_share": 0.0030935808197989174,
+  "minor_share": 0.04701777812587027,
+  "chord_rate": 1.9661435506199407,
+  "repetitiveness": 0.8455482125282288,
+  "vocal_share": 0.16309650242328644,
+  "vocal_voiced": 0.4958828911253431,
+  "song_length": 202.066
+ }
+}

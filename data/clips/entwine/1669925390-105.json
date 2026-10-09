@@ -1,0 +1,32 @@
+{
+ "id": "entwine/1669925390-105",
+ "band": "entwine",
+ "title": "Grace",
+ "source": "itunes",
+ "album": "Gone",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 69.83741554054055,
+  "onset_rate": 1.971327522668865,
+  "tempo_var": 2.119556483323304,
+  "low_onset_rate": 4.310190685157349,
+  "lufs": -8.748510485620146,
+  "rms_dbfs": -8.428786673184252,
+  "crest": 8.428787231445312,
+  "centroid": 2539.766036608087,
+  "flatness": 0.03067500703036785,
+  "sub100_share": 0.24472858011722565,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8462820053100586,
+  "clean_share": 0.03801396431342126,
+  "minor_share": -0.013601897506879457,
+  "chord_rate": 0.8353082723173156,
+  "repetitiveness": 0.7167919278144836,
+  "vocal_share": 0.2499375343322754,
+  "vocal_voiced": 0.8198498748957465,
+  "song_length": 292.707
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "urfaust",
+ "name": "Urfaust",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 478736947,
+  "deezer": 1092273,
+  "spotify": "6D3oL9YvZBgd3IVFWUJ2BI"
+ },
+ "metadata": {
+  "formed": 2003,
+  "split": 2023,
+  "country": "NL",
+  "status": "split-up",
+  "members": 2,
+  "past_members": 1,
+  "full_lengths": 7,
+  "genre": "Atmospheric Black Metal/Ambient",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 5321,
+  "themes": "Death, Occultism, Intoxication, Rituals, Nihilism",
+  "release_year": 2020
+ },
+ "partial": false,
+ "clips": [
+  "urfaust/1431759716-103",
+  "urfaust/1542213309-103",
+  "urfaust/1701821167-104",
+  "urfaust/1431759716-104",
+  "urfaust/1542213309-102",
+  "urfaust/1701821167-103",
+  "urfaust/1431759716-102",
+  "urfaust/1542213309-104",
+  "urfaust/1701821167-105",
+  "urfaust/1431759716-105",
+  "urfaust/1542213309-101",
+  "urfaust/1701821167-102"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 101.6845703125,
+   "iqr": 33.987359791340126
+  },
+  "onset_rate": {
+   "median": 2.7398111332007953,
+   "iqr": 2.628520877594073
+  },
+  "tempo_var": {
+   "median": 5.848258039326929,
+   "iqr": 3.366700033810269
+  },
+  "low_onset_rate": {
+   "median": 6.173800715912237,
+   "iqr": 3.1773041691317276
+  },
+  "lufs": {
+   "median": -13.354650963051455,
+   "iqr": 3.669121106422674
+  },
+  "rms_dbfs": {
+   "median": -12.62368864801344,
+   "iqr": 4.25351125053364
+  },
+  "crest": {
+   "median": 12.623688697814941,
+   "iqr": 3.5276412963867188
+  },
+  "centroid": {
+   "median": 2210.779629111405,
+   "iqr": 425.48920713078724
+  },
+  "flatness": {
+   "median": 0.011849069502204657,
+   "iqr": 0.013666272396221757
+  },
+  "sub100_share": {
+   "median": 0.4094042032957077,
+   "iqr": 0.21751859784126282
+  },
+  "lowest_pitch": {
+   "median": 59.21630859375,
+   "iqr": 12.1124267578125
+  },
+  "harmonic_share": {
+   "median": 0.9134738445281982,
+   "iqr": 0.07861444354057312
+  },
+  "clean_share": {
+   "median": 0.09270752521334369,
+   "iqr": 0.3102255266017351
+  },
+  "minor_share": {
+   "median": 0.003270337121557554,
+   "iqr": 0.06304923246734255
+  },
+  "chord_rate": {
+   "median": 0.9175190114485946,
+   "iqr": 0.924552006071315
+  },
+  "repetitiveness": {
+   "median": 0.7212981879711151,
+   "iqr": 0.16994179785251617
+  },
+  "vocal_share": {
+   "median": 0.32841718196868896,
+   "iqr": 0.0
+  },
+  "vocal_voiced": {
+   "median": 0.8502715283165244,
+   "iqr": 0.0
+  },
+  "song_length": {
+   "median": 354.67100000000005,
+   "iqr": 184.64525000000003
+  },
+  "vocal_presence": {
+   "median": 0.08333333333333333,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.5,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

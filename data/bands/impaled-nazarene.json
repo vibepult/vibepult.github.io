@@ -1,0 +1,127 @@
+{
+ "slug": "impaled-nazarene",
+ "name": "Impaled Nazarene",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 260244384,
+  "deezer": 8333,
+  "spotify": "4Q7d9egO7iMngBWfgvm57d"
+ },
+ "metadata": {
+  "formed": 1990,
+  "split": null,
+  "country": "FI",
+  "status": "active",
+  "members": 4,
+  "past_members": 13,
+  "full_lengths": 13,
+  "genre": "Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 14125,
+  "themes": "Satanism, War, Rape, Violence, Politics, Intolerance, Death",
+  "release_year": 1999
+ },
+ "partial": false,
+ "clips": [
+  "impaled-nazarene/301096060-107",
+  "impaled-nazarene/260251126-107",
+  "impaled-nazarene/260244348-105",
+  "impaled-nazarene/267087986-110",
+  "impaled-nazarene/1549714564-104",
+  "impaled-nazarene/301096060-109",
+  "impaled-nazarene/260251126-108",
+  "impaled-nazarene/260244348-106",
+  "impaled-nazarene/267087986-109",
+  "impaled-nazarene/1549714564-106",
+  "impaled-nazarene/301096060-106",
+  "impaled-nazarene/260251126-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 132.59919819078948,
+   "iqr": 44.22047334558823
+  },
+  "onset_rate": {
+   "median": 7.3507127963923775,
+   "iqr": 1.5035548901711682
+  },
+  "tempo_var": {
+   "median": 6.697939007176624,
+   "iqr": 4.64558183989765
+  },
+  "low_onset_rate": {
+   "median": 7.768366932551036,
+   "iqr": 2.405687824273869
+  },
+  "lufs": {
+   "median": -6.775432511049592,
+   "iqr": 0.9166873641036712
+  },
+  "rms_dbfs": {
+   "median": -6.520309846546177,
+   "iqr": 1.1341040805067646
+  },
+  "crest": {
+   "median": 6.520309686660767,
+   "iqr": 1.1341038942337036
+  },
+  "centroid": {
+   "median": 2852.2831318350163,
+   "iqr": 274.9963976584377
+  },
+  "flatness": {
+   "median": 0.052052468061447144,
+   "iqr": 0.016403527930378914
+  },
+  "sub100_share": {
+   "median": 0.3072464019060135,
+   "iqr": 0.05562514066696167
+  },
+  "lowest_pitch": {
+   "median": 51.141357421875,
+   "iqr": 18.841552734375
+  },
+  "harmonic_share": {
+   "median": 0.6732682883739471,
+   "iqr": 0.10760541260242462
+  },
+  "clean_share": {
+   "median": 0.0,
+   "iqr": 0.0003878975950349108
+  },
+  "minor_share": {
+   "median": 0.018730880059516147,
+   "iqr": 0.07815514478259067
+  },
+  "chord_rate": {
+   "median": 2.138389177132328,
+   "iqr": 0.4761257152208702
+  },
+  "repetitiveness": {
+   "median": 0.930833101272583,
+   "iqr": 0.0371972918510437
+  },
+  "vocal_share": {
+   "median": 0.06789099425077438,
+   "iqr": 0.055813468992710114
+  },
+  "vocal_voiced": {
+   "median": 0.1756376869255593,
+   "iqr": 0.0744151726089819
+  },
+  "song_length": {
+   "median": 166.81349999999998,
+   "iqr": 53.576250000000016
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.5,
+  "camp": 0.6
+ },
+ "sources_failed": []
+}

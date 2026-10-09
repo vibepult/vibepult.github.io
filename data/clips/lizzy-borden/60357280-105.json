@@ -1,0 +1,32 @@
+{
+ "id": "lizzy-borden/60357280-105",
+ "band": "lizzy-borden",
+ "title": "Stiletto (Voice of Command)",
+ "source": "itunes",
+ "album": "Menace to Society",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.744550986762353,
+  "tempo_var": 9.296036895978482,
+  "low_onset_rate": 4.243366023371963,
+  "lufs": -6.406734341790638,
+  "rms_dbfs": -6.709265006330916,
+  "crest": 6.709265232086182,
+  "centroid": 2529.5723609923516,
+  "flatness": 0.03354634717106819,
+  "sub100_share": 0.08495885133743286,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.6591817736625671,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": -0.050063538023080834,
+  "chord_rate": 1.9379151917761723,
+  "repetitiveness": 0.8712379932403564,
+  "vocal_share": 0.4235287010669708,
+  "vocal_voiced": 0.7341176470588235,
+  "song_length": 213.2
+ }
+}

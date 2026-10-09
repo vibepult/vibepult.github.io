@@ -1,0 +1,32 @@
+{
+ "id": "riverside/1416948034-105",
+ "band": "riverside",
+ "title": "Lament",
+ "source": "itunes",
+ "album": "Wasteland",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 2.598354179287798,
+  "tempo_var": 5.69678549656396,
+  "low_onset_rate": 4.930210494033258,
+  "lufs": -11.64173607839713,
+  "rms_dbfs": -11.006984862275402,
+  "crest": 11.00698471069336,
+  "centroid": 1807.4681434978415,
+  "flatness": 0.009655529633164406,
+  "sub100_share": 0.2406284064054489,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.86055988073349,
+  "clean_share": 0.4756380510440835,
+  "minor_share": 0.12749335359734704,
+  "chord_rate": 0.7661813605592225,
+  "repetitiveness": 0.6618373394012451,
+  "vocal_share": 0.1327802985906601,
+  "vocal_voiced": 0.9686609686609686,
+  "song_length": 368.813
+ }
+}

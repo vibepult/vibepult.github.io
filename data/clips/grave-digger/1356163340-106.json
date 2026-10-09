@@ -1,0 +1,32 @@
+{
+ "id": "grave-digger/1356163340-106",
+ "band": "grave-digger",
+ "title": "Legion of the Lost (2018 Remaster)",
+ "source": "itunes",
+ "album": "Heavy Metal Breakdown (Bonus Tracks Edition) [Remastered]",
+ "year": 1984,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 2.6395741405227175,
+  "tempo_var": 21.104230890688278,
+  "low_onset_rate": 3.30782075837657,
+  "lufs": -15.057252930466788,
+  "rms_dbfs": -14.374672414484621,
+  "crest": 14.374671936035156,
+  "centroid": 2856.2005603518414,
+  "flatness": 0.02532978169620037,
+  "sub100_share": 0.37919655442237854,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.6667357683181763,
+  "clean_share": 0.22963537626066718,
+  "minor_share": 0.10643289512917964,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.6737139225006104,
+  "vocal_share": 0.07508911937475204,
+  "vocal_voiced": 0.9562334217506632,
+  "song_length": 294.067
+ }
+}

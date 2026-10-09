@@ -1,0 +1,32 @@
+{
+ "id": "macabre/1527226374-109",
+ "band": "macabre",
+ "title": "Slaughter House",
+ "source": "itunes",
+ "album": "Carnival of Killers",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 2.205213838917713,
+  "tempo_var": 15.347167845859158,
+  "low_onset_rate": 1.0357822576734714,
+  "lufs": -11.061048969017381,
+  "rms_dbfs": -10.022776768885999,
+  "crest": 10.022775650024414,
+  "centroid": 2659.607588186772,
+  "flatness": 0.029003039002418518,
+  "sub100_share": 0.5523651242256165,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.865826427936554,
+  "clean_share": 0.05508145849495733,
+  "minor_share": 0.06501583064938066,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.69258713722229,
+  "vocal_share": 0.05140197277069092,
+  "vocal_voiced": 0.7037037037037037,
+  "song_length": 153.147
+ }
+}

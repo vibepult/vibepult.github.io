@@ -1,0 +1,32 @@
+{
+ "id": "mercenary/1045612550-106",
+ "band": "mercenary",
+ "title": "Sharpen the Edges",
+ "source": "itunes",
+ "album": "11 Dreams",
+ "year": 2004,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.575119405518111,
+  "tempo_var": 2.197883648700548,
+  "low_onset_rate": 5.780333244435824,
+  "lufs": -6.703648453573064,
+  "rms_dbfs": -6.762857125249468,
+  "crest": 6.762857437133789,
+  "centroid": 2659.5328803657844,
+  "flatness": 0.0348961241543293,
+  "sub100_share": 0.18119020760059357,
+  "lowest_pitch": 99.591064453125,
+  "harmonic_share": 0.8294145464897156,
+  "clean_share": 0.0,
+  "minor_share": -0.03828452704862606,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.7715697288513184,
+  "vocal_share": 0.32304978370666504,
+  "vocal_voiced": 0.793273174733388,
+  "song_length": 334.867
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "machine-head/1530511730-105",
+ "band": "machine-head",
+ "title": "Slanderous",
+ "source": "itunes",
+ "album": "The Blackening",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 1.6333234568498451,
+  "tempo_var": 16.498192468186012,
+  "low_onset_rate": 3.133314386609907,
+  "lufs": -10.167088369285265,
+  "rms_dbfs": -10.515431268697872,
+  "crest": 10.51543140411377,
+  "centroid": 3056.781879655913,
+  "flatness": 0.04750603437423706,
+  "sub100_share": 0.23331218957901,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.6110549569129944,
+  "clean_share": 0.0069605568445475635,
+  "minor_share": -0.08102637079344172,
+  "chord_rate": 2.8666493324303404,
+  "repetitiveness": 0.9054573774337769,
+  "vocal_share": 7.648588393749378e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 316.917
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "fozzy/932611399-106",
+ "band": "fozzy",
+ "title": "Big City Nights",
+ "source": "itunes",
+ "album": "Happenstance",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 2.940285118556951,
+  "tempo_var": 20.95401767311394,
+  "low_onset_rate": 2.505924816951947,
+  "lufs": -13.475223453372722,
+  "rms_dbfs": -13.273577167128693,
+  "crest": 13.273576736450195,
+  "centroid": 2653.0274005446017,
+  "flatness": 0.025994056835770607,
+  "sub100_share": 0.3046715259552002,
+  "lowest_pitch": 88.824462890625,
+  "harmonic_share": 0.6184194684028625,
+  "clean_share": 0.1008533747090768,
+  "minor_share": 0.09110866159546338,
+  "chord_rate": 1.336493235707705,
+  "repetitiveness": 0.8003888130187988,
+  "vocal_share": 0.014861565083265305,
+  "vocal_voiced": 0.9120879120879121,
+  "song_length": 265.333
+ }
+}

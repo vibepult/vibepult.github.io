@@ -1,0 +1,32 @@
+{
+ "id": "mortician/1596992764-110",
+ "band": "mortician",
+ "title": "Axe",
+ "source": "itunes",
+ "album": "Re​-​Animated Dead Flesh",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 7.718248436211996,
+  "tempo_var": 0.0,
+  "low_onset_rate": 8.754030693885468,
+  "lufs": -9.921609525273357,
+  "rms_dbfs": -9.040285595302874,
+  "crest": 9.040285110473633,
+  "centroid": 2649.707043348769,
+  "flatness": 0.03172789514064789,
+  "sub100_share": 0.3604591190814972,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7706034183502197,
+  "clean_share": 0.010861132660977503,
+  "minor_share": -0.11110198887706185,
+  "chord_rate": 3.207583765698492,
+  "repetitiveness": 0.9642131924629211,
+  "vocal_share": 0.05410497635602951,
+  "vocal_voiced": 0.24415204678362573,
+  "song_length": 141.2
+ }
+}

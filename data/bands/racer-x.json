@@ -1,0 +1,127 @@
+{
+ "slug": "racer-x",
+ "name": "Racer X",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 128650740,
+  "deezer": 1027612,
+  "spotify": "6C3ixObG7tE7jeO69rehvs"
+ },
+ "metadata": {
+  "formed": 1984,
+  "split": null,
+  "country": "US",
+  "status": "on hold",
+  "members": 4,
+  "past_members": 5,
+  "full_lengths": 5,
+  "genre": "Heavy Metal/Shred",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 9987,
+  "themes": "Independence, Life, Love, Death, Fantasy, Rock, Hardships, Racing",
+  "release_year": 1993
+ },
+ "partial": false,
+ "clips": [
+  "racer-x/1049046409-106",
+  "racer-x/1049104199-105",
+  "racer-x/1049048089-107",
+  "racer-x/1048254102-105",
+  "racer-x/1047889273-106",
+  "racer-x/1049046409-107",
+  "racer-x/1049104199-106",
+  "racer-x/1049048089-106",
+  "racer-x/1048254102-106",
+  "racer-x/1047889273-107",
+  "racer-x/1049046409-105",
+  "racer-x/1049104199-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.19921875,
+   "iqr": 24.951675072460432
+  },
+  "onset_rate": {
+   "median": 2.499984882933436,
+   "iqr": 1.7053554607914578
+  },
+  "tempo_var": {
+   "median": 8.325010931431045,
+   "iqr": 14.779292845734723
+  },
+  "low_onset_rate": {
+   "median": 3.3999794407894735,
+   "iqr": 3.1032061945246534
+  },
+  "lufs": {
+   "median": -13.548184714513063,
+   "iqr": 5.870117780960335
+  },
+  "rms_dbfs": {
+   "median": -13.512647545612456,
+   "iqr": 7.070648323761322
+  },
+  "crest": {
+   "median": 13.287485599517822,
+   "iqr": 5.834496974945068
+  },
+  "centroid": {
+   "median": 2393.9534034458734,
+   "iqr": 569.1624465080436
+  },
+  "flatness": {
+   "median": 0.02432209998369217,
+   "iqr": 0.02318927738815546
+  },
+  "sub100_share": {
+   "median": 0.19386763125658035,
+   "iqr": 0.1667335219681263
+  },
+  "lowest_pitch": {
+   "median": 52.4871826171875,
+   "iqr": 29.608154296875
+  },
+  "harmonic_share": {
+   "median": 0.8010996580123901,
+   "iqr": 0.18174928426742554
+  },
+  "clean_share": {
+   "median": 0.12465222715619162,
+   "iqr": 0.27726218097447797
+  },
+  "minor_share": {
+   "median": 0.010797865415311914,
+   "iqr": 0.12212699053473793
+  },
+  "chord_rate": {
+   "median": 2.0189512467201296,
+   "iqr": 0.5373098641515348
+  },
+  "repetitiveness": {
+   "median": 0.8312294185161591,
+   "iqr": 0.09235802292823792
+  },
+  "vocal_share": {
+   "median": 0.26589857041835785,
+   "iqr": 0.07848393823951483
+  },
+  "vocal_voiced": {
+   "median": 0.749404134607031,
+   "iqr": 0.22383905810897875
+  },
+  "song_length": {
+   "median": 225.5335,
+   "iqr": 31.45999999999998
+  },
+  "vocal_presence": {
+   "median": 0.3333333333333333,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "arcturus/583593862-104",
+ "band": "arcturus",
+ "title": "Nocturnal Vision Revisited",
+ "source": "itunes",
+ "album": "Sideshow Symphonies",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.343603016050041,
+  "tempo_var": 27.981626284721465,
+  "low_onset_rate": 5.479622266401591,
+  "lufs": -16.04300993894524,
+  "rms_dbfs": -13.755517452131423,
+  "crest": 13.75551700592041,
+  "centroid": 1255.374014881302,
+  "flatness": 0.005015936680138111,
+  "sub100_share": 0.7087432146072388,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.9188261032104492,
+  "clean_share": 0.7028704422032583,
+  "minor_share": 0.047747079062015585,
+  "chord_rate": 1.336493235707705,
+  "repetitiveness": 0.8216070532798767,
+  "vocal_share": 0.0011192230740562081,
+  "vocal_voiced": 0.27058823529411763,
+  "song_length": 316.107
+ }
+}

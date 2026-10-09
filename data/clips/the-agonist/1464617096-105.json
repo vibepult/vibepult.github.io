@@ -1,0 +1,32 @@
+{
+ "id": "the-agonist/1464617096-105",
+ "band": "the-agonist",
+ "title": "Mr. Cold",
+ "source": "itunes",
+ "album": "Orphans",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.333333333333333,
+  "tempo_var": 0.0,
+  "low_onset_rate": 7.066666666666666,
+  "lufs": -8.608250557130035,
+  "rms_dbfs": -7.948100847113158,
+  "crest": 7.948101043701172,
+  "centroid": 2220.361590648574,
+  "flatness": 0.01859484240412712,
+  "sub100_share": 0.3072783052921295,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8735208511352539,
+  "clean_share": 0.228328173374613,
+  "minor_share": 0.20364710375454248,
+  "chord_rate": 1.6333333333333333,
+  "repetitiveness": 0.761978268623352,
+  "vocal_share": 0.059464458376169205,
+  "vocal_voiced": 0.52,
+  "song_length": 280.126
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "seigmen/299625972-106",
+ "band": "seigmen",
+ "title": "Lament",
+ "source": "itunes",
+ "album": "Total",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.613271589972361,
+  "tempo_var": 0.0,
+  "low_onset_rate": 3.30782075837657,
+  "lufs": -15.10498468074789,
+  "rms_dbfs": -13.963872556406756,
+  "crest": 13.963872909545898,
+  "centroid": 2550.3865664773907,
+  "flatness": 0.021022610366344452,
+  "sub100_share": 0.429496169090271,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8510951399803162,
+  "clean_share": 0.230411171450737,
+  "minor_share": 0.07335366403208066,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.8178715705871582,
+  "vocal_share": 0.0776449516415596,
+  "vocal_voiced": 0.8696319018404908,
+  "song_length": 264.706
+ }
+}

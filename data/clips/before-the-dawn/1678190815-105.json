@@ -1,0 +1,32 @@
+{
+ "id": "before-the-dawn/1678190815-105",
+ "band": "before-the-dawn",
+ "title": "Chains",
+ "source": "itunes",
+ "album": "Stormbringers",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 4.431116100635963,
+  "tempo_var": 19.55164474275939,
+  "low_onset_rate": 5.397299310549068,
+  "lufs": -9.761813620662824,
+  "rms_dbfs": -9.87433793105646,
+  "crest": 9.874338150024414,
+  "centroid": 2477.3045775309956,
+  "flatness": 0.03514725714921951,
+  "sub100_share": 0.12070115655660629,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.6121095418930054,
+  "clean_share": 0.0,
+  "minor_share": 0.046428540246137406,
+  "chord_rate": 1.1327665219670884,
+  "repetitiveness": 0.8547284603118896,
+  "vocal_share": 0.1958823800086975,
+  "vocal_voiced": 0.5378715244487057,
+  "song_length": 291.92
+ }
+}

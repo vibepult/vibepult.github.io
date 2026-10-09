@@ -1,0 +1,32 @@
+{
+ "id": "stryper/78848100-106",
+ "band": "stryper",
+ "title": "Live Again",
+ "source": "itunes",
+ "album": "Reborn",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 3.7087687290888813,
+  "tempo_var": 23.53850436964093,
+  "low_onset_rate": 4.911612641225816,
+  "lufs": -8.95344363034141,
+  "rms_dbfs": -8.80386787776343,
+  "crest": 8.803868293762207,
+  "centroid": 2703.4520306179315,
+  "flatness": 0.044736217707395554,
+  "sub100_share": 0.18986041843891144,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6793836355209351,
+  "clean_share": 0.0031031807602792862,
+  "minor_share": -0.16232644972006316,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.815450131893158,
+  "vocal_share": 0.28230857849121094,
+  "vocal_voiced": 0.6960065199674002,
+  "song_length": 210.333
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "moonspell/1045598974-106",
+ "band": "moonspell",
+ "title": "Ghost Song",
+ "source": "itunes",
+ "album": "Darkness and Hope",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 3.2744084274838774,
+  "tempo_var": 41.716354018662656,
+  "low_onset_rate": 5.045261964796587,
+  "lufs": -8.236902976415104,
+  "rms_dbfs": -7.167220741968023,
+  "crest": 7.167220592498779,
+  "centroid": 2043.5408829386,
+  "flatness": 0.014120114967226982,
+  "sub100_share": 0.4073740243911743,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8828945159912109,
+  "clean_share": 0.3405740884406517,
+  "minor_share": 0.03821865583832218,
+  "chord_rate": 1.7374412064200164,
+  "repetitiveness": 0.6743114590644836,
+  "vocal_share": 0.10887131839990616,
+  "vocal_voiced": 0.9493127147766323,
+  "song_length": 261.267
+ }
+}

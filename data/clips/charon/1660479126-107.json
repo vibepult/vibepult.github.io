@@ -1,0 +1,32 @@
+{
+ "id": "charon/1660479126-107",
+ "band": "charon",
+ "title": "Desire You",
+ "source": "itunes",
+ "album": "Downhearted",
+ "year": 2002,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 2.3666666666666667,
+  "tempo_var": 5.735154884966479,
+  "low_onset_rate": 4.2,
+  "lufs": -9.58992687021234,
+  "rms_dbfs": -9.075357953188936,
+  "crest": 9.075357437133789,
+  "centroid": 1791.2403505210211,
+  "flatness": 0.015272838994860649,
+  "sub100_share": 0.2916395962238312,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7971855401992798,
+  "clean_share": 0.4605263157894737,
+  "minor_share": 0.23853090439130953,
+  "chord_rate": 0.9,
+  "repetitiveness": 0.7954920530319214,
+  "vocal_share": 0.27911847829818726,
+  "vocal_voiced": 0.6436672967863895,
+  "song_length": 202.067
+ }
+}

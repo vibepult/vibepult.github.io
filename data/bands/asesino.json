@@ -1,0 +1,127 @@
+{
+ "slug": "asesino",
+ "name": "Asesino",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 95605772,
+  "deezer": 70845,
+  "spotify": "0ng60bVStDmztL2LMwWTOb"
+ },
+ "metadata": {
+  "formed": 2001,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 3,
+  "past_members": 1,
+  "full_lengths": 2,
+  "genre": "Death Metal/Grindcore",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 8298,
+  "themes": "Dark humour, Satanism, Perversion, Blasphemy, Death",
+  "release_year": 2006
+ },
+ "partial": false,
+ "clips": [
+  "asesino/278365390-109",
+  "asesino/278365390-108",
+  "asesino/278365390-110",
+  "asesino/278365390-107",
+  "asesino/278365390-111",
+  "asesino/278365390-106",
+  "asesino/278365390-112",
+  "asesino/278365390-105",
+  "asesino/278365390-113",
+  "asesino/278365390-104",
+  "asesino/278365390-114",
+  "asesino/278365390-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 110.00658118206522,
+   "iqr": 20.681340144230774
+  },
+  "onset_rate": {
+   "median": 5.52974076274063,
+   "iqr": 1.511907972894341
+  },
+  "tempo_var": {
+   "median": 6.3753114341568775,
+   "iqr": 8.656080700684944
+  },
+  "low_onset_rate": {
+   "median": 7.083414149250837,
+   "iqr": 1.3114339875381864
+  },
+  "lufs": {
+   "median": -6.616379337077657,
+   "iqr": 0.7053714248886882
+  },
+  "rms_dbfs": {
+   "median": -6.448010203903452,
+   "iqr": 0.6140016218727995
+  },
+  "crest": {
+   "median": 6.448010444641113,
+   "iqr": 0.614001989364624
+  },
+  "centroid": {
+   "median": 2826.3789625481313,
+   "iqr": 150.77249847835947
+  },
+  "flatness": {
+   "median": 0.05752835422754288,
+   "iqr": 0.011618809774518013
+  },
+  "sub100_share": {
+   "median": 0.25467340648174286,
+   "iqr": 0.08142518252134323
+  },
+  "lowest_pitch": {
+   "median": 59.21630859375,
+   "iqr": 8.74786376953125
+  },
+  "harmonic_share": {
+   "median": 0.6700159311294556,
+   "iqr": 0.0850772112607956
+  },
+  "clean_share": {
+   "median": 0.0027152831652443752,
+   "iqr": 0.06633048875096975
+  },
+  "minor_share": {
+   "median": -0.03324874364888222,
+   "iqr": 0.2388564798106099
+  },
+  "chord_rate": {
+   "median": 1.871090529990787,
+   "iqr": 0.4928318806672163
+  },
+  "repetitiveness": {
+   "median": 0.9247525632381439,
+   "iqr": 0.04841572046279907
+  },
+  "vocal_share": {
+   "median": 0.17975589632987976,
+   "iqr": 0.04690631106495857
+  },
+  "vocal_voiced": {
+   "median": 0.03585682305518165,
+   "iqr": 0.08702146196307126
+  },
+  "song_length": {
+   "median": 202.94,
+   "iqr": 35.24674999999996
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.7,
+  "camp": 0.7
+ },
+ "sources_failed": []
+}

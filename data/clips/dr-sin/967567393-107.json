@@ -1,0 +1,32 @@
+{
+ "id": "dr-sin/967567393-107",
+ "band": "dr-sin",
+ "title": "The Big Screen",
+ "source": "itunes",
+ "album": "Intactus",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 6.281518207826213,
+  "tempo_var": 17.09551603860761,
+  "low_onset_rate": 7.016589487465451,
+  "lufs": -12.085891544574682,
+  "rms_dbfs": -11.881681544158862,
+  "crest": 11.881681442260742,
+  "centroid": 2878.7459170986185,
+  "flatness": 0.04228929430246353,
+  "sub100_share": 0.28309860825538635,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7058539390563965,
+  "clean_share": 0.01008533747090768,
+  "minor_share": 0.02027655106578241,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.8208175897598267,
+  "vocal_share": 0.15676157176494598,
+  "vocal_voiced": 0.7685459940652819,
+  "song_length": 171.56
+ }
+}

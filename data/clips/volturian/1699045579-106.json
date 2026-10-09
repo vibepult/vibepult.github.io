@@ -1,0 +1,32 @@
+{
+ "id": "volturian/1699045579-106",
+ "band": "volturian",
+ "title": "Burn It Up",
+ "source": "itunes",
+ "album": "Red Dragon",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 5.633163018502842,
+  "tempo_var": 14.43569322328416,
+  "low_onset_rate": 7.5997702261458455,
+  "lufs": -9.948013271295501,
+  "rms_dbfs": -9.496214940231061,
+  "crest": 9.496214866638184,
+  "centroid": 2732.8734309181223,
+  "flatness": 0.031844571232795715,
+  "sub100_share": 0.438379168510437,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8652684688568115,
+  "clean_share": 0.0069605568445475635,
+  "minor_share": 0.12422912659627683,
+  "chord_rate": 1.299960696577579,
+  "repetitiveness": 0.8510223627090454,
+  "vocal_share": 0.21409960091114044,
+  "vocal_voiced": 0.8668242710795903,
+  "song_length": 263.216
+ }
+}

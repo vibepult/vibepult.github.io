@@ -1,0 +1,32 @@
+{
+ "id": "savatage/1550699163-105",
+ "band": "savatage",
+ "title": "On the Run",
+ "source": "itunes",
+ "album": "Sirens",
+ "year": 1983,
+ "itunes_year": 1983,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.5417070746254184,
+  "tempo_var": 2.5735530047868718,
+  "low_onset_rate": 6.649053847645832,
+  "lufs": -13.492670215855265,
+  "rms_dbfs": -12.95090056777277,
+  "crest": 12.95090103149414,
+  "centroid": 2944.8006212173336,
+  "flatness": 0.041542407125234604,
+  "sub100_share": 0.4241873323917389,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.7892081141471863,
+  "clean_share": 0.08688906128782002,
+  "minor_share": 0.19312668374958775,
+  "chord_rate": 2.0047398535615577,
+  "repetitiveness": 0.8464221358299255,
+  "vocal_share": 0.008384284563362598,
+  "vocal_voiced": 0.0,
+  "song_length": 208.64
+ }
+}

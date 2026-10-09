@@ -1,0 +1,32 @@
+{
+ "id": "dream-theater/282703295-107",
+ "band": "dream-theater",
+ "title": "About to Crash",
+ "source": "itunes",
+ "album": "Six Degrees of Inner Turbulence",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.066069307020487,
+  "tempo_var": 24.16573673284103,
+  "low_onset_rate": 5.965963197083337,
+  "lufs": -9.044489103269045,
+  "rms_dbfs": -8.585191500933613,
+  "crest": 8.58519172668457,
+  "centroid": 2386.750908809053,
+  "flatness": 0.023696979507803917,
+  "sub100_share": 0.2276567667722702,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.74586421251297,
+  "clean_share": 0.08275328692962104,
+  "minor_share": -0.31153095951855925,
+  "chord_rate": 1.0998703100768163,
+  "repetitiveness": 0.8786802291870117,
+  "vocal_share": 0.2230697125196457,
+  "vocal_voiced": 0.8313432835820895,
+  "song_length": 351.0
+ }
+}

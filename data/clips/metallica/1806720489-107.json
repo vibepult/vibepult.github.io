@@ -1,0 +1,32 @@
+{
+ "id": "metallica/1806720489-107",
+ "band": "metallica",
+ "title": "Bleeding Me (Remastered)",
+ "source": "itunes",
+ "album": "Load (Remastered)",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 2.2999860922987616,
+  "tempo_var": 2.4390140529075466,
+  "low_onset_rate": 2.6999836735681115,
+  "lufs": -19.72756476440612,
+  "rms_dbfs": -17.689806083050815,
+  "crest": 16.7388858795166,
+  "centroid": 2082.36670709417,
+  "flatness": 0.017535850405693054,
+  "sub100_share": 0.5361797213554382,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8943041563034058,
+  "clean_share": 0.6751740139211136,
+  "minor_share": 0.04933919984577839,
+  "chord_rate": 1.7999891157120742,
+  "repetitiveness": 0.7192058563232422,
+  "vocal_share": 1.1257219512117445e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 498.133
+ }
+}

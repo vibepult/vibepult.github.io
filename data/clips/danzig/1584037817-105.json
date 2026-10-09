@@ -1,0 +1,32 @@
+{
+ "id": "danzig/1584037817-105",
+ "band": "danzig",
+ "title": "Hint of Her Blood",
+ "source": "itunes",
+ "album": "Danzig 5: Blackacidevil",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 78.30255681818181,
+  "onset_rate": 3.1666666666666665,
+  "tempo_var": 33.429455288743384,
+  "low_onset_rate": 4.133333333333334,
+  "lufs": -11.16167707645339,
+  "rms_dbfs": -10.47903290006161,
+  "crest": 10.479032516479492,
+  "centroid": 2080.0529536963413,
+  "flatness": 0.02029632404446602,
+  "sub100_share": 0.3434554636478424,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7642847299575806,
+  "clean_share": 0.12151702786377709,
+  "minor_share": 0.10266664595347053,
+  "chord_rate": 2.1,
+  "repetitiveness": 0.8775293827056885,
+  "vocal_share": 0.15967026352882385,
+  "vocal_voiced": 0.9376623376623376,
+  "song_length": 302.773
+ }
+}

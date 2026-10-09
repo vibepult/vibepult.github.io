@@ -1,0 +1,32 @@
+{
+ "id": "krypteria/327048907-107",
+ "band": "krypteria",
+ "title": "Never Say Die",
+ "source": "itunes",
+ "album": "My Fatal Kiss",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.066187206950654,
+  "tempo_var": 2.842170943040401e-14,
+  "low_onset_rate": 4.299493030300282,
+  "lufs": -8.395325630067633,
+  "rms_dbfs": -8.153660161070622,
+  "crest": 8.15365982055664,
+  "centroid": 2691.963146136993,
+  "flatness": 0.03377735987305641,
+  "sub100_share": 0.25994381308555603,
+  "lowest_pitch": 166.88232421875,
+  "harmonic_share": 0.6502164006233215,
+  "clean_share": 0.0038669760247486465,
+  "minor_share": 0.12260341481128101,
+  "chord_rate": 1.4331643434334274,
+  "repetitiveness": 0.8578084111213684,
+  "vocal_share": 0.3067304790019989,
+  "vocal_voiced": 0.9363110008271298,
+  "song_length": 273.456
+ }
+}

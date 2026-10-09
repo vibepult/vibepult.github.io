@@ -1,0 +1,32 @@
+{
+ "id": "brujeria/1458652924-107",
+ "band": "brujeria",
+ "title": "Isla de la Fantasía",
+ "source": "itunes",
+ "album": "Pocho Aztlan",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 2.1718015080250206,
+  "tempo_var": 11.818695954067582,
+  "low_onset_rate": 6.74929084032391,
+  "lufs": -8.855040951124586,
+  "rms_dbfs": -8.54598956990799,
+  "crest": 8.545989036560059,
+  "centroid": 2638.36391171245,
+  "flatness": 0.038102734833955765,
+  "sub100_share": 0.32345715165138245,
+  "lowest_pitch": 113.04931640625,
+  "harmonic_share": 0.6441940665245056,
+  "clean_share": 0.0069821567106283944,
+  "minor_share": 0.012330250843265445,
+  "chord_rate": 2.472512486059254,
+  "repetitiveness": 0.958785355091095,
+  "vocal_share": 0.0878303125500679,
+  "vocal_voiced": 0.14625228519195613,
+  "song_length": 137.452
+ }
+}

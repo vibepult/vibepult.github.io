@@ -1,0 +1,32 @@
+{
+ "id": "macabre/1492327988-114",
+ "band": "macabre",
+ "title": "Gacy's Lot / John Wayne Gacy",
+ "source": "itunes",
+ "album": "Sinister Slaughter (Remastered)",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.30782075837657,
+  "tempo_var": 2.488341328714327,
+  "low_onset_rate": 0.9021329341027009,
+  "lufs": -11.009734646470633,
+  "rms_dbfs": -10.547165583981165,
+  "crest": 10.547165870666504,
+  "centroid": 2474.460152696514,
+  "flatness": 0.03280359506607056,
+  "sub100_share": 0.1279449164867401,
+  "lowest_pitch": 193.798828125,
+  "harmonic_share": 0.7077531814575195,
+  "clean_share": 0.045771916214119475,
+  "minor_share": -0.14160830568085475,
+  "chord_rate": 2.472512486059254,
+  "repetitiveness": 0.881877064704895,
+  "vocal_share": 0.17319582402706146,
+  "vocal_voiced": 0.10588235294117647,
+  "song_length": 138.213
+ }
+}

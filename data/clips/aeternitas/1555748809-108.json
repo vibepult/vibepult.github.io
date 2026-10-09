@@ -1,0 +1,32 @@
+{
+ "id": "aeternitas/1555748809-108",
+ "band": "aeternitas",
+ "title": "Confutatis",
+ "source": "itunes",
+ "album": "Requiem",
+ "year": 2000,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.813745575328517,
+  "tempo_var": 8.447211347189416,
+  "low_onset_rate": 6.014219560684673,
+  "lufs": -11.659597436514629,
+  "rms_dbfs": -10.005035003941876,
+  "crest": 10.005035400390625,
+  "centroid": 2962.7663734433163,
+  "flatness": 0.03493784740567207,
+  "sub100_share": 0.6558356881141663,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8969793915748596,
+  "clean_share": 0.1225756400310318,
+  "minor_share": -0.11530739429639947,
+  "chord_rate": 2.1718015080250206,
+  "repetitiveness": 0.8056784272193909,
+  "vocal_share": 0.051348697394132614,
+  "vocal_voiced": 0.20020222446916078,
+  "song_length": 285.987
+ }
+}

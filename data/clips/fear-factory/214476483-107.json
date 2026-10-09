@@ -1,0 +1,32 @@
+{
+ "id": "fear-factory/214476483-107",
+ "band": "fear-factory",
+ "title": "Lifeblind",
+ "source": "itunes",
+ "album": "Soul of a New Machine",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 4.610901663191583,
+  "tempo_var": 13.879625453618326,
+  "low_onset_rate": 7.584599112641226,
+  "lufs": -12.722848337636886,
+  "rms_dbfs": -13.558314332877742,
+  "crest": 13.558313369750977,
+  "centroid": 3352.0804089722965,
+  "flatness": 0.08771636337041855,
+  "sub100_share": 0.2222362607717514,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.6232454776763916,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": -0.08728468189535482,
+  "chord_rate": 2.8734604567715656,
+  "repetitiveness": 0.9738704562187195,
+  "vocal_share": 0.15566539764404297,
+  "vocal_voiced": 0.08599033816425121,
+  "song_length": 231.907
+ }
+}

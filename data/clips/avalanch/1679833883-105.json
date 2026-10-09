@@ -1,0 +1,32 @@
+{
+ "id": "avalanch/1679833883-105",
+ "band": "avalanch",
+ "title": "Sentido",
+ "source": "itunes",
+ "album": "El Dilema de los Dioses",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.8758303835523447,
+  "tempo_var": 12.777187685381627,
+  "low_onset_rate": 3.4080577510546477,
+  "lufs": -8.259077706746691,
+  "rms_dbfs": -7.312908519974261,
+  "crest": 7.31290864944458,
+  "centroid": 1841.8113625141366,
+  "flatness": 0.007369579281657934,
+  "sub100_share": 0.2779482305049896,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8719654679298401,
+  "clean_share": 0.6121024049650892,
+  "minor_share": 0.14604497863972532,
+  "chord_rate": 0.534597294283082,
+  "repetitiveness": 0.5646312236785889,
+  "vocal_share": 0.30262070894241333,
+  "vocal_voiced": 0.9471585244267199,
+  "song_length": 249.627
+ }
+}

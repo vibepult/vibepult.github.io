@@ -1,0 +1,32 @@
+{
+ "id": "benighted/1724477295-107",
+ "band": "benighted",
+ "title": "Metastasis",
+ "source": "itunes",
+ "album": "Ekbom",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.733333333333333,
+  "tempo_var": 1.3150022006723217,
+  "low_onset_rate": 8.633333333333333,
+  "lufs": -8.056575678369516,
+  "rms_dbfs": -7.473572527293646,
+  "crest": 7.473572731018066,
+  "centroid": 2377.4638712633227,
+  "flatness": 0.03038262203335762,
+  "sub100_share": 0.42092856764793396,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7709278464317322,
+  "clean_share": 0.06656346749226007,
+  "minor_share": -0.04078543195373452,
+  "chord_rate": 2.3333333333333335,
+  "repetitiveness": 0.8720390796661377,
+  "vocal_share": 0.15284864604473114,
+  "vocal_voiced": 0.18613138686131386,
+  "song_length": 212.536
+ }
+}

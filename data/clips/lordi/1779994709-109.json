@@ -1,0 +1,32 @@
+{
+ "id": "lordi/1779994709-109",
+ "band": "lordi",
+ "title": "Fangoria",
+ "source": "itunes",
+ "album": "Limited Deadition",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 73.828125,
+  "onset_rate": 3.2666469136996903,
+  "tempo_var": 22.659902555827525,
+  "low_onset_rate": 3.133314386609907,
+  "lufs": -10.10262546419398,
+  "rms_dbfs": -8.407296033097273,
+  "crest": 8.407296180725098,
+  "centroid": 2178.814888145358,
+  "flatness": 0.022028911858797073,
+  "sub100_share": 0.617253303527832,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.811248242855072,
+  "clean_share": 0.2853828306264501,
+  "minor_share": -0.035083819368661895,
+  "chord_rate": 2.6333174100232197,
+  "repetitiveness": 0.9487820267677307,
+  "vocal_share": 0.027861882001161575,
+  "vocal_voiced": 0.0,
+  "song_length": 221.053
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "we-are-wolf",
+ "name": "We Are Wolf",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 377616302,
+  "deezer": 533338,
+  "spotify": "0IZB0CsXDP0l5JHni1Kj2M"
+ },
+ "metadata": {
+  "formed": 2008,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 6,
+  "past_members": 2,
+  "full_lengths": 2,
+  "genre": "Melodic Death Metal/Metalcore",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 107,
+  "themes": "N/A",
+  "release_year": 2012
+ },
+ "partial": false,
+ "clips": [
+  "we-are-wolf/1633298813-105",
+  "we-are-wolf/1498021454-105",
+  "we-are-wolf/1633298813-106",
+  "we-are-wolf/1498021454-106",
+  "we-are-wolf/1633298813-104",
+  "we-are-wolf/1498021454-104",
+  "we-are-wolf/1633298813-108",
+  "we-are-wolf/1498021454-107",
+  "we-are-wolf/1633298813-103",
+  "we-are-wolf/1498021454-103",
+  "we-are-wolf/1633298813-109",
+  "we-are-wolf/1498021454-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 107.85326086956522,
+   "iqr": 34.32429387019231
+  },
+  "onset_rate": {
+   "median": 5.579859259079669,
+   "iqr": 1.035782257673472
+  },
+  "tempo_var": {
+   "median": 11.41951017430237,
+   "iqr": 5.269173763299156
+  },
+  "low_onset_rate": {
+   "median": 6.682466178538525,
+   "iqr": 2.99040361489599
+  },
+  "lufs": {
+   "median": -6.718833496689928,
+   "iqr": 1.0928934840283233
+  },
+  "rms_dbfs": {
+   "median": -6.281263273378746,
+   "iqr": 1.0901411014879958
+  },
+  "crest": {
+   "median": 6.281263113021851,
+   "iqr": 1.0901410579681396
+  },
+  "centroid": {
+   "median": 2904.3058518346497,
+   "iqr": 414.88765818259435
+  },
+  "flatness": {
+   "median": 0.0601265300065279,
+   "iqr": 0.013249789364635944
+  },
+  "sub100_share": {
+   "median": 0.31078265607357025,
+   "iqr": 0.07346431538462639
+  },
+  "lowest_pitch": {
+   "median": 40.374755859375,
+   "iqr": 12.78533935546875
+  },
+  "harmonic_share": {
+   "median": 0.7104077637195587,
+   "iqr": 0.06890279054641724
+  },
+  "clean_share": {
+   "median": 0.0003878975950349108,
+   "iqr": 0.004848719937936384
+  },
+  "minor_share": {
+   "median": 0.10176641078114737,
+   "iqr": 0.2438384210180801
+  },
+  "chord_rate": {
+   "median": 1.9045028608834795,
+   "iqr": 0.9021329341027009
+  },
+  "repetitiveness": {
+   "median": 0.8997833728790283,
+   "iqr": 0.03283900022506714
+  },
+  "vocal_share": {
+   "median": 0.14093999564647675,
+   "iqr": 0.09370130486786366
+  },
+  "vocal_voiced": {
+   "median": 0.15990630053130053,
+   "iqr": 0.10842841926827973
+  },
+  "song_length": {
+   "median": 210.814,
+   "iqr": 31.00075000000004
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "tristania",
+ "name": "Tristania",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 34611349,
+  "deezer": 1957,
+  "spotify": "2EOmvmVtYMTgn45w9mWUTV"
+ },
+ "metadata": {
+  "formed": 1996,
+  "split": 2022,
+  "country": "NO",
+  "status": "split-up",
+  "members": 7,
+  "past_members": 10,
+  "full_lengths": 7,
+  "genre": "Symphonic/Gothic Metal (early); Gothic Metal (later)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 61592,
+  "themes": "Sadness, Despair, Questioning religion, Insanity",
+  "release_year": 2000
+ },
+ "partial": false,
+ "clips": [
+  "tristania/1183572661-105",
+  "tristania/1184124451-105",
+  "tristania/1184696317-105",
+  "tristania/1184167523-105",
+  "tristania/1184693125-106",
+  "tristania/1183572661-104",
+  "tristania/1184124451-104",
+  "tristania/1184696317-104",
+  "tristania/1184167523-106",
+  "tristania/1184693125-105",
+  "tristania/1183572661-106",
+  "tristania/1184124451-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 13.022055644762844
+  },
+  "onset_rate": {
+   "median": 3.8499999999999996,
+   "iqr": 1.6250000000000004
+  },
+  "tempo_var": {
+   "median": 2.759284486622075,
+   "iqr": 3.192570983436296
+  },
+  "low_onset_rate": {
+   "median": 5.733333333333333,
+   "iqr": 1.7416666666666671
+  },
+  "lufs": {
+   "median": -10.627665650729405,
+   "iqr": 5.3763985269089325
+  },
+  "rms_dbfs": {
+   "median": -10.050912028226042,
+   "iqr": 5.519678122940132
+  },
+  "crest": {
+   "median": 10.050911903381348,
+   "iqr": 5.519678115844727
+  },
+  "centroid": {
+   "median": 2420.8818822694175,
+   "iqr": 290.52823452438133
+  },
+  "flatness": {
+   "median": 0.026481686159968376,
+   "iqr": 0.012272821739315987
+  },
+  "sub100_share": {
+   "median": 0.34115034341812134,
+   "iqr": 0.09820468723773956
+  },
+  "lowest_pitch": {
+   "median": 49.7955322265625,
+   "iqr": 32.97271728515625
+  },
+  "harmonic_share": {
+   "median": 0.7963409721851349,
+   "iqr": 0.09536540508270264
+  },
+  "clean_share": {
+   "median": 0.07198142414860681,
+   "iqr": 0.1924169258618089
+  },
+  "minor_share": {
+   "median": 0.05663965940824428,
+   "iqr": 0.1796946760655925
+  },
+  "chord_rate": {
+   "median": 1.5833333333333335,
+   "iqr": 0.5999999999999999
+  },
+  "repetitiveness": {
+   "median": 0.8220051825046539,
+   "iqr": 0.19254174828529358
+  },
+  "vocal_share": {
+   "median": 0.16577297449111938,
+   "iqr": 0.12142550945281982
+  },
+  "vocal_voiced": {
+   "median": 0.6116504854368932,
+   "iqr": 0.5555540909618162
+  },
+  "song_length": {
+   "median": 360.0865,
+   "iqr": 81.52299999999997
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.5,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

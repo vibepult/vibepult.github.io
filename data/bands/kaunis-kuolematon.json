@@ -1,0 +1,127 @@
+{
+ "slug": "kaunis-kuolematon",
+ "name": "Kaunis Kuolematon",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 656097674,
+  "deezer": 5545597,
+  "spotify": "325i7BW7vMnVBl9YWdT6zN"
+ },
+ "metadata": {
+  "formed": 2012,
+  "split": null,
+  "country": "FI",
+  "status": "active",
+  "members": 5,
+  "past_members": 0,
+  "full_lengths": 5,
+  "genre": "Melodic Doom/Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 1178,
+  "themes": "Melancholy, Emotions, Misery, Poetry",
+  "release_year": 2018
+ },
+ "partial": false,
+ "clips": [
+  "kaunis-kuolematon/1488921331-105",
+  "kaunis-kuolematon/1489447474-105",
+  "kaunis-kuolematon/1529031511-105",
+  "kaunis-kuolematon/1703145651-105",
+  "kaunis-kuolematon/1841595461-105",
+  "kaunis-kuolematon/1488921331-104",
+  "kaunis-kuolematon/1489447474-106",
+  "kaunis-kuolematon/1529031511-104",
+  "kaunis-kuolematon/1703145651-104",
+  "kaunis-kuolematon/1841595461-104",
+  "kaunis-kuolematon/1488921331-106",
+  "kaunis-kuolematon/1489447474-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 28.264475553229673
+  },
+  "onset_rate": {
+   "median": 3.5165816095151134,
+   "iqr": 2.933129092658037
+  },
+  "tempo_var": {
+   "median": 2.7916941350628903,
+   "iqr": 6.103550867329482
+  },
+  "low_onset_rate": {
+   "median": 5.1165429105267295,
+   "iqr": 2.327550975499232
+  },
+  "lufs": {
+   "median": -9.484155210687021,
+   "iqr": 1.9995949875319834
+  },
+  "rms_dbfs": {
+   "median": -8.68901992883729,
+   "iqr": 2.1675409592884787
+  },
+  "crest": {
+   "median": 8.689019203186035,
+   "iqr": 2.1675409078598022
+  },
+  "centroid": {
+   "median": 2309.4698078970996,
+   "iqr": 461.8959917547595
+  },
+  "flatness": {
+   "median": 0.02403343189507723,
+   "iqr": 0.021323697874322534
+  },
+  "sub100_share": {
+   "median": 0.40443362295627594,
+   "iqr": 0.13088065385818481
+  },
+  "lowest_pitch": {
+   "median": 51.141357421875,
+   "iqr": 21.533203125
+  },
+  "harmonic_share": {
+   "median": 0.7962144315242767,
+   "iqr": 0.11789514124393463
+  },
+  "clean_share": {
+   "median": 0.022885958107059734,
+   "iqr": 0.48253290829596857
+  },
+  "minor_share": {
+   "median": 0.09283809616990912,
+   "iqr": 0.060866517316971715
+  },
+  "chord_rate": {
+   "median": 1.3348173561537418,
+   "iqr": 0.41968913275989883
+  },
+  "repetitiveness": {
+   "median": 0.7980257868766785,
+   "iqr": 0.12499319016933441
+  },
+  "vocal_share": {
+   "median": 0.1467605084180832,
+   "iqr": 0.09643256105482578
+  },
+  "vocal_voiced": {
+   "median": 0.3760224715684486,
+   "iqr": 0.7541764966334624
+  },
+  "song_length": {
+   "median": 347.214,
+   "iqr": 37.84424999999999
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

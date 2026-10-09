@@ -1,0 +1,32 @@
+{
+ "id": "racer-x/1049048089-106",
+ "band": "racer-x",
+ "title": "Bolt in My Heart",
+ "source": "itunes",
+ "album": "Technical Difficulties",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.499978836106811,
+  "tempo_var": 12.923711557236699,
+  "low_onset_rate": 5.866631191950464,
+  "lufs": -11.703049810905876,
+  "rms_dbfs": -11.15238476025769,
+  "crest": 11.152383804321289,
+  "centroid": 2411.7127509720754,
+  "flatness": 0.020984139293432236,
+  "sub100_share": 0.33701667189598083,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8108977675437927,
+  "clean_share": 0.16163959783449341,
+  "minor_share": 0.05729730568819724,
+  "chord_rate": 1.9333216428018576,
+  "repetitiveness": 0.7743670344352722,
+  "vocal_share": 0.004637745209038258,
+  "vocal_voiced": 0.0,
+  "song_length": 250.573
+ }
+}

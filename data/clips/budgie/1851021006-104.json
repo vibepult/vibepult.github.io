@@ -1,0 +1,32 @@
+{
+ "id": "budgie/1851021006-104",
+ "band": "budgie",
+ "title": "I Can't See My Feelings",
+ "source": "itunes",
+ "album": "Bandolier (Expanded Edition)",
+ "year": 1975,
+ "itunes_year": 1975,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.764282336660528,
+  "tempo_var": 1.7407066376401583,
+  "low_onset_rate": 3.3978477729148127,
+  "lufs": -14.02316916212994,
+  "rms_dbfs": -14.975058723121357,
+  "crest": 14.975059509277344,
+  "centroid": 3554.889934138748,
+  "flatness": 0.07194031029939651,
+  "sub100_share": 0.1329391598701477,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.42225098609924316,
+  "clean_share": 0.037122969837587005,
+  "minor_share": -0.22185830959968356,
+  "chord_rate": 2.0653584502031213,
+  "repetitiveness": 0.828565776348114,
+  "vocal_share": 0.18558456003665924,
+  "vocal_voiced": 0.6416666666666667,
+  "song_length": 356.613
+ }
+}

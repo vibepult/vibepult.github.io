@@ -1,0 +1,32 @@
+{
+ "id": "within-temptation/1550899956-106",
+ "band": "within-temptation",
+ "title": "Never - Ending Story",
+ "source": "itunes",
+ "album": "Mother Earth",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.544077001406197,
+  "tempo_var": 3.0786586823121858,
+  "low_onset_rate": 4.4772523396208115,
+  "lufs": -21.905915250939582,
+  "rms_dbfs": -21.545988651776753,
+  "crest": 19.156091690063477,
+  "centroid": 1262.3104129593955,
+  "flatness": 0.011308792978525162,
+  "sub100_share": 0.2511848509311676,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.9444529414176941,
+  "clean_share": 0.9759503491078355,
+  "minor_share": 0.20966315624835574,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.6882370114326477,
+  "vocal_share": 0.37865638732910156,
+  "vocal_voiced": 0.9916434540389972,
+  "song_length": 244.48
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "extreme-noise-terror/63610479-107",
+ "band": "extreme-noise-terror",
+ "title": "Subliminal",
+ "source": "itunes",
+ "album": "Retro-Bution",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 0.8353082723173156,
+  "tempo_var": 10.132072800353638,
+  "low_onset_rate": 4.109716699801193,
+  "lufs": -11.053794849880761,
+  "rms_dbfs": -10.719766073829764,
+  "crest": 10.719766616821289,
+  "centroid": 2378.125833864989,
+  "flatness": 0.023464513942599297,
+  "sub100_share": 0.24216057360172272,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.814944326877594,
+  "clean_share": 0.1551590380139643,
+  "minor_share": -0.04878934492590897,
+  "chord_rate": 2.2720385007030983,
+  "repetitiveness": 0.7761253118515015,
+  "vocal_share": 0.0488310232758522,
+  "vocal_voiced": 0.2716417910447761,
+  "song_length": 254.6
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "bloodbound/307341717-101",
+ "band": "bloodbound",
+ "title": "Sweet Dreams of Madness",
+ "source": "itunes",
+ "album": "Tabula Rasa",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 4.209953692479271,
+  "tempo_var": 14.488413705770089,
+  "low_onset_rate": 3.842418052659652,
+  "lufs": -8.335580600082977,
+  "rms_dbfs": -9.786087453624253,
+  "crest": 9.786087036132812,
+  "centroid": 2103.6289333886048,
+  "flatness": 0.08859506249427795,
+  "sub100_share": 0.5147672891616821,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.8565044403076172,
+  "clean_share": 0.38013964313421256,
+  "minor_share": -0.17363981808525852,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.8166325688362122,
+  "vocal_share": 5.327006533661915e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 276.24
+ }
+}

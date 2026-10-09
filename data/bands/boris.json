@@ -1,0 +1,127 @@
+{
+ "slug": "boris",
+ "name": "Boris",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 429514621,
+  "deezer": 11507431,
+  "spotify": "3EgMK920cIH5aLxFnJ6zSi"
+ },
+ "metadata": {
+  "formed": 1992,
+  "split": null,
+  "country": "JP",
+  "status": "active",
+  "members": 3,
+  "past_members": 1,
+  "full_lengths": 34,
+  "genre": "Various",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 4587,
+  "themes": "Sensations, Weirdness, Dreams",
+  "release_year": 2006
+ },
+ "partial": false,
+ "clips": [
+  "boris/1854898682-103",
+  "boris/1581219274-104",
+  "boris/1854900347-103",
+  "boris/1854900237-103",
+  "boris/1580076290-105",
+  "boris/6782306936-105",
+  "boris/1580679380-104",
+  "boris/1579781981-105",
+  "boris/1581446965-105",
+  "boris/6782277943-105",
+  "boris/1580076267-104",
+  "boris/1671879309-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 33.45387178308823
+  },
+  "onset_rate": {
+   "median": 3.788854394589877,
+   "iqr": 3.9963312318778588
+  },
+  "tempo_var": {
+   "median": 5.3636768384044595,
+   "iqr": 5.976446049443654
+  },
+  "low_onset_rate": {
+   "median": 5.16220512292101,
+   "iqr": 4.958254674932828
+  },
+  "lufs": {
+   "median": -6.7332595930735835,
+   "iqr": 3.318630408839665
+  },
+  "rms_dbfs": {
+   "median": -5.917394204120706,
+   "iqr": 2.6635127119286395
+  },
+  "crest": {
+   "median": 5.917393922805786,
+   "iqr": 2.6635125875473022
+  },
+  "centroid": {
+   "median": 2058.6137590226276,
+   "iqr": 1046.3491075935694
+  },
+  "flatness": {
+   "median": 0.01647043041884899,
+   "iqr": 0.0287092377548106
+  },
+  "sub100_share": {
+   "median": 0.27709784358739853,
+   "iqr": 0.2830826509743929
+  },
+  "lowest_pitch": {
+   "median": 56.524658203125,
+   "iqr": 15.47698974609375
+  },
+  "harmonic_share": {
+   "median": 0.8815866112709045,
+   "iqr": 0.10177671909332275
+  },
+  "clean_share": {
+   "median": 0.31619563958703456,
+   "iqr": 0.8181000277798277
+  },
+  "minor_share": {
+   "median": -0.015614135850994415,
+   "iqr": 0.15675114204082052
+  },
+  "chord_rate": {
+   "median": 1.134508722668405,
+   "iqr": 0.5947320548704769
+  },
+  "repetitiveness": {
+   "median": 0.8704474568367004,
+   "iqr": 0.19087041914463043
+  },
+  "vocal_share": {
+   "median": 0.06610581278800964,
+   "iqr": 0.05485219042748213
+  },
+  "vocal_voiced": {
+   "median": 0.8242811501597445,
+   "iqr": 0.21830435165847062
+  },
+  "song_length": {
+   "median": 311.9,
+   "iqr": 154.17275
+  },
+  "vocal_presence": {
+   "median": 0.5833333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

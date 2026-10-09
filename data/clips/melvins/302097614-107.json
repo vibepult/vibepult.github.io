@@ -1,0 +1,32 @@
+{
+ "id": "melvins/302097614-107",
+ "band": "melvins",
+ "title": "At the Stake",
+ "source": "itunes",
+ "album": "Stoner Witch",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 1.7666399600913063,
+  "tempo_var": 26.221282715267066,
+  "low_onset_rate": 3.799942555668093,
+  "lufs": -10.071285819867741,
+  "rms_dbfs": -8.245922628127646,
+  "crest": 8.245923042297363,
+  "centroid": 2510.903426136162,
+  "flatness": 0.008565947413444519,
+  "sub100_share": 0.7634358406066895,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.9563471078872681,
+  "clean_share": 0.40448569218870845,
+  "minor_share": 0.09939443764903666,
+  "chord_rate": 1.399978836298771,
+  "repetitiveness": 0.806865394115448,
+  "vocal_share": 2.545882011872891e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 476.667
+ }
+}

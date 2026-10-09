@@ -1,0 +1,32 @@
+{
+ "id": "a-sound-of-thunder/1616523807-105",
+ "band": "a-sound-of-thunder",
+ "title": "Grave Troopers",
+ "source": "itunes",
+ "album": "The Krimson Kult",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 6.61564151675314,
+  "tempo_var": 15.336271972178865,
+  "low_onset_rate": 6.081044222470058,
+  "lufs": -10.208902849497516,
+  "rms_dbfs": -9.88897644922209,
+  "crest": 9.888976097106934,
+  "centroid": 2346.853741674015,
+  "flatness": 0.020871736109256744,
+  "sub100_share": 0.2100437730550766,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.7132046222686768,
+  "clean_share": 0.19162141194724594,
+  "minor_share": -0.06354649261050516,
+  "chord_rate": 2.3054508315957913,
+  "repetitiveness": 0.7992084622383118,
+  "vocal_share": 0.22353874146938324,
+  "vocal_voiced": 0.9044943820224719,
+  "song_length": 223.232
+ }
+}

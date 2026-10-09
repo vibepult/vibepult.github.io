@@ -1,0 +1,32 @@
+{
+ "id": "tankard/1438584220-108",
+ "band": "tankard",
+ "title": "Always Them (2018 Remaster)",
+ "source": "itunes",
+ "album": "The Meaning of Life",
+ "year": 1990,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 7.033333333333333,
+  "tempo_var": 12.986016800581886,
+  "low_onset_rate": 7.466666666666667,
+  "lufs": -11.424401155549733,
+  "rms_dbfs": -10.927163832431344,
+  "crest": 10.927163124084473,
+  "centroid": 2774.159862868628,
+  "flatness": 0.03562261909246445,
+  "sub100_share": 0.33840274810791016,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.6977174282073975,
+  "clean_share": 0.006191950464396285,
+  "minor_share": -0.008480310648367573,
+  "chord_rate": 2.533333333333333,
+  "repetitiveness": 0.896826446056366,
+  "vocal_share": 0.19494476914405823,
+  "vocal_voiced": 0.375,
+  "song_length": 242.88
+ }
+}

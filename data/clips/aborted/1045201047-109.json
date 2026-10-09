@@ -1,0 +1,32 @@
+{
+ "id": "aborted/1045201047-109",
+ "band": "aborted",
+ "title": "Sade & Libertine Lunacy",
+ "source": "itunes",
+ "album": "The Necrotic Manifesto",
+ "year": 2014,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 8.453319715851235,
+  "tempo_var": 7.754428581038384,
+  "low_onset_rate": 9.388864980846627,
+  "lufs": -8.020897084387622,
+  "rms_dbfs": -7.3652562310818634,
+  "crest": 7.365255832672119,
+  "centroid": 2671.9863797082135,
+  "flatness": 0.043875642120838165,
+  "sub100_share": 0.4515371024608612,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7792381048202515,
+  "clean_share": 0.0,
+  "minor_share": 0.2457820123531414,
+  "chord_rate": 2.5393371478446394,
+  "repetitiveness": 0.9723116755485535,
+  "vocal_share": 0.1032475084066391,
+  "vocal_voiced": 0.15128755364806867,
+  "song_length": 221.04
+ }
+}

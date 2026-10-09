@@ -1,0 +1,32 @@
+{
+ "id": "gutalax/1658782837-108",
+ "band": "gutalax",
+ "title": "Shit Demon",
+ "source": "itunes",
+ "album": "Shit Happens!",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.243366023371963,
+  "tempo_var": 15.737357320157248,
+  "low_onset_rate": 5.546446928186976,
+  "lufs": -5.6711726113612935,
+  "rms_dbfs": -5.02189934650036,
+  "crest": 5.021899223327637,
+  "centroid": 2253.576285865829,
+  "flatness": 0.025139598175883293,
+  "sub100_share": 0.33667153120040894,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7230106592178345,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.12016767156173142,
+  "chord_rate": 2.572749478737332,
+  "repetitiveness": 0.9390954971313477,
+  "vocal_share": 0.13773126900196075,
+  "vocal_voiced": 0.3477272727272727,
+  "song_length": 123.28
+ }
+}

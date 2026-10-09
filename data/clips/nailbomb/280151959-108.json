@@ -1,0 +1,32 @@
+{
+ "id": "nailbomb/280151959-108",
+ "band": "nailbomb",
+ "title": "For F**k's Sake",
+ "source": "itunes",
+ "album": "Point Blank",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 2.765466834495087,
+  "tempo_var": 2.08160696419228,
+  "low_onset_rate": 3.331887752403719,
+  "lufs": -14.367415884904416,
+  "rms_dbfs": -14.85086413305716,
+  "crest": 14.85086441040039,
+  "centroid": 3204.8682951434785,
+  "flatness": 0.07726377248764038,
+  "sub100_share": 0.18214461207389832,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.5365920662879944,
+  "clean_share": 0.0,
+  "minor_share": 0.030358631890160637,
+  "chord_rate": 2.3656403042066403,
+  "repetitiveness": 0.987684965133667,
+  "vocal_share": 0.13910768926143646,
+  "vocal_voiced": 0.2080745341614907,
+  "song_length": 344.373
+ }
+}

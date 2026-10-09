@@ -1,0 +1,32 @@
+{
+ "id": "napalm-death/45445444-106",
+ "band": "napalm-death",
+ "title": "My Own Worst Enemy",
+ "source": "itunes",
+ "album": "Diatribes",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 6.214693546040828,
+  "tempo_var": 10.031752475460321,
+  "low_onset_rate": 7.584599112641226,
+  "lufs": -10.090310544600541,
+  "rms_dbfs": -9.78664095137456,
+  "crest": 9.786641120910645,
+  "centroid": 2539.907364667751,
+  "flatness": 0.034751009196043015,
+  "sub100_share": 0.18065263330936432,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.6803392171859741,
+  "clean_share": 0.0062063615205585725,
+  "minor_share": 0.012969658612754287,
+  "chord_rate": 2.338863162488484,
+  "repetitiveness": 0.9476898312568665,
+  "vocal_share": 0.14343592524528503,
+  "vocal_voiced": 0.5060728744939271,
+  "song_length": 216.0
+ }
+}

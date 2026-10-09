@@ -1,0 +1,32 @@
+{
+ "id": "fear-factory/214477126-108",
+ "band": "fear-factory",
+ "title": "Echoes of Innocence",
+ "source": "itunes",
+ "album": "Concrete",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 5.4462099355088975,
+  "tempo_var": 9.12989602619902,
+  "low_onset_rate": 6.548816854967755,
+  "lufs": -9.699129350285151,
+  "rms_dbfs": -8.802228210264836,
+  "crest": 8.802227973937988,
+  "centroid": 2494.9707777504477,
+  "flatness": 0.02513204887509346,
+  "sub100_share": 0.3225449025630951,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7319057583808899,
+  "clean_share": 0.030256012412723042,
+  "minor_share": 0.12977377101311827,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.9634296894073486,
+  "vocal_share": 0.16356340050697327,
+  "vocal_voiced": 0.6213991769547325,
+  "song_length": 184.76
+ }
+}

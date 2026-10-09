@@ -1,0 +1,32 @@
+{
+ "id": "soulfly/1618465004-105",
+ "band": "soulfly",
+ "title": "The Damage Done",
+ "source": "itunes",
+ "album": "Totem",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 3.2666469136996903,
+  "tempo_var": 14.037503779807011,
+  "low_onset_rate": 3.5999782314241484,
+  "lufs": -10.435881885359187,
+  "rms_dbfs": -10.011597340610665,
+  "crest": 10.011597633361816,
+  "centroid": 2886.7729037954723,
+  "flatness": 0.046747975051403046,
+  "sub100_share": 0.2803407609462738,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.6748459339141846,
+  "clean_share": 0.02088167053364269,
+  "minor_share": -0.05022311290198228,
+  "chord_rate": 0.733328898993808,
+  "repetitiveness": 0.9377490282058716,
+  "vocal_share": 0.02149919420480728,
+  "vocal_voiced": 0.08130081300813008,
+  "song_length": 238.11
+ }
+}

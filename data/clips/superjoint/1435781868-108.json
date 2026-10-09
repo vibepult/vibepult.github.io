@@ -1,0 +1,32 @@
+{
+ "id": "superjoint/1435781868-108",
+ "band": "superjoint",
+ "title": "Permanently",
+ "source": "itunes",
+ "album": "A Lethal Dose of American Hatred",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 6.666666666666667,
+  "tempo_var": 14.634909903648955,
+  "low_onset_rate": 6.033333333333333,
+  "lufs": -9.947749156030593,
+  "rms_dbfs": -10.07086934731371,
+  "crest": 10.070869445800781,
+  "centroid": 2644.106638803318,
+  "flatness": 0.04760487750172615,
+  "sub100_share": 0.30807140469551086,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.5355623960494995,
+  "clean_share": 0.07198142414860681,
+  "minor_share": 0.021361545906611268,
+  "chord_rate": 2.8666666666666667,
+  "repetitiveness": 0.9358540177345276,
+  "vocal_share": 0.21401551365852356,
+  "vocal_voiced": 0.13440860215053763,
+  "song_length": 203.867
+ }
+}

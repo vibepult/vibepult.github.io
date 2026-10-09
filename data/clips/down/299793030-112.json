@@ -1,0 +1,32 @@
+{
+ "id": "down/299793030-112",
+ "band": "down",
+ "title": "Swan Song",
+ "source": "itunes",
+ "album": "Nola",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 2.966316896873838,
+  "tempo_var": 16.929379557164008,
+  "low_onset_rate": 5.499351550384081,
+  "lufs": -9.876503224474186,
+  "rms_dbfs": -9.85176961892495,
+  "crest": 9.85176944732666,
+  "centroid": 2640.9830683678097,
+  "flatness": 0.03391954302787781,
+  "sub100_share": 0.19281426072120667,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.6840345859527588,
+  "clean_share": 0.025522041763341066,
+  "minor_share": 0.09552193310316714,
+  "chord_rate": 2.099752410146649,
+  "repetitiveness": 0.8000128865242004,
+  "vocal_share": 0.08841572701931,
+  "vocal_voiced": 0.5674019607843137,
+  "song_length": 215.0
+ }
+}

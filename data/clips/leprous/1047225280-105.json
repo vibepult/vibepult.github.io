@@ -1,0 +1,32 @@
+{
+ "id": "leprous/1047225280-105",
+ "band": "leprous",
+ "title": "Triumphant",
+ "source": "itunes",
+ "album": "The Congregation",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 198.76802884615384,
+  "onset_rate": 6.12945088447378,
+  "tempo_var": 15.236054849813906,
+  "low_onset_rate": 6.462573215151703,
+  "lufs": -10.322071110522822,
+  "rms_dbfs": -9.051420487706123,
+  "crest": 9.051420211791992,
+  "centroid": 2027.670642959485,
+  "flatness": 0.009883678518235683,
+  "sub100_share": 0.6030910611152649,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8874379992485046,
+  "clean_share": 0.3588553750966744,
+  "minor_share": -0.017974701171533547,
+  "chord_rate": 1.7988605856607833,
+  "repetitiveness": 0.8499860167503357,
+  "vocal_share": 0.07889362424612045,
+  "vocal_voiced": 0.7830508474576271,
+  "song_length": 265.88
+ }
+}

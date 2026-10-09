@@ -1,0 +1,32 @@
+{
+ "id": "therion/1456971712-106",
+ "band": "therion",
+ "title": "2012",
+ "source": "itunes",
+ "album": "Sitra Ahra",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.575119405518111,
+  "tempo_var": 4.263256414560601e-14,
+  "low_onset_rate": 4.777963317655045,
+  "lufs": -8.755129734422567,
+  "rms_dbfs": -8.321452377626787,
+  "crest": 8.321452140808105,
+  "centroid": 2190.939908975281,
+  "flatness": 0.019882703199982643,
+  "sub100_share": 0.17823909223079681,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.7810348272323608,
+  "clean_share": 0.12800620636152055,
+  "minor_share": -0.09104102137927705,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.8912020325660706,
+  "vocal_share": 0.11688737571239471,
+  "vocal_voiced": 0.8732142857142857,
+  "song_length": 256.493
+ }
+}

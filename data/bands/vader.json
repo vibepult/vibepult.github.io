@@ -1,0 +1,127 @@
+{
+ "slug": "vader",
+ "name": "Vader",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 3563163,
+  "deezer": 7708,
+  "spotify": "2s5DSt9VBNzAn2TbtDHzFZ"
+ },
+ "metadata": {
+  "formed": 1983,
+  "split": null,
+  "country": "PL",
+  "status": "active",
+  "members": 5,
+  "past_members": 20,
+  "full_lengths": 15,
+  "genre": "Death/Thrash Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 52815,
+  "themes": "Necronomicon, Death, Magic, Anti-religion, War, Darkness",
+  "release_year": 2007
+ },
+ "partial": false,
+ "clips": [
+  "vader/310693462-107",
+  "vader/1570431995-105",
+  "vader/1151949146-106",
+  "vader/60367812-105",
+  "vader/60372482-106",
+  "vader/253729314-106",
+  "vader/1456961104-109",
+  "vader/1456963760-107",
+  "vader/1458697705-107",
+  "vader/1151891331-105",
+  "vader/1458752331-105",
+  "vader/1352272282-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 23.681722277382946
+  },
+  "onset_rate": {
+   "median": 2.656280305969064,
+   "iqr": 3.7087687290888813
+  },
+  "tempo_var": {
+   "median": 10.479113866592822,
+   "iqr": 10.366904256160103
+  },
+  "low_onset_rate": {
+   "median": 3.8925365489986907,
+   "iqr": 4.051245120738981
+  },
+  "lufs": {
+   "median": -9.145555874663163,
+   "iqr": 4.396608012070229
+  },
+  "rms_dbfs": {
+   "median": -8.942928116951897,
+   "iqr": 4.4647891138413565
+  },
+  "crest": {
+   "median": 8.942928314208984,
+   "iqr": 4.464789271354675
+  },
+  "centroid": {
+   "median": 2594.380378986438,
+   "iqr": 248.62708972146766
+  },
+  "flatness": {
+   "median": 0.03257003054022789,
+   "iqr": 0.014252716209739447
+  },
+  "sub100_share": {
+   "median": 0.3433025926351547,
+   "iqr": 0.07731601595878601
+  },
+  "lowest_pitch": {
+   "median": 51.141357421875,
+   "iqr": 28.93524169921875
+  },
+  "harmonic_share": {
+   "median": 0.8067838847637177,
+   "iqr": 0.08051933348178864
+  },
+  "clean_share": {
+   "median": 0.006577459219752837,
+   "iqr": 0.0839798293250582
+  },
+  "minor_share": {
+   "median": -0.0594535104570027,
+   "iqr": 0.19194757488615696
+  },
+  "chord_rate": {
+   "median": 1.7520485951798226,
+   "iqr": 0.8436613550404886
+  },
+  "repetitiveness": {
+   "median": 0.89561927318573,
+   "iqr": 0.11801503598690033
+  },
+  "vocal_share": {
+   "median": 0.0757178608328104,
+   "iqr": 0.0531313456594944
+  },
+  "vocal_voiced": {
+   "median": 0.32707954784537996,
+   "iqr": 0.17730712158645506
+  },
+  "song_length": {
+   "median": 241.5265,
+   "iqr": 42.6045
+  },
+  "vocal_presence": {
+   "median": 0.5,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

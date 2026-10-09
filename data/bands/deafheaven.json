@@ -1,0 +1,127 @@
+{
+ "slug": "deafheaven",
+ "name": "Deafheaven",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 425470694,
+  "deezer": 522414,
+  "spotify": "4XpPveeg7RuYS3CgLo75t9"
+ },
+ "metadata": {
+  "formed": 2010,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 5,
+  "full_lengths": 6,
+  "genre": "Post-Black Metal/Shoegaze",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 27502,
+  "themes": "Philosophy, Melancholy, Abstractness, Introspection, Relationships",
+  "release_year": 2016
+ },
+ "partial": false,
+ "clips": [
+  "deafheaven/652038965-104",
+  "deafheaven/1485062651-103",
+  "deafheaven/1485072758-104",
+  "deafheaven/1808545829-105",
+  "deafheaven/1792077173-107",
+  "deafheaven/652038965-103",
+  "deafheaven/1485062651-102",
+  "deafheaven/1485072758-103",
+  "deafheaven/1808545829-104",
+  "deafheaven/1792077173-106",
+  "deafheaven/652038965-105",
+  "deafheaven/1485062651-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.19921875,
+   "iqr": 27.982995773817905
+  },
+  "onset_rate": {
+   "median": 2.6166508441369967,
+   "iqr": 1.3426560853129732
+  },
+  "tempo_var": {
+   "median": 6.121171053950793,
+   "iqr": 6.986210952565338
+  },
+  "low_onset_rate": {
+   "median": 4.599950265182366,
+   "iqr": 3.423944216639767
+  },
+  "lufs": {
+   "median": -12.42849354955241,
+   "iqr": 7.645650572765971
+  },
+  "rms_dbfs": {
+   "median": -11.557939916006827,
+   "iqr": 8.266353808984945
+  },
+  "crest": {
+   "median": 11.557940006256104,
+   "iqr": 4.7914862632751465
+  },
+  "centroid": {
+   "median": 1897.039157007116,
+   "iqr": 1058.9306089461854
+  },
+  "flatness": {
+   "median": 0.0095888152718544,
+   "iqr": 0.026397542329505086
+  },
+  "sub100_share": {
+   "median": 0.2414655014872551,
+   "iqr": 0.21075456589460373
+  },
+  "lowest_pitch": {
+   "median": 72.674560546875,
+   "iqr": 27.58941650390625
+  },
+  "harmonic_share": {
+   "median": 0.823167473077774,
+   "iqr": 0.16512291133403778
+  },
+  "clean_share": {
+   "median": 0.5768800926158716,
+   "iqr": 0.7764887857695282
+  },
+  "minor_share": {
+   "median": 0.0317760772270102,
+   "iqr": 0.4212751173095784
+  },
+  "chord_rate": {
+   "median": 1.116654623483621,
+   "iqr": 0.632532975923351
+  },
+  "repetitiveness": {
+   "median": 0.7705045342445374,
+   "iqr": 0.1273365020751953
+  },
+  "vocal_share": {
+   "median": 0.14540955051779747,
+   "iqr": 0.17984642880037427
+  },
+  "vocal_voiced": {
+   "median": 0.553150930255696,
+   "iqr": 0.5687470537755047
+  },
+  "song_length": {
+   "median": 525.7225000000001,
+   "iqr": 242.94300000000004
+  },
+  "vocal_presence": {
+   "median": 0.3333333333333333,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

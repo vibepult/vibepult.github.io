@@ -1,0 +1,32 @@
+{
+ "id": "nervosa/1183619249-107",
+ "band": "nervosa",
+ "title": "Hostages",
+ "source": "itunes",
+ "album": "Agony",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 6.266666666666667,
+  "tempo_var": 16.31240611284349,
+  "low_onset_rate": 7.6,
+  "lufs": -6.079692288671476,
+  "rms_dbfs": -6.209180067143253,
+  "crest": 6.209179878234863,
+  "centroid": 3135.506700774698,
+  "flatness": 0.0720614492893219,
+  "sub100_share": 0.35497617721557617,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7183369994163513,
+  "clean_share": 0.008513931888544891,
+  "minor_share": 0.04967405462368826,
+  "chord_rate": 2.2666666666666666,
+  "repetitiveness": 0.8953264355659485,
+  "vocal_share": 0.13865165412425995,
+  "vocal_voiced": 0.047865459249676584,
+  "song_length": 204.76
+ }
+}

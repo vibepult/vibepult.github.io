@@ -1,0 +1,32 @@
+{
+ "id": "deep-purple/1106649013-104",
+ "band": "deep-purple",
+ "title": "Flight of the Rat",
+ "source": "itunes",
+ "album": "Deep Purple In Rock",
+ "year": 1970,
+ "itunes_year": 1970,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.330488794339528,
+  "tempo_var": 8.158982055923817,
+  "low_onset_rate": 5.2971732393749065,
+  "lufs": -19.07420835795137,
+  "rms_dbfs": -18.844529072888058,
+  "crest": 13.348511695861816,
+  "centroid": 2266.3383226510987,
+  "flatness": 0.021477071568369865,
+  "sub100_share": 0.131585493683815,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.7689210176467896,
+  "clean_share": 0.10904872389791183,
+  "minor_share": -0.31808884743208365,
+  "chord_rate": 1.399253308514126,
+  "repetitiveness": 0.7271458506584167,
+  "vocal_share": 0.09588230401277542,
+  "vocal_voiced": 0.8059125964010283,
+  "song_length": 477.809
+ }
+}

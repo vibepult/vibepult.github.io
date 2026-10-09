@@ -1,0 +1,32 @@
+{
+ "id": "megadeth/1674088375-106",
+ "band": "megadeth",
+ "title": "This Was My Life (1992 Mix Remaster)",
+ "source": "itunes",
+ "album": "Countdown To Extinction",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.7332768967967227,
+  "tempo_var": 2.842170943040401e-14,
+  "low_onset_rate": 4.433266314946108,
+  "lufs": -8.466214628156317,
+  "rms_dbfs": -9.098774174489936,
+  "crest": 9.098773956298828,
+  "centroid": 3397.624938464894,
+  "flatness": 0.06803100556135178,
+  "sub100_share": 0.23781636357307434,
+  "lowest_pitch": 123.81591796875,
+  "harmonic_share": 0.6660109758377075,
+  "clean_share": 0.030935808197989172,
+  "minor_share": 0.1948438774699125,
+  "chord_rate": 1.8333056189626764,
+  "repetitiveness": 0.799547016620636,
+  "vocal_share": 0.15479980409145355,
+  "vocal_voiced": 0.7507507507507507,
+  "song_length": 222.04
+ }
+}

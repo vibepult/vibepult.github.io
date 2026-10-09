@@ -1,0 +1,127 @@
+{
+ "slug": "evergrey",
+ "name": "Evergrey",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 135499096,
+  "deezer": 8892,
+  "spotify": "4S0foX2r0RlC12KBW8u73D"
+ },
+ "metadata": {
+  "formed": 1993,
+  "split": null,
+  "country": "SE",
+  "status": "active",
+  "members": 5,
+  "past_members": 14,
+  "full_lengths": 15,
+  "genre": "Progressive/Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 23491,
+  "themes": "Religion, Introspection, Spirituality, Fear",
+  "release_year": 2021
+ },
+ "partial": false,
+ "clips": [
+  "evergrey/1520350323-107",
+  "evergrey/1441308456-106",
+  "evergrey/1541154456-106",
+  "evergrey/1608401395-105",
+  "evergrey/1735544074-106",
+  "evergrey/1877926384-107",
+  "evergrey/1520350323-108",
+  "evergrey/1441308456-104",
+  "evergrey/1541154456-105",
+  "evergrey/1608401395-106",
+  "evergrey/1735544074-105",
+  "evergrey/1877926384-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.19921875,
+   "iqr": 21.710891993447063
+  },
+  "onset_rate": {
+   "median": 3.0039022159723405,
+   "iqr": 1.8988763786318912
+  },
+  "tempo_var": {
+   "median": 12.051558449475245,
+   "iqr": 8.271378995067893
+  },
+  "low_onset_rate": {
+   "median": 5.59046709226701,
+   "iqr": 2.288958980559886
+  },
+  "lufs": {
+   "median": -10.991743167612421,
+   "iqr": 1.841581505341047
+  },
+  "rms_dbfs": {
+   "median": -10.094040484249678,
+   "iqr": 2.3829329032698663
+  },
+  "crest": {
+   "median": 10.094040870666504,
+   "iqr": 2.3829336166381836
+  },
+  "centroid": {
+   "median": 2318.1291187969828,
+   "iqr": 430.3181074025258
+  },
+  "flatness": {
+   "median": 0.02379604708403349,
+   "iqr": 0.016671065473929048
+  },
+  "sub100_share": {
+   "median": 0.38123080134391785,
+   "iqr": 0.19550562277436256
+  },
+  "lowest_pitch": {
+   "median": 52.4871826171875,
+   "iqr": 20.1873779296875
+  },
+  "harmonic_share": {
+   "median": 0.8281034827232361,
+   "iqr": 0.047514572739601135
+  },
+  "clean_share": {
+   "median": 0.0843000773395205,
+   "iqr": 0.35184831854042503
+  },
+  "minor_share": {
+   "median": -0.0006768425062101957,
+   "iqr": 0.11458887727331943
+  },
+  "chord_rate": {
+   "median": 1.3166551778350204,
+   "iqr": 0.3823014268199185
+  },
+  "repetitiveness": {
+   "median": 0.8314037024974823,
+   "iqr": 0.11287327110767365
+  },
+  "vocal_share": {
+   "median": 0.15878845751285553,
+   "iqr": 0.08667885512113571
+  },
+  "vocal_voiced": {
+   "median": 0.8747126436781609,
+   "iqr": 0.059244678472963885
+  },
+  "song_length": {
+   "median": 320.18100000000004,
+   "iqr": 66.96075000000002
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

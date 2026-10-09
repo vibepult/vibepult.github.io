@@ -1,0 +1,127 @@
+{
+ "slug": "shining",
+ "name": "Shining",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 68234788,
+  "deezer": 6060,
+  "spotify": "7wqTItc5qEyIwWw5ksN1Ya"
+ },
+ "metadata": {
+  "formed": 1996,
+  "split": null,
+  "country": "SE",
+  "status": "active",
+  "members": 1,
+  "past_members": 29,
+  "full_lengths": 12,
+  "genre": "Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 19565,
+  "themes": "Suicide, Depression, Evil, Misanthropy, Negativity, Life, Death, Isolation, Hate, Satanism",
+  "release_year": 2011
+ },
+ "partial": false,
+ "clips": [
+  "shining/1189440086-103",
+  "shining/1669984177-103",
+  "shining/1669881403-103",
+  "shining/975947337-103",
+  "shining/1286930554-103",
+  "shining/1189440086-104",
+  "shining/1669984177-104",
+  "shining/1669881403-104",
+  "shining/975947337-104",
+  "shining/1286930554-104",
+  "shining/1189440086-102",
+  "shining/1669984177-102"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.90049098320159,
+   "iqr": 33.09536637931035
+  },
+  "onset_rate": {
+   "median": 4.6944324904233135,
+   "iqr": 3.4331169992241675
+  },
+  "tempo_var": {
+   "median": 6.586032849364938,
+   "iqr": 13.756041514654193
+  },
+  "low_onset_rate": {
+   "median": 6.48199219318237,
+   "iqr": 3.0321690285118557
+  },
+  "lufs": {
+   "median": -9.634417723354824,
+   "iqr": 6.926595078071401
+  },
+  "rms_dbfs": {
+   "median": -9.503900491675118,
+   "iqr": 7.050823942554578
+  },
+  "crest": {
+   "median": 9.503900527954102,
+   "iqr": 6.980171203613281
+  },
+  "centroid": {
+   "median": 2487.5897775006115,
+   "iqr": 258.1002380178279
+  },
+  "flatness": {
+   "median": 0.03164241090416908,
+   "iqr": 0.014441675739362836
+  },
+  "sub100_share": {
+   "median": 0.32359500229358673,
+   "iqr": 0.25279097259044647
+  },
+  "lowest_pitch": {
+   "median": 56.524658203125,
+   "iqr": 38.35601806640625
+  },
+  "harmonic_share": {
+   "median": 0.8178220391273499,
+   "iqr": 0.12293589115142822
+  },
+  "clean_share": {
+   "median": 0.03995345228859581,
+   "iqr": 0.19181536074476338
+  },
+  "minor_share": {
+   "median": 0.037937679964504506,
+   "iqr": 0.1243368078317364
+  },
+  "chord_rate": {
+   "median": 1.236256243029627,
+   "iqr": 0.5262442115599087
+  },
+  "repetitiveness": {
+   "median": 0.8032287955284119,
+   "iqr": 0.11372298002243042
+  },
+  "vocal_share": {
+   "median": 0.1510343849658966,
+   "iqr": 0.11531194299459457
+  },
+  "vocal_voiced": {
+   "median": 0.5369127516778524,
+   "iqr": 0.47908858748216787
+  },
+  "song_length": {
+   "median": 430.847,
+   "iqr": 61.47575000000006
+  },
+  "vocal_presence": {
+   "median": 0.5833333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.5,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

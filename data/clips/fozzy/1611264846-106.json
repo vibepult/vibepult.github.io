@@ -1,0 +1,32 @@
+{
+ "id": "fozzy/1611264846-106",
+ "band": "fozzy",
+ "title": "Relax",
+ "source": "itunes",
+ "album": "Boombox",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.09740466733845,
+  "tempo_var": 0.0,
+  "low_onset_rate": 3.3312233067792283,
+  "lufs": -9.401079174982693,
+  "rms_dbfs": -8.275126299218117,
+  "crest": 8.275126457214355,
+  "centroid": 2327.1932005258695,
+  "flatness": 0.029498089104890823,
+  "sub100_share": 0.4194367229938507,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7229406833648682,
+  "clean_share": 0.048723897911832945,
+  "minor_share": -0.04802131661710218,
+  "chord_rate": 1.89879728486416,
+  "repetitiveness": 0.9388948082923889,
+  "vocal_share": 0.12997470796108246,
+  "vocal_voiced": 0.7801484230055659,
+  "song_length": 238.352
+ }
+}

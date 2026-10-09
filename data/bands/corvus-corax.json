@@ -1,0 +1,127 @@
+{
+ "slug": "corvus-corax",
+ "name": "Corvus Corax",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 27067120,
+  "deezer": 5263,
+  "spotify": "0Qeg2Ytz5AcfvkIO3RYV3z"
+ },
+ "metadata": {
+  "formed": 1989,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 8,
+  "past_members": 15,
+  "full_lengths": 19,
+  "genre": "Medieval Folk, Folk Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 24436,
+  "themes": "Medieval themes, Folklore, Legends, Myths",
+  "release_year": 2001
+ },
+ "partial": false,
+ "clips": [
+  "corvus-corax/308906409-109",
+  "corvus-corax/308908056-106",
+  "corvus-corax/308908668-105",
+  "corvus-corax/308909038-107",
+  "corvus-corax/305243059-107",
+  "corvus-corax/308910107-103",
+  "corvus-corax/308892998-107",
+  "corvus-corax/308801993-106",
+  "corvus-corax/287962227-107",
+  "corvus-corax/1791575820-107",
+  "corvus-corax/737898742-107",
+  "corvus-corax/1412026418-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 18.883050799940193
+  },
+  "onset_rate": {
+   "median": 4.399961300777612,
+   "iqr": 1.1087461847293487
+  },
+  "tempo_var": {
+   "median": 3.699016035007125,
+   "iqr": 14.554612907789963
+  },
+  "low_onset_rate": {
+   "median": 5.256280752681,
+   "iqr": 2.4834711236699816
+  },
+  "lufs": {
+   "median": -13.3000081463726,
+   "iqr": 3.0912831656457023
+  },
+  "rms_dbfs": {
+   "median": -12.975943795580115,
+   "iqr": 3.9440484234237108
+  },
+  "crest": {
+   "median": 12.975943565368652,
+   "iqr": 3.065781831741333
+  },
+  "centroid": {
+   "median": 2105.5939072536908,
+   "iqr": 561.5759147872598
+  },
+  "flatness": {
+   "median": 0.008145578438416123,
+   "iqr": 0.01165847887750715
+  },
+  "sub100_share": {
+   "median": 0.38806360960006714,
+   "iqr": 0.4049696350703016
+  },
+  "lowest_pitch": {
+   "median": 63.2537841796875,
+   "iqr": 93.73931884765625
+  },
+  "harmonic_share": {
+   "median": 0.7934934794902802,
+   "iqr": 0.13567939400672913
+  },
+  "clean_share": {
+   "median": 0.41197571347503464,
+   "iqr": 0.38711324989785056
+  },
+  "minor_share": {
+   "median": 0.01253291073155638,
+   "iqr": 0.14368851960155193
+  },
+  "chord_rate": {
+   "median": 1.599775113488281,
+   "iqr": 0.4594249918526718
+  },
+  "repetitiveness": {
+   "median": 0.8793124258518219,
+   "iqr": 0.120963454246521
+  },
+  "vocal_share": {
+   "median": 0.20460791140794754,
+   "iqr": 0.15358415991067886
+  },
+  "vocal_voiced": {
+   "median": 0.768070553105795,
+   "iqr": 0.2250957853287563
+  },
+  "song_length": {
+   "median": 259.547,
+   "iqr": 118.50725
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.8,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

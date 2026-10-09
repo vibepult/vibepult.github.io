@@ -1,0 +1,32 @@
+{
+ "id": "opeth/881685468-104",
+ "band": "opeth",
+ "title": "Elysian Woes",
+ "source": "itunes",
+ "album": "Pale Communion",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.299142121300058,
+  "tempo_var": 3.3479237471392995,
+  "low_onset_rate": 3.066054846198491,
+  "lufs": -16.00095282636992,
+  "rms_dbfs": -15.173568855026222,
+  "crest": 15.173568725585938,
+  "centroid": 1961.6067903956632,
+  "flatness": 0.011483951471745968,
+  "sub100_share": 0.28614747524261475,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.6108403205871582,
+  "clean_share": 0.4408352668213457,
+  "minor_share": -0.049045843988850035,
+  "chord_rate": 0.5665536128845038,
+  "repetitiveness": 0.7197363972663879,
+  "vocal_share": 0.22490951418876648,
+  "vocal_voiced": 0.8034257748776509,
+  "song_length": 288.44
+ }
+}

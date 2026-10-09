@@ -1,0 +1,32 @@
+{
+ "id": "diabulus-in-musica/1183597484-107",
+ "band": "diabulus-in-musica",
+ "title": "Shadow of the Throne",
+ "source": "itunes",
+ "album": "The Wanderer",
+ "year": 2012,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.366666666666666,
+  "tempo_var": 2.5304756577007415,
+  "low_onset_rate": 5.033333333333333,
+  "lufs": -9.907533918111099,
+  "rms_dbfs": -8.827686130486795,
+  "crest": 8.827685356140137,
+  "centroid": 2437.3910525739684,
+  "flatness": 0.03015374019742012,
+  "sub100_share": 0.5292606949806213,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8217262029647827,
+  "clean_share": 0.03560371517027864,
+  "minor_share": 0.22277041195850117,
+  "chord_rate": 1.6666666666666667,
+  "repetitiveness": 0.8762149214744568,
+  "vocal_share": 0.04935740679502487,
+  "vocal_voiced": 0.6569767441860465,
+  "song_length": 283.515
+ }
+}

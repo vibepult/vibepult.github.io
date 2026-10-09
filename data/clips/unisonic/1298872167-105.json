@@ -1,0 +1,32 @@
+{
+ "id": "unisonic/1298872167-105",
+ "band": "unisonic",
+ "title": "Star Rider",
+ "source": "itunes",
+ "album": "Unisonic",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 5.078674295689279,
+  "tempo_var": 12.86650743456234,
+  "low_onset_rate": 5.34597294283082,
+  "lufs": -7.077142227718042,
+  "rms_dbfs": -7.047354204295598,
+  "crest": 7.047353744506836,
+  "centroid": 2446.578002698361,
+  "flatness": 0.02975752204656601,
+  "sub100_share": 0.12253517657518387,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7770049571990967,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": -0.1698653986694848,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.8108723759651184,
+  "vocal_share": 0.39991676807403564,
+  "vocal_voiced": 0.8457907159716759,
+  "song_length": 256.693
+ }
+}

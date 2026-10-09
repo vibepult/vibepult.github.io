@@ -1,0 +1,32 @@
+{
+ "id": "earth/3257737-104",
+ "band": "earth",
+ "title": "Tallahassee",
+ "source": "itunes",
+ "album": "Pentastar - In the Style of Demons",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.209953692479271,
+  "tempo_var": 18.123982606477014,
+  "low_onset_rate": 4.4772523396208115,
+  "lufs": -8.858841328270572,
+  "rms_dbfs": -7.386957845864791,
+  "crest": 7.386958122253418,
+  "centroid": 1275.5220971565795,
+  "flatness": 0.002482809592038393,
+  "sub100_share": 0.3905840218067169,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8481871485710144,
+  "clean_share": 0.9053529868114818,
+  "minor_share": 0.22212670412133717,
+  "chord_rate": 2.0047398535615577,
+  "repetitiveness": 0.7355879545211792,
+  "vocal_share": 0.012630024924874306,
+  "vocal_voiced": 0.9043478260869565,
+  "song_length": 230.933
+ }
+}

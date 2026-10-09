@@ -1,0 +1,32 @@
+{
+ "id": "darkwater/1456114193-105",
+ "band": "darkwater",
+ "title": "Queen of the Night",
+ "source": "itunes",
+ "album": "Where Stories End",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 1.3699055666003976,
+  "tempo_var": 3.0607283755880688,
+  "low_onset_rate": 3.809005721766959,
+  "lufs": -11.956242304186995,
+  "rms_dbfs": -10.957893843280607,
+  "crest": 10.957893371582031,
+  "centroid": 2545.8161751368284,
+  "flatness": 0.026740441098809242,
+  "sub100_share": 0.3924950063228607,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.6664206981658936,
+  "clean_share": 0.10861132660977502,
+  "minor_share": -0.11147457607432898,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.8979237079620361,
+  "vocal_share": 0.003469735849648714,
+  "vocal_voiced": 0.793859649122807,
+  "song_length": 371.48
+ }
+}

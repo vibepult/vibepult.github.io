@@ -1,0 +1,32 @@
+{
+ "id": "sleep/43359181-103",
+ "band": "sleep",
+ "title": "Evil Gypsy / Solomon's Theme",
+ "source": "itunes",
+ "album": "Sleep's Holy Mountain",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.966666666666667,
+  "tempo_var": 2.522566290042733,
+  "low_onset_rate": 6.3,
+  "lufs": -15.210323503751637,
+  "rms_dbfs": -14.73840934838887,
+  "crest": 14.738409042358398,
+  "centroid": 2311.753662155629,
+  "flatness": 0.02300175651907921,
+  "sub100_share": 0.1755279153585434,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.674985408782959,
+  "clean_share": 0.05959752321981424,
+  "minor_share": -0.13697364568894455,
+  "chord_rate": 2.7666666666666666,
+  "repetitiveness": 0.9338329434394836,
+  "vocal_share": 0.14435793459415436,
+  "vocal_voiced": 0.39886039886039887,
+  "song_length": 426.84
+ }
+}

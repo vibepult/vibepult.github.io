@@ -1,0 +1,32 @@
+{
+ "id": "bonfire/1545573878-111",
+ "band": "bonfire",
+ "title": "Fantasy (Almost Unplugged)",
+ "source": "itunes",
+ "album": "Roots",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.3412330892692625,
+  "tempo_var": 11.607517591494942,
+  "low_onset_rate": 4.109716699801193,
+  "lufs": -8.966930257766533,
+  "rms_dbfs": -8.272170378762269,
+  "crest": 8.272170066833496,
+  "centroid": 2515.0468439018523,
+  "flatness": 0.031010901555418968,
+  "sub100_share": 0.3409223258495331,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7615599036216736,
+  "clean_share": 0.08378588052754073,
+  "minor_share": -0.06117091214064241,
+  "chord_rate": 2.1718015080250206,
+  "repetitiveness": 0.7760002613067627,
+  "vocal_share": 0.14622224867343903,
+  "vocal_voiced": 0.5985598559855986,
+  "song_length": 243.0
+ }
+}

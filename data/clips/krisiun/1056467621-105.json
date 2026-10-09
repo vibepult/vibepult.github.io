@@ -1,0 +1,32 @@
+{
+ "id": "krisiun/1056467621-105",
+ "band": "krisiun",
+ "title": "Soulless Impaler",
+ "source": "itunes",
+ "album": "Forged in Fury",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.713508582650439,
+  "tempo_var": 1.820019071324397,
+  "low_onset_rate": 9.355452649953936,
+  "lufs": -7.7782654531382756,
+  "rms_dbfs": -6.741389244399917,
+  "crest": 6.741389274597168,
+  "centroid": 2671.319479607652,
+  "flatness": 0.03492017462849617,
+  "sub100_share": 0.5420106649398804,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8117280602455139,
+  "clean_share": 0.04422032583397983,
+  "minor_share": 0.10766125436903395,
+  "chord_rate": 2.071564515346943,
+  "repetitiveness": 0.9518979787826538,
+  "vocal_share": 0.07365281879901886,
+  "vocal_voiced": 0.01932367149758454,
+  "song_length": 370.672
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "def-leppard",
+ "name": "Def Leppard",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 117554,
+  "deezer": 2557,
+  "spotify": "6H1RjVyNruCmrBEWRbD0VZ"
+ },
+ "metadata": {
+  "formed": 1977,
+  "split": null,
+  "country": "GB",
+  "status": "active",
+  "members": 5,
+  "past_members": 3,
+  "full_lengths": 12,
+  "genre": "NWOBHM/Heavy Metal (early); Hard Rock, Pop Rock (later)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 892951,
+  "themes": "Life, Love, Relationships, Women",
+  "release_year": 1995
+ },
+ "partial": false,
+ "clips": [
+  "def-leppard/1501776897-106",
+  "def-leppard/1501776925-105",
+  "def-leppard/1440902935-105",
+  "def-leppard/1440907510-105",
+  "def-leppard/1440907741-107",
+  "def-leppard/1440904703-107",
+  "def-leppard/1440874978-107",
+  "def-leppard/1440876405-106",
+  "def-leppard/1671076722-107",
+  "def-leppard/1611600326-108",
+  "def-leppard/1501776897-105",
+  "def-leppard/1501776925-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 135.99917763157896,
+   "iqr": 34.403363396139696
+  },
+  "onset_rate": {
+   "median": 4.165623171767565,
+   "iqr": 1.5741650321100824
+  },
+  "tempo_var": {
+   "median": 15.611024511373481,
+   "iqr": 21.257361563928477
+  },
+  "low_onset_rate": {
+   "median": 4.566597632688849,
+   "iqr": 1.2243449424929445
+  },
+  "lufs": {
+   "median": -10.712835050369007,
+   "iqr": 1.1780312501879813
+  },
+  "rms_dbfs": {
+   "median": -10.718793223779649,
+   "iqr": 1.784021234091691
+  },
+  "crest": {
+   "median": 10.718792915344238,
+   "iqr": 1.7840216159820557
+  },
+  "centroid": {
+   "median": 2473.427449668112,
+   "iqr": 409.5780800648131
+  },
+  "flatness": {
+   "median": 0.03135882318019867,
+   "iqr": 0.014484063722193241
+  },
+  "sub100_share": {
+   "median": 0.22470656037330627,
+   "iqr": 0.18130136467516422
+  },
+  "lowest_pitch": {
+   "median": 64.599609375,
+   "iqr": 30.9539794921875
+  },
+  "harmonic_share": {
+   "median": 0.7689262926578522,
+   "iqr": 0.12445756793022156
+  },
+  "clean_share": {
+   "median": 0.06380510440835267,
+   "iqr": 0.1831013147718484
+  },
+  "minor_share": {
+   "median": -0.0589643809708508,
+   "iqr": 0.13047395237792742
+  },
+  "chord_rate": {
+   "median": 1.4333116657344562,
+   "iqr": 0.5999909298423305
+  },
+  "repetitiveness": {
+   "median": 0.7943046689033508,
+   "iqr": 0.10168106853961945
+  },
+  "vocal_share": {
+   "median": 0.18126119673252106,
+   "iqr": 0.1257469691336155
+  },
+  "vocal_voiced": {
+   "median": 0.6842310899878068,
+   "iqr": 0.23395858191836794
+  },
+  "song_length": {
+   "median": 254.6445,
+   "iqr": 74.23174999999998
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

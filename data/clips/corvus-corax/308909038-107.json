@@ -1,0 +1,32 @@
+{
+ "id": "corvus-corax/308909038-107",
+ "band": "corvus-corax",
+ "title": "Najo Ratte (rotwelsch)",
+ "source": "itunes",
+ "album": "Viator",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 5.033257244788439,
+  "tempo_var": 16.695072144355052,
+  "low_onset_rate": 3.1666187963900776,
+  "lufs": -13.746653401253258,
+  "rms_dbfs": -13.135947089550159,
+  "crest": 13.135947227478027,
+  "centroid": 2366.9177603381218,
+  "flatness": 0.02798137627542019,
+  "sub100_share": 0.4065398573875427,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6581650376319885,
+  "clean_share": 0.28074245939675174,
+  "minor_share": -0.2160300479104157,
+  "chord_rate": 1.6333086423485663,
+  "repetitiveness": 0.9668127298355103,
+  "vocal_share": 0.028007473796606064,
+  "vocal_voiced": 0.2535211267605634,
+  "song_length": 247.0
+ }
+}

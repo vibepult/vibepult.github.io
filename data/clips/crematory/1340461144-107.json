@@ -1,0 +1,32 @@
+{
+ "id": "crematory/1340461144-107",
+ "band": "crematory",
+ "title": "Stay with Me",
+ "source": "itunes",
+ "album": "Oblivion",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.209953692479271,
+  "tempo_var": 1.7579715174919024,
+  "low_onset_rate": 4.777963317655045,
+  "lufs": -10.435653906073252,
+  "rms_dbfs": -9.298374488502464,
+  "crest": 9.29837417602539,
+  "centroid": 1909.900830866701,
+  "flatness": 0.011220939457416534,
+  "sub100_share": 0.297663152217865,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7206777930259705,
+  "clean_share": 0.4499612102404965,
+  "minor_share": 0.15220507984198917,
+  "chord_rate": 1.0023699267807789,
+  "repetitiveness": 0.8060953617095947,
+  "vocal_share": 0.2808665335178375,
+  "vocal_voiced": 0.7820186598812553,
+  "song_length": 255.884
+ }
+}

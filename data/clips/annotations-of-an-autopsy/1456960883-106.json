@@ -1,0 +1,32 @@
+{
+ "id": "annotations-of-an-autopsy/1456960883-106",
+ "band": "annotations-of-an-autopsy",
+ "title": "Catastrophic Hybridization",
+ "source": "itunes",
+ "album": "The Reign of Darkness",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 0.8353082723173156,
+  "tempo_var": 2.5482104445024687,
+  "low_onset_rate": 2.2720385007030983,
+  "lufs": -9.408214916522345,
+  "rms_dbfs": -8.954860159151902,
+  "crest": 8.95486068725586,
+  "centroid": 2456.3941679046807,
+  "flatness": 0.026630161330103874,
+  "sub100_share": 0.28617197275161743,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8337327837944031,
+  "clean_share": 0.15050426687354537,
+  "minor_share": -0.193511461952096,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.7896926999092102,
+  "vocal_share": 7.376647772616707e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 352.4
+ }
+}

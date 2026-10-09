@@ -1,0 +1,32 @@
+{
+ "id": "dark-tranquillity/1045217379-106",
+ "band": "dark-tranquillity",
+ "title": "The Same",
+ "source": "itunes",
+ "album": "Haven",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.107346773020414,
+  "tempo_var": 30.736287778914363,
+  "low_onset_rate": 3.374645420161955,
+  "lufs": -8.91420688020407,
+  "rms_dbfs": -8.875082224414827,
+  "crest": 8.875082015991211,
+  "centroid": 3064.1278952351354,
+  "flatness": 0.05510726943612099,
+  "sub100_share": 0.24226246774196625,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7890377044677734,
+  "clean_share": 0.0,
+  "minor_share": 0.06260847695880822,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.7370254397392273,
+  "vocal_share": 0.07079675793647766,
+  "vocal_voiced": 0.025089605734767026,
+  "song_length": 190.44
+ }
+}

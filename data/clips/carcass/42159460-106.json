@@ -1,0 +1,32 @@
+{
+ "id": "carcass/42159460-106",
+ "band": "carcass",
+ "title": "Room 101",
+ "source": "itunes",
+ "album": "Swansong",
+ "year": 1996,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 4.633263291560218,
+  "tempo_var": 3.6484427735141374,
+  "low_onset_rate": 7.199891158107966,
+  "lufs": -7.781465315941504,
+  "rms_dbfs": -7.09703745915505,
+  "crest": 7.097036838531494,
+  "centroid": 2727.881916784404,
+  "flatness": 0.037532515823841095,
+  "sub100_share": 0.4651309847831726,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7885341644287109,
+  "clean_share": 0.07347254447022429,
+  "minor_share": 0.14881059888725834,
+  "chord_rate": 2.299965231062267,
+  "repetitiveness": 0.8352139592170715,
+  "vocal_share": 0.04350438341498375,
+  "vocal_voiced": 0.027131782945736434,
+  "song_length": 275.64
+ }
+}

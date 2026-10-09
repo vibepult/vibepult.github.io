@@ -1,0 +1,32 @@
+{
+ "id": "briqueville/1705466340-105",
+ "band": "briqueville",
+ "title": "AKTE XX",
+ "source": "itunes",
+ "album": "IIII",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.7333333333333334,
+  "tempo_var": 3.2616387029935145,
+  "low_onset_rate": 4.533333333333333,
+  "lufs": -14.76480636782367,
+  "rms_dbfs": -12.186837508201322,
+  "crest": 12.186837196350098,
+  "centroid": 916.2013047983662,
+  "flatness": 0.0007686948520131409,
+  "sub100_share": 0.791853666305542,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.9390954375267029,
+  "clean_share": 0.9643962848297214,
+  "minor_share": -0.058326182635343615,
+  "chord_rate": 1.6,
+  "repetitiveness": 0.6772333979606628,
+  "vocal_share": 2.4651791363794473e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 735.894
+ }
+}

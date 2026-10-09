@@ -1,0 +1,32 @@
+{
+ "id": "tarot/990553737-105",
+ "band": "tarot",
+ "title": "State of Grace",
+ "source": "itunes",
+ "album": "Stigmata",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.84478797944043,
+  "tempo_var": 10.729971116561485,
+  "low_onset_rate": 5.145498957474664,
+  "lufs": -16.356153776295553,
+  "rms_dbfs": -16.296686896385218,
+  "crest": 14.564632415771484,
+  "centroid": 2175.184742084255,
+  "flatness": 0.010674133896827698,
+  "sub100_share": 0.1925140619277954,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.907989501953125,
+  "clean_share": 0.45228859581070596,
+  "minor_share": 0.09567713122168808,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.7224712371826172,
+  "vocal_share": 0.35025376081466675,
+  "vocal_voiced": 0.8763213530655392,
+  "song_length": 368.533
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "bloodgood/560189464-105",
+ "band": "bloodgood",
+ "title": "Top of the Mountain",
+ "source": "itunes",
+ "album": "Out of the Darkness (Remastered)",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.143129030693886,
+  "tempo_var": 9.39756379105425,
+  "low_onset_rate": 1.4701425592784756,
+  "lufs": -11.447529249867161,
+  "rms_dbfs": -10.710174837137886,
+  "crest": 10.710174560546875,
+  "centroid": 2188.057218492849,
+  "flatness": 0.008539278991520405,
+  "sub100_share": 0.3016982078552246,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.9444266557693481,
+  "clean_share": 0.6377036462373933,
+  "minor_share": 0.08295405647738424,
+  "chord_rate": 1.0023699267807789,
+  "repetitiveness": 0.4284553527832031,
+  "vocal_share": 0.5254002213478088,
+  "vocal_voiced": 0.9532967032967034,
+  "song_length": 382.533
+ }
+}

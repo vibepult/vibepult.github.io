@@ -1,0 +1,32 @@
+{
+ "id": "ktulu/1800700608-106",
+ "band": "ktulu",
+ "title": "Represor",
+ "source": "itunes",
+ "album": "Involución",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 6.399883902332838,
+  "tempo_var": 6.209024966894216,
+  "low_onset_rate": 7.333200304756376,
+  "lufs": -9.915225725826962,
+  "rms_dbfs": -9.285844955124796,
+  "crest": 9.285844802856445,
+  "centroid": 2990.7007759553007,
+  "flatness": 0.05578162521123886,
+  "sub100_share": 0.5018741488456726,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.6801588535308838,
+  "clean_share": 0.0015467904098994587,
+  "minor_share": 0.13712046884284607,
+  "chord_rate": 2.6666182926386823,
+  "repetitiveness": 0.9024603366851807,
+  "vocal_share": 0.09334312379360199,
+  "vocal_voiced": 0.22634146341463415,
+  "song_length": 213.624
+ }
+}

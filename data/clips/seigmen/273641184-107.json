@@ -1,0 +1,32 @@
+{
+ "id": "seigmen/273641184-107",
+ "band": "seigmen",
+ "title": "Guilt",
+ "source": "itunes",
+ "album": "Radiowaves",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 2.8734604567715656,
+  "tempo_var": 29.63535375355135,
+  "low_onset_rate": 3.742181059981574,
+  "lufs": -21.624922083663904,
+  "rms_dbfs": -20.256202180582964,
+  "crest": 19.158546447753906,
+  "centroid": 1600.1666097497146,
+  "flatness": 0.00894690491259098,
+  "sub100_share": 0.3986842930316925,
+  "lowest_pitch": 148.040771484375,
+  "harmonic_share": 0.8376393914222717,
+  "clean_share": 0.7370054305663305,
+  "minor_share": 0.02561060481600641,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.7648453712463379,
+  "vocal_share": 0.2195793092250824,
+  "vocal_voiced": 0.795260663507109,
+  "song_length": 300.067
+ }
+}

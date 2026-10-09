@@ -1,0 +1,32 @@
+{
+ "id": "megadeth/1440644391-106",
+ "band": "megadeth",
+ "title": "Blessed Be the Dead",
+ "source": "itunes",
+ "album": "United Abominations",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.3,
+  "tempo_var": 12.254148581496269,
+  "low_onset_rate": 7.133333333333334,
+  "lufs": -7.758519521916777,
+  "rms_dbfs": -6.781988413703292,
+  "crest": 6.781988620758057,
+  "centroid": 2021.897145007192,
+  "flatness": 0.011527251452207565,
+  "sub100_share": 0.3990248739719391,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.8534640073776245,
+  "clean_share": 0.2755417956656347,
+  "minor_share": -0.03186868042075941,
+  "chord_rate": 1.2,
+  "repetitiveness": 0.8702415227890015,
+  "vocal_share": 0.12213969230651855,
+  "vocal_voiced": 0.5257548845470693,
+  "song_length": 242.36
+ }
+}

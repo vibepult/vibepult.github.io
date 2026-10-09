@@ -1,0 +1,32 @@
+{
+ "id": "holocaust/1608450286-107",
+ "band": "holocaust",
+ "title": "Mount Thunder",
+ "source": "itunes",
+ "album": "Covenant (Expanded Edition)",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.0,
+  "tempo_var": 3.7174133343827993,
+  "low_onset_rate": 3.4,
+  "lufs": -15.245369747199302,
+  "rms_dbfs": -14.943669464806122,
+  "crest": 14.943670272827148,
+  "centroid": 2949.6630310419964,
+  "flatness": 0.042480990290641785,
+  "sub100_share": 0.3683668375015259,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8222924470901489,
+  "clean_share": 0.05185758513931889,
+  "minor_share": -0.059150328920603124,
+  "chord_rate": 1.8,
+  "repetitiveness": 0.5606435537338257,
+  "vocal_share": 0.09406689554452896,
+  "vocal_voiced": 0.6427586206896552,
+  "song_length": 320.973
+ }
+}

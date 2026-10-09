@@ -1,0 +1,32 @@
+{
+ "id": "artrosis/510043877-105",
+ "band": "artrosis",
+ "title": "Moje Niebo",
+ "source": "itunes",
+ "album": "Imago",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.5106646705135045,
+  "tempo_var": 9.837528142910472,
+  "low_onset_rate": 2.940285118556951,
+  "lufs": -10.91254926248534,
+  "rms_dbfs": -9.170718634983972,
+  "crest": 9.1707181930542,
+  "centroid": 1768.7497751669437,
+  "flatness": 0.007502048276364803,
+  "sub100_share": 0.4673345983028412,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.6068325042724609,
+  "clean_share": 0.6633048875096974,
+  "minor_share": 0.013106065515547494,
+  "chord_rate": 1.871090529990787,
+  "repetitiveness": 0.742041826248169,
+  "vocal_share": 0.23050883412361145,
+  "vocal_voiced": 0.9217821782178218,
+  "song_length": 263.627
+ }
+}

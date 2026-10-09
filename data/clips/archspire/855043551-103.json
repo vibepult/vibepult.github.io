@@ -1,0 +1,32 @@
+{
+ "id": "archspire/855043551-103",
+ "band": "archspire",
+ "title": "The Plague of Am (Cogito Ergo Sum)",
+ "source": "itunes",
+ "album": "The Lucid Collective",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.780333244435824,
+  "tempo_var": 22.594326926934887,
+  "low_onset_rate": 3.474882412840033,
+  "lufs": -6.385624062651168,
+  "rms_dbfs": -5.416087771069742,
+  "crest": 5.416087627410889,
+  "centroid": 2639.9636358771604,
+  "flatness": 0.042148906737565994,
+  "sub100_share": 0.44614270329475403,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.751862108707428,
+  "clean_share": 0.0062063615205585725,
+  "minor_share": 0.05917091623938758,
+  "chord_rate": 0.8687206032100082,
+  "repetitiveness": 0.8879292607307434,
+  "vocal_share": 0.08415388315916061,
+  "vocal_voiced": 0.1248339973439575,
+  "song_length": 216.12
+ }
+}

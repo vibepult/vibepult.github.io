@@ -1,0 +1,32 @@
+{
+ "id": "coldseed/1460470424-110",
+ "band": "coldseed",
+ "title": "Hatchet",
+ "source": "itunes",
+ "album": "Completion Makes the Tragedy",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 198.76802884615384,
+  "onset_rate": 2.0381521844542503,
+  "tempo_var": 14.614724997802089,
+  "low_onset_rate": 3.240996096591185,
+  "lufs": -10.546709779278416,
+  "rms_dbfs": -9.90724051735136,
+  "crest": 9.907240867614746,
+  "centroid": 2188.0663166644667,
+  "flatness": 0.015137515030801296,
+  "sub100_share": 0.4736368954181671,
+  "lowest_pitch": 174.957275390625,
+  "harmonic_share": 0.834391713142395,
+  "clean_share": 0.33281613653995346,
+  "minor_share": -0.0004709982282961045,
+  "chord_rate": 2.4391001551665616,
+  "repetitiveness": 0.753216564655304,
+  "vocal_share": 0.005672032479196787,
+  "vocal_voiced": 0.08235294117647059,
+  "song_length": 265.038
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "pagan-s-mind",
+ "name": "Pagan's Mind",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 319382458,
+  "deezer": 14958,
+  "spotify": "0dvzEeVLv8VDQ0Rv36PZis"
+ },
+ "metadata": {
+  "formed": 2000,
+  "split": null,
+  "country": "NO",
+  "status": "active",
+  "members": 5,
+  "past_members": 1,
+  "full_lengths": 5,
+  "genre": "Progressive/Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 5670,
+  "themes": "Consciousness, Science fiction",
+  "release_year": 2003
+ },
+ "partial": false,
+ "clips": [
+  "pagan-s-mind/969159056-106",
+  "pagan-s-mind/966756629-106",
+  "pagan-s-mind/966753283-105",
+  "pagan-s-mind/966756884-106",
+  "pagan-s-mind/1708944165-106",
+  "pagan-s-mind/969159056-107",
+  "pagan-s-mind/966756629-107",
+  "pagan-s-mind/966753283-106",
+  "pagan-s-mind/966756884-105",
+  "pagan-s-mind/1708944165-107",
+  "pagan-s-mind/969159056-105",
+  "pagan-s-mind/966756629-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 118.4326171875,
+   "iqr": 35.52252024291499
+  },
+  "onset_rate": {
+   "median": 4.7612571522086995,
+   "iqr": 1.803008290520157
+  },
+  "tempo_var": {
+   "median": 4.936076338948052,
+   "iqr": 10.813246442489135
+  },
+  "low_onset_rate": {
+   "median": 3.9259488798913833,
+   "iqr": 2.1377387198493913
+  },
+  "lufs": {
+   "median": -9.603019085922686,
+   "iqr": 1.8187894836113152
+  },
+  "rms_dbfs": {
+   "median": -9.212019677904,
+   "iqr": 1.5136375482510793
+  },
+  "crest": {
+   "median": 9.212019920349121,
+   "iqr": 1.5136373043060303
+  },
+  "centroid": {
+   "median": 2649.713437578607,
+   "iqr": 465.54580398525786
+  },
+  "flatness": {
+   "median": 0.04143560864031315,
+   "iqr": 0.022966482676565647
+  },
+  "sub100_share": {
+   "median": 0.31212131679058075,
+   "iqr": 0.11909617111086845
+  },
+  "lowest_pitch": {
+   "median": 51.141357421875,
+   "iqr": 17.4957275390625
+  },
+  "harmonic_share": {
+   "median": 0.7594607174396515,
+   "iqr": 0.13042402267456055
+  },
+  "clean_share": {
+   "median": 0.03718296946558931,
+   "iqr": 0.0777734678044996
+  },
+  "minor_share": {
+   "median": 0.11143102746198402,
+   "iqr": 0.2377292573555422
+  },
+  "chord_rate": {
+   "median": 1.653910379188285,
+   "iqr": 0.9271921822722202
+  },
+  "repetitiveness": {
+   "median": 0.7680418491363525,
+   "iqr": 0.10571075975894928
+  },
+  "vocal_share": {
+   "median": 0.17251995205879211,
+   "iqr": 0.09792092442512512
+  },
+  "vocal_voiced": {
+   "median": 0.6859060402684564,
+   "iqr": 0.17326152174961507
+  },
+  "song_length": {
+   "median": 394.6065,
+   "iqr": 94.08650000000006
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

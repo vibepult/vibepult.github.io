@@ -1,0 +1,32 @@
+{
+ "id": "pentagram/1774203903-107",
+ "band": "pentagram",
+ "title": "Thundercrest",
+ "source": "itunes",
+ "album": "Lightning In A Bottle",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 5.06651348409723,
+  "tempo_var": 19.51648335304985,
+  "low_onset_rate": 5.533166041843028,
+  "lufs": -8.985579424556965,
+  "rms_dbfs": -8.25779834898673,
+  "crest": 8.257798194885254,
+  "centroid": 2191.4045658449227,
+  "flatness": 0.019703766331076622,
+  "sub100_share": 0.2140236347913742,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.69710373878479,
+  "clean_share": 0.017788089713843776,
+  "minor_share": 0.035293175818774614,
+  "chord_rate": 2.499924416495344,
+  "repetitiveness": 0.8777363896369934,
+  "vocal_share": 0.11334621161222458,
+  "vocal_voiced": 0.5570599613152805,
+  "song_length": 181.053
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "diamond-head/1454257658-106",
+ "band": "diamond-head",
+ "title": "The Sleeper",
+ "source": "itunes",
+ "album": "The Coffin Train",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.9092427144450372,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.9784373030112015,
+  "lufs": -10.273831292146982,
+  "rms_dbfs": -10.107667750075048,
+  "crest": 10.107667922973633,
+  "centroid": 2566.215733608117,
+  "flatness": 0.03174734115600586,
+  "sub100_share": 0.29818639159202576,
+  "lowest_pitch": 26.91650390625,
+  "harmonic_share": 0.7113275527954102,
+  "clean_share": 0.051978277734678044,
+  "minor_share": 0.08199251864743162,
+  "chord_rate": 2.2386261698104057,
+  "repetitiveness": 0.8800758719444275,
+  "vocal_share": 0.13561145961284637,
+  "vocal_voiced": 0.928235294117647,
+  "song_length": 344.547
+ }
+}

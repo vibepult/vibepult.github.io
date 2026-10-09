@@ -1,0 +1,32 @@
+{
+ "id": "stryper/1854187061-105",
+ "band": "stryper",
+ "title": "Still The Light",
+ "source": "itunes",
+ "album": "The Greatest Gift Of All",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.4999848829334366,
+  "tempo_var": 11.579634681463856,
+  "low_onset_rate": 2.4999848829334366,
+  "lufs": -10.937487317699015,
+  "rms_dbfs": -9.752648386310968,
+  "crest": 9.75264835357666,
+  "centroid": 2329.351584328495,
+  "flatness": 0.019408375024795532,
+  "sub100_share": 0.39883121848106384,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8283405303955078,
+  "clean_share": 0.3665893271461717,
+  "minor_share": -0.06074912890480033,
+  "chord_rate": 0.8999945578560371,
+  "repetitiveness": 0.8735449314117432,
+  "vocal_share": 3.9670939600000565e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 242.802
+ }
+}

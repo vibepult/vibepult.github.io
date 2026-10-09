@@ -1,0 +1,32 @@
+{
+ "id": "the-haunted/45445612-107",
+ "band": "the-haunted",
+ "title": "The World Burns",
+ "source": "itunes",
+ "album": "Made Me Do It",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 7.250475803714299,
+  "tempo_var": 4.263256414560601e-14,
+  "low_onset_rate": 6.415167531396984,
+  "lufs": -8.063150952602316,
+  "rms_dbfs": -7.596909641621695,
+  "crest": 7.596909523010254,
+  "centroid": 2679.8913406854194,
+  "flatness": 0.03999154269695282,
+  "sub100_share": 0.2022903859615326,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.7838505506515503,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": -0.21281258966922034,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.933404266834259,
+  "vocal_share": 0.08705535531044006,
+  "vocal_voiced": 0.02768549280177187,
+  "song_length": 250.507
+ }
+}

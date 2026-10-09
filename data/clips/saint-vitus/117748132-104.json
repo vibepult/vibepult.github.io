@@ -1,0 +1,32 @@
+{
+ "id": "saint-vitus/117748132-104",
+ "band": "saint-vitus",
+ "title": "H. A. A. G.",
+ "source": "itunes",
+ "album": "Born Too Late",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.1,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.633333333333334,
+  "lufs": -17.831785320836094,
+  "rms_dbfs": -16.810553835724587,
+  "crest": 14.562935829162598,
+  "centroid": 2091.3152958696865,
+  "flatness": 0.014690512791275978,
+  "sub100_share": 0.3314576745033264,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8061753511428833,
+  "clean_share": 0.3413312693498452,
+  "minor_share": -0.1495898904186117,
+  "chord_rate": 1.7,
+  "repetitiveness": 0.8037129640579224,
+  "vocal_share": 0.13257014751434326,
+  "vocal_voiced": 0.9473684210526315,
+  "song_length": 303.508
+ }
+}

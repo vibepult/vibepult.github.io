@@ -1,0 +1,32 @@
+{
+ "id": "trivium/214473004-106",
+ "band": "trivium",
+ "title": "And Sadness Will Sear",
+ "source": "itunes",
+ "album": "The Crusade",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 4.066187206950654,
+  "tempo_var": 18.188036605361862,
+  "low_onset_rate": 6.632551263796559,
+  "lufs": -8.518115896106847,
+  "rms_dbfs": -8.224901846788253,
+  "crest": 8.22490119934082,
+  "centroid": 2743.230091503158,
+  "flatness": 0.0447738878428936,
+  "sub100_share": 0.31164413690567017,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6251653432846069,
+  "clean_share": 0.025522041763341066,
+  "minor_share": 0.12962369666910284,
+  "chord_rate": 1.4998231501047496,
+  "repetitiveness": 0.8762985467910767,
+  "vocal_share": 0.19099217653274536,
+  "vocal_voiced": 0.43756050338818975,
+  "song_length": 214.547
+ }
+}

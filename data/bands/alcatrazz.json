@@ -1,0 +1,127 @@
+{
+ "slug": "alcatrazz",
+ "name": "Alcatrazz",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 220048269,
+  "deezer": 10327,
+  "spotify": "1LLiPRA3oThhxVf7W7gXQZ"
+ },
+ "metadata": {
+  "formed": 1983,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 4,
+  "past_members": 16,
+  "full_lengths": 7,
+  "genre": "Hard Rock/Heavy Metal/Shred",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 4413,
+  "themes": "Life, Fantasy, Humour, Society, Politics, Insanity, Drugs",
+  "release_year": 2020
+ },
+ "partial": false,
+ "clips": [
+  "alcatrazz/453488144-105",
+  "alcatrazz/714964800-105",
+  "alcatrazz/1504293899-107",
+  "alcatrazz/1575574416-106",
+  "alcatrazz/1668407473-105",
+  "alcatrazz/1841819537-104",
+  "alcatrazz/453488144-104",
+  "alcatrazz/714964800-106",
+  "alcatrazz/1504293899-106",
+  "alcatrazz/1575574416-107",
+  "alcatrazz/1668407473-106",
+  "alcatrazz/1841819537-102"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.19921875,
+   "iqr": 9.250593413576553
+  },
+  "onset_rate": {
+   "median": 4.3499342413568955,
+   "iqr": 0.9708855062205202
+  },
+  "tempo_var": {
+   "median": 2.15780128500301,
+   "iqr": 5.495981764853233
+  },
+  "low_onset_rate": {
+   "median": 5.078674295689279,
+   "iqr": 0.9948371637293087
+  },
+  "lufs": {
+   "median": -8.323971945111296,
+   "iqr": 3.625628608055485
+  },
+  "rms_dbfs": {
+   "median": -8.453903644827932,
+   "iqr": 3.4501804283516844
+  },
+  "crest": {
+   "median": 8.453903675079346,
+   "iqr": 3.450180172920227
+  },
+  "centroid": {
+   "median": 2430.252967445331,
+   "iqr": 106.7248656111783
+  },
+  "flatness": {
+   "median": 0.029972302727401257,
+   "iqr": 0.004767522681504488
+  },
+  "sub100_share": {
+   "median": 0.1608985811471939,
+   "iqr": 0.12740550190210342
+  },
+  "lowest_pitch": {
+   "median": 55.1788330078125,
+   "iqr": 39.70184326171875
+  },
+  "harmonic_share": {
+   "median": 0.7093292474746704,
+   "iqr": 0.06734108924865723
+  },
+  "clean_share": {
+   "median": 0.02088167053364269,
+   "iqr": 0.07072231152166855
+  },
+  "minor_share": {
+   "median": 0.07760713098183317,
+   "iqr": 0.10814943992628098
+  },
+  "chord_rate": {
+   "median": 1.386611732046744,
+   "iqr": 0.5178911288367356
+  },
+  "repetitiveness": {
+   "median": 0.8013760447502136,
+   "iqr": 0.08217152953147888
+  },
+  "vocal_share": {
+   "median": 0.263190358877182,
+   "iqr": 0.10253092646598816
+  },
+  "vocal_voiced": {
+   "median": 0.7920953106349866,
+   "iqr": 0.11765284308875534
+  },
+  "song_length": {
+   "median": 281.435,
+   "iqr": 81.19974999999994
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

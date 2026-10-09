@@ -1,0 +1,32 @@
+{
+ "id": "black-sabbath/785239139-104",
+ "band": "black-sabbath",
+ "title": "Children of the Grave",
+ "source": "itunes",
+ "album": "Master of Reality",
+ "year": 1971,
+ "itunes_year": 1971,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.9984040527388025,
+  "tempo_var": 11.342235041684905,
+  "low_onset_rate": 6.2316753214564224,
+  "lufs": -17.030890668368155,
+  "rms_dbfs": -16.369870002998766,
+  "crest": 16.369869232177734,
+  "centroid": 2545.466360913997,
+  "flatness": 0.022083789110183716,
+  "sub100_share": 0.1806221455335617,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.8012943863868713,
+  "clean_share": 0.05645784996133024,
+  "minor_share": 0.21637407005682818,
+  "chord_rate": 1.8328456827813007,
+  "repetitiveness": 0.7933301329612732,
+  "vocal_share": 0.10979843139648438,
+  "vocal_voiced": 0.8805704099821747,
+  "song_length": 317.206
+ }
+}

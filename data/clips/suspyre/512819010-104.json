@@ -1,0 +1,32 @@
+{
+ "id": "suspyre/512819010-104",
+ "band": "suspyre",
+ "title": "Still Bending the Violet",
+ "source": "itunes",
+ "album": "Suspyre",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.243366023371963,
+  "tempo_var": 1.7904279541149457,
+  "low_onset_rate": 2.472512486059254,
+  "lufs": -12.125987727379226,
+  "rms_dbfs": -11.117019576461667,
+  "crest": 11.117019653320312,
+  "centroid": 2264.276696395817,
+  "flatness": 0.018454141914844513,
+  "sub100_share": 0.3762005865573883,
+  "lowest_pitch": 94.207763671875,
+  "harmonic_share": 0.7876454591751099,
+  "clean_share": 0.34367726920093095,
+  "minor_share": 0.21390559477859317,
+  "chord_rate": 0.6682466178538525,
+  "repetitiveness": 0.6555600762367249,
+  "vocal_share": 0.15460510551929474,
+  "vocal_voiced": 0.8566844919786096,
+  "song_length": 373.606
+ }
+}

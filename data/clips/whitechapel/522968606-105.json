@@ -1,0 +1,32 @@
+{
+ "id": "whitechapel/522968606-105",
+ "band": "whitechapel",
+ "title": "Section 8",
+ "source": "itunes",
+ "album": "Whitechapel",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.999939532282203,
+  "tempo_var": 23.517029843039886,
+  "low_onset_rate": 4.299934997203368,
+  "lufs": -9.72056447752379,
+  "rms_dbfs": -8.869627758378321,
+  "crest": 8.869627952575684,
+  "centroid": 2301.2084800621556,
+  "flatness": 0.02751246467232704,
+  "sub100_share": 0.3990553319454193,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.6885263323783875,
+  "clean_share": 0.04408352668213457,
+  "minor_share": -0.26517828688402956,
+  "chord_rate": 1.2666475185560309,
+  "repetitiveness": 0.9137316346168518,
+  "vocal_share": 0.2349298745393753,
+  "vocal_voiced": 0.08129285014691479,
+  "song_length": 265.965
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "poisonblack/1045654698-106",
+ "band": "poisonblack",
+ "title": "Exciter",
+ "source": "itunes",
+ "album": "Escapexstacy",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.744550986762353,
+  "tempo_var": 9.63306463505093,
+  "low_onset_rate": 4.811375648547738,
+  "lufs": -10.536399263522307,
+  "rms_dbfs": -9.248431250704229,
+  "crest": 9.248431205749512,
+  "centroid": 2154.1154225616915,
+  "flatness": 0.015815896913409233,
+  "sub100_share": 0.5501313805580139,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8795123100280762,
+  "clean_share": 0.1947245927075252,
+  "minor_share": -0.06148256297524324,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.9066064357757568,
+  "vocal_share": 0.0596320666372776,
+  "vocal_voiced": 0.6624737945492662,
+  "song_length": 268.853
+ }
+}

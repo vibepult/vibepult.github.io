@@ -1,0 +1,32 @@
+{
+ "id": "red-fang/1499006947-106",
+ "band": "red-fang",
+ "title": "Anodyne",
+ "source": "itunes",
+ "album": "Arrows",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.566666666666667,
+  "tempo_var": 11.514563954461597,
+  "low_onset_rate": 4.766666666666667,
+  "lufs": -10.641084867748068,
+  "rms_dbfs": -9.972728332465534,
+  "crest": 9.972728729248047,
+  "centroid": 1780.8690496019424,
+  "flatness": 0.011735771782696247,
+  "sub100_share": 0.2023550271987915,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.6295228600502014,
+  "clean_share": 0.2739938080495356,
+  "minor_share": 0.08734160236786193,
+  "chord_rate": 2.066666666666667,
+  "repetitiveness": 0.841513991355896,
+  "vocal_share": 0.12756910920143127,
+  "vocal_voiced": 0.6448979591836734,
+  "song_length": 215.1
+ }
+}

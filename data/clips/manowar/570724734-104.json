@@ -1,0 +1,32 @@
+{
+ "id": "manowar/570724734-104",
+ "band": "manowar",
+ "title": "Gates of Valhalla",
+ "source": "itunes",
+ "album": "Into Glory Ride (Silver Edition)",
+ "year": 1983,
+ "itunes_year": 1983,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 4.644313994084275,
+  "tempo_var": 14.99466877920092,
+  "low_onset_rate": 1.9379151917761723,
+  "lufs": -21.543529760252977,
+  "rms_dbfs": -21.347388955244213,
+  "crest": 14.694099426269531,
+  "centroid": 1841.1390327764161,
+  "flatness": 0.004705337341874838,
+  "sub100_share": 0.17274799942970276,
+  "lowest_pitch": 99.591064453125,
+  "harmonic_share": 0.938198447227478,
+  "clean_share": 0.8083785880527541,
+  "minor_share": -0.08762782161244642,
+  "chord_rate": 0.5680096251757746,
+  "repetitiveness": 0.38777604699134827,
+  "vocal_share": 0.4481543004512787,
+  "vocal_voiced": 0.939209726443769,
+  "song_length": 432.867
+ }
+}

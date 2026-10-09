@@ -1,0 +1,32 @@
+{
+ "id": "bell-witch/571352228-104",
+ "band": "bell-witch",
+ "title": "Beneath the Mask",
+ "source": "itunes",
+ "album": "Longing",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 0.4343603016050041,
+  "tempo_var": 40.816889412629195,
+  "low_onset_rate": 2.8066357949861804,
+  "lufs": -20.372258140008082,
+  "rms_dbfs": -20.48650321353668,
+  "crest": 17.556251525878906,
+  "centroid": 550.7910005858944,
+  "flatness": 0.00014348358672577888,
+  "sub100_share": 0.3926425576210022,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.9877731204032898,
+  "clean_share": 0.9992242048099301,
+  "minor_share": 0.22433137106355994,
+  "chord_rate": 0.3675356398196189,
+  "repetitiveness": 0.45688149333000183,
+  "vocal_share": 7.92812443251023e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 354.347
+ }
+}

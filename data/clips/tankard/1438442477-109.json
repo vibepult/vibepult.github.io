@@ -1,0 +1,32 @@
+{
+ "id": "tankard/1438442477-109",
+ "band": "tankard",
+ "title": "Ich Brauch' Meinen Suff (2018 - Remaster)",
+ "source": "itunes",
+ "album": "Two-Faced",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 6.047631891577365,
+  "tempo_var": 9.743657919953762,
+  "low_onset_rate": 6.48199219318237,
+  "lufs": -10.329538554363127,
+  "rms_dbfs": -9.999741388997599,
+  "crest": 9.999741554260254,
+  "centroid": 2920.703180700769,
+  "flatness": 0.04969058930873871,
+  "sub100_share": 0.3021998703479767,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6991090774536133,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.005058407695583522,
+  "chord_rate": 1.9379151917761723,
+  "repetitiveness": 0.8416664600372314,
+  "vocal_share": 0.18903817236423492,
+  "vocal_voiced": 0.39599236641221375,
+  "song_length": 174.813
+ }
+}

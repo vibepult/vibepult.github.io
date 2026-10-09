@@ -1,0 +1,32 @@
+{
+ "id": "volbeat/1585805799-107",
+ "band": "volbeat",
+ "title": "Heaven's Descent",
+ "source": "itunes",
+ "album": "Servant Of The Mind",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 6.03324212785899,
+  "tempo_var": 12.092786660388935,
+  "low_onset_rate": 7.03322701092954,
+  "lufs": -10.482838759285375,
+  "rms_dbfs": -9.779199238409467,
+  "crest": 9.77919864654541,
+  "centroid": 2606.4320569029533,
+  "flatness": 0.03363407775759697,
+  "sub100_share": 0.35860583186149597,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7452080249786377,
+  "clean_share": 0.0,
+  "minor_share": 0.1464656499517406,
+  "chord_rate": 2.0999682544481564,
+  "repetitiveness": 0.8989143967628479,
+  "vocal_share": 0.12530753016471863,
+  "vocal_voiced": 0.8108527131782945,
+  "song_length": 250.68
+ }
+}

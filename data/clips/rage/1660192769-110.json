@@ -1,0 +1,32 @@
+{
+ "id": "rage/1660192769-110",
+ "band": "rage",
+ "title": "The Blow in a Row (Remastered)",
+ "source": "itunes",
+ "album": "10 Years in Rage (The Anniversary Album)",
+ "year": 1994,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 2.505924816951947,
+  "tempo_var": 25.763964779617204,
+  "low_onset_rate": 3.174171434805799,
+  "lufs": -9.9889409651441,
+  "rms_dbfs": -9.922989343803161,
+  "crest": 9.922989845275879,
+  "centroid": 2623.0372716668858,
+  "flatness": 0.035468414425849915,
+  "sub100_share": 0.32054710388183594,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7582443356513977,
+  "clean_share": 0.18231186966640806,
+  "minor_share": 0.08366522489466566,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.8566368222236633,
+  "vocal_share": 0.013066081330180168,
+  "vocal_voiced": 0.8692307692307693,
+  "song_length": 457.973
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "boisson-divine/1509120251-105",
+ "band": "boisson-divine",
+ "title": "Rei De Suèda",
+ "source": "itunes",
+ "album": "La Halha",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.544077001406197,
+  "tempo_var": 15.898583241024944,
+  "low_onset_rate": 5.847157906221209,
+  "lufs": -10.37020589089111,
+  "rms_dbfs": -10.014510971579725,
+  "crest": 10.014511108398438,
+  "centroid": 2749.192410386822,
+  "flatness": 0.03677939996123314,
+  "sub100_share": 0.31802716851234436,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7516781091690063,
+  "clean_share": 0.02560124127230411,
+  "minor_share": -0.12299958907634412,
+  "chord_rate": 2.138389177132328,
+  "repetitiveness": 0.7750375866889954,
+  "vocal_share": 0.0800466313958168,
+  "vocal_voiced": 0.848816029143898,
+  "song_length": 530.96
+ }
+}

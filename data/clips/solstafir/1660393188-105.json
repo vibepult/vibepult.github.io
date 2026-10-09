@@ -1,0 +1,32 @@
+{
+ "id": "solstafir/1660393188-105",
+ "band": "solstafir",
+ "title": "Necrologue",
+ "source": "itunes",
+ "album": "Köld",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.0739344421277215,
+  "tempo_var": 6.250871782518982,
+  "low_onset_rate": 4.209953692479271,
+  "lufs": -12.116809080012592,
+  "rms_dbfs": -10.127756120347684,
+  "crest": 10.127756118774414,
+  "centroid": 970.9251699385178,
+  "flatness": 0.002285982947796583,
+  "sub100_share": 0.7466772198677063,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.9753018021583557,
+  "clean_share": 0.8650116369278511,
+  "minor_share": 0.13363613178115052,
+  "chord_rate": 0.8687206032100082,
+  "repetitiveness": 0.6636937856674194,
+  "vocal_share": 0.03791678324341774,
+  "vocal_voiced": 0.956060606060606,
+  "song_length": 510.093
+ }
+}

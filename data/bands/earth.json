@@ -1,0 +1,127 @@
+{
+ "slug": "earth",
+ "name": "Earth",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 3251807,
+  "deezer": 64705,
+  "spotify": "4mTFQE6aiehScgvreB9llC"
+ },
+ "metadata": {
+  "formed": 1989,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 2,
+  "past_members": 17,
+  "full_lengths": 10,
+  "genre": "Drone/Doom Metal (early); Psychedelic/Post-Rock (later)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 10265,
+  "themes": "Mostly instrumental, Science fiction, Death, Nature",
+  "release_year": 2006
+ },
+ "partial": false,
+ "clips": [
+  "earth/3251842-104",
+  "earth/3257737-104",
+  "earth/215873951-106",
+  "earth/455070521-104",
+  "earth/418961486-103",
+  "earth/495456261-103",
+  "earth/909517028-103",
+  "earth/1808575652-105",
+  "earth/3251842-105",
+  "earth/3257737-105",
+  "earth/215873951-105",
+  "earth/455070521-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 98.3844625538793,
+   "iqr": 47.77848093133224
+  },
+  "onset_rate": {
+   "median": 1.8376781990980944,
+   "iqr": 1.2705572964651117
+  },
+  "tempo_var": {
+   "median": 14.94873118983914,
+   "iqr": 15.452439119084097
+  },
+  "low_onset_rate": {
+   "median": 3.999969262243453,
+   "iqr": 2.769254745914756
+  },
+  "lufs": {
+   "median": -10.797849401376748,
+   "iqr": 3.1829490953827584
+  },
+  "rms_dbfs": {
+   "median": -9.73693233432619,
+   "iqr": 3.4873354715747755
+  },
+  "crest": {
+   "median": 9.736932277679443,
+   "iqr": 3.144679069519043
+  },
+  "centroid": {
+   "median": 1202.7283218903115,
+   "iqr": 356.15536252810216
+  },
+  "flatness": {
+   "median": 0.0018431637436151505,
+   "iqr": 0.0016079462802736089
+  },
+  "sub100_share": {
+   "median": 0.30032122135162354,
+   "iqr": 0.1845713146030903
+  },
+  "lowest_pitch": {
+   "median": 76.7120361328125,
+   "iqr": 43.06640625
+  },
+  "harmonic_share": {
+   "median": 0.9469575583934784,
+   "iqr": 0.03445009887218475
+  },
+  "clean_share": {
+   "median": 0.9348881461857537,
+   "iqr": 0.06380915438324286
+  },
+  "minor_share": {
+   "median": -0.014123088830520436,
+   "iqr": 0.08168639760714567
+  },
+  "chord_rate": {
+   "median": 0.8687206032100082,
+   "iqr": 0.2916469172768269
+  },
+  "repetitiveness": {
+   "median": 0.7204489409923553,
+   "iqr": 0.18647632002830505
+  },
+  "vocal_share": {
+   "median": 0.0,
+   "iqr": 0.0
+  },
+  "vocal_voiced": {
+   "median": 0.0,
+   "iqr": 0.0
+  },
+  "song_length": {
+   "median": 419.09349999999995,
+   "iqr": 193.08825000000002
+  },
+  "vocal_presence": {
+   "median": 0.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

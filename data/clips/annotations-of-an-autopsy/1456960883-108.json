@@ -1,0 +1,32 @@
+{
+ "id": "annotations-of-an-autopsy/1456960883-108",
+ "band": "annotations-of-an-autopsy",
+ "title": "Impale the Sun",
+ "source": "itunes",
+ "album": "The Reign of Darkness",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 1.8042658682054018,
+  "tempo_var": 12.795464147290035,
+  "low_onset_rate": 3.474882412840033,
+  "lufs": -8.630816538657376,
+  "rms_dbfs": -7.233157385857928,
+  "crest": 7.233157157897949,
+  "centroid": 2431.9858404551405,
+  "flatness": 0.02582390233874321,
+  "sub100_share": 0.49616867303848267,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.7743392586708069,
+  "clean_share": 0.04266873545384019,
+  "minor_share": 0.12469553844377934,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.8863382339477539,
+  "vocal_share": 0.06389126926660538,
+  "vocal_voiced": 0.4907161803713528,
+  "song_length": 235.24
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "powerwolf/272130233-106",
+ "band": "powerwolf",
+ "title": "Behind the Leathermask",
+ "source": "itunes",
+ "album": "Lupus Dei",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.566666666666666,
+  "tempo_var": 13.548348249854733,
+  "low_onset_rate": 6.8,
+  "lufs": -6.901282232180862,
+  "rms_dbfs": -6.821434338015574,
+  "crest": 6.821434020996094,
+  "centroid": 2898.2243319194067,
+  "flatness": 0.04693758115172386,
+  "sub100_share": 0.27692005038261414,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.8136734962463379,
+  "clean_share": 0.006191950464396285,
+  "minor_share": 0.06302295276086767,
+  "chord_rate": 1.1,
+  "repetitiveness": 0.8675804138183594,
+  "vocal_share": 0.13389895856380463,
+  "vocal_voiced": 0.4480171489817792,
+  "song_length": 275.08
+ }
+}

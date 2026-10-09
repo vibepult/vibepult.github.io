@@ -1,0 +1,32 @@
+{
+ "id": "suidakra/1569356898-104",
+ "band": "suidakra",
+ "title": "Faoladh",
+ "source": "itunes",
+ "album": "Wolfbite",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 7.183651141928914,
+  "tempo_var": 21.4692814226765,
+  "low_onset_rate": 1.8376781990980944,
+  "lufs": -8.222712171491857,
+  "rms_dbfs": -7.270651030641918,
+  "crest": 7.270650863647461,
+  "centroid": 2566.3576928928733,
+  "flatness": 0.03773193806409836,
+  "sub100_share": 0.4642660617828369,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7559372186660767,
+  "clean_share": 0.01474010861132661,
+  "minor_share": 0.101310175956421,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.8824360966682434,
+  "vocal_share": 0.08097860217094421,
+  "vocal_voiced": 0.24482758620689654,
+  "song_length": 363.987
+ }
+}

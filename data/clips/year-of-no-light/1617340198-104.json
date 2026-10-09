@@ -1,0 +1,32 @@
+{
+ "id": "year-of-no-light/1617340198-104",
+ "band": "year-of-no-light",
+ "title": "Librium",
+ "source": "itunes",
+ "album": "Nord",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 0.0,
+  "onset_rate": 7.8184854288900745,
+  "tempo_var": 9.845241893146985,
+  "low_onset_rate": 10.792182878339718,
+  "lufs": -16.501904127160294,
+  "rms_dbfs": -15.683541790896673,
+  "crest": 13.29643726348877,
+  "centroid": 526.3551716995014,
+  "flatness": 5.677057743014302e-06,
+  "sub100_share": 0.01274186186492443,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.9919221997261047,
+  "clean_share": 1.0,
+  "minor_share": 0.009836013524211484,
+  "chord_rate": 0.801895941424623,
+  "repetitiveness": 0.9418483376502991,
+  "vocal_share": 7.680388080189005e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 135.373
+ }
+}

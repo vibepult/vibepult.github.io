@@ -1,0 +1,127 @@
+{
+ "slug": "neurotech",
+ "name": "Neurotech",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 441928920,
+  "deezer": 8114371,
+  "spotify": "0fLXjcDroHESf6i3iUpNDA"
+ },
+ "metadata": {
+  "formed": 2007,
+  "split": null,
+  "country": "SI",
+  "status": "active",
+  "members": 1,
+  "past_members": 3,
+  "full_lengths": 12,
+  "genre": "Symphonic Electronic Industrial Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 2069,
+  "themes": "Angst (early); Future, Technology, Emotions, Hope",
+  "release_year": 2015
+ },
+ "partial": false,
+ "clips": [
+  "neurotech/1037839452-105",
+  "neurotech/1037734359-105",
+  "neurotech/1003654427-104",
+  "neurotech/1059184434-106",
+  "neurotech/1120812267-104",
+  "neurotech/1251037829-107",
+  "neurotech/1556874676-105",
+  "neurotech/1681151932-105",
+  "neurotech/1732671920-104",
+  "neurotech/1813555912-105",
+  "neurotech/1037839452-106",
+  "neurotech/1037734359-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 112.34714673913044,
+   "iqr": 49.50161637931035
+  },
+  "onset_rate": {
+   "median": 4.3268968506036956,
+   "iqr": 1.169431581244242
+  },
+  "tempo_var": {
+   "median": 2.396521425999579,
+   "iqr": 10.854287667173171
+  },
+  "low_onset_rate": {
+   "median": 5.730214748096785,
+   "iqr": 2.1383891771323267
+  },
+  "lufs": {
+   "median": -10.650885830679151,
+   "iqr": 1.3468660117142868
+  },
+  "rms_dbfs": {
+   "median": -8.634465116108395,
+   "iqr": 1.8572471910249746
+  },
+  "crest": {
+   "median": 8.634465217590332,
+   "iqr": 1.8572471141815186
+  },
+  "centroid": {
+   "median": 1974.6047856073315,
+   "iqr": 430.42090501845405
+  },
+  "flatness": {
+   "median": 0.014024564530700445,
+   "iqr": 0.011218129540793598
+  },
+  "sub100_share": {
+   "median": 0.5618166327476501,
+   "iqr": 0.2070596143603325
+  },
+  "lowest_pitch": {
+   "median": 40.374755859375,
+   "iqr": 15.47698974609375
+  },
+  "harmonic_share": {
+   "median": 0.8511327505111694,
+   "iqr": 0.10303393006324768
+  },
+  "clean_share": {
+   "median": 0.36334154728240686,
+   "iqr": 0.2990690457719162
+  },
+  "minor_share": {
+   "median": 0.04651955043985376,
+   "iqr": 0.1651089446888726
+  },
+  "chord_rate": {
+   "median": 1.0859007540125103,
+   "iqr": 0.6431873696843331
+  },
+  "repetitiveness": {
+   "median": 0.8302604556083679,
+   "iqr": 0.12520496547222137
+  },
+  "vocal_share": {
+   "median": 0.05456847697496414,
+   "iqr": 0.04175280686467886
+  },
+  "vocal_voiced": {
+   "median": 0.6824048453657234,
+   "iqr": 0.4099413150390924
+  },
+  "song_length": {
+   "median": 283.61850000000004,
+   "iqr": 74.87800000000001
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

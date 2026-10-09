@@ -1,0 +1,32 @@
+{
+ "id": "satyricon/1460474857-107",
+ "band": "satyricon",
+ "title": "Nekrohaven",
+ "source": "itunes",
+ "album": "Satyricon",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.842418052659652,
+  "tempo_var": 0.0,
+  "low_onset_rate": 3.94265504533773,
+  "lufs": -9.187091405700716,
+  "rms_dbfs": -8.163689386833452,
+  "crest": 8.163689613342285,
+  "centroid": 2109.191124273507,
+  "flatness": 0.01362635288387537,
+  "sub100_share": 0.29558467864990234,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7591350674629211,
+  "clean_share": 0.22420480993017844,
+  "minor_share": -0.07220534011203211,
+  "chord_rate": 2.3054508315957913,
+  "repetitiveness": 0.7605146765708923,
+  "vocal_share": 0.05257563665509224,
+  "vocal_voiced": 0.06866952789699571,
+  "song_length": 192.013
+ }
+}

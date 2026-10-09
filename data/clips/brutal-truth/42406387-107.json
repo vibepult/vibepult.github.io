@@ -1,0 +1,32 @@
+{
+ "id": "brutal-truth/42406387-107",
+ "band": "brutal-truth",
+ "title": "Bite the Hand",
+ "source": "itunes",
+ "album": "Need to Control",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 8.620381370314698,
+  "tempo_var": 4.263256414560601e-14,
+  "low_onset_rate": 6.715878509431217,
+  "lufs": -10.360334505745557,
+  "rms_dbfs": -10.04521755896101,
+  "crest": 10.045217514038086,
+  "centroid": 2782.385618142203,
+  "flatness": 0.042501699179410934,
+  "sub100_share": 0.34357693791389465,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7263527512550354,
+  "clean_share": 0.0,
+  "minor_share": -0.14384938564581107,
+  "chord_rate": 2.338863162488484,
+  "repetitiveness": 0.9739387631416321,
+  "vocal_share": 0.1272280365228653,
+  "vocal_voiced": 0.23554301833568406,
+  "song_length": 126.36
+ }
+}

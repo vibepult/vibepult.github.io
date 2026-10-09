@@ -1,0 +1,32 @@
+{
+ "id": "pitchshifter/1599086180-107",
+ "band": "pitchshifter",
+ "title": "Whatever",
+ "source": "itunes",
+ "album": "Psi",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.546446928186976,
+  "tempo_var": 3.8678403592315296,
+  "low_onset_rate": 3.040522111235029,
+  "lufs": -8.72062643745454,
+  "rms_dbfs": -8.25370273125023,
+  "crest": 8.253702163696289,
+  "centroid": 2720.694758012071,
+  "flatness": 0.047871049493551254,
+  "sub100_share": 0.3525351285934448,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.72320556640625,
+  "clean_share": 0.0,
+  "minor_share": 0.1490834394976306,
+  "chord_rate": 1.4367302283857828,
+  "repetitiveness": 0.770190954208374,
+  "vocal_share": 0.16345594823360443,
+  "vocal_voiced": 0.12522686025408347,
+  "song_length": 185.733
+ }
+}

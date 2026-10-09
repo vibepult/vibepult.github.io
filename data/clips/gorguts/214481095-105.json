@@ -1,0 +1,32 @@
+{
+ "id": "gorguts/214481095-105",
+ "band": "gorguts",
+ "title": "Rottenatomy",
+ "source": "itunes",
+ "album": "Considered Dead",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 6.248105876933521,
+  "tempo_var": 26.153207071496755,
+  "low_onset_rate": 7.3507127963923775,
+  "lufs": -9.755672259026655,
+  "rms_dbfs": -9.066487989535478,
+  "crest": 9.066488265991211,
+  "centroid": 2787.2089745933117,
+  "flatness": 0.026258647441864014,
+  "sub100_share": 0.3301706314086914,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.7891638278961182,
+  "clean_share": 0.015515903801396431,
+  "minor_share": -0.08670230924727984,
+  "chord_rate": 3.240996096591185,
+  "repetitiveness": 0.9336336851119995,
+  "vocal_share": 0.013996314257383347,
+  "vocal_voiced": 0.0,
+  "song_length": 286.171
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "diablo-swing-orchestra/1201982690-107",
+ "band": "diablo-swing-orchestra",
+ "title": "Vodka Inferno",
+ "source": "itunes",
+ "album": "Sing Along Songs for the Damned & Delirious",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.145498957474664,
+  "tempo_var": 14.868445426261342,
+  "low_onset_rate": 5.713508582650439,
+  "lufs": -9.751798892449859,
+  "rms_dbfs": -9.761233214089431,
+  "crest": 9.76123332977295,
+  "centroid": 2436.902699034132,
+  "flatness": 0.03532515466213226,
+  "sub100_share": 0.2717311382293701,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6751453280448914,
+  "clean_share": 0.0899922420480993,
+  "minor_share": -0.08764627345068571,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.8833671808242798,
+  "vocal_share": 0.22000283002853394,
+  "vocal_voiced": 0.05791505791505792,
+  "song_length": 248.16
+ }
+}

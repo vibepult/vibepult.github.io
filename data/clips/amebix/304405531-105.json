@@ -1,0 +1,32 @@
+{
+ "id": "amebix/304405531-105",
+ "band": "amebix",
+ "title": "Last Will and Testament",
+ "source": "itunes",
+ "album": "Monolith",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.544077001406197,
+  "tempo_var": 7.65573682532248,
+  "low_onset_rate": 4.610901663191583,
+  "lufs": -18.846451509413942,
+  "rms_dbfs": -18.37821056538072,
+  "crest": 18.083545684814453,
+  "centroid": 1895.4333163432357,
+  "flatness": 0.010326344519853592,
+  "sub100_share": 0.3322107791900635,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8241977691650391,
+  "clean_share": 0.4383242823894492,
+  "minor_share": -0.05726635432267324,
+  "chord_rate": 0.6348342869611598,
+  "repetitiveness": 0.9428042769432068,
+  "vocal_share": 0.27981582283973694,
+  "vocal_voiced": 0.24377224199288255,
+  "song_length": 300.0
+ }
+}

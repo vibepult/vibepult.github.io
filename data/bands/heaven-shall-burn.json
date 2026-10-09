@@ -1,0 +1,127 @@
+{
+ "slug": "heaven-shall-burn",
+ "name": "Heaven Shall Burn",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 107403664,
+  "deezer": 9494,
+  "spotify": "4sy5qWfwUwpGYBnCKnwfcW"
+ },
+ "metadata": {
+  "formed": 1998,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 5,
+  "past_members": 3,
+  "full_lengths": 10,
+  "genre": "Melodic Death Metal/Metalcore",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 57775,
+  "themes": "Society, Politics, Anti-fascism, Anti-racism, Animal rights, Inner struggles, Depression",
+  "release_year": 2008
+ },
+ "partial": false,
+ "clips": [
+  "heaven-shall-burn/347014560-106",
+  "heaven-shall-burn/280073503-107",
+  "heaven-shall-burn/1045497915-106",
+  "heaven-shall-burn/1045537894-107",
+  "heaven-shall-burn/1133301208-106",
+  "heaven-shall-burn/1492114354-110",
+  "heaven-shall-burn/1803625827-109",
+  "heaven-shall-burn/347014560-105",
+  "heaven-shall-burn/280073503-106",
+  "heaven-shall-burn/1045497915-105",
+  "heaven-shall-burn/1045537894-106",
+  "heaven-shall-burn/1133301208-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 143.99912925696594,
+   "iqr": 63.88972355769231
+  },
+  "onset_rate": {
+   "median": 4.276778354264656,
+   "iqr": 2.0041193278119365
+  },
+  "tempo_var": {
+   "median": 13.854322935520823,
+   "iqr": 6.8944292499303845
+  },
+  "low_onset_rate": {
+   "median": 5.947394898899287,
+   "iqr": 0.8603675204868351
+  },
+  "lufs": {
+   "median": -7.109618056963345,
+   "iqr": 2.5372601756247777
+  },
+  "rms_dbfs": {
+   "median": -7.27013858832515,
+   "iqr": 2.0833613592960427
+  },
+  "crest": {
+   "median": 7.270138502120972,
+   "iqr": 2.0833611488342285
+  },
+  "centroid": {
+   "median": 2588.845699837949,
+   "iqr": 182.02922207418987
+  },
+  "flatness": {
+   "median": 0.04058142751455307,
+   "iqr": 0.010281930677592754
+  },
+  "sub100_share": {
+   "median": 0.20889587700366974,
+   "iqr": 0.127911027520895
+  },
+  "lowest_pitch": {
+   "median": 57.8704833984375,
+   "iqr": 32.97271728515625
+  },
+  "harmonic_share": {
+   "median": 0.7016121447086334,
+   "iqr": 0.09619122743606567
+  },
+  "clean_share": {
+   "median": 0.02948021722265322,
+   "iqr": 0.05721489526764935
+  },
+  "minor_share": {
+   "median": 0.03577406878058409,
+   "iqr": 0.20772345413785537
+  },
+  "chord_rate": {
+   "median": 1.453436393832129,
+   "iqr": 1.0608415058429905
+  },
+  "repetitiveness": {
+   "median": 0.8980329930782318,
+   "iqr": 0.05138799548149109
+  },
+  "vocal_share": {
+   "median": 0.20884941518306732,
+   "iqr": 0.08069830015301704
+  },
+  "vocal_voiced": {
+   "median": 0.060692323419782014,
+   "iqr": 0.048512050826335175
+  },
+  "song_length": {
+   "median": 253.427,
+   "iqr": 81.49700000000001
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "kyuss/207973376-105",
+ "band": "kyuss",
+ "title": "Space Cadet",
+ "source": "itunes",
+ "album": "Welcome to Sky Valley",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 3.4662579469087547,
+  "tempo_var": 40.52378292927417,
+  "low_onset_rate": 4.432810643642926,
+  "lufs": -18.286673113239427,
+  "rms_dbfs": -17.091547459698543,
+  "crest": 15.243860244750977,
+  "centroid": 956.995737792991,
+  "flatness": 0.000646430067718029,
+  "sub100_share": 0.10621186345815659,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.9453290104866028,
+  "clean_share": 0.9783449342614076,
+  "minor_share": 0.02524766592936284,
+  "chord_rate": 1.8997759901326827,
+  "repetitiveness": 0.8574727177619934,
+  "vocal_share": 1.4896236280037556e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 422.533
+ }
+}

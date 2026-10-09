@@ -1,0 +1,32 @@
+{
+ "id": "therion/1492490864-104",
+ "band": "therion",
+ "title": "Crazy Nights",
+ "source": "itunes",
+ "album": "Crowning of Atlantis",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.076304368908501,
+  "tempo_var": 0.0,
+  "low_onset_rate": 7.083414149250837,
+  "lufs": -8.815208046535066,
+  "rms_dbfs": -8.337087367537608,
+  "crest": 8.33708667755127,
+  "centroid": 2969.589857984832,
+  "flatness": 0.049105867743492126,
+  "sub100_share": 0.4183470904827118,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7057907581329346,
+  "clean_share": 0.013964313421256789,
+  "minor_share": 0.1854383622251503,
+  "chord_rate": 1.7374412064200164,
+  "repetitiveness": 0.8159045577049255,
+  "vocal_share": 0.14727194607257843,
+  "vocal_voiced": 0.3783783783783784,
+  "song_length": 222.893
+ }
+}

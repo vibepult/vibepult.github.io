@@ -1,0 +1,32 @@
+{
+ "id": "dozer/1673758527-103",
+ "band": "dozer",
+ "title": "Dust for Blood",
+ "source": "itunes",
+ "album": "Drifting in the Endless Void",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.57748933229889,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.081044222470058,
+  "lufs": -8.779962953233321,
+  "rms_dbfs": -7.439459450715809,
+  "crest": 7.439459800720215,
+  "centroid": 1836.172543960813,
+  "flatness": 0.009880894795060158,
+  "sub100_share": 0.4408506751060486,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8142821788787842,
+  "clean_share": 0.35453840186190844,
+  "minor_share": 0.03249659932296112,
+  "chord_rate": 2.1718015080250206,
+  "repetitiveness": 0.9060267806053162,
+  "vocal_share": 0.1109464019536972,
+  "vocal_voiced": 0.8659874608150471,
+  "song_length": 281.92
+ }
+}

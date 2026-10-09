@@ -1,0 +1,32 @@
+{
+ "id": "xandria/1183612978-106",
+ "band": "xandria",
+ "title": "Betrayer",
+ "source": "itunes",
+ "album": "Sacrificium",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 6.3,
+  "tempo_var": 21.247720548733824,
+  "low_onset_rate": 7.733333333333333,
+  "lufs": -9.995346016980386,
+  "rms_dbfs": -9.359849018848402,
+  "crest": 9.359848976135254,
+  "centroid": 2403.796384856102,
+  "flatness": 0.026723679155111313,
+  "sub100_share": 0.3361746370792389,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.769424557685852,
+  "clean_share": 0.009287925696594427,
+  "minor_share": 0.145401582558366,
+  "chord_rate": 1.2,
+  "repetitiveness": 0.8316730260848999,
+  "vocal_share": 0.18629297614097595,
+  "vocal_voiced": 0.9319148936170213,
+  "song_length": 364.918
+ }
+}

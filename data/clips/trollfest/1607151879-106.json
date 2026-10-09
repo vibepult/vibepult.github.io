@@ -1,0 +1,32 @@
+{
+ "id": "trollfest/1607151879-106",
+ "band": "trollfest",
+ "title": "Flamingo Libre",
+ "source": "itunes",
+ "album": "Flamingo Overlord",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.733304711687307,
+  "tempo_var": 3.413758148317394,
+  "low_onset_rate": 3.2999800454721364,
+  "lufs": -10.450152610858973,
+  "rms_dbfs": -10.451101167144126,
+  "crest": 10.451101303100586,
+  "centroid": 2779.331633836132,
+  "flatness": 0.04158511385321617,
+  "sub100_share": 0.25850242376327515,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.5857922434806824,
+  "clean_share": 0.028615622583139984,
+  "minor_share": 0.014506261340742843,
+  "chord_rate": 2.733316805340557,
+  "repetitiveness": 0.9046297073364258,
+  "vocal_share": 0.25804775953292847,
+  "vocal_voiced": 0.7254697286012526,
+  "song_length": 191.987
+ }
+}

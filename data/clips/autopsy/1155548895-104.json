@@ -1,0 +1,32 @@
+{
+ "id": "autopsy/1155548895-104",
+ "band": "autopsy",
+ "title": "Sanity Bleeds",
+ "source": "itunes",
+ "album": "Skull Grinder",
+ "year": 2015,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.513034597294284,
+  "tempo_var": 3.5047620249999603,
+  "low_onset_rate": 8.954504679241623,
+  "lufs": -8.044194676449262,
+  "rms_dbfs": -8.375077972353907,
+  "crest": 8.375078201293945,
+  "centroid": 2121.0876065474267,
+  "flatness": 0.012757307849824429,
+  "sub100_share": 0.06341776996850967,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8291993737220764,
+  "clean_share": 0.04422032583397983,
+  "minor_share": 0.011348061764757611,
+  "chord_rate": 1.0357822576734714,
+  "repetitiveness": 0.6597847938537598,
+  "vocal_share": 0.18049870431423187,
+  "vocal_voiced": 0.6783783783783783,
+  "song_length": 175.187
+ }
+}

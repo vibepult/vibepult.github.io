@@ -1,0 +1,127 @@
+{
+ "slug": "lords-of-black",
+ "name": "Lords of Black",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 868033752,
+  "deezer": 5821233,
+  "spotify": "5PgEqen6HcezHZRU1PJO0Z"
+ },
+ "metadata": {
+  "formed": 2014,
+  "split": null,
+  "country": "ES",
+  "status": "active",
+  "members": 4,
+  "past_members": 4,
+  "full_lengths": 6,
+  "genre": "Heavy/Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 3352,
+  "themes": "Darkness, End of world, Love",
+  "release_year": 2017
+ },
+ "partial": false,
+ "clips": [
+  "lords-of-black/1764791929-107",
+  "lords-of-black/1887030824-107",
+  "lords-of-black/1353402656-109",
+  "lords-of-black/1720249189-105",
+  "lords-of-black/1764791929-108",
+  "lords-of-black/1887030824-106",
+  "lords-of-black/1353402656-110",
+  "lords-of-black/1720249189-106",
+  "lords-of-black/1764791929-106",
+  "lords-of-black/1887030824-108",
+  "lords-of-black/1353402656-108",
+  "lords-of-black/1720249189-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 110.40660511363637,
+   "iqr": 33.837890625
+  },
+  "onset_rate": {
+   "median": 4.833297304651479,
+   "iqr": 1.5260132242230982
+  },
+  "tempo_var": {
+   "median": 15.142398895948489,
+   "iqr": 15.589597355311351
+  },
+  "low_onset_rate": {
+   "median": 4.966628370445395,
+   "iqr": 1.84540593779439
+  },
+  "lufs": {
+   "median": -8.567192125417854,
+   "iqr": 1.31484329949566
+  },
+  "rms_dbfs": {
+   "median": -7.965512809706768,
+   "iqr": 1.1183170036349246
+  },
+  "crest": {
+   "median": 7.96551251411438,
+   "iqr": 1.118316650390625
+  },
+  "centroid": {
+   "median": 2520.5520546697553,
+   "iqr": 256.73650466086565
+  },
+  "flatness": {
+   "median": 0.031086296774446964,
+   "iqr": 0.009977917186915874
+  },
+  "sub100_share": {
+   "median": 0.2772767245769501,
+   "iqr": 0.12001751735806465
+  },
+  "lowest_pitch": {
+   "median": 59.21630859375,
+   "iqr": 17.4957275390625
+  },
+  "harmonic_share": {
+   "median": 0.7091124653816223,
+   "iqr": 0.08685511350631714
+  },
+  "clean_share": {
+   "median": 0.040603248259860794,
+   "iqr": 0.09080931890946735
+  },
+  "minor_share": {
+   "median": 0.007557643731540081,
+   "iqr": 0.10918810347277114
+  },
+  "chord_rate": {
+   "median": 1.5369672210638607,
+   "iqr": 0.1333553788554469
+  },
+  "repetitiveness": {
+   "median": 0.8414443731307983,
+   "iqr": 0.0704926997423172
+  },
+  "vocal_share": {
+   "median": 0.24650120735168457,
+   "iqr": 0.10527512058615685
+  },
+  "vocal_voiced": {
+   "median": 0.4446915326004953,
+   "iqr": 0.31850752881108907
+  },
+  "song_length": {
+   "median": 294.298,
+   "iqr": 107.21299999999997
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

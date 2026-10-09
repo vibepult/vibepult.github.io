@@ -1,0 +1,127 @@
+{
+ "slug": "pharaoh-overlord",
+ "name": "Pharaoh Overlord",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 271609418,
+  "deezer": 2571821,
+  "spotify": "3Aym9HWMoIOubfMXll94Jp"
+ },
+ "metadata": {
+  "formed": 2000,
+  "split": null,
+  "country": "FI",
+  "status": "active",
+  "members": 6,
+  "past_members": 0,
+  "full_lengths": 12,
+  "genre": "Stoner/Psychedelic Rock, Heavy/Speed Metal, Experimental",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 706,
+  "themes": "Primarily instrumental; Sex, Partying, Feeling good, Rock/metal",
+  "release_year": 2008
+ },
+ "partial": false,
+ "clips": [
+  "pharaoh-overlord/1457865793-103",
+  "pharaoh-overlord/1474991991-103",
+  "pharaoh-overlord/1458509026-103",
+  "pharaoh-overlord/798567405-105",
+  "pharaoh-overlord/1457865594-103",
+  "pharaoh-overlord/1373381620-103",
+  "pharaoh-overlord/1480720906-103",
+  "pharaoh-overlord/1532722066-103",
+  "pharaoh-overlord/1819592703-103",
+  "pharaoh-overlord/1457865793-104",
+  "pharaoh-overlord/1474991991-104",
+  "pharaoh-overlord/1458509026-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.90049098320159,
+   "iqr": 32.37782353940217
+  },
+  "onset_rate": {
+   "median": 4.226659857925617,
+   "iqr": 1.620498048295592
+  },
+  "tempo_var": {
+   "median": 5.147879536456455,
+   "iqr": 6.117834604296609
+  },
+  "low_onset_rate": {
+   "median": 3.859124218105998,
+   "iqr": 3.282761510207051
+  },
+  "lufs": {
+   "median": -10.152843817280687,
+   "iqr": 4.852323448645572
+  },
+  "rms_dbfs": {
+   "median": -9.790743117086755,
+   "iqr": 3.7686400066029915
+  },
+  "crest": {
+   "median": 9.332215309143066,
+   "iqr": 2.6972997188568115
+  },
+  "centroid": {
+   "median": 1585.2990984959417,
+   "iqr": 523.1010441475933
+  },
+  "flatness": {
+   "median": 0.006528776604682207,
+   "iqr": 0.009749306045705453
+  },
+  "sub100_share": {
+   "median": 0.3547925353050232,
+   "iqr": 0.21965918689966202
+  },
+  "lowest_pitch": {
+   "median": 51.141357421875,
+   "iqr": 18.16864013671875
+  },
+  "harmonic_share": {
+   "median": 0.8280324637889862,
+   "iqr": 0.17611195147037506
+  },
+  "clean_share": {
+   "median": 0.6679596586501164,
+   "iqr": 0.5050426687354539
+  },
+  "minor_share": {
+   "median": 0.012713254089380122,
+   "iqr": 0.08701547183953587
+  },
+  "chord_rate": {
+   "median": 1.2195500775832808,
+   "iqr": 0.8937798513795278
+  },
+  "repetitiveness": {
+   "median": 0.8900101184844971,
+   "iqr": 0.18127891421318054
+  },
+  "vocal_share": {
+   "median": 0.11022210121154785,
+   "iqr": 0.041650302708148956
+  },
+  "vocal_voiced": {
+   "median": 0.24261874197689345,
+   "iqr": 0.6104352506519093
+  },
+  "song_length": {
+   "median": 382.053,
+   "iqr": 166.9097500000001
+  },
+  "vocal_presence": {
+   "median": 0.4166666666666667,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

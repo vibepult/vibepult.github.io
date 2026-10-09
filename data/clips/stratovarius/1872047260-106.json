@@ -1,0 +1,32 @@
+{
+ "id": "stratovarius/1872047260-106",
+ "band": "stratovarius",
+ "title": "Forever Is Today",
+ "source": "itunes",
+ "album": "Polaris",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.766637843459752,
+  "tempo_var": 22.45330857509013,
+  "low_onset_rate": 5.2666348200464395,
+  "lufs": -11.507718341536254,
+  "rms_dbfs": -10.86562018150225,
+  "crest": 10.865620613098145,
+  "centroid": 2408.926702673378,
+  "flatness": 0.023237042129039764,
+  "sub100_share": 0.3536423444747925,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7640208005905151,
+  "clean_share": 0.05723124516627997,
+  "minor_share": -0.04996414559397866,
+  "chord_rate": 1.5999903250773995,
+  "repetitiveness": 0.8267309069633484,
+  "vocal_share": 6.134526984169497e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 280.867
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "tristania/1184167523-106",
+ "band": "tristania",
+ "title": "Sirens",
+ "source": "itunes",
+ "album": "Rubicon",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.7666666666666666,
+  "tempo_var": 2.7924123820309648,
+  "low_onset_rate": 5.4,
+  "lufs": -10.551740114558303,
+  "rms_dbfs": -9.814259144557141,
+  "crest": 9.814258575439453,
+  "centroid": 2499.8722633135744,
+  "flatness": 0.026607973501086235,
+  "sub100_share": 0.3129492402076721,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7918227910995483,
+  "clean_share": 0.0696594427244582,
+  "minor_share": -0.09936097298820412,
+  "chord_rate": 1.2,
+  "repetitiveness": 0.9410179257392883,
+  "vocal_share": 0.09249620139598846,
+  "vocal_voiced": 0.6210350584307178,
+  "song_length": 267.8
+ }
+}

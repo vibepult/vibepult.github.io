@@ -1,0 +1,32 @@
+{
+ "id": "lex-talion/1441911021-108",
+ "band": "lex-talion",
+ "title": "Thunders over the Fields",
+ "source": "itunes",
+ "album": "Sons of Chaos",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 2.2386261698104057,
+  "tempo_var": 19.371783502931194,
+  "low_onset_rate": 8.186021068709692,
+  "lufs": -8.963605731489542,
+  "rms_dbfs": -7.536917290371353,
+  "crest": 7.536916732788086,
+  "centroid": 1486.2523273448412,
+  "flatness": 0.007225612178444862,
+  "sub100_share": 0.4864877760410309,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.7839656472206116,
+  "clean_share": 0.664856477889837,
+  "minor_share": -0.15422820088887423,
+  "chord_rate": 2.071564515346943,
+  "repetitiveness": 0.9453589916229248,
+  "vocal_share": 0.22215536236763,
+  "vocal_voiced": 0.13838550247116968,
+  "song_length": 205.242
+ }
+}

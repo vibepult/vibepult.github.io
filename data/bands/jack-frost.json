@@ -1,0 +1,127 @@
+{
+ "slug": "jack-frost",
+ "name": "Jack Frost",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1501387941,
+  "deezer": 59611,
+  "spotify": "3mS8iXOb7sadHwb0Zj1I7G"
+ },
+ "metadata": {
+  "formed": 1993,
+  "split": 2023,
+  "country": "AT",
+  "status": "split-up",
+  "members": 5,
+  "past_members": 0,
+  "full_lengths": 8,
+  "genre": "Gothic/Doom Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 335,
+  "themes": "Loneliness, Despair, Sorrow, Depression, Solitude",
+  "release_year": 1997
+ },
+ "partial": false,
+ "clips": [
+  "jack-frost/265250569-105",
+  "jack-frost/267236179-104",
+  "jack-frost/265249490-104",
+  "jack-frost/296640771-108",
+  "jack-frost/1064043928-104",
+  "jack-frost/265250569-103",
+  "jack-frost/267236179-105",
+  "jack-frost/265249490-103",
+  "jack-frost/296640771-109",
+  "jack-frost/1064043928-105",
+  "jack-frost/265250569-106",
+  "jack-frost/267236179-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.69701086956522,
+   "iqr": 35.888671875
+  },
+  "onset_rate": {
+   "median": 2.806635794986181,
+   "iqr": 1.1610784985210691
+  },
+  "tempo_var": {
+   "median": 5.823548797764845,
+   "iqr": 12.401134677138785
+  },
+  "low_onset_rate": {
+   "median": 4.961731137564855,
+   "iqr": 1.762500454589536
+  },
+  "lufs": {
+   "median": -9.355505574620995,
+   "iqr": 1.0560164416982918
+  },
+  "rms_dbfs": {
+   "median": -8.975947869663687,
+   "iqr": 0.9303407977483715
+  },
+  "crest": {
+   "median": 8.975947856903076,
+   "iqr": 0.9303407669067383
+  },
+  "centroid": {
+   "median": 2289.8697022365714,
+   "iqr": 553.8699424362883
+  },
+  "flatness": {
+   "median": 0.012834682129323483,
+   "iqr": 0.010046451119706035
+  },
+  "sub100_share": {
+   "median": 0.2508409395813942,
+   "iqr": 0.16186506301164627
+  },
+  "lowest_pitch": {
+   "median": 68.6370849609375,
+   "iqr": 13.458251953125
+  },
+  "harmonic_share": {
+   "median": 0.8760737180709839,
+   "iqr": 0.10194073617458344
+  },
+  "clean_share": {
+   "median": 0.24631497284716836,
+   "iqr": 0.5525601241272304
+  },
+  "minor_share": {
+   "median": -0.026063511321567034,
+   "iqr": 0.22027288988706784
+  },
+  "chord_rate": {
+   "median": 1.069194588566164,
+   "iqr": 0.35918255709644575
+  },
+  "repetitiveness": {
+   "median": 0.7170824706554413,
+   "iqr": 0.14920109510421753
+  },
+  "vocal_share": {
+   "median": 0.08553320541977882,
+   "iqr": 0.09608166851103306
+  },
+  "vocal_voiced": {
+   "median": 0.7265193370165746,
+   "iqr": 0.27865864470712687
+  },
+  "song_length": {
+   "median": 319.173,
+   "iqr": 110.03949999999998
+  },
+  "vocal_presence": {
+   "median": 0.5,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

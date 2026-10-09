@@ -1,0 +1,127 @@
+{
+ "slug": "tyr",
+ "name": "Týr",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 140800517,
+  "deezer": 108315,
+  "spotify": "6TmGNPW2oDM5uaXBILozGa"
+ },
+ "metadata": {
+  "formed": 1998,
+  "split": null,
+  "country": "DK",
+  "status": "active",
+  "members": 4,
+  "past_members": 7,
+  "full_lengths": 9,
+  "genre": "Progressive/Folk Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 26438,
+  "themes": "Norse mythology, Paganism, Faroese/Nordic lore",
+  "release_year": 2007
+ },
+ "partial": false,
+ "clips": [
+  "tyr/1183579844-105",
+  "tyr/1184702102-107",
+  "tyr/1184094995-107",
+  "tyr/1184727358-105",
+  "tyr/1184709331-105",
+  "tyr/1184702303-106",
+  "tyr/671357651-107",
+  "tyr/1445616415-107",
+  "tyr/1720806385-105",
+  "tyr/1183579844-106",
+  "tyr/1184702102-108",
+  "tyr/1184094995-109"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 21.611221976902172
+  },
+  "onset_rate": {
+   "median": 3.7666666666666666,
+   "iqr": 1.7416778783893418
+  },
+  "tempo_var": {
+   "median": 7.913010584526682,
+   "iqr": 10.745311371229072
+  },
+  "low_onset_rate": {
+   "median": 4.733296548805006,
+   "iqr": 2.5999999999999996
+  },
+  "lufs": {
+   "median": -9.46401969612361,
+   "iqr": 2.3157032092455783
+  },
+  "rms_dbfs": {
+   "median": -8.49554252069246,
+   "iqr": 1.6790843821751924
+  },
+  "crest": {
+   "median": 8.495542049407959,
+   "iqr": 1.6790845394134521
+  },
+  "centroid": {
+   "median": 2186.047339064633,
+   "iqr": 467.59763829265853
+  },
+  "flatness": {
+   "median": 0.017120359931141138,
+   "iqr": 0.017014377051964402
+  },
+  "sub100_share": {
+   "median": 0.3048959970474243,
+   "iqr": 0.12548967078328133
+  },
+  "lowest_pitch": {
+   "median": 59.21630859375,
+   "iqr": 32.97271728515625
+  },
+  "harmonic_share": {
+   "median": 0.8496040105819702,
+   "iqr": 0.10081391036510468
+  },
+  "clean_share": {
+   "median": 0.2209752321981424,
+   "iqr": 0.3660026710311176
+  },
+  "minor_share": {
+   "median": 0.07649929741172545,
+   "iqr": 0.12937405675902078
+  },
+  "chord_rate": {
+   "median": 1.6018169438652636,
+   "iqr": 0.7916666666666667
+  },
+  "repetitiveness": {
+   "median": 0.7909621894359589,
+   "iqr": 0.16794835031032562
+  },
+  "vocal_share": {
+   "median": 0.2069520354270935,
+   "iqr": 0.17673882842063904
+  },
+  "vocal_voiced": {
+   "median": 0.8151709401709402,
+   "iqr": 0.3745559162773511
+  },
+  "song_length": {
+   "median": 305.373,
+   "iqr": 64.52300000000002
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

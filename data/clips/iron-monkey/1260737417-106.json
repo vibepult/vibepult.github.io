@@ -1,0 +1,32 @@
+{
+ "id": "iron-monkey/1260737417-106",
+ "band": "iron-monkey",
+ "title": "Mortarhex",
+ "source": "itunes",
+ "album": "9-13",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 4.644313994084275,
+  "tempo_var": 10.625915599372169,
+  "low_onset_rate": 6.515404524075062,
+  "lufs": -7.3174286069956365,
+  "rms_dbfs": -6.725319011876155,
+  "crest": 6.725318431854248,
+  "centroid": 2216.3474666875736,
+  "flatness": 0.02552296780049801,
+  "sub100_share": 0.33010873198509216,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7033937573432922,
+  "clean_share": 0.010861132660977503,
+  "minor_share": 0.07182036277497128,
+  "chord_rate": 2.8066357949861804,
+  "repetitiveness": 0.9024247527122498,
+  "vocal_share": 0.0966404378414154,
+  "vocal_voiced": 0.24784217016029594,
+  "song_length": 210.769
+ }
+}

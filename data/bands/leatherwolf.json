@@ -1,0 +1,127 @@
+{
+ "slug": "leatherwolf",
+ "name": "Leatherwolf",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 159747359,
+  "deezer": 97367,
+  "spotify": "1e4sTndn6XYL3IOvmuWpsJ"
+ },
+ "metadata": {
+  "formed": 1981,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 6,
+  "past_members": 16,
+  "full_lengths": 7,
+  "genre": "Heavy/Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 1255,
+  "themes": "Deception, Emotions, Women",
+  "release_year": 1986
+ },
+ "partial": false,
+ "clips": [
+  "leatherwolf/1822140638-105",
+  "leatherwolf/1443815795-105",
+  "leatherwolf/1636333295-105",
+  "leatherwolf/192555869-105",
+  "leatherwolf/271333099-101",
+  "leatherwolf/1822140638-104",
+  "leatherwolf/1443815795-104",
+  "leatherwolf/1636333295-106",
+  "leatherwolf/192555869-106",
+  "leatherwolf/1822140638-106",
+  "leatherwolf/1443815795-106",
+  "leatherwolf/1636333295-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 107.666015625,
+   "iqr": 25.83984375
+  },
+  "onset_rate": {
+   "median": 5.563153093633322,
+   "iqr": 1.5203008063460182
+  },
+  "tempo_var": {
+   "median": 11.078856279940258,
+   "iqr": 5.647351104281789
+  },
+  "low_onset_rate": {
+   "median": 5.857066697093407,
+   "iqr": 0.8092155052066969
+  },
+  "lufs": {
+   "median": -9.555427680935207,
+   "iqr": 3.8806999531974693
+  },
+  "rms_dbfs": {
+   "median": -9.774168830144806,
+   "iqr": 4.117974518068017
+  },
+  "crest": {
+   "median": 9.774168491363525,
+   "iqr": 4.117974877357483
+  },
+  "centroid": {
+   "median": 2680.27798254641,
+   "iqr": 295.2433919081177
+  },
+  "flatness": {
+   "median": 0.03982008621096611,
+   "iqr": 0.013147769030183554
+  },
+  "sub100_share": {
+   "median": 0.2298968955874443,
+   "iqr": 0.1516714757308364
+  },
+  "lowest_pitch": {
+   "median": 68.6370849609375,
+   "iqr": 24.89776611328125
+  },
+  "harmonic_share": {
+   "median": 0.7576548457145691,
+   "iqr": 0.0761200487613678
+  },
+  "clean_share": {
+   "median": 0.007370054305663305,
+   "iqr": 0.01339026698034472
+  },
+  "minor_share": {
+   "median": 0.09952780111079006,
+   "iqr": 0.27211830417042754
+  },
+  "chord_rate": {
+   "median": 1.921209026329826,
+   "iqr": 0.6022169706385434
+  },
+  "repetitiveness": {
+   "median": 0.8707550168037415,
+   "iqr": 0.0758427083492279
+  },
+  "vocal_share": {
+   "median": 0.19942907989025116,
+   "iqr": 0.1286970116198063
+  },
+  "vocal_voiced": {
+   "median": 0.7473053892215569,
+   "iqr": 0.26515723001761127
+  },
+  "song_length": {
+   "median": 229.4815,
+   "iqr": 57.61699999999996
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

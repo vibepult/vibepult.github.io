@@ -1,0 +1,32 @@
+{
+ "id": "alkonost/1289730305-106",
+ "band": "alkonost",
+ "title": "Ветер, Вей!",
+ "source": "itunes",
+ "album": "Песни белой лилии",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.5417070746254184,
+  "tempo_var": 2.6781838033209207,
+  "low_onset_rate": 7.918722421568152,
+  "lufs": -7.146651216591632,
+  "rms_dbfs": -6.784953697416887,
+  "crest": 6.784954071044922,
+  "centroid": 2453.3555425099935,
+  "flatness": 0.0303775817155838,
+  "sub100_share": 0.18372955918312073,
+  "lowest_pitch": 129.19921875,
+  "harmonic_share": 0.8338106870651245,
+  "clean_share": 0.003878975950349108,
+  "minor_share": 0.030090409174590715,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.7678936719894409,
+  "vocal_share": 0.3403630554676056,
+  "vocal_voiced": 0.875,
+  "song_length": 268.833
+ }
+}

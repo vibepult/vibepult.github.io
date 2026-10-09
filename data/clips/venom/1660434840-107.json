@@ -1,0 +1,32 @@
+{
+ "id": "venom/1660434840-107",
+ "band": "venom",
+ "title": "Destroyer",
+ "source": "itunes",
+ "album": "Storm the Gates",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.9092427144450372,
+  "tempo_var": 6.545444378607096,
+  "low_onset_rate": 4.276778354264656,
+  "lufs": -10.06344184097558,
+  "rms_dbfs": -9.085664041833203,
+  "crest": 9.085663795471191,
+  "centroid": 2121.865610643059,
+  "flatness": 0.01765289343893528,
+  "sub100_share": 0.43222135305404663,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7547328472137451,
+  "clean_share": 0.3421256788207913,
+  "minor_share": -0.00738623852803566,
+  "chord_rate": 1.871090529990787,
+  "repetitiveness": 0.9295110702514648,
+  "vocal_share": 0.12417272478342056,
+  "vocal_voiced": 0.24879227053140096,
+  "song_length": 257.72
+ }
+}

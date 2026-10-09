@@ -1,0 +1,32 @@
+{
+ "id": "edguy/942926896-104",
+ "band": "edguy",
+ "title": "Sands of Time",
+ "source": "itunes",
+ "album": "Savage Poetry",
+ "year": 1995,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.575119405518111,
+  "tempo_var": 7.452062086246976,
+  "low_onset_rate": 4.9784373030112015,
+  "lufs": -15.754097899354084,
+  "rms_dbfs": -15.817804813326754,
+  "crest": 15.3043212890625,
+  "centroid": 1760.58259788138,
+  "flatness": 0.009384269826114178,
+  "sub100_share": 0.017385367304086685,
+  "lowest_pitch": 131.890869140625,
+  "harmonic_share": 0.826492965221405,
+  "clean_share": 0.7168347556245152,
+  "minor_share": 0.032384474309687716,
+  "chord_rate": 0.7684836105319304,
+  "repetitiveness": 0.6279920935630798,
+  "vocal_share": 0.5130535364151001,
+  "vocal_voiced": 0.8796791443850267,
+  "song_length": 279.533
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "stream-of-passion",
+ "name": "Stream of Passion",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 82321622,
+  "deezer": 5253,
+  "spotify": "3WbWjYpDshKxCyN7KOrDyz"
+ },
+ "metadata": {
+  "formed": 2005,
+  "split": null,
+  "country": "NL",
+  "status": "active",
+  "members": 6,
+  "past_members": 4,
+  "full_lengths": 4,
+  "genre": "Progressive/Symphonic Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 13669,
+  "themes": "Emotions",
+  "release_year": 2008
+ },
+ "partial": false,
+ "clips": [
+  "stream-of-passion/1045520619-106",
+  "stream-of-passion/1184111666-107",
+  "stream-of-passion/1045520619-107",
+  "stream-of-passion/1184111666-108",
+  "stream-of-passion/1045520619-105",
+  "stream-of-passion/1184111666-106",
+  "stream-of-passion/1045520619-108",
+  "stream-of-passion/1184111666-109",
+  "stream-of-passion/1045520619-104",
+  "stream-of-passion/1184111666-105",
+  "stream-of-passion/1045520619-109",
+  "stream-of-passion/1184111666-110"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 107.666015625,
+   "iqr": 26.121168870192307
+  },
+  "onset_rate": {
+   "median": 3.2200240629394363,
+   "iqr": 1.7129142825971009
+  },
+  "tempo_var": {
+   "median": 7.730219545479457,
+   "iqr": 13.84828822999735
+  },
+  "low_onset_rate": {
+   "median": 3.3913515856083016,
+   "iqr": 1.416666666666667
+  },
+  "lufs": {
+   "median": -13.102238603889308,
+   "iqr": 2.576509493824151
+  },
+  "rms_dbfs": {
+   "median": -12.904109068704333,
+   "iqr": 2.4008959207382468
+  },
+  "crest": {
+   "median": 12.317121505737305,
+   "iqr": 2.32959246635437
+  },
+  "centroid": {
+   "median": 2072.8338227556787,
+   "iqr": 473.7169879947703
+  },
+  "flatness": {
+   "median": 0.010954499710351229,
+   "iqr": 0.007367046200670302
+  },
+  "sub100_share": {
+   "median": 0.34747813642024994,
+   "iqr": 0.19227629154920578
+  },
+  "lowest_pitch": {
+   "median": 96.8994140625,
+   "iqr": 117.75970458984375
+  },
+  "harmonic_share": {
+   "median": 0.8840812742710114,
+   "iqr": 0.05950388312339783
+  },
+  "clean_share": {
+   "median": 0.5338617787566621,
+   "iqr": 0.3180986953190487
+  },
+  "minor_share": {
+   "median": 0.04296647764958611,
+   "iqr": 0.09657891278754122
+  },
+  "chord_rate": {
+   "median": 1.2166666666666668,
+   "iqr": 0.4318718784851864
+  },
+  "repetitiveness": {
+   "median": 0.600225031375885,
+   "iqr": 0.11413410305976868
+  },
+  "vocal_share": {
+   "median": 0.28143101930618286,
+   "iqr": 0.08692367002367973
+  },
+  "vocal_voiced": {
+   "median": 0.9164969734942994,
+   "iqr": 0.028814210613834934
+  },
+  "song_length": {
+   "median": 271.88,
+   "iqr": 51.65650000000002
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

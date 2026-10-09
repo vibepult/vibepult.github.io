@@ -1,0 +1,32 @@
+{
+ "id": "elis/1184000714-106",
+ "band": "elis",
+ "title": "Remember the Promise",
+ "source": "itunes",
+ "album": "Griefshire",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.166666666666667,
+  "tempo_var": 23.075926366662998,
+  "low_onset_rate": 5.966666666666667,
+  "lufs": -8.685855773274639,
+  "rms_dbfs": -7.635761008956942,
+  "crest": 7.63576078414917,
+  "centroid": 2430.8220893460593,
+  "flatness": 0.024069974198937416,
+  "sub100_share": 0.48720985651016235,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8611568808555603,
+  "clean_share": 0.030959752321981424,
+  "minor_share": -0.10974234846811703,
+  "chord_rate": 1.5,
+  "repetitiveness": 0.7838993668556213,
+  "vocal_share": 0.04472992941737175,
+  "vocal_voiced": 0.7734375,
+  "song_length": 258.613
+ }
+}

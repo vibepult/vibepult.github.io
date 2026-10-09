@@ -1,0 +1,127 @@
+{
+ "slug": "darkthrone",
+ "name": "Darkthrone",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 112417640,
+  "deezer": 7641,
+  "spotify": "7kWnE981vITXDnAD2cZmCV"
+ },
+ "metadata": {
+  "formed": 1987,
+  "split": null,
+  "country": "NO",
+  "status": "active",
+  "members": 2,
+  "past_members": 3,
+  "full_lengths": 22,
+  "genre": "Death Metal (early); Black Metal (mid); Black/Doom/Heavy/Speed Metal (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 78237,
+  "themes": "Anti-religion, Satan, Occultism, Death, Rebellion, Metal",
+  "release_year": 1997
+ },
+ "partial": false,
+ "clips": [
+  "darkthrone/128289923-106",
+  "darkthrone/112417815-103",
+  "darkthrone/128290200-104",
+  "darkthrone/128282603-104",
+  "darkthrone/1189264987-104",
+  "darkthrone/676846588-105",
+  "darkthrone/684099411-103",
+  "darkthrone/674002052-103",
+  "darkthrone/674002392-104",
+  "darkthrone/868252651-109",
+  "darkthrone/117005939-105",
+  "darkthrone/262091058-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 135.99917763157896,
+   "iqr": 8.33804481907896
+  },
+  "onset_rate": {
+   "median": 5.579859259079669,
+   "iqr": 1.7708535373127088
+  },
+  "tempo_var": {
+   "median": 5.007021102886833,
+   "iqr": 4.5899057332866295
+  },
+  "low_onset_rate": {
+   "median": 6.197987380594482,
+   "iqr": 1.1903829563270785
+  },
+  "lufs": {
+   "median": -8.33688687843113,
+   "iqr": 2.048280829224038
+  },
+  "rms_dbfs": {
+   "median": -9.326830991443808,
+   "iqr": 2.1553720813577772
+  },
+  "crest": {
+   "median": 9.326830863952637,
+   "iqr": 2.155372381210327
+  },
+  "centroid": {
+   "median": 2808.544721186064,
+   "iqr": 496.75945978197524
+  },
+  "flatness": {
+   "median": 0.04434048756957054,
+   "iqr": 0.031465159729123116
+  },
+  "sub100_share": {
+   "median": 0.0832425057888031,
+   "iqr": 0.1010461300611496
+  },
+  "lowest_pitch": {
+   "median": 67.291259765625,
+   "iqr": 58.54339599609375
+  },
+  "harmonic_share": {
+   "median": 0.6534014940261841,
+   "iqr": 0.09816078841686249
+  },
+  "clean_share": {
+   "median": 0.0,
+   "iqr": 0.0003878975950349108
+  },
+  "minor_share": {
+   "median": -0.054906235476160914,
+   "iqr": 0.10955928288070081
+  },
+  "chord_rate": {
+   "median": 1.5870857174028996,
+   "iqr": 0.3150472166998013
+  },
+  "repetitiveness": {
+   "median": 0.8727644085884094,
+   "iqr": 0.07186673581600189
+  },
+  "vocal_share": {
+   "median": 0.11948959529399872,
+   "iqr": 0.07748383469879627
+  },
+  "vocal_voiced": {
+   "median": 0.35691469046213675,
+   "iqr": 0.1740248025018738
+  },
+  "song_length": {
+   "median": 287.78650000000005,
+   "iqr": 108.17000000000002
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.6,
+  "camp": 0.6
+ },
+ "sources_failed": []
+}

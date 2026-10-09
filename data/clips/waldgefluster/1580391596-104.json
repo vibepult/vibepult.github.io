@@ -1,0 +1,32 @@
+{
+ "id": "waldgefluster/1580391596-104",
+ "band": "waldgefluster",
+ "title": "Am Tatzlwurm",
+ "source": "itunes",
+ "album": "Dahoam",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 6.649053847645832,
+  "tempo_var": 6.8824740564226845,
+  "low_onset_rate": 8.386495054065849,
+  "lufs": -10.475294094260976,
+  "rms_dbfs": -9.79176707369242,
+  "crest": 9.791767120361328,
+  "centroid": 2074.1556538799337,
+  "flatness": 0.019565563648939133,
+  "sub100_share": 0.19474083185195923,
+  "lowest_pitch": 145.34912109375,
+  "harmonic_share": 0.6956342458724976,
+  "clean_share": 0.0395655546935609,
+  "minor_share": 0.16247060266918345,
+  "chord_rate": 1.871090529990787,
+  "repetitiveness": 0.9432414770126343,
+  "vocal_share": 0.1092165932059288,
+  "vocal_voiced": 0.24410377358490565,
+  "song_length": 647.751
+ }
+}

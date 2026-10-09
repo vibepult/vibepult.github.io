@@ -1,0 +1,32 @@
+{
+ "id": "deep-purple/324161795-106",
+ "band": "deep-purple",
+ "title": "The Aviator",
+ "source": "itunes",
+ "album": "Purpendicular",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 4.164029133474036,
+  "tempo_var": 32.88019629748886,
+  "low_onset_rate": 3.631033404389359,
+  "lufs": -12.921340145561015,
+  "rms_dbfs": -12.574430994242519,
+  "crest": 12.574430465698242,
+  "centroid": 2251.6541061849757,
+  "flatness": 0.019344545900821686,
+  "sub100_share": 0.15556460618972778,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7788479924201965,
+  "clean_share": 0.18329466357308585,
+  "minor_share": -0.28380156634631637,
+  "chord_rate": 1.2325526235083144,
+  "repetitiveness": 0.7342385053634644,
+  "vocal_share": 0.3485950231552124,
+  "vocal_voiced": 0.8775877587758776,
+  "song_length": 319.816
+ }
+}

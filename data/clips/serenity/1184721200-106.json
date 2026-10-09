@@ -1,0 +1,32 @@
+{
+ "id": "serenity/1184721200-106",
+ "band": "serenity",
+ "title": "Forever",
+ "source": "itunes",
+ "album": "Words Untold & Dreams Unlived",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.533333333333333,
+  "tempo_var": 18.844999419935206,
+  "low_onset_rate": 6.366666666666666,
+  "lufs": -8.058738559902245,
+  "rms_dbfs": -7.45006119107604,
+  "crest": 7.450060844421387,
+  "centroid": 2610.9573295316227,
+  "flatness": 0.02766992524266243,
+  "sub100_share": 0.3620496988296509,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.8480059504508972,
+  "clean_share": 0.010061919504643963,
+  "minor_share": 0.2529409974169944,
+  "chord_rate": 1.2333333333333334,
+  "repetitiveness": 0.7475512623786926,
+  "vocal_share": 0.12099598348140717,
+  "vocal_voiced": 0.8199121522693997,
+  "song_length": 403.0
+ }
+}

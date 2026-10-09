@@ -1,0 +1,127 @@
+{
+ "slug": "aura-hiemis",
+ "name": "Aura Hiemis",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1365982948,
+  "deezer": 14456415,
+  "spotify": "58yHYxidyMGux4ZIkvohVq"
+ },
+ "metadata": {
+  "formed": 2004,
+  "split": null,
+  "country": "CL",
+  "status": "active",
+  "members": 1,
+  "past_members": 13,
+  "full_lengths": 6,
+  "genre": "Funeral Doom/Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 29,
+  "themes": "Darkness, Depression, Mysticism",
+  "release_year": 2015
+ },
+ "partial": false,
+ "clips": [
+  "aura-hiemis/1528462923-104",
+  "aura-hiemis/1365982945-103",
+  "aura-hiemis/1528790846-106",
+  "aura-hiemis/1527219950-103",
+  "aura-hiemis/1528462923-103",
+  "aura-hiemis/1365982945-102",
+  "aura-hiemis/1528790846-105",
+  "aura-hiemis/1527219950-102",
+  "aura-hiemis/1528462923-105",
+  "aura-hiemis/1365982945-104",
+  "aura-hiemis/1528790846-107",
+  "aura-hiemis/1527219950-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.19921875,
+   "iqr": 45.94538762019231
+  },
+  "onset_rate": {
+   "median": 3.207583765698492,
+   "iqr": 1.40331789749309
+  },
+  "tempo_var": {
+   "median": 9.198431657806161,
+   "iqr": 16.16648300679529
+  },
+  "low_onset_rate": {
+   "median": 6.047631891577366,
+   "iqr": 2.7063988023081027
+  },
+  "lufs": {
+   "median": -11.235965662242736,
+   "iqr": 5.327824871465161
+  },
+  "rms_dbfs": {
+   "median": -9.871193384796822,
+   "iqr": 4.454668378767815
+  },
+  "crest": {
+   "median": 9.871193885803223,
+   "iqr": 3.7813162803649902
+  },
+  "centroid": {
+   "median": 1752.6221261661199,
+   "iqr": 937.654894413733
+  },
+  "flatness": {
+   "median": 0.0041044477839022875,
+   "iqr": 0.009961620613466948
+  },
+  "sub100_share": {
+   "median": 0.1870085597038269,
+   "iqr": 0.0754852183163166
+  },
+  "lowest_pitch": {
+   "median": 60.5621337890625,
+   "iqr": 23.55194091796875
+  },
+  "harmonic_share": {
+   "median": 0.9191320836544037,
+   "iqr": 0.061515599489212036
+  },
+  "clean_share": {
+   "median": 0.7598913886733902,
+   "iqr": 0.5488750969743987
+  },
+  "minor_share": {
+   "median": 0.12389016773881284,
+   "iqr": 0.1705811755265141
+  },
+  "chord_rate": {
+   "median": 0.7851897759782767,
+   "iqr": 0.39259488798913855
+  },
+  "repetitiveness": {
+   "median": 0.7514979243278503,
+   "iqr": 0.16771821677684784
+  },
+  "vocal_share": {
+   "median": 0.0750642865896225,
+   "iqr": 0.023152843117713928
+  },
+  "vocal_voiced": {
+   "median": 0.958904109589041,
+   "iqr": 0.06619915848527358
+  },
+  "song_length": {
+   "median": 556.6479999999999,
+   "iqr": 310.80675
+  },
+  "vocal_presence": {
+   "median": 0.4166666666666667,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

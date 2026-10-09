@@ -1,0 +1,32 @@
+{
+ "id": "baroness/1031376313-105",
+ "band": "baroness",
+ "title": "Fugue",
+ "source": "itunes",
+ "album": "Purple",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.366249384052166,
+  "tempo_var": 10.773951816097169,
+  "low_onset_rate": 3.3995785858744645,
+  "lufs": -8.574927556504136,
+  "rms_dbfs": -7.041460038348611,
+  "crest": 7.041460037231445,
+  "centroid": 1763.2156087532055,
+  "flatness": 0.007688269484788179,
+  "sub100_share": 0.5559377670288086,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.8225029110908508,
+  "clean_share": 0.5986078886310905,
+  "minor_share": 0.1083440226919562,
+  "chord_rate": 1.1665220637804534,
+  "repetitiveness": 0.5993384122848511,
+  "vocal_share": 2.1687226308131358e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 154.587
+ }
+}

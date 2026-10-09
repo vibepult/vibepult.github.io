@@ -1,0 +1,32 @@
+{
+ "id": "circus-maximus/1606385940-105",
+ "band": "circus-maximus",
+ "title": "Flames",
+ "source": "itunes",
+ "album": "Havoc",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.544077001406197,
+  "tempo_var": 4.263256414560601e-14,
+  "low_onset_rate": 6.415167531396984,
+  "lufs": -10.587067589323423,
+  "rms_dbfs": -9.570277185577009,
+  "crest": 9.570277214050293,
+  "centroid": 2076.1072729810767,
+  "flatness": 0.012523087672889233,
+  "sub100_share": 0.3436175584793091,
+  "lowest_pitch": 88.824462890625,
+  "harmonic_share": 0.8294371366500854,
+  "clean_share": 0.28471683475562454,
+  "minor_share": -0.15438100946479438,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.7947525978088379,
+  "vocal_share": 0.15598632395267487,
+  "vocal_voiced": 0.9587628865979382,
+  "song_length": 243.573
+ }
+}

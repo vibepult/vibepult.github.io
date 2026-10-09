@@ -1,0 +1,32 @@
+{
+ "id": "lorihen/1434442529-105",
+ "band": "lorihen",
+ "title": "El Secreto Más Perverso",
+ "source": "itunes",
+ "album": "Bajo la Cruz",
+ "year": 2007,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.174171434805799,
+  "tempo_var": 2.0648059656046303,
+  "low_onset_rate": 4.811375648547738,
+  "lufs": -9.683520118682976,
+  "rms_dbfs": -8.869274885342678,
+  "crest": 8.869275093078613,
+  "centroid": 2412.9629497472138,
+  "flatness": 0.02193390019237995,
+  "sub100_share": 0.3623313307762146,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8046188354492188,
+  "clean_share": 0.17145073700543056,
+  "minor_share": 0.28673006286925595,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.7377221584320068,
+  "vocal_share": 0.19483181834220886,
+  "vocal_voiced": 0.6743869209809265,
+  "song_length": 283.064
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "marduk/256009301-105",
+ "band": "marduk",
+ "title": "1651",
+ "source": "itunes",
+ "album": "Rom 5:12",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 0.4009479707123115,
+  "tempo_var": 6.518268258827773,
+  "low_onset_rate": 1.069194588566164,
+  "lufs": -17.670644852982363,
+  "rms_dbfs": -16.32810839773005,
+  "crest": 14.581157684326172,
+  "centroid": 403.70240665347933,
+  "flatness": 0.0010044323280453682,
+  "sub100_share": 0.15768691897392273,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.9503505825996399,
+  "clean_share": 0.9968968192397207,
+  "minor_share": -0.0636866248991651,
+  "chord_rate": 0.9689575958880862,
+  "repetitiveness": 0.8575880527496338,
+  "vocal_share": 1.485814891566406e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 294.115
+ }
+}

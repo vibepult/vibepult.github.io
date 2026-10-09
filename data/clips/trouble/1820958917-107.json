@@ -1,0 +1,32 @@
+{
+ "id": "trouble/1820958917-107",
+ "band": "trouble",
+ "title": "Another Day",
+ "source": "itunes",
+ "album": "Plastic Green Head",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.6332784084896677,
+  "tempo_var": 1.822134397652089,
+  "low_onset_rate": 5.633248174630769,
+  "lufs": -10.897864648123372,
+  "rms_dbfs": -10.682779422344964,
+  "crest": 10.682779312133789,
+  "centroid": 2434.0785187410206,
+  "flatness": 0.025623012334108353,
+  "sub100_share": 0.2099725902080536,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7053014039993286,
+  "clean_share": 0.05491105955143078,
+  "minor_share": 0.1397488406950096,
+  "chord_rate": 2.399963719369322,
+  "repetitiveness": 0.8779469728469849,
+  "vocal_share": 0.0615486241877079,
+  "vocal_voiced": 0.17899408284023668,
+  "song_length": 293.573
+ }
+}

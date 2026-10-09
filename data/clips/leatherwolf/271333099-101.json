@@ -1,0 +1,32 @@
+{
+ "id": "leatherwolf/271333099-101",
+ "band": "leatherwolf",
+ "title": "(I Am the Law)",
+ "source": "itunes",
+ "album": "New World Asylum",
+ "year": 2007,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.613271589972361,
+  "tempo_var": 14.564387619115372,
+  "low_onset_rate": 7.417537458177763,
+  "lufs": -7.039499361136649,
+  "rms_dbfs": -7.102155552738223,
+  "crest": 7.1021552085876465,
+  "centroid": 2627.3575681301154,
+  "flatness": 0.040575772523880005,
+  "sub100_share": 0.32717177271842957,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7712104320526123,
+  "clean_share": 0.0,
+  "minor_share": 0.10807815947606111,
+  "chord_rate": 2.1049768462396354,
+  "repetitiveness": 0.8970690965652466,
+  "vocal_share": 0.2208775281906128,
+  "vocal_voiced": 0.38636363636363635,
+  "song_length": 214.413
+ }
+}

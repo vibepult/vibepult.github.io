@@ -1,0 +1,127 @@
+{
+ "slug": "haemorrhage",
+ "name": "Haemorrhage",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 341325672,
+  "deezer": 13888,
+  "spotify": "6JLFzI9nSELx9j1Muv5RcM"
+ },
+ "metadata": {
+  "formed": 1991,
+  "split": null,
+  "country": "ES",
+  "status": "active",
+  "members": 5,
+  "past_members": 5,
+  "full_lengths": 8,
+  "genre": "Goregrind",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 2978,
+  "themes": "Gore, Surgeries",
+  "release_year": 2000
+ },
+ "partial": false,
+ "clips": [
+  "haemorrhage/1677131831-106",
+  "haemorrhage/382669987-107",
+  "haemorrhage/1677190231-104",
+  "haemorrhage/1677129898-107",
+  "haemorrhage/356177849-112",
+  "haemorrhage/422134579-110",
+  "haemorrhage/1262669651-107",
+  "haemorrhage/1819512008-104",
+  "haemorrhage/1677131831-108",
+  "haemorrhage/382669987-108",
+  "haemorrhage/1677190231-103",
+  "haemorrhage/1677129898-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 39.07643037683823
+  },
+  "onset_rate": {
+   "median": 5.797039409882171,
+   "iqr": 1.858511077841892
+  },
+  "tempo_var": {
+   "median": 12.98786221707185,
+   "iqr": 6.760738362601655
+  },
+  "low_onset_rate": {
+   "median": 6.799409336662949,
+   "iqr": 1.296802417204093
+  },
+  "lufs": {
+   "median": -8.270431665372334,
+   "iqr": 1.2760563233522495
+  },
+  "rms_dbfs": {
+   "median": -8.306693330953427,
+   "iqr": 1.4770434718380887
+  },
+  "crest": {
+   "median": 8.306693077087402,
+   "iqr": 1.4770435094833374
+  },
+  "centroid": {
+   "median": 2928.107039404772,
+   "iqr": 468.64735982697584
+  },
+  "flatness": {
+   "median": 0.04467278718948364,
+   "iqr": 0.017953699454665184
+  },
+  "sub100_share": {
+   "median": 0.2458525151014328,
+   "iqr": 0.15470091998577118
+  },
+  "lowest_pitch": {
+   "median": 59.21630859375,
+   "iqr": 20.1873779296875
+  },
+  "harmonic_share": {
+   "median": 0.7183382213115692,
+   "iqr": 0.08174152672290802
+  },
+  "clean_share": {
+   "median": 0.0069821567106283944,
+   "iqr": 0.02671764777937634
+  },
+  "minor_share": {
+   "median": 0.05200896587066556,
+   "iqr": 0.10786880918078086
+  },
+  "chord_rate": {
+   "median": 2.472512486059254,
+   "iqr": 0.4493877689149657
+  },
+  "repetitiveness": {
+   "median": 0.9420272707939148,
+   "iqr": 0.04530945420265198
+  },
+  "vocal_share": {
+   "median": 0.08255154266953468,
+   "iqr": 0.032421120908111334
+  },
+  "vocal_voiced": {
+   "median": 0.07195488657756424,
+   "iqr": 0.1115200732671775
+  },
+  "song_length": {
+   "median": 178.4335,
+   "iqr": 79.63499999999999
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.5,
+  "camp": 0.7
+ },
+ "sources_failed": []
+}

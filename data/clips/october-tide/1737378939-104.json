@@ -1,0 +1,32 @@
+{
+ "id": "october-tide/1737378939-104",
+ "band": "october-tide",
+ "title": "Caught in Silence",
+ "source": "itunes",
+ "album": "Tunnel of No Light",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 2.466651751160991,
+  "tempo_var": 23.555709711020494,
+  "low_onset_rate": 2.466651751160991,
+  "lufs": -9.333672306298562,
+  "rms_dbfs": -10.39584671271359,
+  "crest": 10.395846366882324,
+  "centroid": 1807.5913877859532,
+  "flatness": 0.02350560761988163,
+  "sub100_share": 0.22016580402851105,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8063852190971375,
+  "clean_share": 0.4168600154679041,
+  "minor_share": 0.13417141318453496,
+  "chord_rate": 0.9666608214009288,
+  "repetitiveness": 0.7925643920898438,
+  "vocal_share": 3.2594657568552066e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 286.467
+ }
+}

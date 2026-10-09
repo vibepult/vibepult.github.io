@@ -1,0 +1,32 @@
+{
+ "id": "terrorizer/1763634170-107",
+ "band": "terrorizer",
+ "title": "The Downtrodden",
+ "source": "itunes",
+ "album": "Caustic Attack",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 7.09989266980091,
+  "tempo_var": 11.906748258411417,
+  "low_onset_rate": 7.09989266980091,
+  "lufs": -8.095921168084079,
+  "rms_dbfs": -7.386946939386478,
+  "crest": 7.386946678161621,
+  "centroid": 2559.566332095684,
+  "flatness": 0.03575873002409935,
+  "sub100_share": 0.31635236740112305,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.736085832118988,
+  "clean_share": 0.027842227378190254,
+  "minor_share": -0.01976503331594104,
+  "chord_rate": 1.6333086423485663,
+  "repetitiveness": 0.9049593806266785,
+  "vocal_share": 0.1276421993970871,
+  "vocal_voiced": 0.4752688172043011,
+  "song_length": 251.626
+ }
+}

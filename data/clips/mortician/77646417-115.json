@@ -1,0 +1,32 @@
+{
+ "id": "mortician/77646417-115",
+ "band": "mortician",
+ "title": "Ghost House",
+ "source": "itunes",
+ "album": "Darkest Day of Horror",
+ "year": 2002,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 63.02400914634146,
+  "onset_rate": 2.2386261698104057,
+  "tempo_var": 3.3967443823327934,
+  "low_onset_rate": 8.720618362992775,
+  "lufs": -10.474412025820756,
+  "rms_dbfs": -8.623085148658493,
+  "crest": 8.623085021972656,
+  "centroid": 2008.6559751931798,
+  "flatness": 0.012064943090081215,
+  "sub100_share": 0.5130738019943237,
+  "lowest_pitch": 26.91650390625,
+  "harmonic_share": 0.8441672921180725,
+  "clean_share": 0.2660977501939488,
+  "minor_share": 0.13367958218445108,
+  "chord_rate": 2.5393371478446394,
+  "repetitiveness": 0.8852726221084595,
+  "vocal_share": 0.06461625546216965,
+  "vocal_voiced": 0.7865497076023392,
+  "song_length": 217.52
+ }
+}

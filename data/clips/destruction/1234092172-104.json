@@ -1,0 +1,32 @@
+{
+ "id": "destruction/1234092172-104",
+ "band": "destruction",
+ "title": "Tormentor",
+ "source": "itunes",
+ "album": "Infernal Overkill",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 6.2966494019811075,
+  "tempo_var": 22.353122432374743,
+  "low_onset_rate": 7.829167245849525,
+  "lufs": -14.255145473030401,
+  "rms_dbfs": -15.10917994870653,
+  "crest": 15.109180450439453,
+  "centroid": 3023.1560211717333,
+  "flatness": 0.06177627667784691,
+  "sub100_share": 0.1555696725845337,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.5938142538070679,
+  "clean_share": 0.0,
+  "minor_share": 0.12083365292976911,
+  "chord_rate": 2.8651420559279113,
+  "repetitiveness": 0.8962997794151306,
+  "vocal_share": 0.08954330533742905,
+  "vocal_voiced": 0.017777777777777778,
+  "song_length": 306.427
+ }
+}

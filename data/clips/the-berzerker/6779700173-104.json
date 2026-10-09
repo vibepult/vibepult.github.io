@@ -1,0 +1,32 @@
+{
+ "id": "the-berzerker/6779700173-104",
+ "band": "the-berzerker",
+ "title": "The Deception",
+ "source": "itunes",
+ "album": "The Reawakening",
+ "year": 2008,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 6.133333333333334,
+  "tempo_var": 16.262408401837018,
+  "low_onset_rate": 6.3,
+  "lufs": -5.8684532116180685,
+  "rms_dbfs": -5.438921871572479,
+  "crest": 5.4389214515686035,
+  "centroid": 2821.038236671304,
+  "flatness": 0.052292294800281525,
+  "sub100_share": 0.39310306310653687,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7598060369491577,
+  "clean_share": 0.0,
+  "minor_share": 0.11096626217602126,
+  "chord_rate": 1.3333333333333333,
+  "repetitiveness": 0.9385472536087036,
+  "vocal_share": 0.15796102583408356,
+  "vocal_voiced": 0.030959752321981424,
+  "song_length": 242.907
+ }
+}

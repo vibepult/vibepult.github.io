@@ -1,0 +1,32 @@
+{
+ "id": "warlock/1444038520-105",
+ "band": "warlock",
+ "title": "Down and Out",
+ "source": "itunes",
+ "album": "Hellbound",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.143129030693886,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.076304368908501,
+  "lufs": -17.70641722905845,
+  "rms_dbfs": -18.030983898456295,
+  "crest": 16.200984954833984,
+  "centroid": 2393.589067549951,
+  "flatness": 0.025176439434289932,
+  "sub100_share": 0.13751237094402313,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.6252297759056091,
+  "clean_share": 0.03801396431342126,
+  "minor_share": 0.1576332137402724,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.8649935126304626,
+  "vocal_share": 0.36977726221084595,
+  "vocal_voiced": 0.8035217794253939,
+  "song_length": 246.467
+ }
+}

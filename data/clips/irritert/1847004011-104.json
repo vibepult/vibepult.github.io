@@ -1,0 +1,32 @@
+{
+ "id": "irritert/1847004011-104",
+ "band": "irritert",
+ "title": "Last Refuge",
+ "source": "itunes",
+ "album": "Torn Soul",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 0.9,
+  "tempo_var": 14.481151329201099,
+  "low_onset_rate": 2.6666666666666665,
+  "lufs": -19.699207316439,
+  "rms_dbfs": -22.40851210695322,
+  "crest": 21.920021057128906,
+  "centroid": 1780.9771837601709,
+  "flatness": 0.0014649102231487632,
+  "sub100_share": 0.00012140839680796489,
+  "lowest_pitch": 145.34912109375,
+  "harmonic_share": 0.9838870167732239,
+  "clean_share": 0.958204334365325,
+  "minor_share": 0.009208843959859325,
+  "chord_rate": 0.9333333333333333,
+  "repetitiveness": 0.5473515391349792,
+  "vocal_share": 8.244616765296087e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 693.542
+ }
+}

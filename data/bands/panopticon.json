@@ -1,0 +1,127 @@
+{
+ "slug": "panopticon",
+ "name": "Panopticon",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 381121839,
+  "deezer": 565916,
+  "spotify": "2Mz5qpR3WxbcBwZBsmraWE"
+ },
+ "metadata": {
+  "formed": 2007,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 1,
+  "past_members": 0,
+  "full_lengths": 12,
+  "genre": "Atmospheric Black/Folk Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 4266,
+  "themes": "History, Nature, Paganism, Philosophy, Politics, Spirituality, Anarchism",
+  "release_year": 2016
+ },
+ "partial": false,
+ "clips": [
+  "panopticon/1631488284-103",
+  "panopticon/1690550588-103",
+  "panopticon/1688787116-104",
+  "panopticon/1688743065-104",
+  "panopticon/1688750220-104",
+  "panopticon/1690423189-104",
+  "panopticon/1690423344-105",
+  "panopticon/1563194198-104",
+  "panopticon/1713912485-104",
+  "panopticon/1818535139-106",
+  "panopticon/1879842657-103",
+  "panopticon/1631488284-102"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 132.59919819078948,
+   "iqr": 14.84118009868422
+  },
+  "onset_rate": {
+   "median": 3.207583765698492,
+   "iqr": 2.506049498874834
+  },
+  "tempo_var": {
+   "median": 5.799904147705668,
+   "iqr": 8.551926034628636
+  },
+  "low_onset_rate": {
+   "median": 5.763627078989478,
+   "iqr": 2.671728893730165
+  },
+  "lufs": {
+   "median": -11.811548339690937,
+   "iqr": 3.8374479359566607
+  },
+  "rms_dbfs": {
+   "median": -11.24023888446817,
+   "iqr": 3.0651251997375173
+  },
+  "crest": {
+   "median": 11.240239143371582,
+   "iqr": 3.0651257038116455
+  },
+  "centroid": {
+   "median": 2279.982639492525,
+   "iqr": 281.01740727007973
+  },
+  "flatness": {
+   "median": 0.023579847998917103,
+   "iqr": 0.016838663956150413
+  },
+  "sub100_share": {
+   "median": 0.31198887526988983,
+   "iqr": 0.2660062536597252
+  },
+  "lowest_pitch": {
+   "median": 52.4871826171875,
+   "iqr": 14.8040771484375
+  },
+  "harmonic_share": {
+   "median": 0.8194882869720459,
+   "iqr": 0.0964219868183136
+  },
+  "clean_share": {
+   "median": 0.01474010861132661,
+   "iqr": 0.29698330870348605
+  },
+  "minor_share": {
+   "median": -0.020412917201528463,
+   "iqr": 0.23646971055047664
+  },
+  "chord_rate": {
+   "median": 1.453436393832129,
+   "iqr": 0.9225214716730237
+  },
+  "repetitiveness": {
+   "median": 0.9000551402568817,
+   "iqr": 0.06987690925598145
+  },
+  "vocal_share": {
+   "median": 0.07857222482562065,
+   "iqr": 0.09306904580444098
+  },
+  "vocal_voiced": {
+   "median": 0.5899762640975604,
+   "iqr": 0.5222695725979275
+  },
+  "song_length": {
+   "median": 541.146,
+   "iqr": 234.0775
+  },
+  "vocal_presence": {
+   "median": 0.3333333333333333,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.0,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

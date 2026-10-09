@@ -1,0 +1,32 @@
+{
+ "id": "type-o-negative/214401805-109",
+ "band": "type-o-negative",
+ "title": "We Hate Everyone",
+ "source": "itunes",
+ "album": "Bloody Kisses",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.665998567062387,
+  "tempo_var": 19.26803441037396,
+  "low_onset_rate": 7.665762767202053,
+  "lufs": -10.341970754243546,
+  "rms_dbfs": -10.482992041809496,
+  "crest": 10.482992172241211,
+  "centroid": 3131.0789471767166,
+  "flatness": 0.057119742035865784,
+  "sub100_share": 0.23163482546806335,
+  "lowest_pitch": 121.124267578125,
+  "harmonic_share": 0.6955304741859436,
+  "clean_share": 0.009280742459396751,
+  "minor_share": -0.16955388581258446,
+  "chord_rate": 1.7997877801256994,
+  "repetitiveness": 0.8533571362495422,
+  "vocal_share": 0.13854071497917175,
+  "vocal_voiced": 0.6870813397129186,
+  "song_length": 411.213
+ }
+}

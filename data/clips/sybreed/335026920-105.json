@@ -1,0 +1,32 @@
+{
+ "id": "sybreed/335026920-105",
+ "band": "sybreed",
+ "title": "Killjoy",
+ "source": "itunes",
+ "album": "The Pulse of Awakening",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.9784373030112015,
+  "tempo_var": 13.340904123288247,
+  "low_onset_rate": 6.281518207826213,
+  "lufs": -8.882089739883005,
+  "rms_dbfs": -7.818916749750558,
+  "crest": 7.818917274475098,
+  "centroid": 2405.902943715249,
+  "flatness": 0.025573721155524254,
+  "sub100_share": 0.5447638630867004,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.7585880756378174,
+  "clean_share": 0.05430566330488751,
+  "minor_share": -0.022687040280962134,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.9019342064857483,
+  "vocal_share": 0.09496649354696274,
+  "vocal_voiced": 0.6395209580838324,
+  "song_length": 291.624
+ }
+}

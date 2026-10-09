@@ -1,0 +1,32 @@
+{
+ "id": "stryper/1516987654-106",
+ "band": "stryper",
+ "title": "How to Fly",
+ "source": "itunes",
+ "album": "Even the Devil Believes",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.7755933908742665,
+  "tempo_var": 7.392279826310375,
+  "low_onset_rate": 5.880570237113902,
+  "lufs": -8.767110675182925,
+  "rms_dbfs": -8.802889317770195,
+  "crest": 8.802889823913574,
+  "centroid": 2725.2880658711215,
+  "flatness": 0.03623288869857788,
+  "sub100_share": 0.29597416520118713,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7640061974525452,
+  "clean_share": 0.0,
+  "minor_share": -0.15694006331166543,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.7284854054450989,
+  "vocal_share": 0.2520277202129364,
+  "vocal_voiced": 0.8434303697875688,
+  "song_length": 249.828
+ }
+}

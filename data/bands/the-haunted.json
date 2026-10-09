@@ -1,0 +1,127 @@
+{
+ "slug": "the-haunted",
+ "name": "The Haunted",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1045281972,
+  "deezer": 1246,
+  "spotify": "2WLmgv66Uq4vt2i36vwkAq"
+ },
+ "metadata": {
+  "formed": 1996,
+  "split": null,
+  "country": "SE",
+  "status": "active",
+  "members": 5,
+  "past_members": 4,
+  "full_lengths": 10,
+  "genre": "Melodic Death/Thrash/Groove Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 14654,
+  "themes": "Violence, Politics, Inner struggles",
+  "release_year": 2005
+ },
+ "partial": false,
+ "clips": [
+  "the-haunted/44387700-106",
+  "the-haunted/45445612-107",
+  "the-haunted/63617937-107",
+  "the-haunted/1056448125-106",
+  "the-haunted/1056482979-106",
+  "the-haunted/1056440072-107",
+  "the-haunted/1249415327-106",
+  "the-haunted/1799000258-106",
+  "the-haunted/44387700-107",
+  "the-haunted/45445612-105",
+  "the-haunted/63617937-106",
+  "the-haunted/1056448125-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 112.34714673913044,
+   "iqr": 20.388303103146853
+  },
+  "onset_rate": {
+   "median": 5.178911288367357,
+   "iqr": 1.7824547136891375
+  },
+  "tempo_var": {
+   "median": 7.939161149563585,
+   "iqr": 12.852113068710318
+  },
+  "low_onset_rate": {
+   "median": 6.689162561494837,
+   "iqr": 0.8937798513795281
+  },
+  "lufs": {
+   "median": -8.130668640846793,
+   "iqr": 1.0724221692579805
+  },
+  "rms_dbfs": {
+   "median": -7.707065873108402,
+   "iqr": 0.9281994290831683
+  },
+  "crest": {
+   "median": 7.707066297531128,
+   "iqr": 0.9281989336013794
+  },
+  "centroid": {
+   "median": 2637.0884816283574,
+   "iqr": 190.85478811208213
+  },
+  "flatness": {
+   "median": 0.037863437086343765,
+   "iqr": 0.013569742441177368
+  },
+  "sub100_share": {
+   "median": 0.2949816882610321,
+   "iqr": 0.18853161484003067
+  },
+  "lowest_pitch": {
+   "median": 63.2537841796875,
+   "iqr": 14.13116455078125
+  },
+  "harmonic_share": {
+   "median": 0.7690079808235168,
+   "iqr": 0.14443789422512054
+  },
+  "clean_share": {
+   "median": 0.0015515903801396431,
+   "iqr": 0.009683039965152216
+  },
+  "minor_share": {
+   "median": -0.024317918086364243,
+   "iqr": 0.22701809128051056
+  },
+  "chord_rate": {
+   "median": 1.8182193434669887,
+   "iqr": 0.6765997005770257
+  },
+  "repetitiveness": {
+   "median": 0.8843105435371399,
+   "iqr": 0.04830197989940643
+  },
+  "vocal_share": {
+   "median": 0.09695961326360703,
+   "iqr": 0.10143125429749489
+  },
+  "vocal_voiced": {
+   "median": 0.13687150837988826,
+   "iqr": 0.21152005652390612
+  },
+  "song_length": {
+   "median": 208.188,
+   "iqr": 71.5435
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

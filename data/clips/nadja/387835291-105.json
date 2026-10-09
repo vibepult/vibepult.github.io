@@ -1,0 +1,32 @@
+{
+ "id": "nadja/387835291-105",
+ "band": "nadja",
+ "title": "SUN5earthquake",
+ "source": "itunes",
+ "album": "Under the Jaguar Sun",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 4.310190685157349,
+  "tempo_var": 4.687500962913108,
+  "low_onset_rate": 8.186021068709692,
+  "lufs": -9.213947941040425,
+  "rms_dbfs": -7.877092099791064,
+  "crest": 7.877091884613037,
+  "centroid": 1892.1639270925862,
+  "flatness": 0.01104001235216856,
+  "sub100_share": 0.3735934793949127,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.9036548733711243,
+  "clean_share": 0.04034134988363072,
+  "minor_share": -0.31971441670540834,
+  "chord_rate": 1.4367302283857828,
+  "repetitiveness": 0.6045398712158203,
+  "vocal_share": 8.950784831540659e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 925.64
+ }
+}

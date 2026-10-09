@@ -1,0 +1,32 @@
+{
+ "id": "panzerchrist/1686103067-103",
+ "band": "panzerchrist",
+ "title": "Last Of A Kind",
+ "source": "itunes",
+ "album": "Last Of A Kind",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 8.119196406924308,
+  "tempo_var": 10.964477361740526,
+  "low_onset_rate": 10.357822576734714,
+  "lufs": -11.857932710366986,
+  "rms_dbfs": -10.546803789659476,
+  "crest": 10.546804428100586,
+  "centroid": 2465.7825273409862,
+  "flatness": 0.02294423244893551,
+  "sub100_share": 0.6098409295082092,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8768662214279175,
+  "clean_share": 0.0,
+  "minor_share": -0.07601484496719857,
+  "chord_rate": 0.16706165446346313,
+  "repetitiveness": 0.9916888475418091,
+  "vocal_share": 3.009582201229932e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 493.853
+ }
+}

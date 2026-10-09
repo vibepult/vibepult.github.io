@@ -1,0 +1,32 @@
+{
+ "id": "anthropia/962266862-108",
+ "band": "anthropia",
+ "title": "Crawling Chaos",
+ "source": "itunes",
+ "album": "Non-Euclidean Spaces",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.009479707123115,
+  "tempo_var": 26.181361674948317,
+  "low_onset_rate": 5.546446928186976,
+  "lufs": -9.545877183571507,
+  "rms_dbfs": -8.48370670544124,
+  "crest": 8.4837064743042,
+  "centroid": 2384.5738232068356,
+  "flatness": 0.025282535701990128,
+  "sub100_share": 0.41870948672294617,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.8008611798286438,
+  "clean_share": 0.1078355314197052,
+  "minor_share": -0.033745675630549754,
+  "chord_rate": 1.336493235707705,
+  "repetitiveness": 0.8094478845596313,
+  "vocal_share": 1.367721506539965e-05,
+  "vocal_voiced": 1.0,
+  "song_length": 381.69
+ }
+}

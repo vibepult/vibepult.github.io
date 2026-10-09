@@ -1,0 +1,32 @@
+{
+ "id": "sunn-o/928502285-101",
+ "band": "sunn-o",
+ "title": "Mocking Solemnity",
+ "source": "itunes",
+ "album": "Flight of the Behemoth",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.513034597294284,
+  "tempo_var": 5.09185077989776,
+  "low_onset_rate": 9.388864980846627,
+  "lufs": -8.532708273997454,
+  "rms_dbfs": -4.0353494137073795,
+  "crest": 4.0353498458862305,
+  "centroid": 637.2418918880575,
+  "flatness": 0.00010799050505738705,
+  "sub100_share": 0.773695170879364,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.964884877204895,
+  "clean_share": 1.0,
+  "minor_share": -0.06240909833937447,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.5196032524108887,
+  "vocal_share": 9.528945952297363e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 552.107
+ }
+}

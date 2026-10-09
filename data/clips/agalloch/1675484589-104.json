@@ -1,0 +1,32 @@
+{
+ "id": "agalloch/1675484589-104",
+ "band": "agalloch",
+ "title": "I Am the Wooden Doors (2016 - Remaster)",
+ "source": "itunes",
+ "album": "The Mantle",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.466666666666667,
+  "tempo_var": 8.331706305021553,
+  "low_onset_rate": 7.433333333333334,
+  "lufs": -10.059245473188774,
+  "rms_dbfs": -8.92076017328847,
+  "crest": 8.920760154724121,
+  "centroid": 2531.2225534976114,
+  "flatness": 0.024533256888389587,
+  "sub100_share": 0.5951268672943115,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8913686275482178,
+  "clean_share": 0.02089783281733746,
+  "minor_share": 0.0032361325489178028,
+  "chord_rate": 1.9333333333333333,
+  "repetitiveness": 0.8697826862335205,
+  "vocal_share": 3.8613669062215195e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 371.2
+ }
+}

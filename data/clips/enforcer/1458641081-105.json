@@ -1,0 +1,32 @@
+{
+ "id": "enforcer/1458641081-105",
+ "band": "enforcer",
+ "title": "Take Me Out of This Nightmare",
+ "source": "itunes",
+ "album": "Death by Fire",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 1.169431581244242,
+  "tempo_var": 2.873860987091285,
+  "low_onset_rate": 7.751660767104689,
+  "lufs": -12.213377544906193,
+  "rms_dbfs": -13.622015435328777,
+  "crest": 13.37356948852539,
+  "centroid": 2397.4093392822024,
+  "flatness": 0.019644103944301605,
+  "sub100_share": 0.012443754822015762,
+  "lowest_pitch": 166.88232421875,
+  "harmonic_share": 0.8789035081863403,
+  "clean_share": 0.3460046547711404,
+  "minor_share": 0.12154271811105855,
+  "chord_rate": 2.1049768462396354,
+  "repetitiveness": 0.8701176643371582,
+  "vocal_share": 1.814179313441855e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 258.109
+ }
+}

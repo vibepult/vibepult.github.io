@@ -1,0 +1,32 @@
+{
+ "id": "a-dark-halo/1686540496-106",
+ "band": "a-dark-halo",
+ "title": "It Never Sleeps",
+ "source": "itunes",
+ "album": "Omnibus One",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 7.016589487465451,
+  "tempo_var": 10.85508603935252,
+  "low_onset_rate": 8.520144377636619,
+  "lufs": -7.328494683746027,
+  "rms_dbfs": -5.827987454749328,
+  "crest": 5.827987194061279,
+  "centroid": 2586.4049245551364,
+  "flatness": 0.029934577643871307,
+  "sub100_share": 0.6235423684120178,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.8500699996948242,
+  "clean_share": 0.05120248254460822,
+  "minor_share": 0.11353980995240076,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.8695071935653687,
+  "vocal_share": 0.16054293513298035,
+  "vocal_voiced": 0.04549854791868345,
+  "song_length": 241.714
+ }
+}

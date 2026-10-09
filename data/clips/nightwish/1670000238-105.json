@@ -1,0 +1,32 @@
+{
+ "id": "nightwish/1670000238-105",
+ "band": "nightwish",
+ "title": "Two For Tragedy",
+ "source": "itunes",
+ "album": "Wishmaster",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.2333333333333334,
+  "tempo_var": 15.326159780082222,
+  "low_onset_rate": 5.733333333333333,
+  "lufs": -16.132377666151655,
+  "rms_dbfs": -15.651599474593649,
+  "crest": 15.577861785888672,
+  "centroid": 1510.4789635460031,
+  "flatness": 0.0031577961053699255,
+  "sub100_share": 0.011234129779040813,
+  "lowest_pitch": 129.19921875,
+  "harmonic_share": 0.9654886722564697,
+  "clean_share": 0.8962848297213623,
+  "minor_share": -0.060195965077714964,
+  "chord_rate": 0.9333333333333333,
+  "repetitiveness": 0.5111767649650574,
+  "vocal_share": 0.3869848847389221,
+  "vocal_voiced": 0.9026798307475318,
+  "song_length": 230.573
+ }
+}

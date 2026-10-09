@@ -1,0 +1,32 @@
+{
+ "id": "armored-saint/54262413-106",
+ "band": "armored-saint",
+ "title": "Damaged",
+ "source": "itunes",
+ "album": "Revelation",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.8734604567715656,
+  "tempo_var": 3.359899504162293,
+  "low_onset_rate": 2.606161809630025,
+  "lufs": -10.248176071893807,
+  "rms_dbfs": -10.19505656660074,
+  "crest": 10.195055961608887,
+  "centroid": 2475.675933670693,
+  "flatness": 0.027784893289208412,
+  "sub100_share": 0.16788159310817719,
+  "lowest_pitch": 115.740966796875,
+  "harmonic_share": 0.7081975936889648,
+  "clean_share": 0.1225756400310318,
+  "minor_share": -0.3102732987707303,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.8190470933914185,
+  "vocal_share": 0.287555068731308,
+  "vocal_voiced": 0.7890433360588717,
+  "song_length": 390.8
+ }
+}

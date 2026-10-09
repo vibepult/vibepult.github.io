@@ -1,0 +1,32 @@
+{
+ "id": "elyose/1777042310-104",
+ "band": "elyose",
+ "title": "Théogyne 2.0",
+ "source": "itunes",
+ "album": "Évidence",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.099922903659809,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.599900228265635,
+  "lufs": -12.905760735882904,
+  "rms_dbfs": -12.197804021542824,
+  "crest": 12.19780445098877,
+  "centroid": 2730.5184921266027,
+  "flatness": 0.036723166704177856,
+  "sub100_share": 0.3885132074356079,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7822302579879761,
+  "clean_share": 0.07347254447022429,
+  "minor_share": 0.14862379508052698,
+  "chord_rate": 1.5999758129128812,
+  "repetitiveness": 0.8963803052902222,
+  "vocal_share": 0.20761045813560486,
+  "vocal_voiced": 0.7764265668849392,
+  "song_length": 245.593
+ }
+}

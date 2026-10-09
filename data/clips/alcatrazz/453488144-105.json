@@ -1,0 +1,32 @@
+{
+ "id": "alcatrazz/453488144-105",
+ "band": "alcatrazz",
+ "title": "Kree Nakoorie",
+ "source": "itunes",
+ "album": "No Parole from Rock 'N' Roll (Bonus Track Version)",
+ "year": 1983,
+ "itunes_year": 1983,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.266602167767683,
+  "tempo_var": 8.333666827383556,
+  "low_onset_rate": 4.966591585917069,
+  "lufs": -17.082265650145832,
+  "rms_dbfs": -17.05254123415093,
+  "crest": 16.11669158935547,
+  "centroid": 2631.783733079405,
+  "flatness": 0.030818480998277664,
+  "sub100_share": 0.16383010149002075,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8000509738922119,
+  "clean_share": 0.08894044856921887,
+  "minor_share": 0.09550842044403557,
+  "chord_rate": 0.8999863947634957,
+  "repetitiveness": 0.7422005534172058,
+  "vocal_share": 0.16909298300743103,
+  "vocal_voiced": 0.6777996070726916,
+  "song_length": 370.733
+ }
+}

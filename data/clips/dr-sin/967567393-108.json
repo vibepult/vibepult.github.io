@@ -1,0 +1,32 @@
+{
+ "id": "dr-sin/967567393-108",
+ "band": "dr-sin",
+ "title": "Set Me Free",
+ "source": "itunes",
+ "album": "Intactus",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 69.83741554054055,
+  "onset_rate": 4.176541361586578,
+  "tempo_var": 3.824661038921739,
+  "low_onset_rate": 3.641944067303496,
+  "lufs": -11.857341422686494,
+  "rms_dbfs": -12.321135527453691,
+  "crest": 12.321134567260742,
+  "centroid": 2954.770906916149,
+  "flatness": 0.04339951276779175,
+  "sub100_share": 0.23388271033763885,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.6579997539520264,
+  "clean_share": 0.021722265321955005,
+  "minor_share": -0.04660116918954538,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.8718801140785217,
+  "vocal_share": 0.29813599586486816,
+  "vocal_voiced": 0.6923950056753689,
+  "song_length": 249.8
+ }
+}

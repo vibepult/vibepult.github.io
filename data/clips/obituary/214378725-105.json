@@ -1,0 +1,32 @@
+{
+ "id": "obituary/214378725-105",
+ "band": "obituary",
+ "title": "Back Inside",
+ "source": "itunes",
+ "album": "Frozen In Time",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 6.832527683810525,
+  "tempo_var": 3.100042649084987,
+  "low_onset_rate": 8.698974270607547,
+  "lufs": -8.396634602189902,
+  "rms_dbfs": -7.197340037007699,
+  "crest": 7.1973395347595215,
+  "centroid": 2094.073325761526,
+  "flatness": 0.017045510932803154,
+  "sub100_share": 0.41968971490859985,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.7422918677330017,
+  "clean_share": 0.06264501160092807,
+  "minor_share": 0.10591651326666868,
+  "chord_rate": 2.566364056845905,
+  "repetitiveness": 0.9107656478881836,
+  "vocal_share": 0.07815352827310562,
+  "vocal_voiced": 0.5446096654275093,
+  "song_length": 162.88
+ }
+}

@@ -1,0 +1,1400 @@
+# The PoC pool: 16 bands at the poles, Children of Bodom, and six bands from the re-sealed ground-truth sheet. IDs verified 2026-10-05 (iTunes search, Deezer search, Spotify oEmbed, MA search).
+# short: tick label, at most 9 characters (D11).
+# hand: features 26 (persona) and 27 (camp), 0 to 1, drafted by Claude, corrected by the user.
+# vocals: optional override of the genre prior (harsh / mixed / clean); feature 17 is a prior, never a gate input.
+# metadata: hand-entered Metal Archives field set (D3), used instead of scraping when present.
+bands:
+  - {slug: elderwind, name: Elderwind, short: Elderwind, itunes: 1375371194, deezer: 14619269,
+     spotify: 3Yr3yzpgJUMfM8LVvBezXj, ma: Elderwind/3540355550, hand: {persona: 0.1, camp: 0.0}}
+  - {slug: agalloch, name: Agalloch, short: Agalloch, itunes: 78310375, deezer: 10446,
+     spotify: 3Meu28o8P5z9Zjm6NTGihT, ma: Agalloch/305, vocals: mixed, hand: {persona: 0.1, camp: 0.0}}
+  - {slug: alcest, name: Alcest, short: Alcest, itunes: 260872620, deezer: 16329,
+     spotify: 0d5ZwMtCer8dQdOPAgWhe7, ma: Alcest/19701, vocals: mixed, hand: {persona: 0.1, camp: 0.0}}
+  - {slug: mayhem, name: Mayhem, short: Mayhem, itunes: 48820563, deezer: 6696,
+     spotify: 0dR10i73opHXuRuLbgxltM, ma: Mayhem/67, hand: {persona: 0.8, camp: 0.2}}
+  - {slug: gorgoroth, name: Gorgoroth, short: Gorgoroth, itunes: 16339946, deezer: 11030,
+     spotify: 1Dt7cfRzxM8qPVa82jX9y5, ma: Gorgoroth/770, hand: {persona: 0.8, camp: 0.3}}
+  - {slug: cannibal-corpse, name: Cannibal Corpse, short: Cannibal, itunes: 28692971, deezer: 2999,
+     spotify: 0yLwGBQiBqhXOvmTfH2A7n, ma: Cannibal_Corpse/186, hand: {persona: 0.3, camp: 0.4}}
+  - {slug: anaal-nathrakh, name: Anaal Nathrakh, short: Nathrakh, itunes: 72869936, deezer: 3270,
+     spotify: 7vrrJ5YlL3I8XUrh1ktGJV, ma: Anaal_Nathrakh/1314, hand: {persona: 0.2, camp: 0.1}}
+  - {slug: metallica, name: Metallica, short: Metallica, itunes: 3996865, deezer: 119,
+     spotify: 2ye2Wgw4gimLv2eAKyk1NB, ma: Metallica/125, hand: {persona: 0.1, camp: 0.1}}
+  - {slug: iron-maiden, name: Iron Maiden, short: Maiden, itunes: 546381, deezer: 931,
+     spotify: 6mdiAmATAx73kdxrNrnlao, ma: Iron_Maiden/25, hand: {persona: 0.6, camp: 0.5}}
+  - {slug: black-sabbath, name: Black Sabbath, short: Sabbath, itunes: 165907, deezer: 647,
+     spotify: 5M52tdBnJaKSvOpJGz8mfZ, ma: Black_Sabbath/99, hand: {persona: 0.3, camp: 0.2}}
+  - {slug: nightwish, name: Nightwish, short: Nightwish, itunes: 2898807, deezer: 1026,
+     spotify: 2NPduAUeLVsfIauhRwuft1, ma: Nightwish/39, hand: {persona: 0.4, camp: 0.4}}
+  - {slug: rhapsody-of-fire, name: Rhapsody of Fire, short: Rhapsody, itunes: 188144698, deezer: 12061,
+     spotify: 3IjLXN4eSksdGj8uDE4Jm1, ma: Rhapsody_of_Fire/32, hand: {persona: 0.6, camp: 0.8}}
+  - {slug: ghost, name: Ghost, short: Ghost, itunes: 600730426, deezer: 8506054,
+     spotify: 1Qp56T7n950O3EGMsSl81D, ma: Ghost/3540309157, hand: {persona: 1.0, camp: 0.9}}
+  - {slug: candlemass, name: Candlemass, short: Candlemas, itunes: 64944077, deezer: 72504,
+     spotify: 7zDtfSB0AOZWhpuAHZIOw5, ma: Candlemass/34, vocals: clean, hand: {persona: 0.4, camp: 0.3}}
+  - slug: rammstein
+    name: Rammstein
+    short: Rammstein
+    itunes: 408932
+    deezer: 464
+    spotify: 6wWVKhxIU2cEi0K81v7HvP
+    ma: null  # Metal Archives does not list Rammstein; hand-entered below (D3 path)
+    hand: {persona: 0.8, camp: 0.8}
+    metadata:
+      genre: Industrial Metal, Neue Deutsche Härte
+      country: DE
+      formed: 1994
+      split: null
+      status: active
+      members: 6
+      past_members: 0
+      themes: Sex, Violence, Taboo, Irony
+      vocals: clean
+      albums:
+        - {title: Herzeleid, type: Full-length, year: 1995}
+        - {title: Sehnsucht, type: Full-length, year: 1997}
+        - {title: Mutter, type: Full-length, year: 2001}
+        - {title: "Reise, Reise", type: Full-length, year: 2004}
+        - {title: Rosenrot, type: Full-length, year: 2005}
+        - {title: Liebe ist für alle da, type: Full-length, year: 2009}
+        - {title: Rammstein, type: Full-length, year: 2019}
+        - {title: Zeit, type: Full-length, year: 2022}
+  - {slug: meshuggah, name: Meshuggah, short: Meshuggah, itunes: 17304969, deezer: 2175,
+     spotify: 3ggwAqZD3lyT2sbovlmfQY, ma: Meshuggah/21, vocals: harsh, hand: {persona: 0.0, camp: 0.0}}
+  # 17th band, added 2026-10-05 so the user's ground-truth row for it is scored.
+  - {slug: children-of-bodom, name: Children of Bodom, short: Bodom, itunes: 13550318, deezer: 530,
+     spotify: 1xUhNgw4eJDZfvumIpcz1B, ma: Children_of_Bodom/22, hand: {persona: 0.3, camp: 0.3}}
+  # Six more, added 2026-10-05 with the user's re-sealed ground-truth sheet.
+  - {slug: within-temptation, name: Within Temptation, short: Within T., itunes: 2898551, deezer: 1073,
+     spotify: 3hE8S8ohRErocpkY7uJW4a, ma: Within_Temptation/1006, vocals: clean, hand: {persona: 0.4, camp: 0.4}}
+  - {slug: mastodon, name: Mastodon, short: Mastodon, itunes: 65922937, deezer: 9267,
+     spotify: 1Dvfqq39HxvCJ3GvfeIFuT, ma: Mastodon/1361, vocals: mixed, hand: {persona: 0.2, camp: 0.2}}
+  - {slug: megadeth, name: Megadeth, short: Megadeth, itunes: 488289, deezer: 3487,
+     spotify: 1Yox196W7bzVNZI7RBaPnf, ma: Megadeth/138, hand: {persona: 0.3, camp: 0.2}}
+  - {slug: lamb-of-god, name: Lamb of God, short: LambOfGod, itunes: 18758452, deezer: 2216,
+     spotify: 3JFsVIxOn7STeilPICkkB2, ma: Lamb_of_God/59, vocals: harsh, hand: {persona: 0.1, camp: 0.0}}
+  - {slug: slayer, name: Slayer, short: Slayer, itunes: 414425, deezer: 3048,
+     spotify: 1IQ2e1buppatiN1bxUVkrk, ma: Slayer/72, vocals: mixed, hand: {persona: 0.3, camp: 0.2}}
+  - {slug: napalm-death, name: Napalm Death, short: Napalm, itunes: 18870024, deezer: 5110,
+     spotify: 3UqRgrDIQ208yNGiWKRMNt, ma: Napalm_Death/219, hand: {persona: 0.0, camp: 0.1}}
+  # corner: war-blackened; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 6456, itunes: 42255142, ma: _/263, name: Behemoth, short: Behemoth, slug: behemoth, spotify: 1MK0sGeyTNkbefYGj673e9, hand: {persona: 0.7, camp: 0.2}}
+  # corner: war-blackened; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1061749, itunes: 78941907, ma: _/66, name: Zyklon, short: Zyklon, slug: zyklon, spotify: 5WQdsYRdeVnsyXeCCSoKLC, hand: {persona: 0.3, camp: 0.1}}
+  # corner: war-blackened; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 117263, itunes: 42365401, ma: _/2707, name: Akercocke, short: Akercocke, slug: akercocke, spotify: 0YAOC9q7XHpKplKYf7FMSp, hand: {persona: 0.5, camp: 0.4}}
+  # corner: war-blackened; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 12943, itunes: 205076827, ma: _/2864, name: Panzerchrist, short: Panzerch., slug: panzerchrist, spotify: 3Fh6l5AkN3JYmUMIRw86PI, hand: {persona: 0.3, camp: 0.2}}
+  # corner: war-blackened; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 6298864, itunes: 370399200, ma: _/20242, name: Teitanblood, short: Teitanbl., slug: teitanblood, spotify: 7LPrGEbf01106GJ14w6yhW, hand: {persona: 0.6, camp: 0.1}}
+  # corner: war-blackened; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 57417, itunes: 1449759051, ma: _/6408, name: Revenge, short: Revenge, slug: revenge, spotify: 50U1jrMV6FoddCGhjovDpG, hand: {persona: 0.5, camp: 0.1}}
+  # corner: war-blackened; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 500120, itunes: 350979321, ma: _/70207, name: Diocletian, short: Diocleti., slug: diocletian, spotify: 6kEQuZgj4hm2mE2ZfZ6mcD, hand: {persona: 0.3, camp: 0.1}}
+  # corner: war-blackened; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 95533, itunes: 279372831, ma: _/3583, name: Impiety, short: Impiety, slug: impiety, spotify: 50takIb0sgbp0hfA0HoUWf, hand: {persona: 0.6, camp: 0.2}}
+  # corner: war-blackened; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 53549012, itunes: 715150445, ma: _/3540369953, name: Begerith, short: Begerith, slug: begerith, spotify: 7gxE9KvBYn6AV533pL0pOV, hand: {persona: 0.3, camp: 0.1}}
+  # corner: war-blackened; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1613615, itunes: 166998883, ma: _/53327, name: The Deviant, short: Deviant, slug: the-deviant, spotify: 0MQxDqWU0XUv9pNUsINUP7, hand: {persona: 0.4, camp: 0.1}}
+  # corner: war-blackened; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 62639, itunes: 166971288, ma: _/2782, name: Black Witchery, short: Witchery, slug: black-witchery, spotify: 3RXj9fwr1K643YKUUaW0MP, hand: {persona: 0.5, camp: 0.2}}
+  # corner: post-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 171937, itunes: 304770047, ma: _/68417, name: Lifelover, short: Lifelover, slug: lifelover, spotify: 1MVngxYrcAvKqx3os2rrRE, hand: {persona: 0.2, camp: 0.3}}
+  # corner: post-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 337283, itunes: 146055657, ma: _/35741, name: Wolves in the Throne Room, short: Wolves, slug: wolves-in-the-throne-room, spotify: 5lqyPWmAivV75tII5Vxpet, hand: {persona: 0.2, camp: 0.0}}
+  # corner: post-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 6518643, itunes: 871354011, ma: _/3540354014, name: Harakiri for the Sky, short: Harakiri, slug: harakiri-for-the-sky, spotify: 58KBq6qkQnfWYRqCjffQQq, hand: {persona: 0.1, camp: 0.0}}
+  # corner: post-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 503190, itunes: 328011350, ma: _/3540287759, name: Liturgy, short: Liturgy, slug: liturgy, spotify: 5PIuMlRY9PSLUSFzs6lQu1, hand: {persona: 0.3, camp: 0.1}}
+  # corner: post-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1092273, itunes: 478736947, ma: _/19596, name: Urfaust, short: Urfaust, slug: urfaust, spotify: 6D3oL9YvZBgd3IVFWUJ2BI, hand: {persona: 0.5, camp: 0.2}}
+  # corner: post-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 9741138, itunes: 1451198653, ma: _/3540372489, name: Ghost Bath, short: Bath, slug: ghost-bath, spotify: 37Vukf7o6CBPG68BRDpStb, hand: {persona: 0.5, camp: 0.1}}
+  # corner: post-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1682025, itunes: 390170936, ma: _/118049, name: Lantlôs, short: Lantlôs, slug: lantlos, spotify: 1cbBzQxiKcZCsit68iTbTJ, hand: {persona: 0.1, camp: 0.0}}
+  # corner: post-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 14223235, itunes: 1354016086, ma: _/3540447815, name: Feminazgûl, short: Feminazg., slug: feminazgul, spotify: 4uYAaVxjz3cqYj7P57le8j, hand: {persona: 0.6, camp: 0.2}}
+  # corner: post-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1697739, itunes: 293296859, ma: _/3540386032, name: Myrkur, short: Myrkur, slug: myrkur, spotify: 3544ImlskUwZqWJTmqWUsa, hand: {persona: 0.6, camp: 0.1}}
+  # corner: post-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 10928610, itunes: 1148007557, ma: _/3540418327, name: Ultar, short: Ultar, slug: ultar, spotify: 6qBmMTIQANnluSglXkcRV0, hand: {persona: 0.2, camp: 0.1}}
+  # corner: post-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1425363, itunes: 361405732, ma: _/3540302963, name: An Autumn for Crippled Children, short: Crippled, slug: an-autumn-for-crippled-children, spotify: 7yMpYMZTr6Hm1Dm5CR0CRZ, hand: {persona: 0.1, camp: 0.0}}
+  # corner: post-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5829659, itunes: 383057189, ma: _/99197, name: Aquilus, short: Aquilus, slug: aquilus, spotify: 1AKQ12On2ydAN0jykcB929, hand: {persona: 0.1, camp: 0.0}}
+  # corner: post-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 12591264, itunes: 1246628076, ma: _/108653, name: Blaze of Sorrow, short: Sorrow, slug: blaze-of-sorrow, spotify: 3WdAbe7LcgPuckuALu2co5, hand: {persona: 0.2, camp: 0.1}}
+  # corner: post-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1425364, itunes: 461029599, ma: _/85210, name: Deadly Carnage, short: Carnage, slug: deadly-carnage, spotify: 6Smmabcnt0gxJ3PnXAFq1L, hand: {persona: 0.4, camp: 0.1}}
+  # corner: post-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 11605973, itunes: 1080870365, ma: _/3540407768, name: Eldamar, short: Eldamar, slug: eldamar, spotify: 0mZRMbP7xU91E1FGvKbxhF, hand: {persona: 0.3, camp: 0.1}}
+  # corner: post-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 554786, itunes: 1441043590, ma: _/3540544807, name: Jord, short: Jord, slug: jord, spotify: 0Vh3H2BnsDAi4K2FeCjin3, hand: {persona: 0.1, camp: 0.0}}
+  # corner: post-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 11217730, itunes: 1166435443, ma: _/3540409493, name: L'Homme Absurde, short: L'Homme, slug: l-homme-absurde, spotify: 2W8McKrGJk3OIuIyrIypJk, hand: {persona: 0.1, camp: 0.0}}
+  # corner: post-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5415281, itunes: 780116048, ma: _/3540424136, name: Violet Cold, short: Violet, slug: violet-cold, spotify: 5eh1n96NC6g34nPqpIItIo, hand: {persona: 0.2, camp: 0.1}}
+  # corner: post-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 10278304, itunes: 1109095869, ma: _/3540358951, name: Toluca, short: Toluca, slug: toluca, spotify: 134xkjXaJnY1KUDESQI0f0, hand: {persona: 0.1, camp: 0.1}}
+  # corner: post-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 74841472, itunes: 1481766376, ma: _/3540457742, name: Asphodèle, short: Asphodèle, slug: asphodele, spotify: 3fKfcUp4FmLZx7JFSVIDjz, hand: {persona: 0.2, camp: 0.0}}
+  # corner: post-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 317637391, itunes: 1808009059, ma: _/3540554271, name: Irritert, short: Irritert, slug: irritert, spotify: 3ZcbsTnLrENbifkiyCjHjA, hand: {persona: 0.2, camp: 0.0}}
+  # corner: post-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 76777892, itunes: 1536615772, ma: _/3540543380, name: Minuala, short: Minuala, slug: minuala, spotify: 5AhN3cikCXyZMwhw3drxd9, hand: {persona: 0.2, camp: 0.1}}
+  # corner: post-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1415381, itunes: 457675780, ma: _/3540329465, name: Acrosome, short: Acrosome, slug: acrosome, spotify: 192W25y4CLblS3VMcRJFKQ, hand: {persona: 0.1, camp: 0.1}}
+  # corner: post-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 10504963, itunes: 1776756631, ma: _/3540554183, name: The Lonely, short: Lonely, slug: the-lonely, spotify: 0Qe6mZufp6ggvzsgG3w3ca, hand: {persona: 0.3, camp: 0.1}}
+  # corner: symphonic-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 123, itunes: 15621683, ma: _/69, name: Dimmu Borgir, short: Borgir, slug: dimmu-borgir, spotify: 6e8ISIsI7UQZPyEorefAhK, hand: {persona: 0.7, camp: 0.4}}
+  # corner: symphonic-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 257491, itunes: 279550516, ma: _/28907, name: Carach Angren, short: Carach, slug: carach-angren, spotify: 7sJC2WkTzn7gqUhVfP9sOm, hand: {persona: 0.6, camp: 0.4}}
+  # corner: symphonic-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3218, itunes: 160468465, ma: _/2171, name: Anorexia Nervosa, short: Anorexia, slug: anorexia-nervosa, spotify: 1hLFppCfgvSTH9C6ftWOoU, hand: {persona: 0.4, camp: 0.2}}
+  # corner: symphonic-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 15760, itunes: 15866087, ma: _/1019, name: Graveworm, short: Graveworm, slug: graveworm, spotify: 4XJZ7zUJzQuayqyAVJowKX, hand: {persona: 0.5, camp: 0.3}}
+  # corner: symphonic-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 65398, itunes: 16145392, ma: _/412, name: Agathodaimon, short: Agathoda., slug: agathodaimon, spotify: 4wGWp9UJ9wHLNYddWbB0sF, hand: {persona: 0.5, camp: 0.3}}
+  # corner: symphonic-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 271390, itunes: 14929269, ma: _/1390, name: Troll, short: Troll, slug: troll, spotify: 1ZNhnlwVLcTwTc6U32h2gU, hand: {persona: 0.6, camp: 0.5}}
+  # corner: symphonic-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 7511606, itunes: 314020560, ma: _/78716, name: Welicoruss, short: Welicoru., slug: welicoruss, spotify: 5u2CVxsCcq5rfB8J7ClAAL, hand: {persona: 0.3, camp: 0.1}}
+  # corner: symphonic-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1169231, itunes: 303391833, ma: _/2379, name: Enslavement of Beauty, short: Beauty, slug: enslavement-of-beauty, spotify: 776kaEvP1Qw3d7vnBHHRJx, hand: {persona: 0.3, camp: 0.2}}
+  # corner: symphonic-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 112844, itunes: 219098445, ma: _/3230, name: Shade Empire, short: Empire, slug: shade-empire, spotify: 7vdH23uIvKDe36XYLQZTeH, hand: {persona: 0.3, camp: 0.1}}
+  # corner: symphonic-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 107195, itunes: 35943427, ma: _/2042, name: Obtained Enslavement, short: Obtained, slug: obtained-enslavement, spotify: 1WivcWZchSUgoMru4LP3h9, hand: {persona: 0.5, camp: 0.1}}
+  # corner: symphonic-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 878634, itunes: 420940071, ma: _/3540323940, name: Saille, short: Saille, slug: saille, spotify: 04a7ooq8yn6IGkh2ohqoRY, hand: {persona: 0.5, camp: 0.2}}
+  # corner: symphonic-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 211964607, itunes: 1684533796, ma: _/3540525286, name: Paracrona, short: Paracrona, slug: paracrona, spotify: 51vPJuEsVUsm02Nsh4ND3m, hand: {persona: 0.4, camp: 0.2}}
+  # corner: symphonic-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 11167, itunes: 262657794, ma: _/5388, name: Dark Fortress, short: Fortress, slug: dark-fortress, spotify: 0hiccXRDVXl9sOZ4R7aNry, hand: {persona: 0.4, camp: 0.1}}
+  # corner: symphonic-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 299007, itunes: 159206808, ma: _/2129, name: Darzamat, short: Darzamat, slug: darzamat, spotify: 5DcOJF6u1g9rkQjG8duzti, hand: {persona: 0.4, camp: 0.3}}
+  # corner: symphonic-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 6897, itunes: 262531467, ma: _/3137, name: Sear Bliss, short: Bliss, slug: sear-bliss, spotify: 5h1vktUNKEYPDaQUUaOKAA, hand: {persona: 0.3, camp: 0.1}}
+  # corner: melodic-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 7372, itunes: 7024358, ma: _/183, name: Dissection, short: Dissecti., slug: dissection, spotify: 6qpmcQfxhmNxNMCJUrpHwe, hand: {persona: 0.6, camp: 0.1}}
+  # corner: melodic-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 415062, itunes: 137322225, ma: _/27072, name: Vreid, short: Vreid, slug: vreid, spotify: 2KvwC4Kmp2U8XnKr5Yr1hm, hand: {persona: 0.1, camp: 0.1}}
+  # corner: melodic-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 6064, itunes: 410068288, ma: _/1555, name: Woods of Ypres, short: Woods, slug: woods-of-ypres, spotify: 24dCDrr94SNSAREMJhBHCs, hand: {persona: 0.1, camp: 0.0}}
+  # corner: melodic-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 9024530, itunes: 1047599951, ma: _/3540377503, name: Suotana, short: Suotana, slug: suotana, spotify: 3hGRvDW3UnwxI5OIsfwEGx, hand: {persona: 0.2, camp: 0.1}}
+  # corner: melodic-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 124548, itunes: 263803266, ma: _/18930, name: Winterhorde, short: Winterho., slug: winterhorde, spotify: 0Y1fuYaUaYwwXnAndDoqwJ, hand: {persona: 0.3, camp: 0.1}}
+  # corner: war-blackened; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 142251, itunes: 1574095799, ma: _/1141, name: Blasphemy, short: Blasphemy, slug: blasphemy, spotify: 5Sl3XKbWHq6lL9u5d84Nac, hand: {persona: 0.7, camp: 0.3}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1095, itunes: 265766061, ma: _/88, name: Burzum, short: Burzum, slug: burzum, spotify: 7L6u6TyhjuwubrcojPeNgf, hand: {persona: 0.4, camp: 0.1}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 15775, itunes: 3222127, ma: _/128, name: Venom, short: Venom, slug: venom, spotify: 5fwaejlOHVBAw1KhIPPaQe, hand: {persona: 0.7, camp: 0.6}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 11054, itunes: 89837713, ma: _/184, name: Bathory, short: Bathory, slug: bathory, spotify: 6rBvjnvdsRxFRSrq1StGOM, hand: {persona: 0.4, camp: 0.2}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 7641, itunes: 112417640, ma: _/146, name: Darkthrone, short: Darkthro., slug: darkthrone, spotify: 7kWnE981vITXDnAD2cZmCV, hand: {persona: 0.6, camp: 0.6}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 7702, itunes: 15866288, ma: _/75, name: Immortal, short: Immortal, slug: immortal, spotify: 2mVTkiwfm4ic6DnHpmFq8K, hand: {persona: 0.8, camp: 0.6}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 4810, itunes: 20068200, ma: _/269, name: Celtic Frost, short: Celtic, slug: celtic-frost, spotify: 4ZISAmHmQUDCpv8xydqeKG, hand: {persona: 0.4, camp: 0.2}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5175, itunes: 78923932, ma: _/30, name: Emperor, short: Emperor, slug: emperor, spotify: 6jPWrSmxOd9mj7Xaj4EP2Y, hand: {persona: 0.6, camp: 0.1}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 7390, itunes: 79550945, ma: _/386, name: Marduk, short: Marduk, slug: marduk, spotify: 2lxB5NTcQXj7GGRR4xAVaH, hand: {persona: 0.5, camp: 0.2}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 122901, itunes: 283448581, ma: _/26171, name: Arkona, short: Arkona, slug: arkona, spotify: 6AJ9HQ2Ptp1WWEfBFvR5fF, hand: {persona: 0.7, camp: 0.2}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 4805, itunes: 6401430, ma: _/341, name: Satyricon, short: Satyricon, slug: satyricon, spotify: 221Rd0FvVxMx7eCbWqjiKd, hand: {persona: 0.6, camp: 0.2}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3266, itunes: 251500660, ma: _/104, name: Enslaved, short: Enslaved, slug: enslaved, spotify: 2HmtB6wVRRi3z0JwZHtkiD, hand: {persona: 0.2, camp: 0.1}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5602, itunes: 28441629, ma: _/314, name: Rotting Christ, short: Rotting, slug: rotting-christ, spotify: 7FhkwcO8Jd7BRWdllBpXBJ, hand: {persona: 0.3, camp: 0.2}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 7781, itunes: 209255933, ma: _/89, name: Moonsorrow, short: Moonsorr., slug: moonsorrow, spotify: 4PdaU6ArZ8JTZvCX9ZWuTI, hand: {persona: 0.3, camp: 0.1}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 7714, itunes: 256917288, ma: _/669, name: Dark Funeral, short: Funeral, slug: dark-funeral, spotify: 21ojeH5LNADIGzJKc3hIlE, hand: {persona: 0.7, camp: 0.3}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1867, itunes: 429949476, ma: _/1208, name: Ulver, short: Ulver, slug: ulver, spotify: 6bYFkBNvayh3nGqxcPp7Sv, hand: {persona: 0.2, camp: 0.1}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 4023, itunes: 72865924, ma: _/147, name: Carpathian Forest, short: Forest, slug: carpathian-forest, spotify: 0sFntmE9T1tiF6G6O6Lm3H, hand: {persona: 0.6, camp: 0.5}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 323505, itunes: 434486695, ma: _/370, name: Taake, short: Taake, slug: taake, spotify: 2CofVEvqc6hhyKwYsLiuN9, hand: {persona: 0.6, camp: 0.2}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 7274, itunes: 149695, ma: _/71, name: Down, short: Down, slug: down, spotify: 1m0B9ak05G0jqDY4ACLhQu, hand: {persona: 0.2, camp: 0.2}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 10673, itunes: 79664050, ma: _/5575, name: '1349', short: '1349', slug: '1349', spotify: 150xbiJGnTy1tSBZ9EFKnT, hand: {persona: 0.6, camp: 0.2}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 8337, itunes: 78495012, ma: _/292, name: Arcturus, short: Arcturus, slug: arcturus, spotify: 0UGvFl1tJ49Co99gaXZH9Z, hand: {persona: 0.4, camp: 0.4}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 10674, itunes: 47337962, ma: _/1952, name: Belphegor, short: Belphegor, slug: belphegor, spotify: 1uPIYn2IU0IuPWSZ58kzyM, hand: {persona: 0.6, camp: 0.4}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 69024, itunes: 275730586, ma: _/892, name: Septicflesh, short: Septicfl., slug: septicflesh, spotify: 5MlEt7qqXqNSReeX76xK6b, hand: {persona: 0.4, camp: 0.1}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 6060, itunes: 68234788, ma: _/2256, name: Shining, short: Shining, slug: shining, spotify: 7wqTItc5qEyIwWw5ksN1Ya, hand: {persona: 0.5, camp: 0.2}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 13506, itunes: 47705987, ma: _/29, name: Summoning, short: Summoning, slug: summoning, spotify: 5BViLZRXrRfhPDokkbYiMy, hand: {persona: 0.3, camp: 0.1}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3186, itunes: 6842529, ma: _/5045, name: The Kovenant, short: Kovenant, slug: the-kovenant, spotify: 31VNYr7yK0xBD6MfIaucLJ, hand: {persona: 0.7, camp: 0.5}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 8333, itunes: 260244384, ma: _/344, name: Impaled Nazarene, short: Nazarene, slug: impaled-nazarene, spotify: 4Q7d9egO7iMngBWfgvm57d, hand: {persona: 0.5, camp: 0.6}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5364240, itunes: 390990094, ma: _/127, name: Countess, short: Countess, slug: countess, spotify: 6knDZcDZ3KR7XmO62z6Dup, hand: {persona: 0.4, camp: 0.2}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 286119, itunes: 322370903, ma: _/117728, name: Wrath Passion, short: Passion, slug: wrath-passion, spotify: 2gaGAVliJXfo2Mr8T72qD3, hand: {persona: 0.5, camp: 0.2}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1273642, itunes: 436325348, ma: _/2259, name: Vondur, short: Vondur, slug: vondur, spotify: 3K8GnNs1Q9DXZlwrRXD4av, hand: {persona: 0.5, camp: 0.7}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 122809992, itunes: 1552790441, ma: _/124632, name: Hanternoz, short: Hanternoz, slug: hanternoz, spotify: 5iXcXAZzVfABJLdYDiz5UV, hand: {persona: 0.4, camp: 0.2}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 14463, itunes: 159206829, ma: _/424, name: Melechesh, short: Melechesh, slug: melechesh, spotify: 1bjUcmZxY4zJO1V5LaKzUY, hand: {persona: 0.4, camp: 0.1}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 101440, itunes: 217710731, ma: _/985, name: Månegarm, short: Månegarm, slug: manegarm, spotify: 6jQgWQKirZ7IKDGN8fRtdA, hand: {persona: 0.3, camp: 0.1}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 182911, itunes: 255252706, ma: _/3213, name: Sólstafir, short: Sólstafir, slug: solstafir, spotify: 721C5U5rM8J0jjq6IQuSBK, hand: {persona: 0.1, camp: 0.1}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 122, itunes: 54261148, ma: _/772, name: Ancient, short: Ancient, slug: ancient, spotify: 1KJ1OrDIh6JTeVXn4BFMD1, hand: {persona: 0.6, camp: 0.3}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 12792, itunes: 316592937, ma: _/9344, name: Drudkh, short: Drudkh, slug: drudkh, spotify: 4q5mj9YpaYesKvHzN8XYve, hand: {persona: 0.2, camp: 0.0}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 107118, itunes: 54677026, ma: _/1071, name: Falkenbach, short: Falkenba., slug: falkenbach, spotify: 2RyAx3MPzx4ESZOJOod2Hj, hand: {persona: 0.2, camp: 0.1}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 6896, itunes: 137321986, ma: _/2845, name: Keep of Kalessin, short: Kalessin, slug: keep-of-kalessin, spotify: 1Oos40mD8hfvswQWVjkbg5, hand: {persona: 0.3, camp: 0.2}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 62316192, itunes: 1439907216, ma: _/44722, name: Mgła, short: Mgła, slug: mga, spotify: 2hbkBlGBgvJkC3tpUn9w4C, hand: {persona: 0.5, camp: 0.0}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 7643, itunes: 60378148, ma: _/400, name: Primordial, short: Primordi., slug: primordial, spotify: 0BZr6WHaejNA63uhZZZZek, hand: {persona: 0.2, camp: 0.0}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 4120060, itunes: 274634662, ma: _/2061, name: Sarcófago, short: Sarcófago, slug: sarcofago, spotify: 3bPSw3qkTeBZXnfDFUqmPG, hand: {persona: 0.7, camp: 0.3}}
+  # corner: funeral-doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1433, itunes: 428003344, ma: _/503, name: Anathema, short: Anathema, slug: anathema, spotify: 0ZXKT0FCsLWkSLCjoBJgBX, hand: {persona: 0.0, camp: 0.0}}
+  # corner: funeral-doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 2019, itunes: 73591048, ma: _/151, name: My Dying Bride, short: Dying, slug: my-dying-bride, spotify: 3G7qoMSLvu9Pmb0xGtf9fl, hand: {persona: 0.2, camp: 0.1}}
+  # corner: funeral-doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3579, itunes: 5545051, ma: _/1, name: Amorphis, short: Amorphis, slug: amorphis, spotify: 2UOVgpgiNTC6KK0vSC77aD, hand: {persona: 0.1, camp: 0.1}}
+  # corner: funeral-doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3021, itunes: 6967607, ma: _/191, name: Paradise Lost, short: Paradise, slug: paradise-lost, spotify: 0gIo6kGl4KsCeIbqtZVHYp, hand: {persona: 0.1, camp: 0.1}}
+  # corner: funeral-doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 6477, itunes: 46934953, ma: _/3666, name: Draconian, short: Draconian, slug: draconian, spotify: 1TX9g1uSl0B0DQIE9lBqmU, hand: {persona: 0.2, camp: 0.1}}
+  # corner: funeral-doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 194121, itunes: 141939727, ma: _/3540, name: Saturnus, short: Saturnus, slug: saturnus, spotify: 7HY8HFHBM9zrY5R9rlY3Id, hand: {persona: 0.1, camp: 0.0}}
+  # corner: funeral-doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 6066, itunes: 159375998, ma: _/288, name: Novembers Doom, short: Novembers, slug: novembers-doom, spotify: 7CPjagX3gF7woK0P7YNuKd, hand: {persona: 0.1, camp: 0.1}}
+  # corner: funeral-doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 62550, itunes: 76243192, ma: _/291, name: Evoken, short: Evoken, slug: evoken, spotify: 1LCcrzGpwygmH6pxvLXI3i, hand: {persona: 0.1, camp: 0.0}}
+  # corner: funeral-doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 12143, itunes: 263664662, ma: _/2337, name: October Tide, short: October, slug: october-tide, spotify: 4Ttdsj7ypWvHOhephBvXAl, hand: {persona: 0.1, camp: 0.1}}
+  # corner: funeral-doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 76458, itunes: 54599541, ma: _/5161, name: On Thorns I Lay, short: Thorns, slug: on-thorns-i-lay, spotify: 7bGopU168qloFmaY1OcSwv, hand: {persona: 0.2, camp: 0.1}}
+  # corner: funeral-doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 56142, itunes: 1261100580, ma: _/353, name: Esoteric, short: Esoteric, slug: esoteric, spotify: 36b4aldhhv4vxGWtykfTRA, hand: {persona: 0.1, camp: 0.1}}
+  # corner: funeral-doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 194143, itunes: 288049265, ma: _/6469, name: Mar de Grises, short: Grises, slug: mar-de-grises, spotify: 5LtQfBRtAfAvDlYlDzpAqV, hand: {persona: 0.1, camp: 0.0}}
+  # corner: funeral-doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 4406922, itunes: 578473781, ma: _/3540329059, name: Angellore, short: Angellore, slug: angellore, spotify: 3mT1MRL1nkLJCm2vswBXDM, hand: {persona: 0.2, camp: 0.0}}
+  # corner: funeral-doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 646276, itunes: 385583738, ma: _/13185, name: Ophis, short: Ophis, slug: ophis, spotify: 1drLEcxpYx7bv2KRlOX9q5, hand: {persona: 0.2, camp: 0.1}}
+  # corner: funeral-doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 14456415, itunes: 1365982948, ma: _/79181, name: Aura Hiemis, short: Hiemis, slug: aura-hiemis, spotify: 58yHYxidyMGux4ZIkvohVq, hand: {persona: 0.3, camp: 0.1}}
+  # corner: funeral-doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1237973, itunes: 272327746, ma: _/50014, name: The Fall of Every Season, short: Season, slug: the-fall-of-every-season, spotify: 1p6gj1f3YSH5Or6EVLA4nE, hand: {persona: 0.1, camp: 0.0}}
+  # corner: funeral-doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5498899, itunes: 804652889, ma: _/3540378671, name: Shores of Null, short: Shores, slug: shores-of-null, spotify: 76lKNyW77arKg42qdDO9Sm, hand: {persona: 0.1, camp: 0.0}}
+  # corner: funeral-doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1251878, itunes: 258055259, ma: _/18728, name: Coffins, short: Coffins, slug: coffins, spotify: 34Dog4Ylyg3eUFJF5Rk7Hc, hand: {persona: 0.3, camp: 0.3}}
+  # corner: funeral-doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 194393, itunes: 284757602, ma: _/54971, name: Dark the Suns, short: Suns, slug: dark-the-suns, spotify: 7ldEIhfppQqruChWjVKgeE, hand: {persona: 0.1, camp: 0.1}}
+  # corner: funeral-doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3748981, itunes: 364200709, ma: _/112466, name: Hooded Menace, short: Hooded, slug: hooded-menace, spotify: 10mjw8SFRZjS0d8tecdEW8, hand: {persona: 0.3, camp: 0.3}}
+  # corner: doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 824, itunes: 16169568, ma: _/802, name: Type O Negative, short: Negative, slug: type-o-negative, spotify: 0blJzvevdXrp21YeI2vbco, hand: {persona: 0.6, camp: 0.7}}
+  # corner: doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 891, itunes: 74280998, ma: _/164, name: Theatre of Tragedy, short: Theatre, slug: theatre-of-tragedy, spotify: 31eXqCx5cAlItdGdoHMEOu, hand: {persona: 0.4, camp: 0.1}}
+  # corner: doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 4019, itunes: 73592787, ma: _/6, name: Katatonia, short: Katatonia, slug: katatonia, spotify: 2CWWgbxApjbyByxBBCvGTm, hand: {persona: 0.1, camp: 0.0}}
+  # corner: doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 6380, itunes: 206246072, ma: _/612, name: Sunn O))), short: Sunn O))), slug: sunn-o, spotify: 2e7hYqRjL82c1nIoREHc4J, hand: {persona: 0.7, camp: 0.3}}
+  # corner: doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 7278, itunes: 29438586, ma: _/407, name: Electric Wizard, short: Electric, slug: electric-wizard, spotify: 4htjQW3lgIwL6fEJlTOez4, hand: {persona: 0.3, camp: 0.3}}
+  # corner: doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 7271, itunes: 29438573, ma: _/1107, name: Cathedral, short: Cathedral, slug: cathedral, spotify: 5O7ziOtiFUyRMBJN1J4Tpv, hand: {persona: 0.4, camp: 0.5}}
+  # corner: doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 10443928, itunes: 164986284, ma: _/393, name: Trouble, short: Trouble, slug: trouble, spotify: 0eayuW5zGMgvXCEmcP7ivq, hand: {persona: 0.2, camp: 0.1}}
+  # corner: doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 15529, itunes: 117747948, ma: _/35, name: Saint Vitus, short: Saint, slug: saint-vitus, spotify: 64yj4wx5kNH3NTUW0ghyxn, hand: {persona: 0.2, camp: 0.2}}
+  # corner: doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 376714021, itunes: 2930043, ma: _/2891, name: Sleep, short: Sleep, slug: sleep, spotify: 4Mt6w4tDGiPgV5q6JWPlrI, hand: {persona: 0.2, camp: 0.4}}
+  # corner: doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 133150, itunes: 204626001, ma: _/12613, name: Swallow the Sun, short: Swallow, slug: swallow-the-sun, spotify: 0ulKlNlo0iPx5ZS6VMTHWQ, hand: {persona: 0.1, camp: 0.0}}
+  # corner: doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 6472, itunes: 47712427, ma: _/3377, name: Lacrimas Profundere, short: Lacrimas, slug: lacrimas-profundere, spotify: 4LtKoRSDo1uGlaGGEqsIhz, hand: {persona: 0.2, camp: 0.2}}
+  # corner: doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 2644311, itunes: 129201774, ma: _/299, name: Witchfinder General, short: General, slug: witchfinder-general, spotify: 1QqtUGvZnULbTYLj6y69vO, hand: {persona: 0.3, camp: 0.2}}
+  # corner: doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 15521, itunes: 320893331, ma: _/1194, name: Shape of Despair, short: Despair, slug: shape-of-despair, spotify: 7Dw0RaAayqoGd0z2oHT4R6, hand: {persona: 0.1, camp: 0.0}}
+  # corner: doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 190606, itunes: 277069244, ma: _/5222, name: Skepticism, short: Skeptici., slug: skepticism, spotify: 2mZuhQebSc9U63QjaADtzF, hand: {persona: 0.3, camp: 0.0}}
+  # corner: doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 8192, itunes: 72866964, ma: _/103, name: Green Carnation, short: Carnation, slug: green-carnation, spotify: 1ZaJhNBAhJ3HjPsWiB9sDc, hand: {persona: 0.1, camp: 0.1}}
+  # corner: doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 2502971, itunes: 529673181, ma: _/3540313433, name: Windhand, short: Windhand, slug: windhand, spotify: 6wE3e84Zg41JF04Z39i5wv, hand: {persona: 0.1, camp: 0.1}}
+  # corner: doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5545597, itunes: 656097674, ma: _/3540373021, name: Kaunis Kuolematon, short: Kaunis, slug: kaunis-kuolematon, spotify: 325i7BW7vMnVBl9YWdT6zN, hand: {persona: 0.1, camp: 0.0}}
+  # corner: doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 11177040, itunes: 1160723938, ma: _/3540364023, name: Trees of Eternity, short: Eternity, slug: trees-of-eternity, spotify: 7IxOJnsT8vXhTTzb6nlPOO, hand: {persona: 0.1, camp: 0.0}}
+  # corner: doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1197967, itunes: 423842663, ma: _/3540299688, name: Paul Chain Violet Theatre, short: Chain, slug: paul-chain-violet-theatre, spotify: 7g2t2PlAAkBOjdtDJxlJIY, hand: {persona: 0.5, camp: 0.2}}
+  # corner: doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 194403, itunes: 293743969, ma: _/1241, name: Forest of Shadows, short: Shadows, slug: forest-of-shadows, spotify: 0gBqFCwMICDkZe31IQSQeS, hand: {persona: 0.2, camp: 0.1}}
+  # corner: doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5183794, itunes: 155886695, ma: _/3664, name: Void of Silence, short: Silence, slug: void-of-silence, spotify: 2fT0dQpjzjaiAxk0JvbtMI, hand: {persona: 0.2, camp: 0.0}}
+  # corner: doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 7264, itunes: 1196402662, ma: _/443, name: Pentagram, short: Pentagram, slug: pentagram, spotify: 0xybuiDEYo3YuT3fLPaIyE, hand: {persona: 0.3, camp: 0.3}}
+  # corner: doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 386299, itunes: 111009790, ma: _/763, name: Church of Misery, short: Church, slug: church-of-misery, spotify: 48oiffaUrQHZXzfvr5aO1L, hand: {persona: 0.3, camp: 0.3}}
+  # corner: sludge-stoner; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1865, itunes: 133036, ma: _/5649, name: Soundgarden, short: Soundgar., slug: soundgarden, spotify: 5xUf6j4upBrXZPg6AI4MRK, hand: {persona: 0.1, camp: 0.2}}
+  # corner: sludge-stoner; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 2982, itunes: 762893, ma: _/398, name: Kyuss, short: Kyuss, slug: kyuss, spotify: 3HCpwNmFp2rvjkdjTs4uxs, hand: {persona: 0.1, camp: 0.2}}
+  # corner: sludge-stoner; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3382, itunes: 737433, ma: _/1702, name: Melvins, short: Melvins, slug: melvins, spotify: 6aVjo0xHSiuW5hkasoYSR3, hand: {persona: 0.4, camp: 0.5}}
+  # corner: sludge-stoner; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 11507431, itunes: 429514621, ma: _/9387, name: Boris, short: Boris, slug: boris, spotify: 3EgMK920cIH5aLxFnJ6zSi, hand: {persona: 0.3, camp: 0.2}}
+  # corner: sludge-stoner; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 2484, itunes: 485858, ma: _/246, name: Corrosion of Conformity, short: Corrosion, slug: corrosion-of-conformity, spotify: 1BBIIH0h76KN8gYeXFcPjR, hand: {persona: 0.1, camp: 0.2}}
+  # corner: sludge-stoner; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 16614, itunes: 3196211, ma: _/788, name: Godflesh, short: Godflesh, slug: godflesh, spotify: 5A4ebXQf38xWIq0xSWLhsS, hand: {persona: 0.1, camp: 0.0}}
+  # corner: sludge-stoner; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 7279, itunes: 125351413, ma: _/19, name: Acid Bath, short: Acid Bath, slug: acid-bath, spotify: 3n5jeTRWZEbTPJWyHSYUqn, hand: {persona: 0.2, camp: 0.4}}
+  # corner: sludge-stoner; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 2981, itunes: 18870036, ma: _/60, name: Neurosis, short: Neurosis, slug: neurosis, spotify: 1KHydwFySZY3YcWyo2q2dF, hand: {persona: 0.1, camp: 0.0}}
+  # corner: sludge-stoner; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3046, itunes: 21479131, ma: _/1624, name: Eyehategod, short: Eyehateg., slug: eyehategod, spotify: 3BRjxpDVT56Y2G5dS3xYZS, hand: {persona: 0.1, camp: 0.2}}
+  # corner: sludge-stoner; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 393428, itunes: 263132120, ma: _/96000, name: Red Fang, short: Red Fang, slug: red-fang, spotify: 3u4HBuoQ4dgPBzX2Q9uf5S, hand: {persona: 0.2, camp: 0.6}}
+  # corner: sludge-stoner; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 60087, itunes: 19111598, ma: _/2931, name: High on Fire, short: High, slug: high-on-fire, spotify: 1eiIIImNeUj3vpaocWqoOf, hand: {persona: 0.1, camp: 0.2}}
+  # corner: sludge-stoner; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 7243, itunes: 76800380, ma: _/21392, name: Jesu, short: Jesu, slug: jesu, spotify: 1binm59tmJzoZLvLETVYBP, hand: {persona: 0.0, camp: 0.0}}
+  # corner: sludge-stoner; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5737, itunes: 3200585, ma: _/13, name: Spiritual Beggars, short: Spiritual, slug: spiritual-beggars, spotify: 40LGuAmXtqxMGraUmCSU27, hand: {persona: 0.1, camp: 0.2}}
+  # corner: sludge-stoner; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5509, itunes: 29438650, ma: _/1703, name: Orange Goblin, short: Orange, slug: orange-goblin, spotify: 3nutnJ57QnbWEdCWn2EyWo, hand: {persona: 0.2, camp: 0.3}}
+  # corner: sludge-stoner; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 16729, itunes: 5545029, ma: _/3540306221, name: Daniel Lioneye, short: Lioneye, slug: daniel-lioneye, spotify: 2i9NRYNKiEtRVvF7XU4qE7, hand: {persona: 0.4, camp: 0.4}}
+  # corner: sludge-stoner; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 2913561, itunes: 43954349, ma: _/5663, name: Iron Monkey, short: Monkey, slug: iron-monkey, spotify: 5Qfqa9FeOchAWt6kfuvZbY, hand: {persona: 0.1, camp: 0.2}}
+  # corner: sludge-stoner; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 14549, itunes: 14839336, ma: _/7828, name: Mustasch, short: Mustasch, slug: mustasch, spotify: 7ig8pUnno95YNA9MclOveH, hand: {persona: 0.2, camp: 0.3}}
+  # corner: sludge-stoner; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 17162, itunes: 33147939, ma: _/14868, name: Nadja, short: Nadja, slug: nadja, spotify: 5ilW7mgqfRPZzRi28RNk8V, hand: {persona: 0.1, camp: 0.0}}
+  # corner: sludge-stoner; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 4352086, itunes: 262618588, ma: _/3540376439, name: Mantar, short: Mantar, slug: mantar, spotify: 6rVRU7I6r1lt6bhXGYTRQL, hand: {persona: 0.1, camp: 0.1}}
+  # corner: sludge-stoner; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 133426, itunes: 1370536962, ma: _/77805, name: Priestess, short: Priestess, slug: priestess, spotify: 3RxjSLIz5osqOhGarH9lFV, hand: {persona: 0.2, camp: 0.2}}
+  # corner: sludge-stoner; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5504, itunes: 1450661276, ma: _/7209, name: Dozer, short: Dozer, slug: dozer, spotify: 57VFYrmiB0eCM2qXZmV96N, hand: {persona: 0.1, camp: 0.2}}
+  # corner: sludge-stoner; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 2913501, itunes: 43974618, ma: _/103424, name: Fudge Tunnel, short: Tunnel, slug: fudge-tunnel, spotify: 0LCMzkcs3bdMj1Vgw9Cg1N, hand: {persona: 0.1, camp: 0.4}}
+  # corner: sludge-stoner; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 745967, itunes: 440751202, ma: _/3540346461, name: Black Moth, short: Moth, slug: black-moth, spotify: 2kjn4KcvCR9atreeGcoest, hand: {persona: 0.3, camp: 0.2}}
+  # corner: sludge-stoner; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 2571821, itunes: 271609418, ma: _/3540333437, name: Pharaoh Overlord, short: Overlord, slug: pharaoh-overlord, spotify: 3Aym9HWMoIOubfMXll94Jp, hand: {persona: 0.2, camp: 0.3}}
+  # corner: sludge-stoner; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5945648, itunes: 275242693, ma: _/3540393037, name: Black Royal, short: Royal, slug: black-royal, spotify: 33lkAv8r2X0dsr8AWzZ6MY, hand: {persona: 0.3, camp: 0.2}}
+  # corner: sludge-stoner; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 10448376, itunes: 1118365633, ma: _/3540388247, name: High Fighter, short: Fighter, slug: high-fighter, spotify: 1NpdATa8tL5ZLa9NR45Bt9, hand: {persona: 0.2, camp: 0.1}}
+  # corner: sludge-stoner; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 390039, itunes: 260990514, ma: _/34361, name: Baroness, short: Baroness, slug: baroness, spotify: 3KdXhEwbqFHfNfSk7L9E87, hand: {persona: 0.1, camp: 0.1}}
+  # corner: sludge-stoner; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 64705, itunes: 3251807, ma: _/10278, name: Earth, short: Earth, slug: earth, spotify: 4mTFQE6aiehScgvreB9llC, hand: {persona: 0.1, camp: 0.0}}
+  # corner: sludge-stoner; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 10950984, itunes: 1149777068, ma: _/507, name: Superjoint, short: Superjoi., slug: superjoint, spotify: 2K5ouPQEC1lbHfUTbbjh0a, hand: {persona: 0.1, camp: 0.2}}
+  # corner: post-metal; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 2984, itunes: 407685008, ma: _/4844, name: Isis, short: Isis, slug: isis, spotify: 2vsXeWGC8rILp3rpSN2Fyk, hand: {persona: 0.1, camp: 0.0}}
+  # corner: post-metal; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 7273, itunes: 42407392, ma: _/6139, name: Cult of Luna, short: Cult, slug: cult-of-luna, spotify: 7E7fJJpdVgr1F3pfAfRtHe, hand: {persona: 0.1, camp: 0.0}}
+  # corner: post-metal; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 13451, itunes: 73665204, ma: _/9712, name: Pelican, short: Pelican, slug: pelican, spotify: 0Gq06EJlfPumvCdMsnkJFp, hand: {persona: 0.0, camp: 0.0}}
+  # corner: post-metal; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 13606, itunes: 145624352, ma: _/3540512085, name: Russian Circles, short: Russian, slug: russian-circles, spotify: 0AZ3VR0YbFcS0Kgei7L2QF, hand: {persona: 0.0, camp: 0.0}}
+  # corner: post-metal; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 332642, itunes: 47515973, ma: _/25189, name: The Ocean, short: The Ocean, slug: the-ocean, spotify: 6fuALtryzj4cq7vkglKLxq, hand: {persona: 0.1, camp: 0.1}}
+  # corner: post-metal; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 127949, itunes: 1489994623, ma: _/27710, name: Callisto, short: Callisto, slug: callisto, spotify: 4ybKgPHm2IPUSWP8LIxNSK, hand: {persona: 0.0, camp: 0.0}}
+  # corner: post-metal; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 81482, itunes: 256272762, ma: _/31475, name: Year of No Light, short: Light, slug: year-of-no-light, spotify: 1jBkXf5NwyxgbUw9fWxAOE, hand: {persona: 0.1, camp: 0.0}}
+  # corner: post-metal; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 565916, itunes: 381121839, ma: _/126117, name: Panopticon, short: Panoptic., slug: panopticon, spotify: 2Mz5qpR3WxbcBwZBsmraWE, hand: {persona: 0.0, camp: 0.0}}
+  # corner: post-metal; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 11922515, itunes: 985848679, ma: _/3540390770, name: Briqueville, short: Briquevi., slug: briqueville, spotify: 4xz5MCPATnYVHJyLEduBPV, hand: {persona: 0.3, camp: 0.1}}
+  # corner: post-metal; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1200600, itunes: 1471558920, ma: _/3540526610, name: PSOTY, short: PSOTY, slug: psoty, spotify: 7nM5qczzwOoamL01A5aFHj, hand: {persona: 0.1, camp: 0.1}}
+  # corner: post-metal; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 194283, itunes: 276891077, ma: _/24863, name: Zatokrev, short: Zatokrev, slug: zatokrev, spotify: 1NA63oBdnKK3nXxNkny989, hand: {persona: 0.1, camp: 0.0}}
+  # corner: grind-crust; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 4502, itunes: 42159435, ma: _/14, name: Carcass, short: Carcass, slug: carcass, spotify: 5lhaM01nwvsMZpmPY2HVER, hand: {persona: 0.3, camp: 0.6}}
+  # corner: grind-crust; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 68247, itunes: 273152410, ma: _/122600, name: Cavalera Conspiracy, short: Cavalera, slug: cavalera-conspiracy, spotify: 7F1K4WlMshx23V2TTz4KwV, hand: {persona: 0.1, camp: 0.1}}
+  # corner: grind-crust; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 14471, itunes: 29326722, ma: _/2840, name: Cattle Decapitation, short: Cattle, slug: cattle-decapitation, spotify: 67ZMMtA88DDO0gTuRrzGjn, hand: {persona: 0.3, camp: 0.3}}
+  # corner: grind-crust; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 14964, itunes: 4163922, ma: _/1347, name: Brujeria, short: Brujeria, slug: brujeria, spotify: 1VV61UepOgsPiOjljK6mBY, hand: {persona: 0.9, camp: 0.7}}
+  # corner: grind-crust; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 156130, itunes: 49569054, ma: _/1046, name: Extreme Noise Terror, short: Extreme, slug: extreme-noise-terror, spotify: 43OKr8veKrM8ptgj3LcpOg, hand: {persona: 0.1, camp: 0.1}}
+  # corner: grind-crust; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 8720, itunes: 42257218, ma: _/827, name: The Berzerker, short: Berzerker, slug: the-berzerker, spotify: 1tlY3ijEXpF5JsRTTwePA7, hand: {persona: 0.4, camp: 0.3}}
+  # corner: grind-crust; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 421698, itunes: 13419672, ma: _/13111, name: Amebix, short: Amebix, slug: amebix, spotify: 6tUC9fQSG7uqbzUy9AJ1NY, hand: {persona: 0.4, camp: 0.1}}
+  # corner: grind-crust; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 6457, itunes: 42405824, ma: _/606, name: Brutal Truth, short: Brutal, slug: brutal-truth, spotify: 4TvgUScBiJZP1P9V1tmMPi, hand: {persona: 0.1, camp: 0.3}}
+  # corner: grind-crust; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 65436, itunes: 1527142729, ma: _/167, name: Macabre, short: Macabre, slug: macabre, spotify: 2lbJzDX11fy6cLeFtlkUA8, hand: {persona: 0.4, camp: 0.7}}
+  # corner: grind-crust; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 161232, itunes: 45445107, ma: _/1022, name: Terrorizer, short: Terroriz., slug: terrorizer, spotify: 09eXH2A1Zi3E7MZJXGg5oG, hand: {persona: 0.1, camp: 0.1}}
+  # corner: grind-crust; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3421, itunes: 21479313, ma: _/3540453905, name: Agoraphobic Nosebleed, short: Nosebleed, slug: agoraphobic-nosebleed, spotify: 5DVkkJqypmjmRLJL9UurmI, hand: {persona: 0.3, camp: 0.6}}
+  # corner: grind-crust; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 562912, itunes: 1491740037, ma: _/3540462038, name: GUT, short: GUT, slug: gut, spotify: 60RFcYKEjhg6JZiW6Opvpa, hand: {persona: 0.3, camp: 0.8}}
+  # corner: grind-crust; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 14704, itunes: 75088299, ma: _/350, name: Mortician, short: Mortician, slug: mortician, spotify: 34PPy9Ut9m8qB8BnmCiVmO, hand: {persona: 0.4, camp: 0.5}}
+  # corner: grind-crust; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 13888, itunes: 341325672, ma: _/2556, name: Haemorrhage, short: Haemorrh., slug: haemorrhage, spotify: 6JLFzI9nSELx9j1Muv5RcM, hand: {persona: 0.5, camp: 0.7}}
+  # corner: grind-crust; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 190213, itunes: 21479352, ma: _/2649, name: Agathocles, short: Agathocl., slug: agathocles, spotify: 2JWxRGdcsFqn5j9gYKjNF0, hand: {persona: 0.1, camp: 0.2}}
+  # corner: grind-crust; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1346242, itunes: 438823706, ma: _/3540310608, name: Gutalax, short: Gutalax, slug: gutalax, spotify: 5CmgfDQq0YVKMP6zpjYhPR, hand: {persona: 0.8, camp: 0.9}}
+  # corner: grind-crust; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 396971, itunes: 363581845, ma: _/3540285169, name: Wormrot, short: Wormrot, slug: wormrot, spotify: 3vMnvW7u5207ATyxTQIxNz, hand: {persona: 0.0, camp: 0.1}}
+  # corner: grind-crust; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5463104, itunes: 1590745092, ma: _/28491, name: Dickless Tracy, short: Dickless, slug: dickless-tracy, spotify: 76y8dPpmMXtRurz7VVuZjm, hand: {persona: 0.2, camp: 0.6}}
+  # corner: grind-crust; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 14563, itunes: 269394962, ma: _/17841, name: Ultra Vomit, short: Ultra, slug: ultra-vomit, spotify: 4mnp6YW545j0Qb5PYS9Wmv, hand: {persona: 0.7, camp: 1.0}}
+  # corner: grind-crust; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1684244, itunes: 451040747, ma: _/3540338610, name: Beaten to Death, short: Beaten, slug: beaten-to-death, spotify: 33CQHrJmjSwoe0eJpsPHX4, hand: {persona: 0.1, camp: 0.3}}
+  # corner: grind-crust; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1054758, itunes: 1600312032, ma: _/3540418160, name: Wake, short: Wake, slug: wake, spotify: 3eI8VStKilt8Wb2R4AD4vh, hand: {persona: 0.1, camp: 0.0}}
+  # corner: grind-crust; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 483939, itunes: 526533245, ma: _/4706, name: Holocausto Canibal, short: Canibal, slug: holocausto-canibal, spotify: 4I2Z3KjDCA3uXOcQPiPGK8, hand: {persona: 0.4, camp: 0.5}}
+  # corner: grind-crust; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1336421, itunes: 962953545, ma: _/3540413151, name: Nails, short: Nails, slug: nails, spotify: 69a2GzMCkrrTrN9iVmP8Ys, hand: {persona: 0.0, camp: 0.1}}
+  # corner: grind-crust; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 14518, itunes: 20384813, ma: _/799, name: Pig Destroyer, short: Destroyer, slug: pig-destroyer, spotify: 4raqfuxaWjPjrOQGb6zoa7, hand: {persona: 0.1, camp: 0.2}}
+  # corner: tech-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 2814, itunes: 3196120, ma: _/38, name: Opeth, short: Opeth, slug: opeth, spotify: 0ybFZ2Ab08V8hueghSXm6E, hand: {persona: 0.1, camp: 0.2}}
+  # corner: tech-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 6461, itunes: 65885099, ma: _/139, name: Nile, short: Nile, slug: nile, spotify: 3v3VSKylQE69ztn5TUVlFE, hand: {persona: 0.4, camp: 0.1}}
+  # corner: tech-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5600, itunes: 42258018, ma: _/114, name: Decapitated, short: Decapita., slug: decapitated, spotify: 17MbhJOaaPHuWnRaWU9xkc, hand: {persona: 0.1, camp: 0.1}}
+  # corner: tech-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 14474, itunes: 157789341, ma: _/304, name: Atheist, short: Atheist, slug: atheist, spotify: 5QPy3HBn3AwzLEAQ8QeIo4, hand: {persona: 0.0, camp: 0.0}}
+  # corner: tech-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 10290, itunes: 41977108, ma: _/17, name: Cryptopsy, short: Cryptopsy, slug: cryptopsy, spotify: 29PgYwTelpNl6370XLqFtN, hand: {persona: 0.2, camp: 0.2}}
+  # corner: tech-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 447070, itunes: 450736188, ma: _/113185, name: Fleshgod Apocalypse, short: Fleshgod, slug: fleshgod-apocalypse, spotify: 5ctFffJBdJe8PZL7W7NeML, hand: {persona: 0.8, camp: 0.4}}
+  # corner: tech-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 15550, itunes: 73982981, ma: _/207, name: Necrophagist, short: Necropha., slug: necrophagist, spotify: 22GSc8UsPGIP5mrM4W57rY, hand: {persona: 0.1, camp: 0.0}}
+  # corner: tech-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 64114, itunes: 89643611, ma: _/238, name: Pestilence, short: Pestilen., slug: pestilence, spotify: 6JcFn4PlXFuXmhRXpOpsan, hand: {persona: 0.1, camp: 0.1}}
+  # corner: tech-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 67788, itunes: 218291847, ma: _/74954, name: The Faceless, short: Faceless, slug: the-faceless, spotify: 1FQ6uth7icR6Jhla16K2vC, hand: {persona: 0.3, camp: 0.1}}
+  # corner: tech-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 64114, itunes: 109309091, ma: _/1124, name: Gorguts, short: Gorguts, slug: gorguts, spotify: 0Q4ioaeWOOlKFVPNdFvp9q, hand: {persona: 0.1, camp: 0.0}}
+  # corner: tech-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 893161, itunes: 152587846, ma: _/204, name: Spawn of Possession, short: Spawn, slug: spawn-of-possession, spotify: 0ZCbQOOfTwQacCamoOxx0D, hand: {persona: 0.1, camp: 0.0}}
+  # corner: tech-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 15666, itunes: 45123155, ma: _/2975, name: Anata, short: Anata, slug: anata, spotify: 21JBfsbULY4BOhRuNFm2Bv, hand: {persona: 0.1, camp: 0.0}}
+  # corner: tech-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 416348, itunes: 429852013, ma: _/3540326229, name: Archspire, short: Archspire, slug: archspire, spotify: 7F9ZL4TJNr8AoU0UUQX8ih, hand: {persona: 0.2, camp: 0.4}}
+  # corner: tech-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 587155, itunes: 373843476, ma: _/3540308162, name: Rings of Saturn, short: Saturn, slug: rings-of-saturn, spotify: 67Zm35qXdPzYfl1c3M0toJ, hand: {persona: 0.2, camp: 0.3}}
+  # corner: tech-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 305348, itunes: 427917856, ma: _/3540294014, name: Barren Earth, short: Barren, slug: barren-earth, spotify: 4o8YZJFsViA32OE9WnG8Gt, hand: {persona: 0.1, camp: 0.0}}
+  # corner: tech-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 525546, itunes: 1506511398, ma: _/7030, name: Lost Soul, short: Lost Soul, slug: lost-soul, spotify: 62XGlCPVw4mRaVGtwzpe1z, hand: {persona: 0.2, camp: 0.1}}
+  # corner: tech-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5481223, itunes: 1176673653, ma: _/3540276137, name: Deadsquad, short: Deadsquad, slug: deadsquad, spotify: 2By8ec9DQOnN2aiiFyrQ82, hand: {persona: 0.4, camp: 0.1}}
+  # corner: tech-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 300813, itunes: 283876193, ma: _/10433, name: Hour of Penance, short: Penance, slug: hour-of-penance, spotify: 5QMEomYiV52o6l3uZmuE8N, hand: {persona: 0.1, camp: 0.0}}
+  # corner: tech-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 146843, itunes: 272592380, ma: _/4767, name: In-Quest, short: In-Quest, slug: in-quest, spotify: 4A4xkbsexrFtR7yy0y4I9F, hand: {persona: 0.1, camp: 0.1}}
+  # corner: tech-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 150651, itunes: 269626062, ma: _/4861, name: Ulcerate, short: Ulcerate, slug: ulcerate, spotify: 3Bv5btxNbwbt79fcjw9DAg, hand: {persona: 0.1, camp: 0.0}}
+  # corner: brutal-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3273, itunes: 155833533, ma: _/213, name: Aborted, short: Aborted, slug: aborted, spotify: 1XRhUgCyzIdeT8d9KMfeDR, hand: {persona: 0.3, camp: 0.4}}
+  # corner: brutal-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 470801, itunes: 62960709, ma: _/808, name: Blood Red Throne, short: Throne, slug: blood-red-throne, spotify: 38shFuJO9k0kOEQSf854u4, hand: {persona: 0.2, camp: 0.2}}
+  # corner: brutal-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 131884, itunes: 214355791, ma: _/35773, name: Beneath the Massacre, short: Massacre, slug: beneath-the-massacre, spotify: 5E2FPuRWzBojRkL6CwyBzw, hand: {persona: 0.1, camp: 0.0}}
+  # corner: brutal-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 10328, itunes: 267088245, ma: _/3752, name: Benighted, short: Benighted, slug: benighted, spotify: 0dUwIwaPc6UukkCZTaaf7J, hand: {persona: 0.2, camp: 0.2}}
+  # corner: brutal-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5606, itunes: 258831121, ma: _/240, name: Severe Torture, short: Torture, slug: severe-torture, spotify: 2LkGWKBS0nNlEtqx4khGf1, hand: {persona: 0.2, camp: 0.3}}
+  # corner: brutal-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 380399, itunes: 277268753, ma: _/11052, name: Defeated Sanity, short: Defeated, slug: defeated-sanity, spotify: 0dy6peOuKo2QkwaNWPoJpx, hand: {persona: 0.1, camp: 0.2}}
+  # corner: brutal-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 4529044, itunes: 616996619, ma: _/3540315641, name: Epicardiectomy, short: Epicardi., slug: epicardiectomy, spotify: 1JIZqDjZ1BCqZDCoVNoG8O, hand: {persona: 0.2, camp: 0.4}}
+  # corner: brutal-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 7677136, itunes: 976672429, ma: _/3540357007, name: Guttural Slug, short: Guttural, slug: guttural-slug, spotify: 3vzyZYhXq78QlMV7VghI0e, hand: {persona: 0.2, camp: 0.5}}
+  # corner: brutal-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 13722307, itunes: 1321557328, ma: _/3540434066, name: '01101111011101100110111001101001', short: '01101111.', slug: '01101111011101100110111001101001', spotify: 74y5BwAo2em7RHWMFG2R6F, hand: {persona: 0.4, camp: 0.2}}
+  # corner: melodic-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1392, itunes: 18098340, ma: _/10, name: Arch Enemy, short: Enemy, slug: arch-enemy, spotify: 0DCw6lHkzh9t7f8Hb4Z0Sx, hand: {persona: 0.3, camp: 0.2}}
+  # corner: melodic-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 120, itunes: 15866128, ma: _/11, name: In Flames, short: In Flames, slug: in-flames, spotify: 57ylwQTnFnIhJh4nu4rxCs, hand: {persona: 0.1, camp: 0.1}}
+  # corner: melodic-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3561, itunes: 18243687, ma: _/8, name: Dark Tranquillity, short: Dark Tra., slug: dark-tranquillity, spotify: 5EHvXKnNz78jkAVgTQLQ5O, hand: {persona: 0.1, camp: 0.0}}
+  # corner: melodic-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 6065, itunes: 54261107, ma: _/150, name: Amon Amarth, short: Amarth, slug: amon-amarth, spotify: 3pulcT2wt7FEG10lQlqDJL, hand: {persona: 0.5, camp: 0.5}}
+  # corner: melodic-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 6253, itunes: 269358403, ma: _/13991, name: Eluveitie, short: Eluveitie, slug: eluveitie, spotify: 5X0N2k3qMnI8kSrGJT3kfT, hand: {persona: 0.5, camp: 0.2}}
+  # corner: melodic-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3435, itunes: 71457774, ma: _/332, name: Ensiferum, short: Ensiferum, slug: ensiferum, spotify: 0krXCIkthz13P8o0v2tksH, hand: {persona: 0.4, camp: 0.4}}
+  # corner: melodic-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1786, itunes: 6767103, ma: _/26, name: Soilwork, short: Soilwork, slug: soilwork, spotify: 7wqP36o9lqWteOCxBnXlwx, hand: {persona: 0.1, camp: 0.1}}
+  # corner: melodic-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5581, itunes: 57658038, ma: _/43, name: At the Gates, short: Gates, slug: at-the-gates, spotify: 6YXarbjg36ODFPez0PnOlD, hand: {persona: 0.1, camp: 0.0}}
+  # corner: melodic-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 9494, itunes: 107403664, ma: _/3010, name: Heaven Shall Burn, short: Heaven, slug: heaven-shall-burn, spotify: 4sy5qWfwUwpGYBnCKnwfcW, hand: {persona: 0.1, camp: 0.0}}
+  # corner: melodic-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 12054, itunes: 57844144, ma: _/1283, name: All That Remains, short: Remains, slug: all-that-remains, spotify: 2zgG1GPDvjaBgxeQaVXI14, hand: {persona: 0.1, camp: 0.2}}
+  # corner: melodic-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3022, itunes: 78949757, ma: _/2332, name: Insomnium, short: Insomnium, slug: insomnium, spotify: 3uIgLG971oRM5fe6v8lvQS, hand: {persona: 0.1, camp: 0.0}}
+  # corner: melodic-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 12784, itunes: 53265055, ma: _/5450, name: The Black Dahlia Murder, short: Dahlia, slug: the-black-dahlia-murder, spotify: 4xTDPgk4jHCF0qui3dH6BS, hand: {persona: 0.3, camp: 0.3}}
+  # corner: melodic-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 16726, itunes: 20101717, ma: _/22813, name: Wintersun, short: Wintersun, slug: wintersun, spotify: 6ui6SwChan7c1KYBQCqGKV, hand: {persona: 0.2, camp: 0.1}}
+  # corner: melodic-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5704, itunes: 65620642, ma: _/1815, name: Norther, short: Norther, slug: norther, spotify: 7FYqu76teK16FSlw4ZYFhW, hand: {persona: 0.3, camp: 0.3}}
+  # corner: melodic-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 2997, itunes: 17407176, ma: _/96618, name: DevilDriver, short: DevilDri., slug: devildriver, spotify: 79el7mcHYhXYW3Zek21i0L, hand: {persona: 0.1, camp: 0.1}}
+  # corner: melodic-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3023, itunes: 15788810, ma: _/96, name: Hypocrisy, short: Hypocrisy, slug: hypocrisy, spotify: 73UIalJYgktSi7qQFV53Qv, hand: {persona: 0.2, camp: 0.3}}
+  # corner: melodic-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 114366, itunes: 187616241, ma: _/24596, name: Avatar, short: Avatar, slug: avatar, spotify: 4jpaXieuls7LVzG1uma5Rs, hand: {persona: 0.9, camp: 0.7}}
+  # corner: melodic-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 65412, itunes: 81695527, ma: _/32861, name: Scar Symmetry, short: Symmetry, slug: scar-symmetry, spotify: 2PQVMx0BpRQhzMWLa7X0T6, hand: {persona: 0.2, camp: 0.2}}
+  # corner: melodic-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 168263, itunes: 259346705, ma: _/102219, name: The Agonist, short: Agonist, slug: the-agonist, spotify: 3NrGqWwh6dKk99v1UFqQak, hand: {persona: 0.1, camp: 0.0}}
+  # corner: melodic-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 161125, itunes: 80073958, ma: _/2028, name: Mercenary, short: Mercenary, slug: mercenary, spotify: 7I4cvfefaKzYwdihC3n2y1, hand: {persona: 0.1, camp: 0.1}}
+  # corner: melodic-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 4504, itunes: 18090585, ma: _/703, name: Shadows Fall, short: Fall, slug: shadows-fall, spotify: 1HaiS1sFo8qkc6tF5Mw1M0, hand: {persona: 0.1, camp: 0.1}}
+  # corner: melodic-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 8254, itunes: 15366902, ma: _/3484, name: Darkest Hour, short: Darkest, slug: darkest-hour, spotify: 4dso1lISV1Atdo3O6qbhqq, hand: {persona: 0.1, camp: 0.0}}
+  # corner: melodic-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3098131, itunes: 542434598, ma: _/3540303843, name: I Spit Ashes, short: Ashes, slug: i-spit-ashes, spotify: 43sYM5MNtMWy2lKlhxFNnE, hand: {persona: 0.1, camp: 0.1}}
+  # corner: melodic-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5205860, itunes: 320153270, ma: _/98165, name: Crimson Shadows, short: Crimson, slug: crimson-shadows, spotify: 1H3YohuDrK3djO7Oiqcl2h, hand: {persona: 0.3, camp: 0.5}}
+  # corner: melodic-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 7689144, itunes: 1113256153, ma: _/3540270700, name: My Material Season, short: Material, slug: my-material-season, spotify: 6FFVlLMtNrIR9PDxak9viR, hand: {persona: 0.2, camp: 0.1}}
+  # corner: melodic-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 58245042, itunes: 1450504615, ma: _/3540430546, name: Entoria, short: Entoria, slug: entoria, spotify: 6k9MSTmkiRPWNL4bJd20E5, hand: {persona: 0.2, camp: 0.2}}
+  # corner: melodic-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1552189, itunes: 282450511, ma: _/32012, name: Orphan Hate, short: Orphan, slug: orphan-hate, spotify: 0NPorbSSrZE5Kup8enhzGW, hand: {persona: 0.2, camp: 0.2}}
+  # corner: melodic-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 14973, itunes: 80083126, ma: _/47836, name: Sonic Syndicate, short: Syndicate, slug: sonic-syndicate, spotify: 384RPjoLeqSOcy5qS9oQgX, hand: {persona: 0.2, camp: 0.1}}
+  # corner: melodic-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 13110, itunes: 255252667, ma: _/702, name: Kalmah, short: Kalmah, slug: kalmah, spotify: 2YPVtFn6SsYNntkmrdDpGF, hand: {persona: 0.2, camp: 0.3}}
+  # corner: core; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 2124, itunes: 14268438, ma: _/3075, name: Killswitch Engage, short: Engage, slug: killswitch-engage, spotify: 37394IP6uhnjIpsawpMu4l, hand: {persona: 0.0, camp: 0.1}}
+  # corner: core; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1245, itunes: 47123955, ma: _/6795, name: Trivium, short: Trivium, slug: trivium, spotify: 278ZYwGhdK6QTzE3MFePnP, hand: {persona: 0.1, camp: 0.1}}
+  # corner: core; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3823, itunes: 54266496, ma: _/20825, name: As I Lay Dying, short: Lay, slug: as-i-lay-dying, spotify: 2vd2HnNh4pdYa9gDVHFjEu, hand: {persona: 0.1, camp: 0.0}}
+  # corner: core; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 4338, itunes: 1750355, ma: _/98854, name: Underoath, short: Underoath, slug: underoath, spotify: 3GzWhE2xadJiW8MqRKIVSK, hand: {persona: 0.1, camp: 0.0}}
+  # corner: core; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 123972, itunes: 127084107, ma: _/100482, name: Whitechapel, short: Whitecha., slug: whitechapel, spotify: 5274obTQJjzjyycRyJlfml, hand: {persona: 0.2, camp: 0.1}}
+  # corner: core; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 161182, itunes: 64636070, ma: _/5494, name: Despised Icon, short: Despised, slug: despised-icon, spotify: 3MjNMjqBpaQ0P8ebfbZjYn, hand: {persona: 0.1, camp: 0.1}}
+  # corner: core; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 7009, itunes: 107402910, ma: _/9547, name: Caliban, short: Caliban, slug: caliban, spotify: 1oeo6cC9Fqa2bxxv67qBQL, hand: {persona: 0.1, camp: 0.0}}
+  # corner: core; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 468702, itunes: 320214485, ma: _/3540280717, name: Crossfaith, short: Crossfai., slug: crossfaith, spotify: 3gfA40vRbx6YX8oCDXDCDh, hand: {persona: 0.3, camp: 0.3}}
+  # corner: core; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3271, itunes: 64942610, ma: _/5058, name: All Shall Perish, short: Perish, slug: all-shall-perish, spotify: 7GkGdNLPzWw4e6ctwKvI2x, hand: {persona: 0.1, camp: 0.0}}
+  # corner: core; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 94969, itunes: 15151171, ma: _/5928, name: Dirty Rotten Imbeciles, short: Imbeciles, slug: dirty-rotten-imbeciles, spotify: 6eKzDvHhJgMtcaOrvEXCTv, hand: {persona: 0.1, camp: 0.4}}
+  # corner: core; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 507954, itunes: 288345578, ma: _/3540316559, name: Thy Art Is Murder, short: Murder, slug: thy-art-is-murder, spotify: 3et9upNERQI5IYt5jEDTxM, hand: {persona: 0.1, camp: 0.1}}
+  # corner: core; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 373651, itunes: 1186055175, ma: _/3540350189, name: Crystal Lake, short: Crystal, slug: crystal-lake, spotify: 0A7d0PJxaLO7CGI94ht6PX, hand: {persona: 0.1, camp: 0.0}}
+  # corner: core; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 2148551, itunes: 421186855, ma: _/3540328594, name: Make Them Suffer, short: Suffer, slug: make-them-suffer, spotify: 0FZcPgWI3BsFQl4rOAGSHT, hand: {persona: 0.2, camp: 0.1}}
+  # corner: core; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 389793, itunes: 322931719, ma: _/59352, name: Bleed From Within, short: Within, slug: bleed-from-within, spotify: 5ZvwJikDgdP1PFU4PkAPVG, hand: {persona: 0.1, camp: 0.1}}
+  # corner: core; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 393199, itunes: 57943852, ma: _/21035, name: Neaera, short: Neaera, slug: neaera, spotify: 66Xc7Y6aW9W5RS2r8HY6P2, hand: {persona: 0.1, camp: 0.0}}
+  # corner: core; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5987728, itunes: 891638660, ma: _/3540407450, name: The Raven Age, short: Raven, slug: the-raven-age, spotify: 1Ia5iTYHMBsMQfi7Fbcbuw, hand: {persona: 0.2, camp: 0.1}}
+  # corner: core; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1047292, itunes: 304319444, ma: _/3540265991, name: Dreamshade, short: Dreamsha., slug: dreamshade, spotify: 3A7sZMxNjhJWX7apY1UpQO, hand: {persona: 0.1, camp: 0.1}}
+  # corner: core; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 154423, itunes: 262104474, ma: _/88830, name: Annotations of an Autopsy, short: Autopsy, slug: annotations-of-an-autopsy, spotify: 0Bwt1B6EdOHjjOTxlHbtR1, hand: {persona: 0.2, camp: 0.3}}
+  # corner: core; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 181996, itunes: 178617645, ma: _/16231, name: Arkangel, short: Arkangel, slug: arkangel, spotify: 1xtuZNLHzz6VFwtw0JpOYn, hand: {persona: 0.1, camp: 0.1}}
+  # corner: core; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 533338, itunes: 377616302, ma: _/3540321885, name: We Are Wolf, short: Wolf, slug: we-are-wolf, spotify: 0IZB0CsXDP0l5JHni1Kj2M, hand: {persona: 0.1, camp: 0.1}}
+  # corner: core; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1163316, itunes: 1522922086, ma: _/3540482354, name: Into the Fray, short: Into, slug: into-the-fray, spotify: 5kgr7DdP0dMI2jLKBeJt2C, hand: {persona: 0.2, camp: 0.1}}
+  # corner: core; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 13940677, itunes: 1334351246, ma: _/3540447580, name: Oceanhoarse, short: Oceanhoa., slug: oceanhoarse, spotify: 6NNanF6LZJW0RWlyyUC1Ys, hand: {persona: 0.1, camp: 0.2}}
+  # corner: core; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5843821, itunes: 873320671, ma: _/3540378712, name: Gutrectomy, short: Gutrecto., slug: gutrectomy, spotify: 0GAUayKtM7XULaNosOHwaD, hand: {persona: 0.2, camp: 0.3}}
+  # corner: core; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 76537, itunes: 210642079, ma: _/101594, name: After the Burial, short: Burial, slug: after-the-burial, spotify: 0uNj4RxFjG0iVPlZS753en, hand: {persona: 0.1, camp: 0.0}}
+  # corner: death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 632, itunes: 918092, ma: _/78, name: Sepultura, short: Sepultura, slug: sepultura, spotify: 6JW8wliOEwaDZ231ZY7cf4, hand: {persona: 0.3, camp: 0.1}}
+  # corner: death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 6254, itunes: 17249530, ma: _/141, name: Death, short: Death, slug: death, spotify: 4f5V3PQ66nIrBCqugJtaGn, hand: {persona: 0.1, camp: 0.1}}
+  # corner: death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 7708, itunes: 3563163, ma: _/145, name: Vader, short: Vader, slug: vader, spotify: 2s5DSt9VBNzAn2TbtDHzFZ, hand: {persona: 0.2, camp: 0.1}}
+  # corner: death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 10679, itunes: 16645051, ma: _/165, name: Obituary, short: Obituary, slug: obituary, spotify: 0SbGI4sb8dAKFZnK7RFyhz, hand: {persona: 0.1, camp: 0.2}}
+  # corner: death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 6459, itunes: 16644222, ma: _/148, name: Deicide, short: Deicide, slug: deicide, spotify: 2K3GorTixXKAiwe2t9lO89, hand: {persona: 0.5, camp: 0.3}}
+  # corner: death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 2985, itunes: 15773169, ma: _/189, name: Fear Factory, short: Factory, slug: fear-factory, spotify: 74Hj7BmnUXyx2udrIEIKwX, hand: {persona: 0.3, camp: 0.1}}
+  # corner: death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 2995, itunes: 28917807, ma: _/1067, name: Six Feet Under, short: Under, slug: six-feet-under, spotify: 4pFAF1L1tYnJHLe5hgyKuI, hand: {persona: 0.3, camp: 0.4}}
+  # corner: death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5512, itunes: 3198183, ma: _/7, name: Entombed, short: Entombed, slug: entombed, spotify: 2pnezMcaiTHfGmgmGQjLsB, hand: {persona: 0.1, camp: 0.3}}
+  # corner: death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3078, itunes: 18243552, ma: _/2309, name: Orphaned Land, short: Orphaned, slug: orphaned-land, spotify: 7xTMxqAmbtE0Nce5lz7t0h, hand: {persona: 0.4, camp: 0.1}}
+  # corner: death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5599, itunes: 15951546, ma: _/887, name: Kataklysm, short: Kataklysm, slug: kataklysm, spotify: 7kozeGeawfP7IEEL6dddrM, hand: {persona: 0.2, camp: 0.0}}
+  # corner: death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1990, itunes: 18096503, ma: _/46, name: Strapping Young Lad, short: Strapping, slug: strapping-young-lad, spotify: 457qPvtiBTIl6LR4dZiKZy, hand: {persona: 0.3, camp: 0.7}}
+  # corner: death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 7645, itunes: 64873162, ma: _/233, name: Bloodbath, short: Bloodbath, slug: bloodbath, spotify: 7eYmDBinb760MUIfoRdlGQ, hand: {persona: 0.4, camp: 0.4}}
+  # corner: death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 65989, itunes: 73638605, ma: _/119, name: Suffocation, short: Suffocat., slug: suffocation, spotify: 4ItRDIouodpnW6nm4TYDk1, hand: {persona: 0.1, camp: 0.1}}
+  # corner: death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5601, itunes: 42086322, ma: _/234, name: Bolt Thrower, short: Thrower, slug: bolt-thrower, spotify: 3EbMlZ7ZKmFWPTHrLzpzvs, hand: {persona: 0.1, camp: 0.1}}
+  # corner: death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 10677, itunes: 64874488, ma: _/194, name: Immolation, short: Immolati., slug: immolation, spotify: 3rt16vhD1OuULlsyxUUWIt, hand: {persona: 0.1, camp: 0.0}}
+  # corner: death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 155723, itunes: 22135784, ma: _/359, name: Unleashed, short: Unleashed, slug: unleashed, spotify: 3MKwCexzAd8YTdsSjRkKbv, hand: {persona: 0.4, camp: 0.3}}
+  # corner: death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 13978, itunes: 427889075, ma: _/285, name: Autopsy, short: Autopsy., slug: autopsy, spotify: 6hR8mUd2yyHFazoCuweiIJ, hand: {persona: 0.2, camp: 0.5}}
+  # corner: death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 65424, itunes: 17258126, ma: _/504, name: Benediction, short: Benedict., slug: benediction, spotify: 1Lx9Dy5gi2OLlJBBs7GYO7, hand: {persona: 0.2, camp: 0.2}}
+  # corner: death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 7711, itunes: 18929193, ma: _/197, name: Krisiun, short: Krisiun, slug: krisiun, spotify: 3pzAW9xs16rX8fukH8wV6N, hand: {persona: 0.2, camp: 0.1}}
+  # corner: death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 100599, itunes: 20101748, ma: _/122, name: Dismember, short: Dismember, slug: dismember, spotify: 09OwM7iXyoFAOzQUlWeDgB, hand: {persona: 0.2, camp: 0.3}}
+  # corner: death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1685436, itunes: 81241274, ma: _/106, name: Edge of Sanity, short: Sanity, slug: edge-of-sanity, spotify: 1Mcy1ngqEXUXXEQEpUDGix, hand: {persona: 0.1, camp: 0.1}}
+  # corner: death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1693145, itunes: 511556134, ma: _/3540350698, name: Nervosa, short: Nervosa, slug: nervosa, spotify: 5D9d9xyLNQu32QVD9t4YqH, hand: {persona: 0.2, camp: 0.1}}
+  # corner: death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 9268, itunes: 28448368, ma: _/720, name: Vital Remains, short: Vital, slug: vital-remains, spotify: 6bPweC1Ugh3y4m5emo7A36, hand: {persona: 0.4, camp: 0.2}}
+  # corner: death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 15630, itunes: 48888081, ma: _/8508, name: Before the Dawn, short: Before, slug: before-the-dawn, spotify: 6L77qXFnXb7Tac7xzPa0Y7, hand: {persona: 0.1, camp: 0.0}}
+  # corner: death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 10678, itunes: 42405655, ma: _/131, name: Hate Eternal, short: Eternal, slug: hate-eternal, spotify: 4Ru4H8nvpjbqHFStsJJcHV, hand: {persona: 0.2, camp: 0.0}}
+  # corner: death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 321505, itunes: 1227253683, ma: _/3540316081, name: Vita Imana, short: Imana, slug: vita-imana, spotify: 2MhwMqSDaQ3lhptUIGn3iw, hand: {persona: 0.1, camp: 0.1}}
+  # corner: death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 142150812, itunes: 1583767462, ma: _/3540469509, name: Morbific, short: Morbific, slug: morbific, spotify: 1FDLD6VBeFtH2VLz2tUWux, hand: {persona: 0.2, camp: 0.2}}
+  # corner: death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 62631, itunes: 34704981, ma: _/1233, name: Burning Inside, short: Burning, slug: burning-inside, spotify: 63T8Yt5ibQtSzBuSI72y0v, hand: {persona: 0.1, camp: 0.0}}
+  # corner: death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 160188062, itunes: 1609537350, ma: _/3540503789, name: Saphath, short: Saphath, slug: saphath, spotify: 5qjfzysMFcmnHxVah6L6GW, hand: {persona: 0.4, camp: 0.2}}
+  # corner: death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 160020, itunes: 152587227, ma: _/1410, name: Necronomicon, short: Necronom., slug: necronomicon, spotify: 4pVgLKGGqAt7SXEf8mbIw9, hand: {persona: 0.3, camp: 0.1}}
+  # corner: death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 64112, itunes: 3563158, ma: _/175, name: Malevolent Creation, short: Creation, slug: malevolent-creation, spotify: 1NrkyGnaWUYV1hLP74pp6X, hand: {persona: 0.1, camp: 0.2}}
+  # corner: death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 65423, itunes: 41276986, ma: _/792, name: Mortification, short: Mortific., slug: mortification, spotify: 06T4NL0adq4kfYAr2nZv5t, hand: {persona: 0.2, camp: 0.2}}
+  # corner: death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 14514, itunes: 72866866, ma: _/406, name: Necrophagia, short: Necropha2, slug: necrophagia, spotify: 4adOagDPZJzEU6jqL4NxQT, hand: {persona: 0.7, camp: 0.5}}
+  # corner: death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 54866, itunes: 27292051, ma: _/885, name: Incantation, short: Incantat., slug: incantation, spotify: 66AXpP038gUcoKVQoO98Fz, hand: {persona: 0.2, camp: 0.1}}
+  # corner: death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 428268, itunes: 56178858, ma: _/132, name: The Crown, short: The Crown, slug: the-crown, spotify: 76AHlOU3rj6ffoOfVPigLt, hand: {persona: 0.2, camp: 0.1}}
+  # corner: death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 70845, itunes: 95605772, ma: _/5267, name: Asesino, short: Asesino, slug: asesino, spotify: 0ng60bVStDmztL2LMwWTOb, hand: {persona: 0.7, camp: 0.7}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3580, itunes: 80417, ma: _/169, name: Anthrax, short: Anthrax, slug: anthrax, spotify: 3JysSUOyfVs1UQ0UaESheP, hand: {persona: 0.2, camp: 0.5}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 6067, itunes: 3258504, ma: _/157, name: Kreator, short: Kreator, slug: kreator, spotify: 3BM0EaYmkKWuPmmHFUTQHv, hand: {persona: 0.2, camp: 0.1}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 13193, itunes: 157139, ma: _/70, name: Testament, short: Testament, slug: testament, spotify: 28hJdGN1Awf7u3ifk2lVkg, hand: {persona: 0.1, camp: 0.1}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 536, itunes: 16638695, ma: _/335, name: Machine Head, short: Machine, slug: machine-head, spotify: 0lVlNsuGaOr9vMHCZIAKMt, hand: {persona: 0.1, camp: 0.1}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 14703, itunes: 76165710, ma: _/419, name: Sodom, short: Sodom, slug: sodom, spotify: 6SYbLA9utoNsllunR1TnkM, hand: {persona: 0.3, camp: 0.3}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 537, itunes: 15772893, ma: _/3540344931, name: Soulfly, short: Soulfly, slug: soulfly, spotify: 6159IBm5gLPwG4BcJXseXc, hand: {persona: 0.2, camp: 0.1}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5797, itunes: 18030030, ma: _/4, name: Iced Earth, short: Iced, slug: iced-earth, spotify: 3KEixcRfBS5K3E91Vn1Kdy, hand: {persona: 0.3, camp: 0.2}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 16737, itunes: 1448557080, ma: _/173, name: Exodus, short: Exodus, slug: exodus, spotify: 76S65NHJHrNy4JTrXHP2BH, hand: {persona: 0.1, camp: 0.4}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 66744, itunes: 7024320, ma: _/155, name: Destruction, short: Destruct., slug: destruction, spotify: 5d6KI8frPEo3qGsIL8Sak2, hand: {persona: 0.5, camp: 0.3}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5584, itunes: 263455457, ma: _/168, name: Overkill, short: Overkill, slug: overkill, spotify: 0NmYchKQ8JIR9QHYJA0FRe, hand: {persona: 0.3, camp: 0.3}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1776, itunes: 484609, ma: _/959, name: Suicidal Tendencies, short: Suicidal, slug: suicidal-tendencies, spotify: 3WPKDlucMsXH6FC1XaclZC, hand: {persona: 0.3, camp: 0.4}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3936, itunes: 7264636, ma: _/140, name: Annihilator, short: Annihila., slug: annihilator, spotify: 0L8QRAAuWjqvTM8FpQ1gYO, hand: {persona: 0.1, camp: 0.3}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 6580, itunes: 18030088, ma: _/44, name: Nevermore, short: Nevermore, slug: nevermore, spotify: 1wUArE0NhHB8M1bU2WSplY, hand: {persona: 0.1, camp: 0.0}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 677, itunes: 609022, ma: _/59780, name: Ministry, short: Ministry, slug: ministry, spotify: 1DXylZlWbVvlckNqwvjTEt, hand: {persona: 0.3, camp: 0.4}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 7114, itunes: 72276068, ma: _/535, name: Tankard, short: Tankard, slug: tankard, spotify: 0lKpKsvjBKLUeyVIAPHUy1, hand: {persona: 0.3, camp: 0.9}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 7103, itunes: 20826107, ma: _/179, name: Death Angel, short: Angel, slug: death-angel, spotify: 6KVc8Llznru8n9LVCYe9dz, hand: {persona: 0.1, camp: 0.1}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 266681, itunes: 612150, ma: _/371, name: Metal Church, short: Metal Ch., slug: metal-church, spotify: 0exvkfkATkqWOJgugTjJhP, hand: {persona: 0.2, camp: 0.2}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 65415, itunes: 5523371, ma: _/115, name: Voivod, short: Voivod, slug: voivod, spotify: 0lFiKrJUofJpnrAJnMsnQ3, hand: {persona: 0.5, camp: 0.3}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 2987, itunes: 645352, ma: _/3540554953, name: Body Count, short: Count, slug: body-count, spotify: 5KCph1z3jaSwhtwPzoYp6i, hand: {persona: 0.3, camp: 0.4}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 13096, itunes: 28693087, ma: _/31515, name: Gwar, short: Gwar, slug: gwar, spotify: 3dnH7fdVm2X07MK6Fkbhbt, hand: {persona: 1.0, camp: 1.0}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 12244, itunes: 20069556, ma: _/58, name: Skyclad, short: Skyclad, slug: skyclad, spotify: 3CgDRO3wUoner5eZocDuQN, hand: {persona: 0.2, camp: 0.4}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 405259, itunes: 472322503, ma: _/33052, name: Stam1na, short: Stam1na, slug: stam1na, spotify: 41nB823nb3wxEI25UeGHqG, hand: {persona: 0.1, camp: 0.2}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 97094, itunes: 260533877, ma: _/90942, name: Athena, short: Athena, slug: athena, spotify: 1Hy8tdpH9ygqoohumHZqVl, hand: {persona: 0.1, camp: 0.4}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 9922, itunes: 191721935, ma: _/117, name: Coroner, short: Coroner, slug: coroner, spotify: 7lfdXL6PuTM5iWJNvI7PPV, hand: {persona: 0.2, camp: 0.0}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1246, itunes: 1045281972, ma: _/85, name: The Haunted, short: Haunted, slug: the-haunted, spotify: 2WLmgv66Uq4vt2i36vwkAq, hand: {persona: 0.1, camp: 0.0}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 403162, itunes: 258833437, ma: _/34007, name: Evile, short: Evile, slug: evile, spotify: 1dwrMJAKBiLlj0O4R791Xo, hand: {persona: 0.1, camp: 0.3}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 328673, itunes: 67737354, ma: _/1541, name: Holy Moses, short: Moses, slug: holy-moses, spotify: 7jcSmabVYrhiPf8mY1P0OV, hand: {persona: 0.4, camp: 0.2}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 16484, itunes: 80030521, ma: _/1398, name: Nailbomb, short: Nailbomb, slug: nailbomb, spotify: 4Q6EFOghPrRjdwsF4p7Nzm, hand: {persona: 0.1, camp: 0.1}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 59919, itunes: 1527585068, ma: _/1103, name: Exciter, short: Exciter, slug: exciter, spotify: 1jH2JkQvdH6R63yORA8GTd, hand: {persona: 0.3, camp: 0.3}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 399558, itunes: 120301852, ma: _/782, name: Onslaught, short: Onslaught, slug: onslaught, spotify: 71lhIVHJ24x9hEcwFSWuOf, hand: {persona: 0.2, camp: 0.2}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 76263, itunes: 214516, ma: _/952, name: Grim Reaper, short: Reaper, slug: grim-reaper, spotify: 3CSQtK60sg2jNNxnpThSN1, hand: {persona: 0.4, camp: 0.5}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 9026442, itunes: 1046964854, ma: _/2624, name: Wolf Spider, short: Spider, slug: wolf-spider, spotify: 1jkbvjg6emc6BmISf7vaQW, hand: {persona: 0.1, camp: 0.2}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1412688, itunes: 458196158, ma: _/90885, name: Nekromantheon, short: Nekroman., slug: nekromantheon, spotify: 2eA577rcxnqTxv7SVFaXGZ, hand: {persona: 0.3, camp: 0.2}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1227885, itunes: 1728929605, ma: _/3357, name: Hobbs' Angel of Death, short: Hobbs', slug: hobbs-angel-of-death, spotify: 0lZPfJ4u0Kya50n6MKbuX4, hand: {persona: 0.3, camp: 0.4}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 64896, itunes: 101210987, ma: _/30605, name: Ktulu, short: Ktulu, slug: ktulu, spotify: 3CYGxp19jhx6y9WGaMqLql, hand: {persona: 0.1, camp: 0.1}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 11662443, itunes: 1191086726, ma: _/3540422082, name: Sweeping Death, short: Sweeping, slug: sweeping-death, spotify: 6rwsajhIZOnZOvsnDvKQFi, hand: {persona: 0.1, camp: 0.2}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 107301, itunes: 34614325, ma: _/4641, name: Sanatorium, short: Sanatori., slug: sanatorium, spotify: 3xyo3CoJjc68Bj0nwtVvny, hand: {persona: 0.3, camp: 0.4}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 662083, itunes: 1544051506, ma: _/47481, name: Nuclear, short: Nuclear, slug: nuclear, spotify: 5ODa95P58TRNxymAD9moqt, hand: {persona: 0.2, camp: 0.1}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 122069, itunes: 162270, ma: _/621, name: Flotsam and Jetsam, short: Flotsam, slug: flotsam-and-jetsam, spotify: 1ApBh0VSoxRjjT3kFQZrpz, hand: {persona: 0.2, camp: 0.3}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 131940, itunes: 81322810, ma: _/7477, name: Municipal Waste, short: Municipal, slug: municipal-waste, spotify: 2Ah9OuOj7B57gPD1cbwiaE, hand: {persona: 0.3, camp: 0.8}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 241440, itunes: 137951351, ma: _/121, name: Nuclear Assault, short: Assault, slug: nuclear-assault, spotify: 2iu7W76DMacXn6hzAqmJJU, hand: {persona: 0.1, camp: 0.5}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 15013, itunes: 89835354, ma: _/41, name: Absu, short: Absu, slug: absu, spotify: 3eVkhnD2UKVjX5uiUsqfXP, hand: {persona: 0.4, camp: 0.2}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 289082, itunes: 1005187555, ma: _/126, name: Dark Angel, short: Dark Ang., slug: dark-angel, spotify: 0RFQyVQGVcECxnuSLvEKxV, hand: {persona: 0.1, camp: 0.1}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 12970, itunes: 484949, ma: _/1209, name: Prong, short: Prong, slug: prong, spotify: 6SER9tY2pDIDVWVf5Ql97B, hand: {persona: 0.1, camp: 0.0}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 8917, itunes: 4110585, ma: _/15184, name: Cro-Mags, short: Cro-Mags, slug: cro-mags, spotify: 5WCrzTQZ6S6EgebqI57Ilg, hand: {persona: 0.1, camp: 0.1}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 299373, itunes: 260581125, ma: _/34723, name: Havok, short: Havok, slug: havok, spotify: 2jw4wgixxa20jls9N3Bdpq, hand: {persona: 0.1, camp: 0.1}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 295452, itunes: 74969375, ma: _/120, name: Sacred Reich, short: Sacred, slug: sacred-reich, spotify: 0UeVJTdCWGEFSSO9Tg9tiH, hand: {persona: 0.1, camp: 0.3}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 12022, itunes: 184065032, ma: _/484, name: Sabaton, short: Sabaton, slug: sabaton, spotify: 3o2dn2O0FCVsWDFSh8qxgG, hand: {persona: 0.6, camp: 0.6}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5530, itunes: 157798, ma: _/83, name: Manowar, short: Manowar, slug: manowar, spotify: 4CzUzn54Cp9TQr6a7JIlMZ, hand: {persona: 0.8, camp: 0.8}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 2582, itunes: 2320560, ma: _/159, name: Helloween, short: Helloween, slug: helloween, spotify: 4pQN0GB0fNEEOfQCaWotsY, hand: {persona: 0.5, camp: 0.8}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 532, itunes: 29048370, ma: _/192, name: Sonata Arctica, short: Arctica, slug: sonata-arctica, spotify: 5YeoQ1L71cXDMpSpqxOjfH, hand: {persona: 0.1, camp: 0.3}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1904, itunes: 6557658, ma: _/216, name: Stratovarius, short: Stratova., slug: stratovarius, spotify: 1O8CSXsPwEqxcoBE360PPO, hand: {persona: 0.2, camp: 0.3}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 371, itunes: 14549348, ma: _/3, name: Blind Guardian, short: Guardian, slug: blind-guardian, spotify: 7jxJ25p0pPjk0MStloN6o6, hand: {persona: 0.2, camp: 0.3}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 4421, itunes: 3261249, ma: _/2289, name: DragonForce, short: DragonFo., slug: dragonforce, spotify: 2pH3wEn4eYlMMIIQyKPbVR, hand: {persona: 0.3, camp: 0.7}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1324, itunes: 51688, ma: _/108, name: Rainbow, short: Rainbow, slug: rainbow, spotify: 6SLAMfhOi7UJI0fMztaK0m, hand: {persona: 0.5, camp: 0.3}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5796, itunes: 6475279, ma: _/201, name: HammerFall, short: HammerFa., slug: hammerfall, spotify: 2o18h28enlHxj887tATc58, hand: {persona: 0.5, camp: 0.6}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3040, itunes: 3258983, ma: _/166, name: Kamelot, short: Kamelot, slug: kamelot, spotify: 7gTbq5nTZGQIUgjEGXQpOS, hand: {persona: 0.4, camp: 0.3}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 4831, itunes: 3264233, ma: _/221, name: Gamma Ray, short: Gamma Ray, slug: gamma-ray, spotify: 6LZE884lDIsCSLHuTplfGp, hand: {persona: 0.2, camp: 0.4}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 428405, itunes: 272130237, ma: _/34543, name: Powerwolf, short: Powerwolf, slug: powerwolf, spotify: 5HFkc3t0HYETL4JeEbDB1v, hand: {persona: 0.9, camp: 0.9}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3797, itunes: 181601973, ma: _/172, name: Symphony X, short: Symphony, slug: symphony-x, spotify: 4MnZkh4dpNmTMPxkl4Ev5L, hand: {persona: 0.1, camp: 0.1}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1788, itunes: 17249265, ma: _/170, name: Edguy, short: Edguy, slug: edguy, spotify: 3AGFqPP3gt5rMSvhR87Xxu, hand: {persona: 0.4, camp: 0.8}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 4807, itunes: 1450453039, ma: _/1029, name: Primal Fear, short: Primal, slug: primal-fear, spotify: 1yfiDL3YUEJlQCgb5Pun6g, hand: {persona: 0.2, camp: 0.3}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 134060, itunes: 1436762874, ma: _/8837, name: Voyager, short: Voyager, slug: voyager, spotify: 16fltNcwTM5V9rnxIlcha4, hand: {persona: 0.2, camp: 0.2}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3798, itunes: 17270887, ma: _/391, name: Grave Digger, short: Digger, slug: grave-digger, spotify: 6mfghV4I1CD17FOhDKq7cJ, hand: {persona: 0.4, camp: 0.4}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 4836, itunes: 3261481, ma: _/900, name: Rage, short: Rage, slug: rage, spotify: 5TJVsWPUaJxBxWfVZQEt2x, hand: {persona: 0.1, camp: 0.1}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 125436, itunes: 272280214, ma: _/116989, name: Alestorm, short: Alestorm, slug: alestorm, spotify: 3OpqU68JpZlzvjAJj3B2Da, hand: {persona: 0.8, camp: 1.0}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 14547, itunes: 7296903, ma: _/306, name: Running Wild, short: Running, slug: running-wild, spotify: 7954VFaZClkL503srfV5PE, hand: {persona: 0.6, camp: 0.5}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3708, itunes: 154040, ma: _/193, name: Savatage, short: Savatage, slug: savatage, spotify: 3N1B1g6JtIgd6ClRkzD4yT, hand: {persona: 0.4, camp: 0.3}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 16512, itunes: 213706652, ma: _/87185, name: Van Canto, short: Van Canto, slug: van-canto, spotify: 7cTq0bYGTIlPoXo9lFXJlL, hand: {persona: 0.4, camp: 0.7}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 13248389, itunes: 117491744, ma: _/19417, name: Galneryus, short: Galneryus, slug: galneryus, spotify: 3BNDjSD67jJE4fhxX1b2OV, hand: {persona: 0.3, camp: 0.4}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 161777, itunes: 285231924, ma: _/97986, name: Versailles, short: Versaill., slug: versailles, spotify: 3suWpKrodV4J0ozhubrmir, hand: {persona: 0.9, camp: 0.7}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 400967, itunes: 412807070, ma: _/3540325827, name: Battle Beast, short: Battle, slug: battle-beast, spotify: 7k5jeohQCF20a8foBD9ize, hand: {persona: 0.5, camp: 0.6}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 4868, itunes: 188115824, ma: _/603, name: Freedom Call, short: Freedom, slug: freedom-call, spotify: 55RDuy7cQW2Dqrcz3Jjl6F, hand: {persona: 0.1, camp: 0.6}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 2829401, itunes: 536282514, ma: _/3540261755, name: Nanowar of Steel, short: Nanowar, slug: nanowar-of-steel, spotify: 7jw9vF1hFRp1k8dDRNRiC5, hand: {persona: 0.7, camp: 1.0}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5689968, itunes: 660106105, ma: _/3540354213, name: Judicator, short: Judicator, slug: judicator, spotify: 0MLGtE2Xb1FVrXOy5hUTbO, hand: {persona: 0.2, camp: 0.1}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 746090, itunes: 453387256, ma: _/3540261191, name: Neonfly, short: Neonfly, slug: neonfly, spotify: 1wnlhuOqpsrSVILi00vhMw, hand: {persona: 0.1, camp: 0.2}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 337311, itunes: 151033709, ma: _/3813, name: Hibria, short: Hibria, slug: hibria, spotify: 72rswq5X0csZgWCsAqDwfU, hand: {persona: 0.2, camp: 0.2}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 129327, itunes: 4237829, ma: _/264, name: Warlord, short: Warlord, slug: warlord, spotify: 5DDTGRCwOUzF6mhCnyjl17, hand: {persona: 0.5, camp: 0.3}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5821233, itunes: 868033752, ma: _/3540380932, name: Lords of Black, short: Lords, slug: lords-of-black, spotify: 5PgEqen6HcezHZRU1PJO0Z, hand: {persona: 0.1, camp: 0.1}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 97367, itunes: 159747359, ma: _/1130, name: Leatherwolf, short: Leatherw., slug: leatherwolf, spotify: 1e4sTndn6XYL3IOvmuWpsJ, hand: {persona: 0.3, camp: 0.4}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 101775, itunes: 112524185, ma: _/846, name: Balance of Power, short: Balance, slug: balance-of-power, spotify: 0UNAFOShoComAV8MzAxzGU, hand: {persona: 0.1, camp: 0.1}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 4661935, itunes: 424022271, ma: _/8080, name: Epidemia, short: Epidemia, slug: epidemia, spotify: 7GQkGMp7NcATMCru95ES3N, hand: {persona: 0.4, camp: 0.4}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 4506681, itunes: 609712495, ma: _/3540361647, name: Gloryhammer, short: Gloryham., slug: gloryhammer, spotify: 7dkEByOe0oHqc54qU4hwzV, hand: {persona: 0.9, camp: 1.0}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 16177, itunes: 45911654, ma: _/84007, name: Krypteria, short: Krypteria, slug: krypteria, spotify: 4MN5X8pr84Fliz62NlXhym, hand: {persona: 0.2, camp: 0.1}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 4819, itunes: 21299680, ma: _/2025, name: Firewind, short: Firewind, slug: firewind, spotify: 70I9vE7YTwKmelfEplXc5r, hand: {persona: 0.1, camp: 0.1}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 13056, itunes: 3258272, ma: _/329, name: Iron Savior, short: Savior, slug: iron-savior, spotify: 6COmyouHXwCeIGS1IFd1PA, hand: {persona: 0.3, camp: 0.4}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 4852, itunes: 72263728, ma: _/1510, name: Masterplan, short: Masterpl., slug: masterplan, spotify: 1OHNvr18TssBKYK0A75yvx, hand: {persona: 0.1, camp: 0.1}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 4841, itunes: 74469873, ma: _/1007, name: Warmen, short: Warmen, slug: warmen, spotify: 28pvPjZ2n9xUBEHnMgupmh, hand: {persona: 0.1, camp: 0.2}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 16463, itunes: 26515293, ma: _/8571, name: 3 Inches of Blood, short: Inches, slug: 3-inches-of-blood, spotify: 0gNkDUN42nBxKOcpoF7iQ4, hand: {persona: 0.4, camp: 0.6}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 912, itunes: 411644, ma: _/1752, name: Apocalyptica, short: Apocalyp., slug: apocalyptica, spotify: 4Lm0pUvmisUHMdoky5ch2I, hand: {persona: 0.2, camp: 0.2}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 121, itunes: 3738030, ma: _/24, name: Cradle of Filth, short: Cradle, slug: cradle-of-filth, spotify: 0NTSMFFapnyZfvmCwzcYPd, hand: {persona: 0.8, camp: 0.7}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 4018, itunes: 15978957, ma: _/94, name: Therion, short: Therion, slug: therion, spotify: 5c8Cw62ZYj9XO6iDLRDEsi, hand: {persona: 0.6, camp: 0.3}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1957, itunes: 34611349, ma: _/101, name: Tristania, short: Tristania, slug: tristania, spotify: 2EOmvmVtYMTgn45w9mWUTV, hand: {persona: 0.5, camp: 0.2}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 12013, itunes: 184414833, ma: _/10897, name: Delain, short: Delain, slug: delain, spotify: 6pIRdCtSE5hLFfIfcTAicI, hand: {persona: 0.4, camp: 0.2}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3081, itunes: 390303079, ma: _/26706, name: Leaves' Eyes, short: Leaves', slug: leaves-eyes, spotify: 63qODcvBCdG2kTguOJkEqJ, hand: {persona: 0.4, camp: 0.2}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5767, itunes: 18098384, ma: _/61, name: Moonspell, short: Moonspell, slug: moonspell, spotify: 17bYSQ9ZRnreVnJjE5X2x6, hand: {persona: 0.5, camp: 0.1}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3799, itunes: 18243640, ma: _/859, name: Tiamat, short: Tiamat, slug: tiamat, spotify: 5SwHKKNKYToC1YzWVNWAIN, hand: {persona: 0.3, camp: 0.2}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 2429, itunes: 28441704, ma: _/162, name: Sentenced, short: Sentenced, slug: sentenced, spotify: 5jQPKWBobu6cJwGSbbqgCk, hand: {persona: 0.1, camp: 0.2}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 8524, itunes: 35934741, ma: _/1393, name: Sirenia, short: Sirenia, slug: sirenia, spotify: 5FXMcILCOMjljRTV6cLoiE, hand: {persona: 0.4, camp: 0.1}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 8009, itunes: 76752772, ma: _/3718, name: Xandria, short: Xandria, slug: xandria, spotify: 1jzIEzXVJ4p1kFDmio6LEL, hand: {persona: 0.3, camp: 0.2}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 2015, itunes: 3971095, ma: _/797, name: The Gathering, short: Gathering, slug: the-gathering, spotify: 2kO6zjt4a1OIqxOERhliEX, hand: {persona: 0.1, camp: 0.0}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 15670, itunes: 73654764, ma: _/1650, name: Turisas, short: Turisas, slug: turisas, spotify: 0ykT1si9XRFPmEvWOnf4YI, hand: {persona: 0.8, camp: 0.8}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1955, itunes: 125552515, ma: _/1843, name: Edenbridge, short: Edenbrid., slug: edenbridge, spotify: 4kRllkt5ryNVBqFinVjBQZ, hand: {persona: 0.4, camp: 0.3}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 4816, itunes: 258882455, ma: _/568, name: Dark Moor, short: Dark Moor, slug: dark-moor, spotify: 0YWKRTzA4kBceGwjywtMkh, hand: {persona: 0.3, camp: 0.3}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 12041, itunes: 80570950, ma: _/5044, name: Theatres des Vampires, short: Theatres, slug: theatres-des-vampires, spotify: 4vNrZHCyGyELnv8tAgZZRt, hand: {persona: 0.9, camp: 0.5}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3220, itunes: 47337927, ma: _/1236, name: Trail of Tears, short: Trail, slug: trail-of-tears, spotify: 76xPyUXPsTtSfap214AjLd, hand: {persona: 0.2, camp: 0.1}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 2430, itunes: 131243841, ma: _/2610, name: Entwine, short: Entwine, slug: entwine, spotify: 3PgNlHzp2aZ46SHJVQzdSU, hand: {persona: 0.2, camp: 0.1}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 7095, itunes: 19092810, ma: _/5057, name: Poisonblack, short: Poisonbl., slug: poisonblack, spotify: 1mBXJUab9jbcHhYxMuWbxO, hand: {persona: 0.2, camp: 0.1}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 16012, itunes: 71466223, ma: _/2052, name: Ajattara, short: Ajattara, slug: ajattara, spotify: 19WQljDiwhjoGNc8CMbQgn, hand: {persona: 0.5, camp: 0.1}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 10860, itunes: 54673976, ma: _/431, name: Battlelore, short: Battlelo., slug: battlelore, spotify: 6vDPwpGZIflBoW6Gy3FWFw, hand: {persona: 0.5, camp: 0.4}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 7308658, itunes: 955346353, ma: _/3540392394, name: Beyond the Black, short: Beyond, slug: beyond-the-black, spotify: 6swnqiL41Bd4gO2fnAXXrf, hand: {persona: 0.2, camp: 0.1}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 12026, itunes: 1458389821, ma: _/5764, name: Charon, short: Charon, slug: charon, spotify: 2FBDDo06NZR5B7qOzmMxq9, hand: {persona: 0.3, camp: 0.2}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 615134, itunes: 452518701, ma: _/3540263663, name: UnSun, short: UnSun, slug: unsun, spotify: 6gOet6ki04ZkASl49nF37y, hand: {persona: 0.2, camp: 0.1}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 137082902, itunes: 1511802550, ma: _/2526, name: Artrosis, short: Artrosis, slug: artrosis, spotify: 5DHE6xWVz99NWtnKnH9A4h, hand: {persona: 0.5, camp: 0.2}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 101997, itunes: 72469327, ma: _/11971, name: Elis, short: Elis, slug: elis, spotify: 4dTr0gD3dQD5dOzyaqdSyk, hand: {persona: 0.4, camp: 0.1}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 193881, itunes: 309867739, ma: _/6406, name: For My Pain..., short: Pain..., slug: for-my-pain, spotify: 6s5biOReFi1Oe9GQOG0nsL, hand: {persona: 0.2, camp: 0.1}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 98276, itunes: 47458962, ma: _/21147, name: Midnattsol, short: Midnatts., slug: midnattsol, spotify: 3HND3tDShGgRZ0dVkiCl5e, hand: {persona: 0.3, camp: 0.2}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 8555, itunes: 65808114, ma: _/375, name: The Sins of Thy Beloved, short: Beloved, slug: the-sins-of-thy-beloved, spotify: 0eFg9cfr8pPciNtqP5s14S, hand: {persona: 0.3, camp: 0.1}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 180518337, itunes: 1640711754, ma: _/3540516892, name: Dying Phoenix, short: Phoenix, slug: dying-phoenix, spotify: 7s9B0wGJSFRfTVYSggCSK3, hand: {persona: 0.4, camp: 0.3}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 85787272, itunes: 1498778637, ma: _/3540466768, name: Volturian, short: Volturian, slug: volturian, spotify: 1kaSMA4dkMLk11AoMUQdoJ, hand: {persona: 0.3, camp: 0.1}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 328684, itunes: 62939865, ma: _/7195, name: Aeternitas, short: Aeternit., slug: aeternitas, spotify: 3TYuNFdUzcXvc9aSdg3Dy3, hand: {persona: 0.4, camp: 0.2}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 59611, itunes: 1501387941, ma: _/3457, name: Jack Frost, short: Frost, slug: jack-frost, spotify: 3mS8iXOb7sadHwb0Zj1I7G, hand: {persona: 0.2, camp: 0.1}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 4608526, itunes: 313364869, ma: _/33309, name: Tears of Martyr, short: Martyr, slug: tears-of-martyr, spotify: 7JpqzUHOToEFGMLWJ18RJA, hand: {persona: 0.3, camp: 0.2}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 524197, itunes: 262528171, ma: _/108312, name: The Foreshadowing, short: The Fore., slug: the-foreshadowing, spotify: 6E1AERKe6DMmO8bl35xkUF, hand: {persona: 0.1, camp: 0.0}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 15828, itunes: 251855365, ma: _/18073, name: Stravaganzza, short: Stravaga., slug: stravaganzza, spotify: 1lVrgymnyAR40c556RIY5i, hand: {persona: 0.5, camp: 0.4}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 470089, itunes: 417112322, ma: _/4520, name: Heavenwood, short: Heavenwo., slug: heavenwood, spotify: 68jo4R3KEl2yfrMoYCiAVg, hand: {persona: 0.3, camp: 0.1}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 7094, itunes: 16252318, ma: _/563, name: Crematory, short: Crematory, slug: crematory, spotify: 4q2uhIfBHCNlwXYvQdnzvS, hand: {persona: 0.3, camp: 0.2}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 382294, itunes: 365991611, ma: _/3540288705, name: Diabulus in Musica, short: Diabulus, slug: diabulus-in-musica, spotify: 2g98DnPyHWcZXg8cLg0sNF, hand: {persona: 0.3, camp: 0.2}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 9401, itunes: 254023830, ma: _/2443, name: Lake of Tears, short: Tears, slug: lake-of-tears, spotify: 13ltbymjg9upz4wOoF5TTs, hand: {persona: 0.2, camp: 0.1}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 9398, itunes: 262387134, ma: _/17035, name: Nemesea, short: Nemesea, slug: nemesea, spotify: 0KV2B2b0q24rEawMkFmQvD, hand: {persona: 0.3, camp: 0.1}}
+  # corner: folk-pagan; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 8544, itunes: 35939436, ma: _/17431, name: Korpiklaani, short: Korpikla., slug: korpiklaani, spotify: 521Yl3LUvD7G9dMRO4fpCy, hand: {persona: 0.4, camp: 0.7}}
+  # corner: folk-pagan; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 8007, itunes: 158078286, ma: _/95, name: Finntroll, short: Finntroll, slug: finntroll, spotify: 4ZgkHVHmGPXuRy8zd26ZJX, hand: {persona: 0.7, camp: 0.8}}
+  # corner: folk-pagan; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 4162, itunes: 165478235, ma: _/865, name: Mägo de Oz, short: Mägo, slug: mago-de-oz, spotify: 5ZNxiPcbKgaNcBrERMpqeu, hand: {persona: 0.5, camp: 0.5}}
+  # corner: folk-pagan; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 108315, itunes: 140800517, ma: _/14435, name: Týr, short: Týr, slug: tyr, spotify: 6TmGNPW2oDM5uaXBILozGa, hand: {persona: 0.3, camp: 0.3}}
+  # corner: folk-pagan; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 361385, itunes: 1455483688, ma: _/3207, name: Metsatöll, short: Metsatöll, slug: metsatoll, spotify: 5LJPlSHiYtJQ7mvVfDPVkT, hand: {persona: 0.5, camp: 0.3}}
+  # corner: folk-pagan; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 283619, itunes: 268908289, ma: _/2776, name: Skyforger, short: Skyforger, slug: skyforger, spotify: 5QLr9mctfuwi8KGF1W211r, hand: {persona: 0.4, camp: 0.1}}
+  # corner: folk-pagan; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 98278, itunes: 276240509, ma: _/17850, name: Heidevolk, short: Heidevolk, slug: heidevolk, spotify: 0A2YaO4tUFeJVNn5Hvjfxa, hand: {persona: 0.5, camp: 0.4}}
+  # corner: folk-pagan; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 7659, itunes: 211136953, ma: _/86, name: Cruachan, short: Cruachan, slug: cruachan, spotify: 6QpbkfyEQJ3JiQw2AbTRUH, hand: {persona: 0.4, camp: 0.3}}
+  # corner: folk-pagan; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 108220, itunes: 54687228, ma: _/307, name: Einherjer, short: Einherjer, slug: einherjer, spotify: 0iGkBvuI18nxqJR8Ipg1cu, hand: {persona: 0.4, camp: 0.3}}
+  # corner: folk-pagan; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5263, itunes: 27067120, ma: _/3540508540, name: Corvus Corax, short: Corvus, slug: corvus-corax, spotify: 0Qeg2Ytz5AcfvkIO3RYV3z, hand: {persona: 0.8, camp: 0.4}}
+  # corner: folk-pagan; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 838847, itunes: 303702370, ma: _/20648, name: Trollfest, short: Trollfest, slug: trollfest, spotify: 2GkRxQ8FEGrWxU8BjZKfmh, hand: {persona: 0.9, camp: 0.9}}
+  # corner: folk-pagan; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 161189, itunes: 67732529, ma: _/487, name: Suidakra, short: Suidakra, slug: suidakra, spotify: 77H7WLYHNHy0klUy1fGXIi, hand: {persona: 0.2, camp: 0.2}}
+  # corner: folk-pagan; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 56228, itunes: 156901262, ma: _/28, name: Ancient Rites, short: Rites, slug: ancient-rites, spotify: 0okB1HEJFLD98VkNzLtTBJ, hand: {persona: 0.3, camp: 0.2}}
+  # corner: folk-pagan; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 148086, itunes: 1474978685, ma: _/91866, name: Dalriada, short: Dalriada, slug: dalriada, spotify: 4mIdyUBqjS36BQHYFBbGjm, hand: {persona: 0.2, camp: 0.1}}
+  # corner: folk-pagan; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 10445, itunes: 78416944, ma: _/2345, name: Empyrium, short: Empyrium, slug: empyrium, spotify: 4zDkgQanNydhYIqQwQK9Ct, hand: {persona: 0.2, camp: 0.0}}
+  # corner: folk-pagan; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 195268, itunes: 300541149, ma: _/15448, name: Darkestrah, short: Darkestr., slug: darkestrah, spotify: 2p4o8dimVkgrBEdDr4Q90p, hand: {persona: 0.3, camp: 0.1}}
+  # corner: folk-pagan; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 283715, itunes: 1157658276, ma: _/102515, name: Kauan, short: Kauan, slug: kauan, spotify: 2QgzO1Z5XYu9zj3nOYsXUa, hand: {persona: 0.1, camp: 0.0}}
+  # corner: folk-pagan; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1147970, itunes: 283744195, ma: _/10145, name: Alkonost, short: Alkonost, slug: alkonost, spotify: 6uqnggb1uJbtZI4u3aLyBe, hand: {persona: 0.5, camp: 0.2}}
+  # corner: folk-pagan; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 8853, itunes: 275891977, ma: _/993, name: Tuatha de Danann, short: Tuatha, slug: tuatha-de-danann, spotify: 13LUK4MSLSmDpI6D3lJqEn, hand: {persona: 0.5, camp: 0.3}}
+  # corner: folk-pagan; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1370165, itunes: 447041200, ma: _/3540272949, name: Furor Gallico, short: Gallico, slug: furor-gallico, spotify: 3EdTAF8rCNoJhEYmNKBehq, hand: {persona: 0.4, camp: 0.4}}
+  # corner: folk-pagan; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 76463, itunes: 78422006, ma: _/14673, name: Stille Volk, short: Stille, slug: stille-volk, spotify: 51SooI3a4DtiguFh0Z6DKd, hand: {persona: 0.6, camp: 0.2}}
+  # corner: folk-pagan; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5575127, itunes: 744998616, ma: _/37241, name: Bucovina, short: Bucovina, slug: bucovina, spotify: 2Z912EMB8D91VQT4rFUEX1, hand: {persona: 0.3, camp: 0.2}}
+  # corner: folk-pagan; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 14217209, itunes: 1348368091, ma: _/3540469695, name: Celtian, short: Celtian, slug: celtian, spotify: 0VpsiJTEi0fQsp0SEekO2K, hand: {persona: 0.3, camp: 0.2}}
+  # corner: folk-pagan; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5340776, itunes: 745177324, ma: _/3540323639, name: Ithilien, short: Ithilien, slug: ithilien, spotify: 59iRMFTuawaKRgDPAKDo1y, hand: {persona: 0.4, camp: 0.4}}
+  # corner: folk-pagan; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5511206, itunes: 811070302, ma: _/3540368273, name: Alvenrad, short: Alvenrad, slug: alvenrad, spotify: 2etcMScE1CXkWDaxhruK7b, hand: {persona: 0.3, camp: 0.1}}
+  # corner: folk-pagan; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 205433, itunes: 1507129448, ma: _/11796, name: Kawir, short: Kawir, slug: kawir, spotify: 1wBSwxYOA4GFZcemohgd5z, hand: {persona: 0.4, camp: 0.2}}
+  # corner: folk-pagan; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 10981326, itunes: 296375511, ma: _/123248, name: Bucium, short: Bucium, slug: bucium, spotify: 6s82iZ3aNxCqPwUskdP5Ud, hand: {persona: 0.3, camp: 0.2}}
+  # corner: folk-pagan; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 11440956, itunes: 1180259395, ma: _/97803, name: Tersivel, short: Tersivel, slug: tersivel, spotify: 34ezOg9ZEcpw8lAFDQgmcO, hand: {persona: 0.3, camp: 0.2}}
+  # corner: folk-pagan; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 7380374, itunes: 778621569, ma: _/3540260262, name: Tierramystica, short: Tierramy., slug: tierramystica, spotify: 0wz6D0zCRzwOrQ1LgVkNdL, hand: {persona: 0.5, camp: 0.3}}
+  # corner: folk-pagan; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 4045336, itunes: 569705781, ma: _/121729, name: Grai, short: Grai, slug: grai, spotify: 0rCnaw6G40B5yDq59zhCFC, hand: {persona: 0.4, camp: 0.2}}
+  # corner: folk-pagan; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 11070364, itunes: 1157621889, ma: _/3540348023, name: Lex Talion, short: Talion, slug: lex-talion, spotify: 1M93pwzoP57d6dTKoqFYnn, hand: {persona: 0.3, camp: 0.2}}
+  # corner: folk-pagan; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1653660, itunes: 504566586, ma: _/84827, name: Svartby, short: Svartby, slug: svartby, spotify: 3pISjE1shNv8ovqz01HOhm, hand: {persona: 0.7, camp: 0.5}}
+  # corner: folk-pagan; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 4848035, itunes: 656543354, ma: _/3540365698, name: Boisson divine, short: Boisson, slug: boisson-divine, spotify: 39HT4igSf5Y3A7ZJOR5zL2, hand: {persona: 0.4, camp: 0.7}}
+  # corner: folk-pagan; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1022366, itunes: 338077884, ma: _/69144, name: Waldgeflüster, short: Waldgefl., slug: waldgefluster, spotify: 1LAUNbSi4NHJfXGvgOoBFy, hand: {persona: 0.1, camp: 0.0}}
+  # corner: folk-pagan; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 647161, itunes: 382059764, ma: _/3540295065, name: King of Asgard, short: Asgard, slug: king-of-asgard, spotify: 7AUos3yuM9KT0qeTJuMCfz, hand: {persona: 0.4, camp: 0.2}}
+  # corner: folk-pagan; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1682032, itunes: 271922226, ma: _/4947, name: Drautran, short: Drautran, slug: drautran, spotify: 5Q1Q0YhgdpAX1oTQ2lfjLm, hand: {persona: 0.4, camp: 0.1}}
+  # corner: folk-pagan; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 253803, itunes: 309878302, ma: _/101867, name: Heathen Foray, short: Heathen, slug: heathen-foray, spotify: 31Tfxkj0HCfFgEjluRPSMi, hand: {persona: 0.4, camp: 0.3}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 828, itunes: 730091, ma: _/37, name: Dream Theater, short: Theater, slug: dream-theater, spotify: 2aaLAng2L2aWD2FClzwiep, hand: {persona: 0.0, camp: 0.1}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 969, itunes: 254545979, ma: _/2150, name: X Japan, short: X Japan, slug: x-japan, spotify: 4VrqQQy6X0hlMtqY5gp6Wx, hand: {persona: 0.8, camp: 0.5}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 6016, itunes: 165176, ma: _/340, name: Queensrÿche, short: Queensrÿ., slug: queensryche, spotify: 2OgUPVlWYgGBGMefZgGvCO, hand: {persona: 0.3, camp: 0.1}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 2090, itunes: 149011322, ma: _/389, name: Liquid Tension Experiment, short: Tension, slug: liquid-tension-experiment, spotify: 0r1s1XoxdoXECGfyChzb2v, hand: {persona: 0.0, camp: 0.2}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3565, itunes: 188155872, ma: _/547, name: Pain of Salvation, short: Salvation, slug: pain-of-salvation, spotify: 1uRpg2s2jNaxbmoNiJDGfd, hand: {persona: 0.1, camp: 0.0}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1986, itunes: 201629913, ma: _/1427, name: Ayreon, short: Ayreon, slug: ayreon, spotify: 2RSApl0SXcVT8Yiy4UaPSt, hand: {persona: 0.8, camp: 0.3}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 8892, itunes: 135499096, ma: _/1388, name: Evergrey, short: Evergrey, slug: evergrey, spotify: 4S0foX2r0RlC12KBW8u73D, hand: {persona: 0.1, camp: 0.0}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 639, itunes: 192030844, ma: _/538, name: Angra, short: Angra, slug: angra, spotify: 7IAXZaLTb6nkJr8RmVPn5y, hand: {persona: 0.1, camp: 0.1}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 160978, itunes: 28430680, ma: _/629, name: Borknagar, short: Borknagar, slug: borknagar, spotify: 0vxxsjcDy61x5zvrOqwHIL, hand: {persona: 0.2, camp: 0.1}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 249476, itunes: 82625317, ma: _/943, name: Loudness, short: Loudness, slug: loudness, spotify: 2bjzKs28cL5EVKB0xqUGuJ, hand: {persona: 0.1, camp: 0.2}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 246392, itunes: 317299570, ma: _/105456, name: Myrath, short: Myrath, slug: myrath, spotify: 72500XOYPw5e7OgFWuW2Gl, hand: {persona: 0.4, camp: 0.3}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 15972, itunes: 60726978, ma: _/16437, name: Riverside, short: Riverside, slug: riverside, spotify: 5yjbUO1Jocui7RKE30zfLT, hand: {persona: 0.0, camp: 0.0}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 13134, itunes: 56820038, ma: _/604, name: Fates Warning, short: Warning, slug: fates-warning, spotify: 4S6URhg3PMKnCv9clR4ejE, hand: {persona: 0.0, camp: 0.0}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1993, itunes: 60806382, ma: _/1383, name: Fantômas, short: Fantômas, slug: fantomas, spotify: 43ltIj8NRBsmOEjDr5Sk10, hand: {persona: 0.8, camp: 0.7}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 261790, itunes: 322022617, ma: _/106322, name: Leprous, short: Leprous, slug: leprous, spotify: 4lgrzShsg2FLA89UM2fdO5, hand: {persona: 0.1, camp: 0.0}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 92242, itunes: 561583302, ma: _/24516, name: Serenity, short: Serenity, slug: serenity, spotify: 3cdasOCLRe8dKjzjowtzNW, hand: {persona: 0.2, camp: 0.2}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5253, itunes: 82321622, ma: _/45291, name: Stream of Passion, short: Stream, slug: stream-of-passion, spotify: 3WbWjYpDshKxCyN7KOrDyz, hand: {persona: 0.1, camp: 0.1}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5684, itunes: 65457331, ma: _/5795, name: Avalanch, short: Avalanch, slug: avalanch, spotify: 2ZUIJQdnxHYN1pssKbtwh5, hand: {persona: 0.3, camp: 0.2}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 983172, itunes: 42373693, ma: _/63100, name: Obscura, short: Obscura, slug: obscura, spotify: 7i82bJxWj1Tggc7pnU1hzt, hand: {persona: 0.0, camp: 0.0}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 65997, itunes: 14638119, ma: _/4138, name: Waltari, short: Waltari, slug: waltari, spotify: 6IuUpA7uQbkfYhl3oG3ZDv, hand: {persona: 0.3, camp: 0.5}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 14958, itunes: 319382458, ma: _/3089, name: Pagan's Mind, short: Pagan's, slug: pagan-s-mind, spotify: 0dvzEeVLv8VDQ0Rv36PZis, hand: {persona: 0.1, camp: 0.1}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 7646, itunes: 72774929, ma: _/1128, name: Royal Hunt, short: Hunt, slug: royal-hunt, spotify: 2CzAMm46coQpauDZj4a4ic, hand: {persona: 0.2, camp: 0.2}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 4107764, itunes: 110917017, ma: _/4418, name: Kekal, short: Kekal, slug: kekal, spotify: 1TfoHj4wkkwQIIkE48Rgy5, hand: {persona: 0.1, camp: 0.0}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1431245, itunes: 348367792, ma: _/3540432636, name: Sons of Apollo, short: Apollo, slug: sons-of-apollo, spotify: 3oBGGy1VOs6IHOa1ZdUx2f, hand: {persona: 0.1, camp: 0.3}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1235791, itunes: 78950026, ma: _/888, name: Ved Buens Ende, short: Buens, slug: ved-buens-ende, spotify: 21vmt9OUXyQVJEOrNad6JX, hand: {persona: 0.3, camp: 0.1}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 66001, itunes: 204113272, ma: _/381, name: Crimson Glory, short: Glory, slug: crimson-glory, spotify: 2B73nUiRlcSwjTyVaIAwhR, hand: {persona: 0.8, camp: 0.3}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 2488591, itunes: 523723345, ma: _/91913, name: Ne Obliviscaris, short: Ne Obliv., slug: ne-obliviscaris, spotify: 5kbidtcpyRRMdAQUnI1BG4, hand: {persona: 0.1, camp: 0.0}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 16681, itunes: 99418200, ma: _/1114, name: Threshold, short: Threshold, slug: threshold, spotify: 7KTRbZ1YTch5oXQOmQTStM, hand: {persona: 0.1, camp: 0.1}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 299404, itunes: 310909282, ma: _/3540280274, name: Sons of Seasons, short: Seasons, slug: sons-of-seasons, spotify: 0di3Zp5nbti1aNqC9O4kQQ, hand: {persona: 0.2, camp: 0.1}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1310706, itunes: 161894491, ma: _/26360, name: Suspyre, short: Suspyre, slug: suspyre, spotify: 3puJQaJutGEPvjOkbGKN8m, hand: {persona: 0.2, camp: 0.1}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1681113, itunes: 78506710, ma: _/9964, name: Dark Suns, short: Dark Suns, slug: dark-suns, spotify: 725TVcN9QYnaZiG9VFBT7P, hand: {persona: 0.1, camp: 0.0}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1055546, itunes: 314135538, ma: _/3540282333, name: Aeon Zen, short: Aeon Zen, slug: aeon-zen, spotify: 0T073Nv8qEZ0Pd8dN0U3n4, hand: {persona: 0.0, camp: 0.0}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 176805, itunes: 127751845, ma: _/92910, name: Darkwater, short: Darkwater, slug: darkwater, spotify: 3VFAEJuUQ6rHfKT9qlZ3Zq, hand: {persona: 0.1, camp: 0.1}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 12460946, itunes: 1237697146, ma: _/3540323094, name: Acute Mind, short: Acute, slug: acute-mind, spotify: 7mwjY1Pb2o5A8k7ngkikGy, hand: {persona: 0.1, camp: 0.0}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1267180, itunes: 206720154, ma: _/30067, name: Anthropia, short: Anthropia, slug: anthropia, spotify: 4siv3lrIzkJZxy59uz3D1X, hand: {persona: 0.3, camp: 0.2}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 131960, itunes: 48886867, ma: _/4144, name: Ankhara, short: Ankhara, slug: ankhara, spotify: 4c0CmlfLtocEfBgq5w289e, hand: {persona: 0.3, camp: 0.3}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 7728, itunes: 169934198, ma: _/32715, name: Circus Maximus, short: Maximus, slug: circus-maximus, spotify: 1pxKRI6EFLtWmAiya9Pj1S, hand: {persona: 0.1, camp: 0.1}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 65406, itunes: 36768287, ma: _/24704, name: Communic, short: Communic, slug: communic, spotify: 56w3AIFmUXAMlij4gvgEMF, hand: {persona: 0.1, camp: 0.0}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 10815, itunes: 41375803, ma: _/152, name: Nocturnus, short: Nocturnus, slug: nocturnus, spotify: 5ATaBoi3yPQE7k3PD7TuDB, hand: {persona: 0.7, camp: 0.4}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 471416, itunes: 1646410, ma: _/7766, name: Seventh Wonder, short: Seventh, slug: seventh-wonder, spotify: 30nUQaYp91iDcRyhr1oNn0, hand: {persona: 0.1, camp: 0.1}}
+  # corner: prog-avant; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 248872, itunes: 80015632, ma: _/1411, name: Shadow Gallery, short: Gallery, slug: shadow-gallery, spotify: 79zigPpfSQ5Fgeu0iaI8n5, hand: {persona: 0.1, camp: 0.1}}
+  # corner: industrial; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 6488, itunes: 374074145, ma: _/779, name: Pain, short: Pain, slug: pain, spotify: 0hGpZy6ws8FofByMkt0CV1, hand: {persona: 0.2, camp: 0.3}}
+  # corner: industrial; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3263, itunes: 73170022, ma: _/31, name: Samael, short: Samael, slug: samael, spotify: 1WXagRGw8AveVrRxDfUjli, hand: {persona: 0.3, camp: 0.2}}
+  # corner: industrial; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3006, itunes: 115954, ma: _/850, name: White Zombie, short: Zombie, slug: white-zombie, spotify: 0CF71zaDOJWCynIkW9bSK8, hand: {persona: 0.8, camp: 0.7}}
+  # corner: industrial; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 8028, itunes: 116458, ma: _/81699, name: Pitchshifter, short: Pitchshi., slug: pitchshifter, spotify: 10aXVE8RSUCeMzaFvBnZ2i, hand: {persona: 0.3, camp: 0.3}}
+  # corner: industrial; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3116, itunes: 56766498, ma: _/3540395352, name: Hanzel und Gretyl, short: Hanzel, slug: hanzel-und-gretyl, spotify: 0cMQ1u5neB0RWhQiSCXjdH, hand: {persona: 0.8, camp: 0.9}}
+  # corner: industrial; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 58645, itunes: 20422582, ma: _/25125, name: Sybreed, short: Sybreed, slug: sybreed, spotify: 5YKzmXqu3KxPoBSGIF7Yii, hand: {persona: 0.2, camp: 0.1}}
+  # corner: industrial; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 2913491, itunes: 258834910, ma: _/9944, name: Meathook Seed, short: Meathook, slug: meathook-seed, spotify: 6OGGt8xNFOHWcHu3HlGc29, hand: {persona: 0.2, camp: 0.1}}
+  # corner: industrial; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 158543, itunes: 160817502, ma: _/17385, name: Seigmen, short: Seigmen, slug: seigmen, spotify: 2Z1eA0HAiJ3yAr7byuj4v4, hand: {persona: 0.3, camp: 0.1}}
+  # corner: industrial; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 802449, itunes: 315775925, ma: _/125861, name: Fear of Domination, short: Fear, slug: fear-of-domination, spotify: 4KmUqzBGTHWlO46RpvMBUq, hand: {persona: 0.3, camp: 0.3}}
+  # corner: industrial; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 647118, itunes: 135978645, ma: _/3540306799, name: Dawn of Ashes, short: Dawn, slug: dawn-of-ashes, spotify: 35Uzsa9o0tZkdC4ZBtXuNV, hand: {persona: 0.6, camp: 0.2}}
+  # corner: industrial; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 196721, itunes: 42407874, ma: _/6150, name: Ewigkeit, short: Ewigkeit, slug: ewigkeit, spotify: 1WrL7rHaEUsybSJi6Qsjb1, hand: {persona: 0.2, camp: 0.2}}
+  # corner: industrial; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1318255, itunes: 203201046, ma: _/97269, name: A Dark Halo, short: Halo, slug: a-dark-halo, spotify: 4xwgLgwJuLOc5OrTPpIff9, hand: {persona: 0.1, camp: 0.0}}
+  # corner: industrial; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1612734, itunes: 499786753, ma: _/3540324460, name: Elyose, short: Elyose, slug: elyose, spotify: 0dG3N31PXKZKVipFUqY1jz, hand: {persona: 0.3, camp: 0.1}}
+  # corner: industrial; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 8114371, itunes: 441928920, ma: _/3540335128, name: Neurotech, short: Neurotech, slug: neurotech, spotify: 0fLXjcDroHESf6i3iUpNDA, hand: {persona: 0.4, camp: 0.3}}
+  # corner: groove-alt; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 2219, itunes: 18030160, ma: _/124, name: Lacuna Coil, short: Lacuna, slug: lacuna-coil, spotify: 4OAddazJM576euUnFSvXSL, hand: {persona: 0.3, camp: 0.1}}
+  # corner: groove-alt; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 691, itunes: 462221, ma: _/753, name: Alice in Chains, short: Chains, slug: alice-in-chains, spotify: 64tNsm6TnZe2zpcMVMOoHL, hand: {persona: 0.1, camp: 0.0}}
+  # corner: groove-alt; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 2969, itunes: 155209, ma: _/77, name: Pantera, short: Pantera, slug: pantera, spotify: 14pVkFUHDL207LzLHtSA18, hand: {persona: 0.3, camp: 0.4}}
+  # corner: groove-alt; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 2255, itunes: 170077, ma: _/983, name: Faith No More, short: Faith, slug: faith-no-more, spotify: 6GbCJZrI318Ybm8mY36Of5, hand: {persona: 0.3, camp: 0.6}}
+  # corner: groove-alt; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 822, itunes: 2778807, ma: _/245, name: Black Label Society, short: Society, slug: black-label-society, spotify: 0zfT626RwO6zN3RDYeRit5, hand: {persona: 0.4, camp: 0.3}}
+  # corner: groove-alt; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 4808, itunes: 3845631, ma: _/6916, name: Damageplan, short: Damagepl., slug: damageplan, spotify: 4fE4Bf0MM6lMJpHiHniPuW, hand: {persona: 0.2, camp: 0.1}}
+  # corner: groove-alt; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 2872, itunes: 105500, ma: _/5636, name: Helmet, short: Helmet, slug: helmet, spotify: 0qB0cTENhSUc0feov5qbg0, hand: {persona: 0.0, camp: 0.1}}
+  # corner: groove-alt; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 11991, itunes: 215827435, ma: _/90772, name: Hellyeah, short: Hellyeah, slug: hellyeah, spotify: 1CYNs0HjULLOVriK9RScTM, hand: {persona: 0.1, camp: 0.3}}
+  # corner: groove-alt; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 65923, itunes: 504021, ma: _/425, name: Fight, short: Fight, slug: fight, spotify: 1o3JGBwBOZeHlL0BOAhD9t, hand: {persona: 0.2, camp: 0.1}}
+  # corner: groove-alt; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3584, itunes: 17407308, ma: _/3540373969, name: Life of Agony, short: Agony, slug: life-of-agony, spotify: 4gyzQpfG5YQZJt2jj0IkEl, hand: {persona: 0.1, camp: 0.1}}
+  # corner: groove-alt; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 11058, itunes: 137021299, ma: _/26507, name: Dagoba, short: Dagoba, slug: dagoba, spotify: 1iZlQG09PwkMVMumsvgFj4, hand: {persona: 0.2, camp: 0.1}}
+  # corner: groove-alt; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3860, itunes: 128690995, ma: _/1149, name: Pyogenesis, short: Pyogenes., slug: pyogenesis, spotify: 6bGNUCfRbd1JkMqRsYTURk, hand: {persona: 0.1, camp: 0.3}}
+  # corner: groove-alt; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 67638, itunes: 1563972, ma: _/13899, name: A.N.I.M.A.L., short: A.N.I.M.., slug: a-n-i-m-a-l, spotify: 6eoz7BtTcC5Q303xQtSgj9, hand: {persona: 0.2, camp: 0.1}}
+  # corner: groove-alt; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 393876, itunes: 154066010, ma: _/54442, name: Hämatom, short: Hämatom, slug: hamatom, spotify: 6vg9BW5gHSjidGbypXQku2, hand: {persona: 0.7, camp: 0.4}}
+  # corner: groove-alt; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 505689, itunes: 209378015, ma: _/74460, name: Ankor, short: Ankor, slug: ankor, spotify: 6wADzvUWqgYWXigndo6Mmj, hand: {persona: 0.1, camp: 0.1}}
+  # corner: groove-alt; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 13056831, itunes: 1269835458, ma: _/3540431252, name: Cyhra, short: Cyhra, slug: cyhra, spotify: 6tkhw6PSVw7b2M7h5fLBLE, hand: {persona: 0.1, camp: 0.0}}
+  # corner: groove-alt; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 7223, itunes: 993234951, ma: _/36718, name: Hamlet, short: Hamlet, slug: hamlet, spotify: 5bTh3KLGlKlcloVl318t1h, hand: {persona: 0.1, camp: 0.1}}
+  # corner: groove-alt; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 65416, itunes: 159326823, ma: _/70791, name: Coldseed, short: Coldseed, slug: coldseed, spotify: 1L2OM6TeAzvcfqPLjLa9gi, hand: {persona: 0.3, camp: 0.1}}
+  # corner: groove-alt; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 876236, itunes: 1410830670, ma: _/3540407562, name: Confess, short: Confess, slug: confess, spotify: 6XFIRJcLodORR7cmCCL5Zw, hand: {persona: 0.1, camp: 0.0}}
+  # corner: groove-alt; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1638081, itunes: 454991210, ma: _/3540331861, name: Adrenaline Mob, short: Mob, slug: adrenaline-mob, spotify: 1OiOWEQ9miUl9QbCX5JNza, hand: {persona: 0.1, camp: 0.1}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3085, itunes: 45298110, ma: _/2976, name: Lordi, short: Lordi, slug: lordi, spotify: 14SgKNlOCKAI0PfRD1HnWh, hand: {persona: 1.0, camp: 0.9}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 2996, itunes: 539605, ma: _/203, name: Motörhead, short: Motörhead, slug: motorhead, spotify: 1DFr97A9HnbV3SKTJFu62M, hand: {persona: 0.5, camp: 0.3}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 864, itunes: 135532, ma: _/1178, name: Deep Purple, short: Purple, slug: deep-purple, spotify: 568ZhdwyaiCyOGJRtNYhWf, hand: {persona: 0.1, camp: 0.2}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 533, itunes: 154707, ma: _/97, name: Judas Priest, short: Priest, slug: judas-priest, spotify: 2tRsMl4eGxwoNabM08Dm4I, hand: {persona: 0.6, camp: 0.5}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 863, itunes: 602212, ma: _/15424, name: Scorpions, short: Scorpions, slug: scorpions, spotify: 27T030eWyCQRmDyuvr1kxY, hand: {persona: 0.3, camp: 0.3}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 531, itunes: 284113, ma: _/1025, name: Mötley Crüe, short: Mötley, slug: motley-crue, spotify: 0cc6vw3VN8YlIcvr1v7tBL, hand: {persona: 0.8, camp: 0.7}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5761, itunes: 545085, ma: _/198, name: Accept, short: Accept, slug: accept, spotify: 3JDIAtVrJdQ7GFOX26LYpv, hand: {persona: 0.3, camp: 0.2}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 2139, itunes: 79217, ma: _/1499, name: Thin Lizzy, short: Lizzy, slug: thin-lizzy, spotify: 6biWAmrHyiMkX49LkycGqQ, hand: {persona: 0.3, camp: 0.3}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3038, itunes: 2779392, ma: _/163, name: Dio, short: Dio, slug: dio, spotify: 4CYeVo5iZbtYGBN4Isc3n6, hand: {persona: 0.6, camp: 0.5}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3004, itunes: 149786, ma: _/4975, name: Twisted Sister, short: Twisted, slug: twisted-sister, spotify: 7b85ve82Sh36a3UAx74wut, hand: {persona: 0.8, camp: 0.8}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 4237485, itunes: 646139967, ma: _/272, name: Aria, short: Aria, slug: aria, spotify: 0ICn3Cbc4mMeLmTvwnqXYu, hand: {persona: 0.4, camp: 0.2}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3019, itunes: 163805, ma: _/1657, name: Skid Row, short: Skid Row, slug: skid-row, spotify: 4opTS86dN9uO313J9CE8xg, hand: {persona: 0.2, camp: 0.4}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1067, itunes: 60363022, ma: _/182, name: Mercyful Fate, short: Mercyful, slug: mercyful-fate, spotify: 0W8edGiwAsv6HXF0Kyc2V9, hand: {persona: 0.9, camp: 0.4}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 8552, itunes: 3632744, ma: _/626, name: Saxon, short: Saxon, slug: saxon, spotify: 71vVmHeNgCVSa5SVmfvscU, hand: {persona: 0.4, camp: 0.3}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3016, itunes: 3202725, ma: _/544, name: W.A.S.P., short: W.A.S.P., slug: w-a-s-p, spotify: 3BVkDHWRvLJEyKdvhLbjsq, hand: {persona: 0.8, camp: 0.7}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 249308, itunes: 262114058, ma: _/99536, name: Heaven & Hell, short: Hell, slug: heaven-hell, spotify: 4UjiBRkTw9VmvDZiJZKPJ7, hand: {persona: 0.2, camp: 0.2}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 13953, itunes: 157709052, ma: _/33323, name: Volbeat, short: Volbeat, slug: volbeat, spotify: 0L5fC7Ogm2YwgqVCRcF1bT, hand: {persona: 0.3, camp: 0.3}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5294, itunes: 578830, ma: _/16095, name: Dokken, short: Dokken, slug: dokken, spotify: 09hNSPPOxDop4FRdr6UEnq, hand: {persona: 0.3, camp: 0.2}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5732, itunes: 548598, ma: _/1709, name: Quiet Riot, short: Quiet, slug: quiet-riot, spotify: 1dLWg6m8RRhizsdqJbhyj3, hand: {persona: 0.4, camp: 0.6}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 11873, itunes: 7278795, ma: _/401, name: Diamond Head, short: Diamond, slug: diamond-head, spotify: 3z3KnhKZObj216IgfHYGVf, hand: {persona: 0.2, camp: 0.2}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 9921, itunes: 5085924, ma: _/1506, name: Girlschool, short: Girlscho., slug: girlschool, spotify: 2TRtXTjjmyzK5oUGec1Gv8, hand: {persona: 0.3, camp: 0.3}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 9336, itunes: 393632, ma: _/93943, name: Krokus, short: Krokus, slug: krokus, spotify: 4YveAIZNQZBiWbt7iWsvCa, hand: {persona: 0.3, camp: 0.4}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 6748, itunes: 530051897, ma: _/342, name: U.D.O., short: U.D.O., slug: u-d-o, spotify: 2aWjaq32aRQo58dw0w8NM6, hand: {persona: 0.2, camp: 0.2}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 16108, itunes: 3296621, ma: _/81757, name: Stryper, short: Stryper, slug: stryper, spotify: 6lE1ly8K8H7u8k2ej2plvv, hand: {persona: 0.8, camp: 0.6}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 10188, itunes: 1216756389, ma: _/1039, name: Budgie, short: Budgie, slug: budgie, spotify: 42RbQv212uOjyfIXECLKfR, hand: {persona: 0.1, camp: 0.3}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 2118, itunes: 236338, ma: _/286, name: Danzig, short: Danzig, slug: danzig, spotify: 34c4iQ5tkaZKu6Sv28BTde, hand: {persona: 0.6, camp: 0.4}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 10237, itunes: 129779577, ma: _/542, name: Anvil, short: Anvil, slug: anvil, spotify: 0maNhqGx60ucjS4UaAH6cP, hand: {persona: 0.2, camp: 0.5}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 101469, itunes: 4233332, ma: _/537, name: Angel Witch, short: Witch, slug: angel-witch, spotify: 6L48AOtGmQL1ELLoKML7cS, hand: {persona: 0.4, camp: 0.2}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 8694, itunes: 5648447, ma: _/1402, name: Fozzy, short: Fozzy, slug: fozzy, spotify: 59CIPNdUfewexxn1CJEdp5, hand: {persona: 0.5, camp: 0.7}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 10327, itunes: 220048269, ma: _/533, name: Alcatrazz, short: Alcatrazz, slug: alcatrazz, spotify: 1LLiPRA3oThhxVf7W7gXQZ, hand: {persona: 0.3, camp: 0.4}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 12029, itunes: 220147921, ma: _/1931, name: Rata Blanca, short: Blanca, slug: rata-blanca, spotify: 632M26jlmnCrL8CqD5i7Kd, hand: {persona: 0.3, camp: 0.3}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 59914, itunes: 3222135, ma: _/1129, name: Raven, short: Raven., slug: raven, spotify: 1EH9eSje47IiRyVsq3gfkl, hand: {persona: 0.4, camp: 0.4}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 8553, itunes: 1486367759, ma: _/686, name: Warlock, short: Warlock, slug: warlock, spotify: 5XDeFQDarnwpR5WAfD6S0d, hand: {persona: 0.4, camp: 0.3}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 11874, itunes: 6015417, ma: _/760, name: Holocaust, short: Holocaust, slug: holocaust, spotify: 6NwP3xfmDDnxqeLsSUzaS4, hand: {persona: 0.2, camp: 0.2}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 4823, itunes: 14957062, ma: _/4339, name: Tarot, short: Tarot, slug: tarot, spotify: 60WI98KvQgbplg7Soa95e4, hand: {persona: 0.2, camp: 0.2}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 183006, itunes: 3222883, ma: _/801, name: Tygers of Pan Tang, short: Tygers, slug: tygers-of-pan-tang, spotify: 1MZ8NERIuOS610KBhr6yna, hand: {persona: 0.2, camp: 0.3}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3965811, itunes: 387303771, ma: _/569, name: Dawnbringer, short: Dawnbrin., slug: dawnbringer, spotify: 5dw3NZy4lXaWWPYUPt145Z, hand: {persona: 0.2, camp: 0.2}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 104958132, itunes: 1528950636, ma: _/3540510414, name: CobraKill, short: CobraKill, slug: cobrakill, spotify: 3wZZh7PGBeZf3MyOSqcDOS, hand: {persona: 0.5, camp: 0.6}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 74131682, itunes: 1052346261, ma: _/9085, name: Ram, short: Ram, slug: ram, spotify: 0dczfxuYhV69pplxDxzlwu, hand: {persona: 0.4, camp: 0.3}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1619022, itunes: 355902617, ma: _/3540304959, name: A Sound of Thunder, short: Thunder, slug: a-sound-of-thunder, spotify: 571SRwCkLqVygKpejWCR0v, hand: {persona: 0.3, camp: 0.4}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 152451, itunes: 118405724, ma: _/3540276670, name: Striker, short: Striker, slug: striker, spotify: 0lwL1Cu96Wvy1hMwfLqHHC, hand: {persona: 0.4, camp: 0.6}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 437761, itunes: 385042629, ma: _/3540277964, name: Christian Mistress, short: Christian, slug: christian-mistress, spotify: 0fEyv0n8MBgXZQLOMcHbZO, hand: {persona: 0.3, camp: 0.2}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 11098, itunes: 721828804, ma: _/1095, name: Lörihen, short: Lörihen, slug: lorihen, spotify: 4HgUPVt7LhvdpUbZhmotgx, hand: {persona: 0.1, camp: 0.1}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 112404, itunes: 188272338, ma: _/14286, name: Idi Bihotz, short: Bihotz, slug: idi-bihotz, spotify: 7BIeSSe53hoJr761JxpDaO, hand: {persona: 0.2, camp: 0.2}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 78374, itunes: 328242, ma: _/1192, name: Spinal Tap, short: Spinal, slug: spinal-tap, spotify: 65X3sG8LVBQN5033RqB6qn, hand: {persona: 0.9, camp: 1.0}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 242475, itunes: 54261072, ma: _/280, name: Armored Saint, short: Armored, slug: armored-saint, spotify: 4ug41UGuMZzlV2hJOrOqHN, hand: {persona: 0.4, camp: 0.2}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 15730, itunes: 200832523, ma: _/38762, name: Diablo Swing Orchestra, short: Orchestra, slug: diablo-swing-orchestra, spotify: 2cbWJP4X5b9sKEDW80uc5r, hand: {persona: 0.6, camp: 0.8}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 72409632, itunes: 1554900682, ma: _/3118, name: TNT, short: TNT, slug: tnt, spotify: 363VbwpX9anvrThJ2qDwBy, hand: {persona: 0.3, camp: 0.4}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 12106, itunes: 121471614, ma: _/57071, name: The Sword, short: The Sword, slug: the-sword, spotify: 0q32a3GRCjDxS4EIrC7YVY, hand: {persona: 0.1, camp: 0.2}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 65418, itunes: 1450536432, ma: _/75454, name: Chrome Division, short: Division, slug: chrome-division, spotify: 6TAx6kjVHAO3dkPPQwlQoP, hand: {persona: 0.6, camp: 0.6}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 11966, itunes: 60356216, ma: _/1544, name: Lizzy Borden, short: Borden, slug: lizzy-borden, spotify: 0ZdLFpb5MhkSrsHef7A3Bb, hand: {persona: 0.8, camp: 0.7}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 4850, itunes: 201642854, ma: _/320, name: Impellitteri, short: Impellit., slug: impellitteri, spotify: 5z1vzTURV3bwwXqxkjy47W, hand: {persona: 0.3, camp: 0.4}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 5831, itunes: 16660913, ma: _/255, name: King Diamond, short: King, slug: king-diamond, spotify: 5i0ph60TnwTlIGrOZAmcZa, hand: {persona: 1.0, camp: 0.6}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1027612, itunes: 128650740, ma: _/1306, name: Racer X, short: Racer X, slug: racer-x, spotify: 6C3ixObG7tE7jeO69rehvs, hand: {persona: 0.2, camp: 0.2}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 412111, itunes: 319151092, ma: _/3540340579, name: Unisonic, short: Unisonic, slug: unisonic, spotify: 3DDcmHnwKjM4sQ8qm34JMU, hand: {persona: 0.1, camp: 0.1}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 186150, itunes: 134743740, ma: _/15287, name: Viikate, short: Viikate, slug: viikate, spotify: 7q12xW42JkVKEMFNQACZ3l, hand: {persona: 0.4, camp: 0.3}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 661401, itunes: 202357984, ma: _/2550, name: Wolfsbane, short: Wolfsbane, slug: wolfsbane, spotify: 58mY0RMBlQK2dW650Qeh9v, hand: {persona: 0.3, camp: 0.4}}
+  # corner: glam-hard; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 2557, itunes: 117554, ma: _/16713, name: Def Leppard, short: Leppard, slug: def-leppard, spotify: 6H1RjVyNruCmrBEWRbD0VZ, hand: {persona: 0.3, camp: 0.3}}
+  # corner: glam-hard; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 8686, itunes: 50526, ma: _/1206, name: Rush, short: Rush, slug: rush, spotify: 2Hkut4rAAyrQxRdof7FVJq, hand: {persona: 0.1, camp: 0.3}}
+  # corner: glam-hard; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 12824, itunes: 17364502, ma: _/3540371887, name: Böhse Onkelz, short: Onkelz, slug: bohse-onkelz, spotify: 6x9jRPDmA8Ihpw3A9FBowD, hand: {persona: 0.2, camp: 0.1}}
+  # corner: glam-hard; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 98062, itunes: 512144, ma: _/1607, name: Samson, short: Samson, slug: samson, spotify: 0s4JwoiTHqruatpqAR0IZ7, hand: {persona: 0.4, camp: 0.2}}
+  # corner: glam-hard; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 650, itunes: 1296816108, ma: _/1659, name: Trust, short: Trust, slug: trust, spotify: 7AvEVZeIPTqRE7y4QFk09A, hand: {persona: 0.1, camp: 0.1}}
+  # corner: glam-hard; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 4165, itunes: 210628126, ma: _/652, name: Barón Rojo, short: Barón, slug: baron-rojo, spotify: 0R5dtryP4tKLlMZA0vhBvF, hand: {persona: 0.2, camp: 0.2}}
+  # corner: glam-hard; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 11035, itunes: 13631686, ma: _/4220, name: Doro, short: Doro, slug: doro, spotify: 5GLeyUhj8B8f5pJxqZllKl, hand: {persona: 0.5, camp: 0.4}}
+  # corner: glam-hard; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1849611, itunes: 520501012, ma: _/3540359827, name: The Night Flight Orchestra, short: Flight, slug: the-night-flight-orchestra, spotify: 6xPOeIDWmM9ooOw7SBknMl, hand: {persona: 0.6, camp: 0.7}}
+  # corner: glam-hard; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 4222874, itunes: 464214115, ma: _/19305, name: Dr. Sin, short: Dr. Sin, slug: dr-sin, spotify: 4YtYp2wFYIgdNsLWo6rM3D, hand: {persona: 0.2, camp: 0.2}}
+  # corner: glam-hard; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 614499, itunes: 167245012, ma: _/1879, name: Bloodgood, short: Bloodgood, slug: bloodgood, spotify: 5WJ6VEY43MOngJJJNabAId, hand: {persona: 0.2, camp: 0.2}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 134695, itunes: 19306078, ma: _/3540449483, name: Bonfire, short: Bonfire, slug: bonfire, spotify: 7gqKcfoY25do9k18uCCgIT, hand: {persona: 0.2, camp: 0.2}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1000915, itunes: 483170142, ma: _/114837, name: Huntress, short: Huntress, slug: huntress, spotify: 2JDEtAc1gGiAbCvjUnK2iZ, hand: {persona: 0.4, camp: 0.4}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 7647, itunes: 17278817, ma: _/1935, name: Pink Cream 69, short: Cream, slug: pink-cream-69, spotify: 2LvylSBC8l3930y1iXnrDE, hand: {persona: 0.1, camp: 0.2}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 56362, itunes: 59865029, ma: _/378, name: Heathen, short: Heathen., slug: heathen, spotify: 3VD3oXiELCSHXzR4XXnlaF, hand: {persona: 0.1, camp: 0.1}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 1436484, itunes: 257746289, ma: _/54764, name: Bloodbound, short: Bloodbou., slug: bloodbound, spotify: 6nf7iwR6AoROxfUKZWd1r6, hand: {persona: 0.3, camp: 0.4}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 13130131, itunes: 1275559022, ma: _/3540433441, name: Beast in Black, short: Beast, slug: beast-in-black, spotify: 0rEuaTPLMhlViNCJrg3NEH, hand: {persona: 0.4, camp: 0.7}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 159276, itunes: 27907675, ma: _/548, name: Jag Panzer, short: Panzer, slug: jag-panzer, spotify: 2JR4c1UoM1JGxm4wIJ27v1, hand: {persona: 0.2, camp: 0.3}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 307438, itunes: 258772425, ma: _/1111, name: Death SS, short: Death SS, slug: death-ss, spotify: 2G6Jj3r7Uux76wZXsykcht, hand: {persona: 0.9, camp: 0.5}}
+  # corner: power; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 15959, itunes: 217744297, ma: _/158, name: Demons & Wizards, short: Wizards, slug: demons-wizards, spotify: 4O6RDLeFX5xuQ7IePFzVcl, hand: {persona: 0.4, camp: 0.3}}
+  # corner: thrash; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 12341, itunes: 27051147, ma: _/774, name: Satan, short: Satan, slug: satan, spotify: 1LNgvz72fQVLe7ZNIw6Ipo, hand: {persona: 0.2, camp: 0.2}}
+  # corner: symphonic-gothic; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 6484, itunes: 41273813, ma: _/5329, name: To/Die/For, short: To/Die/F., slug: to-die-for, spotify: 6odEUy7osvwibc1yNvxt5u, hand: {persona: 0.3, camp: 0.1}}
+  # corner: heavy-speed; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 390769, itunes: 259142600, ma: _/53941, name: Enforcer, short: Enforcer, slug: enforcer, spotify: 6nQ7NZbr43lnKpLYBvLf7A, hand: {persona: 0.4, camp: 0.5}}
+  # corner: black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 14611, itunes: 47713289, ma: _/1153, name: Enthroned, short: Enthroned, slug: enthroned, spotify: 5lmT6zZl7aPNg8hv5UrJGz, hand: {persona: 0.6, camp: 0.1}}
+  # corner: tech-death; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 2993, itunes: 65158676, ma: _/18351, name: Gojira, short: Gojira, slug: gojira, spotify: 0GDGKpJFhVpcjIGF8N6Ewt, hand: {persona: 0.2, camp: 0.0}}
+  # corner: doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 3279621, itunes: 499450846, ma: _/3540315471, name: Pallbearer, short: Pallbear., slug: pallbearer, spotify: 2yeEmsTQMNHBlS5dhWtuD1, hand: {persona: 0.1, camp: 0.0}}
+  # corner: post-black; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 522414, itunes: 425470694, ma: _/3540315870, name: Deafheaven, short: Deafheav., slug: deafheaven, spotify: 4XpPveeg7RuYS3CgLo75t9, hand: {persona: 0.1, camp: 0.0}}
+  # corner: doom; admitted by python -m ingest admit; hand scores drafted separately
+  - {deezer: 4521392, itunes: 571352531, ma: _/3540336467, name: Bell Witch, short: Bell, slug: bell-witch, spotify: 6lZ0xXnt7D1JXxv03XLX0K, hand: {persona: 0.1, camp: 0.0}}
+  # Tool, added 2026-10-07 so the user's ground-truth row for it is scored. Metal Archives does not list Tool;
+  # hand-entered like Rammstein (D3 path). Hand scores drafted by Claude, to be spot-checked.
+  - slug: tool
+    name: Tool
+    short: Tool
+    itunes: 140870416
+    deezer: 689
+    spotify: 2yEwvVSSSUkcLeSTNyHKh8
+    ma: null
+    hand: {persona: 0.5, camp: 0.3}
+    metadata:
+      genre: Progressive Metal/Rock, Alternative Metal
+      country: US
+      formed: 1990
+      split: null
+      status: active
+      members: 4
+      past_members: 1
+      themes: Philosophy, Psychology, Spirituality, Evolution, Transcendence, Sarcasm
+      vocals: clean
+      albums:
+        - {title: Opiate, type: EP, year: 1992}
+        - {title: Undertow, type: Full-length, year: 1993}
+        - {title: Ænima, type: Full-length, year: 1996}
+        - {title: Lateralus, type: Full-length, year: 2001}
+        - {title: "10,000 Days", type: Full-length, year: 2006}
+        - {title: Fear Inoculum, type: Full-length, year: 2019}

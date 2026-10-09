@@ -1,0 +1,32 @@
+{
+ "id": "kyuss/207973376-106",
+ "band": "kyuss",
+ "title": "Demon Cleaner",
+ "source": "itunes",
+ "album": "Welcome to Sky Valley",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.965963197083337,
+  "tempo_var": 17.385188021453846,
+  "low_onset_rate": 7.199151120502798,
+  "lufs": -10.304435248163104,
+  "rms_dbfs": -9.032980350609314,
+  "crest": 9.032979965209961,
+  "centroid": 1728.984931234305,
+  "flatness": 0.006013177335262299,
+  "sub100_share": 0.2417784184217453,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.8976925015449524,
+  "clean_share": 0.6805877803557618,
+  "minor_share": -0.24000404019759902,
+  "chord_rate": 1.7997877801256994,
+  "repetitiveness": 0.9209036231040955,
+  "vocal_share": 0.03651910275220871,
+  "vocal_voiced": 0.9602888086642599,
+  "song_length": 311.907
+ }
+}

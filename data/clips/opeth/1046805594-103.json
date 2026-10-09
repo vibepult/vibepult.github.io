@@ -1,0 +1,32 @@
+{
+ "id": "opeth/1046805594-103",
+ "band": "opeth",
+ "title": "A Fair Judgement",
+ "source": "itunes",
+ "album": "Deliverance",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 54.978390957446805,
+  "onset_rate": 0.8994302928303917,
+  "tempo_var": 36.0227096294753,
+  "low_onset_rate": 5.429893990050142,
+  "lufs": -26.788098614865785,
+  "rms_dbfs": -27.68801571685449,
+  "crest": 21.469013214111328,
+  "centroid": 793.9606458079758,
+  "flatness": 8.300939043692779e-06,
+  "sub100_share": 1.9743192751775496e-05,
+  "lowest_pitch": 123.81591796875,
+  "harmonic_share": 0.9737775325775146,
+  "clean_share": 1.0,
+  "minor_share": -0.13583879942157717,
+  "chord_rate": 0.9660547589659761,
+  "repetitiveness": 0.5915462970733643,
+  "vocal_share": 6.460559234255925e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 621.4
+ }
+}

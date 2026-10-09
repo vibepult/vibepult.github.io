@@ -1,0 +1,32 @@
+{
+ "id": "gojira/1141870792-107",
+ "band": "gojira",
+ "title": "Deliverance",
+ "source": "itunes",
+ "album": "Terra Incognita",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.3665346474785345,
+  "tempo_var": 3.030076280471529,
+  "low_onset_rate": 7.466440923932761,
+  "lufs": -9.774281580626583,
+  "rms_dbfs": -8.111270874177524,
+  "crest": 8.111270904541016,
+  "centroid": 2033.6444374870102,
+  "flatness": 0.01182595081627369,
+  "sub100_share": 0.5391707420349121,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.8379088640213013,
+  "clean_share": 0.43696829079659705,
+  "minor_share": 0.14352011351075988,
+  "chord_rate": 1.6666162776635627,
+  "repetitiveness": 0.9179553389549255,
+  "vocal_share": 0.01280106883496046,
+  "vocal_voiced": 0.06474820143884892,
+  "song_length": 294.616
+ }
+}

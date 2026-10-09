@@ -1,0 +1,32 @@
+{
+ "id": "candlemass/276488895-106",
+ "band": "candlemass",
+ "title": "Aftermath",
+ "source": "itunes",
+ "album": "Chapter VI",
+ "year": 1992,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.1666666666666665,
+  "tempo_var": 2.3018573004726783,
+  "low_onset_rate": 7.3,
+  "lufs": -6.144495547425932,
+  "rms_dbfs": -6.1796255922526395,
+  "crest": 6.179625511169434,
+  "centroid": 2687.786967475822,
+  "flatness": 0.04128388315439224,
+  "sub100_share": 0.24864518642425537,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.8231938481330872,
+  "clean_share": 0.047987616099071206,
+  "minor_share": -0.12047372184494964,
+  "chord_rate": 1.9666666666666666,
+  "repetitiveness": 0.8373876810073853,
+  "vocal_share": 0.06716815382242203,
+  "vocal_voiced": 0.7379576107899807,
+  "song_length": 337.587
+ }
+}

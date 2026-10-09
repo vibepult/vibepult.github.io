@@ -1,0 +1,32 @@
+{
+ "id": "venom/1872651243-107",
+ "band": "venom",
+ "title": "Kicked Outta Hell",
+ "source": "itunes",
+ "album": "Into Oblivion",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 6.266571933908785,
+  "tempo_var": 1.8972415646601386,
+  "low_onset_rate": 6.49990173995858,
+  "lufs": -8.84811770704018,
+  "rms_dbfs": -7.888018014048509,
+  "crest": 7.888018608093262,
+  "centroid": 2436.539334096075,
+  "flatness": 0.02474464662373066,
+  "sub100_share": 0.4091649651527405,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7011423110961914,
+  "clean_share": 0.008507347254447023,
+  "minor_share": -0.09880011354009166,
+  "chord_rate": 1.6666414717842513,
+  "repetitiveness": 0.9473519325256348,
+  "vocal_share": 0.030113177374005318,
+  "vocal_voiced": 0.3434650455927052,
+  "song_length": 204.227
+ }
+}

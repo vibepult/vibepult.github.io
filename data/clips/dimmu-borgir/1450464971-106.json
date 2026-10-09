@@ -1,0 +1,32 @@
+{
+ "id": "dimmu-borgir/1450464971-106",
+ "band": "dimmu-borgir",
+ "title": "Puritania",
+ "source": "itunes",
+ "album": "Puritanical Euphoric Misanthropia",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 0.9666608214009288,
+  "tempo_var": 9.628109009703984,
+  "low_onset_rate": 3.933309549148607,
+  "lufs": -7.776709838640284,
+  "rms_dbfs": -7.961173464360606,
+  "crest": 7.961173057556152,
+  "centroid": 3373.1048137205385,
+  "flatness": 0.08485602587461472,
+  "sub100_share": 0.44218000769615173,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7561461925506592,
+  "clean_share": 0.07192575406032482,
+  "minor_share": 0.10902229908110361,
+  "chord_rate": 1.5999903250773995,
+  "repetitiveness": 0.9300886988639832,
+  "vocal_share": 0.08318344503641129,
+  "vocal_voiced": 0.18555240793201133,
+  "song_length": 186.488
+ }
+}

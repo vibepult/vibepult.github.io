@@ -1,0 +1,32 @@
+{
+ "id": "brujeria/1458652924-106",
+ "band": "brujeria",
+ "title": "Satongo",
+ "source": "itunes",
+ "album": "Pocho Aztlan",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 1.069194588566164,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.513034597294284,
+  "lufs": -8.421680507674797,
+  "rms_dbfs": -8.131546761905398,
+  "crest": 8.131546020507812,
+  "centroid": 2529.2412082711526,
+  "flatness": 0.038565415889024734,
+  "sub100_share": 0.26275405287742615,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6195133924484253,
+  "clean_share": 0.0,
+  "minor_share": 0.0712171323101834,
+  "chord_rate": 2.9736974494496438,
+  "repetitiveness": 0.9541244506835938,
+  "vocal_share": 0.07591631263494492,
+  "vocal_voiced": 0.1352154531946508,
+  "song_length": 205.683
+ }
+}

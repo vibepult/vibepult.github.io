@@ -1,0 +1,127 @@
+{
+ "slug": "agalloch",
+ "name": "Agalloch",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 78310375,
+  "deezer": 10446,
+  "spotify": "3Meu28o8P5z9Zjm6NTGihT"
+ },
+ "metadata": {
+  "formed": 1995,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 4,
+  "past_members": 4,
+  "full_lengths": 5,
+  "genre": "Atmospheric Folk/Doom/Black Metal, Post-Rock/Metal",
+  "vocals": "mixed",
+  "instrumental": false,
+  "fans": 24482,
+  "themes": "Nature, Loss, Melancholy, Theology, Death, Winter, Cosmos, Metaphysics, Transcendentalism",
+  "release_year": 2004
+ },
+ "partial": false,
+ "clips": [
+  "agalloch/1675493560-104",
+  "agalloch/1675484589-105",
+  "agalloch/1675491456-105",
+  "agalloch/1074241343-103",
+  "agalloch/866208530-105",
+  "agalloch/1675493560-105",
+  "agalloch/1675484589-104",
+  "agalloch/1675491456-104",
+  "agalloch/1074241343-104",
+  "agalloch/866208530-104",
+  "agalloch/1675493560-103",
+  "agalloch/1675484589-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 33.63364277580973
+  },
+  "onset_rate": {
+   "median": 3.7755933908742665,
+   "iqr": 0.8425356398196189
+  },
+  "tempo_var": {
+   "median": 5.912973214692435,
+   "iqr": 10.123402524608082
+  },
+  "low_onset_rate": {
+   "median": 5.730214748096785,
+   "iqr": 2.499742348753011
+  },
+  "lufs": {
+   "median": -11.95368816471816,
+   "iqr": 2.2591506188801276
+  },
+  "rms_dbfs": {
+   "median": -11.510377348325516,
+   "iqr": 2.1904917430510835
+  },
+  "crest": {
+   "median": 11.510245323181152,
+   "iqr": 2.190491199493408
+  },
+  "centroid": {
+   "median": 2137.4723498840694,
+   "iqr": 610.0245488924177
+  },
+  "flatness": {
+   "median": 0.012767388951033354,
+   "iqr": 0.016006362857297063
+  },
+  "sub100_share": {
+   "median": 0.37074680626392365,
+   "iqr": 0.12782704085111618
+  },
+  "lowest_pitch": {
+   "median": 55.1788330078125,
+   "iqr": 26.24359130859375
+  },
+  "harmonic_share": {
+   "median": 0.8740181922912598,
+   "iqr": 0.09764139354228973
+  },
+  "clean_share": {
+   "median": 0.27618308766485644,
+   "iqr": 0.5094724172385053
+  },
+  "minor_share": {
+   "median": 0.10296820462709005,
+   "iqr": 0.1826758103759456
+  },
+  "chord_rate": {
+   "median": 1.2681676202944931,
+   "iqr": 0.4594195497745235
+  },
+  "repetitiveness": {
+   "median": 0.814417690038681,
+   "iqr": 0.14370222389698029
+  },
+  "vocal_share": {
+   "median": 0.06657870672643185,
+   "iqr": 0.020824523642659187
+  },
+  "vocal_voiced": {
+   "median": 0.41155453877873804,
+   "iqr": 0.27098514376094446
+  },
+  "song_length": {
+   "median": 535.891,
+   "iqr": 199.91524999999996
+  },
+  "vocal_presence": {
+   "median": 0.16666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

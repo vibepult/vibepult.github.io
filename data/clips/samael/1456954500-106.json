@@ -1,0 +1,32 @@
+{
+ "id": "samael/1456954500-106",
+ "band": "samael",
+ "title": "Telepath",
+ "source": "itunes",
+ "album": "Reign of Light",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.811375648547738,
+  "tempo_var": 12.073364657537358,
+  "low_onset_rate": 4.343603016050041,
+  "lufs": -9.71552479834252,
+  "rms_dbfs": -10.902939420033684,
+  "crest": 10.902938842773438,
+  "centroid": 2611.3305737171577,
+  "flatness": 0.059409402310848236,
+  "sub100_share": 0.24416518211364746,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.5295103192329407,
+  "clean_share": 0.23273855702094648,
+  "minor_share": -0.008296661250366877,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.9479774236679077,
+  "vocal_share": 0.2710071802139282,
+  "vocal_voiced": 0.048513302034428794,
+  "song_length": 215.187
+ }
+}

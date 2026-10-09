@@ -1,0 +1,127 @@
+{
+ "slug": "lantlos",
+ "name": "Lantlôs",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 390170936,
+  "deezer": 1682025,
+  "spotify": "1cbBzQxiKcZCsit68iTbTJ"
+ },
+ "metadata": {
+  "formed": 2005,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 2,
+  "past_members": 4,
+  "full_lengths": 6,
+  "genre": "Post-Black Metal (early); Post-Metal/Alternative Rock/Shoegaze, Electronic (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 5859,
+  "themes": "Modernity, Abstractness, Surrealism",
+  "release_year": 2012
+ },
+ "partial": false,
+ "clips": [
+  "lantlos/1556021757-105",
+  "lantlos/1556021361-103",
+  "lantlos/1555687506-103",
+  "lantlos/1556077725-103",
+  "lantlos/1564734810-106",
+  "lantlos/1862183264-106",
+  "lantlos/1556021757-104",
+  "lantlos/1556021361-104",
+  "lantlos/1555687506-102",
+  "lantlos/1556077725-104",
+  "lantlos/1564734810-107",
+  "lantlos/1862183264-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 24.951675072460432
+  },
+  "onset_rate": {
+   "median": 3.458176247393687,
+   "iqr": 2.6606926368329855
+  },
+  "tempo_var": {
+   "median": 4.628835239961032,
+   "iqr": 3.4570468048688596
+  },
+  "low_onset_rate": {
+   "median": 4.004232610960614,
+   "iqr": 4.23501294064879
+  },
+  "lufs": {
+   "median": -9.825152434039383,
+   "iqr": 3.7344567297939584
+  },
+  "rms_dbfs": {
+   "median": -9.409179542443427,
+   "iqr": 2.7238777193112202
+  },
+  "crest": {
+   "median": 9.4091796875,
+   "iqr": 2.723877429962158
+  },
+  "centroid": {
+   "median": 2360.70098903928,
+   "iqr": 817.754223305024
+  },
+  "flatness": {
+   "median": 0.0248909005895257,
+   "iqr": 0.026169675053097308
+  },
+  "sub100_share": {
+   "median": 0.33848509192466736,
+   "iqr": 0.2936370223760605
+  },
+  "lowest_pitch": {
+   "median": 61.907958984375,
+   "iqr": 15.47698974609375
+  },
+  "harmonic_share": {
+   "median": 0.8682795464992523,
+   "iqr": 0.12477439641952515
+  },
+  "clean_share": {
+   "median": 0.023270255724414508,
+   "iqr": 0.6229635376260667
+  },
+  "minor_share": {
+   "median": -0.06422272118542782,
+   "iqr": 0.232919981228287
+  },
+  "chord_rate": {
+   "median": 0.9342732416832719,
+   "iqr": 0.6756854338214382
+  },
+  "repetitiveness": {
+   "median": 0.8237949311733246,
+   "iqr": 0.17754310369491577
+  },
+  "vocal_share": {
+   "median": 0.07094428688287735,
+   "iqr": 0.04840928874909878
+  },
+  "vocal_voiced": {
+   "median": 0.7887740029542097,
+   "iqr": 0.2011840283666526
+  },
+  "song_length": {
+   "median": 346.28700000000003,
+   "iqr": 144.91525000000001
+  },
+  "vocal_presence": {
+   "median": 0.5833333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

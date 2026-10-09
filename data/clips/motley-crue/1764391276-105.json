@@ -1,0 +1,32 @@
+{
+ "id": "motley-crue/1764391276-105",
+ "band": "motley-crue",
+ "title": "Take Me To The Top",
+ "source": "itunes",
+ "album": "Too Fast For Love",
+ "year": 1981,
+ "itunes_year": 1981,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.999924415352754,
+  "tempo_var": 5.460966641297913,
+  "low_onset_rate": 4.399933485510424,
+  "lufs": -10.585599446385697,
+  "rms_dbfs": -9.731345984087147,
+  "crest": 9.731346130371094,
+  "centroid": 2386.502466142352,
+  "flatness": 0.018733300268650055,
+  "sub100_share": 0.4362036883831024,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.8181245923042297,
+  "clean_share": 0.10131477184841454,
+  "minor_share": 0.01261818794638303,
+  "chord_rate": 1.7333071306556214,
+  "repetitiveness": 0.7022222876548767,
+  "vocal_share": 0.11954944580793381,
+  "vocal_voiced": 0.8725910064239829,
+  "song_length": 223.773
+ }
+}

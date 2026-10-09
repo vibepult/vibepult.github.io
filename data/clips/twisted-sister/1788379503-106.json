@@ -1,0 +1,32 @@
+{
+ "id": "twisted-sister/1788379503-106",
+ "band": "twisted-sister",
+ "title": "I Saw Mommy Kissing Santa Claus",
+ "source": "itunes",
+ "album": "A Twisted Christmas",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 1.9999879063467492,
+  "tempo_var": 1.4567526566067492,
+  "low_onset_rate": 2.4333186193885448,
+  "lufs": -10.837935847560894,
+  "rms_dbfs": -10.219343504977358,
+  "crest": 10.219343185424805,
+  "centroid": 2046.4754700821095,
+  "flatness": 0.014939440414309502,
+  "sub100_share": 0.1335199475288391,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8324950933456421,
+  "clean_share": 0.1740139211136891,
+  "minor_share": -0.08585844740054782,
+  "chord_rate": 1.099993348490712,
+  "repetitiveness": 0.8464570641517639,
+  "vocal_share": 0.04879698529839516,
+  "vocal_voiced": 0.91,
+  "song_length": 219.253
+ }
+}

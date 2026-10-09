@@ -1,0 +1,32 @@
+{
+ "id": "unisonic/905908797-105",
+ "band": "unisonic",
+ "title": "Not Gonna Take Anymore",
+ "source": "itunes",
+ "album": "Light of Dawn",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 4.911612641225816,
+  "tempo_var": 12.199648796412628,
+  "low_onset_rate": 6.582229185860447,
+  "lufs": -9.314266537718986,
+  "rms_dbfs": -8.750483050002911,
+  "crest": 8.750482559204102,
+  "centroid": 2466.218419255988,
+  "flatness": 0.028295982629060745,
+  "sub100_share": 0.16873519122600555,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8218402862548828,
+  "clean_share": 0.0395655546935609,
+  "minor_share": -0.04985463815989022,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.9171379804611206,
+  "vocal_share": 0.24191951751708984,
+  "vocal_voiced": 0.913312693498452,
+  "song_length": 266.853
+ }
+}

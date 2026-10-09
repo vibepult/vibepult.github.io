@@ -1,0 +1,32 @@
+{
+ "id": "mercenary/1582914492-105",
+ "band": "mercenary",
+ "title": "Velvet Lies",
+ "source": "itunes",
+ "album": "Metamorphosis",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 4.71113865586966,
+  "tempo_var": 24.619862906325086,
+  "low_onset_rate": 6.11445655336275,
+  "lufs": -8.704614075949364,
+  "rms_dbfs": -8.539055073994962,
+  "crest": 8.539054870605469,
+  "centroid": 2896.5522850758884,
+  "flatness": 0.04949710890650749,
+  "sub100_share": 0.342743843793869,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8100146055221558,
+  "clean_share": 0.0069821567106283944,
+  "minor_share": 0.1687176121881695,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.8392828106880188,
+  "vocal_share": 0.12035427242517471,
+  "vocal_voiced": 0.8129496402877698,
+  "song_length": 411.92
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "striker/1724009435-105",
+ "band": "striker",
+ "title": "Sucks to Suck",
+ "source": "itunes",
+ "album": "Ultrapower",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.8,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.533333333333333,
+  "lufs": -7.409939056897481,
+  "rms_dbfs": -6.877746073735906,
+  "crest": 6.877746105194092,
+  "centroid": 2714.295609426027,
+  "flatness": 0.05025321990251541,
+  "sub100_share": 0.3635101318359375,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7263625264167786,
+  "clean_share": 0.017027863777089782,
+  "minor_share": 0.02844273726975327,
+  "chord_rate": 1.7,
+  "repetitiveness": 0.9424917697906494,
+  "vocal_share": 0.2034313678741455,
+  "vocal_voiced": 0.630308076602831,
+  "song_length": 195.692
+ }
+}

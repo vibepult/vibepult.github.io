@@ -1,0 +1,32 @@
+{
+ "id": "cruachan/1266667479-106",
+ "band": "cruachan",
+ "title": "Brian Boru",
+ "source": "itunes",
+ "album": "Tuatha Na Gael",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.6085317364108036,
+  "tempo_var": 16.160733078514404,
+  "low_onset_rate": 4.009479707123115,
+  "lufs": -17.1054634672887,
+  "rms_dbfs": -18.586288441472153,
+  "crest": 15.579558372497559,
+  "centroid": 2183.9704119122466,
+  "flatness": 0.014959870837628841,
+  "sub100_share": 0.06201491504907608,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.963476300239563,
+  "clean_share": 0.8657874321179209,
+  "minor_share": 0.28655430881799626,
+  "chord_rate": 0.801895941424623,
+  "repetitiveness": 0.7805531024932861,
+  "vocal_share": 7.296041530935327e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 279.902
+ }
+}

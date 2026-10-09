@@ -1,0 +1,32 @@
+{
+ "id": "epidemia/1626071704-104",
+ "band": "epidemia",
+ "title": "Феанор",
+ "source": "itunes",
+ "album": "Загадка волшебной страны",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 6.11445655336275,
+  "tempo_var": 16.693187439719775,
+  "low_onset_rate": 7.952134752460845,
+  "lufs": -20.71674088631087,
+  "rms_dbfs": -18.578886044301377,
+  "crest": 14.79742431640625,
+  "centroid": 1429.7673773477552,
+  "flatness": 0.004555142484605312,
+  "sub100_share": 0.5597198605537415,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.7980526685714722,
+  "clean_share": 0.8378588052754073,
+  "minor_share": -0.00998894026521302,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.9253501892089844,
+  "vocal_share": 0.3531714975833893,
+  "vocal_voiced": 0.8182539682539682,
+  "song_length": 559.987
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "benediction/1664515608-106",
+ "band": "benediction",
+ "title": "Violation Domain",
+ "source": "itunes",
+ "album": "Transcend The Rubicon",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 2.9068727876642586,
+  "tempo_var": 5.5626623088393865,
+  "low_onset_rate": 4.878200310333123,
+  "lufs": -9.913804421793026,
+  "rms_dbfs": -9.7901720268958,
+  "crest": 9.79017162322998,
+  "centroid": 2835.9651715515406,
+  "flatness": 0.037053342908620834,
+  "sub100_share": 0.33834418654441833,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.725507378578186,
+  "clean_share": 0.013964313421256789,
+  "minor_share": 0.05605753981561068,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.8379778861999512,
+  "vocal_share": 0.09593126177787781,
+  "vocal_voiced": 0.08739495798319327,
+  "song_length": 255.947
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "pitchshifter/1640430977-105",
+ "band": "pitchshifter",
+ "title": "To Die Is Gain",
+ "source": "itunes",
+ "album": "Desensitized",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 5.245735950152742,
+  "tempo_var": 12.581394062928421,
+  "low_onset_rate": 3.107346773020414,
+  "lufs": -15.503939687948588,
+  "rms_dbfs": -14.003251000504182,
+  "crest": 14.003250122070312,
+  "centroid": 2353.629417108838,
+  "flatness": 0.031106524169445038,
+  "sub100_share": 0.4407796263694763,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7025405764579773,
+  "clean_share": 0.19239720713731576,
+  "minor_share": 0.02833946530513054,
+  "chord_rate": 2.2720385007030983,
+  "repetitiveness": 0.8940013647079468,
+  "vocal_share": 0.058383647352457047,
+  "vocal_voiced": 0.4263959390862944,
+  "song_length": 292.0
+ }
+}

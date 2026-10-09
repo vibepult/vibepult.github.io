@@ -1,0 +1,32 @@
+{
+ "id": "skepticism/301750915-104",
+ "band": "skepticism",
+ "title": "Forge",
+ "source": "itunes",
+ "album": "Lead and Aether",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 1.4701425592784756,
+  "tempo_var": 5.057091758089557,
+  "low_onset_rate": 6.715878509431217,
+  "lufs": -14.31918270489881,
+  "rms_dbfs": -12.263679285903802,
+  "crest": 12.263679504394531,
+  "centroid": 1466.2162891408302,
+  "flatness": 0.0012483844766393304,
+  "sub100_share": 0.6524115204811096,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.9235759377479553,
+  "clean_share": 0.9992242048099301,
+  "minor_share": 0.02976845050973209,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.892415463924408,
+  "vocal_share": 9.960698434952064e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 349.64
+ }
+}

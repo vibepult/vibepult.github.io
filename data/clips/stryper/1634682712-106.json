@@ -1,0 +1,32 @@
+{
+ "id": "stryper/1634682712-106",
+ "band": "stryper",
+ "title": "Out, Up & In",
+ "source": "itunes",
+ "album": "The Final Battle",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.7087687290888813,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 4.410427677835426,
+  "lufs": -10.696843970524991,
+  "rms_dbfs": -9.573228037039957,
+  "crest": 9.573227882385254,
+  "centroid": 2779.8982781951904,
+  "flatness": 0.03087393380701542,
+  "sub100_share": 0.4830705225467682,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.692676305770874,
+  "clean_share": 0.035686578743211794,
+  "minor_share": 0.11128538875266425,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.7986353039741516,
+  "vocal_share": 0.15959583222866058,
+  "vocal_voiced": 0.7610544217687075,
+  "song_length": 252.232
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "warmen",
+ "name": "Warmen",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 74469873,
+  "deezer": 4841,
+  "spotify": "28pvPjZ2n9xUBEHnMgupmh"
+ },
+ "metadata": {
+  "formed": 1999,
+  "split": null,
+  "country": "FI",
+  "status": "active",
+  "members": 5,
+  "past_members": 3,
+  "full_lengths": 7,
+  "genre": "Neoclassical/Melodic Power Metal (early); Melodic Death/Power Metal (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 4388,
+  "themes": "Hell, Rebellion, Freedom",
+  "release_year": 2007
+ },
+ "partial": false,
+ "clips": [
+  "warmen/1660760497-107",
+  "warmen/1660695255-106",
+  "warmen/1660170092-105",
+  "warmen/705446228-105",
+  "warmen/1667408298-106",
+  "warmen/1691399430-105",
+  "warmen/1660760497-106",
+  "warmen/1660695255-105",
+  "warmen/1660170092-104",
+  "warmen/705446228-106",
+  "warmen/1667408298-107",
+  "warmen/1691399430-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.52302631578948,
+   "iqr": 36.92023129386696
+  },
+  "onset_rate": {
+   "median": 4.677726324976968,
+   "iqr": 1.3782586493235716
+  },
+  "tempo_var": {
+   "median": 13.691321471083038,
+   "iqr": 15.015838103609797
+  },
+  "low_onset_rate": {
+   "median": 5.680096251757746,
+   "iqr": 1.4050405129492471
+  },
+  "lufs": {
+   "median": -8.56704574513142,
+   "iqr": 1.6892363914238882
+  },
+  "rms_dbfs": {
+   "median": -7.759493955608756,
+   "iqr": 1.4789292308485757
+  },
+  "crest": {
+   "median": 7.759493827819824,
+   "iqr": 1.478928565979004
+  },
+  "centroid": {
+   "median": 2535.0373369223876,
+   "iqr": 248.82304237332892
+  },
+  "flatness": {
+   "median": 0.03549567051231861,
+   "iqr": 0.007507226429879665
+  },
+  "sub100_share": {
+   "median": 0.3327205628156662,
+   "iqr": 0.1114267036318779
+  },
+  "lowest_pitch": {
+   "median": 47.1038818359375,
+   "iqr": 19.51446533203125
+  },
+  "harmonic_share": {
+   "median": 0.7321233451366425,
+   "iqr": 0.06271249055862427
+  },
+  "clean_share": {
+   "median": 0.0143522110162917,
+   "iqr": 0.04422032583397983
+  },
+  "minor_share": {
+   "median": 0.037483078473884573,
+   "iqr": 0.14360175535022263
+  },
+  "chord_rate": {
+   "median": 1.921209026329826,
+   "iqr": 0.7312773439050453
+  },
+  "repetitiveness": {
+   "median": 0.8838742077350616,
+   "iqr": 0.10491228103637695
+  },
+  "vocal_share": {
+   "median": 0.18794939666986465,
+   "iqr": 0.09077644720673561
+  },
+  "vocal_voiced": {
+   "median": 0.6674362338819959,
+   "iqr": 0.5697353295789008
+  },
+  "song_length": {
+   "median": 224.22050000000002,
+   "iqr": 78.52749999999997
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

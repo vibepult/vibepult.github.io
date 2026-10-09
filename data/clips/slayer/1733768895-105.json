@@ -1,0 +1,32 @@
+{
+ "id": "slayer/1733768895-105",
+ "band": "slayer",
+ "title": "Jesus Saves",
+ "source": "itunes",
+ "album": "Reign In Blood",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 6.697408108124445,
+  "tempo_var": 2.206706369616647,
+  "low_onset_rate": 7.063932929962101,
+  "lufs": -8.344611685273996,
+  "rms_dbfs": -8.910908471653398,
+  "crest": 8.910907745361328,
+  "centroid": 2729.4092948754733,
+  "flatness": 0.039599787443876266,
+  "sub100_share": 0.12346497178077698,
+  "lowest_pitch": 107.666015625,
+  "harmonic_share": 0.6688752174377441,
+  "clean_share": 0.0,
+  "minor_share": 0.18632284266148297,
+  "chord_rate": 2.499032876165838,
+  "repetitiveness": 0.9121555685997009,
+  "vocal_share": 0.03272678703069687,
+  "vocal_voiced": 0.3028169014084507,
+  "song_length": 171.163
+ }
+}

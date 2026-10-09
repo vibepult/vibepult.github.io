@@ -1,0 +1,32 @@
+{
+ "id": "nile/1479083377-105",
+ "band": "nile",
+ "title": "4th Arra of Dagon",
+ "source": "itunes",
+ "album": "Those Whom the Gods Detest",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 0.5333301083591331,
+  "tempo_var": 10.67632322440915,
+  "low_onset_rate": 0.1666656588622291,
+  "lufs": -18.658493468411002,
+  "rms_dbfs": -17.61924468472744,
+  "crest": 16.842531204223633,
+  "centroid": 995.4839139324498,
+  "flatness": 0.0024173494894057512,
+  "sub100_share": 0.3677184283733368,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.9266111254692078,
+  "clean_share": 0.94276875483372,
+  "minor_share": 0.09185232002597027,
+  "chord_rate": 1.9999879063467492,
+  "repetitiveness": 0.9046250581741333,
+  "vocal_share": 0.4130212664604187,
+  "vocal_voiced": 0.8922091782283885,
+  "song_length": 520.373
+ }
+}

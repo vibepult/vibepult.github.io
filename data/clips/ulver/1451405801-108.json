@@ -1,0 +1,32 @@
+{
+ "id": "ulver/1451405801-108",
+ "band": "ulver",
+ "title": "Hiertets Vee",
+ "source": "itunes",
+ "album": "Kveldssanger",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 5.145498957474664,
+  "tempo_var": 19.244544758033555,
+  "low_onset_rate": 6.081044222470058,
+  "lufs": -11.19583543573865,
+  "rms_dbfs": -10.001823241180796,
+  "crest": 10.001822471618652,
+  "centroid": 741.3689633090302,
+  "flatness": 0.00021364117856137455,
+  "sub100_share": 0.16234996914863586,
+  "lowest_pitch": 102.28271484375,
+  "harmonic_share": 0.9817751049995422,
+  "clean_share": 1.0,
+  "minor_share": 0.05485897116375432,
+  "chord_rate": 1.871090529990787,
+  "repetitiveness": 0.6847622394561768,
+  "vocal_share": 1.2517006098278216e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 234.789
+ }
+}

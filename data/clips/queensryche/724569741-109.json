@@ -1,0 +1,32 @@
+{
+ "id": "queensryche/724569741-109",
+ "band": "queensryche",
+ "title": "Miles Away",
+ "source": "itunes",
+ "album": "Hear In the Now Frontier (Remastered) [Expanded Edition]",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.3999486024398724,
+  "tempo_var": 18.39460161230565,
+  "low_onset_rate": 4.666596120995903,
+  "lufs": -7.551526813596392,
+  "rms_dbfs": -7.606275452053085,
+  "crest": 7.6062750816345215,
+  "centroid": 2406.823356741978,
+  "flatness": 0.025532769039273262,
+  "sub100_share": 0.13072626292705536,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.8160737156867981,
+  "clean_share": 0.04563031709203403,
+  "minor_share": -0.2275460246231064,
+  "chord_rate": 0.6333237592780154,
+  "repetitiveness": 0.7000546455383301,
+  "vocal_share": 0.26011618971824646,
+  "vocal_voiced": 0.6630434782608695,
+  "song_length": 274.973
+ }
+}

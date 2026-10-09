@@ -1,0 +1,32 @@
+{
+ "id": "serenity/1183598525-107",
+ "band": "serenity",
+ "title": "Symphony for the Quiet",
+ "source": "itunes",
+ "album": "War of Ages",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.3666666666666667,
+  "tempo_var": 10.871389544028155,
+  "low_onset_rate": 3.933333333333333,
+  "lufs": -8.277163245662365,
+  "rms_dbfs": -7.722530325341119,
+  "crest": 7.722530364990234,
+  "centroid": 2570.654315543461,
+  "flatness": 0.03351045772433281,
+  "sub100_share": 0.35557958483695984,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7550922632217407,
+  "clean_share": 0.10371517027863777,
+  "minor_share": 0.06978448010481564,
+  "chord_rate": 1.4,
+  "repetitiveness": 0.7772887349128723,
+  "vocal_share": 0.05312493443489075,
+  "vocal_voiced": 0.8928571428571429,
+  "song_length": 297.453
+ }
+}

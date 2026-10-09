@@ -1,0 +1,32 @@
+{
+ "id": "dream-theater/676891642-105",
+ "band": "dream-theater",
+ "title": "The Bigger Picture",
+ "source": "itunes",
+ "album": "Dream Theater",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 71.77734375,
+  "onset_rate": 1.8999712778340465,
+  "tempo_var": 33.000869670216524,
+  "low_onset_rate": 1.7999727895269915,
+  "lufs": -17.181403671587788,
+  "rms_dbfs": -17.00566912042309,
+  "crest": 16.4747314453125,
+  "centroid": 1504.1886541973208,
+  "flatness": 0.006725067272782326,
+  "sub100_share": 0.03712966665625572,
+  "lowest_pitch": 164.190673828125,
+  "harmonic_share": 0.9434715509414673,
+  "clean_share": 0.7803557617942769,
+  "minor_share": -0.19798711581748552,
+  "chord_rate": 0.9999848830705508,
+  "repetitiveness": 0.5539970397949219,
+  "vocal_share": 0.6218289732933044,
+  "vocal_voiced": 0.9365079365079365,
+  "song_length": 460.656
+ }
+}

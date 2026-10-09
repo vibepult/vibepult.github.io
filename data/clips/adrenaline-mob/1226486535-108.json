@@ -1,0 +1,32 @@
+{
+ "id": "adrenaline-mob/1226486535-108",
+ "band": "adrenaline-mob",
+ "title": "Raise 'Em Up",
+ "source": "itunes",
+ "album": "We the People",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 69.83741554054055,
+  "onset_rate": 5.546446928186976,
+  "tempo_var": 9.62142245082779,
+  "low_onset_rate": 5.9139825680065945,
+  "lufs": -6.303587216347573,
+  "rms_dbfs": -6.4159459293846925,
+  "crest": 6.4159464836120605,
+  "centroid": 2656.9290443133195,
+  "flatness": 0.043677229434251785,
+  "sub100_share": 0.24533772468566895,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.6607544422149658,
+  "clean_share": 0.0,
+  "minor_share": -0.12788510320010843,
+  "chord_rate": 2.606161809630025,
+  "repetitiveness": 0.9409152269363403,
+  "vocal_share": 0.2653075158596039,
+  "vocal_voiced": 0.6711979609175871,
+  "song_length": 306.387
+ }
+}

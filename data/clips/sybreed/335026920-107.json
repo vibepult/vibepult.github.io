@@ -1,0 +1,32 @@
+{
+ "id": "sybreed/335026920-107",
+ "band": "sybreed",
+ "title": "Electronegative",
+ "source": "itunes",
+ "album": "The Pulse of Awakening",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 78.30255681818181,
+  "onset_rate": 5.178911288367357,
+  "tempo_var": 16.37928275880243,
+  "low_onset_rate": 6.48199219318237,
+  "lufs": -9.341335337086985,
+  "rms_dbfs": -8.213152952186785,
+  "crest": 8.213152885437012,
+  "centroid": 2641.942356300775,
+  "flatness": 0.03681536763906479,
+  "sub100_share": 0.4922737181186676,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.7297089099884033,
+  "clean_share": 0.01008533747090768,
+  "minor_share": 0.23866149608809584,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.8559895753860474,
+  "vocal_share": 0.08699104934930801,
+  "vocal_voiced": 0.1484992101105845,
+  "song_length": 281.804
+ }
+}

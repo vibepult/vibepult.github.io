@@ -1,0 +1,32 @@
+{
+ "id": "church-of-misery/1456640101-105",
+ "band": "church-of-misery",
+ "title": "One Way...Or Another",
+ "source": "itunes",
+ "album": "The Second Coming",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 0.733328898993808,
+  "tempo_var": 13.020677707303944,
+  "low_onset_rate": 3.166647518382353,
+  "lufs": -7.319486156426493,
+  "rms_dbfs": -7.548803517899174,
+  "crest": 7.548803806304932,
+  "centroid": 2760.450128868333,
+  "flatness": 0.07449506223201752,
+  "sub100_share": 0.12498878687620163,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.6083654165267944,
+  "clean_share": 0.008507347254447023,
+  "minor_share": 0.005926922956842495,
+  "chord_rate": 2.799983068885449,
+  "repetitiveness": 0.9408560991287231,
+  "vocal_share": 0.14562003314495087,
+  "vocal_voiced": 0.1425661914460285,
+  "song_length": 320.013
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "lacuna-coil",
+ "name": "Lacuna Coil",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 18030160,
+  "deezer": 2219,
+  "spotify": "4OAddazJM576euUnFSvXSL"
+ },
+ "metadata": {
+  "formed": 1997,
+  "split": null,
+  "country": "IT",
+  "status": "active",
+  "members": 4,
+  "past_members": 8,
+  "full_lengths": 11,
+  "genre": "Gothic Metal/Rock (early); Alternative Rock/Metal (later)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 222064,
+  "themes": "Modern life, Relationships, Hypocrisy, Allegory, Darkness, Love, Loss, Abstract conceptual",
+  "release_year": 2004
+ },
+ "partial": false,
+ "clips": [
+  "lacuna-coil/1045710787-105",
+  "lacuna-coil/1056457943-106",
+  "lacuna-coil/1045283895-107",
+  "lacuna-coil/1045281848-107",
+  "lacuna-coil/1045596670-106",
+  "lacuna-coil/1066266849-106",
+  "lacuna-coil/1045292638-106",
+  "lacuna-coil/1473178434-107",
+  "lacuna-coil/1768110841-106",
+  "lacuna-coil/1045710787-104",
+  "lacuna-coil/1056457943-105",
+  "lacuna-coil/1045283895-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 30.422551081730774
+  },
+  "onset_rate": {
+   "median": 4.304084717838427,
+   "iqr": 1.2763751281906432
+  },
+  "tempo_var": {
+   "median": 3.628287436561452,
+   "iqr": 15.342243078680152
+  },
+  "low_onset_rate": {
+   "median": 5.071116909909303,
+   "iqr": 1.8180042946729742
+  },
+  "lufs": {
+   "median": -8.735424601657979,
+   "iqr": 2.791597431114843
+  },
+  "rms_dbfs": {
+   "median": -7.7593404826566665,
+   "iqr": 1.4915549873151521
+  },
+  "crest": {
+   "median": 7.759340763092041,
+   "iqr": 1.491555094718933
+  },
+  "centroid": {
+   "median": 2515.1115148247554,
+   "iqr": 76.49643904535469
+  },
+  "flatness": {
+   "median": 0.029314808547496796,
+   "iqr": 0.013465713243931532
+  },
+  "sub100_share": {
+   "median": 0.3200621008872986,
+   "iqr": 0.12778866291046143
+  },
+  "lowest_pitch": {
+   "median": 55.1788330078125,
+   "iqr": 16.82281494140625
+  },
+  "harmonic_share": {
+   "median": 0.8097388446331024,
+   "iqr": 0.06334426999092102
+  },
+  "clean_share": {
+   "median": 0.04717710750193349,
+   "iqr": 0.073855642095019
+  },
+  "minor_share": {
+   "median": 0.09226752876606797,
+   "iqr": 0.17819961314267305
+  },
+  "chord_rate": {
+   "median": 1.2658648565761066,
+   "iqr": 0.3905428825786812
+  },
+  "repetitiveness": {
+   "median": 0.7436748743057251,
+   "iqr": 0.10848298668861389
+  },
+  "vocal_share": {
+   "median": 0.19108273833990097,
+   "iqr": 0.09305324777960777
+  },
+  "vocal_voiced": {
+   "median": 0.7785772921791675,
+   "iqr": 0.11659338031161559
+  },
+  "song_length": {
+   "median": 251.6935,
+   "iqr": 29.702999999999946
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

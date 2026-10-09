@@ -1,0 +1,32 @@
+{
+ "id": "mar-de-grises/1531058389-105",
+ "band": "mar-de-grises",
+ "title": "Self Portrait No.1",
+ "source": "itunes",
+ "album": "The Tatterdemalion Express (Remastered 2020)",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 56.17357336956522,
+  "onset_rate": 1.169431581244242,
+  "tempo_var": 36.92488136730367,
+  "low_onset_rate": 2.7063988023081027,
+  "lufs": -37.83640600508809,
+  "rms_dbfs": -38.096285315245126,
+  "crest": 23.943397521972656,
+  "centroid": 942.898115101414,
+  "flatness": 0.0005129876080900431,
+  "sub100_share": 0.007284695748239756,
+  "lowest_pitch": 196.490478515625,
+  "harmonic_share": 0.9629719257354736,
+  "clean_share": 0.9844840961986036,
+  "minor_share": 0.314804508085234,
+  "chord_rate": 0.9021329341027009,
+  "repetitiveness": 0.5648576021194458,
+  "vocal_share": 7.165023998823017e-05,
+  "vocal_voiced": 0.0,
+  "song_length": 267.56
+ }
+}

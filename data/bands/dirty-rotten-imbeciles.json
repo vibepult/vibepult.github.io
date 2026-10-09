@@ -1,0 +1,127 @@
+{
+ "slug": "dirty-rotten-imbeciles",
+ "name": "Dirty Rotten Imbeciles",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 15151171,
+  "deezer": 94969,
+  "spotify": "6eKzDvHhJgMtcaOrvEXCTv"
+ },
+ "metadata": {
+  "formed": 1982,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 4,
+  "past_members": 14,
+  "full_lengths": 6,
+  "genre": "Hardcore Punk, Thrash Metal/Crossover",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 27236,
+  "themes": "Politics, Society, Daily struggles, Drugs, Life, Problems, Freedom, Violence",
+  "release_year": 1990
+ },
+ "partial": false,
+ "clips": [
+  "dirty-rotten-imbeciles/348437536-109",
+  "dirty-rotten-imbeciles/280762057-107",
+  "dirty-rotten-imbeciles/941371715-106",
+  "dirty-rotten-imbeciles/159750253-108",
+  "dirty-rotten-imbeciles/348437536-108",
+  "dirty-rotten-imbeciles/280762057-105",
+  "dirty-rotten-imbeciles/941371715-105",
+  "dirty-rotten-imbeciles/159750253-107",
+  "dirty-rotten-imbeciles/348437536-110",
+  "dirty-rotten-imbeciles/280762057-108",
+  "dirty-rotten-imbeciles/941371715-107",
+  "dirty-rotten-imbeciles/159750253-110"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 107.666015625,
+   "iqr": 30.58182565789474
+  },
+  "onset_rate": {
+   "median": 4.538744666149444,
+   "iqr": 1.2348528831081111
+  },
+  "tempo_var": {
+   "median": 12.9909253729341,
+   "iqr": 9.031712855773886
+  },
+  "low_onset_rate": {
+   "median": 5.366666666666667,
+   "iqr": 2.343203998457553
+  },
+  "lufs": {
+   "median": -12.101877154599293,
+   "iqr": 5.141355934668784
+  },
+  "rms_dbfs": {
+   "median": -12.249397793723912,
+   "iqr": 5.223203336468009
+  },
+  "crest": {
+   "median": 12.249397277832031,
+   "iqr": 5.223203539848328
+  },
+  "centroid": {
+   "median": 2706.17031282316,
+   "iqr": 219.27396464335288
+  },
+  "flatness": {
+   "median": 0.03409351408481598,
+   "iqr": 0.010450636968016624
+  },
+  "sub100_share": {
+   "median": 0.2428269237279892,
+   "iqr": 0.13416561111807823
+  },
+  "lowest_pitch": {
+   "median": 74.0203857421875,
+   "iqr": 30.28106689453125
+  },
+  "harmonic_share": {
+   "median": 0.7397560477256775,
+   "iqr": 0.13580045104026794
+  },
+  "clean_share": {
+   "median": 0.04997484069778334,
+   "iqr": 0.08558486070513296
+  },
+  "minor_share": {
+   "median": 0.12633164871434702,
+   "iqr": 0.2049420602400235
+  },
+  "chord_rate": {
+   "median": 2.066666666666667,
+   "iqr": 0.35785597183231155
+  },
+  "repetitiveness": {
+   "median": 0.8573831617832184,
+   "iqr": 0.11332772672176361
+  },
+  "vocal_share": {
+   "median": 0.07776877284049988,
+   "iqr": 0.02705351635813713
+  },
+  "vocal_voiced": {
+   "median": 0.5171490753492032,
+   "iqr": 0.20228579377151878
+  },
+  "song_length": {
+   "median": 221.5755,
+   "iqr": 82.07699999999997
+  },
+  "vocal_presence": {
+   "median": 0.5,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

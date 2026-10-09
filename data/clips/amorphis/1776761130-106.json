@@ -1,0 +1,32 @@
+{
+ "id": "amorphis/1776761130-106",
+ "band": "amorphis",
+ "title": "When the Gods Came",
+ "source": "itunes",
+ "album": "Halo",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.333333333333333,
+  "tempo_var": 7.744040438236222,
+  "low_onset_rate": 6.833333333333333,
+  "lufs": -9.690621075291181,
+  "rms_dbfs": -9.167185874493555,
+  "crest": 9.16718578338623,
+  "centroid": 2573.2858320783935,
+  "flatness": 0.034650422632694244,
+  "sub100_share": 0.383125364780426,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7794414758682251,
+  "clean_share": 0.018575851393188854,
+  "minor_share": 0.023678632165084534,
+  "chord_rate": 1.1666666666666667,
+  "repetitiveness": 0.9269276261329651,
+  "vocal_share": 6.092561761761317e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 296.987
+ }
+}

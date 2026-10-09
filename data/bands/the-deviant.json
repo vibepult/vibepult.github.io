@@ -1,0 +1,127 @@
+{
+ "slug": "the-deviant",
+ "name": "The Deviant",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 166998883,
+  "deezer": 1613615,
+  "spotify": "0MQxDqWU0XUv9pNUsINUP7"
+ },
+ "metadata": {
+  "formed": 2003,
+  "split": null,
+  "country": "NO",
+  "status": "active",
+  "members": 3,
+  "past_members": 5,
+  "full_lengths": 3,
+  "genre": "Black/Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 53,
+  "themes": "Anti-religion, Violence, Death, Hate",
+  "release_year": 2017
+ },
+ "partial": false,
+ "clips": [
+  "the-deviant/499155276-105",
+  "the-deviant/1531977122-104",
+  "the-deviant/1531521479-105",
+  "the-deviant/499155276-104",
+  "the-deviant/1531977122-105",
+  "the-deviant/1531521479-104",
+  "the-deviant/499155276-106",
+  "the-deviant/1531977122-103",
+  "the-deviant/1531521479-106",
+  "the-deviant/499155276-103",
+  "the-deviant/1531977122-106",
+  "the-deviant/1531521479-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 139.77693256578948,
+   "iqr": 60.33491654829545
+  },
+  "onset_rate": {
+   "median": 6.281518207826213,
+   "iqr": 2.405687824273869
+  },
+  "tempo_var": {
+   "median": 8.634167014988556,
+   "iqr": 7.872055495163055
+  },
+  "low_onset_rate": {
+   "median": 7.450949789070455,
+   "iqr": 2.1049768462396363
+  },
+  "lufs": {
+   "median": -10.081824306117973,
+   "iqr": 2.4536932469352415
+  },
+  "rms_dbfs": {
+   "median": -9.137324581951233,
+   "iqr": 1.5079235041500638
+  },
+  "crest": {
+   "median": 9.137324333190918,
+   "iqr": 1.5079233646392822
+  },
+  "centroid": {
+   "median": 2649.330421891486,
+   "iqr": 402.67333158252495
+  },
+  "flatness": {
+   "median": 0.03644915111362934,
+   "iqr": 0.031933221500366926
+  },
+  "sub100_share": {
+   "median": 0.3649314045906067,
+   "iqr": 0.0725460946559906
+  },
+  "lowest_pitch": {
+   "median": 51.141357421875,
+   "iqr": 18.841552734375
+  },
+  "harmonic_share": {
+   "median": 0.7875440716743469,
+   "iqr": 0.027063220739364624
+  },
+  "clean_share": {
+   "median": 0.0073700543056633054,
+   "iqr": 0.028122575640031032
+  },
+  "minor_share": {
+   "median": 0.08522455104455658,
+   "iqr": 0.14205791697501352
+  },
+  "chord_rate": {
+   "median": 2.2553323352567523,
+   "iqr": 0.5763627078989477
+  },
+  "repetitiveness": {
+   "median": 0.893758237361908,
+   "iqr": 0.0653536468744278
+  },
+  "vocal_share": {
+   "median": 0.06957241892814636,
+   "iqr": 0.04334608279168606
+  },
+  "vocal_voiced": {
+   "median": 0.23162500927093377,
+   "iqr": 0.16857080490894802
+  },
+  "song_length": {
+   "median": 277.538,
+   "iqr": 111.72075000000001
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

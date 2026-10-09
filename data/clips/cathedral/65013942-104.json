@@ -1,0 +1,32 @@
+{
+ "id": "cathedral/65013942-104",
+ "band": "cathedral",
+ "title": "Soul Sacrifice",
+ "source": "itunes",
+ "album": "Forest of Equilibrium",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 5.613271589972361,
+  "tempo_var": 3.0323430987205455,
+  "low_onset_rate": 6.248105876933521,
+  "lufs": -16.18684420268012,
+  "rms_dbfs": -15.152490319814868,
+  "crest": 15.152225494384766,
+  "centroid": 2120.8658759482823,
+  "flatness": 0.014563433825969696,
+  "sub100_share": 0.3157849609851837,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.5816075205802917,
+  "clean_share": 0.18541505042668735,
+  "minor_share": -0.26938251313404904,
+  "chord_rate": 2.1718015080250206,
+  "repetitiveness": 0.9105926156044006,
+  "vocal_share": 0.06505922228097916,
+  "vocal_voiced": 0.29508196721311475,
+  "song_length": 174.44
+ }
+}

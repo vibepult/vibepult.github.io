@@ -1,0 +1,32 @@
+{
+ "id": "jesu/1569593715-105",
+ "band": "jesu",
+ "title": "Brave New World",
+ "source": "itunes",
+ "album": "Ascension",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.040522111235029,
+  "tempo_var": 6.554428816738386,
+  "low_onset_rate": 3.240996096591185,
+  "lufs": -11.413386673058831,
+  "rms_dbfs": -10.606557213595186,
+  "crest": 10.60655689239502,
+  "centroid": 2540.8428853274163,
+  "flatness": 0.025360524654388428,
+  "sub100_share": 0.3218342065811157,
+  "lowest_pitch": 94.207763671875,
+  "harmonic_share": 0.8357735872268677,
+  "clean_share": 0.11016291698991466,
+  "minor_share": 0.031500318478105416,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.6334806680679321,
+  "vocal_share": 0.05731048062443733,
+  "vocal_voiced": 0.8511530398322851,
+  "song_length": 252.92
+ }
+}

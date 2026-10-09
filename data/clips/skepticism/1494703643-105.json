@@ -1,0 +1,32 @@
+{
+ "id": "skepticism/1494703643-105",
+ "band": "skepticism",
+ "title": "The Road",
+ "source": "itunes",
+ "album": "Ordeal",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.343603016050041,
+  "tempo_var": 9.140253907278467,
+  "low_onset_rate": 7.217063472821607,
+  "lufs": -13.438113708734265,
+  "rms_dbfs": -13.227712941367022,
+  "crest": 13.227712631225586,
+  "centroid": 2153.695910926004,
+  "flatness": 0.018944265320897102,
+  "sub100_share": 0.123420350253582,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7762625217437744,
+  "clean_share": 0.030256012412723042,
+  "minor_share": 0.17931107660140655,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.8666601777076721,
+  "vocal_share": 0.12034469842910767,
+  "vocal_voiced": 0.5925563173359452,
+  "song_length": 417.56
+ }
+}

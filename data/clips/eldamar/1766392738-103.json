@@ -1,0 +1,32 @@
+{
+ "id": "eldamar/1766392738-103",
+ "band": "eldamar",
+ "title": "Akt II; We Dwell...",
+ "source": "itunes",
+ "album": "Astral Journeys, Pt. 1 : Creation",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 2.1666339133195267,
+  "tempo_var": 4.170277673818549,
+  "low_onset_rate": 7.633217940771871,
+  "lufs": -19.42041786649963,
+  "rms_dbfs": -18.77771737255989,
+  "crest": 14.549907684326172,
+  "centroid": 974.2921950152262,
+  "flatness": 7.555713091278449e-05,
+  "sub100_share": 0.015228897333145142,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.9765563607215881,
+  "clean_share": 1.0,
+  "minor_share": -0.0569306523161609,
+  "chord_rate": 0.8666535653278107,
+  "repetitiveness": 0.8050056099891663,
+  "vocal_share": 8.666148119118589e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 259.2
+ }
+}

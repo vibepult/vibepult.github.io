@@ -1,0 +1,32 @@
+{
+ "id": "draconian/1184718236-106",
+ "band": "draconian",
+ "title": "Dusk Mariner",
+ "source": "itunes",
+ "album": "Sovran",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 2.1666666666666665,
+  "tempo_var": 2.5515770269647633,
+  "low_onset_rate": 3.1,
+  "lufs": -12.894825696666846,
+  "rms_dbfs": -11.68786445160896,
+  "crest": 11.687864303588867,
+  "centroid": 1947.2303278881093,
+  "flatness": 0.0067130266688764095,
+  "sub100_share": 0.4524810314178467,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.9500852227210999,
+  "clean_share": 0.6385448916408669,
+  "minor_share": 0.011361339625373335,
+  "chord_rate": 0.7,
+  "repetitiveness": 0.6235682368278503,
+  "vocal_share": 0.0033886046148836613,
+  "vocal_voiced": 1.0,
+  "song_length": 479.627
+ }
+}

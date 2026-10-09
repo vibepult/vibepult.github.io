@@ -1,0 +1,32 @@
+{
+ "id": "empyrium/1556081202-104",
+ "band": "empyrium",
+ "title": "The Days Before the Fall",
+ "source": "itunes",
+ "album": "The Turn of the Tides",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.472512486059254,
+  "tempo_var": 4.502069595559163,
+  "low_onset_rate": 4.343603016050041,
+  "lufs": -12.545544859296127,
+  "rms_dbfs": -12.057327251624177,
+  "crest": 12.057327270507812,
+  "centroid": 1840.1517795028265,
+  "flatness": 0.007520919665694237,
+  "sub100_share": 0.13681821525096893,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.9013298749923706,
+  "clean_share": 0.6322730799069046,
+  "minor_share": 0.28046687191609876,
+  "chord_rate": 0.801895941424623,
+  "repetitiveness": 0.7085749506950378,
+  "vocal_share": 0.22467632591724396,
+  "vocal_voiced": 0.8633484162895928,
+  "song_length": 338.267
+ }
+}

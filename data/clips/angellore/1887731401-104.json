@@ -1,0 +1,32 @@
+{
+ "id": "angellore/1887731401-104",
+ "band": "angellore",
+ "title": "Inertia",
+ "source": "itunes",
+ "album": "La Litanie des Cendres",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 2.1333010838838415,
+  "tempo_var": 13.558804709936318,
+  "low_onset_rate": 1.8999712778340465,
+  "lufs": -16.061397869638167,
+  "rms_dbfs": -15.509923395897216,
+  "crest": 15.509923934936523,
+  "centroid": 1688.0122374666878,
+  "flatness": 0.002908287337049842,
+  "sub100_share": 0.1557789146900177,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.9665259122848511,
+  "clean_share": 0.8468677494199536,
+  "minor_share": 0.2547181925939042,
+  "chord_rate": 0.46665961209959034,
+  "repetitiveness": 0.5674158930778503,
+  "vocal_share": 0.3805589973926544,
+  "vocal_voiced": 0.9553466509988249,
+  "song_length": 387.573
+ }
+}

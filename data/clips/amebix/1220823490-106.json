@@ -1,0 +1,32 @@
+{
+ "id": "amebix/1220823490-106",
+ "band": "amebix",
+ "title": "Sonic Mass Part 1",
+ "source": "itunes",
+ "album": "Sonic Mass",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 5.379385273723512,
+  "tempo_var": 9.42175358903217,
+  "low_onset_rate": 4.009479707123115,
+  "lufs": -19.647619654054612,
+  "rms_dbfs": -19.04592660140542,
+  "crest": 18.33879280090332,
+  "centroid": 1824.774880316836,
+  "flatness": 0.007023756392300129,
+  "sub100_share": 0.013508027419447899,
+  "lowest_pitch": 148.040771484375,
+  "harmonic_share": 0.9303335547447205,
+  "clean_share": 0.6865787432117921,
+  "minor_share": 0.07387456763504263,
+  "chord_rate": 0.6682466178538525,
+  "repetitiveness": 0.8128951191902161,
+  "vocal_share": 0.23513248562812805,
+  "vocal_voiced": 0.7630057803468208,
+  "song_length": 216.973
+ }
+}

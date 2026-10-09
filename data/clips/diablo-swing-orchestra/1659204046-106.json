@@ -1,0 +1,32 @@
+{
+ "id": "diablo-swing-orchestra/1659204046-106",
+ "band": "diablo-swing-orchestra",
+ "title": "Velvet Embracer",
+ "source": "itunes",
+ "album": "The Butcher's Ballroom",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.4,
+  "tempo_var": 2.781655725158724,
+  "low_onset_rate": 2.6,
+  "lufs": -10.003049903452192,
+  "rms_dbfs": -9.888468921004378,
+  "crest": 9.888468742370605,
+  "centroid": 2455.1112497876156,
+  "flatness": 0.03152792528271675,
+  "sub100_share": 0.17643031477928162,
+  "lowest_pitch": 99.591064453125,
+  "harmonic_share": 0.6983658075332642,
+  "clean_share": 0.16021671826625386,
+  "minor_share": 0.23427118014518844,
+  "chord_rate": 2.4,
+  "repetitiveness": 0.868861198425293,
+  "vocal_share": 0.13837020099163055,
+  "vocal_voiced": 0.9212376933895922,
+  "song_length": 245.4
+ }
+}

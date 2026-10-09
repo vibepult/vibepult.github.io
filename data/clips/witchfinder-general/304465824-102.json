@@ -1,0 +1,32 @@
+{
+ "id": "witchfinder-general/304465824-102",
+ "band": "witchfinder-general",
+ "title": "Last Chance",
+ "source": "itunes",
+ "album": "Friends of Hell",
+ "year": 1983,
+ "itunes_year": 1983,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 73.828125,
+  "onset_rate": 5.312560611938127,
+  "tempo_var": 19.257482812059013,
+  "low_onset_rate": 3.8758303835523447,
+  "lufs": -15.564975611275726,
+  "rms_dbfs": -15.110417533751052,
+  "crest": 15.110153198242188,
+  "centroid": 2085.6381716443407,
+  "flatness": 0.011607864871621132,
+  "sub100_share": 0.17147938907146454,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7226521372795105,
+  "clean_share": 0.3134212567882079,
+  "minor_share": -0.2103096313112252,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.8530099987983704,
+  "vocal_share": 0.05295538902282715,
+  "vocal_voiced": 0.8485576923076923,
+  "song_length": 233.333
+ }
+}

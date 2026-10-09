@@ -1,0 +1,32 @@
+{
+ "id": "jack-frost/1064043928-105",
+ "band": "jack-frost",
+ "title": "She Must Come Down",
+ "source": "itunes",
+ "album": "Mélaina Cholé",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.071564515346943,
+  "tempo_var": 9.417644347851938,
+  "low_onset_rate": 3.0071097803423363,
+  "lufs": -9.158765131188375,
+  "rms_dbfs": -8.25214026249558,
+  "crest": 8.252140045166016,
+  "centroid": 2201.970374603199,
+  "flatness": 0.01512285228818655,
+  "sub100_share": 0.48780006170272827,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8235103487968445,
+  "clean_share": 0.19162141194724594,
+  "minor_share": -0.02977671278283478,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.8432925343513489,
+  "vocal_share": 4.937442668051517e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 284.053
+ }
+}

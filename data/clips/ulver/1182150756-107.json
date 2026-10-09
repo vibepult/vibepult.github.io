@@ -1,0 +1,32 @@
+{
+ "id": "ulver/1182150756-107",
+ "band": "ulver",
+ "title": "In Memoriam",
+ "source": "itunes",
+ "album": "Riverhead",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.606161809630025,
+  "tempo_var": 7.216640454434977,
+  "low_onset_rate": 8.520144377636619,
+  "lufs": -17.549733074206397,
+  "rms_dbfs": -16.421249209628385,
+  "crest": 14.476618766784668,
+  "centroid": 481.8314586667113,
+  "flatness": 5.2871746447635815e-05,
+  "sub100_share": 0.11806399375200272,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.9829896688461304,
+  "clean_share": 0.9992242048099301,
+  "minor_share": -0.05671174788549227,
+  "chord_rate": 0.7350712796392378,
+  "repetitiveness": 0.7793784141540527,
+  "vocal_share": 8.64992671267828e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 180.775
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "royal-hunt/1493190125-106",
+ "band": "royal-hunt",
+ "title": "Wicked Lounge",
+ "source": "itunes",
+ "album": "Eyewitness",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.443840008728119,
+  "tempo_var": 12.36239022015826,
+  "low_onset_rate": 2.3722754933811765,
+  "lufs": -9.779711951935388,
+  "rms_dbfs": -9.58130807313054,
+  "crest": 9.581308364868164,
+  "centroid": 2025.1914284233562,
+  "flatness": 0.009364614263176918,
+  "sub100_share": 0.15149319171905518,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8522081971168518,
+  "clean_share": 0.3716058960434445,
+  "minor_share": -0.3472954703413479,
+  "chord_rate": 0.801895941424623,
+  "repetitiveness": 0.6833778619766235,
+  "vocal_share": 0.2872696816921234,
+  "vocal_voiced": 0.948093220338983,
+  "song_length": 230.04
+ }
+}

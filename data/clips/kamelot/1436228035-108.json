@@ -1,0 +1,32 @@
+{
+ "id": "kamelot/1436228035-108",
+ "band": "kamelot",
+ "title": "Descent of the Archangel",
+ "source": "itunes",
+ "album": "Epica",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.644313994084275,
+  "tempo_var": 28.00833574524384,
+  "low_onset_rate": 3.742181059981574,
+  "lufs": -11.525013505577823,
+  "rms_dbfs": -10.715592659866198,
+  "crest": 10.715593338012695,
+  "centroid": 2348.599400716911,
+  "flatness": 0.025506136938929558,
+  "sub100_share": 0.37602904438972473,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.6813570261001587,
+  "clean_share": 0.15283165244375485,
+  "minor_share": -0.012389357714128746,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.9043869376182556,
+  "vocal_share": 0.09753699600696564,
+  "vocal_voiced": 0.7246049661399548,
+  "song_length": 275.68
+ }
+}

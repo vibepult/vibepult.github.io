@@ -1,0 +1,32 @@
+{
+ "id": "falkenbach/1556107428-104",
+ "band": "falkenbach",
+ "title": "Tanfana",
+ "source": "itunes",
+ "album": "Tiurida",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.7063988023081027,
+  "tempo_var": 1.7100010534123984,
+  "low_onset_rate": 4.677726324976968,
+  "lufs": -10.033540834405551,
+  "rms_dbfs": -9.368263403008077,
+  "crest": 9.368263244628906,
+  "centroid": 2674.7029122202935,
+  "flatness": 0.034440990537405014,
+  "sub100_share": 0.4256606996059418,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8131460547447205,
+  "clean_share": 0.004654771140418929,
+  "minor_share": 0.06214419174780983,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.7476496696472168,
+  "vocal_share": 5.652794357047242e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 332.147
+ }
+}

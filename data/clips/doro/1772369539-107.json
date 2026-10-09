@@ -1,0 +1,32 @@
+{
+ "id": "doro/1772369539-107",
+ "band": "doro",
+ "title": "Ich will Alles",
+ "source": "itunes",
+ "album": "Calling the Wild",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.166572941987447,
+  "tempo_var": 25.281096996523438,
+  "low_onset_rate": 7.36653303341436,
+  "lufs": -7.7063145943478935,
+  "rms_dbfs": -7.718795885296811,
+  "crest": 7.718796253204346,
+  "centroid": 2623.244729760498,
+  "flatness": 0.04466394707560539,
+  "sub100_share": 0.29972970485687256,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7481364607810974,
+  "clean_share": 0.05104408352668213,
+  "minor_share": 0.08658408147396335,
+  "chord_rate": 1.5666382469252258,
+  "repetitiveness": 0.9209743738174438,
+  "vocal_share": 0.17040632665157318,
+  "vocal_voiced": 0.5213219616204691,
+  "song_length": 145.773
+ }
+}

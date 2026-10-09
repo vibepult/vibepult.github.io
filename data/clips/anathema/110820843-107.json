@@ -1,0 +1,32 @@
+{
+ "id": "anathema/110820843-107",
+ "band": "anathema",
+ "title": "Alternative 4",
+ "source": "itunes",
+ "album": "Alternative 4",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 3.107346773020414,
+  "tempo_var": 33.94872349071589,
+  "low_onset_rate": 5.713508582650439,
+  "lufs": -14.679885599464823,
+  "rms_dbfs": -13.225608648468016,
+  "crest": 13.225608825683594,
+  "centroid": 1142.7024583462842,
+  "flatness": 0.0024480384308844805,
+  "sub100_share": 0.5108809471130371,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.9209992289543152,
+  "clean_share": 0.9045771916214119,
+  "minor_share": 0.13662663752895898,
+  "chord_rate": 0.7016589487465451,
+  "repetitiveness": 0.8413118124008179,
+  "vocal_share": 0.009778776206076145,
+  "vocal_voiced": 0.8757668711656442,
+  "song_length": 377.92
+ }
+}

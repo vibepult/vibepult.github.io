@@ -1,0 +1,32 @@
+{
+ "id": "warlock/1443457372-104",
+ "band": "warlock",
+ "title": "Homicide Rocker",
+ "source": "itunes",
+ "album": "Burning the Witches",
+ "year": 1984,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.9784373030112015,
+  "tempo_var": 31.220217888250463,
+  "low_onset_rate": 5.613271589972361,
+  "lufs": -13.688904895258398,
+  "rms_dbfs": -13.624350322441177,
+  "crest": 13.589821815490723,
+  "centroid": 2607.6325105751944,
+  "flatness": 0.02851787768304348,
+  "sub100_share": 0.21080352365970612,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7024866342544556,
+  "clean_share": 0.016291698991466253,
+  "minor_share": -0.05592323824017542,
+  "chord_rate": 1.4367302283857828,
+  "repetitiveness": 0.8594040870666504,
+  "vocal_share": 0.22132891416549683,
+  "vocal_voiced": 0.8037249283667621,
+  "song_length": 196.76
+ }
+}

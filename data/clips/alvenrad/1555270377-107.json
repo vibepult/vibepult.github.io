@@ -1,0 +1,32 @@
+{
+ "id": "alvenrad/1555270377-107",
+ "band": "alvenrad",
+ "title": "Fallisch",
+ "source": "itunes",
+ "album": "Heer",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.579859259079669,
+  "tempo_var": 3.9677805865116635,
+  "low_onset_rate": 4.71113865586966,
+  "lufs": -10.288141606552927,
+  "rms_dbfs": -8.981345893028536,
+  "crest": 8.981346130371094,
+  "centroid": 2695.3640936437996,
+  "flatness": 0.034861549735069275,
+  "sub100_share": 0.4748305678367615,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6998541355133057,
+  "clean_share": 0.008533747090768037,
+  "minor_share": 0.007853370373322788,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.9138409495353699,
+  "vocal_share": 0.15365973114967346,
+  "vocal_voiced": 0.7646062658763759,
+  "song_length": 248.373
+ }
+}

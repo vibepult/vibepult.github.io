@@ -1,0 +1,32 @@
+{
+ "id": "vita-imana/1227253682-108",
+ "band": "vita-imana",
+ "title": "Mi Camino",
+ "source": "itunes",
+ "album": "EL M4L",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.57748933229889,
+  "tempo_var": 4.263256414560601e-14,
+  "low_onset_rate": 7.651423774426611,
+  "lufs": -8.042980767689192,
+  "rms_dbfs": -7.349864830424994,
+  "crest": 7.349864959716797,
+  "centroid": 2569.2967269377054,
+  "flatness": 0.04099326208233833,
+  "sub100_share": 0.48618248105049133,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8239640593528748,
+  "clean_share": 0.0069821567106283944,
+  "minor_share": 0.1526693779947626,
+  "chord_rate": 2.3054508315957913,
+  "repetitiveness": 0.9130383133888245,
+  "vocal_share": 0.10146777331829071,
+  "vocal_voiced": 0.5104895104895105,
+  "song_length": 321.619
+ }
+}

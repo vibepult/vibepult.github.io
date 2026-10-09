@@ -1,0 +1,127 @@
+{
+ "slug": "mantar",
+ "name": "Mantar",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 262618588,
+  "deezer": 4352086,
+  "spotify": "6rVRU7I6r1lt6bhXGYTRQL"
+ },
+ "metadata": {
+  "formed": 2012,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 2,
+  "past_members": 0,
+  "full_lengths": 6,
+  "genre": "Sludge Metal (early); Sludge/Black Metal (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 4577,
+  "themes": "Inner struggles",
+  "release_year": 2019
+ },
+ "partial": false,
+ "clips": [
+  "mantar/1622538324-105",
+  "mantar/1458743782-105",
+  "mantar/1456968561-107",
+  "mantar/1511805417-104",
+  "mantar/1613406596-105",
+  "mantar/1775746923-106",
+  "mantar/1622538324-106",
+  "mantar/1458743782-106",
+  "mantar/1456968561-106",
+  "mantar/1511805417-105",
+  "mantar/1613406596-106",
+  "mantar/1775746923-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 105.5126953125,
+   "iqr": 43.23344268897094
+  },
+  "onset_rate": {
+   "median": 3.5417070746254184,
+   "iqr": 1.1914444689458459
+  },
+  "tempo_var": {
+   "median": 11.447614389391454,
+   "iqr": 8.913371822238826
+  },
+  "low_onset_rate": {
+   "median": 4.0094797071231145,
+   "iqr": 1.9364299691946552
+  },
+  "lufs": {
+   "median": -8.879761400143465,
+   "iqr": 2.525929411934019
+  },
+  "rms_dbfs": {
+   "median": -7.470895336110891,
+   "iqr": 2.806122764541568
+  },
+  "crest": {
+   "median": 7.470895528793335,
+   "iqr": 2.806123375892639
+  },
+  "centroid": {
+   "median": 2622.826185808726,
+   "iqr": 196.77818875547155
+  },
+  "flatness": {
+   "median": 0.03542276285588741,
+   "iqr": 0.007750897668302059
+  },
+  "sub100_share": {
+   "median": 0.40738630294799805,
+   "iqr": 0.11253585666418076
+  },
+  "lowest_pitch": {
+   "median": 63.2537841796875,
+   "iqr": 12.1124267578125
+  },
+  "harmonic_share": {
+   "median": 0.7400090396404266,
+   "iqr": 0.0947674959897995
+  },
+  "clean_share": {
+   "median": 0.06893897257837002,
+   "iqr": 0.12490302560124127
+  },
+  "minor_share": {
+   "median": -0.0044410404092450895,
+   "iqr": 0.16671225068188325
+  },
+  "chord_rate": {
+   "median": 1.5536733865102073,
+   "iqr": 0.4332472812068977
+  },
+  "repetitiveness": {
+   "median": 0.8827983736991882,
+   "iqr": 0.08077014982700348
+  },
+  "vocal_share": {
+   "median": 0.06986948102712631,
+   "iqr": 0.052893309853971004
+  },
+  "vocal_voiced": {
+   "median": 0.18851326954323883,
+   "iqr": 0.2341218613519282
+  },
+  "song_length": {
+   "median": 221.45600000000002,
+   "iqr": 40.01325
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

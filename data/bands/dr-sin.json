@@ -1,0 +1,127 @@
+{
+ "slug": "dr-sin",
+ "name": "Dr. Sin",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 464214115,
+  "deezer": 4222874,
+  "spotify": "4YtYp2wFYIgdNsLWo6rM3D"
+ },
+ "metadata": {
+  "formed": 1992,
+  "split": null,
+  "country": "BR",
+  "status": "active",
+  "members": 3,
+  "past_members": 3,
+  "full_lengths": 11,
+  "genre": "Melodic Heavy Metal/Hard Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 3197,
+  "themes": "Life, History",
+  "release_year": 2017
+ },
+ "partial": false,
+ "clips": [
+  "dr-sin/967567393-105",
+  "dr-sin/1549458076-107",
+  "dr-sin/967567393-106",
+  "dr-sin/1549458076-106",
+  "dr-sin/967567393-104",
+  "dr-sin/1549458076-108",
+  "dr-sin/967567393-107",
+  "dr-sin/1549458076-105",
+  "dr-sin/967567393-103",
+  "dr-sin/1549458076-109",
+  "dr-sin/967567393-108",
+  "dr-sin/1549458076-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 32.10404829545455
+  },
+  "onset_rate": {
+   "median": 3.7087687290888813,
+   "iqr": 2.0548583499005963
+  },
+  "tempo_var": {
+   "median": 11.739339871533112,
+   "iqr": 15.140216153711881
+  },
+  "low_onset_rate": {
+   "median": 4.2934845197110025,
+   "iqr": 1.144372333074723
+  },
+  "lufs": {
+   "median": -10.878029646927239,
+   "iqr": 2.6774262183789297
+  },
+  "rms_dbfs": {
+   "median": -11.195978296534218,
+   "iqr": 3.0260715557967917
+  },
+  "crest": {
+   "median": 11.195977687835693,
+   "iqr": 3.026071310043335
+  },
+  "centroid": {
+   "median": 2659.2286081128927,
+   "iqr": 282.24823848450933
+  },
+  "flatness": {
+   "median": 0.03603152930736542,
+   "iqr": 0.015211036894470453
+  },
+  "sub100_share": {
+   "median": 0.26872359216213226,
+   "iqr": 0.0361599363386631
+  },
+  "lowest_pitch": {
+   "median": 61.907958984375,
+   "iqr": 28.93524169921875
+  },
+  "harmonic_share": {
+   "median": 0.7205391526222229,
+   "iqr": 0.05163124203681946
+  },
+  "clean_share": {
+   "median": 0.0252133436772692,
+   "iqr": 0.06865787432117922
+  },
+  "minor_share": {
+   "median": -0.007179798731789366,
+   "iqr": 0.13943903852059558
+  },
+  "chord_rate": {
+   "median": 1.4868487247248217,
+   "iqr": 0.6181281215148136
+  },
+  "repetitiveness": {
+   "median": 0.8154504895210266,
+   "iqr": 0.12107717990875244
+  },
+  "vocal_share": {
+   "median": 0.2644374817609787,
+   "iqr": 0.11195018887519836
+  },
+  "vocal_voiced": {
+   "median": 0.7119932273032427,
+   "iqr": 0.2541358192402936
+  },
+  "song_length": {
+   "median": 251.94,
+   "iqr": 37.64325000000002
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

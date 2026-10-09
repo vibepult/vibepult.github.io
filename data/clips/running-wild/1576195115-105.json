@@ -1,0 +1,32 @@
+{
+ "id": "running-wild/1576195115-105",
+ "band": "running-wild",
+ "title": "Wild & Free",
+ "source": "itunes",
+ "album": "Blood on Blood",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 4.677726324976968,
+  "tempo_var": 15.089780590674216,
+  "low_onset_rate": 6.415167531396984,
+  "lufs": -9.315596073370457,
+  "rms_dbfs": -8.429951488982855,
+  "crest": 8.429950714111328,
+  "centroid": 2793.2138324823295,
+  "flatness": 0.04015021398663521,
+  "sub100_share": 0.39634352922439575,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.771871030330658,
+  "clean_share": 0.0,
+  "minor_share": 0.03924754936609859,
+  "chord_rate": 2.338863162488484,
+  "repetitiveness": 0.9490208029747009,
+  "vocal_share": 0.06246254965662956,
+  "vocal_voiced": 0.373015873015873,
+  "song_length": 329.613
+ }
+}

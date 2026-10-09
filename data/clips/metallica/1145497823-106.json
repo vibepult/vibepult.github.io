@@ -1,0 +1,32 @@
+{
+ "id": "metallica/1145497823-106",
+ "band": "metallica",
+ "title": "Halo On Fire",
+ "source": "itunes",
+ "album": "Hardwired…To Self-Destruct",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 1.866655379256966,
+  "tempo_var": 17.401937168877126,
+  "low_onset_rate": 2.3333192240712073,
+  "lufs": -9.41342651669234,
+  "rms_dbfs": -8.545334573896746,
+  "crest": 8.545333862304688,
+  "centroid": 2764.536457674092,
+  "flatness": 0.03896233066916466,
+  "sub100_share": 0.38945943117141724,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7775995135307312,
+  "clean_share": 0.04331013147718484,
+  "minor_share": 0.002573487515827755,
+  "chord_rate": 2.199986696981424,
+  "repetitiveness": 0.8270156979560852,
+  "vocal_share": 5.70233567032119e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 495.017
+ }
+}

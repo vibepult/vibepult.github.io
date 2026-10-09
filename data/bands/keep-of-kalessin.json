@@ -1,0 +1,127 @@
+{
+ "slug": "keep-of-kalessin",
+ "name": "Keep of Kalessin",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 137321986,
+  "deezer": 6896,
+  "spotify": "1Oos40mD8hfvswQWVjkbg5"
+ },
+ "metadata": {
+  "formed": 1995,
+  "split": null,
+  "country": "NO",
+  "status": "active",
+  "members": 3,
+  "past_members": 7,
+  "full_lengths": 7,
+  "genre": "Black Metal (early); Melodic Black/Death Metal (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 10386,
+  "themes": "Earthsea, Fantasy, War, Darkness",
+  "release_year": 2007
+ },
+ "partial": false,
+ "clips": [
+  "keep-of-kalessin/260018364-104",
+  "keep-of-kalessin/262095838-104",
+  "keep-of-kalessin/310970319-106",
+  "keep-of-kalessin/1460468688-105",
+  "keep-of-kalessin/1770805082-104",
+  "keep-of-kalessin/1770649820-105",
+  "keep-of-kalessin/1770651006-104",
+  "keep-of-kalessin/260018364-103",
+  "keep-of-kalessin/262095838-105",
+  "keep-of-kalessin/310970319-105",
+  "keep-of-kalessin/1460468688-104",
+  "keep-of-kalessin/1770805082-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 112.34714673913044,
+   "iqr": 23.919415802125513
+  },
+  "onset_rate": {
+   "median": 5.383333333333333,
+   "iqr": 3.378553980992096
+  },
+  "tempo_var": {
+   "median": 10.723189047282975,
+   "iqr": 5.074021617789471
+  },
+  "low_onset_rate": {
+   "median": 6.649053847645833,
+   "iqr": 1.9864124197902013
+  },
+  "lufs": {
+   "median": -8.692602475411285,
+   "iqr": 2.499604048447976
+  },
+  "rms_dbfs": {
+   "median": -8.824149756118855,
+   "iqr": 0.8346606431083998
+  },
+  "crest": {
+   "median": 8.824150085449219,
+   "iqr": 0.8346607685089111
+  },
+  "centroid": {
+   "median": 2777.10292072647,
+   "iqr": 444.46537237330176
+  },
+  "flatness": {
+   "median": 0.042541975155472755,
+   "iqr": 0.023420818150043488
+  },
+  "sub100_share": {
+   "median": 0.2855776771903038,
+   "iqr": 0.27445025369524956
+  },
+  "lowest_pitch": {
+   "median": 51.141357421875,
+   "iqr": 12.78533935546875
+  },
+  "harmonic_share": {
+   "median": 0.7124738991260529,
+   "iqr": 0.12862081825733185
+  },
+  "clean_share": {
+   "median": 0.0,
+   "iqr": 0.005425162184427893
+  },
+  "minor_share": {
+   "median": -0.028523659519507943,
+   "iqr": 0.2237213868056705
+  },
+  "chord_rate": {
+   "median": 2.1,
+   "iqr": 0.6667456642260261
+  },
+  "repetitiveness": {
+   "median": 0.9411365985870361,
+   "iqr": 0.03175608813762665
+  },
+  "vocal_share": {
+   "median": 0.10608331859111786,
+   "iqr": 0.034420907497406006
+  },
+  "vocal_voiced": {
+   "median": 0.06266318537859007,
+   "iqr": 0.20461095100864554
+  },
+  "song_length": {
+   "median": 319.553,
+   "iqr": 100.36275
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

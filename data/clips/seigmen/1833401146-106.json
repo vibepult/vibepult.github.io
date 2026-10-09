@@ -1,0 +1,32 @@
+{
+ "id": "seigmen/1833401146-106",
+ "band": "seigmen",
+ "title": "Så Nært",
+ "source": "itunes",
+ "album": "Dissonans",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 2.866623331468912,
+  "tempo_var": 2.382513935777121,
+  "low_onset_rate": 5.299919880273919,
+  "lufs": -7.117333676519079,
+  "rms_dbfs": -5.639631041313877,
+  "crest": 5.639630317687988,
+  "centroid": 1385.932747108303,
+  "flatness": 0.004249947611242533,
+  "sub100_share": 0.4705049693584442,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.9388066530227661,
+  "clean_share": 0.7223511214230471,
+  "minor_share": 0.12168091484127685,
+  "chord_rate": 0.8666535653278107,
+  "repetitiveness": 0.6184297204017639,
+  "vocal_share": 0.06502285599708557,
+  "vocal_voiced": 0.8071748878923767,
+  "song_length": 190.267
+ }
+}

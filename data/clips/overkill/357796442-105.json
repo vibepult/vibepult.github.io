@@ -1,0 +1,32 @@
+{
+ "id": "overkill/357796442-105",
+ "band": "overkill",
+ "title": "What's Your Problem",
+ "source": "itunes",
+ "album": "W.F.O.",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 5.780333244435824,
+  "tempo_var": 16.306375807604358,
+  "low_onset_rate": 6.916352494787374,
+  "lufs": -13.040635792624675,
+  "rms_dbfs": -13.389234814555426,
+  "crest": 13.38923454284668,
+  "centroid": 2876.6521135349803,
+  "flatness": 0.031682148575782776,
+  "sub100_share": 0.36006367206573486,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.671329915523529,
+  "clean_share": 0.07602792862684252,
+  "minor_share": 0.18011817881493625,
+  "chord_rate": 1.9379151917761723,
+  "repetitiveness": 0.9584488272666931,
+  "vocal_share": 3.3235417049581883e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 310.048
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "evile",
+ "name": "Evile",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 258833437,
+  "deezer": 403162,
+  "spotify": "1dwrMJAKBiLlj0O4R791Xo"
+ },
+ "metadata": {
+  "formed": 2004,
+  "split": null,
+  "country": "GB",
+  "status": "active",
+  "members": 4,
+  "past_members": 3,
+  "full_lengths": 6,
+  "genre": "Thrash Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 15579,
+  "themes": "Death, War, Murder, Science fiction, Dystopia",
+  "release_year": 2010
+ },
+ "partial": false,
+ "clips": [
+  "evile/260741068-105",
+  "evile/326720517-105",
+  "evile/452381647-105",
+  "evile/628156231-105",
+  "evile/1547477382-105",
+  "evile/260741068-106",
+  "evile/326720517-106",
+  "evile/452381647-106",
+  "evile/628156231-106",
+  "evile/1547477382-104",
+  "evile/260741068-104",
+  "evile/326720517-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 22.92557565789474
+  },
+  "onset_rate": {
+   "median": 5.840206120997592,
+   "iqr": 2.4830775004444874
+  },
+  "tempo_var": {
+   "median": 8.7831938923717,
+   "iqr": 15.214071861008508
+  },
+  "low_onset_rate": {
+   "median": 6.566666666666666,
+   "iqr": 1.1026069194588555
+  },
+  "lufs": {
+   "median": -9.322968727697145,
+   "iqr": 1.5080934566751694
+  },
+  "rms_dbfs": {
+   "median": -8.881831200125372,
+   "iqr": 1.4877016499331557
+  },
+  "crest": {
+   "median": 8.881831169128418,
+   "iqr": 1.4877017736434937
+  },
+  "centroid": {
+   "median": 2694.135686713552,
+   "iqr": 281.4615026263418
+  },
+  "flatness": {
+   "median": 0.03765762969851494,
+   "iqr": 0.029913707170635462
+  },
+  "sub100_share": {
+   "median": 0.3221003860235214,
+   "iqr": 0.15407241880893707
+  },
+  "lowest_pitch": {
+   "median": 78.057861328125,
+   "iqr": 59.88922119140625
+  },
+  "harmonic_share": {
+   "median": 0.7446866631507874,
+   "iqr": 0.13349153101444244
+  },
+  "clean_share": {
+   "median": 0.01978007527375002,
+   "iqr": 0.10861132660977502
+  },
+  "minor_share": {
+   "median": -0.023923988479077313,
+   "iqr": 0.18341123475162455
+  },
+  "chord_rate": {
+   "median": 1.668641605650649,
+   "iqr": 0.9021329341027005
+  },
+  "repetitiveness": {
+   "median": 0.9003623723983765,
+   "iqr": 0.12774698436260223
+  },
+  "vocal_share": {
+   "median": 0.09521791338920593,
+   "iqr": 0.04698824603110552
+  },
+  "vocal_voiced": {
+   "median": 0.05033471652732116,
+   "iqr": 0.41718164962320936
+  },
+  "song_length": {
+   "median": 346.3515,
+   "iqr": 76.20974999999999
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

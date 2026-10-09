@@ -1,0 +1,32 @@
+{
+ "id": "theatres-des-vampires/152618865-105",
+ "band": "theatres-des-vampires",
+ "title": "My Lullaby",
+ "source": "itunes",
+ "album": "Pleasure and Pain",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.71113865586966,
+  "tempo_var": 21.099598174528463,
+  "low_onset_rate": 5.713508582650439,
+  "lufs": -10.191716392040925,
+  "rms_dbfs": -8.90038632664204,
+  "crest": 8.900385856628418,
+  "centroid": 2102.1367497114843,
+  "flatness": 0.016023244708776474,
+  "sub100_share": 0.4576767385005951,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8097603917121887,
+  "clean_share": 0.13421256788207914,
+  "minor_share": -0.10080226187404617,
+  "chord_rate": 2.1049768462396354,
+  "repetitiveness": 0.8856250643730164,
+  "vocal_share": 0.055478911846876144,
+  "vocal_voiced": 0.799837925445705,
+  "song_length": 242.0
+ }
+}

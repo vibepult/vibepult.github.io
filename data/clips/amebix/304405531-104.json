@@ -1,0 +1,32 @@
+{
+ "id": "amebix/304405531-104",
+ "band": "amebix",
+ "title": "Time Bomb",
+ "source": "itunes",
+ "album": "Monolith",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 4.9784373030112015,
+  "tempo_var": 3.149083635410252,
+  "low_onset_rate": 6.782703171216603,
+  "lufs": -15.317628807640885,
+  "rms_dbfs": -15.242121547243602,
+  "crest": 14.940596580505371,
+  "centroid": 1957.6038586639122,
+  "flatness": 0.014811853878200054,
+  "sub100_share": 0.17076809704303741,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7530747652053833,
+  "clean_share": 0.06283941039565555,
+  "minor_share": -0.04208974080647637,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.9149940013885498,
+  "vocal_share": 0.19010494649410248,
+  "vocal_voiced": 0.4879725085910653,
+  "song_length": 267.173
+ }
+}

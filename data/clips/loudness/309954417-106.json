@@ -1,0 +1,32 @@
+{
+ "id": "loudness/309954417-106",
+ "band": "loudness",
+ "title": "Exploder",
+ "source": "itunes",
+ "album": "Disillusion (English Version)",
+ "year": 1984,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.410427677835426,
+  "tempo_var": 10.159423469364832,
+  "low_onset_rate": 8.419907384958542,
+  "lufs": -25.357345314303107,
+  "rms_dbfs": -25.782660041227533,
+  "crest": 14.485825538635254,
+  "centroid": 1975.7962210052985,
+  "flatness": 0.005271617788821459,
+  "sub100_share": 0.02113465592265129,
+  "lowest_pitch": 99.591064453125,
+  "harmonic_share": 0.8552940487861633,
+  "clean_share": 0.4895267649340574,
+  "minor_share": -0.0010068040886095364,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.8514389395713806,
+  "vocal_share": 2.5300439574493794e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 148.76
+ }
+}

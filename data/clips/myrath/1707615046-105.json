@@ -1,0 +1,32 @@
+{
+ "id": "myrath/1707615046-105",
+ "band": "myrath",
+ "title": "Words Are Failing",
+ "source": "itunes",
+ "album": "Karma",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 5.766666666666667,
+  "tempo_var": 16.590866311205243,
+  "low_onset_rate": 3.066666666666667,
+  "lufs": -12.101741899355709,
+  "rms_dbfs": -10.990570463220099,
+  "crest": 10.990571022033691,
+  "centroid": 2560.8950130091102,
+  "flatness": 0.02771761454641819,
+  "sub100_share": 0.44881099462509155,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7145757079124451,
+  "clean_share": 0.048761609907120744,
+  "minor_share": 0.3766635293285034,
+  "chord_rate": 1.6666666666666667,
+  "repetitiveness": 0.9029026031494141,
+  "vocal_share": 0.2528080940246582,
+  "vocal_voiced": 0.8096366508688784,
+  "song_length": 285.0
+ }
+}

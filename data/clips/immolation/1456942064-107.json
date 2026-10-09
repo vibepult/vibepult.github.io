@@ -1,0 +1,32 @@
+{
+ "id": "immolation/1456942064-107",
+ "band": "immolation",
+ "title": "A Glorious Epoch",
+ "source": "itunes",
+ "album": "Majesty and Decay",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 2.773223464093488,
+  "tempo_var": 13.88839653735895,
+  "low_onset_rate": 1.4367302283857828,
+  "lufs": -7.01895370830072,
+  "rms_dbfs": -6.439492081650514,
+  "crest": 6.439492225646973,
+  "centroid": 2242.1985021542982,
+  "flatness": 0.02026837319135666,
+  "sub100_share": 0.3518736958503723,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8509898781776428,
+  "clean_share": 0.04965089216446858,
+  "minor_share": -0.07270955666993939,
+  "chord_rate": 0.8353082723173156,
+  "repetitiveness": 0.8252227306365967,
+  "vocal_share": 0.02059544436633587,
+  "vocal_voiced": 0.424390243902439,
+  "song_length": 277.68
+ }
+}

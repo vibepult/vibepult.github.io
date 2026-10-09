@@ -1,0 +1,32 @@
+{
+ "id": "volturian/1699036416-108",
+ "band": "volturian",
+ "title": "Days Before You Died",
+ "source": "itunes",
+ "album": "Crimson",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.566528600798161,
+  "tempo_var": 0.0,
+  "low_onset_rate": 3.6332234853065666,
+  "lufs": -9.683869706281238,
+  "rms_dbfs": -9.122625135306096,
+  "crest": 9.122625350952148,
+  "centroid": 2724.6646592758125,
+  "flatness": 0.04564414918422699,
+  "sub100_share": 0.3428620994091034,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.6628214120864868,
+  "clean_share": 0.02242846094354215,
+  "minor_share": 0.3030395923373258,
+  "chord_rate": 1.6332839521102913,
+  "repetitiveness": 0.8263010382652283,
+  "vocal_share": 0.2764747142791748,
+  "vocal_voiced": 0.9055343511450382,
+  "song_length": 257.741
+ }
+}

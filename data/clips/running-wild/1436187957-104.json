@@ -1,0 +1,32 @@
+{
+ "id": "running-wild/1436187957-104",
+ "band": "running-wild",
+ "title": "War in the Gutter",
+ "source": "itunes",
+ "album": "Under Jolly Roger",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.966666666666667,
+  "tempo_var": 1.1403075976966408,
+  "low_onset_rate": 7.0,
+  "lufs": -10.855258316054059,
+  "rms_dbfs": -11.726411044748318,
+  "crest": 11.726409912109375,
+  "centroid": 2993.9252658059318,
+  "flatness": 0.04900868982076645,
+  "sub100_share": 0.15103588998317719,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.5585706830024719,
+  "clean_share": 0.0,
+  "minor_share": 0.26395109173715425,
+  "chord_rate": 2.5,
+  "repetitiveness": 0.8767218589782715,
+  "vocal_share": 0.3485000729560852,
+  "vocal_voiced": 0.14990859232175502,
+  "song_length": 199.187
+ }
+}

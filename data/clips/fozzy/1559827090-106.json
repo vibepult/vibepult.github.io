@@ -1,0 +1,32 @@
+{
+ "id": "fozzy/1559827090-106",
+ "band": "fozzy",
+ "title": "It's a Lie",
+ "source": "itunes",
+ "album": "All That Remains",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.733333333333333,
+  "tempo_var": 16.40542029543629,
+  "low_onset_rate": 4.433333333333334,
+  "lufs": -7.622003180886279,
+  "rms_dbfs": -7.137642385368249,
+  "crest": 7.137641906738281,
+  "centroid": 2508.3687463899837,
+  "flatness": 0.030234333127737045,
+  "sub100_share": 0.2010112702846527,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7065659761428833,
+  "clean_share": 0.08591331269349846,
+  "minor_share": 0.1747144270873282,
+  "chord_rate": 1.1666666666666667,
+  "repetitiveness": 0.7327251434326172,
+  "vocal_share": 0.2603432536125183,
+  "vocal_voiced": 0.4240454914703493,
+  "song_length": 266.773
+ }
+}

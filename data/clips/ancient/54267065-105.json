@@ -1,0 +1,32 @@
+{
+ "id": "ancient/54267065-105",
+ "band": "ancient",
+ "title": "Lycanthrophy",
+ "source": "itunes",
+ "album": "Night Visit",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 7.050001818358144,
+  "tempo_var": 5.668344786544599,
+  "low_onset_rate": 7.584599112641226,
+  "lufs": -8.53251537221796,
+  "rms_dbfs": -8.061375289794643,
+  "crest": 8.061375617980957,
+  "centroid": 2753.8631518239094,
+  "flatness": 0.045165542513132095,
+  "sub100_share": 0.3553985357284546,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7276771664619446,
+  "clean_share": 0.003878975950349108,
+  "minor_share": 0.023115288660899846,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.9434834122657776,
+  "vocal_share": 0.07056844234466553,
+  "vocal_voiced": 0.14534288638689866,
+  "song_length": 278.213
+ }
+}

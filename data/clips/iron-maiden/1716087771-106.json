@@ -1,0 +1,32 @@
+{
+ "id": "iron-maiden/1716087771-106",
+ "band": "iron-maiden",
+ "title": "The Aftermath (2015 Remaster)",
+ "source": "itunes",
+ "album": "The X Factor (2015 Remaster)",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.4666142613112427,
+  "tempo_var": 23.29219580604741,
+  "low_onset_rate": 3.899941043975148,
+  "lufs": -10.971342601967473,
+  "rms_dbfs": -10.126236044324822,
+  "crest": 10.126236915588379,
+  "centroid": 2056.2999307799478,
+  "flatness": 0.017170825973153114,
+  "sub100_share": 0.1859578937292099,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7328194379806519,
+  "clean_share": 0.279969064191802,
+  "minor_share": -0.18373371763183166,
+  "chord_rate": 2.3332980604979516,
+  "repetitiveness": 0.7728307247161865,
+  "vocal_share": 0.23590093851089478,
+  "vocal_voiced": 0.9251644736842105,
+  "song_length": 381.109
+ }
+}

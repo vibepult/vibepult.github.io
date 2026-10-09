@@ -1,0 +1,32 @@
+{
+ "id": "chrome-division/1460470486-106",
+ "band": "chrome-division",
+ "title": "Here Comes Another One",
+ "source": "itunes",
+ "album": "Doomsday Rock'n'roll",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 1.0023699267807789,
+  "tempo_var": 7.4044306927319825,
+  "low_onset_rate": 1.5369672210638607,
+  "lufs": -8.964794749474533,
+  "rms_dbfs": -9.022794333886745,
+  "crest": 9.022794723510742,
+  "centroid": 2521.069073577985,
+  "flatness": 0.04655207321047783,
+  "sub100_share": 0.24225685000419617,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.6130595803260803,
+  "clean_share": 0.003878975950349108,
+  "minor_share": 0.16329845527244718,
+  "chord_rate": 1.971327522668865,
+  "repetitiveness": 0.9245164394378662,
+  "vocal_share": 0.1495082974433899,
+  "vocal_voiced": 0.38808373590982287,
+  "song_length": 183.853
+ }
+}

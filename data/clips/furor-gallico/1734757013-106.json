@@ -1,0 +1,32 @@
+{
+ "id": "furor-gallico/1734757013-106",
+ "band": "furor-gallico",
+ "title": "Starpath",
+ "source": "itunes",
+ "album": "Dusk of the Ages",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 1.7666559839396285,
+  "tempo_var": 6.822493332293708,
+  "low_onset_rate": 2.466651751160991,
+  "lufs": -9.594047820854588,
+  "rms_dbfs": -9.25922149065252,
+  "crest": 9.259222030639648,
+  "centroid": 2587.4500093972474,
+  "flatness": 0.03855797275900841,
+  "sub100_share": 0.25789526104927063,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8067761659622192,
+  "clean_share": 0.139984532095901,
+  "minor_share": 0.040983329559535986,
+  "chord_rate": 1.499990929760062,
+  "repetitiveness": 0.7827277183532715,
+  "vocal_share": 0.013711786828935146,
+  "vocal_voiced": 1.0,
+  "song_length": 280.707
+ }
+}

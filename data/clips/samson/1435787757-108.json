@@ -1,0 +1,32 @@
+{
+ "id": "samson/1435787757-108",
+ "band": "samson",
+ "title": "Grime Crime",
+ "source": "itunes",
+ "album": "Shock Tactics (Bonus Track Edition)",
+ "year": 1981,
+ "itunes_year": 1981,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.266666666666667,
+  "tempo_var": 34.60681098420275,
+  "low_onset_rate": 4.8,
+  "lufs": -10.915503159628514,
+  "rms_dbfs": -11.118647919536928,
+  "crest": 11.118648529052734,
+  "centroid": 2611.2677460589457,
+  "flatness": 0.041312310844659805,
+  "sub100_share": 0.13398000597953796,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.6103376746177673,
+  "clean_share": 0.04643962848297214,
+  "minor_share": 0.06287603303438583,
+  "chord_rate": 1.8,
+  "repetitiveness": 0.8122634887695312,
+  "vocal_share": 0.32872888445854187,
+  "vocal_voiced": 0.4001892147587512,
+  "song_length": 272.413
+ }
+}

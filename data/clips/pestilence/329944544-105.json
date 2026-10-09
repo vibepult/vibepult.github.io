@@ -1,0 +1,32 @@
+{
+ "id": "pestilence/329944544-105",
+ "band": "pestilence",
+ "title": "Soul Search",
+ "source": "itunes",
+ "album": "Spheres",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.011849633903894,
+  "tempo_var": 15.234998405746323,
+  "low_onset_rate": 6.214693546040828,
+  "lufs": -10.053448811094826,
+  "rms_dbfs": -10.297568670724734,
+  "crest": 10.297569274902344,
+  "centroid": 2468.9966085541473,
+  "flatness": 0.03753158822655678,
+  "sub100_share": 0.07830454409122467,
+  "lowest_pitch": 174.957275390625,
+  "harmonic_share": 0.5605319738388062,
+  "clean_share": 0.005430566330488751,
+  "minor_share": 0.05317620160651387,
+  "chord_rate": 2.3722754933811765,
+  "repetitiveness": 0.9323669672012329,
+  "vocal_share": 0.2752544581890106,
+  "vocal_voiced": 0.3626149131767109,
+  "song_length": 198.918
+ }
+}

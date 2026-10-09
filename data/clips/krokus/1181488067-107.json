@@ -1,0 +1,32 @@
+{
+ "id": "krokus/1181488067-107",
+ "band": "krokus",
+ "title": "Gimme Some Lovin'",
+ "source": "itunes",
+ "album": "BIG ROCKS",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.664345637457151,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.996834960168842,
+  "lufs": -9.240869795056348,
+  "rms_dbfs": -8.319229390860379,
+  "crest": 8.319230079650879,
+  "centroid": 1868.9468217079448,
+  "flatness": 0.013219498097896576,
+  "sub100_share": 0.33451542258262634,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.756510317325592,
+  "clean_share": 0.41299303944315546,
+  "minor_share": -0.0670218115518324,
+  "chord_rate": 0.4663712629490919,
+  "repetitiveness": 0.9584301710128784,
+  "vocal_share": 0.04578002169728279,
+  "vocal_voiced": 0.5683229813664596,
+  "song_length": 213.676
+ }
+}

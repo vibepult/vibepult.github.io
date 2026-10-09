@@ -1,0 +1,32 @@
+{
+ "id": "rush/1437585347-102",
+ "band": "rush",
+ "title": "Circumstances",
+ "source": "itunes",
+ "album": "Hemispheres (40th Anniversary)",
+ "year": 1978,
+ "itunes_year": 1978,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.3332829435685025,
+  "tempo_var": 7.816523715459472,
+  "low_onset_rate": 3.666611237925353,
+  "lufs": -14.967159614866382,
+  "rms_dbfs": -14.98644449896084,
+  "crest": 14.986180305480957,
+  "centroid": 2541.907848774794,
+  "flatness": 0.0352046862244606,
+  "sub100_share": 0.14735913276672363,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.6070247888565063,
+  "clean_share": 0.07037896365042537,
+  "minor_share": -0.21791177729526778,
+  "chord_rate": 1.8666384483983613,
+  "repetitiveness": 0.7948091626167297,
+  "vocal_share": 0.23687352240085602,
+  "vocal_voiced": 0.9035460992907801,
+  "song_length": 224.413
+ }
+}

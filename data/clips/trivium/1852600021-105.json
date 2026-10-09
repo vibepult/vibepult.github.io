@@ -1,0 +1,32 @@
+{
+ "id": "trivium/1852600021-105",
+ "band": "trivium",
+ "title": "Requiem",
+ "source": "itunes",
+ "album": "Ember to Inferno",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.4333125725619196,
+  "tempo_var": 8.76440569644815,
+  "low_onset_rate": 3.333313177244582,
+  "lufs": -12.784605699407347,
+  "rms_dbfs": -12.270639095423038,
+  "crest": 12.270639419555664,
+  "centroid": 2605.90295770106,
+  "flatness": 0.03797374665737152,
+  "sub100_share": 0.3818311095237732,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.6003615856170654,
+  "clean_share": 0.020108275328692964,
+  "minor_share": 0.05998639103773851,
+  "chord_rate": 1.7666559839396285,
+  "repetitiveness": 0.7970623970031738,
+  "vocal_share": 0.0887870341539383,
+  "vocal_voiced": 0.027607361963190184,
+  "song_length": 293.667
+ }
+}

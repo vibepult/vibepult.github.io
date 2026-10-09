@@ -1,0 +1,32 @@
+{
+ "id": "havok/1498836075-107",
+ "band": "havok",
+ "title": "Phantom Force",
+ "source": "itunes",
+ "album": "V",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 6.649053847645832,
+  "tempo_var": 17.081675391304973,
+  "low_onset_rate": 4.443840008728119,
+  "lufs": -10.161191459686641,
+  "rms_dbfs": -10.031355228131144,
+  "crest": 10.031355857849121,
+  "centroid": 3034.4426514633906,
+  "flatness": 0.06889805942773819,
+  "sub100_share": 0.3435516953468323,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.5129379630088806,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.15272369819307546,
+  "chord_rate": 2.338863162488484,
+  "repetitiveness": 0.9649550318717957,
+  "vocal_share": 0.15156833827495575,
+  "vocal_voiced": 0.0,
+  "song_length": 179.796
+ }
+}

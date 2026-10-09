@@ -1,0 +1,32 @@
+{
+ "id": "boris/6782306936-105",
+ "band": "boris",
+ "title": "white warmth",
+ "source": "itunes",
+ "album": "sound track from film \"mabuta no ura\"",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 1.6333086423485663,
+  "tempo_var": 5.152819398795588,
+  "low_onset_rate": 7.366555305286391,
+  "lufs": -15.254126285655653,
+  "rms_dbfs": -14.418803449711046,
+  "crest": 14.418803215026855,
+  "centroid": 1131.4255463956542,
+  "flatness": 0.0015726591227576137,
+  "sub100_share": 0.02450873889029026,
+  "lowest_pitch": 113.04931640625,
+  "harmonic_share": 0.9607030153274536,
+  "clean_share": 0.9381283836040216,
+  "minor_share": 0.08927888546577395,
+  "chord_rate": 1.4666444951701412,
+  "repetitiveness": 0.6882950663566589,
+  "vocal_share": 0.02882399968802929,
+  "vocal_voiced": 0.3083219645293315,
+  "song_length": 145.747
+ }
+}

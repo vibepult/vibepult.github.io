@@ -1,0 +1,32 @@
+{
+ "id": "shining/975947337-103",
+ "band": "shining",
+ "title": "Framtidsutsikter",
+ "source": "itunes",
+ "album": "IX / Everyone, Everything, Everywhere, Ends",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 2.940285118556951,
+  "tempo_var": 2.6464320983764056,
+  "low_onset_rate": 6.181281215148136,
+  "lufs": -15.669091313793754,
+  "rms_dbfs": -15.67173601756103,
+  "crest": 15.389127731323242,
+  "centroid": 2704.5255340518365,
+  "flatness": 0.03137848153710365,
+  "sub100_share": 0.09190811216831207,
+  "lowest_pitch": 88.824462890625,
+  "harmonic_share": 0.8343621492385864,
+  "clean_share": 0.2575640031031808,
+  "minor_share": 0.16493246468919742,
+  "chord_rate": 0.6682466178538525,
+  "repetitiveness": 0.7380378246307373,
+  "vocal_share": 0.45604124665260315,
+  "vocal_voiced": 0.8732394366197183,
+  "song_length": 438.213
+ }
+}

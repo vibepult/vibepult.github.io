@@ -1,0 +1,32 @@
+{
+ "id": "neonfly/1456123037-107",
+ "band": "neonfly",
+ "title": "Fierce Battalions",
+ "source": "itunes",
+ "album": "Strangers in Paradise",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 7.250475803714299,
+  "tempo_var": 5.6598617291142315,
+  "low_onset_rate": 6.448579862289677,
+  "lufs": -8.94370330628543,
+  "rms_dbfs": -7.735252437339053,
+  "crest": 7.7352519035339355,
+  "centroid": 2540.4093895870205,
+  "flatness": 0.03284723684191704,
+  "sub100_share": 0.4429643154144287,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7869581580162048,
+  "clean_share": 0.13886733902249807,
+  "minor_share": 0.033698509874993454,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.8550830483436584,
+  "vocal_share": 0.006709519308060408,
+  "vocal_voiced": 0.8076923076923077,
+  "song_length": 243.733
+ }
+}

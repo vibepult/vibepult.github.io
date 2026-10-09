@@ -1,0 +1,32 @@
+{
+ "id": "angellore/1887731401-103",
+ "band": "angellore",
+ "title": "Twilight's Embrace",
+ "source": "itunes",
+ "album": "La Litanie des Cendres",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.0666203080830226,
+  "tempo_var": 8.686329116148208,
+  "low_onset_rate": 6.066574957294675,
+  "lufs": -11.936509098398346,
+  "rms_dbfs": -11.353806048526668,
+  "crest": 11.353806495666504,
+  "centroid": 2311.257819115733,
+  "flatness": 0.02119412086904049,
+  "sub100_share": 0.26198554039001465,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.889089047908783,
+  "clean_share": 0.030162412993039442,
+  "minor_share": -0.06836665407834142,
+  "chord_rate": 0.5999909298423305,
+  "repetitiveness": 0.6597171425819397,
+  "vocal_share": 0.25757238268852234,
+  "vocal_voiced": 0.9495867768595041,
+  "song_length": 568.24
+ }
+}

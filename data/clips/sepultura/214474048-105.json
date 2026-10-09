@@ -1,0 +1,32 @@
+{
+ "id": "sepultura/214474048-105",
+ "band": "sepultura",
+ "title": "Inquisition Symphony",
+ "source": "itunes",
+ "album": "Schizophrenia",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.799434080335199,
+  "tempo_var": 15.435580284872431,
+  "low_onset_rate": 6.232598423768626,
+  "lufs": -8.546363934656616,
+  "rms_dbfs": -8.813863775507665,
+  "crest": 8.813863754272461,
+  "centroid": 2402.8166280365717,
+  "flatness": 0.022489033639431,
+  "sub100_share": 0.08562018722295761,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.7943785190582275,
+  "clean_share": 0.1477184841453983,
+  "minor_share": -0.13448215336615243,
+  "chord_rate": 0.9332232933985108,
+  "repetitiveness": 0.8778404593467712,
+  "vocal_share": 1.1282747891527833e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 435.893
+ }
+}

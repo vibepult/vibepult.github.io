@@ -1,0 +1,32 @@
+{
+ "id": "midnattsol/1183626753-107",
+ "band": "midnattsol",
+ "title": "Tarefall",
+ "source": "itunes",
+ "album": "Where Twilight Dwells",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.333333333333333,
+  "tempo_var": 21.419302579679858,
+  "low_onset_rate": 8.333333333333334,
+  "lufs": -12.567532430615033,
+  "rms_dbfs": -12.917491192041865,
+  "crest": 12.91749095916748,
+  "centroid": 2147.4356397988336,
+  "flatness": 0.0089928163215518,
+  "sub100_share": 0.002144566038623452,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.924598753452301,
+  "clean_share": 0.5905572755417957,
+  "minor_share": 0.15282121494782652,
+  "chord_rate": 1.3666666666666667,
+  "repetitiveness": 0.7319132685661316,
+  "vocal_share": 0.7698513269424438,
+  "vocal_voiced": 0.9543269230769231,
+  "song_length": 262.48
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "stratovarius",
+ "name": "Stratovarius",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 6557658,
+  "deezer": 1904,
+  "spotify": "1O8CSXsPwEqxcoBE360PPO"
+ },
+ "metadata": {
+  "formed": 1985,
+  "split": null,
+  "country": "FI",
+  "status": "active",
+  "members": 5,
+  "past_members": 11,
+  "full_lengths": 17,
+  "genre": "Melodic Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 289794,
+  "themes": "Time, Spirituality, Life, Space, Nature, Fantasy, Poetry",
+  "release_year": 1997
+ },
+ "partial": false,
+ "clips": [
+  "stratovarius/268504565-104",
+  "stratovarius/1878463164-104",
+  "stratovarius/1872455849-107",
+  "stratovarius/1872046137-105",
+  "stratovarius/1872455914-106",
+  "stratovarius/1872045063-105",
+  "stratovarius/1872455676-106",
+  "stratovarius/1872049035-105",
+  "stratovarius/1872046940-105",
+  "stratovarius/1872047260-106",
+  "stratovarius/1873036394-105",
+  "stratovarius/1308547892-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 143.99912925696594,
+   "iqr": 46.18792521679187
+  },
+  "onset_rate": {
+   "median": 2.55283574892099,
+   "iqr": 1.360760492674756
+  },
+  "tempo_var": {
+   "median": 21.522389136422902,
+   "iqr": 8.507888511333636
+  },
+  "low_onset_rate": {
+   "median": 3.4333125725619196,
+   "iqr": 2.8117813133393583
+  },
+  "lufs": {
+   "median": -12.101541684327723,
+   "iqr": 3.163376066548702
+  },
+  "rms_dbfs": {
+   "median": -11.49365390776967,
+   "iqr": 3.3090856709150813
+  },
+  "crest": {
+   "median": 11.493653774261475,
+   "iqr": 3.309086561203003
+  },
+  "centroid": {
+   "median": 2489.595987926097,
+   "iqr": 152.5557721745772
+  },
+  "flatness": {
+   "median": 0.029498412273824215,
+   "iqr": 0.013908037915825844
+  },
+  "sub100_share": {
+   "median": 0.3307878077030182,
+   "iqr": 0.13316767662763596
+  },
+  "lowest_pitch": {
+   "median": 55.1788330078125,
+   "iqr": 39.0289306640625
+  },
+  "harmonic_share": {
+   "median": 0.7970481216907501,
+   "iqr": 0.08533157408237457
+  },
+  "clean_share": {
+   "median": 0.1268368136117556,
+   "iqr": 0.24649092175628512
+  },
+  "minor_share": {
+   "median": 0.05783266967267425,
+   "iqr": 0.173240775708008
+  },
+  "chord_rate": {
+   "median": 1.499990929760062,
+   "iqr": 0.9583275384578174
+  },
+  "repetitiveness": {
+   "median": 0.8482284545898438,
+   "iqr": 0.11553861200809479
+  },
+  "vocal_share": {
+   "median": 0.12575091421604156,
+   "iqr": 0.0784878358244896
+  },
+  "vocal_voiced": {
+   "median": 0.8260019550342131,
+   "iqr": 0.12015012015012017
+  },
+  "song_length": {
+   "median": 303.64,
+   "iqr": 88.16325000000006
+  },
+  "vocal_presence": {
+   "median": 0.4166666666666667,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

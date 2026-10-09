@@ -1,0 +1,32 @@
+{
+ "id": "queensryche/724347774-108",
+ "band": "queensryche",
+ "title": "Chemical Youth (We Are Rebellion)",
+ "source": "itunes",
+ "album": "Rage for Order (Remastered) [Expanded Edition]",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.899941043975148,
+  "tempo_var": 28.58081228627767,
+  "low_onset_rate": 3.599945579053983,
+  "lufs": -7.422584748345791,
+  "rms_dbfs": -8.124498574356556,
+  "crest": 8.12449836730957,
+  "centroid": 2473.517785463751,
+  "flatness": 0.03249036520719528,
+  "sub100_share": 0.04709816351532936,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.6526185274124146,
+  "clean_share": 0.004640371229698376,
+  "minor_share": 0.09112809091787322,
+  "chord_rate": 1.5333101540415113,
+  "repetitiveness": 0.8426684141159058,
+  "vocal_share": 0.44073107838630676,
+  "vocal_voiced": 0.6268817204301075,
+  "song_length": 245.533
+ }
+}

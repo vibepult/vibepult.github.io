@@ -1,0 +1,32 @@
+{
+ "id": "beast-in-black/1580370124-105",
+ "band": "beast-in-black",
+ "title": "One Night in Tokyo",
+ "source": "itunes",
+ "album": "Dark Connection",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.199968556501548,
+  "tempo_var": 0.0,
+  "low_onset_rate": 2.3333192240712073,
+  "lufs": -11.950042156821974,
+  "rms_dbfs": -11.456179621021684,
+  "crest": 11.45617961883545,
+  "centroid": 2406.6422562111998,
+  "flatness": 0.0304347462952137,
+  "sub100_share": 0.35842597484588623,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.6624885201454163,
+  "clean_share": 0.24903325599381285,
+  "minor_share": -0.03419940483183537,
+  "chord_rate": 1.0333270849458205,
+  "repetitiveness": 0.7742173671722412,
+  "vocal_share": 6.410312380467076e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 187.016
+ }
+}

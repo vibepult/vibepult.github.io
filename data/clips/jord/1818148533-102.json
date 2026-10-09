@@ -1,0 +1,32 @@
+{
+ "id": "jord/1818148533-102",
+ "band": "jord",
+ "title": "Hon Kallar",
+ "source": "itunes",
+ "album": "Emellan Träden",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 9.833333333333334,
+  "tempo_var": 16.422761824859737,
+  "low_onset_rate": 6.7,
+  "lufs": -11.135481793851085,
+  "rms_dbfs": -10.605532889181644,
+  "crest": 10.605533599853516,
+  "centroid": 2502.596006447928,
+  "flatness": 0.038464996963739395,
+  "sub100_share": 0.2326379269361496,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7398407459259033,
+  "clean_share": 0.0,
+  "minor_share": -0.040997260232899624,
+  "chord_rate": 1.8666666666666667,
+  "repetitiveness": 0.8738418817520142,
+  "vocal_share": 0.07313865423202515,
+  "vocal_voiced": 0.1506276150627615,
+  "song_length": 253.6
+ }
+}

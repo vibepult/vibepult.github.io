@@ -1,0 +1,32 @@
+{
+ "id": "cyhra/1686897099-107",
+ "band": "cyhra",
+ "title": "Life Is A Hurricane",
+ "source": "itunes",
+ "album": "The Vertigo Trigger",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 1.4701425592784756,
+  "tempo_var": 17.674883735807697,
+  "low_onset_rate": 3.107346773020414,
+  "lufs": -10.641484374589611,
+  "rms_dbfs": -11.668671482159695,
+  "crest": 11.668671607971191,
+  "centroid": 3085.719523758457,
+  "flatness": 0.04615397751331329,
+  "sub100_share": 0.5007728934288025,
+  "lowest_pitch": 115.740966796875,
+  "harmonic_share": 0.6237838864326477,
+  "clean_share": 0.27851047323506595,
+  "minor_share": -0.0397174751694066,
+  "chord_rate": 2.7063988023081027,
+  "repetitiveness": 0.9015483856201172,
+  "vocal_share": 0.001768582733348012,
+  "vocal_voiced": 0.4423076923076923,
+  "song_length": 200.013
+ }
+}

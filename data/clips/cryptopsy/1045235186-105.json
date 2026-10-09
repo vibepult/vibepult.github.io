@@ -1,0 +1,32 @@
+{
+ "id": "cryptopsy/1045235186-105",
+ "band": "cryptopsy",
+ "title": "Shroud",
+ "source": "itunes",
+ "album": "And Then You'll Beg",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 6.548816854967755,
+  "tempo_var": 15.25272959771072,
+  "low_onset_rate": 7.417537458177763,
+  "lufs": -9.252137057110822,
+  "rms_dbfs": -9.19959691979349,
+  "crest": 9.199597358703613,
+  "centroid": 2520.7753074310585,
+  "flatness": 0.030947914347052574,
+  "sub100_share": 0.17176185548305511,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.6843430399894714,
+  "clean_share": 0.01474010861132661,
+  "minor_share": -0.11180202937627998,
+  "chord_rate": 2.9736974494496438,
+  "repetitiveness": 0.9554211497306824,
+  "vocal_share": 0.16952186822891235,
+  "vocal_voiced": 0.3413173652694611,
+  "song_length": 245.4
+ }
+}

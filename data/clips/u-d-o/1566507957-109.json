@@ -1,0 +1,32 @@
+{
+ "id": "u-d-o/1566507957-109",
+ "band": "u-d-o",
+ "title": "Don'T Wanna Say Goodbye",
+ "source": "itunes",
+ "album": "Game Over",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 3.240996096591185,
+  "tempo_var": 39.64904520578858,
+  "low_onset_rate": 5.245735950152742,
+  "lufs": -19.468042578161466,
+  "rms_dbfs": -18.848597218887594,
+  "crest": 17.381351470947266,
+  "centroid": 1459.3805549830652,
+  "flatness": 0.006143633741885424,
+  "sub100_share": 0.05479452386498451,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8934237957000732,
+  "clean_share": 0.8192397207137315,
+  "minor_share": 0.13592078961439924,
+  "chord_rate": 0.801895941424623,
+  "repetitiveness": 0.5795562267303467,
+  "vocal_share": 0.3744482100009918,
+  "vocal_voiced": 0.9423076923076923,
+  "song_length": 252.907
+ }
+}

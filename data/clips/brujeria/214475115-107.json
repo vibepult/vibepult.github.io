@@ -1,0 +1,32 @@
+{
+ "id": "brujeria/214475115-107",
+ "band": "brujeria",
+ "title": "Marcha de Odio",
+ "source": "itunes",
+ "album": "Brujerizmo",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.299375130370115,
+  "tempo_var": 18.716379465512315,
+  "low_onset_rate": 7.632433363866392,
+  "lufs": -8.010086622328004,
+  "rms_dbfs": -6.922028579409001,
+  "crest": 6.922028064727783,
+  "centroid": 2512.133484687205,
+  "flatness": 0.030219050124287605,
+  "sub100_share": 0.39567050337791443,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7112879157066345,
+  "clean_share": 0.013921113689095127,
+  "minor_share": -0.01784124597119824,
+  "chord_rate": 2.766340476859871,
+  "repetitiveness": 0.9451729655265808,
+  "vocal_share": 0.0737144947052002,
+  "vocal_voiced": 0.0,
+  "song_length": 168.64
+ }
+}

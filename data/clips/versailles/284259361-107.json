@@ -1,0 +1,32 @@
+{
+ "id": "versailles/284259361-107",
+ "band": "versailles",
+ "title": "Windress",
+ "source": "itunes",
+ "album": "Noble",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.076304368908501,
+  "tempo_var": 1.5309849721168323,
+  "low_onset_rate": 5.045261964796587,
+  "lufs": -12.536182596746432,
+  "rms_dbfs": -12.983338472167222,
+  "crest": 12.983339309692383,
+  "centroid": 2462.763479454135,
+  "flatness": 0.01603325456380844,
+  "sub100_share": 0.05894451215863228,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.85918790102005,
+  "clean_share": 0.4026377036462374,
+  "minor_share": -0.13099871420463005,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.5927192568778992,
+  "vocal_share": 0.6067036390304565,
+  "vocal_voiced": 0.9046563192904656,
+  "song_length": 268.52
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "w-a-s-p/157997368-107",
+ "band": "w-a-s-p",
+ "title": "I Am One",
+ "source": "itunes",
+ "album": "The Crimson Idol",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 2.6666666666666665,
+  "tempo_var": 20.387814961402135,
+  "low_onset_rate": 3.9,
+  "lufs": -13.267367705916346,
+  "rms_dbfs": -13.53991701878928,
+  "crest": 13.5399169921875,
+  "centroid": 2539.848540769346,
+  "flatness": 0.031585942953825,
+  "sub100_share": 0.27974027395248413,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7123891115188599,
+  "clean_share": 0.006191950464396285,
+  "minor_share": 0.12610428880592273,
+  "chord_rate": 1.8,
+  "repetitiveness": 0.8659593462944031,
+  "vocal_share": 0.17521581053733826,
+  "vocal_voiced": 0.7354758961681088,
+  "song_length": 324.036
+ }
+}

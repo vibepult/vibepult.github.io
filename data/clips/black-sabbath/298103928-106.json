@@ -1,0 +1,32 @@
+{
+ "id": "black-sabbath/298103928-106",
+ "band": "black-sabbath",
+ "title": "Time Machine",
+ "source": "itunes",
+ "album": "Dehumanizer",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.566128256985571,
+  "tempo_var": 22.540723716428854,
+  "low_onset_rate": 6.899186490481848,
+  "lufs": -11.094134707068488,
+  "rms_dbfs": -10.61168943153794,
+  "crest": 10.611690521240234,
+  "centroid": 2257.8558295231837,
+  "flatness": 0.02545648068189621,
+  "sub100_share": 0.2868860065937042,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.6688128709793091,
+  "clean_share": 0.05491105955143078,
+  "minor_share": 0.022296900323086954,
+  "chord_rate": 1.4664937467690884,
+  "repetitiveness": 0.8898848295211792,
+  "vocal_share": 0.1617240458726883,
+  "vocal_voiced": 0.8115234375,
+  "song_length": 255.573
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "pantera/1049189134-106",
+ "band": "pantera",
+ "title": "Rise",
+ "source": "itunes",
+ "album": "Vulgar Display of Power",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 3.566224594985958,
+  "tempo_var": 23.988386365005294,
+  "low_onset_rate": 6.799157171748929,
+  "lufs": -11.299859568084111,
+  "rms_dbfs": -11.237203172506439,
+  "crest": 11.237202644348145,
+  "centroid": 3138.2785380466776,
+  "flatness": 0.066522017121315,
+  "sub100_share": 0.2837361991405487,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.7010827660560608,
+  "clean_share": 0.03789636504253674,
+  "minor_share": -0.0452118609591638,
+  "chord_rate": 2.2997149257386083,
+  "repetitiveness": 0.9053069353103638,
+  "vocal_share": 0.14883384108543396,
+  "vocal_voiced": 0.005780346820809248,
+  "song_length": 278.284
+ }
+}

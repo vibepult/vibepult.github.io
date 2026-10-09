@@ -1,0 +1,32 @@
+{
+ "id": "caliban/1679740309-107",
+ "band": "caliban",
+ "title": "A Faint Moment of Fortune",
+ "source": "itunes",
+ "album": "A Small Boy And A Grey Heaven",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 3.842418052659652,
+  "tempo_var": 12.601742039929361,
+  "low_onset_rate": 6.081044222470058,
+  "lufs": -9.763723331177077,
+  "rms_dbfs": -10.515766567240604,
+  "crest": 10.515766143798828,
+  "centroid": 3231.8919854596998,
+  "flatness": 0.07873087376356125,
+  "sub100_share": 0.1981014460325241,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.6997283697128296,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": -0.18299751146729204,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.9101747870445251,
+  "vocal_share": 0.13812243938446045,
+  "vocal_voiced": 0.37488015340364333,
+  "song_length": 244.867
+ }
+}

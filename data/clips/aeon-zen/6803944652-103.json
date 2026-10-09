@@ -1,0 +1,32 @@
+{
+ "id": "aeon-zen/6803944652-103",
+ "band": "aeon-zen",
+ "title": "Chase The Sunrise",
+ "source": "itunes",
+ "album": "Transversal",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 5.533333333333333,
+  "tempo_var": 23.828995214826676,
+  "low_onset_rate": 6.033333333333333,
+  "lufs": -8.95419037063188,
+  "rms_dbfs": -8.61511516783849,
+  "crest": 8.61511516571045,
+  "centroid": 2558.2410369859567,
+  "flatness": 0.02520379051566124,
+  "sub100_share": 0.4041578471660614,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.8181479573249817,
+  "clean_share": 0.06578947368421052,
+  "minor_share": 0.18574192218419883,
+  "chord_rate": 2.033333333333333,
+  "repetitiveness": 0.7808983325958252,
+  "vocal_share": 0.18108201026916504,
+  "vocal_voiced": 0.6794871794871795,
+  "song_length": 293.995
+ }
+}

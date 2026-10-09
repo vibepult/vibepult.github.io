@@ -1,0 +1,32 @@
+{
+ "id": "krokus/1752971153-106",
+ "band": "krokus",
+ "title": "Street Love",
+ "source": "itunes",
+ "album": "Stampede",
+ "year": 1990,
+ "itunes_year": 1990,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 1.866655379256966,
+  "tempo_var": 12.226256294445673,
+  "low_onset_rate": 4.766637843459752,
+  "lufs": -16.626747665407546,
+  "rms_dbfs": -17.936414575973128,
+  "crest": 17.93641471862793,
+  "centroid": 2092.171817758458,
+  "flatness": 0.012476697564125061,
+  "sub100_share": 0.13690994679927826,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.7337210178375244,
+  "clean_share": 0.7308584686774942,
+  "minor_share": -0.16438712549861145,
+  "chord_rate": 0.933327689628483,
+  "repetitiveness": 0.8913075923919678,
+  "vocal_share": 1.0090359410241945e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 272.16
+ }
+}

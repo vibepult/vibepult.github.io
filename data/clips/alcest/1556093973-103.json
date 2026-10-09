@@ -1,0 +1,32 @@
+{
+ "id": "alcest/1556093973-103",
+ "band": "alcest",
+ "title": "Je Suis D'ailleurs",
+ "source": "itunes",
+ "album": "Kodama",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.8758303835523447,
+  "tempo_var": 2.926637224176493,
+  "low_onset_rate": 5.078674295689279,
+  "lufs": -11.543865919088796,
+  "rms_dbfs": -10.969010039771817,
+  "crest": 10.969009399414062,
+  "centroid": 2376.0989773634724,
+  "flatness": 0.02107279561460018,
+  "sub100_share": 0.3189932405948639,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8649867177009583,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.2405258466103149,
+  "chord_rate": 0.8353082723173156,
+  "repetitiveness": 0.7727108597755432,
+  "vocal_share": 0.02544601820409298,
+  "vocal_voiced": 0.9921568627450981,
+  "song_length": 440.32
+ }
+}

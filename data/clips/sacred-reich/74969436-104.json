@@ -1,0 +1,32 @@
+{
+ "id": "sacred-reich/74969436-104",
+ "band": "sacred-reich",
+ "title": "Low",
+ "source": "itunes",
+ "album": "Heal",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.677726324976968,
+  "tempo_var": 3.489068895934324,
+  "low_onset_rate": 5.9473948988992875,
+  "lufs": -9.879819958181724,
+  "rms_dbfs": -9.92503827081128,
+  "crest": 9.92503833770752,
+  "centroid": 2920.8074182480505,
+  "flatness": 0.04253578186035156,
+  "sub100_share": 0.17176775634288788,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7980659604072571,
+  "clean_share": 0.011636927851047323,
+  "minor_share": 0.15100351775661192,
+  "chord_rate": 2.138389177132328,
+  "repetitiveness": 0.8090946078300476,
+  "vocal_share": 0.21091388165950775,
+  "vocal_voiced": 0.8838071693448702,
+  "song_length": 243.133
+ }
+}

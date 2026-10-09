@@ -1,0 +1,127 @@
+{
+ "slug": "godflesh",
+ "name": "Godflesh",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 3196211,
+  "deezer": 16614,
+  "spotify": "5A4ebXQf38xWIq0xSWLhsS"
+ },
+ "metadata": {
+  "formed": 1988,
+  "split": null,
+  "country": "GB",
+  "status": "active",
+  "members": 2,
+  "past_members": 5,
+  "full_lengths": 11,
+  "genre": "Industrial Metal, Experimental Industrial",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 9404,
+  "themes": "Hatred, Corruption, Society, Inner struggles",
+  "release_year": 1997
+ },
+ "partial": false,
+ "clips": [
+  "godflesh/61616986-107",
+  "godflesh/263698843-105",
+  "godflesh/310621687-106",
+  "godflesh/73290294-106",
+  "godflesh/49241566-106",
+  "godflesh/598897588-107",
+  "godflesh/1289456315-105",
+  "godflesh/1691098376-104",
+  "godflesh/1784185731-103",
+  "godflesh/6779721992-103",
+  "godflesh/61616986-108",
+  "godflesh/263698843-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 113.203125,
+   "iqr": 30.735426682692307
+  },
+  "onset_rate": {
+   "median": 4.204581858442839,
+   "iqr": 2.2302730870872334
+  },
+  "tempo_var": {
+   "median": 10.21506195085751,
+   "iqr": 8.857503838118522
+  },
+  "low_onset_rate": {
+   "median": 6.6243773810193645,
+   "iqr": 1.0190760922271247
+  },
+  "lufs": {
+   "median": -10.340877422341638,
+   "iqr": 3.5979694052906055
+  },
+  "rms_dbfs": {
+   "median": -9.485999878541914,
+   "iqr": 5.38404961901414
+  },
+  "crest": {
+   "median": 9.486000061035156,
+   "iqr": 5.384049654006958
+  },
+  "centroid": {
+   "median": 2687.2558111655635,
+   "iqr": 426.7633478480516
+  },
+  "flatness": {
+   "median": 0.028233952820301056,
+   "iqr": 0.01965349353849888
+  },
+  "sub100_share": {
+   "median": 0.38800472021102905,
+   "iqr": 0.24079257249832153
+  },
+  "lowest_pitch": {
+   "median": 59.21630859375,
+   "iqr": 25.5706787109375
+  },
+  "harmonic_share": {
+   "median": 0.8476200997829437,
+   "iqr": 0.1658378690481186
+  },
+  "clean_share": {
+   "median": 0.08446350039750497,
+   "iqr": 0.15671062839410393
+  },
+  "minor_share": {
+   "median": -0.03560616973822134,
+   "iqr": 0.1686505950541729
+  },
+  "chord_rate": {
+   "median": 2.1858612552328305,
+   "iqr": 0.7920882787360779
+  },
+  "repetitiveness": {
+   "median": 0.9025912582874298,
+   "iqr": 0.1052977442741394
+  },
+  "vocal_share": {
+   "median": 0.062277134507894516,
+   "iqr": 0.01531265303492546
+  },
+  "vocal_voiced": {
+   "median": 0.5682776986763698,
+   "iqr": 0.14214716894509738
+  },
+  "song_length": {
+   "median": 329.7665,
+   "iqr": 72.58350000000002
+  },
+  "vocal_presence": {
+   "median": 0.5,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

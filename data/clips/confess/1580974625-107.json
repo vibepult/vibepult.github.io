@@ -1,0 +1,32 @@
+{
+ "id": "confess/1580974625-107",
+ "band": "confess",
+ "title": "Megalodon",
+ "source": "itunes",
+ "album": "Revenge at All Costs",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 5.579859259079669,
+  "tempo_var": 4.166742686878877,
+  "low_onset_rate": 8.186021068709692,
+  "lufs": -8.395542466165761,
+  "rms_dbfs": -8.036897301617126,
+  "crest": 8.036897659301758,
+  "centroid": 2963.130930507872,
+  "flatness": 0.05298169329762459,
+  "sub100_share": 0.37421050667762756,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7261695861816406,
+  "clean_share": 0.007757951900698216,
+  "minor_share": 0.024787800807230753,
+  "chord_rate": 2.606161809630025,
+  "repetitiveness": 0.9333690404891968,
+  "vocal_share": 0.17329354584217072,
+  "vocal_voiced": 0.02553191489361702,
+  "song_length": 235.147
+ }
+}

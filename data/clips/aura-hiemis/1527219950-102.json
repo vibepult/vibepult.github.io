@@ -1,0 +1,32 @@
+{
+ "id": "aura-hiemis/1527219950-102",
+ "band": "aura-hiemis",
+ "title": "Eve",
+ "source": "itunes",
+ "album": "Wenn der Regen fällt",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.205213838917713,
+  "tempo_var": 3.060845765462143,
+  "low_onset_rate": 7.684836105319304,
+  "lufs": -12.681204487143313,
+  "rms_dbfs": -10.293633861504109,
+  "crest": 10.293634414672852,
+  "centroid": 1515.065808184797,
+  "flatness": 0.003990469500422478,
+  "sub100_share": 0.6016615033149719,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8866038918495178,
+  "clean_share": 0.7028704422032583,
+  "minor_share": 0.16509540179916193,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.8512805700302124,
+  "vocal_share": 0.025119688361883163,
+  "vocal_voiced": 0.9596774193548387,
+  "song_length": 645.688
+ }
+}

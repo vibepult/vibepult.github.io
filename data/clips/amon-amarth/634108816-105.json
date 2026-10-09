@@ -1,0 +1,32 @@
+{
+ "id": "amon-amarth/634108816-105",
+ "band": "amon-amarth",
+ "title": "Under Siege",
+ "source": "itunes",
+ "album": "Deceiver of the Gods",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 6.03324212785899,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.399903251651525,
+  "lufs": -9.705099351069071,
+  "rms_dbfs": -8.871468536315392,
+  "crest": 8.871468544006348,
+  "centroid": 2442.3864605256945,
+  "flatness": 0.02658367156982422,
+  "sub100_share": 0.4250801205635071,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.6335696578025818,
+  "clean_share": 0.0030935808197989174,
+  "minor_share": -0.14395481984075498,
+  "chord_rate": 1.199981859684661,
+  "repetitiveness": 0.851954996585846,
+  "vocal_share": 0.09820178151130676,
+  "vocal_voiced": 0.25,
+  "song_length": 377.568
+ }
+}

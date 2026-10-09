@@ -1,0 +1,32 @@
+{
+ "id": "gwar/1526594577-108",
+ "band": "gwar",
+ "title": "Captain Crunch",
+ "source": "itunes",
+ "album": "Hell-O",
+ "year": 1988,
+ "itunes_year": 1988,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.6753563981961888,
+  "tempo_var": 1.7674389118718425,
+  "low_onset_rate": 6.74929084032391,
+  "lufs": -11.048223904824445,
+  "rms_dbfs": -11.273949299224007,
+  "crest": 11.273948669433594,
+  "centroid": 2455.051428585154,
+  "flatness": 0.029338212683796883,
+  "sub100_share": 0.32362574338912964,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.7758148908615112,
+  "clean_share": 0.047323506594259115,
+  "minor_share": 0.22541952074645302,
+  "chord_rate": 2.505924816951947,
+  "repetitiveness": 0.9244170784950256,
+  "vocal_share": 0.10931099951267242,
+  "vocal_voiced": 0.6881889763779527,
+  "song_length": 232.335
+ }
+}

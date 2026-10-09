@@ -1,0 +1,32 @@
+{
+ "id": "entoria/1450504614-111",
+ "band": "entoria",
+ "title": "Zeitumkehr",
+ "source": "itunes",
+ "album": "Aschheim",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.7087687290888813,
+  "tempo_var": 1.6449099076386924,
+  "low_onset_rate": 4.276778354264656,
+  "lufs": -8.872756801863956,
+  "rms_dbfs": -8.533913321402963,
+  "crest": 8.533913612365723,
+  "centroid": 2397.9966836286803,
+  "flatness": 0.02559703029692173,
+  "sub100_share": 0.15927644073963165,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8008788228034973,
+  "clean_share": 0.022498060512024826,
+  "minor_share": 0.23235716614451374,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.7594090700149536,
+  "vocal_share": 0.09816192090511322,
+  "vocal_voiced": 0.29721362229102166,
+  "song_length": 406.819
+ }
+}

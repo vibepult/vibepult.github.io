@@ -1,0 +1,32 @@
+{
+ "id": "ultar/1622675009-103",
+ "band": "ultar",
+ "title": "Yog-Sothoth",
+ "source": "itunes",
+ "album": "Pantheon MMXIX",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.6753563981961888,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.112086626581972,
+  "lufs": -9.92447678673793,
+  "rms_dbfs": -8.605858393924429,
+  "crest": 8.60585880279541,
+  "centroid": 981.4123719079112,
+  "flatness": 0.0011583564337342978,
+  "sub100_share": 0.2549925446510315,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.8719676733016968,
+  "clean_share": 0.9635376260667183,
+  "minor_share": 0.18410493571562392,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.9125470519065857,
+  "vocal_share": 5.698591121472418e-05,
+  "vocal_voiced": 1.0,
+  "song_length": 601.0
+ }
+}

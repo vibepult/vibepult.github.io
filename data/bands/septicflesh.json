@@ -1,0 +1,127 @@
+{
+ "slug": "septicflesh",
+ "name": "Septicflesh",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 275730586,
+  "deezer": 69024,
+  "spotify": "5MlEt7qqXqNSReeX76xK6b"
+ },
+ "metadata": {
+  "formed": 1990,
+  "split": null,
+  "country": "GR",
+  "status": "active",
+  "members": 5,
+  "past_members": 4,
+  "full_lengths": 11,
+  "genre": "Atmospheric/Symphonic Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 33837,
+  "themes": "Fantasy, Mythology, Occultism, H.P. Lovecraft",
+  "release_year": 2001
+ },
+ "partial": false,
+ "clips": [
+  "septicflesh/593291697-107",
+  "septicflesh/605503788-106",
+  "septicflesh/631937565-106",
+  "septicflesh/632120685-107",
+  "septicflesh/582706261-107",
+  "septicflesh/573712213-105",
+  "septicflesh/588000998-105",
+  "septicflesh/879297027-105",
+  "septicflesh/1243862448-107",
+  "septicflesh/1608871550-105",
+  "septicflesh/593291697-106",
+  "septicflesh/605503788-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 132.59919819078948,
+   "iqr": 26.464125689338232
+  },
+  "onset_rate": {
+   "median": 3.992773541676769,
+   "iqr": 2.906872787664258
+  },
+  "tempo_var": {
+   "median": 9.19000261390174,
+   "iqr": 10.514293113690506
+  },
+  "low_onset_rate": {
+   "median": 6.866233998448335,
+   "iqr": 2.8901666222179117
+  },
+  "lufs": {
+   "median": -8.836181201237338,
+   "iqr": 2.673003166728316
+  },
+  "rms_dbfs": {
+   "median": -7.924530709736949,
+   "iqr": 2.9448992054658207
+  },
+  "crest": {
+   "median": 7.924530506134033,
+   "iqr": 2.944898843765259
+  },
+  "centroid": {
+   "median": 2464.942238707347,
+   "iqr": 384.5134682133307
+  },
+  "flatness": {
+   "median": 0.028190952725708485,
+   "iqr": 0.013578529004007578
+  },
+  "sub100_share": {
+   "median": 0.3496515303850174,
+   "iqr": 0.08024943619966507
+  },
+  "lowest_pitch": {
+   "median": 48.44970703125,
+   "iqr": 15.47698974609375
+  },
+  "harmonic_share": {
+   "median": 0.7653186917304993,
+   "iqr": 0.060945287346839905
+  },
+  "clean_share": {
+   "median": 0.0896043444530644,
+   "iqr": 0.13149728471683475
+  },
+  "minor_share": {
+   "median": -0.0277665385561352,
+   "iqr": 0.24475103828147732
+  },
+  "chord_rate": {
+   "median": 1.7374412064200166,
+   "iqr": 0.33505153024939793
+  },
+  "repetitiveness": {
+   "median": 0.8462544679641724,
+   "iqr": 0.10722281038761139
+  },
+  "vocal_share": {
+   "median": 0.0785052552819252,
+   "iqr": 0.049063365906476974
+  },
+  "vocal_voiced": {
+   "median": 0.10230547550432277,
+   "iqr": 0.11194947462553097
+  },
+  "song_length": {
+   "median": 247.22,
+   "iqr": 59.30374999999998
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

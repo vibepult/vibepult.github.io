@@ -1,0 +1,32 @@
+{
+ "id": "neaera/57944430-107",
+ "band": "neaera",
+ "title": "...To Oblivion",
+ "source": "itunes",
+ "album": "The Rising Tide of Oblivion",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.813745575328517,
+  "tempo_var": 15.493250604252967,
+  "low_onset_rate": 4.310190685157349,
+  "lufs": -6.449113667005831,
+  "rms_dbfs": -6.587044959345112,
+  "crest": 6.587044715881348,
+  "centroid": 3089.2337213419783,
+  "flatness": 0.07347151637077332,
+  "sub100_share": 0.32814571261405945,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.6580860018730164,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.1992670587857231,
+  "chord_rate": 2.2386261698104057,
+  "repetitiveness": 0.8851867318153381,
+  "vocal_share": 0.12308571487665176,
+  "vocal_voiced": 0.0,
+  "song_length": 215.52
+ }
+}

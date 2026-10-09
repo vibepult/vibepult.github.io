@@ -1,0 +1,32 @@
+{
+ "id": "sonata-arctica/1660478382-105",
+ "band": "sonata-arctica",
+ "title": "Kingdom For a Heart",
+ "source": "itunes",
+ "album": "Ecliptica (International Version)",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 6.7,
+  "tempo_var": 1.128021981648241,
+  "low_onset_rate": 6.566666666666666,
+  "lufs": -7.265635152382492,
+  "rms_dbfs": -7.0337469908822055,
+  "crest": 7.033746719360352,
+  "centroid": 2912.6803585455746,
+  "flatness": 0.04717087000608444,
+  "sub100_share": 0.34740757942199707,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8058205842971802,
+  "clean_share": 0.0,
+  "minor_share": 0.2160920944894198,
+  "chord_rate": 1.7666666666666666,
+  "repetitiveness": 0.816840410232544,
+  "vocal_share": 0.14383353292942047,
+  "vocal_voiced": 0.7280898876404495,
+  "song_length": 229.573
+ }
+}

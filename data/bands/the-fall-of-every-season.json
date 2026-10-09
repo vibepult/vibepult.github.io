@@ -1,0 +1,125 @@
+{
+ "slug": "the-fall-of-every-season",
+ "name": "The Fall of Every Season",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 272327746,
+  "deezer": 1237973,
+  "spotify": "1p6gj1f3YSH5Or6EVLA4nE"
+ },
+ "metadata": {
+  "formed": 2004,
+  "split": null,
+  "country": "NO",
+  "status": "active",
+  "members": 1,
+  "past_members": 0,
+  "full_lengths": 2,
+  "genre": "Atmospheric Doom/Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 1130,
+  "themes": "Sorrow, Melancholy, Solitude",
+  "release_year": 2010
+ },
+ "partial": false,
+ "clips": [
+  "the-fall-of-every-season/272327706-103",
+  "the-fall-of-every-season/593025959-103",
+  "the-fall-of-every-season/272327706-102",
+  "the-fall-of-every-season/593025959-102",
+  "the-fall-of-every-season/272327706-104",
+  "the-fall-of-every-season/593025959-104",
+  "the-fall-of-every-season/272327706-101",
+  "the-fall-of-every-season/593025959-101",
+  "the-fall-of-every-season/272327706-105",
+  "the-fall-of-every-season/593025959-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 82.05192319808468,
+   "iqr": 37.13646982754199
+  },
+  "onset_rate": {
+   "median": 2.472512486059254,
+   "iqr": 1.5202610556175145
+  },
+  "tempo_var": {
+   "median": 16.085038188096767,
+   "iqr": 15.901995312721859
+  },
+  "low_onset_rate": {
+   "median": 5.379385273723512,
+   "iqr": 1.0859007540125099
+  },
+  "lufs": {
+   "median": -12.373542005985307,
+   "iqr": 8.401064240773575
+  },
+  "rms_dbfs": {
+   "median": -11.102088118344646,
+   "iqr": 7.358308187076007
+  },
+  "crest": {
+   "median": 11.10208797454834,
+   "iqr": 5.730025053024292
+  },
+  "centroid": {
+   "median": 1891.230649719646,
+   "iqr": 933.8148645868571
+  },
+  "flatness": {
+   "median": 0.005175136728212237,
+   "iqr": 0.01818562066182494
+  },
+  "sub100_share": {
+   "median": 0.25801782310009,
+   "iqr": 0.15525229275226593
+  },
+  "lowest_pitch": {
+   "median": 72.674560546875,
+   "iqr": 26.91650390625
+  },
+  "harmonic_share": {
+   "median": 0.9715417325496674,
+   "iqr": 0.05465896427631378
+  },
+  "clean_share": {
+   "median": 0.7350659425911559,
+   "iqr": 0.7911171450737005
+  },
+  "minor_share": {
+   "median": 0.12190382808700345,
+   "iqr": 0.14756608811365285
+  },
+  "chord_rate": {
+   "median": 1.169431581244242,
+   "iqr": 0.7183651141928913
+  },
+  "repetitiveness": {
+   "median": 0.6368456780910492,
+   "iqr": 0.13692094385623932
+  },
+  "vocal_share": {
+   "median": 0.0521261990070343,
+   "iqr": 0.033604856580495834
+  },
+  "vocal_voiced": {
+   "median": 0.7571428571428571,
+   "iqr": 0.35382411585833473
+  },
+  "song_length": {
+   "median": 709.933,
+   "iqr": 417.49725000000007
+  },
+  "vocal_presence": {
+   "median": 0.5,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

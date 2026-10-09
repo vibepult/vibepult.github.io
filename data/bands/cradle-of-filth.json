@@ -1,0 +1,127 @@
+{
+ "slug": "cradle-of-filth",
+ "name": "Cradle of Filth",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 3738030,
+  "deezer": 121,
+  "spotify": "0NTSMFFapnyZfvmCwzcYPd"
+ },
+ "metadata": {
+  "formed": 1991,
+  "split": null,
+  "country": "GB",
+  "status": "active",
+  "members": 6,
+  "past_members": 26,
+  "full_lengths": 16,
+  "genre": "Death Metal (early); Symphonic Black Metal (mid); Extreme Gothic Metal (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 274103,
+  "themes": "Occultism, Vampirism, Erotica, Romance, Mythology, Horror, Blasphemy, Conceptual",
+  "release_year": 2004
+ },
+ "partial": false,
+ "clips": [
+  "cradle-of-filth/1477976123-106",
+  "cradle-of-filth/164212996-105",
+  "cradle-of-filth/523113492-108",
+  "cradle-of-filth/214359619-107",
+  "cradle-of-filth/291138191-107",
+  "cradle-of-filth/902642314-110",
+  "cradle-of-filth/1472538202-108",
+  "cradle-of-filth/1575339550-108",
+  "cradle-of-filth/1477976123-107",
+  "cradle-of-filth/164212996-106",
+  "cradle-of-filth/523113492-109",
+  "cradle-of-filth/214359619-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.69701086956522,
+   "iqr": 26.19873046875
+  },
+  "onset_rate": {
+   "median": 5.679735738058584,
+   "iqr": 2.462459388416935
+  },
+  "tempo_var": {
+   "median": 9.224177946550501,
+   "iqr": 9.312762957961171
+  },
+  "low_onset_rate": {
+   "median": 6.983177156572759,
+   "iqr": 2.8059332137512554
+  },
+  "lufs": {
+   "median": -9.685997324008223,
+   "iqr": 3.1872206332014894
+  },
+  "rms_dbfs": {
+   "median": -9.592090746098899,
+   "iqr": 3.941892190276606
+  },
+  "crest": {
+   "median": 9.592090606689453,
+   "iqr": 3.9418920278549194
+  },
+  "centroid": {
+   "median": 2408.155370151902,
+   "iqr": 489.82769858346546
+  },
+  "flatness": {
+   "median": 0.03385012969374657,
+   "iqr": 0.01824918412603438
+  },
+  "sub100_share": {
+   "median": 0.2829105854034424,
+   "iqr": 0.06767387688159943
+  },
+  "lowest_pitch": {
+   "median": 45.758056640625,
+   "iqr": 32.97271728515625
+  },
+  "harmonic_share": {
+   "median": 0.7378091216087341,
+   "iqr": 0.13338050246238708
+  },
+  "clean_share": {
+   "median": 0.02822892498066512,
+   "iqr": 0.3480278422273782
+  },
+  "minor_share": {
+   "median": 0.010581749846578614,
+   "iqr": 0.24404416084414932
+  },
+  "chord_rate": {
+   "median": 1.89879728486416,
+   "iqr": 0.8203400726806229
+  },
+  "repetitiveness": {
+   "median": 0.8360620439052582,
+   "iqr": 0.06467893719673157
+  },
+  "vocal_share": {
+   "median": 0.1823076754808426,
+   "iqr": 0.08388843387365341
+  },
+  "vocal_voiced": {
+   "median": 0.4329268292682927,
+   "iqr": 0.30103445975547344
+  },
+  "song_length": {
+   "median": 363.6785,
+   "iqr": 85.87849999999997
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.8,
+  "camp": 0.7
+ },
+ "sources_failed": []
+}

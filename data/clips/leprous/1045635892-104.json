@@ -1,0 +1,32 @@
+{
+ "id": "leprous/1045635892-104",
+ "band": "leprous",
+ "title": "The Cloak",
+ "source": "itunes",
+ "album": "Coal",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 2.8648520438301364,
+  "tempo_var": 14.723576757992726,
+  "low_onset_rate": 5.163396125507804,
+  "lufs": -11.346875067288254,
+  "rms_dbfs": -10.775844233065271,
+  "crest": 10.77584457397461,
+  "centroid": 1547.2271482796118,
+  "flatness": 0.00514958705753088,
+  "sub100_share": 0.02467423863708973,
+  "lowest_pitch": 145.34912109375,
+  "harmonic_share": 0.9497476816177368,
+  "clean_share": 0.8321732405259087,
+  "minor_share": 0.08167152597383309,
+  "chord_rate": 1.065991458169353,
+  "repetitiveness": 0.6058315634727478,
+  "vocal_share": 0.3555736541748047,
+  "vocal_voiced": 0.9260476581758422,
+  "song_length": 249.267
+ }
+}

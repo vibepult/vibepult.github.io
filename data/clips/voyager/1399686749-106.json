@@ -1,0 +1,32 @@
+{
+ "id": "voyager/1399686749-106",
+ "band": "voyager",
+ "title": "He Will Remain",
+ "source": "itunes",
+ "album": "The Meaning of I",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 1.1360192503515492,
+  "tempo_var": 30.201693136016793,
+  "low_onset_rate": 4.677726324976968,
+  "lufs": -17.6902601501877,
+  "rms_dbfs": -16.87225070163757,
+  "crest": 16.871984481811523,
+  "centroid": 1266.719670125063,
+  "flatness": 0.006674628239125013,
+  "sub100_share": 0.14875461161136627,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.892512857913971,
+  "clean_share": 0.8417377812257564,
+  "minor_share": 0.028771475620943177,
+  "chord_rate": 0.7350712796392378,
+  "repetitiveness": 0.6158502101898193,
+  "vocal_share": 0.45685625076293945,
+  "vocal_voiced": 0.8167597765363128,
+  "song_length": 165.787
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "skepticism/1570328523-103",
+ "band": "skepticism",
+ "title": "The March of the Four",
+ "source": "itunes",
+ "album": "Companion",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 45.333059210526315,
+  "onset_rate": 0.8353082723173156,
+  "tempo_var": 8.097603077321759,
+  "low_onset_rate": 2.5393371478446394,
+  "lufs": -16.606619444194184,
+  "rms_dbfs": -15.45597945432271,
+  "crest": 15.455979347229004,
+  "centroid": 1626.5277519868973,
+  "flatness": 0.006628888659179211,
+  "sub100_share": 0.22685635089874268,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.84571772813797,
+  "clean_share": 0.6896819239720714,
+  "minor_share": 0.11682904614450162,
+  "chord_rate": 0.46777263249769674,
+  "repetitiveness": 0.696114182472229,
+  "vocal_share": 2.5397191620868398e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 604.966
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "athena/938230792-107",
+ "band": "athena",
+ "title": "Yapma Be Kanka",
+ "source": "itunes",
+ "album": "Altüst",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 69.83741554054055,
+  "onset_rate": 1.8332779054299189,
+  "tempo_var": 34.10273504050074,
+  "low_onset_rate": 2.4332597653888013,
+  "lufs": -16.186548297834236,
+  "rms_dbfs": -14.789228627017092,
+  "crest": 14.789228439331055,
+  "centroid": 1058.064607414233,
+  "flatness": 0.0017693137051537633,
+  "sub100_share": 0.5284813046455383,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.7505160570144653,
+  "clean_share": 0.9211136890951276,
+  "minor_share": -0.023632282529502113,
+  "chord_rate": 1.8999425565364614,
+  "repetitiveness": 0.6539567708969116,
+  "vocal_share": 0.06625230610370636,
+  "vocal_voiced": 0.89453125,
+  "song_length": 349.077
+ }
+}

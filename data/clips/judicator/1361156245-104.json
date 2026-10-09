@@ -1,0 +1,32 @@
+{
+ "id": "judicator/1361156245-104",
+ "band": "judicator",
+ "title": "The Queen of All Cities",
+ "source": "itunes",
+ "album": "The Last Emperor",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 5.713508582650439,
+  "tempo_var": 10.796688910160992,
+  "low_onset_rate": 6.081044222470058,
+  "lufs": -9.991491698975745,
+  "rms_dbfs": -9.520412661881096,
+  "crest": 9.52041244506836,
+  "centroid": 2511.494202796878,
+  "flatness": 0.027121249586343765,
+  "sub100_share": 0.3087623417377472,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.765632152557373,
+  "clean_share": 0.0062063615205585725,
+  "minor_share": 0.1280771948331556,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.8145962953567505,
+  "vocal_share": 9.934260560839903e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 553.733
+ }
+}

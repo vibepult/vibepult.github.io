@@ -1,0 +1,127 @@
+{
+ "slug": "necrophagist",
+ "name": "Necrophagist",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 73982981,
+  "deezer": 15550,
+  "spotify": "22GSc8UsPGIP5mrM4W57rY"
+ },
+ "metadata": {
+  "formed": 1992,
+  "split": 2016,
+  "country": "DE",
+  "status": "split-up",
+  "members": 4,
+  "past_members": 13,
+  "full_lengths": 2,
+  "genre": "Technical Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 41236,
+  "themes": "Gore, Pathology (early); Abstract, Society (later)",
+  "release_year": 2001
+ },
+ "partial": false,
+ "clips": [
+  "necrophagist/714386854-106",
+  "necrophagist/74423020-104",
+  "necrophagist/714386854-105",
+  "necrophagist/74423020-105",
+  "necrophagist/714386854-107",
+  "necrophagist/74423020-103",
+  "necrophagist/714386854-104",
+  "necrophagist/74423020-106",
+  "necrophagist/714386854-108",
+  "necrophagist/74423020-102",
+  "necrophagist/714386854-103",
+  "necrophagist/74423020-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 112.34714673913044,
+   "iqr": 11.258284005396789
+  },
+  "onset_rate": {
+   "median": 6.09990778673036,
+   "iqr": 2.2082999501141334
+  },
+  "tempo_var": {
+   "median": 4.215803899262786,
+   "iqr": 6.945577404551818
+  },
+  "low_onset_rate": {
+   "median": 7.049893425647383,
+   "iqr": 1.116649786095449
+  },
+  "lufs": {
+   "median": -9.285739393392692,
+   "iqr": 2.6459657368494227
+  },
+  "rms_dbfs": {
+   "median": -8.626150158539255,
+   "iqr": 2.5775082493093926
+  },
+  "crest": {
+   "median": 8.626149892807007,
+   "iqr": 2.5775086879730225
+  },
+  "centroid": {
+   "median": 2525.96683952051,
+   "iqr": 145.81005443042977
+  },
+  "flatness": {
+   "median": 0.030283687636256218,
+   "iqr": 0.006378327030688524
+  },
+  "sub100_share": {
+   "median": 0.3345468193292618,
+   "iqr": 0.05753724277019501
+  },
+  "lowest_pitch": {
+   "median": 51.141357421875,
+   "iqr": 9.4207763671875
+  },
+  "harmonic_share": {
+   "median": 0.7298481166362762,
+   "iqr": 0.03693588078022003
+  },
+  "clean_share": {
+   "median": 0.02165506573859242,
+   "iqr": 0.011794276875483373
+  },
+  "minor_share": {
+   "median": 0.022647130394872178,
+   "iqr": 0.12812848233007942
+  },
+  "chord_rate": {
+   "median": 2.466629378240692,
+   "iqr": 0.4499931973817479
+  },
+  "repetitiveness": {
+   "median": 0.9468177855014801,
+   "iqr": 0.026262089610099792
+  },
+  "vocal_share": {
+   "median": 0.13746314495801926,
+   "iqr": 0.07685600966215134
+  },
+  "vocal_voiced": {
+   "median": 0.17882851875588468,
+   "iqr": 0.09434213457845844
+  },
+  "song_length": {
+   "median": 259.6735,
+   "iqr": 42.86400000000003
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

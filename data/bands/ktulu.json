@@ -1,0 +1,127 @@
+{
+ "slug": "ktulu",
+ "name": "Ktulu",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 101210987,
+  "deezer": 64896,
+  "spotify": "3CYGxp19jhx6y9WGaMqLql"
+ },
+ "metadata": {
+  "formed": 1986,
+  "split": null,
+  "country": "ES",
+  "status": "active",
+  "members": 6,
+  "past_members": 28,
+  "full_lengths": 6,
+  "genre": "Thrash Metal (early); Groove/Industrial Metal (later)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 1101,
+  "themes": "Social concerns",
+  "release_year": 1999
+ },
+ "partial": false,
+ "clips": [
+  "ktulu/1800700608-105",
+  "ktulu/282482074-106",
+  "ktulu/1800700608-106",
+  "ktulu/282482074-107",
+  "ktulu/1800700608-104",
+  "ktulu/282482074-104",
+  "ktulu/1800700608-107",
+  "ktulu/282482074-108",
+  "ktulu/1800700608-103",
+  "ktulu/282482074-103",
+  "ktulu/1800700608-108",
+  "ktulu/282482074-109"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 29.40982216282896
+  },
+  "onset_rate": {
+   "median": 6.223757896955101,
+   "iqr": 1.1692473242948642
+  },
+  "tempo_var": {
+   "median": 10.47826163943321,
+   "iqr": 4.939495638274046
+  },
+  "low_onset_rate": {
+   "median": 6.741211213500937,
+   "iqr": 0.9858126619612868
+  },
+  "lufs": {
+   "median": -9.085874976887087,
+   "iqr": 2.221757123455718
+  },
+  "rms_dbfs": {
+   "median": -8.17295567198286,
+   "iqr": 1.7738373563727938
+  },
+  "crest": {
+   "median": 8.172955513000488,
+   "iqr": 1.7738368511199951
+  },
+  "centroid": {
+   "median": 2614.74445214195,
+   "iqr": 773.3633413282532
+  },
+  "flatness": {
+   "median": 0.04050559364259243,
+   "iqr": 0.032044325955212116
+  },
+  "sub100_share": {
+   "median": 0.40373019874095917,
+   "iqr": 0.3390025608241558
+  },
+  "lowest_pitch": {
+   "median": 49.7955322265625,
+   "iqr": 22.8790283203125
+  },
+  "harmonic_share": {
+   "median": 0.6815812885761261,
+   "iqr": 0.11609725654125214
+  },
+  "clean_share": {
+   "median": 0.006187161639597835,
+   "iqr": 0.03812331363545546
+  },
+  "minor_share": {
+   "median": 0.07136272828198942,
+   "iqr": 0.1255314175192
+  },
+  "chord_rate": {
+   "median": 2.3332910060588468,
+   "iqr": 0.46182236545319144
+  },
+  "repetitiveness": {
+   "median": 0.9374925494194031,
+   "iqr": 0.059587180614471436
+  },
+  "vocal_share": {
+   "median": 0.11513485386967659,
+   "iqr": 0.13837711326777935
+  },
+  "vocal_voiced": {
+   "median": 0.0677455042831991,
+   "iqr": 0.05064434262526212
+  },
+  "song_length": {
+   "median": 230.6845,
+   "iqr": 47.08174999999997
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

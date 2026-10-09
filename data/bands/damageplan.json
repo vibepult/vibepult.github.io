@@ -1,0 +1,127 @@
+{
+ "slug": "damageplan",
+ "name": "Damageplan",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 3845631,
+  "deezer": 4808,
+  "spotify": "4fE4Bf0MM6lMJpHiHniPuW"
+ },
+ "metadata": {
+  "formed": 2003,
+  "split": 2004,
+  "country": "US",
+  "status": "split-up",
+  "members": 4,
+  "past_members": 0,
+  "full_lengths": 1,
+  "genre": "Groove/Nu-Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 11907,
+  "themes": "Life struggles, Angst",
+  "release_year": 2004
+ },
+ "partial": false,
+ "clips": [
+  "damageplan/5356931-107",
+  "damageplan/5356931-108",
+  "damageplan/5356931-106",
+  "damageplan/5356931-109",
+  "damageplan/5356931-105",
+  "damageplan/5356931-110",
+  "damageplan/5356931-104",
+  "damageplan/5356931-111",
+  "damageplan/5356931-103",
+  "damageplan/5356931-112",
+  "damageplan/5356931-102",
+  "damageplan/5356931-113"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 110.00658118206522,
+   "iqr": 28.6083984375
+  },
+  "onset_rate": {
+   "median": 4.515544492527431,
+   "iqr": 1.3645739589636205
+  },
+  "tempo_var": {
+   "median": 6.3975947511455225,
+   "iqr": 11.092210676027262
+  },
+  "low_onset_rate": {
+   "median": 5.965295956182404,
+   "iqr": 1.9717976264606385
+  },
+  "lufs": {
+   "median": -7.900121031924737,
+   "iqr": 0.7179954194515599
+  },
+  "rms_dbfs": {
+   "median": -8.044038273748773,
+   "iqr": 0.6458093965686214
+  },
+  "crest": {
+   "median": 8.044037818908691,
+   "iqr": 0.645809531211853
+  },
+  "centroid": {
+   "median": 2584.3640045648044,
+   "iqr": 93.00241950943428
+  },
+  "flatness": {
+   "median": 0.033832598477602005,
+   "iqr": 0.00917293131351471
+  },
+  "sub100_share": {
+   "median": 0.24195538461208344,
+   "iqr": 0.0550895556807518
+  },
+  "lowest_pitch": {
+   "median": 68.6370849609375,
+   "iqr": 4.71038818359375
+  },
+  "harmonic_share": {
+   "median": 0.7555042207241058,
+   "iqr": 0.08246298134326935
+  },
+  "clean_share": {
+   "median": 0.008894044856921888,
+   "iqr": 0.032289249806651196
+  },
+  "minor_share": {
+   "median": 0.03162321629045828,
+   "iqr": 0.09312185480448382
+  },
+  "chord_rate": {
+   "median": 2.06517437323881,
+   "iqr": 0.29240776677801494
+  },
+  "repetitiveness": {
+   "median": 0.8629257380962372,
+   "iqr": 0.06360568106174469
+  },
+  "vocal_share": {
+   "median": 0.1581791788339615,
+   "iqr": 0.03811459615826607
+  },
+  "vocal_voiced": {
+   "median": 0.33108866442199775,
+   "iqr": 0.32682868192263853
+  },
+  "song_length": {
+   "median": 249.667,
+   "iqr": 85.2365
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

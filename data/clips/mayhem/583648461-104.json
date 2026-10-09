@@ -1,0 +1,32 @@
+{
+ "id": "mayhem/583648461-104",
+ "band": "mayhem",
+ "title": "My Death",
+ "source": "itunes",
+ "album": "Chimera",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 7.033333333333333,
+  "tempo_var": 15.739873919690387,
+  "low_onset_rate": 7.5,
+  "lufs": -10.277054624142972,
+  "rms_dbfs": -9.602376590687324,
+  "crest": 9.602376937866211,
+  "centroid": 2618.3452266875975,
+  "flatness": 0.032926786690950394,
+  "sub100_share": 0.37167829275131226,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8464710116386414,
+  "clean_share": 0.013157894736842105,
+  "minor_share": 0.008386427508882632,
+  "chord_rate": 1.1333333333333333,
+  "repetitiveness": 0.948466420173645,
+  "vocal_share": 0.03470371663570404,
+  "vocal_voiced": 0.3595744680851064,
+  "song_length": 354.48
+ }
+}

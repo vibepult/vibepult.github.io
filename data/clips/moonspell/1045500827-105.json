@@ -1,0 +1,32 @@
+{
+ "id": "moonspell/1045500827-105",
+ "band": "moonspell",
+ "title": "Antidote",
+ "source": "itunes",
+ "album": "The Antidote",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 2.1049768462396354,
+  "tempo_var": 28.58334965895564,
+  "low_onset_rate": 4.777963317655045,
+  "lufs": -9.401912567387498,
+  "rms_dbfs": -9.183024211842982,
+  "crest": 9.183024406433105,
+  "centroid": 2319.7289212168566,
+  "flatness": 0.02451479062438011,
+  "sub100_share": 0.3843342065811157,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.8794170618057251,
+  "clean_share": 0.3103180760279286,
+  "minor_share": 0.35876752719898997,
+  "chord_rate": 1.4367302283857828,
+  "repetitiveness": 0.6481691598892212,
+  "vocal_share": 0.04600690305233002,
+  "vocal_voiced": 0.788235294117647,
+  "song_length": 285.28
+ }
+}

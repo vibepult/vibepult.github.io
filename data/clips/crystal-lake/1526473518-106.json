@@ -1,0 +1,32 @@
+{
+ "id": "crystal-lake/1526473518-106",
+ "band": "crystal-lake",
+ "title": "Freewill (Rerecorded)",
+ "source": "itunes",
+ "album": "The Voyages (Rerecorded Version)",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 5.98080722979198,
+  "tempo_var": 0.0,
+  "low_onset_rate": 9.021329341027009,
+  "lufs": -8.114409552400941,
+  "rms_dbfs": -6.553139132182383,
+  "crest": 6.5531392097473145,
+  "centroid": 2295.301441302932,
+  "flatness": 0.02133988030254841,
+  "sub100_share": 0.6619641780853271,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8877832889556885,
+  "clean_share": 0.03801396431342126,
+  "minor_share": 0.027935729948492416,
+  "chord_rate": 2.1049768462396354,
+  "repetitiveness": 0.9193863272666931,
+  "vocal_share": 0.07300754636526108,
+  "vocal_voiced": 0.39747634069400634,
+  "song_length": 204.74
+ }
+}

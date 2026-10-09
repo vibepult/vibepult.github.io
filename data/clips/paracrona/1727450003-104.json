@@ -1,0 +1,32 @@
+{
+ "id": "paracrona/1727450003-104",
+ "band": "paracrona",
+ "title": "Sun God",
+ "source": "itunes",
+ "album": "Sun God",
+ "year": 2023,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 6.933333333333334,
+  "tempo_var": 8.02813385488013,
+  "low_onset_rate": 7.433333333333334,
+  "lufs": -9.92740656324367,
+  "rms_dbfs": -8.628534416166445,
+  "crest": 8.628534317016602,
+  "centroid": 2313.2045723719293,
+  "flatness": 0.02469123899936676,
+  "sub100_share": 0.44304269552230835,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.8133181929588318,
+  "clean_share": 0.02089783281733746,
+  "minor_share": 0.028145248108050414,
+  "chord_rate": 2.033333333333333,
+  "repetitiveness": 0.9107255339622498,
+  "vocal_share": 0.06814506649971008,
+  "vocal_voiced": 0.41786447638603696,
+  "song_length": 305.181
+ }
+}

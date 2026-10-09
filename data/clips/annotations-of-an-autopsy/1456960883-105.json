@@ -1,0 +1,32 @@
+{
+ "id": "annotations-of-an-autopsy/1456960883-105",
+ "band": "annotations-of-an-autopsy",
+ "title": "Emptiness",
+ "source": "itunes",
+ "album": "The Reign of Darkness",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 0.3675356398196189,
+  "tempo_var": 8.871011670143016,
+  "low_onset_rate": 1.871090529990787,
+  "lufs": -7.806908232311595,
+  "rms_dbfs": -6.701688946208426,
+  "crest": 6.701688766479492,
+  "centroid": 2553.8418317408073,
+  "flatness": 0.03613080456852913,
+  "sub100_share": 0.42013588547706604,
+  "lowest_pitch": 26.91650390625,
+  "harmonic_share": 0.7409803867340088,
+  "clean_share": 0.0069821567106283944,
+  "minor_share": -0.14941473596789373,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.8673175573348999,
+  "vocal_share": 0.05972202867269516,
+  "vocal_voiced": 0.45645161290322583,
+  "song_length": 252.013
+ }
+}

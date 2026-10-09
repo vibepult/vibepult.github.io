@@ -1,0 +1,127 @@
+{
+ "slug": "eluveitie",
+ "name": "Eluveitie",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 269358403,
+  "deezer": 6253,
+  "spotify": "5X0N2k3qMnI8kSrGJT3kfT"
+ },
+ "metadata": {
+  "formed": 2002,
+  "split": null,
+  "country": "CH",
+  "status": "active",
+  "members": 7,
+  "past_members": 23,
+  "full_lengths": 9,
+  "genre": "Folk/Melodic Death Metal/Metalcore, Folk",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 203249,
+  "themes": "Celtic/Helvetian history, Mythology, Paganism, Battles",
+  "release_year": 2013
+ },
+ "partial": false,
+ "clips": [
+  "eluveitie/1460469157-106",
+  "eluveitie/1456963759-109",
+  "eluveitie/1456950322-109",
+  "eluveitie/1472538688-110",
+  "eluveitie/1458763196-110",
+  "eluveitie/1786395224-106",
+  "eluveitie/1460469157-107",
+  "eluveitie/1456963759-110",
+  "eluveitie/1456950322-108",
+  "eluveitie/1472538688-111",
+  "eluveitie/1458763196-111",
+  "eluveitie/1786395224-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.90049098320159,
+   "iqr": 11.186079545454547
+  },
+  "onset_rate": {
+   "median": 2.3666523558436534,
+   "iqr": 2.033321038119195
+  },
+  "tempo_var": {
+   "median": 5.045774328437343,
+   "iqr": 6.19115513720609
+  },
+  "low_onset_rate": {
+   "median": 3.6166447973103715,
+   "iqr": 3.2666469136996903
+  },
+  "lufs": {
+   "median": -9.63892710117199,
+   "iqr": 6.543523905731771
+  },
+  "rms_dbfs": {
+   "median": -9.979366571648013,
+   "iqr": 5.99352894709661
+  },
+  "crest": {
+   "median": 9.979366302490234,
+   "iqr": 5.320396184921265
+  },
+  "centroid": {
+   "median": 2293.8019351789653,
+   "iqr": 519.9019772857296
+  },
+  "flatness": {
+   "median": 0.02437121979892254,
+   "iqr": 0.016800372395664454
+  },
+  "sub100_share": {
+   "median": 0.2507088780403137,
+   "iqr": 0.09344432502985
+  },
+  "lowest_pitch": {
+   "median": 60.5621337890625,
+   "iqr": 26.24359130859375
+  },
+  "harmonic_share": {
+   "median": 0.7885095477104187,
+   "iqr": 0.2280699461698532
+  },
+  "clean_share": {
+   "median": 0.33429722735719036,
+   "iqr": 0.3644624903325599
+  },
+  "minor_share": {
+   "median": 0.04397888118487092,
+   "iqr": 0.1336227411816477
+  },
+  "chord_rate": {
+   "median": 1.6999897203947367,
+   "iqr": 0.7743815205274527
+  },
+  "repetitiveness": {
+   "median": 0.91248419880867,
+   "iqr": 0.08042271435260773
+  },
+  "vocal_share": {
+   "median": 0.16203735768795013,
+   "iqr": 0.04226788133382797
+  },
+  "vocal_voiced": {
+   "median": 0.2692804731135692,
+   "iqr": 0.8233870651910598
+  },
+  "song_length": {
+   "median": 220.4065,
+   "iqr": 46.50574999999998
+  },
+  "vocal_presence": {
+   "median": 0.5,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.5,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "hanzel-und-gretyl/564904424-105",
+ "band": "hanzel-und-gretyl",
+ "title": "Der Furor",
+ "source": "itunes",
+ "album": "Born to Be Heiled",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 1.0023699267807789,
+  "tempo_var": 21.293087717115327,
+  "low_onset_rate": 0.801895941424623,
+  "lufs": -7.899535625734022,
+  "rms_dbfs": -7.424683996392413,
+  "crest": 7.424683570861816,
+  "centroid": 2529.2683989843413,
+  "flatness": 0.035592254251241684,
+  "sub100_share": 0.36846575140953064,
+  "lowest_pitch": 29.608154296875,
+  "harmonic_share": 0.7360382080078125,
+  "clean_share": 0.0062063615205585725,
+  "minor_share": 0.08416204675581135,
+  "chord_rate": 2.3054508315957913,
+  "repetitiveness": 0.9384657740592957,
+  "vocal_share": 0.11888985335826874,
+  "vocal_voiced": 0.27784730913642053,
+  "song_length": 134.067
+ }
+}

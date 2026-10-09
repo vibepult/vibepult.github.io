@@ -1,0 +1,32 @@
+{
+ "id": "evoken/542459124-104",
+ "band": "evoken",
+ "title": "Grim Eloquence",
+ "source": "itunes",
+ "album": "Atra Mors",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.245735950152742,
+  "tempo_var": 9.168897256146234,
+  "low_onset_rate": 7.050001818358144,
+  "lufs": -8.958928639857634,
+  "rms_dbfs": -7.852388879947847,
+  "crest": 7.852388381958008,
+  "centroid": 2477.9155612128534,
+  "flatness": 0.02927200309932232,
+  "sub100_share": 0.47895145416259766,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.775249183177948,
+  "clean_share": 0.022498060512024826,
+  "minor_share": -0.07710720712719399,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.9063632488250732,
+  "vocal_share": 0.06746742874383926,
+  "vocal_voiced": 0.4827044025157233,
+  "song_length": 580.413
+ }
+}

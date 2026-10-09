@@ -1,0 +1,32 @@
+{
+ "id": "heathen/1601044778-107",
+ "band": "heathen",
+ "title": "A Hero's Welcome (Remastered 2020)",
+ "source": "itunes",
+ "album": "The Evolution of Chaos (10th Anniversary Edition)",
+ "year": 2010,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 2.2386261698104057,
+  "tempo_var": 4.7988385611846045,
+  "low_onset_rate": 1.971327522668865,
+  "lufs": -21.05284046370438,
+  "rms_dbfs": -20.102761746890863,
+  "crest": 17.20106315612793,
+  "centroid": 1917.180349228135,
+  "flatness": 0.005339295137673616,
+  "sub100_share": 0.3079168498516083,
+  "lowest_pitch": 94.207763671875,
+  "harmonic_share": 0.9310058951377869,
+  "clean_share": 0.7059736229635376,
+  "minor_share": -0.05311658730886437,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.7326585054397583,
+  "vocal_share": 6.453368541770033e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 411.947
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "volturian",
+ "name": "Volturian",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1498778637,
+  "deezer": 85787272,
+  "spotify": "1kaSMA4dkMLk11AoMUQdoJ"
+ },
+ "metadata": {
+  "formed": 2019,
+  "split": null,
+  "country": "IT",
+  "status": "active",
+  "members": 4,
+  "past_members": 1,
+  "full_lengths": 2,
+  "genre": "Melodic Symphonic/Groove Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 2191,
+  "themes": "Life, Love, Dreams",
+  "release_year": 2021
+ },
+ "partial": false,
+ "clips": [
+  "volturian/1699036416-106",
+  "volturian/1699045579-106",
+  "volturian/1699036416-105",
+  "volturian/1699045579-105",
+  "volturian/1699036416-107",
+  "volturian/1699045579-107",
+  "volturian/1699036416-104",
+  "volturian/1699045579-104",
+  "volturian/1699036416-108",
+  "volturian/1699045579-108",
+  "volturian/1699036416-103",
+  "volturian/1699045579-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 143.5546875,
+   "iqr": 44.22047334558823
+  },
+  "onset_rate": {
+   "median": 4.53319627524489,
+   "iqr": 0.5583164530172926
+  },
+  "tempo_var": {
+   "median": 10.280261970513068,
+   "iqr": 5.943066193182133
+  },
+  "low_onset_rate": {
+   "median": 5.199842786310315,
+   "iqr": 3.3165663925504894
+  },
+  "lufs": {
+   "median": -9.344716548880616,
+   "iqr": 1.5860519989041588
+  },
+  "rms_dbfs": {
+   "median": -9.041200484510647,
+   "iqr": 1.7813729678140051
+  },
+  "crest": {
+   "median": 9.041200637817383,
+   "iqr": 1.7813727855682373
+  },
+  "centroid": {
+   "median": 2480.7745040570053,
+   "iqr": 341.03894105720883
+  },
+  "flatness": {
+   "median": 0.02730958629399538,
+   "iqr": 0.011114788241684437
+  },
+  "sub100_share": {
+   "median": 0.37809617817401886,
+   "iqr": 0.05058285593986511
+  },
+  "lowest_pitch": {
+   "median": 61.907958984375,
+   "iqr": 14.13116455078125
+  },
+  "harmonic_share": {
+   "median": 0.8547305762767792,
+   "iqr": 0.03714604675769806
+  },
+  "clean_share": {
+   "median": 0.015081206496519723,
+   "iqr": 0.06960556844547565
+  },
+  "minor_share": {
+   "median": 0.062937301335933,
+   "iqr": 0.21038454452892957
+  },
+  "chord_rate": {
+   "median": 1.1999637199177653,
+   "iqr": 0.2499924416495345
+  },
+  "repetitiveness": {
+   "median": 0.833649218082428,
+   "iqr": 0.030943095684051514
+  },
+  "vocal_share": {
+   "median": 0.2185351923108101,
+   "iqr": 0.08081910759210587
+  },
+  "vocal_voiced": {
+   "median": 0.8998461518057268,
+   "iqr": 0.024436380174574723
+  },
+  "song_length": {
+   "median": 240.538,
+   "iqr": 42.996249999999975
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

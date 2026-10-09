@@ -1,0 +1,127 @@
+{
+ "slug": "ne-obliviscaris",
+ "name": "Ne Obliviscaris",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 523723345,
+  "deezer": 2488591,
+  "spotify": "5kbidtcpyRRMdAQUnI1BG4"
+ },
+ "metadata": {
+  "formed": 2003,
+  "split": null,
+  "country": "AU",
+  "status": "active",
+  "members": 6,
+  "past_members": 8,
+  "full_lengths": 4,
+  "genre": "Extreme Progressive Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 15481,
+  "themes": "Life, Death, Mythological stories, Battles, Grief",
+  "release_year": 2015
+ },
+ "partial": false,
+ "clips": [
+  "ne-obliviscaris/523723343-104",
+  "ne-obliviscaris/933450623-103",
+  "ne-obliviscaris/1265279668-103",
+  "ne-obliviscaris/1651271436-103",
+  "ne-obliviscaris/523723343-103",
+  "ne-obliviscaris/933450623-104",
+  "ne-obliviscaris/1265279668-104",
+  "ne-obliviscaris/1651271436-104",
+  "ne-obliviscaris/523723343-105",
+  "ne-obliviscaris/933450623-102",
+  "ne-obliviscaris/1265279668-102",
+  "ne-obliviscaris/1651271436-102"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 105.5126953125,
+   "iqr": 29.736328125
+  },
+  "onset_rate": {
+   "median": 4.026185872569462,
+   "iqr": 4.309122845225121
+  },
+  "tempo_var": {
+   "median": 15.798572883171634,
+   "iqr": 7.711615861806322
+  },
+  "low_onset_rate": {
+   "median": 4.794669483101392,
+   "iqr": 1.6273659084372483
+  },
+  "lufs": {
+   "median": -14.71216740138845,
+   "iqr": 7.0225180563554
+  },
+  "rms_dbfs": {
+   "median": -13.491635583841408,
+   "iqr": 8.177903674700545
+  },
+  "crest": {
+   "median": 12.274333477020264,
+   "iqr": 3.6280229091644287
+  },
+  "centroid": {
+   "median": 2094.977621548058,
+   "iqr": 718.216226630936
+  },
+  "flatness": {
+   "median": 0.011405710596591234,
+   "iqr": 0.02577861290774308
+  },
+  "sub100_share": {
+   "median": 0.2971012592315674,
+   "iqr": 0.36889957438688725
+  },
+  "lowest_pitch": {
+   "median": 94.207763671875,
+   "iqr": 74.69329833984375
+  },
+  "harmonic_share": {
+   "median": 0.8221755921840668,
+   "iqr": 0.1927390843629837
+  },
+  "clean_share": {
+   "median": 0.4084915673522824,
+   "iqr": 0.7822135002762983
+  },
+  "minor_share": {
+   "median": -0.006707429294504241,
+   "iqr": 0.25011021793716937
+  },
+  "chord_rate": {
+   "median": 1.436730228385783,
+   "iqr": 1.2651620815462623
+  },
+  "repetitiveness": {
+   "median": 0.7739402949810028,
+   "iqr": 0.18394313752651215
+  },
+  "vocal_share": {
+   "median": 0.05130896344780922,
+   "iqr": 0.06659175967797637
+  },
+  "vocal_voiced": {
+   "median": 0.4860264915606102,
+   "iqr": 0.16517761095298394
+  },
+  "song_length": {
+   "median": 575.5905,
+   "iqr": 272.44949999999994
+  },
+  "vocal_presence": {
+   "median": 0.3333333333333333,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

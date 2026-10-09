@@ -1,0 +1,32 @@
+{
+ "id": "superjoint/1610770939-107",
+ "band": "superjoint",
+ "title": "4 Songs",
+ "source": "itunes",
+ "album": "Use Once and Destroy",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 5.5,
+  "tempo_var": 18.10175449987307,
+  "low_onset_rate": 6.4,
+  "lufs": -7.948808702297859,
+  "rms_dbfs": -7.992839400139934,
+  "crest": 7.992839336395264,
+  "centroid": 2510.3520336577144,
+  "flatness": 0.040123652666807175,
+  "sub100_share": 0.19362716376781464,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.6771237254142761,
+  "clean_share": 0.037925696594427245,
+  "minor_share": 0.16035159258459297,
+  "chord_rate": 2.6,
+  "repetitiveness": 0.8737555742263794,
+  "vocal_share": 0.20927101373672485,
+  "vocal_voiced": 0.1157684630738523,
+  "song_length": 378.707
+ }
+}

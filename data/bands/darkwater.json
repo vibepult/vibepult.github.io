@@ -1,0 +1,127 @@
+{
+ "slug": "darkwater",
+ "name": "Darkwater",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 127751845,
+  "deezer": 176805,
+  "spotify": "3VFAEJuUQ6rHfKT9qlZ3Zq"
+ },
+ "metadata": {
+  "formed": 2003,
+  "split": null,
+  "country": "SE",
+  "status": "active",
+  "members": 5,
+  "past_members": 1,
+  "full_lengths": 3,
+  "genre": "Melodic Power/Progressive Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 2510,
+  "themes": "Emotions, Sorrow, Life, Mental disorder",
+  "release_year": 2010
+ },
+ "partial": false,
+ "clips": [
+  "darkwater/1456240171-105",
+  "darkwater/1456114193-105",
+  "darkwater/1451068773-106",
+  "darkwater/1456240171-106",
+  "darkwater/1456114193-104",
+  "darkwater/1451068773-105",
+  "darkwater/1456240171-104",
+  "darkwater/1456114193-106",
+  "darkwater/1451068773-107",
+  "darkwater/1456240171-107",
+  "darkwater/1456114193-103",
+  "darkwater/1451068773-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.90049098320159,
+   "iqr": 23.603703425480774
+  },
+  "onset_rate": {
+   "median": 2.5727494787373324,
+   "iqr": 2.0214460190079038
+  },
+  "tempo_var": {
+   "median": 5.698501946422152,
+   "iqr": 15.011526373562926
+  },
+  "low_onset_rate": {
+   "median": 3.090640607574068,
+   "iqr": 1.6622634619114582
+  },
+  "lufs": {
+   "median": -12.545580228828491,
+   "iqr": 5.462602065741969
+  },
+  "rms_dbfs": {
+   "median": -11.55248426804653,
+   "iqr": 4.91082228367919
+  },
+  "crest": {
+   "median": 11.552484035491943,
+   "iqr": 4.730602264404297
+  },
+  "centroid": {
+   "median": 2259.225761243234,
+   "iqr": 479.4409499750536
+  },
+  "flatness": {
+   "median": 0.019563715904951096,
+   "iqr": 0.013929428067058325
+  },
+  "sub100_share": {
+   "median": 0.35765494406223297,
+   "iqr": 0.117873914539814
+  },
+  "lowest_pitch": {
+   "median": 60.5621337890625,
+   "iqr": 43.06640625
+  },
+  "harmonic_share": {
+   "median": 0.7790023684501648,
+   "iqr": 0.20497757196426392
+  },
+  "clean_share": {
+   "median": 0.2335143522110163,
+   "iqr": 0.327967416602017
+  },
+  "minor_share": {
+   "median": 0.11893235450266404,
+   "iqr": 0.22214783919362827
+  },
+  "chord_rate": {
+   "median": 1.1360192503515494,
+   "iqr": 0.4260072188818307
+  },
+  "repetitiveness": {
+   "median": 0.8107886910438538,
+   "iqr": 0.12272998690605164
+  },
+  "vocal_share": {
+   "median": 0.2985745072364807,
+   "iqr": 0.32446200493723154
+  },
+  "vocal_voiced": {
+   "median": 0.24202898550724639,
+   "iqr": 0.2707144835225699
+  },
+  "song_length": {
+   "median": 423.83349999999996,
+   "iqr": 162.74975000000006
+  },
+  "vocal_presence": {
+   "median": 0.25,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

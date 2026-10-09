@@ -1,0 +1,32 @@
+{
+ "id": "nightwish/1460471435-106",
+ "band": "nightwish",
+ "title": "The Siren",
+ "source": "itunes",
+ "album": "Once",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.733316805340557,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.933303502321982,
+  "lufs": -10.269865441864628,
+  "rms_dbfs": -9.507773199180873,
+  "crest": 9.507772445678711,
+  "centroid": 2007.5667303709442,
+  "flatness": 0.0174663458019495,
+  "sub100_share": 0.4211844801902771,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.85309237241745,
+  "clean_share": 0.3039443155452436,
+  "minor_share": -0.10168555545520974,
+  "chord_rate": 1.1999927438080495,
+  "repetitiveness": 0.9412987232208252,
+  "vocal_share": 7.953099725455104e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 285.227
+ }
+}

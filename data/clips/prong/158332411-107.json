@@ -1,0 +1,32 @@
+{
+ "id": "prong/158332411-107",
+ "band": "prong",
+ "title": "Out of This Misery",
+ "source": "itunes",
+ "album": "Cleansing",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.23065359960962,
+  "tempo_var": 2.862669062606445,
+  "low_onset_rate": 6.362636515948326,
+  "lufs": -10.746937254437677,
+  "rms_dbfs": -10.370081212208888,
+  "crest": 10.370080947875977,
+  "centroid": 2712.5165021187377,
+  "flatness": 0.04681263864040375,
+  "sub100_share": 0.3356812596321106,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6279926896095276,
+  "clean_share": 0.01237432327919567,
+  "minor_share": 0.05506554375774542,
+  "chord_rate": 2.465105247016629,
+  "repetitiveness": 0.9031776785850525,
+  "vocal_share": 0.10083962976932526,
+  "vocal_voiced": 0.1919805589307412,
+  "song_length": 265.867
+ }
+}

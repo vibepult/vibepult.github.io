@@ -1,0 +1,32 @@
+{
+ "id": "anathema/684127793-105",
+ "band": "anathema",
+ "title": "Everwake         ",
+ "source": "itunes",
+ "album": "Falling Deeper",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 2.7063988023081027,
+  "tempo_var": 2.5671240268256725,
+  "low_onset_rate": 4.945024972118508,
+  "lufs": -26.577954968803066,
+  "rms_dbfs": -25.602904471125186,
+  "crest": 21.753995895385742,
+  "centroid": 1126.5305810646419,
+  "flatness": 0.0011987948091700673,
+  "sub100_share": 0.016966870054602623,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.9669468998908997,
+  "clean_share": 0.9899146625290923,
+  "minor_share": 0.16100675607781612,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.6908825039863586,
+  "vocal_share": 0.15200912952423096,
+  "vocal_voiced": 0.75,
+  "song_length": 185.771
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "meathook-seed/567237242-107",
+ "band": "meathook-seed",
+ "title": "Forgive",
+ "source": "itunes",
+ "album": "Embedded",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 73.828125,
+  "onset_rate": 4.744550986762353,
+  "tempo_var": 12.201067739229172,
+  "low_onset_rate": 8.620381370314698,
+  "lufs": -13.748119809195243,
+  "rms_dbfs": -13.335604780481404,
+  "crest": 13.335604667663574,
+  "centroid": 2591.008510982529,
+  "flatness": 0.03577820956707001,
+  "sub100_share": 0.33953240513801575,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7077756524085999,
+  "clean_share": 0.0,
+  "minor_share": 0.21323248565365754,
+  "chord_rate": 2.7063988023081027,
+  "repetitiveness": 0.9735545516014099,
+  "vocal_share": 0.10687808692455292,
+  "vocal_voiced": 0.8812199036918138,
+  "song_length": 204.667
+ }
+}

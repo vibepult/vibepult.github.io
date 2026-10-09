@@ -1,0 +1,32 @@
+{
+ "id": "sonic-syndicate/80083147-106",
+ "band": "sonic-syndicate",
+ "title": "Lament of Innocence",
+ "source": "itunes",
+ "album": "Eden Fire",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.279148281045435,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.546446928186976,
+  "lufs": -6.79070942593433,
+  "rms_dbfs": -6.515219750756554,
+  "crest": 6.515219688415527,
+  "centroid": 2542.7590207357057,
+  "flatness": 0.0396278016269207,
+  "sub100_share": 0.32113415002822876,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7798194289207458,
+  "clean_share": 0.008533747090768037,
+  "minor_share": 0.2667377169550731,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.8930613398551941,
+  "vocal_share": 0.1483818143606186,
+  "vocal_voiced": 0.036021926389976505,
+  "song_length": 223.493
+ }
+}

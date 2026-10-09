@@ -1,0 +1,32 @@
+{
+ "id": "ram/6799376319-106",
+ "band": "ram",
+ "title": "Suomussalmi (The Few Of Iron)",
+ "source": "itunes",
+ "album": "Lightbringer",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.099938020589258,
+  "tempo_var": 10.090304444328742,
+  "low_onset_rate": 7.966546235128721,
+  "lufs": -15.337993027781508,
+  "rms_dbfs": -13.756960571946559,
+  "crest": 13.75696086883545,
+  "centroid": 1303.9500746851438,
+  "flatness": 0.004887333605438471,
+  "sub100_share": 0.41644278168678284,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.937196671962738,
+  "clean_share": 0.8275328692962104,
+  "minor_share": 0.0010278941387460439,
+  "chord_rate": 1.333313177427401,
+  "repetitiveness": 0.9735569953918457,
+  "vocal_share": 0.05280931293964386,
+  "vocal_voiced": 0.7947598253275109,
+  "song_length": 543.579
+ }
+}

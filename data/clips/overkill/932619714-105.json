@@ -1,0 +1,32 @@
+{
+ "id": "overkill/932619714-105",
+ "band": "overkill",
+ "title": "Hammerhead",
+ "source": "itunes",
+ "album": "Feel the Fire",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 3.733310758513932,
+  "tempo_var": 22.425932140679656,
+  "low_onset_rate": 4.899970370549536,
+  "lufs": -14.207576682098432,
+  "rms_dbfs": -14.469515793039587,
+  "crest": 13.725495338439941,
+  "centroid": 2789.857785141221,
+  "flatness": 0.043132420629262924,
+  "sub100_share": 0.13959211111068726,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7025077939033508,
+  "clean_share": 0.006187161639597835,
+  "minor_share": 0.04050221952369182,
+  "chord_rate": 1.7333228521671826,
+  "repetitiveness": 0.9499428868293762,
+  "vocal_share": 0.021230533719062805,
+  "vocal_voiced": 0.5972222222222222,
+  "song_length": 241.267
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "exodus/1004701980-104",
+ "band": "exodus",
+ "title": "A Lesson in Violence",
+ "source": "itunes",
+ "album": "Bonded by Blood",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 4.23065359960962,
+  "tempo_var": 6.905771869628194,
+  "low_onset_rate": 6.12945088447378,
+  "lufs": -8.16717912547167,
+  "rms_dbfs": -8.314140589958482,
+  "crest": 8.314141273498535,
+  "centroid": 2597.468534758,
+  "flatness": 0.03848416358232498,
+  "sub100_share": 0.2852930724620819,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.5599166750907898,
+  "clean_share": 0.0030935808197989174,
+  "minor_share": 0.06503056259234458,
+  "chord_rate": 2.498417480084421,
+  "repetitiveness": 0.9083172082901001,
+  "vocal_share": 0.331299364566803,
+  "vocal_voiced": 0.19306930693069307,
+  "song_length": 228.88
+ }
+}

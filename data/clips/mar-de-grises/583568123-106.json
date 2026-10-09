@@ -1,0 +1,32 @@
+{
+ "id": "mar-de-grises/583568123-106",
+ "band": "mar-de-grises",
+ "title": "Catatonic North",
+ "source": "itunes",
+ "album": "Streams Inwards",
+ "year": 2010,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.644313994084275,
+  "tempo_var": 16.435017087651186,
+  "low_onset_rate": 4.644313994084275,
+  "lufs": -15.437692807977964,
+  "rms_dbfs": -14.78730155712061,
+  "crest": 14.787302017211914,
+  "centroid": 2236.6484120582895,
+  "flatness": 0.019381020218133926,
+  "sub100_share": 0.15730728209018707,
+  "lowest_pitch": 131.890869140625,
+  "harmonic_share": 0.8018785119056702,
+  "clean_share": 0.3297129557796742,
+  "minor_share": 0.1868968460527206,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.6762077808380127,
+  "vocal_share": 0.09805040061473846,
+  "vocal_voiced": 0.5158311345646438,
+  "song_length": 396.907
+ }
+}

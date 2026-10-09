@@ -1,0 +1,32 @@
+{
+ "id": "underoath/1576451556-105",
+ "band": "underoath",
+ "title": "Thorn",
+ "source": "itunes",
+ "album": "Voyeurist",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.499918368827776,
+  "tempo_var": 22.2651966127033,
+  "low_onset_rate": 5.733229329173167,
+  "lufs": -8.363859255846682,
+  "rms_dbfs": -7.867144875172811,
+  "crest": 7.86714506149292,
+  "centroid": 2550.7743150717856,
+  "flatness": 0.03784627094864845,
+  "sub100_share": 0.4219711422920227,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7975894808769226,
+  "clean_share": 0.0,
+  "minor_share": 0.1562959767978288,
+  "chord_rate": 1.7333018902151436,
+  "repetitiveness": 0.7978801727294922,
+  "vocal_share": 0.16089221835136414,
+  "vocal_voiced": 0.49729311678267596,
+  "song_length": 276.276
+ }
+}

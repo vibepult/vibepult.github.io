@@ -1,0 +1,127 @@
+{
+ "slug": "jesu",
+ "name": "Jesu",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 76800380,
+  "deezer": 7243,
+  "spotify": "1binm59tmJzoZLvLETVYBP"
+ },
+ "metadata": {
+  "formed": 2003,
+  "split": null,
+  "country": "GB",
+  "status": "active",
+  "members": 1,
+  "past_members": 2,
+  "full_lengths": 6,
+  "genre": "Drone/Doom Metal/Shoegaze/Post-Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 4792,
+  "themes": "Personal issues, Introspection, Drug trips",
+  "release_year": 2009
+ },
+ "partial": false,
+ "clips": [
+  "jesu/1534596093-104",
+  "jesu/1534596370-104",
+  "jesu/1569593715-105",
+  "jesu/1290392740-103",
+  "jesu/1538677074-104",
+  "jesu/1534596093-105",
+  "jesu/1534596370-105",
+  "jesu/1569593715-106",
+  "jesu/1290392740-102",
+  "jesu/1538677074-105",
+  "jesu/1534596093-103",
+  "jesu/1534596370-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 95.703125,
+   "iqr": 32.02979587088558
+  },
+  "onset_rate": {
+   "median": 3.107346773020414,
+   "iqr": 0.8854267686563544
+  },
+  "tempo_var": {
+   "median": 5.998338477185859,
+   "iqr": 9.6316765050111
+  },
+  "low_onset_rate": {
+   "median": 5.947394898899287,
+   "iqr": 3.951008128060902
+  },
+  "lufs": {
+   "median": -10.405102805835195,
+   "iqr": 1.8406437871911567
+  },
+  "rms_dbfs": {
+   "median": -9.45047985325314,
+   "iqr": 2.4809487427022248
+  },
+  "crest": {
+   "median": 9.450479507446289,
+   "iqr": 2.480949640274048
+  },
+  "centroid": {
+   "median": 2046.7811941146003,
+   "iqr": 787.5548272200554
+  },
+  "flatness": {
+   "median": 0.01057053403928876,
+   "iqr": 0.011432458646595478
+  },
+  "sub100_share": {
+   "median": 0.40491631627082825,
+   "iqr": 0.16263587772846222
+  },
+  "lowest_pitch": {
+   "median": 64.599609375,
+   "iqr": 19.51446533203125
+  },
+  "harmonic_share": {
+   "median": 0.9388575255870819,
+   "iqr": 0.06510816514492035
+  },
+  "clean_share": {
+   "median": 0.5011636927851048,
+   "iqr": 0.5141582622187743
+  },
+  "minor_share": {
+   "median": 0.02109860300061106,
+   "iqr": 0.2745269855271532
+  },
+  "chord_rate": {
+   "median": 1.1026069194588568,
+   "iqr": 0.7350712796392378
+  },
+  "repetitiveness": {
+   "median": 0.7071194648742676,
+   "iqr": 0.14970941841602325
+  },
+  "vocal_share": {
+   "median": 0.049709752202034,
+   "iqr": 0.05933628557249904
+  },
+  "vocal_voiced": {
+   "median": 0.9014638525342016,
+   "iqr": 0.07878656062006617
+  },
+  "song_length": {
+   "median": 436.2265,
+   "iqr": 181.7947499999999
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.0,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

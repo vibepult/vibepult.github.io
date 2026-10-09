@@ -1,0 +1,32 @@
+{
+ "id": "morbific/1583776698-106",
+ "band": "morbific",
+ "title": "Cauldron of Execution",
+ "source": "itunes",
+ "album": "Ominous Seep of Putridity",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 5.145498957474664,
+  "tempo_var": 5.539794763569075,
+  "low_onset_rate": 8.65379370120739,
+  "lufs": -9.437724854594249,
+  "rms_dbfs": -7.572646547022652,
+  "crest": 7.572646617889404,
+  "centroid": 2323.866848798758,
+  "flatness": 0.009408890269696712,
+  "sub100_share": 0.6625562310218811,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.960884153842926,
+  "clean_share": 0.3343677269200931,
+  "minor_share": -0.0481936860434527,
+  "chord_rate": 2.6395741405227175,
+  "repetitiveness": 0.795292317867279,
+  "vocal_share": 0.005707937758415937,
+  "vocal_voiced": 0.3620309050772627,
+  "song_length": 226.27
+ }
+}

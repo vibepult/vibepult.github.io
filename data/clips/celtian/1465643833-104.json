@@ -1,0 +1,32 @@
+{
+ "id": "celtian/1465643833-104",
+ "band": "celtian",
+ "title": "Niamh (feat. Antón Dávila)",
+ "source": "itunes",
+ "album": "En Tierra de Hadas",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.243366023371963,
+  "tempo_var": 1.7006514766631031,
+  "low_onset_rate": 3.2744084274838774,
+  "lufs": -8.607463021442056,
+  "rms_dbfs": -8.410603703273704,
+  "crest": 8.410604476928711,
+  "centroid": 2594.4166124072867,
+  "flatness": 0.02466662786900997,
+  "sub100_share": 0.22614970803260803,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8290969133377075,
+  "clean_share": 0.17222653219550038,
+  "minor_share": -0.15167775980302856,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.7071171998977661,
+  "vocal_share": 0.31421399116516113,
+  "vocal_voiced": 0.946993670886076,
+  "song_length": 226.386
+ }
+}

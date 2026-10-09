@@ -1,0 +1,32 @@
+{
+ "id": "edenbridge/1708331466-107",
+ "band": "edenbridge",
+ "title": "Velvet Eyes of Dawn",
+ "source": "itunes",
+ "album": "Arcana (The Definitive Edition)",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 3.766609726232408,
+  "tempo_var": 16.35998406811528,
+  "low_onset_rate": 4.366600656074739,
+  "lufs": -12.374519762330355,
+  "rms_dbfs": -11.94293958817024,
+  "crest": 11.942939758300781,
+  "centroid": 2289.847460232379,
+  "flatness": 0.011661913245916367,
+  "sub100_share": 0.18647898733615875,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.8912768959999084,
+  "clean_share": 0.23356535189481825,
+  "minor_share": 0.12121156190718119,
+  "chord_rate": 0.8666535653278107,
+  "repetitiveness": 0.7341359257698059,
+  "vocal_share": 0.28350526094436646,
+  "vocal_voiced": 0.9508571428571428,
+  "song_length": 378.875
+ }
+}

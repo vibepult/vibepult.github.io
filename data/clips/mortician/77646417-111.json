@@ -1,0 +1,32 @@
+{
+ "id": "mortician/77646417-111",
+ "band": "mortician",
+ "title": "Darkest Day of Horror",
+ "source": "itunes",
+ "album": "Darkest Day of Horror",
+ "year": 2002,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 5.379385273723512,
+  "tempo_var": 11.850990758842284,
+  "low_onset_rate": 8.453319715851235,
+  "lufs": -10.864412458769156,
+  "rms_dbfs": -8.938569255604515,
+  "crest": 8.938569068908691,
+  "centroid": 2319.138618545748,
+  "flatness": 0.01773674041032791,
+  "sub100_share": 0.543663501739502,
+  "lowest_pitch": 24.224853515625,
+  "harmonic_share": 0.8032693266868591,
+  "clean_share": 0.07137315748642359,
+  "minor_share": -0.0743746572133474,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.8688855171203613,
+  "vocal_share": 0.03839487582445145,
+  "vocal_voiced": 0.0,
+  "song_length": 152.6
+ }
+}

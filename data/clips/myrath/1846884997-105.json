@@ -1,0 +1,32 @@
+{
+ "id": "myrath/1846884997-105",
+ "band": "myrath",
+ "title": "Still the Dawn Will Come",
+ "source": "itunes",
+ "album": "Wilderness of Mirrors",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.533333333333333,
+  "tempo_var": 14.3306953051079,
+  "low_onset_rate": 5.333333333333333,
+  "lufs": -12.781458089252306,
+  "rms_dbfs": -12.022164485574153,
+  "crest": 12.022165298461914,
+  "centroid": 2533.440271447245,
+  "flatness": 0.03000612184405327,
+  "sub100_share": 0.2623300552368164,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7231498956680298,
+  "clean_share": 0.04643962848297214,
+  "minor_share": 0.0779501756613048,
+  "chord_rate": 1.7333333333333334,
+  "repetitiveness": 0.8554341793060303,
+  "vocal_share": 0.24031665921211243,
+  "vocal_voiced": 0.8048452220726783,
+  "song_length": 300.52
+ }
+}

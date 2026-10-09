@@ -1,0 +1,32 @@
+{
+ "id": "skyclad/423811529-107",
+ "band": "skyclad",
+ "title": "Eirenarch",
+ "source": "itunes",
+ "album": "The Answer Machine?",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.746920913543131,
+  "tempo_var": 0.86084040546522,
+  "low_onset_rate": 6.74929084032391,
+  "lufs": -11.036716704989471,
+  "rms_dbfs": -10.311090689758359,
+  "crest": 10.311090469360352,
+  "centroid": 2382.6620102306797,
+  "flatness": 0.024400699883699417,
+  "sub100_share": 0.3052982687950134,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.7795674800872803,
+  "clean_share": 0.18929402637703646,
+  "minor_share": -0.31493707804490245,
+  "chord_rate": 2.505924816951947,
+  "repetitiveness": 0.8884340524673462,
+  "vocal_share": 0.06150549650192261,
+  "vocal_voiced": 0.8701825557809331,
+  "song_length": 240.64
+ }
+}

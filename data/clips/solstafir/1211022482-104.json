@@ -1,0 +1,32 @@
+{
+ "id": "solstafir/1211022482-104",
+ "band": "solstafir",
+ "title": "Nárós",
+ "source": "itunes",
+ "album": "Berdreyminn",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 1.8376781990980944,
+  "tempo_var": 17.092645899590956,
+  "low_onset_rate": 2.9736974494496438,
+  "lufs": -12.851853864760217,
+  "rms_dbfs": -11.990040653475102,
+  "crest": 11.99004077911377,
+  "centroid": 1227.9867656456431,
+  "flatness": 0.0027442274149507284,
+  "sub100_share": 0.15498553216457367,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.9181668758392334,
+  "clean_share": 0.8906128782001551,
+  "minor_share": 0.17862892425856036,
+  "chord_rate": 0.5680096251757746,
+  "repetitiveness": 0.6624172925949097,
+  "vocal_share": 0.23783251643180847,
+  "vocal_voiced": 0.9373401534526854,
+  "song_length": 442.982
+ }
+}

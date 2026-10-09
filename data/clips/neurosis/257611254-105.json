@@ -1,0 +1,32 @@
+{
+ "id": "neurosis/257611254-105",
+ "band": "neurosis",
+ "title": "Lexicon",
+ "source": "itunes",
+ "album": "Enemy of the Sun",
+ "year": 1993,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.5082947437327254,
+  "tempo_var": 4.281919590888849,
+  "low_onset_rate": 4.777963317655045,
+  "lufs": -10.306751276165434,
+  "rms_dbfs": -9.47131724259189,
+  "crest": 9.471317291259766,
+  "centroid": 1978.1049206638388,
+  "flatness": 0.015234950929880142,
+  "sub100_share": 0.5337603688240051,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.9226449728012085,
+  "clean_share": 0.6058960434445306,
+  "minor_share": -0.0802628954611817,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.8322703242301941,
+  "vocal_share": 0.02860412746667862,
+  "vocal_voiced": 0.31370038412291934,
+  "song_length": 392.333
+ }
+}

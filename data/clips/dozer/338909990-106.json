@@ -1,0 +1,32 @@
+{
+ "id": "dozer/338909990-106",
+ "band": "dozer",
+ "title": "A Matter of Time",
+ "source": "itunes",
+ "album": "Call It Conspiracy",
+ "year": 2002,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.199923810905925,
+  "tempo_var": 18.655435055825475,
+  "low_onset_rate": 6.33321844501687,
+  "lufs": -8.235284330616826,
+  "rms_dbfs": -8.103935745750585,
+  "crest": 8.103935241699219,
+  "centroid": 2552.8249662046037,
+  "flatness": 0.03534315526485443,
+  "sub100_share": 0.3002597987651825,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7588168978691101,
+  "clean_share": 0.04021655065738593,
+  "minor_share": -0.018363107125133393,
+  "chord_rate": 1.8666328048470775,
+  "repetitiveness": 0.8244940042495728,
+  "vocal_share": 0.09516744315624237,
+  "vocal_voiced": 0.6630076838638859,
+  "song_length": 204.76
+ }
+}

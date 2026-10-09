@@ -1,0 +1,32 @@
+{
+ "id": "tiamat/1183589928-108",
+ "band": "tiamat",
+ "title": "Messinian Letter",
+ "source": "itunes",
+ "album": "The Scarred People",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.6666666666666665,
+  "tempo_var": 2.9874842477311145,
+  "low_onset_rate": 3.7666666666666666,
+  "lufs": -8.015662464361005,
+  "rms_dbfs": -7.418239982364545,
+  "crest": 7.418240547180176,
+  "centroid": 2142.895198929302,
+  "flatness": 0.02001425251364708,
+  "sub100_share": 0.18345725536346436,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7867698669433594,
+  "clean_share": 0.2453560371517028,
+  "minor_share": -0.3123138282945829,
+  "chord_rate": 0.43333333333333335,
+  "repetitiveness": 0.7000835537910461,
+  "vocal_share": 0.2194974720478058,
+  "vocal_voiced": 0.8448448448448449,
+  "song_length": 259.973
+ }
+}

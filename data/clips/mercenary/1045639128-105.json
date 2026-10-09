@@ -1,0 +1,32 @@
+{
+ "id": "mercenary/1045639128-105",
+ "band": "mercenary",
+ "title": "Lost Reality",
+ "source": "itunes",
+ "album": "The Hours That Remain",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.412797604616205,
+  "tempo_var": 19.297438761735396,
+  "low_onset_rate": 7.618011443533918,
+  "lufs": -6.745851844446318,
+  "rms_dbfs": -6.362258250562169,
+  "crest": 6.362257957458496,
+  "centroid": 2414.689782513919,
+  "flatness": 0.029636753723025322,
+  "sub100_share": 0.36774274706840515,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8269366025924683,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": -0.016417974281280556,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.9021965265274048,
+  "vocal_share": 0.23862507939338684,
+  "vocal_voiced": 0.6933852140077821,
+  "song_length": 482.24
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "amorphis/1776752475-105",
+ "band": "amorphis",
+ "title": "Far from the Sun",
+ "source": "itunes",
+ "album": "Far from the Sun",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 69.83741554054055,
+  "onset_rate": 3.3333333333333335,
+  "tempo_var": 9.234957866649813,
+  "low_onset_rate": 3.7,
+  "lufs": -9.750777249055773,
+  "rms_dbfs": -9.333343795057711,
+  "crest": 9.333343505859375,
+  "centroid": 2328.0220268955823,
+  "flatness": 0.029084987938404083,
+  "sub100_share": 0.33781206607818604,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.6991071105003357,
+  "clean_share": 0.033281733746130034,
+  "minor_share": 0.11301295114852838,
+  "chord_rate": 1.5333333333333334,
+  "repetitiveness": 0.8149652481079102,
+  "vocal_share": 0.20352990925312042,
+  "vocal_voiced": 0.8570019723865878,
+  "song_length": 240.387
+ }
+}

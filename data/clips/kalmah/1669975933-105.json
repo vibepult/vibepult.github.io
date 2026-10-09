@@ -1,0 +1,32 @@
+{
+ "id": "kalmah/1669975933-105",
+ "band": "kalmah",
+ "title": "Bird of Ill Omen",
+ "source": "itunes",
+ "album": "Swampsong",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.733333333333333,
+  "tempo_var": 12.178196732479948,
+  "low_onset_rate": 7.033333333333333,
+  "lufs": -7.857320962635996,
+  "rms_dbfs": -7.802563575217168,
+  "crest": 7.802563667297363,
+  "centroid": 2753.5879394921385,
+  "flatness": 0.037395328283309937,
+  "sub100_share": 0.3022546172142029,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8286317586898804,
+  "clean_share": 0.010061919504643963,
+  "minor_share": 0.0814963400530413,
+  "chord_rate": 2.1333333333333333,
+  "repetitiveness": 0.927463948726654,
+  "vocal_share": 0.0333133302628994,
+  "vocal_voiced": 0.11041009463722397,
+  "song_length": 289.733
+ }
+}

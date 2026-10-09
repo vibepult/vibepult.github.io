@@ -1,0 +1,125 @@
+{
+ "slug": "i-spit-ashes",
+ "name": "I Spit Ashes",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 542434598,
+  "deezer": 3098131,
+  "spotify": "43sYM5MNtMWy2lKlhxFNnE"
+ },
+ "metadata": {
+  "formed": 2007,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 5,
+  "past_members": 2,
+  "full_lengths": 2,
+  "genre": "Melodic Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 935,
+  "themes": "Post-apocalyptic Life",
+  "release_year": 2012
+ },
+ "partial": false,
+ "clips": [
+  "i-spit-ashes/1222091860-106",
+  "i-spit-ashes/1222091860-107",
+  "i-spit-ashes/1222091860-105",
+  "i-spit-ashes/1222091860-108",
+  "i-spit-ashes/1222091860-104",
+  "i-spit-ashes/1222091860-109",
+  "i-spit-ashes/1222091860-103",
+  "i-spit-ashes/1222091860-110",
+  "i-spit-ashes/1222091860-102",
+  "i-spit-ashes/1222091860-111"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 110.00658118206522,
+   "iqr": 18.069820804195814
+  },
+  "onset_rate": {
+   "median": 2.3722754933811765,
+   "iqr": 3.015462863065509
+  },
+  "tempo_var": {
+   "median": 12.337010706700784,
+   "iqr": 11.19994336241439
+  },
+  "low_onset_rate": {
+   "median": 3.257702262037531,
+   "iqr": 4.001126624399942
+  },
+  "lufs": {
+   "median": -9.230894694772228,
+   "iqr": 6.098562428176459
+  },
+  "rms_dbfs": {
+   "median": -8.242974166101542,
+   "iqr": 5.68880008839981
+  },
+  "crest": {
+   "median": 8.242974042892456,
+   "iqr": 5.68880021572113
+  },
+  "centroid": {
+   "median": 2435.4867711494235,
+   "iqr": 1311.828068187351
+  },
+  "flatness": {
+   "median": 0.026654060930013657,
+   "iqr": 0.026671382947824895
+  },
+  "sub100_share": {
+   "median": 0.48787762224674225,
+   "iqr": 0.07431274652481079
+  },
+  "lowest_pitch": {
+   "median": 49.7955322265625,
+   "iqr": 21.533203125
+  },
+  "harmonic_share": {
+   "median": 0.7950679957866669,
+   "iqr": 0.1404607892036438
+  },
+  "clean_share": {
+   "median": 0.06400310318076027,
+   "iqr": 0.7891776570985259
+  },
+  "minor_share": {
+   "median": 0.06272922685967039,
+   "iqr": 0.23196397211100458
+  },
+  "chord_rate": {
+   "median": 1.0524884231198177,
+   "iqr": 0.7016589487465451
+  },
+  "repetitiveness": {
+   "median": 0.9082654118537903,
+   "iqr": 0.13773980736732483
+  },
+  "vocal_share": {
+   "median": 0.04477349855005741,
+   "iqr": 0.001907392404973507
+  },
+  "vocal_voiced": {
+   "median": 0.022292993630573247,
+   "iqr": 0.31156086145617057
+  },
+  "song_length": {
+   "median": 211.63299999999998,
+   "iqr": 85.55349999999999
+  },
+  "vocal_presence": {
+   "median": 0.6,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

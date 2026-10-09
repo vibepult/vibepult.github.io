@@ -1,0 +1,32 @@
+{
+ "id": "crystal-lake/1445223849-105",
+ "band": "crystal-lake",
+ "title": "Lost in Forever",
+ "source": "itunes",
+ "album": "Helix",
+ "year": 2018,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 2.1666535652089784,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 2.5666511464783284,
+  "lufs": -7.772807194841371,
+  "rms_dbfs": -7.120440816831622,
+  "crest": 7.120440483093262,
+  "centroid": 2596.044881963546,
+  "flatness": 0.04333174601197243,
+  "sub100_share": 0.4531298279762268,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7878157496452332,
+  "clean_share": 0.013147718484145398,
+  "minor_share": 0.14316075894968555,
+  "chord_rate": 1.7666559839396285,
+  "repetitiveness": 0.9596595168113708,
+  "vocal_share": 0.04874485358595848,
+  "vocal_voiced": 0.0,
+  "song_length": 249.198
+ }
+}

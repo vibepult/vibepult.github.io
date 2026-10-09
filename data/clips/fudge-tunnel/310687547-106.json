@@ -1,0 +1,32 @@
+{
+ "id": "fudge-tunnel/310687547-106",
+ "band": "fudge-tunnel",
+ "title": "Boston Baby",
+ "source": "itunes",
+ "album": "Hate Songs In E Minor",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 3.3412330892692625,
+  "tempo_var": 29.581223115112724,
+  "low_onset_rate": 5.98080722979198,
+  "lufs": -16.371586702458977,
+  "rms_dbfs": -17.280283684961407,
+  "crest": 17.280017852783203,
+  "centroid": 3218.5753949912146,
+  "flatness": 0.06638918071985245,
+  "sub100_share": 0.1632082760334015,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.6860951781272888,
+  "clean_share": 0.015515903801396431,
+  "minor_share": 0.08054225831571848,
+  "chord_rate": 2.606161809630025,
+  "repetitiveness": 0.9064253568649292,
+  "vocal_share": 0.053773265331983566,
+  "vocal_voiced": 0.3424657534246575,
+  "song_length": 220.56
+ }
+}

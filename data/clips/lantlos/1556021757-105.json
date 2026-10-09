@@ -1,0 +1,32 @@
+{
+ "id": "lantlos/1556021757-105",
+ "band": "lantlos",
+ "title": "Ëin",
+ "source": "itunes",
+ "album": "Lantlôs",
+ "year": 2008,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.112086626581972,
+  "tempo_var": 4.585793418040708,
+  "low_onset_rate": 9.823225282451633,
+  "lufs": -21.23937897828388,
+  "rms_dbfs": -20.5839903548949,
+  "crest": 14.940499305725098,
+  "centroid": 1651.6421603610945,
+  "flatness": 0.004796284716576338,
+  "sub100_share": 0.043922003358602524,
+  "lowest_pitch": 107.666015625,
+  "harmonic_share": 0.9501211047172546,
+  "clean_share": 0.5717610550814585,
+  "minor_share": -0.04933220346139522,
+  "chord_rate": 0.6348342869611598,
+  "repetitiveness": 0.8363010287284851,
+  "vocal_share": 0.0001724042958812788,
+  "vocal_voiced": 1.0,
+  "song_length": 419.107
+ }
+}

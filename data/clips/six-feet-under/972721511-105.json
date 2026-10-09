@@ -1,0 +1,32 @@
+{
+ "id": "six-feet-under/972721511-105",
+ "band": "six-feet-under",
+ "title": "Lost Remains",
+ "source": "itunes",
+ "album": "Crypt of the Devil",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 5.245735950152742,
+  "tempo_var": 17.320314390111317,
+  "low_onset_rate": 7.918722421568152,
+  "lufs": -8.132863579348172,
+  "rms_dbfs": -7.094991886088611,
+  "crest": 7.094992637634277,
+  "centroid": 2261.118528694313,
+  "flatness": 0.021682070568203926,
+  "sub100_share": 0.42411887645721436,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7227047085762024,
+  "clean_share": 0.04965089216446858,
+  "minor_share": 0.04151025396886482,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.908735454082489,
+  "vocal_share": 0.11251940578222275,
+  "vocal_voiced": 0.06786703601108034,
+  "song_length": 205.467
+ }
+}

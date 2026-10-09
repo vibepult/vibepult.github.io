@@ -1,0 +1,32 @@
+{
+ "id": "sonic-syndicate/80083147-105",
+ "band": "sonic-syndicate",
+ "title": "Misanthropic Coil",
+ "source": "itunes",
+ "album": "Eden Fire",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.7087687290888813,
+  "tempo_var": 15.424982120268636,
+  "low_onset_rate": 3.3412330892692625,
+  "lufs": -7.91475350153044,
+  "rms_dbfs": -7.413205749074355,
+  "crest": 7.413206100463867,
+  "centroid": 2607.785907272105,
+  "flatness": 0.04365549981594086,
+  "sub100_share": 0.37361419200897217,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7196866273880005,
+  "clean_share": 0.008533747090768037,
+  "minor_share": 0.3031523633321434,
+  "chord_rate": 2.138389177132328,
+  "repetitiveness": 0.8971941471099854,
+  "vocal_share": 0.18441186845302582,
+  "vocal_voiced": 0.08028455284552846,
+  "song_length": 233.64
+ }
+}

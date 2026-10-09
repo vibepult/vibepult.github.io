@@ -1,0 +1,32 @@
+{
+ "id": "panopticon/1631488284-102",
+ "band": "panopticon",
+ "title": "Aptrgangr",
+ "source": "itunes",
+ "album": "Collapse",
+ "year": 2009,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.30782075837657,
+  "tempo_var": 6.20227033175337,
+  "low_onset_rate": 6.281518207826213,
+  "lufs": -19.020346853654274,
+  "rms_dbfs": -18.06764416870321,
+  "crest": 15.979585647583008,
+  "centroid": 2120.3031501538035,
+  "flatness": 0.008503444492816925,
+  "sub100_share": 0.05293692648410797,
+  "lowest_pitch": 104.974365234375,
+  "harmonic_share": 0.9477581977844238,
+  "clean_share": 0.24980605120248253,
+  "minor_share": 0.39253917972639957,
+  "chord_rate": 0.9021329341027009,
+  "repetitiveness": 0.9009575247764587,
+  "vocal_share": 8.098749049167964e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 919.198
+ }
+}

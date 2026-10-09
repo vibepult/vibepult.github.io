@@ -1,0 +1,32 @@
+{
+ "id": "elyose/1474981702-105",
+ "band": "elyose",
+ "title": "Folle alliée",
+ "source": "itunes",
+ "album": "Reconnexion",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.379385273723512,
+  "tempo_var": 14.846559992167037,
+  "low_onset_rate": 5.613271589972361,
+  "lufs": -9.098992375849846,
+  "rms_dbfs": -8.692105610405767,
+  "crest": 8.692105293273926,
+  "centroid": 2362.8412280350476,
+  "flatness": 0.028506146743893623,
+  "sub100_share": 0.32491302490234375,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7375287413597107,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.16539944894505598,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.9118582606315613,
+  "vocal_share": 0.28328046202659607,
+  "vocal_voiced": 0.796,
+  "song_length": 245.636
+ }
+}

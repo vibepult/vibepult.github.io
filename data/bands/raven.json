@@ -1,0 +1,127 @@
+{
+ "slug": "raven",
+ "name": "Raven",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 3222135,
+  "deezer": 59914,
+  "spotify": "1EH9eSje47IiRyVsq3gfkl"
+ },
+ "metadata": {
+  "formed": 1974,
+  "split": null,
+  "country": "GB",
+  "status": "active",
+  "members": 3,
+  "past_members": 7,
+  "full_lengths": 15,
+  "genre": "NWOBHM/Heavy Metal, Speed Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 4436,
+  "themes": "Rock, Life, Social, War",
+  "release_year": 1985
+ },
+ "partial": false,
+ "clips": [
+  "raven/1409625191-107",
+  "raven/1435951839-107",
+  "raven/1435953202-107",
+  "raven/1611041133-107",
+  "raven/1675507815-107",
+  "raven/356200119-108",
+  "raven/1349223818-107",
+  "raven/1678787093-105",
+  "raven/1409625191-108",
+  "raven/1435951839-108",
+  "raven/1435953202-108",
+  "raven/1611041133-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 17.99560546875
+  },
+  "onset_rate": {
+   "median": 5.279148281045435,
+   "iqr": 1.4418237526063136
+  },
+  "tempo_var": {
+   "median": 12.390912929403544,
+   "iqr": 12.498120581311042
+  },
+  "low_onset_rate": {
+   "median": 6.047631891577366,
+   "iqr": 0.9053116766878402
+  },
+  "lufs": {
+   "median": -10.656437388788836,
+   "iqr": 3.635020686534869
+  },
+  "rms_dbfs": {
+   "median": -10.653409636027856,
+   "iqr": 3.991215172962608
+  },
+  "crest": {
+   "median": 10.653409004211426,
+   "iqr": 3.991215467453003
+  },
+  "centroid": {
+   "median": 2666.3192207286493,
+   "iqr": 280.50658134007654
+  },
+  "flatness": {
+   "median": 0.03979185409843922,
+   "iqr": 0.014542583841830492
+  },
+  "sub100_share": {
+   "median": 0.17748792469501495,
+   "iqr": 0.06308776512742043
+  },
+  "lowest_pitch": {
+   "median": 61.907958984375,
+   "iqr": 20.86029052734375
+  },
+  "harmonic_share": {
+   "median": 0.659012645483017,
+   "iqr": 0.1147163063287735
+  },
+  "clean_share": {
+   "median": 0.006971348418506678,
+   "iqr": 0.08308919603119513
+  },
+  "minor_share": {
+   "median": -0.020568058688195612,
+   "iqr": 0.1547230910861211
+  },
+  "chord_rate": {
+   "median": 1.8209720336517479,
+   "iqr": 0.46323118201360947
+  },
+  "repetitiveness": {
+   "median": 0.8831492066383362,
+   "iqr": 0.05364210903644562
+  },
+  "vocal_share": {
+   "median": 0.2042103186249733,
+   "iqr": 0.09401112049818039
+  },
+  "vocal_voiced": {
+   "median": 0.6493621062288758,
+   "iqr": 0.2846690028915653
+  },
+  "song_length": {
+   "median": 239.7265,
+   "iqr": 68.18850000000003
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "prong/1349024487-105",
+ "band": "prong",
+ "title": "The Bars",
+ "source": "itunes",
+ "album": "Songs from the Black Hole",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 6.281518207826213,
+  "tempo_var": 1.7534378016344578,
+  "low_onset_rate": 6.314930538718906,
+  "lufs": -8.747665417331106,
+  "rms_dbfs": -7.8408641106231824,
+  "crest": 7.840864181518555,
+  "centroid": 2815.6011488600657,
+  "flatness": 0.04395686835050583,
+  "sub100_share": 0.43346402049064636,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6415987014770508,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": -0.15481328788310367,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.9545571804046631,
+  "vocal_share": 0.14355117082595825,
+  "vocal_voiced": 0.5555555555555556,
+  "song_length": 258.627
+ }
+}

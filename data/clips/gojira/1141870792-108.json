@@ -1,0 +1,32 @@
+{
+ "id": "gojira/1141870792-108",
+ "band": "gojira",
+ "title": "Space Time",
+ "source": "itunes",
+ "album": "Terra Incognita",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.899851856330875,
+  "tempo_var": 18.32981168524798,
+  "low_onset_rate": 4.299869996371991,
+  "lufs": -8.86610954189092,
+  "rms_dbfs": -7.574365085131959,
+  "crest": 7.574365139007568,
+  "centroid": 2808.37505781671,
+  "flatness": 0.03886521980166435,
+  "sub100_share": 0.5495686531066895,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8398359417915344,
+  "clean_share": 0.009280742459396751,
+  "minor_share": 0.1256878472721872,
+  "chord_rate": 1.6332839521102913,
+  "repetitiveness": 0.93742835521698,
+  "vocal_share": 0.0628618597984314,
+  "vocal_voiced": 0.44576877234803336,
+  "song_length": 320.834
+ }
+}

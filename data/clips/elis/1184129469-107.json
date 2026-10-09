@@ -1,0 +1,32 @@
+{
+ "id": "elis/1184129469-107",
+ "band": "elis",
+ "title": "Morning Star",
+ "source": "itunes",
+ "album": "Catharsis",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.3333333333333335,
+  "tempo_var": 7.260835952200633,
+  "low_onset_rate": 5.366666666666666,
+  "lufs": -8.883995997246783,
+  "rms_dbfs": -8.319238834820764,
+  "crest": 8.319238662719727,
+  "centroid": 2476.8343379602697,
+  "flatness": 0.035545166581869125,
+  "sub100_share": 0.2989007830619812,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6981995105743408,
+  "clean_share": 0.05185758513931889,
+  "minor_share": 0.09442823162081315,
+  "chord_rate": 1.8666666666666667,
+  "repetitiveness": 0.9361758828163147,
+  "vocal_share": 0.15045729279518127,
+  "vocal_voiced": 0.24107142857142858,
+  "song_length": 257.8
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "king-diamond/60371659-107",
+ "band": "king-diamond",
+ "title": "The Crypt",
+ "source": "itunes",
+ "album": "Abigail II - The Revenge",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.847157906221209,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 8.219433399602385,
+  "lufs": -12.49587947682617,
+  "rms_dbfs": -12.832703635346387,
+  "crest": 12.832703590393066,
+  "centroid": 2559.3950642337063,
+  "flatness": 0.03183463588356972,
+  "sub100_share": 0.20462322235107422,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6869943141937256,
+  "clean_share": 0.0,
+  "minor_share": 0.07427147898772785,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.902610719203949,
+  "vocal_share": 0.2555724084377289,
+  "vocal_voiced": 0.4819175777964676,
+  "song_length": 251.187
+ }
+}

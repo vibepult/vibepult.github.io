@@ -1,0 +1,32 @@
+{
+ "id": "saille/420940063-105",
+ "band": "saille",
+ "title": "The Orion Prophecy",
+ "source": "itunes",
+ "album": "Irreversible Decay",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.613271589972361,
+  "tempo_var": 2.332619552656224,
+  "low_onset_rate": 8.78744302477816,
+  "lufs": -9.601160076660495,
+  "rms_dbfs": -8.775439745738323,
+  "crest": 8.775440216064453,
+  "centroid": 1887.2377663290151,
+  "flatness": 0.011561676859855652,
+  "sub100_share": 0.2576398253440857,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8746087551116943,
+  "clean_share": 0.2699767261442979,
+  "minor_share": 0.11421419850668113,
+  "chord_rate": 0.801895941424623,
+  "repetitiveness": 0.9186663627624512,
+  "vocal_share": 0.07188570499420166,
+  "vocal_voiced": 0.6037946428571429,
+  "song_length": 255.0
+ }
+}

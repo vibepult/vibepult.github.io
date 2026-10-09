@@ -1,0 +1,32 @@
+{
+ "id": "van-canto/1183577512-106",
+ "band": "van-canto",
+ "title": "Rebellion",
+ "source": "itunes",
+ "album": "Tribe of Force",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.0,
+  "tempo_var": 20.658551733880625,
+  "low_onset_rate": 5.733333333333333,
+  "lufs": -11.478052970987411,
+  "rms_dbfs": -10.982161314591947,
+  "crest": 10.982161521911621,
+  "centroid": 2671.488266307179,
+  "flatness": 0.04171880707144737,
+  "sub100_share": 0.31154122948646545,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.5626922249794006,
+  "clean_share": 0.03173374613003096,
+  "minor_share": 0.22021768134533637,
+  "chord_rate": 1.5666666666666667,
+  "repetitiveness": 0.9128578901290894,
+  "vocal_share": 0.22475691139698029,
+  "vocal_voiced": 0.30919446704637915,
+  "song_length": 245.68
+ }
+}

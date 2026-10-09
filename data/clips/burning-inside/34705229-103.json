@@ -1,0 +1,32 @@
+{
+ "id": "burning-inside/34705229-103",
+ "band": "burning-inside",
+ "title": "The Fog",
+ "source": "itunes",
+ "album": "Apparation",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.911612641225816,
+  "tempo_var": 14.534895657009288,
+  "low_onset_rate": 4.84478797944043,
+  "lufs": -8.528885344959058,
+  "rms_dbfs": -7.976569510392091,
+  "crest": 7.976569175720215,
+  "centroid": 2328.726218414109,
+  "flatness": 0.016640417277812958,
+  "sub100_share": 0.14976342022418976,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.8655920028686523,
+  "clean_share": 0.06671838634600466,
+  "minor_share": -0.29706925616701196,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.7254979610443115,
+  "vocal_share": 0.0024695394095033407,
+  "vocal_voiced": 0.9629629629629629,
+  "song_length": 441.365
+ }
+}

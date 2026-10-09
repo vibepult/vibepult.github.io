@@ -1,0 +1,32 @@
+{
+ "id": "dissection/1632020898-105",
+ "band": "dissection",
+ "title": "God of Forbidden Light",
+ "source": "itunes",
+ "album": "Reinkaos (Instrumental)",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.9760673762304224,
+  "tempo_var": 11.371772641185204,
+  "low_onset_rate": 3.641944067303496,
+  "lufs": -16.037876806789086,
+  "rms_dbfs": -15.958002859227836,
+  "crest": 15.958003044128418,
+  "centroid": 2682.3945808453946,
+  "flatness": 0.023889407515525818,
+  "sub100_share": 0.17307671904563904,
+  "lowest_pitch": 150.732421875,
+  "harmonic_share": 0.6367325782775879,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.1945268216460515,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.9159831404685974,
+  "vocal_share": 5.997196694806917e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 211.174
+ }
+}

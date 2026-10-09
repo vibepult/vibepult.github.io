@@ -1,0 +1,32 @@
+{
+ "id": "tankard/1458859383-105",
+ "band": "tankard",
+ "title": "Syrian Nightmare",
+ "source": "itunes",
+ "album": "One Foot in the Grave",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 2.3722754933811765,
+  "tempo_var": 22.909445568077647,
+  "low_onset_rate": 2.505924816951947,
+  "lufs": -7.781002690104036,
+  "rms_dbfs": -6.585504979162991,
+  "crest": 6.58550500869751,
+  "centroid": 2556.301788123947,
+  "flatness": 0.029674002900719643,
+  "sub100_share": 0.523497462272644,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.8230652213096619,
+  "clean_share": 0.0643910007757952,
+  "minor_share": 0.19152706465232439,
+  "chord_rate": 2.405687824273869,
+  "repetitiveness": 0.9043234586715698,
+  "vocal_share": 0.06204605475068092,
+  "vocal_voiced": 0.18686868686868688,
+  "song_length": 271.933
+ }
+}

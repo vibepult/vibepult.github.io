@@ -1,0 +1,32 @@
+{
+ "id": "mastodon/65923490-105",
+ "band": "mastodon",
+ "title": "Iron Tusk",
+ "source": "itunes",
+ "album": "Leviathan",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 6.3665704222158395,
+  "tempo_var": 3.003705298374839,
+  "low_onset_rate": 6.5665673988299496,
+  "lufs": -8.254115161463307,
+  "rms_dbfs": -7.97971777601478,
+  "crest": 7.979718208312988,
+  "centroid": 2344.918900464607,
+  "flatness": 0.024653175845742226,
+  "sub100_share": 0.33865538239479065,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.757942259311676,
+  "clean_share": 0.0007733952049497294,
+  "minor_share": 0.06093749637492385,
+  "chord_rate": 1.9999697661411016,
+  "repetitiveness": 0.8583600521087646,
+  "vocal_share": 0.05409810319542885,
+  "vocal_voiced": 0.5835189309576837,
+  "song_length": 183.013
+ }
+}

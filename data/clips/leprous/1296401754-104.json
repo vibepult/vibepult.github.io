@@ -1,0 +1,32 @@
+{
+ "id": "leprous/1296401754-104",
+ "band": "leprous",
+ "title": "Fate",
+ "source": "itunes",
+ "album": "Tall Poppy Syndrome",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.5417070746254184,
+  "tempo_var": 6.452772652332149,
+  "low_onset_rate": 3.4414700819473403,
+  "lufs": -16.934609732107727,
+  "rms_dbfs": -16.07961954503883,
+  "crest": 16.07935333251953,
+  "centroid": 1387.6740376201217,
+  "flatness": 0.00412657018750906,
+  "sub100_share": 0.040671221911907196,
+  "lowest_pitch": 148.040771484375,
+  "harmonic_share": 0.9257957935333252,
+  "clean_share": 0.8456167571761055,
+  "minor_share": -0.18379148935163037,
+  "chord_rate": 1.336493235707705,
+  "repetitiveness": 0.5452478528022766,
+  "vocal_share": 0.3478626608848572,
+  "vocal_voiced": 0.8770642201834863,
+  "song_length": 278.427
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "king-of-asgard/1555258750-103",
+ "band": "king-of-asgard",
+ "title": ":Taudr:",
+ "source": "itunes",
+ "album": "Taudr",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.7087687290888813,
+  "tempo_var": 27.265059429427698,
+  "low_onset_rate": 7.250475803714299,
+  "lufs": -9.10510510524799,
+  "rms_dbfs": -7.931726729290269,
+  "crest": 7.931726455688477,
+  "centroid": 2442.1587842591643,
+  "flatness": 0.02178889513015747,
+  "sub100_share": 0.580565333366394,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.8716277480125427,
+  "clean_share": 0.1008533747090768,
+  "minor_share": 0.12105292620691455,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.8441041707992554,
+  "vocal_share": 0.02881672978401184,
+  "vocal_voiced": 0.0,
+  "song_length": 401.213
+ }
+}

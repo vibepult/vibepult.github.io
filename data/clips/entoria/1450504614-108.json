@@ -1,0 +1,32 @@
+{
+ "id": "entoria/1450504614-108",
+ "band": "entoria",
+ "title": "Knochen und Staub",
+ "source": "itunes",
+ "album": "Aschheim",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.045261964796587,
+  "tempo_var": 0.8863482622415279,
+  "low_onset_rate": 7.217063472821607,
+  "lufs": -7.914143766153528,
+  "rms_dbfs": -6.838430970018256,
+  "crest": 6.838430881500244,
+  "centroid": 2193.6525488588018,
+  "flatness": 0.017290735617280006,
+  "sub100_share": 0.394502192735672,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.9007523059844971,
+  "clean_share": 0.0682699767261443,
+  "minor_share": 0.03678754726053829,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.8683335781097412,
+  "vocal_share": 0.07484535127878189,
+  "vocal_voiced": 0.06201550387596899,
+  "song_length": 239.217
+ }
+}

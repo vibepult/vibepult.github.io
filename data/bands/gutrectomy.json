@@ -1,0 +1,127 @@
+{
+ "slug": "gutrectomy",
+ "name": "Gutrectomy",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 873320671,
+  "deezer": 5843821,
+  "spotify": "0GAUayKtM7XULaNosOHwaD"
+ },
+ "metadata": {
+  "formed": 2011,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 4,
+  "past_members": 3,
+  "full_lengths": 3,
+  "genre": "Slam/Brutal Death Metal (early); Brutal Deathcore (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 1666,
+  "themes": "Gore, Sickness, Corpses",
+  "release_year": 2022
+ },
+ "partial": false,
+ "clips": [
+  "gutrectomy/1567142533-107",
+  "gutrectomy/1594012458-107",
+  "gutrectomy/1808435741-106",
+  "gutrectomy/1567142533-106",
+  "gutrectomy/1594012458-108",
+  "gutrectomy/1808435741-109",
+  "gutrectomy/1567142533-108",
+  "gutrectomy/1594012458-105",
+  "gutrectomy/1808435741-105",
+  "gutrectomy/1567142533-105",
+  "gutrectomy/1594012458-109",
+  "gutrectomy/1808435741-110"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.72650642942585,
+   "iqr": 28.781691438567165
+  },
+  "onset_rate": {
+   "median": 6.015024728252623,
+   "iqr": 2.917846045253482
+  },
+  "tempo_var": {
+   "median": 14.246726311394138,
+   "iqr": 7.155347392708068
+  },
+  "low_onset_rate": {
+   "median": 5.74831231062707,
+   "iqr": 2.2099140365616465
+  },
+  "lufs": {
+   "median": -8.139116030975325,
+   "iqr": 0.7123585865492279
+  },
+  "rms_dbfs": {
+   "median": -7.123717332137173,
+   "iqr": 1.113939784646007
+  },
+  "crest": {
+   "median": 7.123717784881592,
+   "iqr": 1.1139402389526367
+  },
+  "centroid": {
+   "median": 2515.984984842842,
+   "iqr": 81.85099323087798
+  },
+  "flatness": {
+   "median": 0.03151268512010574,
+   "iqr": 0.010523287579417229
+  },
+  "sub100_share": {
+   "median": 0.5217821300029755,
+   "iqr": 0.0534823015332222
+  },
+  "lowest_pitch": {
+   "median": 47.1038818359375,
+   "iqr": 14.13116455078125
+  },
+  "harmonic_share": {
+   "median": 0.8158167600631714,
+   "iqr": 0.059661343693733215
+  },
+  "clean_share": {
+   "median": 0.0328692962103635,
+   "iqr": 0.04093279621666346
+  },
+  "minor_share": {
+   "median": 0.0059608895011119545,
+   "iqr": 0.08625434612230504
+  },
+  "chord_rate": {
+   "median": 2.2859844819394075,
+   "iqr": 0.3417024372836184
+  },
+  "repetitiveness": {
+   "median": 0.8745241165161133,
+   "iqr": 0.07853822410106659
+  },
+  "vocal_share": {
+   "median": 0.11580510064959526,
+   "iqr": 0.04288243129849434
+  },
+  "vocal_voiced": {
+   "median": 0.25949118090617007,
+   "iqr": 0.22334135688638407
+  },
+  "song_length": {
+   "median": 191.1395,
+   "iqr": 41.137249999999995
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

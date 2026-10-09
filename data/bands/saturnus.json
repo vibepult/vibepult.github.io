@@ -1,0 +1,127 @@
+{
+ "slug": "saturnus",
+ "name": "Saturnus",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 141939727,
+  "deezer": 194121,
+  "spotify": "7HY8HFHBM9zrY5R9rlY3Id"
+ },
+ "metadata": {
+  "formed": 1993,
+  "split": null,
+  "country": "DK",
+  "status": "active",
+  "members": 6,
+  "past_members": 20,
+  "full_lengths": 5,
+  "genre": "Melodic Doom/Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 9044,
+  "themes": "Sorrow, Loss, Death",
+  "release_year": 2009
+ },
+ "partial": false,
+ "clips": [
+  "saturnus/378025286-107",
+  "saturnus/1166875909-104",
+  "saturnus/964099368-104",
+  "saturnus/1673921447-104",
+  "saturnus/378025286-106",
+  "saturnus/1166875909-105",
+  "saturnus/964099368-105",
+  "saturnus/1673921447-103",
+  "saturnus/378025286-108",
+  "saturnus/1166875909-103",
+  "saturnus/964099368-103",
+  "saturnus/1673921447-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.69701086956522,
+   "iqr": 25.20094651442308
+  },
+  "onset_rate": {
+   "median": 2.773223464093488,
+   "iqr": 1.3949648147699172
+  },
+  "tempo_var": {
+   "median": 10.183616775983523,
+   "iqr": 17.806799427777833
+  },
+  "low_onset_rate": {
+   "median": 5.847157906221209,
+   "iqr": 2.405687824273869
+  },
+  "lufs": {
+   "median": -14.347502701118852,
+   "iqr": 9.738313522279228
+  },
+  "rms_dbfs": {
+   "median": -14.167481307778788,
+   "iqr": 8.126317518586394
+  },
+  "crest": {
+   "median": 13.602412223815918,
+   "iqr": 4.09867000579834
+  },
+  "centroid": {
+   "median": 1453.4511837447121,
+   "iqr": 610.3462816142342
+  },
+  "flatness": {
+   "median": 0.006204841425642371,
+   "iqr": 0.00920079820934916
+  },
+  "sub100_share": {
+   "median": 0.1921621486544609,
+   "iqr": 0.14737945515662432
+  },
+  "lowest_pitch": {
+   "median": 80.74951171875,
+   "iqr": 41.7205810546875
+  },
+  "harmonic_share": {
+   "median": 0.9297566711902618,
+   "iqr": 0.09088855981826782
+  },
+  "clean_share": {
+   "median": 0.7742435996896819,
+   "iqr": 0.3807214895267649
+  },
+  "minor_share": {
+   "median": 0.06335854847578032,
+   "iqr": 0.1585488210732243
+  },
+  "chord_rate": {
+   "median": 0.8854267686563546,
+   "iqr": 0.3508294743732725
+  },
+  "repetitiveness": {
+   "median": 0.6893119812011719,
+   "iqr": 0.13430826365947723
+  },
+  "vocal_share": {
+   "median": 0.13086073845624924,
+   "iqr": 0.03446165844798088
+  },
+  "vocal_voiced": {
+   "median": 0.7145114878263333,
+   "iqr": 0.07907533759811125
+  },
+  "song_length": {
+   "median": 424.312,
+   "iqr": 109.33550000000002
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

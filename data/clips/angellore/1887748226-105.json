@@ -1,0 +1,32 @@
+{
+ "id": "angellore/1887748226-105",
+ "band": "angellore",
+ "title": "Errance",
+ "source": "itunes",
+ "album": "Errances",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.1999516258257623,
+  "tempo_var": 1.4417104060305912,
+  "low_onset_rate": 8.199876041178516,
+  "lufs": -15.983877570086571,
+  "rms_dbfs": -16.022012966368273,
+  "crest": 13.233598709106445,
+  "centroid": 1865.5987802719576,
+  "flatness": 0.005780959036201239,
+  "sub100_share": 0.0009684195392765105,
+  "lowest_pitch": 164.190673828125,
+  "harmonic_share": 0.9837158918380737,
+  "clean_share": 0.8422273781902552,
+  "minor_share": 0.31222029152158415,
+  "chord_rate": 0.46665961209959034,
+  "repetitiveness": 0.7919718027114868,
+  "vocal_share": 0.37725114822387695,
+  "vocal_voiced": 0.8245888801879405,
+  "song_length": 133.024
+ }
+}

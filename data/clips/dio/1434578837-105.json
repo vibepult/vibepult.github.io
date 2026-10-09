@@ -1,0 +1,32 @@
+{
+ "id": "dio/1434578837-105",
+ "band": "dio",
+ "title": "The Man Who Would Be King",
+ "source": "itunes",
+ "album": "Master of the Moon",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 67.99958881578948,
+  "onset_rate": 2.0333025955767865,
+  "tempo_var": 25.949333213103184,
+  "low_onset_rate": 2.966621819775967,
+  "lufs": -9.27409386312467,
+  "rms_dbfs": -8.303310685305128,
+  "crest": 8.30331039428711,
+  "centroid": 1898.777185700944,
+  "flatness": 0.011728552170097828,
+  "sub100_share": 0.32453131675720215,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.8456411361694336,
+  "clean_share": 0.4508894044856922,
+  "minor_share": 0.2622187051802605,
+  "chord_rate": 1.7999727895269915,
+  "repetitiveness": 0.658154308795929,
+  "vocal_share": 0.1042579784989357,
+  "vocal_voiced": 0.7203947368421053,
+  "song_length": 298.76
+ }
+}

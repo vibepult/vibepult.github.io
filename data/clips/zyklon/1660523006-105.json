@@ -1,0 +1,32 @@
+{
+ "id": "zyklon/1660523006-105",
+ "band": "zyklon",
+ "title": "Zycloned",
+ "source": "itunes",
+ "album": "World Ov Worms",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 7.3507127963923775,
+  "tempo_var": 3.0549918562534875,
+  "low_onset_rate": 9.355452649953936,
+  "lufs": -7.285845690249022,
+  "rms_dbfs": -7.64959677418063,
+  "crest": 7.64959716796875,
+  "centroid": 2976.7847803356112,
+  "flatness": 0.07257124781608582,
+  "sub100_share": 0.25192949175834656,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.6992377638816833,
+  "clean_share": 0.0,
+  "minor_share": -0.08512167112769509,
+  "chord_rate": 2.138389177132328,
+  "repetitiveness": 0.9485347867012024,
+  "vocal_share": 0.02491717040538788,
+  "vocal_voiced": 0.0725925925925926,
+  "song_length": 324.173
+ }
+}

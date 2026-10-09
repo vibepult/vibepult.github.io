@@ -1,0 +1,32 @@
+{
+ "id": "ithilien/1175067135-108",
+ "band": "ithilien",
+ "title": "Hopeless",
+ "source": "itunes",
+ "album": "Shaping the Soul",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.443840008728119,
+  "tempo_var": 15.329806477261181,
+  "low_onset_rate": 3.240996096591185,
+  "lufs": -11.812795502540629,
+  "rms_dbfs": -11.70751143455935,
+  "crest": 11.707510948181152,
+  "centroid": 2380.8682130653597,
+  "flatness": 0.022984886541962624,
+  "sub100_share": 0.183417409658432,
+  "lowest_pitch": 131.890869140625,
+  "harmonic_share": 0.8226084113121033,
+  "clean_share": 0.2730799069045772,
+  "minor_share": -0.027642796194023544,
+  "chord_rate": 0.5680096251757746,
+  "repetitiveness": 0.594807505607605,
+  "vocal_share": 0.11986412853002548,
+  "vocal_voiced": 0.10056657223796034,
+  "song_length": 285.547
+ }
+}

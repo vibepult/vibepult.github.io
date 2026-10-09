@@ -1,0 +1,32 @@
+{
+ "id": "body-count/1820880340-107",
+ "band": "body-count",
+ "title": "Institutionalized 2014",
+ "source": "itunes",
+ "album": "Manslaughter",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 6.399903251651525,
+  "tempo_var": 9.49940827080347,
+  "low_onset_rate": 6.8998956931868,
+  "lufs": -5.1015358989954365,
+  "rms_dbfs": -5.510359883425138,
+  "crest": 5.510359764099121,
+  "centroid": 3002.7938744839935,
+  "flatness": 0.06525541096925735,
+  "sub100_share": 0.12444063276052475,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.6242038607597351,
+  "clean_share": 0.0007733952049497294,
+  "minor_share": 0.02838935140821347,
+  "chord_rate": 1.8333056189626764,
+  "repetitiveness": 0.8685117363929749,
+  "vocal_share": 0.4729915261268616,
+  "vocal_voiced": 0.7684377478191912,
+  "song_length": 226.09
+ }
+}

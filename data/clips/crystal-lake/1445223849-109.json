@@ -1,0 +1,32 @@
+{
+ "id": "crystal-lake/1445223849-109",
+ "band": "crystal-lake",
+ "title": "Devilcry",
+ "source": "itunes",
+ "album": "Helix",
+ "year": 2018,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 287.109375,
+  "onset_rate": 1.5999903250773995,
+  "tempo_var": 71.77979708649795,
+  "low_onset_rate": 2.066654169891641,
+  "lufs": -16.90084897691823,
+  "rms_dbfs": -16.95194805381861,
+  "crest": 16.951948165893555,
+  "centroid": 1400.702037192794,
+  "flatness": 0.009007622487843037,
+  "sub100_share": 0.0015663251979276538,
+  "lowest_pitch": 156.11572265625,
+  "harmonic_share": 0.782946765422821,
+  "clean_share": 0.8244392884764115,
+  "minor_share": 0.3295360209487417,
+  "chord_rate": 0.6666626354489164,
+  "repetitiveness": 0.7712456583976746,
+  "vocal_share": 0.2666729986667633,
+  "vocal_voiced": 0.4396355353075171,
+  "song_length": 265.132
+ }
+}

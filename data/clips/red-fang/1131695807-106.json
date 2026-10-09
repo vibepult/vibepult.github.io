@@ -1,0 +1,32 @@
+{
+ "id": "red-fang/1131695807-106",
+ "band": "red-fang",
+ "title": "Not for You",
+ "source": "itunes",
+ "album": "Only Ghosts",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.076304368908501,
+  "tempo_var": 4.343004704453785,
+  "low_onset_rate": 4.744550986762353,
+  "lufs": -9.627166483601638,
+  "rms_dbfs": -9.624129719417985,
+  "crest": 9.624130249023438,
+  "centroid": 2436.190840810374,
+  "flatness": 0.026637287810444832,
+  "sub100_share": 0.23805299401283264,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.625373125076294,
+  "clean_share": 0.041117145073700546,
+  "minor_share": 0.3842052072537367,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.8831352591514587,
+  "vocal_share": 0.24011747539043427,
+  "vocal_voiced": 0.7604373757455268,
+  "song_length": 199.153
+ }
+}

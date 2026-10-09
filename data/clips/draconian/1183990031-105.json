@@ -1,0 +1,32 @@
+{
+ "id": "draconian/1183990031-105",
+ "band": "draconian",
+ "title": "The Morningstar",
+ "source": "itunes",
+ "album": "The Burning Halo",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 2.3,
+  "tempo_var": 3.097090991478289,
+  "low_onset_rate": 3.7333333333333334,
+  "lufs": -12.778386199831816,
+  "rms_dbfs": -11.843893619026504,
+  "crest": 11.843893051147461,
+  "centroid": 1804.8847531779804,
+  "flatness": 0.008505422621965408,
+  "sub100_share": 0.23743711411952972,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8610139489173889,
+  "clean_share": 0.5890092879256966,
+  "minor_share": -0.04241991863359251,
+  "chord_rate": 0.7666666666666667,
+  "repetitiveness": 0.7551078796386719,
+  "vocal_share": 0.07476877421140671,
+  "vocal_voiced": 0.7910447761194029,
+  "song_length": 481.56
+ }
+}

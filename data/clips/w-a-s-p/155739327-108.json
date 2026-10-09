@@ -1,0 +1,32 @@
+{
+ "id": "w-a-s-p/155739327-108",
+ "band": "w-a-s-p",
+ "title": "Forever Free",
+ "source": "itunes",
+ "album": "The Headless Children",
+ "year": 1989,
+ "itunes_year": 1988,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 2.933333333333333,
+  "tempo_var": 17.052144273999183,
+  "low_onset_rate": 2.433333333333333,
+  "lufs": -15.841988063672913,
+  "rms_dbfs": -14.884528837349919,
+  "crest": 14.871264457702637,
+  "centroid": 2040.0541714811286,
+  "flatness": 0.008823122829198837,
+  "sub100_share": 0.4736338257789612,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.9121831655502319,
+  "clean_share": 0.47987616099071206,
+  "minor_share": -0.2144592219946449,
+  "chord_rate": 1.0666666666666667,
+  "repetitiveness": 0.4730428159236908,
+  "vocal_share": 0.2713647484779358,
+  "vocal_voiced": 0.8635043562439496,
+  "song_length": 308.547
+ }
+}

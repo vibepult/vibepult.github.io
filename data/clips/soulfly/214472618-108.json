@@ -1,0 +1,32 @@
+{
+ "id": "soulfly/214472618-108",
+ "band": "soulfly",
+ "title": "Inner Spirit",
+ "source": "itunes",
+ "album": "Dark Ages",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.644313994084275,
+  "tempo_var": 12.27649081760238,
+  "low_onset_rate": 8.119196406924308,
+  "lufs": -9.01498225504129,
+  "rms_dbfs": -7.933793343231665,
+  "crest": 7.933793544769287,
+  "centroid": 2360.4572224823314,
+  "flatness": 0.021158386021852493,
+  "sub100_share": 0.4545239508152008,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8569873571395874,
+  "clean_share": 0.16989914662529093,
+  "minor_share": 0.05807186914365803,
+  "chord_rate": 2.205213838917713,
+  "repetitiveness": 0.9579935669898987,
+  "vocal_share": 0.0026081984397023916,
+  "vocal_voiced": 0.10526315789473684,
+  "song_length": 315.173
+ }
+}

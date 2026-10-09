@@ -1,0 +1,32 @@
+{
+ "id": "sybreed/269013928-105",
+ "band": "sybreed",
+ "title": "Dynamic",
+ "source": "itunes",
+ "album": "Antares",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 69.83741554054055,
+  "onset_rate": 5.045261964796587,
+  "tempo_var": 18.0029168099757,
+  "low_onset_rate": 8.186021068709692,
+  "lufs": -8.025267930097181,
+  "rms_dbfs": -7.252488021799865,
+  "crest": 7.252488136291504,
+  "centroid": 2371.1732984661717,
+  "flatness": 0.03367166966199875,
+  "sub100_share": 0.5249032974243164,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8057810068130493,
+  "clean_share": 0.0,
+  "minor_share": 0.17378048364148485,
+  "chord_rate": 2.338863162488484,
+  "repetitiveness": 0.9434094429016113,
+  "vocal_share": 0.013704851269721985,
+  "vocal_voiced": 0.46329113924050636,
+  "song_length": 339.76
+ }
+}

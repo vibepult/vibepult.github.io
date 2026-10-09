@@ -1,0 +1,32 @@
+{
+ "id": "freedom-call/1466942394-105",
+ "band": "freedom-call",
+ "title": "Starlight",
+ "source": "itunes",
+ "album": "The Circle of Life",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.0739344421277215,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.348342869611598,
+  "lufs": -8.47713226965666,
+  "rms_dbfs": -8.429083156931204,
+  "crest": 8.429082870483398,
+  "centroid": 2914.284549583594,
+  "flatness": 0.05269210413098335,
+  "sub100_share": 0.17477115988731384,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.6830176115036011,
+  "clean_share": 0.02404965089216447,
+  "minor_share": 0.18015376986567488,
+  "chord_rate": 1.0357822576734714,
+  "repetitiveness": 0.7341771125793457,
+  "vocal_share": 0.21096894145011902,
+  "vocal_voiced": 0.4944547134935305,
+  "song_length": 218.425
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "racer-x/1048254102-105",
+ "band": "racer-x",
+ "title": "King of the Monsters",
+ "source": "itunes",
+ "album": "Superheroes",
+ "year": 2000,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.9999758126934983,
+  "tempo_var": 3.437496120066662,
+  "low_onset_rate": 5.8999643237229105,
+  "lufs": -9.448855382407713,
+  "rms_dbfs": -8.574704871980636,
+  "crest": 8.574705123901367,
+  "centroid": 2059.0065846817693,
+  "flatness": 0.024360382929444313,
+  "sub100_share": 0.2427401840686798,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8479459285736084,
+  "clean_share": 0.3720030935808198,
+  "minor_share": -0.005086229836710365,
+  "chord_rate": 1.7666559839396285,
+  "repetitiveness": 0.8206517696380615,
+  "vocal_share": 3.709473276103381e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 289.227
+ }
+}

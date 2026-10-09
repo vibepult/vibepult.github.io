@@ -1,0 +1,32 @@
+{
+ "id": "type-o-negative/214470173-108",
+ "band": "type-o-negative",
+ "title": "Creepy Green Light",
+ "source": "itunes",
+ "album": "World Coming Down",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.966316896873838,
+  "tempo_var": 4.118697748766502,
+  "low_onset_rate": 3.5329167535800767,
+  "lufs": -13.187996443819559,
+  "rms_dbfs": -13.843538415807012,
+  "crest": 13.843537330627441,
+  "centroid": 2103.392714765358,
+  "flatness": 0.04111306741833687,
+  "sub100_share": 0.2101602852344513,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7130572199821472,
+  "clean_share": 0.47641144624903325,
+  "minor_share": 0.1013125112036749,
+  "chord_rate": 1.333176133426444,
+  "repetitiveness": 0.6396767497062683,
+  "vocal_share": 0.035674721002578735,
+  "vocal_voiced": 0.7319884726224783,
+  "song_length": 416.6
+ }
+}

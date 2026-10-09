@@ -1,0 +1,32 @@
+{
+ "id": "racer-x/1048254102-106",
+ "band": "racer-x",
+ "title": "Mad at the World",
+ "source": "itunes",
+ "album": "Superheroes",
+ "year": 2000,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.23331982875387,
+  "tempo_var": 2.3821143238416855,
+  "low_onset_rate": 2.1666535652089784,
+  "lufs": -11.071240487683427,
+  "rms_dbfs": -10.682402194663045,
+  "crest": 10.682401657104492,
+  "centroid": 2231.754470676656,
+  "flatness": 0.02218570187687874,
+  "sub100_share": 0.21012456715106964,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.839320182800293,
+  "clean_share": 0.2846094354215004,
+  "minor_share": 0.01742627057663304,
+  "chord_rate": 1.5666571933049536,
+  "repetitiveness": 0.7941545248031616,
+  "vocal_share": 6.9785318146387e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 239.547
+ }
+}

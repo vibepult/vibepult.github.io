@@ -1,0 +1,32 @@
+{
+ "id": "sarcofago/900436572-104",
+ "band": "sarcofago",
+ "title": "Schreeches from the Silence",
+ "source": "itunes",
+ "album": "The Laws of Scourge",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 198.76802884615384,
+  "onset_rate": 4.076304368908501,
+  "tempo_var": 2.347748824827501,
+  "low_onset_rate": 6.515404524075062,
+  "lufs": -10.48629149728513,
+  "rms_dbfs": -9.99587863624167,
+  "crest": 9.995879173278809,
+  "centroid": 2585.2823207523174,
+  "flatness": 0.027049245312809944,
+  "sub100_share": 0.23652984201908112,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7975877523422241,
+  "clean_share": 0.12102404965089217,
+  "minor_share": -0.08131275355492762,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.8780227899551392,
+  "vocal_share": 0.08542973548173904,
+  "vocal_voiced": 0.057571964956195244,
+  "song_length": 228.907
+ }
+}

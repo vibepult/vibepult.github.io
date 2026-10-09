@@ -1,0 +1,32 @@
+{
+ "id": "sabaton/1614847525-101",
+ "band": "sabaton",
+ "title": "Sarajevo (Symphonic Version)",
+ "source": "itunes",
+ "album": "The Symphony To End All Wars (Symphonic Version)",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.533299874226006,
+  "tempo_var": 4.828638669140158,
+  "low_onset_rate": 7.166623331075852,
+  "lufs": -13.987264870413378,
+  "rms_dbfs": -11.98487172650031,
+  "crest": 11.984871864318848,
+  "centroid": 1283.4237254679613,
+  "flatness": 0.01133844442665577,
+  "sub100_share": 0.638037919998169,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.9670432209968567,
+  "clean_share": 0.9706109822119103,
+  "minor_share": 0.24594082083819518,
+  "chord_rate": 1.299992139125387,
+  "repetitiveness": 0.8626285195350647,
+  "vocal_share": 6.441622986130824e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 285.0
+ }
+}

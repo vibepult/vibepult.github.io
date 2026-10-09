@@ -1,0 +1,32 @@
+{
+ "id": "diablo-swing-orchestra/1201984804-107",
+ "band": "diablo-swing-orchestra",
+ "title": "Aurora",
+ "source": "itunes",
+ "album": "Pandora's Pinata",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.4080577510546477,
+  "tempo_var": 6.896365400174793,
+  "low_onset_rate": 4.677726324976968,
+  "lufs": -12.576148315076537,
+  "rms_dbfs": -13.648300640527895,
+  "crest": 13.648300170898438,
+  "centroid": 1759.4379816829635,
+  "flatness": 0.003058862639591098,
+  "sub100_share": 0.10066933929920197,
+  "lowest_pitch": 99.591064453125,
+  "harmonic_share": 0.9009354710578918,
+  "clean_share": 0.9278510473235065,
+  "minor_share": -0.21435227642804244,
+  "chord_rate": 1.4367302283857828,
+  "repetitiveness": 0.6775124073028564,
+  "vocal_share": 0.5458806157112122,
+  "vocal_voiced": 0.9596774193548387,
+  "song_length": 305.093
+ }
+}

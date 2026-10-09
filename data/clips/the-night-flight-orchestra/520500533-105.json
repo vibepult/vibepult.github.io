@@ -1,0 +1,32 @@
+{
+ "id": "the-night-flight-orchestra/520500533-105",
+ "band": "the-night-flight-orchestra",
+ "title": "Transatlantic Blues",
+ "source": "itunes",
+ "album": "Internal Affairs",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 78.30255681818181,
+  "onset_rate": 3.7755933908742665,
+  "tempo_var": 27.054493591643674,
+  "low_onset_rate": 6.181281215148136,
+  "lufs": -13.665437289090853,
+  "rms_dbfs": -13.39307633089016,
+  "crest": 13.39307689666748,
+  "centroid": 1783.4932052073398,
+  "flatness": 0.006606195122003555,
+  "sub100_share": 0.0007938711787573993,
+  "lowest_pitch": 164.190673828125,
+  "harmonic_share": 0.8894566297531128,
+  "clean_share": 0.8207913110938713,
+  "minor_share": -0.21604272167795147,
+  "chord_rate": 0.7350712796392378,
+  "repetitiveness": 0.613789439201355,
+  "vocal_share": 0.3960379660129547,
+  "vocal_voiced": 0.9189463019250254,
+  "song_length": 501.823
+ }
+}

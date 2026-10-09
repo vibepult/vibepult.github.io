@@ -1,0 +1,32 @@
+{
+ "id": "versailles/284259361-108",
+ "band": "versailles",
+ "title": "The Revenant Choir",
+ "source": "itunes",
+ "album": "Noble",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 4.243366023371963,
+  "tempo_var": 11.857337044783211,
+  "low_onset_rate": 7.618011443533918,
+  "lufs": -11.586303539505845,
+  "rms_dbfs": -11.591578565183237,
+  "crest": 11.591578483581543,
+  "centroid": 2557.3199562706245,
+  "flatness": 0.03334137797355652,
+  "sub100_share": 0.2811141312122345,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7770458459854126,
+  "clean_share": 0.2017067494181536,
+  "minor_share": 0.09939985758007763,
+  "chord_rate": 2.138389177132328,
+  "repetitiveness": 0.8839328289031982,
+  "vocal_share": 0.0009207307593896985,
+  "vocal_voiced": 0.9818181818181818,
+  "song_length": 420.987
+ }
+}

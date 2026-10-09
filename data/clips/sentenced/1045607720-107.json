@@ -1,0 +1,32 @@
+{
+ "id": "sentenced/1045607720-107",
+ "band": "sentenced",
+ "title": "The Rain Comes Falling Down",
+ "source": "itunes",
+ "album": "Frozen",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.5417070746254184,
+  "tempo_var": 10.902914086911945,
+  "low_onset_rate": 4.677726324976968,
+  "lufs": -10.97773003940605,
+  "rms_dbfs": -10.741317625336794,
+  "crest": 10.741317749023438,
+  "centroid": 2454.4745436594894,
+  "flatness": 0.02213982306420803,
+  "sub100_share": 0.2786043882369995,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8192362189292908,
+  "clean_share": 0.1830876648564779,
+  "minor_share": 0.04565014132550005,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.6927511692047119,
+  "vocal_share": 0.24788524210453033,
+  "vocal_voiced": 0.9070208728652751,
+  "song_length": 378.24
+ }
+}

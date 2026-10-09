@@ -1,0 +1,127 @@
+{
+ "slug": "iron-maiden",
+ "name": "Iron Maiden",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 546381,
+  "deezer": 931,
+  "spotify": "6mdiAmATAx73kdxrNrnlao"
+ },
+ "metadata": {
+  "formed": 1975,
+  "split": null,
+  "country": "GB",
+  "status": "active",
+  "members": 6,
+  "past_members": 17,
+  "full_lengths": 17,
+  "genre": "Heavy Metal, NWOBHM",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 3788752,
+  "themes": "Literature, History, Life, Death, War, Mythology, Society, Religion, Science fiction",
+  "release_year": 1987
+ },
+ "partial": false,
+ "clips": [
+  "iron-maiden/1713874713-104",
+  "iron-maiden/1713874443-106",
+  "iron-maiden/1713862422-104",
+  "iron-maiden/1713861903-105",
+  "iron-maiden/1713861278-104",
+  "iron-maiden/1713867069-104",
+  "iron-maiden/1716093955-104",
+  "iron-maiden/1716081865-105",
+  "iron-maiden/1713839098-106",
+  "iron-maiden/1716087771-106",
+  "iron-maiden/1716086168-104",
+  "iron-maiden/1713865011-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.19921875,
+   "iqr": 42.30641084558823
+  },
+  "onset_rate": {
+   "median": 5.133255733095494,
+   "iqr": 1.3333131774274012
+  },
+  "tempo_var": {
+   "median": 15.669957794443015,
+   "iqr": 8.310164234504398
+  },
+  "low_onset_rate": {
+   "median": 5.233254221402548,
+   "iqr": 0.824987528533204
+  },
+  "lufs": {
+   "median": -10.109812474586438,
+   "iqr": 1.5279716723411365
+  },
+  "rms_dbfs": {
+   "median": -9.691223267975841,
+   "iqr": 1.0428707634833412
+  },
+  "crest": {
+   "median": 9.691223621368408,
+   "iqr": 1.0428698062896729
+  },
+  "centroid": {
+   "median": 2215.754026954124,
+   "iqr": 369.3752476875893
+  },
+  "flatness": {
+   "median": 0.019110143184661865,
+   "iqr": 0.01436700252816081
+  },
+  "sub100_share": {
+   "median": 0.15453653037548065,
+   "iqr": 0.07367794588208199
+  },
+  "lowest_pitch": {
+   "median": 56.524658203125,
+   "iqr": 28.93524169921875
+  },
+  "harmonic_share": {
+   "median": 0.7411342859268188,
+   "iqr": 0.12753728032112122
+  },
+  "clean_share": {
+   "median": 0.07153905645784997,
+   "iqr": 0.27088167053364265
+  },
+  "minor_share": {
+   "median": 0.09336884247253696,
+   "iqr": 0.21833401575954942
+  },
+  "chord_rate": {
+   "median": 1.5333101540415113,
+   "iqr": 0.6416569666369367
+  },
+  "repetitiveness": {
+   "median": 0.8161276876926422,
+   "iqr": 0.10598626732826233
+  },
+  "vocal_share": {
+   "median": 0.14666138589382172,
+   "iqr": 0.08640402182936668
+  },
+  "vocal_voiced": {
+   "median": 0.7445838084378563,
+   "iqr": 0.1604865211570874
+  },
+  "song_length": {
+   "median": 316.9625,
+   "iqr": 155.76049999999998
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.6,
+  "camp": 0.5
+ },
+ "sources_failed": []
+}

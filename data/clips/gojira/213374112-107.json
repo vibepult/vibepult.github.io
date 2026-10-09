@@ -1,0 +1,32 @@
+{
+ "id": "gojira/213374112-107",
+ "band": "gojira",
+ "title": "Flying Whales",
+ "source": "itunes",
+ "album": "From Mars to Sirius",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.4,
+  "tempo_var": 8.258568206424316,
+  "low_onset_rate": 4.7,
+  "lufs": -9.741797906766273,
+  "rms_dbfs": -8.35304309710654,
+  "crest": 8.353042602539062,
+  "centroid": 1982.5891779749352,
+  "flatness": 0.01276872493326664,
+  "sub100_share": 0.4616381525993347,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.848373532295227,
+  "clean_share": 0.4845201238390093,
+  "minor_share": 0.062192528398160585,
+  "chord_rate": 0.7666666666666667,
+  "repetitiveness": 0.7884249687194824,
+  "vocal_share": 9.656030215410283e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 464.453
+ }
+}

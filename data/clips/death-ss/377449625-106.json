@@ -1,0 +1,32 @@
+{
+ "id": "death-ss/377449625-106",
+ "band": "death-ss",
+ "title": "Another Life",
+ "source": "itunes",
+ "album": "The 7th Seal",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.966666666666667,
+  "tempo_var": 4.091348766277177,
+  "low_onset_rate": 2.466666666666667,
+  "lufs": -16.034321892952576,
+  "rms_dbfs": -14.913863966400827,
+  "crest": 14.913864135742188,
+  "centroid": 2436.2422298723977,
+  "flatness": 0.020052749663591385,
+  "sub100_share": 0.338989794254303,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8683487772941589,
+  "clean_share": 0.21981424148606812,
+  "minor_share": 0.29566712508995463,
+  "chord_rate": 1.0,
+  "repetitiveness": 0.6426543593406677,
+  "vocal_share": 0.182078018784523,
+  "vocal_voiced": 0.5132178669097539,
+  "song_length": 243.509
+ }
+}

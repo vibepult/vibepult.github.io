@@ -1,0 +1,32 @@
+{
+ "id": "threshold/1460469965-105",
+ "band": "threshold",
+ "title": "Pilot in the Sky of Dreams",
+ "source": "itunes",
+ "album": "Dead Reckoning",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 67.99958881578948,
+  "onset_rate": 2.0381521844542503,
+  "tempo_var": 19.19005096703905,
+  "low_onset_rate": 2.2720385007030983,
+  "lufs": -13.72034212458373,
+  "rms_dbfs": -13.010540277524543,
+  "crest": 13.010540008544922,
+  "centroid": 1280.3127050603248,
+  "flatness": 0.011054329574108124,
+  "sub100_share": 0.3368574380874634,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.9021836519241333,
+  "clean_share": 0.8440651667959659,
+  "minor_share": -0.11577146767266067,
+  "chord_rate": 0.8687206032100082,
+  "repetitiveness": 0.6178916096687317,
+  "vocal_share": 0.25178205966949463,
+  "vocal_voiced": 0.8504983388704319,
+  "song_length": 587.389
+ }
+}

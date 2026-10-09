@@ -1,0 +1,32 @@
+{
+ "id": "serenity/1184695144-105",
+ "band": "serenity",
+ "title": "Fairytales",
+ "source": "itunes",
+ "album": "Fallen Sanctuary",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.566666666666667,
+  "tempo_var": 11.08124442150321,
+  "low_onset_rate": 5.866666666666666,
+  "lufs": -11.347112174363057,
+  "rms_dbfs": -11.605193815220536,
+  "crest": 11.605194091796875,
+  "centroid": 2012.4337758703057,
+  "flatness": 0.011535923928022385,
+  "sub100_share": 0.01868780329823494,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.864292562007904,
+  "clean_share": 0.5897832817337462,
+  "minor_share": 0.14085737878390403,
+  "chord_rate": 0.9333333333333333,
+  "repetitiveness": 0.6618981957435608,
+  "vocal_share": 0.4819178283214569,
+  "vocal_voiced": 0.8836395450568679,
+  "song_length": 293.64
+ }
+}

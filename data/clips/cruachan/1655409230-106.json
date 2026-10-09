@@ -1,0 +1,32 @@
+{
+ "id": "cruachan/1655409230-106",
+ "band": "cruachan",
+ "title": "The Ghost (feat. Mathias Lillmåns & Geoffrey Dell'Aria)",
+ "source": "itunes",
+ "album": "The Living and the Dead",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 78.30255681818181,
+  "onset_rate": 1.4367302283857828,
+  "tempo_var": 19.62319646394508,
+  "low_onset_rate": 2.67298647141541,
+  "lufs": -8.653129936087486,
+  "rms_dbfs": -7.869344136970303,
+  "crest": 7.8693437576293945,
+  "centroid": 2363.0403172372767,
+  "flatness": 0.025884630158543587,
+  "sub100_share": 0.39142534136772156,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7948223948478699,
+  "clean_share": 0.035686578743211794,
+  "minor_share": -0.07392407376847165,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.8750927448272705,
+  "vocal_share": 0.024618495255708694,
+  "vocal_voiced": 0.5310734463276836,
+  "song_length": 262.086
+ }
+}

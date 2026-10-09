@@ -1,0 +1,127 @@
+{
+ "slug": "demons-wizards",
+ "name": "Demons & Wizards",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 217744297,
+  "deezer": 15959,
+  "spotify": "4O6RDLeFX5xuQ7IePFzVcl"
+ },
+ "metadata": {
+  "formed": 1997,
+  "split": 2021,
+  "country": "US",
+  "status": "split-up",
+  "members": 1,
+  "past_members": 1,
+  "full_lengths": 3,
+  "genre": "Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 15290,
+  "themes": "Darkness, Evil, Death, Literature, Tales",
+  "release_year": 2005
+ },
+ "partial": false,
+ "clips": [
+  "demons-wizards/6800264004-107",
+  "demons-wizards/1457974470-107",
+  "demons-wizards/1489629187-106",
+  "demons-wizards/6800264004-106",
+  "demons-wizards/1457974470-106",
+  "demons-wizards/1489629187-105",
+  "demons-wizards/6800264004-108",
+  "demons-wizards/1457974470-108",
+  "demons-wizards/1489629187-107",
+  "demons-wizards/6800264004-105",
+  "demons-wizards/1457974470-105",
+  "demons-wizards/1489629187-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 20.533104679250528
+  },
+  "onset_rate": {
+   "median": 4.404071465954255,
+   "iqr": 1.9018144099969527
+  },
+  "tempo_var": {
+   "median": 4.708044765548439,
+   "iqr": 10.640716140370444
+  },
+  "low_onset_rate": {
+   "median": 6.431258829769506,
+   "iqr": 1.3028187341957773
+  },
+  "lufs": {
+   "median": -10.513531574302448,
+   "iqr": 4.140789334765696
+  },
+  "rms_dbfs": {
+   "median": -9.747039182045956,
+   "iqr": 4.138585688035011
+  },
+  "crest": {
+   "median": 9.747038841247559,
+   "iqr": 4.138585805892944
+  },
+  "centroid": {
+   "median": 2318.4591888834684,
+   "iqr": 207.55625547165573
+  },
+  "flatness": {
+   "median": 0.020780093036592007,
+   "iqr": 0.012001301161944866
+  },
+  "sub100_share": {
+   "median": 0.22779371589422226,
+   "iqr": 0.25504652224481106
+  },
+  "lowest_pitch": {
+   "median": 59.21630859375,
+   "iqr": 37.68310546875
+  },
+  "harmonic_share": {
+   "median": 0.7831816077232361,
+   "iqr": 0.08840309083461761
+  },
+  "clean_share": {
+   "median": 0.12970569582468588,
+   "iqr": 0.17377977256541008
+  },
+  "minor_share": {
+   "median": 0.15946975644813702,
+   "iqr": 0.14505884628245674
+  },
+  "chord_rate": {
+   "median": 1.199600826878645,
+   "iqr": 0.4326283629670129
+  },
+  "repetitiveness": {
+   "median": 0.8126387894153595,
+   "iqr": 0.11333110928535461
+  },
+  "vocal_share": {
+   "median": 0.19288021326065063,
+   "iqr": 0.14445165544748306
+  },
+  "vocal_voiced": {
+   "median": 0.6605668961629827,
+   "iqr": 0.2474547102012511
+  },
+  "song_length": {
+   "median": 306.601,
+   "iqr": 54.474000000000046
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

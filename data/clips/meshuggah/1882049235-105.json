@@ -1,0 +1,32 @@
+{
+ "id": "meshuggah/1882049235-105",
+ "band": "meshuggah",
+ "title": "Obzen",
+ "source": "itunes",
+ "album": "ObZen",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.9,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 6.666666666666667,
+  "lufs": -7.348075812788697,
+  "rms_dbfs": -7.389711563916092,
+  "crest": 7.389711856842041,
+  "centroid": 2862.837468535849,
+  "flatness": 0.051562730222940445,
+  "sub100_share": 0.33905601501464844,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7789028286933899,
+  "clean_share": 0.0,
+  "minor_share": -0.20581195109678352,
+  "chord_rate": 1.4333333333333333,
+  "repetitiveness": 0.9167776703834534,
+  "vocal_share": 0.07430405914783478,
+  "vocal_voiced": 0.07543859649122807,
+  "song_length": 264.387
+ }
+}

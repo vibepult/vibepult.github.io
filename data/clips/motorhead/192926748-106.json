@@ -1,0 +1,32 @@
+{
+ "id": "motorhead/192926748-106",
+ "band": "motorhead",
+ "title": "Hellraiser",
+ "source": "itunes",
+ "album": "March or Die",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 2.698290878491175,
+  "tempo_var": 0.33050784182670695,
+  "low_onset_rate": 6.262699816744949,
+  "lufs": -11.1977406093404,
+  "rms_dbfs": -11.083879522503853,
+  "crest": 11.083879470825195,
+  "centroid": 2713.155283280177,
+  "flatness": 0.043018948286771774,
+  "sub100_share": 0.2831132411956787,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.738497793674469,
+  "clean_share": 0.006187161639597835,
+  "minor_share": -0.16614461674482417,
+  "chord_rate": 1.89879728486416,
+  "repetitiveness": 0.8494473099708557,
+  "vocal_share": 0.21517619490623474,
+  "vocal_voiced": 0.3907563025210084,
+  "song_length": 275.16
+ }
+}

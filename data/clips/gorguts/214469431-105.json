@@ -1,0 +1,32 @@
+{
+ "id": "gorguts/214469431-105",
+ "band": "gorguts",
+ "title": "Hideous Infirmity",
+ "source": "itunes",
+ "album": "The Erosion of Sanity",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 5.9473948988992875,
+  "tempo_var": 8.294627088850401,
+  "low_onset_rate": 5.98080722979198,
+  "lufs": -8.846143417710396,
+  "rms_dbfs": -8.751343704358142,
+  "crest": 8.751343727111816,
+  "centroid": 2631.7375390031666,
+  "flatness": 0.032326970249414444,
+  "sub100_share": 0.2452031373977661,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.7227296233177185,
+  "clean_share": 0.0062063615205585725,
+  "minor_share": 0.06392586487256074,
+  "chord_rate": 3.174171434805799,
+  "repetitiveness": 0.939033567905426,
+  "vocal_share": 0.1529640406370163,
+  "vocal_voiced": 0.29724770642201837,
+  "song_length": 245.452
+ }
+}

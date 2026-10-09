@@ -1,0 +1,127 @@
+{
+ "slug": "3-inches-of-blood",
+ "name": "3 Inches of Blood",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 26515293,
+  "deezer": 16463,
+  "spotify": "0gNkDUN42nBxKOcpoF7iQ4"
+ },
+ "metadata": {
+  "formed": 1999,
+  "split": null,
+  "country": "CA",
+  "status": "active",
+  "members": 5,
+  "past_members": 10,
+  "full_lengths": 5,
+  "genre": "Power/Heavy Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 10763,
+  "themes": "Epic fantasy, Battle, War, Heavy metal",
+  "release_year": 2005
+ },
+ "partial": false,
+ "clips": [
+  "3-inches-of-blood/301754489-108",
+  "3-inches-of-blood/214470465-107",
+  "3-inches-of-blood/258413517-106",
+  "3-inches-of-blood/1045624933-106",
+  "3-inches-of-blood/301754489-107",
+  "3-inches-of-blood/214470465-106",
+  "3-inches-of-blood/258413517-107",
+  "3-inches-of-blood/1045624933-105",
+  "3-inches-of-blood/301754489-109",
+  "3-inches-of-blood/214470465-108",
+  "3-inches-of-blood/258413517-105",
+  "3-inches-of-blood/1045624933-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 99.38401442307692,
+   "iqr": 29.81520432692308
+  },
+  "onset_rate": {
+   "median": 5.622095773836846,
+   "iqr": 1.014280268723117
+  },
+  "tempo_var": {
+   "median": 12.235690966166299,
+   "iqr": 6.453675796758592
+  },
+  "low_onset_rate": {
+   "median": 5.922318711760786,
+   "iqr": 1.45253590269765
+  },
+  "lufs": {
+   "median": -8.844222043415556,
+   "iqr": 2.4417717342130594
+  },
+  "rms_dbfs": {
+   "median": -8.574044945106314,
+   "iqr": 1.9603389054637557
+  },
+  "crest": {
+   "median": 8.574045181274414,
+   "iqr": 1.9603391885757446
+  },
+  "centroid": {
+   "median": 2693.8174593555023,
+   "iqr": 419.81418770608025
+  },
+  "flatness": {
+   "median": 0.043513502925634384,
+   "iqr": 0.018774844706058502
+  },
+  "sub100_share": {
+   "median": 0.2588406503200531,
+   "iqr": 0.06495204567909241
+  },
+  "lowest_pitch": {
+   "median": 65.9454345703125,
+   "iqr": 38.35601806640625
+  },
+  "harmonic_share": {
+   "median": 0.7032233476638794,
+   "iqr": 0.09050361812114716
+  },
+  "clean_share": {
+   "median": 0.01047323506594259,
+   "iqr": 0.035686578743211794
+  },
+  "minor_share": {
+   "median": -0.01881965737798935,
+   "iqr": 0.2814101568618998
+  },
+  "chord_rate": {
+   "median": 2.0517893419468063,
+   "iqr": 0.7183651141928915
+  },
+  "repetitiveness": {
+   "median": 0.8401190340518951,
+   "iqr": 0.07247209548950195
+  },
+  "vocal_share": {
+   "median": 0.18387573212385178,
+   "iqr": 0.0907389223575592
+  },
+  "vocal_voiced": {
+   "median": 0.3532729969460342,
+   "iqr": 0.32000126968037956
+  },
+  "song_length": {
+   "median": 241.7735,
+   "iqr": 76.87325000000001
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.6
+ },
+ "sources_failed": []
+}

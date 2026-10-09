@@ -1,0 +1,127 @@
+{
+ "slug": "devildriver",
+ "name": "DevilDriver",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 17407176,
+  "deezer": 2997,
+  "spotify": "79el7mcHYhXYW3Zek21i0L"
+ },
+ "metadata": {
+  "formed": 2003,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 8,
+  "full_lengths": 11,
+  "genre": "Groove Metal/Metalcore",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 79638,
+  "themes": "Hate, Chaos, Revenge",
+  "release_year": 2009
+ },
+ "partial": false,
+ "clips": [
+  "devildriver/1444742993-106",
+  "devildriver/1437348782-106",
+  "devildriver/1456248963-106",
+  "devildriver/1437344388-106",
+  "devildriver/1183626742-106",
+  "devildriver/1184007848-106",
+  "devildriver/1368977178-106",
+  "devildriver/1670393715-105",
+  "devildriver/1886763087-107",
+  "devildriver/1444742993-107",
+  "devildriver/1437348782-107",
+  "devildriver/1456248963-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 41.53536137696476
+  },
+  "onset_rate": {
+   "median": 6.3,
+   "iqr": 1.05296629373038
+  },
+  "tempo_var": {
+   "median": 11.098154625087664,
+   "iqr": 18.7550884315839
+  },
+  "low_onset_rate": {
+   "median": 6.533333333333333,
+   "iqr": 1.0166666666666657
+  },
+  "lufs": {
+   "median": -8.702963097898134,
+   "iqr": 1.5327965753873478
+  },
+  "rms_dbfs": {
+   "median": -8.568639256849636,
+   "iqr": 1.5672429240042032
+  },
+  "crest": {
+   "median": 8.568639278411865,
+   "iqr": 1.5672434568405151
+  },
+  "centroid": {
+   "median": 2555.500410007312,
+   "iqr": 253.13529468154002
+  },
+  "flatness": {
+   "median": 0.04403278976678848,
+   "iqr": 0.017658904660493135
+  },
+  "sub100_share": {
+   "median": 0.3478410989046097,
+   "iqr": 0.11429551616311073
+  },
+  "lowest_pitch": {
+   "median": 53.8330078125,
+   "iqr": 19.51446533203125
+  },
+  "harmonic_share": {
+   "median": 0.7116492688655853,
+   "iqr": 0.14393572509288788
+  },
+  "clean_share": {
+   "median": 0.0027089783281733747,
+   "iqr": 0.016253869969040248
+  },
+  "minor_share": {
+   "median": 0.06823397900576832,
+   "iqr": 0.23884949672795758
+  },
+  "chord_rate": {
+   "median": 2.1166666666666667,
+   "iqr": 0.4833133793484321
+  },
+  "repetitiveness": {
+   "median": 0.9233205616474152,
+   "iqr": 0.018612459301948547
+  },
+  "vocal_share": {
+   "median": 0.211953766644001,
+   "iqr": 0.10658177733421326
+  },
+  "vocal_voiced": {
+   "median": 0.11343264743187163,
+   "iqr": 0.08058323378996217
+  },
+  "song_length": {
+   "median": 248.60000000000002,
+   "iqr": 29.073249999999973
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "down/299793030-104",
+ "band": "down",
+ "title": "Rehab",
+ "source": "itunes",
+ "album": "Nola",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.432810643642926,
+  "tempo_var": 8.127759796361316,
+  "low_onset_rate": 4.366151836971604,
+  "lufs": -9.669761825443883,
+  "rms_dbfs": -9.666838951355803,
+  "crest": 9.666839599609375,
+  "centroid": 2604.2342451078994,
+  "flatness": 0.03597258776426315,
+  "sub100_share": 0.23429471254348755,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6015883088111877,
+  "clean_share": 0.008507347254447023,
+  "minor_share": 0.3359219186757125,
+  "chord_rate": 1.4998231501047496,
+  "repetitiveness": 0.8875164985656738,
+  "vocal_share": 0.1792723536491394,
+  "vocal_voiced": 0.6732869910625621,
+  "song_length": 243.0
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "asphodele/1483323433-108",
+ "band": "asphodele",
+ "title": "Décembre",
+ "source": "itunes",
+ "album": "Jours Pâles",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.374645420161955,
+  "tempo_var": 2.7964517196442293,
+  "low_onset_rate": 7.183651141928914,
+  "lufs": -7.862816059633528,
+  "rms_dbfs": -7.130903570272875,
+  "crest": 7.130903720855713,
+  "centroid": 2162.304803347289,
+  "flatness": 0.025039471685886383,
+  "sub100_share": 0.2538548409938812,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.6587793231010437,
+  "clean_share": 0.003878975950349108,
+  "minor_share": 0.11338854906579843,
+  "chord_rate": 1.0357822576734714,
+  "repetitiveness": 0.9134357571601868,
+  "vocal_share": 0.17111262679100037,
+  "vocal_voiced": 0.02711864406779661,
+  "song_length": 332.399
+ }
+}

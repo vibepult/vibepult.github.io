@@ -1,0 +1,32 @@
+{
+ "id": "type-o-negative/214401805-107",
+ "band": "type-o-negative",
+ "title": "Set Me On Fire",
+ "source": "itunes",
+ "album": "Bloody Kisses",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.63290496358706,
+  "tempo_var": 5.217742975667696,
+  "low_onset_rate": 4.732775273663877,
+  "lufs": -13.561982674119239,
+  "rms_dbfs": -13.246800056519312,
+  "crest": 13.246801376342773,
+  "centroid": 2825.1419651701194,
+  "flatness": 0.03560902923345566,
+  "sub100_share": 0.2568017244338989,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7891285419464111,
+  "clean_share": 0.0,
+  "minor_share": -0.16046385481970904,
+  "chord_rate": 1.1331997134124774,
+  "repetitiveness": 0.7867394089698792,
+  "vocal_share": 0.0573234036564827,
+  "vocal_voiced": 0.8165548098434005,
+  "song_length": 209.613
+ }
+}

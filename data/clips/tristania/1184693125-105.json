@@ -1,0 +1,32 @@
+{
+ "id": "tristania/1184693125-105",
+ "band": "tristania",
+ "title": "Diagnosis",
+ "source": "itunes",
+ "album": "Darkest White",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.6,
+  "tempo_var": 3.070269151747671,
+  "low_onset_rate": 6.6,
+  "lufs": -9.603252989399273,
+  "rms_dbfs": -8.948676503299367,
+  "crest": 8.948676109313965,
+  "centroid": 2312.5482146417526,
+  "flatness": 0.018357660621404648,
+  "sub100_share": 0.3943551182746887,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.860339879989624,
+  "clean_share": 0.0046439628482972135,
+  "minor_share": 0.27341629478186313,
+  "chord_rate": 1.5,
+  "repetitiveness": 0.7890618443489075,
+  "vocal_share": 0.23138324916362762,
+  "vocal_voiced": 0.8746130030959752,
+  "song_length": 301.987
+ }
+}

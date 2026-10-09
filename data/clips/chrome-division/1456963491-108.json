@@ -1,0 +1,32 @@
+{
+ "id": "chrome-division/1456963491-108",
+ "band": "chrome-division",
+ "title": "The Boys from the East",
+ "source": "itunes",
+ "album": "Booze, Broads & Beelzebub",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 3.9760673762304224,
+  "tempo_var": 29.884532905788856,
+  "low_onset_rate": 1.0023699267807789,
+  "lufs": -11.206694022491149,
+  "rms_dbfs": -11.887798523866326,
+  "crest": 11.887798309326172,
+  "centroid": 2395.1482156346055,
+  "flatness": 0.017901333048939705,
+  "sub100_share": 0.26515811681747437,
+  "lowest_pitch": 185.723876953125,
+  "harmonic_share": 0.7055229544639587,
+  "clean_share": 0.3878975950349108,
+  "minor_share": 0.09573507464123221,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.8477522134780884,
+  "vocal_share": 0.09890694171190262,
+  "vocal_voiced": 0.35545023696682465,
+  "song_length": 287.187
+ }
+}

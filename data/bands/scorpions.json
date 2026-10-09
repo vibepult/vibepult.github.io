@@ -1,0 +1,127 @@
+{
+ "slug": "scorpions",
+ "name": "Scorpions",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 602212,
+  "deezer": 863,
+  "spotify": "27T030eWyCQRmDyuvr1kxY"
+ },
+ "metadata": {
+  "formed": 1964,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 5,
+  "past_members": 23,
+  "full_lengths": 20,
+  "genre": "Heavy Metal/Hard Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 3681331,
+  "themes": "Life, Society, Love, Sex, Inner struggles, Rock",
+  "release_year": 1979
+ },
+ "partial": false,
+ "clips": [
+  "scorpions/1442793799-104",
+  "scorpions/1683092913-104",
+  "scorpions/1683091325-105",
+  "scorpions/1683085388-105",
+  "scorpions/1437544204-105",
+  "scorpions/1440925014-104",
+  "scorpions/1440924575-105",
+  "scorpions/1440921750-105",
+  "scorpions/1425261347-105",
+  "scorpions/1440766479-105",
+  "scorpions/1440761157-106",
+  "scorpions/1443718744-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 112.34714673913044,
+   "iqr": 24.003462357954547
+  },
+  "onset_rate": {
+   "median": 3.766609726232408,
+   "iqr": 1.8614455485912407
+  },
+  "tempo_var": {
+   "median": 3.831659101149422,
+   "iqr": 9.526252436390763
+  },
+  "low_onset_rate": {
+   "median": 4.733261779867274,
+   "iqr": 1.8992463071570884
+  },
+  "lufs": {
+   "median": -12.595159629953791,
+   "iqr": 3.7520278391330315
+  },
+  "rms_dbfs": {
+   "median": -12.615610991988435,
+   "iqr": 4.412645847753842
+  },
+  "crest": {
+   "median": 12.615610599517822,
+   "iqr": 4.340188980102539
+  },
+  "centroid": {
+   "median": 2319.510362674534,
+   "iqr": 936.019291106418
+  },
+  "flatness": {
+   "median": 0.023884229362010956,
+   "iqr": 0.028632427740376443
+  },
+  "sub100_share": {
+   "median": 0.14052236080169678,
+   "iqr": 0.06860917806625366
+  },
+  "lowest_pitch": {
+   "median": 83.441162109375,
+   "iqr": 46.43096923828125
+  },
+  "harmonic_share": {
+   "median": 0.7535765469074249,
+   "iqr": 0.18634285032749176
+  },
+  "clean_share": {
+   "median": 0.19923806472399871,
+   "iqr": 0.7132765977315336
+  },
+  "minor_share": {
+   "median": 0.05525237616968687,
+   "iqr": 0.22644827691893993
+  },
+  "chord_rate": {
+   "median": 1.2180395499001364,
+   "iqr": 0.39148085146272926
+  },
+  "repetitiveness": {
+   "median": 0.7512848377227783,
+   "iqr": 0.18522416055202484
+  },
+  "vocal_share": {
+   "median": 0.24493806064128876,
+   "iqr": 0.1611483097076416
+  },
+  "vocal_voiced": {
+   "median": 0.826865671641791,
+   "iqr": 0.17365720592914757
+  },
+  "song_length": {
+   "median": 290.2735,
+   "iqr": 90.57275000000001
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

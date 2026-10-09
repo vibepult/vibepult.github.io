@@ -1,0 +1,32 @@
+{
+ "id": "elderwind/1656310480-105",
+ "band": "elderwind",
+ "title": "Last Winter Night",
+ "source": "itunes",
+ "album": "The Magic of Nature",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 3.1407591039131066,
+  "tempo_var": 20.47197253717392,
+  "low_onset_rate": 7.183651141928914,
+  "lufs": -9.558911544564682,
+  "rms_dbfs": -9.171168795060234,
+  "crest": 9.17116928100586,
+  "centroid": 2200.664740460047,
+  "flatness": 0.021098855882883072,
+  "sub100_share": 0.2366970032453537,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8297064900398254,
+  "clean_share": 0.005430566330488751,
+  "minor_share": 0.22092416187123665,
+  "chord_rate": 0.33412330892692627,
+  "repetitiveness": 0.8310529589653015,
+  "vocal_share": 6.382331321219681e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 437.045
+ }
+}

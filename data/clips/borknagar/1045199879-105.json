@@ -1,0 +1,32 @@
+{
+ "id": "borknagar/1045199879-105",
+ "band": "borknagar",
+ "title": "Soul Sphere",
+ "source": "itunes",
+ "album": "Empiricism",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.610901663191583,
+  "tempo_var": 21.533792389070143,
+  "low_onset_rate": 6.682466178538525,
+  "lufs": -9.415148539651438,
+  "rms_dbfs": -10.455816218404145,
+  "crest": 10.455816268920898,
+  "centroid": 2874.1918998057417,
+  "flatness": 0.05151183530688286,
+  "sub100_share": 0.11148398369550705,
+  "lowest_pitch": 129.19921875,
+  "harmonic_share": 0.726315438747406,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": -0.17307713741184994,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.8488723635673523,
+  "vocal_share": 0.1656448394060135,
+  "vocal_voiced": 0.7766179540709812,
+  "song_length": 401.053
+ }
+}

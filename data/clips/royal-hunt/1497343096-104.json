@@ -1,0 +1,32 @@
+{
+ "id": "royal-hunt/1497343096-104",
+ "band": "royal-hunt",
+ "title": "The Wishing Well",
+ "source": "itunes",
+ "album": "Cast in Stone",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.9139825680065945,
+  "tempo_var": 3.5561300546683317,
+  "low_onset_rate": 5.078674295689279,
+  "lufs": -10.566673620340877,
+  "rms_dbfs": -9.516632596156535,
+  "crest": 9.516632080078125,
+  "centroid": 2198.959701188714,
+  "flatness": 0.01799147017300129,
+  "sub100_share": 0.49520471692085266,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.857947587966919,
+  "clean_share": 0.05973622963537626,
+  "minor_share": -0.0373522349645673,
+  "chord_rate": 1.9379151917761723,
+  "repetitiveness": 0.9184997081756592,
+  "vocal_share": 0.0009100434253923595,
+  "vocal_voiced": 1.0,
+  "song_length": 474.24
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "warmen/1667408298-106",
+ "band": "warmen",
+ "title": "When Worlds Collide (feat. Pasi Rantanen)",
+ "source": "itunes",
+ "album": "First Of The Five Elements",
+ "year": 2014,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.544077001406197,
+  "tempo_var": 14.320648936577534,
+  "low_onset_rate": 7.250475803714299,
+  "lufs": -10.363166911959974,
+  "rms_dbfs": -10.240566478842482,
+  "crest": 10.24056625366211,
+  "centroid": 2930.741862797382,
+  "flatness": 0.05470607802271843,
+  "sub100_share": 0.23790407180786133,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.48483091592788696,
+  "clean_share": 0.017843289371605897,
+  "minor_share": 0.11076170117716533,
+  "chord_rate": 1.971327522668865,
+  "repetitiveness": 0.8873910903930664,
+  "vocal_share": 0.418708860874176,
+  "vocal_voiced": 0.7340619307832422,
+  "song_length": 210.105
+ }
+}

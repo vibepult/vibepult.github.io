@@ -1,0 +1,127 @@
+{
+ "slug": "shape-of-despair",
+ "name": "Shape of Despair",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 320893331,
+  "deezer": 15521,
+  "spotify": "7Dw0RaAayqoGd0z2oHT4R6"
+ },
+ "metadata": {
+  "formed": 1998,
+  "split": null,
+  "country": "FI",
+  "status": "active",
+  "members": 6,
+  "past_members": 5,
+  "full_lengths": 5,
+  "genre": "Atmospheric/Funeral Doom Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 4752,
+  "themes": "Misery, Pain, Loneliness",
+  "release_year": 2002
+ },
+ "partial": false,
+ "clips": [
+  "shape-of-despair/1669960424-103",
+  "shape-of-despair/1669903686-103",
+  "shape-of-despair/1669932171-103",
+  "shape-of-despair/993896716-104",
+  "shape-of-despair/1587799880-103",
+  "shape-of-despair/1669960424-102",
+  "shape-of-despair/1669903686-102",
+  "shape-of-despair/1669932171-104",
+  "shape-of-despair/993896716-105",
+  "shape-of-despair/1587799880-104",
+  "shape-of-despair/1669960424-104",
+  "shape-of-despair/1669903686-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 105.86558058110367,
+   "iqr": 52.729435775687435
+  },
+  "onset_rate": {
+   "median": 1.7708535373127092,
+   "iqr": 1.74579428914319
+  },
+  "tempo_var": {
+   "median": 5.111154740273508,
+   "iqr": 6.116329467505167
+  },
+  "low_onset_rate": {
+   "median": 5.546446928186976,
+   "iqr": 1.7708535373127088
+  },
+  "lufs": {
+   "median": -11.631942796549167,
+   "iqr": 5.880743409833931
+  },
+  "rms_dbfs": {
+   "median": -10.588891093530126,
+   "iqr": 5.790834129863844
+  },
+  "crest": {
+   "median": 10.588891506195068,
+   "iqr": 4.915188789367676
+  },
+  "centroid": {
+   "median": 1919.5011647847855,
+   "iqr": 955.6228235588501
+  },
+  "flatness": {
+   "median": 0.008415376069024205,
+   "iqr": 0.014421454892726615
+  },
+  "sub100_share": {
+   "median": 0.3084788918495178,
+   "iqr": 0.23900510743260384
+  },
+  "lowest_pitch": {
+   "median": 48.44970703125,
+   "iqr": 8.74786376953125
+  },
+  "harmonic_share": {
+   "median": 0.934226930141449,
+   "iqr": 0.04746490716934204
+  },
+  "clean_share": {
+   "median": 0.5352986811481769,
+   "iqr": 0.8107059736229635
+  },
+  "minor_share": {
+   "median": -0.010481942692458585,
+   "iqr": 0.3062023437567145
+  },
+  "chord_rate": {
+   "median": 0.5680096251757747,
+   "iqr": 0.22553323352567517
+  },
+  "repetitiveness": {
+   "median": 0.6661053895950317,
+   "iqr": 0.14066118001937866
+  },
+  "vocal_share": {
+   "median": 0.0607606191188097,
+   "iqr": 0.019881321117281914
+  },
+  "vocal_voiced": {
+   "median": 0.9607826229032024,
+   "iqr": 0.02727198460532998
+  },
+  "song_length": {
+   "median": 590.4735000000001,
+   "iqr": 170.23775
+  },
+  "vocal_presence": {
+   "median": 0.16666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

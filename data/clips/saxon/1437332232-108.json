@@ -1,0 +1,32 @@
+{
+ "id": "saxon/1437332232-108",
+ "band": "saxon",
+ "title": "Dallas 1PM (2009 Remaster)",
+ "source": "itunes",
+ "album": "Strong Arm of the Law (2009 Remaster)",
+ "year": 1980,
+ "itunes_year": 1980,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.499931973817478,
+  "tempo_var": 3.399970289288313,
+  "low_onset_rate": 5.166588562531179,
+  "lufs": -14.356812741645124,
+  "rms_dbfs": -13.39808337490111,
+  "crest": 13.268293380737305,
+  "centroid": 2156.514494745062,
+  "flatness": 0.014571084640920162,
+  "sub100_share": 0.2702637314796448,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8600555658340454,
+  "clean_share": 0.2745552977571539,
+  "minor_share": -0.05376441080120686,
+  "chord_rate": 0.6333237592780154,
+  "repetitiveness": 0.8816097378730774,
+  "vocal_share": 3.77988641275806e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 389.736
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "pantera/1163813822-105",
+ "band": "pantera",
+ "title": "Cemetery Gates",
+ "source": "itunes",
+ "album": "Cowboys from Hell",
+ "year": 1990,
+ "itunes_year": 1990,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 73.828125,
+  "onset_rate": 3.3321546119739955,
+  "tempo_var": 31.402478506364204,
+  "low_onset_rate": 4.1651932649674945,
+  "lufs": -12.011661414951243,
+  "rms_dbfs": -11.743813828982464,
+  "crest": 11.743813514709473,
+  "centroid": 2752.6185599966193,
+  "flatness": 0.03318043425679207,
+  "sub100_share": 0.11811937391757965,
+  "lowest_pitch": 161.4990234375,
+  "harmonic_share": 0.8222787380218506,
+  "clean_share": 0.14849187935034802,
+  "minor_share": -0.2688351871147262,
+  "chord_rate": 2.6657236895791963,
+  "repetitiveness": 0.818606972694397,
+  "vocal_share": 0.07925955206155777,
+  "vocal_voiced": 0.7153965785381027,
+  "song_length": 422.995
+ }
+}

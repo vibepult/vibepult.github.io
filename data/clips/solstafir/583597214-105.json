@@ -1,0 +1,32 @@
+{
+ "id": "solstafir/583597214-105",
+ "band": "solstafir",
+ "title": "Æra",
+ "source": "itunes",
+ "album": "Svartir Sandar",
+ "year": 2011,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.145498957474664,
+  "tempo_var": 25.479231911211663,
+  "low_onset_rate": 3.6753563981961888,
+  "lufs": -8.639644330042563,
+  "rms_dbfs": -7.830993975832483,
+  "crest": 7.830994129180908,
+  "centroid": 2396.9615835846907,
+  "flatness": 0.025340385735034943,
+  "sub100_share": 0.3513515889644623,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.6881985664367676,
+  "clean_share": 0.11249030256012413,
+  "minor_share": 0.04746479172930418,
+  "chord_rate": 1.336493235707705,
+  "repetitiveness": 0.7254837155342102,
+  "vocal_share": 0.2511206567287445,
+  "vocal_voiced": 0.8821942446043165,
+  "song_length": 292.92
+ }
+}

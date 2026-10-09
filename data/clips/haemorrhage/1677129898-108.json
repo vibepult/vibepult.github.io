@@ -1,0 +1,32 @@
+{
+ "id": "haemorrhage/1677129898-108",
+ "band": "haemorrhage",
+ "title": "Unlock the Morgue",
+ "source": "itunes",
+ "album": "Morgue Sweet Home",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 6.3817552005042915,
+  "tempo_var": 5.45301872740219,
+  "low_onset_rate": 6.983177156572759,
+  "lufs": -8.944483482122685,
+  "rms_dbfs": -8.791418719188332,
+  "crest": 8.79141902923584,
+  "centroid": 2639.9766897352033,
+  "flatness": 0.04575149342417717,
+  "sub100_share": 0.32950231432914734,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7398753762245178,
+  "clean_share": 0.0,
+  "minor_share": -0.08585175718703347,
+  "chord_rate": 2.5393371478446394,
+  "repetitiveness": 0.9591423869132996,
+  "vocal_share": 0.029005639255046844,
+  "vocal_voiced": 0.09192200557103064,
+  "song_length": 172.16
+ }
+}

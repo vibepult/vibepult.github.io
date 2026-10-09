@@ -1,0 +1,32 @@
+{
+ "id": "caliban/1789598213-107",
+ "band": "caliban",
+ "title": "Alte Seele",
+ "source": "itunes",
+ "album": "Back From Hell",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 6.395948749016118,
+  "tempo_var": 8.179595606103774,
+  "low_onset_rate": 7.7950625378633935,
+  "lufs": -8.634129259170587,
+  "rms_dbfs": -7.8700013337289745,
+  "crest": 7.870001792907715,
+  "centroid": 2730.838814441532,
+  "flatness": 0.05264021456241608,
+  "sub100_share": 0.45972782373428345,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7637820839881897,
+  "clean_share": 0.005413766434648105,
+  "minor_share": -0.08823935092949586,
+  "chord_rate": 0.8328058266948071,
+  "repetitiveness": 0.9512211084365845,
+  "vocal_share": 0.14834114909172058,
+  "vocal_voiced": 0.14579439252336449,
+  "song_length": 227.885
+ }
+}

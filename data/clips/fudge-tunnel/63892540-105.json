@@ -1,0 +1,32 @@
+{
+ "id": "fudge-tunnel/63892540-105",
+ "band": "fudge-tunnel",
+ "title": "Six Eight",
+ "source": "itunes",
+ "album": "The Complicated Futility of Ignorance",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 2.405687824273869,
+  "tempo_var": 3.7868602169589396,
+  "low_onset_rate": 5.21232361926005,
+  "lufs": -15.512308381848584,
+  "rms_dbfs": -14.117938546445433,
+  "crest": 14.117938041687012,
+  "centroid": 1684.6956464191746,
+  "flatness": 0.005259192548692226,
+  "sub100_share": 0.49178189039230347,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.8042106032371521,
+  "clean_share": 0.6881303335919318,
+  "minor_share": 0.19625960251964503,
+  "chord_rate": 2.0047398535615577,
+  "repetitiveness": 0.7454379796981812,
+  "vocal_share": 0.007632776629179716,
+  "vocal_voiced": 0.5771428571428572,
+  "song_length": 432.707
+ }
+}

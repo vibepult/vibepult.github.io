@@ -1,0 +1,32 @@
+{
+ "id": "within-temptation/1553279262-106",
+ "band": "within-temptation",
+ "title": "Iron",
+ "source": "itunes",
+ "album": "The Unforgiving",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.6999836735681115,
+  "tempo_var": 6.608789231733893,
+  "low_onset_rate": 3.3666463090170278,
+  "lufs": -8.110353186881632,
+  "rms_dbfs": -6.86210681623516,
+  "crest": 6.862106800079346,
+  "centroid": 2682.864332704347,
+  "flatness": 0.04872078076004982,
+  "sub100_share": 0.566604495048523,
+  "lowest_pitch": 29.608154296875,
+  "harmonic_share": 0.8283730745315552,
+  "clean_share": 0.07424593967517401,
+  "minor_share": 0.2004582131386612,
+  "chord_rate": 1.3333252708978327,
+  "repetitiveness": 0.8541637063026428,
+  "vocal_share": 5.724476750401664e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 341.0
+ }
+}

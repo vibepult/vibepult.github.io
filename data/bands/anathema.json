@@ -1,0 +1,127 @@
+{
+ "slug": "anathema",
+ "name": "Anathema",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 428003344,
+  "deezer": 1433,
+  "spotify": "0ZXKT0FCsLWkSLCjoBJgBX"
+ },
+ "metadata": {
+  "formed": 1990,
+  "split": 2020,
+  "country": "GB",
+  "status": "split-up",
+  "members": 5,
+  "past_members": 6,
+  "full_lengths": 13,
+  "genre": "Doom/Death Metal (early); Atmospheric Progressive Rock (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 84569,
+  "themes": "Doom, Suffering, Love, Despair, Spirituality",
+  "release_year": 2002
+ },
+ "partial": false,
+ "clips": [
+  "anathema/76586681-105",
+  "anathema/6818250245-105",
+  "anathema/1189342856-106",
+  "anathema/110820843-107",
+  "anathema/970424476-107",
+  "anathema/970425242-105",
+  "anathema/970424341-105",
+  "anathema/282920209-110",
+  "anathema/684127793-105",
+  "anathema/1710165048-105",
+  "anathema/1030782699-105",
+  "anathema/1218795282-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 34.488921884990404
+  },
+  "onset_rate": {
+   "median": 3.2862097995101065,
+   "iqr": 1.1509101796233572
+  },
+  "tempo_var": {
+   "median": 9.34178498151175,
+   "iqr": 15.861924471964404
+  },
+  "low_onset_rate": {
+   "median": 4.961731137564855,
+   "iqr": 1.1020745951122528
+  },
+  "lufs": {
+   "median": -14.050094864102764,
+   "iqr": 5.208819573122231
+  },
+  "rms_dbfs": {
+   "median": -12.896302820365786,
+   "iqr": 6.429108915013172
+  },
+  "crest": {
+   "median": 12.896303176879883,
+   "iqr": 5.028323173522949
+  },
+  "centroid": {
+   "median": 1578.7102681877554,
+   "iqr": 585.7044639038729
+  },
+  "flatness": {
+   "median": 0.005945093231275678,
+   "iqr": 0.005929343431489542
+  },
+  "sub100_share": {
+   "median": 0.23839394748210907,
+   "iqr": 0.3794882483780384
+  },
+  "lowest_pitch": {
+   "median": 63.2537841796875,
+   "iqr": 43.06640625
+  },
+  "harmonic_share": {
+   "median": 0.9174891114234924,
+   "iqr": 0.18546117842197418
+  },
+  "clean_share": {
+   "median": 0.7199379363847944,
+   "iqr": 0.3493538742923572
+  },
+  "minor_share": {
+   "median": 0.10202923514637882,
+   "iqr": 0.28471864199949315
+  },
+  "chord_rate": {
+   "median": 0.8508294743732725,
+   "iqr": 0.7027322184161477
+  },
+  "repetitiveness": {
+   "median": 0.7554323375225067,
+   "iqr": 0.10816416144371033
+  },
+  "vocal_share": {
+   "median": 0.1549329236149788,
+   "iqr": 0.2456668894737959
+  },
+  "vocal_voiced": {
+   "median": 0.8997701978432819,
+   "iqr": 0.06551751828260177
+  },
+  "song_length": {
+   "median": 277.8535,
+   "iqr": 116.1875
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.0,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

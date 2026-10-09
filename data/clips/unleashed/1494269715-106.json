@@ -1,0 +1,32 @@
+{
+ "id": "unleashed/1494269715-106",
+ "band": "unleashed",
+ "title": "Vinland",
+ "source": "itunes",
+ "album": "Odalheim",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 1.3699055666003976,
+  "tempo_var": 12.930943980802235,
+  "low_onset_rate": 6.582229185860447,
+  "lufs": -20.333266034491643,
+  "rms_dbfs": -18.338546145599118,
+  "crest": 17.60808753967285,
+  "centroid": 1051.1044257750457,
+  "flatness": 0.0015726082492619753,
+  "sub100_share": 0.4046480059623718,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.8896415829658508,
+  "clean_share": 0.9550038789759504,
+  "minor_share": -0.056715557446486264,
+  "chord_rate": 0.8353082723173156,
+  "repetitiveness": 0.913384199142456,
+  "vocal_share": 2.320268322364427e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 238.427
+ }
+}

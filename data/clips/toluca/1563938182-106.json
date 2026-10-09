@@ -1,0 +1,32 @@
+{
+ "id": "toluca/1563938182-106",
+ "band": "toluca",
+ "title": "Raum",
+ "source": "itunes",
+ "album": "Soras",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.1718015080250206,
+  "tempo_var": 2.247562623733417,
+  "low_onset_rate": 2.8734604567715656,
+  "lufs": -16.517577220573525,
+  "rms_dbfs": -16.214964162164208,
+  "crest": 16.214963912963867,
+  "centroid": 1242.392805429624,
+  "flatness": 0.002872992306947708,
+  "sub100_share": 0.051851458847522736,
+  "lowest_pitch": 102.28271484375,
+  "harmonic_share": 0.9583089351654053,
+  "clean_share": 0.8867339022498061,
+  "minor_share": 0.14175907250527886,
+  "chord_rate": 0.7684836105319304,
+  "repetitiveness": 0.6630935668945312,
+  "vocal_share": 0.030459046363830566,
+  "vocal_voiced": 0.0,
+  "song_length": 411.696
+ }
+}

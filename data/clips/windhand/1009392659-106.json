@@ -1,0 +1,32 @@
+{
+ "id": "windhand/1009392659-106",
+ "band": "windhand",
+ "title": "Hyperion",
+ "source": "itunes",
+ "album": "Grief's Infernal Flower",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 2.399963719369322,
+  "tempo_var": 7.663029870661007,
+  "low_onset_rate": 6.63323305770132,
+  "lufs": -9.188202081571701,
+  "rms_dbfs": -7.8368346893884935,
+  "crest": 7.836834907531738,
+  "centroid": 1679.9407324139959,
+  "flatness": 0.00618177093565464,
+  "sub100_share": 0.3871800899505615,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8872296214103699,
+  "clean_share": 0.551430781129157,
+  "minor_share": -0.03434279490794745,
+  "chord_rate": 1.433311665734456,
+  "repetitiveness": 0.6678105592727661,
+  "vocal_share": 0.002699557924643159,
+  "vocal_voiced": 1.0,
+  "song_length": 329.04
+ }
+}

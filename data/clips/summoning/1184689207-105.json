@@ -1,0 +1,32 @@
+{
+ "id": "summoning/1184689207-105",
+ "band": "summoning",
+ "title": "Beleriand",
+ "source": "itunes",
+ "album": "Oath Bound",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.6,
+  "tempo_var": 17.254590377624243,
+  "low_onset_rate": 6.666666666666667,
+  "lufs": -9.12292208466287,
+  "rms_dbfs": -9.265363277705827,
+  "crest": 9.265363693237305,
+  "centroid": 2292.5766333215447,
+  "flatness": 0.007687498349696398,
+  "sub100_share": 0.10511495918035507,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.8820987343788147,
+  "clean_share": 0.26160990712074306,
+  "minor_share": -0.3173906523633821,
+  "chord_rate": 1.2,
+  "repetitiveness": 0.899436891078949,
+  "vocal_share": 0.00508121307939291,
+  "vocal_voiced": 0.100418410041841,
+  "song_length": 567.947
+ }
+}

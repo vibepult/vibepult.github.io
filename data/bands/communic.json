@@ -1,0 +1,127 @@
+{
+ "slug": "communic",
+ "name": "Communic",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 36768287,
+  "deezer": 65406,
+  "spotify": "56w3AIFmUXAMlij4gvgEMF"
+ },
+ "metadata": {
+  "formed": 2003,
+  "split": null,
+  "country": "NO",
+  "status": "active",
+  "members": 4,
+  "past_members": 1,
+  "full_lengths": 6,
+  "genre": "Progressive Heavy/Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 1186,
+  "themes": "Life, Psychology, Dreams",
+  "release_year": 2008
+ },
+ "partial": false,
+ "clips": [
+  "communic/1460470544-104",
+  "communic/1460468787-104",
+  "communic/1460465311-106",
+  "communic/1460470544-103",
+  "communic/1460468787-105",
+  "communic/1460465311-105",
+  "communic/1460470544-105",
+  "communic/1460468787-103",
+  "communic/1460465311-107",
+  "communic/1460470544-102",
+  "communic/1460468787-106",
+  "communic/1460465311-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.19921875,
+   "iqr": 25.633073840434747
+  },
+  "onset_rate": {
+   "median": 2.9235789531106047,
+   "iqr": 1.378258649323571
+  },
+  "tempo_var": {
+   "median": 12.491866635369242,
+   "iqr": 15.976242691424156
+  },
+  "low_onset_rate": {
+   "median": 1.9045028608834798,
+   "iqr": 1.311433987538186
+  },
+  "lufs": {
+   "median": -10.432639623031047,
+   "iqr": 3.455083613074077
+  },
+  "rms_dbfs": {
+   "median": -10.347298032012322,
+   "iqr": 2.948078963267603
+  },
+  "crest": {
+   "median": 10.34729814529419,
+   "iqr": 2.9480791091918945
+  },
+  "centroid": {
+   "median": 2304.6360021384107,
+   "iqr": 724.9053258674687
+  },
+  "flatness": {
+   "median": 0.019593464210629463,
+   "iqr": 0.014079832239076495
+  },
+  "sub100_share": {
+   "median": 0.35695791244506836,
+   "iqr": 0.17589287087321281
+  },
+  "lowest_pitch": {
+   "median": 71.3287353515625,
+   "iqr": 28.2623291015625
+  },
+  "harmonic_share": {
+   "median": 0.8399001657962799,
+   "iqr": 0.06343089044094086
+  },
+  "clean_share": {
+   "median": 0.29712955779674166,
+   "iqr": 0.5265709852598913
+  },
+  "minor_share": {
+   "median": 0.03000829910620295,
+   "iqr": 0.2126339137204738
+  },
+  "chord_rate": {
+   "median": 1.436730228385783,
+   "iqr": 0.8102490241477962
+  },
+  "repetitiveness": {
+   "median": 0.7791868448257446,
+   "iqr": 0.12486706674098969
+  },
+  "vocal_share": {
+   "median": 0.14104829728603363,
+   "iqr": 0.008356273174285889
+  },
+  "vocal_voiced": {
+   "median": 0.8748795906080675,
+   "iqr": 0.02057495484647809
+  },
+  "song_length": {
+   "median": 433.37850000000003,
+   "iqr": 90.33675000000005
+  },
+  "vocal_presence": {
+   "median": 0.16666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

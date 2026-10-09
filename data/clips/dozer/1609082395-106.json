@@ -1,0 +1,32 @@
+{
+ "id": "dozer/1609082395-106",
+ "band": "dozer",
+ "title": "Message Through the Horses",
+ "source": "itunes",
+ "album": "Beyond Colossal",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 0.9355452649953935,
+  "tempo_var": 17.99910264473744,
+  "low_onset_rate": 4.443840008728119,
+  "lufs": -10.047687551049258,
+  "rms_dbfs": -9.54296224484474,
+  "crest": 9.542962074279785,
+  "centroid": 2245.48988162185,
+  "flatness": 0.021809985861182213,
+  "sub100_share": 0.12910787761211395,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.8155288696289062,
+  "clean_share": 0.007757951900698216,
+  "minor_share": -0.09398241816858144,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.8834987878799438,
+  "vocal_share": 0.06556907296180725,
+  "vocal_voiced": 0.8740740740740741,
+  "song_length": 181.093
+ }
+}

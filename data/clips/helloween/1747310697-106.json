@@ -1,0 +1,32 @@
+{
+ "id": "helloween/1747310697-106",
+ "band": "helloween",
+ "title": "We Got the Right (2024 Remaster)",
+ "source": "itunes",
+ "album": "Keeper of the Seven Keys, Pt. 2 (2024 Remaster)",
+ "year": 1987,
+ "itunes_year": 1988,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 78.30255681818181,
+  "onset_rate": 4.599930462124534,
+  "tempo_var": 3.231186708105007,
+  "low_onset_rate": 5.433251198016659,
+  "lufs": -10.304850896102053,
+  "rms_dbfs": -10.431585141179083,
+  "crest": 10.431585311889648,
+  "centroid": 2651.6685231941365,
+  "flatness": 0.03205765783786774,
+  "sub100_share": 0.16041648387908936,
+  "lowest_pitch": 123.81591796875,
+  "harmonic_share": 0.7234382033348083,
+  "clean_share": 0.06109822119102862,
+  "minor_share": 0.2721131613772265,
+  "chord_rate": 0.9999848830705508,
+  "repetitiveness": 0.8475157618522644,
+  "vocal_share": 0.27504631876945496,
+  "vocal_voiced": 0.7716460513796385,
+  "song_length": 308.507
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "candlemass/1189441000-103",
+ "band": "candlemass",
+ "title": "Crystal Ball",
+ "source": "itunes",
+ "album": "Epicus Doomicus Metallicus",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.066666666666666,
+  "tempo_var": 5.1918175048413,
+  "low_onset_rate": 6.533333333333333,
+  "lufs": -7.08805600674085,
+  "rms_dbfs": -6.795996777189877,
+  "crest": 6.79599666595459,
+  "centroid": 2971.403982817333,
+  "flatness": 0.057482946664094925,
+  "sub100_share": 0.3072032332420349,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7501257658004761,
+  "clean_share": 0.0,
+  "minor_share": 0.046553326764266434,
+  "chord_rate": 2.0,
+  "repetitiveness": 0.8733354210853577,
+  "vocal_share": 0.24330177903175354,
+  "vocal_voiced": 0.7336448598130841,
+  "song_length": 323.0
+ }
+}

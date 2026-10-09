@@ -1,0 +1,32 @@
+{
+ "id": "dio/1134781314-105",
+ "band": "dio",
+ "title": "Hungry for Heaven",
+ "source": "itunes",
+ "album": "Sacred Heart (Remastered)",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.732114683640716,
+  "tempo_var": 3.3999784239572333,
+  "low_onset_rate": 4.798433164680921,
+  "lufs": -9.883580799189705,
+  "rms_dbfs": -10.137070108226403,
+  "crest": 10.137070655822754,
+  "centroid": 2934.70045890627,
+  "flatness": 0.045511018484830856,
+  "sub100_share": 0.1844683140516281,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7066769599914551,
+  "clean_share": 0.01237432327919567,
+  "minor_share": -0.02095076654724415,
+  "chord_rate": 1.932702246885371,
+  "repetitiveness": 0.8756964206695557,
+  "vocal_share": 0.26223835349082947,
+  "vocal_voiced": 0.8160270880361173,
+  "song_length": 249.284
+ }
+}

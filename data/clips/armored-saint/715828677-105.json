@@ -1,0 +1,32 @@
+{
+ "id": "armored-saint/715828677-105",
+ "band": "armored-saint",
+ "title": "Conqueror",
+ "source": "itunes",
+ "album": "Delirious Nomad",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.045261964796587,
+  "tempo_var": 1.829837045298991,
+  "low_onset_rate": 6.515404524075062,
+  "lufs": -10.349113167415789,
+  "rms_dbfs": -10.87106347198378,
+  "crest": 10.871063232421875,
+  "centroid": 2971.0832674055996,
+  "flatness": 0.05200900137424469,
+  "sub100_share": 0.17807802557945251,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.6363157033920288,
+  "clean_share": 0.01008533747090768,
+  "minor_share": -0.019688886967171415,
+  "chord_rate": 1.871090529990787,
+  "repetitiveness": 0.9127261638641357,
+  "vocal_share": 0.2910994589328766,
+  "vocal_voiced": 0.41800947867298577,
+  "song_length": 268.0
+ }
+}

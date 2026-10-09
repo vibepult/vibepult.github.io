@@ -1,0 +1,32 @@
+{
+ "id": "jack-frost/265250569-105",
+ "band": "jack-frost",
+ "title": "Doomride",
+ "source": "itunes",
+ "album": "Eden",
+ "year": 1995,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.374645420161955,
+  "tempo_var": 3.8619163687501255,
+  "low_onset_rate": 4.610901663191583,
+  "lufs": -9.759768322240475,
+  "rms_dbfs": -9.400048278485066,
+  "crest": 9.400047302246094,
+  "centroid": 2428.2152873962527,
+  "flatness": 0.013477233238518238,
+  "sub100_share": 0.2555442154407501,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.8830853700637817,
+  "clean_share": 0.038789759503491075,
+  "minor_share": -0.17741800086644793,
+  "chord_rate": 0.8353082723173156,
+  "repetitiveness": 0.7417647838592529,
+  "vocal_share": 5.963995022284507e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 149.267
+ }
+}

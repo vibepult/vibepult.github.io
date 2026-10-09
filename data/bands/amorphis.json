@@ -1,0 +1,127 @@
+{
+ "slug": "amorphis",
+ "name": "Amorphis",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 5545051,
+  "deezer": 3579,
+  "spotify": "2UOVgpgiNTC6KK0vSC77aD"
+ },
+ "metadata": {
+  "formed": 1990,
+  "split": null,
+  "country": "FI",
+  "status": "active",
+  "members": 6,
+  "past_members": 5,
+  "full_lengths": 16,
+  "genre": "Progressive/Death/Doom Metal (early); Melodic Heavy Metal/Rock (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 100155,
+  "themes": "Finnish legends and folklore, Kalevala, Life, Introspection, Relationships, Divinity",
+  "release_year": 2009
+ },
+ "partial": false,
+ "clips": [
+  "amorphis/75033542-105",
+  "amorphis/75088285-105",
+  "amorphis/75115224-105",
+  "amorphis/1776752475-105",
+  "amorphis/1776754870-106",
+  "amorphis/1776755696-106",
+  "amorphis/1776755337-107",
+  "amorphis/1776755067-107",
+  "amorphis/1776755978-106",
+  "amorphis/1776757022-106",
+  "amorphis/1776756675-106",
+  "amorphis/1776761130-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 33.7353515625
+  },
+  "onset_rate": {
+   "median": 4.0,
+   "iqr": 1.0728342839573028
+  },
+  "tempo_var": {
+   "median": 6.111063156002168,
+   "iqr": 5.883709385026528
+  },
+  "low_onset_rate": {
+   "median": 5.373144466534129,
+   "iqr": 2.4333333333333336
+  },
+  "lufs": {
+   "median": -8.820997318792049,
+   "iqr": 1.107189989316252
+  },
+  "rms_dbfs": {
+   "median": -8.563880050825626,
+   "iqr": 0.8146406178990411
+  },
+  "crest": {
+   "median": 8.563880443572998,
+   "iqr": 0.8146405220031738
+  },
+  "centroid": {
+   "median": 2490.629464374573,
+   "iqr": 259.7384938115342
+  },
+  "flatness": {
+   "median": 0.029230879619717598,
+   "iqr": 0.010678175836801529
+  },
+  "sub100_share": {
+   "median": 0.32948999106884,
+   "iqr": 0.1161443442106247
+  },
+  "lowest_pitch": {
+   "median": 65.9454345703125,
+   "iqr": 34.991455078125
+  },
+  "harmonic_share": {
+   "median": 0.794064074754715,
+   "iqr": 0.07259739935398102
+  },
+  "clean_share": {
+   "median": 0.02866569231914725,
+   "iqr": 0.05708398880372763
+  },
+  "minor_share": {
+   "median": 0.029362435619149224,
+   "iqr": 0.1576957655853657
+  },
+  "chord_rate": {
+   "median": 1.55,
+   "iqr": 0.31713397537898214
+  },
+  "repetitiveness": {
+   "median": 0.8129493892192841,
+   "iqr": 0.051611900329589844
+  },
+  "vocal_share": {
+   "median": 0.08364836871623993,
+   "iqr": 0.03089124709367752
+  },
+  "vocal_voiced": {
+   "median": 0.718508997429306,
+   "iqr": 0.4350713898427616
+  },
+  "song_length": {
+   "median": 279.3935,
+   "iqr": 57.03
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

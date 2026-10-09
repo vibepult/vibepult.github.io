@@ -1,0 +1,32 @@
+{
+ "id": "avatar/1841409771-107",
+ "band": "avatar",
+ "title": "Fiddler's Farewell",
+ "source": "itunes",
+ "album": "Feathers & Flesh",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 2.232513226433827,
+  "tempo_var": 25.42414164728462,
+  "low_onset_rate": 1.9326233900471936,
+  "lufs": -15.856467411217016,
+  "rms_dbfs": -15.507699992517372,
+  "crest": 14.588071823120117,
+  "centroid": 1267.0646358826532,
+  "flatness": 0.0043393997475504875,
+  "sub100_share": 0.11023421585559845,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8695603013038635,
+  "clean_share": 0.8375870069605569,
+  "minor_share": 0.388316260167717,
+  "chord_rate": 0.8663484162280523,
+  "repetitiveness": 0.5375980734825134,
+  "vocal_share": 0.5826104879379272,
+  "vocal_voiced": 0.8155515370705244,
+  "song_length": 297.555
+ }
+}

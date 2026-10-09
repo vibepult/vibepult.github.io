@@ -1,0 +1,32 @@
+{
+ "id": "deep-purple/616738145-106",
+ "band": "deep-purple",
+ "title": "Above and Beyond",
+ "source": "itunes",
+ "album": "Now What ?!",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.040522111235029,
+  "tempo_var": 4.912602879888688,
+  "low_onset_rate": 3.374645420161955,
+  "lufs": -10.065908369156846,
+  "rms_dbfs": -9.472355598237007,
+  "crest": 9.472354888916016,
+  "centroid": 1896.5618195599986,
+  "flatness": 0.014595512300729752,
+  "sub100_share": 0.2233801633119583,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.8027123808860779,
+  "clean_share": 0.4134988363072149,
+  "minor_share": -0.1734704202409626,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.7967052459716797,
+  "vocal_share": 0.0004051381256431341,
+  "vocal_voiced": 0.40606060606060607,
+  "song_length": 330.813
+ }
+}

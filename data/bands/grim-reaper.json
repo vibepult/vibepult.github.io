@@ -1,0 +1,123 @@
+{
+ "slug": "grim-reaper",
+ "name": "Grim Reaper",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 214516,
+  "deezer": 76263,
+  "spotify": "3CSQtK60sg2jNNxnpThSN1"
+ },
+ "metadata": {
+  "formed": 1979,
+  "split": 1988,
+  "country": "GB",
+  "status": "split-up",
+  "members": 4,
+  "past_members": 8,
+  "full_lengths": 3,
+  "genre": "NWOBHM, Heavy Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 5408,
+  "themes": "Metal, Death, Defiance, Darkness, Women, Beasts, Battle, Humour",
+  "release_year": 1983
+ },
+ "partial": false,
+ "clips": [
+  "grim-reaper/1835427124-104",
+  "grim-reaper/1835427124-105",
+  "grim-reaper/1835427124-103",
+  "grim-reaper/1835427124-106",
+  "grim-reaper/1835427124-102",
+  "grim-reaper/1835427124-107",
+  "grim-reaper/1835427124-101",
+  "grim-reaper/1835427124-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 97.54356971153845,
+   "iqr": 8.888260009118042
+  },
+  "onset_rate": {
+   "median": 5.149922147813337,
+   "iqr": 0.8666535653278107
+  },
+  "tempo_var": {
+   "median": 12.271455760521537,
+   "iqr": 10.357363543643752
+  },
+  "low_onset_rate": {
+   "median": 6.449902495805052,
+   "iqr": 1.1249829934543705
+  },
+  "lufs": {
+   "median": -9.549896986561592,
+   "iqr": 0.8925637741248167
+  },
+  "rms_dbfs": {
+   "median": -9.594318222404151,
+   "iqr": 0.967599153202249
+  },
+  "crest": {
+   "median": 9.594318389892578,
+   "iqr": 0.9675986766815186
+  },
+  "centroid": {
+   "median": 3127.5636815806242,
+   "iqr": 452.3922642328953
+  },
+  "flatness": {
+   "median": 0.046963395550847054,
+   "iqr": 0.013865748420357704
+  },
+  "sub100_share": {
+   "median": 0.1908823400735855,
+   "iqr": 0.06624451279640198
+  },
+  "lowest_pitch": {
+   "median": 64.599609375,
+   "iqr": 16.14990234375
+  },
+  "harmonic_share": {
+   "median": 0.7029176354408264,
+   "iqr": 0.0775844156742096
+  },
+  "clean_share": {
+   "median": 0.0,
+   "iqr": 0.0007733952049497294
+  },
+  "minor_share": {
+   "median": 0.01628185531810744,
+   "iqr": 0.3207716130778783
+  },
+  "chord_rate": {
+   "median": 2.2666324016265817,
+   "iqr": 0.3749943311514561
+  },
+  "repetitiveness": {
+   "median": 0.9222033619880676,
+   "iqr": 0.0326317697763443
+  },
+  "vocal_share": {
+   "median": 0.19285712391138077,
+   "iqr": 0.05016529560089111
+  },
+  "vocal_voiced": {
+   "median": 0.46596115594778115,
+   "iqr": 0.19550542451481068
+  },
+  "song_length": {
+   "median": 240.209,
+   "iqr": 78.661
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.5
+ },
+ "sources_failed": []
+}

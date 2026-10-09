@@ -1,0 +1,32 @@
+{
+ "id": "gamma-ray/1642732385-108",
+ "band": "gamma-ray",
+ "title": "Pray",
+ "source": "itunes",
+ "album": "Somewhere out in Space",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.94265504533773,
+  "tempo_var": 2.081645159115445,
+  "low_onset_rate": 5.680096251757746,
+  "lufs": -13.53816936135401,
+  "rms_dbfs": -13.11305996392779,
+  "crest": 13.113059997558594,
+  "centroid": 2407.6805967713312,
+  "flatness": 0.021529702469706535,
+  "sub100_share": 0.24575550854206085,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.8669490814208984,
+  "clean_share": 0.0791311093871218,
+  "minor_share": -0.12577806296280547,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.5387999415397644,
+  "vocal_share": 0.26284974813461304,
+  "vocal_voiced": 0.7757166947723441,
+  "song_length": 285.0
+ }
+}

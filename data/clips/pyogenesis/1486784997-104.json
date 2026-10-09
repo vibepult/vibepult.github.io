@@ -1,0 +1,32 @@
+{
+ "id": "pyogenesis/1486784997-104",
+ "band": "pyogenesis",
+ "title": "I Can't Breathe (Monologue)",
+ "source": "itunes",
+ "album": "A Silent Soul Screams Loud",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.410427677835426,
+  "tempo_var": 1.793504546202161,
+  "low_onset_rate": 5.746920913543131,
+  "lufs": -13.726943771361755,
+  "rms_dbfs": -12.674946713714155,
+  "crest": 12.674946784973145,
+  "centroid": 2666.635663894324,
+  "flatness": 0.041616007685661316,
+  "sub100_share": 0.47493448853492737,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.6627083420753479,
+  "clean_share": 0.012412723041117145,
+  "minor_share": 0.2598245267679304,
+  "chord_rate": 1.9379151917761723,
+  "repetitiveness": 0.7860479354858398,
+  "vocal_share": 0.11621350795030594,
+  "vocal_voiced": 0.7623355263157895,
+  "song_length": 274.216
+ }
+}

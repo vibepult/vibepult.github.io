@@ -1,0 +1,32 @@
+{
+ "id": "ankhara/373369219-108",
+ "band": "ankhara",
+ "title": "Principio Y Fin",
+ "source": "itunes",
+ "album": "Sombras del Pasado",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 3.207583765698492,
+  "tempo_var": 20.478392409865528,
+  "low_onset_rate": 3.9760673762304224,
+  "lufs": -12.274809333378188,
+  "rms_dbfs": -11.277497060217637,
+  "crest": 11.277496337890625,
+  "centroid": 2112.6026460908442,
+  "flatness": 0.010634828358888626,
+  "sub100_share": 0.4427814781665802,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7888263463973999,
+  "clean_share": 0.4359968968192397,
+  "minor_share": 0.1728092621718027,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.6518125534057617,
+  "vocal_share": 0.10868068784475327,
+  "vocal_voiced": 0.8062015503875969,
+  "song_length": 346.133
+ }
+}

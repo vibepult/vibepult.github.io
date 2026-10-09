@@ -1,0 +1,32 @@
+{
+ "id": "gwar/210631125-109",
+ "band": "gwar",
+ "title": "Jagermonsta",
+ "source": "itunes",
+ "album": "We Kill Everything",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 6.733333333333333,
+  "tempo_var": 14.370640153157133,
+  "low_onset_rate": 6.5,
+  "lufs": -11.139843463465235,
+  "rms_dbfs": -10.583001122154856,
+  "crest": 10.583001136779785,
+  "centroid": 2111.4310407034977,
+  "flatness": 0.019900262355804443,
+  "sub100_share": 0.14141984283924103,
+  "lowest_pitch": 139.9658203125,
+  "harmonic_share": 0.6988605260848999,
+  "clean_share": 0.06037151702786378,
+  "minor_share": -0.2017472833909657,
+  "chord_rate": 2.4,
+  "repetitiveness": 0.8524858951568604,
+  "vocal_share": 0.13935813307762146,
+  "vocal_voiced": 0.23444976076555024,
+  "song_length": 170.907
+ }
+}

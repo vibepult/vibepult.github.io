@@ -1,0 +1,32 @@
+{
+ "id": "wake/466601020-107",
+ "band": "wake",
+ "title": "Leeches",
+ "source": "itunes",
+ "album": "Leeches",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.0428920380158075,
+  "tempo_var": 1.4613843416737309,
+  "low_onset_rate": 5.34597294283082,
+  "lufs": -10.784827375007646,
+  "rms_dbfs": -9.798108602989343,
+  "crest": 9.798108100891113,
+  "centroid": 3017.8422182124186,
+  "flatness": 0.04673503339290619,
+  "sub100_share": 0.4202731251716614,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7535525560379028,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": -0.0638916666129779,
+  "chord_rate": 2.205213838917713,
+  "repetitiveness": 0.8925604820251465,
+  "vocal_share": 0.06165051832795143,
+  "vocal_voiced": 0.41114982578397213,
+  "song_length": 177.059
+ }
+}

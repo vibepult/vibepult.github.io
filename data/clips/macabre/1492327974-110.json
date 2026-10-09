@@ -1,0 +1,32 @@
+{
+ "id": "macabre/1492327974-110",
+ "band": "macabre",
+ "title": "The Wüstenfeld Man Eater",
+ "source": "itunes",
+ "album": "Murder Metal (Remastered)",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 1.8042658682054018,
+  "tempo_var": 18.228155476252624,
+  "low_onset_rate": 2.9736974494496438,
+  "lufs": -8.00653108280544,
+  "rms_dbfs": -8.59167429380131,
+  "crest": 8.591673851013184,
+  "centroid": 2998.355823551262,
+  "flatness": 0.05132750794291496,
+  "sub100_share": 0.2629401385784149,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.7415518164634705,
+  "clean_share": 0.017843289371605897,
+  "minor_share": 0.14206649650171405,
+  "chord_rate": 2.5393371478446394,
+  "repetitiveness": 0.8493918776512146,
+  "vocal_share": 0.042239733040332794,
+  "vocal_voiced": 0.0,
+  "song_length": 189.8
+ }
+}

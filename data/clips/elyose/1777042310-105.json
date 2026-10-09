@@ -1,0 +1,32 @@
+{
+ "id": "elyose/1777042310-105",
+ "band": "elyose",
+ "title": "L’écho des délices",
+ "source": "itunes",
+ "album": "Évidence",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.0999682544481564,
+  "tempo_var": 12.319863184814366,
+  "low_onset_rate": 2.966621819775967,
+  "lufs": -10.35255139130777,
+  "rms_dbfs": -9.647921274684757,
+  "crest": 9.647921562194824,
+  "centroid": 2629.787864857633,
+  "flatness": 0.03478739410638809,
+  "sub100_share": 0.49020954966545105,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8298994898796082,
+  "clean_share": 0.0448569218870843,
+  "minor_share": 0.09108077664215111,
+  "chord_rate": 1.9666369367054164,
+  "repetitiveness": 0.9144127368927002,
+  "vocal_share": 0.15795807540416718,
+  "vocal_voiced": 0.8149324861000794,
+  "song_length": 237.865
+ }
+}

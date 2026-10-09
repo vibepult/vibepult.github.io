@@ -1,0 +1,32 @@
+{
+ "id": "amebix/1220823490-107",
+ "band": "amebix",
+ "title": "Sonic Mass Part 2",
+ "source": "itunes",
+ "album": "Sonic Mass",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 6.181281215148136,
+  "tempo_var": 19.540998819119046,
+  "low_onset_rate": 8.152608737817001,
+  "lufs": -8.55682803085608,
+  "rms_dbfs": -7.568843571307921,
+  "crest": 7.568843841552734,
+  "centroid": 2188.8871010654875,
+  "flatness": 0.02190760336816311,
+  "sub100_share": 0.41456225514411926,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8080772161483765,
+  "clean_share": 0.037238169123351435,
+  "minor_share": -0.02231991005525419,
+  "chord_rate": 2.2720385007030983,
+  "repetitiveness": 0.9684590697288513,
+  "vocal_share": 0.06647202372550964,
+  "vocal_voiced": 0.08488612836438923,
+  "song_length": 234.88
+ }
+}

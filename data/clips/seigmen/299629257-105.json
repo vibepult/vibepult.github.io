@@ -1,0 +1,32 @@
+{
+ "id": "seigmen/299629257-105",
+ "band": "seigmen",
+ "title": "Ameneon",
+ "source": "itunes",
+ "album": "Ameneon",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.443840008728119,
+  "tempo_var": 3.3227130162471563,
+  "low_onset_rate": 4.644313994084275,
+  "lufs": -24.06514931370077,
+  "rms_dbfs": -23.28617947038812,
+  "crest": 19.207170486450195,
+  "centroid": 1228.0098855972215,
+  "flatness": 0.0012746365973725915,
+  "sub100_share": 0.0015838512917980552,
+  "lowest_pitch": 123.81591796875,
+  "harmonic_share": 0.9755622744560242,
+  "clean_share": 0.948021722265322,
+  "minor_share": 0.05375415112261395,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.6667904257774353,
+  "vocal_share": 1.871510676210164e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 196.064
+ }
+}

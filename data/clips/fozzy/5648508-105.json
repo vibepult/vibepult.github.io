@@ -1,0 +1,32 @@
+{
+ "id": "fozzy/5648508-105",
+ "band": "fozzy",
+ "title": "Live Wire",
+ "source": "itunes",
+ "album": "Fozzy",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.412797604616205,
+  "tempo_var": 4.263256414560601e-14,
+  "low_onset_rate": 5.34597294283082,
+  "lufs": -9.818082034765041,
+  "rms_dbfs": -9.19045158110181,
+  "crest": 9.190451622009277,
+  "centroid": 2610.098601454546,
+  "flatness": 0.028805941343307495,
+  "sub100_share": 0.41290268301963806,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7402938008308411,
+  "clean_share": 0.05275407292474787,
+  "minor_share": 0.1456458664152428,
+  "chord_rate": 3.107346773020414,
+  "repetitiveness": 0.9151089191436768,
+  "vocal_share": 0.09706130623817444,
+  "vocal_voiced": 0.864406779661017,
+  "song_length": 197.107
+ }
+}

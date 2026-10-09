@@ -1,0 +1,32 @@
+{
+ "id": "waldgefluster/1728230393-104",
+ "band": "waldgefluster",
+ "title": "Rotgoldene Novemberwälder",
+ "source": "itunes",
+ "album": "Mondscheinsonaten",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 2.733316805340557,
+  "tempo_var": 24.5537587754511,
+  "low_onset_rate": 1.7333228521671826,
+  "lufs": -15.866758654529749,
+  "rms_dbfs": -14.502445853901484,
+  "crest": 14.502445220947266,
+  "centroid": 1242.5788026744278,
+  "flatness": 0.009068571962416172,
+  "sub100_share": 0.32398808002471924,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8867425322532654,
+  "clean_share": 0.8700696055684455,
+  "minor_share": 0.2842732853425849,
+  "chord_rate": 0.5999963719040248,
+  "repetitiveness": 0.6898323893547058,
+  "vocal_share": 8.767644612817094e-05,
+  "vocal_voiced": 0.0,
+  "song_length": 388.16
+ }
+}

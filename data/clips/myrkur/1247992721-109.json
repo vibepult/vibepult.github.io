@@ -1,0 +1,32 @@
+{
+ "id": "myrkur/1247992721-109",
+ "band": "myrkur",
+ "title": "Gladiatrix",
+ "source": "itunes",
+ "album": "Mareridt (Deluxe Version)",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.766609726232408,
+  "tempo_var": 7.000114335649162,
+  "low_onset_rate": 5.666581004066455,
+  "lufs": -6.31381866793368,
+  "rms_dbfs": -6.371371581542311,
+  "crest": 6.371371746063232,
+  "centroid": 2865.833566987718,
+  "flatness": 0.062386661767959595,
+  "sub100_share": 0.18830342590808868,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.831859290599823,
+  "clean_share": 0.0,
+  "minor_share": -0.012286768347962385,
+  "chord_rate": 0.8666535653278107,
+  "repetitiveness": 0.8493217825889587,
+  "vocal_share": 0.11960317194461823,
+  "vocal_voiced": 0.616822429906542,
+  "song_length": 170.948
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "type-o-negative/214480102-104",
+ "band": "type-o-negative",
+ "title": "Prelude to Agony",
+ "source": "itunes",
+ "album": "Slow, Deep and Hard",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 0.9355452649953935,
+  "tempo_var": 13.118879839844503,
+  "low_onset_rate": 2.9736974494496438,
+  "lufs": -20.695005434107724,
+  "rms_dbfs": -20.63640317713086,
+  "crest": 17.499805450439453,
+  "centroid": 2381.7981612758836,
+  "flatness": 0.014888396486639977,
+  "sub100_share": 0.3099692165851593,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.89823979139328,
+  "clean_share": 0.29092319627618307,
+  "minor_share": 0.17793871252553078,
+  "chord_rate": 0.6682466178538525,
+  "repetitiveness": 0.5647410154342651,
+  "vocal_share": 0.0020274303387850523,
+  "vocal_voiced": 0.4307692307692308,
+  "song_length": 735.027
+ }
+}

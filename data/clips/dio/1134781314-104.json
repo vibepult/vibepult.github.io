@@ -1,0 +1,32 @@
+{
+ "id": "dio/1134781314-104",
+ "band": "dio",
+ "title": "Rock 'N' Roll Children",
+ "source": "itunes",
+ "album": "Sacred Heart (Remastered)",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.8657783850120606,
+  "tempo_var": 0.9446328493859029,
+  "low_onset_rate": 3.59917297914916,
+  "lufs": -9.54677986195335,
+  "rms_dbfs": -10.073116909474845,
+  "crest": 10.07311725616455,
+  "centroid": 2639.426204471914,
+  "flatness": 0.0336422324180603,
+  "sub100_share": 0.09017898887395859,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7078403234481812,
+  "clean_share": 0.05723124516627997,
+  "minor_share": 0.22915728929760326,
+  "chord_rate": 1.2330500021159159,
+  "repetitiveness": 0.8008167147636414,
+  "vocal_share": 0.1723681539297104,
+  "vocal_voiced": 0.7981981981981981,
+  "song_length": 273.761
+ }
+}

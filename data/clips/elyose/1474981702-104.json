@@ -1,0 +1,32 @@
+{
+ "id": "elyose/1474981702-104",
+ "band": "elyose",
+ "title": "Asymétrie (feat. Raf Pener)",
+ "source": "itunes",
+ "album": "Reconnexion",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.911612641225816,
+  "tempo_var": 3.7218165618064614,
+  "low_onset_rate": 5.21232361926005,
+  "lufs": -9.389462922526794,
+  "rms_dbfs": -8.768860303437842,
+  "crest": 8.76885986328125,
+  "centroid": 2323.627549886274,
+  "flatness": 0.027726957574486732,
+  "sub100_share": 0.379619300365448,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7759048342704773,
+  "clean_share": 0.026377036462373934,
+  "minor_share": 0.21220270980726108,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.8653320074081421,
+  "vocal_share": 0.261888712644577,
+  "vocal_voiced": 0.3572003218020917,
+  "song_length": 304.977
+ }
+}

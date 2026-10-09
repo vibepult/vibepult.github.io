@@ -1,0 +1,32 @@
+{
+ "id": "king-of-asgard/531838280-106",
+ "band": "king-of-asgard",
+ "title": "Nordvegr",
+ "source": "itunes",
+ "album": "...To North",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.245735950152742,
+  "tempo_var": 2.701589537401213,
+  "low_onset_rate": 7.618011443533918,
+  "lufs": -8.00031245057402,
+  "rms_dbfs": -8.04227245318111,
+  "crest": 8.042272567749023,
+  "centroid": 2496.427944857751,
+  "flatness": 0.03923717886209488,
+  "sub100_share": 0.22922275960445404,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7359113693237305,
+  "clean_share": 0.045771916214119475,
+  "minor_share": -0.1464202760794111,
+  "chord_rate": 1.871090529990787,
+  "repetitiveness": 0.871604859828949,
+  "vocal_share": 0.14692360162734985,
+  "vocal_voiced": 0.0,
+  "song_length": 350.12
+ }
+}

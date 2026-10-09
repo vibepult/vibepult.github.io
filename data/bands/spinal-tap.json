@@ -1,0 +1,127 @@
+{
+ "slug": "spinal-tap",
+ "name": "Spinal Tap",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 328242,
+  "deezer": 78374,
+  "spotify": "65X3sG8LVBQN5033RqB6qn"
+ },
+ "metadata": {
+  "formed": 1979,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 3,
+  "past_members": 6,
+  "full_lengths": 4,
+  "genre": "Hard Rock, Heavy Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 4410,
+  "themes": "Sex, Drugs, Rock 'n' Roll, Alcohol, Humour",
+  "release_year": 2008
+ },
+ "partial": false,
+ "clips": [
+  "spinal-tap/1835569103-107",
+  "spinal-tap/1829091963-107",
+  "spinal-tap/1835569103-108",
+  "spinal-tap/1829091963-108",
+  "spinal-tap/1835569103-106",
+  "spinal-tap/1829091963-105",
+  "spinal-tap/1835569103-109",
+  "spinal-tap/1829091963-109",
+  "spinal-tap/1835569103-105",
+  "spinal-tap/1829091963-104",
+  "spinal-tap/1835569103-110",
+  "spinal-tap/1829091963-110"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 14.484757133152172
+  },
+  "onset_rate": {
+   "median": 3.5320742312710287,
+   "iqr": 0.9261794221875834
+  },
+  "tempo_var": {
+   "median": 3.014710465592667,
+   "iqr": 8.993201962844001
+  },
+  "low_onset_rate": {
+   "median": 4.199139015002249,
+   "iqr": 1.6406283977457812
+  },
+  "lufs": {
+   "median": -10.064266277908619,
+   "iqr": 1.363228841886924
+  },
+  "rms_dbfs": {
+   "median": -9.856491817084112,
+   "iqr": 1.3988484873655818
+  },
+  "crest": {
+   "median": 9.856491565704346,
+   "iqr": 1.3988494873046875
+  },
+  "centroid": {
+   "median": 2179.068261256575,
+   "iqr": 293.3845171848011
+  },
+  "flatness": {
+   "median": 0.02011178992688656,
+   "iqr": 0.01000627363100648
+  },
+  "sub100_share": {
+   "median": 0.20314622670412064,
+   "iqr": 0.1325705163180828
+  },
+  "lowest_pitch": {
+   "median": 56.524658203125,
+   "iqr": 79.4036865234375
+  },
+  "harmonic_share": {
+   "median": 0.6968335807323456,
+   "iqr": 0.05106505751609802
+  },
+  "clean_share": {
+   "median": 0.18213457076566125,
+   "iqr": 0.2256380510440835
+  },
+  "minor_share": {
+   "median": 0.03070224710536429,
+   "iqr": 0.1627628869788832
+  },
+  "chord_rate": {
+   "median": 1.5827158279256057,
+   "iqr": 0.6829291351013826
+  },
+  "repetitiveness": {
+   "median": 0.7383303940296173,
+   "iqr": 0.11787374317646027
+  },
+  "vocal_share": {
+   "median": 0.17440111935138702,
+   "iqr": 0.10124760866165161
+  },
+  "vocal_voiced": {
+   "median": 0.5831195687109235,
+   "iqr": 0.5400087339525196
+  },
+  "song_length": {
+   "median": 196.822,
+   "iqr": 45.7765
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.9,
+  "camp": 1.0
+ },
+ "sources_failed": []
+}

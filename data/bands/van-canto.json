@@ -1,0 +1,127 @@
+{
+ "slug": "van-canto",
+ "name": "Van Canto",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 213706652,
+  "deezer": 16512,
+  "spotify": "7cTq0bYGTIlPoXo9lFXJlL"
+ },
+ "metadata": {
+  "formed": 2006,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 7,
+  "past_members": 2,
+  "full_lengths": 8,
+  "genre": "A Cappella/Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 29204,
+  "themes": "Inner strength, Fantasy",
+  "release_year": 2010
+ },
+ "partial": false,
+ "clips": [
+  "van-canto/1184691319-105",
+  "van-canto/1184694895-106",
+  "van-canto/1183577512-107",
+  "van-canto/1184698876-105",
+  "van-canto/1183629850-107",
+  "van-canto/1393130855-106",
+  "van-canto/1556706861-107",
+  "van-canto/1184691319-106",
+  "van-canto/1184694895-105",
+  "van-canto/1183577512-106",
+  "van-canto/1184698876-106",
+  "van-canto/1183629850-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 136.376953125,
+   "iqr": 33.548871208639696
+  },
+  "onset_rate": {
+   "median": 4.116666666666667,
+   "iqr": 0.6999999999999997
+  },
+  "tempo_var": {
+   "median": 16.263832799375372,
+   "iqr": 8.744442026963675
+  },
+  "low_onset_rate": {
+   "median": 5.5,
+   "iqr": 0.6583333333333341
+  },
+  "lufs": {
+   "median": -11.17683759224607,
+   "iqr": 2.3560300033038875
+  },
+  "rms_dbfs": {
+   "median": -10.814861482832,
+   "iqr": 2.46446167215513
+  },
+  "crest": {
+   "median": 10.81486177444458,
+   "iqr": 2.464461326599121
+  },
+  "centroid": {
+   "median": 2295.8352443639815,
+   "iqr": 631.3649122066759
+  },
+  "flatness": {
+   "median": 0.015955646988004446,
+   "iqr": 0.02267496893182397
+  },
+  "sub100_share": {
+   "median": 0.24838148802518845,
+   "iqr": 0.128353763371706
+  },
+  "lowest_pitch": {
+   "median": 72.674560546875,
+   "iqr": 15.47698974609375
+  },
+  "harmonic_share": {
+   "median": 0.8085793852806091,
+   "iqr": 0.10906527936458588
+  },
+  "clean_share": {
+   "median": 0.10642414860681115,
+   "iqr": 0.3848684210526315
+  },
+  "minor_share": {
+   "median": 0.1387236776299275,
+   "iqr": 0.17495079253518844
+  },
+  "chord_rate": {
+   "median": 1.5333333333333332,
+   "iqr": 0.3916666666666666
+  },
+  "repetitiveness": {
+   "median": 0.7088248133659363,
+   "iqr": 0.22800390422344208
+  },
+  "vocal_share": {
+   "median": 0.3043554574251175,
+   "iqr": 0.27063312754034996
+  },
+  "vocal_voiced": {
+   "median": 0.7077155279713265,
+   "iqr": 0.28716020821283983
+  },
+  "song_length": {
+   "median": 244.5,
+   "iqr": 33.92824999999999
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.7
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "xandria/976312213-107",
+ "band": "xandria",
+ "title": "Widescreen",
+ "source": "itunes",
+ "album": "India",
+ "year": 2005,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 198.76802884615384,
+  "onset_rate": 3.0739344421277215,
+  "tempo_var": 14.540054614833872,
+  "low_onset_rate": 3.240996096591185,
+  "lufs": -7.882214066745548,
+  "rms_dbfs": -7.458269786899024,
+  "crest": 7.4582695960998535,
+  "centroid": 2386.1596456059965,
+  "flatness": 0.02873772755265236,
+  "sub100_share": 0.3665478229522705,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8107032775878906,
+  "clean_share": 0.10550814584949574,
+  "minor_share": 0.08481506106636139,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.7832331657409668,
+  "vocal_share": 0.06503475457429886,
+  "vocal_voiced": 0.8861111111111111,
+  "song_length": 255.28
+ }
+}

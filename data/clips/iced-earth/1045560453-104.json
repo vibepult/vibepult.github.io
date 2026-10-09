@@ -1,0 +1,32 @@
+{
+ "id": "iced-earth/1045560453-104",
+ "band": "iced-earth",
+ "title": "Curse the Sky",
+ "source": "itunes",
+ "album": "Iced Earth",
+ "year": 1990,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.9760673762304224,
+  "tempo_var": 16.50736582149399,
+  "low_onset_rate": 3.842418052659652,
+  "lufs": -11.909979951406521,
+  "rms_dbfs": -11.750186907570402,
+  "crest": 11.750186920166016,
+  "centroid": 2907.6097281888556,
+  "flatness": 0.03680872544646263,
+  "sub100_share": 0.19995735585689545,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7301420569419861,
+  "clean_share": 0.037238169123351435,
+  "minor_share": 0.029037954193569804,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.674522876739502,
+  "vocal_share": 0.05829831212759018,
+  "vocal_voiced": 0.2585034013605442,
+  "song_length": 285.52
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "boisson-divine/1509120251-104",
+ "band": "boisson-divine",
+ "title": "Xivalièr De Sentralha",
+ "source": "itunes",
+ "album": "La Halha",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.310190685157349,
+  "tempo_var": 5.201435869917875,
+  "low_onset_rate": 4.57748933229889,
+  "lufs": -9.184855774449096,
+  "rms_dbfs": -9.050934661113017,
+  "crest": 9.050934791564941,
+  "centroid": 2741.618473290576,
+  "flatness": 0.04095754772424698,
+  "sub100_share": 0.2844240069389343,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7407842874526978,
+  "clean_share": 0.01474010861132661,
+  "minor_share": 0.013446126367329891,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.7618512511253357,
+  "vocal_share": 0.18675275146961212,
+  "vocal_voiced": 0.8298204527712725,
+  "song_length": 305.68
+ }
+}

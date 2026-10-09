@@ -1,0 +1,32 @@
+{
+ "id": "mayhem/1451406150-105",
+ "band": "mayhem",
+ "title": "Life Eternal",
+ "source": "itunes",
+ "album": "De Mysteriis Dom Sathanas",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.6,
+  "tempo_var": 9.823188783741832,
+  "low_onset_rate": 4.866666666666666,
+  "lufs": -11.572878796478898,
+  "rms_dbfs": -12.491733165669093,
+  "crest": 12.49173355102539,
+  "centroid": 3113.012053451349,
+  "flatness": 0.04626622051000595,
+  "sub100_share": 0.15682803094387054,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7342533469200134,
+  "clean_share": 0.0,
+  "minor_share": -0.02318616856453498,
+  "chord_rate": 1.8,
+  "repetitiveness": 0.8863806128501892,
+  "vocal_share": 0.008418111130595207,
+  "vocal_voiced": 0.9108910891089109,
+  "song_length": 417.253
+ }
+}

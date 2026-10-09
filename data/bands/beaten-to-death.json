@@ -1,0 +1,126 @@
+{
+ "slug": "beaten-to-death",
+ "name": "Beaten to Death",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 451040747,
+  "deezer": 1684244,
+  "spotify": "33CQHrJmjSwoe0eJpsPHX4"
+ },
+ "metadata": {
+  "formed": 2006,
+  "split": null,
+  "country": "NO",
+  "status": "active",
+  "members": 5,
+  "past_members": 0,
+  "full_lengths": 7,
+  "genre": "Progressive/Avant-garde Grindcore",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 322,
+  "themes": "N/A",
+  "release_year": 2018
+ },
+ "partial": false,
+ "clips": [
+  "beaten-to-death/1651500433-107",
+  "beaten-to-death/1651442368-104",
+  "beaten-to-death/1730911083-106",
+  "beaten-to-death/1651500433-108",
+  "beaten-to-death/1651442368-108",
+  "beaten-to-death/1730911083-105",
+  "beaten-to-death/1651442368-102",
+  "beaten-to-death/1730911083-108",
+  "beaten-to-death/1651442368-112",
+  "beaten-to-death/1730911083-102",
+  "beaten-to-death/1730911083-109"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 107.666015625,
+   "iqr": 31.979456604251027
+  },
+  "onset_rate": {
+   "median": 4.799927438738644,
+   "iqr": 1.668589257480937
+  },
+  "tempo_var": {
+   "median": 9.999042300388654,
+   "iqr": 8.646058700510208
+  },
+  "low_onset_rate": {
+   "median": 7.566552281900501,
+   "iqr": 2.0938755335123265
+  },
+  "lufs": {
+   "median": -7.158940635026111,
+   "iqr": 2.0042323654243575
+  },
+  "rms_dbfs": {
+   "median": -7.338612103898077,
+   "iqr": 2.922572093580066
+  },
+  "crest": {
+   "median": 7.338612079620361,
+   "iqr": 2.922572374343872
+  },
+  "centroid": {
+   "median": 2590.8585074268494,
+   "iqr": 126.94245078402719
+  },
+  "flatness": {
+   "median": 0.04352540522813797,
+   "iqr": 0.006483035162091255
+  },
+  "sub100_share": {
+   "median": 0.2586519122123718,
+   "iqr": 0.21618013828992844
+  },
+  "lowest_pitch": {
+   "median": 78.057861328125,
+   "iqr": 45.758056640625
+  },
+  "harmonic_share": {
+   "median": 0.6819937825202942,
+   "iqr": 0.09543600678443909
+  },
+  "clean_share": {
+   "median": 0.013147718484145398,
+   "iqr": 0.046099814181152075
+  },
+  "minor_share": {
+   "median": -0.03085410073031436,
+   "iqr": 0.25763079220611806
+  },
+  "chord_rate": {
+   "median": 1.9666369367054164,
+   "iqr": 0.1835293155387867
+  },
+  "repetitiveness": {
+   "median": 0.8922955989837646,
+   "iqr": 0.0979953408241272
+  },
+  "vocal_share": {
+   "median": 0.1436430960893631,
+   "iqr": 0.05899258330464363
+  },
+  "vocal_voiced": {
+   "median": 0.1663135593220339,
+   "iqr": 0.16747894359624654
+  },
+  "song_length": {
+   "median": 132.868,
+   "iqr": 11.391499999999994
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "pelican/1451124621-105",
+ "band": "pelican",
+ "title": "Threnody",
+ "source": "itunes",
+ "album": "Forever Becoming (2019 Remaster)",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 75.99954044117646,
+  "onset_rate": 0.4009479707123115,
+  "tempo_var": 10.723409019893353,
+  "low_onset_rate": 4.0428920380158075,
+  "lufs": -16.548507126870025,
+  "rms_dbfs": -16.648713490691087,
+  "crest": 16.648714065551758,
+  "centroid": 805.0411521805327,
+  "flatness": 0.0013457795139402151,
+  "sub100_share": 0.3646264374256134,
+  "lowest_pitch": 115.740966796875,
+  "harmonic_share": 0.849409818649292,
+  "clean_share": 0.9123351435221102,
+  "minor_share": -0.018427095920452774,
+  "chord_rate": 0.801895941424623,
+  "repetitiveness": 0.8817852735519409,
+  "vocal_share": 1.00438467143249e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 489.28
+ }
+}

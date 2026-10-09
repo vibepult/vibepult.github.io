@@ -1,0 +1,32 @@
+{
+ "id": "trivium/1710732167-105",
+ "band": "trivium",
+ "title": "To Believe (2023 Remaster)",
+ "source": "itunes",
+ "album": "Vengeance Falls (2023 Remaster)",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 4.197969236348252,
+  "tempo_var": 8.401923978726897,
+  "low_onset_rate": 7.263153123205705,
+  "lufs": -7.450939267571774,
+  "rms_dbfs": -7.38133131637153,
+  "crest": 7.381331443786621,
+  "centroid": 2801.7569065167795,
+  "flatness": 0.04920598492026329,
+  "sub100_share": 0.3257533311843872,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7167997360229492,
+  "clean_share": 0.016241299303944315,
+  "minor_share": 0.03157086936217668,
+  "chord_rate": 1.3993230787827506,
+  "repetitiveness": 0.8570747375488281,
+  "vocal_share": 0.15779107809066772,
+  "vocal_voiced": 0.5556464811783961,
+  "song_length": 272.627
+ }
+}

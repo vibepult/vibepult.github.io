@@ -1,0 +1,32 @@
+{
+ "id": "esoteric/1476937008-102",
+ "band": "esoteric",
+ "title": "Rotting in Dereliction",
+ "source": "itunes",
+ "album": "A Pyrrhic Existence",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 64.599609375,
+  "onset_rate": 1.1026069194588566,
+  "tempo_var": 3.0200950320742246,
+  "low_onset_rate": 8.586969039422005,
+  "lufs": -11.556834454607499,
+  "rms_dbfs": -10.615786845660795,
+  "crest": 10.6157865524292,
+  "centroid": 1562.8193781781704,
+  "flatness": 0.006535154767334461,
+  "sub100_share": 0.33603543043136597,
+  "lowest_pitch": 29.608154296875,
+  "harmonic_share": 0.8511545062065125,
+  "clean_share": 0.626066718386346,
+  "minor_share": 0.06823813894303105,
+  "chord_rate": 0.6682466178538525,
+  "repetitiveness": 0.6715517640113831,
+  "vocal_share": 0.11899174749851227,
+  "vocal_voiced": 0.3662109375,
+  "song_length": 950.534
+ }
+}

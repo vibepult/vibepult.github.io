@@ -1,0 +1,32 @@
+{
+ "id": "exodus/1577721794-106",
+ "band": "exodus",
+ "title": "The Beatings Will Continue (Until Morale Improves)",
+ "source": "itunes",
+ "album": "Persona Non Grata",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 5.633299269543343,
+  "tempo_var": 10.902188255057396,
+  "low_onset_rate": 6.29996190499226,
+  "lufs": -12.374524328124993,
+  "rms_dbfs": -13.302561380026708,
+  "crest": 13.302560806274414,
+  "centroid": 2795.477161774188,
+  "flatness": 0.039494626224040985,
+  "sub100_share": 0.1755911260843277,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.620596706867218,
+  "clean_share": 0.07037896365042537,
+  "minor_share": -0.017850085744943345,
+  "chord_rate": 2.6333174100232197,
+  "repetitiveness": 0.9089893698692322,
+  "vocal_share": 0.005937094334512949,
+  "vocal_voiced": 0.8383458646616542,
+  "song_length": 181.187
+ }
+}

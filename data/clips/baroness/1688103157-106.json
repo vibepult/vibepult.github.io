@@ -1,0 +1,32 @@
+{
+ "id": "baroness/1688103157-106",
+ "band": "baroness",
+ "title": "Anodyne",
+ "source": "itunes",
+ "album": "Stone",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 2.3054508315957913,
+  "tempo_var": 13.86209660247938,
+  "low_onset_rate": 2.338863162488484,
+  "lufs": -14.331118416141727,
+  "rms_dbfs": -13.531420069664357,
+  "crest": 13.53141975402832,
+  "centroid": 2159.0959450192613,
+  "flatness": 0.015550256706774235,
+  "sub100_share": 0.43475574254989624,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.7646400928497314,
+  "clean_share": 0.4429790535298681,
+  "minor_share": 0.11424025776837604,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.8616778254508972,
+  "vocal_share": 4.308062102609256e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 199.133
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "zatokrev",
+ "name": "Zatokrev",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 276891077,
+  "deezer": 194283,
+  "spotify": "1NA63oBdnKK3nXxNkny989"
+ },
+ "metadata": {
+  "formed": 2002,
+  "split": null,
+  "country": "CH",
+  "status": "active",
+  "members": 4,
+  "past_members": 8,
+  "full_lengths": 5,
+  "genre": "Doom/Death/Sludge Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 633,
+  "themes": "N/A",
+  "release_year": 2013
+ },
+ "partial": false,
+ "clips": [
+  "zatokrev/276890998-104",
+  "zatokrev/1317883533-105",
+  "zatokrev/1317891662-104",
+  "zatokrev/1817664948-104",
+  "zatokrev/276890998-103",
+  "zatokrev/1317883533-104",
+  "zatokrev/1317891662-105",
+  "zatokrev/1817664948-105",
+  "zatokrev/276890998-105",
+  "zatokrev/1317883533-106",
+  "zatokrev/1317891662-103",
+  "zatokrev/1817664948-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 34.55386513157896
+  },
+  "onset_rate": {
+   "median": 4.176541361586578,
+   "iqr": 3.5415876691073076
+  },
+  "tempo_var": {
+   "median": 8.731844789244235,
+   "iqr": 9.070477628647255
+  },
+  "low_onset_rate": {
+   "median": 4.856161809630025,
+   "iqr": 3.6738761031372738
+  },
+  "lufs": {
+   "median": -9.76410388715219,
+   "iqr": 1.749151333307335
+  },
+  "rms_dbfs": {
+   "median": -9.274383753335222,
+   "iqr": 1.913398410700573
+  },
+  "crest": {
+   "median": 9.274383544921875,
+   "iqr": 1.9133989810943604
+  },
+  "centroid": {
+   "median": 2096.205563717416,
+   "iqr": 1275.6742360796547
+  },
+  "flatness": {
+   "median": 0.01624270249158144,
+   "iqr": 0.03197718149749562
+  },
+  "sub100_share": {
+   "median": 0.33933791518211365,
+   "iqr": 0.10424496978521347
+  },
+  "lowest_pitch": {
+   "median": 61.907958984375,
+   "iqr": 29.608154296875
+  },
+  "harmonic_share": {
+   "median": 0.8093543648719788,
+   "iqr": 0.13763362169265747
+  },
+  "clean_share": {
+   "median": 0.16369278510473234,
+   "iqr": 0.8456167571761054
+  },
+  "minor_share": {
+   "median": 0.011272628784721794,
+   "iqr": 0.05364912403259635
+  },
+  "chord_rate": {
+   "median": 1.2863747393686662,
+   "iqr": 0.5585505766215713
+  },
+  "repetitiveness": {
+   "median": 0.8173825740814209,
+   "iqr": 0.08947713673114777
+  },
+  "vocal_share": {
+   "median": 0.0773862823843956,
+   "iqr": 0.026728983968496323
+  },
+  "vocal_voiced": {
+   "median": 0.37735849056603776,
+   "iqr": 0.11198604829889741
+  },
+  "song_length": {
+   "median": 457.171,
+   "iqr": 176.7650000000001
+  },
+  "vocal_presence": {
+   "median": 0.25,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "diamond-head/1140554704-106",
+ "band": "diamond-head",
+ "title": "Lost at Sea",
+ "source": "itunes",
+ "album": "All Will Be Revealed",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.30782075837657,
+  "tempo_var": 4.725108571220002,
+  "low_onset_rate": 5.479622266401591,
+  "lufs": -8.421095856568982,
+  "rms_dbfs": -7.619923631457666,
+  "crest": 7.619924068450928,
+  "centroid": 1964.8983707883547,
+  "flatness": 0.013188738375902176,
+  "sub100_share": 0.2585718035697937,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.8659319877624512,
+  "clean_share": 0.4778898370830101,
+  "minor_share": 0.02918780527200049,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.6743323802947998,
+  "vocal_share": 0.10998393595218658,
+  "vocal_voiced": 0.9203629032258065,
+  "song_length": 239.693
+ }
+}

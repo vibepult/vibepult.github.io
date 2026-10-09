@@ -1,0 +1,32 @@
+{
+ "id": "rammstein/1612051984-106",
+ "band": "rammstein",
+ "title": "OK",
+ "source": "itunes",
+ "album": "Zeit",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "hand",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 3.331731684541672,
+  "tempo_var": 29.934393192246926,
+  "low_onset_rate": 4.197981922522506,
+  "lufs": -9.362119203284763,
+  "rms_dbfs": -8.654625431992997,
+  "crest": 8.654624938964844,
+  "centroid": 2760.7069967859366,
+  "flatness": 0.034613292664289474,
+  "sub100_share": 0.4632086753845215,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7736152410507202,
+  "clean_share": 0.016241299303944315,
+  "minor_share": 0.02275371503816792,
+  "chord_rate": 1.532596574889169,
+  "repetitiveness": 0.8454463481903076,
+  "vocal_share": 0.20285509526729584,
+  "vocal_voiced": 0.6533333333333333,
+  "song_length": 243.72
+ }
+}

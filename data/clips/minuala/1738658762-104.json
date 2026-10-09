@@ -1,0 +1,32 @@
+{
+ "id": "minuala/1738658762-104",
+ "band": "minuala",
+ "title": "Место веры",
+ "source": "itunes",
+ "album": "В агонии",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.033272361717888,
+  "tempo_var": 22.177599359315295,
+  "low_onset_rate": 6.133240616166045,
+  "lufs": -7.3542238142362,
+  "rms_dbfs": -6.621473120850574,
+  "crest": 6.6214728355407715,
+  "centroid": 2275.6914365688976,
+  "flatness": 0.02514101192355156,
+  "sub100_share": 0.24976301193237305,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8102213144302368,
+  "clean_share": 0.05336426914153132,
+  "minor_share": 0.13916525977406247,
+  "chord_rate": 1.5666429834771962,
+  "repetitiveness": 0.8239555358886719,
+  "vocal_share": 0.09194514155387878,
+  "vocal_voiced": 0.48323699421965316,
+  "song_length": 215.481
+ }
+}

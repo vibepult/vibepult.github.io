@@ -1,0 +1,32 @@
+{
+ "id": "soilwork/1456927427-106",
+ "band": "soilwork",
+ "title": "King of the Threshold",
+ "source": "itunes",
+ "album": "The Panic Broadcast",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 0.267298647141541,
+  "tempo_var": 20.70942139615101,
+  "low_onset_rate": 1.7040288755273238,
+  "lufs": -10.104487872785818,
+  "rms_dbfs": -8.54983814975707,
+  "crest": 8.549838066101074,
+  "centroid": 2550.9881233770934,
+  "flatness": 0.03643840178847313,
+  "sub100_share": 0.5860375165939331,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8118345737457275,
+  "clean_share": 0.0031031807602792862,
+  "minor_share": 0.01615199802839934,
+  "chord_rate": 2.2720385007030983,
+  "repetitiveness": 0.9548844695091248,
+  "vocal_share": 0.08164479583501816,
+  "vocal_voiced": 0.06884057971014493,
+  "song_length": 297.053
+ }
+}

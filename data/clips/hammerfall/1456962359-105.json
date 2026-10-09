@@ -1,0 +1,32 @@
+{
+ "id": "hammerfall/1456962359-105",
+ "band": "hammerfall",
+ "title": "Never, Ever",
+ "source": "itunes",
+ "album": "Chapter V: Unbent, Unbowed, Unbroken",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 1.0333270849458205,
+  "tempo_var": 4.3834887636214335,
+  "low_onset_rate": 0.9999939531733746,
+  "lufs": -9.060184566649747,
+  "rms_dbfs": -9.660945186709682,
+  "crest": 9.660944938659668,
+  "centroid": 2392.196575989011,
+  "flatness": 0.024507172405719757,
+  "sub100_share": 0.253577321767807,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.872840404510498,
+  "clean_share": 0.2900232018561485,
+  "minor_share": 0.3073813707543871,
+  "chord_rate": 0.6666626354489164,
+  "repetitiveness": 0.6108601093292236,
+  "vocal_share": 0.054615918546915054,
+  "vocal_voiced": 0.8446601941747572,
+  "song_length": 245.827
+ }
+}

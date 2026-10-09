@@ -1,0 +1,32 @@
+{
+ "id": "paul-chain-violet-theatre/1201258900-103",
+ "band": "paul-chain-violet-theatre",
+ "title": "War",
+ "source": "itunes",
+ "album": "In the Darkness",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.644313994084275,
+  "tempo_var": 12.28926205758979,
+  "low_onset_rate": 2.606161809630025,
+  "lufs": -14.695112399976573,
+  "rms_dbfs": -14.053118034355801,
+  "crest": 13.701777458190918,
+  "centroid": 1434.8315268217632,
+  "flatness": 0.0022516686003655195,
+  "sub100_share": 0.47202712297439575,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.9451491832733154,
+  "clean_share": 0.9278510473235065,
+  "minor_share": 0.20895343331259564,
+  "chord_rate": 0.534597294283082,
+  "repetitiveness": 0.6255663633346558,
+  "vocal_share": 0.05318659171462059,
+  "vocal_voiced": 0.9454976303317536,
+  "song_length": 427.573
+ }
+}

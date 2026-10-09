@@ -1,0 +1,32 @@
+{
+ "id": "sirenia/1184687505-105",
+ "band": "sirenia",
+ "title": "At Sixes and Sevens",
+ "source": "itunes",
+ "album": "At Sixes and Sevens",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 69.83741554054055,
+  "onset_rate": 3.033333333333333,
+  "tempo_var": 1.8629016276281476,
+  "low_onset_rate": 4.266666666666667,
+  "lufs": -12.832493272452792,
+  "rms_dbfs": -11.894608029726463,
+  "crest": 11.894607543945312,
+  "centroid": 1986.769951453849,
+  "flatness": 0.007901692762970924,
+  "sub100_share": 0.3433733582496643,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.9182067513465881,
+  "clean_share": 0.5572755417956656,
+  "minor_share": 0.0932180727174754,
+  "chord_rate": 0.9333333333333333,
+  "repetitiveness": 0.7725116610527039,
+  "vocal_share": 0.09504963457584381,
+  "vocal_voiced": 0.9251152073732719,
+  "song_length": 406.173
+ }
+}

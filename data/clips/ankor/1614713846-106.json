@@ -1,0 +1,32 @@
+{
+ "id": "ankor/1614713846-106",
+ "band": "ankor",
+ "title": "Kiss Me Goodnight",
+ "source": "itunes",
+ "album": "Beyond the Silence of These Years",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 1.6372042137419387,
+  "tempo_var": 25.111532107823418,
+  "low_onset_rate": 4.076304368908501,
+  "lufs": -9.19581728276116,
+  "rms_dbfs": -9.218506806994853,
+  "crest": 9.218506813049316,
+  "centroid": 2316.3569140227874,
+  "flatness": 0.023947754874825478,
+  "sub100_share": 0.159103125333786,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.8454002737998962,
+  "clean_share": 0.4212567882079131,
+  "minor_share": 0.06796675104516059,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.6959139108657837,
+  "vocal_share": 0.3922099471092224,
+  "vocal_voiced": 0.9242819843342036,
+  "song_length": 289.025
+ }
+}

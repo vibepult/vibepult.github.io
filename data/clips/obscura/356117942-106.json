@@ -1,0 +1,32 @@
+{
+ "id": "obscura/356117942-106",
+ "band": "obscura",
+ "title": "Hymn to a Nocturnal Visitor",
+ "source": "itunes",
+ "album": "Retribution",
+ "year": 2006,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 6.415167531396984,
+  "tempo_var": 15.757892152202361,
+  "low_onset_rate": 7.417537458177763,
+  "lufs": -9.972695108481684,
+  "rms_dbfs": -9.473809350617024,
+  "crest": 9.473809242248535,
+  "centroid": 2623.100460515314,
+  "flatness": 0.029107553884387016,
+  "sub100_share": 0.4195815622806549,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7349942922592163,
+  "clean_share": 0.0,
+  "minor_share": -0.18902503482890864,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.9283280968666077,
+  "vocal_share": 0.11461757123470306,
+  "vocal_voiced": 0.36185383244206776,
+  "song_length": 393.348
+ }
+}

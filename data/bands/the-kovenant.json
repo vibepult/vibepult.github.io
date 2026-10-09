@@ -1,0 +1,127 @@
+{
+ "slug": "the-kovenant",
+ "name": "The Kovenant",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 6842529,
+  "deezer": 3186,
+  "spotify": "31VNYr7yK0xBD6MfIaucLJ"
+ },
+ "metadata": {
+  "formed": 1992,
+  "split": null,
+  "country": "NO",
+  "status": "changed name",
+  "members": 3,
+  "past_members": 4,
+  "full_lengths": 2,
+  "genre": "Melodic/Symphonic Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 6176,
+  "themes": "Darkness (early); Astrology, Fantasy (later)",
+  "release_year": 1997
+ },
+ "partial": false,
+ "clips": [
+  "the-kovenant/1769208174-105",
+  "the-kovenant/1460474505-105",
+  "the-kovenant/1769208174-106",
+  "the-kovenant/1460474505-106",
+  "the-kovenant/1769208174-104",
+  "the-kovenant/1460474505-104",
+  "the-kovenant/1769208174-107",
+  "the-kovenant/1460474505-107",
+  "the-kovenant/1769208174-103",
+  "the-kovenant/1460474505-103",
+  "the-kovenant/1769208174-108",
+  "the-kovenant/1460474505-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 21.792844810277685
+  },
+  "onset_rate": {
+   "median": 1.5185186749720847,
+   "iqr": 2.601647459775957
+  },
+  "tempo_var": {
+   "median": 4.198372084422545,
+   "iqr": 8.865237770506674
+  },
+  "low_onset_rate": {
+   "median": 2.769897101043122,
+   "iqr": 0.8478564839507046
+  },
+  "lufs": {
+   "median": -9.581262226595976,
+   "iqr": 0.9834218108253978
+  },
+  "rms_dbfs": {
+   "median": -9.922702203771397,
+   "iqr": 0.7660711000924341
+  },
+  "crest": {
+   "median": 9.922702312469482,
+   "iqr": 0.7660717964172363
+  },
+  "centroid": {
+   "median": 2653.267346005052,
+   "iqr": 245.60648928680257
+  },
+  "flatness": {
+   "median": 0.046736570075154305,
+   "iqr": 0.015831327997148037
+  },
+  "sub100_share": {
+   "median": 0.27884313464164734,
+   "iqr": 0.0892740860581398
+  },
+  "lowest_pitch": {
+   "median": 48.44970703125,
+   "iqr": 8.74786376953125
+  },
+  "harmonic_share": {
+   "median": 0.7769164741039276,
+   "iqr": 0.06566120684146881
+  },
+  "clean_share": {
+   "median": 0.013964313421256789,
+   "iqr": 0.057615542783634746
+  },
+  "minor_share": {
+   "median": 0.09517334004593833,
+   "iqr": 0.08708574122424283
+  },
+  "chord_rate": {
+   "median": 1.7875597027590555,
+   "iqr": 0.7371304567656545
+  },
+  "repetitiveness": {
+   "median": 0.8610656261444092,
+   "iqr": 0.0901530385017395
+  },
+  "vocal_share": {
+   "median": 0.03081808052957058,
+   "iqr": 0.05251980014145374
+  },
+  "vocal_voiced": {
+   "median": 0.2112676056338028,
+   "iqr": 0.3628245067497404
+  },
+  "song_length": {
+   "median": 341.62,
+   "iqr": 75.76049999999992
+  },
+  "vocal_presence": {
+   "median": 0.25,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.7,
+  "camp": 0.5
+ },
+ "sources_failed": []
+}

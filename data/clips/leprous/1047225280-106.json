@@ -1,0 +1,32 @@
+{
+ "id": "leprous/1047225280-106",
+ "band": "leprous",
+ "title": "Within My Fence",
+ "source": "itunes",
+ "album": "The Congregation",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 6.096138651405988,
+  "tempo_var": 13.511794651092712,
+  "low_onset_rate": 6.296012049812742,
+  "lufs": -10.01494638094582,
+  "rms_dbfs": -8.826384500429722,
+  "crest": 8.826384544372559,
+  "centroid": 2087.503733575887,
+  "flatness": 0.013388566672801971,
+  "sub100_share": 0.48432081937789917,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.803717851638794,
+  "clean_share": 0.1925754060324826,
+  "minor_share": 0.12579143110019897,
+  "chord_rate": 2.1986073824742904,
+  "repetitiveness": 0.9037284255027771,
+  "vocal_share": 0.05735839530825615,
+  "vocal_voiced": 0.9255952380952381,
+  "song_length": 196.48
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "aborted/264834332-104",
+ "band": "aborted",
+ "title": "Enginéering the Dead",
+ "source": "itunes",
+ "album": "Enginéering the Dead",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 7.183651141928914,
+  "tempo_var": 10.53208932323647,
+  "low_onset_rate": 6.3817552005042915,
+  "lufs": -10.37115564900808,
+  "rms_dbfs": -9.820637970741636,
+  "crest": 9.820637702941895,
+  "centroid": 2912.565956452207,
+  "flatness": 0.0457938089966774,
+  "sub100_share": 0.44226086139678955,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7916526198387146,
+  "clean_share": 0.01008533747090768,
+  "minor_share": 0.09488735478324234,
+  "chord_rate": 2.338863162488484,
+  "repetitiveness": 0.8946256637573242,
+  "vocal_share": 0.06741618365049362,
+  "vocal_voiced": 0.2969502407704655,
+  "song_length": 367.2
+ }
+}

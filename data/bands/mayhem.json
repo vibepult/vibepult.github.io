@@ -1,0 +1,127 @@
+{
+ "slug": "mayhem",
+ "name": "Mayhem",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 48820563,
+  "deezer": 6696,
+  "spotify": "0dR10i73opHXuRuLbgxltM"
+ },
+ "metadata": {
+  "formed": 1984,
+  "split": null,
+  "country": "NO",
+  "status": "active",
+  "members": 5,
+  "past_members": 15,
+  "full_lengths": 7,
+  "genre": "Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 84756,
+  "themes": "Satanism, Death, Gore (early); Misanthropy, War, Darkness, Philosophy (later)",
+  "release_year": 2005
+ },
+ "partial": false,
+ "clips": [
+  "mayhem/1451406150-104",
+  "mayhem/591231236-108",
+  "mayhem/583648461-104",
+  "mayhem/583578050-104",
+  "mayhem/879711876-105",
+  "mayhem/1476732106-106",
+  "mayhem/1846578494-104",
+  "mayhem/1451406150-105",
+  "mayhem/591231236-107",
+  "mayhem/583648461-105",
+  "mayhem/583578050-105",
+  "mayhem/879711876-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.90049098320159,
+   "iqr": 26.833683894230774
+  },
+  "onset_rate": {
+   "median": 4.271327522668865,
+   "iqr": 3.2028740822721704
+  },
+  "tempo_var": {
+   "median": 11.955398837218302,
+   "iqr": 6.620635651028664
+  },
+  "low_onset_rate": {
+   "median": 6.3895741405227175,
+   "iqr": 3.3798847760823483
+  },
+  "lufs": {
+   "median": -11.205891090831765,
+   "iqr": 1.9923591827401967
+  },
+  "rms_dbfs": {
+   "median": -10.687114080737462,
+   "iqr": 1.8171020082851221
+  },
+  "crest": {
+   "median": 10.687113761901855,
+   "iqr": 1.8171024322509766
+  },
+  "centroid": {
+   "median": 2645.4233155954244,
+   "iqr": 1057.889333259909
+  },
+  "flatness": {
+   "median": 0.03595697693526745,
+   "iqr": 0.03394245193339884
+  },
+  "sub100_share": {
+   "median": 0.25762906670570374,
+   "iqr": 0.13295726478099823
+  },
+  "lowest_pitch": {
+   "median": 51.141357421875,
+   "iqr": 14.8040771484375
+  },
+  "harmonic_share": {
+   "median": 0.7859450578689575,
+   "iqr": 0.07809144258499146
+  },
+  "clean_share": {
+   "median": 0.006578947368421052,
+   "iqr": 0.34794414274631497
+  },
+  "minor_share": {
+   "median": 0.019752323568129893,
+   "iqr": 0.08895411032626528
+  },
+  "chord_rate": {
+   "median": 1.7854267686563547,
+   "iqr": 0.6278825737865914
+  },
+  "repetitiveness": {
+   "median": 0.8903931379318237,
+   "iqr": 0.15247252583503723
+  },
+  "vocal_share": {
+   "median": 0.10775742679834366,
+   "iqr": 0.06804622709751129
+  },
+  "vocal_voiced": {
+   "median": 0.23824451410658307,
+   "iqr": 0.10882506888129173
+  },
+  "song_length": {
+   "median": 325.217,
+   "iqr": 114.38350000000003
+  },
+  "vocal_presence": {
+   "median": 0.5833333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.8,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

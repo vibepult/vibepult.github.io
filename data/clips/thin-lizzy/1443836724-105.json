@@ -1,0 +1,32 @@
+{
+ "id": "thin-lizzy/1443836724-105",
+ "band": "thin-lizzy",
+ "title": "Frankie Carroll",
+ "source": "itunes",
+ "album": "Nightlife",
+ "year": 1974,
+ "itunes_year": 1974,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.533311967879257,
+  "tempo_var": 2.606069208836742,
+  "low_onset_rate": 2.466651751160991,
+  "lufs": -20.34017517418907,
+  "rms_dbfs": -19.539098646243843,
+  "crest": 16.809316635131836,
+  "centroid": 934.425018760933,
+  "flatness": 0.007053622975945473,
+  "sub100_share": 0.04832262545824051,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.8991159200668335,
+  "clean_share": 0.9636504253673627,
+  "minor_share": 0.05235055049527504,
+  "chord_rate": 1.3666584026702786,
+  "repetitiveness": 0.5544896721839905,
+  "vocal_share": 0.2525932192802429,
+  "vocal_voiced": 0.90715667311412,
+  "song_length": 122.667
+ }
+}

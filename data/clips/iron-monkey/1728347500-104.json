@@ -1,0 +1,32 @@
+{
+ "id": "iron-monkey/1728347500-104",
+ "band": "iron-monkey",
+ "title": "Off Switch",
+ "source": "itunes",
+ "album": "Spleen & Goad",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.1,
+  "tempo_var": 2.791153774316062,
+  "low_onset_rate": 6.866666666666666,
+  "lufs": -8.488674858005382,
+  "rms_dbfs": -7.761230296203676,
+  "crest": 7.761229991912842,
+  "centroid": 2291.630502903988,
+  "flatness": 0.01050252839922905,
+  "sub100_share": 0.3644205629825592,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8598142862319946,
+  "clean_share": 0.20046439628482973,
+  "minor_share": -0.028026529306821202,
+  "chord_rate": 0.9,
+  "repetitiveness": 0.814058780670166,
+  "vocal_share": 7.395726697723148e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 451.813
+ }
+}

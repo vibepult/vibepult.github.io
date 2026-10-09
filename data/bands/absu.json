@@ -1,0 +1,127 @@
+{
+ "slug": "absu",
+ "name": "Absu",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 89835354,
+  "deezer": 15013,
+  "spotify": "3eVkhnD2UKVjX5uiUsqfXP"
+ },
+ "metadata": {
+  "formed": 1991,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 1,
+  "past_members": 13,
+  "full_lengths": 6,
+  "genre": "Death Metal (early); Black/Thrash Metal (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 5800,
+  "themes": "Mythology, Occultism",
+  "release_year": 2006
+ },
+ "partial": false,
+ "clips": [
+  "absu/285959377-106",
+  "absu/1660169929-103",
+  "absu/285959377-105",
+  "absu/1660169929-104",
+  "absu/285959377-108",
+  "absu/1660169929-102",
+  "absu/285959377-104",
+  "absu/1660169929-105",
+  "absu/285959377-109",
+  "absu/1660169929-101",
+  "absu/285959377-103",
+  "absu/1660169929-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 52.00853166537047
+  },
+  "onset_rate": {
+   "median": 6.732584674877564,
+   "iqr": 0.6181281215148129
+  },
+  "tempo_var": {
+   "median": 14.077286281565797,
+   "iqr": 8.52703408557056
+  },
+  "low_onset_rate": {
+   "median": 7.718248436211996,
+   "iqr": 2.054858349900597
+  },
+  "lufs": {
+   "median": -9.245183245065078,
+   "iqr": 1.1798416308503068
+  },
+  "rms_dbfs": {
+   "median": -10.20793571046946,
+   "iqr": 1.6272881971323034
+  },
+  "crest": {
+   "median": 10.20793628692627,
+   "iqr": 1.6272876262664795
+  },
+  "centroid": {
+   "median": 2948.0872545934967,
+   "iqr": 248.8298987854887
+  },
+  "flatness": {
+   "median": 0.0643434226512909,
+   "iqr": 0.02644418738782406
+  },
+  "sub100_share": {
+   "median": 0.14696438610553741,
+   "iqr": 0.14745139330625534
+  },
+  "lowest_pitch": {
+   "median": 48.44970703125,
+   "iqr": 21.533203125
+  },
+  "harmonic_share": {
+   "median": 0.6147093772888184,
+   "iqr": 0.04540887475013733
+  },
+  "clean_share": {
+   "median": 0.0,
+   "iqr": 0.0036850271528316523
+  },
+  "minor_share": {
+   "median": -0.04467257233861763,
+   "iqr": 0.23546843153690322
+  },
+  "chord_rate": {
+   "median": 1.820972033651748,
+   "iqr": 0.34247639165009924
+  },
+  "repetitiveness": {
+   "median": 0.9417758584022522,
+   "iqr": 0.012802287936210632
+  },
+  "vocal_share": {
+   "median": 0.10134980827569962,
+   "iqr": 0.08377592638134956
+  },
+  "vocal_voiced": {
+   "median": 0.12637362637362637,
+   "iqr": 0.1065297894431566
+  },
+  "song_length": {
+   "median": 255.0465,
+   "iqr": 61.01675
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

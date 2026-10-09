@@ -1,0 +1,32 @@
+{
+ "id": "alkonost/1639994842-104",
+ "band": "alkonost",
+ "title": "Night Time",
+ "source": "itunes",
+ "album": "Tales of Wanderings",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.112086626581972,
+  "tempo_var": 5.251220883203772,
+  "low_onset_rate": 5.011849633903894,
+  "lufs": -10.840265140542657,
+  "rms_dbfs": -10.59957191049024,
+  "crest": 10.599573135375977,
+  "centroid": 1857.149557250274,
+  "flatness": 0.004322883673012257,
+  "sub100_share": 0.06863682717084885,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.9504570364952087,
+  "clean_share": 0.8301008533747091,
+  "minor_share": 0.21232159881390178,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.5801926851272583,
+  "vocal_share": 0.49393245577812195,
+  "vocal_voiced": 0.952639751552795,
+  "song_length": 212.683
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "celtic-frost/1640294040-106",
+ "band": "celtic-frost",
+ "title": "The Restless Seas",
+ "source": "itunes",
+ "album": "Vanity / Nemesis",
+ "year": 1990,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.410427677835426,
+  "tempo_var": 4.623331046167493,
+  "low_onset_rate": 7.417537458177763,
+  "lufs": -10.416423400205003,
+  "rms_dbfs": -10.20745395377294,
+  "crest": 10.207453727722168,
+  "centroid": 2715.6934476512374,
+  "flatness": 0.03421959653496742,
+  "sub100_share": 0.2049676477909088,
+  "lowest_pitch": 94.207763671875,
+  "harmonic_share": 0.7741145491600037,
+  "clean_share": 0.03180760279286268,
+  "minor_share": 0.011752834401800305,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.8348100185394287,
+  "vocal_share": 0.14105229079723358,
+  "vocal_voiced": 0.14359637774902975,
+  "song_length": 280.467
+ }
+}

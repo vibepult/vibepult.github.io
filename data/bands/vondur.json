@@ -1,0 +1,127 @@
+{
+ "slug": "vondur",
+ "name": "Vondur",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 436325348,
+  "deezer": 1273642,
+  "spotify": "3K8GnNs1Q9DXZlwrRXD4av"
+ },
+ "metadata": {
+  "formed": 1993,
+  "split": 1998,
+  "country": "SE",
+  "status": "split-up",
+  "members": 2,
+  "past_members": 0,
+  "full_lengths": 1,
+  "genre": "Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 111,
+  "themes": "Evil, Parody, Rock 'n' Roll",
+  "release_year": 1996
+ },
+ "partial": false,
+ "clips": [
+  "vondur/1892028093-110",
+  "vondur/1892028093-109",
+  "vondur/1892028093-111",
+  "vondur/1892028093-108",
+  "vondur/1892028093-112",
+  "vondur/1892028093-107",
+  "vondur/1892028093-113",
+  "vondur/1892028093-106",
+  "vondur/1892028093-114",
+  "vondur/1892028093-105",
+  "vondur/1892028093-115",
+  "vondur/1892028093-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.90049098320159,
+   "iqr": 16.184746853546912
+  },
+  "onset_rate": {
+   "median": 4.549931217971006,
+   "iqr": 4.224936130973076
+  },
+  "tempo_var": {
+   "median": 9.001762419081818,
+   "iqr": 15.136913764753638
+  },
+  "low_onset_rate": {
+   "median": 7.199891158107965,
+   "iqr": 1.3083135553506366
+  },
+  "lufs": {
+   "median": -9.675753848657523,
+   "iqr": 3.378431868854916
+  },
+  "rms_dbfs": {
+   "median": -10.667476599996958,
+   "iqr": 3.1592073323737075
+  },
+  "crest": {
+   "median": 10.667476654052734,
+   "iqr": 3.1591415405273438
+  },
+  "centroid": {
+   "median": 3790.443666131122,
+   "iqr": 1634.2712268512387
+  },
+  "flatness": {
+   "median": 0.05931767635047436,
+   "iqr": 0.050023752031847835
+  },
+  "sub100_share": {
+   "median": 0.17313678562641144,
+   "iqr": 0.16235553659498692
+  },
+  "lowest_pitch": {
+   "median": 39.0289306640625,
+   "iqr": 28.2623291015625
+  },
+  "harmonic_share": {
+   "median": 0.5950552225112915,
+   "iqr": 0.2196785807609558
+  },
+  "clean_share": {
+   "median": 0.007733952049497293,
+   "iqr": 0.24497293116782676
+  },
+  "minor_share": {
+   "median": -0.04233919521376123,
+   "iqr": 0.2647221385767148
+  },
+  "chord_rate": {
+   "median": 0.9333192241991808,
+   "iqr": 1.1833154449668186
+  },
+  "repetitiveness": {
+   "median": 0.9297513365745544,
+   "iqr": 0.25935743749141693
+  },
+  "vocal_share": {
+   "median": 0.05223540775477886,
+   "iqr": 0.04886734252795577
+  },
+  "vocal_voiced": {
+   "median": 0.21620754625042637,
+   "iqr": 0.2388562542429044
+  },
+  "song_length": {
+   "median": 186.98649999999998,
+   "iqr": 50.870000000000005
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.5,
+  "camp": 0.7
+ },
+ "sources_failed": []
+}

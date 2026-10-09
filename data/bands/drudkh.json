@@ -1,0 +1,127 @@
+{
+ "slug": "drudkh",
+ "name": "Drudkh",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 316592937,
+  "deezer": 12792,
+  "spotify": "4q5mj9YpaYesKvHzN8XYve"
+ },
+ "metadata": {
+  "formed": 2002,
+  "split": null,
+  "country": "UA",
+  "status": "active",
+  "members": 4,
+  "past_members": 1,
+  "full_lengths": 13,
+  "genre": "Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 10658,
+  "themes": "Nature, Ukrainian history, Folklore, Poetry",
+  "release_year": 2009
+ },
+ "partial": false,
+ "clips": [
+  "drudkh/583588120-104",
+  "drudkh/583585112-103",
+  "drudkh/583582545-103",
+  "drudkh/1333958038-103",
+  "drudkh/583588120-103",
+  "drudkh/583585112-104",
+  "drudkh/583582545-104",
+  "drudkh/1333958038-102",
+  "drudkh/583588120-105",
+  "drudkh/583585112-102",
+  "drudkh/583582545-102",
+  "drudkh/1333958038-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 132.59919819078948,
+   "iqr": 21.710891993447063
+  },
+  "onset_rate": {
+   "median": 4.873065468974769,
+   "iqr": 6.085565923564306
+  },
+  "tempo_var": {
+   "median": 2.7257893161646387,
+   "iqr": 4.793092143676314
+  },
+  "low_onset_rate": {
+   "median": 5.557267775461055,
+   "iqr": 5.39609143916986
+  },
+  "lufs": {
+   "median": -9.670453543154743,
+   "iqr": 2.9841963510821206
+  },
+  "rms_dbfs": {
+   "median": -9.987888902957351,
+   "iqr": 1.92597168034934
+  },
+  "crest": {
+   "median": 9.987888813018799,
+   "iqr": 1.9259727001190186
+  },
+  "centroid": {
+   "median": 2614.052290128595,
+   "iqr": 330.3305086397427
+  },
+  "flatness": {
+   "median": 0.029550877399742603,
+   "iqr": 0.03387045627459884
+  },
+  "sub100_share": {
+   "median": 0.20673180371522903,
+   "iqr": 0.1485746204853058
+  },
+  "lowest_pitch": {
+   "median": 60.5621337890625,
+   "iqr": 29.608154296875
+  },
+  "harmonic_share": {
+   "median": 0.8278158903121948,
+   "iqr": 0.06994067132472992
+  },
+  "clean_share": {
+   "median": 0.0,
+   "iqr": 0.02152831652443755
+  },
+  "minor_share": {
+   "median": 0.05155689378686645,
+   "iqr": 0.27048826587766917
+  },
+  "chord_rate": {
+   "median": 1.1680491239554542,
+   "iqr": 0.3508294743732725
+  },
+  "repetitiveness": {
+   "median": 0.8618510961532593,
+   "iqr": 0.049814268946647644
+  },
+  "vocal_share": {
+   "median": 0.09464550390839577,
+   "iqr": 0.03762922063469887
+  },
+  "vocal_voiced": {
+   "median": 0.24009930099742008,
+   "iqr": 0.08953071440587682
+  },
+  "song_length": {
+   "median": 563.4775,
+   "iqr": 50.83100000000002
+  },
+  "vocal_presence": {
+   "median": 0.3333333333333333,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

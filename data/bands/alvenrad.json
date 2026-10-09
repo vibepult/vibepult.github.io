@@ -1,0 +1,127 @@
+{
+ "slug": "alvenrad",
+ "name": "Alvenrad",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 811070302,
+  "deezer": 5511206,
+  "spotify": "2etcMScE1CXkWDaxhruK7b"
+ },
+ "metadata": {
+  "formed": 2011,
+  "split": null,
+  "country": "NL",
+  "status": "active",
+  "members": 5,
+  "past_members": 2,
+  "full_lengths": 3,
+  "genre": "Folk/Black/Heavy Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 59,
+  "themes": "Nature, Literature, Spirituality",
+  "release_year": 2017
+ },
+ "partial": false,
+ "clips": [
+  "alvenrad/1555257422-105",
+  "alvenrad/1555270377-107",
+  "alvenrad/1643172861-104",
+  "alvenrad/1555257422-104",
+  "alvenrad/1555270377-105",
+  "alvenrad/1643172861-103",
+  "alvenrad/1555257422-106",
+  "alvenrad/1555270377-108",
+  "alvenrad/1643172861-105",
+  "alvenrad/1555257422-103",
+  "alvenrad/1555270377-104",
+  "alvenrad/1643172861-102"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.72650642942585,
+   "iqr": 40.1953125
+  },
+  "onset_rate": {
+   "median": 5.34597294283082,
+   "iqr": 1.1777846639674152
+  },
+  "tempo_var": {
+   "median": 8.677804523913842,
+   "iqr": 14.307168039185386
+  },
+  "low_onset_rate": {
+   "median": 5.830451740774864,
+   "iqr": 1.7792066200358825
+  },
+  "lufs": {
+   "median": -11.025893726635607,
+   "iqr": 1.2560776792435515
+  },
+  "rms_dbfs": {
+   "median": -10.382992122570457,
+   "iqr": 1.3565773245488106
+  },
+  "crest": {
+   "median": 10.382991790771484,
+   "iqr": 1.3565778732299805
+  },
+  "centroid": {
+   "median": 2634.0826048130475,
+   "iqr": 132.20334337307213
+  },
+  "flatness": {
+   "median": 0.03526192717254162,
+   "iqr": 0.007782219909131527
+  },
+  "sub100_share": {
+   "median": 0.33951517939567566,
+   "iqr": 0.09287403523921967
+  },
+  "lowest_pitch": {
+   "median": 48.44970703125,
+   "iqr": 12.1124267578125
+  },
+  "harmonic_share": {
+   "median": 0.7352203726768494,
+   "iqr": 0.11012986302375793
+  },
+  "clean_share": {
+   "median": 0.010861132660977501,
+   "iqr": 0.04286268425135764
+  },
+  "minor_share": {
+   "median": 0.01576553225745292,
+   "iqr": 0.13311560233035785
+  },
+  "chord_rate": {
+   "median": 1.436730228385783,
+   "iqr": 0.6181281215148138
+  },
+  "repetitiveness": {
+   "median": 0.8599366545677185,
+   "iqr": 0.06871192157268524
+  },
+  "vocal_share": {
+   "median": 0.13413465023040771,
+   "iqr": 0.04275544732809067
+  },
+  "vocal_voiced": {
+   "median": 0.6449435176004934,
+   "iqr": 0.4135486036858447
+  },
+  "song_length": {
+   "median": 305.59900000000005,
+   "iqr": 80.54824999999994
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

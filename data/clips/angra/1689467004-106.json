@@ -1,0 +1,32 @@
+{
+ "id": "angra/1689467004-106",
+ "band": "angra",
+ "title": "Never Understand",
+ "source": "itunes",
+ "album": "Angels Cry",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 5.533299874226006,
+  "tempo_var": 26.738174971399133,
+  "low_onset_rate": 3.3666463090170278,
+  "lufs": -23.310585892806493,
+  "rms_dbfs": -21.89422814223779,
+  "crest": 16.915508270263672,
+  "centroid": 1506.5916568864916,
+  "flatness": 0.017485065385699272,
+  "sub100_share": 0.7136854529380798,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.9266306757926941,
+  "clean_share": 0.8321732405259087,
+  "minor_share": -0.060800200037565255,
+  "chord_rate": 1.7333228521671826,
+  "repetitiveness": 0.8992248177528381,
+  "vocal_share": 5.385513190958591e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 470.0
+ }
+}

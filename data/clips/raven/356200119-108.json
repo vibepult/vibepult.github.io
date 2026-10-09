@@ -1,0 +1,32 @@
+{
+ "id": "raven/356200119-108",
+ "band": "raven",
+ "title": "Trainwreck",
+ "source": "itunes",
+ "album": "Walk Through Fire",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.245735950152742,
+  "tempo_var": 2.460048101112475,
+  "low_onset_rate": 6.181281215148136,
+  "lufs": -7.2090856855603365,
+  "rms_dbfs": -7.804688052788751,
+  "crest": 7.804688453674316,
+  "centroid": 3075.2015317661358,
+  "flatness": 0.06784979999065399,
+  "sub100_share": 0.1557333618402481,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.5344363451004028,
+  "clean_share": 0.0,
+  "minor_share": 0.05440975339254528,
+  "chord_rate": 1.9379151917761723,
+  "repetitiveness": 0.8867879509925842,
+  "vocal_share": 0.38904809951782227,
+  "vocal_voiced": 0.725311203319502,
+  "song_length": 214.287
+ }
+}

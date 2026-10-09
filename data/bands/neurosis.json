@@ -1,0 +1,127 @@
+{
+ "slug": "neurosis",
+ "name": "Neurosis",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 18870036,
+  "deezer": 2981,
+  "spotify": "1KHydwFySZY3YcWyo2q2dF"
+ },
+ "metadata": {
+  "formed": 1985,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 7,
+  "full_lengths": 12,
+  "genre": "Hardcore Punk (early); Atmospheric Sludge/Post-Metal (later)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 31124,
+  "themes": "Devastation, Suffering, Pain, Spirituality",
+  "release_year": 2000
+ },
+ "partial": false,
+ "clips": [
+  "neurosis/1375056322-108",
+  "neurosis/1257298627-104",
+  "neurosis/257523883-105",
+  "neurosis/257611254-105",
+  "neurosis/73640380-105",
+  "neurosis/73637822-107",
+  "neurosis/77645857-105",
+  "neurosis/259502631-104",
+  "neurosis/252614879-105",
+  "neurosis/571358537-104",
+  "neurosis/1144195717-103",
+  "neurosis/1882105289-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 46.708050896139696
+  },
+  "onset_rate": {
+   "median": 3.866608214539463,
+   "iqr": 3.2493491793143576
+  },
+  "tempo_var": {
+   "median": 10.171688318907602,
+   "iqr": 12.005673755852301
+  },
+  "low_onset_rate": {
+   "median": 6.691381201198126,
+   "iqr": 2.2058642962006507
+  },
+  "lufs": {
+   "median": -12.834283825425276,
+   "iqr": 9.563403675836389
+  },
+  "rms_dbfs": {
+   "median": -11.849445525985521,
+   "iqr": 9.064195188137438
+  },
+  "crest": {
+   "median": 11.816221714019775,
+   "iqr": 5.039062738418579
+  },
+  "centroid": {
+   "median": 1856.677843199208,
+   "iqr": 709.3900187537799
+  },
+  "flatness": {
+   "median": 0.012922465801239014,
+   "iqr": 0.012227793107740581
+  },
+  "sub100_share": {
+   "median": 0.37691010534763336,
+   "iqr": 0.261506799608469
+  },
+  "lowest_pitch": {
+   "median": 67.291259765625,
+   "iqr": 35.66436767578125
+  },
+  "harmonic_share": {
+   "median": 0.871366024017334,
+   "iqr": 0.17872458696365356
+  },
+  "clean_share": {
+   "median": 0.4119472459270752,
+   "iqr": 0.790634748064562
+  },
+  "minor_share": {
+   "median": 0.02813454498554535,
+   "iqr": 0.1574072854098516
+  },
+  "chord_rate": {
+   "median": 1.568471516988371,
+   "iqr": 0.3949799316993663
+  },
+  "repetitiveness": {
+   "median": 0.8437639772891998,
+   "iqr": 0.08490590751171112
+  },
+  "vocal_share": {
+   "median": 0.10744370520114899,
+   "iqr": 0.07122151926159859
+  },
+  "vocal_voiced": {
+   "median": 0.31370038412291934,
+   "iqr": 0.26183145736239555
+  },
+  "song_length": {
+   "median": 403.37300000000005,
+   "iqr": 123.76000000000005
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "empyrium/1556132109-103",
+ "band": "empyrium",
+ "title": "Mourners",
+ "source": "itunes",
+ "album": "Songs of Moors and Misty Fields",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 4.343603016050041,
+  "tempo_var": 14.10148278280731,
+  "low_onset_rate": 2.7398111332007953,
+  "lufs": -11.773557514181842,
+  "rms_dbfs": -11.577982660506766,
+  "crest": 11.577982902526855,
+  "centroid": 2048.189156223962,
+  "flatness": 0.015687687322497368,
+  "sub100_share": 0.1770733743906021,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.8552879095077515,
+  "clean_share": 0.23273855702094648,
+  "minor_share": 0.01075459632375142,
+  "chord_rate": 0.6682466178538525,
+  "repetitiveness": 0.5976831316947937,
+  "vocal_share": 0.0685867965221405,
+  "vocal_voiced": 0.4797202797202797,
+  "song_length": 557.867
+ }
+}

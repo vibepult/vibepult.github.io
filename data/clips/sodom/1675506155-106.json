@@ -1,0 +1,32 @@
+{
+ "id": "sodom/1675506155-106",
+ "band": "sodom",
+ "title": "The Crippler",
+ "source": "itunes",
+ "album": "Tapping the Vein",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 8.133333333333333,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.5,
+  "lufs": -10.051013979622846,
+  "rms_dbfs": -9.668660495625327,
+  "crest": 9.668661117553711,
+  "centroid": 2908.032259581262,
+  "flatness": 0.0409032367169857,
+  "sub100_share": 0.300418883562088,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.6458086967468262,
+  "clean_share": 0.0007739938080495357,
+  "minor_share": 0.046891177246619176,
+  "chord_rate": 2.6666666666666665,
+  "repetitiveness": 0.8695017695426941,
+  "vocal_share": 0.09583143144845963,
+  "vocal_voiced": 0.31333333333333335,
+  "song_length": 249.8
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "novembers-doom",
+ "name": "Novembers Doom",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 159375998,
+  "deezer": 6066,
+  "spotify": "7CPjagX3gF7woK0P7YNuKd"
+ },
+ "metadata": {
+  "formed": 1992,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 21,
+  "full_lengths": 12,
+  "genre": "Melodic Doom/Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 9488,
+  "themes": "Darkness, Emotions, Heartbreak, Doom, Symbolism",
+  "release_year": 2006
+ },
+ "partial": false,
+ "clips": [
+  "novembers-doom/1556023828-108",
+  "novembers-doom/1556030139-106",
+  "novembers-doom/1556039906-111",
+  "novembers-doom/1556020807-106",
+  "novembers-doom/1556015404-104",
+  "novembers-doom/1556023116-104",
+  "novembers-doom/1556030712-104",
+  "novembers-doom/1556024661-104",
+  "novembers-doom/1556025657-106",
+  "novembers-doom/1556020177-105",
+  "novembers-doom/1819865317-106",
+  "novembers-doom/1556023828-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 107.85326086956522,
+   "iqr": 32.2998046875
+  },
+  "onset_rate": {
+   "median": 3.023815945788683,
+   "iqr": 1.2780216566454934
+  },
+  "tempo_var": {
+   "median": 12.724439364445372,
+   "iqr": 11.358699961166277
+  },
+  "low_onset_rate": {
+   "median": 5.479622266401591,
+   "iqr": 2.5934957728641894
+  },
+  "lufs": {
+   "median": -12.409031920133428,
+   "iqr": 6.721430143262252
+  },
+  "rms_dbfs": {
+   "median": -11.940152366250532,
+   "iqr": 6.0482601381498835
+  },
+  "crest": {
+   "median": 11.940152168273926,
+   "iqr": 5.7507922649383545
+  },
+  "centroid": {
+   "median": 1752.615712396685,
+   "iqr": 954.6718232516437
+  },
+  "flatness": {
+   "median": 0.012833049055188894,
+   "iqr": 0.023152776062488556
+  },
+  "sub100_share": {
+   "median": 0.18085086345672607,
+   "iqr": 0.1958121322095394
+  },
+  "lowest_pitch": {
+   "median": 60.5621337890625,
+   "iqr": 45.758056640625
+  },
+  "harmonic_share": {
+   "median": 0.8386090099811554,
+   "iqr": 0.17935189604759216
+  },
+  "clean_share": {
+   "median": 0.5147401086113266,
+   "iqr": 0.7315748642358417
+  },
+  "minor_share": {
+   "median": 0.05863055763176145,
+   "iqr": 0.2739123890186327
+  },
+  "chord_rate": {
+   "median": 1.2696685739223197,
+   "iqr": 0.6348342869611597
+  },
+  "repetitiveness": {
+   "median": 0.7946212291717529,
+   "iqr": 0.1876017153263092
+  },
+  "vocal_share": {
+   "median": 0.22143246233463287,
+   "iqr": 0.17675956711173058
+  },
+  "vocal_voiced": {
+   "median": 0.8,
+   "iqr": 0.4276515133459068
+  },
+  "song_length": {
+   "median": 353.69100000000003,
+   "iqr": 115.35974999999996
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

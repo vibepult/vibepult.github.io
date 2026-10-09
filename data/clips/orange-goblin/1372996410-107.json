@@ -1,0 +1,32 @@
+{
+ "id": "orange-goblin/1372996410-107",
+ "band": "orange-goblin",
+ "title": "King Of The Hornets",
+ "source": "itunes",
+ "album": "The Big Black",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 2.566666666666667,
+  "tempo_var": 3.2463378001137295,
+  "low_onset_rate": 4.433333333333334,
+  "lufs": -9.837080715942996,
+  "rms_dbfs": -8.15713017475501,
+  "crest": 8.157130241394043,
+  "centroid": 1393.4353242209984,
+  "flatness": 0.004362982232123613,
+  "sub100_share": 0.5081877112388611,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8778476119041443,
+  "clean_share": 0.6625386996904025,
+  "minor_share": 0.21952268246974427,
+  "chord_rate": 2.1333333333333333,
+  "repetitiveness": 0.8313918709754944,
+  "vocal_share": 3.810940256698814e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 313.133
+ }
+}

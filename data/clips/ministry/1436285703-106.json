@@ -1,0 +1,32 @@
+{
+ "id": "ministry/1436285703-106",
+ "band": "ministry",
+ "title": "Wtv",
+ "source": "itunes",
+ "album": "Houses of the Molé",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 1.4033178974930902,
+  "tempo_var": 15.953962937209628,
+  "low_onset_rate": 1.1360192503515492,
+  "lufs": -8.86849113110169,
+  "rms_dbfs": -10.33368249607779,
+  "crest": 10.3336820602417,
+  "centroid": 2955.4387194648816,
+  "flatness": 0.05858573690056801,
+  "sub100_share": 0.1436588615179062,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.6047186255455017,
+  "clean_share": 0.12102404965089217,
+  "minor_share": -0.00048647160901210684,
+  "chord_rate": 3.2744084274838774,
+  "repetitiveness": 0.8898507952690125,
+  "vocal_share": 0.24518881738185883,
+  "vocal_voiced": 0.14794303797468356,
+  "song_length": 265.027
+ }
+}

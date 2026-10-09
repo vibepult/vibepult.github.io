@@ -1,0 +1,32 @@
+{
+ "id": "witchfinder-general/304465824-103",
+ "band": "witchfinder-general",
+ "title": "Music",
+ "source": "itunes",
+ "album": "Friends of Hell",
+ "year": 1983,
+ "itunes_year": 1983,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.773223464093488,
+  "tempo_var": 2.0850494575874836,
+  "low_onset_rate": 4.243366023371963,
+  "lufs": -14.695417811383349,
+  "rms_dbfs": -14.890205392080993,
+  "crest": 14.890204429626465,
+  "centroid": 2284.1597469553953,
+  "flatness": 0.015939313918352127,
+  "sub100_share": 0.18659694492816925,
+  "lowest_pitch": 131.890869140625,
+  "harmonic_share": 0.6659019589424133,
+  "clean_share": 0.165244375484872,
+  "minor_share": 0.17434184156572763,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.7843722701072693,
+  "vocal_share": 0.23627416789531708,
+  "vocal_voiced": 0.7070844686648501,
+  "song_length": 188.56
+ }
+}

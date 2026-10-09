@@ -1,0 +1,32 @@
+{
+ "id": "vondur/1892028093-110",
+ "band": "vondur",
+ "title": "Kirkjur Skola Brenna",
+ "source": "itunes",
+ "album": "Striðsyfirlýsing",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 9.266526583120436,
+  "tempo_var": 3.2071933783245443,
+  "low_onset_rate": 9.099862435942011,
+  "lufs": -10.64295579086377,
+  "rms_dbfs": -9.435399484812256,
+  "crest": 9.435399055480957,
+  "centroid": 1715.4841562362708,
+  "flatness": 0.007114620413631201,
+  "sub100_share": 0.27209603786468506,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8542682528495789,
+  "clean_share": 0.2838360402165507,
+  "minor_share": -0.26415462832020775,
+  "chord_rate": 0.8666535653278107,
+  "repetitiveness": 0.6421544551849365,
+  "vocal_share": 0.05182997137308121,
+  "vocal_voiced": 0.9459734964322121,
+  "song_length": 123.267
+ }
+}

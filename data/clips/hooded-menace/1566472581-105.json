@@ -1,0 +1,32 @@
+{
+ "id": "hooded-menace/1566472581-105",
+ "band": "hooded-menace",
+ "title": "Corpus Asunder",
+ "source": "itunes",
+ "album": "The Tritonus Bell",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.6753563981961888,
+  "tempo_var": 3.395222279709687,
+  "low_onset_rate": 6.782703171216603,
+  "lufs": -16.76871525415605,
+  "rms_dbfs": -16.229463285856802,
+  "crest": 14.177736282348633,
+  "centroid": 2596.8625736258477,
+  "flatness": 0.02695881761610508,
+  "sub100_share": 0.37228938937187195,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8178430795669556,
+  "clean_share": 0.11016291698991466,
+  "minor_share": -0.1557979482849522,
+  "chord_rate": 2.338863162488484,
+  "repetitiveness": 0.8070786595344543,
+  "vocal_share": 0.019854947924613953,
+  "vocal_voiced": 0.7357512953367875,
+  "song_length": 438.468
+ }
+}

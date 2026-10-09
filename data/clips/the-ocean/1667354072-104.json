@@ -1,0 +1,32 @@
+{
+ "id": "the-ocean/1667354072-104",
+ "band": "the-ocean",
+ "title": "Atlantic",
+ "source": "itunes",
+ "album": "Holocene",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 66.25600961538461,
+  "onset_rate": 1.7040288755273238,
+  "tempo_var": 23.97756419133995,
+  "low_onset_rate": 2.205213838917713,
+  "lufs": -18.038375091213776,
+  "rms_dbfs": -15.564302315262799,
+  "crest": 15.564302444458008,
+  "centroid": 1057.793943860198,
+  "flatness": 0.0033178026787936687,
+  "sub100_share": 0.6008344888687134,
+  "lowest_pitch": 26.91650390625,
+  "harmonic_share": 0.8461188673973083,
+  "clean_share": 0.8774243599689682,
+  "minor_share": -0.07184138143556851,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.8954796195030212,
+  "vocal_share": 0.07599969208240509,
+  "vocal_voiced": 0.9162162162162162,
+  "song_length": 529.653
+ }
+}

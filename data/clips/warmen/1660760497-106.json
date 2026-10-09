@@ -1,0 +1,32 @@
+{
+ "id": "warmen/1660760497-106",
+ "band": "warmen",
+ "title": "Fire Within",
+ "source": "itunes",
+ "album": "Unknown Soldier",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.544077001406197,
+  "tempo_var": 20.32540264796421,
+  "low_onset_rate": 5.412797604616205,
+  "lufs": -8.196389357838497,
+  "rms_dbfs": -7.923775207628967,
+  "crest": 7.923774719238281,
+  "centroid": 2648.2257434911066,
+  "flatness": 0.044452469795942307,
+  "sub100_share": 0.35686981678009033,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.6860353350639343,
+  "clean_share": 0.017843289371605897,
+  "minor_share": 0.2987894473173067,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.8464148640632629,
+  "vocal_share": 0.19396689534187317,
+  "vocal_voiced": 0.6008105369807497,
+  "song_length": 202.027
+ }
+}

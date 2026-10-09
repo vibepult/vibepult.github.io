@@ -1,0 +1,32 @@
+{
+ "id": "boris/1854900347-103",
+ "band": "boris",
+ "title": "Furi",
+ "source": "itunes",
+ "album": "Akuma No Uta",
+ "year": 2003,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 2.8999824642027865,
+  "tempo_var": 4.284593819898405,
+  "low_onset_rate": 1.6333234568498451,
+  "lufs": -4.803928769197524,
+  "rms_dbfs": -4.179932678980967,
+  "crest": 4.179932594299316,
+  "centroid": 2336.8618203132164,
+  "flatness": 0.03004210628569126,
+  "sub100_share": 0.24814970791339874,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.6823877692222595,
+  "clean_share": 0.010054137664346482,
+  "minor_share": 0.23976257783145766,
+  "chord_rate": 2.0999873016640866,
+  "repetitiveness": 0.9405893683433533,
+  "vocal_share": 0.023664511740207672,
+  "vocal_voiced": 0.5309734513274337,
+  "song_length": 199.827
+ }
+}

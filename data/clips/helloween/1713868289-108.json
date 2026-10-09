@@ -1,0 +1,32 @@
+{
+ "id": "helloween/1713868289-108",
+ "band": "helloween",
+ "title": "I Can",
+ "source": "itunes",
+ "album": "Better Than Raw (Expanded Edition)",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 5.4665840274523445,
+  "tempo_var": 26.89112659447179,
+  "low_onset_rate": 6.266571933908785,
+  "lufs": -9.175039614041477,
+  "rms_dbfs": -9.056010027529116,
+  "crest": 9.056010246276855,
+  "centroid": 2850.6362018680597,
+  "flatness": 0.051665887236595154,
+  "sub100_share": 0.23435352742671967,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7003178596496582,
+  "clean_share": 0.0,
+  "minor_share": 0.16422663957186412,
+  "chord_rate": 1.7333071306556214,
+  "repetitiveness": 0.926651120185852,
+  "vocal_share": 0.22026211023330688,
+  "vocal_voiced": 0.9014195583596214,
+  "song_length": 279.333
+ }
+}

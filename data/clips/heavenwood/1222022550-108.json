@@ -1,0 +1,32 @@
+{
+ "id": "heavenwood/1222022550-108",
+ "band": "heavenwood",
+ "title": "Justice",
+ "source": "itunes",
+ "album": "The Tarot of the Bohemians, Pt. 1",
+ "year": 2026,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 0.20047398535615574,
+  "tempo_var": 14.200297237089135,
+  "low_onset_rate": 2.0047398535615577,
+  "lufs": -7.197427122589837,
+  "rms_dbfs": -7.1726381071343805,
+  "crest": 7.172637462615967,
+  "centroid": 2849.72008977232,
+  "flatness": 0.04208792373538017,
+  "sub100_share": 0.26544901728630066,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.8387215733528137,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": -0.008327674965769027,
+  "chord_rate": 1.3030809048150125,
+  "repetitiveness": 0.8720901608467102,
+  "vocal_share": 4.923211349705525e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 242.787
+ }
+}

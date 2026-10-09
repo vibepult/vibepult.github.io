@@ -1,0 +1,32 @@
+{
+ "id": "ghost/1603122391-106",
+ "band": "ghost",
+ "title": "Watcher In The Sky",
+ "source": "itunes",
+ "album": "IMPERA",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.166588562531179,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.1666036794606285,
+  "lufs": -9.760288946155136,
+  "rms_dbfs": -8.854427688903527,
+  "crest": 8.8544282913208,
+  "centroid": 2593.2250771996355,
+  "flatness": 0.034982457756996155,
+  "sub100_share": 0.43889907002449036,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.5956355929374695,
+  "clean_share": 0.006187161639597835,
+  "minor_share": 0.07896263512399754,
+  "chord_rate": 1.433311665734456,
+  "repetitiveness": 0.8246431350708008,
+  "vocal_share": 0.1337839514017105,
+  "vocal_voiced": 0.7425506555423123,
+  "song_length": 348.336
+ }
+}

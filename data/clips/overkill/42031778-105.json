@@ -1,0 +1,32 @@
+{
+ "id": "overkill/42031778-105",
+ "band": "overkill",
+ "title": "Shades of Grey",
+ "source": "itunes",
+ "album": "I Hear Black",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.33294033356611,
+  "tempo_var": 24.799956018938353,
+  "low_onset_rate": 4.432810643642926,
+  "lufs": -14.560632410149557,
+  "rms_dbfs": -14.949703208375878,
+  "crest": 14.949703216552734,
+  "centroid": 3002.4436372796044,
+  "flatness": 0.03892180323600769,
+  "sub100_share": 0.1968117654323578,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.717079222202301,
+  "clean_share": 0.08894044856921887,
+  "minor_share": -0.0544075084295077,
+  "chord_rate": 1.299846730090783,
+  "repetitiveness": 0.6888105869293213,
+  "vocal_share": 0.21158383786678314,
+  "vocal_voiced": 0.9020674646354734,
+  "song_length": 318.933
+ }
+}

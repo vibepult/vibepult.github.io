@@ -1,0 +1,32 @@
+{
+ "id": "morbific/1643977580-104",
+ "band": "morbific",
+ "title": "Suicide Sanctum",
+ "source": "itunes",
+ "album": "Squirm Beyond the Mortal Realm",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 4.544077001406197,
+  "tempo_var": 9.0843825308211,
+  "low_onset_rate": 6.48199219318237,
+  "lufs": -10.765629754879411,
+  "rms_dbfs": -8.906278745210633,
+  "crest": 8.906279563903809,
+  "centroid": 1952.4519228112654,
+  "flatness": 0.01123574934899807,
+  "sub100_share": 0.6276997327804565,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.9210242033004761,
+  "clean_share": 0.19550038789759502,
+  "minor_share": 0.28193938821816444,
+  "chord_rate": 2.2386261698104057,
+  "repetitiveness": 0.8041390776634216,
+  "vocal_share": 0.0008922858978621662,
+  "vocal_voiced": 0.0,
+  "song_length": 393.301
+ }
+}

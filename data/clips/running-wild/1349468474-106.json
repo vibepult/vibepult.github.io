@@ -1,0 +1,32 @@
+{
+ "id": "running-wild/1349468474-106",
+ "band": "running-wild",
+ "title": "The Depth of the Sea (Nautilus)",
+ "source": "itunes",
+ "album": "Rapid Foray",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.6085317364108036,
+  "tempo_var": 0.7404159421949895,
+  "low_onset_rate": 5.479622266401591,
+  "lufs": -11.67837657200722,
+  "rms_dbfs": -10.962261248908266,
+  "crest": 10.962261199951172,
+  "centroid": 1993.7942029021376,
+  "flatness": 0.009027709253132343,
+  "sub100_share": 0.3339865207672119,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.8465415835380554,
+  "clean_share": 0.40418929402637704,
+  "minor_share": -0.01574481247977677,
+  "chord_rate": 0.6014219560684673,
+  "repetitiveness": 0.968019962310791,
+  "vocal_share": 6.766845217498485e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 233.901
+ }
+}

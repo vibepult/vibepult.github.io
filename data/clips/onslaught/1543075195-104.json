@@ -1,0 +1,32 @@
+{
+ "id": "onslaught/1543075195-104",
+ "band": "onslaught",
+ "title": "Pain",
+ "source": "itunes",
+ "album": "Killing Peace",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.847157906221209,
+  "tempo_var": 4.263256414560601e-14,
+  "low_onset_rate": 6.916352494787374,
+  "lufs": -8.921627580400111,
+  "rms_dbfs": -8.423631933174082,
+  "crest": 8.42363166809082,
+  "centroid": 2610.226626617058,
+  "flatness": 0.04041721299290657,
+  "sub100_share": 0.24145399034023285,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.6114068627357483,
+  "clean_share": 0.01008533747090768,
+  "minor_share": -0.0456650046630116,
+  "chord_rate": 1.4367302283857828,
+  "repetitiveness": 0.9291964173316956,
+  "vocal_share": 0.15574069321155548,
+  "vocal_voiced": 0.011752136752136752,
+  "song_length": 248.24
+ }
+}

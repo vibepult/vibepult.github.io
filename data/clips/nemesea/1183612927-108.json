@@ -1,0 +1,32 @@
+{
+ "id": "nemesea/1183612927-108",
+ "band": "nemesea",
+ "title": "It's Over",
+ "source": "itunes",
+ "album": "The Quiet Resistance",
+ "year": 2011,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 5.833333333333333,
+  "tempo_var": 17.144779392623565,
+  "low_onset_rate": 4.6,
+  "lufs": -9.476312014814475,
+  "rms_dbfs": -8.933013975372642,
+  "crest": 8.933013916015625,
+  "centroid": 2135.752123979455,
+  "flatness": 0.01999550871551037,
+  "sub100_share": 0.24913449585437775,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.810421884059906,
+  "clean_share": 0.23993808049535603,
+  "minor_share": -0.060364558520604183,
+  "chord_rate": 1.5666666666666667,
+  "repetitiveness": 0.8371334075927734,
+  "vocal_share": 0.29543519020080566,
+  "vocal_voiced": 0.86,
+  "song_length": 239.48
+ }
+}

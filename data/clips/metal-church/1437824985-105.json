@@ -1,0 +1,32 @@
+{
+ "id": "metal-church/1437824985-105",
+ "band": "metal-church",
+ "title": "Guillotine",
+ "source": "itunes",
+ "album": "Damned If You Do",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 5.813745575328517,
+  "tempo_var": 29.169945721019193,
+  "low_onset_rate": 5.646683920865054,
+  "lufs": -7.35281768014807,
+  "rms_dbfs": -6.720231293498471,
+  "crest": 6.720231056213379,
+  "centroid": 2420.598647507635,
+  "flatness": 0.027340205386281013,
+  "sub100_share": 0.3347116708755493,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.663677990436554,
+  "clean_share": 0.060512024825446084,
+  "minor_share": 0.08544900463221217,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.929319441318512,
+  "vocal_share": 0.13251972198486328,
+  "vocal_voiced": 0.5857461024498887,
+  "song_length": 287.211
+ }
+}

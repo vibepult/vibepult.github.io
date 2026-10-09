@@ -1,0 +1,32 @@
+{
+ "id": "void-of-silence/1394905554-105",
+ "band": "void-of-silence",
+ "title": "Farthest Shores",
+ "source": "itunes",
+ "album": "The Sky Over",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 1.9045028608834795,
+  "tempo_var": 28.03946416028814,
+  "low_onset_rate": 5.4462099355088975,
+  "lufs": -10.271866834905213,
+  "rms_dbfs": -10.13844735791869,
+  "crest": 10.138446807861328,
+  "centroid": 1881.8397648274643,
+  "flatness": 0.010841418989002705,
+  "sub100_share": 0.20222334563732147,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.8768613934516907,
+  "clean_share": 0.4491854150504267,
+  "minor_share": 0.0012411961227322132,
+  "chord_rate": 0.7016589487465451,
+  "repetitiveness": 0.8460544347763062,
+  "vocal_share": 0.10638315230607986,
+  "vocal_voiced": 0.7321016166281755,
+  "song_length": 971.294
+ }
+}

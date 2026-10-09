@@ -1,0 +1,127 @@
+{
+ "slug": "metallica",
+ "name": "Metallica",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 3996865,
+  "deezer": 119,
+  "spotify": "2ye2Wgw4gimLv2eAKyk1NB"
+ },
+ "metadata": {
+  "formed": 1981,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 4,
+  "past_members": 4,
+  "full_lengths": 12,
+  "genre": "Thrash Metal (early); Hard Rock (mid); Heavy/Thrash Metal (later)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 8164185,
+  "themes": "Introspection, Anger, Corruption, Deceit, Death, Life, Metal, Literature, Films",
+  "release_year": 1987
+ },
+ "partial": false,
+ "clips": [
+  "metallica/579146130-105",
+  "metallica/579148345-104",
+  "metallica/1275600311-104",
+  "metallica/1434424163-105",
+  "metallica/1572046434-106",
+  "metallica/1806720489-107",
+  "metallica/579378997-106",
+  "metallica/1145497823-106",
+  "metallica/579146130-106",
+  "metallica/579148345-105",
+  "metallica/1275600311-105",
+  "metallica/1434424163-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.32652698863637,
+   "iqr": 52.392659777382946
+  },
+  "onset_rate": {
+   "median": 3.783333333333333,
+   "iqr": 1.6499956160506972
+  },
+  "tempo_var": {
+   "median": 16.190961242262404,
+   "iqr": 17.654931024794237
+  },
+  "low_onset_rate": {
+   "median": 3.849988410248968,
+   "iqr": 3.450015772139448
+  },
+  "lufs": {
+   "median": -14.204076269081106,
+   "iqr": 5.386852597321756
+  },
+  "rms_dbfs": {
+   "median": -14.067349682516243,
+   "iqr": 5.759109284021818
+  },
+  "crest": {
+   "median": 13.53868293762207,
+   "iqr": 5.196309804916382
+  },
+  "centroid": {
+   "median": 2306.894805735298,
+   "iqr": 491.6132466148888
+  },
+  "flatness": {
+   "median": 0.02605563960969448,
+   "iqr": 0.02281982614658773
+  },
+  "sub100_share": {
+   "median": 0.22627044469118118,
+   "iqr": 0.2544130627065897
+  },
+  "lowest_pitch": {
+   "median": 72.674560546875,
+   "iqr": 41.7205810546875
+  },
+  "harmonic_share": {
+   "median": 0.8063884675502777,
+   "iqr": 0.11848995089530945
+  },
+  "clean_share": {
+   "median": 0.3218679888611935,
+   "iqr": 0.33679819772578706
+  },
+  "minor_share": {
+   "median": 0.04167350627895128,
+   "iqr": 0.05815291511853955
+  },
+  "chord_rate": {
+   "median": 1.7999945578560372,
+   "iqr": 0.8833233560694016
+  },
+  "repetitiveness": {
+   "median": 0.8636883199214935,
+   "iqr": 0.14474651217460632
+  },
+  "vocal_share": {
+   "median": 0.20900318026542664,
+   "iqr": 0.05138355493545532
+  },
+  "vocal_voiced": {
+   "median": 0.30380905223004695,
+   "iqr": 0.13844446889671363
+  },
+  "song_length": {
+   "median": 391.1245,
+   "iqr": 205.307
+  },
+  "vocal_presence": {
+   "median": 0.16666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

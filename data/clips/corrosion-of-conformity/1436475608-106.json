@@ -1,0 +1,32 @@
+{
+ "id": "corrosion-of-conformity/1436475608-106",
+ "band": "corrosion-of-conformity",
+ "title": "Zippo",
+ "source": "itunes",
+ "album": "America's Volume Dealer",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 4.8,
+  "tempo_var": 15.420522685519277,
+  "low_onset_rate": 5.666666666666667,
+  "lufs": -8.79831010520187,
+  "rms_dbfs": -8.553773678087378,
+  "crest": 8.553773880004883,
+  "centroid": 2440.2624550506043,
+  "flatness": 0.030007926747202873,
+  "sub100_share": 0.2565183937549591,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.6897105574607849,
+  "clean_share": 0.0673374613003096,
+  "minor_share": -0.08401166081414568,
+  "chord_rate": 2.2666666666666666,
+  "repetitiveness": 0.8764302730560303,
+  "vocal_share": 0.2937560975551605,
+  "vocal_voiced": 0.6480129764801298,
+  "song_length": 268.867
+ }
+}

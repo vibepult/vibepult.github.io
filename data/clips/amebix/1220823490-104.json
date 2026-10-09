@@ -1,0 +1,32 @@
+{
+ "id": "amebix/1220823490-104",
+ "band": "amebix",
+ "title": "God of the Grain",
+ "source": "itunes",
+ "album": "Sonic Mass",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.312560611938127,
+  "tempo_var": 0.0,
+  "low_onset_rate": 7.050001818358144,
+  "lufs": -8.58428364268584,
+  "rms_dbfs": -7.804058665050368,
+  "crest": 7.804058074951172,
+  "centroid": 2180.222343136549,
+  "flatness": 0.022796649485826492,
+  "sub100_share": 0.38360345363616943,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7741743922233582,
+  "clean_share": 0.010861132660977503,
+  "minor_share": 0.2640845882106193,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.9101138114929199,
+  "vocal_share": 0.11760761588811874,
+  "vocal_voiced": 0.5966921119592875,
+  "song_length": 254.587
+ }
+}

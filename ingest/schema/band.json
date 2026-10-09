@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Per-band record: raw medians and IQRs, never percentiles (those are derived at publish).",
+  "type": "object",
+  "required": ["slug", "name", "extractor_version", "ids", "metadata", "partial", "clips", "features", "hand",
+               "sources_failed"],
+  "properties": {
+    "slug": {"type": "string", "pattern": "^[a-z0-9-]+$"},
+    "name": {"type": "string"},
+    "extractor_version": {"type": "string", "minLength": 1},
+    "ids": {"type": "object", "required": ["itunes", "deezer", "spotify"],
+            "properties": {"itunes": {"type": "integer"}, "deezer": {"type": "integer"},
+                           "spotify": {"type": "string", "pattern": "^[0-9A-Za-z]{22}$"}}},
+    "metadata": {
+      "type": "object",
+      "required": ["formed", "split", "country", "status", "members", "past_members", "full_lengths", "genre",
+                   "vocals", "instrumental", "fans", "release_year", "themes"],
+      "properties": {
+        "formed": {"type": "integer"}, "split": {"type": ["integer", "null"]},
+        "country": {"type": "string", "pattern": "^[A-Z]{2}$"}, "status": {"type": "string"},
+        "members": {"type": "integer", "minimum": 0}, "past_members": {"type": "integer", "minimum": 0},
+        "full_lengths": {"type": "integer", "minimum": 0}, "genre": {"type": "string", "minLength": 1},
+        "vocals": {"enum": ["harsh", "mixed", "clean"]}, "instrumental": {"type": "boolean"},
+        "fans": {"type": "integer", "minimum": 0}, "release_year": {"type": "integer"},
+        "themes": {"type": "string"}
+      }
+    },
+    "partial": {"type": "boolean"},
+    "clips": {"type": "array", "items": {"type": "string"}},
+    "features": {
+      "type": "object",
+      "additionalProperties": {"type": "object", "required": ["median", "iqr"],
+                               "properties": {"median": {"type": "number"}, "iqr": {"type": "number", "minimum": 0}}}
+    },
+    "hand": {"type": "object", "required": ["persona", "camp"],
+             "properties": {"persona": {"type": "number", "minimum": 0, "maximum": 1},
+                            "camp": {"type": "number", "minimum": 0, "maximum": 1}}},
+    "sources_failed": {"type": "array", "items": {"type": "string"}}
+  }
+}

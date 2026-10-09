@@ -1,0 +1,32 @@
+{
+ "id": "briqueville/1526167897-101",
+ "band": "briqueville",
+ "title": "Akte VIII",
+ "source": "itunes",
+ "album": "Quelle",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.544077001406197,
+  "tempo_var": 6.57384510395046,
+  "low_onset_rate": 8.520144377636619,
+  "lufs": -12.786296130568427,
+  "rms_dbfs": -11.19887221340968,
+  "crest": 11.198872566223145,
+  "centroid": 1939.5904692932916,
+  "flatness": 0.007183216977864504,
+  "sub100_share": 0.7431057095527649,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.9863862991333008,
+  "clean_share": 0.4383242823894492,
+  "minor_share": -0.025584225933782512,
+  "chord_rate": 0.8353082723173156,
+  "repetitiveness": 0.9356364607810974,
+  "vocal_share": 0.003746013855561614,
+  "vocal_voiced": 0.46088193456614507,
+  "song_length": 363.745
+ }
+}

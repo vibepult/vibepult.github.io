@@ -1,0 +1,32 @@
+{
+ "id": "rage/1502106814-111",
+ "band": "rage",
+ "title": "Full Moon",
+ "source": "itunes",
+ "album": "Speak of the Dead",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 2.205213838917713,
+  "tempo_var": 23.47068717526565,
+  "low_onset_rate": 2.2720385007030983,
+  "lufs": -18.367482508585923,
+  "rms_dbfs": -18.020764023811676,
+  "crest": 15.92393684387207,
+  "centroid": 2714.4961197929783,
+  "flatness": 0.013922544196248055,
+  "sub100_share": 0.042177964001894,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.9262896180152893,
+  "clean_share": 0.21644685802948022,
+  "minor_share": -0.33184128388209655,
+  "chord_rate": 0.8353082723173156,
+  "repetitiveness": 0.6534166932106018,
+  "vocal_share": 0.15020601451396942,
+  "vocal_voiced": 0.7814207650273224,
+  "song_length": 294.139
+ }
+}

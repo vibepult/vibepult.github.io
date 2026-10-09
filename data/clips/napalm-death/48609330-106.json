@@ -1,0 +1,32 @@
+{
+ "id": "napalm-death/48609330-106",
+ "band": "napalm-death",
+ "title": "Primed Time",
+ "source": "itunes",
+ "album": "Fear, Emptiness, Despair",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 5.746920913543131,
+  "tempo_var": 11.640885576365406,
+  "low_onset_rate": 6.682466178538525,
+  "lufs": -10.138511645030977,
+  "rms_dbfs": -9.610548763741834,
+  "crest": 9.610548973083496,
+  "centroid": 2475.6261667465565,
+  "flatness": 0.020818613469600677,
+  "sub100_share": 0.35019463300704956,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8132154941558838,
+  "clean_share": 0.07680372381691233,
+  "minor_share": 0.12843893963579198,
+  "chord_rate": 2.338863162488484,
+  "repetitiveness": 0.9140633344650269,
+  "vocal_share": 0.10034636408090591,
+  "vocal_voiced": 0.4755700325732899,
+  "song_length": 208.533
+ }
+}

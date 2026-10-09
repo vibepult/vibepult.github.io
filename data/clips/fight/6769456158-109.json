@@ -1,0 +1,32 @@
+{
+ "id": "fight/6769456158-109",
+ "band": "fight",
+ "title": "Contortion",
+ "source": "itunes",
+ "album": "War Of Words",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.098037675304682,
+  "tempo_var": 17.396174585806,
+  "low_onset_rate": 4.830273794829881,
+  "lufs": -13.074808463458446,
+  "rms_dbfs": -11.925988847186051,
+  "crest": 11.925989151000977,
+  "centroid": 2451.5647648744375,
+  "flatness": 0.02204021066427231,
+  "sub100_share": 0.6585296392440796,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7307938933372498,
+  "clean_share": 0.34493426140757927,
+  "minor_share": -0.011494268673338526,
+  "chord_rate": 2.465105247016629,
+  "repetitiveness": 0.8655721545219421,
+  "vocal_share": 0.00033460534177720547,
+  "vocal_voiced": 0.85,
+  "song_length": 275.173
+ }
+}

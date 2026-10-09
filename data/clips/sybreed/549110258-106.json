@@ -1,0 +1,32 @@
+{
+ "id": "sybreed/549110258-106",
+ "band": "sybreed",
+ "title": "Hightech Versus Lowlife",
+ "source": "itunes",
+ "album": "God Is an Automaton",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 1.603791882849246,
+  "tempo_var": 11.870565921999665,
+  "low_onset_rate": 4.076304368908501,
+  "lufs": -8.671659170192882,
+  "rms_dbfs": -7.826851848707081,
+  "crest": 7.826851844787598,
+  "centroid": 2751.993679353137,
+  "flatness": 0.04447980225086212,
+  "sub100_share": 0.46145501732826233,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.757317841053009,
+  "clean_share": 0.051978277734678044,
+  "minor_share": -0.15537549930326439,
+  "chord_rate": 2.071564515346943,
+  "repetitiveness": 0.8576693534851074,
+  "vocal_share": 0.12583224475383759,
+  "vocal_voiced": 0.256021409455843,
+  "song_length": 315.667
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "stream-of-passion/1184111666-105",
+ "band": "stream-of-passion",
+ "title": "Spark",
+ "source": "itunes",
+ "album": "Darker Days",
+ "year": 2011,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 2.2,
+  "tempo_var": 9.852409013947607,
+  "low_onset_rate": 4.233333333333333,
+  "lufs": -13.67418558426158,
+  "rms_dbfs": -13.746953232832507,
+  "crest": 12.450017929077148,
+  "centroid": 1780.4351803611455,
+  "flatness": 0.00669995928183198,
+  "sub100_share": 0.0005897256196476519,
+  "lowest_pitch": 196.490478515625,
+  "harmonic_share": 0.9602487683296204,
+  "clean_share": 0.8730650154798761,
+  "minor_share": 0.008684462326501885,
+  "chord_rate": 1.1,
+  "repetitiveness": 0.6016248464584351,
+  "vocal_share": 0.7687012553215027,
+  "vocal_voiced": 0.9121306376360808,
+  "song_length": 156.333
+ }
+}

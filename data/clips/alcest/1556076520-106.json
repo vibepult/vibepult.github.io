@@ -1,0 +1,32 @@
+{
+ "id": "alcest/1556076520-106",
+ "band": "alcest",
+ "title": "Shelter",
+ "source": "itunes",
+ "album": "Shelter (Deluxe Edition)",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.4080577510546477,
+  "tempo_var": 17.778704648062394,
+  "low_onset_rate": 5.045261964796587,
+  "lufs": -8.371648842711929,
+  "rms_dbfs": -7.8016000397468845,
+  "crest": 7.801599979400635,
+  "centroid": 2040.7687457417953,
+  "flatness": 0.011570370756089687,
+  "sub100_share": 0.30911561846733093,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.9067460298538208,
+  "clean_share": 0.17455391776570986,
+  "minor_share": -0.20525480386222872,
+  "chord_rate": 0.7016589487465451,
+  "repetitiveness": 0.6418299078941345,
+  "vocal_share": 4.6645595830341335e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 329.12
+ }
+}

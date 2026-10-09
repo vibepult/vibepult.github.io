@@ -1,0 +1,32 @@
+{
+ "id": "kalmah/1669976740-106",
+ "band": "kalmah",
+ "title": "The Black Waltz",
+ "source": "itunes",
+ "album": "The Black Waltz",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 5.4,
+  "tempo_var": 0.6786576068628285,
+  "low_onset_rate": 7.5,
+  "lufs": -7.712292661364117,
+  "rms_dbfs": -7.317261604554636,
+  "crest": 7.317261219024658,
+  "centroid": 3148.790460709247,
+  "flatness": 0.06686260551214218,
+  "sub100_share": 0.3737424612045288,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7400490045547485,
+  "clean_share": 0.0,
+  "minor_share": 0.04631867682690405,
+  "chord_rate": 1.5333333333333334,
+  "repetitiveness": 0.8569526672363281,
+  "vocal_share": 0.10499541461467743,
+  "vocal_voiced": 0.03399209486166008,
+  "song_length": 277.013
+ }
+}

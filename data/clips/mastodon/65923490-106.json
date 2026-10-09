@@ -1,0 +1,32 @@
+{
+ "id": "mastodon/65923490-106",
+ "band": "mastodon",
+ "title": "Megalodon",
+ "source": "itunes",
+ "album": "Leviathan",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 6.666565887137005,
+  "tempo_var": 9.710645747548243,
+  "low_onset_rate": 6.866562863751115,
+  "lufs": -10.822078551406017,
+  "rms_dbfs": -10.769970090324573,
+  "crest": 10.769969940185547,
+  "centroid": 2327.2914088180783,
+  "flatness": 0.023487210273742676,
+  "sub100_share": 0.22975361347198486,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.7304868102073669,
+  "clean_share": 0.0007733952049497294,
+  "minor_share": 0.012307709644412024,
+  "chord_rate": 2.466629378240692,
+  "repetitiveness": 0.9253917932510376,
+  "vocal_share": 0.1160622388124466,
+  "vocal_voiced": 0.6641053787047201,
+  "song_length": 262.907
+ }
+}

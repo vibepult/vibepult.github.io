@@ -1,0 +1,32 @@
+{
+ "id": "marduk/267988153-106",
+ "band": "marduk",
+ "title": "La Grande Danse Macabre",
+ "source": "itunes",
+ "album": "La Grande Danse Macabre",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 5.178911288367357,
+  "tempo_var": 1.9735259776242784,
+  "low_onset_rate": 6.314930538718906,
+  "lufs": -11.59948103938637,
+  "rms_dbfs": -12.026663048150382,
+  "crest": 12.026662826538086,
+  "centroid": 2254.236144347002,
+  "flatness": 0.02509603463113308,
+  "sub100_share": 0.5379074811935425,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8988128304481506,
+  "clean_share": 0.2443754848719938,
+  "minor_share": 0.09965858725712756,
+  "chord_rate": 2.1049768462396354,
+  "repetitiveness": 0.9451799988746643,
+  "vocal_share": 4.5447535512721515e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 491.04
+ }
+}

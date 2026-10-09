@@ -1,0 +1,32 @@
+{
+ "id": "helmet/1701052976-105",
+ "band": "helmet",
+ "title": "Big Shot",
+ "source": "itunes",
+ "album": "LEFT",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 1.7666666666666666,
+  "tempo_var": 15.512992418295305,
+  "low_onset_rate": 4.766666666666667,
+  "lufs": -7.715255858175996,
+  "rms_dbfs": -7.994792588783161,
+  "crest": 7.994792461395264,
+  "centroid": 2911.1883184429907,
+  "flatness": 0.050958845764398575,
+  "sub100_share": 0.22586140036582947,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.690097987651825,
+  "clean_share": 0.01238390092879257,
+  "minor_share": 0.035529701960291205,
+  "chord_rate": 1.4333333333333333,
+  "repetitiveness": 0.8162257075309753,
+  "vocal_share": 0.3161287009716034,
+  "vocal_voiced": 0.31193490054249545,
+  "song_length": 163.65
+ }
+}

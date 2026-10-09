@@ -1,0 +1,32 @@
+{
+ "id": "mercyful-fate/60380739-105",
+ "band": "mercyful-fate",
+ "title": "My Demon",
+ "source": "itunes",
+ "album": "Time",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.71113865586966,
+  "tempo_var": 19.62156648568821,
+  "low_onset_rate": 6.281518207826213,
+  "lufs": -10.954748620561249,
+  "rms_dbfs": -11.816108132993676,
+  "crest": 11.816108703613281,
+  "centroid": 2670.0682335771617,
+  "flatness": 0.037014614790678024,
+  "sub100_share": 0.12448664009571075,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.727060854434967,
+  "clean_share": 0.019394879751745538,
+  "minor_share": -0.07363443555557347,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.7955124378204346,
+  "vocal_share": 0.09433132410049438,
+  "vocal_voiced": 0.2823741007194245,
+  "song_length": 282.427
+ }
+}

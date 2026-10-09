@@ -1,0 +1,32 @@
+{
+ "id": "vreid/1750536480-104",
+ "band": "vreid",
+ "title": "Welcome Farewell",
+ "source": "itunes",
+ "album": "Welcome Farewell",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.066590074224123,
+  "tempo_var": 15.300888541639308,
+  "low_onset_rate": 7.266556816979335,
+  "lufs": -7.939498842660847,
+  "rms_dbfs": -6.824079760110963,
+  "crest": 6.8240790367126465,
+  "centroid": 2124.121430374179,
+  "flatness": 0.02317688800394535,
+  "sub100_share": 0.3713230788707733,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.727293074131012,
+  "clean_share": 0.24052590873936583,
+  "minor_share": 0.03919250117784945,
+  "chord_rate": 1.3666460068630861,
+  "repetitiveness": 0.9210877418518066,
+  "vocal_share": 0.05356571823358536,
+  "vocal_voiced": 0.07293354943273905,
+  "song_length": 391.865
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "jack-frost/265250569-103",
+ "band": "jack-frost",
+ "title": "My Silent Brother",
+ "source": "itunes",
+ "album": "Eden",
+ "year": 1995,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 1.603791882849246,
+  "tempo_var": 30.75831689597697,
+  "low_onset_rate": 4.57748933229889,
+  "lufs": -9.40785364057661,
+  "rms_dbfs": -9.19532486238046,
+  "crest": 9.195324897766113,
+  "centroid": 2433.908427125303,
+  "flatness": 0.012192131020128727,
+  "sub100_share": 0.15733063220977783,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.911117434501648,
+  "clean_share": 0.30100853374709075,
+  "minor_share": -0.11958692672018012,
+  "chord_rate": 0.801895941424623,
+  "repetitiveness": 0.8215935826301575,
+  "vocal_share": 7.801475589985785e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 310.213
+ }
+}

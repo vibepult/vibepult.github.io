@@ -1,0 +1,32 @@
+{
+ "id": "manegarm/1003248277-107",
+ "band": "manegarm",
+ "title": "Daudr",
+ "source": "itunes",
+ "album": "Dödsfärd",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.94265504533773,
+  "tempo_var": 4.0941825612679175,
+  "low_onset_rate": 6.649053847645832,
+  "lufs": -9.575971327196795,
+  "rms_dbfs": -9.543806479503324,
+  "crest": 9.543806076049805,
+  "centroid": 2605.413222160882,
+  "flatness": 0.0391073040664196,
+  "sub100_share": 0.21541178226470947,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7675018310546875,
+  "clean_share": 0.0,
+  "minor_share": 0.0746869232027112,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.8379503488540649,
+  "vocal_share": 0.14196175336837769,
+  "vocal_voiced": 0.3546195652173913,
+  "song_length": 156.28
+ }
+}

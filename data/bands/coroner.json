@@ -1,0 +1,127 @@
+{
+ "slug": "coroner",
+ "name": "Coroner",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 191721935,
+  "deezer": 9922,
+  "spotify": "7lfdXL6PuTM5iWJNvI7PPV"
+ },
+ "metadata": {
+  "formed": 1983,
+  "split": null,
+  "country": "CH",
+  "status": "active",
+  "members": 3,
+  "past_members": 6,
+  "full_lengths": 6,
+  "genre": "Technical Thrash Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 20205,
+  "themes": "Death, Dreamstates, Depression, Politics, Hate",
+  "release_year": 1992
+ },
+ "partial": false,
+ "clips": [
+  "coroner/1372055980-104",
+  "coroner/1442072890-104",
+  "coroner/1439100202-105",
+  "coroner/1830021398-106",
+  "coroner/1372055980-105",
+  "coroner/1442072890-105",
+  "coroner/1439100202-106",
+  "coroner/1830021398-105",
+  "coroner/1372055980-103",
+  "coroner/1442072890-103",
+  "coroner/1439100202-104",
+  "coroner/1830021398-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 112.34714673913044,
+   "iqr": 20.76416015625
+  },
+  "onset_rate": {
+   "median": 4.388468174691687,
+   "iqr": 1.9990608543105886
+  },
+  "tempo_var": {
+   "median": 10.899055704224692,
+   "iqr": 7.4368808758694165
+  },
+  "low_onset_rate": {
+   "median": 5.2649891955561525,
+   "iqr": 1.5738728045160544
+  },
+  "lufs": {
+   "median": -11.880758525589531,
+   "iqr": 4.35466971992169
+  },
+  "rms_dbfs": {
+   "median": -11.529725846135122,
+   "iqr": 4.263502922505406
+  },
+  "crest": {
+   "median": 11.529725551605225,
+   "iqr": 4.263502597808838
+  },
+  "centroid": {
+   "median": 2554.2440603225004,
+   "iqr": 216.91407000040863
+  },
+  "flatness": {
+   "median": 0.030799563974142075,
+   "iqr": 0.00780166732147336
+  },
+  "sub100_share": {
+   "median": 0.26348617672920227,
+   "iqr": 0.06756074354052544
+  },
+  "lowest_pitch": {
+   "median": 75.3662109375,
+   "iqr": 13.458251953125
+  },
+  "harmonic_share": {
+   "median": 0.7002686858177185,
+   "iqr": 0.09322972595691681
+  },
+  "clean_share": {
+   "median": 0.024021729470850038,
+   "iqr": 0.0802223066464666
+  },
+  "minor_share": {
+   "median": 0.008829073016138778,
+   "iqr": 0.2590451131825422
+  },
+  "chord_rate": {
+   "median": 1.7827530760309545,
+   "iqr": 0.5879537813767799
+  },
+  "repetitiveness": {
+   "median": 0.8978215157985687,
+   "iqr": 0.08011776208877563
+  },
+  "vocal_share": {
+   "median": 0.06548553705215454,
+   "iqr": 0.031580228358507156
+  },
+  "vocal_voiced": {
+   "median": 0.11557788944723618,
+   "iqr": 0.11830696149600241
+  },
+  "song_length": {
+   "median": 308.58,
+   "iqr": 53.85949999999997
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

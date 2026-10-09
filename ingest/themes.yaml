@@ -1,0 +1,47 @@
+# Metal Archives genre string -> theme pack: the pack mentioned earliest in the string wins; anything else -> steel.
+# The next pack mentioned (if any) is the crossover trim: its ornament, emblem and cap faces on the primary's stage.
+# Rule order no longer matters (2026-10-07): Meshuggah ("Technical Groove/Thrash Metal ...") is Prog with a Thrash trim.
+# The 666-pool families map into these nine packs: grind and crust -> death; gothic, sludge, stoner, drone
+# -> doom; celtic -> folk; neo-classical -> power; avant-garde, experimental -> prog. New packs are M4.
+rules:
+  - {pack: black, keywords: [black]}
+  - {pack: death, keywords: [death, grind, crust, goregrind]}
+  - {pack: doom, keywords: [doom, gothic, sludge, stoner, drone]}
+  - {pack: folk, keywords: [folk, pagan, viking, medieval, celtic]}
+  - {pack: industrial, keywords: [industrial]}
+  - {pack: power, keywords: [power, symphonic, neo-classical]}
+  - {pack: prog, keywords: [prog, djent, technical, avant-garde, experimental]}
+  - {pack: thrash, keywords: [thrash]}
+default: steel
+
+# Every pack sets every slot. Pack rule (D12): a non-steel pack changes the display font and at least one
+# shape slot. check.py: label on panel >= 4.5:1, led_on vs led_off >= 3:1.
+# cap_shape: rect | pill | chamfer.  led_shape: round | square | bar.
+packs:
+  steel:      {label_name: Steel, panel: "#2b2f33", panel_inset: "#1f2225", cap: "#c9ccd0", led_on: "#ffb000",
+               led_off: "#3a3f44", label: "#c4c9cf", accent: "#ffb000",
+               font_display: '"Barlow Condensed", "Arial Narrow", sans-serif', cap_shape: rect, led_shape: round}
+  black:      {label_name: Black, panel: "#141516", panel_inset: "#0a0a0b", cap: "#e6e6e6", led_on: "#f2f2f2",
+               led_off: "#2c2d2f", label: "#a9adb2", accent: "#dfe3e8",
+               font_display: '"Pirata One", "Barlow Condensed", serif', cap_shape: chamfer, led_shape: square}
+  death:      {label_name: Death, panel: "#1e1414", panel_inset: "#120b0b", cap: "#b9a89a", led_on: "#e0312b",
+               led_off: "#3a2222", label: "#d2b9a8", accent: "#e0312b",
+               font_display: '"Eater", "Barlow Condensed", serif', cap_shape: chamfer, led_shape: round}
+  doom:       {label_name: Doom, panel: "#2a2230", panel_inset: "#1b1520", cap: "#c8b98f", led_on: "#d99a2b",
+               led_off: "#3d3345", label: "#d1c4a8", accent: "#d99a2b",
+               font_display: '"Cinzel", Georgia, serif', cap_shape: pill, led_shape: round}
+  folk:       {label_name: Folk, panel: "#2e2a1f", panel_inset: "#1f1c14", cap: "#d4c49a", led_on: "#8fcf5a",
+               led_off: "#3d3a2c", label: "#d8cfb0", accent: "#8fcf5a",
+               font_display: '"MedievalSharp", Georgia, serif', cap_shape: pill, led_shape: square}
+  industrial: {label_name: Industrial, panel: "#3a3a37", panel_inset: "#262624", cap: "#9ea3a6", led_on: "#ff5a1f",
+               led_off: "#33312f", label: "#e2e0da", accent: "#ff5a1f",
+               font_display: '"Black Ops One", "Arial Black", sans-serif', cap_shape: rect, led_shape: bar}
+  power:      {label_name: Power, panel: "#1c2647", panel_inset: "#121a33", cap: "#e3cf8a", led_on: "#ffd34d",
+               led_off: "#2f3a5e", label: "#e8dcae", accent: "#ffd34d",
+               font_display: '"Cinzel Decorative", Georgia, serif', cap_shape: pill, led_shape: round}
+  prog:       {label_name: Prog, panel: "#14232b", panel_inset: "#0c171d", cap: "#b8c7ce", led_on: "#35e0e0",
+               led_off: "#22363f", label: "#b9d3dc", accent: "#35e0e0",
+               font_display: '"Orbitron", "Barlow Condensed", sans-serif', cap_shape: pill, led_shape: bar}
+  thrash:     {label_name: Thrash, panel: "#2a2b2e", panel_inset: "#1a1b1d", cap: "#d6d1c4", led_on: "#c6ff3d",
+               led_off: "#3b3e33", label: "#d8dccb", accent: "#c6ff3d",
+               font_display: '"Metal Mania", "Barlow Condensed", serif', cap_shape: chamfer, led_shape: bar}

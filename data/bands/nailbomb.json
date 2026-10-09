@@ -1,0 +1,126 @@
+{
+ "slug": "nailbomb",
+ "name": "Nailbomb",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 80030521,
+  "deezer": 16484,
+  "spotify": "4Q6EFOghPrRjdwsF4p7Nzm"
+ },
+ "metadata": {
+  "formed": 1993,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 1,
+  "past_members": 1,
+  "full_lengths": 1,
+  "genre": "Industrial Thrash Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 7490,
+  "themes": "Politics, Social issues",
+  "release_year": 1994
+ },
+ "partial": false,
+ "clips": [
+  "nailbomb/280151959-107",
+  "nailbomb/280151959-106",
+  "nailbomb/280151959-108",
+  "nailbomb/280151959-104",
+  "nailbomb/280151959-109",
+  "nailbomb/280151959-103",
+  "nailbomb/280151959-110",
+  "nailbomb/280151959-102",
+  "nailbomb/280151959-111",
+  "nailbomb/280151959-101",
+  "nailbomb/280151959-113"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 99.38401442307692,
+   "iqr": 12.665342133620697
+  },
+  "onset_rate": {
+   "median": 4.963890189916449,
+   "iqr": 1.9507006582580786
+  },
+  "tempo_var": {
+   "median": 14.291862106340187,
+   "iqr": 13.649501700231237
+  },
+  "low_onset_rate": {
+   "median": 5.86257217181651,
+   "iqr": 1.5502373644751923
+  },
+  "lufs": {
+   "median": -12.67471610508787,
+   "iqr": 1.0478829907905833
+  },
+  "rms_dbfs": {
+   "median": -12.39823595403369,
+   "iqr": 0.8440789831556277
+  },
+  "crest": {
+   "median": 12.398235321044922,
+   "iqr": 0.8440780639648438
+  },
+  "centroid": {
+   "median": 2890.7401132094938,
+   "iqr": 139.57864039919832
+  },
+  "flatness": {
+   "median": 0.050161611288785934,
+   "iqr": 0.010103080421686172
+  },
+  "sub100_share": {
+   "median": 0.19627073407173157,
+   "iqr": 0.046727873384952545
+  },
+  "lowest_pitch": {
+   "median": 64.599609375,
+   "iqr": 26.91650390625
+  },
+  "harmonic_share": {
+   "median": 0.6408823132514954,
+   "iqr": 0.15141990780830383
+  },
+  "clean_share": {
+   "median": 0.002320185614849188,
+   "iqr": 0.033642691415313224
+  },
+  "minor_share": {
+   "median": 0.06793624055098818,
+   "iqr": 0.10673558706263417
+  },
+  "chord_rate": {
+   "median": 2.366373329383206,
+   "iqr": 0.21617881784091475
+  },
+  "repetitiveness": {
+   "median": 0.9537791013717651,
+   "iqr": 0.02813267707824707
+  },
+  "vocal_share": {
+   "median": 0.07477760314941406,
+   "iqr": 0.05871270224452019
+  },
+  "vocal_voiced": {
+   "median": 0.2080745341614907,
+   "iqr": 0.11214050080086252
+  },
+  "song_length": {
+   "median": 266.507,
+   "iqr": 99.86000000000001
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

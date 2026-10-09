@@ -1,0 +1,32 @@
+{
+ "id": "nervosa/1184704186-105",
+ "band": "nervosa",
+ "title": "Nasty Injury",
+ "source": "itunes",
+ "album": "Victim of Yourself",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 6.3,
+  "tempo_var": 14.12697228521385,
+  "low_onset_rate": 5.766666666666667,
+  "lufs": -10.351225670665956,
+  "rms_dbfs": -9.965353826597395,
+  "crest": 9.965353965759277,
+  "centroid": 2662.473673118336,
+  "flatness": 0.044660650193691254,
+  "sub100_share": 0.23659788072109222,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.6538167595863342,
+  "clean_share": 0.09907120743034056,
+  "minor_share": -0.012357929908841436,
+  "chord_rate": 2.1333333333333333,
+  "repetitiveness": 0.9157596826553345,
+  "vocal_share": 0.06548956036567688,
+  "vocal_voiced": 0.08393285371702638,
+  "song_length": 326.76
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "whitechapel/368981100-106",
+ "band": "whitechapel",
+ "title": "Unnerving",
+ "source": "itunes",
+ "album": "A New Era of Corruption (Bonus Track Version)",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.8332451512448795,
+  "tempo_var": 13.350707062093448,
+  "low_onset_rate": 6.29990476334447,
+  "lufs": -9.667281027591393,
+  "rms_dbfs": -9.319149953749125,
+  "crest": 9.3191499710083,
+  "centroid": 2318.8033692104,
+  "flatness": 0.028286635875701904,
+  "sub100_share": 0.22344934940338135,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7404968738555908,
+  "clean_share": 0.06496519721577726,
+  "minor_share": 0.06942658675710633,
+  "chord_rate": 1.433311665734456,
+  "repetitiveness": 0.8034772276878357,
+  "vocal_share": 0.2224978804588318,
+  "vocal_voiced": 0.24652455977757182,
+  "song_length": 219.275
+ }
+}

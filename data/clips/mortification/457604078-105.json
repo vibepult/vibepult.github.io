@@ -1,0 +1,32 @@
+{
+ "id": "mortification/457604078-105",
+ "band": "mortification",
+ "title": "Your Time",
+ "source": "itunes",
+ "album": "Erasing the Goblin",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 6.348342869611598,
+  "tempo_var": 25.409168310185457,
+  "low_onset_rate": 6.248105876933521,
+  "lufs": -9.814748832906469,
+  "rms_dbfs": -8.953571987979338,
+  "crest": 8.953572273254395,
+  "centroid": 2627.456920639932,
+  "flatness": 0.029939614236354828,
+  "sub100_share": 0.4372347891330719,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7595250606536865,
+  "clean_share": 0.0062063615205585725,
+  "minor_share": 0.19703944252457123,
+  "chord_rate": 2.5393371478446394,
+  "repetitiveness": 0.953400731086731,
+  "vocal_share": 0.04500812664628029,
+  "vocal_voiced": 0.0,
+  "song_length": 221.893
+ }
+}

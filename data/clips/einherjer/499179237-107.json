@@ -1,0 +1,32 @@
+{
+ "id": "einherjer/499179237-107",
+ "band": "einherjer",
+ "title": "Hammar Haus",
+ "source": "itunes",
+ "album": "Blot",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.21232361926005,
+  "tempo_var": 0.0,
+  "low_onset_rate": 7.851897759782767,
+  "lufs": -10.312191224038111,
+  "rms_dbfs": -10.493448834917514,
+  "crest": 10.493449211120605,
+  "centroid": 2859.7910245983558,
+  "flatness": 0.04048531875014305,
+  "sub100_share": 0.33349791169166565,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8091493844985962,
+  "clean_share": 0.01008533747090768,
+  "minor_share": 0.056041623393879525,
+  "chord_rate": 0.9021329341027009,
+  "repetitiveness": 0.8612455129623413,
+  "vocal_share": 7.905823622422758e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 482.267
+ }
+}

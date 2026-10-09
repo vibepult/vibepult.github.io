@@ -1,0 +1,32 @@
+{
+ "id": "furor-gallico/1734757013-105",
+ "band": "furor-gallico",
+ "title": "Canto D'Inverno",
+ "source": "itunes",
+ "album": "Dusk of the Ages",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.7666438902863777,
+  "tempo_var": 26.0273539575608,
+  "low_onset_rate": 4.799970975232198,
+  "lufs": -17.95539707329142,
+  "rms_dbfs": -17.578806872439902,
+  "crest": 17.578807830810547,
+  "centroid": 1973.7549503516418,
+  "flatness": 0.01653960719704628,
+  "sub100_share": 0.007812104653567076,
+  "lowest_pitch": 123.81591796875,
+  "harmonic_share": 0.8564987778663635,
+  "clean_share": 0.5104408352668214,
+  "minor_share": 0.07719085912254586,
+  "chord_rate": 1.6333234568498451,
+  "repetitiveness": 0.7990714311599731,
+  "vocal_share": 0.08405210822820663,
+  "vocal_voiced": 0.9566787003610109,
+  "song_length": 346.44
+ }
+}

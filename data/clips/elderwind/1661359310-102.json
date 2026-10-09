@@ -1,0 +1,32 @@
+{
+ "id": "elderwind/1661359310-102",
+ "band": "elderwind",
+ "title": "The Relict",
+ "source": "itunes",
+ "album": "Fires",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.680096251757746,
+  "tempo_var": 11.78027714434588,
+  "low_onset_rate": 6.61564151675314,
+  "lufs": -8.85267931961799,
+  "rms_dbfs": -7.861949297981388,
+  "crest": 7.8619489669799805,
+  "centroid": 2481.707761291859,
+  "flatness": 0.030562853440642357,
+  "sub100_share": 0.38524696230888367,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.7311362624168396,
+  "clean_share": 0.0,
+  "minor_share": 0.2221294462242428,
+  "chord_rate": 0.9689575958880862,
+  "repetitiveness": 0.7814000844955444,
+  "vocal_share": 0.022794676944613457,
+  "vocal_voiced": 0.0,
+  "song_length": 441.75
+ }
+}

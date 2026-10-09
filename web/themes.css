@@ -1,0 +1,36 @@
+/* Pack slots. Steel is the default; console.js sets the committed pack's values from bands.json
+   (themes.yaml is the single source) on <html>, plus data-cap and data-led for the two shape slots. */
+:root {
+  --panel: #2b2f33;
+  --panel-inset: #1f2225;
+  --cap: #c9ccd0;
+  --led-on: #ffb000;
+  --led-off: #3a3f44;
+  --label: #c4c9cf;
+  --accent: #ffb000;
+  --font-display: "Barlow Condensed", "Arial Narrow", sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, monospace;
+  color-scheme: dark;
+}
+
+/* --cap-shape: rect | pill | chamfer */
+[data-cap="rect"] .cap { border-radius: 2px; }
+[data-cap="pill"] .cap { border-radius: 999px; }
+/* The chamfer is clipped on a layer under the cap, so the focus ring and shadow on .cap itself survive. */
+[data-cap="chamfer"] .cap { border-radius: 0; background: transparent; }
+[data-cap="chamfer"] .cap::before { content: ""; position: absolute; inset: 0; background-color: var(--cap); background-image: var(--cap-face, none), var(--cap-tex, none); background-size: 100% 100%, auto; background-blend-mode: normal, overlay; clip-path: polygon(4px 0, calc(100% - 4px) 0, 100% 50%, calc(100% - 4px) 100%, 4px 100%, 0 50%); }
+
+/* --led-shape: round | square | bar */
+[data-led="round"] .meter i, [data-led="round"] .led { border-radius: 50%; }
+[data-led="square"] .meter i, [data-led="square"] .led { border-radius: 0; }
+[data-led="bar"] .meter i { border-radius: 1px; width: 10px; }
+[data-led="bar"] .led { border-radius: 1px; width: 16px; height: 6px; }
+
+/* The one authored motion (D8): opacity cross-fade on commit via the View Transitions API. */
+::view-transition-old(root), ::view-transition-new(root) { animation-duration: 400ms; animation-timing-function: ease-out; }
+@media (prefers-reduced-motion: reduce) {
+  ::view-transition-old(root), ::view-transition-new(root) { animation: none; }
+}
+
+::selection { background: var(--accent); color: var(--panel-inset); }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }

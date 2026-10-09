@@ -1,0 +1,32 @@
+{
+ "id": "jack-frost/296640771-109",
+ "band": "jack-frost",
+ "title": "For Age",
+ "source": "itunes",
+ "album": "My Own Private Hell",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.2744084274838774,
+  "tempo_var": 6.588062853775647,
+  "low_onset_rate": 3.1407591039131066,
+  "lufs": -10.07811814678327,
+  "rms_dbfs": -8.707664514213821,
+  "crest": 8.707664489746094,
+  "centroid": 1465.5764617742975,
+  "flatness": 0.004423779435455799,
+  "sub100_share": 0.25622135400772095,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.7791723012924194,
+  "clean_share": 0.7750193948797518,
+  "minor_share": 0.2275661570336901,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.6494520902633667,
+  "vocal_share": 0.18406200408935547,
+  "vocal_voiced": 0.8095838587641866,
+  "song_length": 429.867
+ }
+}

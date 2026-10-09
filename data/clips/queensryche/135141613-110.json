@@ -1,0 +1,32 @@
+{
+ "id": "queensryche/135141613-110",
+ "band": "queensryche",
+ "title": "The Chase",
+ "source": "itunes",
+ "album": "Operation: Mindcrime II",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.166175416957637,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.566128256985571,
+  "lufs": -8.83987110563696,
+  "rms_dbfs": -8.813490310465491,
+  "crest": 8.81348991394043,
+  "centroid": 2503.4962722903947,
+  "flatness": 0.03633422777056694,
+  "sub100_share": 0.11234719306230545,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6183810234069824,
+  "clean_share": 0.065738592420727,
+  "minor_share": 0.17000905045374282,
+  "chord_rate": 1.699799570118716,
+  "repetitiveness": 0.9074434638023376,
+  "vocal_share": 0.2662900388240814,
+  "vocal_voiced": 0.7943009795191451,
+  "song_length": 188.467
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "aeternitas/1561166126-108",
+ "band": "aeternitas",
+ "title": "Papst",
+ "source": "itunes",
+ "album": "La Danse Macabre (Extended)",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.343603016050041,
+  "tempo_var": 1.8900434284880006,
+  "low_onset_rate": 5.880570237113902,
+  "lufs": -8.958939453173103,
+  "rms_dbfs": -8.690868494105793,
+  "crest": 8.690868377685547,
+  "centroid": 2857.372630088289,
+  "flatness": 0.04239482805132866,
+  "sub100_share": 0.389226496219635,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8083981871604919,
+  "clean_share": 0.07757951900698215,
+  "minor_share": -0.023666133478668194,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.7318762540817261,
+  "vocal_share": 0.14744557440280914,
+  "vocal_voiced": 0.28498727735368956,
+  "song_length": 293.427
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "faith-no-more/83386606-106",
+ "band": "faith-no-more",
+ "title": "The Real Thing",
+ "source": "itunes",
+ "album": "The Real Thing",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.33294033356611,
+  "tempo_var": 26.04687485012177,
+  "low_onset_rate": 2.9996463002094993,
+  "lufs": -18.625804865906392,
+  "rms_dbfs": -18.50690049883874,
+  "crest": 16.252756118774414,
+  "centroid": 2861.5439394985615,
+  "flatness": 0.03718815743923187,
+  "sub100_share": 0.1164717972278595,
+  "lowest_pitch": 164.190673828125,
+  "harmonic_share": 0.7989113330841064,
+  "clean_share": 0.06496519721577726,
+  "minor_share": 0.02575823009575917,
+  "chord_rate": 1.7664583767900384,
+  "repetitiveness": 0.7676649689674377,
+  "vocal_share": 0.25710269808769226,
+  "vocal_voiced": 0.876453488372093,
+  "song_length": 494.133
+ }
+}

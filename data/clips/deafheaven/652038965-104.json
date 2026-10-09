@@ -1,0 +1,32 @@
+{
+ "id": "deafheaven/652038965-104",
+ "band": "deafheaven",
+ "title": "Please Remember",
+ "source": "itunes",
+ "album": "Sunbather",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.766666666666667,
+  "tempo_var": 10.91929465585638,
+  "low_onset_rate": 9.366666666666667,
+  "lufs": -16.735923590505028,
+  "rms_dbfs": -16.74906600677536,
+  "crest": 13.728460311889648,
+  "centroid": 1612.2702058869697,
+  "flatness": 0.004543509799987078,
+  "sub100_share": 0.05308739095926285,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.8560400605201721,
+  "clean_share": 0.8119195046439629,
+  "minor_share": 0.039674299613258635,
+  "chord_rate": 1.2,
+  "repetitiveness": 0.8698866367340088,
+  "vocal_share": 0.10601509362459183,
+  "vocal_voiced": 0.28210526315789475,
+  "song_length": 386.173
+ }
+}

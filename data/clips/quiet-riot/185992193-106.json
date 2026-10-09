@@ -1,0 +1,32 @@
+{
+ "id": "quiet-riot/185992193-106",
+ "band": "quiet-riot",
+ "title": "Put Up or Shut Up",
+ "source": "itunes",
+ "album": "QR III",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.5977211713215667,
+  "tempo_var": 1.3547354226351445,
+  "low_onset_rate": 4.263965832677412,
+  "lufs": -15.731423182012026,
+  "rms_dbfs": -15.737347778077229,
+  "crest": 15.737347602844238,
+  "centroid": 2548.631160522904,
+  "flatness": 0.03625250980257988,
+  "sub100_share": 0.16144487261772156,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.6395619511604309,
+  "clean_share": 0.0038669760247486465,
+  "minor_share": -0.1371932442429522,
+  "chord_rate": 2.098670683270914,
+  "repetitiveness": 0.825825572013855,
+  "vocal_share": 0.1691606491804123,
+  "vocal_voiced": 0.46511627906976744,
+  "song_length": 246.867
+ }
+}

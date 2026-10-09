@@ -1,0 +1,32 @@
+{
+ "id": "rush/1440798539-104",
+ "band": "rush",
+ "title": "Limelight",
+ "source": "itunes",
+ "album": "Moving Pictures (Remastered)",
+ "year": 1981,
+ "itunes_year": 1981,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.099938020589258,
+  "tempo_var": 2.4934912414492234,
+  "low_onset_rate": 3.666611237925353,
+  "lufs": -13.194686920355666,
+  "rms_dbfs": -12.80688283403962,
+  "crest": 12.806882858276367,
+  "centroid": 2393.897250281395,
+  "flatness": 0.027972130104899406,
+  "sub100_share": 0.31588444113731384,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6882235407829285,
+  "clean_share": 0.04640371229698376,
+  "minor_share": -0.051411312451547175,
+  "chord_rate": 1.9333041072697315,
+  "repetitiveness": 0.8523510098457336,
+  "vocal_share": 0.2393522560596466,
+  "vocal_voiced": 0.9410138248847926,
+  "song_length": 259.842
+ }
+}

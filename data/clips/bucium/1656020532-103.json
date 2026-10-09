@@ -1,0 +1,32 @@
+{
+ "id": "bucium/1656020532-103",
+ "band": "bucium",
+ "title": "Greuceanu",
+ "source": "itunes",
+ "album": "Zimbrul Alb / White Wisent",
+ "year": 2022,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.178911288367357,
+  "tempo_var": 5.101560321992225,
+  "low_onset_rate": 3.842418052659652,
+  "lufs": -8.734976044179145,
+  "rms_dbfs": -7.990795065352316,
+  "crest": 7.990794658660889,
+  "centroid": 2565.1115762113454,
+  "flatness": 0.03463887795805931,
+  "sub100_share": 0.3288092315196991,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6982818841934204,
+  "clean_share": 0.005430566330488751,
+  "minor_share": -0.08315484314213334,
+  "chord_rate": 0.9689575958880862,
+  "repetitiveness": 0.9116379618644714,
+  "vocal_share": 0.15413331985473633,
+  "vocal_voiced": 0.8742690058479532,
+  "song_length": 630.707
+ }
+}

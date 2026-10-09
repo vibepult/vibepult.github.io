@@ -1,0 +1,32 @@
+{
+ "id": "lamb-of-god/848615413-105",
+ "band": "lamb-of-god",
+ "title": "The Black Dahlia",
+ "source": "itunes",
+ "album": "New American Gospel (Deluxe Version)",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 3.533311967879257,
+  "tempo_var": 9.678977610904209,
+  "low_onset_rate": 6.766625749806502,
+  "lufs": -9.323548655678234,
+  "rms_dbfs": -10.348583265199743,
+  "crest": 10.348583221435547,
+  "centroid": 2127.6896592683693,
+  "flatness": 0.014995335601270199,
+  "sub100_share": 0.45189693570137024,
+  "lowest_pitch": 113.04931640625,
+  "harmonic_share": 0.8348846435546875,
+  "clean_share": 0.2791956689868523,
+  "minor_share": -0.018580137062973234,
+  "chord_rate": 2.199986696981424,
+  "repetitiveness": 0.9269291162490845,
+  "vocal_share": 0.021751314401626587,
+  "vocal_voiced": 0.20623916811091855,
+  "song_length": 200.187
+ }
+}

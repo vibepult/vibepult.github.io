@@ -1,0 +1,32 @@
+{
+ "id": "bloodgood/555484160-105",
+ "band": "bloodgood",
+ "title": "Awake!",
+ "source": "itunes",
+ "album": "Bloodgood (Remastered)",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.011849633903894,
+  "tempo_var": 1.9032613156759364,
+  "low_onset_rate": 5.21232361926005,
+  "lufs": -8.612204660014527,
+  "rms_dbfs": -8.892900850416169,
+  "crest": 8.892900466918945,
+  "centroid": 2932.3905247281828,
+  "flatness": 0.04806201159954071,
+  "sub100_share": 0.08975617587566376,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.6766254901885986,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.26546783998161916,
+  "chord_rate": 0.8687206032100082,
+  "repetitiveness": 0.6627259254455566,
+  "vocal_share": 0.30415216088294983,
+  "vocal_voiced": 0.8680904522613065,
+  "song_length": 251.68
+ }
+}

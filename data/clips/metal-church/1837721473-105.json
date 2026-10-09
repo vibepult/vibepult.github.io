@@ -1,0 +1,32 @@
+{
+ "id": "metal-church/1837721473-105",
+ "band": "metal-church",
+ "title": "Jump The Gun (Remastered, 2025)",
+ "source": "itunes",
+ "album": "Generation Nothing (Remastered, 2025)",
+ "year": 2013,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 5.266045727034454,
+  "tempo_var": 20.265757691000367,
+  "low_onset_rate": 5.532680953719742,
+  "lufs": -9.072841621316394,
+  "rms_dbfs": -8.637638361049584,
+  "crest": 8.637638092041016,
+  "centroid": 2903.8526928298993,
+  "flatness": 0.052572377026081085,
+  "sub100_share": 0.29891982674598694,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.652271568775177,
+  "clean_share": 0.0069605568445475635,
+  "minor_share": 0.06334555119493668,
+  "chord_rate": 1.4664937467690884,
+  "repetitiveness": 0.8784899711608887,
+  "vocal_share": 0.13897199928760529,
+  "vocal_voiced": 0.2196307094266278,
+  "song_length": 336.0
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "sirenia/1435461788-106",
+ "band": "sirenia",
+ "title": "Queen of Lies",
+ "source": "itunes",
+ "album": "Arcane Astral Aeons",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.466666666666667,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.3,
+  "lufs": -9.223683042159628,
+  "rms_dbfs": -8.482508538912484,
+  "crest": 8.482508659362793,
+  "centroid": 2352.997655044295,
+  "flatness": 0.030282601714134216,
+  "sub100_share": 0.36410394310951233,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7282389998435974,
+  "clean_share": 0.0015479876160990713,
+  "minor_share": 0.07260044676474942,
+  "chord_rate": 1.8666666666666667,
+  "repetitiveness": 0.9329005479812622,
+  "vocal_share": 0.12443877011537552,
+  "vocal_voiced": 0.11376564277588168,
+  "song_length": 235.107
+ }
+}

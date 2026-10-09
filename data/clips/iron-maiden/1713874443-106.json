@@ -1,0 +1,32 @@
+{
+ "id": "iron-maiden/1713874443-106",
+ "band": "iron-maiden",
+ "title": "Innocent Exile (2015 Remaster)",
+ "source": "itunes",
+ "album": "Killers (2015 Remaster)",
+ "year": 1981,
+ "itunes_year": 1981,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.066590074224123,
+  "tempo_var": 16.13433285904378,
+  "low_onset_rate": 5.166588562531179,
+  "lufs": -9.56139256735086,
+  "rms_dbfs": -9.28159357949815,
+  "crest": 9.281594276428223,
+  "centroid": 2165.6500719034266,
+  "flatness": 0.01901531033217907,
+  "sub100_share": 0.11543600261211395,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.7105075120925903,
+  "clean_share": 0.07965970610982212,
+  "minor_share": 0.031265780952633326,
+  "chord_rate": 2.0999682544481564,
+  "repetitiveness": 0.8738381862640381,
+  "vocal_share": 0.12273368239402771,
+  "vocal_voiced": 0.721936148300721,
+  "song_length": 233.059
+ }
+}

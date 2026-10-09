@@ -1,0 +1,32 @@
+{
+ "id": "shape-of-despair/1669960424-104",
+ "band": "shape-of-despair",
+ "title": "Down Into the Stream",
+ "source": "itunes",
+ "album": "Shades Of...",
+ "year": 2000,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.7063988023081027,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.245735950152742,
+  "lufs": -9.16986093082986,
+  "rms_dbfs": -9.038690826555106,
+  "crest": 9.038690567016602,
+  "centroid": 2609.854583460273,
+  "flatness": 0.022862257435917854,
+  "sub100_share": 0.25982213020324707,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8965109586715698,
+  "clean_share": 0.0,
+  "minor_share": 0.3238937059638983,
+  "chord_rate": 0.4343603016050041,
+  "repetitiveness": 0.6221538782119751,
+  "vocal_share": 0.08064194023609161,
+  "vocal_voiced": 0.9880546075085325,
+  "song_length": 500.067
+ }
+}

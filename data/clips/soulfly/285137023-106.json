@@ -1,0 +1,32 @@
+{
+ "id": "soulfly/285137023-106",
+ "band": "soulfly",
+ "title": "Rough",
+ "source": "itunes",
+ "album": "Conquer",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 6.415167531396984,
+  "tempo_var": 11.999597375304843,
+  "low_onset_rate": 6.48199219318237,
+  "lufs": -8.801123601364765,
+  "rms_dbfs": -8.165982271998164,
+  "crest": 8.165982246398926,
+  "centroid": 2507.250653462119,
+  "flatness": 0.03437274321913719,
+  "sub100_share": 0.2526070475578308,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.6858984231948853,
+  "clean_share": 0.11249030256012413,
+  "minor_share": 0.08761716395267727,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.8785428404808044,
+  "vocal_share": 0.14238521456718445,
+  "vocal_voiced": 0.0,
+  "song_length": 207.933
+ }
+}

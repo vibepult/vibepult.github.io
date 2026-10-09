@@ -1,0 +1,32 @@
+{
+ "id": "meshuggah/1776753677-105",
+ "band": "meshuggah",
+ "title": "The Hurt That Finds You First",
+ "source": "itunes",
+ "album": "Koloss",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 8.333333333333334,
+  "tempo_var": 0.0,
+  "low_onset_rate": 7.2,
+  "lufs": -7.1012808553806055,
+  "rms_dbfs": -6.422461148854387,
+  "crest": 6.422460556030273,
+  "centroid": 2696.0713377842426,
+  "flatness": 0.047600340098142624,
+  "sub100_share": 0.4582131803035736,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6806749105453491,
+  "clean_share": 0.0,
+  "minor_share": 0.1710029789781592,
+  "chord_rate": 1.1333333333333333,
+  "repetitiveness": 0.98262619972229,
+  "vocal_share": 0.13118262588977814,
+  "vocal_voiced": 0.2208413001912046,
+  "song_length": 333.8
+ }
+}

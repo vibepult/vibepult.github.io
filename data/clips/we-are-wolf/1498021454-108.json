@@ -1,0 +1,32 @@
+{
+ "id": "we-are-wolf/1498021454-108",
+ "band": "we-are-wolf",
+ "title": "Helltropolis",
+ "source": "itunes",
+ "album": "Oklahoma",
+ "year": 2015,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 5.713508582650439,
+  "tempo_var": 9.330473465836427,
+  "low_onset_rate": 4.5106646705135045,
+  "lufs": -7.126178925574773,
+  "rms_dbfs": -6.462200132118908,
+  "crest": 6.462200164794922,
+  "centroid": 2693.8109045264036,
+  "flatness": 0.04906139895319939,
+  "sub100_share": 0.3363448977470398,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7156285643577576,
+  "clean_share": 0.017843289371605897,
+  "minor_share": 0.1191313131644735,
+  "chord_rate": 2.472512486059254,
+  "repetitiveness": 0.9266351461410522,
+  "vocal_share": 0.19146928191184998,
+  "vocal_voiced": 0.051470588235294115,
+  "song_length": 224.609
+ }
+}

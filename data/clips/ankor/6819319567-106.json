@@ -1,0 +1,32 @@
+{
+ "id": "ankor/6819319567-106",
+ "band": "ankor",
+ "title": "My Own Angel",
+ "source": "itunes",
+ "album": "My Own Angel",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 2.1333333333333333,
+  "tempo_var": 12.251204049469461,
+  "low_onset_rate": 3.6,
+  "lufs": -6.791178726712034,
+  "rms_dbfs": -6.8969651542798,
+  "crest": 6.896965026855469,
+  "centroid": 2222.5887700170124,
+  "flatness": 0.015597686171531677,
+  "sub100_share": 0.08910595625638962,
+  "lowest_pitch": 115.740966796875,
+  "harmonic_share": 0.8626003265380859,
+  "clean_share": 0.5170278637770898,
+  "minor_share": -0.33771389392163165,
+  "chord_rate": 1.1666666666666667,
+  "repetitiveness": 0.6044785380363464,
+  "vocal_share": 0.6029059290885925,
+  "vocal_voiced": 0.811698717948718,
+  "song_length": 323.213
+ }
+}

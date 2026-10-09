@@ -1,0 +1,32 @@
+{
+ "id": "nile/73638138-107",
+ "band": "nile",
+ "title": "Multitude of Foes",
+ "source": "itunes",
+ "album": "Black Seeds of Vengeance",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 8.119196406924308,
+  "tempo_var": 5.046133783050516,
+  "low_onset_rate": 8.921092348348932,
+  "lufs": -10.562536077555105,
+  "rms_dbfs": -9.171722412332295,
+  "crest": 9.171722412109375,
+  "centroid": 2495.0118633549982,
+  "flatness": 0.023537252098321915,
+  "sub100_share": 0.46314480900764465,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.7634045481681824,
+  "clean_share": 0.06749418153607448,
+  "minor_share": 0.17557258064685374,
+  "chord_rate": 2.405687824273869,
+  "repetitiveness": 0.9490927457809448,
+  "vocal_share": 0.016437148675322533,
+  "vocal_voiced": 0.1399548532731377,
+  "song_length": 129.933
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "sabaton/1463539531-107",
+ "band": "sabaton",
+ "title": "Back in Control",
+ "source": "itunes",
+ "album": "Attero Dominatus",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 4.133308339783282,
+  "tempo_var": 15.363230051249486,
+  "low_onset_rate": 3.9666426809210527,
+  "lufs": -10.879897548671982,
+  "rms_dbfs": -9.453032341373016,
+  "crest": 9.453031539916992,
+  "centroid": 2547.367497571219,
+  "flatness": 0.03489731252193451,
+  "sub100_share": 0.5387693047523499,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.87504643201828,
+  "clean_share": 0.13302397525135345,
+  "minor_share": 0.23911797718915745,
+  "chord_rate": 1.866655379256966,
+  "repetitiveness": 0.8632839322090149,
+  "vocal_share": 0.07894051820039749,
+  "vocal_voiced": 0.5492341356673961,
+  "song_length": 194.653
+ }
+}

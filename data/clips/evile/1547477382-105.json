@@ -1,0 +1,32 @@
+{
+ "id": "evile/1547477382-105",
+ "band": "evile",
+ "title": "Disorder",
+ "source": "itunes",
+ "album": "Hell Unleashed",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 7.3,
+  "tempo_var": 28.168388831690002,
+  "low_onset_rate": 6.7,
+  "lufs": -9.800474959116457,
+  "rms_dbfs": -9.464808779824596,
+  "crest": 9.464808464050293,
+  "centroid": 2913.2521400378387,
+  "flatness": 0.058557573705911636,
+  "sub100_share": 0.3887178301811218,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6686854958534241,
+  "clean_share": 0.0,
+  "minor_share": 0.10400836825131593,
+  "chord_rate": 1.6666666666666667,
+  "repetitiveness": 0.879203736782074,
+  "vocal_share": 0.11424992978572845,
+  "vocal_voiced": 0.022130013831258646,
+  "song_length": 297.453
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "nightwish/1456968247-107",
+ "band": "nightwish",
+ "title": "Arabesque",
+ "source": "itunes",
+ "album": "Imaginaerum",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.0999812548374615,
+  "tempo_var": 13.176171875478143,
+  "low_onset_rate": 3.9666426809210527,
+  "lufs": -14.667764521182173,
+  "rms_dbfs": -13.307696796148146,
+  "crest": 13.307696342468262,
+  "centroid": 1432.586789212017,
+  "flatness": 0.005056806840002537,
+  "sub100_share": 0.4116394519805908,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.7988988757133484,
+  "clean_share": 0.6674400618716164,
+  "minor_share": 0.167164019587018,
+  "chord_rate": 1.099993348490712,
+  "repetitiveness": 0.9052329063415527,
+  "vocal_share": 6.396129492713953e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 172.347
+ }
+}

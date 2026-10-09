@@ -1,0 +1,32 @@
+{
+ "id": "gamma-ray/1642730333-107",
+ "band": "gamma-ray",
+ "title": "It's a Sin",
+ "source": "itunes",
+ "album": "Power Plant",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.847157906221209,
+  "tempo_var": 0.4187710287316242,
+  "low_onset_rate": 6.515404524075062,
+  "lufs": -10.654167703951535,
+  "rms_dbfs": -10.80907630516564,
+  "crest": 10.809076309204102,
+  "centroid": 2757.6301159339346,
+  "flatness": 0.05007754638791084,
+  "sub100_share": 0.2832639813423157,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6657323837280273,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.2558429038818803,
+  "chord_rate": 0.9021329341027009,
+  "repetitiveness": 0.8398145437240601,
+  "vocal_share": 0.12418372929096222,
+  "vocal_voiced": 0.8370197904540163,
+  "song_length": 298.627
+ }
+}

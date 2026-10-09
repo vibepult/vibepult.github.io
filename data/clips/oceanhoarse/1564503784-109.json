@@ -1,0 +1,32 @@
+{
+ "id": "oceanhoarse/1564503784-109",
+ "band": "oceanhoarse",
+ "title": "Fight For Tomorrow",
+ "source": "itunes",
+ "album": "Dead Reckoning",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.312560611938127,
+  "tempo_var": 14.62694379570301,
+  "low_onset_rate": 5.145498957474664,
+  "lufs": -9.796055959846278,
+  "rms_dbfs": -9.066940131934318,
+  "crest": 9.066940307617188,
+  "centroid": 2860.2601886339353,
+  "flatness": 0.051137782633304596,
+  "sub100_share": 0.44945982098579407,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.6546752452850342,
+  "clean_share": 0.0,
+  "minor_share": 0.29197103718551193,
+  "chord_rate": 2.1718015080250206,
+  "repetitiveness": 0.9320619702339172,
+  "vocal_share": 0.16704224050045013,
+  "vocal_voiced": 0.620253164556962,
+  "song_length": 270.773
+ }
+}

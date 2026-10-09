@@ -1,0 +1,32 @@
+{
+ "id": "finntroll/1516676154-106",
+ "band": "finntroll",
+ "title": "Vid Häxans Härd",
+ "source": "itunes",
+ "album": "Vredesvävd",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 4.377015346942734,
+  "tempo_var": 15.82103667329311,
+  "low_onset_rate": 7.183651141928914,
+  "lufs": -10.077380632034718,
+  "rms_dbfs": -9.373721894290401,
+  "crest": 9.3737211227417,
+  "centroid": 2635.7061622271235,
+  "flatness": 0.0422654002904892,
+  "sub100_share": 0.2838456630706787,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7150965332984924,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.2218057258131073,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.8682785034179688,
+  "vocal_share": 0.09350214153528214,
+  "vocal_voiced": 0.5545905707196029,
+  "song_length": 241.778
+ }
+}

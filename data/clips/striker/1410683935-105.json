@@ -1,0 +1,32 @@
+{
+ "id": "striker/1410683935-105",
+ "band": "striker",
+ "title": "The Front",
+ "source": "itunes",
+ "album": "Play to Win",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.610901663191583,
+  "tempo_var": 0.0,
+  "low_onset_rate": 3.30782075837657,
+  "lufs": -7.898756109128639,
+  "rms_dbfs": -7.18159152054231,
+  "crest": 7.181591510772705,
+  "centroid": 2611.4952728114954,
+  "flatness": 0.03500783070921898,
+  "sub100_share": 0.3345212936401367,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7807784080505371,
+  "clean_share": 0.009309542280837859,
+  "minor_share": 0.19839477942623285,
+  "chord_rate": 2.572749478737332,
+  "repetitiveness": 0.7860302329063416,
+  "vocal_share": 0.22687242925167084,
+  "vocal_voiced": 0.8218340611353712,
+  "song_length": 242.624
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "rainbow/1495873244-105",
+ "band": "rainbow",
+ "title": "Tearin' Out My Heart",
+ "source": "itunes",
+ "album": "Straight Between the Eyes",
+ "year": 1982,
+ "itunes_year": 1982,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.0666203080830226,
+  "tempo_var": 5.41326257051927,
+  "low_onset_rate": 2.699959184290487,
+  "lufs": -15.742035119939134,
+  "rms_dbfs": -15.864716655659247,
+  "crest": 15.864450454711914,
+  "centroid": 2131.306194155315,
+  "flatness": 0.010624930262565613,
+  "sub100_share": 0.1269775778055191,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.834443211555481,
+  "clean_share": 0.3704563031709203,
+  "minor_share": 0.09578864663256004,
+  "chord_rate": 1.0333177125062358,
+  "repetitiveness": 0.7864308953285217,
+  "vocal_share": 0.1836773306131363,
+  "vocal_voiced": 0.9470365699873896,
+  "song_length": 242.933
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "gloryhammer/1184705317-105",
+ "band": "gloryhammer",
+ "title": "The Hollywood Hootsman",
+ "source": "itunes",
+ "album": "Space 1992: Rise of the Chaos Wizards",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 6.133333333333334,
+  "tempo_var": 7.519409610923066,
+  "low_onset_rate": 7.033333333333333,
+  "lufs": -8.462053711691281,
+  "rms_dbfs": -7.654511239334947,
+  "crest": 7.654511451721191,
+  "centroid": 2541.4662412969506,
+  "flatness": 0.03463760390877724,
+  "sub100_share": 0.46674755215644836,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.6533810496330261,
+  "clean_share": 0.0007739938080495357,
+  "minor_share": 0.017283690724420597,
+  "chord_rate": 0.9333333333333333,
+  "repetitiveness": 0.9005774855613708,
+  "vocal_share": 0.1371975839138031,
+  "vocal_voiced": 0.33617021276595743,
+  "song_length": 234.76
+ }
+}

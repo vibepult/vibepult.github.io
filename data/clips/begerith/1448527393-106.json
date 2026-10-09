@@ -1,0 +1,32 @@
+{
+ "id": "begerith/1448527393-106",
+ "band": "begerith",
+ "title": "A.D.A.M.: V. —",
+ "source": "itunes",
+ "album": "A.D.A.M.",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.613271589972361,
+  "tempo_var": 4.7095342329523415,
+  "low_onset_rate": 7.250475803714299,
+  "lufs": -7.068265784458361,
+  "rms_dbfs": -6.928152007708366,
+  "crest": 6.928152084350586,
+  "centroid": 2744.617910035342,
+  "flatness": 0.04882797226309776,
+  "sub100_share": 0.34997180104255676,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7449843287467957,
+  "clean_share": 0.0,
+  "minor_share": 0.11456456384861535,
+  "chord_rate": 1.871090529990787,
+  "repetitiveness": 0.8417445421218872,
+  "vocal_share": 0.05678430572152138,
+  "vocal_voiced": 0.09698275862068965,
+  "song_length": 386.333
+ }
+}

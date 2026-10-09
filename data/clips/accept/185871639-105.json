@@ -1,0 +1,32 @@
+{
+ "id": "accept/185871639-105",
+ "band": "accept",
+ "title": "Aiming High",
+ "source": "itunes",
+ "album": "Russian Roulette",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 5.312560611938127,
+  "tempo_var": 14.92388051846011,
+  "low_onset_rate": 6.3817552005042915,
+  "lufs": -16.581516218975345,
+  "rms_dbfs": -16.978175680927656,
+  "crest": 15.339132308959961,
+  "centroid": 2676.0088192064436,
+  "flatness": 0.042524553835392,
+  "sub100_share": 0.12206073850393295,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.613974392414093,
+  "clean_share": 0.016291698991466253,
+  "minor_share": 0.15045716256583896,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.9168529510498047,
+  "vocal_share": 0.18861614167690277,
+  "vocal_voiced": 0.2702991452991453,
+  "song_length": 265.533
+ }
+}

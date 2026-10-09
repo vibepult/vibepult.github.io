@@ -1,0 +1,32 @@
+{
+ "id": "graveworm/1803455626-104",
+ "band": "graveworm",
+ "title": "Eternal winds",
+ "source": "itunes",
+ "album": "When daylights gone",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.933273873410833,
+  "tempo_var": 4.05098865297497,
+  "low_onset_rate": 6.1999062750374145,
+  "lufs": -7.4317011416966565,
+  "rms_dbfs": -7.030890966870019,
+  "crest": 7.030890464782715,
+  "centroid": 2561.0595874168616,
+  "flatness": 0.03416464850306511,
+  "sub100_share": 0.21025100350379944,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7831376194953918,
+  "clean_share": 0.04563031709203403,
+  "minor_share": 0.02195597488367268,
+  "chord_rate": 1.7333071306556214,
+  "repetitiveness": 0.7986443042755127,
+  "vocal_share": 0.26119786500930786,
+  "vocal_voiced": 0.352112676056338,
+  "song_length": 312.093
+ }
+}

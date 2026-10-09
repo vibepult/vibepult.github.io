@@ -1,0 +1,32 @@
+{
+ "id": "high-fighter/1497181852-103",
+ "band": "high-fighter",
+ "title": "Blinders",
+ "source": "itunes",
+ "album": "Scars & Crosses",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.575119405518111,
+  "tempo_var": 2.0766040213045,
+  "low_onset_rate": 5.780333244435824,
+  "lufs": -8.636505355748653,
+  "rms_dbfs": -8.236432792805429,
+  "crest": 8.236433029174805,
+  "centroid": 2172.460173440298,
+  "flatness": 0.01834019646048546,
+  "sub100_share": 0.3085261583328247,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8029240369796753,
+  "clean_share": 0.032583397982932506,
+  "minor_share": -0.02244144466868836,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.7811261415481567,
+  "vocal_share": 0.13316410779953003,
+  "vocal_voiced": 0.5973154362416108,
+  "song_length": 205.898
+ }
+}

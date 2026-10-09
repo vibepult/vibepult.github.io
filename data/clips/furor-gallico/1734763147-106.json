@@ -1,0 +1,32 @@
+{
+ "id": "furor-gallico/1734763147-106",
+ "band": "furor-gallico",
+ "title": "Squass",
+ "source": "itunes",
+ "album": "Songs from the Earth",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.46663965750774,
+  "tempo_var": 18.45186983892698,
+  "low_onset_rate": 4.599972184597523,
+  "lufs": -12.54066527292843,
+  "rms_dbfs": -11.291191615021898,
+  "crest": 11.291191101074219,
+  "centroid": 1268.4826549777897,
+  "flatness": 0.014805756509304047,
+  "sub100_share": 0.23875361680984497,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.9058350324630737,
+  "clean_share": 0.7865429234338747,
+  "minor_share": 0.0435850017039755,
+  "chord_rate": 2.5333180147058822,
+  "repetitiveness": 0.674652636051178,
+  "vocal_share": 2.041367963556695e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 299.6
+ }
+}

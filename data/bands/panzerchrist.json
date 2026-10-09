@@ -1,0 +1,127 @@
+{
+ "slug": "panzerchrist",
+ "name": "Panzerchrist",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 205076827,
+  "deezer": 12943,
+  "spotify": "3Fh6l5AkN3JYmUMIRw86PI"
+ },
+ "metadata": {
+  "formed": 1993,
+  "split": null,
+  "country": "DK",
+  "status": "active",
+  "members": 5,
+  "past_members": 26,
+  "full_lengths": 10,
+  "genre": "Death/Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 1175,
+  "themes": "War, Metaphoric negativity",
+  "release_year": 2017
+ },
+ "partial": false,
+ "clips": [
+  "panzerchrist/1606957932-104",
+  "panzerchrist/429395444-106",
+  "panzerchrist/1686103067-105",
+  "panzerchrist/1756360355-104",
+  "panzerchrist/1814672525-104",
+  "panzerchrist/1606957932-105",
+  "panzerchrist/429395444-105",
+  "panzerchrist/1686103067-103",
+  "panzerchrist/1756360355-105",
+  "panzerchrist/1814672525-105",
+  "panzerchrist/1606957932-103",
+  "panzerchrist/429395444-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 112.34714673913044,
+   "iqr": 10.699728260869563
+  },
+  "onset_rate": {
+   "median": 6.365049035057945,
+   "iqr": 2.3804210875094363
+  },
+  "tempo_var": {
+   "median": 4.710001549734996,
+   "iqr": 6.114831371693796
+  },
+  "low_onset_rate": {
+   "median": 7.959080266497784,
+   "iqr": 3.051082816038649
+  },
+  "lufs": {
+   "median": -9.89973217202086,
+   "iqr": 5.9948380408626845
+  },
+  "rms_dbfs": {
+   "median": -9.103236182882618,
+   "iqr": 5.805736717808841
+  },
+  "crest": {
+   "median": 9.103236436843872,
+   "iqr": 5.805736064910889
+  },
+  "centroid": {
+   "median": 2588.513129264816,
+   "iqr": 153.11429472250802
+  },
+  "flatness": {
+   "median": 0.03681558556854725,
+   "iqr": 0.009033291134983301
+  },
+  "sub100_share": {
+   "median": 0.41891832649707794,
+   "iqr": 0.13598863035440445
+  },
+  "lowest_pitch": {
+   "median": 41.7205810546875,
+   "iqr": 19.51446533203125
+  },
+  "harmonic_share": {
+   "median": 0.7722173929214478,
+   "iqr": 0.04855719208717346
+  },
+  "clean_share": {
+   "median": 0.0007733952049497294,
+   "iqr": 0.009503491078355315
+  },
+  "minor_share": {
+   "median": -0.033722546985106516,
+   "iqr": 0.1712774117831915
+  },
+  "chord_rate": {
+   "median": 1.6350840722472721,
+   "iqr": 0.8590674337212381
+  },
+  "repetitiveness": {
+   "median": 0.9354150593280792,
+   "iqr": 0.07171989977359772
+  },
+  "vocal_share": {
+   "median": 0.057103341445326805,
+   "iqr": 0.04287606477737427
+  },
+  "vocal_voiced": {
+   "median": 0.10458633936100441,
+   "iqr": 0.11996995886676962
+  },
+  "song_length": {
+   "median": 271.09349999999995,
+   "iqr": 78.44374999999997
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "helmet/1252358966-106",
+ "band": "helmet",
+ "title": "Green Shirt",
+ "source": "itunes",
+ "album": "Dead to the World",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 3.641944067303496,
+  "tempo_var": 26.679148065105338,
+  "low_onset_rate": 3.3412330892692625,
+  "lufs": -9.465464276064735,
+  "rms_dbfs": -8.48134765051849,
+  "crest": 8.481348037719727,
+  "centroid": 2092.886892296181,
+  "flatness": 0.015743223950266838,
+  "sub100_share": 0.30869126319885254,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.6605193018913269,
+  "clean_share": 0.46237393328161364,
+  "minor_share": -0.2063845011880212,
+  "chord_rate": 1.336493235707705,
+  "repetitiveness": 0.8269432187080383,
+  "vocal_share": 0.21840611100196838,
+  "vocal_voiced": 0.777264325323475,
+  "song_length": 182.56
+ }
+}

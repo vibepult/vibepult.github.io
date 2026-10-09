@@ -1,0 +1,127 @@
+{
+ "slug": "trust",
+ "name": "Trust",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1296816108,
+  "deezer": 650,
+  "spotify": "7AvEVZeIPTqRE7y4QFk09A"
+ },
+ "metadata": {
+  "formed": 1977,
+  "split": null,
+  "country": "FR",
+  "status": "active",
+  "members": 5,
+  "past_members": 21,
+  "full_lengths": 17,
+  "genre": "Heavy Metal/Hard Rock (early); Rock (later)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 80231,
+  "themes": "Social struggles, Politics, Prisons",
+  "release_year": 1984
+ },
+ "partial": false,
+ "clips": [
+  "trust/253539618-105",
+  "trust/297440295-105",
+  "trust/254268463-105",
+  "trust/296969494-105",
+  "trust/1480410296-106",
+  "trust/1631811325-106",
+  "trust/253539618-106",
+  "trust/297440295-104",
+  "trust/254268463-104",
+  "trust/296969494-104",
+  "trust/1480410296-107",
+  "trust/1631811325-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 112.55992542613637,
+   "iqr": 55.19430226293103
+  },
+  "onset_rate": {
+   "median": 4.236809615840991,
+   "iqr": 0.802891834017621
+  },
+  "tempo_var": {
+   "median": 14.507615382493054,
+   "iqr": 6.839404844063807
+  },
+  "low_onset_rate": {
+   "median": 5.471414244759762,
+   "iqr": 0.4374934442891458
+  },
+  "lufs": {
+   "median": -10.756486826219657,
+   "iqr": 4.173621911101286
+  },
+  "rms_dbfs": {
+   "median": -10.375301321687294,
+   "iqr": 3.747181553681223
+  },
+  "crest": {
+   "median": 10.375301361083984,
+   "iqr": 3.7471814155578613
+  },
+  "centroid": {
+   "median": 2392.2099256948695,
+   "iqr": 417.79434045277594
+  },
+  "flatness": {
+   "median": 0.02572096697986126,
+   "iqr": 0.006923541892319918
+  },
+  "sub100_share": {
+   "median": 0.19319891184568405,
+   "iqr": 0.1324918083846569
+  },
+  "lowest_pitch": {
+   "median": 64.599609375,
+   "iqr": 14.13116455078125
+  },
+  "harmonic_share": {
+   "median": 0.7367549240589142,
+   "iqr": 0.05842597782611847
+  },
+  "clean_share": {
+   "median": 0.06960556844547564,
+   "iqr": 0.06296435962097036
+  },
+  "minor_share": {
+   "median": -0.1805256085220589,
+   "iqr": 0.18471626219161952
+  },
+  "chord_rate": {
+   "median": 1.532362721118445,
+   "iqr": 0.37048343999817357
+  },
+  "repetitiveness": {
+   "median": 0.7859266400337219,
+   "iqr": 0.0659317672252655
+  },
+  "vocal_share": {
+   "median": 0.24431096017360687,
+   "iqr": 0.10750387609004974
+  },
+  "vocal_voiced": {
+   "median": 0.6779448621553885,
+   "iqr": 0.19337672822240382
+  },
+  "song_length": {
+   "median": 255.01999999999998,
+   "iqr": 65.96650000000002
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

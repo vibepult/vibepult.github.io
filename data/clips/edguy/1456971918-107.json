@@ -1,0 +1,32 @@
+{
+ "id": "edguy/1456971918-107",
+ "band": "edguy",
+ "title": "Faces in the Darkness",
+ "source": "itunes",
+ "album": "Age of the Joker",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 2.405687824273869,
+  "tempo_var": 23.988548464070252,
+  "low_onset_rate": 4.410427677835426,
+  "lufs": -17.74034196217239,
+  "rms_dbfs": -18.313678734607322,
+  "crest": 18.313678741455078,
+  "centroid": 2581.418017835015,
+  "flatness": 0.02943044900894165,
+  "sub100_share": 0.1895570307970047,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.8041231632232666,
+  "clean_share": 0.395655546935609,
+  "minor_share": 0.09695943517761219,
+  "chord_rate": 1.7374412064200164,
+  "repetitiveness": 0.718242347240448,
+  "vocal_share": 0.36075207591056824,
+  "vocal_voiced": 0.959409594095941,
+  "song_length": 322.32
+ }
+}

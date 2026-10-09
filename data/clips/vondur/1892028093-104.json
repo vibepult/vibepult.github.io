@@ -1,0 +1,32 @@
+{
+ "id": "vondur/1892028093-104",
+ "band": "vondur",
+ "title": "Kynning - Fjorði Ríku",
+ "source": "itunes",
+ "album": "Striðsyfirlýsing",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 1.3666460068630861,
+  "tempo_var": 11.642897410366588,
+  "low_onset_rate": 6.43323608108721,
+  "lufs": -16.588797926188352,
+  "rms_dbfs": -14.780412210427052,
+  "crest": 14.780147552490234,
+  "centroid": 2046.689986311738,
+  "flatness": 0.011219565756618977,
+  "sub100_share": 0.6248757839202881,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.923854410648346,
+  "clean_share": 0.5568445475638051,
+  "minor_share": 0.1278461508427824,
+  "chord_rate": 0.3999939532282203,
+  "repetitiveness": 0.4175291955471039,
+  "vocal_share": 0.08644197881221771,
+  "vocal_voiced": 0.06666666666666667,
+  "song_length": 252.533
+ }
+}

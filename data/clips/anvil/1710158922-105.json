@@ -1,0 +1,32 @@
+{
+ "id": "anvil/1710158922-105",
+ "band": "anvil",
+ "title": "Hair Pie",
+ "source": "itunes",
+ "album": "Absolutely No Alternative",
+ "year": 1997,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 7.366555305286391,
+  "tempo_var": 5.241220434374351,
+  "low_onset_rate": 7.399888134722076,
+  "lufs": -10.30751167832178,
+  "rms_dbfs": -10.344042727674317,
+  "crest": 10.344042778015137,
+  "centroid": 2996.5886487572343,
+  "flatness": 0.05756834149360657,
+  "sub100_share": 0.3293057382106781,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7445492744445801,
+  "clean_share": 0.0,
+  "minor_share": 0.12837095813724408,
+  "chord_rate": 2.399963719369322,
+  "repetitiveness": 0.8964723348617554,
+  "vocal_share": 0.16514205932617188,
+  "vocal_voiced": 0.034031413612565446,
+  "song_length": 188.373
+ }
+}

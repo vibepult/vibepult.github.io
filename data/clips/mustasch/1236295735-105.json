@@ -1,0 +1,32 @@
+{
+ "id": "mustasch/1236295735-105",
+ "band": "mustasch",
+ "title": "Borderline",
+ "source": "itunes",
+ "album": "Thank You for the Demon",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.742181059981574,
+  "tempo_var": 0.22014015178693122,
+  "low_onset_rate": 4.9784373030112015,
+  "lufs": -8.353349658998168,
+  "rms_dbfs": -7.036162838318197,
+  "crest": 7.036162376403809,
+  "centroid": 2343.77575180538,
+  "flatness": 0.019599968567490578,
+  "sub100_share": 0.5718782544136047,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8060725331306458,
+  "clean_share": 0.23972071373157486,
+  "minor_share": 0.08775562856738095,
+  "chord_rate": 1.871090529990787,
+  "repetitiveness": 0.789741575717926,
+  "vocal_share": 0.11207892745733261,
+  "vocal_voiced": 0.5859030837004405,
+  "song_length": 217.693
+ }
+}

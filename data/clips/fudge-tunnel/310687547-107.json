@@ -1,0 +1,32 @@
+{
+ "id": "fudge-tunnel/310687547-107",
+ "band": "fudge-tunnel",
+ "title": "Gut Rot",
+ "source": "itunes",
+ "album": "Hate Songs In E Minor",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.744550986762353,
+  "tempo_var": 7.506027601966345,
+  "low_onset_rate": 6.515404524075062,
+  "lufs": -16.969587623957707,
+  "rms_dbfs": -17.488587423407488,
+  "crest": 17.488323211669922,
+  "centroid": 3062.6458733377535,
+  "flatness": 0.06395977735519409,
+  "sub100_share": 0.1903093308210373,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7239134907722473,
+  "clean_share": 0.0612878200155159,
+  "minor_share": -0.06880724894495072,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.8110387921333313,
+  "vocal_share": 0.01846310868859291,
+  "vocal_voiced": 0.6153846153846154,
+  "song_length": 235.373
+ }
+}

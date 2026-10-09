@@ -1,0 +1,32 @@
+{
+ "id": "ophis/1778212597-103",
+ "band": "ophis",
+ "title": "Dysmelian",
+ "source": "itunes",
+ "album": "The Dismal Circle",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 2.499924416495344,
+  "tempo_var": 12.343949559498288,
+  "low_onset_rate": 5.699827669609384,
+  "lufs": -12.624007696489288,
+  "rms_dbfs": -12.068509959382936,
+  "crest": 12.068510055541992,
+  "centroid": 2273.9808906186427,
+  "flatness": 0.01944551430642605,
+  "sub100_share": 0.3031138479709625,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7540466785430908,
+  "clean_share": 0.058004640371229696,
+  "minor_share": 0.10246916456025135,
+  "chord_rate": 1.4999546498972065,
+  "repetitiveness": 0.7886267304420471,
+  "vocal_share": 8.277102665488201e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 763.626
+ }
+}

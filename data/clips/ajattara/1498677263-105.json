@@ -1,0 +1,32 @@
+{
+ "id": "ajattara/1498677263-105",
+ "band": "ajattara",
+ "title": "Amen",
+ "source": "itunes",
+ "album": "Lupaus",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.911612641225816,
+  "tempo_var": 23.883054515389055,
+  "low_onset_rate": 7.8184854288900745,
+  "lufs": -8.250461251928636,
+  "rms_dbfs": -7.574847401705041,
+  "crest": 7.574847221374512,
+  "centroid": 2425.081361178721,
+  "flatness": 0.03059828095138073,
+  "sub100_share": 0.39880046248435974,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.80704665184021,
+  "clean_share": 0.02094647013188518,
+  "minor_share": 0.22863187024613574,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.8849055767059326,
+  "vocal_share": 0.10104357451200485,
+  "vocal_voiced": 0.08410138248847926,
+  "song_length": 223.027
+ }
+}

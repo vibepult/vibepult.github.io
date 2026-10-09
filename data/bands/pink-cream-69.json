@@ -1,0 +1,127 @@
+{
+ "slug": "pink-cream-69",
+ "name": "Pink Cream 69",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 17278817,
+  "deezer": 7647,
+  "spotify": "2LvylSBC8l3930y1iXnrDE"
+ },
+ "metadata": {
+  "formed": 1987,
+  "split": 2023,
+  "country": "DE",
+  "status": "split-up",
+  "members": 5,
+  "past_members": 5,
+  "full_lengths": 12,
+  "genre": "Melodic Power Metal, Hard Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 3970,
+  "themes": "Life, Love, Inner struggles, Society, Humour",
+  "release_year": 1994
+ },
+ "partial": false,
+ "clips": [
+  "pink-cream-69/298203851-106",
+  "pink-cream-69/326437263-106",
+  "pink-cream-69/1457062005-106",
+  "pink-cream-69/591614591-106",
+  "pink-cream-69/1276674183-105",
+  "pink-cream-69/298203851-105",
+  "pink-cream-69/326437263-107",
+  "pink-cream-69/1457062005-107",
+  "pink-cream-69/591614591-107",
+  "pink-cream-69/1276674183-106",
+  "pink-cream-69/298203851-107",
+  "pink-cream-69/326437263-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.77318274456522,
+   "iqr": 45.07496553308823
+  },
+  "onset_rate": {
+   "median": 3.959361210784076,
+   "iqr": 0.95225143044174
+  },
+  "tempo_var": {
+   "median": 11.967993463361621,
+   "iqr": 16.085353410528242
+  },
+  "low_onset_rate": {
+   "median": 4.844787979440431,
+   "iqr": 1.3197870702613583
+  },
+  "lufs": {
+   "median": -11.444068103387648,
+   "iqr": 3.2441784121136354
+  },
+  "rms_dbfs": {
+   "median": -10.921023478873728,
+   "iqr": 3.1043987822616383
+  },
+  "crest": {
+   "median": 10.92102336883545,
+   "iqr": 3.104398727416992
+  },
+  "centroid": {
+   "median": 2594.2977248816405,
+   "iqr": 278.11017923163945
+  },
+  "flatness": {
+   "median": 0.03258328139781952,
+   "iqr": 0.014363731723278761
+  },
+  "sub100_share": {
+   "median": 0.26756083965301514,
+   "iqr": 0.10915103927254677
+  },
+  "lowest_pitch": {
+   "median": 60.5621337890625,
+   "iqr": 29.608154296875
+  },
+  "harmonic_share": {
+   "median": 0.6948677897453308,
+   "iqr": 0.08374792337417603
+  },
+  "clean_share": {
+   "median": 0.017455391776570985,
+   "iqr": 0.04615981380915439
+  },
+  "minor_share": {
+   "median": 0.027203793350368932,
+   "iqr": 0.11642737736382824
+  },
+  "chord_rate": {
+   "median": 1.820972033651748,
+   "iqr": 0.7935428587014501
+  },
+  "repetitiveness": {
+   "median": 0.8137621581554413,
+   "iqr": 0.10902655124664307
+  },
+  "vocal_share": {
+   "median": 0.23451592028141022,
+   "iqr": 0.08342626690864563
+  },
+  "vocal_voiced": {
+   "median": 0.720495296735581,
+   "iqr": 0.23410488488222736
+  },
+  "song_length": {
+   "median": 237.8765,
+   "iqr": 41.74525
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "neaera/150357906-105",
+ "band": "neaera",
+ "title": "Heavenhell",
+ "source": "itunes",
+ "album": "Let the Tempest Come",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.0428920380158075,
+  "tempo_var": 6.02304520635386,
+  "low_onset_rate": 7.7850730979973815,
+  "lufs": -7.081455923493295,
+  "rms_dbfs": -7.476445062811927,
+  "crest": 7.476445198059082,
+  "centroid": 2728.860288018844,
+  "flatness": 0.04123447835445404,
+  "sub100_share": 0.2786356210708618,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8506686687469482,
+  "clean_share": 0.0,
+  "minor_share": 0.1250195591405272,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.7025076150894165,
+  "vocal_share": 6.848113685009594e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 347.333
+ }
+}

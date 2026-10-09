@@ -1,0 +1,32 @@
+{
+ "id": "nervosa/1184704186-106",
+ "band": "nervosa",
+ "title": "Envious",
+ "source": "itunes",
+ "album": "Victim of Yourself",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 6.6,
+  "tempo_var": 10.465264249502392,
+  "low_onset_rate": 9.3,
+  "lufs": -9.795710508991595,
+  "rms_dbfs": -9.292803910886368,
+  "crest": 9.292803764343262,
+  "centroid": 2663.779548781716,
+  "flatness": 0.0491216704249382,
+  "sub100_share": 0.26549598574638367,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6567524075508118,
+  "clean_share": 0.06191950464396285,
+  "minor_share": 0.007048061842699127,
+  "chord_rate": 2.2,
+  "repetitiveness": 0.9281471967697144,
+  "vocal_share": 0.05531974881887436,
+  "vocal_voiced": 0.10479573712255773,
+  "song_length": 274.733
+ }
+}

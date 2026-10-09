@@ -1,0 +1,32 @@
+{
+ "id": "moonspell/1045437995-107",
+ "band": "moonspell",
+ "title": "Soulitary Vice",
+ "source": "itunes",
+ "album": "The Butterfly Effect",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.30782075837657,
+  "tempo_var": 18.49538757818174,
+  "low_onset_rate": 6.081044222470058,
+  "lufs": -10.57002592488487,
+  "rms_dbfs": -10.067134876520461,
+  "crest": 10.067134857177734,
+  "centroid": 2816.3930797036983,
+  "flatness": 0.04410332813858986,
+  "sub100_share": 0.49879157543182373,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8188254237174988,
+  "clean_share": 0.035686578743211794,
+  "minor_share": 0.08919381983108388,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.7510112524032593,
+  "vocal_share": 0.08984636515378952,
+  "vocal_voiced": 0.28411405295315684,
+  "song_length": 207.613
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "athena/938230792-106",
+ "band": "athena",
+ "title": "Ses Etme",
+ "source": "itunes",
+ "album": "Altüst",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 5.133178135203773,
+  "tempo_var": 1.2618514968423404,
+  "low_onset_rate": 4.899851856330875,
+  "lufs": -9.3500791122204,
+  "rms_dbfs": -8.574933432529829,
+  "crest": 8.574933052062988,
+  "centroid": 1830.597283366768,
+  "flatness": 0.007943601347506046,
+  "sub100_share": 0.226949080824852,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8603383898735046,
+  "clean_share": 0.43387470997679817,
+  "minor_share": 0.24313015704007068,
+  "chord_rate": 0.9666374410448664,
+  "repetitiveness": 0.76762455701828,
+  "vocal_share": 0.17387227714061737,
+  "vocal_voiced": 0.8891089108910891,
+  "song_length": 325.096
+ }
+}

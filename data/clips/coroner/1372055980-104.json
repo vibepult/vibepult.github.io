@@ -1,0 +1,32 @@
+{
+ "id": "coroner/1372055980-104",
+ "band": "coroner",
+ "title": "D.O.A.",
+ "source": "itunes",
+ "album": "No More Color",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 6.61564151675314,
+  "tempo_var": 10.892493431308006,
+  "low_onset_rate": 7.183651141928914,
+  "lufs": -10.164502480317251,
+  "rms_dbfs": -10.208646201533346,
+  "crest": 10.208645820617676,
+  "centroid": 2458.6814331517703,
+  "flatness": 0.0282472912222147,
+  "sub100_share": 0.24843963980674744,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7365366220474243,
+  "clean_share": 0.030256012412723042,
+  "minor_share": 0.09444086916919608,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.8305111527442932,
+  "vocal_share": 0.031590867787599564,
+  "vocal_voiced": 0.11557788944723618,
+  "song_length": 259.0
+ }
+}

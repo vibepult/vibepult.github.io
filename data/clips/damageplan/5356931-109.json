@@ -1,0 +1,32 @@
+{
+ "id": "damageplan/5356931-109",
+ "band": "damageplan",
+ "title": "Cold Blooded",
+ "source": "itunes",
+ "album": "New Found Power",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.829697370686921,
+  "tempo_var": 13.82572578539138,
+  "low_onset_rate": 6.561726772588437,
+  "lufs": -7.856628943684422,
+  "rms_dbfs": -7.5663102098181465,
+  "crest": 7.566309928894043,
+  "centroid": 2619.0862506316744,
+  "flatness": 0.0307970829308033,
+  "sub100_share": 0.19841255247592926,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.8250427842140198,
+  "clean_share": 0.0,
+  "minor_share": 0.09394286375071015,
+  "chord_rate": 2.0651119791902692,
+  "repetitiveness": 0.833991527557373,
+  "vocal_share": 0.052436236292123795,
+  "vocal_voiced": 0.41204250295159384,
+  "song_length": 297.267
+ }
+}

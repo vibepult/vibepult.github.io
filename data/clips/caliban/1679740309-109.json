@@ -1,0 +1,32 @@
+{
+ "id": "caliban/1679740309-109",
+ "band": "caliban",
+ "title": "Supervision Until Death",
+ "source": "itunes",
+ "album": "A Small Boy And A Grey Heaven",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 4.5106646705135045,
+  "tempo_var": 13.902145100620514,
+  "low_onset_rate": 4.57748933229889,
+  "lufs": -10.454514757435273,
+  "rms_dbfs": -10.929223393421568,
+  "crest": 10.92922306060791,
+  "centroid": 3259.1589750401745,
+  "flatness": 0.07908184826374054,
+  "sub100_share": 0.20535507798194885,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.6747454404830933,
+  "clean_share": 0.0,
+  "minor_share": 0.035857964239011,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.8314875960350037,
+  "vocal_share": 0.1837838739156723,
+  "vocal_voiced": 0.25716928769657726,
+  "song_length": 241.827
+ }
+}

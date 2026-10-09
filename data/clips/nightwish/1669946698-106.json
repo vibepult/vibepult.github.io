@@ -1,0 +1,32 @@
+{
+ "id": "nightwish/1669946698-106",
+ "band": "nightwish",
+ "title": "Swanheart",
+ "source": "itunes",
+ "album": "Oceanborn",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.443840008728119,
+  "tempo_var": 5.79396645096812,
+  "low_onset_rate": 8.01895941424623,
+  "lufs": -18.14915008248175,
+  "rms_dbfs": -17.902710471640116,
+  "crest": 15.590646743774414,
+  "centroid": 2022.3026608811244,
+  "flatness": 0.006191600114107132,
+  "sub100_share": 0.08137769252061844,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.9199014902114868,
+  "clean_share": 0.6578743211792087,
+  "minor_share": -0.07918214127830248,
+  "chord_rate": 0.6014219560684673,
+  "repetitiveness": 0.523980438709259,
+  "vocal_share": 0.7138811349868774,
+  "vocal_voiced": 0.8272373540856031,
+  "song_length": 284.733
+ }
+}

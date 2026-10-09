@@ -1,0 +1,127 @@
+{
+ "slug": "fear-factory",
+ "name": "Fear Factory",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 15773169,
+  "deezer": 2985,
+  "spotify": "74Hj7BmnUXyx2udrIEIKwX"
+ },
+ "metadata": {
+  "formed": 1990,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 4,
+  "past_members": 10,
+  "full_lengths": 12,
+  "genre": "Industrial/Death Metal (early); Groove/Industrial Metal (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 123735,
+  "themes": "Technology, Anti-religion, Hate, Society, Science fiction, Politics",
+  "release_year": 1999
+ },
+ "partial": false,
+ "clips": [
+  "fear-factory/214476483-108",
+  "fear-factory/214477830-106",
+  "fear-factory/214469876-105",
+  "fear-factory/214474318-106",
+  "fear-factory/214477126-108",
+  "fear-factory/1689056677-106",
+  "fear-factory/950232259-105",
+  "fear-factory/1559526617-105",
+  "fear-factory/1678857882-110",
+  "fear-factory/214476483-107",
+  "fear-factory/214477830-105",
+  "fear-factory/214469876-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 101.37169471153845,
+   "iqr": 36.84613734970509
+  },
+  "onset_rate": {
+   "median": 4.288550330067627,
+   "iqr": 1.6896013492515927
+  },
+  "tempo_var": {
+   "median": 14.178253404458074,
+   "iqr": 8.510285553565705
+  },
+  "low_onset_rate": {
+   "median": 6.240725324357715,
+   "iqr": 3.6808880753325375
+  },
+  "lufs": {
+   "median": -9.959375163271165,
+   "iqr": 1.5653575346843542
+  },
+  "rms_dbfs": {
+   "median": -9.269216451736284,
+   "iqr": 3.027836495054421
+  },
+  "crest": {
+   "median": 9.269217014312744,
+   "iqr": 2.7762205600738525
+  },
+  "centroid": {
+   "median": 2862.1279025657673,
+   "iqr": 475.2813382733034
+  },
+  "flatness": {
+   "median": 0.04933543689548969,
+   "iqr": 0.022987885400652885
+  },
+  "sub100_share": {
+   "median": 0.3391510099172592,
+   "iqr": 0.1524757444858551
+  },
+  "lowest_pitch": {
+   "median": 41.7205810546875,
+   "iqr": 17.4957275390625
+  },
+  "harmonic_share": {
+   "median": 0.7234036326408386,
+   "iqr": 0.10515132546424866
+  },
+  "clean_share": {
+   "median": 0.036009676740004215,
+   "iqr": 0.146488491771351
+  },
+  "minor_share": {
+   "median": 0.12495508700022268,
+   "iqr": 0.17884122066279096
+  },
+  "chord_rate": {
+   "median": 1.9880336881152112,
+   "iqr": 0.9646057677916837
+  },
+  "repetitiveness": {
+   "median": 0.9464273750782013,
+   "iqr": 0.07190893590450287
+  },
+  "vocal_share": {
+   "median": 0.15566539764404297,
+   "iqr": 0.06332271546125412
+  },
+  "vocal_voiced": {
+   "median": 0.6213991769547325,
+   "iqr": 0.6134297799420542
+  },
+  "song_length": {
+   "median": 260.547,
+   "iqr": 54.57599999999999
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

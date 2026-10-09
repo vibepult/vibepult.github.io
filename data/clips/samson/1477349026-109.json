@@ -1,0 +1,32 @@
+{
+ "id": "samson/1477349026-109",
+ "band": "samson",
+ "title": "Take Me to Your Leader",
+ "source": "itunes",
+ "album": "Head On (Bonus Tracks Edition)",
+ "year": 1980,
+ "itunes_year": 1980,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.333333333333333,
+  "tempo_var": 4.5813963781179154,
+  "low_onset_rate": 5.866666666666666,
+  "lufs": -9.898370765609947,
+  "rms_dbfs": -9.994747960373969,
+  "crest": 9.994747161865234,
+  "centroid": 2510.2625129055536,
+  "flatness": 0.030470922589302063,
+  "sub100_share": 0.09568309783935547,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.6845355033874512,
+  "clean_share": 0.05495356037151703,
+  "minor_share": 0.15214200894800767,
+  "chord_rate": 2.033333333333333,
+  "repetitiveness": 0.8580742478370667,
+  "vocal_share": 0.1747893989086151,
+  "vocal_voiced": 0.7640807651434643,
+  "song_length": 226.0
+ }
+}

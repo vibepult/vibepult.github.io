@@ -1,0 +1,32 @@
+{
+ "id": "insomnium/1045292640-106",
+ "band": "insomnium",
+ "title": "Collapsing Words",
+ "source": "itunes",
+ "album": "Shadows of the Dying Sun",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.463206223117934,
+  "tempo_var": 0.0,
+  "low_onset_rate": 7.2287545757109255,
+  "lufs": -8.395124573618373,
+  "rms_dbfs": -7.726234238981871,
+  "crest": 7.7262349128723145,
+  "centroid": 2557.879745879972,
+  "flatness": 0.04096284136176109,
+  "sub100_share": 0.3428570628166199,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.6819506287574768,
+  "clean_share": 0.0,
+  "minor_share": 0.17669534445165874,
+  "chord_rate": 1.1659281573727298,
+  "repetitiveness": 0.9233206510543823,
+  "vocal_share": 0.1058180034160614,
+  "vocal_voiced": 0.21929824561403508,
+  "song_length": 278.173
+ }
+}

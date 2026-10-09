@@ -1,0 +1,32 @@
+{
+ "id": "theatre-of-tragedy/1222140073-105",
+ "band": "theatre-of-tragedy",
+ "title": "And When He Falleth",
+ "source": "itunes",
+ "album": "Velvet Darkness They Fear",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.7398111332007953,
+  "tempo_var": 1.6842570908349113,
+  "low_onset_rate": 4.911612641225816,
+  "lufs": -19.117608913683345,
+  "rms_dbfs": -19.98766490943831,
+  "crest": 15.887859344482422,
+  "centroid": 806.5635527076513,
+  "flatness": 0.004144327715039253,
+  "sub100_share": 0.003822640050202608,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.981054961681366,
+  "clean_share": 0.9860356865787432,
+  "minor_share": 0.12609750986243895,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.698900580406189,
+  "vocal_share": 2.130706661773729e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 428.307
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "havok/1193420909-105",
+ "band": "havok",
+ "title": "Ingsoc",
+ "source": "itunes",
+ "album": "Conformicide",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.713508582650439,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.911612641225816,
+  "lufs": -11.968362543747226,
+  "rms_dbfs": -10.99144944611146,
+  "crest": 10.991449356079102,
+  "centroid": 2521.2552813020525,
+  "flatness": 0.033761609345674515,
+  "sub100_share": 0.35948750376701355,
+  "lowest_pitch": 150.732421875,
+  "harmonic_share": 0.6992135047912598,
+  "clean_share": 0.1908456167571761,
+  "minor_share": -0.03995428496188769,
+  "chord_rate": 2.2386261698104057,
+  "repetitiveness": 0.9223181009292603,
+  "vocal_share": 9.748749789650901e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 461.28
+ }
+}

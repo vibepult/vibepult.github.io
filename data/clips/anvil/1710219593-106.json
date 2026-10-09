@@ -1,0 +1,32 @@
+{
+ "id": "anvil/1710219593-106",
+ "band": "anvil",
+ "title": "Cut Loose",
+ "source": "itunes",
+ "album": "Strength of Steel",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 5.566582515759399,
+  "tempo_var": 18.523778892424833,
+  "low_onset_rate": 5.933243639551934,
+  "lufs": -8.865540461562562,
+  "rms_dbfs": -9.196399396013824,
+  "crest": 9.196398735046387,
+  "centroid": 2749.2825879319107,
+  "flatness": 0.04442643001675606,
+  "sub100_share": 0.14069029688835144,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7601934671401978,
+  "clean_share": 0.0,
+  "minor_share": 0.06636514846185904,
+  "chord_rate": 1.9333041072697315,
+  "repetitiveness": 0.9099578261375427,
+  "vocal_share": 0.1728750765323639,
+  "vocal_voiced": 0.5899903753609239,
+  "song_length": 208.973
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "waldgefluster/1728044092-105",
+ "band": "waldgefluster",
+ "title": "Wenn die Morgensonn",
+ "source": "itunes",
+ "album": "Meine Fesseln",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 1.099993348490712,
+  "tempo_var": 2.2152370205696,
+  "low_onset_rate": 2.466651751160991,
+  "lufs": -11.049249542530175,
+  "rms_dbfs": -10.579776688245888,
+  "crest": 10.579776763916016,
+  "centroid": 1889.48613889484,
+  "flatness": 0.01694287545979023,
+  "sub100_share": 0.08210977166891098,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.8062950968742371,
+  "clean_share": 0.2907965970610982,
+  "minor_share": 0.2128332846984683,
+  "chord_rate": 1.099993348490712,
+  "repetitiveness": 0.7685508131980896,
+  "vocal_share": 0.11744966357946396,
+  "vocal_voiced": 0.4855072463768116,
+  "song_length": 590.946
+ }
+}

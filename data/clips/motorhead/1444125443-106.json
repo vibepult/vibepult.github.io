@@ -1,0 +1,32 @@
+{
+ "id": "motorhead/1444125443-106",
+ "band": "motorhead",
+ "title": "Dead and Gone",
+ "source": "itunes",
+ "album": "Snake Bite Love",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.499931973817478,
+  "tempo_var": 2.13355740258632,
+  "low_onset_rate": 7.1332254992365955,
+  "lufs": -17.509513946755263,
+  "rms_dbfs": -16.839774041274154,
+  "crest": 16.839773178100586,
+  "centroid": 1169.5564892349084,
+  "flatness": 0.0014673977857455611,
+  "sub100_share": 0.0002861434768419713,
+  "lowest_pitch": 137.274169921875,
+  "harmonic_share": 0.9338319301605225,
+  "clean_share": 0.9466357308584686,
+  "minor_share": -0.038812882161137985,
+  "chord_rate": 1.3666460068630861,
+  "repetitiveness": 0.7667444944381714,
+  "vocal_share": 0.3685077726840973,
+  "vocal_voiced": 0.718804920913884,
+  "song_length": 258.973
+ }
+}

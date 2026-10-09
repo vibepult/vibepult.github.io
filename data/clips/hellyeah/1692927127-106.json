@@ -1,0 +1,32 @@
+{
+ "id": "hellyeah/1692927127-106",
+ "band": "hellyeah",
+ "title": "Leap of Faith",
+ "source": "itunes",
+ "album": "Unden!Able",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.4666457043343653,
+  "tempo_var": 0.0,
+  "low_onset_rate": 2.0999873016640866,
+  "lufs": -9.01305807765213,
+  "rms_dbfs": -8.196924439169972,
+  "crest": 8.196925163269043,
+  "centroid": 2777.2147630687523,
+  "flatness": 0.04529055207967758,
+  "sub100_share": 0.3483907878398895,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.6869860291481018,
+  "clean_share": 0.027842227378190254,
+  "minor_share": 0.14100192678212276,
+  "chord_rate": 2.1666535652089784,
+  "repetitiveness": 0.9233635067939758,
+  "vocal_share": 0.19338726997375488,
+  "vocal_voiced": 0.5531587057010786,
+  "song_length": 261.619
+ }
+}

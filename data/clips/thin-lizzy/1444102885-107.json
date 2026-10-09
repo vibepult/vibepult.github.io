@@ -1,0 +1,32 @@
+{
+ "id": "thin-lizzy/1444102885-107",
+ "band": "thin-lizzy",
+ "title": "Return of the Farmer's Son",
+ "source": "itunes",
+ "album": "Thin Lizzy",
+ "year": 1971,
+ "itunes_year": 1971,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.430460074034902,
+  "tempo_var": 19.096077830876627,
+  "low_onset_rate": 6.5965097831835005,
+  "lufs": -12.03439524366115,
+  "rms_dbfs": -10.844006461597129,
+  "crest": 10.844006538391113,
+  "centroid": 1794.6979325725606,
+  "flatness": 0.0075386641547083855,
+  "sub100_share": 0.4072512090206146,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8489392399787903,
+  "clean_share": 0.505800464037123,
+  "minor_share": -0.18414780345803283,
+  "chord_rate": 2.165520888418826,
+  "repetitiveness": 0.8365206122398376,
+  "vocal_share": 0.15876813232898712,
+  "vocal_voiced": 0.8676293622141997,
+  "song_length": 254.293
+ }
+}

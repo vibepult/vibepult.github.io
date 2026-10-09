@@ -1,0 +1,32 @@
+{
+ "id": "elis/1183986837-106",
+ "band": "elis",
+ "title": "Die Zeit",
+ "source": "itunes",
+ "album": "Dark Clouds in a Perfect Sky",
+ "year": 2004,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.333333333333333,
+  "tempo_var": 3.7312969707321226,
+  "low_onset_rate": 5.433333333333334,
+  "lufs": -7.513536465729363,
+  "rms_dbfs": -6.466485967694906,
+  "crest": 6.46648645401001,
+  "centroid": 2359.906516017504,
+  "flatness": 0.023800263181328773,
+  "sub100_share": 0.4658735990524292,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8111094832420349,
+  "clean_share": 0.018575851393188854,
+  "minor_share": 0.024776538751960064,
+  "chord_rate": 0.7666666666666667,
+  "repetitiveness": 0.781421422958374,
+  "vocal_share": 0.07792191207408905,
+  "vocal_voiced": 0.9060205580029369,
+  "song_length": 232.773
+ }
+}

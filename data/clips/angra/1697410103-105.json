@@ -1,0 +1,32 @@
+{
+ "id": "angra/1697410103-105",
+ "band": "angra",
+ "title": "Holy Land",
+ "source": "itunes",
+ "album": "Holy Land",
+ "year": 1996,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.399967347136223,
+  "tempo_var": 15.724323368235988,
+  "low_onset_rate": 4.899970370549536,
+  "lufs": -31.116414452279034,
+  "rms_dbfs": -31.903035324630437,
+  "crest": 20.496511459350586,
+  "centroid": 3369.138153548187,
+  "flatness": 0.12006371468305588,
+  "sub100_share": 0.006444999948143959,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.9410796165466309,
+  "clean_share": 0.4191802010827533,
+  "minor_share": -0.13285743554446405,
+  "chord_rate": 1.299992139125387,
+  "repetitiveness": 0.790620744228363,
+  "vocal_share": 4.163539415458217e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 386.133
+ }
+}

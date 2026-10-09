@@ -1,0 +1,32 @@
+{
+ "id": "mar-de-grises/1531066284-106",
+ "band": "mar-de-grises",
+ "title": "One Possessed",
+ "source": "itunes",
+ "album": "Draining the Waterheart (Remastered 2020)",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 2.67298647141541,
+  "tempo_var": 16.117998129986418,
+  "low_onset_rate": 4.57748933229889,
+  "lufs": -13.047439659960931,
+  "rms_dbfs": -12.013522169777819,
+  "crest": 12.013522148132324,
+  "centroid": 2230.128848427189,
+  "flatness": 0.00932807195931673,
+  "sub100_share": 0.3224211633205414,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.9133476614952087,
+  "clean_share": 0.2948021722265322,
+  "minor_share": 0.04406994430911737,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.7081230282783508,
+  "vocal_share": 0.016114061698317528,
+  "vocal_voiced": 0.3096590909090909,
+  "song_length": 427.56
+ }
+}

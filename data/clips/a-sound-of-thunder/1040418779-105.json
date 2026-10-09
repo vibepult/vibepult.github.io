@@ -1,0 +1,32 @@
+{
+ "id": "a-sound-of-thunder/1040418779-105",
+ "band": "a-sound-of-thunder",
+ "title": "Tower of Souls",
+ "source": "itunes",
+ "album": "Tales from the Deadside",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 6.682466178538525,
+  "tempo_var": 3.214758342085037,
+  "low_onset_rate": 8.01895941424623,
+  "lufs": -8.558263800576958,
+  "rms_dbfs": -8.085347870259891,
+  "crest": 8.085348129272461,
+  "centroid": 2551.63133221338,
+  "flatness": 0.0336257703602314,
+  "sub100_share": 0.3608653247356415,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7679901719093323,
+  "clean_share": 0.0,
+  "minor_share": 0.09318978068240313,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.8889945149421692,
+  "vocal_share": 0.12710796296596527,
+  "vocal_voiced": 0.8522954091816367,
+  "song_length": 336.827
+ }
+}

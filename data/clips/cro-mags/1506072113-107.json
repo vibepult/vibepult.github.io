@@ -1,0 +1,32 @@
+{
+ "id": "cro-mags/1506072113-107",
+ "band": "cro-mags",
+ "title": "The Final Test",
+ "source": "itunes",
+ "album": "In the Beginning",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 3.174171434805799,
+  "tempo_var": 19.53807489702797,
+  "low_onset_rate": 6.081044222470058,
+  "lufs": -10.304174402391745,
+  "rms_dbfs": -9.852318465542492,
+  "crest": 9.852317810058594,
+  "centroid": 2006.919001174954,
+  "flatness": 0.00975760817527771,
+  "sub100_share": 0.30678409337997437,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7910292744636536,
+  "clean_share": 0.3762606671838635,
+  "minor_share": 0.0019801577600249143,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.738673746585846,
+  "vocal_share": 0.03375375643372536,
+  "vocal_voiced": 0.4074074074074074,
+  "song_length": 203.793
+ }
+}

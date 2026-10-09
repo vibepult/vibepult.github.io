@@ -1,0 +1,32 @@
+{
+ "id": "electric-wizard/965383984-105",
+ "band": "electric-wizard",
+ "title": "Devil's Bride",
+ "source": "itunes",
+ "album": "Electric Wizard",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.266602167767683,
+  "tempo_var": 5.434541451450475,
+  "low_onset_rate": 7.03322701092954,
+  "lufs": -5.934064604716375,
+  "rms_dbfs": -4.329114170073231,
+  "crest": 4.3291144371032715,
+  "centroid": 1958.313472682792,
+  "flatness": 0.010451015084981918,
+  "sub100_share": 0.5448793172836304,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8592209219932556,
+  "clean_share": 0.36040216550657383,
+  "minor_share": -0.17520304722951263,
+  "chord_rate": 1.7999727895269915,
+  "repetitiveness": 0.7537012100219727,
+  "vocal_share": 0.008751711808145046,
+  "vocal_voiced": 0.6821917808219178,
+  "song_length": 395.893
+ }
+}

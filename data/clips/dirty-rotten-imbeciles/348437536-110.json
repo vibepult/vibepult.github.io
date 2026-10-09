@@ -1,0 +1,32 @@
+{
+ "id": "dirty-rotten-imbeciles/348437536-110",
+ "band": "dirty-rotten-imbeciles",
+ "title": "No Religion",
+ "source": "itunes",
+ "album": "Crossover (Millennium Edition)",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 6.248105876933521,
+  "tempo_var": 3.953240741327369,
+  "low_onset_rate": 7.250475803714299,
+  "lufs": -5.7728425357908035,
+  "rms_dbfs": -5.830321098715244,
+  "crest": 5.830321311950684,
+  "centroid": 2848.4165617018393,
+  "flatness": 0.04898196458816528,
+  "sub100_share": 0.19019253551959991,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8364347219467163,
+  "clean_share": 0.011636927851047323,
+  "minor_share": 0.21806068431218295,
+  "chord_rate": 2.1049768462396354,
+  "repetitiveness": 0.7742624282836914,
+  "vocal_share": 0.02388559654355049,
+  "vocal_voiced": 0.8841201716738197,
+  "song_length": 179.061
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "tyr/1720806385-105",
+ "band": "tyr",
+ "title": "Torkils Døtur",
+ "source": "itunes",
+ "album": "Battle Ballads",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.966621819775967,
+  "tempo_var": 9.204025784601388,
+  "low_onset_rate": 4.866593097610013,
+  "lufs": -20.807872965583908,
+  "rms_dbfs": -20.741558559640136,
+  "crest": 15.241048812866211,
+  "centroid": 2091.851647242565,
+  "flatness": 0.009087331593036652,
+  "sub100_share": 0.016398606821894646,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.9068707823753357,
+  "clean_share": 0.4563031709203403,
+  "minor_share": -0.013277777827975346,
+  "chord_rate": 1.299980347991716,
+  "repetitiveness": 0.6785555481910706,
+  "vocal_share": 0.5087469220161438,
+  "vocal_voiced": 0.9394714407502132,
+  "song_length": 344.04
+ }
+}

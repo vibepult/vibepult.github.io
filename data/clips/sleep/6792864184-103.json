@@ -1,0 +1,32 @@
+{
+ "id": "sleep/6792864184-103",
+ "band": "sleep",
+ "title": "Hempispheres",
+ "source": "itunes",
+ "album": "Hempispheres",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.199986696981424,
+  "tempo_var": 12.318269080325164,
+  "low_onset_rate": 2.1666535652089784,
+  "lufs": -15.262261454468527,
+  "rms_dbfs": -14.328985645674454,
+  "crest": 14.328986167907715,
+  "centroid": 2041.1118941212258,
+  "flatness": 0.023938842117786407,
+  "sub100_share": 0.35726386308670044,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7452475428581238,
+  "clean_share": 0.2529002320185615,
+  "minor_share": 0.042003024990854176,
+  "chord_rate": 1.5999903250773995,
+  "repetitiveness": 0.9076342582702637,
+  "vocal_share": 0.07965818792581558,
+  "vocal_voiced": 0.5486111111111112,
+  "song_length": 477.013
+ }
+}

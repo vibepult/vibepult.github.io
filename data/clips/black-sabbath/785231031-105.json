@@ -1,0 +1,32 @@
+{
+ "id": "black-sabbath/785231031-105",
+ "band": "black-sabbath",
+ "title": "The Thrill of It All",
+ "source": "itunes",
+ "album": "Sabotage",
+ "year": 1975,
+ "itunes_year": 1975,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 2.398719957452788,
+  "tempo_var": 3.7545802968036806,
+  "low_onset_rate": 3.298239941497583,
+  "lufs": -14.933065428428291,
+  "rms_dbfs": -15.034707844656852,
+  "crest": 15.034708023071289,
+  "centroid": 2662.8551575909014,
+  "flatness": 0.035400234162807465,
+  "sub100_share": 0.06868842244148254,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.738012969493866,
+  "clean_share": 0.09358081979891725,
+  "minor_share": -0.10799910213713604,
+  "chord_rate": 2.731875507099008,
+  "repetitiveness": 0.8293020129203796,
+  "vocal_share": 0.31006133556365967,
+  "vocal_voiced": 0.9134720700985761,
+  "song_length": 355.533
+ }
+}

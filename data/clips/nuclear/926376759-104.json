@@ -1,0 +1,32 @@
+{
+ "id": "nuclear/926376759-104",
+ "band": "nuclear",
+ "title": "Brutal yet Precise",
+ "source": "itunes",
+ "album": "Jehovirus",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.546446928186976,
+  "tempo_var": 10.783909253539496,
+  "low_onset_rate": 7.3841251272850705,
+  "lufs": -5.7777433020484175,
+  "rms_dbfs": -6.418574194407159,
+  "crest": 6.418574333190918,
+  "centroid": 2769.242544411013,
+  "flatness": 0.04909980297088623,
+  "sub100_share": 0.19207271933555603,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.6616528034210205,
+  "clean_share": 0.018619084561675717,
+  "minor_share": 0.08547155775852455,
+  "chord_rate": 2.1718015080250206,
+  "repetitiveness": 0.9312776327133179,
+  "vocal_share": 0.12845160067081451,
+  "vocal_voiced": 0.0,
+  "song_length": 180.22
+ }
+}

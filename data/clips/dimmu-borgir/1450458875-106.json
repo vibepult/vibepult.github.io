@@ -1,0 +1,32 @@
+{
+ "id": "dimmu-borgir/1450458875-106",
+ "band": "dimmu-borgir",
+ "title": "For all tid",
+ "source": "itunes",
+ "album": "For all tid",
+ "year": 1995,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 1.299992139125387,
+  "tempo_var": 9.263728358316559,
+  "low_onset_rate": 3.0666481230650153,
+  "lufs": -14.307468711047985,
+  "rms_dbfs": -13.90304997244934,
+  "crest": 13.903050422668457,
+  "centroid": 1732.9345857364465,
+  "flatness": 0.012126232497394085,
+  "sub100_share": 0.10188761353492737,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.9201415181159973,
+  "clean_share": 0.6388244392884764,
+  "minor_share": 0.2622798688233643,
+  "chord_rate": 0.03333313177244582,
+  "repetitiveness": 0.9212208986282349,
+  "vocal_share": 0.24005325138568878,
+  "vocal_voiced": 0.6735218508997429,
+  "song_length": 351.6
+ }
+}

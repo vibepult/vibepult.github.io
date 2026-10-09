@@ -1,0 +1,32 @@
+{
+ "id": "the-kovenant/1769208174-106",
+ "band": "the-kovenant",
+ "title": "The Chasm (2002 Version)",
+ "source": "itunes",
+ "album": "In Times Before the Light (2002 Version)",
+ "year": 1997,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.733310758513932,
+  "tempo_var": 25.49783158078272,
+  "low_onset_rate": 2.5333180147058822,
+  "lufs": -10.663612342648408,
+  "rms_dbfs": -10.13890898503005,
+  "crest": 10.138908386230469,
+  "centroid": 2812.1067209006605,
+  "flatness": 0.046962108463048935,
+  "sub100_share": 0.4903911352157593,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8484912514686584,
+  "clean_share": 0.04949729311678268,
+  "minor_share": 0.031369593113213634,
+  "chord_rate": 1.1666596120356036,
+  "repetitiveness": 0.8244566321372986,
+  "vocal_share": 0.006098371464759111,
+  "vocal_voiced": 0.6016949152542372,
+  "song_length": 279.427
+ }
+}

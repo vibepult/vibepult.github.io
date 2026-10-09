@@ -1,0 +1,32 @@
+{
+ "id": "green-carnation/1820264980-104",
+ "band": "green-carnation",
+ "title": "The Slave That You Are",
+ "source": "itunes",
+ "album": "A Dark Poem, Pt. I: The Shores of Melancholia",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.433333333333334,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 8.766666666666667,
+  "lufs": -10.890366058306164,
+  "rms_dbfs": -10.125011040026886,
+  "crest": 10.125011444091797,
+  "centroid": 2521.455261014446,
+  "flatness": 0.03723134845495224,
+  "sub100_share": 0.3944326639175415,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.780314028263092,
+  "clean_share": 0.01780185758513932,
+  "minor_share": 0.07649341093287565,
+  "chord_rate": 1.2666666666666666,
+  "repetitiveness": 0.8707330822944641,
+  "vocal_share": 0.10795404016971588,
+  "vocal_voiced": 0.14505776636713735,
+  "song_length": 376.0
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "nailbomb/280151959-104",
+ "band": "nailbomb",
+ "title": "Guerrillas",
+ "source": "itunes",
+ "album": "Point Blank",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 5.3999020425933315,
+  "tempo_var": 14.035886877247073,
+  "low_onset_rate": 6.566547545622755,
+  "lufs": -11.810861635398103,
+  "rms_dbfs": -11.763484624508983,
+  "crest": 11.763484954833984,
+  "centroid": 2956.4577508415555,
+  "flatness": 0.05281258001923561,
+  "sub100_share": 0.19627073407173157,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.6408823132514954,
+  "clean_share": 0.0007733952049497294,
+  "minor_share": 0.10732815780546695,
+  "chord_rate": 2.399956463374814,
+  "repetitiveness": 0.9689087867736816,
+  "vocal_share": 0.07595506310462952,
+  "vocal_voiced": 0.22924411400247832,
+  "song_length": 266.507
+ }
+}

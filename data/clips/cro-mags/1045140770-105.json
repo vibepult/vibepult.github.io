@@ -1,0 +1,32 @@
+{
+ "id": "cro-mags/1045140770-105",
+ "band": "cro-mags",
+ "title": "Time I Am",
+ "source": "itunes",
+ "album": "Near Death Experience",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.4080577510546477,
+  "tempo_var": 2.072367233978243,
+  "low_onset_rate": 5.178911288367357,
+  "lufs": -18.2146688896898,
+  "rms_dbfs": -18.35605411347078,
+  "crest": 18.356054306030273,
+  "centroid": 1815.9859946731367,
+  "flatness": 0.016911117359995842,
+  "sub100_share": 0.14247283339500427,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7731966376304626,
+  "clean_share": 0.6206361520558572,
+  "minor_share": -0.05364151420923979,
+  "chord_rate": 0.6682466178538525,
+  "repetitiveness": 0.7468821406364441,
+  "vocal_share": 0.26036596298217773,
+  "vocal_voiced": 0.9621301775147929,
+  "song_length": 282.36
+ }
+}

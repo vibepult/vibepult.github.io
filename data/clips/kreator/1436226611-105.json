@@ -1,0 +1,32 @@
+{
+ "id": "kreator/1436226611-105",
+ "band": "kreator",
+ "title": "Some Pain Will Last",
+ "source": "itunes",
+ "album": "Extreme Aggression",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 7.183651141928914,
+  "tempo_var": 11.106680923014993,
+  "low_onset_rate": 6.11445655336275,
+  "lufs": -15.548519862467943,
+  "rms_dbfs": -14.974161016119398,
+  "crest": 14.974161148071289,
+  "centroid": 2417.732887987573,
+  "flatness": 0.023210547864437103,
+  "sub100_share": 0.17544209957122803,
+  "lowest_pitch": 99.591064453125,
+  "harmonic_share": 0.7403751015663147,
+  "clean_share": 0.10861132660977502,
+  "minor_share": 0.10311151268203367,
+  "chord_rate": 3.0739344421277215,
+  "repetitiveness": 0.8654313087463379,
+  "vocal_share": 0.04472335800528526,
+  "vocal_voiced": 0.06470588235294118,
+  "song_length": 339.093
+ }
+}

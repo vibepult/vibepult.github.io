@@ -1,0 +1,32 @@
+{
+ "id": "pallbearer/1518969970-104",
+ "band": "pallbearer",
+ "title": "Silver Wings",
+ "source": "itunes",
+ "album": "Forgotten Days",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.040522111235029,
+  "tempo_var": 3.669053445840599,
+  "low_onset_rate": 3.6753563981961888,
+  "lufs": -13.093242419268377,
+  "rms_dbfs": -12.763213838519206,
+  "crest": 12.763214111328125,
+  "centroid": 1414.9339864185358,
+  "flatness": 0.0055618383921682835,
+  "sub100_share": 0.20882301032543182,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.7470613121986389,
+  "clean_share": 0.6082234290147401,
+  "minor_share": -0.05530695568617128,
+  "chord_rate": 0.7016589487465451,
+  "repetitiveness": 0.8192670941352844,
+  "vocal_share": 5.792688284600445e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 738.507
+ }
+}

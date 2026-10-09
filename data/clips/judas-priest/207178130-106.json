@@ -1,0 +1,32 @@
+{
+ "id": "judas-priest/207178130-106",
+ "band": "judas-priest",
+ "title": "Pain and Pleasure",
+ "source": "itunes",
+ "album": "Screaming for Vengeance (Bonus Track Version)",
+ "year": 1982,
+ "itunes_year": 1982,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 2.3984807808810444,
+  "tempo_var": 31.58351471039134,
+  "low_onset_rate": 3.2312866075758513,
+  "lufs": -10.151061019395929,
+  "rms_dbfs": -9.890611570605124,
+  "crest": 9.89061164855957,
+  "centroid": 2651.496067390052,
+  "flatness": 0.032221052795648575,
+  "sub100_share": 0.2839576303958893,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8278495669364929,
+  "clean_share": 0.03248259860788863,
+  "minor_share": -0.1586972010929607,
+  "chord_rate": 1.3991137888472758,
+  "repetitiveness": 0.7257447242736816,
+  "vocal_share": 0.17872785031795502,
+  "vocal_voiced": 0.7190569744597249,
+  "song_length": 253.76
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "green-carnation/583584328-105",
+ "band": "green-carnation",
+ "title": "The Everlasting Moment",
+ "source": "itunes",
+ "album": "The Quiet Offspring",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 3.240996096591185,
+  "tempo_var": 37.55869654668986,
+  "low_onset_rate": 5.513034597294284,
+  "lufs": -8.672569506023907,
+  "rms_dbfs": -7.998026776837426,
+  "crest": 7.9980268478393555,
+  "centroid": 2221.72283525189,
+  "flatness": 0.018590644001960754,
+  "sub100_share": 0.2060856819152832,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8147146701812744,
+  "clean_share": 0.13964313421256788,
+  "minor_share": 0.00024654003424273707,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.853259265422821,
+  "vocal_share": 0.20160742104053497,
+  "vocal_voiced": 0.9050715214564369,
+  "song_length": 301.987
+ }
+}

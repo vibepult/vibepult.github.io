@@ -1,0 +1,32 @@
+{
+ "id": "skid-row/1727227096-106",
+ "band": "skid-row",
+ "title": "Remains to Be Seen",
+ "source": "itunes",
+ "album": "Subhuman Race",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.4999667424535605,
+  "tempo_var": 9.508572891706535,
+  "low_onset_rate": 6.466627563854489,
+  "lufs": -12.121781139995944,
+  "rms_dbfs": -13.688691449785814,
+  "crest": 13.688690185546875,
+  "centroid": 2515.3252432700347,
+  "flatness": 0.037694692611694336,
+  "sub100_share": 0.26883819699287415,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.6957471370697021,
+  "clean_share": 0.030935808197989172,
+  "minor_share": 0.17032389752369342,
+  "chord_rate": 2.599984278250774,
+  "repetitiveness": 0.9401162266731262,
+  "vocal_share": 0.055477797985076904,
+  "vocal_voiced": 0.34959349593495936,
+  "song_length": 214.067
+ }
+}

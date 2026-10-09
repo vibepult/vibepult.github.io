@@ -1,0 +1,32 @@
+{
+ "id": "alvenrad/1555270377-105",
+ "band": "alvenrad",
+ "title": "Boom Des Gouds",
+ "source": "itunes",
+ "album": "Heer",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 5.112086626581972,
+  "tempo_var": 17.91054655852402,
+  "low_onset_rate": 5.880570237113902,
+  "lufs": -11.056331745425139,
+  "rms_dbfs": -10.250059579278467,
+  "crest": 10.250059127807617,
+  "centroid": 2635.613364381555,
+  "flatness": 0.0325465127825737,
+  "sub100_share": 0.44234520196914673,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7484239339828491,
+  "clean_share": 0.04266873545384019,
+  "minor_share": 0.005766332194605317,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.8231526613235474,
+  "vocal_share": 0.00010638105595717207,
+  "vocal_voiced": 0.65,
+  "song_length": 169.947
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "king-of-asgard/879541755-104",
+ "band": "king-of-asgard",
+ "title": "Remnant of the Past",
+ "source": "itunes",
+ "album": "Karg",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.30782075837657,
+  "tempo_var": 1.1954362582282192,
+  "low_onset_rate": 7.918722421568152,
+  "lufs": -10.192020267864853,
+  "rms_dbfs": -9.559570750979706,
+  "crest": 9.559571266174316,
+  "centroid": 2411.3828438837472,
+  "flatness": 0.026164419949054718,
+  "sub100_share": 0.3093611001968384,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.763215184211731,
+  "clean_share": 0.013964313421256789,
+  "minor_share": 0.2785154478056426,
+  "chord_rate": 2.1049768462396354,
+  "repetitiveness": 0.7035832405090332,
+  "vocal_share": 0.10492587089538574,
+  "vocal_voiced": 0.006482982171799027,
+  "song_length": 321.227
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "orphaned-land",
+ "name": "Orphaned Land",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 18243552,
+  "deezer": 3078,
+  "spotify": "7xTMxqAmbtE0Nce5lz7t0h"
+ },
+ "metadata": {
+  "formed": 1992,
+  "split": null,
+  "country": "IL",
+  "status": "active",
+  "members": 5,
+  "past_members": 7,
+  "full_lengths": 6,
+  "genre": "Doom/Death/Middle Eastern Folk Metal (early); Middle Eastern Folk/Progressive Metal (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 23417,
+  "themes": "Abrahamic religions, Unity, Peace",
+  "release_year": 2007
+ },
+ "partial": false,
+ "clips": [
+  "orphaned-land/1160841483-104",
+  "orphaned-land/1160855672-108",
+  "orphaned-land/1045675360-106",
+  "orphaned-land/1045637900-108",
+  "orphaned-land/1045283984-106",
+  "orphaned-land/1315545322-107",
+  "orphaned-land/1160841483-105",
+  "orphaned-land/1160855672-110",
+  "orphaned-land/1045675360-107",
+  "orphaned-land/1045637900-107",
+  "orphaned-land/1045283984-105",
+  "orphaned-land/1315545322-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 29.81520432692308
+  },
+  "onset_rate": {
+   "median": 4.410427677835427,
+   "iqr": 1.6288511310187657
+  },
+  "tempo_var": {
+   "median": 8.02637724664873,
+   "iqr": 9.636821577354773
+  },
+  "low_onset_rate": {
+   "median": 5.446209935508898,
+   "iqr": 1.5369672210638612
+  },
+  "lufs": {
+   "median": -10.995351794407533,
+   "iqr": 3.097844451789232
+  },
+  "rms_dbfs": {
+   "median": -11.083259194686665,
+   "iqr": 2.615102838898899
+  },
+  "crest": {
+   "median": 11.083258628845215,
+   "iqr": 2.615103006362915
+  },
+  "centroid": {
+   "median": 2213.2030330480993,
+   "iqr": 540.2170852984812
+  },
+  "flatness": {
+   "median": 0.014233816415071487,
+   "iqr": 0.02164010121487081
+  },
+  "sub100_share": {
+   "median": 0.24235596507787704,
+   "iqr": 0.18225380778312683
+  },
+  "lowest_pitch": {
+   "median": 63.2537841796875,
+   "iqr": 42.39349365234375
+  },
+  "harmonic_share": {
+   "median": 0.8178760409355164,
+   "iqr": 0.12231467664241791
+  },
+  "clean_share": {
+   "median": 0.23933281613653995,
+   "iqr": 0.38421256788207914
+  },
+  "minor_share": {
+   "median": 0.059357755507135845,
+   "iqr": 0.1258082420341109
+  },
+  "chord_rate": {
+   "median": 1.4033178974930902,
+   "iqr": 0.5680096251757745
+  },
+  "repetitiveness": {
+   "median": 0.7769894599914551,
+   "iqr": 0.15978527069091797
+  },
+  "vocal_share": {
+   "median": 0.27344123274087906,
+   "iqr": 0.24620816111564636
+  },
+  "vocal_voiced": {
+   "median": 0.8737336204392111,
+   "iqr": 0.14904348272743329
+  },
+  "song_length": {
+   "median": 332.86,
+   "iqr": 144.95850000000002
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

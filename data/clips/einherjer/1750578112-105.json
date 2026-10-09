@@ -1,0 +1,32 @@
+{
+ "id": "einherjer/1750578112-105",
+ "band": "einherjer",
+ "title": "Mot Vest",
+ "source": "itunes",
+ "album": "Norrøne Spor",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 3.666611237925353,
+  "tempo_var": 8.229467464574252,
+  "low_onset_rate": 5.533249686323714,
+  "lufs": -11.239026562488108,
+  "rms_dbfs": -11.502463524787911,
+  "crest": 11.502464294433594,
+  "centroid": 2595.456261460714,
+  "flatness": 0.037652842700481415,
+  "sub100_share": 0.22563479840755463,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.6170194745063782,
+  "clean_share": 0.0007733952049497294,
+  "minor_share": -0.06510073775671199,
+  "chord_rate": 0.8666535653278107,
+  "repetitiveness": 0.9364991188049316,
+  "vocal_share": 0.09344422817230225,
+  "vocal_voiced": 0.027079303675048357,
+  "song_length": 315.867
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "idi-bihotz/188272336-106",
+ "band": "idi-bihotz",
+ "title": "Egiaren Itzala",
+ "source": "itunes",
+ "album": "Odola Sutan",
+ "year": 2005,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.641944067303496,
+  "tempo_var": 18.641043623063272,
+  "low_onset_rate": 4.5106646705135045,
+  "lufs": -8.681651454615173,
+  "rms_dbfs": -8.3459015800186,
+  "crest": 8.345901489257812,
+  "centroid": 2433.6849371715143,
+  "flatness": 0.03136724606156349,
+  "sub100_share": 0.181396946310997,
+  "lowest_pitch": 29.608154296875,
+  "harmonic_share": 0.6773820519447327,
+  "clean_share": 0.017067494181536073,
+  "minor_share": -0.030883020004865314,
+  "chord_rate": 0.9021329341027009,
+  "repetitiveness": 0.8272701501846313,
+  "vocal_share": 0.23788487911224365,
+  "vocal_voiced": 0.7004366812227074,
+  "song_length": 231.293
+ }
+}

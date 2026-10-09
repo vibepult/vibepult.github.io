@@ -1,0 +1,32 @@
+{
+ "id": "lizzy-borden/60368952-105",
+ "band": "lizzy-borden",
+ "title": "Lovin' You Is Murder",
+ "source": "itunes",
+ "album": "Deal with the Devil",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.94265504533773,
+  "tempo_var": 1.6771961781730311,
+  "low_onset_rate": 2.840048125878873,
+  "lufs": -7.550235794863892,
+  "rms_dbfs": -7.388589124485918,
+  "crest": 7.388589382171631,
+  "centroid": 2413.1917790882108,
+  "flatness": 0.029032425954937935,
+  "sub100_share": 0.15686051547527313,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7331712245941162,
+  "clean_share": 0.0791311093871218,
+  "minor_share": 0.23972894010014223,
+  "chord_rate": 1.9379151917761723,
+  "repetitiveness": 0.7861550450325012,
+  "vocal_share": 0.30181536078453064,
+  "vocal_voiced": 0.6675347222222222,
+  "song_length": 224.467
+ }
+}

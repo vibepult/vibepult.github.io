@@ -1,0 +1,32 @@
+{
+ "id": "moonspell/1275038593-106",
+ "band": "moonspell",
+ "title": "Evento",
+ "source": "itunes",
+ "album": "1755",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 6.5,
+  "tempo_var": 5.287555367209747,
+  "low_onset_rate": 6.333333333333333,
+  "lufs": -7.695436603144835,
+  "rms_dbfs": -7.121013164241374,
+  "crest": 7.121013641357422,
+  "centroid": 2769.8927180894416,
+  "flatness": 0.041137054562568665,
+  "sub100_share": 0.22022810578346252,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7192559838294983,
+  "clean_share": 0.0030959752321981426,
+  "minor_share": 0.10770679677590306,
+  "chord_rate": 2.3666666666666667,
+  "repetitiveness": 0.9399015307426453,
+  "vocal_share": 0.06774436682462692,
+  "vocal_voiced": 0.12990196078431374,
+  "song_length": 283.987
+ }
+}

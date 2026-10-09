@@ -1,0 +1,32 @@
+{
+ "id": "skid-row/1727227096-105",
+ "band": "skid-row",
+ "title": "Eileen",
+ "source": "itunes",
+ "album": "Subhuman Race",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.4999848829334366,
+  "tempo_var": 6.836466981939193,
+  "low_onset_rate": 1.9333216428018576,
+  "lufs": -13.424741489301258,
+  "rms_dbfs": -13.189516948957355,
+  "crest": 13.1895170211792,
+  "centroid": 1944.086279844,
+  "flatness": 0.014246828854084015,
+  "sub100_share": 0.3148465156555176,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.8055676221847534,
+  "clean_share": 0.477184841453983,
+  "minor_share": 0.22750840683440987,
+  "chord_rate": 1.5999903250773995,
+  "repetitiveness": 0.6115689873695374,
+  "vocal_share": 4.818190859623428e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 335.92
+ }
+}

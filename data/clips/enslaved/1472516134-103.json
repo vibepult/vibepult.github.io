@@ -1,0 +1,32 @@
+{
+ "id": "enslaved/1472516134-103",
+ "band": "enslaved",
+ "title": "One Thousand Years of Rain",
+ "source": "itunes",
+ "album": "In Times",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 2.138389177132328,
+  "tempo_var": 11.335431665274616,
+  "low_onset_rate": 4.276778354264656,
+  "lufs": -14.281790239002623,
+  "rms_dbfs": -14.884360055981254,
+  "crest": 14.884359359741211,
+  "centroid": 2334.6509630018645,
+  "flatness": 0.022217189893126488,
+  "sub100_share": 0.19759100675582886,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.8804362416267395,
+  "clean_share": 0.11326609775019394,
+  "minor_share": -0.09865044834708392,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.6477693319320679,
+  "vocal_share": 0.00034668025909923017,
+  "vocal_voiced": 0.5652173913043478,
+  "song_length": 493.44
+ }
+}

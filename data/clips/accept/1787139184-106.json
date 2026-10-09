@@ -1,0 +1,32 @@
+{
+ "id": "accept/1787139184-106",
+ "band": "accept",
+ "title": "Bulletproof",
+ "source": "itunes",
+ "album": "Objection Overruled",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.966198996943671,
+  "tempo_var": 1.9983844793305938,
+  "low_onset_rate": 6.632551263796559,
+  "lufs": -12.108422585907984,
+  "rms_dbfs": -12.739661295867435,
+  "crest": 12.739662170410156,
+  "centroid": 2631.5655201858676,
+  "flatness": 0.04153163358569145,
+  "sub100_share": 0.13305190205574036,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6342332363128662,
+  "clean_share": 0.007733952049497293,
+  "minor_share": -0.1387046856200883,
+  "chord_rate": 0.5999292600418998,
+  "repetitiveness": 0.9703639149665833,
+  "vocal_share": 0.22150130569934845,
+  "vocal_voiced": 0.3157894736842105,
+  "song_length": 305.0
+ }
+}

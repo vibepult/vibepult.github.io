@@ -1,0 +1,32 @@
+{
+ "id": "death-ss/377438204-106",
+ "band": "death-ss",
+ "title": "Ishtar",
+ "source": "itunes",
+ "album": "Panic",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.078674295689279,
+  "tempo_var": 0.760384900767759,
+  "low_onset_rate": 4.71113865586966,
+  "lufs": -8.84890412072191,
+  "rms_dbfs": -7.9521796427966756,
+  "crest": 7.952179908752441,
+  "centroid": 2553.4746324778944,
+  "flatness": 0.020625989884138107,
+  "sub100_share": 0.22242556512355804,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.9256265163421631,
+  "clean_share": 0.1404189294026377,
+  "minor_share": 0.042166620239284636,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.9119982719421387,
+  "vocal_share": 5.963648845863645e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 330.119
+ }
+}

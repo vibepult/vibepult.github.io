@@ -1,0 +1,32 @@
+{
+ "id": "ministry/1436282175-105",
+ "band": "ministry",
+ "title": "Broken",
+ "source": "itunes",
+ "album": "Animositisomina",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.945024972118508,
+  "tempo_var": 15.725797877907823,
+  "low_onset_rate": 8.319670392280464,
+  "lufs": -6.611628526526849,
+  "rms_dbfs": -7.069430365828797,
+  "crest": 7.069429874420166,
+  "centroid": 3626.982475751388,
+  "flatness": 0.09230702370405197,
+  "sub100_share": 0.38985589146614075,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7177932262420654,
+  "clean_share": 0.0,
+  "minor_share": -0.12744507476267752,
+  "chord_rate": 2.405687824273869,
+  "repetitiveness": 0.8740314245223999,
+  "vocal_share": 0.13567472994327545,
+  "vocal_voiced": 0.3353233830845771,
+  "song_length": 292.493
+ }
+}

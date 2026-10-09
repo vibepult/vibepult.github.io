@@ -1,0 +1,32 @@
+{
+ "id": "candlemass/279622086-106",
+ "band": "candlemass",
+ "title": "Zog",
+ "source": "itunes",
+ "album": "From the 13th Sun",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 2.472512486059254,
+  "tempo_var": 1.0092840219208545,
+  "low_onset_rate": 6.415167531396984,
+  "lufs": -5.862574992906247,
+  "rms_dbfs": -5.699606144989495,
+  "crest": 5.699606418609619,
+  "centroid": 2723.853235641644,
+  "flatness": 0.032733190804719925,
+  "sub100_share": 0.36292967200279236,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.9118129014968872,
+  "clean_share": 0.0031031807602792862,
+  "minor_share": 0.09196975797456758,
+  "chord_rate": 2.5393371478446394,
+  "repetitiveness": 0.853656530380249,
+  "vocal_share": 1.1508019497341593e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 353.0
+ }
+}

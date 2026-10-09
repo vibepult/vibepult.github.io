@@ -1,0 +1,32 @@
+{
+ "id": "six-feet-under/57658954-106",
+ "band": "six-feet-under",
+ "title": "Human Target",
+ "source": "itunes",
+ "album": "Haunted",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 2.399963719369322,
+  "tempo_var": 13.897586672402866,
+  "low_onset_rate": 1.7333071306556214,
+  "lufs": -11.46166515624281,
+  "rms_dbfs": -11.227173453295354,
+  "crest": 11.227173805236816,
+  "centroid": 2909.935852436353,
+  "flatness": 0.039133623242378235,
+  "sub100_share": 0.22797761857509613,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7394808530807495,
+  "clean_share": 0.04640371229698376,
+  "minor_share": 0.11576848220596248,
+  "chord_rate": 1.9666369367054164,
+  "repetitiveness": 0.8169028162956238,
+  "vocal_share": 0.07396305352449417,
+  "vocal_voiced": 0.1889763779527559,
+  "song_length": 210.427
+ }
+}

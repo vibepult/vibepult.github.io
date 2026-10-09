@@ -1,0 +1,32 @@
+{
+ "id": "ajattara/1669935704-105",
+ "band": "ajattara",
+ "title": "Ägräs",
+ "source": "itunes",
+ "album": "Itse",
+ "year": 2001,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 2.338863162488484,
+  "tempo_var": 2.774144209284184,
+  "low_onset_rate": 2.7398111332007953,
+  "lufs": -8.598625508351097,
+  "rms_dbfs": -7.807571104340681,
+  "crest": 7.8075714111328125,
+  "centroid": 2566.2568658092177,
+  "flatness": 0.03209136426448822,
+  "sub100_share": 0.41234660148620605,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8070834279060364,
+  "clean_share": 0.015515903801396431,
+  "minor_share": 0.0735552691507595,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.7177537679672241,
+  "vocal_share": 0.13730159401893616,
+  "vocal_voiced": 0.12962962962962962,
+  "song_length": 256.893
+ }
+}

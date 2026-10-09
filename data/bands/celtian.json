@@ -1,0 +1,127 @@
+{
+ "slug": "celtian",
+ "name": "Celtian",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1348368091,
+  "deezer": 14217209,
+  "spotify": "0VpsiJTEi0fQsp0SEekO2K"
+ },
+ "metadata": {
+  "formed": 2017,
+  "split": null,
+  "country": "ES",
+  "status": "active",
+  "members": 6,
+  "past_members": 7,
+  "full_lengths": 4,
+  "genre": "Symphonic Folk Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 8399,
+  "themes": "Epic themes, Mythology, Celtic, Nature",
+  "release_year": 2020
+ },
+ "partial": false,
+ "clips": [
+  "celtian/1567042559-107",
+  "celtian/1465643833-105",
+  "celtian/1569819402-106",
+  "celtian/1733673780-107",
+  "celtian/1567042559-106",
+  "celtian/1465643833-104",
+  "celtian/1569819402-107",
+  "celtian/1733673780-106",
+  "celtian/1567042559-108",
+  "celtian/1465643833-106",
+  "celtian/1569819402-105",
+  "celtian/1733673780-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 135.99917763157896,
+   "iqr": 14.35546875
+  },
+  "onset_rate": {
+   "median": 4.644313994084275,
+   "iqr": 0.9009470615332402
+  },
+  "tempo_var": {
+   "median": 1.7235163983194677,
+   "iqr": 5.939081734949215
+  },
+  "low_onset_rate": {
+   "median": 5.033333333333333,
+   "iqr": 1.8460312818212676
+  },
+  "lufs": {
+   "median": -9.432279570901743,
+   "iqr": 2.226369327629927
+  },
+  "rms_dbfs": {
+   "median": -8.979741904952485,
+   "iqr": 2.42366888939498
+  },
+  "crest": {
+   "median": 8.97974157333374,
+   "iqr": 2.4236690998077393
+  },
+  "centroid": {
+   "median": 2504.795757476547,
+   "iqr": 331.69234153903244
+  },
+  "flatness": {
+   "median": 0.020059767179191113,
+   "iqr": 0.014138426398858428
+  },
+  "sub100_share": {
+   "median": 0.2581603229045868,
+   "iqr": 0.12428184598684311
+  },
+  "lowest_pitch": {
+   "median": 55.1788330078125,
+   "iqr": 14.8040771484375
+  },
+  "harmonic_share": {
+   "median": 0.8180579543113708,
+   "iqr": 0.05531217157840729
+  },
+  "clean_share": {
+   "median": 0.15461171811013408,
+   "iqr": 0.16252909231962762
+  },
+  "minor_share": {
+   "median": 0.0012818126141094233,
+   "iqr": 0.1242948162393358
+  },
+  "chord_rate": {
+   "median": 1.386611732046744,
+   "iqr": 0.3848540363509996
+  },
+  "repetitiveness": {
+   "median": 0.76114222407341,
+   "iqr": 0.08852264285087585
+  },
+  "vocal_share": {
+   "median": 0.23874957859516144,
+   "iqr": 0.17518768832087517
+  },
+  "vocal_voiced": {
+   "median": 0.8924592138156027,
+   "iqr": 0.060809046326010585
+  },
+  "song_length": {
+   "median": 236.6905,
+   "iqr": 58.927250000000015
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

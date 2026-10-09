@@ -1,0 +1,32 @@
+{
+ "id": "within-temptation/1574152744-106",
+ "band": "within-temptation",
+ "title": "Crazy",
+ "source": "itunes",
+ "album": "The Q - Music Sessions",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 1.466657797987616,
+  "tempo_var": 21.80557423522279,
+  "low_onset_rate": 1.2333258755804954,
+  "lufs": -18.871350840484695,
+  "rms_dbfs": -18.930351974673126,
+  "crest": 17.41968536376953,
+  "centroid": 1588.4008833385756,
+  "flatness": 0.011345253325998783,
+  "sub100_share": 0.0026008272543549538,
+  "lowest_pitch": 156.11572265625,
+  "harmonic_share": 0.9498462080955505,
+  "clean_share": 0.8507347254447022,
+  "minor_share": 0.06102248081224859,
+  "chord_rate": 0.8666614260835913,
+  "repetitiveness": 0.6400441527366638,
+  "vocal_share": 0.6349970102310181,
+  "vocal_voiced": 0.8845265588914549,
+  "song_length": 211.52
+ }
+}

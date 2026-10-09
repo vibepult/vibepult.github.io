@@ -1,0 +1,32 @@
+{
+ "id": "immortal/264863273-104",
+ "band": "immortal",
+ "title": "My Dimension",
+ "source": "itunes",
+ "album": "Damned In Black",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 6.816115502109295,
+  "tempo_var": 25.63614616724446,
+  "low_onset_rate": 7.751660767104689,
+  "lufs": -7.820995736107678,
+  "rms_dbfs": -7.1266593295496765,
+  "crest": 7.126659393310547,
+  "centroid": 3252.9326373097206,
+  "flatness": 0.06862619519233704,
+  "sub100_share": 0.5265353918075562,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7869598269462585,
+  "clean_share": 0.0,
+  "minor_share": 0.16791458398751594,
+  "chord_rate": 2.9068727876642586,
+  "repetitiveness": 0.9513200521469116,
+  "vocal_share": 0.018527578562498093,
+  "vocal_voiced": 0.10682492581602374,
+  "song_length": 272.04
+ }
+}

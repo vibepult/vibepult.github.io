@@ -1,0 +1,32 @@
+{
+ "id": "rainbow/1495411517-104",
+ "band": "rainbow",
+ "title": "Magic",
+ "source": "itunes",
+ "album": "Difficult to Cure",
+ "year": 1981,
+ "itunes_year": 1981,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.2666172846971326,
+  "tempo_var": 1.3044046530752942,
+  "low_onset_rate": 3.1999516258257623,
+  "lufs": -10.052023546698925,
+  "rms_dbfs": -10.473094111427608,
+  "crest": 10.47309398651123,
+  "centroid": 2670.719040219372,
+  "flatness": 0.03866218030452728,
+  "sub100_share": 0.09136132895946503,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.6830211877822876,
+  "clean_share": 0.010054137664346482,
+  "minor_share": 0.0887648942870114,
+  "chord_rate": 1.433311665734456,
+  "repetitiveness": 0.7524805068969727,
+  "vocal_share": 0.37923917174339294,
+  "vocal_voiced": 0.8184019370460048,
+  "song_length": 247.267
+ }
+}

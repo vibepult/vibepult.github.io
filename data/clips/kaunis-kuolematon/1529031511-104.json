@@ -1,0 +1,32 @@
+{
+ "id": "kaunis-kuolematon/1529031511-104",
+ "band": "kaunis-kuolematon",
+ "title": "Mustavalkoinen",
+ "source": "itunes",
+ "album": "Syttyköön Toinen Aurinko",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 73.828125,
+  "onset_rate": 3.23325512912764,
+  "tempo_var": 9.552757872621331,
+  "low_onset_rate": 4.599888740408395,
+  "lufs": -10.59596197823638,
+  "rms_dbfs": -9.584592760416378,
+  "crest": 9.584592819213867,
+  "centroid": 1751.1741679879326,
+  "flatness": 0.007268693298101425,
+  "sub100_share": 0.3885239362716675,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.8731999397277832,
+  "clean_share": 0.5243619489559165,
+  "minor_share": 0.07436555751586016,
+  "chord_rate": 1.1333059215498944,
+  "repetitiveness": 0.7848712801933289,
+  "vocal_share": 0.18723683059215546,
+  "vocal_voiced": 0.935064935064935,
+  "song_length": 359.4
+ }
+}

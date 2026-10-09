@@ -1,0 +1,32 @@
+{
+ "id": "amon-amarth/1073193481-106",
+ "band": "amon-amarth",
+ "title": "The Way of Vikings",
+ "source": "itunes",
+ "album": "Jomsviking",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 7.066559840365225,
+  "tempo_var": 7.074759916067835,
+  "low_onset_rate": 8.366540188356941,
+  "lufs": -8.315850233146733,
+  "rms_dbfs": -7.422817763951599,
+  "crest": 7.422818183898926,
+  "centroid": 2376.668943131419,
+  "flatness": 0.027839725837111473,
+  "sub100_share": 0.44305816292762756,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7616759538650513,
+  "clean_share": 0.0069605568445475635,
+  "minor_share": 0.07729113755298839,
+  "chord_rate": 1.6999743012199362,
+  "repetitiveness": 0.9287375211715698,
+  "vocal_share": 0.13917705416679382,
+  "vocal_voiced": 0.07796610169491526,
+  "song_length": 311.32
+ }
+}

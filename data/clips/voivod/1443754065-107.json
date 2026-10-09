@@ -1,0 +1,32 @@
+{
+ "id": "voivod/1443754065-107",
+ "band": "voivod",
+ "title": "Angel Rat",
+ "source": "itunes",
+ "album": "Angel Rat",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.641944067303496,
+  "tempo_var": 2.6970587183134436,
+  "low_onset_rate": 3.809005721766959,
+  "lufs": -16.080365946595517,
+  "rms_dbfs": -15.440613357678771,
+  "crest": 15.44061279296875,
+  "centroid": 2291.5440510362055,
+  "flatness": 0.018080588430166245,
+  "sub100_share": 0.16551630198955536,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.7726839184761047,
+  "clean_share": 0.19550038789759502,
+  "minor_share": 0.31398746703470454,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.7397077679634094,
+  "vocal_share": 0.20998221635818481,
+  "vocal_voiced": 0.9420889348500517,
+  "song_length": 227.773
+ }
+}

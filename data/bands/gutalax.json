@@ -1,0 +1,127 @@
+{
+ "slug": "gutalax",
+ "name": "Gutalax",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 438823706,
+  "deezer": 1346242,
+  "spotify": "5CmgfDQq0YVKMP6zpjYhPR"
+ },
+ "metadata": {
+  "formed": 2009,
+  "split": null,
+  "country": "CZ",
+  "status": "active",
+  "members": 4,
+  "past_members": 3,
+  "full_lengths": 3,
+  "genre": "Goregrind",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 6826,
+  "themes": "Feces, Sexual depravity, Parody",
+  "release_year": 2015
+ },
+ "partial": false,
+ "clips": [
+  "gutalax/1717500169-111",
+  "gutalax/1658782837-107",
+  "gutalax/1654887455-108",
+  "gutalax/1717500169-113",
+  "gutalax/1658782837-108",
+  "gutalax/1654887455-107",
+  "gutalax/1717500169-101",
+  "gutalax/1658782837-106",
+  "gutalax/1654887455-111",
+  "gutalax/1717500169-114",
+  "gutalax/1658782837-112",
+  "gutalax/1654887455-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 151.99908088235293,
+   "iqr": 22.799862132352928
+  },
+  "onset_rate": {
+   "median": 5.045261964796586,
+   "iqr": 1.461068533704859
+  },
+  "tempo_var": {
+   "median": 8.953845554002484,
+   "iqr": 9.333030504486654
+  },
+  "low_onset_rate": {
+   "median": 7.016589487465451,
+   "iqr": 2.483321098060162
+  },
+  "lufs": {
+   "median": -6.543549945828678,
+   "iqr": 0.6050436054194037
+  },
+  "rms_dbfs": {
+   "median": -5.643386577427705,
+   "iqr": 1.100346160469238
+  },
+  "crest": {
+   "median": 5.643386125564575,
+   "iqr": 1.1003457307815552
+  },
+  "centroid": {
+   "median": 2431.5052976703573,
+   "iqr": 202.24156716270363
+  },
+  "flatness": {
+   "median": 0.026275782845914364,
+   "iqr": 0.008449948858469725
+  },
+  "sub100_share": {
+   "median": 0.3896398991346359,
+   "iqr": 0.056210823357105255
+  },
+  "lowest_pitch": {
+   "median": 53.8330078125,
+   "iqr": 8.074951171875
+  },
+  "harmonic_share": {
+   "median": 0.7733893990516663,
+   "iqr": 0.07078646123409271
+  },
+  "clean_share": {
+   "median": 0.022110162916989914,
+   "iqr": 0.053250119849256934
+  },
+  "minor_share": {
+   "median": 0.03168351215376439,
+   "iqr": 0.15635615010085036
+  },
+  "chord_rate": {
+   "median": 2.269295700436336,
+   "iqr": 0.23931772042699206
+  },
+  "repetitiveness": {
+   "median": 0.9370265007019043,
+   "iqr": 0.01740342378616333
+  },
+  "vocal_share": {
+   "median": 0.09496001526713371,
+   "iqr": 0.03053293377161026
+  },
+  "vocal_voiced": {
+   "median": 0.35679046563192907,
+   "iqr": 0.22508749862964852
+  },
+  "song_length": {
+   "median": 145.9065,
+   "iqr": 39.14500000000004
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.8,
+  "camp": 0.9
+ },
+ "sources_failed": []
+}

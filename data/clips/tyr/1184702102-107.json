@@ -1,0 +1,32 @@
+{
+ "id": "tyr/1184702102-107",
+ "band": "tyr",
+ "title": "Rainbow Warrior",
+ "source": "itunes",
+ "album": "Eric the Red",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 1.5333333333333334,
+  "tempo_var": 3.8646853368477228,
+  "low_onset_rate": 3.0,
+  "lufs": -8.254105945110865,
+  "rms_dbfs": -7.774210723637404,
+  "crest": 7.7742109298706055,
+  "centroid": 2561.6156412056876,
+  "flatness": 0.026649698615074158,
+  "sub100_share": 0.31440916657447815,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.8636450171470642,
+  "clean_share": 0.048761609907120744,
+  "minor_share": 0.23347086811767537,
+  "chord_rate": 2.3333333333333335,
+  "repetitiveness": 0.7484576106071472,
+  "vocal_share": 0.15281730890274048,
+  "vocal_voiced": 0.8151709401709402,
+  "song_length": 328.947
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "myrkur/992506564-106",
+ "band": "myrkur",
+ "title": "Nordlys",
+ "source": "itunes",
+ "album": "M",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 0.9021329341027009,
+  "tempo_var": 21.85357980109143,
+  "low_onset_rate": 5.245735950152742,
+  "lufs": -21.778372059795814,
+  "rms_dbfs": -22.35244578144401,
+  "crest": 16.74390983581543,
+  "centroid": 1408.0852951961474,
+  "flatness": 0.0020789687987416983,
+  "sub100_share": 0.023471776396036148,
+  "lowest_pitch": 131.890869140625,
+  "harmonic_share": 0.9687808156013489,
+  "clean_share": 0.9363847944142746,
+  "minor_share": 0.1129378252124652,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.7172672748565674,
+  "vocal_share": 0.5406519770622253,
+  "vocal_voiced": 0.9096638655462185,
+  "song_length": 135.467
+ }
+}

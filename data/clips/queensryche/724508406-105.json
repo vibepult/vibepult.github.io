@@ -1,0 +1,32 @@
+{
+ "id": "queensryche/724508406-105",
+ "band": "queensryche",
+ "title": "N M 156",
+ "source": "itunes",
+ "album": "The Warning",
+ "year": 1984,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 6.214693546040828,
+  "tempo_var": 9.74946565116765,
+  "low_onset_rate": 7.250475803714299,
+  "lufs": -18.28437983792162,
+  "rms_dbfs": -18.349755548876303,
+  "crest": 16.537410736083984,
+  "centroid": 2307.2437141079868,
+  "flatness": 0.025153113529086113,
+  "sub100_share": 0.10557951778173447,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.677889347076416,
+  "clean_share": 0.16912335143522111,
+  "minor_share": -0.19576045349818194,
+  "chord_rate": 1.336493235707705,
+  "repetitiveness": 0.7759711742401123,
+  "vocal_share": 0.40504705905914307,
+  "vocal_voiced": 0.6147342995169082,
+  "song_length": 278.6
+ }
+}

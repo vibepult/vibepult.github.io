@@ -1,0 +1,32 @@
+{
+ "id": "entoria/1450504614-110",
+ "band": "entoria",
+ "title": "Aura",
+ "source": "itunes",
+ "album": "Aschheim",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.374645420161955,
+  "tempo_var": 9.893322782913168,
+  "low_onset_rate": 3.4080577510546477,
+  "lufs": -22.794979786278635,
+  "rms_dbfs": -21.88070107645342,
+  "crest": 13.676454544067383,
+  "centroid": 1246.8350559452433,
+  "flatness": 0.0006654002936556935,
+  "sub100_share": 0.050608523190021515,
+  "lowest_pitch": 145.34912109375,
+  "harmonic_share": 0.993513286113739,
+  "clean_share": 0.9945694336695112,
+  "minor_share": -0.07044172303917307,
+  "chord_rate": 0.534597294283082,
+  "repetitiveness": 0.49062982201576233,
+  "vocal_share": 4.300569344195537e-05,
+  "vocal_voiced": 0.0,
+  "song_length": 145.046
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "spiritual-beggars",
+ "name": "Spiritual Beggars",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 3200585,
+  "deezer": 5737,
+  "spotify": "40LGuAmXtqxMGraUmCSU27"
+ },
+ "metadata": {
+  "formed": 1992,
+  "split": null,
+  "country": "SE",
+  "status": "active",
+  "members": 5,
+  "past_members": 3,
+  "full_lengths": 9,
+  "genre": "Stoner Metal/Hard Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 6178,
+  "themes": "Spirituality, Psychedelic experiences, Mind struggles",
+  "release_year": 1997
+ },
+ "partial": false,
+ "clips": [
+  "spiritual-beggars/254251425-105",
+  "spiritual-beggars/1753718392-103",
+  "spiritual-beggars/963805615-104",
+  "spiritual-beggars/963657715-108",
+  "spiritual-beggars/963146026-107",
+  "spiritual-beggars/963660048-106",
+  "spiritual-beggars/1737781535-107",
+  "spiritual-beggars/1045595412-107",
+  "spiritual-beggars/1045518495-106",
+  "spiritual-beggars/254251425-106",
+  "spiritual-beggars/1753718392-119",
+  "spiritual-beggars/963805615-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 118.4326171875,
+   "iqr": 27.75390625
+  },
+  "onset_rate": {
+   "median": 3.6920625636425353,
+   "iqr": 0.7173514706160451
+  },
+  "tempo_var": {
+   "median": 12.565087965145931,
+   "iqr": 12.457569283358627
+  },
+  "low_onset_rate": {
+   "median": 4.945024972118508,
+   "iqr": 2.2900474243005684
+  },
+  "lufs": {
+   "median": -9.579158495483046,
+   "iqr": 2.6512582000072484
+  },
+  "rms_dbfs": {
+   "median": -9.120643578818504,
+   "iqr": 2.301861552664233
+  },
+  "crest": {
+   "median": 9.120643615722656,
+   "iqr": 2.301861524581909
+  },
+  "centroid": {
+   "median": 2336.5481299628236,
+   "iqr": 240.44513825090007
+  },
+  "flatness": {
+   "median": 0.02629401534795761,
+   "iqr": 0.008773351088166237
+  },
+  "sub100_share": {
+   "median": 0.19992174208164215,
+   "iqr": 0.1817203387618065
+  },
+  "lowest_pitch": {
+   "median": 95.5535888671875,
+   "iqr": 45.758056640625
+  },
+  "harmonic_share": {
+   "median": 0.7575103640556335,
+   "iqr": 0.14418351650238037
+  },
+  "clean_share": {
+   "median": 0.042611135810957976,
+   "iqr": 0.07487683576361825
+  },
+  "minor_share": {
+   "median": 0.009389723297991426,
+   "iqr": 0.18439723380973727
+  },
+  "chord_rate": {
+   "median": 1.8333056189626764,
+   "iqr": 0.5561982290727707
+  },
+  "repetitiveness": {
+   "median": 0.8220446109771729,
+   "iqr": 0.08664967119693756
+  },
+  "vocal_share": {
+   "median": 0.13129574060440063,
+   "iqr": 0.05278101935982704
+  },
+  "vocal_voiced": {
+   "median": 0.4294642857142857,
+   "iqr": 0.42126866096688476
+  },
+  "song_length": {
+   "median": 248.833,
+   "iqr": 114.68675000000002
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

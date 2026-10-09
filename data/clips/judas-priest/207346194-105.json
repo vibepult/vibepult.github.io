@@ -1,0 +1,32 @@
+{
+ "id": "judas-priest/207346194-105",
+ "band": "judas-priest",
+ "title": "United",
+ "source": "itunes",
+ "album": "British Steel (Bonus Track Version)",
+ "year": 1980,
+ "itunes_year": 1980,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 3.06472544223689,
+  "tempo_var": 32.24590576157631,
+  "low_onset_rate": 4.830273794829881,
+  "lufs": -10.107533616413766,
+  "rms_dbfs": -10.778299755018473,
+  "crest": 10.778299331665039,
+  "centroid": 2544.929390135187,
+  "flatness": 0.0357031486928463,
+  "sub100_share": 0.07660835981369019,
+  "lowest_pitch": 123.81591796875,
+  "harmonic_share": 0.7340162396430969,
+  "clean_share": 0.058004640371229696,
+  "minor_share": -0.25419062044004825,
+  "chord_rate": 1.7988605856607833,
+  "repetitiveness": 0.7784806489944458,
+  "vocal_share": 0.4818324148654938,
+  "vocal_voiced": 0.6891522333637192,
+  "song_length": 215.267
+ }
+}

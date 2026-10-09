@@ -1,0 +1,32 @@
+{
+ "id": "archspire/1244257785-103",
+ "band": "archspire",
+ "title": "Remote Tumour Seeker",
+ "source": "itunes",
+ "album": "Relentless Mutation",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 2.8333333333333335,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 3.8333333333333335,
+  "lufs": -7.720537856604739,
+  "rms_dbfs": -7.175534624730214,
+  "crest": 7.175534248352051,
+  "centroid": 2676.9158585128084,
+  "flatness": 0.0471944734454155,
+  "sub100_share": 0.3166796863079071,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.706220269203186,
+  "clean_share": 0.016253869969040248,
+  "minor_share": -0.026596034573267313,
+  "chord_rate": 2.6666666666666665,
+  "repetitiveness": 0.9219224452972412,
+  "vocal_share": 0.19101198017597198,
+  "vocal_voiced": 0.024057738572574178,
+  "song_length": 241.013
+ }
+}

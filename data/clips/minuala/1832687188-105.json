@@ -1,0 +1,32 @@
+{
+ "id": "minuala/1832687188-105",
+ "band": "minuala",
+ "title": "Маа",
+ "source": "itunes",
+ "album": "Край тысячи озёр",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.4999470907469274,
+  "tempo_var": 19.264198619953685,
+  "low_onset_rate": 6.2332391044731,
+  "lufs": -6.42646443308444,
+  "rms_dbfs": -5.4021649668956595,
+  "crest": 5.402164936065674,
+  "centroid": 2413.721345809094,
+  "flatness": 0.027631303295493126,
+  "sub100_share": 0.377345472574234,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8122159838676453,
+  "clean_share": 0.06651198762567673,
+  "minor_share": -0.08818261586226361,
+  "chord_rate": 1.1333162008132909,
+  "repetitiveness": 0.7530219554901123,
+  "vocal_share": 0.12658089399337769,
+  "vocal_voiced": 0.78125,
+  "song_length": 225.938
+ }
+}

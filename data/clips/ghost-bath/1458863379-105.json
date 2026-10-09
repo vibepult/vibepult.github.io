@@ -1,0 +1,32 @@
+{
+ "id": "ghost-bath/1458863379-105",
+ "band": "ghost-bath",
+ "title": "Dead",
+ "source": "itunes",
+ "album": "Funeral",
+ "year": 2014,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 1.1360192503515492,
+  "tempo_var": 40.55349006450094,
+  "low_onset_rate": 2.1718015080250206,
+  "lufs": -12.789367258241795,
+  "rms_dbfs": -12.785589431575872,
+  "crest": 12.785589218139648,
+  "centroid": 651.6006517707298,
+  "flatness": 0.06287311017513275,
+  "sub100_share": 0.0008707443485036492,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.9870591759681702,
+  "clean_share": 0.8921644685802949,
+  "minor_share": 0.06247307045930883,
+  "chord_rate": 0.6348342869611598,
+  "repetitiveness": 0.6215457320213318,
+  "vocal_share": 1.2040122783218976e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 516.053
+ }
+}

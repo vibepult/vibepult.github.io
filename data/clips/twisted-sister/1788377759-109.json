@@ -1,0 +1,32 @@
+{
+ "id": "twisted-sister/1788377759-109",
+ "band": "twisted-sister",
+ "title": "S.M.F.",
+ "source": "itunes",
+ "album": "Still Hungry",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 2.266652960526316,
+  "tempo_var": 26.768956161733108,
+  "low_onset_rate": 2.1666535652089784,
+  "lufs": -9.383948078540561,
+  "rms_dbfs": -8.891307694168733,
+  "crest": 8.891307830810547,
+  "centroid": 2597.7604605177407,
+  "flatness": 0.03193574771285057,
+  "sub100_share": 0.28786739706993103,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8269931674003601,
+  "clean_share": 0.2668213457076566,
+  "minor_share": -0.2797017201164905,
+  "chord_rate": 1.1666596120356036,
+  "repetitiveness": 0.7112088203430176,
+  "vocal_share": 4.0413777924186434e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 208.173
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "carcass/63616135-112",
+ "band": "carcass",
+ "title": "Foeticide",
+ "source": "itunes",
+ "album": "Reek of Putrefaction",
+ "year": 1988,
+ "itunes_year": 1988,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 6.214693546040828,
+  "tempo_var": 11.962714776861496,
+  "low_onset_rate": 6.11445655336275,
+  "lufs": -10.009418057911507,
+  "rms_dbfs": -8.853862364303541,
+  "crest": 8.853862762451172,
+  "centroid": 2084.8556047807956,
+  "flatness": 0.00993526354432106,
+  "sub100_share": 0.32473692297935486,
+  "lowest_pitch": 26.91650390625,
+  "harmonic_share": 0.8020051121711731,
+  "clean_share": 0.3894491854150504,
+  "minor_share": 0.026787568353987767,
+  "chord_rate": 2.5393371478446394,
+  "repetitiveness": 0.9569545388221741,
+  "vocal_share": 0.09966529160737991,
+  "vocal_voiced": 0.15309842041312272,
+  "song_length": 166.333
+ }
+}

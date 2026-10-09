@@ -1,0 +1,127 @@
+{
+ "slug": "empyrium",
+ "name": "Empyrium",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 78416944,
+  "deezer": 10445,
+  "spotify": "4zDkgQanNydhYIqQwQK9Ct"
+ },
+ "metadata": {
+  "formed": 1994,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 2,
+  "past_members": 2,
+  "full_lengths": 6,
+  "genre": "Symphonic Folk/Doom Metal, Neofolk",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 9610,
+  "themes": "Nature, Darkness, Sadness, Sorrow, Romance",
+  "release_year": 2000
+ },
+ "partial": false,
+ "clips": [
+  "empyrium/1556131556-103",
+  "empyrium/1556132109-104",
+  "empyrium/1556132381-104",
+  "empyrium/1556129540-104",
+  "empyrium/1556081202-104",
+  "empyrium/1542693960-104",
+  "empyrium/1556131556-104",
+  "empyrium/1556132109-103",
+  "empyrium/1556132381-105",
+  "empyrium/1556129540-107",
+  "empyrium/1556081202-103",
+  "empyrium/1542693960-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 99.38401442307692,
+   "iqr": 32.2998046875
+  },
+  "onset_rate": {
+   "median": 2.906872787664258,
+   "iqr": 1.1527254157978954
+  },
+  "tempo_var": {
+   "median": 11.664468373529001,
+   "iqr": 14.968891099684203
+  },
+  "low_onset_rate": {
+   "median": 2.9736974494496433,
+   "iqr": 1.1777846639674148
+  },
+  "lufs": {
+   "median": -12.980444771964056,
+   "iqr": 3.3643009054175526
+  },
+  "rms_dbfs": {
+   "median": -12.182063551648394,
+   "iqr": 3.2608534033021694
+  },
+  "crest": {
+   "median": 12.182063579559326,
+   "iqr": 3.2342963218688965
+  },
+  "centroid": {
+   "median": 1696.4212216710712,
+   "iqr": 982.8537213081403
+  },
+  "flatness": {
+   "median": 0.0062666472513228655,
+   "iqr": 0.010515890593524091
+  },
+  "sub100_share": {
+   "median": 0.1486690640449524,
+   "iqr": 0.15399797447025776
+  },
+  "lowest_pitch": {
+   "median": 83.441162109375,
+   "iqr": 45.758056640625
+  },
+  "harmonic_share": {
+   "median": 0.8951617181301117,
+   "iqr": 0.1108749508857727
+  },
+  "clean_share": {
+   "median": 0.6516679596586501,
+   "iqr": 0.4224204809930179
+  },
+  "minor_share": {
+   "median": 0.06789665310926696,
+   "iqr": 0.2381628686484061
+  },
+  "chord_rate": {
+   "median": 0.7851897759782767,
+   "iqr": 0.7350712796392378
+  },
+  "repetitiveness": {
+   "median": 0.6742981970310211,
+   "iqr": 0.07081142067909241
+  },
+  "vocal_share": {
+   "median": 0.22467632591724396,
+   "iqr": 0.1438693106174469
+  },
+  "vocal_voiced": {
+   "median": 0.8719346049046321,
+   "iqr": 0.05796727734354179
+  },
+  "song_length": {
+   "median": 426.14,
+   "iqr": 245.77324999999996
+  },
+  "vocal_presence": {
+   "median": 0.5833333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "adrenaline-mob/1045370901-105",
+ "band": "adrenaline-mob",
+ "title": "Let It Go",
+ "source": "itunes",
+ "album": "Men of Honor",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 6.014219560684673,
+  "tempo_var": 13.22205663452718,
+  "low_onset_rate": 6.515404524075062,
+  "lufs": -6.131073466303973,
+  "rms_dbfs": -5.973024674717844,
+  "crest": 5.973024368286133,
+  "centroid": 2712.1417046331458,
+  "flatness": 0.05205724015831947,
+  "sub100_share": 0.28697651624679565,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.650576114654541,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.02011881570077162,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.9221629500389099,
+  "vocal_share": 0.2884097099304199,
+  "vocal_voiced": 0.4601420678768745,
+  "song_length": 234.747
+ }
+}

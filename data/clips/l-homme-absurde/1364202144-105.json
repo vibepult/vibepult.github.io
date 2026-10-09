@@ -1,0 +1,32 @@
+{
+ "id": "l-homme-absurde/1364202144-105",
+ "band": "l-homme-absurde",
+ "title": "Nausea",
+ "source": "itunes",
+ "album": "Sleepless",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.279148281045435,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 6.147868884255443,
+  "lufs": -7.647706087204999,
+  "rms_dbfs": -7.1356496235764935,
+  "crest": 7.13564920425415,
+  "centroid": 2257.767782656515,
+  "flatness": 0.02492513693869114,
+  "sub100_share": 0.33824318647384644,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.745596170425415,
+  "clean_share": 0.02094647013188518,
+  "minor_share": 0.06386539071958885,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.7959917783737183,
+  "vocal_share": 0.22415132820606232,
+  "vocal_voiced": 0.26766091051805335,
+  "song_length": 340.513
+ }
+}

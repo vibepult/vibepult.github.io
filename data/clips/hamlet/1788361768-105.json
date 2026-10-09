@@ -1,0 +1,32 @@
+{
+ "id": "hamlet/1788361768-105",
+ "band": "hamlet",
+ "title": "Trauma",
+ "source": "itunes",
+ "album": "Inmortal",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.2,
+  "tempo_var": 13.44027982471021,
+  "low_onset_rate": 4.8,
+  "lufs": -5.786760193001764,
+  "rms_dbfs": -5.820089724947103,
+  "crest": 5.820089340209961,
+  "centroid": 2661.9388901447473,
+  "flatness": 0.053255584090948105,
+  "sub100_share": 0.23841817677021027,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.5832765698432922,
+  "clean_share": 0.0007739938080495357,
+  "minor_share": 0.05195455029694862,
+  "chord_rate": 2.6333333333333333,
+  "repetitiveness": 0.9428789615631104,
+  "vocal_share": 0.23018036782741547,
+  "vocal_voiced": 0.11280214861235452,
+  "song_length": 185.44
+ }
+}

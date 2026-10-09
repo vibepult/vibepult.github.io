@@ -1,0 +1,127 @@
+{
+ "slug": "cult-of-luna",
+ "name": "Cult of Luna",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 42407392,
+  "deezer": 7273,
+  "spotify": "7E7fJJpdVgr1F3pfAfRtHe"
+ },
+ "metadata": {
+  "formed": 1999,
+  "split": null,
+  "country": "SE",
+  "status": "active",
+  "members": 6,
+  "past_members": 6,
+  "full_lengths": 9,
+  "genre": "Atmospheric Sludge/Post-Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 28941,
+  "themes": "Inner struggles, Despair, Existentialism",
+  "release_year": 2007
+ },
+ "partial": false,
+ "clips": [
+  "cult-of-luna/49241601-106",
+  "cult-of-luna/61220812-104",
+  "cult-of-luna/257880065-104",
+  "cult-of-luna/280763204-105",
+  "cult-of-luna/1716088402-104",
+  "cult-of-luna/1472437655-104",
+  "cult-of-luna/1591467871-105",
+  "cult-of-luna/49241601-105",
+  "cult-of-luna/61220812-105",
+  "cult-of-luna/257880065-103",
+  "cult-of-luna/280763204-106",
+  "cult-of-luna/1716088402-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.69701086956522,
+   "iqr": 11.870011039402172
+  },
+  "onset_rate": {
+   "median": 2.940285118556951,
+   "iqr": 1.704028875527324
+  },
+  "tempo_var": {
+   "median": 2.3000553667955748,
+   "iqr": 6.46025318032699
+  },
+  "low_onset_rate": {
+   "median": 5.13917859164256,
+   "iqr": 3.1741714348058
+  },
+  "lufs": {
+   "median": -12.50501814561546,
+   "iqr": 5.853671519636174
+  },
+  "rms_dbfs": {
+   "median": -11.485491826194071,
+   "iqr": 5.261539683263525
+  },
+  "crest": {
+   "median": 11.485491752624512,
+   "iqr": 5.235088229179382
+  },
+  "centroid": {
+   "median": 1656.0965850446337,
+   "iqr": 701.1301969594815
+  },
+  "flatness": {
+   "median": 0.005317869130522013,
+   "iqr": 0.009619920223485678
+  },
+  "sub100_share": {
+   "median": 0.3935806453227997,
+   "iqr": 0.3231961354613304
+  },
+  "lowest_pitch": {
+   "median": 61.907958984375,
+   "iqr": 20.86029052734375
+  },
+  "harmonic_share": {
+   "median": 0.9037322700023651,
+   "iqr": 0.053975820541381836
+  },
+  "clean_share": {
+   "median": 0.6485647788983708,
+   "iqr": 0.4473158266418747
+  },
+  "minor_share": {
+   "median": 0.008182844669417877,
+   "iqr": 0.13017300620599173
+  },
+  "chord_rate": {
+   "median": 1.1527254157978954,
+   "iqr": 0.3681517761114277
+  },
+  "repetitiveness": {
+   "median": 0.7178037166595459,
+   "iqr": 0.15315838158130646
+  },
+  "vocal_share": {
+   "median": 0.05647291988134384,
+   "iqr": 0.026943247765302658
+  },
+  "vocal_voiced": {
+   "median": 0.24627720504009165,
+   "iqr": 0.26160967054080214
+  },
+  "song_length": {
+   "median": 431.5135,
+   "iqr": 128.2935
+  },
+  "vocal_presence": {
+   "median": 0.4166666666666667,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

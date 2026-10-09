@@ -1,0 +1,32 @@
+{
+ "id": "heathen/1601044778-106",
+ "band": "heathen",
+ "title": "Fade Away (Remastered 2020)",
+ "source": "itunes",
+ "album": "The Evolution of Chaos (10th Anniversary Edition)",
+ "year": 2010,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.174171434805799,
+  "tempo_var": 2.4693488462353583,
+  "low_onset_rate": 1.0023699267807789,
+  "lufs": -12.202666323342457,
+  "rms_dbfs": -11.054246503892974,
+  "crest": 11.05424690246582,
+  "centroid": 2848.508290720624,
+  "flatness": 0.03718036413192749,
+  "sub100_share": 0.5872017741203308,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8529849648475647,
+  "clean_share": 0.012412723041117145,
+  "minor_share": -0.007949696342813062,
+  "chord_rate": 1.4367302283857828,
+  "repetitiveness": 0.9632027745246887,
+  "vocal_share": 3.5850192148245696e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 344.853
+ }
+}

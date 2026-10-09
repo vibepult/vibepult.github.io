@@ -1,0 +1,32 @@
+{
+ "id": "sirenia/1545836180-105",
+ "band": "sirenia",
+ "title": "Absent Without Leave",
+ "source": "itunes",
+ "album": "Nine Destinies and a Downfall",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.544077001406197,
+  "tempo_var": 31.546762390108917,
+  "low_onset_rate": 4.544077001406197,
+  "lufs": -7.457445774382372,
+  "rms_dbfs": -7.551738096646293,
+  "crest": 7.551738739013672,
+  "centroid": 2498.036625862008,
+  "flatness": 0.0326276458799839,
+  "sub100_share": 0.28247153759002686,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.761301577091217,
+  "clean_share": 0.08766485647788984,
+  "minor_share": 0.06980446507980231,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.781305730342865,
+  "vocal_share": 0.25994613766670227,
+  "vocal_voiced": 0.7703464947622884,
+  "song_length": 293.878
+ }
+}

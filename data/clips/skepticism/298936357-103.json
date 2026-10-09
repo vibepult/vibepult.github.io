@@ -1,0 +1,32 @@
+{
+ "id": "skepticism/298936357-103",
+ "band": "skepticism",
+ "title": "Antimony",
+ "source": "itunes",
+ "album": "Alloy",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 56.17357336956522,
+  "onset_rate": 1.169431581244242,
+  "tempo_var": 6.938440082197583,
+  "low_onset_rate": 8.386495054065849,
+  "lufs": -11.508831325930128,
+  "rms_dbfs": -9.713206114560027,
+  "crest": 9.71320629119873,
+  "centroid": 1893.2356153419887,
+  "flatness": 0.006584026850759983,
+  "sub100_share": 0.6178833842277527,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.9025856256484985,
+  "clean_share": 0.5221101629169899,
+  "minor_share": 0.206193167026945,
+  "chord_rate": 1.4367302283857828,
+  "repetitiveness": 0.6403395533561707,
+  "vocal_share": 0.046111322939395905,
+  "vocal_voiced": 0.6634980988593155,
+  "song_length": 526.493
+ }
+}

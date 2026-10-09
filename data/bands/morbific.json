@@ -1,0 +1,127 @@
+{
+ "slug": "morbific",
+ "name": "Morbific",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1583767462,
+  "deezer": 142150812,
+  "spotify": "1FDLD6VBeFtH2VLz2tUWux"
+ },
+ "metadata": {
+  "formed": 2020,
+  "split": null,
+  "country": "FI",
+  "status": "active",
+  "members": 3,
+  "past_members": 0,
+  "full_lengths": 3,
+  "genre": "Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 201,
+  "themes": "Horror, Torture, Death",
+  "release_year": 2022
+ },
+ "partial": false,
+ "clips": [
+  "morbific/1583776698-105",
+  "morbific/1643977580-105",
+  "morbific/1796827921-105",
+  "morbific/1583776698-106",
+  "morbific/1643977580-106",
+  "morbific/1796827921-107",
+  "morbific/1583776698-104",
+  "morbific/1643977580-104",
+  "morbific/1796827921-104",
+  "morbific/1583776698-107",
+  "morbific/1643977580-107",
+  "morbific/1796827921-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 135.99917763157896,
+   "iqr": 30.658905518883685
+  },
+  "onset_rate": {
+   "median": 4.705613304607631,
+   "iqr": 1.262760963052159
+  },
+  "tempo_var": {
+   "median": 9.325769141040668,
+   "iqr": 5.070480366265382
+  },
+  "low_onset_rate": {
+   "median": 7.434243623624109,
+   "iqr": 2.2339464433217087
+  },
+  "lufs": {
+   "median": -10.098740126708346,
+   "iqr": 3.044154691613368
+  },
+  "rms_dbfs": {
+   "median": -8.450985874367909,
+   "iqr": 2.9864743182309024
+  },
+  "crest": {
+   "median": 8.4509859085083,
+   "iqr": 2.9864742755889893
+  },
+  "centroid": {
+   "median": 2129.949326299771,
+   "iqr": 221.1211402266208
+  },
+  "flatness": {
+   "median": 0.012581728398799896,
+   "iqr": 0.0044418093748390675
+  },
+  "sub100_share": {
+   "median": 0.6284503936767578,
+   "iqr": 0.033099010586738586
+  },
+  "lowest_pitch": {
+   "median": 45.758056640625,
+   "iqr": 21.533203125
+  },
+  "harmonic_share": {
+   "median": 0.9169857203960419,
+   "iqr": 0.05653776228427887
+  },
+  "clean_share": {
+   "median": 0.18619084561675717,
+   "iqr": 0.20748336360314568
+  },
+  "minor_share": {
+   "median": 0.02463256042309353,
+   "iqr": 0.12302318634743256
+  },
+  "chord_rate": {
+   "median": 2.603101003535232,
+   "iqr": 0.6080657574659769
+  },
+  "repetitiveness": {
+   "median": 0.8677825927734375,
+   "iqr": 0.06838493049144745
+  },
+  "vocal_share": {
+   "median": 0.04448186233639717,
+   "iqr": 0.01531603280454874
+  },
+  "vocal_voiced": {
+   "median": 0.43243243243243246,
+   "iqr": 0.1029367130142324
+  },
+  "song_length": {
+   "median": 204.15,
+   "iqr": 67.28425000000001
+  },
+  "vocal_presence": {
+   "median": 0.25,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

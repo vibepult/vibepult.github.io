@@ -1,0 +1,32 @@
+{
+ "id": "tarot/990552174-106",
+ "band": "tarot",
+ "title": "No Return",
+ "source": "itunes",
+ "album": "Follow Me Into Madness",
+ "year": 1988,
+ "itunes_year": 1988,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.5106646705135045,
+  "tempo_var": 26.30636054247054,
+  "low_onset_rate": 7.250475803714299,
+  "lufs": -9.25801729347376,
+  "rms_dbfs": -9.22709010385043,
+  "crest": 9.227089881896973,
+  "centroid": 2825.2543841265033,
+  "flatness": 0.048634689301252365,
+  "sub100_share": 0.2652219235897064,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7419455647468567,
+  "clean_share": 0.0069821567106283944,
+  "minor_share": 0.051951407361789936,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.8189202547073364,
+  "vocal_share": 0.1812332570552826,
+  "vocal_voiced": 0.5959475566150179,
+  "song_length": 272.4
+ }
+}

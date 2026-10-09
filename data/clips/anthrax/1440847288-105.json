@@ -1,0 +1,32 @@
+{
+ "id": "anthrax/1440847288-105",
+ "band": "anthrax",
+ "title": "The Enemy",
+ "source": "itunes",
+ "album": "Spreading the Disease",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 4.5332648032531635,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.69989871657269,
+  "lufs": -16.180504435679254,
+  "rms_dbfs": -16.540186844264817,
+  "crest": 15.466558456420898,
+  "centroid": 2926.2450846295483,
+  "flatness": 0.04177230969071388,
+  "sub100_share": 0.12391643226146698,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.8486443161964417,
+  "clean_share": 0.002320185614849188,
+  "minor_share": 0.08456061876892118,
+  "chord_rate": 1.8999712778340465,
+  "repetitiveness": 0.8873642086982727,
+  "vocal_share": 1.0779267540783621e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 325.267
+ }
+}

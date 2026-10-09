@@ -1,0 +1,32 @@
+{
+ "id": "celtian/1733673780-107",
+ "band": "celtian",
+ "title": "Camino en la Tempestad",
+ "source": "itunes",
+ "album": "Secretos de Amor y Muerte",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.566666666666666,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.5,
+  "lufs": -9.381738386563672,
+  "rms_dbfs": -9.022192344385138,
+  "crest": 9.022192001342773,
+  "centroid": 2270.8949359631,
+  "flatness": 0.015148725360631943,
+  "sub100_share": 0.35548511147499084,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8580116629600525,
+  "clean_share": 0.1369969040247678,
+  "minor_share": -0.019648440479393403,
+  "chord_rate": 1.0333333333333334,
+  "repetitiveness": 0.743046224117279,
+  "vocal_share": 0.007717579137533903,
+  "vocal_voiced": 0.7524752475247525,
+  "song_length": 295.56
+ }
+}

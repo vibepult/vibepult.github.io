@@ -1,0 +1,32 @@
+{
+ "id": "six-feet-under/57647957-106",
+ "band": "six-feet-under",
+ "title": "Stepping Stone",
+ "source": "itunes",
+ "album": "Graveyard Classics",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.71113865586966,
+  "tempo_var": 18.11342130145619,
+  "low_onset_rate": 5.145498957474664,
+  "lufs": -8.995428663123427,
+  "rms_dbfs": -8.9669623260164,
+  "crest": 8.966961860656738,
+  "centroid": 2632.325857649223,
+  "flatness": 0.03395037353038788,
+  "sub100_share": 0.2402127981185913,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.601284921169281,
+  "clean_share": 0.011636927851047323,
+  "minor_share": -0.19833492558886023,
+  "chord_rate": 2.472512486059254,
+  "repetitiveness": 0.8657669425010681,
+  "vocal_share": 0.22361226379871368,
+  "vocal_voiced": 0.004024144869215292,
+  "song_length": 159.96
+ }
+}

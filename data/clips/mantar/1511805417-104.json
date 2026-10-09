@@ -1,0 +1,32 @@
+{
+ "id": "mantar/1511805417-104",
+ "band": "mantar",
+ "title": "Ghost Highway",
+ "source": "itunes",
+ "album": "Grungetown Hooligans II",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.1407591039131066,
+  "tempo_var": 7.19819894507144,
+  "low_onset_rate": 4.109716699801193,
+  "lufs": -8.990949549001767,
+  "rms_dbfs": -8.055097018120716,
+  "crest": 8.055096626281738,
+  "centroid": 2329.9731847111125,
+  "flatness": 0.027703415602445602,
+  "sub100_share": 0.36743560433387756,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7283904552459717,
+  "clean_share": 0.22032583397982933,
+  "minor_share": -0.06912073361745041,
+  "chord_rate": 2.3054508315957913,
+  "repetitiveness": 0.8967611789703369,
+  "vocal_share": 0.0574713870882988,
+  "vocal_voiced": 0.2614742698191933,
+  "song_length": 215.552
+ }
+}

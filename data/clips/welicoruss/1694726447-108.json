@@ -1,0 +1,32 @@
+{
+ "id": "welicoruss/1694726447-108",
+ "band": "welicoruss",
+ "title": "The Prophecy",
+ "source": "itunes",
+ "album": "Siberian Heathen Horde",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.599898414541233,
+  "tempo_var": 2.6110830713828355,
+  "low_onset_rate": 6.6998784602546895,
+  "lufs": -7.167027285996231,
+  "rms_dbfs": -7.182161993795296,
+  "crest": 7.182162284851074,
+  "centroid": 2401.4102879213087,
+  "flatness": 0.029534678906202316,
+  "sub100_share": 0.2135964035987854,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7837039232254028,
+  "clean_share": 0.0015467904098994587,
+  "minor_share": 0.24821287320178897,
+  "chord_rate": 1.3999746036353082,
+  "repetitiveness": 0.8451024889945984,
+  "vocal_share": 0.23425212502479553,
+  "vocal_voiced": 0.5541299117882919,
+  "song_length": 295.667
+ }
+}

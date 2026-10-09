@@ -1,0 +1,32 @@
+{
+ "id": "prong/425617094-108",
+ "band": "prong",
+ "title": "Siriusly Emerging",
+ "source": "itunes",
+ "album": "Scorpio Rising",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 71.77734375,
+  "onset_rate": 5.513034597294284,
+  "tempo_var": 9.257701792852316,
+  "low_onset_rate": 5.112086626581972,
+  "lufs": -7.472798533336541,
+  "rms_dbfs": -7.424787451067938,
+  "crest": 7.424787998199463,
+  "centroid": 2625.700294539422,
+  "flatness": 0.03791479021310806,
+  "sub100_share": 0.2604181468486786,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.6349772810935974,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.18001055296226337,
+  "chord_rate": 2.205213838917713,
+  "repetitiveness": 0.9578258991241455,
+  "vocal_share": 0.1225723922252655,
+  "vocal_voiced": 0.3044806517311609,
+  "song_length": 221.667
+ }
+}

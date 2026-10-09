@@ -1,0 +1,32 @@
+{
+ "id": "mustasch/1350727091-106",
+ "band": "mustasch",
+ "title": "The Deadringer",
+ "source": "itunes",
+ "album": "Ratsafari",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.911612641225816,
+  "tempo_var": 10.050154990907892,
+  "low_onset_rate": 6.816115502109295,
+  "lufs": -8.18328327277857,
+  "rms_dbfs": -7.858059131372851,
+  "crest": 7.858058929443359,
+  "centroid": 2099.0230703119664,
+  "flatness": 0.014938653446733952,
+  "sub100_share": 0.23935677111148834,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8287098407745361,
+  "clean_share": 0.13498836307214895,
+  "minor_share": 0.2334107228100265,
+  "chord_rate": 1.3030809048150125,
+  "repetitiveness": 0.7279095649719238,
+  "vocal_share": 0.20449456572532654,
+  "vocal_voiced": 0.8207282913165266,
+  "song_length": 200.16
+ }
+}

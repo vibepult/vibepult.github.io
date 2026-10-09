@@ -1,0 +1,32 @@
+{
+ "id": "neurosis/73637822-107",
+ "band": "neurosis",
+ "title": "End of the Harvest",
+ "source": "itunes",
+ "album": "Times of Grace",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 64.599609375,
+  "onset_rate": 0.9999848830705508,
+  "tempo_var": 16.079317038152844,
+  "low_onset_rate": 6.533234569394265,
+  "lufs": -21.653039090704443,
+  "rms_dbfs": -20.314130394790155,
+  "crest": 20.314130783081055,
+  "centroid": 1570.772080981668,
+  "flatness": 0.003330231411382556,
+  "sub100_share": 0.22968831658363342,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.9092610478401184,
+  "clean_share": 0.8368136117556071,
+  "minor_share": 0.23692752938956085,
+  "chord_rate": 0.9333192241991807,
+  "repetitiveness": 0.5319657325744629,
+  "vocal_share": 1.084193399947253e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 448.6
+ }
+}

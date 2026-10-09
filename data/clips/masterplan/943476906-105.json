@@ -1,0 +1,32 @@
+{
+ "id": "masterplan/943476906-105",
+ "band": "masterplan",
+ "title": "Headbanger's Ballroom",
+ "source": "itunes",
+ "album": "Aeronautics (Deluxe Edition)",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.599898414541233,
+  "tempo_var": 4.952185321847728,
+  "low_onset_rate": 6.1332220730689695,
+  "lufs": -8.142789627878784,
+  "rms_dbfs": -7.765995045116716,
+  "crest": 7.765995025634766,
+  "centroid": 2786.7779693699254,
+  "flatness": 0.0418676882982254,
+  "sub100_share": 0.4023837447166443,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7976551055908203,
+  "clean_share": 0.0007733952049497294,
+  "minor_share": 0.014267893448779656,
+  "chord_rate": 1.199978231687407,
+  "repetitiveness": 0.7849189043045044,
+  "vocal_share": 0.1617080569267273,
+  "vocal_voiced": 0.742540494458653,
+  "song_length": 295.373
+ }
+}

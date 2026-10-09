@@ -1,0 +1,32 @@
+{
+ "id": "amon-amarth/1620926617-105",
+ "band": "amon-amarth",
+ "title": "Find a Way or Make One",
+ "source": "itunes",
+ "album": "The Great Heathen Army",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.366600656074739,
+  "tempo_var": 2.0167543392335325,
+  "low_onset_rate": 5.399918368580974,
+  "lufs": -10.358547119348204,
+  "rms_dbfs": -9.782427908105491,
+  "crest": 9.782427787780762,
+  "centroid": 2410.587585566558,
+  "flatness": 0.032267894595861435,
+  "sub100_share": 0.19972005486488342,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.608707845211029,
+  "clean_share": 0.01160092807424594,
+  "minor_share": -0.11518658895732892,
+  "chord_rate": 1.0666505419419208,
+  "repetitiveness": 0.8361498713493347,
+  "vocal_share": 0.2366570234298706,
+  "vocal_voiced": 0.17929759704251386,
+  "song_length": 270.613
+ }
+}

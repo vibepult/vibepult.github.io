@@ -1,0 +1,32 @@
+{
+ "id": "idi-bihotz/200790795-105",
+ "band": "idi-bihotz",
+ "title": "Gaur Goizean",
+ "source": "itunes",
+ "album": "Herriaren Taupada",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.2744084274838774,
+  "tempo_var": 12.16862260270925,
+  "low_onset_rate": 6.281518207826213,
+  "lufs": -11.550227304507493,
+  "rms_dbfs": -11.577082519845083,
+  "crest": 11.577082633972168,
+  "centroid": 2750.219375968441,
+  "flatness": 0.035951193422079086,
+  "sub100_share": 0.29048439860343933,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7596414089202881,
+  "clean_share": 0.12102404965089217,
+  "minor_share": -0.10655906516636648,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.8534212708473206,
+  "vocal_share": 0.25362628698349,
+  "vocal_voiced": 0.8953252032520326,
+  "song_length": 246.921
+ }
+}

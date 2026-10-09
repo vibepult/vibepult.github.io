@@ -1,0 +1,32 @@
+{
+ "id": "edge-of-sanity/1739584466-106",
+ "band": "edge-of-sanity",
+ "title": "Elegy (Remaster 2024)",
+ "source": "itunes",
+ "album": "Purgatory Afterglow (Remaster 2024)",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 6.196075350609364,
+  "tempo_var": 6.760637506387269,
+  "low_onset_rate": 7.395315741049886,
+  "lufs": -12.295052255043172,
+  "rms_dbfs": -11.886316426142287,
+  "crest": 11.886316299438477,
+  "centroid": 2565.907021544279,
+  "flatness": 0.04199877753853798,
+  "sub100_share": 0.39519813656806946,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7184761762619019,
+  "clean_share": 0.004640371229698376,
+  "minor_share": 0.33503777994868816,
+  "chord_rate": 2.1652951494064983,
+  "repetitiveness": 0.9413313865661621,
+  "vocal_share": 0.12572699785232544,
+  "vocal_voiced": 0.05856255545696539,
+  "song_length": 239.054
+ }
+}

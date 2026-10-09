@@ -1,0 +1,32 @@
+{
+ "id": "aquilus/1894229012-103",
+ "band": "aquilus",
+ "title": "Eternal Unrest",
+ "source": "itunes",
+ "album": "Bellum I",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.766579492373509,
+  "tempo_var": 2.832849741378688,
+  "low_onset_rate": 7.166558328672281,
+  "lufs": -10.232059967540717,
+  "rms_dbfs": -9.522972361937633,
+  "crest": 9.522972106933594,
+  "centroid": 2426.377615225159,
+  "flatness": 0.03333050012588501,
+  "sub100_share": 0.35418012738227844,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.722663164138794,
+  "clean_share": 0.006187161639597835,
+  "minor_share": 0.07476626461686997,
+  "chord_rate": 1.233314689120346,
+  "repetitiveness": 0.9364953637123108,
+  "vocal_share": 0.0035401659552007914,
+  "vocal_voiced": 0.5525291828793775,
+  "song_length": 794.253
+ }
+}

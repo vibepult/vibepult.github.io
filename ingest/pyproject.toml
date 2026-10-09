@@ -1,0 +1,17 @@
+[project]
+name = "vibepult-ingest"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = ["librosa", "soundfile", "numpy", "scipy", "pyloudnorm", "pyyaml", "beautifulsoup4", "jsonschema",
+                "demucs"]  # demucs pulls torch (about 1 GB): the vocal stem behind vocal_share and vocal_voiced
+
+[project.optional-dependencies]
+test = ["pytest"]
+
+[tool.setuptools]
+package-dir = {"ingest" = "."}
+packages = ["ingest", "ingest.sources"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+filterwarnings = ["ignore::UserWarning", "ignore::FutureWarning", "ignore::DeprecationWarning"]

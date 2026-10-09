@@ -1,0 +1,32 @@
+{
+ "id": "anthrax/1442459723-105",
+ "band": "anthrax",
+ "title": "Who Cares Wins",
+ "source": "itunes",
+ "album": "State of Euphoria",
+ "year": 1988,
+ "itunes_year": 1988,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.1666036794606285,
+  "tempo_var": 2.842170943040401e-14,
+  "low_onset_rate": 5.366585539145289,
+  "lufs": -15.47917918732035,
+  "rms_dbfs": -14.869963949573426,
+  "crest": 14.869964599609375,
+  "centroid": 2438.8452430486946,
+  "flatness": 0.018983621150255203,
+  "sub100_share": 0.37505677342414856,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.727204442024231,
+  "clean_share": 0.07037896365042537,
+  "minor_share": 0.1846463764949367,
+  "chord_rate": 1.2666475185560309,
+  "repetitiveness": 0.8995173573493958,
+  "vocal_share": 7.254750471474836e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 460.533
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "evile/260741068-106",
+ "band": "evile",
+ "title": "Killer from the Deep",
+ "source": "itunes",
+ "album": "Enter the Grave",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 5.866666666666666,
+  "tempo_var": 17.868570764687643,
+  "low_onset_rate": 6.433333333333334,
+  "lufs": -6.830022558200009,
+  "rms_dbfs": -7.568252696881716,
+  "crest": 7.568253517150879,
+  "centroid": 3395.561708692689,
+  "flatness": 0.1021217480301857,
+  "sub100_share": 0.11715945601463318,
+  "lowest_pitch": 118.4326171875,
+  "harmonic_share": 0.5962635278701782,
+  "clean_share": 0.0,
+  "minor_share": -0.14508170567873652,
+  "chord_rate": 3.466666666666667,
+  "repetitiveness": 0.9298276901245117,
+  "vocal_share": 0.10545206815004349,
+  "vocal_voiced": 0.0,
+  "song_length": 280.587
+ }
+}

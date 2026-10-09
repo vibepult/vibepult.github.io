@@ -1,0 +1,32 @@
+{
+ "id": "green-carnation/706409301-106",
+ "band": "green-carnation",
+ "title": "Two Seconds in Life",
+ "source": "itunes",
+ "album": "A Blessing in Disguise",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 60.09265988372093,
+  "onset_rate": 2.338863162488484,
+  "tempo_var": 22.51276549396576,
+  "low_onset_rate": 1.9379151917761723,
+  "lufs": -14.77941992912452,
+  "rms_dbfs": -13.35712623026385,
+  "crest": 13.357126235961914,
+  "centroid": 1520.5949597171784,
+  "flatness": 0.007133616134524345,
+  "sub100_share": 0.40461233258247375,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8985433578491211,
+  "clean_share": 0.8029480217222653,
+  "minor_share": -0.027848330419087297,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.7558574080467224,
+  "vocal_share": 0.1511847823858261,
+  "vocal_voiced": 0.8745294855708908,
+  "song_length": 388.213
+ }
+}

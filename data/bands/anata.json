@@ -1,0 +1,127 @@
+{
+ "slug": "anata",
+ "name": "Anata",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 45123155,
+  "deezer": 15666,
+  "spotify": "21JBfsbULY4BOhRuNFm2Bv"
+ },
+ "metadata": {
+  "formed": 1993,
+  "split": null,
+  "country": "SE",
+  "status": "active",
+  "members": 3,
+  "past_members": 4,
+  "full_lengths": 4,
+  "genre": "Technical Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 1434,
+  "themes": "Anti-Christianity, Philosophy, Abstract",
+  "release_year": 2002
+ },
+ "partial": false,
+ "clips": [
+  "anata/706571403-104",
+  "anata/705762192-105",
+  "anata/45123192-105",
+  "anata/163531383-105",
+  "anata/706571403-105",
+  "anata/705762192-106",
+  "anata/45123192-106",
+  "anata/163531383-104",
+  "anata/706571403-103",
+  "anata/705762192-104",
+  "anata/45123192-104",
+  "anata/163531383-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.19921875,
+   "iqr": 22.799862132352928
+  },
+  "onset_rate": {
+   "median": 6.131162718809097,
+   "iqr": 2.873460456771566
+  },
+  "tempo_var": {
+   "median": 4.012972246500792,
+   "iqr": 11.640469234357608
+  },
+  "low_onset_rate": {
+   "median": 7.400831292731416,
+   "iqr": 3.1825245175289725
+  },
+  "lufs": {
+   "median": -7.914781027303628,
+   "iqr": 2.462599825161125
+  },
+  "rms_dbfs": {
+   "median": -7.889424575568814,
+   "iqr": 2.286780457616514
+  },
+  "crest": {
+   "median": 7.889425039291382,
+   "iqr": 2.28678035736084
+  },
+  "centroid": {
+   "median": 2640.548982752619,
+   "iqr": 291.60802889120214
+  },
+  "flatness": {
+   "median": 0.035503460094332695,
+   "iqr": 0.012933202087879181
+  },
+  "sub100_share": {
+   "median": 0.28199154138565063,
+   "iqr": 0.07102564349770546
+  },
+  "lowest_pitch": {
+   "median": 59.21630859375,
+   "iqr": 13.458251953125
+  },
+  "harmonic_share": {
+   "median": 0.7870043218135834,
+   "iqr": 0.04030205309391022
+  },
+  "clean_share": {
+   "median": 0.015128006206361521,
+   "iqr": 0.03588052754072925
+  },
+  "minor_share": {
+   "median": 0.050295981854159594,
+   "iqr": 0.13473252421284398
+  },
+  "chord_rate": {
+   "median": 2.556043313290986,
+   "iqr": 0.9940168440576058
+  },
+  "repetitiveness": {
+   "median": 0.8996056318283081,
+   "iqr": 0.10060136020183563
+  },
+  "vocal_share": {
+   "median": 0.0877048671245575,
+   "iqr": 0.04493092745542526
+  },
+  "vocal_voiced": {
+   "median": 0.20953757225433525,
+   "iqr": 0.227226449603253
+  },
+  "song_length": {
+   "median": 279.267,
+   "iqr": 54.536749999999984
+  },
+  "vocal_presence": {
+   "median": 0.5833333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "carach-angren",
+ "name": "Carach Angren",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 279550516,
+  "deezer": 257491,
+  "spotify": "7sJC2WkTzn7gqUhVfP9sOm"
+ },
+ "metadata": {
+  "formed": 2003,
+  "split": null,
+  "country": "NL",
+  "status": "active",
+  "members": 2,
+  "past_members": 1,
+  "full_lengths": 6,
+  "genre": "Symphonic Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 20877,
+  "themes": "Ghosts, Horror stories, Legends, Hauntings",
+  "release_year": 2013
+ },
+ "partial": false,
+ "clips": [
+  "carach-angren/633793914-106",
+  "carach-angren/1513236330-107",
+  "carach-angren/583597762-105",
+  "carach-angren/963401989-105",
+  "carach-angren/1218443321-105",
+  "carach-angren/1499728118-106",
+  "carach-angren/633793914-107",
+  "carach-angren/1513236330-108",
+  "carach-angren/583597762-106",
+  "carach-angren/963401989-106",
+  "carach-angren/1218443321-104",
+  "carach-angren/1499728118-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 99.53125,
+   "iqr": 32.98726134559067
+  },
+  "onset_rate": {
+   "median": 4.594195497745236,
+   "iqr": 1.762500454589536
+  },
+  "tempo_var": {
+   "median": 15.878717159257043,
+   "iqr": 12.50511658738825
+  },
+  "low_onset_rate": {
+   "median": 7.016589487465451,
+   "iqr": 2.656280305969065
+  },
+  "lufs": {
+   "median": -10.647471673663077,
+   "iqr": 2.807174393452728
+  },
+  "rms_dbfs": {
+   "median": -9.23636766919677,
+   "iqr": 2.8019363171373914
+  },
+  "crest": {
+   "median": 9.236367225646973,
+   "iqr": 2.80193555355072
+  },
+  "centroid": {
+   "median": 2654.1856115427086,
+   "iqr": 303.3758088728796
+  },
+  "flatness": {
+   "median": 0.03748339042067528,
+   "iqr": 0.014967409893870354
+  },
+  "sub100_share": {
+   "median": 0.35949254035949707,
+   "iqr": 0.12950288131833076
+  },
+  "lowest_pitch": {
+   "median": 41.7205810546875,
+   "iqr": 23.55194091796875
+  },
+  "harmonic_share": {
+   "median": 0.7478319406509399,
+   "iqr": 0.08546610176563263
+  },
+  "clean_share": {
+   "median": 0.013964313421256789,
+   "iqr": 0.0643910007757952
+  },
+  "minor_share": {
+   "median": 0.07681519079018426,
+   "iqr": 0.16840937526982835
+  },
+  "chord_rate": {
+   "median": 1.3699055666003976,
+   "iqr": 0.5262442115599089
+  },
+  "repetitiveness": {
+   "median": 0.8623035848140717,
+   "iqr": 0.07799641788005829
+  },
+  "vocal_share": {
+   "median": 0.1430365964770317,
+   "iqr": 0.06794796325266361
+  },
+  "vocal_voiced": {
+   "median": 0.1385228928598819,
+   "iqr": 0.1748498306582356
+  },
+  "song_length": {
+   "median": 287.467,
+   "iqr": 109.91599999999997
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.6,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "savatage/302057727-107",
+ "band": "savatage",
+ "title": "This Isn't What We Meant",
+ "source": "itunes",
+ "album": "Dead Winter Dead",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.666626354854802,
+  "tempo_var": 3.5468072858991904,
+  "low_onset_rate": 2.199966742755212,
+  "lufs": -11.424055580076914,
+  "rms_dbfs": -10.869713413257841,
+  "crest": 10.86971378326416,
+  "centroid": 1974.7862532512174,
+  "flatness": 0.012582668103277683,
+  "sub100_share": 0.19338950514793396,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8607821464538574,
+  "clean_share": 0.4872389791183295,
+  "minor_share": -0.3825497734063302,
+  "chord_rate": 0.6666565887137005,
+  "repetitiveness": 0.6031380891799927,
+  "vocal_share": 0.17026282846927643,
+  "vocal_voiced": 0.7895595432300163,
+  "song_length": 252.973
+ }
+}

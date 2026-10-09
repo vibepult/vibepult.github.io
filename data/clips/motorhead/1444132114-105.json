@@ -1,0 +1,32 @@
+{
+ "id": "motorhead/1444132114-105",
+ "band": "motorhead",
+ "title": "Out to Lunch",
+ "source": "itunes",
+ "album": "We Are Motörhead",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 6.29990476334447,
+  "tempo_var": 14.657436918063485,
+  "low_onset_rate": 5.599915345195084,
+  "lufs": -9.741982886999223,
+  "rms_dbfs": -10.34795698993282,
+  "crest": 10.347956657409668,
+  "centroid": 2916.2676607812605,
+  "flatness": 0.05803084000945091,
+  "sub100_share": 0.13163338601589203,
+  "lowest_pitch": 94.207763671875,
+  "harmonic_share": 0.6189770698547363,
+  "clean_share": 0.0,
+  "minor_share": -0.11346204327619813,
+  "chord_rate": 0.43332678266390534,
+  "repetitiveness": 0.9295010566711426,
+  "vocal_share": 0.12311919033527374,
+  "vocal_voiced": 0.5822784810126582,
+  "song_length": 206.693
+ }
+}

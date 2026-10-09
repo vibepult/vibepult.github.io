@@ -1,0 +1,32 @@
+{
+ "id": "mago-de-oz/1724023771-105",
+ "band": "mago-de-oz",
+ "title": "Como un susurro",
+ "source": "itunes",
+ "album": "Alicia en el Metalverso",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.1664112168179717,
+  "tempo_var": 14.345590215950542,
+  "low_onset_rate": 3.7328931735940434,
+  "lufs": -14.684932242604626,
+  "rms_dbfs": -14.19847845246693,
+  "crest": 14.198478698730469,
+  "centroid": 1368.728016093371,
+  "flatness": 0.0029396316967904568,
+  "sub100_share": 0.07639928162097931,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.939130961894989,
+  "clean_share": 0.9025522041763341,
+  "minor_share": -0.3765009392227068,
+  "chord_rate": 1.1665291167481386,
+  "repetitiveness": 0.6101323962211609,
+  "vocal_share": 0.6076617240905762,
+  "vocal_voiced": 0.9021329987452948,
+  "song_length": 383.707
+ }
+}

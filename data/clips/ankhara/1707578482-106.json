@@ -1,0 +1,32 @@
+{
+ "id": "ankhara/1707578482-106",
+ "band": "ankhara",
+ "title": "Otra Vez",
+ "source": "itunes",
+ "album": "Premonición",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 6.266477204014996,
+  "tempo_var": 20.7575913408929,
+  "low_onset_rate": 3.5332265086467527,
+  "lufs": -7.531422665890079,
+  "rms_dbfs": -5.890224433410673,
+  "crest": 5.890224456787109,
+  "centroid": 2463.9502667547404,
+  "flatness": 0.02458455041050911,
+  "sub100_share": 0.553447961807251,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7580039501190186,
+  "clean_share": 0.07424593967517401,
+  "minor_share": -0.00341516505861561,
+  "chord_rate": 1.2332960454710364,
+  "repetitiveness": 0.9101722240447998,
+  "vocal_share": 0.10615874826908112,
+  "vocal_voiced": 0.5400410677618069,
+  "song_length": 260.181
+ }
+}

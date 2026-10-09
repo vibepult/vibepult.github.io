@@ -1,0 +1,32 @@
+{
+ "id": "queensryche/437990091-106",
+ "band": "queensryche",
+ "title": "Around the World",
+ "source": "itunes",
+ "album": "Dedicated to Chaos",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.443840008728119,
+  "tempo_var": 12.963872315677586,
+  "low_onset_rate": 4.0428920380158075,
+  "lufs": -10.29425599822694,
+  "rms_dbfs": -9.877594902053309,
+  "crest": 9.877594947814941,
+  "centroid": 2453.6478146242835,
+  "flatness": 0.02566738985478878,
+  "sub100_share": 0.13633093237876892,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7142319083213806,
+  "clean_share": 0.05508145849495733,
+  "minor_share": -0.24163750302967735,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.809014081954956,
+  "vocal_share": 0.3097755014896393,
+  "vocal_voiced": 0.7645290581162325,
+  "song_length": 308.787
+ }
+}

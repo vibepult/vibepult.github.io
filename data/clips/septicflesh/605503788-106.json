@@ -1,0 +1,32 @@
+{
+ "id": "septicflesh/605503788-106",
+ "band": "septicflesh",
+ "title": "Ice Castle",
+ "source": "itunes",
+ "album": "Εσοπτρον",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.7087687290888813,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.5106646705135045,
+  "lufs": -10.96882708394087,
+  "rms_dbfs": -10.608118948320245,
+  "crest": 10.608119010925293,
+  "centroid": 2423.8021370120455,
+  "flatness": 0.02002055011689663,
+  "sub100_share": 0.27196264266967773,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.7443545460700989,
+  "clean_share": 0.13964313421256788,
+  "minor_share": -0.05291550441363646,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.7492662668228149,
+  "vocal_share": 0.06840185821056366,
+  "vocal_voiced": 0.09433962264150944,
+  "song_length": 354.8
+ }
+}

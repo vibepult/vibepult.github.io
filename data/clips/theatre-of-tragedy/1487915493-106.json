@@ -1,0 +1,32 @@
+{
+ "id": "theatre-of-tragedy/1487915493-106",
+ "band": "theatre-of-tragedy",
+ "title": "Radio (Remastered)",
+ "source": "itunes",
+ "album": "Musique (Remastered)",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.109716699801193,
+  "tempo_var": 13.37148444311379,
+  "low_onset_rate": 2.205213838917713,
+  "lufs": -9.756177251719896,
+  "rms_dbfs": -8.324901663140638,
+  "crest": 8.324901580810547,
+  "centroid": 2945.0030255970655,
+  "flatness": 0.04048655554652214,
+  "sub100_share": 0.5708682537078857,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7513346076011658,
+  "clean_share": 0.13188518231186966,
+  "minor_share": 0.03964730837591951,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.958331823348999,
+  "vocal_share": 0.14128123223781586,
+  "vocal_voiced": 0.7935064935064935,
+  "song_length": 219.44
+ }
+}

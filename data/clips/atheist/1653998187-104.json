@@ -1,0 +1,32 @@
+{
+ "id": "atheist/1653998187-104",
+ "band": "atheist",
+ "title": "Air",
+ "source": "itunes",
+ "album": "Elements",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 2.773223464093488,
+  "tempo_var": 21.05150895044534,
+  "low_onset_rate": 4.209953692479271,
+  "lufs": -12.864769183873996,
+  "rms_dbfs": -11.53907132183585,
+  "crest": 11.539070129394531,
+  "centroid": 1482.8801421519568,
+  "flatness": 0.005331688094884157,
+  "sub100_share": 0.4215549826622009,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.856334924697876,
+  "clean_share": 0.8487199379363848,
+  "minor_share": 0.03185190810787286,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.7544131278991699,
+  "vocal_share": 0.07359104603528976,
+  "vocal_voiced": 1.0,
+  "song_length": 334.147
+ }
+}

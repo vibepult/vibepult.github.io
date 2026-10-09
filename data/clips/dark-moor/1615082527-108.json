@@ -1,0 +1,32 @@
+{
+ "id": "dark-moor/1615082527-108",
+ "band": "dark-moor",
+ "title": "The Night of the Age",
+ "source": "itunes",
+ "album": "The Gates of Oblivion",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 1.2028439121369345,
+  "tempo_var": 23.71762604093385,
+  "low_onset_rate": 1.871090529990787,
+  "lufs": -9.292152736435352,
+  "rms_dbfs": -8.306160698410391,
+  "crest": 8.306160926818848,
+  "centroid": 2619.961232222127,
+  "flatness": 0.030974581837654114,
+  "sub100_share": 0.5691468119621277,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.8884756565093994,
+  "clean_share": 0.005430566330488751,
+  "minor_share": 0.06661302232028421,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.6984239220619202,
+  "vocal_share": 3.9844204025030194e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 278.333
+ }
+}

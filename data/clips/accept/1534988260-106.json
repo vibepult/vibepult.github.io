@@ -1,0 +1,32 @@
+{
+ "id": "accept/1534988260-106",
+ "band": "accept",
+ "title": "Sucks to Be You",
+ "source": "itunes",
+ "album": "Too Mean to Die",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 2.8666493324303404,
+  "tempo_var": 23.62016509578301,
+  "low_onset_rate": 3.166647518382353,
+  "lufs": -12.52140218813266,
+  "rms_dbfs": -11.758931848080326,
+  "crest": 11.758932113647461,
+  "centroid": 2246.0446535000233,
+  "flatness": 0.01909654028713703,
+  "sub100_share": 0.3491804301738739,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6748880743980408,
+  "clean_share": 0.25831399845320957,
+  "minor_share": 0.053456191464451464,
+  "chord_rate": 2.4333186193885448,
+  "repetitiveness": 0.8839309215545654,
+  "vocal_share": 0.02280706912279129,
+  "vocal_voiced": 0.5675675675675675,
+  "song_length": 245.427
+ }
+}

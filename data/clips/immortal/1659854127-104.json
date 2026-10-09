@@ -1,0 +1,32 @@
+{
+ "id": "immortal/1659854127-104",
+ "band": "immortal",
+ "title": "No Sun",
+ "source": "itunes",
+ "album": "War Against All",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 0.23333192240712075,
+  "tempo_var": 2.9287767049189046,
+  "low_onset_rate": 0.933327689628483,
+  "lufs": -13.018740306531585,
+  "rms_dbfs": -12.731549759989399,
+  "crest": 12.731550216674805,
+  "centroid": 2787.1839051019097,
+  "flatness": 0.04071200266480446,
+  "sub100_share": 0.3997812867164612,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8609794974327087,
+  "clean_share": 0.019334880123743233,
+  "minor_share": -0.07209997724693773,
+  "chord_rate": 2.0999873016640866,
+  "repetitiveness": 0.9233300685882568,
+  "vocal_share": 7.466740612471767e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 256.255
+ }
+}

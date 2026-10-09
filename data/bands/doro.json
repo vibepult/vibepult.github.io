@@ -1,0 +1,127 @@
+{
+ "slug": "doro",
+ "name": "Doro",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 13631686,
+  "deezer": 11035,
+  "spotify": "5GLeyUhj8B8f5pJxqZllKl"
+ },
+ "metadata": {
+  "formed": 1989,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 5,
+  "past_members": 23,
+  "full_lengths": 14,
+  "genre": "Heavy Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 43434,
+  "themes": "Heavy Metal, Force, Glory, Wildness, Love",
+  "release_year": 2003
+ },
+ "partial": false,
+ "clips": [
+  "doro/1443926802-106",
+  "doro/1772369539-108",
+  "doro/1774324471-108",
+  "doro/1842095034-108",
+  "doro/1842095371-107",
+  "doro/1456971596-109",
+  "doro/1696348504-108",
+  "doro/1443926802-107",
+  "doro/1772369539-107",
+  "doro/1774324471-107",
+  "doro/1842095034-106",
+  "doro/1842095371-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.72650642942585,
+   "iqr": 41.8988770780051
+  },
+  "onset_rate": {
+   "median": 3.4204310870940797,
+   "iqr": 1.133310960372813
+  },
+  "tempo_var": {
+   "median": 5.859741353157229,
+   "iqr": 12.444571744802893
+  },
+  "low_onset_rate": {
+   "median": 5.145498957474665,
+   "iqr": 2.908341421014447
+  },
+  "lufs": {
+   "median": -9.52551359840329,
+   "iqr": 3.872355001624477
+  },
+  "rms_dbfs": {
+   "median": -8.635710136156096,
+   "iqr": 3.511140425176708
+  },
+  "crest": {
+   "median": 8.6357102394104,
+   "iqr": 3.5111407041549683
+  },
+  "centroid": {
+   "median": 2111.290089546222,
+   "iqr": 841.705106763442
+  },
+  "flatness": {
+   "median": 0.01453822385519743,
+   "iqr": 0.02322656160686165
+  },
+  "sub100_share": {
+   "median": 0.2684016227722168,
+   "iqr": 0.12258554250001907
+  },
+  "lowest_pitch": {
+   "median": 48.44970703125,
+   "iqr": 19.51446533203125
+  },
+  "harmonic_share": {
+   "median": 0.8211331367492676,
+   "iqr": 0.11130625009536743
+  },
+  "clean_share": {
+   "median": 0.3129619719422755,
+   "iqr": 0.6576575364164631
+  },
+  "minor_share": {
+   "median": 0.07380032695576644,
+   "iqr": 0.12395454662861835
+  },
+  "chord_rate": {
+   "median": 1.3347817876614594,
+   "iqr": 0.4426657980556852
+  },
+  "repetitiveness": {
+   "median": 0.7537557184696198,
+   "iqr": 0.19137829542160034
+  },
+  "vocal_share": {
+   "median": 0.2754371166229248,
+   "iqr": 0.21315505355596542
+  },
+  "vocal_voiced": {
+   "median": 0.8603491271820449,
+   "iqr": 0.10998336033871436
+  },
+  "song_length": {
+   "median": 234.49349999999998,
+   "iqr": 59.815000000000026
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.5,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

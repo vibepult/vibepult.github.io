@@ -1,0 +1,127 @@
+{
+ "slug": "judicator",
+ "name": "Judicator",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 660106105,
+  "deezer": 5689968,
+  "spotify": "0MLGtE2Xb1FVrXOy5hUTbO"
+ },
+ "metadata": {
+  "formed": 2012,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 6,
+  "past_members": 11,
+  "full_lengths": 7,
+  "genre": "Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 595,
+  "themes": "Historical concepts, Existentialism",
+  "release_year": 2016
+ },
+ "partial": false,
+ "clips": [
+  "judicator/710024134-104",
+  "judicator/660106103-106",
+  "judicator/976698274-106",
+  "judicator/1361156245-105",
+  "judicator/1501765229-104",
+  "judicator/1613412996-105",
+  "judicator/1793607368-105",
+  "judicator/710024134-105",
+  "judicator/660106103-105",
+  "judicator/976698274-108",
+  "judicator/1361156245-104",
+  "judicator/1501765229-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 98.3844625538793,
+   "iqr": 58.93786200161638
+  },
+  "onset_rate": {
+   "median": 5.6633900863114,
+   "iqr": 1.2696685739223197
+  },
+  "tempo_var": {
+   "median": 9.61412364411121,
+   "iqr": 12.338504065440379
+  },
+  "low_onset_rate": {
+   "median": 6.682466178538525,
+   "iqr": 1.4868487247248217
+  },
+  "lufs": {
+   "median": -10.367965028616538,
+   "iqr": 1.5955970844862506
+  },
+  "rms_dbfs": {
+   "median": -9.897040821148895,
+   "iqr": 1.892696014745603
+  },
+  "crest": {
+   "median": 9.897041320800781,
+   "iqr": 1.8926966190338135
+  },
+  "centroid": {
+   "median": 2542.699811059106,
+   "iqr": 115.34151649609657
+  },
+  "flatness": {
+   "median": 0.03065282665193081,
+   "iqr": 0.009098275564610958
+  },
+  "sub100_share": {
+   "median": 0.32110893726348877,
+   "iqr": 0.05180811136960983
+  },
+  "lowest_pitch": {
+   "median": 55.1788330078125,
+   "iqr": 20.86029052734375
+  },
+  "harmonic_share": {
+   "median": 0.7336138188838959,
+   "iqr": 0.1357664316892624
+  },
+  "clean_share": {
+   "median": 0.0065942591155934835,
+   "iqr": 0.02053697267076944
+  },
+  "minor_share": {
+   "median": 0.11893336982514863,
+   "iqr": 0.12895448793622086
+  },
+  "chord_rate": {
+   "median": 1.5202610556175145,
+   "iqr": 0.6264812042379868
+  },
+  "repetitiveness": {
+   "median": 0.889155924320221,
+   "iqr": 0.05239155888557434
+  },
+  "vocal_share": {
+   "median": 0.190310999751091,
+   "iqr": 0.13348853588104248
+  },
+  "vocal_voiced": {
+   "median": 0.5675675675675675,
+   "iqr": 0.3294117647058823
+  },
+  "song_length": {
+   "median": 363.4665,
+   "iqr": 116.33224999999999
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

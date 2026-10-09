@@ -1,0 +1,32 @@
+{
+ "id": "alice-in-chains/158711724-107",
+ "band": "alice-in-chains",
+ "title": "Shame In You",
+ "source": "itunes",
+ "album": "Alice In Chains",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 2.8648520438301364,
+  "tempo_var": 6.7321365239247335,
+  "low_onset_rate": 4.830273794829881,
+  "lufs": -10.903321731134335,
+  "rms_dbfs": -10.126760149779146,
+  "crest": 10.126760482788086,
+  "centroid": 1762.1725777867687,
+  "flatness": 0.007592394482344389,
+  "sub100_share": 0.37220606207847595,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.854888379573822,
+  "clean_share": 0.4137664346481052,
+  "minor_share": 0.05440545822771237,
+  "chord_rate": 0.8661180597625994,
+  "repetitiveness": 0.5330047011375427,
+  "vocal_share": 0.13954903185367584,
+  "vocal_voiced": 0.45,
+  "song_length": 335.933
+ }
+}

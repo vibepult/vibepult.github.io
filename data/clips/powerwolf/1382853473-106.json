@@ -1,0 +1,32 @@
+{
+ "id": "powerwolf/1382853473-106",
+ "band": "powerwolf",
+ "title": "Stossgebet",
+ "source": "itunes",
+ "album": "The Sacrament of Sin",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 3.966666666666667,
+  "tempo_var": 22.115567099136467,
+  "low_onset_rate": 4.1,
+  "lufs": -11.602394650192478,
+  "rms_dbfs": -10.699994352972125,
+  "crest": 10.699995040893555,
+  "centroid": 1777.0542523383672,
+  "flatness": 0.011354676447808743,
+  "sub100_share": 0.29197725653648376,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8327181935310364,
+  "clean_share": 0.4342105263157895,
+  "minor_share": 0.06361066971769963,
+  "chord_rate": 1.2,
+  "repetitiveness": 0.7969745397567749,
+  "vocal_share": 0.1341702789068222,
+  "vocal_voiced": 0.8338983050847457,
+  "song_length": 233.907
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "dokken/1695228489-105",
+ "band": "dokken",
+ "title": "I'll Never Give Up",
+ "source": "itunes",
+ "album": "Heaven Comes Down",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.899540190272349,
+  "tempo_var": 2.426156284206724,
+  "low_onset_rate": 5.699327970398048,
+  "lufs": -8.391794724504951,
+  "rms_dbfs": -8.688018938717043,
+  "crest": 8.688018798828125,
+  "centroid": 2596.035020974216,
+  "flatness": 0.035443246364593506,
+  "sub100_share": 0.1982887089252472,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7617414593696594,
+  "clean_share": 0.08352668213457076,
+  "minor_share": -0.00018247669983684212,
+  "chord_rate": 1.366505536762105,
+  "repetitiveness": 0.7953186631202698,
+  "vocal_share": 0.38591715693473816,
+  "vocal_voiced": 0.814621409921671,
+  "song_length": 267.107
+ }
+}

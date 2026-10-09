@@ -1,0 +1,32 @@
+{
+ "id": "ktulu/282482074-104",
+ "band": "ktulu",
+ "title": "Reverso",
+ "source": "itunes",
+ "album": "Show Canibal",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.878200310333123,
+  "tempo_var": 15.586508204598562,
+  "low_onset_rate": 3.174171434805799,
+  "lufs": -7.599396784628353,
+  "rms_dbfs": -7.0757919209240585,
+  "crest": 7.075791358947754,
+  "centroid": 2045.6327025377698,
+  "flatness": 0.017071086913347244,
+  "sub100_share": 0.2066192477941513,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.733853280544281,
+  "clean_share": 0.1365399534522886,
+  "minor_share": 0.05516051308206005,
+  "chord_rate": 2.3054508315957913,
+  "repetitiveness": 0.8635001182556152,
+  "vocal_share": 0.22879815101623535,
+  "vocal_voiced": 0.05525291828793774,
+  "song_length": 231.213
+ }
+}

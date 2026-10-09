@@ -1,0 +1,32 @@
+{
+ "id": "judicator/710024134-105",
+ "band": "judicator",
+ "title": "Hougoumont",
+ "source": "itunes",
+ "album": "King of Rome",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 6.014219560684673,
+  "tempo_var": 17.705388712528595,
+  "low_onset_rate": 8.286258061387771,
+  "lufs": -14.024212178852135,
+  "rms_dbfs": -14.122208435600553,
+  "crest": 14.122208595275879,
+  "centroid": 2714.264554575615,
+  "flatness": 0.04224003851413727,
+  "sub100_share": 0.1913253217935562,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.6278295516967773,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.17749982983517054,
+  "chord_rate": 1.1026069194588566,
+  "repetitiveness": 0.9200319051742554,
+  "vocal_share": 0.190310999751091,
+  "vocal_voiced": 0.5675675675675675,
+  "song_length": 390.453
+ }
+}

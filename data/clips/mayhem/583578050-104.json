@@ -1,0 +1,32 @@
+{
+ "id": "mayhem/583578050-104",
+ "band": "mayhem",
+ "title": "Deconsecrate",
+ "source": "itunes",
+ "album": "Ordo Ad Chao",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 2.773223464093488,
+  "tempo_var": 15.344005446241736,
+  "low_onset_rate": 7.751660767104689,
+  "lufs": -10.487985607095434,
+  "rms_dbfs": -9.643907749477322,
+  "crest": 9.64390754699707,
+  "centroid": 1905.2237528020557,
+  "flatness": 0.008809124119579792,
+  "sub100_share": 0.3187176585197449,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.8231087923049927,
+  "clean_share": 0.4212567882079131,
+  "minor_share": 0.0676821033219922,
+  "chord_rate": 1.871090529990787,
+  "repetitiveness": 0.8312334418296814,
+  "vocal_share": 0.009242426604032516,
+  "vocal_voiced": 0.8666666666666667,
+  "song_length": 247.813
+ }
+}

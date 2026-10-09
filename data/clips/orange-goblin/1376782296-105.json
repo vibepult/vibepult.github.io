@@ -1,0 +1,32 @@
+{
+ "id": "orange-goblin/1376782296-105",
+ "band": "orange-goblin",
+ "title": "Diesel (Phunt)",
+ "source": "itunes",
+ "album": "Time Travelling Blues",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.933333333333334,
+  "tempo_var": 3.498184642357785,
+  "low_onset_rate": 8.0,
+  "lufs": -9.559193271389022,
+  "rms_dbfs": -8.484010569697368,
+  "crest": 8.484010696411133,
+  "centroid": 2568.324849465842,
+  "flatness": 0.026289470493793488,
+  "sub100_share": 0.5165137052536011,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8370620608329773,
+  "clean_share": 0.0007739938080495357,
+  "minor_share": 0.12635569646762462,
+  "chord_rate": 2.2666666666666666,
+  "repetitiveness": 0.8992540836334229,
+  "vocal_share": 6.027653967066726e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 166.44
+ }
+}

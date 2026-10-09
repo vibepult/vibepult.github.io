@@ -1,0 +1,32 @@
+{
+ "id": "saille/587098293-105",
+ "band": "saille",
+ "title": "Sati",
+ "source": "itunes",
+ "album": "Ritu",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 0.7350712796392378,
+  "tempo_var": 8.150222413750969,
+  "low_onset_rate": 5.546446928186976,
+  "lufs": -9.8553718688425,
+  "rms_dbfs": -9.170771462478843,
+  "crest": 9.170771598815918,
+  "centroid": 1669.142131775004,
+  "flatness": 0.006127681117504835,
+  "sub100_share": 0.23055198788642883,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.9508967995643616,
+  "clean_share": 0.6074476338246703,
+  "minor_share": 0.2690707503495161,
+  "chord_rate": 0.46777263249769674,
+  "repetitiveness": 0.6380414366722107,
+  "vocal_share": 7.416435323648329e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 347.507
+ }
+}

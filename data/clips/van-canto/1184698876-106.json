@@ -1,0 +1,32 @@
+{
+ "id": "van-canto/1184698876-106",
+ "band": "van-canto",
+ "title": "Bed of Nails",
+ "source": "itunes",
+ "album": "Break the Silence",
+ "year": 2011,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.733333333333333,
+  "tempo_var": 12.90348960557207,
+  "low_onset_rate": 5.133333333333334,
+  "lufs": -9.404588949832664,
+  "rms_dbfs": -8.956039638321306,
+  "crest": 8.956040382385254,
+  "centroid": 2873.7321213620876,
+  "flatness": 0.039080895483493805,
+  "sub100_share": 0.2299387902021408,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.6253176331520081,
+  "clean_share": 0.0,
+  "minor_share": 0.02599391531506523,
+  "chord_rate": 1.7,
+  "repetitiveness": 0.8107821345329285,
+  "vocal_share": 0.2565200924873352,
+  "vocal_voiced": 0.3666146645865835,
+  "song_length": 217.053
+ }
+}

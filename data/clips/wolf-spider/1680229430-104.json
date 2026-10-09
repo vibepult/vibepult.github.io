@@ -1,0 +1,32 @@
+{
+ "id": "wolf-spider/1680229430-104",
+ "band": "wolf-spider",
+ "title": "Hipertermia",
+ "source": "itunes",
+ "album": "VI",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.276778354264656,
+  "tempo_var": 8.606130465478739,
+  "low_onset_rate": 5.21232361926005,
+  "lufs": -9.153600899980713,
+  "rms_dbfs": -8.814639320178383,
+  "crest": 8.8146390914917,
+  "centroid": 2874.230529472001,
+  "flatness": 0.04136800765991211,
+  "sub100_share": 0.272440642118454,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.6814519762992859,
+  "clean_share": 0.010861132660977503,
+  "minor_share": -0.04083241503682017,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.7914230227470398,
+  "vocal_share": 0.22068527340888977,
+  "vocal_voiced": 0.7737752161383286,
+  "song_length": 319.413
+ }
+}

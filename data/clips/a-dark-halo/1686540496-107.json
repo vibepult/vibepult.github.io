@@ -1,0 +1,32 @@
+{
+ "id": "a-dark-halo/1686540496-107",
+ "band": "a-dark-halo",
+ "title": "Afterworld",
+ "source": "itunes",
+ "album": "Omnibus One",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.6085317364108036,
+  "tempo_var": 3.0684964983750795,
+  "low_onset_rate": 5.9473948988992875,
+  "lufs": -11.511408515221108,
+  "rms_dbfs": -11.263852466739921,
+  "crest": 11.2638521194458,
+  "centroid": 1572.3143672758447,
+  "flatness": 0.002860291860997677,
+  "sub100_share": 0.11128810793161392,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.9077245593070984,
+  "clean_share": 0.8386346004654771,
+  "minor_share": 0.2962387405215653,
+  "chord_rate": 0.801895941424623,
+  "repetitiveness": 0.835819661617279,
+  "vocal_share": 0.5098260641098022,
+  "vocal_voiced": 0.9116497263487099,
+  "song_length": 253.333
+ }
+}

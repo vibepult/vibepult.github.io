@@ -1,0 +1,32 @@
+{
+ "id": "danzig/1440880562-106",
+ "band": "danzig",
+ "title": "Mother",
+ "source": "itunes",
+ "album": "Danzig",
+ "year": 1988,
+ "itunes_year": 1988,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.2999501141328174,
+  "tempo_var": 11.83642902968069,
+  "low_onset_rate": 3.4666142613112427,
+  "lufs": -9.74653230391766,
+  "rms_dbfs": -9.81137826546523,
+  "crest": 9.811378479003906,
+  "centroid": 2339.6716689138343,
+  "flatness": 0.02029414102435112,
+  "sub100_share": 0.28383222222328186,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7398170828819275,
+  "clean_share": 0.16782675947409126,
+  "minor_share": 0.10727735848275671,
+  "chord_rate": 1.4666444951701412,
+  "repetitiveness": 0.7893362045288086,
+  "vocal_share": 0.2685752213001251,
+  "vocal_voiced": 0.8608470181503889,
+  "song_length": 205.137
+ }
+}

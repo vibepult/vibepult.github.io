@@ -1,0 +1,32 @@
+{
+ "id": "obscura/1571804497-106",
+ "band": "obscura",
+ "title": "Devoured Usurper",
+ "source": "itunes",
+ "album": "A Valediction",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 1.4367302283857828,
+  "tempo_var": 32.823535879065886,
+  "low_onset_rate": 1.8376781990980944,
+  "lufs": -13.117767685625617,
+  "rms_dbfs": -12.300884216434575,
+  "crest": 12.300883293151855,
+  "centroid": 2544.2077527457914,
+  "flatness": 0.0372619554400444,
+  "sub100_share": 0.2814370095729828,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7072765827178955,
+  "clean_share": 0.04654771140418929,
+  "minor_share": -0.19402687442694677,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.8995790481567383,
+  "vocal_share": 0.07307489961385727,
+  "vocal_voiced": 0.4338235294117647,
+  "song_length": 330.676
+ }
+}

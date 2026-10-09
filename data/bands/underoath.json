@@ -1,0 +1,127 @@
+{
+ "slug": "underoath",
+ "name": "Underoath",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1750355,
+  "deezer": 4338,
+  "spotify": "3GzWhE2xadJiW8MqRKIVSK"
+ },
+ "metadata": {
+  "formed": 1997,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 10,
+  "full_lengths": 10,
+  "genre": "Metalcore (early); Alternative Rock/Post-Hardcore/Metalcore (later)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 97493,
+  "themes": "Christianity (early); Consequence, Heartbreak, Inner struggles, Depression",
+  "release_year": 2005
+ },
+ "partial": false,
+ "clips": [
+  "underoath/1538013690-103",
+  "underoath/1538020697-103",
+  "underoath/724448789-105",
+  "underoath/724489148-106",
+  "underoath/718995641-106",
+  "underoath/714549741-106",
+  "underoath/721272691-105",
+  "underoath/1440927494-106",
+  "underoath/1576451556-105",
+  "underoath/1789174149-106",
+  "underoath/1538013690-104",
+  "underoath/1538020697-102"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.19921875,
+   "iqr": 43.83498397799457
+  },
+  "onset_rate": {
+   "median": 4.599959184413889,
+   "iqr": 2.743477100058345
+  },
+  "tempo_var": {
+   "median": 11.592059170213744,
+   "iqr": 14.677715530454627
+  },
+  "low_onset_rate": {
+   "median": 5.973961437606997,
+   "iqr": 1.5666690601804962
+  },
+  "lufs": {
+   "median": -7.700210054373511,
+   "iqr": 2.7775503364295604
+  },
+  "rms_dbfs": {
+   "median": -7.3724218150664935,
+   "iqr": 2.395779406280724
+  },
+  "crest": {
+   "median": 7.372421503067017,
+   "iqr": 2.3957794904708862
+  },
+  "centroid": {
+   "median": 2542.9594717795235,
+   "iqr": 429.0587324755843
+  },
+  "flatness": {
+   "median": 0.0384442750364542,
+   "iqr": 0.021839290857315063
+  },
+  "sub100_share": {
+   "median": 0.3073147386312485,
+   "iqr": 0.11581756174564362
+  },
+  "lowest_pitch": {
+   "median": 52.4871826171875,
+   "iqr": 26.91650390625
+  },
+  "harmonic_share": {
+   "median": 0.7624882459640503,
+   "iqr": 0.08425506949424744
+  },
+  "clean_share": {
+   "median": 0.030177976673634407,
+   "iqr": 0.14211047100486304
+  },
+  "minor_share": {
+   "median": 0.07894576664494879,
+   "iqr": 0.1408105570456391
+  },
+  "chord_rate": {
+   "median": 1.6519625934915987,
+   "iqr": 0.3083163519588188
+  },
+  "repetitiveness": {
+   "median": 0.8691686689853668,
+   "iqr": 0.09959042072296143
+  },
+  "vocal_share": {
+   "median": 0.14312991499900818,
+   "iqr": 0.07584507763385773
+  },
+  "vocal_voiced": {
+   "median": 0.3926174496644295,
+   "iqr": 0.378943187694426
+  },
+  "song_length": {
+   "median": 271.7115,
+   "iqr": 141.19
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

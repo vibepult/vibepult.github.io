@@ -1,0 +1,32 @@
+{
+ "id": "athena/938230792-110",
+ "band": "athena",
+ "title": "Bu Adam Fezadan",
+ "source": "itunes",
+ "album": "Altüst",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.5332265086467527,
+  "tempo_var": 0.0,
+  "low_onset_rate": 2.999909299794413,
+  "lufs": -9.355707443712392,
+  "rms_dbfs": -8.398081686699815,
+  "crest": 8.39808177947998,
+  "centroid": 1611.0223058870204,
+  "flatness": 0.004654916934669018,
+  "sub100_share": 0.25197160243988037,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8384625315666199,
+  "clean_share": 0.7107501933488012,
+  "minor_share": 0.04031940473777684,
+  "chord_rate": 1.0999667432579514,
+  "repetitiveness": 0.6812225580215454,
+  "vocal_share": 0.35366442799568176,
+  "vocal_voiced": 0.9456617002629273,
+  "song_length": 257.756
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "dio/1434106564-105",
+ "band": "dio",
+ "title": "Rock & Roll",
+ "source": "itunes",
+ "album": "Killing the Dragon",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 2.5332950371120617,
+  "tempo_var": 19.401257210645504,
+  "low_onset_rate": 2.0333025955767865,
+  "lufs": -10.82306264470542,
+  "rms_dbfs": -9.72105678905665,
+  "crest": 9.721056938171387,
+  "centroid": 2164.4466197853776,
+  "flatness": 0.017198432236909866,
+  "sub100_share": 0.41971808671951294,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.8284108638763428,
+  "clean_share": 0.3518948182521268,
+  "minor_share": 0.02059251799551165,
+  "chord_rate": 1.6333086423485663,
+  "repetitiveness": 0.767594039440155,
+  "vocal_share": 0.12437187135219574,
+  "vocal_voiced": 0.926208651399491,
+  "song_length": 371.667
+ }
+}

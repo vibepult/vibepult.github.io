@@ -1,0 +1,32 @@
+{
+ "id": "crematory/1349402639-106",
+ "band": "crematory",
+ "title": "Nothing",
+ "source": "itunes",
+ "album": "Monument",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.178911288367357,
+  "tempo_var": 0.5908452481956448,
+  "low_onset_rate": 7.684836105319304,
+  "lufs": -8.224586441432312,
+  "rms_dbfs": -7.4771111517419,
+  "crest": 7.47711181640625,
+  "centroid": 2457.92463042724,
+  "flatness": 0.0310744047164917,
+  "sub100_share": 0.36258286237716675,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7857164144515991,
+  "clean_share": 0.0062063615205585725,
+  "minor_share": 0.06270501181082344,
+  "chord_rate": 0.8353082723173156,
+  "repetitiveness": 0.789829432964325,
+  "vocal_share": 0.0995754823088646,
+  "vocal_voiced": 0.3076923076923077,
+  "song_length": 255.173
+ }
+}

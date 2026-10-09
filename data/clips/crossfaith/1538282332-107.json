@@ -1,0 +1,32 @@
+{
+ "id": "crossfaith/1538282332-107",
+ "band": "crossfaith",
+ "title": "Lost in You",
+ "source": "itunes",
+ "album": "EX_MACHINA",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.1,
+  "tempo_var": 16.78790064058844,
+  "low_onset_rate": 3.0,
+  "lufs": -7.660637046194693,
+  "rms_dbfs": -6.921147018782347,
+  "crest": 6.921147346496582,
+  "centroid": 2536.115621367749,
+  "flatness": 0.030752908438444138,
+  "sub100_share": 0.29902875423431396,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7162097692489624,
+  "clean_share": 0.07662538699690402,
+  "minor_share": 0.1898070420288347,
+  "chord_rate": 1.9,
+  "repetitiveness": 0.7584637999534607,
+  "vocal_share": 0.2622274160385132,
+  "vocal_voiced": 0.8846153846153846,
+  "song_length": 254.693
+ }
+}

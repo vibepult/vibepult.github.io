@@ -1,0 +1,32 @@
+{
+ "id": "iced-earth/1119632172-103",
+ "band": "iced-earth",
+ "title": "The Path I Choose",
+ "source": "itunes",
+ "album": "Night of the Stormrider",
+ "year": 1991,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 6.11445655336275,
+  "tempo_var": 14.663826814260087,
+  "low_onset_rate": 7.8184854288900745,
+  "lufs": -16.30452551833951,
+  "rms_dbfs": -15.593446083125093,
+  "crest": 15.333537101745605,
+  "centroid": 2448.730355587413,
+  "flatness": 0.02251487225294113,
+  "sub100_share": 0.2743692100048065,
+  "lowest_pitch": 153.424072265625,
+  "harmonic_share": 0.7274582386016846,
+  "clean_share": 0.10318076027928627,
+  "minor_share": 0.14153855700035695,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.86020827293396,
+  "vocal_share": 0.08366204053163528,
+  "vocal_voiced": 0.3443163097199341,
+  "song_length": 352.8
+ }
+}

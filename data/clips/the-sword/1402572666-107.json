@@ -1,0 +1,32 @@
+{
+ "id": "the-sword/1402572666-107",
+ "band": "the-sword",
+ "title": "Nocturne",
+ "source": "itunes",
+ "album": "Used Future",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 2.0333025955767865,
+  "tempo_var": 6.103898083271044,
+  "low_onset_rate": 7.766549258514611,
+  "lufs": -10.930085737174739,
+  "rms_dbfs": -9.514729633136575,
+  "crest": 9.514730453491211,
+  "centroid": 837.4011435460983,
+  "flatness": 0.00023782308562658727,
+  "sub100_share": 0.3013555407524109,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.9362117648124695,
+  "clean_share": 1.0,
+  "minor_share": 0.027746511804776275,
+  "chord_rate": 0.8333207358921256,
+  "repetitiveness": 0.7419945597648621,
+  "vocal_share": 1.047801333697862e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 243.469
+ }
+}

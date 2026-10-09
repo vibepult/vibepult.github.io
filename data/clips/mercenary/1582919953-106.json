@@ -1,0 +1,32 @@
+{
+ "id": "mercenary/1582919953-106",
+ "band": "mercenary",
+ "title": "Beyond This Night",
+ "source": "itunes",
+ "album": "Through Our Darkest Days",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 1.5703795519565533,
+  "tempo_var": 15.794043794014458,
+  "low_onset_rate": 3.374645420161955,
+  "lufs": -10.776743405031231,
+  "rms_dbfs": -9.739090745984589,
+  "crest": 9.739090919494629,
+  "centroid": 2355.027173414317,
+  "flatness": 0.019655561074614525,
+  "sub100_share": 0.49613234400749207,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.90763920545578,
+  "clean_share": 0.2692009309542281,
+  "minor_share": 0.16965338417627984,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.9037744402885437,
+  "vocal_share": 7.287131893463084e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 345.107
+ }
+}

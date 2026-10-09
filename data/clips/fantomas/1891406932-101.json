@@ -1,0 +1,32 @@
+{
+ "id": "fantomas/1891406932-101",
+ "band": "fantomas",
+ "title": "The Godfather",
+ "source": "itunes",
+ "album": "The Director's Cut",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.4666457043343653,
+  "tempo_var": 4.439938217076208,
+  "low_onset_rate": 3.166647518382353,
+  "lufs": -34.04092344066075,
+  "rms_dbfs": -36.55307504084414,
+  "crest": 16.420055389404297,
+  "centroid": 2447.0135227917476,
+  "flatness": 0.007018835749477148,
+  "sub100_share": 0.004026574548333883,
+  "lowest_pitch": 24.224853515625,
+  "harmonic_share": 0.9993311762809753,
+  "clean_share": 0.8793503480278422,
+  "minor_share": 0.06598348091167672,
+  "chord_rate": 1.099993348490712,
+  "repetitiveness": 0.6725255846977234,
+  "vocal_share": 0.6747379899024963,
+  "vocal_voiced": 0.9961759082217974,
+  "song_length": 166.867
+ }
+}

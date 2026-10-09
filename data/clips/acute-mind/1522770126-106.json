@@ -1,0 +1,32 @@
+{
+ "id": "acute-mind/1522770126-106",
+ "band": "acute-mind",
+ "title": "It's Not Me",
+ "source": "itunes",
+ "album": "Under the Empty Sky",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.343603016050041,
+  "tempo_var": 1.362334415431197,
+  "low_onset_rate": 6.147868884255443,
+  "lufs": -15.399393679890421,
+  "rms_dbfs": -14.760406316461868,
+  "crest": 14.521228790283203,
+  "centroid": 1447.35901938599,
+  "flatness": 0.0051495847292244434,
+  "sub100_share": 0.046776290982961655,
+  "lowest_pitch": 88.824462890625,
+  "harmonic_share": 0.8905666470527649,
+  "clean_share": 0.851823118696664,
+  "minor_share": 0.09314597309687739,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.7667224407196045,
+  "vocal_share": 0.5737383961677551,
+  "vocal_voiced": 0.8563876651982378,
+  "song_length": 451.189
+ }
+}

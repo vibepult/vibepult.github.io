@@ -1,0 +1,32 @@
+{
+ "id": "ram/6799376319-105",
+ "band": "ram",
+ "title": "Ghost Pilot (MI II)",
+ "source": "itunes",
+ "album": "Lightbringer",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 3.866608214539463,
+  "tempo_var": 17.921709558761396,
+  "low_onset_rate": 5.9999092984233044,
+  "lufs": -9.775537307827582,
+  "rms_dbfs": -9.252095604559825,
+  "crest": 9.252095222473145,
+  "centroid": 2539.678369221554,
+  "flatness": 0.03193119540810585,
+  "sub100_share": 0.26853442192077637,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7553666830062866,
+  "clean_share": 0.06805877803557618,
+  "minor_share": -0.012818685208017877,
+  "chord_rate": 1.4666444951701412,
+  "repetitiveness": 0.8489793539047241,
+  "vocal_share": 0.037708308547735214,
+  "vocal_voiced": 0.6792452830188679,
+  "song_length": 335.366
+ }
+}

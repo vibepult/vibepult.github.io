@@ -1,0 +1,32 @@
+{
+ "id": "jord/1818148533-105",
+ "band": "jord",
+ "title": "Vid Muren",
+ "source": "itunes",
+ "album": "Emellan Träden",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 2.1,
+  "tempo_var": 16.380025336811936,
+  "low_onset_rate": 5.466666666666667,
+  "lufs": -12.721232911899774,
+  "rms_dbfs": -12.20028719813586,
+  "crest": 12.200287818908691,
+  "centroid": 2061.1706781969674,
+  "flatness": 0.013926045037806034,
+  "sub100_share": 0.0806974396109581,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8715429902076721,
+  "clean_share": 0.48761609907120745,
+  "minor_share": 0.06951390286021608,
+  "chord_rate": 0.9333333333333333,
+  "repetitiveness": 0.658162534236908,
+  "vocal_share": 0.06372420489788055,
+  "vocal_voiced": 0.11356466876971609,
+  "song_length": 327.556
+ }
+}

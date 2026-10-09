@@ -1,0 +1,32 @@
+{
+ "id": "pain/1693553208-107",
+ "band": "pain",
+ "title": "Tear It Up",
+ "source": "itunes",
+ "album": "Dancing With The Dead",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.842418052659652,
+  "tempo_var": 0.0,
+  "low_onset_rate": 2.0381521844542503,
+  "lufs": -12.341206031181967,
+  "rms_dbfs": -11.752394101685839,
+  "crest": 11.752394676208496,
+  "centroid": 2311.966047574318,
+  "flatness": 0.03258916363120079,
+  "sub100_share": 0.3194396495819092,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.6571564078330994,
+  "clean_share": 0.24903025601241272,
+  "minor_share": 0.050885241099559164,
+  "chord_rate": 2.606161809630025,
+  "repetitiveness": 0.9048083424568176,
+  "vocal_share": 0.17497169971466064,
+  "vocal_voiced": 0.7883817427385892,
+  "song_length": 237.213
+ }
+}

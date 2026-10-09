@@ -1,0 +1,32 @@
+{
+ "id": "alcatrazz/1575574416-106",
+ "band": "alcatrazz",
+ "title": "Grace of God",
+ "source": "itunes",
+ "album": "V",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.011849633903894,
+  "tempo_var": 5.867719955186027,
+  "low_onset_rate": 5.680096251757746,
+  "lufs": -8.075370122390593,
+  "rms_dbfs": -7.876004879153703,
+  "crest": 7.876005172729492,
+  "centroid": 2338.8067427434808,
+  "flatness": 0.026044201105833054,
+  "sub100_share": 0.2305709272623062,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7141930460929871,
+  "clean_share": 0.0,
+  "minor_share": 0.02126531281285371,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.8115485310554504,
+  "vocal_share": 0.26976653933525085,
+  "vocal_voiced": 0.8811305070656692,
+  "song_length": 308.066
+ }
+}

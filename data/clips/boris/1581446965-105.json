@@ -1,0 +1,32 @@
+{
+ "id": "boris/1581446965-105",
+ "band": "boris",
+ "title": "Tokyo Wonder Land",
+ "source": "itunes",
+ "album": "Attention Please",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.379385273723512,
+  "tempo_var": 18.899710174507742,
+  "low_onset_rate": 4.276778354264656,
+  "lufs": -8.721220614441037,
+  "rms_dbfs": -7.81076939694973,
+  "crest": 7.810769557952881,
+  "centroid": 1616.5955775557943,
+  "flatness": 0.004477333277463913,
+  "sub100_share": 0.4010593295097351,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8885607719421387,
+  "clean_share": 0.8029480217222653,
+  "minor_share": -0.0612034582452462,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.6639922857284546,
+  "vocal_share": 0.06610581278800964,
+  "vocal_voiced": 0.8744142455482662,
+  "song_length": 342.0
+ }
+}

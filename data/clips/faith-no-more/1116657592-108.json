@@ -1,0 +1,32 @@
+{
+ "id": "faith-no-more/1116657592-108",
+ "band": "faith-no-more",
+ "title": "As the Worm Turns",
+ "source": "itunes",
+ "album": "We Care a Lot (Deluxe Band Edition Remastered)",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.21232361926005,
+  "tempo_var": 27.414212184073484,
+  "low_onset_rate": 5.045261964796587,
+  "lufs": -11.358735461591488,
+  "rms_dbfs": -10.675557384562065,
+  "crest": 10.675558090209961,
+  "centroid": 2038.781129904635,
+  "flatness": 0.013530170544981956,
+  "sub100_share": 0.3267744183540344,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7183567881584167,
+  "clean_share": 0.3529868114817688,
+  "minor_share": 0.052787198435193416,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.8940484523773193,
+  "vocal_share": 5.835325964653748e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 190.2
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "taake/338849472-103",
+ "band": "taake",
+ "title": "III",
+ "source": "itunes",
+ "album": "Nattestid Ser Porten Vid",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.744550986762353,
+  "tempo_var": 18.035548926805816,
+  "low_onset_rate": 4.878200310333123,
+  "lufs": -9.04844601094693,
+  "rms_dbfs": -9.725986498912626,
+  "crest": 9.72598648071289,
+  "centroid": 2713.661076843989,
+  "flatness": 0.04039289057254791,
+  "sub100_share": 0.12054324150085449,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7450476288795471,
+  "clean_share": 0.0,
+  "minor_share": 0.04982477911112382,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.8318025469779968,
+  "vocal_share": 5.801566658192314e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 271.902
+ }
+}

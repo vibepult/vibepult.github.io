@@ -1,0 +1,32 @@
+{
+ "id": "alice-in-chains/158711724-106",
+ "band": "alice-in-chains",
+ "title": "Again",
+ "source": "itunes",
+ "album": "Alice In Chains",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.2645988406436435,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.996834960168842,
+  "lufs": -9.242115582421949,
+  "rms_dbfs": -9.222609144063416,
+  "crest": 9.222609519958496,
+  "centroid": 2155.992691924995,
+  "flatness": 0.02034810185432434,
+  "sub100_share": 0.314098060131073,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7576974034309387,
+  "clean_share": 0.24903325599381285,
+  "minor_share": 0.0850058728496989,
+  "chord_rate": 1.6656116533896141,
+  "repetitiveness": 0.878422737121582,
+  "vocal_share": 0.0972074344754219,
+  "vocal_voiced": 0.4783484390735146,
+  "song_length": 245.0
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "avalanch/555205511-107",
+ "band": "avalanch",
+ "title": "Cid",
+ "source": "itunes",
+ "album": "Llanto de un Héroe",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.9139825680065945,
+  "tempo_var": 24.245081458008258,
+  "low_onset_rate": 8.186021068709692,
+  "lufs": -10.267678236287377,
+  "rms_dbfs": -9.834382224746399,
+  "crest": 9.834383010864258,
+  "centroid": 2635.8713773451673,
+  "flatness": 0.03490166738629341,
+  "sub100_share": 0.21347488462924957,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7335720062255859,
+  "clean_share": 0.031031807602792862,
+  "minor_share": 0.038414289134611423,
+  "chord_rate": 1.336493235707705,
+  "repetitiveness": 0.847100019454956,
+  "vocal_share": 0.22847546637058258,
+  "vocal_voiced": 0.8868471953578336,
+  "song_length": 311.387
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "ktulu/1800700608-108",
+ "band": "ktulu",
+ "title": "Testigos",
+ "source": "itunes",
+ "album": "Involución",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 6.5332148169647715,
+  "tempo_var": 8.002924230993578,
+  "low_onset_rate": 6.89987483220259,
+  "lufs": -9.029228218772301,
+  "rms_dbfs": -8.21752083948014,
+  "crest": 8.217520713806152,
+  "centroid": 2856.6147411180677,
+  "flatness": 0.047797057777643204,
+  "sub100_share": 0.5603698492050171,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.757473886013031,
+  "clean_share": 0.005413766434648105,
+  "minor_share": 0.10483699470194924,
+  "chord_rate": 2.4332891920327975,
+  "repetitiveness": 0.9675917029380798,
+  "vocal_share": 0.09353756159543991,
+  "vocal_voiced": 0.06823720552396426,
+  "song_length": 215.11
+ }
+}

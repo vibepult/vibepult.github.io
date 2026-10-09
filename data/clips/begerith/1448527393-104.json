@@ -1,0 +1,32 @@
+{
+ "id": "begerith/1448527393-104",
+ "band": "begerith",
+ "title": "A.D.A.M.: III. —",
+ "source": "itunes",
+ "album": "A.D.A.M.",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 7.3507127963923775,
+  "tempo_var": 9.245385414231214,
+  "low_onset_rate": 9.589338966202783,
+  "lufs": -7.469568121669236,
+  "rms_dbfs": -6.526605961395729,
+  "crest": 6.52660608291626,
+  "centroid": 2673.4958974473907,
+  "flatness": 0.040252216160297394,
+  "sub100_share": 0.5070059895515442,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7830893993377686,
+  "clean_share": 0.0,
+  "minor_share": -0.02144092892609789,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.9206098914146423,
+  "vocal_share": 0.05256963521242142,
+  "vocal_voiced": 0.06641366223908918,
+  "song_length": 270.333
+ }
+}

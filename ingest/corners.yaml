@@ -1,0 +1,35 @@
+# The corners of metal the 666-band pool is drawn from. For review before scouting.
+# A band belongs to the first corner (top to bottom) whose keyword appears in one of its genres,
+# so specific corners sit above general ones. Quotas count the whole pool: the 23 bands already in
+# pool.yaml fill part of their corner's quota, scouting fills the rest.
+# Within a corner: 75 percent of the quota by Wikipedia sitelinks (known bands), 25 percent drawn
+# from the lower half (deep cuts); no country takes more than country_cap of a corner.
+total: 666
+country_cap: 0.3
+known_share: 0.75
+
+corners:
+  - {id: post-black,       quota: 30, keywords: [blackgaze, post-black, atmospheric black, depressive]}
+  - {id: symphonic-black,  quota: 15, keywords: [symphonic black]}
+  - {id: melodic-black,    quota: 10, keywords: [melodic black]}
+  - {id: war-blackened,    quota: 15, keywords: [war metal, blackened death]}
+  - {id: black,            quota: 40, keywords: [black metal]}
+  - {id: funeral-doom,     quota: 20, keywords: [funeral doom, death-doom, death doom]}
+  - {id: doom,             quota: 25, keywords: [epic doom, traditional doom, doom metal]}
+  - {id: sludge-stoner,    quota: 30, keywords: [drone, sludge, stoner]}
+  - {id: post-metal,       quota: 22, keywords: [post-metal, post-rock]}
+  - {id: grind-crust,      quota: 25, keywords: [grind, crust, powerviolence]}
+  - {id: tech-death,       quota: 20, keywords: [technical death, progressive death]}
+  - {id: brutal-death,     quota: 15, keywords: [brutal death, slam]}
+  - {id: melodic-death,    quota: 30, keywords: [melodic death]}
+  - {id: core,             quota: 25, keywords: [deathcore, metalcore, mathcore]}
+  - {id: death,            quota: 35, keywords: [death metal]}
+  - {id: thrash,           quota: 45, keywords: [thrash, crossover]}
+  - {id: power,            quota: 40, keywords: [power metal, neo-classical]}
+  - {id: symphonic-gothic, quota: 40, keywords: [symphonic metal, gothic metal, dark metal]}
+  - {id: folk-pagan,       quota: 37, keywords: [folk metal, pagan, viking, celtic, medieval]}
+  - {id: prog-avant,       quota: 40, keywords: [progressive metal, djent, avant-garde, experimental metal]}
+  - {id: industrial,       quota: 15, keywords: [industrial]}
+  - {id: groove-alt,       quota: 32, keywords: [groove, alternative metal, nu metal]}
+  - {id: heavy-speed,      quota: 50, keywords: [speed metal, heavy metal, new wave of british, traditional heavy, epic metal]}
+  - {id: glam-hard,        quota: 10, keywords: [glam, hard rock]}

@@ -1,0 +1,127 @@
+{
+ "slug": "trollfest",
+ "name": "Trollfest",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 303702370,
+  "deezer": 838847,
+  "spotify": "2GkRxQ8FEGrWxU8BjZKfmh"
+ },
+ "metadata": {
+  "formed": 2003,
+  "split": null,
+  "country": "NO",
+  "status": "active",
+  "members": 8,
+  "past_members": 6,
+  "full_lengths": 10,
+  "genre": "Folk/Avant-garde Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 9305,
+  "themes": "Trolls, Drinking, Humour",
+  "release_year": 2011
+ },
+ "partial": false,
+ "clips": [
+  "trollfest/668041322-106",
+  "trollfest/668050803-107",
+  "trollfest/668117044-106",
+  "trollfest/1591961009-105",
+  "trollfest/1591960445-107",
+  "trollfest/1582914668-107",
+  "trollfest/1582910438-107",
+  "trollfest/1591961291-105",
+  "trollfest/1607151879-106",
+  "trollfest/6788728987-106",
+  "trollfest/668041322-107",
+  "trollfest/668050803-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 28.211950618315498
+  },
+  "onset_rate": {
+   "median": 4.28786138217348,
+   "iqr": 2.1436117445775604
+  },
+  "tempo_var": {
+   "median": 6.586475347148221,
+   "iqr": 17.94618943365575
+  },
+  "low_onset_rate": {
+   "median": 4.143129030693886,
+   "iqr": 3.449823164670514
+  },
+  "lufs": {
+   "median": -9.733990616727201,
+   "iqr": 2.2440585946701432
+  },
+  "rms_dbfs": {
+   "median": -9.596465880801336,
+   "iqr": 2.597691808348367
+  },
+  "crest": {
+   "median": 9.596465587615967,
+   "iqr": 2.597691535949707
+  },
+  "centroid": {
+   "median": 2670.642882260089,
+   "iqr": 814.0937646298121
+  },
+  "flatness": {
+   "median": 0.03832302615046501,
+   "iqr": 0.02025214838795364
+  },
+  "sub100_share": {
+   "median": 0.28883424401283264,
+   "iqr": 0.09902796894311905
+  },
+  "lowest_pitch": {
+   "median": 84.7869873046875,
+   "iqr": 48.44970703125
+  },
+  "harmonic_share": {
+   "median": 0.737863153219223,
+   "iqr": 0.12250515818595886
+  },
+  "clean_share": {
+   "median": 0.02749632952275696,
+   "iqr": 0.22110162916989917
+  },
+  "minor_share": {
+   "median": 0.010243321343565759,
+   "iqr": 0.12633066072502644
+  },
+  "chord_rate": {
+   "median": 1.7875597027590555,
+   "iqr": 0.7808982749018951
+  },
+  "repetitiveness": {
+   "median": 0.9093488156795502,
+   "iqr": 0.11834253370761871
+  },
+  "vocal_share": {
+   "median": 0.1754094362258911,
+   "iqr": 0.07657133042812347
+  },
+  "vocal_voiced": {
+   "median": 0.4132231404958678,
+   "iqr": 0.5637034965545363
+  },
+  "song_length": {
+   "median": 209.89999999999998,
+   "iqr": 42.64025000000001
+  },
+  "vocal_presence": {
+   "median": 0.5833333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.9,
+  "camp": 0.9
+ },
+ "sources_failed": []
+}

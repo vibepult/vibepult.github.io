@@ -1,0 +1,32 @@
+{
+ "id": "begerith/1448527393-101",
+ "band": "begerith",
+ "title": "A.D.A.M.: Nome Fatas Hiss Mortus",
+ "source": "itunes",
+ "album": "A.D.A.M.",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.5417070746254184,
+  "tempo_var": 5.011233275714619,
+  "low_onset_rate": 9.68957595888086,
+  "lufs": -21.686128384643034,
+  "rms_dbfs": -21.56009282974475,
+  "crest": 17.598987579345703,
+  "centroid": 1208.0781729718865,
+  "flatness": 0.0008339993073605001,
+  "sub100_share": 0.12100067734718323,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.8352415561676025,
+  "clean_share": 0.9891388673390225,
+  "minor_share": 0.20337051943759515,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.8821881413459778,
+  "vocal_share": 0.4360732138156891,
+  "vocal_voiced": 0.25075075075075076,
+  "song_length": 131.067
+ }
+}

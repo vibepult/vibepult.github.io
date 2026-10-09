@@ -1,0 +1,32 @@
+{
+ "id": "megadeth/1440837699-106",
+ "band": "megadeth",
+ "title": "Bad Omen",
+ "source": "itunes",
+ "album": "Peace Sells... But Who's Buying?",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 2.4332965488050067,
+  "tempo_var": 5.445055283421268,
+  "low_onset_rate": 3.3666157730041877,
+  "lufs": -11.512375233497002,
+  "rms_dbfs": -11.817396658239483,
+  "crest": 11.817397117614746,
+  "centroid": 2271.084563979284,
+  "flatness": 0.01363297738134861,
+  "sub100_share": 0.2198890596628189,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8122985363006592,
+  "clean_share": 0.2482598607888631,
+  "minor_share": -0.1285593542529374,
+  "chord_rate": 1.7999727895269915,
+  "repetitiveness": 0.8042029142379761,
+  "vocal_share": 0.0018469429342076182,
+  "vocal_voiced": 1.0,
+  "song_length": 245.333
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "winterhorde/1680978242-105",
+ "band": "winterhorde",
+ "title": "Hate Parade",
+ "source": "itunes",
+ "album": "Nebula",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 6.715878509431217,
+  "tempo_var": 6.536038302851134,
+  "low_onset_rate": 9.021329341027009,
+  "lufs": -6.3188992646582784,
+  "rms_dbfs": -6.467785321576852,
+  "crest": 6.467785358428955,
+  "centroid": 2704.0656016834564,
+  "flatness": 0.05290011316537857,
+  "sub100_share": 0.18445341289043427,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.698306679725647,
+  "clean_share": 0.0,
+  "minor_share": 0.03747656845141306,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.898439884185791,
+  "vocal_share": 0.14773918688297272,
+  "vocal_voiced": 0.1206896551724138,
+  "song_length": 430.947
+ }
+}

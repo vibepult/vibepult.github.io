@@ -1,0 +1,32 @@
+{
+ "id": "anthropia/206720151-103",
+ "band": "anthropia",
+ "title": "Lords of a World",
+ "source": "itunes",
+ "album": "The Ereyn Chronicles, Part 1 - The Journey of Beginnings",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 2.405687824273869,
+  "tempo_var": 34.692219182242596,
+  "low_onset_rate": 3.9760673762304224,
+  "lufs": -9.362090386650987,
+  "rms_dbfs": -8.301757444781817,
+  "crest": 8.301756858825684,
+  "centroid": 2543.9252322831953,
+  "flatness": 0.02392895333468914,
+  "sub100_share": 0.4882727265357971,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8804803490638733,
+  "clean_share": 0.14972847168347556,
+  "minor_share": 0.013720116631315893,
+  "chord_rate": 2.205213838917713,
+  "repetitiveness": 0.8867759704589844,
+  "vocal_share": 0.01805286481976509,
+  "vocal_voiced": 0.024193548387096774,
+  "song_length": 394.907
+ }
+}

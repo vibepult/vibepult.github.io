@@ -1,0 +1,32 @@
+{
+ "id": "jord/1696319729-105",
+ "band": "jord",
+ "title": "Snöfödd",
+ "source": "itunes",
+ "album": "Tundra",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.1333333333333333,
+  "tempo_var": 5.919195122874339,
+  "low_onset_rate": 6.366666666666666,
+  "lufs": -10.471948136562952,
+  "rms_dbfs": -9.319397454119521,
+  "crest": 9.31939697265625,
+  "centroid": 2454.461969215318,
+  "flatness": 0.02866194024682045,
+  "sub100_share": 0.5003466606140137,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8276392221450806,
+  "clean_share": 0.0804953560371517,
+  "minor_share": 0.20175341876692632,
+  "chord_rate": 1.9,
+  "repetitiveness": 0.6959614157676697,
+  "vocal_share": 0.0760037824511528,
+  "vocal_voiced": 0.16042780748663102,
+  "song_length": 432.8
+ }
+}

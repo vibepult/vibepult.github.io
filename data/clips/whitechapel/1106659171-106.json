@@ -1,0 +1,32 @@
+{
+ "id": "whitechapel/1106659171-106",
+ "band": "whitechapel",
+ "title": "A Killing Industry",
+ "source": "itunes",
+ "album": "Mark of the Blade",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.5332648032531635,
+  "tempo_var": 10.254980833697529,
+  "low_onset_rate": 3.2666172846971326,
+  "lufs": -8.7955157311096,
+  "rms_dbfs": -8.135758210949222,
+  "crest": 8.135758399963379,
+  "centroid": 2218.1641724704496,
+  "flatness": 0.02766706421971321,
+  "sub100_share": 0.3529287278652191,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.664382815361023,
+  "clean_share": 0.042536736272235115,
+  "minor_share": 0.03295257807274221,
+  "chord_rate": 2.0999682544481564,
+  "repetitiveness": 0.8941347599029541,
+  "vocal_share": 0.24395810067653656,
+  "vocal_voiced": 0.11627906976744186,
+  "song_length": 244.704
+ }
+}

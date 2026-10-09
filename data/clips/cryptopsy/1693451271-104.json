@@ -1,0 +1,32 @@
+{
+ "id": "cryptopsy/1693451271-104",
+ "band": "cryptopsy",
+ "title": "Ill Ender",
+ "source": "itunes",
+ "album": "As Gomorrah Burns",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 1.3666584026702786,
+  "tempo_var": 2.842170943040401e-14,
+  "low_onset_rate": 0.26666505417956654,
+  "lufs": -8.112852255720945,
+  "rms_dbfs": -7.199434763965183,
+  "crest": 7.199434757232666,
+  "centroid": 2687.2654039846643,
+  "flatness": 0.041601795703172684,
+  "sub100_share": 0.46416956186294556,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7875192165374756,
+  "clean_share": 0.004640371229698376,
+  "minor_share": -0.16081353364600603,
+  "chord_rate": 0.6999957672213623,
+  "repetitiveness": 0.958636999130249,
+  "vocal_share": 0.07816623896360397,
+  "vocal_voiced": 0.0,
+  "song_length": 259.236
+ }
+}

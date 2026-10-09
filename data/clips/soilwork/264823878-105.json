@@ -1,0 +1,32 @@
+{
+ "id": "soilwork/264823878-105",
+ "band": "soilwork",
+ "title": "Neon Rebels",
+ "source": "itunes",
+ "album": "The Chainheart Machine",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 6.348342869611598,
+  "tempo_var": 17.29431551861487,
+  "low_onset_rate": 7.952134752460845,
+  "lufs": -10.46879299317696,
+  "rms_dbfs": -10.924617611306427,
+  "crest": 10.924617767333984,
+  "centroid": 2887.458486632282,
+  "flatness": 0.06555167585611343,
+  "sub100_share": 0.24777467548847198,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.6508271098136902,
+  "clean_share": 0.0,
+  "minor_share": 0.10572950313238327,
+  "chord_rate": 1.971327522668865,
+  "repetitiveness": 0.910064160823822,
+  "vocal_share": 0.21773914992809296,
+  "vocal_voiced": 0.0,
+  "song_length": 204.253
+ }
+}

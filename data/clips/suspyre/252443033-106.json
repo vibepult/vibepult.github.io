@@ -1,0 +1,32 @@
+{
+ "id": "suspyre/252443033-106",
+ "band": "suspyre",
+ "title": "Resolution",
+ "source": "itunes",
+ "album": "A Great Divide",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 1.8376781990980944,
+  "tempo_var": 8.673698454448955,
+  "low_onset_rate": 4.076304368908501,
+  "lufs": -17.66435591054735,
+  "rms_dbfs": -17.109252124198065,
+  "crest": 15.943655967712402,
+  "centroid": 1253.0721029998324,
+  "flatness": 0.0026207484770566225,
+  "sub100_share": 0.1000865176320076,
+  "lowest_pitch": 123.81591796875,
+  "harmonic_share": 0.9539633989334106,
+  "clean_share": 0.8650116369278511,
+  "minor_share": 0.2223507493368334,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.5202175974845886,
+  "vocal_share": 0.10553701221942902,
+  "vocal_voiced": 0.7614678899082569,
+  "song_length": 159.133
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "electric-wizard",
+ "name": "Electric Wizard",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 29438586,
+  "deezer": 7278,
+  "spotify": "4htjQW3lgIwL6fEJlTOez4"
+ },
+ "metadata": {
+  "formed": 1993,
+  "split": null,
+  "country": "GB",
+  "status": "active",
+  "members": 4,
+  "past_members": 8,
+  "full_lengths": 9,
+  "genre": "Doom/Stoner Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 43022,
+  "themes": "Occultism, Horror, Drugs, Witchcraft, Negativity",
+  "release_year": 2001
+ },
+ "partial": false,
+ "clips": [
+  "electric-wizard/965383984-105",
+  "electric-wizard/965386233-104",
+  "electric-wizard/965381927-104",
+  "electric-wizard/965383117-104",
+  "electric-wizard/965381711-104",
+  "electric-wizard/965391185-104",
+  "electric-wizard/1660671781-105",
+  "electric-wizard/1660459286-103",
+  "electric-wizard/965383984-104",
+  "electric-wizard/965386233-105",
+  "electric-wizard/965381927-105",
+  "electric-wizard/965383117-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 14.722045365157584
+  },
+  "onset_rate": {
+   "median": 3.5751194055181106,
+   "iqr": 1.1666490302489758
+  },
+  "tempo_var": {
+   "median": 4.5823285804081255,
+   "iqr": 2.467883306853813
+  },
+  "low_onset_rate": {
+   "median": 7.0583205800901885,
+   "iqr": 0.7999638453437337
+  },
+  "lufs": {
+   "median": -7.150236816876541,
+   "iqr": 1.776545037900628
+  },
+  "rms_dbfs": {
+   "median": -5.287321459091976,
+   "iqr": 2.3457874390611675
+  },
+  "crest": {
+   "median": 5.287321329116821,
+   "iqr": 2.3457870483398438
+  },
+  "centroid": {
+   "median": 2085.6286829736723,
+   "iqr": 562.8333020822092
+  },
+  "flatness": {
+   "median": 0.012013891246169806,
+   "iqr": 0.010132389608770609
+  },
+  "sub100_share": {
+   "median": 0.4317377060651779,
+   "iqr": 0.2350921705365181
+  },
+  "lowest_pitch": {
+   "median": 61.907958984375,
+   "iqr": 17.4957275390625
+  },
+  "harmonic_share": {
+   "median": 0.8965493738651276,
+   "iqr": 0.056066110730171204
+  },
+  "clean_share": {
+   "median": 0.29092409952135695,
+   "iqr": 0.3970194884791714
+  },
+  "minor_share": {
+   "median": -0.05055219757566337,
+   "iqr": 0.08268670747382038
+  },
+  "chord_rate": {
+   "median": 1.868943990651582,
+   "iqr": 0.8249875285332045
+  },
+  "repetitiveness": {
+   "median": 0.8058041632175446,
+   "iqr": 0.1308804750442505
+  },
+  "vocal_share": {
+   "median": 0.0766305597499013,
+   "iqr": 0.05397579353302717
+  },
+  "vocal_voiced": {
+   "median": 0.32129173508483855,
+   "iqr": 0.02474001094690753
+  },
+  "song_length": {
+   "median": 476.5245,
+   "iqr": 147.92675000000008
+  },
+  "vocal_presence": {
+   "median": 0.16666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

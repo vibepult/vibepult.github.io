@@ -1,0 +1,32 @@
+{
+ "id": "tyr/1183579844-106",
+ "band": "tyr",
+ "title": "Sand in the Wind",
+ "source": "itunes",
+ "album": "How Far to Asgaard",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.7666666666666666,
+  "tempo_var": 14.309065598866402,
+  "low_onset_rate": 6.2,
+  "lufs": -9.604060288301476,
+  "rms_dbfs": -8.331911083016909,
+  "crest": 8.331911087036133,
+  "centroid": 2067.138173644564,
+  "flatness": 0.015451322309672832,
+  "sub100_share": 0.4575575888156891,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7814414501190186,
+  "clean_share": 0.25,
+  "minor_share": -0.030120903705376567,
+  "chord_rate": 2.3,
+  "repetitiveness": 0.896874725818634,
+  "vocal_share": 0.05469445511698723,
+  "vocal_voiced": 0.15082956259426847,
+  "song_length": 383.56
+ }
+}

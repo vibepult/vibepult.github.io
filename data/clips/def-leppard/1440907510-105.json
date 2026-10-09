@@ -1,0 +1,32 @@
+{
+ "id": "def-leppard/1440907510-105",
+ "band": "def-leppard",
+ "title": "White Lightning",
+ "source": "itunes",
+ "album": "Adrenalize",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 1.0666505419419208,
+  "tempo_var": 19.1659952363843,
+  "low_onset_rate": 7.23322398754365,
+  "lufs": -15.48141403799091,
+  "rms_dbfs": -15.2774133966512,
+  "crest": 15.277413368225098,
+  "centroid": 1700.1920384652944,
+  "flatness": 0.004018642008304596,
+  "sub100_share": 0.09144944697618484,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8920980095863342,
+  "clean_share": 0.8445475638051044,
+  "minor_share": 0.02588668510543668,
+  "chord_rate": 0.8666535653278107,
+  "repetitiveness": 0.795643150806427,
+  "vocal_share": 8.257133572442399e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 423.06
+ }
+}

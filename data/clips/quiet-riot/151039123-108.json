@@ -1,0 +1,32 @@
+{
+ "id": "quiet-riot/151039123-108",
+ "band": "quiet-riot",
+ "title": "Against the Wall",
+ "source": "itunes",
+ "album": "Alive and Well",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 69.83741554054055,
+  "onset_rate": 4.343603016050041,
+  "tempo_var": 3.669045111750681,
+  "low_onset_rate": 5.546446928186976,
+  "lufs": -11.137475404481233,
+  "rms_dbfs": -10.625978141786971,
+  "crest": 10.625978469848633,
+  "centroid": 3064.366770106818,
+  "flatness": 0.05147892236709595,
+  "sub100_share": 0.3530402183532715,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.6942652463912964,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": -0.06446868325786753,
+  "chord_rate": 2.338863162488484,
+  "repetitiveness": 0.8982259035110474,
+  "vocal_share": 0.11523925513029099,
+  "vocal_voiced": 0.49584026622296173,
+  "song_length": 286.093
+ }
+}

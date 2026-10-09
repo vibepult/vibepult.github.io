@@ -1,0 +1,32 @@
+{
+ "id": "baron-rojo/994937931-107",
+ "band": "baron-rojo",
+ "title": "Caballo Desbocado",
+ "source": "itunes",
+ "album": "Ultimasmentes",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.207583765698492,
+  "tempo_var": 2.3244503254102633,
+  "low_onset_rate": 5.579859259079669,
+  "lufs": -6.525592157489869,
+  "rms_dbfs": -6.923711546168216,
+  "crest": 6.923711776733398,
+  "centroid": 3017.3117581738898,
+  "flatness": 0.06502462178468704,
+  "sub100_share": 0.15950123965740204,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.6341922283172607,
+  "clean_share": 0.010861132660977503,
+  "minor_share": -0.17812470717285822,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.8587656021118164,
+  "vocal_share": 0.19649429619312286,
+  "vocal_voiced": 0.7494802494802495,
+  "song_length": 241.022
+ }
+}

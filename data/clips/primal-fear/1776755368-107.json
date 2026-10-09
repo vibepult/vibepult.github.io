@@ -1,0 +1,32 @@
+{
+ "id": "primal-fear/1776755368-107",
+ "band": "primal-fear",
+ "title": "Nine Lives (Remastered 2022)",
+ "source": "itunes",
+ "album": "Primal Fear (Deluxe Edition)",
+ "year": 1997,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 6.466666666666667,
+  "tempo_var": 2.0265684813540883,
+  "low_onset_rate": 8.766666666666667,
+  "lufs": -8.074523974007512,
+  "rms_dbfs": -7.721626004034539,
+  "crest": 7.721626281738281,
+  "centroid": 2527.1298520759615,
+  "flatness": 0.030519450083374977,
+  "sub100_share": 0.4181568920612335,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8192150592803955,
+  "clean_share": 0.0007739938080495357,
+  "minor_share": -0.2973604928565022,
+  "chord_rate": 1.8666666666666667,
+  "repetitiveness": 0.9193915128707886,
+  "vocal_share": 0.2967252731323242,
+  "vocal_voiced": 0.6043587594300084,
+  "song_length": 188.587
+ }
+}

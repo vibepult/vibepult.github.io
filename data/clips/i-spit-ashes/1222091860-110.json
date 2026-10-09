@@ -1,0 +1,32 @@
+{
+ "id": "i-spit-ashes/1222091860-110",
+ "band": "i-spit-ashes",
+ "title": "When Daylight Dies",
+ "source": "itunes",
+ "album": "Inhaling Blackness...Reflecting Light",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 1.6372042137419387,
+  "tempo_var": 20.810603012761412,
+  "low_onset_rate": 3.1407591039131066,
+  "lufs": -8.717756359802378,
+  "rms_dbfs": -7.791331935624633,
+  "crest": 7.791332244873047,
+  "centroid": 2661.152242304906,
+  "flatness": 0.034376613795757294,
+  "sub100_share": 0.5014509558677673,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7228630781173706,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.10737118183881705,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.9336436986923218,
+  "vocal_share": 0.06488246470689774,
+  "vocal_voiced": 0.044585987261146494,
+  "song_length": 163.28
+ }
+}

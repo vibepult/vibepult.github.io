@@ -1,0 +1,32 @@
+{
+ "id": "the-berzerker/42257249-107",
+ "band": "the-berzerker",
+ "title": "Chronological Order of Putrification",
+ "source": "itunes",
+ "album": "The Berzerker",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 1.1360192503515492,
+  "tempo_var": 10.184855259392378,
+  "low_onset_rate": 1.3030809048150125,
+  "lufs": -12.676913224679605,
+  "rms_dbfs": -11.900198235511226,
+  "crest": 11.900197982788086,
+  "centroid": 2220.520610292264,
+  "flatness": 0.012224912643432617,
+  "sub100_share": 0.39329126477241516,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.8379902839660645,
+  "clean_share": 0.35686578743211794,
+  "minor_share": -0.09793747166524802,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.7696959972381592,
+  "vocal_share": 0.07240504026412964,
+  "vocal_voiced": 0.11655011655011654,
+  "song_length": 170.2
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "diabulus-in-musica/1486896671-107",
+ "band": "diabulus-in-musica",
+ "title": "Blurred Dreams",
+ "source": "itunes",
+ "album": "Euphonic Entropy",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 1.6666666666666667,
+  "tempo_var": 11.574406475779696,
+  "low_onset_rate": 2.1333333333333333,
+  "lufs": -14.958847082749227,
+  "rms_dbfs": -14.073085103832392,
+  "crest": 14.073084831237793,
+  "centroid": 1766.8494914441865,
+  "flatness": 0.006388225592672825,
+  "sub100_share": 0.24310824275016785,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.9065971970558167,
+  "clean_share": 0.7252321981424149,
+  "minor_share": -0.030403177906694334,
+  "chord_rate": 1.3,
+  "repetitiveness": 0.6598749756813049,
+  "vocal_share": 0.486237108707428,
+  "vocal_voiced": 0.9383506805444356,
+  "song_length": 301.133
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "hellyeah/1695709207-105",
+ "band": "hellyeah",
+ "title": "Cross to Bier (Cradle of Bones)",
+ "source": "itunes",
+ "album": "Blood for Blood",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.096996155502013,
+  "tempo_var": 25.60791875885636,
+  "low_onset_rate": 3.6639803016684667,
+  "lufs": -6.597471299861527,
+  "rms_dbfs": -6.173484362328243,
+  "crest": 6.1734843254089355,
+  "centroid": 2780.4478423164414,
+  "flatness": 0.051392875611782074,
+  "sub100_share": 0.2896342873573303,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7176758050918579,
+  "clean_share": 0.02320185614849188,
+  "minor_share": 0.04305366966908597,
+  "chord_rate": 2.6980218585013254,
+  "repetitiveness": 0.9223474860191345,
+  "vocal_share": 0.18368379771709442,
+  "vocal_voiced": 0.07578397212543554,
+  "song_length": 214.329
+ }
+}

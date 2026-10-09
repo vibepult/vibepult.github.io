@@ -1,0 +1,32 @@
+{
+ "id": "seigmen/299629257-104",
+ "band": "seigmen",
+ "title": "Plutonium",
+ "source": "itunes",
+ "album": "Ameneon",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 4.5106646705135045,
+  "tempo_var": 18.458787752741824,
+  "low_onset_rate": 6.181281215148136,
+  "lufs": -12.595279166721468,
+  "rms_dbfs": -13.072505479033163,
+  "crest": 13.072505950927734,
+  "centroid": 2630.670746353452,
+  "flatness": 0.02520682103931904,
+  "sub100_share": 0.1393250972032547,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.8507795333862305,
+  "clean_share": 0.027928626842513578,
+  "minor_share": 0.18708105866820696,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.7863003015518188,
+  "vocal_share": 0.10838667303323746,
+  "vocal_voiced": 0.8848821081830791,
+  "song_length": 287.123
+ }
+}

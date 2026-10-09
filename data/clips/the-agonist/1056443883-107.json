@@ -1,0 +1,32 @@
+{
+ "id": "the-agonist/1056443883-107",
+ "band": "the-agonist",
+ "title": "A Necessary Evil",
+ "source": "itunes",
+ "album": "Eye of Providence",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 6.181281215148136,
+  "tempo_var": 13.287059964171926,
+  "low_onset_rate": 4.777963317655045,
+  "lufs": -7.178466122011191,
+  "rms_dbfs": -7.178004433795579,
+  "crest": 7.178004264831543,
+  "centroid": 2425.99850218901,
+  "flatness": 0.03295246511697769,
+  "sub100_share": 0.28172767162323,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7761519551277161,
+  "clean_share": 0.021722265321955005,
+  "minor_share": -0.0492071039920392,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.9351615905761719,
+  "vocal_share": 0.3343246579170227,
+  "vocal_voiced": 0.6156583629893239,
+  "song_length": 224.573
+ }
+}

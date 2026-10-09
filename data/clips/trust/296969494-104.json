@@ -1,0 +1,32 @@
+{
+ "id": "trust/296969494-104",
+ "band": "trust",
+ "title": "Fireball (Idéal) [Version anglaise]",
+ "source": "itunes",
+ "album": "Man's Trap (Par compromission) [Version anglaise]",
+ "year": 1984,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 75.99954044117646,
+  "onset_rate": 4.363902531880789,
+  "tempo_var": 19.07773532980586,
+  "low_onset_rate": 5.26333282471118,
+  "lufs": -9.375137843820303,
+  "rms_dbfs": -9.097804615472011,
+  "crest": 9.097804069519043,
+  "centroid": 2864.2446160176537,
+  "flatness": 0.04128550738096237,
+  "sub100_share": 0.21094201505184174,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7173683047294617,
+  "clean_share": 0.009280742459396751,
+  "minor_share": -0.19776811773050518,
+  "chord_rate": 1.4657382549828604,
+  "repetitiveness": 0.7532905340194702,
+  "vocal_share": 0.3577525317668915,
+  "vocal_voiced": 0.5561936013125512,
+  "song_length": 259.88
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "katatonia/73594722-106",
+ "band": "katatonia",
+ "title": "Tonight's Music",
+ "source": "itunes",
+ "album": "Last Fair Deal Gone Down",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.744550986762353,
+  "tempo_var": 17.03050564895766,
+  "low_onset_rate": 5.34597294283082,
+  "lufs": -15.527241463966773,
+  "rms_dbfs": -12.933719372574144,
+  "crest": 12.933719635009766,
+  "centroid": 1161.0909525768704,
+  "flatness": 0.0019817810971289873,
+  "sub100_share": 0.7858249545097351,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.9736942052841187,
+  "clean_share": 0.934833204034135,
+  "minor_share": 0.013778572190020821,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.546819806098938,
+  "vocal_share": 0.10608665645122528,
+  "vocal_voiced": 0.9106881405563689,
+  "song_length": 260.72
+ }
+}

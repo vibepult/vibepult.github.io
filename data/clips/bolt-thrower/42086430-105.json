@@ -1,0 +1,32 @@
+{
+ "id": "bolt-thrower/42086430-105",
+ "band": "bolt-thrower",
+ "title": "Graven Image",
+ "source": "itunes",
+ "album": "...For Victory",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.677726324976968,
+  "tempo_var": 16.35951177867314,
+  "low_onset_rate": 7.3507127963923775,
+  "lufs": -11.063808348591847,
+  "rms_dbfs": -10.726120732468393,
+  "crest": 10.726119995117188,
+  "centroid": 2485.769351785253,
+  "flatness": 0.02318464405834675,
+  "sub100_share": 0.212097629904747,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7842013835906982,
+  "clean_share": 0.026377036462373934,
+  "minor_share": -0.17278321012196424,
+  "chord_rate": 2.138389177132328,
+  "repetitiveness": 0.9064323306083679,
+  "vocal_share": 0.04479121416807175,
+  "vocal_voiced": 0.1299093655589124,
+  "song_length": 239.76
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "kauan/1581073441-104",
+ "band": "kauan",
+ "title": "Poissa",
+ "source": "itunes",
+ "album": "Kaiho",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 1.399978836298771,
+  "tempo_var": 4.15098365343281,
+  "low_onset_rate": 3.866608214539463,
+  "lufs": -22.525378656649707,
+  "rms_dbfs": -21.306574387252923,
+  "crest": 14.983901977539062,
+  "centroid": 935.7235383544481,
+  "flatness": 0.00018710287986323237,
+  "sub100_share": 0.30720755457878113,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.963569164276123,
+  "clean_share": 0.9992266047950503,
+  "minor_share": 0.3521638696172239,
+  "chord_rate": 0.06666565887137005,
+  "repetitiveness": 0.7836357951164246,
+  "vocal_share": 8.608058692516352e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 144.0
+ }
+}

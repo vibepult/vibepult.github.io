@@ -1,0 +1,32 @@
+{
+ "id": "huntress/1184091957-107",
+ "band": "huntress",
+ "title": "Oracle",
+ "source": "itunes",
+ "album": "Starbound Beast",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 4.266666666666667,
+  "tempo_var": 23.836345393752808,
+  "low_onset_rate": 5.3,
+  "lufs": -7.872840849559972,
+  "rms_dbfs": -6.720115137024124,
+  "crest": 6.720115661621094,
+  "centroid": 2443.386667483635,
+  "flatness": 0.026125255972146988,
+  "sub100_share": 0.4167405366897583,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8075524568557739,
+  "clean_share": 0.07507739938080496,
+  "minor_share": 0.16590677586833968,
+  "chord_rate": 1.7666666666666666,
+  "repetitiveness": 0.8172171711921692,
+  "vocal_share": 0.2257298231124878,
+  "vocal_voiced": 0.8654019873532068,
+  "song_length": 288.813
+ }
+}

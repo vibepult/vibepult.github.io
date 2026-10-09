@@ -1,0 +1,32 @@
+{
+ "id": "sabaton/1586765145-105",
+ "band": "sabaton",
+ "title": "Hellfighters",
+ "source": "itunes",
+ "album": "The War to End All Wars",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.2999860922987616,
+  "tempo_var": 15.913788071592982,
+  "low_onset_rate": 3.7999770220588234,
+  "lufs": -10.461890436686458,
+  "rms_dbfs": -9.683408420488373,
+  "crest": 9.683408737182617,
+  "centroid": 2508.5426086198886,
+  "flatness": 0.043546535074710846,
+  "sub100_share": 0.43070361018180847,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6678676605224609,
+  "clean_share": 0.09048723897911833,
+  "minor_share": 0.07429733270268185,
+  "chord_rate": 1.9666547745743035,
+  "repetitiveness": 0.906976580619812,
+  "vocal_share": 0.17672869563102722,
+  "vocal_voiced": 0.24475524475524477,
+  "song_length": 206.0
+ }
+}

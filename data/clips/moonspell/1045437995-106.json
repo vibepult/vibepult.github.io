@@ -1,0 +1,32 @@
+{
+ "id": "moonspell/1045437995-106",
+ "band": "moonspell",
+ "title": "I Am the Eternal Spectator",
+ "source": "itunes",
+ "album": "The Butterfly Effect",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.94265504533773,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.9139825680065945,
+  "lufs": -10.865105157469579,
+  "rms_dbfs": -10.540119844784277,
+  "crest": 10.540119171142578,
+  "centroid": 3084.212967114548,
+  "flatness": 0.05287729576230049,
+  "sub100_share": 0.5397964715957642,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.780775785446167,
+  "clean_share": 0.06516679596586501,
+  "minor_share": -0.055514086659623096,
+  "chord_rate": 1.871090529990787,
+  "repetitiveness": 0.8726332187652588,
+  "vocal_share": 0.006234585307538509,
+  "vocal_voiced": 0.0,
+  "song_length": 211.773
+ }
+}

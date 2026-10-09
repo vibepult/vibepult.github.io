@@ -1,0 +1,32 @@
+{
+ "id": "toluca/1563938182-105",
+ "band": "toluca",
+ "title": "Vassago",
+ "source": "itunes",
+ "album": "Soras",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.338863162488484,
+  "tempo_var": 0.0,
+  "low_onset_rate": 1.9379151917761723,
+  "lufs": -11.908116051022382,
+  "rms_dbfs": -11.942423612728215,
+  "crest": 11.942423820495605,
+  "centroid": 1400.8373010517823,
+  "flatness": 0.004923191387206316,
+  "sub100_share": 0.27349355816841125,
+  "lowest_pitch": 102.28271484375,
+  "harmonic_share": 0.9112852215766907,
+  "clean_share": 0.8200155159038014,
+  "minor_share": -0.023371925557385986,
+  "chord_rate": 0.9021329341027009,
+  "repetitiveness": 0.6880530118942261,
+  "vocal_share": 7.561932875432831e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 315.467
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "loudness/1622412178-109",
+ "band": "loudness",
+ "title": "Kagayakeru 80's (Shining 80's) [Kagayakeru 80's Shining 80's]",
+ "source": "itunes",
+ "album": "Sunburst～我武者羅",
+ "year": 2021,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.3412330892692625,
+  "tempo_var": 1.4953994661565055,
+  "low_onset_rate": 2.940285118556951,
+  "lufs": -8.531149612727063,
+  "rms_dbfs": -7.9183330866407236,
+  "crest": 7.918333053588867,
+  "centroid": 2483.0504862082366,
+  "flatness": 0.025163063779473305,
+  "sub100_share": 0.24621827900409698,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.765086829662323,
+  "clean_share": 0.027928626842513578,
+  "minor_share": 0.029003086325736505,
+  "chord_rate": 2.138389177132328,
+  "repetitiveness": 0.8623704314231873,
+  "vocal_share": 0.3167969286441803,
+  "vocal_voiced": 0.7508474576271187,
+  "song_length": 324.093
+ }
+}

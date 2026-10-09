@@ -1,0 +1,32 @@
+{
+ "id": "neurosis/77645857-105",
+ "band": "neurosis",
+ "title": "Falling Unknown",
+ "source": "itunes",
+ "album": "A Sun That Never Sets",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 60.09265988372093,
+  "onset_rate": 1.5369672210638607,
+  "tempo_var": 31.659690271603925,
+  "low_onset_rate": 4.443840008728119,
+  "lufs": -19.963406434976363,
+  "rms_dbfs": -18.805967677928834,
+  "crest": 12.484392166137695,
+  "centroid": 1110.8463864240382,
+  "flatness": 0.0006961522740311921,
+  "sub100_share": 0.01274881325662136,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.9762318134307861,
+  "clean_share": 0.9736229635376261,
+  "minor_share": 0.03701552126249785,
+  "chord_rate": 1.7374412064200164,
+  "repetitiveness": 0.7984020113945007,
+  "vocal_share": 0.1544121652841568,
+  "vocal_voiced": 0.8742138364779874,
+  "song_length": 790.88
+ }
+}

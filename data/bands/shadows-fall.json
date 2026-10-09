@@ -1,0 +1,127 @@
+{
+ "slug": "shadows-fall",
+ "name": "Shadows Fall",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 18090585,
+  "deezer": 4504,
+  "spotify": "1HaiS1sFo8qkc6tF5Mw1M0"
+ },
+ "metadata": {
+  "formed": 1995,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 4,
+  "full_lengths": 7,
+  "genre": "Melodic Death Metal (early); Metalcore (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 24366,
+  "themes": "Inner struggles, Society, Positivity, Unity, Rastafarianism",
+  "release_year": 2005
+ },
+ "partial": false,
+ "clips": [
+  "shadows-fall/90084396-105",
+  "shadows-fall/1045370118-105",
+  "shadows-fall/1045530169-105",
+  "shadows-fall/250294138-105",
+  "shadows-fall/329942989-106",
+  "shadows-fall/1652802886-105",
+  "shadows-fall/90084396-106",
+  "shadows-fall/1045370118-106",
+  "shadows-fall/1045530169-106",
+  "shadows-fall/250294138-106",
+  "shadows-fall/329942989-105",
+  "shadows-fall/1652802886-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 65.27115703838108
+  },
+  "onset_rate": {
+   "median": 5.496328431847937,
+   "iqr": 2.007812265608065
+  },
+  "tempo_var": {
+   "median": 11.466126892364336,
+   "iqr": 13.848205041523752
+  },
+  "low_onset_rate": {
+   "median": 5.305163262161036,
+   "iqr": 2.0502538499551806
+  },
+  "lufs": {
+   "median": -9.012740830514286,
+   "iqr": 0.7965117874790053
+  },
+  "rms_dbfs": {
+   "median": -8.672943746861266,
+   "iqr": 1.1689936366083327
+  },
+  "crest": {
+   "median": 8.672943592071533,
+   "iqr": 1.1689937114715576
+  },
+  "centroid": {
+   "median": 2605.458943280937,
+   "iqr": 451.2117508319034
+  },
+  "flatness": {
+   "median": 0.035145340487360954,
+   "iqr": 0.018107693176716566
+  },
+  "sub100_share": {
+   "median": 0.3073502779006958,
+   "iqr": 0.20778468996286392
+  },
+  "lowest_pitch": {
+   "median": 49.7955322265625,
+   "iqr": 14.8040771484375
+  },
+  "harmonic_share": {
+   "median": 0.6951439380645752,
+   "iqr": 0.0912371277809143
+  },
+  "clean_share": {
+   "median": 0.012412723041117145,
+   "iqr": 0.08052070077165521
+  },
+  "minor_share": {
+   "median": 0.06182399475056194,
+   "iqr": 0.10656807464440769
+  },
+  "chord_rate": {
+   "median": 1.6681089691006048,
+   "iqr": 0.8219053350926806
+  },
+  "repetitiveness": {
+   "median": 0.8910293281078339,
+   "iqr": 0.11637496948242188
+  },
+  "vocal_share": {
+   "median": 0.16985400021076202,
+   "iqr": 0.06806822866201401
+  },
+  "vocal_voiced": {
+   "median": 0.37775231582520974,
+   "iqr": 0.4488094311576025
+  },
+  "song_length": {
+   "median": 251.475,
+   "iqr": 59.772749999999974
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

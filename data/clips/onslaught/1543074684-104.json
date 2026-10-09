@@ -1,0 +1,32 @@
+{
+ "id": "onslaught/1543074684-104",
+ "band": "onslaught",
+ "title": "Demoniac",
+ "source": "itunes",
+ "album": "The Force",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 67.99958881578948,
+  "onset_rate": 1.0023699267807789,
+  "tempo_var": 3.8817955581930907,
+  "low_onset_rate": 0.7684836105319304,
+  "lufs": -18.3249711158734,
+  "rms_dbfs": -19.574934261303557,
+  "crest": 16.953720092773438,
+  "centroid": 1264.2160832649672,
+  "flatness": 0.0038481869269162416,
+  "sub100_share": 0.1366487294435501,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.9920346140861511,
+  "clean_share": 0.9860356865787432,
+  "minor_share": -0.08421564018662064,
+  "chord_rate": 0.6682466178538525,
+  "repetitiveness": 0.6257519721984863,
+  "vocal_share": 1.2558682556118583e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 412.453
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "idi-bihotz/975285945-105",
+ "band": "idi-bihotz",
+ "title": "Otsoen habia",
+ "source": "itunes",
+ "album": "Negarraren amorrua",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 5.880570237113902,
+  "tempo_var": 27.20596939435036,
+  "low_onset_rate": 5.178911288367357,
+  "lufs": -10.030046536172271,
+  "rms_dbfs": -8.491485401608514,
+  "crest": 8.491485595703125,
+  "centroid": 2662.123636356834,
+  "flatness": 0.03089708834886551,
+  "sub100_share": 0.5993257761001587,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8062332272529602,
+  "clean_share": 0.10395655546935609,
+  "minor_share": -0.00899222117518006,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.8948332667350769,
+  "vocal_share": 0.006109512876719236,
+  "vocal_voiced": 0.5555555555555556,
+  "song_length": 249.973
+ }
+}

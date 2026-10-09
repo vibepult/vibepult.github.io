@@ -1,0 +1,32 @@
+{
+ "id": "therion/1492333737-105",
+ "band": "therion",
+ "title": "The Invincible",
+ "source": "itunes",
+ "album": "Deggial",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 2.6666666666666665,
+  "tempo_var": 10.3092445384021,
+  "low_onset_rate": 4.3,
+  "lufs": -9.065579370480402,
+  "rms_dbfs": -8.312383198381642,
+  "crest": 8.312383651733398,
+  "centroid": 2159.311958497273,
+  "flatness": 0.017731549218297005,
+  "sub100_share": 0.2757005989551544,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7448728084564209,
+  "clean_share": 0.1238390092879257,
+  "minor_share": 0.13510207487096026,
+  "chord_rate": 1.2,
+  "repetitiveness": 0.8292815685272217,
+  "vocal_share": 0.27833741903305054,
+  "vocal_voiced": 0.5043782837127846,
+  "song_length": 309.467
+ }
+}

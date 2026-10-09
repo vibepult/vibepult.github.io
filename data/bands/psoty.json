@@ -1,0 +1,123 @@
+{
+ "slug": "psoty",
+ "name": "PSOTY",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1471558920,
+  "deezer": 1200600,
+  "spotify": "7nM5qczzwOoamL01A5aFHj"
+ },
+ "metadata": {
+  "formed": 2008,
+  "split": null,
+  "country": "GB",
+  "status": "active",
+  "members": 4,
+  "past_members": 0,
+  "full_lengths": 2,
+  "genre": "Atmospheric Sludge/Post-Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 155,
+  "themes": "Hydrology, Mythology, Astronomy",
+  "release_year": 2019
+ },
+ "partial": false,
+ "clips": [
+  "psoty/1660433901-104",
+  "psoty/1660433901-105",
+  "psoty/1660433901-103",
+  "psoty/1660433901-106",
+  "psoty/1660433901-102",
+  "psoty/1660433901-107",
+  "psoty/1660433901-101",
+  "psoty/1660433901-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 99.9755859375,
+   "iqr": 38.757893715136916
+  },
+  "onset_rate": {
+   "median": 3.641944067303496,
+   "iqr": 1.7875597027590553
+  },
+  "tempo_var": {
+   "median": 7.183714134347602,
+   "iqr": 4.496213084076208
+  },
+  "low_onset_rate": {
+   "median": 3.9760673762304224,
+   "iqr": 2.188507673471367
+  },
+  "lufs": {
+   "median": -8.90155874979024,
+   "iqr": 6.245977617705799
+  },
+  "rms_dbfs": {
+   "median": -8.274876425132026,
+   "iqr": 6.11967670355628
+  },
+  "crest": {
+   "median": 8.274876832962036,
+   "iqr": 5.9851906299591064
+  },
+  "centroid": {
+   "median": 2140.098745295968,
+   "iqr": 1048.899618190529
+  },
+  "flatness": {
+   "median": 0.015503644477576017,
+   "iqr": 0.022481935455289204
+  },
+  "sub100_share": {
+   "median": 0.39265015721321106,
+   "iqr": 0.2299162531271577
+  },
+  "lowest_pitch": {
+   "median": 90.1702880859375,
+   "iqr": 34.31854248046875
+  },
+  "harmonic_share": {
+   "median": 0.8346011340618134,
+   "iqr": 0.07887142896652222
+  },
+  "clean_share": {
+   "median": 0.3056633048875097,
+   "iqr": 0.906710628394104
+  },
+  "minor_share": {
+   "median": 0.00630047677772938,
+   "iqr": 0.10870152668729177
+  },
+  "chord_rate": {
+   "median": 0.6682466178538525,
+   "iqr": 0.3341233089269262
+  },
+  "repetitiveness": {
+   "median": 0.85362708568573,
+   "iqr": 0.08702577650547028
+  },
+  "vocal_share": {
+   "median": 0.09441110491752625,
+   "iqr": 0.012108102440834045
+  },
+  "vocal_voiced": {
+   "median": 0.9349282296650717,
+   "iqr": 0.006517652827721432
+  },
+  "song_length": {
+   "median": 480.6465,
+   "iqr": 119.98624999999998
+  },
+  "vocal_presence": {
+   "median": 0.375,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

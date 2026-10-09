@@ -1,0 +1,32 @@
+{
+ "id": "einherjer/1750579915-103",
+ "band": "einherjer",
+ "title": "Alu Alu Laukar",
+ "source": "itunes",
+ "album": "Norrøn",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.799927438738644,
+  "tempo_var": 0.0,
+  "low_onset_rate": 7.03322701092954,
+  "lufs": -8.03740145874068,
+  "rms_dbfs": -7.943067219670902,
+  "crest": 7.9430670738220215,
+  "centroid": 2190.5249250934685,
+  "flatness": 0.020707741379737854,
+  "sub100_share": 0.30993449687957764,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.6878605484962463,
+  "clean_share": 0.005413766434648105,
+  "minor_share": 0.19982466319037834,
+  "chord_rate": 1.1666490302489758,
+  "repetitiveness": 0.9060705304145813,
+  "vocal_share": 0.17710256576538086,
+  "vocal_voiced": 0.12479608482871125,
+  "song_length": 171.189
+ }
+}

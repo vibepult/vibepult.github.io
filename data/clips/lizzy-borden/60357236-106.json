@@ -1,0 +1,32 @@
+{
+ "id": "lizzy-borden/60357236-106",
+ "band": "lizzy-borden",
+ "title": "Flesh Eater",
+ "source": "itunes",
+ "album": "Love You to Pieces",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.579859259079669,
+  "tempo_var": 9.782631164684725,
+  "low_onset_rate": 6.181281215148136,
+  "lufs": -8.073239014740217,
+  "rms_dbfs": -7.697969537752185,
+  "crest": 7.69796895980835,
+  "centroid": 2628.3382913366695,
+  "flatness": 0.03563743829727173,
+  "sub100_share": 0.18741475045681,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.712480902671814,
+  "clean_share": 0.0062063615205585725,
+  "minor_share": 0.12478141609510796,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.8965412378311157,
+  "vocal_share": 0.0838727205991745,
+  "vocal_voiced": 0.6120283018867925,
+  "song_length": 292.533
+ }
+}

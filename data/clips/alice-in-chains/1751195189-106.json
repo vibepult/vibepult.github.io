@@ -1,0 +1,32 @@
+{
+ "id": "alice-in-chains/1751195189-106",
+ "band": "alice-in-chains",
+ "title": "When The Sun Rose Again",
+ "source": "itunes",
+ "album": "Black Gives Way To Blue",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 4.530922321002278,
+  "tempo_var": 8.475663033519728,
+  "low_onset_rate": 5.297181242936487,
+  "lufs": -13.071174969853633,
+  "rms_dbfs": -12.420474919742945,
+  "crest": 12.420475006103516,
+  "centroid": 2350.514146049971,
+  "flatness": 0.018313124775886536,
+  "sub100_share": 0.2487785816192627,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.9088122844696045,
+  "clean_share": 0.3534416086620263,
+  "minor_share": 0.18677137389915532,
+  "chord_rate": 0.7662589219342089,
+  "repetitiveness": 0.9180310964584351,
+  "vocal_share": 0.3249611258506775,
+  "vocal_voiced": 0.6319018404907976,
+  "song_length": 240.24
+ }
+}

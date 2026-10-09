@@ -1,0 +1,32 @@
+{
+ "id": "bolt-thrower/63609704-105",
+ "band": "bolt-thrower",
+ "title": "As the World Burns",
+ "source": "itunes",
+ "album": "The IVth Crusade",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.940285118556951,
+  "tempo_var": 5.013034121109352,
+  "low_onset_rate": 5.145498957474664,
+  "lufs": -15.465856705901086,
+  "rms_dbfs": -15.66579631539396,
+  "crest": 14.87399673461914,
+  "centroid": 2647.2336009460537,
+  "flatness": 0.026546316221356392,
+  "sub100_share": 0.14980816841125488,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8053563833236694,
+  "clean_share": 0.062063615205585725,
+  "minor_share": -0.02357185743417317,
+  "chord_rate": 1.336493235707705,
+  "repetitiveness": 0.822500467300415,
+  "vocal_share": 0.06358809769153595,
+  "vocal_voiced": 0.17985611510791366,
+  "song_length": 325.093
+ }
+}

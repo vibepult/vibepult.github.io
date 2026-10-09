@@ -1,0 +1,32 @@
+{
+ "id": "machine-head/214355871-106",
+ "band": "machine-head",
+ "title": "From This Day",
+ "source": "itunes",
+ "album": "The Burning Red",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 6.132610213761643,
+  "tempo_var": 15.190391925124178,
+  "low_onset_rate": 5.699327970398048,
+  "lufs": -11.029829891326512,
+  "rms_dbfs": -10.404014572210542,
+  "crest": 10.404014587402344,
+  "centroid": 2488.602813542776,
+  "flatness": 0.03428218513727188,
+  "sub100_share": 0.3575860857963562,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.6742363572120667,
+  "clean_share": 0.015467904098994586,
+  "minor_share": -0.2168819765600114,
+  "chord_rate": 1.999764200139666,
+  "repetitiveness": 0.9593141674995422,
+  "vocal_share": 0.16874437034130096,
+  "vocal_voiced": 0.1395631067961165,
+  "song_length": 236.493
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "akercocke/76330425-105",
+ "band": "akercocke",
+ "title": "Masks of God",
+ "source": "itunes",
+ "album": "The Goat of Mendes",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.880570237113902,
+  "tempo_var": 23.069154319587735,
+  "low_onset_rate": 9.021329341027009,
+  "lufs": -11.924451013920455,
+  "rms_dbfs": -11.57386947425505,
+  "crest": 11.573868751525879,
+  "centroid": 2810.226881055029,
+  "flatness": 0.03015591949224472,
+  "sub100_share": 0.44554784893989563,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.7671929597854614,
+  "clean_share": 0.016291698991466253,
+  "minor_share": 0.06668157382037249,
+  "chord_rate": 2.138389177132328,
+  "repetitiveness": 0.9503867626190186,
+  "vocal_share": 0.09018542617559433,
+  "vocal_voiced": 0.5300613496932516,
+  "song_length": 292.587
+ }
+}

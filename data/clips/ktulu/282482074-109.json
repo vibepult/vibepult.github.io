@@ -1,0 +1,32 @@
+{
+ "id": "ktulu/282482074-109",
+ "band": "ktulu",
+ "title": "Carne Usada",
+ "source": "itunes",
+ "album": "Show Canibal",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 5.412797604616205,
+  "tempo_var": 13.243554343568103,
+  "low_onset_rate": 4.5106646705135045,
+  "lufs": -8.209390887369723,
+  "rms_dbfs": -8.128390504485582,
+  "crest": 8.128390312194824,
+  "centroid": 2223.8030287364263,
+  "flatness": 0.022917574271559715,
+  "sub100_share": 0.16171401739120483,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.5436463356018066,
+  "clean_share": 0.04499612102404965,
+  "minor_share": -0.07956738749264763,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.9346215128898621,
+  "vocal_share": 0.24870455265045166,
+  "vocal_voiced": 0.06725380304243395,
+  "song_length": 285.12
+ }
+}

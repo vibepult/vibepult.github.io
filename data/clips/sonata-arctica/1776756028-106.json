@@ -1,0 +1,32 @@
+{
+ "id": "sonata-arctica/1776756028-106",
+ "band": "sonata-arctica",
+ "title": "Alone in Heaven",
+ "source": "itunes",
+ "album": "Stones Grow Her Name",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 4.166666666666667,
+  "tempo_var": 35.703629796676445,
+  "low_onset_rate": 5.6,
+  "lufs": -9.434896457818068,
+  "rms_dbfs": -8.502792401228286,
+  "crest": 8.502792358398438,
+  "centroid": 2421.3181696549027,
+  "flatness": 0.026088058948516846,
+  "sub100_share": 0.39974430203437805,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.8148728609085083,
+  "clean_share": 0.058823529411764705,
+  "minor_share": -0.14283383456778975,
+  "chord_rate": 1.1,
+  "repetitiveness": 0.846127450466156,
+  "vocal_share": 0.13653218746185303,
+  "vocal_voiced": 0.8007075471698113,
+  "song_length": 271.533
+ }
+}

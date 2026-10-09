@@ -1,0 +1,32 @@
+{
+ "id": "gloryhammer/1183597485-106",
+ "band": "gloryhammer",
+ "title": "Silent Tears of Frozen Princess",
+ "source": "itunes",
+ "album": "Tales from the Kingdom of Fife",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 1.9,
+  "tempo_var": 32.30382007376248,
+  "low_onset_rate": 5.4,
+  "lufs": -15.31606685852395,
+  "rms_dbfs": -14.136247691252075,
+  "crest": 14.136247634887695,
+  "centroid": 1597.721839694103,
+  "flatness": 0.0032722160685807467,
+  "sub100_share": 0.34625768661499023,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.928572952747345,
+  "clean_share": 0.8544891640866873,
+  "minor_share": 0.08862550222299637,
+  "chord_rate": 0.8333333333333334,
+  "repetitiveness": 0.6267083883285522,
+  "vocal_share": 1.0632121529852157e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 334.12
+ }
+}

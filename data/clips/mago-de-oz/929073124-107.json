@@ -1,0 +1,32 @@
+{
+ "id": "mago-de-oz/929073124-107",
+ "band": "mago-de-oz",
+ "title": "Salvaje",
+ "source": "itunes",
+ "album": "Ilussia",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.132846013621976,
+  "tempo_var": 2.595949961158018,
+  "low_onset_rate": 5.665998567062387,
+  "lufs": -8.865171820119276,
+  "rms_dbfs": -8.450098464065924,
+  "crest": 8.450098991394043,
+  "centroid": 2683.9807799607515,
+  "flatness": 0.03765293210744858,
+  "sub100_share": 0.35551896691322327,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7601499557495117,
+  "clean_share": 0.04176334106728538,
+  "minor_share": 0.057056080266845555,
+  "chord_rate": 1.7997877801256994,
+  "repetitiveness": 0.8161225914955139,
+  "vocal_share": 0.2606450915336609,
+  "vocal_voiced": 0.666127728375101,
+  "song_length": 235.013
+ }
+}

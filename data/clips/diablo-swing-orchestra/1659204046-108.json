@@ -1,0 +1,32 @@
+{
+ "id": "diablo-swing-orchestra/1659204046-108",
+ "band": "diablo-swing-orchestra",
+ "title": "Infralove",
+ "source": "itunes",
+ "album": "The Butcher's Ballroom",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 4.6,
+  "tempo_var": 15.912492187041446,
+  "low_onset_rate": 3.433333333333333,
+  "lufs": -10.318737372787169,
+  "rms_dbfs": -9.975212652757005,
+  "crest": 9.975213050842285,
+  "centroid": 2331.089178866536,
+  "flatness": 0.027527038007974625,
+  "sub100_share": 0.20575806498527527,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7076113820075989,
+  "clean_share": 0.23606811145510836,
+  "minor_share": 0.12361362525994385,
+  "chord_rate": 3.1666666666666665,
+  "repetitiveness": 0.9055615663528442,
+  "vocal_share": 0.14232127368450165,
+  "vocal_voiced": 0.5010775862068966,
+  "song_length": 294.4
+ }
+}

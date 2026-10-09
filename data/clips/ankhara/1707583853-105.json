@@ -1,0 +1,32 @@
+{
+ "id": "ankhara/1707583853-105",
+ "band": "ankhara",
+ "title": "Sigo En Pie",
+ "source": "itunes",
+ "album": "Sinergia",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.833156971822469,
+  "tempo_var": 12.369043573023859,
+  "low_onset_rate": 5.733159995162656,
+  "lufs": -6.360192948498995,
+  "rms_dbfs": -6.1521411365798215,
+  "crest": 6.152141094207764,
+  "centroid": 2539.4622825523297,
+  "flatness": 0.03708161413669586,
+  "sub100_share": 0.2654948830604553,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.6670445203781128,
+  "clean_share": 0.005413766434648105,
+  "minor_share": 0.24952973746260004,
+  "chord_rate": 1.566619301003749,
+  "repetitiveness": 0.8557651042938232,
+  "vocal_share": 0.14908741414546967,
+  "vocal_voiced": 0.6045197740112994,
+  "song_length": 252.693
+ }
+}

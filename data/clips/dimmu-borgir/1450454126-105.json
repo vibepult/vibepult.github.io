@@ -1,0 +1,32 @@
+{
+ "id": "dimmu-borgir/1450454126-105",
+ "band": "dimmu-borgir",
+ "title": "The Night Masquerade",
+ "source": "itunes",
+ "album": "Enthrone Darkness Triumphant",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 1.1666596120356036,
+  "tempo_var": 5.554310679236625,
+  "low_onset_rate": 1.133326480263158,
+  "lufs": -9.240946145465701,
+  "rms_dbfs": -9.428218086823515,
+  "crest": 9.428218841552734,
+  "centroid": 2718.503516269907,
+  "flatness": 0.05813591554760933,
+  "sub100_share": 0.3488747477531433,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8092844486236572,
+  "clean_share": 0.0,
+  "minor_share": -0.10644426061364387,
+  "chord_rate": 2.033321038119195,
+  "repetitiveness": 0.9069443345069885,
+  "vocal_share": 0.00026403609081171453,
+  "vocal_voiced": 0.8631578947368421,
+  "song_length": 265.4
+ }
+}

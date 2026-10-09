@@ -1,0 +1,32 @@
+{
+ "id": "the-crown/1544149796-106",
+ "band": "the-crown",
+ "title": "Full Metal Justice",
+ "source": "itunes",
+ "album": "Royal Destroyer",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 6.348342869611598,
+  "tempo_var": 7.024837897888578,
+  "low_onset_rate": 7.484362119963148,
+  "lufs": -7.974174212892142,
+  "rms_dbfs": -7.233904496096457,
+  "crest": 7.233904838562012,
+  "centroid": 2607.2334335514333,
+  "flatness": 0.038974788039922714,
+  "sub100_share": 0.33317530155181885,
+  "lowest_pitch": 29.608154296875,
+  "harmonic_share": 0.7032079696655273,
+  "clean_share": 0.0031031807602792862,
+  "minor_share": 0.1251256207333632,
+  "chord_rate": 2.0047398535615577,
+  "repetitiveness": 0.9090275168418884,
+  "vocal_share": 0.14692196249961853,
+  "vocal_voiced": 0.24446680080482897,
+  "song_length": 181.079
+ }
+}

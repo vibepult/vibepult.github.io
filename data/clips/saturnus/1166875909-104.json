@@ -1,0 +1,32 @@
+{
+ "id": "saturnus/1166875909-104",
+ "band": "saturnus",
+ "title": "Rain Wash Me",
+ "source": "itunes",
+ "album": "Veronica Decides to Die",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 2.0381521844542503,
+  "tempo_var": 31.321637334400787,
+  "low_onset_rate": 4.945024972118508,
+  "lufs": -22.71789021807596,
+  "rms_dbfs": -22.4552785628831,
+  "crest": 14.729762077331543,
+  "centroid": 791.3683344354675,
+  "flatness": 0.000170495972270146,
+  "sub100_share": 0.0315236859023571,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.9868465065956116,
+  "clean_share": 0.9930178432893716,
+  "minor_share": 0.207613532218886,
+  "chord_rate": 0.5680096251757746,
+  "repetitiveness": 0.6525305509567261,
+  "vocal_share": 0.04026675969362259,
+  "vocal_voiced": 1.0,
+  "song_length": 443.227
+ }
+}

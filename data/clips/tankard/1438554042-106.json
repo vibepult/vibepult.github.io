@@ -1,0 +1,32 @@
+{
+ "id": "tankard/1438554042-106",
+ "band": "tankard",
+ "title": "For a Thousand Beers (2017 Remaster)",
+ "source": "itunes",
+ "album": "Chemical Invasion",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.6085317364108036,
+  "tempo_var": 11.168471061427248,
+  "low_onset_rate": 5.379385273723512,
+  "lufs": -18.07588892565291,
+  "rms_dbfs": -17.425096468917797,
+  "crest": 14.012585639953613,
+  "centroid": 774.8811658441763,
+  "flatness": 0.00014930123870726675,
+  "sub100_share": 0.041325893253088,
+  "lowest_pitch": 107.666015625,
+  "harmonic_share": 0.978338897228241,
+  "clean_share": 0.9984484096198604,
+  "minor_share": -0.17746004753987643,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.617788553237915,
+  "vocal_share": 1.4044148883840535e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 443.8
+ }
+}

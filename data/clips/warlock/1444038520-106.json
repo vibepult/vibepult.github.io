@@ -1,0 +1,32 @@
+{
+ "id": "warlock/1444038520-106",
+ "band": "warlock",
+ "title": "Out of Control",
+ "source": "itunes",
+ "album": "Hellbound",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 1.9379151917761723,
+  "tempo_var": 10.342462356229532,
+  "low_onset_rate": 3.1407591039131066,
+  "lufs": -18.247912085152482,
+  "rms_dbfs": -18.171346952404527,
+  "crest": 16.845125198364258,
+  "centroid": 1893.8695237657887,
+  "flatness": 0.008676943369209766,
+  "sub100_share": 0.133475199341774,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8734431266784668,
+  "clean_share": 0.6245151280062063,
+  "minor_share": -0.055212762973736784,
+  "chord_rate": 0.7684836105319304,
+  "repetitiveness": 0.6594641804695129,
+  "vocal_share": 0.174065500497818,
+  "vocal_voiced": 0.5330275229357798,
+  "song_length": 289.133
+ }
+}

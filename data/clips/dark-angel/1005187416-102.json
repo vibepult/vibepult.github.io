@@ -1,0 +1,32 @@
+{
+ "id": "dark-angel/1005187416-102",
+ "band": "dark-angel",
+ "title": "Never to Rise Again",
+ "source": "itunes",
+ "album": "Leave Scars",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.178911288367357,
+  "tempo_var": 1.4402160634844727,
+  "low_onset_rate": 8.754030693885468,
+  "lufs": -7.354877508205692,
+  "rms_dbfs": -6.805270430605852,
+  "crest": 6.805270195007324,
+  "centroid": 2291.852363269018,
+  "flatness": 0.023323597386479378,
+  "sub100_share": 0.40974360704421997,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7376524209976196,
+  "clean_share": 0.02404965089216447,
+  "minor_share": 0.0032435119382371314,
+  "chord_rate": 3.040522111235029,
+  "repetitiveness": 0.9666163921356201,
+  "vocal_share": 0.25999173521995544,
+  "vocal_voiced": 0.22759226713532513,
+  "song_length": 231.293
+ }
+}

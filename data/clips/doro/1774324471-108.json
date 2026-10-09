@@ -1,0 +1,32 @@
+{
+ "id": "doro/1774324471-108",
+ "band": "doro",
+ "title": "Sister Darkness",
+ "source": "itunes",
+ "album": "Fight",
+ "year": 2002,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.766616478612633,
+  "tempo_var": 2.1455284424207175,
+  "low_onset_rate": 5.3999020425933315,
+  "lufs": -8.302565213507586,
+  "rms_dbfs": -8.127603268925656,
+  "crest": 8.127602577209473,
+  "centroid": 2629.875600853968,
+  "flatness": 0.026455344632267952,
+  "sub100_share": 0.36394500732421875,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7725006937980652,
+  "clean_share": 0.037122969837587005,
+  "minor_share": 0.16359113221688748,
+  "chord_rate": 1.4333073322932917,
+  "repetitiveness": 0.826468825340271,
+  "vocal_share": 0.07508178800344467,
+  "vocal_voiced": 0.8780068728522337,
+  "song_length": 285.6
+ }
+}

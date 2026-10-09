@@ -1,0 +1,32 @@
+{
+ "id": "unisonic/1298872167-103",
+ "band": "unisonic",
+ "title": "Never Too Late",
+ "source": "itunes",
+ "album": "Unisonic",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 3.809005721766959,
+  "tempo_var": 27.676053669791578,
+  "low_onset_rate": 4.677726324976968,
+  "lufs": -8.095467411510505,
+  "rms_dbfs": -8.11173257167379,
+  "crest": 8.111732482910156,
+  "centroid": 2574.1266281356534,
+  "flatness": 0.03181317448616028,
+  "sub100_share": 0.1905192881822586,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6715691089630127,
+  "clean_share": 0.037238169123351435,
+  "minor_share": -0.19783676024263142,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.8412314057350159,
+  "vocal_share": 0.42953425645828247,
+  "vocal_voiced": 0.7537511032656664,
+  "song_length": 270.453
+ }
+}

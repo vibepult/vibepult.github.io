@@ -1,0 +1,32 @@
+{
+ "id": "anathema/1030782699-105",
+ "band": "anathema",
+ "title": "The Lost Song Part 3",
+ "source": "itunes",
+ "album": "Distant Satellites (Tour Edition)",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.847157906221209,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 4.9784373030112015,
+  "lufs": -13.952979982650845,
+  "rms_dbfs": -12.365871974405866,
+  "crest": 12.36587142944336,
+  "centroid": 1497.5203780998822,
+  "flatness": 0.006066132802516222,
+  "sub100_share": 0.4158790111541748,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7710055708885193,
+  "clean_share": 0.6702870442203258,
+  "minor_share": 0.11103719966283443,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.7614524364471436,
+  "vocal_share": 0.15785671770572662,
+  "vocal_voiced": 0.8938053097345132,
+  "song_length": 322.173
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "cro-mags/1506072113-106",
+ "band": "cro-mags",
+ "title": "PTSD",
+ "source": "itunes",
+ "album": "In the Beginning",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 5.178911288367357,
+  "tempo_var": 16.409802555867977,
+  "low_onset_rate": 6.348342869611598,
+  "lufs": -9.256256542442408,
+  "rms_dbfs": -8.458424249750312,
+  "crest": 8.45842456817627,
+  "centroid": 2075.4857293754703,
+  "flatness": 0.013527055270969868,
+  "sub100_share": 0.371227502822876,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7572534680366516,
+  "clean_share": 0.0682699767261443,
+  "minor_share": -0.05335274607314,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.8272790312767029,
+  "vocal_share": 1.6519218206667574e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 210.741
+ }
+}

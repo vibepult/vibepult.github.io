@@ -1,0 +1,127 @@
+{
+ "slug": "riverside",
+ "name": "Riverside",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 60726978,
+  "deezer": 15972,
+  "spotify": "5yjbUO1Jocui7RKE30zfLT"
+ },
+ "metadata": {
+  "formed": 2001,
+  "split": null,
+  "country": "PL",
+  "status": "active",
+  "members": 2,
+  "past_members": 4,
+  "full_lengths": 8,
+  "genre": "Progressive Rock/Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 43425,
+  "themes": "Inner struggles, Mental disorders, Modernity, Love",
+  "release_year": 2010
+ },
+ "partial": false,
+ "clips": [
+  "riverside/1536003559-105",
+  "riverside/1045596629-105",
+  "riverside/1045553656-105",
+  "riverside/1148788808-104",
+  "riverside/1030437353-105",
+  "riverside/1416948034-105",
+  "riverside/1647619910-104",
+  "riverside/1536003559-104",
+  "riverside/1045596629-104",
+  "riverside/1045553656-104",
+  "riverside/1148788808-103",
+  "riverside/1030437353-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 103.359375,
+   "iqr": 39.185439443581615
+  },
+  "onset_rate": {
+   "median": 4.3537527739654145,
+   "iqr": 1.4505886914784751
+  },
+  "tempo_var": {
+   "median": 14.928015110570287,
+   "iqr": 13.85013725139138
+  },
+  "low_onset_rate": {
+   "median": 4.9209115676295365,
+   "iqr": 1.8110373245303895
+  },
+  "lufs": {
+   "median": -11.016107304972808,
+   "iqr": 2.1536854115945268
+  },
+  "rms_dbfs": {
+   "median": -10.057437365205434,
+   "iqr": 2.106358784969821
+  },
+  "crest": {
+   "median": 10.057437419891357,
+   "iqr": 2.1063592433929443
+  },
+  "centroid": {
+   "median": 1770.4073833077111,
+   "iqr": 527.6737375963669
+  },
+  "flatness": {
+   "median": 0.0096330507658422,
+   "iqr": 0.007858688361011446
+  },
+  "sub100_share": {
+   "median": 0.28221410512924194,
+   "iqr": 0.1296250782907009
+  },
+  "lowest_pitch": {
+   "median": 55.1788330078125,
+   "iqr": 24.89776611328125
+  },
+  "harmonic_share": {
+   "median": 0.8365495800971985,
+   "iqr": 0.06432631611824036
+  },
+  "clean_share": {
+   "median": 0.47676394406354683,
+   "iqr": 0.35024992845044367
+  },
+  "minor_share": {
+   "median": 0.09152648208498693,
+   "iqr": 0.2809330190973928
+  },
+  "chord_rate": {
+   "median": 1.3344912792096981,
+   "iqr": 0.6535674333617383
+  },
+  "repetitiveness": {
+   "median": 0.7786421179771423,
+   "iqr": 0.22943760454654694
+  },
+  "vocal_share": {
+   "median": 0.20448991656303406,
+   "iqr": 0.036330446600914
+  },
+  "vocal_voiced": {
+   "median": 0.8650990099009901,
+   "iqr": 0.10769598330112873
+  },
+  "song_length": {
+   "median": 353.01800000000003,
+   "iqr": 129.87674999999996
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.0,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

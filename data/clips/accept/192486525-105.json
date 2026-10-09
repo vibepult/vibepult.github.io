@@ -1,0 +1,32 @@
+{
+ "id": "accept/192486525-105",
+ "band": "accept",
+ "title": "Neon Nights",
+ "source": "itunes",
+ "album": "Restless and Wild",
+ "year": 1982,
+ "itunes_year": 1983,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 1.8654850517963677,
+  "tempo_var": 21.207976684951948,
+  "low_onset_rate": 3.631033404389359,
+  "lufs": -17.911757650612667,
+  "rms_dbfs": -17.25402831841198,
+  "crest": 17.25376319885254,
+  "centroid": 1770.4131244232963,
+  "flatness": 0.01012143213301897,
+  "sub100_share": 0.12311387062072754,
+  "lowest_pitch": 123.81591796875,
+  "harmonic_share": 0.814714789390564,
+  "clean_share": 0.6511987625676721,
+  "minor_share": 0.21565508475749773,
+  "chord_rate": 1.7322361195251987,
+  "repetitiveness": 0.7410563230514526,
+  "vocal_share": 3.010798536706716e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 361.173
+ }
+}

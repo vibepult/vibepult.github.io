@@ -1,0 +1,32 @@
+{
+ "id": "myrkur/1488542865-105",
+ "band": "myrkur",
+ "title": "Tor i Helheim",
+ "source": "itunes",
+ "album": "Folkesange",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 0.9666666666666667,
+  "tempo_var": 15.21393484356637,
+  "low_onset_rate": 6.5,
+  "lufs": -13.025433151846565,
+  "rms_dbfs": -16.25949013681315,
+  "crest": 13.810758590698242,
+  "centroid": 1277.7098385980541,
+  "flatness": 0.0005819269572384655,
+  "sub100_share": 1.0239656148769427e-05,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.9549628496170044,
+  "clean_share": 0.9914860681114551,
+  "minor_share": -0.15327064091481624,
+  "chord_rate": 1.1666666666666667,
+  "repetitiveness": 0.494349867105484,
+  "vocal_share": 0.43231889605522156,
+  "vocal_voiced": 0.951856946354883,
+  "song_length": 430.223
+ }
+}

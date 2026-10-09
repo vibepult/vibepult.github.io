@@ -1,0 +1,32 @@
+{
+ "id": "jack-frost/265250569-106",
+ "band": "jack-frost",
+ "title": "Room of Light",
+ "source": "itunes",
+ "album": "Eden",
+ "year": 1995,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 2.2720385007030983,
+  "tempo_var": 24.84808386447609,
+  "low_onset_rate": 3.641944067303496,
+  "lufs": -9.693700159316482,
+  "rms_dbfs": -9.005974090494668,
+  "crest": 9.005973815917969,
+  "centroid": 2190.571012821246,
+  "flatness": 0.008133175782859325,
+  "sub100_share": 0.19499966502189636,
+  "lowest_pitch": 88.824462890625,
+  "harmonic_share": 0.9080419540405273,
+  "clean_share": 0.5329712955779674,
+  "minor_share": -0.02235030986029929,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.5952795743942261,
+  "vocal_share": 5.368144115891482e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 388.733
+ }
+}

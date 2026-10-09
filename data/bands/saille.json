@@ -1,0 +1,127 @@
+{
+ "slug": "saille",
+ "name": "Saille",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 420940071,
+  "deezer": 878634,
+  "spotify": "04a7ooq8yn6IGkh2ohqoRY"
+ },
+ "metadata": {
+  "formed": 2009,
+  "split": null,
+  "country": "BE",
+  "status": "active",
+  "members": 5,
+  "past_members": 14,
+  "full_lengths": 6,
+  "genre": "Symphonic Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 1170,
+  "themes": "Gnosis, Mythology, H.P. Lovecraft, Death Rites, Satanism",
+  "release_year": 2015
+ },
+ "partial": false,
+ "clips": [
+  "saille/420940063-105",
+  "saille/587098293-105",
+  "saille/916473938-105",
+  "saille/1201424413-105",
+  "saille/1550297724-104",
+  "saille/1867776644-104",
+  "saille/420940063-106",
+  "saille/587098293-104",
+  "saille/916473938-104",
+  "saille/1201424413-104",
+  "saille/1550297724-105",
+  "saille/1867776644-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.90049098320159,
+   "iqr": 20.681340144230774
+  },
+  "onset_rate": {
+   "median": 5.830451740774863,
+   "iqr": 4.337407332140824
+  },
+  "tempo_var": {
+   "median": 6.617871693533155,
+   "iqr": 6.024169024559647
+  },
+  "low_onset_rate": {
+   "median": 8.283208114767728,
+   "iqr": 2.656280305969063
+  },
+  "lufs": {
+   "median": -8.765991314589325,
+   "iqr": 1.9860437098412929
+  },
+  "rms_dbfs": {
+   "median": -8.114638965921804,
+   "iqr": 1.51055472316685
+  },
+  "crest": {
+   "median": 8.114638328552246,
+   "iqr": 1.5105551481246948
+  },
+  "centroid": {
+   "median": 2368.0255384806887,
+   "iqr": 86.30160198059957
+  },
+  "flatness": {
+   "median": 0.02774212136864662,
+   "iqr": 0.010907286778092384
+  },
+  "sub100_share": {
+   "median": 0.3256230056285858,
+   "iqr": 0.16301453113555908
+  },
+  "lowest_pitch": {
+   "median": 48.44970703125,
+   "iqr": 3.36456298828125
+  },
+  "harmonic_share": {
+   "median": 0.8414144515991211,
+   "iqr": 0.09184138476848602
+  },
+  "clean_share": {
+   "median": 0.003878975950349108,
+   "iqr": 0.030837858805275405
+  },
+  "minor_share": {
+   "median": 0.08688220438460525,
+   "iqr": 0.26174845217829534
+  },
+  "chord_rate": {
+   "median": 0.9510986593151296,
+   "iqr": 0.17541473718663614
+  },
+  "repetitiveness": {
+   "median": 0.9051350653171539,
+   "iqr": 0.11349570751190186
+  },
+  "vocal_share": {
+   "median": 0.07328561320900917,
+   "iqr": 0.03065320197492838
+  },
+  "vocal_voiced": {
+   "median": 0.31613836335485823,
+   "iqr": 0.1146951721466013
+  },
+  "song_length": {
+   "median": 363.227,
+   "iqr": 96.16075000000001
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.5,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

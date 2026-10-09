@@ -1,0 +1,32 @@
+{
+ "id": "lizzy-borden/1357802684-107",
+ "band": "lizzy-borden",
+ "title": "Run Away with Me",
+ "source": "itunes",
+ "album": "My Midnight Things",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.343603016050041,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.746920913543131,
+  "lufs": -9.179795586529762,
+  "rms_dbfs": -8.856258789679078,
+  "crest": 8.856258392333984,
+  "centroid": 2894.2076478679155,
+  "flatness": 0.04600287973880768,
+  "sub100_share": 0.3276757597923279,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7261095643043518,
+  "clean_share": 0.012412723041117145,
+  "minor_share": -0.32852051770171475,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.8167601227760315,
+  "vocal_share": 0.2326292097568512,
+  "vocal_voiced": 0.6545454545454545,
+  "song_length": 266.482
+ }
+}

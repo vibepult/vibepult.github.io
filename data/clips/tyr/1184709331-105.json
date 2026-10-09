@@ -1,0 +1,32 @@
+{
+ "id": "tyr/1184709331-105",
+ "band": "tyr",
+ "title": "Turio Torkilsdottir",
+ "source": "itunes",
+ "album": "By the Light of the Northern Star",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 0.8666666666666667,
+  "tempo_var": 6.621995384451976,
+  "low_onset_rate": 1.2,
+  "lufs": -8.310894197948544,
+  "rms_dbfs": -8.400675617118035,
+  "crest": 8.400675773620605,
+  "centroid": 2280.2430308867006,
+  "flatness": 0.018789397552609444,
+  "sub100_share": 0.24072898924350739,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.8877629041671753,
+  "clean_share": 0.19195046439628483,
+  "minor_share": 0.09703526531087359,
+  "chord_rate": 0.8,
+  "repetitiveness": 0.6537661552429199,
+  "vocal_share": 0.29518088698387146,
+  "vocal_voiced": 0.5367278797996661,
+  "song_length": 259.587
+ }
+}

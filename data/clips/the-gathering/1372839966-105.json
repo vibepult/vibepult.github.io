@@ -1,0 +1,32 @@
+{
+ "id": "the-gathering/1372839966-105",
+ "band": "the-gathering",
+ "title": "Nobody Dares",
+ "source": "itunes",
+ "album": "Almost a Dance",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 4.209953692479271,
+  "tempo_var": 19.269573795502758,
+  "low_onset_rate": 6.515404524075062,
+  "lufs": -17.163847109260864,
+  "rms_dbfs": -16.237199457409066,
+  "crest": 13.609171867370605,
+  "centroid": 1394.4147247785863,
+  "flatness": 0.0023581080604344606,
+  "sub100_share": 0.03425510227680206,
+  "lowest_pitch": 99.591064453125,
+  "harmonic_share": 0.938758909702301,
+  "clean_share": 0.9154383242823895,
+  "minor_share": 0.06454049621338398,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.6825000047683716,
+  "vocal_share": 0.4175702631473541,
+  "vocal_voiced": 0.9627714581178903,
+  "song_length": 207.947
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "paracrona/1727450003-107",
+ "band": "paracrona",
+ "title": "Therefore I Move The Time",
+ "source": "itunes",
+ "album": "Sun God",
+ "year": 2023,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 6.0,
+  "tempo_var": 5.898036932310322,
+  "low_onset_rate": 8.133333333333333,
+  "lufs": -11.018270867133074,
+  "rms_dbfs": -9.743579261548716,
+  "crest": 9.743579864501953,
+  "centroid": 2344.317326885428,
+  "flatness": 0.024963242933154106,
+  "sub100_share": 0.4967499375343323,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7939001321792603,
+  "clean_share": 0.023993808049535603,
+  "minor_share": 0.1924077745368139,
+  "chord_rate": 1.1666666666666667,
+  "repetitiveness": 0.8623360395431519,
+  "vocal_share": 0.03895653411746025,
+  "vocal_voiced": 0.6722817764165391,
+  "song_length": 365.916
+ }
+}

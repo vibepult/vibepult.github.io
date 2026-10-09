@@ -1,0 +1,32 @@
+{
+ "id": "firewind/1045217378-106",
+ "band": "firewind",
+ "title": "Escape From Tomorrow",
+ "source": "itunes",
+ "album": "Forged By Fire",
+ "year": 2004,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 7.150238811036222,
+  "tempo_var": 23.257814716496476,
+  "low_onset_rate": 8.386495054065849,
+  "lufs": -7.3219930811089675,
+  "rms_dbfs": -7.065975129834735,
+  "crest": 7.065975189208984,
+  "centroid": 2702.4588387843773,
+  "flatness": 0.0414055660367012,
+  "sub100_share": 0.3156288266181946,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.7899963855743408,
+  "clean_share": 0.0,
+  "minor_share": 0.180262488217048,
+  "chord_rate": 2.472512486059254,
+  "repetitiveness": 0.8588593602180481,
+  "vocal_share": 0.16979651153087616,
+  "vocal_voiced": 0.7564575645756457,
+  "song_length": 231.147
+ }
+}

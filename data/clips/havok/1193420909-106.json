@@ -1,0 +1,32 @@
+{
+ "id": "havok/1193420909-106",
+ "band": "havok",
+ "title": "Masterplan",
+ "source": "itunes",
+ "album": "Conformicide",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 3.94265504533773,
+  "tempo_var": 16.939296958072077,
+  "low_onset_rate": 6.682466178538525,
+  "lufs": -12.65995167450464,
+  "rms_dbfs": -12.692906546564892,
+  "crest": 12.69290542602539,
+  "centroid": 2422.2573444433256,
+  "flatness": 0.023372111842036247,
+  "sub100_share": 0.022083383053541183,
+  "lowest_pitch": 102.28271484375,
+  "harmonic_share": 0.8326757550239563,
+  "clean_share": 0.12800620636152055,
+  "minor_share": 0.05941050219676236,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.9033474326133728,
+  "vocal_share": 1.8872866576202796e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 385.347
+ }
+}

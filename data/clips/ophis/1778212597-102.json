@@ -1,0 +1,32 @@
+{
+ "id": "ophis/1778212597-102",
+ "band": "ophis",
+ "title": "Engulfed in White Noise",
+ "source": "itunes",
+ "album": "The Dismal Circle",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 1.2666283710243076,
+  "tempo_var": 11.727175746651998,
+  "low_onset_rate": 4.3665346474785345,
+  "lufs": -14.307203173813056,
+  "rms_dbfs": -13.525597285046356,
+  "crest": 13.525596618652344,
+  "centroid": 2323.051728332783,
+  "flatness": 0.01572873443365097,
+  "sub100_share": 0.37950536608695984,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8271691203117371,
+  "clean_share": 0.08507347254447023,
+  "minor_share": 0.10610907736365582,
+  "chord_rate": 0.9666374410448664,
+  "repetitiveness": 0.6828523874282837,
+  "vocal_share": 1.2698141063083312e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 803.018
+ }
+}

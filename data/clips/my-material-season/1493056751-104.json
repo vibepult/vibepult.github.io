@@ -1,0 +1,32 @@
+{
+ "id": "my-material-season/1493056751-104",
+ "band": "my-material-season",
+ "title": "Piano of the Grass",
+ "source": "itunes",
+ "album": "Mind of You Fragile in Vitroform",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 1.5035548901711682,
+  "tempo_var": 2.6784712662566292,
+  "low_onset_rate": 3.5082947437327254,
+  "lufs": -20.935601950908712,
+  "rms_dbfs": -20.296869097250237,
+  "crest": 14.56357479095459,
+  "centroid": 1117.1409198392453,
+  "flatness": 0.0004097642085980624,
+  "sub100_share": 0.09826724976301193,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.9717627763748169,
+  "clean_share": 0.9992242048099301,
+  "minor_share": 0.009663133295802706,
+  "chord_rate": 0.8353082723173156,
+  "repetitiveness": 0.5608760714530945,
+  "vocal_share": 4.868788892053999e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 343.933
+ }
+}

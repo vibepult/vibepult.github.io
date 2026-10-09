@@ -1,0 +1,127 @@
+{
+ "slug": "nails",
+ "name": "Nails",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 962953545,
+  "deezer": 1336421,
+  "spotify": "69a2GzMCkrrTrN9iVmP8Ys"
+ },
+ "metadata": {
+  "formed": 2007,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 3,
+  "past_members": 6,
+  "full_lengths": 4,
+  "genre": "Grindcore/Powerviolence/Hardcore",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 8421,
+  "themes": "Anti-Christianity, Death, Hate, Nihilism, Violence, Despotism",
+  "release_year": 2014
+ },
+ "partial": false,
+ "clips": [
+  "nails/1536434743-110",
+  "nails/608642936-105",
+  "nails/1457025595-105",
+  "nails/1747561948-105",
+  "nails/1536434743-105",
+  "nails/608642936-104",
+  "nails/1457025595-110",
+  "nails/1747561948-109",
+  "nails/1536434743-115",
+  "nails/608642936-110",
+  "nails/1747561948-104",
+  "nails/1747561948-110"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 110.40660511363637,
+   "iqr": 37.4267578125
+  },
+  "onset_rate": {
+   "median": 2.8499924414667186,
+   "iqr": 2.975005290973297
+  },
+  "tempo_var": {
+   "median": 12.12348434944983,
+   "iqr": 10.554728546356891
+  },
+  "low_onset_rate": {
+   "median": 4.683321138899639,
+   "iqr": 4.600014865115455
+  },
+  "lufs": {
+   "median": -7.778314820481351,
+   "iqr": 0.797074178971398
+  },
+  "rms_dbfs": {
+   "median": -7.3937048265745995,
+   "iqr": 1.2215835558020638
+  },
+  "crest": {
+   "median": 7.393705129623413,
+   "iqr": 1.2215834856033325
+  },
+  "centroid": {
+   "median": 2708.774037728676,
+   "iqr": 180.01214524245506
+  },
+  "flatness": {
+   "median": 0.042629798874258995,
+   "iqr": 0.009934700094163418
+  },
+  "sub100_share": {
+   "median": 0.3375566154718399,
+   "iqr": 0.08161559700965881
+  },
+  "lowest_pitch": {
+   "median": 57.8704833984375,
+   "iqr": 11.43951416015625
+  },
+  "harmonic_share": {
+   "median": 0.7715532183647156,
+   "iqr": 0.042341575026512146
+  },
+  "clean_share": {
+   "median": 0.0003866976024748647,
+   "iqr": 0.0023206345671740423
+  },
+  "minor_share": {
+   "median": 0.005677172514960166,
+   "iqr": 0.11931369925779231
+  },
+  "chord_rate": {
+   "median": 2.266652960526316,
+   "iqr": 0.9666562862809598
+  },
+  "repetitiveness": {
+   "median": 0.893507331609726,
+   "iqr": 0.09476739168167114
+  },
+  "vocal_share": {
+   "median": 0.05866163223981857,
+   "iqr": 0.03196539357304573
+  },
+  "vocal_voiced": {
+   "median": 0.15873015873015872,
+   "iqr": 0.17513516800636866
+  },
+  "song_length": {
+   "median": 200.372,
+   "iqr": 65.20675
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.0,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

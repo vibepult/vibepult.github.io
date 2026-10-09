@@ -1,0 +1,32 @@
+{
+ "id": "soundgarden/1440811129-108",
+ "band": "soundgarden",
+ "title": "Spoonman",
+ "source": "itunes",
+ "album": "Superunknown (20th Anniversary)",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 4.264552119281746,
+  "tempo_var": 24.05725144097379,
+  "low_onset_rate": 3.5315822237801964,
+  "lufs": -7.809947879722519,
+  "rms_dbfs": -7.271278802669178,
+  "crest": 7.271279335021973,
+  "centroid": 2385.4728476035702,
+  "flatness": 0.025958474725484848,
+  "sub100_share": 0.45509618520736694,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8451171517372131,
+  "clean_share": 0.16241299303944315,
+  "minor_share": 0.10017991062138487,
+  "chord_rate": 2.5320778208235373,
+  "repetitiveness": 0.7278178930282593,
+  "vocal_share": 0.01915580779314041,
+  "vocal_voiced": 0.43761996161228406,
+  "song_length": 246.92
+ }
+}

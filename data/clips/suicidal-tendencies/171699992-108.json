@@ -1,0 +1,32 @@
+{
+ "id": "suicidal-tendencies/171699992-108",
+ "band": "suicidal-tendencies",
+ "title": "Straight from the Heart",
+ "source": "itunes",
+ "album": "Free Your Soul...and Save My Mind",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.5106646705135045,
+  "tempo_var": 14.359984434486048,
+  "low_onset_rate": 5.646683920865054,
+  "lufs": -7.624151469748074,
+  "rms_dbfs": -6.711286181324728,
+  "crest": 6.711285591125488,
+  "centroid": 2452.3990599428453,
+  "flatness": 0.02468165196478367,
+  "sub100_share": 0.2306622713804245,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.7199010848999023,
+  "clean_share": 0.20558572536850273,
+  "minor_share": 0.019394954371041218,
+  "chord_rate": 1.9379151917761723,
+  "repetitiveness": 0.7913619875907898,
+  "vocal_share": 0.13171957433223724,
+  "vocal_voiced": 0.47751605995717344,
+  "song_length": 282.88
+ }
+}

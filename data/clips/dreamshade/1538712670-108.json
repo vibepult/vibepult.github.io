@@ -1,0 +1,32 @@
+{
+ "id": "dreamshade/1538712670-108",
+ "band": "dreamshade",
+ "title": "Shanghai Nights",
+ "source": "itunes",
+ "album": "A Pale Blue Dot",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.641944067303496,
+  "tempo_var": 2.234608264401646,
+  "low_onset_rate": 4.878200310333123,
+  "lufs": -9.498809988075418,
+  "rms_dbfs": -9.20360967104043,
+  "crest": 9.203609466552734,
+  "centroid": 2470.5193212518498,
+  "flatness": 0.03583550825715065,
+  "sub100_share": 0.2528991401195526,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.6694706082344055,
+  "clean_share": 0.008533747090768037,
+  "minor_share": 0.13208762854049005,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.87764972448349,
+  "vocal_share": 0.2256726175546646,
+  "vocal_voiced": 0.552212389380531,
+  "song_length": 233.08
+ }
+}

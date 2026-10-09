@@ -1,0 +1,32 @@
+{
+ "id": "dr-sin/1549458076-105",
+ "band": "dr-sin",
+ "title": "Mayday",
+ "source": "itunes",
+ "album": "Back Home Again",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.045261964796587,
+  "tempo_var": 21.138562750618046,
+  "low_onset_rate": 5.011849633903894,
+  "lufs": -8.268195862352616,
+  "rms_dbfs": -8.677491859292104,
+  "crest": 8.677492141723633,
+  "centroid": 2699.827819331653,
+  "flatness": 0.04504619538784027,
+  "sub100_share": 0.18568792939186096,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.5642329454421997,
+  "clean_share": 0.0,
+  "minor_share": 0.11428909740684201,
+  "chord_rate": 2.1049768462396354,
+  "repetitiveness": 0.843386173248291,
+  "vocal_share": 0.4021790623664856,
+  "vocal_voiced": 0.49418153607447635,
+  "song_length": 207.307
+ }
+}

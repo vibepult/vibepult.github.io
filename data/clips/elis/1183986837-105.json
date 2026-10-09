@@ -1,0 +1,32 @@
+{
+ "id": "elis/1183986837-105",
+ "band": "elis",
+ "title": "Heart in Chains",
+ "source": "itunes",
+ "album": "Dark Clouds in a Perfect Sky",
+ "year": 2004,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 5.633333333333334,
+  "tempo_var": 8.17488074192889,
+  "low_onset_rate": 6.666666666666667,
+  "lufs": -6.7766506186120266,
+  "rms_dbfs": -5.727954992749876,
+  "crest": 5.727954387664795,
+  "centroid": 2273.156060985675,
+  "flatness": 0.022397920489311218,
+  "sub100_share": 0.4768849015235901,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.857077419757843,
+  "clean_share": 0.003869969040247678,
+  "minor_share": 0.12512972640254494,
+  "chord_rate": 1.5666666666666667,
+  "repetitiveness": 0.7647956013679504,
+  "vocal_share": 0.16365467011928558,
+  "vocal_voiced": 0.7346938775510204,
+  "song_length": 272.04
+ }
+}

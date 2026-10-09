@@ -1,0 +1,32 @@
+{
+ "id": "serenity/1184721200-105",
+ "band": "serenity",
+ "title": "Engraved Within",
+ "source": "itunes",
+ "album": "Words Untold & Dreams Unlived",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.2,
+  "tempo_var": 17.626580489048116,
+  "low_onset_rate": 6.266666666666667,
+  "lufs": -9.134013903160216,
+  "rms_dbfs": -8.739965712521498,
+  "crest": 8.739965438842773,
+  "centroid": 2553.536694415563,
+  "flatness": 0.026444097980856895,
+  "sub100_share": 0.31649771332740784,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8261669278144836,
+  "clean_share": 0.10061919504643962,
+  "minor_share": 0.319908478351162,
+  "chord_rate": 1.7,
+  "repetitiveness": 0.7898586392402649,
+  "vocal_share": 0.002712951274588704,
+  "vocal_voiced": 0.9159663865546218,
+  "song_length": 382.0
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "lordi/1710192918-108",
+ "band": "lordi",
+ "title": "ZombieRawkMachine",
+ "source": "itunes",
+ "album": "Babez For Breakfast",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.766609726232408,
+  "tempo_var": 1.63826123751087,
+  "low_onset_rate": 4.8999259270456985,
+  "lufs": -8.828918515903068,
+  "rms_dbfs": -8.587382737789362,
+  "crest": 8.587382316589355,
+  "centroid": 2707.4079672982666,
+  "flatness": 0.04514108598232269,
+  "sub100_share": 0.17856591939926147,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.6384568810462952,
+  "clean_share": 0.028615622583139984,
+  "minor_share": 0.1793642763877522,
+  "chord_rate": 1.8999712778340465,
+  "repetitiveness": 0.8129477500915527,
+  "vocal_share": 0.2550537884235382,
+  "vocal_voiced": 0.06826241134751773,
+  "song_length": 222.4
+ }
+}

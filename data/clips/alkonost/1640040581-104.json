@@ -1,0 +1,32 @@
+{
+ "id": "alkonost/1640040581-104",
+ "band": "alkonost",
+ "title": "Waiting",
+ "source": "itunes",
+ "album": "Between the Worlds",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.5332648032531635,
+  "tempo_var": 9.077005248365861,
+  "low_onset_rate": 5.599915345195084,
+  "lufs": -8.076408525637037,
+  "rms_dbfs": -7.760458564277083,
+  "crest": 7.760458946228027,
+  "centroid": 3068.900088092835,
+  "flatness": 0.04923708364367485,
+  "sub100_share": 0.23669074475765228,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8210836052894592,
+  "clean_share": 0.09667440061871617,
+  "minor_share": 0.10166161962798947,
+  "chord_rate": 1.333313177427401,
+  "repetitiveness": 0.7355969548225403,
+  "vocal_share": 0.11400731652975082,
+  "vocal_voiced": 0.456661316211878,
+  "song_length": 368.693
+ }
+}

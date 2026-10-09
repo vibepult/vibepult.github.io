@@ -1,0 +1,32 @@
+{
+ "id": "poisonblack/1204953569-104",
+ "band": "poisonblack",
+ "title": "Buried Alive",
+ "source": "itunes",
+ "album": "Of Rust and Bones",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.641944067303496,
+  "tempo_var": 15.073954339642096,
+  "low_onset_rate": 3.0071097803423363,
+  "lufs": -8.973019140745475,
+  "rms_dbfs": -8.648067478125228,
+  "crest": 8.648067474365234,
+  "centroid": 2920.1337812001,
+  "flatness": 0.0493609793484211,
+  "sub100_share": 0.2022014856338501,
+  "lowest_pitch": 94.207763671875,
+  "harmonic_share": 0.7141861319541931,
+  "clean_share": 0.003878975950349108,
+  "minor_share": 0.12397634780420874,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.7682482004165649,
+  "vocal_share": 0.2891455888748169,
+  "vocal_voiced": 0.6725043782837128,
+  "song_length": 279.973
+ }
+}

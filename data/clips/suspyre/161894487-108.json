@@ -1,0 +1,32 @@
+{
+ "id": "suspyre/161894487-108",
+ "band": "suspyre",
+ "title": "Apex",
+ "source": "itunes",
+ "album": "The Silvery Image",
+ "year": 2005,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 6.74929084032391,
+  "tempo_var": 19.06314631375168,
+  "low_onset_rate": 6.515404524075062,
+  "lufs": -8.799466875403445,
+  "rms_dbfs": -7.894158002384098,
+  "crest": 7.894157886505127,
+  "centroid": 2320.6024900538405,
+  "flatness": 0.018006784841418266,
+  "sub100_share": 0.388039231300354,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7585589289665222,
+  "clean_share": 0.1008533747090768,
+  "minor_share": 0.3703287571965536,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.8162186741828918,
+  "vocal_share": 9.232045158569235e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 321.253
+ }
+}

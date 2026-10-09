@@ -1,0 +1,32 @@
+{
+ "id": "alcatrazz/453488144-104",
+ "band": "alcatrazz",
+ "title": "Hiroshima Mon Amour",
+ "source": "itunes",
+ "album": "No Parole from Rock 'N' Roll (Bonus Track Version)",
+ "year": 1983,
+ "itunes_year": 1983,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.2332844552614475,
+  "tempo_var": 1.8167131630278106,
+  "low_onset_rate": 3.666611237925353,
+  "lufs": -16.205030742734543,
+  "rms_dbfs": -16.569364547105437,
+  "crest": 15.407404899597168,
+  "centroid": 2832.1527209723654,
+  "flatness": 0.03369712457060814,
+  "sub100_share": 0.0854237824678421,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.6997324824333191,
+  "clean_share": 0.09744779582366589,
+  "minor_share": 0.32604206308301265,
+  "chord_rate": 1.8999712778340465,
+  "repetitiveness": 0.7896982431411743,
+  "vocal_share": 0.4536920189857483,
+  "vocal_voiced": 0.9524752475247524,
+  "song_length": 241.293
+ }
+}

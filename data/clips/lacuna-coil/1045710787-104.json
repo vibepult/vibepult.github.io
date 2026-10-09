@@ -1,0 +1,32 @@
+{
+ "id": "lacuna-coil/1045710787-104",
+ "band": "lacuna-coil",
+ "title": "My Wings",
+ "source": "itunes",
+ "album": "In a Reverie",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.610901663191583,
+  "tempo_var": 3.5678139803818794,
+  "low_onset_rate": 6.415167531396984,
+  "lufs": -10.524041373122733,
+  "rms_dbfs": -9.856479400144911,
+  "crest": 9.85647964477539,
+  "centroid": 2550.214586972035,
+  "flatness": 0.03223423287272453,
+  "sub100_share": 0.40536022186279297,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.8301029801368713,
+  "clean_share": 0.0,
+  "minor_share": 0.07895167110160872,
+  "chord_rate": 2.138389177132328,
+  "repetitiveness": 0.8009828925132751,
+  "vocal_share": 0.19005970656871796,
+  "vocal_voiced": 0.6114754098360655,
+  "song_length": 225.4
+ }
+}

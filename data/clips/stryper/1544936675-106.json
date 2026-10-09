@@ -1,0 +1,32 @@
+{
+ "id": "stryper/1544936675-106",
+ "band": "stryper",
+ "title": "Legacy",
+ "source": "itunes",
+ "album": "No More Hell to Pay",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.066605191153573,
+  "tempo_var": 21.413039795011223,
+  "low_onset_rate": 4.966591585917069,
+  "lufs": -6.806599776790864,
+  "rms_dbfs": -7.410371667212501,
+  "crest": 7.410371780395508,
+  "centroid": 3122.114976005832,
+  "flatness": 0.05629947409033775,
+  "sub100_share": 0.15279853343963623,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.6999132633209229,
+  "clean_share": 0.0007733952049497294,
+  "minor_share": 0.19029349454329647,
+  "chord_rate": 1.6333086423485663,
+  "repetitiveness": 0.8058599233627319,
+  "vocal_share": 0.3086347281932831,
+  "vocal_voiced": 0.8384615384615385,
+  "song_length": 254.822
+ }
+}

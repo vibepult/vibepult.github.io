@@ -1,0 +1,32 @@
+{
+ "id": "vader/1151891331-105",
+ "band": "vader",
+ "title": "Sen Schizofrenika",
+ "source": "itunes",
+ "album": "Future of the Past II: Hell in the East",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 7.7850730979973815,
+  "tempo_var": 13.750939444303938,
+  "low_onset_rate": 7.718248436211996,
+  "lufs": -8.770501094421453,
+  "rms_dbfs": -8.545024402744243,
+  "crest": 8.545024871826172,
+  "centroid": 2817.5224583438116,
+  "flatness": 0.04569278657436371,
+  "sub100_share": 0.3372233808040619,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.6706303954124451,
+  "clean_share": 0.0,
+  "minor_share": -0.07148685854617409,
+  "chord_rate": 1.7374412064200164,
+  "repetitiveness": 0.9219977855682373,
+  "vocal_share": 0.09037017822265625,
+  "vocal_voiced": 0.11554621848739496,
+  "song_length": 251.253
+ }
+}

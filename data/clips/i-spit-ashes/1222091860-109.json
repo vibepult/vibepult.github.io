@@ -1,0 +1,32 @@
+{
+ "id": "i-spit-ashes/1222091860-109",
+ "band": "i-spit-ashes",
+ "title": "My Ulysses",
+ "source": "itunes",
+ "album": "Inhaling Blackness...Reflecting Light",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 2.0047398535615577,
+  "tempo_var": 4.282226453244787,
+  "low_onset_rate": 2.1718015080250206,
+  "lufs": -14.375138956468716,
+  "rms_dbfs": -12.742771866912621,
+  "crest": 12.742772102355957,
+  "centroid": 1118.3994243794123,
+  "flatness": 0.0045635453425347805,
+  "sub100_share": 0.4726487994194031,
+  "lowest_pitch": 102.28271484375,
+  "harmonic_share": 0.8911405205726624,
+  "clean_share": 0.930178432893716,
+  "minor_share": 0.24128834535170152,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.7484999299049377,
+  "vocal_share": 9.850181186266127e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 310.573
+ }
+}

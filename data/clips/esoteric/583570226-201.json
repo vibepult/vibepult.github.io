@@ -1,0 +1,32 @@
+{
+ "id": "esoteric/583570226-201",
+ "band": "esoteric",
+ "title": "Aberration",
+ "source": "itunes",
+ "album": "Paragon of Dissonance",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 1.6706165446346313,
+  "tempo_var": 19.5853176473174,
+  "low_onset_rate": 0.8353082723173156,
+  "lufs": -14.18858035768867,
+  "rms_dbfs": -13.614524307420695,
+  "crest": 13.614524841308594,
+  "centroid": 1711.7625820364751,
+  "flatness": 0.01179133728146553,
+  "sub100_share": 0.3035680651664734,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.8311192393302917,
+  "clean_share": 0.6819239720713731,
+  "minor_share": 0.30961646501906936,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.7508568167686462,
+  "vocal_share": 6.866348940093303e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 944.827
+ }
+}

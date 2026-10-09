@@ -1,0 +1,32 @@
+{
+ "id": "urfaust/1701821167-105",
+ "band": "urfaust",
+ "title": "Vernichtung",
+ "source": "itunes",
+ "album": "Untergang",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.499863949691619,
+  "tempo_var": 2.9774125153338376,
+  "low_onset_rate": 6.233144878461724,
+  "lufs": -8.772653700978733,
+  "rms_dbfs": -8.869578168430163,
+  "crest": 8.86957836151123,
+  "centroid": 2268.0075082658523,
+  "flatness": 0.02241739071905613,
+  "sub100_share": 0.273832231760025,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7513537406921387,
+  "clean_share": 0.0,
+  "minor_share": 0.030944810798006928,
+  "chord_rate": 1.2666283710243076,
+  "repetitiveness": 0.7932689189910889,
+  "vocal_share": 6.433763815039129e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 288.4
+ }
+}

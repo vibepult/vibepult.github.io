@@ -1,0 +1,32 @@
+{
+ "id": "bolt-thrower/42086430-106",
+ "band": "bolt-thrower",
+ "title": "Lest We Forget",
+ "source": "itunes",
+ "album": "...For Victory",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 6.816115502109295,
+  "tempo_var": 3.3326692778179923,
+  "low_onset_rate": 8.386495054065849,
+  "lufs": -10.460253360701902,
+  "rms_dbfs": -10.200884435435881,
+  "crest": 10.200883865356445,
+  "centroid": 2664.390284985036,
+  "flatness": 0.03159049525856972,
+  "sub100_share": 0.2759023606777191,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7919648885726929,
+  "clean_share": 0.0,
+  "minor_share": -0.11311278344503523,
+  "chord_rate": 2.2386261698104057,
+  "repetitiveness": 0.9480235576629639,
+  "vocal_share": 6.945355721654778e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 277.333
+ }
+}

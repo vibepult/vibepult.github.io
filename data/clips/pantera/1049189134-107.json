@@ -1,0 +1,32 @@
+{
+ "id": "pantera/1049189134-107",
+ "band": "pantera",
+ "title": "No Good (Attack the Radical)",
+ "source": "itunes",
+ "album": "Vulgar Display of Power",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.096671561429271,
+  "tempo_var": 16.493115841495143,
+  "low_onset_rate": 5.762903138086692,
+  "lufs": -11.238444922107591,
+  "rms_dbfs": -11.129426512440418,
+  "crest": 11.129426956176758,
+  "centroid": 3029.1028402630286,
+  "flatness": 0.04427436366677284,
+  "sub100_share": 0.3842628300189972,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.6235953569412231,
+  "clean_share": 0.02397525135344161,
+  "minor_share": -0.13484469594848858,
+  "chord_rate": 2.8314842007940393,
+  "repetitiveness": 0.8894518613815308,
+  "vocal_share": 0.10177867114543915,
+  "vocal_voiced": 0.4364754098360656,
+  "song_length": 288.307
+ }
+}

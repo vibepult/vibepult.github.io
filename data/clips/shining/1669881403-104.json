@@ -1,0 +1,32 @@
+{
+ "id": "shining/1669881403-104",
+ "band": "shining",
+ "title": "Det Stora Grå (Remastered)",
+ "source": "itunes",
+ "album": "Redefining Darkness",
+ "year": 2012,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 1.8042658682054018,
+  "tempo_var": 13.608628413070925,
+  "low_onset_rate": 5.479622266401591,
+  "lufs": -22.147734115176956,
+  "rms_dbfs": -21.263643552529288,
+  "crest": 16.021404266357422,
+  "centroid": 601.8384237978473,
+  "flatness": 2.240598769276403e-05,
+  "sub100_share": 0.020318564027547836,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.9855655431747437,
+  "clean_share": 1.0,
+  "minor_share": 0.04482588201461657,
+  "chord_rate": 0.5680096251757746,
+  "repetitiveness": 0.625554084777832,
+  "vocal_share": 7.454070214407693e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 206.36
+ }
+}

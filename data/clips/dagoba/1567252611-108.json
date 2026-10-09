@@ -1,0 +1,32 @@
+{
+ "id": "dagoba/1567252611-108",
+ "band": "dagoba",
+ "title": "Dopesick",
+ "source": "itunes",
+ "album": "Dagoba",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.4772523396208115,
+  "tempo_var": 0.49042490956950796,
+  "low_onset_rate": 3.207583765698492,
+  "lufs": -6.962991940460786,
+  "rms_dbfs": -6.251461267657267,
+  "crest": 6.251461029052734,
+  "centroid": 2420.7669949251676,
+  "flatness": 0.036852214485406876,
+  "sub100_share": 0.40914082527160645,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7362184524536133,
+  "clean_share": 0.0,
+  "minor_share": -0.11942150060304846,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.9119039177894592,
+  "vocal_share": 0.042892470955848694,
+  "vocal_voiced": 0.6203346203346203,
+  "song_length": 253.24
+ }
+}

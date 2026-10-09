@@ -1,0 +1,32 @@
+{
+ "id": "skepticism/298936357-104",
+ "band": "skepticism",
+ "title": "The Curtain",
+ "source": "itunes",
+ "album": "Alloy",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 66.25600961538461,
+  "onset_rate": 2.9736974494496438,
+  "tempo_var": 2.964956533162846,
+  "low_onset_rate": 8.620381370314698,
+  "lufs": -8.628067494467635,
+  "rms_dbfs": -7.574662273178071,
+  "crest": 7.574662685394287,
+  "centroid": 1935.0533910468055,
+  "flatness": 0.012088741175830364,
+  "sub100_share": 0.3602530062198639,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8888391256332397,
+  "clean_share": 0.03180760279286268,
+  "minor_share": 0.059944537073276516,
+  "chord_rate": 0.6014219560684673,
+  "repetitiveness": 0.6927815079689026,
+  "vocal_share": 0.015743684023618698,
+  "vocal_voiced": 0.794413407821229,
+  "song_length": 348.68
+ }
+}

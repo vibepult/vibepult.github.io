@@ -1,0 +1,32 @@
+{
+ "id": "waltari/1412265034-105",
+ "band": "waltari",
+ "title": "Dubbed World",
+ "source": "itunes",
+ "album": "Below Zero",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 2.3722754933811765,
+  "tempo_var": 23.0216556490199,
+  "low_onset_rate": 4.310190685157349,
+  "lufs": -9.489115727820025,
+  "rms_dbfs": -9.205882693231045,
+  "crest": 9.205883026123047,
+  "centroid": 2576.4907283065677,
+  "flatness": 0.038553982973098755,
+  "sub100_share": 0.3515932559967041,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.751872181892395,
+  "clean_share": 0.11792086889061287,
+  "minor_share": 0.08893569087880593,
+  "chord_rate": 2.071564515346943,
+  "repetitiveness": 0.931387186050415,
+  "vocal_share": 0.18150478601455688,
+  "vocal_voiced": 0.8003597122302158,
+  "song_length": 237.375
+ }
+}

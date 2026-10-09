@@ -1,0 +1,32 @@
+{
+ "id": "carcass/57664464-105",
+ "band": "carcass",
+ "title": "Embodiment",
+ "source": "itunes",
+ "album": "Heartwork",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.2,
+  "tempo_var": 3.862246171562397,
+  "low_onset_rate": 7.7,
+  "lufs": -8.540466896720295,
+  "rms_dbfs": -8.250905347893951,
+  "crest": 8.25090503692627,
+  "centroid": 2928.931165557809,
+  "flatness": 0.05532335117459297,
+  "sub100_share": 0.32943403720855713,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7610539197921753,
+  "clean_share": 0.016253869969040248,
+  "minor_share": -0.0409657047919309,
+  "chord_rate": 1.9,
+  "repetitiveness": 0.9415162205696106,
+  "vocal_share": 0.08831723034381866,
+  "vocal_voiced": 0.12944983818770225,
+  "song_length": 336.653
+ }
+}

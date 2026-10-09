@@ -1,0 +1,32 @@
+{
+ "id": "toluca/1756920275-103",
+ "band": "toluca",
+ "title": "Marbas",
+ "source": "itunes",
+ "album": "Darvo",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.031738405192733,
+  "tempo_var": 2.842170943040401e-14,
+  "low_onset_rate": 3.098370018493672,
+  "lufs": -14.673517644253508,
+  "rms_dbfs": -14.239169559331303,
+  "crest": 14.239169120788574,
+  "centroid": 1250.9919467536567,
+  "flatness": 0.0006467147031798959,
+  "sub100_share": 0.05170990154147148,
+  "lowest_pitch": 104.974365234375,
+  "harmonic_share": 0.9456231594085693,
+  "clean_share": 0.9806651198762568,
+  "minor_share": 0.26333180232899644,
+  "chord_rate": 1.0327900061645574,
+  "repetitiveness": 0.7841166257858276,
+  "vocal_share": 1.6918098708629259e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 335.5
+ }
+}

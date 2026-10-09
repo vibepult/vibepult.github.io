@@ -1,0 +1,32 @@
+{
+ "id": "lantlos/1556021361-103",
+ "band": "lantlos",
+ "title": "Pulse/ Surreal",
+ "source": "itunes",
+ "album": ".Neon",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.071564515346943,
+  "tempo_var": 6.259870296784329,
+  "low_onset_rate": 3.207583765698492,
+  "lufs": -12.937038710859587,
+  "rms_dbfs": -10.940807383650537,
+  "crest": 10.940807342529297,
+  "centroid": 2048.254724741946,
+  "flatness": 0.003399834968149662,
+  "sub100_share": 0.6441161036491394,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.9203246831893921,
+  "clean_share": 0.7626066718386346,
+  "minor_share": -0.07911323890946043,
+  "chord_rate": 0.801895941424623,
+  "repetitiveness": 0.4781230390071869,
+  "vocal_share": 0.03220706805586815,
+  "vocal_voiced": 0.7887740029542097,
+  "song_length": 503.8
+ }
+}

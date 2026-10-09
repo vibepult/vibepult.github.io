@@ -1,0 +1,32 @@
+{
+ "id": "blind-guardian/1551960946-105",
+ "band": "blind-guardian",
+ "title": "Mordred's Song",
+ "source": "itunes",
+ "album": "Imaginations from the Other Side",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.809005721766959,
+  "tempo_var": 1.8402004504123768,
+  "low_onset_rate": 5.880570237113902,
+  "lufs": -15.431117743700465,
+  "rms_dbfs": -15.745330129113682,
+  "crest": 15.673196792602539,
+  "centroid": 2315.4374353720327,
+  "flatness": 0.012762391939759254,
+  "sub100_share": 0.04773661866784096,
+  "lowest_pitch": 137.274169921875,
+  "harmonic_share": 0.8793495297431946,
+  "clean_share": 0.3359193173002327,
+  "minor_share": 0.1555802273769049,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.8429006934165955,
+  "vocal_share": 0.3095643222332001,
+  "vocal_voiced": 0.9516129032258065,
+  "song_length": 329.773
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "scorpions/1440924575-105",
+ "band": "scorpions",
+ "title": "Lady Starlight",
+ "source": "itunes",
+ "album": "Animal Magnetism",
+ "year": 1980,
+ "itunes_year": 1980,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.7332768967967227,
+  "tempo_var": 2.3527971651139827,
+  "low_onset_rate": 4.299934997203368,
+  "lufs": -19.132096831153092,
+  "rms_dbfs": -19.25251703258985,
+  "crest": 16.691669464111328,
+  "centroid": 1486.659816448823,
+  "flatness": 0.002052879426628351,
+  "sub100_share": 0.013710539788007736,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.9474197626113892,
+  "clean_share": 0.9195668986852281,
+  "minor_share": -0.18595432136671863,
+  "chord_rate": 0.6333237592780154,
+  "repetitiveness": 0.6772300601005554,
+  "vocal_share": 0.34846732020378113,
+  "vocal_voiced": 0.9854545454545455,
+  "song_length": 376.373
+ }
+}

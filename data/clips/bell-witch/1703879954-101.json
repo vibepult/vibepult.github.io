@@ -1,0 +1,32 @@
+{
+ "id": "bell-witch/1703879954-101",
+ "band": "bell-witch",
+ "title": "The Clandestine Gate",
+ "source": "itunes",
+ "album": "Future's Shadow Part 1: The Clandestine Gate",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 0.6999894181493855,
+  "tempo_var": 7.971079138023528,
+  "low_onset_rate": 5.299919880273919,
+  "lufs": -18.342369090009676,
+  "rms_dbfs": -17.52263038933052,
+  "crest": 11.831292152404785,
+  "centroid": 630.2088628112493,
+  "flatness": 2.235026659036521e-05,
+  "sub100_share": 0.17711034417152405,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.9988544583320618,
+  "clean_share": 0.9992266047950503,
+  "minor_share": 0.006059543189300021,
+  "chord_rate": 0.3666611237925353,
+  "repetitiveness": 0.3931613564491272,
+  "vocal_share": 1.1576856877582031e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 4995.848
+ }
+}

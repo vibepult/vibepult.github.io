@@ -1,0 +1,32 @@
+{
+ "id": "budgie/1848934363-103",
+ "band": "budgie",
+ "title": "Zoom Club",
+ "source": "itunes",
+ "album": "In For The Kill!",
+ "year": 1974,
+ "itunes_year": 1974,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.431645087585681,
+  "tempo_var": 10.461601413038405,
+  "low_onset_rate": 5.864432597105864,
+  "lufs": -15.69703055097054,
+  "rms_dbfs": -14.361248950083139,
+  "crest": 14.361248970031738,
+  "centroid": 1954.8310909113773,
+  "flatness": 0.015209231525659561,
+  "sub100_share": 0.42105263471603394,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6995172500610352,
+  "clean_share": 0.29311678267594743,
+  "minor_share": 0.02457299366775545,
+  "chord_rate": 1.5993907083015995,
+  "repetitiveness": 0.9044653177261353,
+  "vocal_share": 6.376448595801776e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 597.693
+ }
+}

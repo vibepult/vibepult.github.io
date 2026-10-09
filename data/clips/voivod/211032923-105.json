@@ -1,0 +1,32 @@
+{
+ "id": "voivod/211032923-105",
+ "band": "voivod",
+ "title": "War and Pain",
+ "source": "itunes",
+ "album": "War and Pain",
+ "year": 1984,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.5082947437327254,
+  "tempo_var": 15.582114661920592,
+  "low_onset_rate": 6.281518207826213,
+  "lufs": -13.840777147188831,
+  "rms_dbfs": -14.482802585332177,
+  "crest": 14.241445541381836,
+  "centroid": 2421.6203648885726,
+  "flatness": 0.021265707910060883,
+  "sub100_share": 0.12213510274887085,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.789254903793335,
+  "clean_share": 0.13964313421256788,
+  "minor_share": -0.11153824221316383,
+  "chord_rate": 0.801895941424623,
+  "repetitiveness": 0.8248289227485657,
+  "vocal_share": 8.085177250904962e-05,
+  "vocal_voiced": 0.0,
+  "song_length": 298.467
+ }
+}

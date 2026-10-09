@@ -1,0 +1,32 @@
+{
+ "id": "caliban/1679533296-108",
+ "band": "caliban",
+ "title": "Tyranny of Small Misery",
+ "source": "itunes",
+ "album": "Vent",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.209953692479271,
+  "tempo_var": 15.165090521638458,
+  "low_onset_rate": 4.878200310333123,
+  "lufs": -10.599059547505629,
+  "rms_dbfs": -10.743737543261748,
+  "crest": 10.74373722076416,
+  "centroid": 2944.1546998468225,
+  "flatness": 0.04872522130608559,
+  "sub100_share": 0.2743421196937561,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.751795768737793,
+  "clean_share": 0.07447633824670287,
+  "minor_share": 0.06700276525934123,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.8133894205093384,
+  "vocal_share": 0.08763167262077332,
+  "vocal_voiced": 0.32343584305408274,
+  "song_length": 279.307
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "delain/1183562444-105",
+ "band": "delain",
+ "title": "Chrysalis - The Last Breath",
+ "source": "itunes",
+ "album": "Moonbathers",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 2.6666666666666665,
+  "tempo_var": 2.6555405640794025,
+  "low_onset_rate": 2.8,
+  "lufs": -18.030967143932656,
+  "rms_dbfs": -17.210766034978974,
+  "crest": 17.210500717163086,
+  "centroid": 1777.8173573131178,
+  "flatness": 0.009738931432366371,
+  "sub100_share": 0.22522476315498352,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7648965716362,
+  "clean_share": 0.631578947368421,
+  "minor_share": 0.4248896238171467,
+  "chord_rate": 1.0333333333333334,
+  "repetitiveness": 0.7372097373008728,
+  "vocal_share": 0.327188640832901,
+  "vocal_voiced": 0.854586129753915,
+  "song_length": 325.89
+ }
+}

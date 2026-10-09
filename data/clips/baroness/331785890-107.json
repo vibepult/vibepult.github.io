@@ -1,0 +1,32 @@
+{
+ "id": "baroness/331785890-107",
+ "band": "baroness",
+ "title": "A Horse Called Golgotha",
+ "source": "itunes",
+ "album": "Blue Record",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 71.77734375,
+  "onset_rate": 5.499916856888029,
+  "tempo_var": 18.591528740709286,
+  "low_onset_rate": 6.999894181493855,
+  "lufs": -10.858715264729785,
+  "rms_dbfs": -9.889196279565128,
+  "crest": 9.889196395874023,
+  "centroid": 1983.067369264043,
+  "flatness": 0.015426837839186192,
+  "sub100_share": 0.3413180112838745,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.78010493516922,
+  "clean_share": 0.06960556844547564,
+  "minor_share": 0.2057432766989904,
+  "chord_rate": 2.1333010838838415,
+  "repetitiveness": 0.8443047404289246,
+  "vocal_share": 0.0271092988550663,
+  "vocal_voiced": 1.0,
+  "song_length": 321.209
+ }
+}

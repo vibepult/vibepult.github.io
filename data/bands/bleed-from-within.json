@@ -1,0 +1,127 @@
+{
+ "slug": "bleed-from-within",
+ "name": "Bleed From Within",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 322931719,
+  "deezer": 389793,
+  "spotify": "5ZvwJikDgdP1PFU4PkAPVG"
+ },
+ "metadata": {
+  "formed": 2005,
+  "split": null,
+  "country": "GB",
+  "status": "active",
+  "members": 5,
+  "past_members": 3,
+  "full_lengths": 7,
+  "genre": "Melodic Death Metal/Metalcore (early); Metalcore (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 33116,
+  "themes": "Inner struggles, Negativity, Anti-religion, Failed romance",
+  "release_year": 2019
+ },
+ "partial": false,
+ "clips": [
+  "bleed-from-within/1045519616-109",
+  "bleed-from-within/1336131286-107",
+  "bleed-from-within/1502459061-105",
+  "bleed-from-within/1611543246-107",
+  "bleed-from-within/1779579647-106",
+  "bleed-from-within/1045519616-110",
+  "bleed-from-within/1336131286-106",
+  "bleed-from-within/1502459061-106",
+  "bleed-from-within/1611543246-105",
+  "bleed-from-within/1779579647-105",
+  "bleed-from-within/1045519616-107",
+  "bleed-from-within/1336131286-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 21.611221976902172
+  },
+  "onset_rate": {
+   "median": 5.479693151592773,
+   "iqr": 2.7133639181475653
+  },
+  "tempo_var": {
+   "median": 13.046278777892326,
+   "iqr": 9.658590525558704
+  },
+  "low_onset_rate": {
+   "median": 5.762840942861969,
+   "iqr": 3.506009293944028
+  },
+  "lufs": {
+   "median": -8.677484362595244,
+   "iqr": 2.549959784797913
+  },
+  "rms_dbfs": {
+   "median": -7.789839220425341,
+   "iqr": 2.4616987959146712
+  },
+  "crest": {
+   "median": 7.789839029312134,
+   "iqr": 2.4616984128952026
+  },
+  "centroid": {
+   "median": 2492.9138199894073,
+   "iqr": 199.18873391949455
+  },
+  "flatness": {
+   "median": 0.04117865674197674,
+   "iqr": 0.009588559158146381
+  },
+  "sub100_share": {
+   "median": 0.3672378957271576,
+   "iqr": 0.12904082983732224
+  },
+  "lowest_pitch": {
+   "median": 48.44970703125,
+   "iqr": 12.78533935546875
+  },
+  "harmonic_share": {
+   "median": 0.7180407345294952,
+   "iqr": 0.12350377440452576
+  },
+  "clean_share": {
+   "median": 0.01590380139643134,
+   "iqr": 0.05259087393658159
+  },
+  "minor_share": {
+   "median": 0.047921525760086514,
+   "iqr": 0.15691275855198317
+  },
+  "chord_rate": {
+   "median": 1.6322994203218217,
+   "iqr": 0.5813875379441844
+  },
+  "repetitiveness": {
+   "median": 0.9221780896186829,
+   "iqr": 0.01234312355518341
+  },
+  "vocal_share": {
+   "median": 0.18870355188846588,
+   "iqr": 0.08308950811624527
+  },
+  "vocal_voiced": {
+   "median": 0.07036247334754797,
+   "iqr": 0.10919195250451387
+  },
+  "song_length": {
+   "median": 250.83499999999998,
+   "iqr": 29.18674999999996
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "zatokrev/1317883533-104",
+ "band": "zatokrev",
+ "title": "Medium",
+ "source": "itunes",
+ "album": "The Bat, The Wheel and a Long Road to Nowhere",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.343603016050041,
+  "tempo_var": 10.604585340170374,
+  "low_onset_rate": 5.21232361926005,
+  "lufs": -9.541551241788142,
+  "rms_dbfs": -8.520969367480097,
+  "crest": 8.52096939086914,
+  "centroid": 2082.0671293076953,
+  "flatness": 0.017770951613783836,
+  "sub100_share": 0.3821253180503845,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.811766505241394,
+  "clean_share": 0.1590380139643134,
+  "minor_share": 0.10084690736313073,
+  "chord_rate": 2.0047398535615577,
+  "repetitiveness": 0.9077594876289368,
+  "vocal_share": 4.837363007936801e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 626.88
+ }
+}

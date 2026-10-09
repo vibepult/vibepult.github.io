@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>vibepult selector open</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&amp;family=JetBrains+Mono:wght@500;700&amp;display=swap">
+<link rel="stylesheet" href="console.css">
+</head>
+<body>
+<div style="width: 440px; padding: 18px; background: var(--panel)">
+  <div class="select select--open">
+    <div class="select__head"><span class="select__name">[FIELD 1]</span><span class="select__pos">2/6</span></div>
+    <div class="select__box">
+      <button type="button" class="select__step" aria-label="Previous option for [FIELD 1]"><svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true"><path d="M15 6l-6 6 6 6"/></svg></button>
+      <button type="button" class="select__value" aria-expanded="true" aria-label="[FIELD 1]: [OPTION B], close options"><span class="lcd">[OPTION B]</span><svg width="12" height="12" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 15l6-6 6 6"/></svg></button>
+      <button type="button" class="select__step" aria-label="Next option for [FIELD 1]"><svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6l6 6-6 6"/></svg></button>
+    </div>
+    <div class="options" aria-label="[FIELD 1] options">
+      <button type="button" class="option" aria-pressed="false"><span class="option__led"></span><span>[OPTION A]</span></button>
+      <button type="button" class="option" aria-pressed="true"><span class="option__led"></span><span>[OPTION B]</span></button>
+      <button type="button" class="option" aria-pressed="false"><span class="option__led"></span><span>[OPTION C]</span></button>
+      <button type="button" class="option" aria-pressed="false"><span class="option__led"></span><span>[OPTION D]</span></button>
+      <button type="button" class="option" aria-pressed="false"><span class="option__led"></span><span>[OPTION E]</span></button>
+      <button type="button" class="option" aria-pressed="false"><span class="option__led"></span><span>[OPTION F]</span></button>
+    </div>
+  </div>
+</div>
+</body>
+</html>

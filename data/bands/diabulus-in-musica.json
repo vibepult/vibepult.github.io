@@ -1,0 +1,127 @@
+{
+ "slug": "diabulus-in-musica",
+ "name": "Diabulus in Musica",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 365991611,
+  "deezer": 382294,
+  "spotify": "2g98DnPyHWcZXg8cLg0sNF"
+ },
+ "metadata": {
+  "formed": 2006,
+  "split": null,
+  "country": "ES",
+  "status": "active",
+  "members": 5,
+  "past_members": 9,
+  "full_lengths": 5,
+  "genre": "Symphonic/Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 4997,
+  "themes": "Love, Beauty, Sorrow, Longing",
+  "release_year": 2015
+ },
+ "partial": false,
+ "clips": [
+  "diabulus-in-musica/1183597484-107",
+  "diabulus-in-musica/1184154844-107",
+  "diabulus-in-musica/1219468936-107",
+  "diabulus-in-musica/1486896671-107",
+  "diabulus-in-musica/1183597484-106",
+  "diabulus-in-musica/1184154844-105",
+  "diabulus-in-musica/1219468936-106",
+  "diabulus-in-musica/1486896671-106",
+  "diabulus-in-musica/1183597484-108",
+  "diabulus-in-musica/1184154844-108",
+  "diabulus-in-musica/1219468936-108",
+  "diabulus-in-musica/1486896671-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 45.3094482421875
+  },
+  "onset_rate": {
+   "median": 3.4833333333333334,
+   "iqr": 1.7416666666666663
+  },
+  "tempo_var": {
+   "median": 15.246453351722375,
+   "iqr": 12.957297829880625
+  },
+  "low_onset_rate": {
+   "median": 5.4,
+   "iqr": 2.8166666666666664
+  },
+  "lufs": {
+   "median": -10.338494322049407,
+   "iqr": 1.5262193215795818
+  },
+  "rms_dbfs": {
+   "median": -9.757415681857342,
+   "iqr": 2.094216924259218
+  },
+  "crest": {
+   "median": 9.757415771484375,
+   "iqr": 2.0942163467407227
+  },
+  "centroid": {
+   "median": 2297.731886051473,
+   "iqr": 558.111347796291
+  },
+  "flatness": {
+   "median": 0.018047834746539593,
+   "iqr": 0.013939174357801676
+  },
+  "sub100_share": {
+   "median": 0.2997809648513794,
+   "iqr": 0.20860353857278824
+  },
+  "lowest_pitch": {
+   "median": 63.2537841796875,
+   "iqr": 34.31854248046875
+  },
+  "harmonic_share": {
+   "median": 0.8704203963279724,
+   "iqr": 0.08424405753612518
+  },
+  "clean_share": {
+   "median": 0.21207430340557276,
+   "iqr": 0.5421826625386996
+  },
+  "minor_share": {
+   "median": 0.05061635656155761,
+   "iqr": 0.16742827164975035
+  },
+  "chord_rate": {
+   "median": 1.2333333333333334,
+   "iqr": 0.32499999999999973
+  },
+  "repetitiveness": {
+   "median": 0.7420024573802948,
+   "iqr": 0.2079378217458725
+  },
+  "vocal_share": {
+   "median": 0.21582917869091034,
+   "iqr": 0.22007834166288376
+  },
+  "vocal_voiced": {
+   "median": 0.8951612903225806,
+   "iqr": 0.15304990200498547
+  },
+  "song_length": {
+   "median": 302.033,
+   "iqr": 41.94725
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

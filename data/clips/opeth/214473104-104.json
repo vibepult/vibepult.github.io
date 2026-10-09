@@ -1,0 +1,32 @@
+{
+ "id": "opeth/214473104-104",
+ "band": "opeth",
+ "title": "Atonement",
+ "source": "itunes",
+ "album": "Ghost Reveries",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 63.02400914634146,
+  "onset_rate": 3.1662933168878045,
+  "tempo_var": 14.916085148123456,
+  "low_onset_rate": 2.666352266852888,
+  "lufs": -13.091220874695765,
+  "rms_dbfs": -12.209802066323522,
+  "crest": 12.20980167388916,
+  "centroid": 1365.6711122883362,
+  "flatness": 0.0035664779134094715,
+  "sub100_share": 0.16250118613243103,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.8734098076820374,
+  "clean_share": 0.8283062645011601,
+  "minor_share": -0.19146085678495928,
+  "chord_rate": 0.13331761334264441,
+  "repetitiveness": 0.9165204763412476,
+  "vocal_share": 1.5255686776072253e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 388.08
+ }
+}

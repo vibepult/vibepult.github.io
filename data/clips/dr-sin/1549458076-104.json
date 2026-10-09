@@ -1,0 +1,32 @@
+{
+ "id": "dr-sin/1549458076-104",
+ "band": "dr-sin",
+ "title": "Shout",
+ "source": "itunes",
+ "album": "Back Home Again",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.94265504533773,
+  "tempo_var": 2.5501676382140253,
+  "low_onset_rate": 4.076304368908501,
+  "lufs": -8.98904613986237,
+  "rms_dbfs": -8.36404371547024,
+  "crest": 8.364044189453125,
+  "centroid": 2507.268206538552,
+  "flatness": 0.028287027031183243,
+  "sub100_share": 0.2867945730686188,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8009772896766663,
+  "clean_share": 0.0504266873545384,
+  "minor_share": -0.008761149927264844,
+  "chord_rate": 0.5680096251757746,
+  "repetitiveness": 0.6849702596664429,
+  "vocal_share": 0.30340269207954407,
+  "vocal_voiced": 0.512306289881495,
+  "song_length": 257.96
+ }
+}

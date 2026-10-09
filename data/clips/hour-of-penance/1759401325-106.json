@@ -1,0 +1,32 @@
+{
+ "id": "hour-of-penance/1759401325-106",
+ "band": "hour-of-penance",
+ "title": "N.E.M.A",
+ "source": "itunes",
+ "album": "Disturbance",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 7.433198490730327,
+  "tempo_var": 9.370269431754076,
+  "low_onset_rate": 9.566493124841273,
+  "lufs": -7.529644684243103,
+  "rms_dbfs": -6.307257495601726,
+  "crest": 6.307258129119873,
+  "centroid": 2378.3745879991593,
+  "flatness": 0.02458498813211918,
+  "sub100_share": 0.5272045135498047,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7014300227165222,
+  "clean_share": 0.009280742459396751,
+  "minor_share": 0.050840435150327296,
+  "chord_rate": 2.2999582774008633,
+  "repetitiveness": 0.8802105188369751,
+  "vocal_share": 0.03169893100857735,
+  "vocal_voiced": 0.3672883787661406,
+  "song_length": 323.187
+ }
+}

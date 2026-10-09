@@ -1,0 +1,32 @@
+{
+ "id": "sabaton/1463539373-106",
+ "band": "sabaton",
+ "title": "Stalingrad",
+ "source": "itunes",
+ "album": "Primo Victoria",
+ "year": 2005,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.299973998645511,
+  "tempo_var": 8.160550598466068,
+  "low_onset_rate": 5.999963719040248,
+  "lufs": -10.850766802835551,
+  "rms_dbfs": -10.061814832900001,
+  "crest": 10.06181526184082,
+  "centroid": 2826.3258496429244,
+  "flatness": 0.050781652331352234,
+  "sub100_share": 0.5602969527244568,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.8119152188301086,
+  "clean_share": 0.0843000773395205,
+  "minor_share": 0.019019773870328938,
+  "chord_rate": 1.7333228521671826,
+  "repetitiveness": 0.8969264030456543,
+  "vocal_share": 0.001198865589685738,
+  "vocal_voiced": 0.3695652173913043,
+  "song_length": 318.24
+ }
+}

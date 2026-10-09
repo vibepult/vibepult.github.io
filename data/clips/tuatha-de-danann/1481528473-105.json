@@ -1,0 +1,32 @@
+{
+ "id": "tuatha-de-danann/1481528473-105",
+ "band": "tuatha-de-danann",
+ "title": "Finganforn",
+ "source": "itunes",
+ "album": "Tingaralatingadun",
+ "year": 2001,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.276778354264656,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.3817552005042915,
+  "lufs": -13.870605004789077,
+  "rms_dbfs": -12.952216574594502,
+  "crest": 12.952215194702148,
+  "centroid": 2565.788994428336,
+  "flatness": 0.01962314546108246,
+  "sub100_share": 0.522088885307312,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8741039037704468,
+  "clean_share": 0.13110938712179984,
+  "minor_share": 0.05573689756555078,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.6880207657814026,
+  "vocal_share": 0.16232359409332275,
+  "vocal_voiced": 0.49442675159235666,
+  "song_length": 181.907
+ }
+}

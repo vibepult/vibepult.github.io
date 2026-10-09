@@ -1,0 +1,32 @@
+{
+ "id": "benighted/282096971-105",
+ "band": "benighted",
+ "title": "Mourning Affliction",
+ "source": "itunes",
+ "album": "Identisick",
+ "year": 2006,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 5.21232361926005,
+  "tempo_var": 27.21209140823844,
+  "low_onset_rate": 5.21232361926005,
+  "lufs": -8.792564231932342,
+  "rms_dbfs": -7.984788272281531,
+  "crest": 7.984787940979004,
+  "centroid": 2387.297623081601,
+  "flatness": 0.025342492386698723,
+  "sub100_share": 0.3550434410572052,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.7680271863937378,
+  "clean_share": 0.07447633824670287,
+  "minor_share": -0.053108880059468955,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.9029099941253662,
+  "vocal_share": 0.059716228395700455,
+  "vocal_voiced": 0.17363344051446947,
+  "song_length": 251.2
+ }
+}

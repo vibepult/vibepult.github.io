@@ -1,0 +1,32 @@
+{
+ "id": "quiet-riot/192486740-106",
+ "band": "quiet-riot",
+ "title": "Condition Critical",
+ "source": "itunes",
+ "album": "Condition Critical",
+ "year": 1984,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.4977844721181897,
+  "tempo_var": 10.900273698055923,
+  "low_onset_rate": 1.6322994203218217,
+  "lufs": -18.347616910412683,
+  "rms_dbfs": -18.71541969516696,
+  "crest": 16.57698631286621,
+  "centroid": 2622.549986818573,
+  "flatness": 0.03321577236056328,
+  "sub100_share": 0.18103745579719543,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.7056870460510254,
+  "clean_share": 0.0038669760247486465,
+  "minor_share": -0.20240414626237713,
+  "chord_rate": 2.131982916338706,
+  "repetitiveness": 0.8216031789779663,
+  "vocal_share": 0.372466117143631,
+  "vocal_voiced": 0.8151571164510166,
+  "song_length": 301.64
+ }
+}

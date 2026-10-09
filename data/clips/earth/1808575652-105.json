@@ -1,0 +1,32 @@
+{
+ "id": "earth/1808575652-105",
+ "band": "earth",
+ "title": "Descending Belladonna",
+ "source": "itunes",
+ "album": "Full Upon Her Burning Lips",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 2.0333025955767865,
+  "tempo_var": 5.908224111842397,
+  "low_onset_rate": 4.066605191153573,
+  "lufs": -9.86279633284989,
+  "rms_dbfs": -8.88614185443285,
+  "crest": 8.88614273071289,
+  "centroid": 1210.4274491278134,
+  "flatness": 0.002897190395742655,
+  "sub100_share": 0.06703750789165497,
+  "lowest_pitch": 104.974365234375,
+  "harmonic_share": 0.9440585970878601,
+  "clean_share": 0.831399845320959,
+  "minor_share": -0.00917923699373957,
+  "chord_rate": 0.8999863947634957,
+  "repetitiveness": 0.569479763507843,
+  "vocal_share": 2.296686034242157e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 311.7
+ }
+}

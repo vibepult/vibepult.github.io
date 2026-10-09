@@ -1,0 +1,32 @@
+{
+ "id": "blind-guardian/1460466770-106",
+ "band": "blind-guardian",
+ "title": "Valkyries",
+ "source": "itunes",
+ "album": "At the Edge of Time",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.641944067303496,
+  "tempo_var": 8.470527030623922,
+  "low_onset_rate": 2.338863162488484,
+  "lufs": -18.143699776579297,
+  "rms_dbfs": -17.609001346417422,
+  "crest": 16.296356201171875,
+  "centroid": 1992.5422648296853,
+  "flatness": 0.016211193054914474,
+  "sub100_share": 0.33281630277633667,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8811163902282715,
+  "clean_share": 0.5314197051978278,
+  "minor_share": 0.3506710334102352,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.5806666612625122,
+  "vocal_share": 0.3262295126914978,
+  "vocal_voiced": 0.8121212121212121,
+  "song_length": 394.0
+ }
+}

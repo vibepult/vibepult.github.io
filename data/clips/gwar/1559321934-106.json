@@ -1,0 +1,32 @@
+{
+ "id": "gwar/1559321934-106",
+ "band": "gwar",
+ "title": "Beat You to Death",
+ "source": "itunes",
+ "album": "Bloody Pit of Horror",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 5.9139825680065945,
+  "tempo_var": 14.456877163304046,
+  "low_onset_rate": 6.348342869611598,
+  "lufs": -8.264088571937293,
+  "rms_dbfs": -7.793981324021,
+  "crest": 7.793981552124023,
+  "centroid": 2528.992144576127,
+  "flatness": 0.03170515224337578,
+  "sub100_share": 0.3251550495624542,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.7102961540222168,
+  "clean_share": 0.010861132660977503,
+  "minor_share": -0.011796040883788717,
+  "chord_rate": 2.5393371478446394,
+  "repetitiveness": 0.8636679649353027,
+  "vocal_share": 0.15653741359710693,
+  "vocal_voiced": 0.14497041420118342,
+  "song_length": 219.24
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "nails/608642936-110",
+ "band": "nails",
+ "title": "Suum Cuique",
+ "source": "itunes",
+ "album": "Abandon All Life",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.2,
+  "tempo_var": 2.211494238774593,
+  "low_onset_rate": 5.333333333333333,
+  "lufs": -7.992042013438078,
+  "rms_dbfs": -8.056932048043787,
+  "crest": 8.05693244934082,
+  "centroid": 2665.805806288971,
+  "flatness": 0.04175053909420967,
+  "sub100_share": 0.33249014616012573,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.794957160949707,
+  "clean_share": 0.0007739938080495357,
+  "minor_share": 0.04271496392239316,
+  "chord_rate": 3.1333333333333333,
+  "repetitiveness": 0.8811427354812622,
+  "vocal_share": 0.026057440787553787,
+  "vocal_voiced": 0.18849840255591055,
+  "song_length": 321.987
+ }
+}

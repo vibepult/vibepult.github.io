@@ -1,0 +1,32 @@
+{
+ "id": "edenbridge/1348627114-105",
+ "band": "edenbridge",
+ "title": "The Visitor",
+ "source": "itunes",
+ "album": "The Great Momentum",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.940285118556951,
+  "tempo_var": 11.31754583523692,
+  "low_onset_rate": 5.646683920865054,
+  "lufs": -11.680030840463635,
+  "rms_dbfs": -10.76068604399715,
+  "crest": 10.760686874389648,
+  "centroid": 1884.1821766336907,
+  "flatness": 0.007639050949364901,
+  "sub100_share": 0.17282195389270782,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.9432081580162048,
+  "clean_share": 0.5577967416602017,
+  "minor_share": -0.10788387634479046,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.7696790099143982,
+  "vocal_share": 0.18910528719425201,
+  "vocal_voiced": 0.9842446709916589,
+  "song_length": 353.203
+ }
+}

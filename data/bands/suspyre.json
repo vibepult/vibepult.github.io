@@ -1,0 +1,127 @@
+{
+ "slug": "suspyre",
+ "name": "Suspyre",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 161894491,
+  "deezer": 1310706,
+  "spotify": "3puJQaJutGEPvjOkbGKN8m"
+ },
+ "metadata": {
+  "formed": 2001,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 6,
+  "past_members": 7,
+  "full_lengths": 4,
+  "genre": "Progressive/Symphonic Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 404,
+  "themes": "Humanity, Religion",
+  "release_year": 2007
+ },
+ "partial": false,
+ "clips": [
+  "suspyre/161894487-106",
+  "suspyre/252443033-107",
+  "suspyre/438339995-106",
+  "suspyre/512819010-105",
+  "suspyre/161894487-105",
+  "suspyre/252443033-106",
+  "suspyre/438339995-107",
+  "suspyre/512819010-104",
+  "suspyre/161894487-108",
+  "suspyre/252443033-108",
+  "suspyre/438339995-105",
+  "suspyre/512819010-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 107.666015625,
+   "iqr": 15.160026793858322
+  },
+  "onset_rate": {
+   "median": 4.57748933229889,
+   "iqr": 1.9963867708383836
+  },
+  "tempo_var": {
+   "median": 12.494997470043039,
+   "iqr": 12.40008621248229
+  },
+  "low_onset_rate": {
+   "median": 5.195617453813703,
+   "iqr": 2.046505267177423
+  },
+  "lufs": {
+   "median": -11.351400565840013,
+   "iqr": 5.185626579296116
+  },
+  "rms_dbfs": {
+   "median": -11.03041846568037,
+   "iqr": 5.6016283740726704
+  },
+  "crest": {
+   "median": 11.030418395996094,
+   "iqr": 5.601629257202148
+  },
+  "centroid": {
+   "median": 2325.2553050542083,
+   "iqr": 565.0938990364557
+  },
+  "flatness": {
+   "median": 0.01823046337813139,
+   "iqr": 0.024463165551424026
+  },
+  "sub100_share": {
+   "median": 0.29838597774505615,
+   "iqr": 0.22434277459979057
+  },
+  "lowest_pitch": {
+   "median": 60.5621337890625,
+   "iqr": 53.8330078125
+  },
+  "harmonic_share": {
+   "median": 0.773102194070816,
+   "iqr": 0.18133500218391418
+  },
+  "clean_share": {
+   "median": 0.21761055081458494,
+   "iqr": 0.6861908456167571
+  },
+  "minor_share": {
+   "median": 0.07292349090174668,
+   "iqr": 0.261431803171354
+  },
+  "chord_rate": {
+   "median": 1.4868487247248219,
+   "iqr": 0.6765997005770257
+  },
+  "repetitiveness": {
+   "median": 0.7543605268001556,
+   "iqr": 0.2140856683254242
+  },
+  "vocal_share": {
+   "median": 0.1813604086637497,
+   "iqr": 0.13332095928490162
+  },
+  "vocal_voiced": {
+   "median": 0.789009807023094,
+   "iqr": 0.2977421271538918
+  },
+  "song_length": {
+   "median": 321.113,
+   "iqr": 129.88550000000004
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

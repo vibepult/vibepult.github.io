@@ -1,0 +1,32 @@
+{
+ "id": "lordi/274671623-107",
+ "band": "lordi",
+ "title": "Hard Rock Hallelujah",
+ "source": "itunes",
+ "album": "The Arockalypse",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.7309701035927354,
+  "tempo_var": 2.9962801947313964,
+  "low_onset_rate": 2.964788743033513,
+  "lufs": -8.506845152725067,
+  "rms_dbfs": -8.994650824109954,
+  "crest": 8.994650840759277,
+  "centroid": 3268.912514718209,
+  "flatness": 0.07885675877332687,
+  "sub100_share": 0.23029236495494843,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.6036534905433655,
+  "clean_share": 0.0,
+  "minor_share": 0.18403606951966833,
+  "chord_rate": 1.6989238864574063,
+  "repetitiveness": 0.8626515865325928,
+  "vocal_share": 0.28433820605278015,
+  "vocal_voiced": 0.20460147904683648,
+  "song_length": 247.2
+ }
+}

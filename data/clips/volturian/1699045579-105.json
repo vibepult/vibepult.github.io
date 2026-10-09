@@ -1,0 +1,32 @@
+{
+ "id": "volturian/1699045579-105",
+ "band": "volturian",
+ "title": "Torn Asunder",
+ "source": "itunes",
+ "album": "Red Dragon",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.3665648808803965,
+  "tempo_var": 12.762671852727308,
+  "low_onset_rate": 2.9332446486878703,
+  "lufs": -11.698309268854688,
+  "rms_dbfs": -10.479027710063724,
+  "crest": 10.479028701782227,
+  "centroid": 2473.0746086896306,
+  "flatness": 0.019325388595461845,
+  "sub100_share": 0.38880887627601624,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8133288621902466,
+  "clean_share": 0.33874709976798145,
+  "minor_share": 0.1791423784791527,
+  "chord_rate": 1.1332990688112226,
+  "repetitiveness": 0.917482316493988,
+  "vocal_share": 0.16962580382823944,
+  "vocal_voiced": 0.9069264069264069,
+  "song_length": 314.823
+ }
+}

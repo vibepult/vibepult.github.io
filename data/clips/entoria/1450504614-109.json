@@ -1,0 +1,32 @@
+{
+ "id": "entoria/1450504614-109",
+ "band": "entoria",
+ "title": "Die Frage",
+ "source": "itunes",
+ "album": "Aschheim",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 2.773223464093488,
+  "tempo_var": 14.068350450422804,
+  "low_onset_rate": 5.34597294283082,
+  "lufs": -8.50739021369841,
+  "rms_dbfs": -7.92325765349471,
+  "crest": 7.923257350921631,
+  "centroid": 2471.834875253099,
+  "flatness": 0.03586301952600479,
+  "sub100_share": 0.24916867911815643,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.676356315612793,
+  "clean_share": 0.051978277734678044,
+  "minor_share": -0.18555336310465653,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.8609183430671692,
+  "vocal_share": 0.24161915481090546,
+  "vocal_voiced": 0.09725158562367865,
+  "song_length": 240.027
+ }
+}

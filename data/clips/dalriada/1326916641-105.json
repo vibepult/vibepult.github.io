@@ -1,0 +1,32 @@
+{
+ "id": "dalriada/1326916641-105",
+ "band": "dalriada",
+ "title": "Búsirató",
+ "source": "itunes",
+ "album": "Nyárutó",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 6.181281215148136,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 8.820855355670853,
+  "lufs": -7.649103251468576,
+  "rms_dbfs": -6.812658943437196,
+  "crest": 6.81265926361084,
+  "centroid": 2788.529503112389,
+  "flatness": 0.042468734085559845,
+  "sub100_share": 0.3967466652393341,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.7822292447090149,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": 0.07607661434355228,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.9468156695365906,
+  "vocal_share": 0.13889415562152863,
+  "vocal_voiced": 0.7755710029791459,
+  "song_length": 331.922
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "coroner/1830021398-105",
+ "band": "coroner",
+ "title": "Symmetry",
+ "source": "itunes",
+ "album": "Dissonance Theory",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 6.029514185270403,
+  "tempo_var": 22.29379656150946,
+  "low_onset_rate": 8.661180597625993,
+  "lufs": -9.074457623852116,
+  "rms_dbfs": -8.449378075072874,
+  "crest": 8.44937801361084,
+  "centroid": 2558.4719206104164,
+  "flatness": 0.03917500376701355,
+  "sub100_share": 0.3681420683860779,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7285401821136475,
+  "clean_share": 0.0,
+  "minor_share": 0.1465610436467671,
+  "chord_rate": 1.8321728187285755,
+  "repetitiveness": 0.9413807392120361,
+  "vocal_share": 0.058213185518980026,
+  "vocal_voiced": 0.12724550898203593,
+  "song_length": 238.32
+ }
+}

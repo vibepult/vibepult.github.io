@@ -1,0 +1,32 @@
+{
+ "id": "soundgarden/1469581201-107",
+ "band": "soundgarden",
+ "title": "Taree",
+ "source": "itunes",
+ "album": "King Animal",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.2999501141328174,
+  "tempo_var": 1.1477732418122346,
+  "low_onset_rate": 3.7332768967967227,
+  "lufs": -8.955818146830017,
+  "rms_dbfs": -8.366029973328024,
+  "crest": 8.3660306930542,
+  "centroid": 2152.5684858309805,
+  "flatness": 0.017262209206819534,
+  "sub100_share": 0.363238126039505,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7346663475036621,
+  "clean_share": 0.2211910286156226,
+  "minor_share": 0.06668164034374147,
+  "chord_rate": 1.8999712778340465,
+  "repetitiveness": 0.7917190194129944,
+  "vocal_share": 0.15346743166446686,
+  "vocal_voiced": 0.9040959040959041,
+  "song_length": 218.304
+ }
+}

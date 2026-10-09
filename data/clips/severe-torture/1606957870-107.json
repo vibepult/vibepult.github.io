@@ -1,0 +1,32 @@
+{
+ "id": "severe-torture/1606957870-107",
+ "band": "severe-torture",
+ "title": "Rest in Flames",
+ "source": "itunes",
+ "album": "Feasting on Blood",
+ "year": 2000,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 7.183651141928914,
+  "tempo_var": 6.009659267986204,
+  "low_onset_rate": 6.715878509431217,
+  "lufs": -8.143221764622702,
+  "rms_dbfs": -7.645322382806943,
+  "crest": 7.645322799682617,
+  "centroid": 2983.273482649602,
+  "flatness": 0.04212912172079086,
+  "sub100_share": 0.3586602509021759,
+  "lowest_pitch": 88.824462890625,
+  "harmonic_share": 0.6337035298347473,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.16180670826265708,
+  "chord_rate": 2.5393371478446394,
+  "repetitiveness": 0.8841351270675659,
+  "vocal_share": 0.09969839453697205,
+  "vocal_voiced": 0.18614130434782608,
+  "song_length": 183.28
+ }
+}

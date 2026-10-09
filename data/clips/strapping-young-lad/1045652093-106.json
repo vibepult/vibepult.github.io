@@ -1,0 +1,32 @@
+{
+ "id": "strapping-young-lad/1045652093-106",
+ "band": "strapping-young-lad",
+ "title": "Hope",
+ "source": "itunes",
+ "album": "The New Black",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.71113865586966,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 7.217063472821607,
+  "lufs": -9.316890652385222,
+  "rms_dbfs": -8.97517173122481,
+  "crest": 8.97517204284668,
+  "centroid": 2634.3036671218088,
+  "flatness": 0.047403477132320404,
+  "sub100_share": 0.3178272843360901,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.6919537782669067,
+  "clean_share": 0.013964313421256789,
+  "minor_share": 0.1250154608831074,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.9214572906494141,
+  "vocal_share": 0.15963847935199738,
+  "vocal_voiced": 0.22425828970331588,
+  "song_length": 302.213
+ }
+}

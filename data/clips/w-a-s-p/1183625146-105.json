@@ -1,0 +1,32 @@
+{
+ "id": "w-a-s-p/1183625146-105",
+ "band": "w-a-s-p",
+ "title": "Into the Fire",
+ "source": "itunes",
+ "album": "Babylon",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.566666666666667,
+  "tempo_var": 21.624484030034424,
+  "low_onset_rate": 5.266666666666667,
+  "lufs": -9.331593640839541,
+  "rms_dbfs": -8.980412646455516,
+  "crest": 8.980412483215332,
+  "centroid": 2030.9223565271732,
+  "flatness": 0.013103803619742393,
+  "sub100_share": 0.1611550748348236,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7750885486602783,
+  "clean_share": 0.3126934984520124,
+  "minor_share": 0.003080170620976097,
+  "chord_rate": 0.9333333333333333,
+  "repetitiveness": 0.6316046118736267,
+  "vocal_share": 0.21015343070030212,
+  "vocal_voiced": 0.6628462273161414,
+  "song_length": 354.187
+ }
+}

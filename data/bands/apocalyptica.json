@@ -1,0 +1,127 @@
+{
+ "slug": "apocalyptica",
+ "name": "Apocalyptica",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 411644,
+  "deezer": 912,
+  "spotify": "4Lm0pUvmisUHMdoky5ch2I"
+ },
+ "metadata": {
+  "formed": 1993,
+  "split": null,
+  "country": "FI",
+  "status": "active",
+  "members": 3,
+  "past_members": 4,
+  "full_lengths": 10,
+  "genre": "Symphonic Heavy Metal/Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 493653,
+  "themes": "Mostly instrumental, Love, Relationships",
+  "release_year": 2006
+ },
+ "partial": false,
+ "clips": [
+  "apocalyptica/1646532606-104",
+  "apocalyptica/1646530800-107",
+  "apocalyptica/1647759764-106",
+  "apocalyptica/1648318363-106",
+  "apocalyptica/1697344723-108",
+  "apocalyptica/1481088672-105",
+  "apocalyptica/1755131680-105",
+  "apocalyptica/1646532606-105",
+  "apocalyptica/1646530800-108",
+  "apocalyptica/1647759764-105",
+  "apocalyptica/1648318363-107",
+  "apocalyptica/1697344723-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 103.52501502403845,
+   "iqr": 38.5040406756073
+  },
+  "onset_rate": {
+   "median": 2.516651448819659,
+   "iqr": 1.2830543294630758
+  },
+  "tempo_var": {
+   "median": 12.784506259146594,
+   "iqr": 11.275187212046333
+  },
+  "low_onset_rate": {
+   "median": 3.349979743130805,
+   "iqr": 2.6166508441369962
+  },
+  "lufs": {
+   "median": -14.813504615260495,
+   "iqr": 5.828094605424452
+  },
+  "rms_dbfs": {
+   "median": -14.541124439422397,
+   "iqr": 6.321113715329329
+  },
+  "crest": {
+   "median": 13.695796489715576,
+   "iqr": 4.783644437789917
+  },
+  "centroid": {
+   "median": 1677.4130198599169,
+   "iqr": 856.7374565369587
+  },
+  "flatness": {
+   "median": 0.01666598627343774,
+   "iqr": 0.010431967675685883
+  },
+  "sub100_share": {
+   "median": 0.34367112815380096,
+   "iqr": 0.20251099951565266
+  },
+  "lowest_pitch": {
+   "median": 51.141357421875,
+   "iqr": 34.991455078125
+  },
+  "harmonic_share": {
+   "median": 0.8643909394741058,
+   "iqr": 0.10902555286884308
+  },
+  "clean_share": {
+   "median": 0.7095901005413767,
+   "iqr": 0.6235498839907192
+  },
+  "minor_share": {
+   "median": 0.08384940493871293,
+   "iqr": 0.17046227911331918
+  },
+  "chord_rate": {
+   "median": 1.1999927438080495,
+   "iqr": 0.6250884995437809
+  },
+  "repetitiveness": {
+   "median": 0.7549958229064941,
+   "iqr": 0.07699163258075714
+  },
+  "vocal_share": {
+   "median": 0.21246811747550964,
+   "iqr": 0.0
+  },
+  "vocal_voiced": {
+   "median": 0.8205689277899344,
+   "iqr": 0.0
+  },
+  "song_length": {
+   "median": 261.09999999999997,
+   "iqr": 55.13300000000001
+  },
+  "vocal_presence": {
+   "median": 0.08333333333333333,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "avalanch/554133064-108",
+ "band": "avalanch",
+ "title": "Corazón Negro",
+ "source": "itunes",
+ "album": "El Ángel Caído",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 6.2,
+  "tempo_var": 1.781267991518142,
+  "low_onset_rate": 7.966666666666667,
+  "lufs": -10.311758725456125,
+  "rms_dbfs": -9.214392946174302,
+  "crest": 9.21439266204834,
+  "centroid": 2093.796028413618,
+  "flatness": 0.015035644173622131,
+  "sub100_share": 0.3173064589500427,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7583067417144775,
+  "clean_share": 0.0936532507739938,
+  "minor_share": 0.10962552193818037,
+  "chord_rate": 1.2666666666666666,
+  "repetitiveness": 0.821492612361908,
+  "vocal_share": 0.1627165824174881,
+  "vocal_voiced": 0.7924016282225237,
+  "song_length": 293.907
+ }
+}

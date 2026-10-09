@@ -1,0 +1,32 @@
+{
+ "id": "spinal-tap/1829091963-109",
+ "band": "spinal-tap",
+ "title": "Judge and Jury",
+ "source": "itunes",
+ "album": "The End Continues",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.6648135839023506,
+  "tempo_var": 13.891402014071984,
+  "low_onset_rate": 4.030530545652305,
+  "lufs": -11.393345779438294,
+  "rms_dbfs": -10.705457322239644,
+  "crest": 10.70545768737793,
+  "centroid": 1976.8053839039526,
+  "flatness": 0.012113561853766441,
+  "sub100_share": 0.3210887908935547,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.6962637901306152,
+  "clean_share": 0.28692962103634956,
+  "minor_share": 0.11059067155318453,
+  "chord_rate": 1.4323373013475134,
+  "repetitiveness": 0.7301710844039917,
+  "vocal_share": 0.17204178869724274,
+  "vocal_voiced": 0.507177033492823,
+  "song_length": 190.048
+ }
+}

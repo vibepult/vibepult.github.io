@@ -1,0 +1,32 @@
+{
+ "id": "the-raven-age/1479580805-106",
+ "band": "the-raven-age",
+ "title": "Surrogate",
+ "source": "itunes",
+ "album": "Conspiracy",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.199968556501548,
+  "tempo_var": 2.4645920682387485,
+  "low_onset_rate": 4.933303502321982,
+  "lufs": -8.911594116623998,
+  "rms_dbfs": -10.12656495625495,
+  "crest": 10.126564025878906,
+  "centroid": 2669.2984541627748,
+  "flatness": 0.04504895955324173,
+  "sub100_share": 0.33861294388771057,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6999382972717285,
+  "clean_share": 0.004640371229698376,
+  "minor_share": 0.14948600476243512,
+  "chord_rate": 1.3666584026702786,
+  "repetitiveness": 0.9071985483169556,
+  "vocal_share": 0.061368461698293686,
+  "vocal_voiced": 0.7103174603174603,
+  "song_length": 261.0
+ }
+}

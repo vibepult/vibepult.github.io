@@ -1,0 +1,32 @@
+{
+ "id": "rhapsody-of-fire/1445551619-107",
+ "band": "rhapsody-of-fire",
+ "title": "The Courage to Forgive",
+ "source": "itunes",
+ "album": "The Eighth Mountain",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 1.8042658682054018,
+  "tempo_var": 9.526488792711625,
+  "low_onset_rate": 2.1718015080250206,
+  "lufs": -11.014022470060835,
+  "rms_dbfs": -10.909047816237468,
+  "crest": 10.90904712677002,
+  "centroid": 2781.09781702013,
+  "flatness": 0.038593873381614685,
+  "sub100_share": 0.20045754313468933,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.7591981887817383,
+  "clean_share": 0.05120248254460822,
+  "minor_share": 0.1941999666428359,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.9267955422401428,
+  "vocal_share": 0.005047985352575779,
+  "vocal_voiced": 1.0,
+  "song_length": 294.987
+ }
+}

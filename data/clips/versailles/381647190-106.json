@@ -1,0 +1,32 @@
+{
+ "id": "versailles/381647190-106",
+ "band": "versailles",
+ "title": "Reminiscence",
+ "source": "itunes",
+ "album": "JUBILEE",
+ "year": 2010,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.513034597294284,
+  "tempo_var": 14.001215382167349,
+  "low_onset_rate": 4.945024972118508,
+  "lufs": -10.933217056631177,
+  "rms_dbfs": -11.94669771479374,
+  "crest": 11.946697235107422,
+  "centroid": 2238.404212681968,
+  "flatness": 0.012836406007409096,
+  "sub100_share": 0.02682822197675705,
+  "lowest_pitch": 156.11572265625,
+  "harmonic_share": 0.8805271983146667,
+  "clean_share": 0.16989914662529093,
+  "minor_share": -0.29031831257604623,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.7977890372276306,
+  "vocal_share": 1.4399714700630284e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 150.174
+ }
+}

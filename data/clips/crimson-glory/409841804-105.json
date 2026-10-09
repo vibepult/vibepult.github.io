@@ -1,0 +1,32 @@
+{
+ "id": "crimson-glory/409841804-105",
+ "band": "crimson-glory",
+ "title": "The Chant",
+ "source": "itunes",
+ "album": "Strange and Beautiful",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.112086626581972,
+  "tempo_var": 1.9695890325060073,
+  "low_onset_rate": 4.744550986762353,
+  "lufs": -12.33968225164212,
+  "rms_dbfs": -13.172856110428643,
+  "crest": 13.172856330871582,
+  "centroid": 2777.243133775518,
+  "flatness": 0.04664352163672447,
+  "sub100_share": 0.1705789417028427,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.6599973440170288,
+  "clean_share": 0.0,
+  "minor_share": -0.32051129823937174,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.8358408212661743,
+  "vocal_share": 0.23746038973331451,
+  "vocal_voiced": 0.7181571815718157,
+  "song_length": 225.333
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "akercocke/1246365465-104",
+ "band": "akercocke",
+ "title": "First to Leave the Funeral",
+ "source": "itunes",
+ "album": "Renaissance in Extremis",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.57748933229889,
+  "tempo_var": 2.1087392213778893,
+  "low_onset_rate": 4.811375648547738,
+  "lufs": -10.551440110123284,
+  "rms_dbfs": -10.326710003372492,
+  "crest": 10.326709747314453,
+  "centroid": 2519.7660124538706,
+  "flatness": 0.029914187267422676,
+  "sub100_share": 0.27039778232574463,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6626574993133545,
+  "clean_share": 0.017843289371605897,
+  "minor_share": 0.005210636957413417,
+  "chord_rate": 2.5393371478446394,
+  "repetitiveness": 0.8365699052810669,
+  "vocal_share": 0.20806697010993958,
+  "vocal_voiced": 0.25,
+  "song_length": 384.859
+ }
+}

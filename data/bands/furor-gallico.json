@@ -1,0 +1,127 @@
+{
+ "slug": "furor-gallico",
+ "name": "Furor Gallico",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 447041200,
+  "deezer": 1370165,
+  "spotify": "3EdTAF8rCNoJhEYmNKBehq"
+ },
+ "metadata": {
+  "formed": 2007,
+  "split": null,
+  "country": "IT",
+  "status": "active",
+  "members": 4,
+  "past_members": 14,
+  "full_lengths": 4,
+  "genre": "Folk Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 3855,
+  "themes": "Celtic mythology, Folklore, History, Insubria",
+  "release_year": 2017
+ },
+ "partial": false,
+ "clips": [
+  "furor-gallico/1838016134-106",
+  "furor-gallico/1734763147-105",
+  "furor-gallico/1734757013-105",
+  "furor-gallico/1722772798-104",
+  "furor-gallico/1838016134-108",
+  "furor-gallico/1734763147-104",
+  "furor-gallico/1734757013-106",
+  "furor-gallico/1722772798-105",
+  "furor-gallico/1838016134-105",
+  "furor-gallico/1734763147-106",
+  "furor-gallico/1734757013-104",
+  "furor-gallico/1722772798-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 132.59919819078948,
+   "iqr": 47.20199377828054
+  },
+  "onset_rate": {
+   "median": 3.883309851489938,
+   "iqr": 1.816643185201091
+  },
+  "tempo_var": {
+   "median": 16.292494873336125,
+   "iqr": 12.919247240957123
+  },
+  "low_onset_rate": {
+   "median": 5.083237694654435,
+   "iqr": 3.483148204618564
+  },
+  "lufs": {
+   "median": -10.20056354114505,
+   "iqr": 4.538004939332458
+  },
+  "rms_dbfs": {
+   "median": -10.058539957775519,
+   "iqr": 3.2838402406647393
+  },
+  "crest": {
+   "median": 10.058539390563965,
+   "iqr": 3.2552905082702637
+  },
+  "centroid": {
+   "median": 2047.0694361524852,
+   "iqr": 725.738483697713
+  },
+  "flatness": {
+   "median": 0.024002031423151493,
+   "iqr": 0.01716839475557208
+  },
+  "sub100_share": {
+   "median": 0.22441067546606064,
+   "iqr": 0.1969519965350628
+  },
+  "lowest_pitch": {
+   "median": 72.674560546875,
+   "iqr": 30.28106689453125
+  },
+  "harmonic_share": {
+   "median": 0.8570607304573059,
+   "iqr": 0.08565205335617065
+  },
+  "clean_share": {
+   "median": 0.38631090487238984,
+   "iqr": 0.6415313225058005
+  },
+  "minor_share": {
+   "median": 0.0881394745685416,
+   "iqr": 0.15332186164135442
+  },
+  "chord_rate": {
+   "median": 1.4499561615672996,
+   "iqr": 0.4750188956750663
+  },
+  "repetitiveness": {
+   "median": 0.7774061262607574,
+   "iqr": 0.09511698782444
+  },
+  "vocal_share": {
+   "median": 0.08248072862625122,
+   "iqr": 0.09887857921421528
+  },
+  "vocal_voiced": {
+   "median": 0.6447761194029851,
+   "iqr": 0.5783583599998297
+  },
+  "song_length": {
+   "median": 309.3665,
+   "iqr": 95.90324999999996
+  },
+  "vocal_presence": {
+   "median": 0.5833333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

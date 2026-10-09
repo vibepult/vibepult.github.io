@@ -1,0 +1,32 @@
+{
+ "id": "riverside/1536003559-104",
+ "band": "riverside",
+ "title": "Reality Dream",
+ "source": "itunes",
+ "album": "Out Of Myself",
+ "year": 2003,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.21232361926005,
+  "tempo_var": 16.979072299503944,
+  "low_onset_rate": 2.7063988023081027,
+  "lufs": -11.287965932633293,
+  "rms_dbfs": -10.325292381123079,
+  "crest": 10.325292587280273,
+  "centroid": 1733.3466231175807,
+  "flatness": 0.009610571898519993,
+  "sub100_share": 0.4225241541862488,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.83216392993927,
+  "clean_share": 0.5267649340574089,
+  "minor_share": -0.06032030367581748,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.9026580452919006,
+  "vocal_share": 0.0030811382457613945,
+  "vocal_voiced": 0.9278996865203761,
+  "song_length": 375.28
+ }
+}

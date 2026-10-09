@@ -1,0 +1,124 @@
+{
+ "slug": "paracrona",
+ "name": "Paracrona",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1684533796,
+  "deezer": 211964607,
+  "spotify": "51vPJuEsVUsm02Nsh4ND3m"
+ },
+ "metadata": {
+  "formed": 2016,
+  "split": null,
+  "country": "NO",
+  "status": "active",
+  "members": 5,
+  "past_members": 3,
+  "full_lengths": 1,
+  "genre": "Symphonic Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 21,
+  "themes": "N/A",
+  "release_year": 2023
+ },
+ "partial": false,
+ "clips": [
+  "paracrona/1727450003-105",
+  "paracrona/1727450003-104",
+  "paracrona/1727450003-106",
+  "paracrona/1727450003-103",
+  "paracrona/1727450003-107",
+  "paracrona/1727450003-102",
+  "paracrona/1727450003-108",
+  "paracrona/1727450003-101",
+  "paracrona/1727450003-109"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 26.100852272727266
+  },
+  "onset_rate": {
+   "median": 6.0,
+   "iqr": 4.633333333333333
+  },
+  "tempo_var": {
+   "median": 15.743320415942106,
+   "iqr": 10.154663196578474
+  },
+  "low_onset_rate": {
+   "median": 7.433333333333334,
+   "iqr": 1.6333333333333329
+  },
+  "lufs": {
+   "median": -11.018270867133074,
+   "iqr": 1.8004944408860215
+  },
+  "rms_dbfs": {
+   "median": -9.743579261548716,
+   "iqr": 2.4628315795081317
+  },
+  "crest": {
+   "median": 9.743579864501953,
+   "iqr": 2.462831497192383
+  },
+  "centroid": {
+   "median": 2344.317326885428,
+   "iqr": 832.8312069817082
+  },
+  "flatness": {
+   "median": 0.023954879492521286,
+   "iqr": 0.015843400731682777
+  },
+  "sub100_share": {
+   "median": 0.4967499375343323,
+   "iqr": 0.12468934059143066
+  },
+  "lowest_pitch": {
+   "median": 43.06640625,
+   "iqr": 13.458251953125
+  },
+  "harmonic_share": {
+   "median": 0.8600226640701294,
+   "iqr": 0.08181577920913696
+  },
+  "clean_share": {
+   "median": 0.03560371517027864,
+   "iqr": 0.5534055727554179
+  },
+  "minor_share": {
+   "median": 0.028145248108050414,
+   "iqr": 0.13117535884615217
+  },
+  "chord_rate": {
+   "median": 1.1666666666666667,
+   "iqr": 1.2999999999999998
+  },
+  "repetitiveness": {
+   "median": 0.8481224179267883,
+   "iqr": 0.13169437646865845
+  },
+  "vocal_share": {
+   "median": 0.04314800724387169,
+   "iqr": 0.016351692378520966
+  },
+  "vocal_voiced": {
+   "median": 0.17857142857142858,
+   "iqr": 0.40752980718680976
+  },
+  "song_length": {
+   "median": 361.236,
+   "iqr": 26.483000000000004
+  },
+  "vocal_presence": {
+   "median": 0.7777777777777778,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

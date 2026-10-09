@@ -1,0 +1,32 @@
+{
+ "id": "lex-talion/1441911021-106",
+ "band": "lex-talion",
+ "title": "Nightwing",
+ "source": "itunes",
+ "album": "Sons of Chaos",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 7.551186781748533,
+  "tempo_var": 17.22949691872303,
+  "low_onset_rate": 7.684836105319304,
+  "lufs": -6.715667264602954,
+  "rms_dbfs": -6.342336535819392,
+  "crest": 6.3423357009887695,
+  "centroid": 2466.7493799875133,
+  "flatness": 0.0379771962761879,
+  "sub100_share": 0.29302653670310974,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.742555558681488,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.15896032223393547,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.8837815523147583,
+  "vocal_share": 0.18976779282093048,
+  "vocal_voiced": 0.41160471441523117,
+  "song_length": 252.616
+ }
+}

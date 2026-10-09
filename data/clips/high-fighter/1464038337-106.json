@@ -1,0 +1,32 @@
+{
+ "id": "high-fighter/1464038337-106",
+ "band": "high-fighter",
+ "title": "Kozel",
+ "source": "itunes",
+ "album": "Champain",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 1.1026069194588566,
+  "tempo_var": 5.946016055607566,
+  "low_onset_rate": 2.205213838917713,
+  "lufs": -11.350118672798654,
+  "rms_dbfs": -11.210321098239536,
+  "crest": 11.210321426391602,
+  "centroid": 1910.269476093193,
+  "flatness": 0.01580442674458027,
+  "sub100_share": 0.4989265203475952,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.9855941534042358,
+  "clean_share": 0.7331264546159814,
+  "minor_share": -0.10888946791113008,
+  "chord_rate": 0.30071097803423363,
+  "repetitiveness": 0.8457302451133728,
+  "vocal_share": 3.003109156907158e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 285.008
+ }
+}

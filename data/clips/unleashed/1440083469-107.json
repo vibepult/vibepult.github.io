@@ -1,0 +1,32 @@
+{
+ "id": "unleashed/1440083469-107",
+ "band": "unleashed",
+ "title": "Hero of the Land",
+ "source": "itunes",
+ "album": "Warrior",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.109716699801193,
+  "tempo_var": 1.356763366244347,
+  "low_onset_rate": 3.2744084274838774,
+  "lufs": -9.146993631326389,
+  "rms_dbfs": -9.825444822815598,
+  "crest": 9.825445175170898,
+  "centroid": 3222.802075283196,
+  "flatness": 0.042039453983306885,
+  "sub100_share": 0.13534967601299286,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.7224646210670471,
+  "clean_share": 0.007757951900698216,
+  "minor_share": 0.21781505341490692,
+  "chord_rate": 1.4367302283857828,
+  "repetitiveness": 0.7101327180862427,
+  "vocal_share": 0.059224486351013184,
+  "vocal_voiced": 0.3451043338683788,
+  "song_length": 193.133
+ }
+}

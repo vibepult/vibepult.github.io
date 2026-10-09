@@ -1,0 +1,32 @@
+{
+ "id": "behemoth/765742794-105",
+ "band": "behemoth",
+ "title": "Amen",
+ "source": "itunes",
+ "album": "The Satanist",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 6.599900228265635,
+  "tempo_var": 3.8168625423304463,
+  "low_onset_rate": 9.299859412556122,
+  "lufs": -7.194950301495345,
+  "rms_dbfs": -6.909458004360031,
+  "crest": 6.909458160400391,
+  "centroid": 2526.633544211962,
+  "flatness": 0.04651818796992302,
+  "sub100_share": 0.28374043107032776,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7014390230178833,
+  "clean_share": 0.0,
+  "minor_share": 0.09550323126703619,
+  "chord_rate": 2.1333010838838415,
+  "repetitiveness": 0.961615264415741,
+  "vocal_share": 0.17157289385795593,
+  "vocal_voiced": 0.1800796812749004,
+  "song_length": 229.16
+ }
+}

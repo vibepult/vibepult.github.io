@@ -1,0 +1,32 @@
+{
+ "id": "anvil/329675819-107",
+ "band": "anvil",
+ "title": "Axe to the Grind",
+ "source": "itunes",
+ "album": "This Is Thirteen",
+ "year": 2007,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.777963317655045,
+  "tempo_var": 3.0709603439225766,
+  "low_onset_rate": 7.8184854288900745,
+  "lufs": -10.921061040499966,
+  "rms_dbfs": -9.499255096451982,
+  "crest": 9.499255180358887,
+  "centroid": 2626.899204965343,
+  "flatness": 0.02337009273469448,
+  "sub100_share": 0.5670366287231445,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.772445797920227,
+  "clean_share": 0.07525213343677269,
+  "minor_share": 0.17617828872932834,
+  "chord_rate": 2.138389177132328,
+  "repetitiveness": 0.8925901651382446,
+  "vocal_share": 0.0447477363049984,
+  "vocal_voiced": 0.7635658914728682,
+  "song_length": 270.522
+ }
+}

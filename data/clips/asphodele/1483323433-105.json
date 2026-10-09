@@ -1,0 +1,32 @@
+{
+ "id": "asphodele/1483323433-105",
+ "band": "asphodele",
+ "title": "Nitide",
+ "source": "itunes",
+ "album": "Jours Pâles",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 78.30255681818181,
+  "onset_rate": 2.205213838917713,
+  "tempo_var": 13.867791539906822,
+  "low_onset_rate": 2.1718015080250206,
+  "lufs": -13.275712080545945,
+  "rms_dbfs": -12.758456721232532,
+  "crest": 12.758456230163574,
+  "centroid": 2094.272878639418,
+  "flatness": 0.019019577652215958,
+  "sub100_share": 0.16652320325374603,
+  "lowest_pitch": 196.490478515625,
+  "harmonic_share": 0.8212873935699463,
+  "clean_share": 0.42979053529868116,
+  "minor_share": 0.24501808940855974,
+  "chord_rate": 1.336493235707705,
+  "repetitiveness": 0.8226571679115295,
+  "vocal_share": 0.2105731964111328,
+  "vocal_voiced": 0.8424657534246576,
+  "song_length": 344.341
+ }
+}

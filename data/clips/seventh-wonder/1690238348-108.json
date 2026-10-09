@@ -1,0 +1,32 @@
+{
+ "id": "seventh-wonder/1690238348-108",
+ "band": "seventh-wonder",
+ "title": "Paradise",
+ "source": "itunes",
+ "album": "Mercy Falls",
+ "year": 2008,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.813745575328517,
+  "tempo_var": 14.957559694869863,
+  "low_onset_rate": 6.515404524075062,
+  "lufs": -7.986051704152514,
+  "rms_dbfs": -8.024863124226197,
+  "crest": 8.024863243103027,
+  "centroid": 2639.80868505339,
+  "flatness": 0.037367746233940125,
+  "sub100_share": 0.14602899551391602,
+  "lowest_pitch": 102.28271484375,
+  "harmonic_share": 0.8086934089660645,
+  "clean_share": 0.003878975950349108,
+  "minor_share": 0.11073960973067642,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.8483698964118958,
+  "vocal_share": 0.22704575955867767,
+  "vocal_voiced": 0.8132992327365729,
+  "song_length": 346.387
+ }
+}

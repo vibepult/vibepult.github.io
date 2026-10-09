@@ -1,0 +1,32 @@
+{
+ "id": "armored-saint/54267761-107",
+ "band": "armored-saint",
+ "title": "Another Day",
+ "source": "itunes",
+ "album": "Symbol of Salvation",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 60.09265988372093,
+  "onset_rate": 2.2386261698104057,
+  "tempo_var": 9.535840195637633,
+  "low_onset_rate": 1.4033178974930902,
+  "lufs": -18.239392182456356,
+  "rms_dbfs": -18.659356973688745,
+  "crest": 18.65935707092285,
+  "centroid": 2264.8339977886812,
+  "flatness": 0.014918663538992405,
+  "sub100_share": 0.08729695528745651,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8015292882919312,
+  "clean_share": 0.24204809930178434,
+  "minor_share": 0.030231682823541495,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.7565926313400269,
+  "vocal_share": 0.5938488245010376,
+  "vocal_voiced": 0.8972332015810277,
+  "song_length": 332.133
+ }
+}

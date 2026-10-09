@@ -1,0 +1,32 @@
+{
+ "id": "nightwish/1669911747-105",
+ "band": "nightwish",
+ "title": "Slaying the Dreamer",
+ "source": "itunes",
+ "album": "Century Child",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.3,
+  "tempo_var": 13.258510478664236,
+  "low_onset_rate": 3.933333333333333,
+  "lufs": -10.439914141524289,
+  "rms_dbfs": -9.83684335055264,
+  "crest": 9.836843490600586,
+  "centroid": 3012.999019715136,
+  "flatness": 0.04725930839776993,
+  "sub100_share": 0.26080748438835144,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7722482681274414,
+  "clean_share": 0.0046439628482972135,
+  "minor_share": 0.25688848260812613,
+  "chord_rate": 1.3666666666666667,
+  "repetitiveness": 0.8307880163192749,
+  "vocal_share": 0.1778375506401062,
+  "vocal_voiced": 0.7436096049573974,
+  "song_length": 271.76
+ }
+}

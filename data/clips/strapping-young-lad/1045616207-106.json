@@ -1,0 +1,32 @@
+{
+ "id": "strapping-young-lad/1045616207-106",
+ "band": "strapping-young-lad",
+ "title": "We Ride",
+ "source": "itunes",
+ "album": "Alien",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 7.0288811773041715,
+  "tempo_var": 9.898561060258636,
+  "low_onset_rate": 10.826475747032491,
+  "lufs": -10.11595039532359,
+  "rms_dbfs": -9.458759737001966,
+  "crest": 9.458759307861328,
+  "centroid": 3033.850557710307,
+  "flatness": 0.060083258897066116,
+  "sub100_share": 0.4897300601005554,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8290355205535889,
+  "clean_share": 0.0069605568445475635,
+  "minor_share": 0.16064023920813408,
+  "chord_rate": 0.9993669920337684,
+  "repetitiveness": 0.9772074222564697,
+  "vocal_share": 0.08830596506595612,
+  "vocal_voiced": 0.549367088607595,
+  "song_length": 157.6
+ }
+}

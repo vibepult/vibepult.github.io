@@ -1,0 +1,127 @@
+{
+ "slug": "leaves-eyes",
+ "name": "Leaves' Eyes",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 390303079,
+  "deezer": 3081,
+  "spotify": "63qODcvBCdG2kTguOJkEqJ"
+ },
+ "metadata": {
+  "formed": 2003,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 6,
+  "past_members": 18,
+  "full_lengths": 10,
+  "genre": "Symphonic Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 56209,
+  "themes": "Nature, Love, History, Vikings, Norse mythology",
+  "release_year": 2010
+ },
+ "partial": false,
+ "clips": [
+  "leaves-eyes/1183610370-105",
+  "leaves-eyes/1184133480-106",
+  "leaves-eyes/1183982960-106",
+  "leaves-eyes/1184698182-106",
+  "leaves-eyes/1184710665-107",
+  "leaves-eyes/1575548304-106",
+  "leaves-eyes/1784442277-106",
+  "leaves-eyes/1183610370-106",
+  "leaves-eyes/1184133480-107",
+  "leaves-eyes/1183982960-107",
+  "leaves-eyes/1184698182-105",
+  "leaves-eyes/1184710665-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 28.781691438567165
+  },
+  "onset_rate": {
+   "median": 3.7666666666666666,
+   "iqr": 1.1750036784861972
+  },
+  "tempo_var": {
+   "median": 8.038734611869739,
+   "iqr": 9.94711546972601
+  },
+  "low_onset_rate": {
+   "median": 6.3166089201707605,
+   "iqr": 2.1083333333333325
+  },
+  "lufs": {
+   "median": -10.04253000118991,
+   "iqr": 4.4702319067488485
+  },
+  "rms_dbfs": {
+   "median": -9.541841347230335,
+   "iqr": 4.083712411666166
+  },
+  "crest": {
+   "median": 9.54184103012085,
+   "iqr": 4.083711862564087
+  },
+  "centroid": {
+   "median": 2038.0073071896973,
+   "iqr": 508.7204385673167
+  },
+  "flatness": {
+   "median": 0.01619913149625063,
+   "iqr": 0.008147960877977312
+  },
+  "sub100_share": {
+   "median": 0.23209001868963242,
+   "iqr": 0.11246148869395256
+  },
+  "lowest_pitch": {
+   "median": 71.3287353515625,
+   "iqr": 37.68310546875
+  },
+  "harmonic_share": {
+   "median": 0.8993657529354095,
+   "iqr": 0.08918249607086182
+  },
+  "clean_share": {
+   "median": 0.2592879256965944,
+   "iqr": 0.6833727812776105
+  },
+  "minor_share": {
+   "median": 0.02934179974050971,
+   "iqr": 0.2106695795323564
+  },
+  "chord_rate": {
+   "median": 0.9511849633903895,
+   "iqr": 0.3500000000000002
+  },
+  "repetitiveness": {
+   "median": 0.7076504826545715,
+   "iqr": 0.07040132582187653
+  },
+  "vocal_share": {
+   "median": 0.2023230642080307,
+   "iqr": 0.12269413471221924
+  },
+  "vocal_voiced": {
+   "median": 0.9305785123966942,
+   "iqr": 0.03330304724629585
+  },
+  "song_length": {
+   "median": 261.798,
+   "iqr": 44.119500000000016
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

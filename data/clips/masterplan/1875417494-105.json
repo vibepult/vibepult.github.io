@@ -1,0 +1,32 @@
+{
+ "id": "masterplan/1875417494-105",
+ "band": "masterplan",
+ "title": "Pain Of Yesterday",
+ "source": "itunes",
+ "album": "Metalmorphosis",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.766666666666667,
+  "tempo_var": 4.5019526894412945,
+  "low_onset_rate": 6.6,
+  "lufs": -10.67336168725928,
+  "rms_dbfs": -10.475660055372098,
+  "crest": 10.47566032409668,
+  "centroid": 2818.993369327848,
+  "flatness": 0.03918023779988289,
+  "sub100_share": 0.345151424407959,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.8275837898254395,
+  "clean_share": 0.0007739938080495357,
+  "minor_share": -0.005907763626572526,
+  "chord_rate": 0.8333333333333334,
+  "repetitiveness": 0.6710425019264221,
+  "vocal_share": 0.1602076292037964,
+  "vocal_voiced": 0.4675118858954041,
+  "song_length": 292.187
+ }
+}

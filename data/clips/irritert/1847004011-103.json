@@ -1,0 +1,32 @@
+{
+ "id": "irritert/1847004011-103",
+ "band": "irritert",
+ "title": "Something Scratching in My Basement",
+ "source": "itunes",
+ "album": "Torn Soul",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.066666666666667,
+  "tempo_var": 4.834581035056204,
+  "low_onset_rate": 5.7,
+  "lufs": -18.111682280571316,
+  "rms_dbfs": -19.82276400853393,
+  "crest": 18.6337947845459,
+  "centroid": 2037.7016322126897,
+  "flatness": 0.004164586775004864,
+  "sub100_share": 0.000299321225611493,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.9575960040092468,
+  "clean_share": 0.8955108359133127,
+  "minor_share": -0.07471232483946166,
+  "chord_rate": 0.3333333333333333,
+  "repetitiveness": 0.5186978578567505,
+  "vocal_share": 0.33454906940460205,
+  "vocal_voiced": 0.9805825242718447,
+  "song_length": 516.0
+ }
+}

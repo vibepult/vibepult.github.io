@@ -1,0 +1,32 @@
+{
+ "id": "alcatrazz/1668407473-106",
+ "band": "alcatrazz",
+ "title": "Alcatrazz",
+ "source": "itunes",
+ "album": "Take No Prisoners",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 7.150238811036222,
+  "tempo_var": 1.2438847330434641,
+  "low_onset_rate": 8.620381370314698,
+  "lufs": -6.2005782296194925,
+  "rms_dbfs": -6.0342307642926105,
+  "crest": 6.034231185913086,
+  "centroid": 2304.422424772996,
+  "flatness": 0.026996858417987823,
+  "sub100_share": 0.2165185660123825,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7534981369972229,
+  "clean_share": 0.003878975950349108,
+  "minor_share": 0.09299639841523949,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.8721036314964294,
+  "vocal_share": 0.19458885490894318,
+  "vocal_voiced": 0.7793650793650794,
+  "song_length": 254.476
+ }
+}

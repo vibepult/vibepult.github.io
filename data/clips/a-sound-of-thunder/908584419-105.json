@@ -1,0 +1,32 @@
+{
+ "id": "a-sound-of-thunder/908584419-105",
+ "band": "a-sound-of-thunder",
+ "title": "Elijah",
+ "source": "itunes",
+ "album": "The Lesser Key of Solomon",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.245735950152742,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.546446928186976,
+  "lufs": -11.237169379547238,
+  "rms_dbfs": -11.139180600641975,
+  "crest": 11.139181137084961,
+  "centroid": 2384.269280018254,
+  "flatness": 0.015038182027637959,
+  "sub100_share": 0.008941025473177433,
+  "lowest_pitch": 107.666015625,
+  "harmonic_share": 0.9112937450408936,
+  "clean_share": 0.330488750969744,
+  "minor_share": 0.15050576108311653,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.7029451131820679,
+  "vocal_share": 0.7071871161460876,
+  "vocal_voiced": 0.8731182795698925,
+  "song_length": 569.987
+ }
+}

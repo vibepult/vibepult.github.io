@@ -1,0 +1,32 @@
+{
+ "id": "pentagram/1018913993-106",
+ "band": "pentagram",
+ "title": "Curious Volume",
+ "source": "itunes",
+ "album": "Curious Volume",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.240996096591185,
+  "tempo_var": 4.263256414560601e-14,
+  "low_onset_rate": 4.811375648547738,
+  "lufs": -12.046410784704802,
+  "rms_dbfs": -10.712411934105981,
+  "crest": 10.71241283416748,
+  "centroid": 1821.4745085125678,
+  "flatness": 0.008212139829993248,
+  "sub100_share": 0.4097970426082611,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.8395571708679199,
+  "clean_share": 0.560899922420481,
+  "minor_share": 0.02876816579368524,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.8739974498748779,
+  "vocal_share": 0.15485736727714539,
+  "vocal_voiced": 0.9203629032258065,
+  "song_length": 260.892
+ }
+}

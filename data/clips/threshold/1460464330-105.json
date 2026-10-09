@@ -1,0 +1,32 @@
+{
+ "id": "threshold/1460464330-105",
+ "band": "threshold",
+ "title": "The Art of Reason",
+ "source": "itunes",
+ "album": "Subsurface (Definitive Edition)",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 2.405687824273869,
+  "tempo_var": 14.442485739148703,
+  "low_onset_rate": 4.610901663191583,
+  "lufs": -9.222540644132929,
+  "rms_dbfs": -10.975234698784163,
+  "crest": 10.975234985351562,
+  "centroid": 2565.5371059676236,
+  "flatness": 0.04274298623204231,
+  "sub100_share": 0.32165995240211487,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7915461659431458,
+  "clean_share": 0.030256012412723042,
+  "minor_share": -0.09001344547440965,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.7134752869606018,
+  "vocal_share": 0.22992250323295593,
+  "vocal_voiced": 0.11122554067971163,
+  "song_length": 620.493
+ }
+}

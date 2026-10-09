@@ -1,0 +1,32 @@
+{
+ "id": "kawir/1508129487-103",
+ "band": "kawir",
+ "title": "Tantalus",
+ "source": "itunes",
+ "album": "Εξιλασμός",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.713508582650439,
+  "tempo_var": 13.547484569408471,
+  "low_onset_rate": 7.718248436211996,
+  "lufs": -9.836208962053806,
+  "rms_dbfs": -9.326569701677531,
+  "crest": 9.326569557189941,
+  "centroid": 2239.2936625727916,
+  "flatness": 0.025099018588662148,
+  "sub100_share": 0.31781789660453796,
+  "lowest_pitch": 26.91650390625,
+  "harmonic_share": 0.7197508215904236,
+  "clean_share": 0.0,
+  "minor_share": -0.04346141245323221,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.9458731412887573,
+  "vocal_share": 0.15186268091201782,
+  "vocal_voiced": 0.15939086294416244,
+  "song_length": 400.428
+ }
+}

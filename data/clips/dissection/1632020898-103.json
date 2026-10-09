@@ -1,0 +1,32 @@
+{
+ "id": "dissection/1632020898-103",
+ "band": "dissection",
+ "title": "Black Dragon",
+ "source": "itunes",
+ "album": "Reinkaos (Instrumental)",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 4.410427677835426,
+  "tempo_var": 0.0,
+  "low_onset_rate": 3.9092427144450372,
+  "lufs": -16.314429386304916,
+  "rms_dbfs": -16.018969500997628,
+  "crest": 16.01896858215332,
+  "centroid": 2468.2048706023356,
+  "flatness": 0.018380021676421165,
+  "sub100_share": 0.23026037216186523,
+  "lowest_pitch": 139.9658203125,
+  "harmonic_share": 0.5821195244789124,
+  "clean_share": 0.15593483320403415,
+  "minor_share": 0.03013353447214928,
+  "chord_rate": 2.405687824273869,
+  "repetitiveness": 0.8487088084220886,
+  "vocal_share": 6.127507958808565e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 273.136
+ }
+}

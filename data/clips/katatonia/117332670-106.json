@@ -1,0 +1,32 @@
+{
+ "id": "katatonia/117332670-106",
+ "band": "katatonia",
+ "title": "Follower",
+ "source": "itunes",
+ "album": "The Great Cold Distance",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.9,
+  "tempo_var": 30.32739424333977,
+  "low_onset_rate": 3.066666666666667,
+  "lufs": -14.131638957904558,
+  "rms_dbfs": -12.3425913099152,
+  "crest": 12.342591285705566,
+  "centroid": 2012.4148133277731,
+  "flatness": 0.01652849093079567,
+  "sub100_share": 0.539539098739624,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.5886999368667603,
+  "clean_share": 0.4295665634674923,
+  "minor_share": -0.0012594713727877016,
+  "chord_rate": 1.4,
+  "repetitiveness": 0.863621711730957,
+  "vocal_share": 0.08401947468519211,
+  "vocal_voiced": 0.8346354166666666,
+  "song_length": 285.595
+ }
+}

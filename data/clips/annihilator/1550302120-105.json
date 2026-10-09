@@ -1,0 +1,32 @@
+{
+ "id": "annihilator/1550302120-105",
+ "band": "annihilator",
+ "title": "25 Seconds",
+ "source": "itunes",
+ "album": "Annihilator",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.399963719369322,
+  "tempo_var": 18.552698086207705,
+  "low_onset_rate": 1.5999758129128812,
+  "lufs": -13.158318921288984,
+  "rms_dbfs": -12.35572194954095,
+  "crest": 12.355722427368164,
+  "centroid": 2168.0625305855756,
+  "flatness": 0.020184114575386047,
+  "sub100_share": 0.43326202034950256,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8046848177909851,
+  "clean_share": 0.31013147718484146,
+  "minor_share": -0.07329624872499413,
+  "chord_rate": 2.199966742755212,
+  "repetitiveness": 0.846503496170044,
+  "vocal_share": 0.0658375695347786,
+  "vocal_voiced": 0.11194029850746269,
+  "song_length": 272.273
+ }
+}

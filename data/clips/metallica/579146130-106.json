@@ -1,0 +1,32 @@
+{
+ "id": "metallica/579146130-106",
+ "band": "metallica",
+ "title": "Whiplash",
+ "source": "itunes",
+ "album": "Kill 'Em All (Remastered)",
+ "year": 1983,
+ "itunes_year": 1983,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.966666666666667,
+  "tempo_var": 13.400526894311282,
+  "low_onset_rate": 5.966666666666667,
+  "lufs": -13.195070616518162,
+  "rms_dbfs": -11.6714603539861,
+  "crest": 11.671459197998047,
+  "centroid": 2593.2449831175136,
+  "flatness": 0.03638509288430214,
+  "sub100_share": 0.6432172060012817,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7719003558158875,
+  "clean_share": 0.19814241486068113,
+  "minor_share": 0.06985974075143125,
+  "chord_rate": 1.8,
+  "repetitiveness": 0.8738725781440735,
+  "vocal_share": 4.980314542990527e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 248.547
+ }
+}

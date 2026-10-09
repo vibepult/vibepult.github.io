@@ -1,0 +1,32 @@
+{
+ "id": "winterhorde/1680977834-106",
+ "band": "winterhorde",
+ "title": "The Heart of Coryphee",
+ "source": "itunes",
+ "album": "Maestro",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 7.3173004654996845,
+  "tempo_var": 5.413865791583166,
+  "low_onset_rate": 7.618011443533918,
+  "lufs": -8.47664531934149,
+  "rms_dbfs": -7.703228784977151,
+  "crest": 7.703228950500488,
+  "centroid": 2344.9883215301224,
+  "flatness": 0.027077188715338707,
+  "sub100_share": 0.3846837282180786,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8199580907821655,
+  "clean_share": 0.01474010861132661,
+  "minor_share": -0.08816112237673474,
+  "chord_rate": 0.8353082723173156,
+  "repetitiveness": 0.9309573769569397,
+  "vocal_share": 7.790847575961379e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 689.707
+ }
+}

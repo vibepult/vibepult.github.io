@@ -1,0 +1,32 @@
+{
+ "id": "warlord/1591244106-103",
+ "band": "warlord",
+ "title": "Invaders",
+ "source": "itunes",
+ "album": "Rising Out of the Ashes",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 69.83741554054055,
+  "onset_rate": 5.011849633903894,
+  "tempo_var": 3.5142195913130405,
+  "low_onset_rate": 7.283888134606992,
+  "lufs": -13.50628075114066,
+  "rms_dbfs": -13.059422589997762,
+  "crest": 13.059423446655273,
+  "centroid": 2598.301825512424,
+  "flatness": 0.03220122307538986,
+  "sub100_share": 0.3346177935600281,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.654918909072876,
+  "clean_share": 0.022498060512024826,
+  "minor_share": 0.01776011420090018,
+  "chord_rate": 0.8687206032100082,
+  "repetitiveness": 0.9327759146690369,
+  "vocal_share": 0.16961170732975006,
+  "vocal_voiced": 0.8836967808930426,
+  "song_length": 385.28
+ }
+}

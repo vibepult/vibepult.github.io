@@ -1,0 +1,32 @@
+{
+ "id": "stille-volk/1555059456-105",
+ "band": "stille-volk",
+ "title": "La mort de Milharis",
+ "source": "itunes",
+ "album": "Milharis",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 4.777963317655045,
+  "tempo_var": 21.2119124752932,
+  "low_onset_rate": 6.515404524075062,
+  "lufs": -9.133077301552916,
+  "rms_dbfs": -8.24581560494697,
+  "crest": 8.24581527709961,
+  "centroid": 1794.2486089795534,
+  "flatness": 0.008177859708666801,
+  "sub100_share": 0.23738998174667358,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.8771978616714478,
+  "clean_share": 0.4530643910007758,
+  "minor_share": 0.10588142089322,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.8347404599189758,
+  "vocal_share": 0.25092875957489014,
+  "vocal_voiced": 0.762252346193952,
+  "song_length": 325.373
+ }
+}

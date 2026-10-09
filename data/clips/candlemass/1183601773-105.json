@@ -1,0 +1,32 @@
+{
+ "id": "candlemass/1183601773-105",
+ "band": "candlemass",
+ "title": "The Lights of Thebe",
+ "source": "itunes",
+ "album": "Psalms for the Dead",
+ "year": 2012,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 1.7666666666666666,
+  "tempo_var": 31.50772702285062,
+  "low_onset_rate": 3.1,
+  "lufs": -11.369145506211657,
+  "rms_dbfs": -10.4181681399178,
+  "crest": 10.418168067932129,
+  "centroid": 1980.2693943755041,
+  "flatness": 0.013629681430757046,
+  "sub100_share": 0.3643164336681366,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.8511499762535095,
+  "clean_share": 0.43034055727554177,
+  "minor_share": -0.07603902076583868,
+  "chord_rate": 1.6666666666666667,
+  "repetitiveness": 0.8311363458633423,
+  "vocal_share": 0.06093435361981392,
+  "vocal_voiced": 0.6911764705882353,
+  "song_length": 349.907
+ }
+}

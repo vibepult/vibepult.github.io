@@ -1,0 +1,32 @@
+{
+ "id": "welicoruss/1694726447-104",
+ "band": "welicoruss",
+ "title": "Frostbounded",
+ "source": "itunes",
+ "album": "Siberian Heathen Horde",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 6.166554801726953,
+  "tempo_var": 3.3103232959808286,
+  "low_onset_rate": 6.5332148169647715,
+  "lufs": -7.703401145105945,
+  "rms_dbfs": -7.067462535055159,
+  "crest": 7.067461967468262,
+  "centroid": 2181.1406468843215,
+  "flatness": 0.021156568080186844,
+  "sub100_share": 0.3039267957210541,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8001754879951477,
+  "clean_share": 0.030162412993039442,
+  "minor_share": 0.12930980158810745,
+  "chord_rate": 1.8666328048470775,
+  "repetitiveness": 0.903510570526123,
+  "vocal_share": 0.06289029866456985,
+  "vocal_voiced": 0.7224938875305623,
+  "song_length": 308.201
+ }
+}

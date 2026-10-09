@@ -1,0 +1,127 @@
+{
+ "slug": "ayreon",
+ "name": "Ayreon",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 201629913,
+  "deezer": 1986,
+  "spotify": "2RSApl0SXcVT8Yiy4UaPSt"
+ },
+ "metadata": {
+  "formed": 1994,
+  "split": null,
+  "country": "NL",
+  "status": "active",
+  "members": 2,
+  "past_members": 0,
+  "full_lengths": 11,
+  "genre": "Progressive Metal/Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 30851,
+  "themes": "Space, Science fiction, Emotions, Time",
+  "release_year": 2004
+ },
+ "partial": false,
+ "clips": [
+  "ayreon/1600477956-108",
+  "ayreon/1600475373-202",
+  "ayreon/1600474851-111",
+  "ayreon/1601045586-105",
+  "ayreon/1600454316-108",
+  "ayreon/1600456714-201",
+  "ayreon/1600477956-107",
+  "ayreon/1600475373-201",
+  "ayreon/1600474851-110",
+  "ayreon/1601045586-106",
+  "ayreon/1600454316-107",
+  "ayreon/1600456714-202"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 132.59919819078948,
+   "iqr": 19.822014526341803
+  },
+  "onset_rate": {
+   "median": 2.7528741391157885,
+   "iqr": 2.1061252334832137
+  },
+  "tempo_var": {
+   "median": 9.336429846275326,
+   "iqr": 11.403744473736118
+  },
+  "low_onset_rate": {
+   "median": 4.059598203462154,
+   "iqr": 2.741395115605732
+  },
+  "lufs": {
+   "median": -17.39436298140319,
+   "iqr": 7.087958802920337
+  },
+  "rms_dbfs": {
+   "median": -18.29569562027195,
+   "iqr": 7.43752340824037
+  },
+  "crest": {
+   "median": 15.447163581848145,
+   "iqr": 2.627514362335205
+  },
+  "centroid": {
+   "median": 1987.0173679641184,
+   "iqr": 888.860122457553
+  },
+  "flatness": {
+   "median": 0.012260745745152235,
+   "iqr": 0.02476587163982913
+  },
+  "sub100_share": {
+   "median": 0.32117316126823425,
+   "iqr": 0.4064578916877508
+  },
+  "lowest_pitch": {
+   "median": 88.824462890625,
+   "iqr": 94.207763671875
+  },
+  "harmonic_share": {
+   "median": 0.9158901572227478,
+   "iqr": 0.1386021375656128
+  },
+  "clean_share": {
+   "median": 0.6734031249006256,
+   "iqr": 0.5490780457161166
+  },
+  "minor_share": {
+   "median": -0.01199376200703639,
+   "iqr": 0.26709909281219496
+  },
+  "chord_rate": {
+   "median": 1.5685975717510003,
+   "iqr": 0.4952672536148055
+  },
+  "repetitiveness": {
+   "median": 0.7468504011631012,
+   "iqr": 0.20777948200702667
+  },
+  "vocal_share": {
+   "median": 0.20261360704898834,
+   "iqr": 0.33978463523089886
+  },
+  "vocal_voiced": {
+   "median": 0.70995670995671,
+   "iqr": 0.34043408907240535
+  },
+  "song_length": {
+   "median": 247.7935,
+   "iqr": 198.54575
+  },
+  "vocal_presence": {
+   "median": 0.5833333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.8,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

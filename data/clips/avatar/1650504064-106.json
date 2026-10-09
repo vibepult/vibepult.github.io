@@ -1,0 +1,32 @@
+{
+ "id": "avatar/1650504064-106",
+ "band": "avatar",
+ "title": "Gotta Wanna Riot",
+ "source": "itunes",
+ "album": "Dance Devil Dance",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 2.966648727747678,
+  "tempo_var": 15.061677499376682,
+  "low_onset_rate": 2.1666535652089784,
+  "lufs": -8.814177445250252,
+  "rms_dbfs": -8.23888063923713,
+  "crest": 8.23888111114502,
+  "centroid": 2044.1131432226432,
+  "flatness": 0.020846214145421982,
+  "sub100_share": 0.1758640557527542,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.7713754177093506,
+  "clean_share": 0.26218097447795824,
+  "minor_share": -0.18137049753633427,
+  "chord_rate": 2.5333180147058822,
+  "repetitiveness": 0.8423963189125061,
+  "vocal_share": 0.11459457874298096,
+  "vocal_voiced": 0.7315233785822021,
+  "song_length": 243.459
+ }
+}

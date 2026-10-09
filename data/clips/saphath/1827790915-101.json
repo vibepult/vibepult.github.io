@@ -1,0 +1,32 @@
+{
+ "id": "saphath/1827790915-101",
+ "band": "saphath",
+ "title": "Children of the Night",
+ "source": "itunes",
+ "album": "Ascension of the Dark Prophet",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.966621819775967,
+  "tempo_var": 16.497283564556344,
+  "low_onset_rate": 1.4999773246058261,
+  "lufs": -8.133456618163859,
+  "rms_dbfs": -7.596185888660019,
+  "crest": 7.596185684204102,
+  "centroid": 2585.6648381394016,
+  "flatness": 0.03458259254693985,
+  "sub100_share": 0.413871169090271,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.869165301322937,
+  "clean_share": 0.10208816705336426,
+  "minor_share": 0.23780463901861887,
+  "chord_rate": 1.4666444951701412,
+  "repetitiveness": 0.8257694244384766,
+  "vocal_share": 0.0010192889021709561,
+  "vocal_voiced": 1.0,
+  "song_length": 299.194
+ }
+}

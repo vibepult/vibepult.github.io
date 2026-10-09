@@ -1,0 +1,32 @@
+{
+ "id": "type-o-negative/214480102-103",
+ "band": "type-o-negative",
+ "title": "Xero Tolerance",
+ "source": "itunes",
+ "album": "Slow, Deep and Hard",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.5417070746254184,
+  "tempo_var": 14.950877838201604,
+  "low_onset_rate": 4.811375648547738,
+  "lufs": -19.33252184080011,
+  "rms_dbfs": -19.35203713089233,
+  "crest": 17.2298641204834,
+  "centroid": 3030.9675520280057,
+  "flatness": 0.04917062073945999,
+  "sub100_share": 0.1384139358997345,
+  "lowest_pitch": 188.41552734375,
+  "harmonic_share": 0.7050784230232239,
+  "clean_share": 0.009309542280837859,
+  "minor_share": 0.14195140572890375,
+  "chord_rate": 2.138389177132328,
+  "repetitiveness": 0.8554057478904724,
+  "vocal_share": 0.08532600849866867,
+  "vocal_voiced": 0.6818181818181818,
+  "song_length": 466.0
+ }
+}

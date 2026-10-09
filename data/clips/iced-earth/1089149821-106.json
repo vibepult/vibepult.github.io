@@ -1,0 +1,32 @@
+{
+ "id": "iced-earth/1089149821-106",
+ "band": "iced-earth",
+ "title": "The End?",
+ "source": "itunes",
+ "album": "Plagues of Babylon",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 5.030147193236634,
+  "tempo_var": 12.32520611982507,
+  "low_onset_rate": 3.3978477729148127,
+  "lufs": -10.44098834884012,
+  "rms_dbfs": -10.330079909523233,
+  "crest": 10.330080032348633,
+  "centroid": 2698.24752069555,
+  "flatness": 0.038613274693489075,
+  "sub100_share": 0.3209599256515503,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.6715503334999084,
+  "clean_share": 0.14617169373549885,
+  "minor_share": -0.11679834066423178,
+  "chord_rate": 0.6995568944236379,
+  "repetitiveness": 0.8538986444473267,
+  "vocal_share": 0.24004483222961426,
+  "vocal_voiced": 0.36399064692127825,
+  "song_length": 435.733
+ }
+}

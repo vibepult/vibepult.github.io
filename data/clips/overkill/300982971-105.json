@@ -1,0 +1,32 @@
+{
+ "id": "overkill/300982971-105",
+ "band": "overkill",
+ "title": "Brainfade",
+ "source": "itunes",
+ "album": "Under the Influence",
+ "year": 1988,
+ "itunes_year": 1988,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 5.799912321809194,
+  "tempo_var": 20.31524571114872,
+  "low_onset_rate": 6.63323305770132,
+  "lufs": -13.556041572064503,
+  "rms_dbfs": -14.731345542140806,
+  "crest": 13.865476608276367,
+  "centroid": 2871.234295597968,
+  "flatness": 0.04445945471525192,
+  "sub100_share": 0.12696592509746552,
+  "lowest_pitch": 99.591064453125,
+  "harmonic_share": 0.6669536828994751,
+  "clean_share": 0.0,
+  "minor_share": -0.04185397532166868,
+  "chord_rate": 2.699959184290487,
+  "repetitiveness": 0.9244791865348816,
+  "vocal_share": 0.11017832905054092,
+  "vocal_voiced": 0.5746164574616457,
+  "song_length": 249.467
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "dream-theater/282703578-104",
+ "band": "dream-theater",
+ "title": "Surrounded",
+ "source": "itunes",
+ "album": "Images and Words",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.066423006810988,
+  "tempo_var": 10.767951947593907,
+  "low_onset_rate": 4.266163626964621,
+  "lufs": -21.377173231069573,
+  "rms_dbfs": -21.268785710753644,
+  "crest": 18.097505569458008,
+  "centroid": 2251.784377055431,
+  "flatness": 0.014642607420682907,
+  "sub100_share": 0.06189094856381416,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.9058733582496643,
+  "clean_share": 0.2853828306264501,
+  "minor_share": 0.08466803461335548,
+  "chord_rate": 0.666588066713222,
+  "repetitiveness": 0.6517691016197205,
+  "vocal_share": 0.37769579887390137,
+  "vocal_voiced": 0.9274092615769712,
+  "song_length": 330.067
+ }
+}

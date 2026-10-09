@@ -1,0 +1,127 @@
+{
+ "slug": "lamb-of-god",
+ "name": "Lamb of God",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 18758452,
+  "deezer": 2216,
+  "spotify": "3JFsVIxOn7STeilPICkkB2"
+ },
+ "metadata": {
+  "formed": 1999,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 1,
+  "full_lengths": 10,
+  "genre": "Groove Metal/Metalcore",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 489909,
+  "themes": "Pain, Misery, Politics, Death, Violence, Heresy",
+  "release_year": 2007
+ },
+ "partial": false,
+ "clips": [
+  "lamb-of-god/848615413-106",
+  "lamb-of-god/278827401-106",
+  "lamb-of-god/1580770070-106",
+  "lamb-of-god/303195859-106",
+  "lamb-of-god/491211914-108",
+  "lamb-of-god/1000709084-105",
+  "lamb-of-god/1627094333-105",
+  "lamb-of-god/1868804163-105",
+  "lamb-of-god/848615413-105",
+  "lamb-of-god/278827401-105",
+  "lamb-of-god/1580770070-105",
+  "lamb-of-god/303195859-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 29.40982216282896
+  },
+  "onset_rate": {
+   "median": 5.2966450577789725,
+   "iqr": 2.46455143134331
+  },
+  "tempo_var": {
+   "median": 6.49278118818153,
+   "iqr": 9.045965997895152
+  },
+  "low_onset_rate": {
+   "median": 6.5458537978211835,
+   "iqr": 1.3241562065832877
+  },
+  "lufs": {
+   "median": -8.290917525094699,
+   "iqr": 1.6777098992069224
+  },
+  "rms_dbfs": {
+   "median": -7.348431701499343,
+   "iqr": 0.9355577054503659
+  },
+  "crest": {
+   "median": 7.348431825637817,
+   "iqr": 0.9355577230453491
+  },
+  "centroid": {
+   "median": 2421.0567605914703,
+   "iqr": 321.88100763749753
+  },
+  "flatness": {
+   "median": 0.030552461743354797,
+   "iqr": 0.016774999210610986
+  },
+  "sub100_share": {
+   "median": 0.3672834634780884,
+   "iqr": 0.11329462379217148
+  },
+  "lowest_pitch": {
+   "median": 53.8330078125,
+   "iqr": 15.47698974609375
+  },
+  "harmonic_share": {
+   "median": 0.7188667953014374,
+   "iqr": 0.136651873588562
+  },
+  "clean_share": {
+   "median": 0.010841932780016765,
+   "iqr": 0.11040216550657385
+  },
+  "minor_share": {
+   "median": -0.027452107027103156,
+   "iqr": 0.11902569186799511
+  },
+  "chord_rate": {
+   "median": 1.549018837652341,
+   "iqr": 0.8178763976404417
+  },
+  "repetitiveness": {
+   "median": 0.9218850135803223,
+   "iqr": 0.04025439918041229
+  },
+  "vocal_share": {
+   "median": 0.1765715777873993,
+   "iqr": 0.08230528607964516
+  },
+  "vocal_voiced": {
+   "median": 0.14926931106471816,
+   "iqr": 0.09488017429061356
+  },
+  "song_length": {
+   "median": 243.9065,
+   "iqr": 39.0865
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

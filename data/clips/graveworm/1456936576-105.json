@@ -1,0 +1,32 @@
+{
+ "id": "graveworm/1456936576-105",
+ "band": "graveworm",
+ "title": "The Day I Die",
+ "source": "itunes",
+ "album": "Collateral Defect",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.575119405518111,
+  "tempo_var": 17.43200255761622,
+  "low_onset_rate": 5.680096251757746,
+  "lufs": -6.426793896699021,
+  "rms_dbfs": -6.343623359161446,
+  "crest": 6.343623161315918,
+  "centroid": 2790.7909864667713,
+  "flatness": 0.05443360656499863,
+  "sub100_share": 0.3892642557621002,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.721406102180481,
+  "clean_share": 0.04965089216446858,
+  "minor_share": 0.19112765185467734,
+  "chord_rate": 2.1049768462396354,
+  "repetitiveness": 0.8533725142478943,
+  "vocal_share": 0.09688202291727066,
+  "vocal_voiced": 0.0659025787965616,
+  "song_length": 312.424
+ }
+}

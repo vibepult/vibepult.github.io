@@ -1,0 +1,32 @@
+{
+ "id": "van-canto/1556706861-107",
+ "band": "van-canto",
+ "title": "Turn Back Time",
+ "source": "itunes",
+ "album": "To the Power of Eight",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.533333333333333,
+  "tempo_var": 19.612592493148604,
+  "low_onset_rate": 4.733333333333333,
+  "lufs": -15.066917525920928,
+  "rms_dbfs": -14.152911821195113,
+  "crest": 14.087725639343262,
+  "centroid": 2212.6460576990744,
+  "flatness": 0.013678398914635181,
+  "sub100_share": 0.16386635601520538,
+  "lowest_pitch": 123.81591796875,
+  "harmonic_share": 0.912964940071106,
+  "clean_share": 0.5835913312693498,
+  "minor_share": 0.1826232226551946,
+  "chord_rate": 1.6,
+  "repetitiveness": 0.5461301207542419,
+  "vocal_share": 0.5475000739097595,
+  "vocal_voiced": 0.7809597523219814,
+  "song_length": 221.671
+ }
+}

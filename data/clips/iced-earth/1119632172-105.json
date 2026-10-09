@@ -1,0 +1,32 @@
+{
+ "id": "iced-earth/1119632172-105",
+ "band": "iced-earth",
+ "title": "Mystical End",
+ "source": "itunes",
+ "album": "Night of the Stormrider",
+ "year": 1991,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.713508582650439,
+  "tempo_var": 17.29724934861712,
+  "low_onset_rate": 7.3507127963923775,
+  "lufs": -15.49072750052453,
+  "rms_dbfs": -15.196672872068937,
+  "crest": 14.55000114440918,
+  "centroid": 2625.062044273149,
+  "flatness": 0.033062707632780075,
+  "sub100_share": 0.17137378454208374,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.6617544293403625,
+  "clean_share": 0.02560124127230411,
+  "minor_share": 0.019042964576422294,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.8937214016914368,
+  "vocal_share": 0.13971270620822906,
+  "vocal_voiced": 0.6238341968911917,
+  "song_length": 283.933
+ }
+}

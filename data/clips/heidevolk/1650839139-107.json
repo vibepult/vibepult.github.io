@@ -1,0 +1,32 @@
+{
+ "id": "heidevolk/1650839139-107",
+ "band": "heidevolk",
+ "title": "Wederkeer",
+ "source": "itunes",
+ "album": "Wederkeer",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.5,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 7.6,
+  "lufs": -10.599918912015324,
+  "rms_dbfs": -9.190696187015927,
+  "crest": 9.190696716308594,
+  "centroid": 1365.397616206122,
+  "flatness": 0.0036691874265670776,
+  "sub100_share": 0.38792404532432556,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8065643906593323,
+  "clean_share": 0.8204334365325078,
+  "minor_share": -0.010153363791767789,
+  "chord_rate": 1.8,
+  "repetitiveness": 0.93253093957901,
+  "vocal_share": 0.14942315220832825,
+  "vocal_voiced": 0.10033821871476889,
+  "song_length": 171.35
+ }
+}

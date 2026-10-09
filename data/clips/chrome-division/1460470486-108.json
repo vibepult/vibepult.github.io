@@ -1,0 +1,32 @@
+{
+ "id": "chrome-division/1460470486-108",
+ "band": "chrome-division",
+ "title": "Breath Easy",
+ "source": "itunes",
+ "album": "Doomsday Rock'n'roll",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 0.7684836105319304,
+  "tempo_var": 12.977418026242404,
+  "low_onset_rate": 3.174171434805799,
+  "lufs": -8.383009531602765,
+  "rms_dbfs": -8.76729896847598,
+  "crest": 8.767298698425293,
+  "centroid": 2362.2858915430147,
+  "flatness": 0.0328596830368042,
+  "sub100_share": 0.2134300023317337,
+  "lowest_pitch": 29.608154296875,
+  "harmonic_share": 0.6742563247680664,
+  "clean_share": 0.027152831652443754,
+  "minor_share": 0.0970607664369798,
+  "chord_rate": 2.2386261698104057,
+  "repetitiveness": 0.9277474880218506,
+  "vocal_share": 0.011011716909706593,
+  "vocal_voiced": 0.2857142857142857,
+  "song_length": 226.32
+ }
+}

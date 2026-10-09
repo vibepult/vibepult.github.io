@@ -1,0 +1,32 @@
+{
+ "id": "red-fang/1499006947-109",
+ "band": "red-fang",
+ "title": "Days Collide",
+ "source": "itunes",
+ "album": "Arrows",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 60.09265988372093,
+  "onset_rate": 2.5,
+  "tempo_var": 8.089981154454177,
+  "low_onset_rate": 3.8333333333333335,
+  "lufs": -10.964979542535284,
+  "rms_dbfs": -10.449459650165148,
+  "crest": 10.449459075927734,
+  "centroid": 1514.2202059790452,
+  "flatness": 0.004201056435704231,
+  "sub100_share": 0.26224642992019653,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.8447826504707336,
+  "clean_share": 0.7445820433436533,
+  "minor_share": -0.059950696354643895,
+  "chord_rate": 0.6666666666666666,
+  "repetitiveness": 0.6658283472061157,
+  "vocal_share": 0.16347132623195648,
+  "vocal_voiced": 0.43732057416267944,
+  "song_length": 344.247
+ }
+}

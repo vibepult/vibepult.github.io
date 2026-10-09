@@ -1,0 +1,32 @@
+{
+ "id": "quiet-riot/327338445-105",
+ "band": "quiet-riot",
+ "title": "King of the Hill",
+ "source": "itunes",
+ "album": "QR",
+ "year": 1988,
+ "itunes_year": 1988,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.3645355398470205,
+  "tempo_var": 0.5134878251870572,
+  "low_onset_rate": 5.063459426304427,
+  "lufs": -14.70173009439777,
+  "rms_dbfs": -14.721887657640833,
+  "crest": 14.721887588500977,
+  "centroid": 2877.175005116928,
+  "flatness": 0.04944300279021263,
+  "sub100_share": 0.14529666304588318,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.606282114982605,
+  "clean_share": 0.0,
+  "minor_share": -0.07264999939406852,
+  "chord_rate": 2.465105247016629,
+  "repetitiveness": 0.9101225137710571,
+  "vocal_share": 0.4838053584098816,
+  "vocal_voiced": 0.6906130268199234,
+  "song_length": 263.996
+ }
+}

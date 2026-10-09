@@ -1,0 +1,32 @@
+{
+ "id": "tnt/1439277723-106",
+ "band": "tnt",
+ "title": "Barracuda",
+ "source": "itunes",
+ "album": "Engine",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.744550986762353,
+  "tempo_var": 17.750177110043268,
+  "low_onset_rate": 6.348342869611598,
+  "lufs": -7.185432936123423,
+  "rms_dbfs": -7.657209849045829,
+  "crest": 7.657209396362305,
+  "centroid": 3261.9620976237907,
+  "flatness": 0.07897926867008209,
+  "sub100_share": 0.23018640279769897,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.701659083366394,
+  "clean_share": 0.0,
+  "minor_share": 0.06413889990928773,
+  "chord_rate": 2.205213838917713,
+  "repetitiveness": 0.8488376140594482,
+  "vocal_share": 0.23672112822532654,
+  "vocal_voiced": 0.32162661737523107,
+  "song_length": 159.342
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "def-leppard/1501776925-106",
+ "band": "def-leppard",
+ "title": "You Got Me Runnin' (Remastered 2018)",
+ "source": "itunes",
+ "album": "High 'N' Dry (Remastered 2018)",
+ "year": 1981,
+ "itunes_year": 1981,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.199936508896313,
+  "tempo_var": 12.05605378636266,
+  "low_onset_rate": 3.3666157730041877,
+  "lufs": -10.67892834905999,
+  "rms_dbfs": -10.723606069759889,
+  "crest": 10.72360610961914,
+  "centroid": 2584.4986402624504,
+  "flatness": 0.03497442603111267,
+  "sub100_share": 0.20152375102043152,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.5978277325630188,
+  "clean_share": 0.08662026295436968,
+  "minor_share": 0.18722652880422685,
+  "chord_rate": 1.9666369367054164,
+  "repetitiveness": 0.8010650277137756,
+  "vocal_share": 0.2743365466594696,
+  "vocal_voiced": 0.6493273542600897,
+  "song_length": 263.034
+ }
+}

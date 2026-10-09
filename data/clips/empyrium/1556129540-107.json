@@ -1,0 +1,32 @@
+{
+ "id": "empyrium/1556129540-107",
+ "band": "empyrium",
+ "title": "Waldpoesie",
+ "source": "itunes",
+ "album": "Weiland",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.6085317364108036,
+  "tempo_var": 21.259427378245594,
+  "low_onset_rate": 2.1718015080250206,
+  "lufs": -14.994373404966877,
+  "rms_dbfs": -13.924053851261784,
+  "crest": 13.924054145812988,
+  "centroid": 1708.4596131789708,
+  "flatness": 0.01150225754827261,
+  "sub100_share": 0.23069094121456146,
+  "lowest_pitch": 123.81591796875,
+  "harmonic_share": 0.6711680293083191,
+  "clean_share": 0.6687354538401862,
+  "minor_share": 0.26883785136797866,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.6296476125717163,
+  "vocal_share": 0.4185229241847992,
+  "vocal_voiced": 0.8719346049046321,
+  "song_length": 834.493
+ }
+}

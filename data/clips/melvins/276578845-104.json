@@ -1,0 +1,32 @@
+{
+ "id": "melvins/276578845-104",
+ "band": "melvins",
+ "title": "It's Shoved",
+ "source": "itunes",
+ "album": "Bullhead",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 3.6,
+  "tempo_var": 15.076585961031965,
+  "low_onset_rate": 4.8,
+  "lufs": -18.7173191363238,
+  "rms_dbfs": -17.279666691197217,
+  "crest": 15.808653831481934,
+  "centroid": 1869.2206869441775,
+  "flatness": 0.007669074460864067,
+  "sub100_share": 0.4815657436847687,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8551033139228821,
+  "clean_share": 0.48993808049535603,
+  "minor_share": 0.192674041085922,
+  "chord_rate": 1.9666666666666666,
+  "repetitiveness": 0.8452709913253784,
+  "vocal_share": 6.473878784163389e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 155.907
+ }
+}

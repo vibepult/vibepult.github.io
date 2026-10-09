@@ -1,0 +1,32 @@
+{
+ "id": "skyclad/423811530-104",
+ "band": "skyclad",
+ "title": "The Cry Of The Land",
+ "source": "itunes",
+ "album": "No Daylight Nor Heeltaps",
+ "year": 2002,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.243366023371963,
+  "tempo_var": 14.974299815606926,
+  "low_onset_rate": 6.314930538718906,
+  "lufs": -10.033784996127727,
+  "rms_dbfs": -8.960838321865378,
+  "crest": 8.960838317871094,
+  "centroid": 2137.994143570404,
+  "flatness": 0.014181943610310555,
+  "sub100_share": 0.30243587493896484,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.839881420135498,
+  "clean_share": 0.17067494181536075,
+  "minor_share": 0.21303342132287145,
+  "chord_rate": 0.6014219560684673,
+  "repetitiveness": 0.8222948312759399,
+  "vocal_share": 0.18296325206756592,
+  "vocal_voiced": 0.46685082872928174,
+  "song_length": 269.853
+ }
+}

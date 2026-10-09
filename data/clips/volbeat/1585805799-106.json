@@ -1,0 +1,32 @@
+{
+ "id": "volbeat/1585805799-106",
+ "band": "volbeat",
+ "title": "Say No More",
+ "source": "itunes",
+ "album": "Servant Of The Mind",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 6.69989871657269,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 7.899880576257351,
+  "lufs": -10.208495069631889,
+  "rms_dbfs": -9.215123575150463,
+  "crest": 9.215124130249023,
+  "centroid": 2603.1737916373318,
+  "flatness": 0.029375098645687103,
+  "sub100_share": 0.4840085506439209,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7616612911224365,
+  "clean_share": 0.006187161639597835,
+  "minor_share": 0.09178127620091836,
+  "chord_rate": 2.0999682544481564,
+  "repetitiveness": 0.9407948851585388,
+  "vocal_share": 0.12759222090244293,
+  "vocal_voiced": 0.8260309278350515,
+  "song_length": 280.6
+ }
+}

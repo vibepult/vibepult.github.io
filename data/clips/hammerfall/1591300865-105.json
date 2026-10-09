@@ -1,0 +1,32 @@
+{
+ "id": "hammerfall/1591300865-105",
+ "band": "hammerfall",
+ "title": "Reveries",
+ "source": "itunes",
+ "album": "Hammer of Dawn",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.8,
+  "tempo_var": 0.9988027747241629,
+  "low_onset_rate": 5.333333333333333,
+  "lufs": -11.857242215335075,
+  "rms_dbfs": -11.469352409291705,
+  "crest": 11.469352722167969,
+  "centroid": 2457.1467659951436,
+  "flatness": 0.026212509721517563,
+  "sub100_share": 0.20698392391204834,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7272809147834778,
+  "clean_share": 0.06656346749226007,
+  "minor_share": 0.0809282325841082,
+  "chord_rate": 1.3666666666666667,
+  "repetitiveness": 0.835157036781311,
+  "vocal_share": 0.31625914573669434,
+  "vocal_voiced": 0.8727272727272727,
+  "song_length": 285.842
+ }
+}

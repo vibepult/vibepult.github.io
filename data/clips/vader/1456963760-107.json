@@ -1,0 +1,32 @@
+{
+ "id": "vader/1456963760-107",
+ "band": "vader",
+ "title": "Don't Rip the Beast's Heart Out",
+ "source": "itunes",
+ "album": "Welcome to the Morbid Reich",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 0.8687206032100082,
+  "tempo_var": 16.84530153396829,
+  "low_onset_rate": 3.4080577510546477,
+  "lufs": -7.1320431719234,
+  "rms_dbfs": -6.784910731447135,
+  "crest": 6.784910678863525,
+  "centroid": 2548.550295105603,
+  "flatness": 0.027584172785282135,
+  "sub100_share": 0.3945534825325012,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8074316382408142,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": -0.16919392694509894,
+  "chord_rate": 1.971327522668865,
+  "repetitiveness": 0.9379811882972717,
+  "vocal_share": 1.3747745697401115e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 238.12
+ }
+}

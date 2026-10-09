@@ -1,0 +1,32 @@
+{
+ "id": "einherjer/1045121118-106",
+ "band": "einherjer",
+ "title": "Home",
+ "source": "itunes",
+ "album": "Odin Owns Ye All",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.076304368908501,
+  "tempo_var": 14.793438167458872,
+  "low_onset_rate": 7.484362119963148,
+  "lufs": -10.055496330719944,
+  "rms_dbfs": -9.350369402163594,
+  "crest": 9.350369453430176,
+  "centroid": 2316.7197277996606,
+  "flatness": 0.029037611559033394,
+  "sub100_share": 0.2910155653953552,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.7116557955741882,
+  "clean_share": 0.032583397982932506,
+  "minor_share": 0.06627896666483257,
+  "chord_rate": 1.871090529990787,
+  "repetitiveness": 0.9008162021636963,
+  "vocal_share": 0.2059454768896103,
+  "vocal_voiced": 0.5915721231766613,
+  "song_length": 436.093
+ }
+}

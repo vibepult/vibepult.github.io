@@ -1,0 +1,127 @@
+{
+ "slug": "corrosion-of-conformity",
+ "name": "Corrosion of Conformity",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 485858,
+  "deezer": 2484,
+  "spotify": "1BBIIH0h76KN8gYeXFcPjR"
+ },
+ "metadata": {
+  "formed": 1982,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 4,
+  "past_members": 11,
+  "full_lengths": 11,
+  "genre": "Crossover/Sludge/Southern Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 29534,
+  "themes": "Society, Humour, Politics, People, Inner struggles",
+  "release_year": 1995
+ },
+ "partial": false,
+ "clips": [
+  "corrosion-of-conformity/219810007-105",
+  "corrosion-of-conformity/158600511-108",
+  "corrosion-of-conformity/190255039-108",
+  "corrosion-of-conformity/170614446-107",
+  "corrosion-of-conformity/1436475608-106",
+  "corrosion-of-conformity/1660307361-106",
+  "corrosion-of-conformity/1660394956-106",
+  "corrosion-of-conformity/1458857714-109",
+  "corrosion-of-conformity/1869085524-107",
+  "corrosion-of-conformity/219810007-104",
+  "corrosion-of-conformity/158600511-107",
+  "corrosion-of-conformity/190255039-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 29.624467329545453
+  },
+  "onset_rate": {
+   "median": 4.471959503143739,
+   "iqr": 1.2323463110755153
+  },
+  "tempo_var": {
+   "median": 13.381995601103991,
+   "iqr": 9.025679736644538
+  },
+  "low_onset_rate": {
+   "median": 5.43805196277952,
+   "iqr": 0.9520433333036715
+  },
+  "lufs": {
+   "median": -10.629721068390062,
+   "iqr": 5.001998762484922
+  },
+  "rms_dbfs": {
+   "median": -10.4144132654128,
+   "iqr": 5.494873375802738
+  },
+  "crest": {
+   "median": 10.41441297531128,
+   "iqr": 4.129534006118774
+  },
+  "centroid": {
+   "median": 2463.8855786308886,
+   "iqr": 521.7270583547461
+  },
+  "flatness": {
+   "median": 0.026402004994452,
+   "iqr": 0.0155257573351264
+  },
+  "sub100_share": {
+   "median": 0.23534297943115234,
+   "iqr": 0.09912249445915222
+  },
+  "lowest_pitch": {
+   "median": 76.7120361328125,
+   "iqr": 51.141357421875
+  },
+  "harmonic_share": {
+   "median": 0.715670108795166,
+   "iqr": 0.12208540737628937
+  },
+  "clean_share": {
+   "median": 0.06346749226006192,
+   "iqr": 0.14717833749430753
+  },
+  "minor_share": {
+   "median": -0.047765781294865944,
+   "iqr": 0.09498366203871793
+  },
+  "chord_rate": {
+   "median": 2.316630890474463,
+   "iqr": 0.8253786488519623
+  },
+  "repetitiveness": {
+   "median": 0.8601370453834534,
+   "iqr": 0.12559348344802856
+  },
+  "vocal_share": {
+   "median": 0.14416583627462387,
+   "iqr": 0.10646497458219528
+  },
+  "vocal_voiced": {
+   "median": 0.645357250767298,
+   "iqr": 0.17424944677951093
+  },
+  "song_length": {
+   "median": 257.573,
+   "iqr": 81.79575
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

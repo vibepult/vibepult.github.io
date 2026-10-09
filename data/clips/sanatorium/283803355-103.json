@@ -1,0 +1,32 @@
+{
+ "id": "sanatorium/283803355-103",
+ "band": "sanatorium",
+ "title": "Goresoaked Reincarnation",
+ "source": "itunes",
+ "album": "Goresoaked Reincarnation",
+ "year": 2003,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 7.183651141928914,
+  "tempo_var": 18.76923736915443,
+  "low_onset_rate": 7.851897759782767,
+  "lufs": -13.35608269498141,
+  "rms_dbfs": -13.157730671571315,
+  "crest": 13.157731056213379,
+  "centroid": 2492.593600782607,
+  "flatness": 0.02829708345234394,
+  "sub100_share": 0.22697341442108154,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.6924322843551636,
+  "clean_share": 0.008533747090768037,
+  "minor_share": 0.1239662815385183,
+  "chord_rate": 2.7398111332007953,
+  "repetitiveness": 0.9311747550964355,
+  "vocal_share": 0.20276710391044617,
+  "vocal_voiced": 0.4022289766970618,
+  "song_length": 187.613
+ }
+}

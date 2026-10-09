@@ -1,0 +1,32 @@
+{
+ "id": "anvil/1763655670-106",
+ "band": "anvil",
+ "title": "Beat the Law",
+ "source": "itunes",
+ "album": "Plenty of Power",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 6.09990778673036,
+  "tempo_var": 20.64586786851045,
+  "low_onset_rate": 3.2999501141328174,
+  "lufs": -9.846109258383676,
+  "rms_dbfs": -9.27275376439884,
+  "crest": 9.272754669189453,
+  "centroid": 2491.4069114397657,
+  "flatness": 0.026473060250282288,
+  "sub100_share": 0.21837273240089417,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.6934943795204163,
+  "clean_share": 0.009280742459396751,
+  "minor_share": -0.009805772854370898,
+  "chord_rate": 1.9999697661411016,
+  "repetitiveness": 0.9060819745063782,
+  "vocal_share": 0.14946249127388,
+  "vocal_voiced": 0.8280487804878048,
+  "song_length": 214.947
+ }
+}

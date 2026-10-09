@@ -1,0 +1,32 @@
+{
+ "id": "black-sabbath/59401879-105",
+ "band": "black-sabbath",
+ "title": "Seventh Star",
+ "source": "itunes",
+ "album": "Seventh Star",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 3.8662107869366875,
+  "tempo_var": 33.439551025520196,
+  "low_onset_rate": 4.199504820293298,
+  "lufs": -12.54268209616836,
+  "rms_dbfs": -12.373407967528589,
+  "crest": 12.373408317565918,
+  "centroid": 2254.564930137259,
+  "flatness": 0.021397389471530914,
+  "sub100_share": 0.08154390007257462,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.7528541088104248,
+  "clean_share": 0.15931941221964424,
+  "minor_share": 0.02659747899152154,
+  "chord_rate": 2.2330700234892937,
+  "repetitiveness": 0.9005304574966431,
+  "vocal_share": 0.3417561650276184,
+  "vocal_voiced": 0.8031423290203327,
+  "song_length": 319.0
+ }
+}

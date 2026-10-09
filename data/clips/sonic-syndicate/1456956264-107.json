@@ -1,0 +1,32 @@
+{
+ "id": "sonic-syndicate/1456956264-107",
+ "band": "sonic-syndicate",
+ "title": "Miles Apart",
+ "source": "itunes",
+ "album": "We Rule the Night",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 2.966648727747678,
+  "tempo_var": 12.758874511582277,
+  "low_onset_rate": 1.8999885110294117,
+  "lufs": -11.443978575832322,
+  "rms_dbfs": -10.60713043155319,
+  "crest": 10.60713005065918,
+  "centroid": 2422.7907503204606,
+  "flatness": 0.025795307010412216,
+  "sub100_share": 0.2671118378639221,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8158207535743713,
+  "clean_share": 0.1740139211136891,
+  "minor_share": -0.1403980774953011,
+  "chord_rate": 0.9666608214009288,
+  "repetitiveness": 0.6554105281829834,
+  "vocal_share": 0.2635580599308014,
+  "vocal_voiced": 0.844551282051282,
+  "song_length": 219.121
+ }
+}

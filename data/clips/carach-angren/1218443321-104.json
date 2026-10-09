@@ -1,0 +1,32 @@
+{
+ "id": "carach-angren/1218443321-104",
+ "band": "carach-angren",
+ "title": "Charles Francis Coghlan",
+ "source": "itunes",
+ "album": "Dance and Laugh Amongst the Rotten",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 3.8758303835523447,
+  "tempo_var": 34.69680215345198,
+  "low_onset_rate": 5.21232361926005,
+  "lufs": -9.37051542223631,
+  "rms_dbfs": -8.73457701500087,
+  "crest": 8.734577178955078,
+  "centroid": 2443.657200438902,
+  "flatness": 0.03435865417122841,
+  "sub100_share": 0.3305089771747589,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.7029690742492676,
+  "clean_share": 0.038789759503491075,
+  "minor_share": 0.16103836518641257,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.7919279336929321,
+  "vocal_share": 0.14571522176265717,
+  "vocal_voiced": 0.13858424725822532,
+  "song_length": 366.76
+ }
+}

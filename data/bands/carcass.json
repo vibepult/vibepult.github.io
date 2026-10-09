@@ -1,0 +1,127 @@
+{
+ "slug": "carcass",
+ "name": "Carcass",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 42159435,
+  "deezer": 4502,
+  "spotify": "5lhaM01nwvsMZpmPY2HVER"
+ },
+ "metadata": {
+  "formed": 1986,
+  "split": null,
+  "country": "GB",
+  "status": "active",
+  "members": 4,
+  "past_members": 6,
+  "full_lengths": 7,
+  "genre": "Goregrind/Grindcore (early); Melodic Death Metal/Death 'n' Roll (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 97725,
+  "themes": "Death, Gore, Pathology, Medical, Humour, Politics, Society",
+  "release_year": 1994
+ },
+ "partial": false,
+ "clips": [
+  "carcass/63616135-112",
+  "carcass/57936008-104",
+  "carcass/57664464-105",
+  "carcass/42159460-106",
+  "carcass/1458640608-107",
+  "carcass/1568277293-105",
+  "carcass/63616135-117",
+  "carcass/57936008-105",
+  "carcass/57664464-106",
+  "carcass/42159460-107",
+  "carcass/1458640608-108",
+  "carcass/1568277293-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 107.666015625,
+   "iqr": 55.18534269435558
+  },
+  "onset_rate": {
+   "median": 4.571963981036861,
+   "iqr": 1.6992669490854655
+  },
+  "tempo_var": {
+   "median": 12.58013396634838,
+   "iqr": 14.946516474380967
+  },
+  "low_onset_rate": {
+   "median": 6.24810587693352,
+   "iqr": 1.5392497800230398
+  },
+  "lufs": {
+   "median": -11.011539875683644,
+   "iqr": 3.3264031876506266
+  },
+  "rms_dbfs": {
+   "median": -9.97744035128811,
+   "iqr": 3.145563709219166
+  },
+  "crest": {
+   "median": 9.977440357208252,
+   "iqr": 3.072650194168091
+  },
+  "centroid": {
+   "median": 2533.6293666154943,
+   "iqr": 545.5860292241232
+  },
+  "flatness": {
+   "median": 0.024533560499548912,
+   "iqr": 0.020029813051223755
+  },
+  "sub100_share": {
+   "median": 0.34210021793842316,
+   "iqr": 0.09542024880647659
+  },
+  "lowest_pitch": {
+   "median": 56.524658203125,
+   "iqr": 17.4957275390625
+  },
+  "harmonic_share": {
+   "median": 0.7659284770488739,
+   "iqr": 0.05073478817939758
+  },
+  "clean_share": {
+   "median": 0.09957568263076769,
+   "iqr": 0.16611069012146118
+  },
+  "minor_share": {
+   "median": 0.018604410125069304,
+   "iqr": 0.20254639081726583
+  },
+  "chord_rate": {
+   "median": 2.2333159488644667,
+   "iqr": 0.7026464182385361
+  },
+  "repetitiveness": {
+   "median": 0.8817498683929443,
+   "iqr": 0.08539603650569916
+  },
+  "vocal_share": {
+   "median": 0.07838037982583046,
+   "iqr": 0.047089106403291225
+  },
+  "vocal_voiced": {
+   "median": 0.10942851481785501,
+   "iqr": 0.09623658587540922
+  },
+  "song_length": {
+   "median": 270.15999999999997,
+   "iqr": 79.19675000000001
+  },
+  "vocal_presence": {
+   "median": 0.5,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.6
+ },
+ "sources_failed": []
+}

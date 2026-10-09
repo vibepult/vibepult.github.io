@@ -1,0 +1,32 @@
+{
+ "id": "aria/819720980-104",
+ "band": "aria",
+ "title": "Не хочешь - не верь мне",
+ "source": "itunes",
+ "album": "Кровь за кровь",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.744550986762353,
+  "tempo_var": 18.65801652346411,
+  "low_onset_rate": 1.1360192503515492,
+  "lufs": -14.211791513989736,
+  "rms_dbfs": -13.706097444194787,
+  "crest": 13.706097602844238,
+  "centroid": 1761.3432943902817,
+  "flatness": 0.011775925755500793,
+  "sub100_share": 0.3946937322616577,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8422639966011047,
+  "clean_share": 0.4065166795965865,
+  "minor_share": 0.08430026763893694,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.8879154324531555,
+  "vocal_share": 6.594830779249605e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 242.867
+ }
+}

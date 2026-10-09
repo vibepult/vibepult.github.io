@@ -1,0 +1,32 @@
+{
+ "id": "serenity/1183626844-108",
+ "band": "serenity",
+ "title": "Fate of Light",
+ "source": "itunes",
+ "album": "Codex Atlanticus",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.333333333333333,
+  "tempo_var": 0.0,
+  "low_onset_rate": 8.0,
+  "lufs": -8.778771325022113,
+  "rms_dbfs": -8.187154428043142,
+  "crest": 8.187154769897461,
+  "centroid": 2765.965375798673,
+  "flatness": 0.04103996977210045,
+  "sub100_share": 0.3919339179992676,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7666110992431641,
+  "clean_share": 0.0,
+  "minor_share": 0.3473509104450603,
+  "chord_rate": 0.9666666666666667,
+  "repetitiveness": 0.8824917674064636,
+  "vocal_share": 0.23972834646701813,
+  "vocal_voiced": 0.8781847133757962,
+  "song_length": 283.214
+ }
+}

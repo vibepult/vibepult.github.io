@@ -1,0 +1,32 @@
+{
+ "id": "crimson-glory/390839942-103",
+ "band": "crimson-glory",
+ "title": "Valhalla",
+ "source": "itunes",
+ "album": "Crimson Glory",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.143129030693886,
+  "tempo_var": 7.078907986408593,
+  "low_onset_rate": 4.911612641225816,
+  "lufs": -7.065410424305287,
+  "rms_dbfs": -6.896888415382739,
+  "crest": 6.89688777923584,
+  "centroid": 2719.790573850092,
+  "flatness": 0.03389362245798111,
+  "sub100_share": 0.20911498367786407,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.7546221613883972,
+  "clean_share": 0.013188518231186967,
+  "minor_share": 0.005851125852918526,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.861406147480011,
+  "vocal_share": 0.24209478497505188,
+  "vocal_voiced": 0.5851703406813628,
+  "song_length": 229.227
+ }
+}

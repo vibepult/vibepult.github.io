@@ -1,0 +1,32 @@
+{
+ "id": "trust/297440295-104",
+ "band": "trust",
+ "title": "The Junta (La junte) [Version Anglaise]",
+ "source": "itunes",
+ "album": "Marche ou crève (Version anglaise)",
+ "year": 1981,
+ "itunes_year": 1981,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.79759456972832,
+  "tempo_var": 17.651942024320675,
+  "low_onset_rate": 5.363269523914558,
+  "lufs": -9.068516289739696,
+  "rms_dbfs": -9.142814868009753,
+  "crest": 9.142814636230469,
+  "centroid": 2296.2090508056376,
+  "flatness": 0.024053694680333138,
+  "sub100_share": 0.17107529938220978,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.6534944772720337,
+  "clean_share": 0.06728538283062645,
+  "minor_share": 0.26729243919607615,
+  "chord_rate": 1.1326159243049376,
+  "repetitiveness": 0.837511420249939,
+  "vocal_share": 0.15554271638393402,
+  "vocal_voiced": 0.5709459459459459,
+  "song_length": 291.093
+ }
+}

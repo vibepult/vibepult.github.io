@@ -1,0 +1,32 @@
+{
+ "id": "alcest/1556058786-102",
+ "band": "alcest",
+ "title": "Écailles de lune, Pt. 2",
+ "source": "itunes",
+ "album": "Écailles De Lune",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 2.2386261698104057,
+  "tempo_var": 3.723687340002857,
+  "low_onset_rate": 6.582229185860447,
+  "lufs": -9.413937397229553,
+  "rms_dbfs": -9.612420386077623,
+  "crest": 9.612420082092285,
+  "centroid": 2489.489262144648,
+  "flatness": 0.030492452904582024,
+  "sub100_share": 0.25100865960121155,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7587900161743164,
+  "clean_share": 0.030256012412723042,
+  "minor_share": 0.09759724653806884,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.8444684743881226,
+  "vocal_share": 7.053621970953827e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 588.707
+ }
+}

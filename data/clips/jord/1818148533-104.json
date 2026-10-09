@@ -1,0 +1,32 @@
+{
+ "id": "jord/1818148533-104",
+ "band": "jord",
+ "title": "Dimma",
+ "source": "itunes",
+ "album": "Emellan Träden",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.666666666666667,
+  "tempo_var": 6.697786714424334,
+  "low_onset_rate": 8.2,
+  "lufs": -12.271049305455481,
+  "rms_dbfs": -11.560692136348393,
+  "crest": 11.560691833496094,
+  "centroid": 2538.5958748116223,
+  "flatness": 0.03577299788594246,
+  "sub100_share": 0.34024444222450256,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7929750680923462,
+  "clean_share": 0.003869969040247678,
+  "minor_share": 0.16421462969978884,
+  "chord_rate": 1.5,
+  "repetitiveness": 0.881469190120697,
+  "vocal_share": 7.108917543519055e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 330.818
+ }
+}

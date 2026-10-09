@@ -1,0 +1,32 @@
+{
+ "id": "myrath/1846884997-106",
+ "band": "myrath",
+ "title": "The Clown",
+ "source": "itunes",
+ "album": "Wilderness of Mirrors",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.466666666666667,
+  "tempo_var": 7.237531318136037,
+  "low_onset_rate": 3.2,
+  "lufs": -9.736630591690108,
+  "rms_dbfs": -9.161307820656386,
+  "crest": 9.161308288574219,
+  "centroid": 2558.684283409836,
+  "flatness": 0.036919500678777695,
+  "sub100_share": 0.3258522152900696,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7347408533096313,
+  "clean_share": 0.01934984520123839,
+  "minor_share": 0.24471391583680357,
+  "chord_rate": 1.6,
+  "repetitiveness": 0.8373982906341553,
+  "vocal_share": 0.245989590883255,
+  "vocal_voiced": 0.7832512315270936,
+  "song_length": 285.88
+ }
+}

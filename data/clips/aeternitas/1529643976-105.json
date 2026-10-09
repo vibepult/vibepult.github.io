@@ -1,0 +1,32 @@
+{
+ "id": "aeternitas/1529643976-105",
+ "band": "aeternitas",
+ "title": "Castles in the Air",
+ "source": "itunes",
+ "album": "Haunted Minds",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 6.281518207826213,
+  "tempo_var": 1.8271020520912917,
+  "low_onset_rate": 6.682466178538525,
+  "lufs": -7.172683067478677,
+  "rms_dbfs": -6.608427874548015,
+  "crest": 6.608428001403809,
+  "centroid": 2414.362982504327,
+  "flatness": 0.024971552193164825,
+  "sub100_share": 0.11136291176080704,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8053857088088989,
+  "clean_share": 0.04654771140418929,
+  "minor_share": -0.09250843596012814,
+  "chord_rate": 0.6682466178538525,
+  "repetitiveness": 0.7764986753463745,
+  "vocal_share": 0.16864117980003357,
+  "vocal_voiced": 0.7550525464834277,
+  "song_length": 294.149
+ }
+}

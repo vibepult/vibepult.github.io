@@ -1,0 +1,32 @@
+{
+ "id": "kaunis-kuolematon/1489447474-106",
+ "band": "kaunis-kuolematon",
+ "title": "Ikuinen Ikävä",
+ "source": "itunes",
+ "album": "Vapaus",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.94265504533773,
+  "tempo_var": 1.356041159536167,
+  "low_onset_rate": 4.0428920380158075,
+  "lufs": -8.579664748315185,
+  "rms_dbfs": -7.733302512940475,
+  "crest": 7.733302593231201,
+  "centroid": 2333.4632760438944,
+  "flatness": 0.02585454471409321,
+  "sub100_share": 0.4203433096408844,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7972334623336792,
+  "clean_share": 0.03180760279286268,
+  "minor_share": 0.08274932569382687,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.8122959136962891,
+  "vocal_share": 0.09895367920398712,
+  "vocal_voiced": 0.43738977072310403,
+  "song_length": 270.721
+ }
+}

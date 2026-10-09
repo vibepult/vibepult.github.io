@@ -1,0 +1,127 @@
+{
+ "slug": "anorexia-nervosa",
+ "name": "Anorexia Nervosa",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 160468465,
+  "deezer": 3218,
+  "spotify": "1hLFppCfgvSTH9C6ftWOoU"
+ },
+ "metadata": {
+  "formed": 1995,
+  "split": null,
+  "country": "FR",
+  "status": "on hold",
+  "members": 4,
+  "past_members": 3,
+  "full_lengths": 4,
+  "genre": "Death/Industrial Metal (early); Symphonic Black Metal (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 11423,
+  "themes": "Violence, Depression (early); Redemption, Religion, Suicide, Nihilism (later)",
+  "release_year": 2000
+ },
+ "partial": false,
+ "clips": [
+  "anorexia-nervosa/584492852-107",
+  "anorexia-nervosa/263401409-105",
+  "anorexia-nervosa/263402085-104",
+  "anorexia-nervosa/6773323661-105",
+  "anorexia-nervosa/584492852-108",
+  "anorexia-nervosa/263401409-104",
+  "anorexia-nervosa/263402085-105",
+  "anorexia-nervosa/6773323661-104",
+  "anorexia-nervosa/584492852-104",
+  "anorexia-nervosa/263401409-106",
+  "anorexia-nervosa/263402085-103",
+  "anorexia-nervosa/6773323661-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 110.00658118206522,
+   "iqr": 34.52868009868422
+  },
+  "onset_rate": {
+   "median": 5.095380461135625,
+   "iqr": 1.6180588082299838
+  },
+  "tempo_var": {
+   "median": 10.52516750680242,
+   "iqr": 6.119015761158961
+  },
+  "low_onset_rate": {
+   "median": 7.17470722801556,
+   "iqr": 2.0321353788233
+  },
+  "lufs": {
+   "median": -8.083406303317322,
+   "iqr": 2.453485167260588
+  },
+  "rms_dbfs": {
+   "median": -7.705329473334201,
+   "iqr": 2.7741748804949573
+  },
+  "crest": {
+   "median": 7.705329179763794,
+   "iqr": 2.77417528629303
+  },
+  "centroid": {
+   "median": 2671.243599953452,
+   "iqr": 172.37860828813655
+  },
+  "flatness": {
+   "median": 0.04670095443725586,
+   "iqr": 0.011252732947468758
+  },
+  "sub100_share": {
+   "median": 0.3622399717569351,
+   "iqr": 0.1801026239991188
+  },
+  "lowest_pitch": {
+   "median": 40.374755859375,
+   "iqr": 6.7291259765625
+  },
+  "harmonic_share": {
+   "median": 0.7295433282852173,
+   "iqr": 0.07312989234924316
+  },
+  "clean_share": {
+   "median": 0.0,
+   "iqr": 0.009115593483320403
+  },
+  "minor_share": {
+   "median": 0.12357882535642647,
+   "iqr": 0.17643170780617487
+  },
+  "chord_rate": {
+   "median": 2.0833018397303142,
+   "iqr": 0.33269228270078965
+  },
+  "repetitiveness": {
+   "median": 0.9004289209842682,
+   "iqr": 0.041929781436920166
+  },
+  "vocal_share": {
+   "median": 0.09967751055955887,
+   "iqr": 0.05651157908141613
+  },
+  "vocal_voiced": {
+   "median": 0.16446939612017122,
+   "iqr": 0.13684043046559974
+  },
+  "song_length": {
+   "median": 333.3,
+   "iqr": 124.63199999999995
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

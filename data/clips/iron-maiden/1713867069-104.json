@@ -1,0 +1,32 @@
+{
+ "id": "iron-maiden/1713867069-104",
+ "band": "iron-maiden",
+ "title": "Heaven Can Wait (2015 Remaster)",
+ "source": "itunes",
+ "album": "Somewhere in Time (2015 Remaster)",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 6.49990173995858,
+  "tempo_var": 13.883518804799074,
+  "low_onset_rate": 5.9999092984233044,
+  "lufs": -9.300196823313259,
+  "rms_dbfs": -8.876934948308987,
+  "crest": 8.876935005187988,
+  "centroid": 2542.471521059968,
+  "flatness": 0.03159262612462044,
+  "sub100_share": 0.17006061971187592,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.5471370220184326,
+  "clean_share": 0.0038669760247486465,
+  "minor_share": -0.12101938856642935,
+  "chord_rate": 1.5333101540415113,
+  "repetitiveness": 0.8734031915664673,
+  "vocal_share": 0.12296555191278458,
+  "vocal_voiced": 0.7445838084378563,
+  "song_length": 443.6
+ }
+}

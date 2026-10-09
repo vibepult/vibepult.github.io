@@ -1,0 +1,32 @@
+{
+ "id": "severe-torture/1606816104-103",
+ "band": "severe-torture",
+ "title": "Carnivorous Force",
+ "source": "itunes",
+ "album": "Misanthropic Carnage",
+ "year": 2002,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 9.455689642632013,
+  "tempo_var": 11.421880019776506,
+  "low_onset_rate": 7.985547083353538,
+  "lufs": -9.457876999673838,
+  "rms_dbfs": -8.999443900302197,
+  "crest": 8.999444007873535,
+  "centroid": 2536.771248537785,
+  "flatness": 0.0315718911588192,
+  "sub100_share": 0.33209019899368286,
+  "lowest_pitch": 123.81591796875,
+  "harmonic_share": 0.610282301902771,
+  "clean_share": 0.0,
+  "minor_share": 0.06226382169425693,
+  "chord_rate": 2.472512486059254,
+  "repetitiveness": 0.9567371606826782,
+  "vocal_share": 0.07306843996047974,
+  "vocal_voiced": 0.278,
+  "song_length": 168.373
+ }
+}

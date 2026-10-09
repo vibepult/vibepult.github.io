@@ -1,0 +1,32 @@
+{
+ "id": "alcest/1556058786-103",
+ "band": "alcest",
+ "title": "Percées De Lumière",
+ "source": "itunes",
+ "album": "Écailles De Lune",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.443840008728119,
+  "tempo_var": 1.620264469326905,
+  "low_onset_rate": 5.112086626581972,
+  "lufs": -10.399103764710457,
+  "rms_dbfs": -10.651411320853583,
+  "crest": 10.651411056518555,
+  "centroid": 2680.1020477949296,
+  "flatness": 0.03487418219447136,
+  "sub100_share": 0.16936756670475006,
+  "lowest_pitch": 131.890869140625,
+  "harmonic_share": 0.7219794392585754,
+  "clean_share": 0.0,
+  "minor_share": 0.23220890315682252,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.6959261894226074,
+  "vocal_share": 0.04308093339204788,
+  "vocal_voiced": 0.0,
+  "song_length": 398.427
+ }
+}

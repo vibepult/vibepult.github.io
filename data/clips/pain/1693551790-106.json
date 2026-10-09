@@ -1,0 +1,32 @@
+{
+ "id": "pain/1693551790-106",
+ "band": "pain",
+ "title": "Greed",
+ "source": "itunes",
+ "album": "Pain",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 2.7398111332007953,
+  "tempo_var": 10.845694407896366,
+  "low_onset_rate": 2.1049768462396354,
+  "lufs": -11.392636385014116,
+  "rms_dbfs": -11.801965088321307,
+  "crest": 11.801965713500977,
+  "centroid": 3082.133197852362,
+  "flatness": 0.07362241297960281,
+  "sub100_share": 0.2710592746734619,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.741483211517334,
+  "clean_share": 0.007757951900698216,
+  "minor_share": -0.03656607417459218,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.9804350137710571,
+  "vocal_share": 0.11750847846269608,
+  "vocal_voiced": 0.5359281437125748,
+  "song_length": 162.427
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "daniel-lioneye/255722381-105",
+ "band": "daniel-lioneye",
+ "title": "Eldorado Baby",
+ "source": "itunes",
+ "album": "The King of Rock 'N' Roll",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.9473948988992875,
+  "tempo_var": 0.46965437666028537,
+  "low_onset_rate": 4.109716699801193,
+  "lufs": -14.855001521406729,
+  "rms_dbfs": -14.278792121929696,
+  "crest": 14.278792381286621,
+  "centroid": 1918.8345609116907,
+  "flatness": 0.014547946862876415,
+  "sub100_share": 0.23132729530334473,
+  "lowest_pitch": 104.974365234375,
+  "harmonic_share": 0.4674523174762726,
+  "clean_share": 0.5469356089992242,
+  "minor_share": -0.019167200062229328,
+  "chord_rate": 3.174171434805799,
+  "repetitiveness": 0.8086543679237366,
+  "vocal_share": 0.4270099997520447,
+  "vocal_voiced": 0.6916588566073102,
+  "song_length": 190.424
+ }
+}

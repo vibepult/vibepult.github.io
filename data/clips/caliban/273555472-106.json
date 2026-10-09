@@ -1,0 +1,32 @@
+{
+ "id": "caliban/273555472-106",
+ "band": "caliban",
+ "title": "Give Me a Reason",
+ "source": "itunes",
+ "album": "The Awakening",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 2.940285118556951,
+  "tempo_var": 15.219206851143863,
+  "low_onset_rate": 1.8042658682054018,
+  "lufs": -7.633449714022051,
+  "rms_dbfs": -6.869110571424154,
+  "crest": 6.869110584259033,
+  "centroid": 2643.1018574407344,
+  "flatness": 0.042549263685941696,
+  "sub100_share": 0.44907110929489136,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.7764169573783875,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.10857898081956385,
+  "chord_rate": 2.405687824273869,
+  "repetitiveness": 0.9554181098937988,
+  "vocal_share": 0.17649517953395844,
+  "vocal_voiced": 0.202172096908939,
+  "song_length": 238.146
+ }
+}

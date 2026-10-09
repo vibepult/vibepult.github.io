@@ -1,0 +1,32 @@
+{
+ "id": "danzig/1442954001-107",
+ "band": "danzig",
+ "title": "Bringer of Death",
+ "source": "itunes",
+ "album": "Danzig 4",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 5.099922903659809,
+  "tempo_var": 25.259802858237578,
+  "low_onset_rate": 4.5332648032531635,
+  "lufs": -9.919694601777845,
+  "rms_dbfs": -9.779724364261229,
+  "crest": 9.77972412109375,
+  "centroid": 2507.503734208995,
+  "flatness": 0.03410892188549042,
+  "sub100_share": 0.3344857394695282,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.771655261516571,
+  "clean_share": 0.08275328692962104,
+  "minor_share": 0.09096150065165876,
+  "chord_rate": 1.9666369367054164,
+  "repetitiveness": 0.9337639808654785,
+  "vocal_share": 0.04879990220069885,
+  "vocal_voiced": 0.8146067415730337,
+  "song_length": 280.32
+ }
+}

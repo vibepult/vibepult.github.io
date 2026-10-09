@@ -1,0 +1,32 @@
+{
+ "id": "ensiferum/705088830-105",
+ "band": "ensiferum",
+ "title": "One More Magic Potion",
+ "source": "itunes",
+ "album": "Victory Songs",
+ "year": 2007,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 6.48199219318237,
+  "tempo_var": 2.8394557974987333,
+  "low_onset_rate": 7.952134752460845,
+  "lufs": -7.540890836631662,
+  "rms_dbfs": -6.743108459461178,
+  "crest": 6.743108749389648,
+  "centroid": 2624.773107129524,
+  "flatness": 0.035232555121183395,
+  "sub100_share": 0.4565986692905426,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.78863126039505,
+  "clean_share": 0.005430566330488751,
+  "minor_share": 0.3028323417160495,
+  "chord_rate": 1.4367302283857828,
+  "repetitiveness": 0.9220475554466248,
+  "vocal_share": 0.049661196768283844,
+  "vocal_voiced": 0.10748560460652591,
+  "song_length": 319.267
+ }
+}

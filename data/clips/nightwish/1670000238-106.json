@@ -1,0 +1,32 @@
+{
+ "id": "nightwish/1670000238-106",
+ "band": "nightwish",
+ "title": "Wishmaster",
+ "source": "itunes",
+ "album": "Wishmaster",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 6.8,
+  "tempo_var": 23.63667319638274,
+  "low_onset_rate": 8.266666666666667,
+  "lufs": -8.955775135358426,
+  "rms_dbfs": -8.477995760239873,
+  "crest": 8.477995872497559,
+  "centroid": 2760.0548491211293,
+  "flatness": 0.038585513830184937,
+  "sub100_share": 0.4016045033931732,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8352705240249634,
+  "clean_share": 0.0015479876160990713,
+  "minor_share": 0.08455097085628638,
+  "chord_rate": 1.5,
+  "repetitiveness": 0.8957323431968689,
+  "vocal_share": 0.2221059799194336,
+  "vocal_voiced": 0.9049153908138597,
+  "song_length": 264.027
+ }
+}

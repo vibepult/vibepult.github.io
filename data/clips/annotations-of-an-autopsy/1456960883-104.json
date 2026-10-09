@@ -1,0 +1,32 @@
+{
+ "id": "annotations-of-an-autopsy/1456960883-104",
+ "band": "annotations-of-an-autopsy",
+ "title": "Bone Crown",
+ "source": "itunes",
+ "album": "The Reign of Darkness",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 2.9068727876642586,
+  "tempo_var": 20.31430014088627,
+  "low_onset_rate": 1.5035548901711682,
+  "lufs": -8.164468149896333,
+  "rms_dbfs": -6.584149779353004,
+  "crest": 6.584149360656738,
+  "centroid": 2362.329128837598,
+  "flatness": 0.020335758104920387,
+  "sub100_share": 0.5745341181755066,
+  "lowest_pitch": 29.608154296875,
+  "harmonic_share": 0.8401238918304443,
+  "clean_share": 0.11792086889061287,
+  "minor_share": 0.0004428030733572008,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.9494753479957581,
+  "vocal_share": 0.011761277914047241,
+  "vocal_voiced": 0.0,
+  "song_length": 212.68
+ }
+}

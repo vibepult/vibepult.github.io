@@ -1,0 +1,32 @@
+{
+ "id": "white-zombie/1101918450-107",
+ "band": "white-zombie",
+ "title": "Truck on Fire",
+ "source": "itunes",
+ "album": "Soul-Crusher",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.866666666666666,
+  "tempo_var": 16.024967421740207,
+  "low_onset_rate": 5.366666666666666,
+  "lufs": -10.639873317108794,
+  "rms_dbfs": -10.793705790706339,
+  "crest": 10.793705940246582,
+  "centroid": 2177.320305343227,
+  "flatness": 0.01609717682003975,
+  "sub100_share": 0.23558133840560913,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.6522840261459351,
+  "clean_share": 0.14396284829721362,
+  "minor_share": 0.06286129786537253,
+  "chord_rate": 2.533333333333333,
+  "repetitiveness": 0.9111767411231995,
+  "vocal_share": 0.22424156963825226,
+  "vocal_voiced": 0.5454545454545454,
+  "song_length": 245.44
+ }
+}

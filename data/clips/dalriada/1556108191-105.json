@@ -1,0 +1,32 @@
+{
+ "id": "dalriada/1556108191-105",
+ "band": "dalriada",
+ "title": "Betyár-altató",
+ "source": "itunes",
+ "album": "Őszelő",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.84478797944043,
+  "tempo_var": 26.154127356195044,
+  "low_onset_rate": 4.57748933229889,
+  "lufs": -9.452644164074817,
+  "rms_dbfs": -8.855548403031815,
+  "crest": 8.855548858642578,
+  "centroid": 2590.4393066467537,
+  "flatness": 0.028996281325817108,
+  "sub100_share": 0.3566574156284332,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7612176537513733,
+  "clean_share": 0.03335919317300233,
+  "minor_share": 0.05923094494286352,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.8610047101974487,
+  "vocal_share": 0.18316930532455444,
+  "vocal_voiced": 0.9442724458204335,
+  "song_length": 357.987
+ }
+}

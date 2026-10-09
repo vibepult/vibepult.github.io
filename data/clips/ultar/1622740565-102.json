@@ -1,0 +1,32 @@
+{
+ "id": "ultar/1622740565-102",
+ "band": "ultar",
+ "title": "Azathoth",
+ "source": "itunes",
+ "album": "Kadath",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 60.09265988372093,
+  "onset_rate": 2.0047398535615577,
+  "tempo_var": 22.76494578421736,
+  "low_onset_rate": 3.5417070746254184,
+  "lufs": -10.519513207637672,
+  "rms_dbfs": -11.759910177882762,
+  "crest": 11.759910583496094,
+  "centroid": 2051.194353023869,
+  "flatness": 0.014933999627828598,
+  "sub100_share": 0.3792629837989807,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.8196187615394592,
+  "clean_share": 0.41039565554693563,
+  "minor_share": 0.272431906210167,
+  "chord_rate": 1.0357822576734714,
+  "repetitiveness": 0.6952253580093384,
+  "vocal_share": 6.484189270850038e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 521.667
+ }
+}

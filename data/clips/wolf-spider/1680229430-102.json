@@ -1,0 +1,32 @@
+{
+ "id": "wolf-spider/1680229430-102",
+ "band": "wolf-spider",
+ "title": "H>E>J>T",
+ "source": "itunes",
+ "album": "VI",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 5.312560611938127,
+  "tempo_var": 8.930963542922749,
+  "low_onset_rate": 5.21232361926005,
+  "lufs": -8.458859647858926,
+  "rms_dbfs": -7.801890487404659,
+  "crest": 7.801890850067139,
+  "centroid": 2684.3274919482633,
+  "flatness": 0.035285238176584244,
+  "sub100_share": 0.35228148102760315,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.6786532402038574,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.05420171495462722,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.8662753105163574,
+  "vocal_share": 0.2250128835439682,
+  "vocal_voiced": 0.8353909465020576,
+  "song_length": 342.24
+ }
+}

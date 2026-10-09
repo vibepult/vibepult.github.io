@@ -1,0 +1,32 @@
+{
+ "id": "ayreon/1600454316-107",
+ "band": "ayreon",
+ "title": "Ride the Comet",
+ "source": "itunes",
+ "album": "01011001",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.410427677835426,
+  "tempo_var": 13.633895381767934,
+  "low_onset_rate": 3.8758303835523447,
+  "lufs": -13.073822683071747,
+  "rms_dbfs": -11.670093089704068,
+  "crest": 11.670093536376953,
+  "centroid": 1444.4055084127137,
+  "flatness": 0.006155263166874647,
+  "sub100_share": 0.5250824689865112,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8972068428993225,
+  "clean_share": 0.7626066718386346,
+  "minor_share": -0.0598499539113061,
+  "chord_rate": 1.871090529990787,
+  "repetitiveness": 0.8618031144142151,
+  "vocal_share": 0.0399266742169857,
+  "vocal_voiced": 0.70995670995671,
+  "song_length": 209.293
+ }
+}

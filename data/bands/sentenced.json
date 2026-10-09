@@ -1,0 +1,127 @@
+{
+ "slug": "sentenced",
+ "name": "Sentenced",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 28441704,
+  "deezer": 2429,
+  "spotify": "5jQPKWBobu6cJwGSbbqgCk"
+ },
+ "metadata": {
+  "formed": 1989,
+  "split": 2005,
+  "country": "FI",
+  "status": "split-up",
+  "members": 5,
+  "past_members": 2,
+  "full_lengths": 8,
+  "genre": "Death Metal (early); Gothic Metal/Rock (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 20270,
+  "themes": "Doom, Death, Nature, Depression, Love, Suicide",
+  "release_year": 1995
+ },
+ "partial": false,
+ "clips": [
+  "sentenced/1060462268-104",
+  "sentenced/1463870389-104",
+  "sentenced/1463876550-105",
+  "sentenced/1045519155-106",
+  "sentenced/1045607720-107",
+  "sentenced/1045603196-106",
+  "sentenced/1045530577-106",
+  "sentenced/1045699341-107",
+  "sentenced/1060462268-105",
+  "sentenced/1463870389-105",
+  "sentenced/1463876550-104",
+  "sentenced/1045519155-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.90049098320159,
+   "iqr": 29.859572190504807
+  },
+  "onset_rate": {
+   "median": 4.176541361586578,
+   "iqr": 1.2033494869174421
+  },
+  "tempo_var": {
+   "median": 16.629335982648538,
+   "iqr": 16.453156959163945
+  },
+  "low_onset_rate": {
+   "median": 5.964101064345634,
+   "iqr": 2.0214460190079038
+  },
+  "lufs": {
+   "median": -10.9114050319417,
+   "iqr": 1.9155519376023484
+  },
+  "rms_dbfs": {
+   "median": -10.64026975866358,
+   "iqr": 1.7456239569047138
+  },
+  "crest": {
+   "median": 10.640269756317139,
+   "iqr": 1.7456231117248535
+  },
+  "centroid": {
+   "median": 2664.739423384415,
+   "iqr": 373.9684801781559
+  },
+  "flatness": {
+   "median": 0.03731091693043709,
+   "iqr": 0.01625810470432043
+  },
+  "sub100_share": {
+   "median": 0.3148663491010666,
+   "iqr": 0.09596667811274529
+  },
+  "lowest_pitch": {
+   "median": 61.907958984375,
+   "iqr": 29.608154296875
+  },
+  "harmonic_share": {
+   "median": 0.7756781578063965,
+   "iqr": 0.07277967035770416
+  },
+  "clean_share": {
+   "median": 0.005818463925523662,
+   "iqr": 0.06966316808835785
+  },
+  "minor_share": {
+   "median": 0.00047475722259796016,
+   "iqr": 0.12691755317783762
+  },
+  "chord_rate": {
+   "median": 1.5703795519565533,
+   "iqr": 0.5939947782256225
+  },
+  "repetitiveness": {
+   "median": 0.7932215631008148,
+   "iqr": 0.05668269097805023
+  },
+  "vocal_share": {
+   "median": 0.07842524349689484,
+   "iqr": 0.1179370004683733
+  },
+  "vocal_voiced": {
+   "median": 0.43937575030012005,
+   "iqr": 0.6245364565817499
+  },
+  "song_length": {
+   "median": 338.14,
+   "iqr": 129.25625000000002
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

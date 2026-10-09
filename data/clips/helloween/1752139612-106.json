@@ -1,0 +1,32 @@
+{
+ "id": "helloween/1752139612-106",
+ "band": "helloween",
+ "title": "Windmill (2024 Remaster)",
+ "source": "itunes",
+ "album": "Chameleon (2024 Remaster)",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 78.30255681818181,
+  "onset_rate": 2.766624843161857,
+  "tempo_var": 26.096669707192135,
+  "low_onset_rate": 2.466629378240692,
+  "lufs": -13.306202558428703,
+  "rms_dbfs": -12.332112956239392,
+  "crest": 12.332113265991211,
+  "centroid": 2388.5013604569513,
+  "flatness": 0.015758207067847252,
+  "sub100_share": 0.35251864790916443,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8941017985343933,
+  "clean_share": 0.13379737045630316,
+  "minor_share": -0.17494244866810238,
+  "chord_rate": 1.299980347991716,
+  "repetitiveness": 0.5768628716468811,
+  "vocal_share": 0.3392670750617981,
+  "vocal_voiced": 0.872,
+  "song_length": 314.293
+ }
+}

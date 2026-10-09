@@ -1,0 +1,32 @@
+{
+ "id": "falkenbach/1556106520-104",
+ "band": "falkenbach",
+ "title": "Donar's Oak",
+ "source": "itunes",
+ "album": "OK Nefna Tysvar Ty",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.240996096591185,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.310190685157349,
+  "lufs": -9.820302000852912,
+  "rms_dbfs": -9.040393340699332,
+  "crest": 9.040393829345703,
+  "centroid": 2454.2361495254713,
+  "flatness": 0.030225642025470734,
+  "sub100_share": 0.28514647483825684,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7690424919128418,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.09417226890039265,
+  "chord_rate": 0.6348342869611598,
+  "repetitiveness": 0.7395330667495728,
+  "vocal_share": 0.11055446416139603,
+  "vocal_voiced": 0.9202127659574468,
+  "song_length": 288.853
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "atheist",
+ "name": "Atheist",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 157789341,
+  "deezer": 14474,
+  "spotify": "5QPy3HBn3AwzLEAQ8QeIo4"
+ },
+ "metadata": {
+  "formed": 1987,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 16,
+  "full_lengths": 4,
+  "genre": "Progressive Death/Thrash Metal with Jazz influences",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 9260,
+  "themes": "Nature, Corruption, Politics, Mortality, Death, Anti-religion",
+  "release_year": 1992
+ },
+ "partial": false,
+ "clips": [
+  "atheist/1654125872-105",
+  "atheist/1654125790-105",
+  "atheist/1653998187-106",
+  "atheist/1653998358-104",
+  "atheist/1654125872-104",
+  "atheist/1654125790-106",
+  "atheist/1653998187-107",
+  "atheist/1653998358-105",
+  "atheist/1654125872-106",
+  "atheist/1654125790-104",
+  "atheist/1653998187-104",
+  "atheist/1653998358-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 132.59919819078948,
+   "iqr": 15.14879728618422
+  },
+  "onset_rate": {
+   "median": 2.2219200043640597,
+   "iqr": 1.5119079728943414
+  },
+  "tempo_var": {
+   "median": 11.814100584443768,
+   "iqr": 6.8449222239545975
+  },
+  "low_onset_rate": {
+   "median": 4.193247527032924,
+   "iqr": 1.8710905299907878
+  },
+  "lufs": {
+   "median": -11.24295075307565,
+   "iqr": 1.2915182099114357
+  },
+  "rms_dbfs": {
+   "median": -10.855036117267808,
+   "iqr": 1.884561160931586
+  },
+  "crest": {
+   "median": 10.85503625869751,
+   "iqr": 1.88456130027771
+  },
+  "centroid": {
+   "median": 2594.8204665556996,
+   "iqr": 568.766445080732
+  },
+  "flatness": {
+   "median": 0.021998828276991844,
+   "iqr": 0.01330179674550891
+  },
+  "sub100_share": {
+   "median": 0.4098873883485794,
+   "iqr": 0.10582328587770462
+  },
+  "lowest_pitch": {
+   "median": 71.3287353515625,
+   "iqr": 47.77679443359375
+  },
+  "harmonic_share": {
+   "median": 0.7749009132385254,
+   "iqr": 0.11408798396587372
+  },
+  "clean_share": {
+   "median": 0.13343677269200932,
+   "iqr": 0.30100853374709075
+  },
+  "minor_share": {
+   "median": -0.007112866300005155,
+   "iqr": 0.15688687269391566
+  },
+  "chord_rate": {
+   "median": 1.9880336881152112,
+   "iqr": 0.8854267686563544
+  },
+  "repetitiveness": {
+   "median": 0.9200064837932587,
+   "iqr": 0.02869442105293274
+  },
+  "vocal_share": {
+   "median": 0.07098043709993362,
+   "iqr": 0.04459044523537159
+  },
+  "vocal_voiced": {
+   "median": 0.15760869565217392,
+   "iqr": 0.1868894206423898
+  },
+  "song_length": {
+   "median": 228.893,
+   "iqr": 41.5265
+  },
+  "vocal_presence": {
+   "median": 0.5833333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.0,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

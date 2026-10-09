@@ -1,0 +1,32 @@
+{
+ "id": "atheist/1654125872-105",
+ "band": "atheist",
+ "title": "Beyond",
+ "source": "itunes",
+ "album": "Piece of Time",
+ "year": 1990,
+ "itunes_year": 1990,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 2.1049768462396354,
+  "tempo_var": 11.923053474278738,
+  "low_onset_rate": 5.479622266401591,
+  "lufs": -12.05453174829145,
+  "rms_dbfs": -11.441551979023213,
+  "crest": 11.441553115844727,
+  "centroid": 2765.660767258966,
+  "flatness": 0.027946190908551216,
+  "sub100_share": 0.3842214345932007,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7281156182289124,
+  "clean_share": 0.23273855702094648,
+  "minor_share": -0.16521710191820016,
+  "chord_rate": 1.1026069194588566,
+  "repetitiveness": 0.9472538828849792,
+  "vocal_share": 1.119329340326658e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 179.387
+ }
+}

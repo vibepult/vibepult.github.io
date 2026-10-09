@@ -1,0 +1,32 @@
+{
+ "id": "black-sabbath/40458848-106",
+ "band": "black-sabbath",
+ "title": "Digital Bitch",
+ "source": "itunes",
+ "album": "Born Again",
+ "year": 1983,
+ "itunes_year": 1983,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 5.232716323698793,
+  "tempo_var": 11.082864624980363,
+  "low_onset_rate": 5.699327970398048,
+  "lufs": -10.166377802220602,
+  "rms_dbfs": -10.995397708407271,
+  "crest": 10.995397567749023,
+  "centroid": 3239.314308742993,
+  "flatness": 0.05760597810149193,
+  "sub100_share": 0.24443833529949188,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.5603699088096619,
+  "clean_share": 0.0,
+  "minor_share": 0.2023202827029949,
+  "chord_rate": 2.033093603475327,
+  "repetitiveness": 0.9027922749519348,
+  "vocal_share": 0.16591182351112366,
+  "vocal_voiced": 0.24054054054054055,
+  "song_length": 219.427
+ }
+}

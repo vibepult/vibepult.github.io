@@ -1,0 +1,32 @@
+{
+ "id": "arkona/1219468564-106",
+ "band": "arkona",
+ "title": "Rus'",
+ "source": "itunes",
+ "album": "Vozrozhdenie (Rerecorded Version)",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.433333333333334,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.333333333333333,
+  "lufs": -8.734544180637757,
+  "rms_dbfs": -7.665123020072491,
+  "crest": 7.665122985839844,
+  "centroid": 2340.054351272316,
+  "flatness": 0.018069278448820114,
+  "sub100_share": 0.34362149238586426,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7548292279243469,
+  "clean_share": 0.0565015479876161,
+  "minor_share": -0.06331514242597236,
+  "chord_rate": 1.4,
+  "repetitiveness": 0.7668851017951965,
+  "vocal_share": 0.06749745458364487,
+  "vocal_voiced": 0.8921568627450981,
+  "song_length": 383.48
+ }
+}

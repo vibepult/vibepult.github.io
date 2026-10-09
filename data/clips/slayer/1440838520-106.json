@@ -1,0 +1,32 @@
+{
+ "id": "slayer/1440838520-106",
+ "band": "slayer",
+ "title": "Love to Hate",
+ "source": "itunes",
+ "album": "Diabolus In Musica",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.1666187963900776,
+  "tempo_var": 22.501796752535494,
+  "low_onset_rate": 4.999924415352754,
+  "lufs": -10.352438487167682,
+  "rms_dbfs": -10.528687152795175,
+  "crest": 10.528687477111816,
+  "centroid": 2962.825554866982,
+  "flatness": 0.05450097844004631,
+  "sub100_share": 0.17685729265213013,
+  "lowest_pitch": 102.28271484375,
+  "harmonic_share": 0.6357577443122864,
+  "clean_share": 0.028615622583139984,
+  "minor_share": -0.10753781200628187,
+  "chord_rate": 2.666626354854802,
+  "repetitiveness": 0.9068694710731506,
+  "vocal_share": 0.17510148882865906,
+  "vocal_voiced": 0.6552567237163814,
+  "song_length": 189.733
+ }
+}

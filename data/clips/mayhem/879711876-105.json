@@ -1,0 +1,32 @@
+{
+ "id": "mayhem/879711876-105",
+ "band": "mayhem",
+ "title": "Milab",
+ "source": "itunes",
+ "album": "Esoteric Warfare",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.94265504533773,
+  "tempo_var": 3.655436853467572,
+  "low_onset_rate": 4.076304368908501,
+  "lufs": -11.920341939377549,
+  "rms_dbfs": -11.580446008634384,
+  "crest": 11.580446243286133,
+  "centroid": 1849.0710911919841,
+  "flatness": 0.01763041317462921,
+  "sub100_share": 0.12521010637283325,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7814511060714722,
+  "clean_share": 0.28626842513576417,
+  "minor_share": 0.25135325367564965,
+  "chord_rate": 1.871090529990787,
+  "repetitiveness": 0.7010826468467712,
+  "vocal_share": 0.10781163722276688,
+  "vocal_voiced": 0.23824451410658307,
+  "song_length": 363.637
+ }
+}

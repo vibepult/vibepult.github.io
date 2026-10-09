@@ -1,0 +1,32 @@
+{
+ "id": "solstafir/1660521671-104",
+ "band": "solstafir",
+ "title": "Lux Fare",
+ "source": "itunes",
+ "album": "Masterpiece of Bitterness",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.240996096591185,
+  "tempo_var": 17.022351044783267,
+  "low_onset_rate": 5.379385273723512,
+  "lufs": -9.104769711300332,
+  "rms_dbfs": -7.495616138663619,
+  "crest": 7.495616912841797,
+  "centroid": 1955.2324257512707,
+  "flatness": 0.010822055861353874,
+  "sub100_share": 0.4571629762649536,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.832041323184967,
+  "clean_share": 0.28471683475562454,
+  "minor_share": 0.10012608032325943,
+  "chord_rate": 1.0023699267807789,
+  "repetitiveness": 0.7514023780822754,
+  "vocal_share": 3.6063710240341607e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 536.333
+ }
+}

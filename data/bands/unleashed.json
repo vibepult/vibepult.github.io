@@ -1,0 +1,127 @@
+{
+ "slug": "unleashed",
+ "name": "Unleashed",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 22135784,
+  "deezer": 155723,
+  "spotify": "3MKwCexzAd8YTdsSjRkKbv"
+ },
+ "metadata": {
+  "formed": 1989,
+  "split": null,
+  "country": "SE",
+  "status": "active",
+  "members": 4,
+  "past_members": 2,
+  "full_lengths": 15,
+  "genre": "Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 22720,
+  "themes": "Death, Darkness, Anti-Christianity, Norse mythology, Paganism",
+  "release_year": 2003
+ },
+ "partial": false,
+ "clips": [
+  "unleashed/1439962762-106",
+  "unleashed/1439958627-105",
+  "unleashed/1440313817-106",
+  "unleashed/1440083703-105",
+  "unleashed/1440083469-107",
+  "unleashed/1045699823-107",
+  "unleashed/1045678256-107",
+  "unleashed/1442307407-108",
+  "unleashed/1480936338-107",
+  "unleashed/1494269187-107",
+  "unleashed/1494269715-106",
+  "unleashed/1494269322-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.19921875,
+   "iqr": 25.242979227289993
+  },
+  "onset_rate": {
+   "median": 4.644313994084275,
+   "iqr": 3.266055344760704
+  },
+  "tempo_var": {
+   "median": 12.71758546504573,
+   "iqr": 12.887371074163465
+  },
+  "low_onset_rate": {
+   "median": 6.532110689521408,
+   "iqr": 1.3197870702613583
+  },
+  "lufs": {
+   "median": -9.847925155857503,
+   "iqr": 2.311432177759487
+  },
+  "rms_dbfs": {
+   "median": -9.356412278318018,
+   "iqr": 2.2528929052162727
+  },
+  "crest": {
+   "median": 9.356411933898926,
+   "iqr": 2.2528929710388184
+  },
+  "centroid": {
+   "median": 2591.6722845487056,
+   "iqr": 377.44477081270634
+  },
+  "flatness": {
+   "median": 0.03852693550288677,
+   "iqr": 0.016053964849561453
+  },
+  "sub100_share": {
+   "median": 0.3248658925294876,
+   "iqr": 0.1535351574420929
+  },
+  "lowest_pitch": {
+   "median": 53.8330078125,
+   "iqr": 22.8790283203125
+  },
+  "harmonic_share": {
+   "median": 0.7195094227790833,
+   "iqr": 0.05345974862575531
+  },
+  "clean_share": {
+   "median": 0.006199161565198296,
+   "iqr": 0.05178432893716058
+  },
+  "minor_share": {
+   "median": -0.04318298052131153,
+   "iqr": 0.12317531634049403
+  },
+  "chord_rate": {
+   "median": 1.768706997973504,
+   "iqr": 0.4594195497745237
+  },
+  "repetitiveness": {
+   "median": 0.9160215258598328,
+   "iqr": 0.10097642242908478
+  },
+  "vocal_share": {
+   "median": 0.08549991250038147,
+   "iqr": 0.04653868079185486
+  },
+  "vocal_voiced": {
+   "median": 0.12472647702407003,
+   "iqr": 0.28538242978434725
+  },
+  "song_length": {
+   "median": 220.727,
+   "iqr": 31.383999999999986
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

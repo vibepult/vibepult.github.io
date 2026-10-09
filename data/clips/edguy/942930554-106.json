@@ -1,0 +1,32 @@
+{
+ "id": "edguy/942930554-106",
+ "band": "edguy",
+ "title": "Falling Down",
+ "source": "itunes",
+ "album": "Theater of Salvation",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 6.866542103544607,
+  "tempo_var": 7.428589112661898,
+  "low_onset_rate": 7.36653303341436,
+  "lufs": -8.508233530626015,
+  "rms_dbfs": -8.17270205526136,
+  "crest": 8.172701835632324,
+  "centroid": 3029.304793417131,
+  "flatness": 0.057748157531023026,
+  "sub100_share": 0.4139247238636017,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.753034234046936,
+  "clean_share": 0.0015467904098994587,
+  "minor_share": -0.13519267040647076,
+  "chord_rate": 2.166627362768929,
+  "repetitiveness": 0.8968128561973572,
+  "vocal_share": 0.2097403109073639,
+  "vocal_voiced": 0.21100917431192662,
+  "song_length": 275.467
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "troll/1711418009-103",
+ "band": "troll",
+ "title": "Angerboda (Sorgvarsleren)",
+ "source": "itunes",
+ "album": "Trolldom",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.199921391966864,
+  "tempo_var": 0.0,
+  "low_onset_rate": 7.333222475850706,
+  "lufs": -11.850202068130239,
+  "rms_dbfs": -11.272193020695196,
+  "crest": 11.27219295501709,
+  "centroid": 2479.819793072127,
+  "flatness": 0.028422890231013298,
+  "sub100_share": 0.3796057403087616,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8492050170898438,
+  "clean_share": 0.03634957463263728,
+  "minor_share": 0.12165148349311294,
+  "chord_rate": 1.5333101540415113,
+  "repetitiveness": 0.9166765809059143,
+  "vocal_share": 6.060499345039716e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 397.533
+ }
+}

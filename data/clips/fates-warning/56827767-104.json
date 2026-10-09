@@ -1,0 +1,32 @@
+{
+ "id": "fates-warning/56827767-104",
+ "band": "fates-warning",
+ "title": "Night On Brocken",
+ "source": "itunes",
+ "album": "Night On Brocken (Remastered)",
+ "year": 1984,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 5.780333244435824,
+  "tempo_var": 13.724191470871066,
+  "low_onset_rate": 6.61564151675314,
+  "lufs": -13.012099654115017,
+  "rms_dbfs": -12.992862443264583,
+  "crest": 12.992862701416016,
+  "centroid": 2853.124473380033,
+  "flatness": 0.04486427083611488,
+  "sub100_share": 0.12238678336143494,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.6594240069389343,
+  "clean_share": 0.0,
+  "minor_share": -0.05312830329648277,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.9137162566184998,
+  "vocal_share": 0.07332403212785721,
+  "vocal_voiced": 0.8838709677419355,
+  "song_length": 329.933
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "suicidal-tendencies/498742982-108",
+ "band": "suicidal-tendencies",
+ "title": "Possessed",
+ "source": "itunes",
+ "album": "Suicidal Tendencies",
+ "year": 1983,
+ "itunes_year": 1983,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 0.7666666666666667,
+  "tempo_var": 16.64880031106597,
+  "low_onset_rate": 5.8,
+  "lufs": -10.652000370324272,
+  "rms_dbfs": -10.524030640844806,
+  "crest": 10.524030685424805,
+  "centroid": 2430.283879960605,
+  "flatness": 0.025619324296712875,
+  "sub100_share": 0.16281473636627197,
+  "lowest_pitch": 99.591064453125,
+  "harmonic_share": 0.6859589219093323,
+  "clean_share": 0.006191950464396285,
+  "minor_share": 0.12825748284146826,
+  "chord_rate": 1.7,
+  "repetitiveness": 0.9169975519180298,
+  "vocal_share": 0.2219395786523819,
+  "vocal_voiced": 0.9505119453924915,
+  "song_length": 127.307
+ }
+}

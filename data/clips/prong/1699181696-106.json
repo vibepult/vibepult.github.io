@@ -1,0 +1,32 @@
+{
+ "id": "prong/1699181696-106",
+ "band": "prong",
+ "title": "Who Told Me",
+ "source": "itunes",
+ "album": "State Of Emergency",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.0,
+  "tempo_var": 18.273546275415654,
+  "low_onset_rate": 6.566666666666666,
+  "lufs": -8.457938094959957,
+  "rms_dbfs": -8.090833916179824,
+  "crest": 8.09083366394043,
+  "centroid": 2918.6475826762726,
+  "flatness": 0.05656696483492851,
+  "sub100_share": 0.2926994860172272,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.6184933185577393,
+  "clean_share": 0.04489164086687306,
+  "minor_share": -0.021555220463064795,
+  "chord_rate": 1.7,
+  "repetitiveness": 0.9372450113296509,
+  "vocal_share": 0.12103380262851715,
+  "vocal_voiced": 0.19207683073229292,
+  "song_length": 176.235
+ }
+}

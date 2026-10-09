@@ -1,0 +1,32 @@
+{
+ "id": "evoken/542459124-103",
+ "band": "evoken",
+ "title": "A Tenebrous Vision",
+ "source": "itunes",
+ "album": "Atra Mors",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.338863162488484,
+  "tempo_var": 7.008268521317663,
+  "low_onset_rate": 5.513034597294284,
+  "lufs": -13.141743238473264,
+  "rms_dbfs": -12.67456078655572,
+  "crest": 12.674295425415039,
+  "centroid": 734.2667537678909,
+  "flatness": 5.326837253960548e-06,
+  "sub100_share": 0.0007086611003614962,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.9676884412765503,
+  "clean_share": 1.0,
+  "minor_share": 0.04987042470458947,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.6654316186904907,
+  "vocal_share": 7.4973813752876595e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 139.933
+ }
+}

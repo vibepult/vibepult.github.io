@@ -1,0 +1,32 @@
+{
+ "id": "myrath/1707615046-106",
+ "band": "myrath",
+ "title": "Wheel Of Time",
+ "source": "itunes",
+ "album": "Karma",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.2666666666666666,
+  "tempo_var": 16.413182974773296,
+  "low_onset_rate": 5.133333333333334,
+  "lufs": -10.731122233992828,
+  "rms_dbfs": -9.997171485096116,
+  "crest": 9.997171401977539,
+  "centroid": 2601.7774517650873,
+  "flatness": 0.03457081317901611,
+  "sub100_share": 0.3416544795036316,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7159212827682495,
+  "clean_share": 0.048761609907120744,
+  "minor_share": 0.07310974028126571,
+  "chord_rate": 2.1,
+  "repetitiveness": 0.9406455159187317,
+  "vocal_share": 0.22028771042823792,
+  "vocal_voiced": 0.731004366812227,
+  "song_length": 259.827
+ }
+}

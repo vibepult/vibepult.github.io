@@ -1,0 +1,32 @@
+{
+ "id": "artrosis/510043877-111",
+ "band": "artrosis",
+ "title": "Panta Rhei",
+ "source": "itunes",
+ "album": "Imago",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.276778354264656,
+  "tempo_var": 3.2238121236641737,
+  "low_onset_rate": 6.649053847645832,
+  "lufs": -20.204808781031165,
+  "rms_dbfs": -17.738678769524995,
+  "crest": 14.528742790222168,
+  "centroid": 478.64634093043685,
+  "flatness": 2.302406937815249e-05,
+  "sub100_share": 0.5460200905799866,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.9166017174720764,
+  "clean_share": 1.0,
+  "minor_share": 0.04050444422751143,
+  "chord_rate": 0.7016589487465451,
+  "repetitiveness": 0.5209929347038269,
+  "vocal_share": 0.00021453430235851556,
+  "vocal_voiced": 0.0,
+  "song_length": 408.147
+ }
+}

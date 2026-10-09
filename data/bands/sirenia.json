@@ -1,0 +1,127 @@
+{
+ "slug": "sirenia",
+ "name": "Sirenia",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 35934741,
+  "deezer": 8524,
+  "spotify": "5FXMcILCOMjljRTV6cLoiE"
+ },
+ "metadata": {
+  "formed": 2001,
+  "split": null,
+  "country": "NO",
+  "status": "active",
+  "members": 3,
+  "past_members": 11,
+  "full_lengths": 11,
+  "genre": "Symphonic/Gothic Metal (early); Symphonic Metal (later)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 128728,
+  "themes": "Life, Death, Love, Hate, Mental decline",
+  "release_year": 2010
+ },
+ "partial": false,
+ "clips": [
+  "sirenia/1184687505-105",
+  "sirenia/1184684461-105",
+  "sirenia/1545836180-105",
+  "sirenia/1545839209-105",
+  "sirenia/1550459711-107",
+  "sirenia/1694699134-107",
+  "sirenia/1183624336-106",
+  "sirenia/1435461788-106",
+  "sirenia/1539956864-106",
+  "sirenia/1672674361-106",
+  "sirenia/1184687505-104",
+  "sirenia/1184684461-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 28.309828814338232
+  },
+  "onset_rate": {
+   "median": 4.7053718340364314,
+   "iqr": 1.6667311402158305
+  },
+  "tempo_var": {
+   "median": 11.615508436049058,
+   "iqr": 15.731896778383101
+  },
+  "low_onset_rate": {
+   "median": 5.349959184290487,
+   "iqr": 1.499410238468469
+  },
+  "lufs": {
+   "median": -8.484012950075718,
+   "iqr": 1.5061551776588988
+  },
+  "rms_dbfs": {
+   "median": -7.767946582930456,
+   "iqr": 1.122355362422022
+  },
+  "crest": {
+   "median": 7.767946243286133,
+   "iqr": 1.1223549842834473
+  },
+  "centroid": {
+   "median": 2372.741893866064,
+   "iqr": 350.9610865283621
+  },
+  "flatness": {
+   "median": 0.02465583197772503,
+   "iqr": 0.013791194185614586
+  },
+  "sub100_share": {
+   "median": 0.3544081896543503,
+   "iqr": 0.12760736048221588
+  },
+  "lowest_pitch": {
+   "median": 47.1038818359375,
+   "iqr": 14.8040771484375
+  },
+  "harmonic_share": {
+   "median": 0.8076752722263336,
+   "iqr": 0.08231048285961151
+  },
+  "clean_share": {
+   "median": 0.08291911554544647,
+   "iqr": 0.12381102459300974
+  },
+  "minor_share": {
+   "median": 0.0829092597411124,
+   "iqr": 0.12202297807739726
+  },
+  "chord_rate": {
+   "median": 1.351146547035051,
+   "iqr": 0.6481040585753768
+  },
+  "repetitiveness": {
+   "median": 0.8587616682052612,
+   "iqr": 0.0804799497127533
+  },
+  "vocal_share": {
+   "median": 0.10852663218975067,
+   "iqr": 0.08984192088246346
+  },
+  "vocal_voiced": {
+   "median": 0.7275935874791484,
+   "iqr": 0.34676636629026225
+  },
+  "song_length": {
+   "median": 354.562,
+   "iqr": 78.47474999999997
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

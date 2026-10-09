@@ -1,0 +1,32 @@
+{
+ "id": "i-spit-ashes/1222091860-104",
+ "band": "i-spit-ashes",
+ "title": "Eclipse",
+ "source": "itunes",
+ "album": "Inhaling Blackness...Reflecting Light",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 2.7398111332007953,
+  "tempo_var": 11.904964586172634,
+  "low_onset_rate": 1.236256243029627,
+  "lufs": -9.28717328615999,
+  "rms_dbfs": -8.535002421675658,
+  "crest": 8.535002708435059,
+  "centroid": 2461.7798573050623,
+  "flatness": 0.03331141173839569,
+  "sub100_share": 0.44099289178848267,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7596622109413147,
+  "clean_share": 0.0969743987587277,
+  "minor_share": -0.03300320570315485,
+  "chord_rate": 0.9021329341027009,
+  "repetitiveness": 0.8670225739479065,
+  "vocal_share": 0.008512402884662151,
+  "vocal_voiced": 0.0,
+  "song_length": 192.36
+ }
+}

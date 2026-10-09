@@ -1,0 +1,32 @@
+{
+ "id": "cobrakill/1713246114-107",
+ "band": "cobrakill",
+ "title": "Torture Me",
+ "source": "itunes",
+ "album": "Serpent's Kiss",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.499978836106811,
+  "tempo_var": 8.028416618927208,
+  "low_onset_rate": 3.8333101538312695,
+  "lufs": -12.799413346743998,
+  "rms_dbfs": -11.860568124024349,
+  "crest": 11.86056900024414,
+  "centroid": 2239.585727042814,
+  "flatness": 0.02017856575548649,
+  "sub100_share": 0.5203205347061157,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.720744252204895,
+  "clean_share": 0.27610208816705334,
+  "minor_share": 0.1178831261034286,
+  "chord_rate": 2.4999848829334366,
+  "repetitiveness": 0.8598455786705017,
+  "vocal_share": 0.0012393459910526872,
+  "vocal_voiced": 0.9927007299270073,
+  "song_length": 233.239
+ }
+}

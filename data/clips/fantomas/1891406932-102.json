@@ -1,0 +1,32 @@
+{
+ "id": "fantomas/1891406932-102",
+ "band": "fantomas",
+ "title": "Der Golem",
+ "source": "itunes",
+ "album": "The Director's Cut",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 1.8999885110294117,
+  "tempo_var": 19.475855830450346,
+  "low_onset_rate": 2.933315595975232,
+  "lufs": -11.512798242760939,
+  "rms_dbfs": -10.08120320209243,
+  "crest": 10.08120346069336,
+  "centroid": 1754.8416238267519,
+  "flatness": 0.012221645563840866,
+  "sub100_share": 0.4737747013568878,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8966408371925354,
+  "clean_share": 0.6202629543696829,
+  "minor_share": 0.03831241578462319,
+  "chord_rate": 2.0999873016640866,
+  "repetitiveness": 0.6992115378379822,
+  "vocal_share": 0.019040506333112717,
+  "vocal_voiced": 0.1440536013400335,
+  "song_length": 158.533
+ }
+}

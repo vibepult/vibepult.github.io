@@ -1,0 +1,32 @@
+{
+ "id": "saturnus/378025286-107",
+ "band": "saturnus",
+ "title": "Thou Art Free",
+ "source": "itunes",
+ "album": "Martyre",
+ "year": 2000,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.742181059981574,
+  "tempo_var": 3.080186810580893,
+  "low_onset_rate": 6.916352494787374,
+  "lufs": -18.953033097220903,
+  "rms_dbfs": -18.0022563761251,
+  "crest": 15.136026382446289,
+  "centroid": 1428.5220694135967,
+  "flatness": 0.006442967336624861,
+  "sub100_share": 0.10358019918203354,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.9336389899253845,
+  "clean_share": 0.847944142746315,
+  "minor_share": 0.05972175204397312,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.7698937654495239,
+  "vocal_share": 0.1425611823797226,
+  "vocal_voiced": 0.7949921752738655,
+  "song_length": 278.933
+ }
+}

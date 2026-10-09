@@ -1,0 +1,32 @@
+{
+ "id": "empyrium/1556132109-104",
+ "band": "empyrium",
+ "title": "Ode to Melancholy",
+ "source": "itunes",
+ "album": "Songs of Moors and Misty Fields",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.0739344421277215,
+  "tempo_var": 3.3805149482529546,
+  "low_onset_rate": 5.112086626581972,
+  "lufs": -11.252159217713512,
+  "rms_dbfs": -10.77961866490061,
+  "crest": 10.779618263244629,
+  "centroid": 2278.456758302429,
+  "flatness": 0.018583567813038826,
+  "sub100_share": 0.18432678282260895,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8889935612678528,
+  "clean_share": 0.027152831652443754,
+  "minor_share": -0.14858269452365203,
+  "chord_rate": 0.46777263249769674,
+  "repetitiveness": 0.7573853135108948,
+  "vocal_share": 0.09664227813482285,
+  "vocal_voiced": 0.9025641025641026,
+  "song_length": 527.853
+ }
+}

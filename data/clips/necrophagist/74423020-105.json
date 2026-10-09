@@ -1,0 +1,32 @@
+{
+ "id": "necrophagist/74423020-105",
+ "band": "necrophagist",
+ "title": "Epitaph",
+ "source": "itunes",
+ "album": "Epitaph",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 6.49990173995858,
+  "tempo_var": 10.898976248630518,
+  "low_onset_rate": 7.366555305286391,
+  "lufs": -10.928372925931193,
+  "rms_dbfs": -10.293232519683409,
+  "crest": 10.293231964111328,
+  "centroid": 2414.3581975844754,
+  "flatness": 0.02714177779853344,
+  "sub100_share": 0.24811168015003204,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7121856212615967,
+  "clean_share": 0.02165506573859242,
+  "minor_share": -0.042149021958536204,
+  "chord_rate": 2.299965231062267,
+  "repetitiveness": 0.9054192900657654,
+  "vocal_share": 0.1879895180463791,
+  "vocal_voiced": 0.1629139072847682,
+  "song_length": 255.0
+ }
+}

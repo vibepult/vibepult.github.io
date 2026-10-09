@@ -1,0 +1,127 @@
+{
+ "slug": "immolation",
+ "name": "Immolation",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 64874488,
+  "deezer": 10677,
+  "spotify": "3rt16vhD1OuULlsyxUUWIt"
+ },
+ "metadata": {
+  "formed": 1988,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 4,
+  "past_members": 5,
+  "full_lengths": 12,
+  "genre": "Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 25713,
+  "themes": "Anti-religion, Atheism, Society, Politics, Inner struggles",
+  "release_year": 2006
+ },
+ "partial": false,
+ "clips": [
+  "immolation/795254138-105",
+  "immolation/211510324-104",
+  "immolation/210795171-104",
+  "immolation/210784784-104",
+  "immolation/714503061-104",
+  "immolation/714885958-105",
+  "immolation/263400048-105",
+  "immolation/1456942064-107",
+  "immolation/1456959577-105",
+  "immolation/1459096132-106",
+  "immolation/1595268205-108",
+  "immolation/1861901597-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 30.403662307059733
+  },
+  "onset_rate": {
+   "median": 4.771898229745464,
+   "iqr": 3.892536548998691
+  },
+  "tempo_var": {
+   "median": 9.017927929513437,
+   "iqr": 8.197261449519115
+  },
+  "low_onset_rate": {
+   "median": 5.295854446491781,
+   "iqr": 4.229857440721524
+  },
+  "lufs": {
+   "median": -8.157420064048045,
+   "iqr": 2.6035431164246
+  },
+  "rms_dbfs": {
+   "median": -7.862867232577773,
+   "iqr": 3.67217393053735
+  },
+  "crest": {
+   "median": 7.86286735534668,
+   "iqr": 3.6721737384796143
+  },
+  "centroid": {
+   "median": 2463.7459459908487,
+   "iqr": 536.2965550688336
+  },
+  "flatness": {
+   "median": 0.03098493069410324,
+   "iqr": 0.020813120063394308
+  },
+  "sub100_share": {
+   "median": 0.3073905259370804,
+   "iqr": 0.06638504564762115
+  },
+  "lowest_pitch": {
+   "median": 57.8704833984375,
+   "iqr": 25.5706787109375
+  },
+  "harmonic_share": {
+   "median": 0.7729353606700897,
+   "iqr": 0.09335814416408539
+  },
+  "clean_share": {
+   "median": 0.03801396431342126,
+   "iqr": 0.045577967416602014
+  },
+  "minor_share": {
+   "median": -0.01437042030822372,
+   "iqr": 0.19137121943641047
+  },
+  "chord_rate": {
+   "median": 2.335710912851267,
+   "iqr": 0.8854267686563546
+  },
+  "repetitiveness": {
+   "median": 0.8961725831031799,
+   "iqr": 0.10742510855197906
+  },
+  "vocal_share": {
+   "median": 0.06881491839885712,
+   "iqr": 0.07266329228878021
+  },
+  "vocal_voiced": {
+   "median": 0.1766743648960739,
+   "iqr": 0.38566450970632155
+  },
+  "song_length": {
+   "median": 271.183,
+   "iqr": 38.299000000000035
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

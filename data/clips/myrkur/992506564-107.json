@@ -1,0 +1,32 @@
+{
+ "id": "myrkur/992506564-107",
+ "band": "myrkur",
+ "title": "Mordet",
+ "source": "itunes",
+ "album": "M",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.5393371478446394,
+  "tempo_var": 4.721678953224416,
+  "low_onset_rate": 5.746920913543131,
+  "lufs": -10.882866520955018,
+  "rms_dbfs": -10.306895339991014,
+  "crest": 10.306896209716797,
+  "centroid": 2524.128421427045,
+  "flatness": 0.038432177156209946,
+  "sub100_share": 0.3345312178134918,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7528788447380066,
+  "clean_share": 0.09775019394879751,
+  "minor_share": 0.24874266530503603,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.8802242279052734,
+  "vocal_share": 0.10740821063518524,
+  "vocal_voiced": 0.16122004357298475,
+  "song_length": 221.32
+ }
+}

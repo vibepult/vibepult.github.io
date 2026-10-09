@@ -1,0 +1,32 @@
+{
+ "id": "ram/1037095080-106",
+ "band": "ram",
+ "title": "Terminus",
+ "source": "itunes",
+ "album": "Svbversvm",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 2.8066357949861804,
+  "tempo_var": 5.994834384045987,
+  "low_onset_rate": 11.928202128691268,
+  "lufs": -18.55448943713182,
+  "rms_dbfs": -17.166096615985765,
+  "crest": 13.468619346618652,
+  "centroid": 1191.0198780454052,
+  "flatness": 0.0032257982529699802,
+  "sub100_share": 0.3722148835659027,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.9066891074180603,
+  "clean_share": 0.747866563227308,
+  "minor_share": -0.11625579200995717,
+  "chord_rate": 0.46777263249769674,
+  "repetitiveness": 0.9005497097969055,
+  "vocal_share": 0.0005823685205541551,
+  "vocal_voiced": 0.5,
+  "song_length": 140.613
+ }
+}

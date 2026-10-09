@@ -1,0 +1,127 @@
+{
+ "slug": "pitchshifter",
+ "name": "Pitchshifter",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 116458,
+  "deezer": 8028,
+  "spotify": "10aXVE8RSUCeMzaFvBnZ2i"
+ },
+ "metadata": {
+  "formed": 1989,
+  "split": null,
+  "country": "GB",
+  "status": "active",
+  "members": 2,
+  "past_members": 5,
+  "full_lengths": 6,
+  "genre": "Industrial Metal (early); Industrial Rock/Nu-Metal (later)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 3771,
+  "themes": "Hate (early); Society, Politics (later)",
+  "release_year": 1997
+ },
+ "partial": false,
+ "clips": [
+  "pitchshifter/158002025-104",
+  "pitchshifter/1640430977-106",
+  "pitchshifter/1632167991-107",
+  "pitchshifter/1443756091-107",
+  "pitchshifter/1443509027-106",
+  "pitchshifter/1599086180-106",
+  "pitchshifter/158002025-105",
+  "pitchshifter/1640430977-105",
+  "pitchshifter/1632167991-109",
+  "pitchshifter/1443756091-106",
+  "pitchshifter/1443509027-107",
+  "pitchshifter/1599086180-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.90049098320159,
+   "iqr": 27.87396938095509
+  },
+  "onset_rate": {
+   "median": 4.243366023371964,
+   "iqr": 1.0628543473698082
+  },
+  "tempo_var": {
+   "median": 11.980909598699807,
+   "iqr": 16.91215961525142
+  },
+  "low_onset_rate": {
+   "median": 4.605455813386562,
+   "iqr": 2.0943634017291206
+  },
+  "lufs": {
+   "median": -8.713495431445784,
+   "iqr": 6.835721177809932
+  },
+  "rms_dbfs": {
+   "median": -8.314484383177543,
+   "iqr": 5.901536752796467
+  },
+  "crest": {
+   "median": 8.314484119415283,
+   "iqr": 5.901536226272583
+  },
+  "centroid": {
+   "median": 2732.228664692524,
+   "iqr": 371.90907262517203
+  },
+  "flatness": {
+   "median": 0.04939146153628826,
+   "iqr": 0.008443170227110386
+  },
+  "sub100_share": {
+   "median": 0.3288975656032562,
+   "iqr": 0.11051523685455322
+  },
+  "lowest_pitch": {
+   "median": 44.4122314453125,
+   "iqr": 10.09368896484375
+  },
+  "harmonic_share": {
+   "median": 0.6672979891300201,
+   "iqr": 0.06679068505764008
+  },
+  "clean_share": {
+   "median": 0.0062063615205585725,
+   "iqr": 0.03918485705388627
+  },
+  "minor_share": {
+   "median": 0.0346466831362833,
+   "iqr": 0.1661846473070312
+  },
+  "chord_rate": {
+   "median": 2.019060975297676,
+   "iqr": 0.5726062640553384
+  },
+  "repetitiveness": {
+   "median": 0.9147592782974243,
+   "iqr": 0.053560882806777954
+  },
+  "vocal_share": {
+   "median": 0.10945230722427368,
+   "iqr": 0.08749539405107498
+  },
+  "vocal_voiced": {
+   "median": 0.401,
+   "iqr": 0.24811761171397617
+  },
+  "song_length": {
+   "median": 228.413,
+   "iqr": 56.473749999999995
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

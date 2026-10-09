@@ -1,0 +1,32 @@
+{
+ "id": "soulfly/214721129-107",
+ "band": "soulfly",
+ "title": "Moses",
+ "source": "itunes",
+ "album": "Prophecy",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.899422290342182,
+  "tempo_var": 21.78306768867995,
+  "low_onset_rate": 4.966081097013504,
+  "lufs": -8.992165625209141,
+  "rms_dbfs": -8.253086145097146,
+  "crest": 8.25308609008789,
+  "centroid": 2083.727609412136,
+  "flatness": 0.01925666630268097,
+  "sub100_share": 0.2336074709892273,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7590135931968689,
+  "clean_share": 0.15235885537509666,
+  "minor_share": 0.06711256247016617,
+  "chord_rate": 1.7997877801256994,
+  "repetitiveness": 0.8856489658355713,
+  "vocal_share": 0.2116183638572693,
+  "vocal_voiced": 0.650438946528332,
+  "song_length": 459.093
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "angra/1689467004-105",
+ "band": "angra",
+ "title": "Stand Away",
+ "source": "itunes",
+ "album": "Angels Cry",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.5333180147058822,
+  "tempo_var": 18.354168807914455,
+  "low_onset_rate": 2.0999873016640866,
+  "lufs": -28.646589662547886,
+  "rms_dbfs": -28.140776416394022,
+  "crest": 18.72884178161621,
+  "centroid": 1702.0607267098712,
+  "flatness": 0.01620245911180973,
+  "sub100_share": 0.09248644858598709,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.9686494469642639,
+  "clean_share": 0.888631090487239,
+  "minor_share": -0.21487379155191322,
+  "chord_rate": 1.7999891157120742,
+  "repetitiveness": 0.5931620597839355,
+  "vocal_share": 0.40490448474884033,
+  "vocal_voiced": 0.9962894248608535,
+  "song_length": 297.467
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "in-quest/585574854-103",
+ "band": "in-quest",
+ "title": "Asynchronous Transmission",
+ "source": "itunes",
+ "album": "Made Out of Negative Matter",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.813745575328517,
+  "tempo_var": 14.457151226644765,
+  "low_onset_rate": 1.7374412064200164,
+  "lufs": -7.566331376054612,
+  "rms_dbfs": -7.106731034756785,
+  "crest": 7.106730937957764,
+  "centroid": 2442.3109759820063,
+  "flatness": 0.03608778864145279,
+  "sub100_share": 0.2948612570762634,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.694943904876709,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.02358791898237289,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.9427918195724487,
+  "vocal_share": 0.21329180896282196,
+  "vocal_voiced": 0.04776119402985075,
+  "song_length": 259.707
+ }
+}

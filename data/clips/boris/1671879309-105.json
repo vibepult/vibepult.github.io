@@ -1,0 +1,32 @@
+{
+ "id": "boris/1671879309-105",
+ "band": "boris",
+ "title": "Kagero",
+ "source": "itunes",
+ "album": "Dear",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 6.983177156572759,
+  "tempo_var": 4.358255607262007,
+  "low_onset_rate": 9.890049944237017,
+  "lufs": -6.613904294112695,
+  "rms_dbfs": -5.142885248070467,
+  "crest": 5.142885208129883,
+  "centroid": 1278.5492624290346,
+  "flatness": 0.0024150589015334845,
+  "sub100_share": 0.3060459792613983,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.9594733119010925,
+  "clean_share": 0.8944918541505043,
+  "minor_share": 0.017157322598993052,
+  "chord_rate": 0.801895941424623,
+  "repetitiveness": 0.7613539695739746,
+  "vocal_share": 0.01634383015334606,
+  "vocal_voiced": 0.9372384937238494,
+  "song_length": 334.107
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "myrath/1067485638-106",
+ "band": "myrath",
+ "title": "Through Your Eyes",
+ "source": "itunes",
+ "album": "Legacy",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 64.599609375,
+  "onset_rate": 3.641944067303496,
+  "tempo_var": 12.091371976247007,
+  "low_onset_rate": 4.076304368908501,
+  "lufs": -9.734038420818425,
+  "rms_dbfs": -9.26357022108798,
+  "crest": 9.263569831848145,
+  "centroid": 2384.440520357698,
+  "flatness": 0.025238990783691406,
+  "sub100_share": 0.22012273967266083,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8132763504981995,
+  "clean_share": 0.08223429014740109,
+  "minor_share": 0.1187921280249491,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.8342267870903015,
+  "vocal_share": 0.3838505148887634,
+  "vocal_voiced": 0.8768558951965065,
+  "song_length": 337.317
+ }
+}

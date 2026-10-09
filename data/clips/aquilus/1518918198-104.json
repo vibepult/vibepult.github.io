@@ -1,0 +1,32 @@
+{
+ "id": "aquilus/1518918198-104",
+ "band": "aquilus",
+ "title": "In Lands of Ashes",
+ "source": "itunes",
+ "album": "Griseus",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 78.30255681818181,
+  "onset_rate": 1.336493235707705,
+  "tempo_var": 7.639903764257023,
+  "low_onset_rate": 6.8829401638946806,
+  "lufs": -14.869120306290979,
+  "rms_dbfs": -13.961838561517776,
+  "crest": 12.682428359985352,
+  "centroid": 855.0863216171641,
+  "flatness": 0.00016354030231013894,
+  "sub100_share": 0.1295718103647232,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.9730909466743469,
+  "clean_share": 0.9992242048099301,
+  "minor_share": -0.24049939952583987,
+  "chord_rate": 0.46777263249769674,
+  "repetitiveness": 0.7392465472221375,
+  "vocal_share": 1.1614083632593974e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 715.025
+ }
+}

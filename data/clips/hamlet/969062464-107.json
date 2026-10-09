@@ -1,0 +1,32 @@
+{
+ "id": "hamlet/969062464-107",
+ "band": "hamlet",
+ "title": "Ciudad de Dios",
+ "source": "itunes",
+ "album": "La Ira (Edición Especial)",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.377015346942734,
+  "tempo_var": 15.404210589304782,
+  "low_onset_rate": 4.744550986762353,
+  "lufs": -8.00207806412784,
+  "rms_dbfs": -7.1707513672334136,
+  "crest": 7.170751094818115,
+  "centroid": 2399.6152655885444,
+  "flatness": 0.027801508083939552,
+  "sub100_share": 0.38165831565856934,
+  "lowest_pitch": 118.4326171875,
+  "harmonic_share": 0.809147298336029,
+  "clean_share": 0.10318076027928627,
+  "minor_share": 0.057588858127169296,
+  "chord_rate": 2.2720385007030983,
+  "repetitiveness": 0.9151645302772522,
+  "vocal_share": 0.07395721226930618,
+  "vocal_voiced": 0.033386327503974564,
+  "song_length": 172.834
+ }
+}

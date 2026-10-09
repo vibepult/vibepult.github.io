@@ -1,0 +1,32 @@
+{
+ "id": "01101111011101100110111001101001/1468013152-102",
+ "band": "01101111011101100110111001101001",
+ "title": "Hd140283",
+ "source": "itunes",
+ "album": "Sdss J0333+0651",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.572749478737332,
+  "tempo_var": 7.521530232542048,
+  "low_onset_rate": 9.68957595888086,
+  "lufs": -6.452878755504152,
+  "rms_dbfs": -5.93344876786289,
+  "crest": 5.933448791503906,
+  "centroid": 2579.6921594026294,
+  "flatness": 0.03834807500243187,
+  "sub100_share": 0.3398449420928955,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7884822487831116,
+  "clean_share": 0.08456167571761056,
+  "minor_share": -0.08693603254118976,
+  "chord_rate": 3.3412330892692625,
+  "repetitiveness": 0.9280588626861572,
+  "vocal_share": 0.022947171702980995,
+  "vocal_voiced": 0.08748615725359911,
+  "song_length": 155.5
+ }
+}

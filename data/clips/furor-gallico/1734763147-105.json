@@ -1,0 +1,32 @@
+{
+ "id": "furor-gallico/1734763147-105",
+ "band": "furor-gallico",
+ "title": "Diluvio",
+ "source": "itunes",
+ "album": "Songs from the Earth",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.9999758126934983,
+  "tempo_var": 9.583401881339004,
+  "low_onset_rate": 1.9333216428018576,
+  "lufs": -12.030861468369972,
+  "rms_dbfs": -11.257271878106385,
+  "crest": 11.257271766662598,
+  "centroid": 1008.5281545456048,
+  "flatness": 0.01172819547355175,
+  "sub100_share": 0.02515668421983719,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.9463602304458618,
+  "clean_share": 0.9520494972931168,
+  "minor_share": -0.0007226686757313416,
+  "chord_rate": 1.2666590073529411,
+  "repetitiveness": 0.7058220505714417,
+  "vocal_share": 0.08248072862625122,
+  "vocal_voiced": 0.6447761194029851,
+  "song_length": 399.733
+ }
+}

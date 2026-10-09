@@ -1,0 +1,32 @@
+{
+ "id": "stravaganzza/922088256-110",
+ "band": "stravaganzza",
+ "title": "Duda",
+ "source": "itunes",
+ "album": "Sentimientos",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 1.7040288755273238,
+  "tempo_var": 24.299120664534197,
+  "low_onset_rate": 1.871090529990787,
+  "lufs": -6.990417662017137,
+  "rms_dbfs": -6.079664975460216,
+  "crest": 6.079664707183838,
+  "centroid": 2480.3006374868914,
+  "flatness": 0.024871524423360825,
+  "sub100_share": 0.3645324409008026,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.8123596906661987,
+  "clean_share": 0.1008533747090768,
+  "minor_share": -0.10141060414663805,
+  "chord_rate": 1.0357822576734714,
+  "repetitiveness": 0.8814926147460938,
+  "vocal_share": 7.398941193059727e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 382.427
+ }
+}

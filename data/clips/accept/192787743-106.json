@@ -1,0 +1,32 @@
+{
+ "id": "accept/192787743-106",
+ "band": "accept",
+ "title": "Generation Clash",
+ "source": "itunes",
+ "album": "Eat the Heat",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.9736974494496438,
+  "tempo_var": 2.5820977001990633,
+  "low_onset_rate": 2.773223464093488,
+  "lufs": -16.112387080226796,
+  "rms_dbfs": -15.495642871548709,
+  "crest": 15.495643615722656,
+  "centroid": 2383.1265416354345,
+  "flatness": 0.027767783030867577,
+  "sub100_share": 0.3280317783355713,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7926307320594788,
+  "clean_share": 0.25446082234290146,
+  "minor_share": 0.3237028692622438,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.8075403571128845,
+  "vocal_share": 0.156932532787323,
+  "vocal_voiced": 0.6167979002624672,
+  "song_length": 383.507
+ }
+}

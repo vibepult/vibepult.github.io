@@ -1,0 +1,32 @@
+{
+ "id": "bucium/1656020532-102",
+ "band": "bucium",
+ "title": "Fata din grădina de aur / The Maiden in the Golden Garden",
+ "source": "itunes",
+ "album": "Zimbrul Alb / White Wisent",
+ "year": 2022,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.94265504533773,
+  "tempo_var": 9.172317074834348,
+  "low_onset_rate": 4.945024972118508,
+  "lufs": -9.511738464111675,
+  "rms_dbfs": -8.863375189808147,
+  "crest": 8.863375663757324,
+  "centroid": 2969.486792555235,
+  "flatness": 0.041279688477516174,
+  "sub100_share": 0.2879484295845032,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7986294627189636,
+  "clean_share": 0.06749418153607448,
+  "minor_share": 0.19123053115921423,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.7374858260154724,
+  "vocal_share": 0.2795315086841583,
+  "vocal_voiced": 0.8562401263823065,
+  "song_length": 488.68
+ }
+}

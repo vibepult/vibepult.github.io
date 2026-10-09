@@ -1,0 +1,32 @@
+{
+ "id": "midnattsol/1183626753-106",
+ "band": "midnattsol",
+ "title": "Enlightenment",
+ "source": "itunes",
+ "album": "Where Twilight Dwells",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.133333333333334,
+  "tempo_var": 24.75049567103756,
+  "low_onset_rate": 5.966666666666667,
+  "lufs": -6.692519231105917,
+  "rms_dbfs": -6.1957834523185,
+  "crest": 6.1957831382751465,
+  "centroid": 2306.6426459887466,
+  "flatness": 0.024837136268615723,
+  "sub100_share": 0.30166733264923096,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.7485933303833008,
+  "clean_share": 0.005417956656346749,
+  "minor_share": 0.29628666170792783,
+  "chord_rate": 1.2,
+  "repetitiveness": 0.7850795388221741,
+  "vocal_share": 0.2729646563529968,
+  "vocal_voiced": 0.9193697868396663,
+  "song_length": 247.227
+ }
+}

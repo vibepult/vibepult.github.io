@@ -1,0 +1,32 @@
+{
+ "id": "callisto/317306685-105",
+ "band": "callisto",
+ "title": "A Close Encounter",
+ "source": "itunes",
+ "album": "Noir",
+ "year": 2006,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 1.3030809048150125,
+  "tempo_var": 30.015520963798693,
+  "low_onset_rate": 1.0357822576734714,
+  "lufs": -18.96218423265619,
+  "rms_dbfs": -17.657436028834997,
+  "crest": 17.65743637084961,
+  "centroid": 879.5158235830861,
+  "flatness": 0.0007694952073507011,
+  "sub100_share": 0.2990923225879669,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.9288038611412048,
+  "clean_share": 0.9650892164468581,
+  "minor_share": -0.3290165122378157,
+  "chord_rate": 0.7016589487465451,
+  "repetitiveness": 0.6225926280021667,
+  "vocal_share": 1.3123558346705977e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 357.547
+ }
+}

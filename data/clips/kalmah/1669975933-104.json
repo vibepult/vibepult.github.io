@@ -1,0 +1,32 @@
+{
+ "id": "kalmah/1669975933-104",
+ "band": "kalmah",
+ "title": "The Third, The Magical",
+ "source": "itunes",
+ "album": "Swampsong",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.3,
+  "tempo_var": 21.528623015986778,
+  "low_onset_rate": 5.733333333333333,
+  "lufs": -9.208246510798375,
+  "rms_dbfs": -8.549809748375308,
+  "crest": 8.549810409545898,
+  "centroid": 2660.3528274004134,
+  "flatness": 0.027799883857369423,
+  "sub100_share": 0.3587864637374878,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8737178444862366,
+  "clean_share": 0.04953560371517028,
+  "minor_share": -0.08247005328650858,
+  "chord_rate": 2.0,
+  "repetitiveness": 0.9099728465080261,
+  "vocal_share": 0.00567958690226078,
+  "vocal_voiced": 0.0,
+  "song_length": 326.56
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "ensiferum/705088830-104",
+ "band": "ensiferum",
+ "title": "Ahti",
+ "source": "itunes",
+ "album": "Victory Songs",
+ "year": 2007,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.546446928186976,
+  "tempo_var": 2.0005043838241576,
+  "low_onset_rate": 6.348342869611598,
+  "lufs": -7.341731655605226,
+  "rms_dbfs": -6.79119619730322,
+  "crest": 6.791195869445801,
+  "centroid": 2651.954232955635,
+  "flatness": 0.042972832918167114,
+  "sub100_share": 0.3681067228317261,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7066327929496765,
+  "clean_share": 0.0,
+  "minor_share": 0.2351406138843417,
+  "chord_rate": 2.7063988023081027,
+  "repetitiveness": 0.8487074971199036,
+  "vocal_share": 0.1538442224264145,
+  "vocal_voiced": 0.05308352849336456,
+  "song_length": 235.867
+ }
+}

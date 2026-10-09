@@ -1,0 +1,32 @@
+{
+ "id": "lacuna-coil/1045281848-107",
+ "band": "lacuna-coil",
+ "title": "What I See",
+ "source": "itunes",
+ "album": "Karmacode",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.796961561762089,
+  "tempo_var": 8.432980505889136,
+  "low_onset_rate": 4.663712629490919,
+  "lufs": -9.695494388756101,
+  "rms_dbfs": -8.403641544418868,
+  "crest": 8.403641700744629,
+  "centroid": 2522.575481730143,
+  "flatness": 0.02357875369489193,
+  "sub100_share": 0.6182312369346619,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.8647515773773193,
+  "clean_share": 0.05723124516627997,
+  "minor_share": 0.10558338643052723,
+  "chord_rate": 1.6322994203218217,
+  "repetitiveness": 0.8177267909049988,
+  "vocal_share": 0.09054039418697357,
+  "vocal_voiced": 0.7127127127127127,
+  "song_length": 221.093
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "daniel-lioneye/1675486309-109",
+ "band": "daniel-lioneye",
+ "title": "Dancing With the Dead",
+ "source": "itunes",
+ "album": "Vol. III",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.780333244435824,
+  "tempo_var": 1.336428432893716,
+  "low_onset_rate": 6.548816854967755,
+  "lufs": -7.230889950298968,
+  "rms_dbfs": -6.859931631914151,
+  "crest": 6.859931945800781,
+  "centroid": 2448.0587257690113,
+  "flatness": 0.027835765853524208,
+  "sub100_share": 0.26876571774482727,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.8302080631256104,
+  "clean_share": 0.023273855702094646,
+  "minor_share": 0.0780664892506644,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.8495022654533386,
+  "vocal_share": 0.06847242265939713,
+  "vocal_voiced": 0.7639939485627837,
+  "song_length": 293.107
+ }
+}

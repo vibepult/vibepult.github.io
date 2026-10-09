@@ -1,0 +1,32 @@
+{
+ "id": "ayreon/1600477956-107",
+ "band": "ayreon",
+ "title": "Nature's Dance",
+ "source": "itunes",
+ "album": "The Final Experiment (Special Edition)",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 4.343603016050041,
+  "tempo_var": 7.538459509197395,
+  "low_onset_rate": 5.579859259079669,
+  "lufs": -22.372650278222707,
+  "rms_dbfs": -25.149856319218276,
+  "crest": 17.194236755371094,
+  "centroid": 2910.5148721595187,
+  "flatness": 0.03432820737361908,
+  "sub100_share": 0.009056544862687588,
+  "lowest_pitch": 145.34912109375,
+  "harmonic_share": 0.9780055284500122,
+  "clean_share": 0.2591155934833204,
+  "minor_share": -0.2240353640983479,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.7504881620407104,
+  "vocal_share": 0.024551762267947197,
+  "vocal_voiced": 0.9495268138801262,
+  "song_length": 147.307
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "cattle-decapitation",
+ "name": "Cattle Decapitation",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 29326722,
+  "deezer": 14471,
+  "spotify": "67ZMMtA88DDO0gTuRrzGjn"
+ },
+ "metadata": {
+  "formed": 1996,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 4,
+  "past_members": 8,
+  "full_lengths": 10,
+  "genre": "Progressive Death Metal/Grindcore",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 34986,
+  "themes": "Misanthropy, Gore, Animal rights, Environmentalism, Human extinction",
+  "release_year": 2005
+ },
+ "partial": false,
+ "clips": [
+  "cattle-decapitation/643238220-118",
+  "cattle-decapitation/648302707-110",
+  "cattle-decapitation/56584254-107",
+  "cattle-decapitation/56587483-106",
+  "cattle-decapitation/160474373-108",
+  "cattle-decapitation/296795703-105",
+  "cattle-decapitation/510084332-106",
+  "cattle-decapitation/995383346-107",
+  "cattle-decapitation/1475983430-107",
+  "cattle-decapitation/1658840686-105",
+  "cattle-decapitation/648302707-113",
+  "cattle-decapitation/56584254-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 9.250593413576553
+  },
+  "onset_rate": {
+   "median": 6.916352494787374,
+   "iqr": 2.296333469141544
+  },
+  "tempo_var": {
+   "median": 4.531251386004266,
+   "iqr": 4.961512665955279
+  },
+  "low_onset_rate": {
+   "median": 8.152608737817001,
+   "iqr": 2.01309293628473
+  },
+  "lufs": {
+   "median": -8.230537625091362,
+   "iqr": 1.6143805756096707
+  },
+  "rms_dbfs": {
+   "median": -7.986176362357166,
+   "iqr": 2.888189936873358
+  },
+  "crest": {
+   "median": 7.986176013946533,
+   "iqr": 2.888190746307373
+  },
+  "centroid": {
+   "median": 2651.087760728701,
+   "iqr": 448.29937545036955
+  },
+  "flatness": {
+   "median": 0.043022001162171364,
+   "iqr": 0.026582021731883287
+  },
+  "sub100_share": {
+   "median": 0.39386679232120514,
+   "iqr": 0.2622648850083351
+  },
+  "lowest_pitch": {
+   "median": 53.8330078125,
+   "iqr": 8.074951171875
+  },
+  "harmonic_share": {
+   "median": 0.7353535890579224,
+   "iqr": 0.18981342017650604
+  },
+  "clean_share": {
+   "median": 0.016272499110505517,
+   "iqr": 0.045149870070805564
+  },
+  "minor_share": {
+   "median": -0.0012904973103782247,
+   "iqr": 0.1445147261508378
+  },
+  "chord_rate": {
+   "median": 2.405687824273869,
+   "iqr": 0.5272379797725035
+  },
+  "repetitiveness": {
+   "median": 0.9261893332004547,
+   "iqr": 0.033821821212768555
+  },
+  "vocal_share": {
+   "median": 0.10685370489954948,
+   "iqr": 0.11153321713209152
+  },
+  "vocal_voiced": {
+   "median": 0.13897723306054377,
+   "iqr": 0.0903961416870838
+  },
+  "song_length": {
+   "median": 217.127,
+   "iqr": 87.73350000000002
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

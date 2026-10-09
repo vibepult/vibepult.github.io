@@ -1,0 +1,32 @@
+{
+ "id": "lex-talion/1157621878-107",
+ "band": "lex-talion",
+ "title": "Funeral in the Forest",
+ "source": "itunes",
+ "album": "Funeral in the Forest",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.174171434805799,
+  "tempo_var": 2.790142891940102,
+  "low_onset_rate": 4.4772523396208115,
+  "lufs": -10.357770431959919,
+  "rms_dbfs": -8.863893012866122,
+  "crest": 8.863892555236816,
+  "centroid": 2142.5613285689865,
+  "flatness": 0.010113011114299297,
+  "sub100_share": 0.538605272769928,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8790488839149475,
+  "clean_share": 0.08844065166795965,
+  "minor_share": -0.0989146536486274,
+  "chord_rate": 0.7350712796392378,
+  "repetitiveness": 0.7644222378730774,
+  "vocal_share": 0.014984632842242718,
+  "vocal_voiced": 0.9855907780979827,
+  "song_length": 306.735
+ }
+}

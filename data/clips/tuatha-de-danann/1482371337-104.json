@@ -1,0 +1,32 @@
+{
+ "id": "tuatha-de-danann/1482371337-104",
+ "band": "tuatha-de-danann",
+ "title": "The Last Words",
+ "source": "itunes",
+ "album": "The Delirium Has Just Begun...",
+ "year": 2002,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.57748933229889,
+  "tempo_var": 21.91035441113263,
+  "low_onset_rate": 5.279148281045435,
+  "lufs": -11.9506940571368,
+  "rms_dbfs": -11.280903971044097,
+  "crest": 11.280903816223145,
+  "centroid": 1955.6795040946229,
+  "flatness": 0.011429239995777607,
+  "sub100_share": 0.08437111228704453,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.8416829109191895,
+  "clean_share": 0.40806826997672613,
+  "minor_share": 0.13500021643908922,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.6790161728858948,
+  "vocal_share": 0.3089647591114044,
+  "vocal_voiced": 0.7700084245998315,
+  "song_length": 332.107
+ }
+}

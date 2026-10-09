@@ -1,0 +1,123 @@
+{
+ "slug": "asphodele",
+ "name": "Asphodèle",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1481766376,
+  "deezer": 74841472,
+  "spotify": "3fKfcUp4FmLZx7JFSVIDjz"
+ },
+ "metadata": {
+  "formed": 2019,
+  "split": 2020,
+  "country": "FR",
+  "status": "split-up",
+  "members": 5,
+  "past_members": 0,
+  "full_lengths": 1,
+  "genre": "Post-Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 333,
+  "themes": "Sadness, Abandonment",
+  "release_year": 2019
+ },
+ "partial": false,
+ "clips": [
+  "asphodele/1483323433-104",
+  "asphodele/1483323433-105",
+  "asphodele/1483323433-103",
+  "asphodele/1483323433-106",
+  "asphodele/1483323433-102",
+  "asphodele/1483323433-107",
+  "asphodele/1483323433-101",
+  "asphodele/1483323433-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 32.435416403087046
+  },
+  "onset_rate": {
+   "median": 3.9259488798913833,
+   "iqr": 0.7768366932551043
+  },
+  "tempo_var": {
+   "median": 8.332121629775525,
+   "iqr": 18.150836684933417
+  },
+  "low_onset_rate": {
+   "median": 4.594195497745236,
+   "iqr": 1.6037918828492463
+  },
+  "lufs": {
+   "median": -9.2227367006219,
+   "iqr": 1.1497035398460458
+  },
+  "rms_dbfs": {
+   "median": -8.42959498567986,
+   "iqr": 0.7719573334426251
+  },
+  "crest": {
+   "median": 8.429594993591309,
+   "iqr": 0.7719571590423584
+  },
+  "centroid": {
+   "median": 2140.4054415466185,
+   "iqr": 133.61897603205625
+  },
+  "flatness": {
+   "median": 0.021494848653674126,
+   "iqr": 0.005021327640861273
+  },
+  "sub100_share": {
+   "median": 0.26872585713863373,
+   "iqr": 0.08409915864467621
+  },
+  "lowest_pitch": {
+   "median": 44.4122314453125,
+   "iqr": 5.38330078125
+  },
+  "harmonic_share": {
+   "median": 0.7489645481109619,
+   "iqr": 0.056240588426589966
+  },
+  "clean_share": {
+   "median": 0.14197051978277736,
+   "iqr": 0.28161365399534527
+  },
+  "minor_share": {
+   "median": 0.08434655184552217,
+   "iqr": 0.18405212568112295
+  },
+  "chord_rate": {
+   "median": 1.2696685739223197,
+   "iqr": 0.21718015080250197
+  },
+  "repetitiveness": {
+   "median": 0.8523179292678833,
+   "iqr": 0.08212053775787354
+  },
+  "vocal_share": {
+   "median": 0.1437636911869049,
+   "iqr": 0.0647073332220316
+  },
+  "vocal_voiced": {
+   "median": 0.816520834827512,
+   "iqr": 0.08349491412054455
+  },
+  "song_length": {
+   "median": 289.0365,
+   "iqr": 56.85624999999999
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

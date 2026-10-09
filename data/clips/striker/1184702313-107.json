@@ -1,0 +1,32 @@
+{
+ "id": "striker/1184702313-107",
+ "band": "striker",
+ "title": "Mind Control",
+ "source": "itunes",
+ "album": "City of Gold",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.933333333333334,
+  "tempo_var": 11.985119447388898,
+  "low_onset_rate": 7.466666666666667,
+  "lufs": -8.74303281974664,
+  "rms_dbfs": -8.358750376769057,
+  "crest": 8.358750343322754,
+  "centroid": 2679.1970446878954,
+  "flatness": 0.044407013803720474,
+  "sub100_share": 0.345737099647522,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6806679964065552,
+  "clean_share": 0.0,
+  "minor_share": 0.10617155518000532,
+  "chord_rate": 1.9333333333333333,
+  "repetitiveness": 0.935006856918335,
+  "vocal_share": 0.19717639684677124,
+  "vocal_voiced": 0.8304297328687572,
+  "song_length": 200.453
+ }
+}

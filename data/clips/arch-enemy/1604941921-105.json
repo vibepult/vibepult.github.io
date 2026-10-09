@@ -1,0 +1,32 @@
+{
+ "id": "arch-enemy/1604941921-105",
+ "band": "arch-enemy",
+ "title": "Poisoned Arrow",
+ "source": "itunes",
+ "album": "Deceivers",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.09740466733845,
+  "tempo_var": 2.8812028452836476,
+  "low_onset_rate": 3.3978477729148127,
+  "lufs": -11.445416565603237,
+  "rms_dbfs": -10.60633776803504,
+  "crest": 10.606337547302246,
+  "centroid": 2314.7273941688622,
+  "flatness": 0.022086910903453827,
+  "sub100_share": 0.289689302444458,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7412732243537903,
+  "clean_share": 0.10054137664346481,
+  "minor_share": -0.16382855063752677,
+  "chord_rate": 1.5656749541862371,
+  "repetitiveness": 0.7857970595359802,
+  "vocal_share": 0.16131745278835297,
+  "vocal_voiced": 0.10017730496453901,
+  "song_length": 231.187
+ }
+}

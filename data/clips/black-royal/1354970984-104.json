@@ -1,0 +1,32 @@
+{
+ "id": "black-royal/1354970984-104",
+ "band": "black-royal",
+ "title": "Denial",
+ "source": "itunes",
+ "album": "Lightbringer",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 0.30071097803423363,
+  "tempo_var": 22.538247269551505,
+  "low_onset_rate": 1.2696685739223197,
+  "lufs": -7.20332073430811,
+  "rms_dbfs": -5.876926510695163,
+  "crest": 5.876926422119141,
+  "centroid": 2188.5643465801004,
+  "flatness": 0.02122846245765686,
+  "sub100_share": 0.5755838751792908,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8585667014122009,
+  "clean_share": 0.10550814584949574,
+  "minor_share": 0.11795060081654674,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.8007227778434753,
+  "vocal_share": 0.05752931535243988,
+  "vocal_voiced": 0.2059145673603505,
+  "song_length": 198.76
+ }
+}

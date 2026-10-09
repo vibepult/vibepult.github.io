@@ -1,0 +1,32 @@
+{
+ "id": "darkest-hour/1558582119-105",
+ "band": "darkest-hour",
+ "title": "No Closer Than A Stranger",
+ "source": "itunes",
+ "album": "So Sedated, So Secure",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 6.582229185860447,
+  "tempo_var": 3.9509996050427554,
+  "low_onset_rate": 7.7850730979973815,
+  "lufs": -8.026977109474284,
+  "rms_dbfs": -7.204366155129305,
+  "crest": 7.204366207122803,
+  "centroid": 2494.089356893901,
+  "flatness": 0.03626007214188576,
+  "sub100_share": 0.49416911602020264,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.8304798007011414,
+  "clean_share": 0.15050426687354537,
+  "minor_share": 0.04292172795860805,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.9088913202285767,
+  "vocal_share": 0.05481822043657303,
+  "vocal_voiced": 0.12332439678284182,
+  "song_length": 290.227
+ }
+}

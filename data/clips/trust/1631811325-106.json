@@ -1,0 +1,32 @@
+{
+ "id": "trust/1631811325-106",
+ "band": "trust",
+ "title": "Dimanche soir au bord du gouffre",
+ "source": "itunes",
+ "album": "Propaganda",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.109716699801193,
+  "tempo_var": 2.7723800688552487,
+  "low_onset_rate": 5.680096251757746,
+  "lufs": -6.5611569183124665,
+  "rms_dbfs": -5.990489832416751,
+  "crest": 5.990490436553955,
+  "centroid": 2469.3942848060415,
+  "flatness": 0.02723449468612671,
+  "sub100_share": 0.2952660024166107,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.8323791027069092,
+  "clean_share": 0.0395655546935609,
+  "minor_share": -0.24317317611962397,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.688241720199585,
+  "vocal_share": 0.2660766839981079,
+  "vocal_voiced": 0.56,
+  "song_length": 285.12
+ }
+}

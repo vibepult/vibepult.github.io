@@ -1,0 +1,32 @@
+{
+ "id": "twisted-sister/1788378632-105",
+ "band": "twisted-sister",
+ "title": "Shoot 'Em Down",
+ "source": "itunes",
+ "album": "Under the Blade (1985 Remix)",
+ "year": 1982,
+ "itunes_year": 1982,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.2999800454721364,
+  "tempo_var": 4.28526446618279,
+  "low_onset_rate": 3.0666481230650153,
+  "lufs": -15.385902938094526,
+  "rms_dbfs": -14.60622892178492,
+  "crest": 14.606228828430176,
+  "centroid": 2388.9797861242887,
+  "flatness": 0.019959773868322372,
+  "sub100_share": 0.3047792315483093,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6673042178153992,
+  "clean_share": 0.11832946635730858,
+  "minor_share": -0.17732838961954367,
+  "chord_rate": 1.3333252708978327,
+  "repetitiveness": 0.7971217036247253,
+  "vocal_share": 0.05246061086654663,
+  "vocal_voiced": 0.22023809523809523,
+  "song_length": 235.134
+ }
+}

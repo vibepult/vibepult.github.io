@@ -1,0 +1,32 @@
+{
+ "id": "obituary/910291361-106",
+ "band": "obituary",
+ "title": "Violence",
+ "source": "itunes",
+ "album": "Inked In Blood",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.84478797944043,
+  "tempo_var": 1.7214368329876326,
+  "low_onset_rate": 6.248105876933521,
+  "lufs": -9.185175736351951,
+  "rms_dbfs": -7.697460240874151,
+  "crest": 7.697460651397705,
+  "centroid": 2532.642584094148,
+  "flatness": 0.029643867164850235,
+  "sub100_share": 0.5914573073387146,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7414842247962952,
+  "clean_share": 0.03335919317300233,
+  "minor_share": 0.11781697048791623,
+  "chord_rate": 2.2386261698104057,
+  "repetitiveness": 0.9375492334365845,
+  "vocal_share": 0.04053417593240738,
+  "vocal_voiced": 0.3315068493150685,
+  "song_length": 126.615
+ }
+}

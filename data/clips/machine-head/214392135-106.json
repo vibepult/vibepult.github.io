@@ -1,0 +1,32 @@
+{
+ "id": "machine-head/214392135-106",
+ "band": "machine-head",
+ "title": "Spine",
+ "source": "itunes",
+ "album": "The More Things Change...",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 5.999292600418999,
+  "tempo_var": 5.222775072980737,
+  "low_onset_rate": 7.365798137181104,
+  "lufs": -10.184027432671265,
+  "rms_dbfs": -9.938963485586104,
+  "crest": 9.938962936401367,
+  "centroid": 2298.8311543606237,
+  "flatness": 0.022952640429139137,
+  "sub100_share": 0.2358950972557068,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.7804790735244751,
+  "clean_share": 0.1531322505800464,
+  "minor_share": 0.20959542329982989,
+  "chord_rate": 1.633140763447394,
+  "repetitiveness": 0.8486579060554504,
+  "vocal_share": 0.17981918156147003,
+  "vocal_voiced": 0.6211055276381909,
+  "song_length": 397.733
+ }
+}

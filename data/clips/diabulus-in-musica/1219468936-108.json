@@ -1,0 +1,32 @@
+{
+ "id": "diabulus-in-musica/1219468936-108",
+ "band": "diabulus-in-musica",
+ "title": "Hiding from You",
+ "source": "itunes",
+ "album": "Dirge for the Archons",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.2666666666666666,
+  "tempo_var": 14.71290471090161,
+  "low_onset_rate": 3.1666666666666665,
+  "lufs": -10.273904113447548,
+  "rms_dbfs": -9.141042480220753,
+  "crest": 9.141042709350586,
+  "centroid": 2228.795754624124,
+  "flatness": 0.015098804607987404,
+  "sub100_share": 0.37729576230049133,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.8400856256484985,
+  "clean_share": 0.3382352941176471,
+  "minor_share": 0.02452616618018233,
+  "chord_rate": 1.1333333333333333,
+  "repetitiveness": 0.6972665786743164,
+  "vocal_share": 0.28230831027030945,
+  "vocal_voiced": 0.8951612903225806,
+  "song_length": 322.187
+ }
+}

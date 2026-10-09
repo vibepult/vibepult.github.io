@@ -1,0 +1,32 @@
+{
+ "id": "u-d-o/1395889193-108",
+ "band": "u-d-o",
+ "title": "The Devil Is an Angel",
+ "source": "itunes",
+ "album": "Steelfactory",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 1.7999891157120742,
+  "tempo_var": 4.387463651369184,
+  "low_onset_rate": 2.8666493324303404,
+  "lufs": -12.973426589702415,
+  "rms_dbfs": -12.476685521711541,
+  "crest": 12.476686477661133,
+  "centroid": 2302.0198003801647,
+  "flatness": 0.024455538019537926,
+  "sub100_share": 0.2690272629261017,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7662835121154785,
+  "clean_share": 0.13921113689095127,
+  "minor_share": -0.10359510077237144,
+  "chord_rate": 1.8999885110294117,
+  "repetitiveness": 0.8713615536689758,
+  "vocal_share": 6.996102115408576e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 274.451
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "prong/368743298-105",
+ "band": "prong",
+ "title": "Your Fear",
+ "source": "itunes",
+ "album": "Beg to Differ",
+ "year": 1990,
+ "itunes_year": 1990,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.3978477729148127,
+  "tempo_var": 26.907778786973928,
+  "low_onset_rate": 2.63166641235559,
+  "lufs": -17.96249808350209,
+  "rms_dbfs": -17.618696612056198,
+  "crest": 17.618431091308594,
+  "centroid": 2995.0409552627557,
+  "flatness": 0.045871756970882416,
+  "sub100_share": 0.2366756945848465,
+  "lowest_pitch": 94.207763671875,
+  "harmonic_share": 0.6313746571540833,
+  "clean_share": 0.11446249033255994,
+  "minor_share": 0.08397697279806132,
+  "chord_rate": 1.9987339840675369,
+  "repetitiveness": 0.8364134430885315,
+  "vocal_share": 0.02480030246078968,
+  "vocal_voiced": 0.6811594202898551,
+  "song_length": 291.343
+ }
+}

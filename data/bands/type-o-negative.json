@@ -1,0 +1,127 @@
+{
+ "slug": "type-o-negative",
+ "name": "Type O Negative",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 16169568,
+  "deezer": 824,
+  "spotify": "0blJzvevdXrp21YeI2vbco"
+ },
+ "metadata": {
+  "formed": 1990,
+  "split": 2010,
+  "country": "US",
+  "status": "split-up",
+  "members": 4,
+  "past_members": 1,
+  "full_lengths": 7,
+  "genre": "Gothic/Doom Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 158834,
+  "themes": "Depression, Death, Relationships, Love, Dark humour, Sex",
+  "release_year": 1994
+ },
+ "partial": false,
+ "clips": [
+  "type-o-negative/214480102-103",
+  "type-o-negative/216662943-104",
+  "type-o-negative/214401805-109",
+  "type-o-negative/214478798-108",
+  "type-o-negative/214470173-108",
+  "type-o-negative/214477226-108",
+  "type-o-negative/1667948491-105",
+  "type-o-negative/214480102-104",
+  "type-o-negative/216662943-105",
+  "type-o-negative/214401805-107",
+  "type-o-negative/214478798-107",
+  "type-o-negative/214470173-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.90049098320159,
+   "iqr": 28.309828814338232
+  },
+  "onset_rate": {
+   "median": 3.587306019106239,
+   "iqr": 1.2731597587759595
+  },
+  "tempo_var": {
+   "median": 8.26895189327072,
+   "iqr": 11.907446671880182
+  },
+  "low_onset_rate": {
+   "median": 5.46602214704842,
+   "iqr": 1.4580420859580618
+  },
+  "lufs": {
+   "median": -13.3749895589694,
+   "iqr": 4.9983621787345704
+  },
+  "rms_dbfs": {
+   "median": -13.545169236163161,
+   "iqr": 5.1887600234025655
+  },
+  "crest": {
+   "median": 13.545169353485107,
+   "iqr": 4.363041400909424
+  },
+  "centroid": {
+   "median": 2862.2112105239316,
+   "iqr": 554.6910714335754
+  },
+  "flatness": {
+   "median": 0.044077396392822266,
+   "iqr": 0.01781721506267786
+  },
+  "sub100_share": {
+   "median": 0.20278704911470413,
+   "iqr": 0.12315154261887074
+  },
+  "lowest_pitch": {
+   "median": 82.0953369140625,
+   "iqr": 53.16009521484375
+  },
+  "harmonic_share": {
+   "median": 0.7090678215026855,
+   "iqr": 0.09822188317775726
+  },
+  "clean_share": {
+   "median": 0.008507347254447023,
+   "iqr": 0.055104408352668215
+  },
+  "minor_share": {
+   "median": -0.0047965952034665915,
+   "iqr": 0.27420859740291004
+  },
+  "chord_rate": {
+   "median": 1.4831584484369191,
+   "iqr": 0.6517639412770715
+  },
+  "repetitiveness": {
+   "median": 0.8403489291667938,
+   "iqr": 0.09632417559623718
+  },
+  "vocal_share": {
+   "median": 0.15237903594970703,
+   "iqr": 0.11894416809082031
+  },
+  "vocal_voiced": {
+   "median": 0.7319884726224783,
+   "iqr": 0.09210799397316594
+  },
+  "song_length": {
+   "median": 403.1245,
+   "iqr": 174.26349999999996
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.6,
+  "camp": 0.7
+ },
+ "sources_failed": []
+}

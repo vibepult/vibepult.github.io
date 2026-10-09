@@ -1,0 +1,32 @@
+{
+ "id": "mustasch/1436001986-107",
+ "band": "mustasch",
+ "title": "Desolate",
+ "source": "itunes",
+ "album": "Mustasch",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 1.971327522668865,
+  "tempo_var": 1.902238119926647,
+  "low_onset_rate": 3.040522111235029,
+  "lufs": -7.764353696571503,
+  "rms_dbfs": -6.927297984890377,
+  "crest": 6.927298545837402,
+  "centroid": 2420.6616503594805,
+  "flatness": 0.026617148891091347,
+  "sub100_share": 0.4284358620643616,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7272920608520508,
+  "clean_share": 0.10861132660977502,
+  "minor_share": 0.12491802290609288,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.7936472296714783,
+  "vocal_share": 0.24218393862247467,
+  "vocal_voiced": 0.5951557093425606,
+  "song_length": 304.712
+ }
+}

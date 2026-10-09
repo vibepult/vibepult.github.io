@@ -1,0 +1,32 @@
+{
+ "id": "neurotech/1681151932-105",
+ "band": "neurotech",
+ "title": "Only Heartbeat",
+ "source": "itunes",
+ "album": "Ave Neptune",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 69.83741554054055,
+  "onset_rate": 3.474882412840033,
+  "tempo_var": 8.793331109616073,
+  "low_onset_rate": 5.21232361926005,
+  "lufs": -11.139528473173485,
+  "rms_dbfs": -8.321946302006769,
+  "crest": 8.321946144104004,
+  "centroid": 1832.1337337425164,
+  "flatness": 0.008853992447257042,
+  "sub100_share": 0.7000371217727661,
+  "lowest_pitch": 24.224853515625,
+  "harmonic_share": 0.9046837091445923,
+  "clean_share": 0.40806826997672613,
+  "minor_share": 0.34678515694678747,
+  "chord_rate": 0.8687206032100082,
+  "repetitiveness": 0.6585066318511963,
+  "vocal_share": 0.03941265866160393,
+  "vocal_voiced": 0.7702169625246549,
+  "song_length": 234.0
+ }
+}

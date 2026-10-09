@@ -1,0 +1,32 @@
+{
+ "id": "deadly-carnage/1689324098-105",
+ "band": "deadly-carnage",
+ "title": "Mononoke",
+ "source": "itunes",
+ "album": "Endless Blue",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.847157906221209,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.849527833001988,
+  "lufs": -10.880222476870697,
+  "rms_dbfs": -9.749711513740127,
+  "crest": 9.749711990356445,
+  "centroid": 2241.820920528472,
+  "flatness": 0.018944650888442993,
+  "sub100_share": 0.5099227428436279,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8130613565444946,
+  "clean_share": 0.11249030256012413,
+  "minor_share": -0.021086946367902648,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.7891093492507935,
+  "vocal_share": 5.069722988082503e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 319.538
+ }
+}

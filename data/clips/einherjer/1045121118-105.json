@@ -1,0 +1,32 @@
+{
+ "id": "einherjer/1045121118-105",
+ "band": "einherjer",
+ "title": "Remember Tokk",
+ "source": "itunes",
+ "album": "Odin Owns Ye All",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.641944067303496,
+  "tempo_var": 4.35460055952363,
+  "low_onset_rate": 6.448579862289677,
+  "lufs": -10.43846147107507,
+  "rms_dbfs": -9.74908878890706,
+  "crest": 9.749089241027832,
+  "centroid": 2483.476438550492,
+  "flatness": 0.02800615131855011,
+  "sub100_share": 0.3394530713558197,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.7361310720443726,
+  "clean_share": 0.062063615205585725,
+  "minor_share": 0.040267898665673485,
+  "chord_rate": 1.9379151917761723,
+  "repetitiveness": 0.8566491603851318,
+  "vocal_share": 0.14566001296043396,
+  "vocal_voiced": 0.6077032810271041,
+  "song_length": 330.533
+ }
+}

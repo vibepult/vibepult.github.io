@@ -1,0 +1,32 @@
+{
+ "id": "graveworm/1456956524-105",
+ "band": "graveworm",
+ "title": "Forlorn Hope",
+ "source": "itunes",
+ "album": "Diabolical Figures",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 1.4033178974930902,
+  "tempo_var": 13.93923658730503,
+  "low_onset_rate": 1.3699055666003976,
+  "lufs": -22.812214026867682,
+  "rms_dbfs": -22.75967027371742,
+  "crest": 17.195011138916016,
+  "centroid": 1444.586369460136,
+  "flatness": 0.011741377413272858,
+  "sub100_share": 0.03348322957754135,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.9483417272567749,
+  "clean_share": 0.7796741660201707,
+  "minor_share": 0.20419675568248685,
+  "chord_rate": 0.46777263249769674,
+  "repetitiveness": 0.6951133608818054,
+  "vocal_share": 0.02252380922436714,
+  "vocal_voiced": 0.049586776859504134,
+  "song_length": 387.307
+ }
+}

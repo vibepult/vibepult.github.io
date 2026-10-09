@@ -1,0 +1,32 @@
+{
+ "id": "faith-no-more/184672979-108",
+ "band": "faith-no-more",
+ "title": "Kindergarten",
+ "source": "itunes",
+ "album": "Angel Dust",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.93286959360801,
+  "tempo_var": 3.5867961503140533,
+  "low_onset_rate": 5.166057517027471,
+  "lufs": -11.436635668862584,
+  "rms_dbfs": -11.144223776338066,
+  "crest": 11.144224166870117,
+  "centroid": 2254.043835868719,
+  "flatness": 0.02389167621731758,
+  "sub100_share": 0.1523263305425644,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7648268342018127,
+  "clean_share": 0.06960556844547564,
+  "minor_share": -0.31576197451945875,
+  "chord_rate": 1.299846730090783,
+  "repetitiveness": 0.8303230404853821,
+  "vocal_share": 0.26785191893577576,
+  "vocal_voiced": 0.8443743427970557,
+  "song_length": 271.04
+ }
+}

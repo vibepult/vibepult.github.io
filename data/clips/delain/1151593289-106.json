@@ -1,0 +1,32 @@
+{
+ "id": "delain/1151593289-106",
+ "band": "delain",
+ "title": "Shattered",
+ "source": "itunes",
+ "album": "Lucidity",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 6.314930538718906,
+  "tempo_var": 0.5998260650678918,
+  "low_onset_rate": 7.116826480143529,
+  "lufs": -8.674861724169629,
+  "rms_dbfs": -7.8345217921530095,
+  "crest": 7.834521293640137,
+  "centroid": 2730.258440505955,
+  "flatness": 0.04136258736252785,
+  "sub100_share": 0.36910396814346313,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8573384284973145,
+  "clean_share": 0.0,
+  "minor_share": 0.017427631364158647,
+  "chord_rate": 1.0023699267807789,
+  "repetitiveness": 0.856651782989502,
+  "vocal_share": 0.2885967493057251,
+  "vocal_voiced": 0.8291925465838509,
+  "song_length": 260.203
+ }
+}

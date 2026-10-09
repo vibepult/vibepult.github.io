@@ -1,0 +1,32 @@
+{
+ "id": "battlelore/1183975930-105",
+ "band": "battlelore",
+ "title": "Into the New World",
+ "source": "itunes",
+ "album": "Evernight",
+ "year": 2007,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 1.4,
+  "tempo_var": 11.149630768430104,
+  "low_onset_rate": 5.4,
+  "lufs": -9.6612411522155,
+  "rms_dbfs": -8.414272716815569,
+  "crest": 8.414273262023926,
+  "centroid": 2022.678770596985,
+  "flatness": 0.009130697697401047,
+  "sub100_share": 0.44397246837615967,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.9441050291061401,
+  "clean_share": 0.6114551083591331,
+  "minor_share": -0.011729878501540503,
+  "chord_rate": 0.8333333333333334,
+  "repetitiveness": 0.5646219253540039,
+  "vocal_share": 3.806746065038169e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 392.053
+ }
+}

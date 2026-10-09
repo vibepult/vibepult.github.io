@@ -1,0 +1,127 @@
+{
+ "slug": "therion",
+ "name": "Therion",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 15978957,
+  "deezer": 4018,
+  "spotify": "5c8Cw62ZYj9XO6iDLRDEsi"
+ },
+ "metadata": {
+  "formed": 1988,
+  "split": null,
+  "country": "SE",
+  "status": "active",
+  "members": 6,
+  "past_members": 16,
+  "full_lengths": 18,
+  "genre": "Death Metal (early); Operatic Symphonic Metal (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 149352,
+  "themes": "Society, Politics (early); Mythology, Occultism, Ancient religions (later)",
+  "release_year": 1998
+ },
+ "partial": false,
+ "clips": [
+  "therion/1493001722-106",
+  "therion/1623378251-105",
+  "therion/1492491585-105",
+  "therion/1493001564-107",
+  "therion/1490028866-106",
+  "therion/1492495764-105",
+  "therion/1492490864-104",
+  "therion/1492333737-105",
+  "therion/1490043541-106",
+  "therion/1490030236-108",
+  "therion/1456971712-106",
+  "therion/578647223-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 135.99917763157896,
+   "iqr": 45.321860332262844
+  },
+  "onset_rate": {
+   "median": 3.725474894535228,
+   "iqr": 1.3716040141266221
+  },
+  "tempo_var": {
+   "median": 11.923642277120884,
+   "iqr": 21.567980931088666
+  },
+  "low_onset_rate": {
+   "median": 5.957267775461055,
+   "iqr": 2.6834733974203564
+  },
+  "lufs": {
+   "median": -9.243336738936122,
+   "iqr": 1.0503309434706143
+  },
+  "rms_dbfs": {
+   "median": -8.91040581207818,
+   "iqr": 1.4842966052959472
+  },
+  "crest": {
+   "median": 8.910406112670898,
+   "iqr": 1.484297275543213
+  },
+  "centroid": {
+   "median": 2505.3697732470473,
+   "iqr": 337.61574363798127
+  },
+  "flatness": {
+   "median": 0.028131509199738503,
+   "iqr": 0.01568255852907896
+  },
+  "sub100_share": {
+   "median": 0.2722546309232712,
+   "iqr": 0.07745779678225517
+  },
+  "lowest_pitch": {
+   "median": 60.5621337890625,
+   "iqr": 30.28106689453125
+  },
+  "harmonic_share": {
+   "median": 0.7818922400474548,
+   "iqr": 0.10426506400108337
+  },
+  "clean_share": {
+   "median": 0.08291911554544647,
+   "iqr": 0.11318842957848584
+  },
+  "minor_share": {
+   "median": 0.11585889780051836,
+   "iqr": 0.10473824322940417
+  },
+  "chord_rate": {
+   "median": 1.3347508550622753,
+   "iqr": 0.7422788977517012
+  },
+  "repetitiveness": {
+   "median": 0.7913627624511719,
+   "iqr": 0.12327171862125397
+  },
+  "vocal_share": {
+   "median": 0.14962463080883026,
+   "iqr": 0.07035884261131287
+  },
+  "vocal_voiced": {
+   "median": 0.6252821670428894,
+   "iqr": 0.34739681542007117
+  },
+  "song_length": {
+   "median": 245.893,
+   "iqr": 88.49349999999998
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.6,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

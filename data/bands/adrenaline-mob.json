@@ -1,0 +1,127 @@
+{
+ "slug": "adrenaline-mob",
+ "name": "Adrenaline Mob",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 454991210,
+  "deezer": 1638081,
+  "spotify": "1OiOWEQ9miUl9QbCX5JNza"
+ },
+ "metadata": {
+  "formed": 2011,
+  "split": 2017,
+  "country": "US",
+  "status": "split-up",
+  "members": 3,
+  "past_members": 7,
+  "full_lengths": 3,
+  "genre": "Hard Rock/Groove Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 28662,
+  "themes": "Life, Society",
+  "release_year": 2015
+ },
+ "partial": false,
+ "clips": [
+  "adrenaline-mob/1045370901-106",
+  "adrenaline-mob/1226486535-107",
+  "adrenaline-mob/1045370901-105",
+  "adrenaline-mob/1226486535-106",
+  "adrenaline-mob/1045370901-107",
+  "adrenaline-mob/1226486535-108",
+  "adrenaline-mob/1045370901-104",
+  "adrenaline-mob/1226486535-105",
+  "adrenaline-mob/1045370901-108",
+  "adrenaline-mob/1226486535-109",
+  "adrenaline-mob/1045370901-103",
+  "adrenaline-mob/1226486535-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 110.00658118206522,
+   "iqr": 15.492720170454547
+  },
+  "onset_rate": {
+   "median": 5.680096251757746,
+   "iqr": 0.9438983477185676
+  },
+  "tempo_var": {
+   "median": 11.421739542677486,
+   "iqr": 9.164752585305445
+  },
+  "low_onset_rate": {
+   "median": 6.147868884255443,
+   "iqr": 0.968957595888086
+  },
+  "lufs": {
+   "median": -6.2173303413257734,
+   "iqr": 1.3943166449277777
+  },
+  "rms_dbfs": {
+   "median": -6.194485302051268,
+   "iqr": 1.111249911727846
+  },
+  "crest": {
+   "median": 6.194485425949097,
+   "iqr": 1.1112498044967651
+  },
+  "centroid": {
+   "median": 2679.8561330165294,
+   "iqr": 98.7775601956364
+  },
+  "flatness": {
+   "median": 0.046332452446222305,
+   "iqr": 0.009884982369840145
+  },
+  "sub100_share": {
+   "median": 0.2752799689769745,
+   "iqr": 0.07259056717157364
+  },
+  "lowest_pitch": {
+   "median": 68.6370849609375,
+   "iqr": 25.5706787109375
+  },
+  "harmonic_share": {
+   "median": 0.6656574308872223,
+   "iqr": 0.026279106736183167
+  },
+  "clean_share": {
+   "median": 0.0007757951900698216,
+   "iqr": 0.025795190069821568
+  },
+  "minor_share": {
+   "median": 0.044177219522839345,
+   "iqr": 0.06051225251664541
+  },
+  "chord_rate": {
+   "median": 1.9045028608834795,
+   "iqr": 0.43436030160500416
+  },
+  "repetitiveness": {
+   "median": 0.9108549356460571,
+   "iqr": 0.09501051902770996
+  },
+  "vocal_share": {
+   "median": 0.2825976610183716,
+   "iqr": 0.10965236648917198
+  },
+  "vocal_voiced": {
+   "median": 0.4112152260851797,
+   "iqr": 0.2784484080937879
+  },
+  "song_length": {
+   "median": 295.687,
+   "iqr": 47.920000000000016
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "warmen/1660695255-105",
+ "band": "warmen",
+ "title": "Dawn",
+ "source": "itunes",
+ "album": "Beyond Abilities",
+ "year": 2001,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.57748933229889,
+  "tempo_var": 15.803048638835309,
+  "low_onset_rate": 5.379385273723512,
+  "lufs": -9.552510726155626,
+  "rms_dbfs": -8.680186071888656,
+  "crest": 8.680185317993164,
+  "centroid": 1907.3490835685393,
+  "flatness": 0.018837738782167435,
+  "sub100_share": 0.3063563108444214,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7537985444068909,
+  "clean_share": 0.35143522110162917,
+  "minor_share": 0.05303422365152005,
+  "chord_rate": 0.9689575958880862,
+  "repetitiveness": 0.8263193368911743,
+  "vocal_share": 0.011651919223368168,
+  "vocal_voiced": 0.0,
+  "song_length": 285.427
+ }
+}

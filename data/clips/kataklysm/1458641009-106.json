@@ -1,0 +1,32 @@
+{
+ "id": "kataklysm/1458641009-106",
+ "band": "kataklysm",
+ "title": "Dead & Buried",
+ "source": "itunes",
+ "album": "Waiting for the End to Come",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 1.2696685739223197,
+  "tempo_var": 7.857689752768286,
+  "low_onset_rate": 2.0047398535615577,
+  "lufs": -7.643387700469912,
+  "rms_dbfs": -7.0400807089449655,
+  "crest": 7.040080547332764,
+  "centroid": 2730.447256089079,
+  "flatness": 0.03859271481633186,
+  "sub100_share": 0.4899047017097473,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.81695157289505,
+  "clean_share": 0.0,
+  "minor_share": -0.11007907148589807,
+  "chord_rate": 2.2720385007030983,
+  "repetitiveness": 0.9489103555679321,
+  "vocal_share": 5.047521085543849e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 192.413
+ }
+}

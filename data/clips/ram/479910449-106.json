@@ -1,0 +1,32 @@
+{
+ "id": "ram/479910449-106",
+ "band": "ram",
+ "title": "Frozen",
+ "source": "itunes",
+ "album": "Death",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 64.599609375,
+  "onset_rate": 2.3054508315957913,
+  "tempo_var": 3.022225658544626,
+  "low_onset_rate": 3.2744084274838774,
+  "lufs": -9.938157974356992,
+  "rms_dbfs": -9.13887606055495,
+  "crest": 9.138875961303711,
+  "centroid": 2691.287380855986,
+  "flatness": 0.027095934376120567,
+  "sub100_share": 0.3201020359992981,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.8076683878898621,
+  "clean_share": 0.03646237393328161,
+  "minor_share": 0.021838883729615066,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.8849945664405823,
+  "vocal_share": 0.033163540065288544,
+  "vocal_voiced": 0.7567567567567568,
+  "song_length": 407.587
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "twisted-sister/1788379503-104",
+ "band": "twisted-sister",
+ "title": "I'll Be Home for Christmas",
+ "source": "itunes",
+ "album": "A Twisted Christmas",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 1.3333252708978327,
+  "tempo_var": 13.36150688080592,
+  "low_onset_rate": 2.8666493324303404,
+  "lufs": -11.85538361109726,
+  "rms_dbfs": -11.737403429295139,
+  "crest": 11.737403869628906,
+  "centroid": 2210.8460035459957,
+  "flatness": 0.014570342376828194,
+  "sub100_share": 0.0934419259428978,
+  "lowest_pitch": 137.274169921875,
+  "harmonic_share": 0.8378085494041443,
+  "clean_share": 0.18561484918793503,
+  "minor_share": -0.22155739277445985,
+  "chord_rate": 1.2333258755804954,
+  "repetitiveness": 0.658244252204895,
+  "vocal_share": 0.0238991416990757,
+  "vocal_voiced": 0.9433962264150944,
+  "song_length": 248.36
+ }
+}

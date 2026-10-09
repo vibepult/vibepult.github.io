@@ -1,0 +1,32 @@
+{
+ "id": "budgie/1851021006-103",
+ "band": "budgie",
+ "title": "Who Do You Want For Your Love",
+ "source": "itunes",
+ "album": "Bandolier (Expanded Edition)",
+ "year": 1975,
+ "itunes_year": 1975,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.564408938253774,
+  "tempo_var": 18.786363106024073,
+  "low_onset_rate": 2.4317930139488366,
+  "lufs": -16.14247093580454,
+  "rms_dbfs": -15.627833036612506,
+  "crest": 15.627833366394043,
+  "centroid": 2771.372969763747,
+  "flatness": 0.03395029157400131,
+  "sub100_share": 0.3531937003135681,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.31502678990364075,
+  "clean_share": 0.2853828306264501,
+  "minor_share": 0.19202930351707148,
+  "chord_rate": 2.698290878491175,
+  "repetitiveness": 0.8567128777503967,
+  "vocal_share": 0.11746692657470703,
+  "vocal_voiced": 0.9123831775700935,
+  "song_length": 372.8
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "ophis/1778212597-104",
+ "band": "ophis",
+ "title": "The Vermin Age",
+ "source": "itunes",
+ "album": "The Dismal Circle",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 2.2999304631757167,
+  "tempo_var": 17.171019378839876,
+  "low_onset_rate": 5.433169065183215,
+  "lufs": -13.10766064812938,
+  "rms_dbfs": -12.26662076957944,
+  "crest": 12.266620635986328,
+  "centroid": 2497.5201539778222,
+  "flatness": 0.025442257523536682,
+  "sub100_share": 0.32641175389289856,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7743719220161438,
+  "clean_share": 0.08816705336426914,
+  "minor_share": -0.04690538844635617,
+  "chord_rate": 1.3666253476841215,
+  "repetitiveness": 0.7052565217018127,
+  "vocal_share": 0.05744234845042229,
+  "vocal_voiced": 0.33064516129032256,
+  "song_length": 566.788
+ }
+}

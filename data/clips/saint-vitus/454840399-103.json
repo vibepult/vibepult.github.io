@@ -1,0 +1,32 @@
+{
+ "id": "saint-vitus/454840399-103",
+ "band": "saint-vitus",
+ "title": "Zombie Hunger",
+ "source": "itunes",
+ "album": "Saint Vitus",
+ "year": 1984,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 2.606161809630025,
+  "tempo_var": 0.8913362370250073,
+  "low_onset_rate": 3.474882412840033,
+  "lufs": -12.938441638274034,
+  "rms_dbfs": -11.326990391060646,
+  "crest": 11.326990127563477,
+  "centroid": 1411.5179551672118,
+  "flatness": 0.003279609838500619,
+  "sub100_share": 0.4578988254070282,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8690146207809448,
+  "clean_share": 0.7742435996896819,
+  "minor_share": 0.05608692460399667,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.8941165208816528,
+  "vocal_share": 0.043879441916942596,
+  "vocal_voiced": 0.5308641975308642,
+  "song_length": 441.876
+ }
+}

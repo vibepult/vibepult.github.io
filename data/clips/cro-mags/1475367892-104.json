@@ -1,0 +1,32 @@
+{
+ "id": "cro-mags/1475367892-104",
+ "band": "cro-mags",
+ "title": "Down but Not Out",
+ "source": "itunes",
+ "album": "Best Wishes",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 6.214693546040828,
+  "tempo_var": 9.381257787850412,
+  "low_onset_rate": 7.450949789070456,
+  "lufs": -16.584580100091458,
+  "rms_dbfs": -16.755778929771395,
+  "crest": 14.707744598388672,
+  "centroid": 2961.067166137097,
+  "flatness": 0.051026031374931335,
+  "sub100_share": 0.27339375019073486,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7637014389038086,
+  "clean_share": 0.0,
+  "minor_share": 0.010383843677947313,
+  "chord_rate": 1.9379151917761723,
+  "repetitiveness": 0.9336196184158325,
+  "vocal_share": 0.14989756047725677,
+  "vocal_voiced": 0.6378316032295271,
+  "song_length": 239.16
+ }
+}

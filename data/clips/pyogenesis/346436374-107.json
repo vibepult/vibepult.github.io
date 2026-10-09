@@ -1,0 +1,32 @@
+{
+ "id": "pyogenesis/346436374-107",
+ "band": "pyogenesis",
+ "title": "To Me",
+ "source": "itunes",
+ "album": "Unpop",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.998670043949002,
+  "tempo_var": 16.614318756319037,
+  "low_onset_rate": 4.965345576989342,
+  "lufs": -11.634529882963358,
+  "rms_dbfs": -10.327175795472812,
+  "crest": 10.327176094055176,
+  "centroid": 1870.8126168426677,
+  "flatness": 0.008827156387269497,
+  "sub100_share": 0.4890304207801819,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.9097207188606262,
+  "clean_share": 0.4385150812064965,
+  "minor_share": 0.04911962833681044,
+  "chord_rate": 2.066116951498921,
+  "repetitiveness": 0.7306341528892517,
+  "vocal_share": 0.07252295315265656,
+  "vocal_voiced": 0.8813708260105448,
+  "song_length": 154.667
+ }
+}

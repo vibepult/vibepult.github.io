@@ -1,0 +1,127 @@
+{
+ "slug": "saint-vitus",
+ "name": "Saint Vitus",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 117747948,
+  "deezer": 15529,
+  "spotify": "64yj4wx5kNH3NTUW0ghyxn"
+ },
+ "metadata": {
+  "formed": 1981,
+  "split": null,
+  "country": "US",
+  "status": "on hold",
+  "members": 4,
+  "past_members": 4,
+  "full_lengths": 9,
+  "genre": "Doom Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 11609,
+  "themes": "Drugs, Loneliness, Depression, Substance abuse, Death, Mental illness",
+  "release_year": 1989
+ },
+ "partial": false,
+ "clips": [
+  "saint-vitus/454840399-103",
+  "saint-vitus/117748132-105",
+  "saint-vitus/117991551-102",
+  "saint-vitus/963271024-104",
+  "saint-vitus/626831902-108",
+  "saint-vitus/585022377-104",
+  "saint-vitus/592884061-104",
+  "saint-vitus/454840399-102",
+  "saint-vitus/117748132-104",
+  "saint-vitus/117991551-101",
+  "saint-vitus/963271024-105",
+  "saint-vitus/626831902-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.90049098320159,
+   "iqr": 31.55728044181035
+  },
+  "onset_rate": {
+   "median": 3.4414700819473403,
+   "iqr": 0.933116090045095
+  },
+  "tempo_var": {
+   "median": 4.532320761933358,
+   "iqr": 10.017612643343906
+  },
+  "low_onset_rate": {
+   "median": 5.178911288367357,
+   "iqr": 1.660603603985841
+  },
+  "lufs": {
+   "median": -13.861833016457348,
+   "iqr": 6.313536847398364
+  },
+  "rms_dbfs": {
+   "median": -12.856635502576722,
+   "iqr": 6.152290850113419
+  },
+  "crest": {
+   "median": 12.19788122177124,
+   "iqr": 5.091623783111572
+  },
+  "centroid": {
+   "median": 2091.8680524027022,
+   "iqr": 493.3735072147974
+  },
+  "flatness": {
+   "median": 0.013211657293140888,
+   "iqr": 0.009106397861614823
+  },
+  "sub100_share": {
+   "median": 0.37142445147037506,
+   "iqr": 0.17186317592859268
+  },
+  "lowest_pitch": {
+   "median": 51.141357421875,
+   "iqr": 10.09368896484375
+  },
+  "harmonic_share": {
+   "median": 0.8336239755153656,
+   "iqr": 0.1206418126821518
+  },
+  "clean_share": {
+   "median": 0.2699767261442979,
+   "iqr": 0.4671687618741098
+  },
+  "minor_share": {
+   "median": -0.009006019243285979,
+   "iqr": 0.08074017109549989
+  },
+  "chord_rate": {
+   "median": 1.7207350409736701,
+   "iqr": 0.32043880012607295
+  },
+  "repetitiveness": {
+   "median": 0.80727818608284,
+   "iqr": 0.10394741594791412
+  },
+  "vocal_share": {
+   "median": 0.054162006825208664,
+   "iqr": 0.035476088523864746
+  },
+  "vocal_voiced": {
+   "median": 0.7141382868937048,
+   "iqr": 0.09577562344902646
+  },
+  "song_length": {
+   "median": 306.9405,
+   "iqr": 95.661
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

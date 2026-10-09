@@ -1,0 +1,32 @@
+{
+ "id": "scorpions/1443718744-106",
+ "band": "scorpions",
+ "title": "Woman",
+ "source": "itunes",
+ "album": "Face the Heat",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 1.9333041072697315,
+  "tempo_var": 10.784091095328508,
+  "low_onset_rate": 2.8332905020332273,
+  "lufs": -15.642744119574266,
+  "rms_dbfs": -15.16809146797307,
+  "crest": 15.122379302978516,
+  "centroid": 1436.8986483791095,
+  "flatness": 0.0037414284888654947,
+  "sub100_share": 0.03585481271147728,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.9391718506813049,
+  "clean_share": 0.802784222737819,
+  "minor_share": 0.2683802142816393,
+  "chord_rate": 1.0333177125062358,
+  "repetitiveness": 0.6563680171966553,
+  "vocal_share": 0.13944126665592194,
+  "vocal_voiced": 0.9010791366906474,
+  "song_length": 356.893
+ }
+}

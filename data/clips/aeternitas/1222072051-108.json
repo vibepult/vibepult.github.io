@@ -1,0 +1,32 @@
+{
+ "id": "aeternitas/1222072051-108",
+ "band": "aeternitas",
+ "title": "The Haunted Place",
+ "source": "itunes",
+ "album": "House of Usher",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.0428920380158075,
+  "tempo_var": 14.771617150160768,
+  "low_onset_rate": 3.240996096591185,
+  "lufs": -13.032588995388139,
+  "rms_dbfs": -12.985027037538249,
+  "crest": 12.985027313232422,
+  "centroid": 2789.11578646275,
+  "flatness": 0.027806583791971207,
+  "sub100_share": 0.2174285352230072,
+  "lowest_pitch": 123.81591796875,
+  "harmonic_share": 0.886354923248291,
+  "clean_share": 0.22265321955003878,
+  "minor_share": 0.12466628031764193,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.6413632035255432,
+  "vocal_share": 0.391125351190567,
+  "vocal_voiced": 0.885589519650655,
+  "song_length": 249.373
+ }
+}

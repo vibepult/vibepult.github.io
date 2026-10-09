@@ -1,0 +1,32 @@
+{
+ "id": "warlord/1591244106-107",
+ "band": "warlord",
+ "title": "Lucifer's Hammer",
+ "source": "itunes",
+ "album": "Rising Out of the Ashes",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.112086626581972,
+  "tempo_var": 2.2674545238046826,
+  "low_onset_rate": 6.515404524075062,
+  "lufs": -12.092466399080655,
+  "rms_dbfs": -11.27976281059321,
+  "crest": 11.279763221740723,
+  "centroid": 2408.027936568052,
+  "flatness": 0.02428462915122509,
+  "sub100_share": 0.3749678432941437,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7615100145339966,
+  "clean_share": 0.1264546159813809,
+  "minor_share": 0.26754366156750975,
+  "chord_rate": 1.971327522668865,
+  "repetitiveness": 0.8044807314872742,
+  "vocal_share": 0.20161670446395874,
+  "vocal_voiced": 0.8758928571428571,
+  "song_length": 226.587
+ }
+}

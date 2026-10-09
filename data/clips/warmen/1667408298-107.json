@@ -1,0 +1,32 @@
+{
+ "id": "warmen/1667408298-107",
+ "band": "warmen",
+ "title": "First Of The Five Elemts",
+ "source": "itunes",
+ "album": "First Of The Five Elements",
+ "year": 2014,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.713508582650439,
+  "tempo_var": 1.9712057116155184,
+  "low_onset_rate": 5.546446928186976,
+  "lufs": -10.830106788196035,
+  "rms_dbfs": -9.631045064680116,
+  "crest": 9.631044387817383,
+  "centroid": 2426.3225645761245,
+  "flatness": 0.030286047607660294,
+  "sub100_share": 0.5034566521644592,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.6329048275947571,
+  "clean_share": 0.047323506594259115,
+  "minor_share": 0.21721489195607668,
+  "chord_rate": 1.9379151917761723,
+  "repetitiveness": 0.9483534693717957,
+  "vocal_share": 0.000231210608035326,
+  "vocal_voiced": 0.7093023255813954,
+  "song_length": 221.214
+ }
+}

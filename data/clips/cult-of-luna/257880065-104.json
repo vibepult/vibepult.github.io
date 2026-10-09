@@ -1,0 +1,32 @@
+{
+ "id": "cult-of-luna/257880065-104",
+ "band": "cult-of-luna",
+ "title": "And With Her Came the Birds",
+ "source": "itunes",
+ "album": "Somewhere Along the Highway",
+ "year": 2006,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 69.83741554054055,
+  "onset_rate": 1.871090529990787,
+  "tempo_var": 17.90174574248327,
+  "low_onset_rate": 2.9068727876642586,
+  "lufs": -15.519933199774849,
+  "rms_dbfs": -14.20192761540556,
+  "crest": 14.201927185058594,
+  "centroid": 1222.2494378455585,
+  "flatness": 0.0018256149487569928,
+  "sub100_share": 0.3731521964073181,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.917834997177124,
+  "clean_share": 0.9371605896043445,
+  "minor_share": 0.0639063538586947,
+  "chord_rate": 0.7350712796392378,
+  "repetitiveness": 0.5763400197029114,
+  "vocal_share": 0.0985177531838417,
+  "vocal_voiced": 0.6187793427230047,
+  "song_length": 358.187
+ }
+}

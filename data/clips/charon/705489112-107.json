@@ -1,0 +1,32 @@
+{
+ "id": "charon/705489112-107",
+ "band": "charon",
+ "title": "Sin",
+ "source": "itunes",
+ "album": "Tearstained",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 1.8376781990980944,
+  "tempo_var": 0.0,
+  "low_onset_rate": 2.472512486059254,
+  "lufs": -7.328456456100256,
+  "rms_dbfs": -7.37370204460456,
+  "crest": 7.373702049255371,
+  "centroid": 2881.4022626262267,
+  "flatness": 0.044104550033807755,
+  "sub100_share": 0.25584471225738525,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7000923752784729,
+  "clean_share": 0.022498060512024826,
+  "minor_share": 0.17605286925643138,
+  "chord_rate": 1.7374412064200164,
+  "repetitiveness": 0.8698415756225586,
+  "vocal_share": 0.12619413435459137,
+  "vocal_voiced": 0.6832101372756072,
+  "song_length": 218.733
+ }
+}

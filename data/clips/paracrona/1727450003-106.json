@@ -1,0 +1,32 @@
+{
+ "id": "paracrona/1727450003-106",
+ "band": "paracrona",
+ "title": "River of Pain",
+ "source": "itunes",
+ "album": "Sun God",
+ "year": 2023,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 7.566666666666666,
+  "tempo_var": 11.01959449078062,
+  "low_onset_rate": 10.433333333333334,
+  "lufs": -9.75057051751812,
+  "rms_dbfs": -7.899507220185994,
+  "crest": 7.899507522583008,
+  "centroid": 2359.3109210123735,
+  "flatness": 0.021580716595053673,
+  "sub100_share": 0.567732036113739,
+  "lowest_pitch": 29.608154296875,
+  "harmonic_share": 0.8836089372634888,
+  "clean_share": 0.0696594427244582,
+  "minor_share": -0.0752165143839778,
+  "chord_rate": 0.4666666666666667,
+  "repetitiveness": 0.8481224179267883,
+  "vocal_share": 0.04314800724387169,
+  "vocal_voiced": 0.16352201257861634,
+  "song_length": 366.115
+ }
+}

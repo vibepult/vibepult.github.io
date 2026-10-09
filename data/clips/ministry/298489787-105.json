@@ -1,0 +1,32 @@
+{
+ "id": "ministry/298489787-105",
+ "band": "ministry",
+ "title": "Here We Go",
+ "source": "itunes",
+ "album": "With Sympathy",
+ "year": 1983,
+ "itunes_year": 1983,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 2.698290878491175,
+  "tempo_var": 21.086457541517877,
+  "low_onset_rate": 3.8642190358639046,
+  "lufs": -15.161437662525787,
+  "rms_dbfs": -15.432604647355534,
+  "crest": 15.432604789733887,
+  "centroid": 2872.662545588551,
+  "flatness": 0.05163538083434105,
+  "sub100_share": 0.1758321225643158,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.6825208067893982,
+  "clean_share": 0.013147718484145398,
+  "minor_share": 0.07835973483333347,
+  "chord_rate": 2.8648520438301364,
+  "repetitiveness": 0.9009312987327576,
+  "vocal_share": 0.26939859986305237,
+  "vocal_voiced": 0.5407894736842105,
+  "song_length": 201.96
+ }
+}

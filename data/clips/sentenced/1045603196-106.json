@@ -1,0 +1,32 @@
+{
+ "id": "sentenced/1045603196-106",
+ "band": "sentenced",
+ "title": "Killing Me Killing You",
+ "source": "itunes",
+ "album": "Crimson",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.505924816951947,
+  "tempo_var": 3.4373977451423654,
+  "low_onset_rate": 3.1407591039131066,
+  "lufs": -7.712549784988089,
+  "rms_dbfs": -8.129458302607194,
+  "crest": 8.1294584274292,
+  "centroid": 2960.460272231636,
+  "flatness": 0.05388334020972252,
+  "sub100_share": 0.30676597356796265,
+  "lowest_pitch": 115.740966796875,
+  "harmonic_share": 0.756938636302948,
+  "clean_share": 0.07990690457719161,
+  "minor_share": -0.04122128083363452,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.7547968626022339,
+  "vocal_share": 0.14672282338142395,
+  "vocal_voiced": 0.7256728778467909,
+  "song_length": 326.027
+ }
+}

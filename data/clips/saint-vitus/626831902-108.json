@@ -1,0 +1,32 @@
+{
+ "id": "saint-vitus/626831902-108",
+ "band": "saint-vitus",
+ "title": "Fear",
+ "source": "itunes",
+ "album": "C.O.D.",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 3.040522111235029,
+  "tempo_var": 36.15464545272331,
+  "low_onset_rate": 6.448579862289677,
+  "lufs": -10.380543351544974,
+  "rms_dbfs": -7.707920317900654,
+  "crest": 7.707920551300049,
+  "centroid": 2622.531366912284,
+  "flatness": 0.018902752548456192,
+  "sub100_share": 0.7465813159942627,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8557894825935364,
+  "clean_share": 0.09309542280837858,
+  "minor_share": -0.08296255924560425,
+  "chord_rate": 1.9379151917761723,
+  "repetitiveness": 0.7608866691589355,
+  "vocal_share": 0.031118107959628105,
+  "vocal_voiced": 0.7079207920792079,
+  "song_length": 299.2
+ }
+}

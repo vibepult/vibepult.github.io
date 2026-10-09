@@ -1,0 +1,32 @@
+{
+ "id": "stille-volk/1555060945-108",
+ "band": "stille-volk",
+ "title": "Les Parques De La Lune",
+ "source": "itunes",
+ "album": "Hantaoma",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 4.811375648547738,
+  "tempo_var": 14.136000406972425,
+  "low_onset_rate": 6.181281215148136,
+  "lufs": -12.272274749770867,
+  "rms_dbfs": -11.686026438527685,
+  "crest": 11.686025619506836,
+  "centroid": 2541.6740546200353,
+  "flatness": 0.019367611035704613,
+  "sub100_share": 0.16669586300849915,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.9073250889778137,
+  "clean_share": 0.27152831652443754,
+  "minor_share": 0.059870859400487864,
+  "chord_rate": 1.1026069194588566,
+  "repetitiveness": 0.9104069471359253,
+  "vocal_share": 0.011921979486942291,
+  "vocal_voiced": 0.019572953736654804,
+  "song_length": 271.537
+ }
+}

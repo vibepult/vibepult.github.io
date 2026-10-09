@@ -1,0 +1,32 @@
+{
+ "id": "asphodele/1483323433-103",
+ "band": "asphodele",
+ "title": "Jours pâles",
+ "source": "itunes",
+ "album": "Jours Pâles",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.377015346942734,
+  "tempo_var": 21.805345710212556,
+  "low_onset_rate": 5.479622266401591,
+  "lufs": -8.183889272007358,
+  "rms_dbfs": -7.443258023002318,
+  "crest": 7.4432573318481445,
+  "centroid": 2199.378006559647,
+  "flatness": 0.025439893826842308,
+  "sub100_share": 0.28359687328338623,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7881090044975281,
+  "clean_share": 0.1256788207913111,
+  "minor_share": 0.025203627305146803,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.8588908314704895,
+  "vocal_share": 0.15508584678173065,
+  "vocal_voiced": 0.8772946859903382,
+  "song_length": 409.875
+ }
+}

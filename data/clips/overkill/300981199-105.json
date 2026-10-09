@@ -1,0 +1,32 @@
+{
+ "id": "overkill/300981199-105",
+ "band": "overkill",
+ "title": "Fatal If Swallowed",
+ "source": "itunes",
+ "album": "Taking Over",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.8758303835523447,
+  "tempo_var": 3.5672855460745843,
+  "low_onset_rate": 6.949764825680066,
+  "lufs": -15.67375957548855,
+  "rms_dbfs": -15.065901850925567,
+  "crest": 14.202960968017578,
+  "centroid": 2429.119049220883,
+  "flatness": 0.015016989782452583,
+  "sub100_share": 0.4651728868484497,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.863844096660614,
+  "clean_share": 0.26066718386346005,
+  "minor_share": 0.0914564706294192,
+  "chord_rate": 2.1718015080250206,
+  "repetitiveness": 0.8201155066490173,
+  "vocal_share": 0.0027136094868183136,
+  "vocal_voiced": 0.1,
+  "song_length": 405.467
+ }
+}

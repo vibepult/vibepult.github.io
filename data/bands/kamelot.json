@@ -1,0 +1,127 @@
+{
+ "slug": "kamelot",
+ "name": "Kamelot",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 3258983,
+  "deezer": 3040,
+  "spotify": "7gTbq5nTZGQIUgjEGXQpOS"
+ },
+ "metadata": {
+  "formed": 1987,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 9,
+  "full_lengths": 14,
+  "genre": "Progressive/Melodic Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 152625,
+  "themes": "Fantasy, Medieval (early); Society, Resistance, Hope, Philosophy, Love (later)",
+  "release_year": 2004
+ },
+ "partial": false,
+ "clips": [
+  "kamelot/1435938943-105",
+  "kamelot/1436230207-106",
+  "kamelot/1435939794-105",
+  "kamelot/1450929279-107",
+  "kamelot/1436229428-107",
+  "kamelot/1436228035-108",
+  "kamelot/1081700254-107",
+  "kamelot/1148411717-107",
+  "kamelot/1184719834-106",
+  "kamelot/1347170289-107",
+  "kamelot/1659093511-107",
+  "kamelot/6781275561-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.72650642942585,
+   "iqr": 33.318639106457795
+  },
+  "onset_rate": {
+   "median": 3.83819168323393,
+   "iqr": 1.119904657421325
+  },
+  "tempo_var": {
+   "median": 14.39080325090759,
+   "iqr": 8.453440997675743
+  },
+  "low_onset_rate": {
+   "median": 3.8257118872133056,
+   "iqr": 2.694286174371642
+  },
+  "lufs": {
+   "median": -11.105123445885743,
+   "iqr": 3.4388159950356503
+  },
+  "rms_dbfs": {
+   "median": -10.55845316706855,
+   "iqr": 3.1985256899471803
+  },
+  "crest": {
+   "median": 10.558454036712646,
+   "iqr": 3.1985244750976562
+  },
+  "centroid": {
+   "median": 2397.091820321008,
+   "iqr": 233.86036488815307
+  },
+  "flatness": {
+   "median": 0.03166867978870869,
+   "iqr": 0.010708526242524385
+  },
+  "sub100_share": {
+   "median": 0.27978193759918213,
+   "iqr": 0.18674684315919876
+  },
+  "lowest_pitch": {
+   "median": 57.8704833984375,
+   "iqr": 37.01019287109375
+  },
+  "harmonic_share": {
+   "median": 0.7558497190475464,
+   "iqr": 0.10992467403411865
+  },
+  "clean_share": {
+   "median": 0.06275061094621213,
+   "iqr": 0.2170480567401287
+  },
+  "minor_share": {
+   "median": 0.006525276514020073,
+   "iqr": 0.16472078376596327
+  },
+  "chord_rate": {
+   "median": 1.2847947881814803,
+   "iqr": 0.38907702747677786
+  },
+  "repetitiveness": {
+   "median": 0.8660387098789215,
+   "iqr": 0.0784655511379242
+  },
+  "vocal_share": {
+   "median": 0.20172148942947388,
+   "iqr": 0.16596506163477898
+  },
+  "vocal_voiced": {
+   "median": 0.7179560516345324,
+   "iqr": 0.12146181860831207
+  },
+  "song_length": {
+   "median": 255.32,
+   "iqr": 33.82925
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

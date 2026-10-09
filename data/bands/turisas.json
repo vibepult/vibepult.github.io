@@ -1,0 +1,127 @@
+{
+ "slug": "turisas",
+ "name": "Turisas",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 73654764,
+  "deezer": 15670,
+  "spotify": "0ykT1si9XRFPmEvWOnf4YI"
+ },
+ "metadata": {
+  "formed": 1999,
+  "split": null,
+  "country": "FI",
+  "status": "on hold",
+  "members": 5,
+  "past_members": 11,
+  "full_lengths": 4,
+  "genre": "Folk/Symphonic Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 56835,
+  "themes": "Battles, Journeys, Glory, Mythology, History",
+  "release_year": 2010
+ },
+ "partial": false,
+ "clips": [
+  "turisas/1045281090-104",
+  "turisas/1045404642-105",
+  "turisas/1045281090-105",
+  "turisas/1045404642-104",
+  "turisas/1045281090-103",
+  "turisas/1045404642-106",
+  "turisas/1045281090-106",
+  "turisas/1045404642-103",
+  "turisas/1045281090-102",
+  "turisas/1045404642-107",
+  "turisas/1045281090-107",
+  "turisas/1045404642-102"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 21.710891993447063
+  },
+  "onset_rate": {
+   "median": 4.493958505067158,
+   "iqr": 1.6461277733022834
+  },
+  "tempo_var": {
+   "median": 9.294502633249321,
+   "iqr": 12.372320603110126
+  },
+  "low_onset_rate": {
+   "median": 5.263332824711181,
+   "iqr": 1.6489004022872624
+  },
+  "lufs": {
+   "median": -9.099317475674942,
+   "iqr": 2.3307847454815214
+  },
+  "rms_dbfs": {
+   "median": -8.137768787283795,
+   "iqr": 1.8668884358204672
+  },
+  "crest": {
+   "median": 8.137769222259521,
+   "iqr": 1.8668888807296753
+  },
+  "centroid": {
+   "median": 2425.958091347982,
+   "iqr": 360.47867281038407
+  },
+  "flatness": {
+   "median": 0.02663308195769787,
+   "iqr": 0.010743321385234594
+  },
+  "sub100_share": {
+   "median": 0.35763467848300934,
+   "iqr": 0.17721321806311607
+  },
+  "lowest_pitch": {
+   "median": 43.06640625,
+   "iqr": 27.58941650390625
+  },
+  "harmonic_share": {
+   "median": 0.7179251909255981,
+   "iqr": 0.09878326952457428
+  },
+  "clean_share": {
+   "median": 0.13438806679398588,
+   "iqr": 0.1364936037396568
+  },
+  "minor_share": {
+   "median": 0.06644839695014879,
+   "iqr": 0.13193304143189333
+  },
+  "chord_rate": {
+   "median": 1.5679772041589453,
+   "iqr": 0.6258055439199095
+  },
+  "repetitiveness": {
+   "median": 0.8836731016635895,
+   "iqr": 0.06362870335578918
+  },
+  "vocal_share": {
+   "median": 0.19691939651966095,
+   "iqr": 0.12500809878110886
+  },
+  "vocal_voiced": {
+   "median": 0.7152485256950295,
+   "iqr": 0.4856432711968526
+  },
+  "song_length": {
+   "median": 285.62,
+   "iqr": 38.43324999999999
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.8,
+  "camp": 0.8
+ },
+ "sources_failed": []
+}

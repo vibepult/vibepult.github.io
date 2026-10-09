@@ -1,0 +1,32 @@
+{
+ "id": "metallica/579148345-105",
+ "band": "metallica",
+ "title": "Trapped Under Ice",
+ "source": "itunes",
+ "album": "Ride the Lightning (Remastered) [2016 Remastered Version]",
+ "year": 1984,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.5,
+  "tempo_var": 18.849766285861087,
+  "low_onset_rate": 7.133333333333334,
+  "lufs": -8.258310250149567,
+  "rms_dbfs": -8.64734449291736,
+  "crest": 8.647344589233398,
+  "centroid": 2715.9474757141907,
+  "flatness": 0.04078961908817291,
+  "sub100_share": 0.1710393875837326,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7093681693077087,
+  "clean_share": 0.0,
+  "minor_share": 0.034007812712124164,
+  "chord_rate": 2.7,
+  "repetitiveness": 0.9559734463691711,
+  "vocal_share": 0.1576196253299713,
+  "vocal_voiced": 0.16536458333333334,
+  "song_length": 244.067
+ }
+}

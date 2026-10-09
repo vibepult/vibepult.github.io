@@ -1,0 +1,32 @@
+{
+ "id": "earth/3251842-105",
+ "band": "earth",
+ "title": "Site Specific Carniverous Occurence",
+ "source": "itunes",
+ "album": "Phase 3 - Thrones and Dominions",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.374645420161955,
+  "tempo_var": 21.26424113439492,
+  "low_onset_rate": 5.21232361926005,
+  "lufs": -11.216290972910882,
+  "rms_dbfs": -9.935582670659542,
+  "crest": 9.935583114624023,
+  "centroid": 1410.1464378857233,
+  "flatness": 0.0018968475051224232,
+  "sub100_share": 0.2562481760978699,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.9442165493965149,
+  "clean_share": 0.9100077579519007,
+  "minor_share": 0.03932587574942875,
+  "chord_rate": 0.8353082723173156,
+  "repetitiveness": 0.961665153503418,
+  "vocal_share": 9.689078979135957e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 521.333
+ }
+}

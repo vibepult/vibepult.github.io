@@ -1,0 +1,32 @@
+{
+ "id": "panopticon/1690423344-105",
+ "band": "panopticon",
+ "title": "Beast Rider",
+ "source": "itunes",
+ "album": "The Scars of Man on the Once Nameless Wilderness, Pt. 2",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.30782075837657,
+  "tempo_var": 3.6510781246453874,
+  "low_onset_rate": 4.677726324976968,
+  "lufs": -18.14847355701698,
+  "rms_dbfs": -17.39238381239242,
+  "crest": 15.712590217590332,
+  "centroid": 1145.2774523721048,
+  "flatness": 0.0012150162365287542,
+  "sub100_share": 0.03862566128373146,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.9488466382026672,
+  "clean_share": 0.9379363847944143,
+  "minor_share": -0.14967447285970636,
+  "chord_rate": 1.0357822576734714,
+  "repetitiveness": 0.6672440767288208,
+  "vocal_share": 0.06657946854829788,
+  "vocal_voiced": 0.9285714285714286,
+  "song_length": 252.172
+ }
+}

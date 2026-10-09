@@ -1,0 +1,32 @@
+{
+ "id": "priestess/303298433-104",
+ "band": "priestess",
+ "title": "Two Kids",
+ "source": "itunes",
+ "album": "Hello Master",
+ "year": 2005,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.3645355398470205,
+  "tempo_var": 1.4086718036197643,
+  "low_onset_rate": 5.230020591643388,
+  "lufs": -8.01426032820758,
+  "rms_dbfs": -7.37265123734228,
+  "crest": 7.372651100158691,
+  "centroid": 2345.164848738763,
+  "flatness": 0.02525181509554386,
+  "sub100_share": 0.3500705063343048,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8021385073661804,
+  "clean_share": 0.1214230471771075,
+  "minor_share": 0.1020973161545603,
+  "chord_rate": 1.7322361195251987,
+  "repetitiveness": 0.8142792582511902,
+  "vocal_share": 0.13452960550785065,
+  "vocal_voiced": 0.8551282051282051,
+  "song_length": 137.813
+ }
+}

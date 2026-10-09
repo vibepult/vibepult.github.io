@@ -1,0 +1,32 @@
+{
+ "id": "hanternoz/1559357619-105",
+ "band": "hanternoz",
+ "title": "Vieille nasse crevée",
+ "source": "itunes",
+ "album": "Au fleuve de loire",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.0739344421277215,
+  "tempo_var": 2.7573446499159155,
+  "low_onset_rate": 7.083414149250837,
+  "lufs": -11.552028997266987,
+  "rms_dbfs": -10.8872288879885,
+  "crest": 10.887229919433594,
+  "centroid": 2502.203843909064,
+  "flatness": 0.026952143758535385,
+  "sub100_share": 0.29162636399269104,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7437417507171631,
+  "clean_share": 0.19162141194724594,
+  "minor_share": 0.12220660154004637,
+  "chord_rate": 1.7374412064200164,
+  "repetitiveness": 0.7873032093048096,
+  "vocal_share": 7.716731147411338e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 637.0
+ }
+}

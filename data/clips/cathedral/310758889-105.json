@@ -1,0 +1,32 @@
+{
+ "id": "cathedral/310758889-105",
+ "band": "cathedral",
+ "title": "Alchemist of Sorrows",
+ "source": "itunes",
+ "album": "Endtyme",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.572749478737332,
+  "tempo_var": 4.0441236873748005,
+  "low_onset_rate": 8.419907384958542,
+  "lufs": -8.236739534203041,
+  "rms_dbfs": -7.220296928220547,
+  "crest": 7.220297336578369,
+  "centroid": 2152.159564500185,
+  "flatness": 0.018125813454389572,
+  "sub100_share": 0.46647730469703674,
+  "lowest_pitch": 26.91650390625,
+  "harmonic_share": 0.6899026036262512,
+  "clean_share": 0.047323506594259115,
+  "minor_share": 0.0735956599380278,
+  "chord_rate": 2.2720385007030983,
+  "repetitiveness": 0.8862561583518982,
+  "vocal_share": 0.09661746025085449,
+  "vocal_voiced": 0.0936663693131133,
+  "song_length": 436.493
+ }
+}

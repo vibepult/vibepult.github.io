@@ -1,0 +1,32 @@
+{
+ "id": "delain/1183570871-104",
+ "band": "delain",
+ "title": "My Masquerade",
+ "source": "itunes",
+ "album": "The Human Contradiction",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.8333333333333335,
+  "tempo_var": 1.4084085991095596,
+  "low_onset_rate": 4.533333333333333,
+  "lufs": -8.398510658605426,
+  "rms_dbfs": -7.676246410138727,
+  "crest": 7.676246643066406,
+  "centroid": 2518.962054984616,
+  "flatness": 0.03707677870988846,
+  "sub100_share": 0.3047506511211395,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.715880811214447,
+  "clean_share": 0.10603715170278638,
+  "minor_share": 0.06288874423625818,
+  "chord_rate": 1.7,
+  "repetitiveness": 0.7879708409309387,
+  "vocal_share": 0.24300068616867065,
+  "vocal_voiced": 0.8111553784860558,
+  "song_length": 223.933
+ }
+}

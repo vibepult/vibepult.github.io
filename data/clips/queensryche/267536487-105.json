@@ -1,0 +1,32 @@
+{
+ "id": "queensryche/267536487-105",
+ "band": "queensryche",
+ "title": "For the Love of Money",
+ "source": "itunes",
+ "album": "Take Cover",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.5417070746254184,
+  "tempo_var": 0.7057997190573437,
+  "low_onset_rate": 4.443840008728119,
+  "lufs": -10.471024164561117,
+  "rms_dbfs": -10.005123462963674,
+  "crest": 10.005123138427734,
+  "centroid": 2253.283391349582,
+  "flatness": 0.023783447220921516,
+  "sub100_share": 0.23231136798858643,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7217001914978027,
+  "clean_share": 0.1761055081458495,
+  "minor_share": -0.17658994791294758,
+  "chord_rate": 2.6395741405227175,
+  "repetitiveness": 0.9023118615150452,
+  "vocal_share": 0.17432333528995514,
+  "vocal_voiced": 0.5665445665445665,
+  "song_length": 298.893
+ }
+}

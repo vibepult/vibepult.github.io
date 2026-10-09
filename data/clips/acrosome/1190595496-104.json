@@ -1,0 +1,32 @@
+{
+ "id": "acrosome/1190595496-104",
+ "band": "acrosome",
+ "title": "Sight",
+ "source": "itunes",
+ "album": "Narrator and Remains",
+ "year": 2016,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 40.374755859375,
+  "onset_rate": 0.8353082723173156,
+  "tempo_var": 13.63554325527452,
+  "low_onset_rate": 0.6348342869611598,
+  "lufs": -14.88646369161773,
+  "rms_dbfs": -15.511656362759712,
+  "crest": 14.028074264526367,
+  "centroid": 1352.3496932738315,
+  "flatness": 0.004436383955180645,
+  "sub100_share": 0.262955904006958,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.9067404270172119,
+  "clean_share": 0.7633824670287044,
+  "minor_share": 0.04504093074921289,
+  "chord_rate": 0.5011849633903894,
+  "repetitiveness": 0.7604510188102722,
+  "vocal_share": 7.581092518194055e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 153.0
+ }
+}

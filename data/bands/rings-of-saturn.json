@@ -1,0 +1,127 @@
+{
+ "slug": "rings-of-saturn",
+ "name": "Rings of Saturn",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 373843476,
+  "deezer": 587155,
+  "spotify": "67Zm35qXdPzYfl1c3M0toJ"
+ },
+ "metadata": {
+  "formed": 2009,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 2,
+  "past_members": 16,
+  "full_lengths": 8,
+  "genre": "Technical Deathcore",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 25500,
+  "themes": "Science, Space, Armageddon, Alien invasion (early); Instrumental (later)",
+  "release_year": 2015
+ },
+ "partial": false,
+ "clips": [
+  "rings-of-saturn/1516255332-104",
+  "rings-of-saturn/1516260629-105",
+  "rings-of-saturn/1516220816-107",
+  "rings-of-saturn/1670106066-106",
+  "rings-of-saturn/1670344191-105",
+  "rings-of-saturn/1545132032-104",
+  "rings-of-saturn/1629398802-103",
+  "rings-of-saturn/1516255332-105",
+  "rings-of-saturn/1516260629-106",
+  "rings-of-saturn/1516220816-106",
+  "rings-of-saturn/1670106066-105",
+  "rings-of-saturn/1670344191-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 147.77688419117646,
+   "iqr": 17.69989297116871
+  },
+  "onset_rate": {
+   "median": 5.872938097241173,
+   "iqr": 3.385567854610999
+  },
+  "tempo_var": {
+   "median": 15.049201919022376,
+   "iqr": 7.592610585860074
+  },
+  "low_onset_rate": {
+   "median": 4.171373766881084,
+   "iqr": 3.387078382294143
+  },
+  "lufs": {
+   "median": -6.83532480663346,
+   "iqr": 0.8754972902307907
+  },
+  "rms_dbfs": {
+   "median": -6.356256118090281,
+   "iqr": 1.0191207705502947
+  },
+  "crest": {
+   "median": 6.356255769729614,
+   "iqr": 1.019120693206787
+  },
+  "centroid": {
+   "median": 2536.7517279469926,
+   "iqr": 197.0728771583831
+  },
+  "flatness": {
+   "median": 0.03903432376682758,
+   "iqr": 0.008276302833110094
+  },
+  "sub100_share": {
+   "median": 0.4479106366634369,
+   "iqr": 0.20638860762119293
+  },
+  "lowest_pitch": {
+   "median": 45.758056640625,
+   "iqr": 4.0374755859375
+  },
+  "harmonic_share": {
+   "median": 0.77125683426857,
+   "iqr": 0.09538772702217102
+  },
+  "clean_share": {
+   "median": 0.015108806325400783,
+   "iqr": 0.058059840028991824
+  },
+  "minor_share": {
+   "median": -0.03214803105771172,
+   "iqr": 0.08870563036156547
+  },
+  "chord_rate": {
+   "median": 2.069139720908211,
+   "iqr": 0.7041632446422845
+  },
+  "repetitiveness": {
+   "median": 0.8710706532001495,
+   "iqr": 0.06990925967693329
+  },
+  "vocal_share": {
+   "median": 0.15994767844676971,
+   "iqr": 0.05791221559047699
+  },
+  "vocal_voiced": {
+   "median": 0.15967365967365968,
+   "iqr": 0.2413438687757989
+  },
+  "song_length": {
+   "median": 294.447,
+   "iqr": 58.107
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

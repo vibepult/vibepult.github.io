@@ -1,0 +1,32 @@
+{
+ "id": "a-n-i-m-a-l/201659544-107",
+ "band": "a-n-i-m-a-l",
+ "title": "Latino América",
+ "source": "itunes",
+ "album": "Poder Latino",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.744550986762353,
+  "tempo_var": 11.624708168987382,
+  "low_onset_rate": 6.782703171216603,
+  "lufs": -9.295444474303425,
+  "rms_dbfs": -9.01859225019976,
+  "crest": 9.01859188079834,
+  "centroid": 2272.3859813235904,
+  "flatness": 0.02610716037452221,
+  "sub100_share": 0.25629767775535583,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7162221670150757,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.008695623536258412,
+  "chord_rate": 2.7063988023081027,
+  "repetitiveness": 0.9440622925758362,
+  "vocal_share": 0.2724410891532898,
+  "vocal_voiced": 0.24607329842931938,
+  "song_length": 165.44
+ }
+}

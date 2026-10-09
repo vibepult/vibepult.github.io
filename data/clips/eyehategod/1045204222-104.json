@@ -1,0 +1,32 @@
+{
+ "id": "eyehategod/1045204222-104",
+ "band": "eyehategod",
+ "title": "Dixie Whiskey",
+ "source": "itunes",
+ "album": "Dopesick",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.6085317364108036,
+  "tempo_var": 14.953499248653356,
+  "low_onset_rate": 5.379385273723512,
+  "lufs": -8.81208865044177,
+  "rms_dbfs": -8.197304905454894,
+  "crest": 8.197305679321289,
+  "centroid": 2447.715114436013,
+  "flatness": 0.021059490740299225,
+  "sub100_share": 0.19173045456409454,
+  "lowest_pitch": 123.81591796875,
+  "harmonic_share": 0.8131778836250305,
+  "clean_share": 0.04499612102404965,
+  "minor_share": -0.15108618788113592,
+  "chord_rate": 1.9379151917761723,
+  "repetitiveness": 0.7068217396736145,
+  "vocal_share": 0.04229394719004631,
+  "vocal_voiced": 0.15902140672782875,
+  "song_length": 175.56
+ }
+}

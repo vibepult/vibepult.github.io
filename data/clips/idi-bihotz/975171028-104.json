@@ -1,0 +1,32 @@
+{
+ "id": "idi-bihotz/975171028-104",
+ "band": "idi-bihotz",
+ "title": "Marierrauskin",
+ "source": "itunes",
+ "album": "Arimaerratu",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 6.3817552005042915,
+  "tempo_var": 18.842499647913286,
+  "low_onset_rate": 6.682466178538525,
+  "lufs": -10.963827973686938,
+  "rms_dbfs": -9.926534901550239,
+  "crest": 9.926534652709961,
+  "centroid": 2578.5190820959056,
+  "flatness": 0.029035354033112526,
+  "sub100_share": 0.4441668391227722,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7669388055801392,
+  "clean_share": 0.037238169123351435,
+  "minor_share": 0.10767327251049197,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.9261478781700134,
+  "vocal_share": 0.17117729783058167,
+  "vocal_voiced": 0.9018112488083889,
+  "song_length": 223.28
+ }
+}

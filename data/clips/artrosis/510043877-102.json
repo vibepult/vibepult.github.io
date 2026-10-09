@@ -1,0 +1,32 @@
+{
+ "id": "artrosis/510043877-102",
+ "band": "artrosis",
+ "title": "Nie Tamta Już",
+ "source": "itunes",
+ "album": "Imago",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.076304368908501,
+  "tempo_var": 2.6715675178518663,
+  "low_onset_rate": 4.410427677835426,
+  "lufs": -7.669480597626337,
+  "rms_dbfs": -6.532248108081059,
+  "crest": 6.532247543334961,
+  "centroid": 2147.6892311834745,
+  "flatness": 0.01811501570045948,
+  "sub100_share": 0.31217676401138306,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.728069543838501,
+  "clean_share": 0.10318076027928627,
+  "minor_share": 0.14880741128543773,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.8337941765785217,
+  "vocal_share": 0.11833866685628891,
+  "vocal_voiced": 0.6027928626842514,
+  "song_length": 226.547
+ }
+}

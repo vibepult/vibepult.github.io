@@ -1,0 +1,32 @@
+{
+ "id": "arkona/1735490925-105",
+ "band": "arkona",
+ "title": "Выйду я на волюшку",
+ "source": "itunes",
+ "album": "Лепта",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 6.929687783297675,
+  "tempo_var": 7.665678832014234,
+  "low_onset_rate": 7.36279326975378,
+  "lufs": -8.759511807167062,
+  "rms_dbfs": -7.83408161389112,
+  "crest": 7.834081172943115,
+  "centroid": 2309.189286427563,
+  "flatness": 0.019121576100587845,
+  "sub100_share": 0.3549976050853729,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.8374251127243042,
+  "clean_share": 0.03557617942768755,
+  "minor_share": 0.13511081792689317,
+  "chord_rate": 1.5325271059216012,
+  "repetitiveness": 0.8008258938789368,
+  "vocal_share": 0.05454093590378761,
+  "vocal_voiced": 0.8656294200848657,
+  "song_length": 217.747
+ }
+}

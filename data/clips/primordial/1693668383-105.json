@@ -1,0 +1,32 @@
+{
+ "id": "primordial/1693668383-105",
+ "band": "primordial",
+ "title": "Pilgrimage to the World's End",
+ "source": "itunes",
+ "album": "How It Ends",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.143129030693886,
+  "tempo_var": 0.8365368043082002,
+  "low_onset_rate": 3.3412330892692625,
+  "lufs": -10.011686163298995,
+  "rms_dbfs": -8.971527804573686,
+  "crest": 8.971528053283691,
+  "centroid": 2327.445284011777,
+  "flatness": 0.0224715955555439,
+  "sub100_share": 0.4261110723018646,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.736939013004303,
+  "clean_share": 0.02094647013188518,
+  "minor_share": -0.1940339064491618,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.7170711159706116,
+  "vocal_share": 0.1751575767993927,
+  "vocal_voiced": 0.7645854657113613,
+  "song_length": 427.36
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "svartby/1244053933-108",
+ "band": "svartby",
+ "title": "Kvävande Gruvor",
+ "source": "itunes",
+ "album": "Riv, Hugg Och Bit",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.89691559667959,
+  "tempo_var": 1.2158395930475325,
+  "low_onset_rate": 4.964070191555135,
+  "lufs": -7.206859467380433,
+  "rms_dbfs": -6.338851518385491,
+  "crest": 6.338850975036621,
+  "centroid": 2544.726175856481,
+  "flatness": 0.03387182578444481,
+  "sub100_share": 0.3361625671386719,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8657130599021912,
+  "clean_share": 0.030162412993039442,
+  "minor_share": 0.04439062958275991,
+  "chord_rate": 1.8990067175747833,
+  "repetitiveness": 0.8785383105278015,
+  "vocal_share": 0.046916261315345764,
+  "vocal_voiced": 0.31135531135531136,
+  "song_length": 165.373
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "empyrium/1542693960-104",
+ "band": "empyrium",
+ "title": "Moonrise",
+ "source": "itunes",
+ "album": "Über den Sternen",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 67.99958881578948,
+  "onset_rate": 2.0047398535615577,
+  "tempo_var": 32.9015305429298,
+  "low_onset_rate": 3.7755933908742665,
+  "lufs": -16.233198632726545,
+  "rms_dbfs": -14.76692551662001,
+  "crest": 14.7666597366333,
+  "centroid": 868.4600781022721,
+  "flatness": 0.0003088719677180052,
+  "sub100_share": 0.2155591994524002,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.9820669293403625,
+  "clean_share": 0.9930178432893716,
+  "minor_share": 0.03309937303322619,
+  "chord_rate": 0.5680096251757746,
+  "repetitiveness": 0.6212997436523438,
+  "vocal_share": 9.257310580323974e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 298.04
+ }
+}

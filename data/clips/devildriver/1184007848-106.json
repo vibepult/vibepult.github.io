@@ -1,0 +1,32 @@
+{
+ "id": "devildriver/1184007848-106",
+ "band": "devildriver",
+ "title": "Daybreak",
+ "source": "itunes",
+ "album": "Trust No One",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 7.066666666666666,
+  "tempo_var": 1.9884589012944789,
+  "low_onset_rate": 6.233333333333333,
+  "lufs": -7.935542869501754,
+  "rms_dbfs": -7.151122157710822,
+  "crest": 7.151122093200684,
+  "centroid": 2240.809301469036,
+  "flatness": 0.02700725384056568,
+  "sub100_share": 0.3325802683830261,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6951544284820557,
+  "clean_share": 0.008513931888544891,
+  "minor_share": 0.3866309301632863,
+  "chord_rate": 2.0,
+  "repetitiveness": 0.9239799380302429,
+  "vocal_share": 0.20349857211112976,
+  "vocal_voiced": 0.10861132660977502,
+  "song_length": 262.329
+ }
+}

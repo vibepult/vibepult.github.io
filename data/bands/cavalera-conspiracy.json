@@ -1,0 +1,127 @@
+{
+ "slug": "cavalera-conspiracy",
+ "name": "Cavalera Conspiracy",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 273152410,
+  "deezer": 68247,
+  "spotify": "7F1K4WlMshx23V2TTz4KwV"
+ },
+ "metadata": {
+  "formed": 2007,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 2,
+  "past_members": 4,
+  "full_lengths": 6,
+  "genre": "Groove/Thrash/Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 89967,
+  "themes": "Society, Violence, Wars",
+  "release_year": 2015
+ },
+ "partial": false,
+ "clips": [
+  "cavalera-conspiracy/275503907-106",
+  "cavalera-conspiracy/418421190-106",
+  "cavalera-conspiracy/1184718192-105",
+  "cavalera-conspiracy/1285162528-105",
+  "cavalera-conspiracy/1680995542-105",
+  "cavalera-conspiracy/1739901747-105",
+  "cavalera-conspiracy/275503907-105",
+  "cavalera-conspiracy/418421190-107",
+  "cavalera-conspiracy/1184718192-106",
+  "cavalera-conspiracy/1285162528-104",
+  "cavalera-conspiracy/1680995542-104",
+  "cavalera-conspiracy/1739901747-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 46.736838600852266
+  },
+  "onset_rate": {
+   "median": 4.422025500025853,
+   "iqr": 4.724544171099877
+  },
+  "tempo_var": {
+   "median": 5.987632118927916,
+   "iqr": 12.91484288518872
+  },
+  "low_onset_rate": {
+   "median": 3.971275829455491,
+   "iqr": 5.254537587081734
+  },
+  "lufs": {
+   "median": -8.365052039900164,
+   "iqr": 1.9638988991711628
+  },
+  "rms_dbfs": {
+   "median": -8.075720196822365,
+   "iqr": 2.3944644972370757
+  },
+  "crest": {
+   "median": 8.075719833374023,
+   "iqr": 2.394464612007141
+  },
+  "centroid": {
+   "median": 2716.2949046043677,
+   "iqr": 196.65312299730886
+  },
+  "flatness": {
+   "median": 0.03770028240978718,
+   "iqr": 0.01094881258904934
+  },
+  "sub100_share": {
+   "median": 0.34983180463314056,
+   "iqr": 0.1825522519648075
+  },
+  "lowest_pitch": {
+   "median": 59.21630859375,
+   "iqr": 23.55194091796875
+  },
+  "harmonic_share": {
+   "median": 0.7293412685394287,
+   "iqr": 0.1446509063243866
+  },
+  "clean_share": {
+   "median": 0.0023216821225987036,
+   "iqr": 0.03692962103634958
+  },
+  "minor_share": {
+   "median": 0.009000493549932986,
+   "iqr": 0.05551322619256305
+  },
+  "chord_rate": {
+   "median": 1.9833271857262642,
+   "iqr": 0.8081354988782019
+  },
+  "repetitiveness": {
+   "median": 0.9303469955921173,
+   "iqr": 0.06851127743721008
+  },
+  "vocal_share": {
+   "median": 0.10223203897476196,
+   "iqr": 0.052961960434913635
+  },
+  "vocal_voiced": {
+   "median": 0.09254498714652956,
+   "iqr": 0.11150019655871057
+  },
+  "song_length": {
+   "median": 290.7985,
+   "iqr": 93.15875
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

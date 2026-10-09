@@ -1,0 +1,32 @@
+{
+ "id": "nocturnus/1401551408-106",
+ "band": "nocturnus",
+ "title": "Andromeda Strain",
+ "source": "itunes",
+ "album": "The Key (Full Dynamic Range Edition)",
+ "year": 1990,
+ "itunes_year": 1990,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.945024972118508,
+  "tempo_var": 15.361357347523986,
+  "low_onset_rate": 9.054741671919702,
+  "lufs": -13.254000713306924,
+  "rms_dbfs": -13.853204222339961,
+  "crest": 13.853204727172852,
+  "centroid": 2841.6746577623608,
+  "flatness": 0.042098186910152435,
+  "sub100_share": 0.3147857189178467,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7429776787757874,
+  "clean_share": 0.0,
+  "minor_share": 0.0029316332737815975,
+  "chord_rate": 2.8066357949861804,
+  "repetitiveness": 0.9485536813735962,
+  "vocal_share": 0.0564049668610096,
+  "vocal_voiced": 0.04132231404958678,
+  "song_length": 222.48
+ }
+}

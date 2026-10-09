@@ -1,0 +1,127 @@
+{
+ "slug": "king-of-asgard",
+ "name": "King of Asgard",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 382059764,
+  "deezer": 647161,
+  "spotify": "7AUos3yuM9KT0qeTJuMCfz"
+ },
+ "metadata": {
+  "formed": 2008,
+  "split": null,
+  "country": "SE",
+  "status": "active",
+  "members": 4,
+  "past_members": 2,
+  "full_lengths": 5,
+  "genre": "Melodic Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 1163,
+  "themes": "Vikings, Battles, Norse mythology",
+  "release_year": 2013
+ },
+ "partial": false,
+ "clips": [
+  "king-of-asgard/382059763-107",
+  "king-of-asgard/531838280-106",
+  "king-of-asgard/879541755-105",
+  "king-of-asgard/1555258750-103",
+  "king-of-asgard/1556673745-104",
+  "king-of-asgard/382059763-108",
+  "king-of-asgard/531838280-105",
+  "king-of-asgard/879541755-104",
+  "king-of-asgard/1555258750-102",
+  "king-of-asgard/1556673745-105",
+  "king-of-asgard/382059763-106",
+  "king-of-asgard/531838280-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.52302631578948,
+   "iqr": 48.013510722887844
+  },
+  "onset_rate": {
+   "median": 4.861494144886777,
+   "iqr": 1.7123819582504973
+  },
+  "tempo_var": {
+   "median": 9.501549187965685,
+   "iqr": 14.347448939292814
+  },
+  "low_onset_rate": {
+   "median": 7.033295652911797,
+   "iqr": 1.6956757928041508
+  },
+  "lufs": {
+   "median": -8.753445053348983,
+   "iqr": 0.7986364783567659
+  },
+  "rms_dbfs": {
+   "median": -8.491574535858181,
+   "iqr": 0.634855821889774
+  },
+  "crest": {
+   "median": 8.491575241088867,
+   "iqr": 0.6348557472229004
+  },
+  "centroid": {
+   "median": 2453.023833657021,
+   "iqr": 139.20771796841063
+  },
+  "flatness": {
+   "median": 0.026165807619690895,
+   "iqr": 0.007424783427268267
+  },
+  "sub100_share": {
+   "median": 0.27847450971603394,
+   "iqr": 0.1289948970079422
+  },
+  "lowest_pitch": {
+   "median": 47.1038818359375,
+   "iqr": 22.8790283203125
+  },
+  "harmonic_share": {
+   "median": 0.8137737810611725,
+   "iqr": 0.08730955421924591
+  },
+  "clean_share": {
+   "median": 0.009309542280837859,
+   "iqr": 0.04499612102404965
+  },
+  "minor_share": {
+   "median": 0.05741272403475689,
+   "iqr": 0.12672031987642182
+  },
+  "chord_rate": {
+   "median": 1.5870857174028998,
+   "iqr": 0.593068873345294
+  },
+  "repetitiveness": {
+   "median": 0.8324991762638092,
+   "iqr": 0.06267903745174408
+  },
+  "vocal_share": {
+   "median": 0.08662251755595207,
+   "iqr": 0.05875577684491873
+  },
+  "vocal_voiced": {
+   "median": 0.06958055742496584,
+   "iqr": 0.24610574965189988
+  },
+  "song_length": {
+   "median": 388.94,
+   "iqr": 109.72750000000008
+  },
+  "vocal_presence": {
+   "median": 0.5,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

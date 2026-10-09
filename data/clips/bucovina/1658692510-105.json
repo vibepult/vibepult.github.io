@@ -1,0 +1,32 @@
+{
+ "id": "bucovina/1658692510-105",
+ "band": "bucovina",
+ "title": "Suntem Aici",
+ "source": "itunes",
+ "album": "Suntem Aici",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.21232361926005,
+  "tempo_var": 11.111189569463866,
+  "low_onset_rate": 5.9139825680065945,
+  "lufs": -11.298001225116133,
+  "rms_dbfs": -10.732431060116712,
+  "crest": 10.732431411743164,
+  "centroid": 2596.728729301836,
+  "flatness": 0.031080223619937897,
+  "sub100_share": 0.25659245252609253,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7794657349586487,
+  "clean_share": 0.0069821567106283944,
+  "minor_share": -0.02644628536377791,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.8059201836585999,
+  "vocal_share": 0.3173983693122864,
+  "vocal_voiced": 0.7140612725844462,
+  "song_length": 392.68
+ }
+}

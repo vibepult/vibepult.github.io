@@ -1,0 +1,32 @@
+{
+ "id": "coroner/1439100202-105",
+ "band": "coroner",
+ "title": "Serpent Moves",
+ "source": "itunes",
+ "album": "Grin",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 198.76802884615384,
+  "onset_rate": 2.6395741405227175,
+  "tempo_var": 47.01286058709064,
+  "low_onset_rate": 3.1407591039131066,
+  "lufs": -14.108968899655691,
+  "rms_dbfs": -13.877957336605864,
+  "crest": 13.87795639038086,
+  "centroid": 2456.3114194062155,
+  "flatness": 0.035555168986320496,
+  "sub100_share": 0.2329683154821396,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.6585406064987183,
+  "clean_share": 0.1373157486423584,
+  "minor_share": -0.2286093411626524,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.8112418055534363,
+  "vocal_share": 0.07048024982213974,
+  "vocal_voiced": 0.12078651685393259,
+  "song_length": 458.24
+ }
+}

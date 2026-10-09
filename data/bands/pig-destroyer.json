@@ -1,0 +1,127 @@
+{
+ "slug": "pig-destroyer",
+ "name": "Pig Destroyer",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 20384813,
+  "deezer": 14518,
+  "spotify": "4raqfuxaWjPjrOQGb6zoa7"
+ },
+ "metadata": {
+  "formed": 1997,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 4,
+  "full_lengths": 6,
+  "genre": "Grindcore",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 14764,
+  "themes": "Murder, Sex, Insanity, Horror, Despair",
+  "release_year": 2005
+ },
+ "partial": false,
+ "clips": [
+  "pig-destroyer/77645436-120",
+  "pig-destroyer/68290017-109",
+  "pig-destroyer/251037826-111",
+  "pig-destroyer/556953439-110",
+  "pig-destroyer/1391191746-107",
+  "pig-destroyer/77645436-119",
+  "pig-destroyer/68290017-114",
+  "pig-destroyer/251037826-112",
+  "pig-destroyer/556953439-107",
+  "pig-destroyer/1391191746-105",
+  "pig-destroyer/77645436-122",
+  "pig-destroyer/68290017-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 135.99917763157896,
+   "iqr": 22.7294921875
+  },
+  "onset_rate": {
+   "median": 5.389373566052717,
+   "iqr": 1.541478928749041
+  },
+  "tempo_var": {
+   "median": 9.485517986421215,
+   "iqr": 8.622902762614133
+  },
+  "low_onset_rate": {
+   "median": 7.125119405518111,
+   "iqr": 0.9461934626884405
+  },
+  "lufs": {
+   "median": -6.644028934441133,
+   "iqr": 2.4435277933803006
+  },
+  "rms_dbfs": {
+   "median": -6.7890019409372275,
+   "iqr": 2.15765824508577
+  },
+  "crest": {
+   "median": 6.789001703262329,
+   "iqr": 2.1576586961746216
+  },
+  "centroid": {
+   "median": 2912.7300697796263,
+   "iqr": 196.6848398320153
+  },
+  "flatness": {
+   "median": 0.05941515229642391,
+   "iqr": 0.022096249274909496
+  },
+  "sub100_share": {
+   "median": 0.26828187704086304,
+   "iqr": 0.19193413946777582
+  },
+  "lowest_pitch": {
+   "median": 52.4871826171875,
+   "iqr": 29.608154296875
+  },
+  "harmonic_share": {
+   "median": 0.6641246378421783,
+   "iqr": 0.12277117371559143
+  },
+  "clean_share": {
+   "median": 0.0007757951900698216,
+   "iqr": 0.019376279867064826
+  },
+  "minor_share": {
+   "median": 0.027926694539821606,
+   "iqr": 0.15492885484980026
+  },
+  "chord_rate": {
+   "median": 2.549980851889364,
+   "iqr": 0.7903829563270781
+  },
+  "repetitiveness": {
+   "median": 0.9586265087127686,
+   "iqr": 0.01141364872455597
+  },
+  "vocal_share": {
+   "median": 0.07190214842557907,
+   "iqr": 0.04466303903609514
+  },
+  "vocal_voiced": {
+   "median": 0.10036260036260036,
+   "iqr": 0.08485374608845396
+  },
+  "song_length": {
+   "median": 200.195,
+   "iqr": 30.76599999999999
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "baron-rojo",
+ "name": "Barón Rojo",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 210628126,
+  "deezer": 4165,
+  "spotify": "0R5dtryP4tKLlMZA0vhBvF"
+ },
+ "metadata": {
+  "formed": 1980,
+  "split": null,
+  "country": "ES",
+  "status": "active",
+  "members": 4,
+  "past_members": 14,
+  "full_lengths": 13,
+  "genre": "Heavy Metal, Hard Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 56579,
+  "themes": "Social issues, Rock, Rebellion, Urban, Life, Power, Women, Music industry",
+  "release_year": 1987
+ },
+ "partial": false,
+ "clips": [
+  "baron-rojo/892532010-110",
+  "baron-rojo/911207029-105",
+  "baron-rojo/273924956-104",
+  "baron-rojo/273924667-104",
+  "baron-rojo/273921274-105",
+  "baron-rojo/1461742806-105",
+  "baron-rojo/1470083705-106",
+  "baron-rojo/1799735635-106",
+  "baron-rojo/994937931-107",
+  "baron-rojo/582500569-109",
+  "baron-rojo/892532010-109",
+  "baron-rojo/911207029-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 135.99917763157896,
+   "iqr": 15.8935546875
+  },
+  "onset_rate": {
+   "median": 3.7143139870588397,
+   "iqr": 1.6727334521017525
+  },
+  "tempo_var": {
+   "median": 6.7030995694636095,
+   "iqr": 11.664328361991004
+  },
+  "low_onset_rate": {
+   "median": 5.462916100955244,
+   "iqr": 1.9058440102076233
+  },
+  "lufs": {
+   "median": -9.595804033707942,
+   "iqr": 5.503262426662523
+  },
+  "rms_dbfs": {
+   "median": -9.917109833815113,
+   "iqr": 4.899153777451991
+  },
+  "crest": {
+   "median": 9.917109489440918,
+   "iqr": 4.899154186248779
+  },
+  "centroid": {
+   "median": 2472.1929195509456,
+   "iqr": 659.2916216695812
+  },
+  "flatness": {
+   "median": 0.029481716454029083,
+   "iqr": 0.025321944849565625
+  },
+  "sub100_share": {
+   "median": 0.15247879922389984,
+   "iqr": 0.20464513637125492
+  },
+  "lowest_pitch": {
+   "median": 82.0953369140625,
+   "iqr": 54.50592041015625
+  },
+  "harmonic_share": {
+   "median": 0.7004859745502472,
+   "iqr": 0.18572397530078888
+  },
+  "clean_share": {
+   "median": 0.04640371229698376,
+   "iqr": 0.2089989542064839
+  },
+  "minor_share": {
+   "median": -0.04039022067109421,
+   "iqr": 0.23020264963858375
+  },
+  "chord_rate": {
+   "median": 1.484546474752114,
+   "iqr": 0.48202640123398455
+  },
+  "repetitiveness": {
+   "median": 0.8243292570114136,
+   "iqr": 0.09939651191234589
+  },
+  "vocal_share": {
+   "median": 0.2410372495651245,
+   "iqr": 0.09056070446968079
+  },
+  "vocal_voiced": {
+   "median": 0.7346659132373419,
+   "iqr": 0.16899085136987035
+  },
+  "song_length": {
+   "median": 255.011,
+   "iqr": 140.40675
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

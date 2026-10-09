@@ -1,0 +1,32 @@
+{
+ "id": "megadeth/1455396819-106",
+ "band": "megadeth",
+ "title": "The Killing Road",
+ "source": "itunes",
+ "album": "Youthanasia",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.766594609302959,
+  "tempo_var": 15.813011613009056,
+  "low_onset_rate": 5.69991383350214,
+  "lufs": -10.590710388606379,
+  "rms_dbfs": -10.793452865280385,
+  "crest": 10.793453216552734,
+  "centroid": 2989.0231856675223,
+  "flatness": 0.05290701985359192,
+  "sub100_share": 0.20578911900520325,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7258031368255615,
+  "clean_share": 0.0030935808197989174,
+  "minor_share": 0.25561269971152323,
+  "chord_rate": 2.2332995721908966,
+  "repetitiveness": 0.8284361362457275,
+  "vocal_share": 0.15527479350566864,
+  "vocal_voiced": 0.6217516843118384,
+  "song_length": 237.707
+ }
+}

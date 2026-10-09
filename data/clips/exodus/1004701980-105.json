@@ -1,0 +1,32 @@
+{
+ "id": "exodus/1004701980-105",
+ "band": "exodus",
+ "title": "Metal Command",
+ "source": "itunes",
+ "album": "Bonded by Blood",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.796961561762089,
+  "tempo_var": 21.798149126810426,
+  "low_onset_rate": 5.2966450577789725,
+  "lufs": -8.724389178006435,
+  "rms_dbfs": -8.80556136083719,
+  "crest": 8.805561065673828,
+  "centroid": 2807.3679215002217,
+  "flatness": 0.04798479005694389,
+  "sub100_share": 0.2615411877632141,
+  "lowest_pitch": 196.490478515625,
+  "harmonic_share": 0.5197427868843079,
+  "clean_share": 0.007733952049497293,
+  "minor_share": -0.12030645770660764,
+  "chord_rate": 1.765548352592991,
+  "repetitiveness": 0.8642270565032959,
+  "vocal_share": 0.3185773193836212,
+  "vocal_voiced": 0.2503097893432466,
+  "song_length": 253.333
+ }
+}

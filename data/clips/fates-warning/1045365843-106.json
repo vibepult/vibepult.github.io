@@ -1,0 +1,32 @@
+{
+ "id": "fates-warning/1045365843-106",
+ "band": "fates-warning",
+ "title": "Lighthouse",
+ "source": "itunes",
+ "album": "Darkness in a Different Light",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.9760673762304224,
+  "tempo_var": 0.0,
+  "low_onset_rate": 3.4080577510546477,
+  "lufs": -21.815939679730615,
+  "rms_dbfs": -21.063019148569204,
+  "crest": 16.2371768951416,
+  "centroid": 838.6397996052339,
+  "flatness": 9.92607165244408e-05,
+  "sub100_share": 0.025729211047291756,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.9768394827842712,
+  "clean_share": 1.0,
+  "minor_share": 0.003536455976506314,
+  "chord_rate": 0.9021329341027009,
+  "repetitiveness": 0.8803014755249023,
+  "vocal_share": 9.526007715976448e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 325.067
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "burzum/286929510-105",
+ "band": "burzum",
+ "title": "Ham Som Reiste",
+ "source": "itunes",
+ "album": "Det Som Engang Var",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 75.99954044117646,
+  "onset_rate": 1.4701425592784756,
+  "tempo_var": 3.0178066657413347,
+  "low_onset_rate": 2.5393371478446394,
+  "lufs": -13.556425075704153,
+  "rms_dbfs": -12.153642127956797,
+  "crest": 12.153642654418945,
+  "centroid": 800.7352468652806,
+  "flatness": 0.0003450579824857414,
+  "sub100_share": 0.24348345398902893,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.9748542904853821,
+  "clean_share": 0.9906904577191621,
+  "minor_share": 0.05481699334210122,
+  "chord_rate": 0.267298647141541,
+  "repetitiveness": 0.7011948823928833,
+  "vocal_share": 0.0013931798748672009,
+  "vocal_voiced": 1.0,
+  "song_length": 291.067
+ }
+}

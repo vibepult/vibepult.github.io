@@ -1,0 +1,127 @@
+{
+ "slug": "ankor",
+ "name": "Ankor",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 209378015,
+  "deezer": 505689,
+  "spotify": "6wADzvUWqgYWXigndo6Mmj"
+ },
+ "metadata": {
+  "formed": 2003,
+  "split": null,
+  "country": "ES",
+  "status": "active",
+  "members": 5,
+  "past_members": 12,
+  "full_lengths": 6,
+  "genre": "Heavy/Power Metal (early); Alternative Metal/Rock (later)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 9966,
+  "themes": "Personal struggles, Sorrow, Love",
+  "release_year": 2015
+ },
+ "partial": false,
+ "clips": [
+  "ankor/6819319567-105",
+  "ankor/1614714388-106",
+  "ankor/1614713846-106",
+  "ankor/1614714165-105",
+  "ankor/6819319567-106",
+  "ankor/1614714388-107",
+  "ankor/1614713846-105",
+  "ankor/1614714165-106",
+  "ankor/6819319567-104",
+  "ankor/1614714388-105",
+  "ankor/1614713846-107",
+  "ankor/1614714165-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 101.37169471153845,
+   "iqr": 13.299232337570842
+  },
+  "onset_rate": {
+   "median": 4.343603016050041,
+   "iqr": 1.7176936349383372
+  },
+  "tempo_var": {
+   "median": 17.486265107777754,
+   "iqr": 8.679606361972166
+  },
+  "low_onset_rate": {
+   "median": 4.009479707123115,
+   "iqr": 2.044430672065169
+  },
+  "lufs": {
+   "median": -7.875340969668666,
+   "iqr": 1.9775146953820242
+  },
+  "rms_dbfs": {
+   "median": -7.2063844176228145,
+   "iqr": 1.811170264894848
+  },
+  "crest": {
+   "median": 7.206384658813477,
+   "iqr": 1.8111704587936401
+  },
+  "centroid": {
+   "median": 2454.0678443093047,
+   "iqr": 275.7415672594416
+  },
+  "flatness": {
+   "median": 0.025169464759528637,
+   "iqr": 0.011167625430971384
+  },
+  "sub100_share": {
+   "median": 0.30396774411201477,
+   "iqr": 0.2640458047389984
+  },
+  "lowest_pitch": {
+   "median": 78.057861328125,
+   "iqr": 82.0953369140625
+  },
+  "harmonic_share": {
+   "median": 0.7826635837554932,
+   "iqr": 0.09632200002670288
+  },
+  "clean_share": {
+   "median": 0.11986035686578744,
+   "iqr": 0.26493405740884407
+  },
+  "minor_share": {
+   "median": 0.07020829304079773,
+   "iqr": 0.3364151308926364
+  },
+  "chord_rate": {
+   "median": 1.5703795519565533,
+   "iqr": 0.36445473500460657
+  },
+  "repetitiveness": {
+   "median": 0.7585343718528748,
+   "iqr": 0.14519494771957397
+  },
+  "vocal_share": {
+   "median": 0.2422228679060936,
+   "iqr": 0.19629773870110512
+  },
+  "vocal_voiced": {
+   "median": 0.8167609611843037,
+   "iqr": 0.11838936488447382
+  },
+  "song_length": {
+   "median": 256.06100000000004,
+   "iqr": 60.891249999999985
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

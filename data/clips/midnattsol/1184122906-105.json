@@ -1,0 +1,32 @@
+{
+ "id": "midnattsol/1184122906-105",
+ "band": "midnattsol",
+ "title": "Wintertime",
+ "source": "itunes",
+ "album": "Nordlys",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 5.966666666666667,
+  "tempo_var": 2.980184085851822,
+  "low_onset_rate": 6.566666666666666,
+  "lufs": -7.339845822028435,
+  "rms_dbfs": -6.369074972279325,
+  "crest": 6.369075298309326,
+  "centroid": 2663.399424945481,
+  "flatness": 0.03504534810781479,
+  "sub100_share": 0.4893159568309784,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.82215416431427,
+  "clean_share": 0.008513931888544891,
+  "minor_share": 0.1107753731426444,
+  "chord_rate": 1.5333333333333334,
+  "repetitiveness": 0.7800156474113464,
+  "vocal_share": 0.07324406504631042,
+  "vocal_voiced": 0.9215509467989179,
+  "song_length": 316.707
+ }
+}

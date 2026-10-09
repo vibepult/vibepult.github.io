@@ -1,0 +1,32 @@
+{
+ "id": "unisonic/1298872167-104",
+ "band": "unisonic",
+ "title": "I've Tried",
+ "source": "itunes",
+ "album": "Unisonic",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 6.248105876933521,
+  "tempo_var": 16.586090946460086,
+  "low_onset_rate": 5.780333244435824,
+  "lufs": -9.382924025045286,
+  "rms_dbfs": -8.847791031976072,
+  "crest": 8.847790718078613,
+  "centroid": 2167.4940890643265,
+  "flatness": 0.01997862011194229,
+  "sub100_share": 0.3094866871833801,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6669908761978149,
+  "clean_share": 0.021722265321955005,
+  "minor_share": -0.06967768459425738,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.9032434821128845,
+  "vocal_share": 0.031995467841625214,
+  "vocal_voiced": 0.8940397350993378,
+  "song_length": 296.333
+ }
+}

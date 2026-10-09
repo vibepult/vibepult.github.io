@@ -1,0 +1,32 @@
+{
+ "id": "bell-witch/571352228-103",
+ "band": "bell-witch",
+ "title": "Longing (the River of Ash)",
+ "source": "itunes",
+ "album": "Longing",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 258.3984375,
+  "onset_rate": 0.6348342869611598,
+  "tempo_var": 15.18949535376822,
+  "low_onset_rate": 5.880570237113902,
+  "lufs": -13.603840799677474,
+  "rms_dbfs": -12.147891699570991,
+  "crest": 12.147891998291016,
+  "centroid": 949.2681032911701,
+  "flatness": 0.0015335771022364497,
+  "sub100_share": 0.30611473321914673,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.9713380932807922,
+  "clean_share": 0.8875096974398758,
+  "minor_share": 0.10618102030902188,
+  "chord_rate": 0.33412330892692627,
+  "repetitiveness": 0.5782173275947571,
+  "vocal_share": 1.0702992767619435e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 725.6
+ }
+}

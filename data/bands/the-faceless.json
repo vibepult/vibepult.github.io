@@ -1,0 +1,127 @@
+{
+ "slug": "the-faceless",
+ "name": "The Faceless",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 218291847,
+  "deezer": 67788,
+  "spotify": "1FQ6uth7icR6Jhla16K2vC"
+ },
+ "metadata": {
+  "formed": 2004,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 2,
+  "past_members": 22,
+  "full_lengths": 4,
+  "genre": "Technical Deathcore (early); Progressive/Technical Death Metal (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 26068,
+  "themes": "Science fiction, Conspiracy, Atheism",
+  "release_year": 2010
+ },
+ "partial": false,
+ "clips": [
+  "the-faceless/1820537412-104",
+  "the-faceless/1817406408-105",
+  "the-faceless/1820879539-104",
+  "the-faceless/1817359798-105",
+  "the-faceless/1820537412-105",
+  "the-faceless/1817406408-106",
+  "the-faceless/1820879539-103",
+  "the-faceless/1817359798-106",
+  "the-faceless/1820537412-103",
+  "the-faceless/1817406408-104",
+  "the-faceless/1820879539-105",
+  "the-faceless/1817359798-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 112.34714673913044,
+   "iqr": 17.406782670454547
+  },
+  "onset_rate": {
+   "median": 5.766579492373509,
+   "iqr": 2.5916274886245114
+  },
+  "tempo_var": {
+   "median": 9.07648732030643,
+   "iqr": 12.718249842153902
+  },
+  "low_onset_rate": {
+   "median": 6.066574957294675,
+   "iqr": 1.2499811038381887
+  },
+  "lufs": {
+   "median": -8.513946743259414,
+   "iqr": 1.4954819377000304
+  },
+  "rms_dbfs": {
+   "median": -7.756791503541928,
+   "iqr": 1.6311756492839145
+  },
+  "crest": {
+   "median": 7.756791114807129,
+   "iqr": 1.6311752796173096
+  },
+  "centroid": {
+   "median": 2756.3865941609,
+   "iqr": 292.40956038849845
+  },
+  "flatness": {
+   "median": 0.046304935589432716,
+   "iqr": 0.016840343363583088
+  },
+  "sub100_share": {
+   "median": 0.29360149800777435,
+   "iqr": 0.09456915408372879
+  },
+  "lowest_pitch": {
+   "median": 39.0289306640625,
+   "iqr": 13.458251953125
+  },
+  "harmonic_share": {
+   "median": 0.7096801996231079,
+   "iqr": 0.05810607969760895
+  },
+  "clean_share": {
+   "median": 0.012761020881670533,
+   "iqr": 0.0388631090487239
+  },
+  "minor_share": {
+   "median": 0.0035387481900006346,
+   "iqr": 0.21459047608296186
+  },
+  "chord_rate": {
+   "median": 1.9166376925518889,
+   "iqr": 0.9916516757116296
+  },
+  "repetitiveness": {
+   "median": 0.9031147658824921,
+   "iqr": 0.027669161558151245
+  },
+  "vocal_share": {
+   "median": 0.12542922049760818,
+   "iqr": 0.07701794430613518
+  },
+  "vocal_voiced": {
+   "median": 0.23854047209480123,
+   "iqr": 0.33070846168311174
+  },
+  "song_length": {
+   "median": 282.90650000000005,
+   "iqr": 102.106
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

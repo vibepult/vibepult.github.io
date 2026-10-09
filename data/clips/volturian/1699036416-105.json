@@ -1,0 +1,32 @@
+{
+ "id": "volturian/1699036416-105",
+ "band": "volturian",
+ "title": "The Killing Joke",
+ "source": "itunes",
+ "album": "Crimson",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.433199298585077,
+  "tempo_var": 1.8927730012024886,
+  "low_onset_rate": 3.5332265086467527,
+  "lufs": -9.988651014885878,
+  "rms_dbfs": -11.443498459901347,
+  "crest": 11.443498611450195,
+  "centroid": 2913.123331836827,
+  "flatness": 0.06644712388515472,
+  "sub100_share": 0.40860381722450256,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7144427299499512,
+  "clean_share": 0.0038669760247486465,
+  "minor_share": 0.05634452578325233,
+  "chord_rate": 1.2332960454710364,
+  "repetitiveness": 0.835275411605835,
+  "vocal_share": 0.18050506711006165,
+  "vocal_voiced": 0.9318681318681319,
+  "song_length": 204.341
+ }
+}

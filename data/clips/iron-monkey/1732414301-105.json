@@ -1,0 +1,32 @@
+{
+ "id": "iron-monkey/1732414301-105",
+ "band": "iron-monkey",
+ "title": "House Anxiety",
+ "source": "itunes",
+ "album": "Our Problem",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.1332859669543924,
+  "tempo_var": 9.132627514320866,
+  "low_onset_rate": 5.966576468987619,
+  "lufs": -8.991555910550277,
+  "rms_dbfs": -8.294721183730605,
+  "crest": 8.294721603393555,
+  "centroid": 2323.3895510822963,
+  "flatness": 0.020354345440864563,
+  "sub100_share": 0.3138766586780548,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8115680813789368,
+  "clean_share": 0.060324825986078884,
+  "minor_share": -0.13624173612098467,
+  "chord_rate": 1.333313177427401,
+  "repetitiveness": 0.7512165307998657,
+  "vocal_share": 0.08361705392599106,
+  "vocal_voiced": 0.2971698113207547,
+  "song_length": 229.267
+ }
+}

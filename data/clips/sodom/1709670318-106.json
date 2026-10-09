@@ -1,0 +1,32 @@
+{
+ "id": "sodom/1709670318-106",
+ "band": "sodom",
+ "title": "Little Boy",
+ "source": "itunes",
+ "album": "M-16",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.599915345195084,
+  "tempo_var": 4.852498392950133,
+  "low_onset_rate": 7.899880576257351,
+  "lufs": -8.252472171644733,
+  "rms_dbfs": -7.645914153789885,
+  "crest": 7.645914554595947,
+  "centroid": 2738.965452531778,
+  "flatness": 0.03140787035226822,
+  "sub100_share": 0.43013083934783936,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.769127368927002,
+  "clean_share": 0.0030935808197989174,
+  "minor_share": -0.029601570658918053,
+  "chord_rate": 2.1333010838838415,
+  "repetitiveness": 0.8501744866371155,
+  "vocal_share": 0.1029813215136528,
+  "vocal_voiced": 0.03745928338762215,
+  "song_length": 241.003
+ }
+}

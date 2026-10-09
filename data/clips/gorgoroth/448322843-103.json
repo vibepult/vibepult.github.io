@@ -1,0 +1,32 @@
+{
+ "id": "gorgoroth/448322843-103",
+ "band": "gorgoroth",
+ "title": "Gorgoroth",
+ "source": "itunes",
+ "album": "Antichrist",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 0.06666626354489164,
+  "tempo_var": 0.0,
+  "low_onset_rate": 0.39999758126934987,
+  "lufs": -11.463265177477675,
+  "rms_dbfs": -15.848915839064599,
+  "crest": 15.848915100097656,
+  "centroid": 2404.258052884675,
+  "flatness": 0.034727729856967926,
+  "sub100_share": 0.08971989899873734,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7538585662841797,
+  "clean_share": 0.04563031709203403,
+  "minor_share": 0.15999065890917474,
+  "chord_rate": 1.83332224748452,
+  "repetitiveness": 0.8916379809379578,
+  "vocal_share": 0.0028568748384714127,
+  "vocal_voiced": 0.20553359683794467,
+  "song_length": 364.707
+ }
+}

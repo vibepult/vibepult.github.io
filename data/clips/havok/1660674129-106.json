@@ -1,0 +1,32 @@
+{
+ "id": "havok/1660674129-106",
+ "band": "havok",
+ "title": "Living Nightmare",
+ "source": "itunes",
+ "album": "Unnatural Selection",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 6.3,
+  "tempo_var": 14.757821127354616,
+  "low_onset_rate": 5.633333333333334,
+  "lufs": -8.720590434705745,
+  "rms_dbfs": -8.255203206788998,
+  "crest": 8.255203247070312,
+  "centroid": 2797.475443008074,
+  "flatness": 0.047125715762376785,
+  "sub100_share": 0.41512373089790344,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7353425621986389,
+  "clean_share": 0.04024767801857585,
+  "minor_share": 0.291339774292735,
+  "chord_rate": 2.7333333333333334,
+  "repetitiveness": 0.946536660194397,
+  "vocal_share": 0.052062101662158966,
+  "vocal_voiced": 0.06438631790744467,
+  "song_length": 300.213
+ }
+}

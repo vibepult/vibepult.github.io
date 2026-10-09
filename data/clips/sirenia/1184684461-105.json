@@ -1,0 +1,32 @@
+{
+ "id": "sirenia/1184684461-105",
+ "band": "sirenia",
+ "title": "In My Darkest Hours",
+ "source": "itunes",
+ "album": "An Elixir for Existence",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 3.7666666666666666,
+  "tempo_var": 20.005294964076594,
+  "low_onset_rate": 3.8333333333333335,
+  "lufs": -9.466418621372254,
+  "rms_dbfs": -8.43441270919634,
+  "crest": 8.434412956237793,
+  "centroid": 2164.849220277815,
+  "flatness": 0.019078295677900314,
+  "sub100_share": 0.4449755549430847,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7994009852409363,
+  "clean_share": 0.14705882352941177,
+  "minor_share": 0.037771604100366174,
+  "chord_rate": 1.7,
+  "repetitiveness": 0.874896764755249,
+  "vocal_share": 0.06535665690898895,
+  "vocal_voiced": 0.5350877192982456,
+  "song_length": 364.96
+ }
+}

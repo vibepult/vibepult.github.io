@@ -1,0 +1,32 @@
+{
+ "id": "sonata-arctica/1776758754-105",
+ "band": "sonata-arctica",
+ "title": "Cure for Everything",
+ "source": "itunes",
+ "album": "Clear Cold Beyond",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 6.8,
+  "tempo_var": 23.698031552003123,
+  "low_onset_rate": 8.066666666666666,
+  "lufs": -8.245878190456681,
+  "rms_dbfs": -7.30374136975528,
+  "crest": 7.303740978240967,
+  "centroid": 2743.23103464493,
+  "flatness": 0.03736921027302742,
+  "sub100_share": 0.506916880607605,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.8322679400444031,
+  "clean_share": 0.0007739938080495357,
+  "minor_share": -0.18125757608229487,
+  "chord_rate": 1.6333333333333333,
+  "repetitiveness": 0.8413472771644592,
+  "vocal_share": 0.12109620869159698,
+  "vocal_voiced": 0.7372675828617623,
+  "song_length": 280.506
+ }
+}

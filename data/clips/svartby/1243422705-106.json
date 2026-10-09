@@ -1,0 +1,32 @@
+{
+ "id": "svartby/1243422705-106",
+ "band": "svartby",
+ "title": "Done with the Wind",
+ "source": "itunes",
+ "album": "Elemental Tales",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 6.863076909129918,
+  "tempo_var": 1.5247790608945992,
+  "low_onset_rate": 5.69702015272435,
+  "lufs": -8.45755370519516,
+  "rms_dbfs": -7.762977067333329,
+  "crest": 7.762977600097656,
+  "centroid": 2369.9967524899503,
+  "flatness": 0.03013666346669197,
+  "sub100_share": 0.41920554637908936,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7794162631034851,
+  "clean_share": 0.04331013147718484,
+  "minor_share": 0.13412274492688364,
+  "chord_rate": 1.7990589955971632,
+  "repetitiveness": 0.8976478576660156,
+  "vocal_share": 0.04565465450286865,
+  "vocal_voiced": 0.0,
+  "song_length": 173.12
+ }
+}

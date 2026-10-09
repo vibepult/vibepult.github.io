@@ -1,0 +1,32 @@
+{
+ "id": "within-temptation/1553280562-108",
+ "band": "within-temptation",
+ "title": "Memories",
+ "source": "itunes",
+ "album": "The Silent Force",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 2.766649937113003,
+  "tempo_var": 15.710554126490191,
+  "low_onset_rate": 5.033302897639319,
+  "lufs": -19.326679914347405,
+  "rms_dbfs": -18.40882524548626,
+  "crest": 15.763202667236328,
+  "centroid": 1369.6985762055242,
+  "flatness": 0.009389882907271385,
+  "sub100_share": 0.3653736412525177,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.9319939613342285,
+  "clean_share": 0.9752513534416086,
+  "minor_share": 0.038664806773813676,
+  "chord_rate": 0.7666620307662538,
+  "repetitiveness": 0.6856265068054199,
+  "vocal_share": 0.006570081226527691,
+  "vocal_voiced": 1.0,
+  "song_length": 231.187
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "grave-digger",
+ "name": "Grave Digger",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 17270887,
+  "deezer": 3798,
+  "spotify": "6mfghV4I1CD17FOhDKq7cJ"
+ },
+ "metadata": {
+  "formed": 1980,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 4,
+  "past_members": 17,
+  "full_lengths": 23,
+  "genre": "Speed Metal (early); Heavy/Power Metal (later)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 26989,
+  "themes": "Horror, War, Mythology, History, Metal, Death",
+  "release_year": 2009
+ },
+ "partial": false,
+ "clips": [
+  "grave-digger/1356163340-107",
+  "grave-digger/1356186714-106",
+  "grave-digger/326446051-107",
+  "grave-digger/768205332-106",
+  "grave-digger/1183623154-106",
+  "grave-digger/1183587092-106",
+  "grave-digger/1184691025-105",
+  "grave-digger/1399674520-106",
+  "grave-digger/1498678753-107",
+  "grave-digger/1781990422-108",
+  "grave-digger/1770543869-106",
+  "grave-digger/1356163340-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.32652698863637,
+   "iqr": 31.735565675133685
+  },
+  "onset_rate": {
+   "median": 4.138428675912008,
+   "iqr": 3.526008128060903
+  },
+  "tempo_var": {
+   "median": 7.725009341373385,
+   "iqr": 11.152451959314678
+  },
+  "low_onset_rate": {
+   "median": 6.183333333333334,
+   "iqr": 2.7792443004574174
+  },
+  "lufs": {
+   "median": -9.749274401579182,
+   "iqr": 2.839410729642749
+  },
+  "rms_dbfs": {
+   "median": -9.132191436291617,
+   "iqr": 2.4462765552531103
+  },
+  "crest": {
+   "median": 9.132191181182861,
+   "iqr": 2.4462761878967285
+  },
+  "centroid": {
+   "median": 2486.2840231713662,
+   "iqr": 426.85964198587726
+  },
+  "flatness": {
+   "median": 0.03209666348993778,
+   "iqr": 0.011291804257780313
+  },
+  "sub100_share": {
+   "median": 0.3011051118373871,
+   "iqr": 0.14542939141392708
+  },
+  "lowest_pitch": {
+   "median": 52.4871826171875,
+   "iqr": 17.4957275390625
+  },
+  "harmonic_share": {
+   "median": 0.6960917413234711,
+   "iqr": 0.13451240956783295
+  },
+  "clean_share": {
+   "median": 0.05275407292474787,
+   "iqr": 0.1602162679207488
+  },
+  "minor_share": {
+   "median": -0.009250742101738985,
+   "iqr": 0.16290100474236846
+  },
+  "chord_rate": {
+   "median": 1.6520539365433415,
+   "iqr": 0.7206757928041507
+  },
+  "repetitiveness": {
+   "median": 0.8666178286075592,
+   "iqr": 0.1001732349395752
+  },
+  "vocal_share": {
+   "median": 0.18529511988162994,
+   "iqr": 0.12303407490253448
+  },
+  "vocal_voiced": {
+   "median": 0.21422142214221424,
+   "iqr": 0.2570208645127212
+  },
+  "song_length": {
+   "median": 281.5265,
+   "iqr": 66.34675000000004
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "avalanch/595216136-106",
+ "band": "avalanch",
+ "title": "New York Stoner",
+ "source": "itunes",
+ "album": "Malefic Time: Apocalypse",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.9139825680065945,
+  "tempo_var": 3.1975343314773044,
+  "low_onset_rate": 5.513034597294284,
+  "lufs": -7.941414141147724,
+  "rms_dbfs": -7.044180911351102,
+  "crest": 7.044180870056152,
+  "centroid": 2442.9865641028027,
+  "flatness": 0.02869602106511593,
+  "sub100_share": 0.24729345738887787,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.6332045793533325,
+  "clean_share": 0.21799844840961985,
+  "minor_share": -0.05742380002496261,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.9026655554771423,
+  "vocal_share": 0.2933577299118042,
+  "vocal_voiced": 0.7779030439684329,
+  "song_length": 229.027
+ }
+}

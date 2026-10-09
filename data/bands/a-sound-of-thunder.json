@@ -1,0 +1,127 @@
+{
+ "slug": "a-sound-of-thunder",
+ "name": "A Sound of Thunder",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 355902617,
+  "deezer": 1619022,
+  "spotify": "571SRwCkLqVygKpejWCR0v"
+ },
+ "metadata": {
+  "formed": 2008,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 4,
+  "past_members": 5,
+  "full_lengths": 9,
+  "genre": "Heavy/Power Metal, Hard Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 1525,
+  "themes": "Mythology, Fantasy, Heaven, Comic books",
+  "release_year": 2013
+ },
+ "partial": false,
+ "clips": [
+  "a-sound-of-thunder/427131410-105",
+  "a-sound-of-thunder/634464279-105",
+  "a-sound-of-thunder/648680587-106",
+  "a-sound-of-thunder/908584419-105",
+  "a-sound-of-thunder/1040418779-105",
+  "a-sound-of-thunder/1358064294-106",
+  "a-sound-of-thunder/1616523807-105",
+  "a-sound-of-thunder/427131410-106",
+  "a-sound-of-thunder/634464279-106",
+  "a-sound-of-thunder/648680587-105",
+  "a-sound-of-thunder/908584419-106",
+  "a-sound-of-thunder/1040418779-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 132.59919819078948,
+   "iqr": 48.85204765759089
+  },
+  "onset_rate": {
+   "median": 5.345972942830819,
+   "iqr": 2.0047398535615573
+  },
+  "tempo_var": {
+   "median": 12.460954826968393,
+   "iqr": 14.354933092456633
+  },
+  "low_onset_rate": {
+   "median": 6.582229185860447,
+   "iqr": 1.946268274499345
+  },
+  "lufs": {
+   "median": -8.806979269032908,
+   "iqr": 2.2108435524614443
+  },
+  "rms_dbfs": {
+   "median": -8.322898393061923,
+   "iqr": 2.0918003173848696
+  },
+  "crest": {
+   "median": 8.322898387908936,
+   "iqr": 2.0917998552322388
+  },
+  "centroid": {
+   "median": 2533.4266529875895,
+   "iqr": 278.17218791848245
+  },
+  "flatness": {
+   "median": 0.030178516171872616,
+   "iqr": 0.015339341247454286
+  },
+  "sub100_share": {
+   "median": 0.314531609416008,
+   "iqr": 0.08793281391263008
+  },
+  "lowest_pitch": {
+   "median": 55.1788330078125,
+   "iqr": 47.1038818359375
+  },
+  "harmonic_share": {
+   "median": 0.7905999422073364,
+   "iqr": 0.09247022867202759
+  },
+  "clean_share": {
+   "median": 0.013188518231186967,
+   "iqr": 0.22633824670287045
+  },
+  "minor_share": {
+   "median": 0.12184777088275983,
+   "iqr": 0.11829179354653
+  },
+  "chord_rate": {
+   "median": 1.8042658682054018,
+   "iqr": 0.7684836105319306
+  },
+  "repetitiveness": {
+   "median": 0.7892924845218658,
+   "iqr": 0.16080203652381897
+  },
+  "vocal_share": {
+   "median": 0.23084446787834167,
+   "iqr": 0.17021151259541512
+  },
+  "vocal_voiced": {
+   "median": 0.8253793183940243,
+   "iqr": 0.09694361269148943
+  },
+  "song_length": {
+   "median": 332.03999999999996,
+   "iqr": 98.18299999999999
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

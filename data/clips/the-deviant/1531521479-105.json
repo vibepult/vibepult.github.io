@@ -1,0 +1,32 @@
+{
+ "id": "the-deviant/1531521479-105",
+ "band": "the-deviant",
+ "title": "It Has a Name",
+ "source": "itunes",
+ "album": "Rotting Dreams of Carrion",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 8.286258061387771,
+  "tempo_var": 9.02550528970774,
+  "low_onset_rate": 7.651423774426611,
+  "lufs": -10.930695587635993,
+  "rms_dbfs": -9.942389528268249,
+  "crest": 9.942389488220215,
+  "centroid": 2573.1441157165036,
+  "flatness": 0.028784681111574173,
+  "sub100_share": 0.4162687063217163,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7876310348510742,
+  "clean_share": 0.003878975950349108,
+  "minor_share": 0.19610303251902128,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.8764139413833618,
+  "vocal_share": 0.07366093248128891,
+  "vocal_voiced": 0.1660958904109589,
+  "song_length": 242.338
+ }
+}

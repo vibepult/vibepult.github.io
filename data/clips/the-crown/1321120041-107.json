@@ -1,0 +1,32 @@
+{
+ "id": "the-crown/1321120041-107",
+ "band": "the-crown",
+ "title": "Necrohammer",
+ "source": "itunes",
+ "album": "Cobra Speed Venom",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 7.050001818358144,
+  "tempo_var": 14.460912948733407,
+  "low_onset_rate": 10.19076092227125,
+  "lufs": -7.108959919986434,
+  "rms_dbfs": -5.85063324208723,
+  "crest": 5.850632667541504,
+  "centroid": 2505.394391937352,
+  "flatness": 0.03284037485718727,
+  "sub100_share": 0.4684412181377411,
+  "lowest_pitch": 26.91650390625,
+  "harmonic_share": 0.7267177700996399,
+  "clean_share": 0.0,
+  "minor_share": 0.10320457228747237,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.9360406994819641,
+  "vocal_share": 0.08627505600452423,
+  "vocal_voiced": 0.025606469002695417,
+  "song_length": 241.523
+ }
+}

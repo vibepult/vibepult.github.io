@@ -1,0 +1,127 @@
+{
+ "slug": "judas-priest",
+ "name": "Judas Priest",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 154707,
+  "deezer": 533,
+  "spotify": "2tRsMl4eGxwoNabM08Dm4I"
+ },
+ "metadata": {
+  "formed": 1970,
+  "split": null,
+  "country": "GB",
+  "status": "active",
+  "members": 5,
+  "past_members": 9,
+  "full_lengths": 20,
+  "genre": "Heavy Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 1251332,
+  "themes": "Dark fantasy, History, Allegory, Independence, Rock/Metal, Science fiction",
+  "release_year": 1983
+ },
+ "partial": false,
+ "clips": [
+  "judas-priest/1774143155-105",
+  "judas-priest/217052098-105",
+  "judas-priest/207346308-105",
+  "judas-priest/207346194-105",
+  "judas-priest/207346167-106",
+  "judas-priest/207178130-106",
+  "judas-priest/207178131-105",
+  "judas-priest/207178142-105",
+  "judas-priest/390363966-107",
+  "judas-priest/424150620-105",
+  "judas-priest/282428225-112",
+  "judas-priest/1709353665-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 112.55992542613637,
+   "iqr": 54.560960399917604
+  },
+  "onset_rate": {
+   "median": 3.1646621414402665,
+   "iqr": 1.9146796342253158
+  },
+  "tempo_var": {
+   "median": 14.47843843703563,
+   "iqr": 14.356795923943796
+  },
+  "low_onset_rate": {
+   "median": 5.030147193236635,
+   "iqr": 4.549757552969292
+  },
+  "lufs": {
+   "median": -9.953938308108722,
+   "iqr": 3.9983606758953485
+  },
+  "rms_dbfs": {
+   "median": -10.081137146417193,
+   "iqr": 3.2528921991137523
+  },
+  "crest": {
+   "median": 10.08113718032837,
+   "iqr": 3.252892017364502
+  },
+  "centroid": {
+   "median": 2476.7843490125438,
+   "iqr": 795.6676109486232
+  },
+  "flatness": {
+   "median": 0.02714431192725897,
+   "iqr": 0.024982918868772686
+  },
+  "sub100_share": {
+   "median": 0.27093544602394104,
+   "iqr": 0.30647928826510906
+  },
+  "lowest_pitch": {
+   "median": 48.44970703125,
+   "iqr": 24.89776611328125
+  },
+  "harmonic_share": {
+   "median": 0.8047246336936951,
+   "iqr": 0.08988417685031891
+  },
+  "clean_share": {
+   "median": 0.07927300850734725,
+   "iqr": 0.5803534518085988
+  },
+  "minor_share": {
+   "median": -0.0985186556429285,
+   "iqr": 0.12378825445114379
+  },
+  "chord_rate": {
+   "median": 1.132935168007275,
+   "iqr": 0.39126426578736373
+  },
+  "repetitiveness": {
+   "median": 0.7489914894104004,
+   "iqr": 0.1498163938522339
+  },
+  "vocal_share": {
+   "median": 0.17569600045681,
+   "iqr": 0.09953208640217781
+  },
+  "vocal_voiced": {
+   "median": 0.704104603911722,
+   "iqr": 0.27675314510907967
+  },
+  "song_length": {
+   "median": 273.13300000000004,
+   "iqr": 53.900000000000006
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.6,
+  "camp": 0.5
+ },
+ "sources_failed": []
+}

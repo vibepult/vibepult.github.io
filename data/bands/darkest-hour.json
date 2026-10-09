@@ -1,0 +1,127 @@
+{
+ "slug": "darkest-hour",
+ "name": "Darkest Hour",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 15366902,
+  "deezer": 8254,
+  "spotify": "4dso1lISV1Atdo3O6qbhqq"
+ },
+ "metadata": {
+  "formed": 1995,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 8,
+  "full_lengths": 11,
+  "genre": "Melodic Death Metal/Metalcore",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 11605,
+  "themes": "Society, Life, Politics, Religion, Inner struggles",
+  "release_year": 2004
+ },
+ "partial": false,
+ "clips": [
+  "darkest-hour/1818532222-105",
+  "darkest-hour/1558582119-104",
+  "darkest-hour/1558590685-105",
+  "darkest-hour/6800405086-106",
+  "darkest-hour/1558590220-106",
+  "darkest-hour/451516788-107",
+  "darkest-hour/1644355499-106",
+  "darkest-hour/1818532222-104",
+  "darkest-hour/1558582119-105",
+  "darkest-hour/1558590685-106",
+  "darkest-hour/6800405086-104",
+  "darkest-hour/1558590220-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.72650642942585,
+   "iqr": 47.32378791360293
+  },
+  "onset_rate": {
+   "median": 6.582229185860447,
+   "iqr": 0.9218746005422132
+  },
+  "tempo_var": {
+   "median": 13.864123654514707,
+   "iqr": 8.011546300358122
+  },
+  "low_onset_rate": {
+   "median": 6.715878509431217,
+   "iqr": 1.3510528618148463
+  },
+  "lufs": {
+   "median": -9.026452537665671,
+   "iqr": 1.8496571420947578
+  },
+  "rms_dbfs": {
+   "median": -8.570454406774246,
+   "iqr": 1.8596883029031153
+  },
+  "crest": {
+   "median": 8.570454597473145,
+   "iqr": 1.8596888780593872
+  },
+  "centroid": {
+   "median": 2713.056938072252,
+   "iqr": 267.77705217293305
+  },
+  "flatness": {
+   "median": 0.04301266558468342,
+   "iqr": 0.016381372697651386
+  },
+  "sub100_share": {
+   "median": 0.3202448934316635,
+   "iqr": 0.12046646326780319
+  },
+  "lowest_pitch": {
+   "median": 51.141357421875,
+   "iqr": 40.374755859375
+  },
+  "harmonic_share": {
+   "median": 0.7400632500648499,
+   "iqr": 0.06747104227542877
+  },
+  "clean_share": {
+   "median": 0.0007757951900698216,
+   "iqr": 0.02648878576952823
+  },
+  "minor_share": {
+   "median": 0.0457118340320149,
+   "iqr": 0.16787574671006772
+  },
+  "chord_rate": {
+   "median": 1.851628732324941,
+   "iqr": 0.4581674018266537
+  },
+  "repetitiveness": {
+   "median": 0.8903132379055023,
+   "iqr": 0.0345785915851593
+  },
+  "vocal_share": {
+   "median": 0.09660673886537552,
+   "iqr": 0.05397512763738632
+  },
+  "vocal_voiced": {
+   "median": 0.21739130434782608,
+   "iqr": 0.12153107208112358
+  },
+  "song_length": {
+   "median": 254.93,
+   "iqr": 87.81974999999997
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "fantomas/1891406932-107",
+ "band": "fantomas",
+ "title": "Rosemary's Baby",
+ "source": "itunes",
+ "album": "The Director's Cut",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 1.3666584026702786,
+  "tempo_var": 8.550288640955719,
+  "low_onset_rate": 1.9999879063467492,
+  "lufs": -14.206524217838767,
+  "rms_dbfs": -13.183592293828312,
+  "crest": 13.183591842651367,
+  "centroid": 1829.2853902002914,
+  "flatness": 0.015171889215707779,
+  "sub100_share": 0.33919572830200195,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.9338718056678772,
+  "clean_share": 0.5119876256767208,
+  "minor_share": 0.10423894791125998,
+  "chord_rate": 1.466657797987616,
+  "repetitiveness": 0.7471395134925842,
+  "vocal_share": 0.09666766971349716,
+  "vocal_voiced": 0.6900726392251816,
+  "song_length": 200.733
+ }
+}

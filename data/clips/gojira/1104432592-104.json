@@ -1,0 +1,32 @@
+{
+ "id": "gojira/1104432592-104",
+ "band": "gojira",
+ "title": "Stranded",
+ "source": "itunes",
+ "album": "Magma",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 4.532045314407998,
+  "tempo_var": 6.426635335449766,
+  "low_onset_rate": 7.397897498518939,
+  "lufs": -7.848992207784975,
+  "rms_dbfs": -6.763652834080359,
+  "crest": 6.76365327835083,
+  "centroid": 2373.922199576332,
+  "flatness": 0.029492542147636414,
+  "sub100_share": 0.5093147158622742,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7786384224891663,
+  "clean_share": 0.020108275328692964,
+  "minor_share": 0.10892308788094657,
+  "chord_rate": 2.0327556189624114,
+  "repetitiveness": 0.8742848634719849,
+  "vocal_share": 0.13090212643146515,
+  "vocal_voiced": 0.036637931034482756,
+  "song_length": 269.542
+ }
+}

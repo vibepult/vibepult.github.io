@@ -1,0 +1,32 @@
+{
+ "id": "katatonia/1647368479-106",
+ "band": "katatonia",
+ "title": "Author",
+ "source": "itunes",
+ "album": "Sky Void of Stars",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.733333333333333,
+  "tempo_var": 2.037392992849831,
+  "low_onset_rate": 5.733333333333333,
+  "lufs": -11.82693778853634,
+  "rms_dbfs": -10.954039332039287,
+  "crest": 10.954038619995117,
+  "centroid": 2559.027363106855,
+  "flatness": 0.026871157810091972,
+  "sub100_share": 0.4093244969844818,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.760001003742218,
+  "clean_share": 0.04256965944272446,
+  "minor_share": 0.05242680403561606,
+  "chord_rate": 1.3,
+  "repetitiveness": 0.8160478472709656,
+  "vocal_share": 0.19986282289028168,
+  "vocal_voiced": 0.8225806451612904,
+  "song_length": 257.427
+ }
+}

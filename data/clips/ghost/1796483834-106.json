@@ -1,0 +1,32 @@
+{
+ "id": "ghost/1796483834-106",
+ "band": "ghost",
+ "title": "Cenotaph",
+ "source": "itunes",
+ "album": "Skeletá",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.8966245490636835,
+  "tempo_var": 31.187291589843994,
+  "low_onset_rate": 6.06248753693599,
+  "lufs": -8.802489634974428,
+  "rms_dbfs": -7.671064824189971,
+  "crest": 7.671064853668213,
+  "centroid": 2339.295842660633,
+  "flatness": 0.018746474757790565,
+  "sub100_share": 0.27297288179397583,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7445946931838989,
+  "clean_share": 0.23433874709976799,
+  "minor_share": 0.23497778377357248,
+  "chord_rate": 1.2324837300364375,
+  "repetitiveness": 0.6323789358139038,
+  "vocal_share": 0.06519407778978348,
+  "vocal_voiced": 0.8898007033997656,
+  "song_length": 257.637
+ }
+}

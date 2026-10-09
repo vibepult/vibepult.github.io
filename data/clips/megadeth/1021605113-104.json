@@ -1,0 +1,32 @@
+{
+ "id": "megadeth/1021605113-104",
+ "band": "megadeth",
+ "title": "Mary Jane",
+ "source": "itunes",
+ "album": "So Far, So Good...So What!",
+ "year": 1988,
+ "itunes_year": 1988,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.633263291560218,
+  "tempo_var": 7.266131144866211,
+  "low_onset_rate": 5.866577980680565,
+  "lufs": -14.149976214646374,
+  "rms_dbfs": -14.142546818970626,
+  "crest": 14.07068157196045,
+  "centroid": 2870.1580432114556,
+  "flatness": 0.038061533123254776,
+  "sub100_share": 0.2819908559322357,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.7520764470100403,
+  "clean_share": 0.061871616395978345,
+  "minor_share": 0.02458722268917457,
+  "chord_rate": 1.8666384483983613,
+  "repetitiveness": 0.8943114876747131,
+  "vocal_share": 0.03130137547850609,
+  "vocal_voiced": 0.39325842696629215,
+  "song_length": 265.44
+ }
+}

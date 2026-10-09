@@ -1,0 +1,127 @@
+{
+ "slug": "fleshgod-apocalypse",
+ "name": "Fleshgod Apocalypse",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 450736188,
+  "deezer": 447070,
+  "spotify": "5ctFffJBdJe8PZL7W7NeML"
+ },
+ "metadata": {
+  "formed": 2007,
+  "split": null,
+  "country": "IT",
+  "status": "active",
+  "members": 5,
+  "past_members": 4,
+  "full_lengths": 6,
+  "genre": "Symphonic/Technical Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 37443,
+  "themes": "Humanity, Inner struggles, Society, Philosophy, Anti-religion",
+  "release_year": 2014
+ },
+ "partial": false,
+ "clips": [
+  "fleshgod-apocalypse/714574199-105",
+  "fleshgod-apocalypse/1456954597-106",
+  "fleshgod-apocalypse/1458642822-105",
+  "fleshgod-apocalypse/1459097437-111",
+  "fleshgod-apocalypse/1453441547-107",
+  "fleshgod-apocalypse/1747747924-105",
+  "fleshgod-apocalypse/714574199-106",
+  "fleshgod-apocalypse/1456954597-107",
+  "fleshgod-apocalypse/1458642822-106",
+  "fleshgod-apocalypse/1459097437-112",
+  "fleshgod-apocalypse/1453441547-108",
+  "fleshgod-apocalypse/1747747924-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 136.376953125,
+   "iqr": 34.8679210265837
+  },
+  "onset_rate": {
+   "median": 1.1348312635478472,
+   "iqr": 3.324843720303903
+  },
+  "tempo_var": {
+   "median": 15.797156466486669,
+   "iqr": 10.816215445459632
+  },
+  "low_onset_rate": {
+   "median": 1.8209720336517479,
+   "iqr": 4.369790851683078
+  },
+  "lufs": {
+   "median": -7.71626088626785,
+   "iqr": 3.3662223903113526
+  },
+  "rms_dbfs": {
+   "median": -7.346290130822342,
+   "iqr": 3.667043248983899
+  },
+  "crest": {
+   "median": 7.346289873123169,
+   "iqr": 3.667042851448059
+  },
+  "centroid": {
+   "median": 2470.943945909761,
+   "iqr": 730.9015545335515
+  },
+  "flatness": {
+   "median": 0.0346505269408226,
+   "iqr": 0.028455240186303854
+  },
+  "sub100_share": {
+   "median": 0.34464551508426666,
+   "iqr": 0.111568883061409
+  },
+  "lowest_pitch": {
+   "median": 45.758056640625,
+   "iqr": 6.7291259765625
+  },
+  "harmonic_share": {
+   "median": 0.7857364416122437,
+   "iqr": 0.06692500412464142
+  },
+  "clean_share": {
+   "median": 0.027928626842513578,
+   "iqr": 0.16456487969774586
+  },
+  "minor_share": {
+   "median": -0.004194743819339236,
+   "iqr": 0.2940458945564972
+  },
+  "chord_rate": {
+   "median": 2.0023638799541534,
+   "iqr": 0.8129219944561257
+  },
+  "repetitiveness": {
+   "median": 0.9127278029918671,
+   "iqr": 0.0772695541381836
+  },
+  "vocal_share": {
+   "median": 0.06944876536726952,
+   "iqr": 0.005939345806837082
+  },
+  "vocal_voiced": {
+   "median": 0.16114225767750226,
+   "iqr": 0.046532685889089154
+  },
+  "song_length": {
+   "median": 305.687,
+   "iqr": 78.4135
+  },
+  "vocal_presence": {
+   "median": 0.16666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.8,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

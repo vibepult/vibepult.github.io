@@ -1,0 +1,32 @@
+{
+ "id": "tyr/1184702102-108",
+ "band": "tyr",
+ "title": "Ramund Hin Unge",
+ "source": "itunes",
+ "album": "Eric the Red",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.533333333333333,
+  "tempo_var": 3.1737801394528224,
+  "low_onset_rate": 5.933333333333334,
+  "lufs": -15.755043851487168,
+  "rms_dbfs": -15.706872338379538,
+  "crest": 15.7066068649292,
+  "centroid": 1570.314727976757,
+  "flatness": 0.003240183461457491,
+  "sub100_share": 0.00043686653953045607,
+  "lowest_pitch": 164.190673828125,
+  "harmonic_share": 0.9133458733558655,
+  "clean_share": 0.8343653250773994,
+  "minor_share": 0.11220961316962719,
+  "chord_rate": 1.3333333333333333,
+  "repetitiveness": 0.5903788805007935,
+  "vocal_share": 0.5112142562866211,
+  "vocal_voiced": 0.8173258003766478,
+  "song_length": 271.547
+ }
+}

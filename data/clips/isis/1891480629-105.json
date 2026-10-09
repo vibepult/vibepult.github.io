@@ -1,0 +1,32 @@
+{
+ "id": "isis/1891480629-105",
+ "band": "isis",
+ "title": "Stone to Wake a Serpent",
+ "source": "itunes",
+ "album": "Wavering Radiant",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.333313177244582,
+  "tempo_var": 1.9954624599459836,
+  "low_onset_rate": 1.6333234568498451,
+  "lufs": -11.612963568682073,
+  "rms_dbfs": -10.568036528478649,
+  "crest": 10.568036079406738,
+  "centroid": 2325.7005807060063,
+  "flatness": 0.025384819135069847,
+  "sub100_share": 0.34579747915267944,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.6902468204498291,
+  "clean_share": 0.3580819798917247,
+  "minor_share": -0.0840154710335953,
+  "chord_rate": 1.299992139125387,
+  "repetitiveness": 0.7279614210128784,
+  "vocal_share": 0.030619166791439056,
+  "vocal_voiced": 0.4354066985645933,
+  "song_length": 510.573
+ }
+}

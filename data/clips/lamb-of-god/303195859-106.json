@@ -1,0 +1,32 @@
+{
+ "id": "lamb-of-god/303195859-106",
+ "band": "lamb-of-god",
+ "title": "Grace",
+ "source": "itunes",
+ "album": "Wrath",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 6.695758846626249,
+  "tempo_var": 3.387427884535663,
+  "low_onset_rate": 7.495252440253263,
+  "lufs": -6.26339271942514,
+  "rms_dbfs": -5.6308254694421755,
+  "crest": 5.630825042724609,
+  "centroid": 2452.9286953881233,
+  "flatness": 0.035798389464616776,
+  "sub100_share": 0.351889431476593,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7322913408279419,
+  "clean_share": 0.0,
+  "minor_share": -0.05404983259520568,
+  "chord_rate": 1.3991137888472758,
+  "repetitiveness": 0.9077798128128052,
+  "vocal_share": 0.19108867645263672,
+  "vocal_voiced": 0.0982066609735269,
+  "song_length": 235.133
+ }
+}

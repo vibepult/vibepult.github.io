@@ -1,0 +1,32 @@
+{
+ "id": "arcturus/1556122705-103",
+ "band": "arcturus",
+ "title": "The Chaos Path",
+ "source": "itunes",
+ "album": "La Masquerade Infernale",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.878200310333123,
+  "tempo_var": 6.553529949155755,
+  "low_onset_rate": 5.513034597294284,
+  "lufs": -9.004373484916433,
+  "rms_dbfs": -9.155730842614409,
+  "crest": 9.155731201171875,
+  "centroid": 3055.8058817916526,
+  "flatness": 0.050999343395233154,
+  "sub100_share": 0.2322627305984497,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.772201418876648,
+  "clean_share": 0.0,
+  "minor_share": 0.24878428248341655,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.7550342082977295,
+  "vocal_share": 0.2425391525030136,
+  "vocal_voiced": 0.667447306791569,
+  "song_length": 333.84
+ }
+}

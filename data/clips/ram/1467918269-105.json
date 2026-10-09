@@ -1,0 +1,32 @@
+{
+ "id": "ram/1467918269-105",
+ "band": "ram",
+ "title": "The Trap",
+ "source": "itunes",
+ "album": "The Throne Within",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.474882412840033,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.209953692479271,
+  "lufs": -8.173960796122223,
+  "rms_dbfs": -8.331254469499667,
+  "crest": 8.331254959106445,
+  "centroid": 2701.014010146133,
+  "flatness": 0.04437396675348282,
+  "sub100_share": 0.2347487062215805,
+  "lowest_pitch": 123.81591796875,
+  "harmonic_share": 0.680168628692627,
+  "clean_share": 0.0,
+  "minor_share": 0.11388459027453057,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.8392606377601624,
+  "vocal_share": 0.11151867359876633,
+  "vocal_voiced": 0.24444444444444444,
+  "song_length": 275.32
+ }
+}

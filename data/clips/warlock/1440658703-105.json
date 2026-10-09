@@ -1,0 +1,32 @@
+{
+ "id": "warlock/1440658703-105",
+ "band": "warlock",
+ "title": "Make Time for Love",
+ "source": "itunes",
+ "album": "Triumph and Agony",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.666626354854802,
+  "tempo_var": 1.8012648724355145,
+  "low_onset_rate": 3.6332784084896677,
+  "lufs": -16.99844734137477,
+  "rms_dbfs": -16.987634265940585,
+  "crest": 16.73727798461914,
+  "centroid": 2145.3668740103467,
+  "flatness": 0.0166898462921381,
+  "sub100_share": 0.08919095993041992,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7350974678993225,
+  "clean_share": 0.17478731631863884,
+  "minor_share": 0.02998893167131056,
+  "chord_rate": 1.333313177427401,
+  "repetitiveness": 0.6677799820899963,
+  "vocal_share": 0.46180960536003113,
+  "vocal_voiced": 0.8532608695652174,
+  "song_length": 284.507
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "lex-talion/1441911021-104",
+ "band": "lex-talion",
+ "title": "Sons of Chaos",
+ "source": "itunes",
+ "album": "Sons of Chaos",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 73.828125,
+  "onset_rate": 6.147868884255443,
+  "tempo_var": 18.60295226061061,
+  "low_onset_rate": 6.682466178538525,
+  "lufs": -6.398762655036252,
+  "rms_dbfs": -6.285290399522431,
+  "crest": 6.285290241241455,
+  "centroid": 2497.2028682198215,
+  "flatness": 0.03396587446331978,
+  "sub100_share": 0.3252886235713959,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7740222215652466,
+  "clean_share": 0.004654771140418929,
+  "minor_share": -0.030622424083031174,
+  "chord_rate": 2.1049768462396354,
+  "repetitiveness": 0.9240473508834839,
+  "vocal_share": 0.14034447073936462,
+  "vocal_voiced": 0.5837615621788284,
+  "song_length": 169.492
+ }
+}

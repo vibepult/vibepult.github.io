@@ -1,0 +1,32 @@
+{
+ "id": "machine-head/214392135-105",
+ "band": "machine-head",
+ "title": "The Frontlines",
+ "source": "itunes",
+ "album": "The More Things Change...",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.066069307020487,
+  "tempo_var": 25.746772967963153,
+  "low_onset_rate": 5.699327970398048,
+  "lufs": -9.571118458112775,
+  "rms_dbfs": -9.553512138394746,
+  "crest": 9.553512573242188,
+  "centroid": 2946.394473469319,
+  "flatness": 0.05012034252285957,
+  "sub100_share": 0.3007374405860901,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.6970891952514648,
+  "clean_share": 0.010054137664346482,
+  "minor_share": 0.06874134517135033,
+  "chord_rate": 2.966316896873838,
+  "repetitiveness": 0.9224936962127686,
+  "vocal_share": 0.014119896106421947,
+  "vocal_voiced": 0.12173913043478261,
+  "song_length": 351.0
+ }
+}

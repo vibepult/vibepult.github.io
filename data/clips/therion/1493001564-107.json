@@ -1,0 +1,32 @@
+{
+ "id": "therion/1493001564-107",
+ "band": "therion",
+ "title": "Darkness Eve",
+ "source": "itunes",
+ "album": "Lepaca Kliffoth",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.84478797944043,
+  "tempo_var": 22.38306990756696,
+  "low_onset_rate": 6.916352494787374,
+  "lufs": -10.54167805978369,
+  "rms_dbfs": -10.321901395216441,
+  "crest": 10.32190227508545,
+  "centroid": 2626.8321225900017,
+  "flatness": 0.03621884807944298,
+  "sub100_share": 0.26518920063972473,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.6811025738716125,
+  "clean_share": 0.023273855702094646,
+  "minor_share": 0.09859686179652555,
+  "chord_rate": 2.3722754933811765,
+  "repetitiveness": 0.8556320071220398,
+  "vocal_share": 0.20225127041339874,
+  "vocal_voiced": 0.7368421052631579,
+  "song_length": 319.467
+ }
+}

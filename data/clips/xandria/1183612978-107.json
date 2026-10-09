@@ -1,0 +1,32 @@
+{
+ "id": "xandria/1183612978-107",
+ "band": "xandria",
+ "title": "Until the End",
+ "source": "itunes",
+ "album": "Sacrificium",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 3.466666666666667,
+  "tempo_var": 15.776630674110185,
+  "low_onset_rate": 9.366666666666667,
+  "lufs": -9.123031486694208,
+  "rms_dbfs": -8.311184169767799,
+  "crest": 8.31118392944336,
+  "centroid": 2334.1953644954333,
+  "flatness": 0.02122602052986622,
+  "sub100_share": 0.3847152888774872,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.8484650254249573,
+  "clean_share": 0.02321981424148607,
+  "minor_share": 0.05318078618286681,
+  "chord_rate": 1.7333333333333334,
+  "repetitiveness": 0.8584548234939575,
+  "vocal_share": 0.015139451250433922,
+  "vocal_voiced": 0.9508928571428571,
+  "song_length": 337.615
+ }
+}

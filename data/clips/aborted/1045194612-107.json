@@ -1,0 +1,32 @@
+{
+ "id": "aborted/1045194612-107",
+ "band": "aborted",
+ "title": "Archetype",
+ "source": "itunes",
+ "album": "Slaughtered Apparatus - A Methodical Overture",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 8.186021068709692,
+  "tempo_var": 7.045505431320427,
+  "low_onset_rate": 9.65616362798817,
+  "lufs": -7.200386196974121,
+  "rms_dbfs": -6.502789956393893,
+  "crest": 6.5027899742126465,
+  "centroid": 2514.6663461910757,
+  "flatness": 0.03277048096060753,
+  "sub100_share": 0.2914787232875824,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8073388338088989,
+  "clean_share": 0.018619084561675717,
+  "minor_share": 0.0809159406820712,
+  "chord_rate": 1.871090529990787,
+  "repetitiveness": 0.9115810990333557,
+  "vocal_share": 0.09831517189741135,
+  "vocal_voiced": 0.27305825242718446,
+  "song_length": 192.0
+ }
+}

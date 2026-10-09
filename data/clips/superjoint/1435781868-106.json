@@ -1,0 +1,32 @@
+{
+ "id": "superjoint/1435781868-106",
+ "band": "superjoint",
+ "title": "Never to Sit or Stand Again",
+ "source": "itunes",
+ "album": "A Lethal Dose of American Hatred",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 2.6,
+  "tempo_var": 11.40567549347017,
+  "low_onset_rate": 4.566666666666666,
+  "lufs": -11.038577464751869,
+  "rms_dbfs": -10.953399820428086,
+  "crest": 10.953399658203125,
+  "centroid": 2672.944032939471,
+  "flatness": 0.04355525225400925,
+  "sub100_share": 0.34300658106803894,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6246152520179749,
+  "clean_share": 0.010061919504643963,
+  "minor_share": -0.049913831169419165,
+  "chord_rate": 1.6666666666666667,
+  "repetitiveness": 0.9584662914276123,
+  "vocal_share": 0.17407329380512238,
+  "vocal_voiced": 0.20781527531083482,
+  "song_length": 313.64
+ }
+}

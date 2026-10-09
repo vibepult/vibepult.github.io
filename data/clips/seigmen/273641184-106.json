@@ -1,0 +1,32 @@
+{
+ "id": "seigmen/273641184-106",
+ "band": "seigmen",
+ "title": "Neon Sun",
+ "source": "itunes",
+ "album": "Radiowaves",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.945024972118508,
+  "tempo_var": 5.679952264963917,
+  "low_onset_rate": 4.811375648547738,
+  "lufs": -14.217116656218876,
+  "rms_dbfs": -13.28834823775672,
+  "crest": 13.288349151611328,
+  "centroid": 2472.735684119197,
+  "flatness": 0.026680700480937958,
+  "sub100_share": 0.3898073434829712,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7389982342720032,
+  "clean_share": 0.2692009309542281,
+  "minor_share": -0.02449283835764171,
+  "chord_rate": 1.4367302283857828,
+  "repetitiveness": 0.9519935250282288,
+  "vocal_share": 0.06852702796459198,
+  "vocal_voiced": 0.8177458033573142,
+  "song_length": 278.827
+ }
+}

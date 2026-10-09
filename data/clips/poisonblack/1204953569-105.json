@@ -1,0 +1,32 @@
+{
+ "id": "poisonblack/1204953569-105",
+ "band": "poisonblack",
+ "title": "Invisible",
+ "source": "itunes",
+ "album": "Of Rust and Bones",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.8066357949861804,
+  "tempo_var": 2.6386225478963587,
+  "low_onset_rate": 3.30782075837657,
+  "lufs": -10.132848185266022,
+  "rms_dbfs": -9.584501458975256,
+  "crest": 9.584501266479492,
+  "centroid": 2007.0760731534176,
+  "flatness": 0.011767568998038769,
+  "sub100_share": 0.1946246474981308,
+  "lowest_pitch": 88.824462890625,
+  "harmonic_share": 0.8450419902801514,
+  "clean_share": 0.41505042668735453,
+  "minor_share": 0.05947880848061504,
+  "chord_rate": 0.8687206032100082,
+  "repetitiveness": 0.638658881187439,
+  "vocal_share": 0.2112010270357132,
+  "vocal_voiced": 0.8650442477876106,
+  "song_length": 487.893
+ }
+}

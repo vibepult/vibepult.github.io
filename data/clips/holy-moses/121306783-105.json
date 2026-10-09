@@ -1,0 +1,32 @@
+{
+ "id": "holy-moses/121306783-105",
+ "band": "holy-moses",
+ "title": "Roadcrew",
+ "source": "itunes",
+ "album": "Queen of Siam",
+ "year": 1986,
+ "itunes_year": 1988,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 1.9045028608834795,
+  "tempo_var": 18.92475846198606,
+  "low_onset_rate": 4.84478797944043,
+  "lufs": -8.268047659255155,
+  "rms_dbfs": -8.396339898916391,
+  "crest": 8.396340370178223,
+  "centroid": 3010.9931646945556,
+  "flatness": 0.03913183510303497,
+  "sub100_share": 0.2766818702220917,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7859707474708557,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.21107579642136964,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.8646668195724487,
+  "vocal_share": 0.0591583177447319,
+  "vocal_voiced": 0.21161825726141079,
+  "song_length": 188.987
+ }
+}

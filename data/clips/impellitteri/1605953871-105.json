@@ -1,0 +1,32 @@
+{
+ "id": "impellitteri/1605953871-105",
+ "band": "impellitteri",
+ "title": "The Vision",
+ "source": "itunes",
+ "album": "Wicked Maiden",
+ "year": 2009,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.209953692479271,
+  "tempo_var": 7.048255958397245,
+  "low_onset_rate": 5.613271589972361,
+  "lufs": -9.331637586292516,
+  "rms_dbfs": -9.104385574993806,
+  "crest": 9.104386329650879,
+  "centroid": 2619.620001386812,
+  "flatness": 0.03300032392144203,
+  "sub100_share": 0.23862649500370026,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7183849215507507,
+  "clean_share": 0.10162916989914662,
+  "minor_share": 0.26839456182714216,
+  "chord_rate": 2.3054508315957913,
+  "repetitiveness": 0.8687681555747986,
+  "vocal_share": 0.3054957985877991,
+  "vocal_voiced": 0.8307984790874525,
+  "song_length": 295.84
+ }
+}

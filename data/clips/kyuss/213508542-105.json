@@ -1,0 +1,32 @@
+{
+ "id": "kyuss/213508542-105",
+ "band": "kyuss",
+ "title": "Thong Song",
+ "source": "itunes",
+ "album": "Blues for the Red Sun",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 2.599960695983432,
+  "tempo_var": 28.204178240675848,
+  "low_onset_rate": 4.966591585917069,
+  "lufs": -14.938689434473314,
+  "rms_dbfs": -16.46615358676555,
+  "crest": 16.466154098510742,
+  "centroid": 1792.3695388782955,
+  "flatness": 0.011430523358285427,
+  "sub100_share": 0.32055896520614624,
+  "lowest_pitch": 126.507568359375,
+  "harmonic_share": 0.7633535265922546,
+  "clean_share": 0.5189481825212684,
+  "minor_share": -0.20446167332522847,
+  "chord_rate": 1.8666384483983613,
+  "repetitiveness": 0.7950587868690491,
+  "vocal_share": 0.11110121756792068,
+  "vocal_voiced": 0.8898186889818689,
+  "song_length": 227.133
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "dawn-of-ashes/267859858-107",
+ "band": "dawn-of-ashes",
+ "title": "The Crypt Injection",
+ "source": "itunes",
+ "album": "The Crypt Injections",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.9760673762304224,
+  "tempo_var": 7.253513096161875,
+  "low_onset_rate": 6.582229185860447,
+  "lufs": -7.191675627624432,
+  "rms_dbfs": -6.294082860780547,
+  "crest": 6.294083118438721,
+  "centroid": 2780.490396370596,
+  "flatness": 0.05019376426935196,
+  "sub100_share": 0.3314301073551178,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.6413056254386902,
+  "clean_share": 0.04654771140418929,
+  "minor_share": 0.027349776294235906,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.9451574683189392,
+  "vocal_share": 0.10936973243951797,
+  "vocal_voiced": 0.0,
+  "song_length": 258.0
+ }
+}

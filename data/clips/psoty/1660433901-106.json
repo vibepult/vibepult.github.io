@@ -1,0 +1,32 @@
+{
+ "id": "psoty/1660433901-106",
+ "band": "psoty",
+ "title": "Charon",
+ "source": "itunes",
+ "album": "Sunless",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 198.76802884615384,
+  "onset_rate": 3.1407591039131066,
+  "tempo_var": 6.089825526566859,
+  "low_onset_rate": 3.6753563981961888,
+  "lufs": -14.33199398427209,
+  "rms_dbfs": -13.710813916441039,
+  "crest": 13.710548400878906,
+  "centroid": 1018.7348368768918,
+  "flatness": 3.719521191669628e-05,
+  "sub100_share": 0.04100164398550987,
+  "lowest_pitch": 99.591064453125,
+  "harmonic_share": 0.9882469773292542,
+  "clean_share": 0.9992242048099301,
+  "minor_share": 0.08441435232353411,
+  "chord_rate": 1.1026069194588566,
+  "repetitiveness": 0.7152295112609863,
+  "vocal_share": 1.769726168276975e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 144.373
+ }
+}

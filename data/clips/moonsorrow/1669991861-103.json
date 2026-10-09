@@ -1,0 +1,32 @@
+{
+ "id": "moonsorrow/1669991861-103",
+ "band": "moonsorrow",
+ "title": "Pimeä",
+ "source": "itunes",
+ "album": "Verisäkeet",
+ "year": 2005,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.7398111332007953,
+  "tempo_var": 8.659094510554198,
+  "low_onset_rate": 5.513034597294284,
+  "lufs": -10.035079102774603,
+  "rms_dbfs": -12.185157168190301,
+  "crest": 12.185157775878906,
+  "centroid": 2448.421926987603,
+  "flatness": 0.028020691126585007,
+  "sub100_share": 0.2306121438741684,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7660751938819885,
+  "clean_share": 0.10938712179984485,
+  "minor_share": 0.061900742449359614,
+  "chord_rate": 2.472512486059254,
+  "repetitiveness": 0.8058083057403564,
+  "vocal_share": 0.014892153441905975,
+  "vocal_voiced": 0.6643835616438356,
+  "song_length": 848.027
+ }
+}

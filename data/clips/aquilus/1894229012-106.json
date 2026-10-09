@@ -1,0 +1,32 @@
+{
+ "id": "aquilus/1894229012-106",
+ "band": "aquilus",
+ "title": "Embered Waters",
+ "source": "itunes",
+ "album": "Bellum I",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 6.333237592780155,
+  "tempo_var": 4.58443441115981,
+  "low_onset_rate": 8.499871506099682,
+  "lufs": -17.851935448637168,
+  "rms_dbfs": -17.59297612829901,
+  "crest": 16.282180786132812,
+  "centroid": 1295.2864455591057,
+  "flatness": 0.0009185552480630577,
+  "sub100_share": 0.10110931098461151,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.9291933178901672,
+  "clean_share": 0.9953596287703016,
+  "minor_share": -0.15034006769117025,
+  "chord_rate": 0.43332678266390534,
+  "repetitiveness": 0.8613947629928589,
+  "vocal_share": 5.768944788542285e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 238.613
+ }
+}

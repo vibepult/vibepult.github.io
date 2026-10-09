@@ -1,0 +1,32 @@
+{
+ "id": "entoria/1450504614-105",
+ "band": "entoria",
+ "title": "Albtraum",
+ "source": "itunes",
+ "album": "Aschheim",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.377015346942734,
+  "tempo_var": 27.006399258989028,
+  "low_onset_rate": 5.112086626581972,
+  "lufs": -9.13363843489909,
+  "rms_dbfs": -8.046719967455914,
+  "crest": 8.046719551086426,
+  "centroid": 2396.6401272573676,
+  "flatness": 0.02464105375111103,
+  "sub100_share": 0.41125333309173584,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.7766704559326172,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": -0.011857005917045638,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.8270838260650635,
+  "vocal_share": 0.096032053232193,
+  "vocal_voiced": 0.2857142857142857,
+  "song_length": 432.915
+ }
+}

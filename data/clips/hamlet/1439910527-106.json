@@ -1,0 +1,32 @@
+{
+ "id": "hamlet/1439910527-106",
+ "band": "hamlet",
+ "title": "Libertad",
+ "source": "itunes",
+ "album": "Berlín",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 6.214693546040828,
+  "tempo_var": 6.919415001989537,
+  "low_onset_rate": 7.584599112641226,
+  "lufs": -5.628123345195455,
+  "rms_dbfs": -5.838894315463611,
+  "crest": 5.838894367218018,
+  "centroid": 2709.8771694274637,
+  "flatness": 0.05392667278647423,
+  "sub100_share": 0.32077860832214355,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7154420614242554,
+  "clean_share": 0.0,
+  "minor_share": 0.05292981043282513,
+  "chord_rate": 2.840048125878873,
+  "repetitiveness": 0.944265604019165,
+  "vocal_share": 0.2671678364276886,
+  "vocal_voiced": 0.10437710437710437,
+  "song_length": 275.308
+ }
+}

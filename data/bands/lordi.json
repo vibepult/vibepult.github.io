@@ -1,0 +1,127 @@
+{
+ "slug": "lordi",
+ "name": "Lordi",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 45298110,
+  "deezer": 3085,
+  "spotify": "14SgKNlOCKAI0PfRD1HnWh"
+ },
+ "metadata": {
+  "formed": 1992,
+  "split": null,
+  "country": "FI",
+  "status": "active",
+  "members": 5,
+  "past_members": 9,
+  "full_lengths": 20,
+  "genre": "Heavy Metal/Hard Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 98248,
+  "themes": "Horror, Gore, Rock/Metal",
+  "release_year": 2007
+ },
+ "partial": false,
+ "clips": [
+  "lordi/207186714-107",
+  "lordi/327224168-107",
+  "lordi/274671623-106",
+  "lordi/1710219859-107",
+  "lordi/1710192918-108",
+  "lordi/1710155939-106",
+  "lordi/1484821067-108",
+  "lordi/1776760129-107",
+  "lordi/1779994709-109",
+  "lordi/207186714-106",
+  "lordi/327224168-106",
+  "lordi/274671623-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 32.97393854213931
+  },
+  "onset_rate": {
+   "median": 3.615458597169831,
+   "iqr": 0.6589769219874251
+  },
+  "tempo_var": {
+   "median": 5.672962753058714,
+   "iqr": 14.692559258151872
+  },
+  "low_onset_rate": {
+   "median": 4.388673169869097,
+   "iqr": 1.5370341878696143
+  },
+  "lufs": {
+   "median": -8.738390797942806,
+   "iqr": 1.9200137431784743
+  },
+  "rms_dbfs": {
+   "median": -8.497339385443318,
+   "iqr": 1.4283292972108974
+  },
+  "crest": {
+   "median": 8.497339248657227,
+   "iqr": 1.4283291101455688
+  },
+  "centroid": {
+   "median": 2755.238063998886,
+   "iqr": 327.25638016679386
+  },
+  "flatness": {
+   "median": 0.045230429619550705,
+   "iqr": 0.013471683487296104
+  },
+  "sub100_share": {
+   "median": 0.26462478935718536,
+   "iqr": 0.057546526193618774
+  },
+  "lowest_pitch": {
+   "median": 64.599609375,
+   "iqr": 16.14990234375
+  },
+  "harmonic_share": {
+   "median": 0.696957141160965,
+   "iqr": 0.16304120421409607
+  },
+  "clean_share": {
+   "median": 0.008900044819722118,
+   "iqr": 0.027087432057921242
+  },
+  "minor_share": {
+   "median": 0.059931366736598074,
+   "iqr": 0.21367746441730268
+  },
+  "chord_rate": {
+   "median": 1.5703795519565533,
+   "iqr": 0.3171388883810531
+  },
+  "repetitiveness": {
+   "median": 0.7974511981010437,
+   "iqr": 0.07383209466934204
+  },
+  "vocal_share": {
+   "median": 0.24588987976312637,
+   "iqr": 0.08503222465515137
+  },
+  "vocal_voiced": {
+   "median": 0.20648384923138982,
+   "iqr": 0.11871360996608937
+  },
+  "song_length": {
+   "median": 222.97899999999998,
+   "iqr": 27.386750000000006
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 1.0,
+  "camp": 0.9
+ },
+ "sources_failed": []
+}

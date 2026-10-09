@@ -1,0 +1,32 @@
+{
+ "id": "sons-of-apollo/1487863127-107",
+ "band": "sons-of-apollo",
+ "title": "Resurrection Day",
+ "source": "itunes",
+ "album": "MMXX",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.84478797944043,
+  "tempo_var": 9.183706537929563,
+  "low_onset_rate": 3.7755933908742665,
+  "lufs": -9.735752074386342,
+  "rms_dbfs": -9.802581317215745,
+  "crest": 9.802580833435059,
+  "centroid": 2385.384486159345,
+  "flatness": 0.026858508586883545,
+  "sub100_share": 0.17259098589420319,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.6645289063453674,
+  "clean_share": 0.031031807602792862,
+  "minor_share": -0.0601550348789881,
+  "chord_rate": 2.606161809630025,
+  "repetitiveness": 0.8601235747337341,
+  "vocal_share": 0.2242034375667572,
+  "vocal_voiced": 0.6873428331936295,
+  "song_length": 351.409
+ }
+}

@@ -1,0 +1,123 @@
+{
+ "slug": "bucium",
+ "name": "Bucium",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 296375511,
+  "deezer": 10981326,
+  "spotify": "6s82iZ3aNxCqPwUskdP5Ud"
+ },
+ "metadata": {
+  "formed": 2000,
+  "split": null,
+  "country": "RO",
+  "status": "active",
+  "members": 5,
+  "past_members": 7,
+  "full_lengths": 3,
+  "genre": "Folk Metal/Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 291,
+  "themes": "Romanian folklore/history/mythology",
+  "release_year": 2022
+ },
+ "partial": false,
+ "clips": [
+  "bucium/1656020532-104",
+  "bucium/1656020532-105",
+  "bucium/1656020532-103",
+  "bucium/1656020532-106",
+  "bucium/1656020532-102",
+  "bucium/1656020532-107",
+  "bucium/1656020532-101",
+  "bucium/1656020532-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 107.85326086956522,
+   "iqr": 29.81520432692308
+  },
+  "onset_rate": {
+   "median": 4.493958505067158,
+   "iqr": 1.40331789749309
+  },
+  "tempo_var": {
+   "median": 11.276632383558871,
+   "iqr": 6.364396392255706
+  },
+  "low_onset_rate": {
+   "median": 5.145498957474665,
+   "iqr": 1.2028439121369345
+  },
+  "lufs": {
+   "median": -9.337906967682043,
+   "iqr": 1.955852421709249
+  },
+  "rms_dbfs": {
+   "median": -8.543924862955095,
+   "iqr": 1.6609143314846078
+  },
+  "crest": {
+   "median": 8.543924808502197,
+   "iqr": 1.6609151363372803
+  },
+  "centroid": {
+   "median": 2544.1912268147935,
+   "iqr": 503.7962671805976
+  },
+  "flatness": {
+   "median": 0.031476398929953575,
+   "iqr": 0.016026654979214072
+  },
+  "sub100_share": {
+   "median": 0.3643007129430771,
+   "iqr": 0.16529522091150284
+  },
+  "lowest_pitch": {
+   "median": 74.0203857421875,
+   "iqr": 40.374755859375
+  },
+  "harmonic_share": {
+   "median": 0.7978867888450623,
+   "iqr": 0.08009648323059082
+  },
+  "clean_share": {
+   "median": 0.04189294026377036,
+   "iqr": 0.21062839410395656
+  },
+  "minor_share": {
+   "median": 0.03659597738392145,
+   "iqr": 0.29347431990215367
+  },
+  "chord_rate": {
+   "median": 1.436730228385783,
+   "iqr": 0.7768366932551036
+  },
+  "repetitiveness": {
+   "median": 0.7877421975135803,
+   "iqr": 0.07459956407546997
+  },
+  "vocal_share": {
+   "median": 0.18368319422006607,
+   "iqr": 0.11625147238373756
+  },
+  "vocal_voiced": {
+   "median": 0.8276286171344461,
+   "iqr": 0.20241798577875258
+  },
+  "song_length": {
+   "median": 370.2265,
+   "iqr": 148.31675
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

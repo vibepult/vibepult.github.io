@@ -1,0 +1,32 @@
+{
+ "id": "elis/1184129469-106",
+ "band": "elis",
+ "title": "Firefly",
+ "source": "itunes",
+ "album": "Catharsis",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 6.4,
+  "tempo_var": 0.0,
+  "low_onset_rate": 8.0,
+  "lufs": -6.019449100626113,
+  "rms_dbfs": -6.121324133751083,
+  "crest": 6.12132453918457,
+  "centroid": 2537.655892547943,
+  "flatness": 0.037245068699121475,
+  "sub100_share": 0.20048514008522034,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7908108234405518,
+  "clean_share": 0.0,
+  "minor_share": -0.1478245734139278,
+  "chord_rate": 1.1,
+  "repetitiveness": 0.8502638339996338,
+  "vocal_share": 0.36162450909614563,
+  "vocal_voiced": 0.9114906832298136,
+  "song_length": 265.533
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "taake",
+ "name": "Taake",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 434486695,
+  "deezer": 323505,
+  "spotify": "2CofVEvqc6hhyKwYsLiuN9"
+ },
+ "metadata": {
+  "formed": 1995,
+  "split": null,
+  "country": "NO",
+  "status": "active",
+  "members": 1,
+  "past_members": 9,
+  "full_lengths": 9,
+  "genre": "Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 14427,
+  "themes": "Darkness, Death, Norway, Nature, Pride, Satan, Anti-Christianity",
+  "release_year": 2009
+ },
+ "partial": false,
+ "clips": [
+  "taake/338849472-104",
+  "taake/1438697988-104",
+  "taake/1624634110-104",
+  "taake/1624634281-104",
+  "taake/1624633267-104",
+  "taake/338849472-103",
+  "taake/1438697988-103",
+  "taake/1624634110-103",
+  "taake/1624634281-103",
+  "taake/1624633267-103",
+  "taake/338849472-105",
+  "taake/1438697988-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 139.77693256578948,
+   "iqr": 41.12708050271739
+  },
+  "onset_rate": {
+   "median": 3.575119405518111,
+   "iqr": 4.326896850603695
+  },
+  "tempo_var": {
+   "median": 10.78861081997252,
+   "iqr": 10.34389615939768
+  },
+  "low_onset_rate": {
+   "median": 5.646683920865054,
+   "iqr": 1.7708535373127097
+  },
+  "lufs": {
+   "median": -8.280026964240946,
+   "iqr": 0.781044879061243
+  },
+  "rms_dbfs": {
+   "median": -8.85505744177705,
+   "iqr": 1.8038687571091767
+  },
+  "crest": {
+   "median": 8.855057716369629,
+   "iqr": 1.8038690090179443
+  },
+  "centroid": {
+   "median": 2830.9898043900057,
+   "iqr": 498.17583187978744
+  },
+  "flatness": {
+   "median": 0.041558464989066124,
+   "iqr": 0.0217231884598732
+  },
+  "sub100_share": {
+   "median": 0.1503997966647148,
+   "iqr": 0.11289498209953308
+  },
+  "lowest_pitch": {
+   "median": 48.44970703125,
+   "iqr": 22.8790283203125
+  },
+  "harmonic_share": {
+   "median": 0.6690511107444763,
+   "iqr": 0.06795255839824677
+  },
+  "clean_share": {
+   "median": 0.0,
+   "iqr": 0.004654771140418929
+  },
+  "minor_share": {
+   "median": -0.0016388879489266928,
+   "iqr": 0.06898278157812965
+  },
+  "chord_rate": {
+   "median": 1.4200240629394365,
+   "iqr": 0.5513034597294284
+  },
+  "repetitiveness": {
+   "median": 0.8736802041530609,
+   "iqr": 0.06947234272956848
+  },
+  "vocal_share": {
+   "median": 0.09765715897083282,
+   "iqr": 0.027819626033306122
+  },
+  "vocal_voiced": {
+   "median": 0.17682926829268292,
+   "iqr": 0.13879982226705573
+  },
+  "song_length": {
+   "median": 325.36,
+   "iqr": 118.57300000000004
+  },
+  "vocal_presence": {
+   "median": 0.4166666666666667,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.6,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

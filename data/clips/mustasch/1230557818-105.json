@@ -1,0 +1,32 @@
+{
+ "id": "mustasch/1230557818-105",
+ "band": "mustasch",
+ "title": "The Hunter",
+ "source": "itunes",
+ "album": "Testosterone",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 2.066654169891641,
+  "tempo_var": 7.107902972197412,
+  "low_onset_rate": 3.133314386609907,
+  "lufs": -11.866008335653712,
+  "rms_dbfs": -11.276599079941395,
+  "crest": 11.276598930358887,
+  "centroid": 2347.1878556575402,
+  "flatness": 0.026006903499364853,
+  "sub100_share": 0.4056107997894287,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.6689251065254211,
+  "clean_share": 0.13379737045630316,
+  "minor_share": -0.05271539124815894,
+  "chord_rate": 2.6666505417956654,
+  "repetitiveness": 0.8885613083839417,
+  "vocal_share": 0.10285478085279465,
+  "vocal_voiced": 0.08023483365949119,
+  "song_length": 227.48
+ }
+}

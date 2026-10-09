@@ -1,0 +1,32 @@
+{
+ "id": "dreamshade/1538712670-109",
+ "band": "dreamshade",
+ "title": "Elephant",
+ "source": "itunes",
+ "album": "A Pale Blue Dot",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.21232361926005,
+  "tempo_var": 23.967450344455536,
+  "low_onset_rate": 3.4080577510546477,
+  "lufs": -10.80121452805552,
+  "rms_dbfs": -10.44671011460576,
+  "crest": 10.446710586547852,
+  "centroid": 2666.379058233744,
+  "flatness": 0.04376297816634178,
+  "sub100_share": 0.27115145325660706,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.5784239172935486,
+  "clean_share": 0.003878975950349108,
+  "minor_share": -0.01020071155732949,
+  "chord_rate": 1.971327522668865,
+  "repetitiveness": 0.9125620126724243,
+  "vocal_share": 0.23126795887947083,
+  "vocal_voiced": 0.32593856655290104,
+  "song_length": 288.227
+ }
+}

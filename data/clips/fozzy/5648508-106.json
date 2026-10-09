@@ -1,0 +1,32 @@
+{
+ "id": "fozzy/5648508-106",
+ "band": "fozzy",
+ "title": "End of Days",
+ "source": "itunes",
+ "album": "Fozzy",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.613271589972361,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 5.680096251757746,
+  "lufs": -9.725028536667036,
+  "rms_dbfs": -9.45424147690345,
+  "crest": 9.454241752624512,
+  "centroid": 2580.468252113831,
+  "flatness": 0.02841123752295971,
+  "sub100_share": 0.3723945915699005,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7133780717849731,
+  "clean_share": 0.004654771140418929,
+  "minor_share": 0.060970257823952045,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.9262170791625977,
+  "vocal_share": 0.162889301776886,
+  "vocal_voiced": 0.7989071038251366,
+  "song_length": 234.733
+ }
+}

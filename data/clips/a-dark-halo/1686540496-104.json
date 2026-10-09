@@ -1,0 +1,32 @@
+{
+ "id": "a-dark-halo/1686540496-104",
+ "band": "a-dark-halo",
+ "title": "Flame Betide",
+ "source": "itunes",
+ "album": "Omnibus One",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 2.2720385007030983,
+  "tempo_var": 5.041469371097924,
+  "low_onset_rate": 2.1718015080250206,
+  "lufs": -13.631052194681905,
+  "rms_dbfs": -12.270137301007384,
+  "crest": 12.270137786865234,
+  "centroid": 1194.1878224962884,
+  "flatness": 0.0032936115749180317,
+  "sub100_share": 0.34599724411964417,
+  "lowest_pitch": 174.957275390625,
+  "harmonic_share": 0.8086990118026733,
+  "clean_share": 0.8533747090768037,
+  "minor_share": 0.22176917897180182,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.6736727952957153,
+  "vocal_share": 0.2753031551837921,
+  "vocal_voiced": 0.9269269269269269,
+  "song_length": 280.519
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "scorpions/1440921750-105",
+ "band": "scorpions",
+ "title": "Now!",
+ "source": "itunes",
+ "album": "Blackout",
+ "year": 1982,
+ "itunes_year": 1982,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 5.233254221402549,
+  "tempo_var": 14.976831513202958,
+  "low_onset_rate": 6.03324212785899,
+  "lufs": -13.510362828978694,
+  "rms_dbfs": -14.341101633008295,
+  "crest": 14.125053405761719,
+  "centroid": 3077.186423607474,
+  "flatness": 0.0618835985660553,
+  "sub100_share": 0.08731433004140854,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.6944928765296936,
+  "clean_share": 0.0,
+  "minor_share": 0.20376174873391856,
+  "chord_rate": 1.433311665734456,
+  "repetitiveness": 0.909304141998291,
+  "vocal_share": 0.10680685937404633,
+  "vocal_voiced": 0.7676240208877284,
+  "song_length": 154.84
+ }
+}

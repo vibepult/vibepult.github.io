@@ -1,0 +1,127 @@
+{
+ "slug": "dawn-of-ashes",
+ "name": "Dawn of Ashes",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 135978645,
+  "deezer": 647118,
+  "spotify": "35Uzsa9o0tZkdC4ZBtXuNV"
+ },
+ "metadata": {
+  "formed": 2001,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 6,
+  "past_members": 18,
+  "full_lengths": 12,
+  "genre": "Industrial/EBM, Industrial/Melodic Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 2874,
+  "themes": "Death, Torture, Blasphemy, Occultism, Anti-Christianity (early); Mental Illness, Suffering, Depression (later)",
+  "release_year": 2014
+ },
+ "partial": false,
+ "clips": [
+  "dawn-of-ashes/201176498-105",
+  "dawn-of-ashes/267859858-107",
+  "dawn-of-ashes/382054676-105",
+  "dawn-of-ashes/608835281-106",
+  "dawn-of-ashes/1104434921-105",
+  "dawn-of-ashes/1445105798-107",
+  "dawn-of-ashes/1506898921-106",
+  "dawn-of-ashes/1736808467-105",
+  "dawn-of-ashes/1813346651-105",
+  "dawn-of-ashes/1878094780-105",
+  "dawn-of-ashes/201176498-106",
+  "dawn-of-ashes/267859858-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.52302631578948,
+   "iqr": 20.434219871411486
+  },
+  "onset_rate": {
+   "median": 4.788826126011333,
+   "iqr": 2.5390733383719897
+  },
+  "tempo_var": {
+   "median": 4.092948161264696,
+   "iqr": 9.970953643020936
+  },
+  "low_onset_rate": {
+   "median": 6.61564151675314,
+   "iqr": 1.7321236246900096
+  },
+  "lufs": {
+   "median": -9.561426559978376,
+   "iqr": 3.805159263378444
+  },
+  "rms_dbfs": {
+   "median": -7.990740700129786,
+   "iqr": 3.703774069928909
+  },
+  "crest": {
+   "median": 7.9907402992248535,
+   "iqr": 3.703773617744446
+  },
+  "centroid": {
+   "median": 1932.447494636704,
+   "iqr": 686.777009029774
+  },
+  "flatness": {
+   "median": 0.014560368843376637,
+   "iqr": 0.017235553357750177
+  },
+  "sub100_share": {
+   "median": 0.452617347240448,
+   "iqr": 0.11654923856258392
+  },
+  "lowest_pitch": {
+   "median": 37.68310546875,
+   "iqr": 10.7666015625
+  },
+  "harmonic_share": {
+   "median": 0.782537192106247,
+   "iqr": 0.14762429893016815
+  },
+  "clean_share": {
+   "median": 0.2455391776570985,
+   "iqr": 0.4771140418929403
+  },
+  "minor_share": {
+   "median": 0.06424199599853425,
+   "iqr": 0.1287955072813694
+  },
+  "chord_rate": {
+   "median": 1.2028439121369345,
+   "iqr": 0.576362707898948
+  },
+  "repetitiveness": {
+   "median": 0.9473154246807098,
+   "iqr": 0.04507225751876831
+  },
+  "vocal_share": {
+   "median": 0.07901778817176819,
+   "iqr": 0.061365826055407524
+  },
+  "vocal_voiced": {
+   "median": 0.11992945326278659,
+   "iqr": 0.0814738966343441
+  },
+  "song_length": {
+   "median": 249.656,
+   "iqr": 191.9535
+  },
+  "vocal_presence": {
+   "median": 0.5833333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.6,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

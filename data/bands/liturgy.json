@@ -1,0 +1,127 @@
+{
+ "slug": "liturgy",
+ "name": "Liturgy",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 328011350,
+  "deezer": 503190,
+  "spotify": "5PIuMlRY9PSLUSFzs6lQu1"
+ },
+ "metadata": {
+  "formed": 2005,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 3,
+  "past_members": 6,
+  "full_lengths": 6,
+  "genre": "Avant-garde Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 3809,
+  "themes": "Philosophy, Transcendence, Religion, Mysticism, Idealism, Post-structuralism",
+  "release_year": 2017
+ },
+ "partial": false,
+ "clips": [
+  "liturgy/907629704-106",
+  "liturgy/429040956-106",
+  "liturgy/963239634-105",
+  "liturgy/1486945998-105",
+  "liturgy/1536627585-104",
+  "liturgy/1645369077-106",
+  "liturgy/907629704-108",
+  "liturgy/429040956-107",
+  "liturgy/963239634-106",
+  "liturgy/1486945998-104",
+  "liturgy/1536627585-105",
+  "liturgy/1645369077-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 112.34714673913044,
+   "iqr": 36.22457570043103
+  },
+  "onset_rate": {
+   "median": 3.9259488798913833,
+   "iqr": 1.628851131018766
+  },
+  "tempo_var": {
+   "median": 7.038545312096682,
+   "iqr": 13.189275397851596
+  },
+  "low_onset_rate": {
+   "median": 7.150238811036221,
+   "iqr": 2.8901666222179117
+  },
+  "lufs": {
+   "median": -10.665732959939417,
+   "iqr": 9.29027312160499
+  },
+  "rms_dbfs": {
+   "median": -9.528227098115718,
+   "iqr": 9.325876667310725
+  },
+  "crest": {
+   "median": 8.523518085479736,
+   "iqr": 6.072944641113281
+  },
+  "centroid": {
+   "median": 2123.170816588823,
+   "iqr": 459.7964731471768
+  },
+  "flatness": {
+   "median": 0.011806284543126822,
+   "iqr": 0.021532284503336996
+  },
+  "sub100_share": {
+   "median": 0.26381103694438934,
+   "iqr": 0.35966721645672806
+  },
+  "lowest_pitch": {
+   "median": 74.0203857421875,
+   "iqr": 56.524658203125
+  },
+  "harmonic_share": {
+   "median": 0.8322217464447021,
+   "iqr": 0.129743754863739
+  },
+  "clean_share": {
+   "median": 0.4689681923972071,
+   "iqr": 0.7942203258339797
+  },
+  "minor_share": {
+   "median": 0.018604498849173645,
+   "iqr": 0.17778435697133016
+  },
+  "chord_rate": {
+   "median": 1.2863747393686662,
+   "iqr": 0.9271921822722202
+  },
+  "repetitiveness": {
+   "median": 0.8836864233016968,
+   "iqr": 0.10977499186992645
+  },
+  "vocal_share": {
+   "median": 0.05271052569150925,
+   "iqr": 0.041924258694052696
+  },
+  "vocal_voiced": {
+   "median": 0.4031117397454031,
+   "iqr": 0.34887244481227253
+  },
+  "song_length": {
+   "median": 273.7265,
+   "iqr": 97.52625
+  },
+  "vocal_presence": {
+   "median": 0.25,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

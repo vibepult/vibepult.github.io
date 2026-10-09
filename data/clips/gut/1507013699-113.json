@@ -1,0 +1,32 @@
+{
+ "id": "gut/1507013699-113",
+ "band": "gut",
+ "title": "From Below",
+ "source": "itunes",
+ "album": "Disciples of Smut",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.744550986762353,
+  "tempo_var": 8.849773509321883,
+  "low_onset_rate": 7.150238811036222,
+  "lufs": -8.207317596954141,
+  "rms_dbfs": -7.845811371961689,
+  "crest": 7.845811367034912,
+  "centroid": 2341.00894456888,
+  "flatness": 0.03141878917813301,
+  "sub100_share": 0.2847766876220703,
+  "lowest_pitch": 94.207763671875,
+  "harmonic_share": 0.7392514944076538,
+  "clean_share": 0.1365399534522886,
+  "minor_share": 0.1600436617339948,
+  "chord_rate": 2.0047398535615577,
+  "repetitiveness": 0.8570793867111206,
+  "vocal_share": 0.04990731552243233,
+  "vocal_voiced": 0.4297520661157025,
+  "song_length": 125.27
+ }
+}

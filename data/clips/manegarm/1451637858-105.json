@@ -1,0 +1,32 @@
+{
+ "id": "manegarm/1451637858-105",
+ "band": "manegarm",
+ "title": "Spjutbädden",
+ "source": "itunes",
+ "album": "Fornaldarsagor",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.466666666666667,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.833333333333333,
+  "lufs": -9.278237509924493,
+  "rms_dbfs": -8.473475711810007,
+  "crest": 8.47347640991211,
+  "centroid": 2429.169592818648,
+  "flatness": 0.024919863790273666,
+  "sub100_share": 0.3312601149082184,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7904296517372131,
+  "clean_share": 0.003869969040247678,
+  "minor_share": -0.05948093264623566,
+  "chord_rate": 1.8,
+  "repetitiveness": 0.7881415486335754,
+  "vocal_share": 0.04060322791337967,
+  "vocal_voiced": 0.4605263157894737,
+  "song_length": 356.397
+ }
+}

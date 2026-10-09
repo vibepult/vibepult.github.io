@@ -1,0 +1,32 @@
+{
+ "id": "all-that-remains/1440933165-106",
+ "band": "all-that-remains",
+ "title": "A Reason for Me to Fight",
+ "source": "itunes",
+ "album": "The Order of Things",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.066605191153573,
+  "tempo_var": 14.946763054042616,
+  "low_onset_rate": 4.5332648032531635,
+  "lufs": -6.9835455807432325,
+  "rms_dbfs": -6.483136107664924,
+  "crest": 6.48313570022583,
+  "centroid": 2524.148715849462,
+  "flatness": 0.03143532574176788,
+  "sub100_share": 0.2575483024120331,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7910897135734558,
+  "clean_share": 0.0007733952049497294,
+  "minor_share": 0.2785509483437515,
+  "chord_rate": 1.233314689120346,
+  "repetitiveness": 0.7664912939071655,
+  "vocal_share": 0.3074146807193756,
+  "vocal_voiced": 0.6384758364312267,
+  "song_length": 222.614
+ }
+}

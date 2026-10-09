@@ -1,0 +1,32 @@
+{
+ "id": "dying-phoenix/1675847692-111",
+ "band": "dying-phoenix",
+ "title": "The Wild",
+ "source": "itunes",
+ "album": "Winter Is Coming",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 1.971327522668865,
+  "tempo_var": 6.439049262812154,
+  "low_onset_rate": 3.842418052659652,
+  "lufs": -11.699117589257126,
+  "rms_dbfs": -11.496374604182408,
+  "crest": 11.496374130249023,
+  "centroid": 2206.50510187905,
+  "flatness": 0.014986922033131123,
+  "sub100_share": 0.055644553154706955,
+  "lowest_pitch": 94.207763671875,
+  "harmonic_share": 0.9022663235664368,
+  "clean_share": 0.3847944142746315,
+  "minor_share": 0.10140468640999656,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.6096141934394836,
+  "vocal_share": 0.6235389709472656,
+  "vocal_voiced": 0.7463503649635036,
+  "song_length": 241.713
+ }
+}

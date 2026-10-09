@@ -1,0 +1,32 @@
+{
+ "id": "beyond-the-black/1461100856-106",
+ "band": "beyond-the-black",
+ "title": "Hallelujah",
+ "source": "itunes",
+ "album": "Songs of Love and Death",
+ "year": 2015,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.0333149912925697,
+  "tempo_var": 23.05722828842,
+  "low_onset_rate": 4.266640866873065,
+  "lufs": -16.70578636775537,
+  "rms_dbfs": -16.455778358715794,
+  "crest": 15.159459114074707,
+  "centroid": 1850.877948089775,
+  "flatness": 0.016504749655723572,
+  "sub100_share": 0.0054480647668242455,
+  "lowest_pitch": 107.666015625,
+  "harmonic_share": 0.9077288508415222,
+  "clean_share": 0.7633410672853829,
+  "minor_share": 0.13622743151592853,
+  "chord_rate": 1.2333258755804954,
+  "repetitiveness": 0.6408228874206543,
+  "vocal_share": 0.518765926361084,
+  "vocal_voiced": 0.9537414965986395,
+  "song_length": 322.44
+ }
+}

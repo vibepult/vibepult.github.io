@@ -1,0 +1,32 @@
+{
+ "id": "ewigkeit/42408041-104",
+ "band": "ewigkeit",
+ "title": "Journey to Ixtlan",
+ "source": "itunes",
+ "album": "Radio Ixtlan",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 6.147868884255443,
+  "tempo_var": 2.3662286606470957,
+  "low_onset_rate": 7.918722421568152,
+  "lufs": -9.624481229668007,
+  "rms_dbfs": -9.01183120760827,
+  "crest": 9.011831283569336,
+  "centroid": 2262.50349296771,
+  "flatness": 0.029163485392928123,
+  "sub100_share": 0.2651923596858978,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.6941668391227722,
+  "clean_share": 0.026377036462373934,
+  "minor_share": -0.018054503371738417,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.9548608660697937,
+  "vocal_share": 0.14175847172737122,
+  "vocal_voiced": 0.5897666068222621,
+  "song_length": 552.627
+ }
+}

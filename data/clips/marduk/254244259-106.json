@@ -1,0 +1,32 @@
+{
+ "id": "marduk/254244259-106",
+ "band": "marduk",
+ "title": "Castrum Doloris",
+ "source": "itunes",
+ "album": "World Funeral",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 2.3054508315957913,
+  "tempo_var": 4.435650427570256,
+  "low_onset_rate": 3.30782075837657,
+  "lufs": -6.773876042977685,
+  "rms_dbfs": -6.994283936778106,
+  "crest": 6.994284629821777,
+  "centroid": 2781.2111003003447,
+  "flatness": 0.04963189736008644,
+  "sub100_share": 0.23189756274223328,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.7104122042655945,
+  "clean_share": 0.0,
+  "minor_share": 0.09749070656928849,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.8442342281341553,
+  "vocal_share": 0.17758002877235413,
+  "vocal_voiced": 0.35514764565043894,
+  "song_length": 213.507
+ }
+}

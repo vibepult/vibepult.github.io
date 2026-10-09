@@ -1,0 +1,32 @@
+{
+ "id": "charon/1660479126-105",
+ "band": "charon",
+ "title": "Fall",
+ "source": "itunes",
+ "album": "Downhearted",
+ "year": 2002,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 1.9333333333333333,
+  "tempo_var": 32.194295176821846,
+  "low_onset_rate": 2.1666666666666665,
+  "lufs": -10.859892190908946,
+  "rms_dbfs": -10.191336948947452,
+  "crest": 10.191336631774902,
+  "centroid": 1776.6999166702042,
+  "flatness": 0.01132937241345644,
+  "sub100_share": 0.3062162697315216,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8249455094337463,
+  "clean_share": 0.5270897832817337,
+  "minor_share": 0.009069744326501206,
+  "chord_rate": 1.3666666666666667,
+  "repetitiveness": 0.6761789917945862,
+  "vocal_share": 0.1178617924451828,
+  "vocal_voiced": 0.8919354838709678,
+  "song_length": 224.427
+ }
+}

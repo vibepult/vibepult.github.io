@@ -1,0 +1,32 @@
+{
+ "id": "exciter/932617636-105",
+ "band": "exciter",
+ "title": "Shout It Out",
+ "source": "itunes",
+ "album": "Unveiling the Wicked",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 1.5703795519565533,
+  "tempo_var": 24.76166477295705,
+  "low_onset_rate": 1.4367302283857828,
+  "lufs": -9.109797383075207,
+  "rms_dbfs": -8.810423220436794,
+  "crest": 8.810422897338867,
+  "centroid": 2140.232601227931,
+  "flatness": 0.01834314689040184,
+  "sub100_share": 0.2617582082748413,
+  "lowest_pitch": 104.974365234375,
+  "harmonic_share": 0.752598226070404,
+  "clean_share": 0.19937936384794414,
+  "minor_share": 0.1811728426166696,
+  "chord_rate": 2.472512486059254,
+  "repetitiveness": 0.9137726426124573,
+  "vocal_share": 0.003724438836798072,
+  "vocal_voiced": 0.5243128964059197,
+  "song_length": 278.733
+ }
+}

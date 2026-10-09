@@ -1,0 +1,32 @@
+{
+ "id": "exciter/932622754-106",
+ "band": "exciter",
+ "title": "Under Attack",
+ "source": "itunes",
+ "album": "Heavy Metal Maniac",
+ "year": 1983,
+ "itunes_year": 1983,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.4333125725619196,
+  "tempo_var": 10.081383836965829,
+  "low_onset_rate": 4.06664207623839,
+  "lufs": -10.229613202793486,
+  "rms_dbfs": -9.956528314657366,
+  "crest": 9.956527709960938,
+  "centroid": 3087.286897311357,
+  "flatness": 0.048902079463005066,
+  "sub100_share": 0.47399404644966125,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7170119881629944,
+  "clean_share": 0.010054137664346482,
+  "minor_share": -0.18402493437771061,
+  "chord_rate": 1.3333252708978327,
+  "repetitiveness": 0.9453422427177429,
+  "vocal_share": 0.024500910192728043,
+  "vocal_voiced": 0.30357142857142855,
+  "song_length": 257.2
+ }
+}

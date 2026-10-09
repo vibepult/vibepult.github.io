@@ -1,0 +1,32 @@
+{
+ "id": "obscura/1376758678-106",
+ "band": "obscura",
+ "title": "Convergence",
+ "source": "itunes",
+ "album": "Diluvium",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 6.3,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 5.666666666666667,
+  "lufs": -9.157011161381446,
+  "rms_dbfs": -8.309516319226667,
+  "crest": 8.309515953063965,
+  "centroid": 2309.655572627575,
+  "flatness": 0.025872543454170227,
+  "sub100_share": 0.35898357629776,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7431815266609192,
+  "clean_share": 0.016253869969040248,
+  "minor_share": 0.14895462969013248,
+  "chord_rate": 2.0,
+  "repetitiveness": 0.9444414973258972,
+  "vocal_share": 0.08807352185249329,
+  "vocal_voiced": 0.4352051835853132,
+  "song_length": 244.02
+ }
+}

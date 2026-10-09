@@ -1,0 +1,32 @@
+{
+ "id": "kaunis-kuolematon/1489447474-104",
+ "band": "kaunis-kuolematon",
+ "title": "Yksin",
+ "source": "itunes",
+ "album": "Vapaus",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 2.6395741405227175,
+  "tempo_var": 2.1739849250373426,
+  "low_onset_rate": 2.1718015080250206,
+  "lufs": -11.526647093665787,
+  "rms_dbfs": -11.081450122955541,
+  "crest": 11.081449508666992,
+  "centroid": 1931.5442352931896,
+  "flatness": 0.009366272948682308,
+  "sub100_share": 0.2754119634628296,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7951954007148743,
+  "clean_share": 0.4716834755624515,
+  "minor_share": 0.35031256257753274,
+  "chord_rate": 0.9021329341027009,
+  "repetitiveness": 0.6386620998382568,
+  "vocal_share": 0.2885921895503998,
+  "vocal_voiced": 0.8982889733840305,
+  "song_length": 331.498
+ }
+}

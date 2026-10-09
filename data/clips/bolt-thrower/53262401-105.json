@@ -1,0 +1,32 @@
+{
+ "id": "bolt-thrower/53262401-105",
+ "band": "bolt-thrower",
+ "title": "To the Last...",
+ "source": "itunes",
+ "album": "Mercenary",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 6.733231546008375,
+  "tempo_var": 3.4826438727359643,
+  "low_onset_rate": 7.799882087950296,
+  "lufs": -9.853635262912174,
+  "rms_dbfs": -9.221318068400384,
+  "crest": 9.221317291259766,
+  "centroid": 2261.343225426379,
+  "flatness": 0.014634189195930958,
+  "sub100_share": 0.3952513337135315,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7910429239273071,
+  "clean_share": 0.26218097447795824,
+  "minor_share": -0.14911976400034826,
+  "chord_rate": 1.9999697661411016,
+  "repetitiveness": 0.9203739166259766,
+  "vocal_share": 0.01373837050050497,
+  "vocal_voiced": 0.12437810945273632,
+  "song_length": 324.56
+ }
+}

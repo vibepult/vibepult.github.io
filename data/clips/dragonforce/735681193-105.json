@@ -1,0 +1,32 @@
+{
+ "id": "dragonforce/735681193-105",
+ "band": "dragonforce",
+ "title": "Starfire (2010 Remastered Edition)",
+ "source": "itunes",
+ "album": "Valley of the Damned (2010 Remastered Edition)",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.0428920380158075,
+  "tempo_var": 22.672930398423606,
+  "low_onset_rate": 3.842418052659652,
+  "lufs": -10.229260627222637,
+  "rms_dbfs": -10.145223678521617,
+  "crest": 10.145223617553711,
+  "centroid": 2411.701626502682,
+  "flatness": 0.01486239768564701,
+  "sub100_share": 0.05035297945141792,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.9092453718185425,
+  "clean_share": 0.34290147401086113,
+  "minor_share": -0.41236839694053096,
+  "chord_rate": 0.46777263249769674,
+  "repetitiveness": 0.6540051698684692,
+  "vocal_share": 0.5862551331520081,
+  "vocal_voiced": 0.9480314960629921,
+  "song_length": 353.933
+ }
+}

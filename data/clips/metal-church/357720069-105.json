@@ -1,0 +1,32 @@
+{
+ "id": "metal-church/357720069-105",
+ "band": "metal-church",
+ "title": "Badlands",
+ "source": "itunes",
+ "album": "Blessing In Disguise",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 4.099516610286315,
+  "tempo_var": 31.58044877433068,
+  "low_onset_rate": 3.7995519802653654,
+  "lufs": -14.517052267955634,
+  "rms_dbfs": -13.916572746448804,
+  "crest": 13.916572570800781,
+  "centroid": 2700.5357033178448,
+  "flatness": 0.028166677802801132,
+  "sub100_share": 0.3757382333278656,
+  "lowest_pitch": 88.824462890625,
+  "harmonic_share": 0.5628803372383118,
+  "clean_share": 0.061871616395978345,
+  "minor_share": 0.059964210176065014,
+  "chord_rate": 1.7331289734543773,
+  "repetitiveness": 0.8622221946716309,
+  "vocal_share": 0.005184425972402096,
+  "vocal_voiced": 0.7391304347826086,
+  "song_length": 444.453
+ }
+}

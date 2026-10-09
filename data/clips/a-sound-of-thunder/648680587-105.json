@@ -1,0 +1,32 @@
+{
+ "id": "a-sound-of-thunder/648680587-105",
+ "band": "a-sound-of-thunder",
+ "title": "Queen of Hell",
+ "source": "itunes",
+ "album": "Time's Arrow",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 4.209953692479271,
+  "tempo_var": 19.462234359178844,
+  "low_onset_rate": 9.489101973524706,
+  "lufs": -7.184495028607636,
+  "rms_dbfs": -7.26729411722025,
+  "crest": 7.267293930053711,
+  "centroid": 2586.908606655729,
+  "flatness": 0.03938869759440422,
+  "sub100_share": 0.3238408863544464,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.7803008556365967,
+  "clean_share": 0.0,
+  "minor_share": -0.045292910493314964,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.9556703567504883,
+  "vocal_share": 0.028665481135249138,
+  "vocal_voiced": 0.48023715415019763,
+  "song_length": 373.04
+ }
+}

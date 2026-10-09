@@ -1,0 +1,32 @@
+{
+ "id": "sonata-arctica/1776756567-106",
+ "band": "sonata-arctica",
+ "title": "Caleb",
+ "source": "itunes",
+ "album": "Unia",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.366666666666666,
+  "tempo_var": 17.735847814747334,
+  "low_onset_rate": 5.066666666666666,
+  "lufs": -8.081484843358743,
+  "rms_dbfs": -7.1335666901725245,
+  "crest": 7.133566856384277,
+  "centroid": 2080.988811751825,
+  "flatness": 0.01708904653787613,
+  "sub100_share": 0.36025431752204895,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8432708978652954,
+  "clean_share": 0.16408668730650156,
+  "minor_share": 0.10866687887070359,
+  "chord_rate": 1.3666666666666667,
+  "repetitiveness": 0.7904050946235657,
+  "vocal_share": 0.03216179832816124,
+  "vocal_voiced": 0.892018779342723,
+  "song_length": 376.686
+ }
+}

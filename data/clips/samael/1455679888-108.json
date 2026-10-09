@@ -1,0 +1,32 @@
+{
+ "id": "samael/1455679888-108",
+ "band": "samael",
+ "title": "Mother Night",
+ "source": "itunes",
+ "album": "Lux Mundi",
+ "year": 2011,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 0.733328898993808,
+  "tempo_var": 12.04802399302867,
+  "low_onset_rate": 0.7666620307662538,
+  "lufs": -13.670404498414431,
+  "rms_dbfs": -12.810376760908945,
+  "crest": 12.81037712097168,
+  "centroid": 1762.736103780036,
+  "flatness": 0.013828371651470661,
+  "sub100_share": 0.4008617103099823,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8631733655929565,
+  "clean_share": 0.5475638051044084,
+  "minor_share": 0.10654536997214414,
+  "chord_rate": 1.2666590073529411,
+  "repetitiveness": 0.6420926451683044,
+  "vocal_share": 1.17408053483814e-05,
+  "vocal_voiced": 0.0,
+  "song_length": 259.373
+ }
+}

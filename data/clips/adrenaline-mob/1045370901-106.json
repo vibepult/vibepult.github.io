@@ -1,0 +1,32 @@
+{
+ "id": "adrenaline-mob/1045370901-106",
+ "band": "adrenaline-mob",
+ "title": "Feel the Adrenaline",
+ "source": "itunes",
+ "album": "Men of Honor",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 6.782703171216603,
+  "tempo_var": 16.666795127793456,
+  "low_onset_rate": 6.949764825680066,
+  "lufs": -5.646848520578164,
+  "rms_dbfs": -5.682097185044911,
+  "crest": 5.6820969581604,
+  "centroid": 2806.9603712862504,
+  "flatness": 0.061560146510601044,
+  "sub100_share": 0.24746811389923096,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.569449245929718,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": -0.04554303919718944,
+  "chord_rate": 2.3054508315957913,
+  "repetitiveness": 0.9460987448692322,
+  "vocal_share": 0.3461359143257141,
+  "vocal_voiced": 0.06381118881118882,
+  "song_length": 356.653
+ }
+}

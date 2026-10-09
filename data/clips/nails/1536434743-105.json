@@ -1,0 +1,32 @@
+{
+ "id": "nails/1536434743-105",
+ "band": "nails",
+ "title": "Unsilent Death",
+ "source": "itunes",
+ "album": "Unsilent Death (10th Anniversary Edition)",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 3.4,
+  "tempo_var": 17.655375628138238,
+  "low_onset_rate": 6.9,
+  "lufs": -8.732576993820139,
+  "rms_dbfs": -8.479130090805167,
+  "crest": 8.479129791259766,
+  "centroid": 2529.109693084316,
+  "flatness": 0.0386861190199852,
+  "sub100_share": 0.3419506847858429,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7173889875411987,
+  "clean_share": 0.0,
+  "minor_share": 0.05161144244504556,
+  "chord_rate": 2.433333333333333,
+  "repetitiveness": 0.9477654099464417,
+  "vocal_share": 0.07480555772781372,
+  "vocal_voiced": 0.20973154362416108,
+  "song_length": 161.08
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "high-on-fire/74421361-104",
+ "band": "high-on-fire",
+ "title": "The Yeti",
+ "source": "itunes",
+ "album": "Surrounded By Thieves",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.866608214539463,
+  "tempo_var": 2.2767690539236978,
+  "low_onset_rate": 7.899880576257351,
+  "lufs": -8.394431132055788,
+  "rms_dbfs": -6.828387747496384,
+  "crest": 6.828387260437012,
+  "centroid": 1664.685716514026,
+  "flatness": 0.0070157283917069435,
+  "sub100_share": 0.3781837224960327,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8539412617683411,
+  "clean_share": 0.4176334106728538,
+  "minor_share": 0.17545617574325684,
+  "chord_rate": 2.1333010838838415,
+  "repetitiveness": 0.8137616515159607,
+  "vocal_share": 0.025351187214255333,
+  "vocal_voiced": 0.2924281984334204,
+  "song_length": 427.64
+ }
+}

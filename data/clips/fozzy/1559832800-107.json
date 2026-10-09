@@ -1,0 +1,32 @@
+{
+ "id": "fozzy/1559832800-107",
+ "band": "fozzy",
+ "title": "New Day's Dawn",
+ "source": "itunes",
+ "album": "Chasing the Grail",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.842418052659652,
+  "tempo_var": 5.934332953189564,
+  "low_onset_rate": 2.572749478737332,
+  "lufs": -10.528694190375262,
+  "rms_dbfs": -9.466392136397845,
+  "crest": 9.466392517089844,
+  "centroid": 2104.407008922012,
+  "flatness": 0.015370755456387997,
+  "sub100_share": 0.28283411264419556,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8328962922096252,
+  "clean_share": 0.28549262994569435,
+  "minor_share": 0.2772833825491843,
+  "chord_rate": 1.336493235707705,
+  "repetitiveness": 0.6793660521507263,
+  "vocal_share": 0.2010319083929062,
+  "vocal_voiced": 0.7734113712374582,
+  "song_length": 274.16
+ }
+}

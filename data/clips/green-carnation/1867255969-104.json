@@ -1,0 +1,32 @@
+{
+ "id": "green-carnation/1867255969-104",
+ "band": "green-carnation",
+ "title": "I Am Time",
+ "source": "itunes",
+ "album": "A Dark Poem, Part II: Sanguis",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 3.2,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.133333333333334,
+  "lufs": -10.433795663792724,
+  "rms_dbfs": -9.790968714558897,
+  "crest": 9.79096794128418,
+  "centroid": 2070.6078102051642,
+  "flatness": 0.017405029386281967,
+  "sub100_share": 0.3125968277454376,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8412560820579529,
+  "clean_share": 0.29566563467492263,
+  "minor_share": 0.07181022868141029,
+  "chord_rate": 0.8666666666666667,
+  "repetitiveness": 0.8070629835128784,
+  "vocal_share": 0.00012635871826205403,
+  "vocal_voiced": 1.0,
+  "song_length": 339.0
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "soundgarden/1440811129-107",
+ "band": "soundgarden",
+ "title": "Black Hole Sun",
+ "source": "itunes",
+ "album": "Superunknown (20th Anniversary)",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.5330983275488856,
+  "tempo_var": 16.070233066417096,
+  "low_onset_rate": 1.9332047452625978,
+  "lufs": -11.697414956087107,
+  "rms_dbfs": -11.328514544930787,
+  "crest": 11.32851505279541,
+  "centroid": 2774.1739783277226,
+  "flatness": 0.027726300060749054,
+  "sub100_share": 0.3023727238178253,
+  "lowest_pitch": 153.424072265625,
+  "harmonic_share": 0.7697492241859436,
+  "clean_share": 0.19876256767208042,
+  "minor_share": 0.042320483254693564,
+  "chord_rate": 2.0331980941554906,
+  "repetitiveness": 0.6312445402145386,
+  "vocal_share": 0.3291562795639038,
+  "vocal_voiced": 0.8368200836820083,
+  "song_length": 318.587
+ }
+}

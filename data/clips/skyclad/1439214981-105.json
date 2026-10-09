@@ -1,0 +1,32 @@
+{
+ "id": "skyclad/1439214981-105",
+ "band": "skyclad",
+ "title": "Our Dying Island",
+ "source": "itunes",
+ "album": "The Wayward Sons of Mother Earth",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.245735950152742,
+  "tempo_var": 6.981975835827526,
+  "low_onset_rate": 6.181281215148136,
+  "lufs": -10.35942700436412,
+  "rms_dbfs": -10.011674390862451,
+  "crest": 10.011673927307129,
+  "centroid": 2756.3229727547077,
+  "flatness": 0.04036213085055351,
+  "sub100_share": 0.1733221411705017,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.6809321045875549,
+  "clean_share": 0.0031031807602792862,
+  "minor_share": 0.027354003249408287,
+  "chord_rate": 2.5393371478446394,
+  "repetitiveness": 0.834924042224884,
+  "vocal_share": 0.11086753755807877,
+  "vocal_voiced": 0.08895705521472393,
+  "song_length": 426.307
+ }
+}

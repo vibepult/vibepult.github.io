@@ -1,0 +1,127 @@
+{
+ "slug": "mercyful-fate",
+ "name": "Mercyful Fate",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 60363022,
+  "deezer": 1067,
+  "spotify": "0W8edGiwAsv6HXF0Kyc2V9"
+ },
+ "metadata": {
+  "formed": 1981,
+  "split": null,
+  "country": "DK",
+  "status": "active",
+  "members": 5,
+  "past_members": 13,
+  "full_lengths": 7,
+  "genre": "Heavy Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 54064,
+  "themes": "Satanism (early); Evil, Horror, Occultism, Death, Literature (later)",
+  "release_year": 1993
+ },
+ "partial": false,
+ "clips": [
+  "mercyful-fate/1296844681-104",
+  "mercyful-fate/1296860777-104",
+  "mercyful-fate/60380177-105",
+  "mercyful-fate/60380739-106",
+  "mercyful-fate/60380279-106",
+  "mercyful-fate/60363672-105",
+  "mercyful-fate/60367435-105",
+  "mercyful-fate/1296844681-103",
+  "mercyful-fate/1296860777-105",
+  "mercyful-fate/60380177-106",
+  "mercyful-fate/60380739-105",
+  "mercyful-fate/60380279-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.32652698863637,
+   "iqr": 35.36854619565217
+  },
+  "onset_rate": {
+   "median": 4.171254514695573,
+   "iqr": 1.6757751234506237
+  },
+  "tempo_var": {
+   "median": 10.052299986270025,
+   "iqr": 14.808109999242127
+  },
+  "low_onset_rate": {
+   "median": 5.523181892537503,
+   "iqr": 1.5619722728779992
+  },
+  "lufs": {
+   "median": -12.625887178765302,
+   "iqr": 2.6312494933146535
+  },
+  "rms_dbfs": {
+   "median": -12.662758756243898,
+   "iqr": 2.8500564162108866
+  },
+  "crest": {
+   "median": 12.662758827209473,
+   "iqr": 2.850055694580078
+  },
+  "centroid": {
+   "median": 2694.2408856244956,
+   "iqr": 172.07342037895432
+  },
+  "flatness": {
+   "median": 0.03640734776854515,
+   "iqr": 0.009048040956258774
+  },
+  "sub100_share": {
+   "median": 0.13915176689624786,
+   "iqr": 0.17860218696296215
+  },
+  "lowest_pitch": {
+   "median": 84.7869873046875,
+   "iqr": 20.1873779296875
+  },
+  "harmonic_share": {
+   "median": 0.7255534529685974,
+   "iqr": 0.050490379333496094
+  },
+  "clean_share": {
+   "median": 0.004654771140418929,
+   "iqr": 0.09087918654904341
+  },
+  "minor_share": {
+   "median": 0.03558810424391887,
+   "iqr": 0.1813483716412258
+  },
+  "chord_rate": {
+   "median": 1.5184325221063397,
+   "iqr": 0.8422303288143522
+  },
+  "repetitiveness": {
+   "median": 0.7955109179019928,
+   "iqr": 0.06255176663398743
+  },
+  "vocal_share": {
+   "median": 0.14369946718215942,
+   "iqr": 0.11418367177248001
+  },
+  "vocal_voiced": {
+   "median": 0.5947176684881603,
+   "iqr": 0.21532678067412458
+  },
+  "song_length": {
+   "median": 303.3665,
+   "iqr": 38.803499999999985
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.9,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

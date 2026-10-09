@@ -1,0 +1,32 @@
+{
+ "id": "my-material-season/1515563123-105",
+ "band": "my-material-season",
+ "title": "Brutality Smile",
+ "source": "itunes",
+ "album": "Bridal Aisles of Tragedy",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 5.680096251757746,
+  "tempo_var": 14.515665803075722,
+  "low_onset_rate": 6.949764825680066,
+  "lufs": -6.606121450108854,
+  "rms_dbfs": -6.168252115104671,
+  "crest": 6.168251991271973,
+  "centroid": 3145.546055699193,
+  "flatness": 0.0666070356965065,
+  "sub100_share": 0.33487385511398315,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7824435234069824,
+  "clean_share": 0.0,
+  "minor_share": 0.017959553511224746,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.8484631180763245,
+  "vocal_share": 0.13317668437957764,
+  "vocal_voiced": 0.33974358974358976,
+  "song_length": 316.68
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "solstafir/1211022482-105",
+ "band": "solstafir",
+ "title": "Hvít sæng",
+ "source": "itunes",
+ "album": "Berdreyminn",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 2.4391001551665616,
+  "tempo_var": 11.975436851640874,
+  "low_onset_rate": 5.847157906221209,
+  "lufs": -18.71189511378938,
+  "rms_dbfs": -17.308090066336625,
+  "crest": 17.308090209960938,
+  "centroid": 1221.2466367517336,
+  "flatness": 0.0024174205027520657,
+  "sub100_share": 0.43749961256980896,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.9570210576057434,
+  "clean_share": 0.9456943366951125,
+  "minor_share": 0.17089999520068966,
+  "chord_rate": 0.9021329341027009,
+  "repetitiveness": 0.6319946050643921,
+  "vocal_share": 0.15400154888629913,
+  "vocal_voiced": 0.9258698940998488,
+  "song_length": 442.164
+ }
+}

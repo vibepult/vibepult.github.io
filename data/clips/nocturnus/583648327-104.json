@@ -1,0 +1,32 @@
+{
+ "id": "nocturnus/583648327-104",
+ "band": "nocturnus",
+ "title": "The Killing",
+ "source": "itunes",
+ "album": "Ethereal Tomb",
+ "year": 1999,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 198.76802884615384,
+  "onset_rate": 3.30782075837657,
+  "tempo_var": 9.057553605008927,
+  "low_onset_rate": 6.715878509431217,
+  "lufs": -13.87023638989882,
+  "rms_dbfs": -13.62428695728298,
+  "crest": 13.624286651611328,
+  "centroid": 2320.803860193994,
+  "flatness": 0.029512960463762283,
+  "sub100_share": 0.1295517385005951,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.6942971348762512,
+  "clean_share": 0.048875096974398756,
+  "minor_share": -0.11244050703646757,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.9315481781959534,
+  "vocal_share": 0.1748981773853302,
+  "vocal_voiced": 0.33094994892747703,
+  "song_length": 325.88
+ }
+}

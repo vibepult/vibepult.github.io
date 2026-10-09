@@ -1,0 +1,127 @@
+{
+ "slug": "sear-bliss",
+ "name": "Sear Bliss",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 262531467,
+  "deezer": 6897,
+  "spotify": "5h1vktUNKEYPDaQUUaOKAA"
+ },
+ "metadata": {
+  "formed": 1993,
+  "split": null,
+  "country": "HU",
+  "status": "active",
+  "members": 4,
+  "past_members": 16,
+  "full_lengths": 9,
+  "genre": "Atmospheric Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 1301,
+  "themes": "Hatred, Evil, Melancholy, Cosmos",
+  "release_year": 2001
+ },
+ "partial": false,
+ "clips": [
+  "sear-bliss/337212885-105",
+  "sear-bliss/334766539-104",
+  "sear-bliss/337218429-106",
+  "sear-bliss/307072690-105",
+  "sear-bliss/303174554-105",
+  "sear-bliss/1660634327-104",
+  "sear-bliss/1660370298-104",
+  "sear-bliss/1603087521-105",
+  "sear-bliss/1739757260-104",
+  "sear-bliss/337212885-104",
+  "sear-bliss/334766539-103",
+  "sear-bliss/337218429-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.69701086956522,
+   "iqr": 54.389781002545234
+  },
+  "onset_rate": {
+   "median": 4.159835196140232,
+   "iqr": 2.2273708359598507
+  },
+  "tempo_var": {
+   "median": 8.54253619419958,
+   "iqr": 7.906809501639316
+  },
+  "low_onset_rate": {
+   "median": 6.131162718809097,
+   "iqr": 2.773223464093488
+  },
+  "lufs": {
+   "median": -11.039739103846514,
+   "iqr": 5.488528550569304
+  },
+  "rms_dbfs": {
+   "median": -10.127978299152584,
+   "iqr": 5.022545855968811
+  },
+  "crest": {
+   "median": 10.127978324890137,
+   "iqr": 5.022546052932739
+  },
+  "centroid": {
+   "median": 2197.9468296307123,
+   "iqr": 568.7442000095928
+  },
+  "flatness": {
+   "median": 0.02219532895833254,
+   "iqr": 0.02670117001980543
+  },
+  "sub100_share": {
+   "median": 0.2558961734175682,
+   "iqr": 0.10468273237347603
+  },
+  "lowest_pitch": {
+   "median": 57.8704833984375,
+   "iqr": 17.4957275390625
+  },
+  "harmonic_share": {
+   "median": 0.767721563577652,
+   "iqr": 0.15495407581329346
+  },
+  "clean_share": {
+   "median": 0.15128006206361522,
+   "iqr": 0.5040729247478666
+  },
+  "minor_share": {
+   "median": 0.09648639294429595,
+   "iqr": 0.26050058811496796
+  },
+  "chord_rate": {
+   "median": 1.2195500775832808,
+   "iqr": 0.2756517298647143
+  },
+  "repetitiveness": {
+   "median": 0.7970992922782898,
+   "iqr": 0.06163005530834198
+  },
+  "vocal_share": {
+   "median": 0.08186538144946098,
+   "iqr": 0.09662577696144581
+  },
+  "vocal_voiced": {
+   "median": 0.2712563003438692,
+   "iqr": 0.141062999652076
+  },
+  "song_length": {
+   "median": 326.456,
+   "iqr": 116.37375000000003
+  },
+  "vocal_presence": {
+   "median": 0.5,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "brujeria/214478345-107",
+ "band": "brujeria",
+ "title": "Almas de Venta",
+ "source": "itunes",
+ "album": "Raza Odiada",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.279148281045435,
+  "tempo_var": 7.367823352040399,
+  "low_onset_rate": 7.3841251272850705,
+  "lufs": -11.543915924298238,
+  "rms_dbfs": -11.007246840423562,
+  "crest": 11.007246971130371,
+  "centroid": 2228.8457002895925,
+  "flatness": 0.02278900519013405,
+  "sub100_share": 0.24318574368953705,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.6925804018974304,
+  "clean_share": 0.07990690457719161,
+  "minor_share": -0.03815999850706281,
+  "chord_rate": 2.840048125878873,
+  "repetitiveness": 0.9376943111419678,
+  "vocal_share": 0.09890050441026688,
+  "vocal_voiced": 0.0,
+  "song_length": 131.493
+ }
+}

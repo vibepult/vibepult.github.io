@@ -1,0 +1,32 @@
+{
+ "id": "rage/403130994-107",
+ "band": "rage",
+ "title": "Heartblood",
+ "source": "itunes",
+ "album": "XIII",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 2.4391001551665616,
+  "tempo_var": 19.84252390038885,
+  "low_onset_rate": 3.6753563981961888,
+  "lufs": -14.41228132249838,
+  "rms_dbfs": -13.819917385260734,
+  "crest": 13.819917678833008,
+  "centroid": 2155.0367987450636,
+  "flatness": 0.01822567731142044,
+  "sub100_share": 0.24152830243110657,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8154926896095276,
+  "clean_share": 0.34445306439100076,
+  "minor_share": 0.01803604361828659,
+  "chord_rate": 0.9021329341027009,
+  "repetitiveness": 0.8188983201980591,
+  "vocal_share": 0.11512625217437744,
+  "vocal_voiced": 0.7775377969762419,
+  "song_length": 381.067
+ }
+}

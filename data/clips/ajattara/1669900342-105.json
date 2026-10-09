@@ -1,0 +1,32 @@
+{
+ "id": "ajattara/1669900342-105",
+ "band": "ajattara",
+ "title": "Eksyneet",
+ "source": "itunes",
+ "album": "Äpäre",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.7755933908742665,
+  "tempo_var": 1.8604696646831436,
+  "low_onset_rate": 5.479622266401591,
+  "lufs": -8.277181355998131,
+  "rms_dbfs": -7.570205519804929,
+  "crest": 7.5702056884765625,
+  "centroid": 2401.97085618577,
+  "flatness": 0.029375290498137474,
+  "sub100_share": 0.44194144010543823,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.7591103315353394,
+  "clean_share": 0.09076803723816912,
+  "minor_share": 0.03201038577244575,
+  "chord_rate": 2.606161809630025,
+  "repetitiveness": 0.9049738645553589,
+  "vocal_share": 0.12755805253982544,
+  "vocal_voiced": 0.1020671834625323,
+  "song_length": 187.253
+ }
+}

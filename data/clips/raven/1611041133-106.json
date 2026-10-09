@@ -1,0 +1,32 @@
+{
+ "id": "raven/1611041133-106",
+ "band": "raven",
+ "title": "Stick It",
+ "source": "itunes",
+ "album": "Nothing Exceeds Like Excess",
+ "year": 1988,
+ "itunes_year": 1988,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.312560611938127,
+  "tempo_var": 8.861621636419402,
+  "low_onset_rate": 5.112086626581972,
+  "lufs": -9.818969121529905,
+  "rms_dbfs": -10.02320930729897,
+  "crest": 10.023208618164062,
+  "centroid": 2866.845628512191,
+  "flatness": 0.05509534478187561,
+  "sub100_share": 0.2740105092525482,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.4336061477661133,
+  "clean_share": 0.004654771140418929,
+  "minor_share": -0.24423992295340619,
+  "chord_rate": 2.071564515346943,
+  "repetitiveness": 0.8964822888374329,
+  "vocal_share": 0.2150038778781891,
+  "vocal_voiced": 0.3684210526315789,
+  "song_length": 193.947
+ }
+}

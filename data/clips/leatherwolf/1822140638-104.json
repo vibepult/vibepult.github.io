@@ -1,0 +1,32 @@
+{
+ "id": "leatherwolf/1822140638-104",
+ "band": "leatherwolf",
+ "title": "The Hook",
+ "source": "itunes",
+ "album": "Endangered Species",
+ "year": 1984,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.366600656074739,
+  "tempo_var": 27.080036194858206,
+  "low_onset_rate": 3.999939532282203,
+  "lufs": -10.669927254198683,
+  "rms_dbfs": -9.974518865004544,
+  "crest": 9.974518775939941,
+  "centroid": 2518.148497752363,
+  "flatness": 0.028409035876393318,
+  "sub100_share": 0.27030712366104126,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7548736333847046,
+  "clean_share": 0.12219644238205724,
+  "minor_share": 0.22140643934651383,
+  "chord_rate": 1.7666399600913063,
+  "repetitiveness": 0.7332578897476196,
+  "vocal_share": 0.06381910294294357,
+  "vocal_voiced": 0.2881679389312977,
+  "song_length": 238.484
+ }
+}

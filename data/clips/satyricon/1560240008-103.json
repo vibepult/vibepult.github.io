@@ -1,0 +1,32 @@
+{
+ "id": "satyricon/1560240008-103",
+ "band": "satyricon",
+ "title": "Skyggedans (Remastered 2021)",
+ "source": "itunes",
+ "album": "Dark Medieval Times (Remastered 2021)",
+ "year": 1993,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 5.366666666666666,
+  "tempo_var": 8.368065598622847,
+  "low_onset_rate": 5.366666666666666,
+  "lufs": -10.634355115210647,
+  "rms_dbfs": -11.94333478056587,
+  "crest": 11.943334579467773,
+  "centroid": 3599.3273201328775,
+  "flatness": 0.10929666459560394,
+  "sub100_share": 0.17981140315532684,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.5223897099494934,
+  "clean_share": 0.0,
+  "minor_share": 0.12444022259829612,
+  "chord_rate": 2.0,
+  "repetitiveness": 0.9285771250724792,
+  "vocal_share": 0.030754899606108665,
+  "vocal_voiced": 0.383399209486166,
+  "song_length": 235.8
+ }
+}

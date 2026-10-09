@@ -1,0 +1,32 @@
+{
+ "id": "unleashed/1494269322-105",
+ "band": "unleashed",
+ "title": "The Bolt Thrower",
+ "source": "itunes",
+ "album": "Dawn of the Nine",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 1.5703795519565533,
+  "tempo_var": 30.635146905449314,
+  "low_onset_rate": 0.534597294283082,
+  "lufs": -9.947912301616338,
+  "rms_dbfs": -8.887379733820438,
+  "crest": 8.887378692626953,
+  "centroid": 2331.6753374527375,
+  "flatness": 0.028668712824583054,
+  "sub100_share": 0.40172186493873596,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.7365837097167969,
+  "clean_share": 0.05352986811481769,
+  "minor_share": -0.16585486462403015,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.9401959776878357,
+  "vocal_share": 0.04692590609192848,
+  "vocal_voiced": 0.0,
+  "song_length": 229.427
+ }
+}

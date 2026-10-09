@@ -1,0 +1,32 @@
+{
+ "id": "waltari/1772690179-107",
+ "band": "waltari",
+ "title": "Boots",
+ "source": "itunes",
+ "album": "Global Rock",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.333236585277365,
+  "tempo_var": 20.862426964285277,
+  "low_onset_rate": 6.23322025904292,
+  "lufs": -9.149178330023004,
+  "rms_dbfs": -8.709924267737934,
+  "crest": 8.709924697875977,
+  "centroid": 2477.6627201389983,
+  "flatness": 0.030994795262813568,
+  "sub100_share": 0.41966521739959717,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8246075510978699,
+  "clean_share": 0.04563031709203403,
+  "minor_share": 0.030259241189649067,
+  "chord_rate": 1.3333091463193412,
+  "repetitiveness": 0.8240118026733398,
+  "vocal_share": 0.17443914711475372,
+  "vocal_voiced": 0.3880248833592535,
+  "song_length": 340.933
+ }
+}

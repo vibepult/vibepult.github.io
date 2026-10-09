@@ -1,0 +1,127 @@
+{
+ "slug": "iron-savior",
+ "name": "Iron Savior",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 3258272,
+  "deezer": 13056,
+  "spotify": "6COmyouHXwCeIGS1IFd1PA"
+ },
+ "metadata": {
+  "formed": 1996,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 4,
+  "past_members": 7,
+  "full_lengths": 18,
+  "genre": "Speed/Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 9612,
+  "themes": "Ongoing science fiction story, Heavy metal",
+  "release_year": 2003
+ },
+ "partial": false,
+ "clips": [
+  "iron-savior/1436188900-107",
+  "iron-savior/1436248377-108",
+  "iron-savior/1436256549-106",
+  "iron-savior/1436246863-107",
+  "iron-savior/1436206936-105",
+  "iron-savior/1586781039-108",
+  "iron-savior/1533406154-107",
+  "iron-savior/1628987620-121",
+  "iron-savior/1810532897-110",
+  "iron-savior/1849802806-109",
+  "iron-savior/1436188900-106",
+  "iron-savior/1436248377-109"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 47.20199377828054
+  },
+  "onset_rate": {
+   "median": 5.08929764906496,
+   "iqr": 2.647927223245891
+  },
+  "tempo_var": {
+   "median": 10.370608309536939,
+   "iqr": 8.356827542882222
+  },
+  "low_onset_rate": {
+   "median": 5.997513395238326,
+   "iqr": 2.861907063715269
+  },
+  "lufs": {
+   "median": -10.132400802420381,
+   "iqr": 1.9457179564220652
+  },
+  "rms_dbfs": {
+   "median": -9.98317362204947,
+   "iqr": 1.3861449486600446
+  },
+  "crest": {
+   "median": 9.983174324035645,
+   "iqr": 1.3861453533172607
+  },
+  "centroid": {
+   "median": 2805.567032856963,
+   "iqr": 135.14283579770017
+  },
+  "flatness": {
+   "median": 0.04727404564619064,
+   "iqr": 0.012928854674100876
+  },
+  "sub100_share": {
+   "median": 0.3159259259700775,
+   "iqr": 0.1341407559812069
+  },
+  "lowest_pitch": {
+   "median": 49.7955322265625,
+   "iqr": 18.16864013671875
+  },
+  "harmonic_share": {
+   "median": 0.7064771354198456,
+   "iqr": 0.06761796772480011
+  },
+  "clean_share": {
+   "median": 0.006197354610457143,
+   "iqr": 0.03545303019121281
+  },
+  "minor_share": {
+   "median": 0.04462309246476209,
+   "iqr": 0.15731639578280815
+  },
+  "chord_rate": {
+   "median": 1.735421628853723,
+   "iqr": 0.5513034597294286
+  },
+  "repetitiveness": {
+   "median": 0.9109749495983124,
+   "iqr": 0.07620814442634583
+  },
+  "vocal_share": {
+   "median": 0.21296311914920807,
+   "iqr": 0.05777061730623245
+  },
+  "vocal_voiced": {
+   "median": 0.5519553072625698,
+   "iqr": 0.1923751592301418
+  },
+  "song_length": {
+   "median": 288.3865,
+   "iqr": 63.46975000000003
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

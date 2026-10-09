@@ -1,0 +1,32 @@
+{
+ "id": "angellore/1877516681-104",
+ "band": "angellore",
+ "title": "Blood for Lavinia",
+ "source": "itunes",
+ "album": "Rien Ne Devait Mourir",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 69.83741554054055,
+  "onset_rate": 3.4999470907469274,
+  "tempo_var": 3.6564715100590925,
+  "low_onset_rate": 5.8332451512448795,
+  "lufs": -14.029480313012295,
+  "rms_dbfs": -13.209541215637357,
+  "crest": 13.209542274475098,
+  "centroid": 2121.4596632433886,
+  "flatness": 0.019580364227294922,
+  "sub100_share": 0.19160114228725433,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.7427650094032288,
+  "clean_share": 0.24748646558391338,
+  "minor_share": 0.28182259239398133,
+  "chord_rate": 0.7999879064564406,
+  "repetitiveness": 0.8479033708572388,
+  "vocal_share": 0.13732798397541046,
+  "vocal_voiced": 0.7043701799485861,
+  "song_length": 280.267
+ }
+}

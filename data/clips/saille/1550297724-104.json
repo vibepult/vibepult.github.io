@@ -1,0 +1,32 @@
+{
+ "id": "saille/1550297724-104",
+ "band": "saille",
+ "title": "Loathsome Legacy",
+ "source": "itunes",
+ "album": "V",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.443840008728119,
+  "tempo_var": 6.7793554987279805,
+  "low_onset_rate": 8.65379370120739,
+  "lufs": -9.126222464677763,
+  "rms_dbfs": -8.057730577261822,
+  "crest": 8.057729721069336,
+  "centroid": 2533.3993877075927,
+  "flatness": 0.02893339842557907,
+  "sub100_share": 0.47491201758384705,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8459916114807129,
+  "clean_share": 0.015515903801396431,
+  "minor_share": -0.31731807406400125,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.9576093554496765,
+  "vocal_share": 0.1022896096110344,
+  "vocal_voiced": 0.27380952380952384,
+  "song_length": 267.05
+ }
+}

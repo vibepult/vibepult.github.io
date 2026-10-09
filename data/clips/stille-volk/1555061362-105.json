@@ -1,0 +1,32 @@
+{
+ "id": "stille-volk/1555061362-105",
+ "band": "stille-volk",
+ "title": "Le Roi Des Animaux",
+ "source": "itunes",
+ "album": "Maudat",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.610901663191583,
+  "tempo_var": 3.7772535561096126,
+  "low_onset_rate": 5.178911288367357,
+  "lufs": -18.090683562821205,
+  "rms_dbfs": -18.027080551509428,
+  "crest": 17.19336700439453,
+  "centroid": 2281.4682983953912,
+  "flatness": 0.021078109741210938,
+  "sub100_share": 0.08163521438837051,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7193670272827148,
+  "clean_share": 0.06982156710628394,
+  "minor_share": 0.05765599677252237,
+  "chord_rate": 1.871090529990787,
+  "repetitiveness": 0.8330791592597961,
+  "vocal_share": 0.2665218412876129,
+  "vocal_voiced": 0.0865874363327674,
+  "song_length": 196.4
+ }
+}

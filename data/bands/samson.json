@@ -1,0 +1,127 @@
+{
+ "slug": "samson",
+ "name": "Samson",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 512144,
+  "deezer": 98062,
+  "spotify": "0s4JwoiTHqruatpqAR0IZ7"
+ },
+ "metadata": {
+  "formed": 1977,
+  "split": 2006,
+  "country": "GB",
+  "status": "split-up",
+  "members": 4,
+  "past_members": 23,
+  "full_lengths": 9,
+  "genre": "NWOBHM/Heavy Metal/Hard Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 1738,
+  "themes": "Society, Rock/Metal, Life",
+  "release_year": 1980
+ },
+ "partial": false,
+ "clips": [
+  "samson/1477349026-106",
+  "samson/1435787757-106",
+  "samson/1477349026-107",
+  "samson/1435787757-107",
+  "samson/1477349026-105",
+  "samson/1435787757-105",
+  "samson/1477349026-108",
+  "samson/1435787757-108",
+  "samson/1477349026-104",
+  "samson/1435787757-104",
+  "samson/1477349026-109",
+  "samson/1435787757-109"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 28.309828814338232
+  },
+  "onset_rate": {
+   "median": 4.233333333333333,
+   "iqr": 1.466666666666666
+  },
+  "tempo_var": {
+   "median": 8.265954630249908,
+   "iqr": 9.767729114939701
+  },
+  "low_onset_rate": {
+   "median": 4.699999999999999,
+   "iqr": 1.3583333333333334
+  },
+  "lufs": {
+   "median": -11.956657087672244,
+   "iqr": 2.047445147324943
+  },
+  "rms_dbfs": {
+   "median": -11.546449463885754,
+   "iqr": 1.8571623669837454
+  },
+  "crest": {
+   "median": 11.546449661254883,
+   "iqr": 1.8571617603302002
+  },
+  "centroid": {
+   "median": 2307.611701673185,
+   "iqr": 225.16820591119313
+  },
+  "flatness": {
+   "median": 0.02117220778018236,
+   "iqr": 0.007737054489552975
+  },
+  "sub100_share": {
+   "median": 0.1571587324142456,
+   "iqr": 0.113399188965559
+  },
+  "lowest_pitch": {
+   "median": 61.907958984375,
+   "iqr": 18.841552734375
+  },
+  "harmonic_share": {
+   "median": 0.6994094252586365,
+   "iqr": 0.08640988171100616
+  },
+  "clean_share": {
+   "median": 0.07894736842105263,
+   "iqr": 0.11900154798761611
+  },
+  "minor_share": {
+   "median": -0.017428431959398694,
+   "iqr": 0.2615450336481318
+  },
+  "chord_rate": {
+   "median": 1.7833333333333332,
+   "iqr": 0.6833333333333333
+  },
+  "repetitiveness": {
+   "median": 0.8291220664978027,
+   "iqr": 0.0522344708442688
+  },
+  "vocal_share": {
+   "median": 0.1747893989086151,
+   "iqr": 0.11231041699647903
+  },
+  "vocal_voiced": {
+   "median": 0.7640807651434643,
+   "iqr": 0.19179082445864604
+  },
+  "song_length": {
+   "median": 216.59300000000002,
+   "iqr": 77.22974999999997
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

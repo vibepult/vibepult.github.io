@@ -1,0 +1,32 @@
+{
+ "id": "myrkur/1696872351-106",
+ "band": "myrkur",
+ "title": "Valkyriernes Sang",
+ "source": "itunes",
+ "album": "Spine",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.066666666666666,
+  "tempo_var": 2.0389576026553016,
+  "low_onset_rate": 5.9,
+  "lufs": -6.864019808765901,
+  "rms_dbfs": -6.066817802677372,
+  "crest": 6.066817760467529,
+  "centroid": 2217.937162308971,
+  "flatness": 0.01909191533923149,
+  "sub100_share": 0.27264824509620667,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8728403449058533,
+  "clean_share": 0.0015479876160990713,
+  "minor_share": 0.04584737344606904,
+  "chord_rate": 0.9333333333333333,
+  "repetitiveness": 0.6736583709716797,
+  "vocal_share": 0.22703209519386292,
+  "vocal_voiced": 0.9731285988483686,
+  "song_length": 235.919
+ }
+}

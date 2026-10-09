@@ -1,0 +1,32 @@
+{
+ "id": "rush/1440641046-103",
+ "band": "rush",
+ "title": "Lakeside Park",
+ "source": "itunes",
+ "album": "Caress of Steel (Remastered)",
+ "year": 1975,
+ "itunes_year": 1975,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.2,
+  "tempo_var": 15.059878475802416,
+  "low_onset_rate": 3.4,
+  "lufs": -12.502383785583046,
+  "rms_dbfs": -11.61978226572376,
+  "crest": 11.619782447814941,
+  "centroid": 1898.2106282640848,
+  "flatness": 0.00891233328729868,
+  "sub100_share": 0.18698792159557343,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.694176435470581,
+  "clean_share": 0.49767801857585137,
+  "minor_share": -0.009970793050583793,
+  "chord_rate": 1.1,
+  "repetitiveness": 0.7831859588623047,
+  "vocal_share": 0.23699697852134705,
+  "vocal_voiced": 0.8667664670658682,
+  "song_length": 252.437
+ }
+}

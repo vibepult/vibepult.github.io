@@ -1,0 +1,32 @@
+{
+ "id": "raven/1409625191-108",
+ "band": "raven",
+ "title": "Nobody's Hero",
+ "source": "itunes",
+ "album": "Rock Until You Drop",
+ "year": 1981,
+ "itunes_year": 1981,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 5.966666666666667,
+  "tempo_var": 17.177499431226828,
+  "low_onset_rate": 6.533333333333333,
+  "lufs": -12.706819182738874,
+  "rms_dbfs": -12.83211612615003,
+  "crest": 12.832117080688477,
+  "centroid": 2567.3658738846016,
+  "flatness": 0.03174879029393196,
+  "sub100_share": 0.032605625689029694,
+  "lowest_pitch": 164.190673828125,
+  "harmonic_share": 0.6794942021369934,
+  "clean_share": 0.009287925696594427,
+  "minor_share": 0.18300391749618394,
+  "chord_rate": 1.2666666666666666,
+  "repetitiveness": 0.8566793203353882,
+  "vocal_share": 0.26410049200057983,
+  "vocal_voiced": 0.3217692974848222,
+  "song_length": 231.387
+ }
+}

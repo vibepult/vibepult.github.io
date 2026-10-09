@@ -1,0 +1,127 @@
+{
+ "slug": "sweeping-death",
+ "name": "Sweeping Death",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1191086726,
+  "deezer": 11662443,
+  "spotify": "6rwsajhIZOnZOvsnDvKQFi"
+ },
+ "metadata": {
+  "formed": 2016,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 5,
+  "past_members": 1,
+  "full_lengths": 2,
+  "genre": "Progressive Heavy Metal/Hard Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 228,
+  "themes": "N/A",
+  "release_year": 2021
+ },
+ "partial": false,
+ "clips": [
+  "sweeping-death/1434658758-105",
+  "sweeping-death/1840645281-105",
+  "sweeping-death/1434658758-106",
+  "sweeping-death/1840645281-106",
+  "sweeping-death/1434658758-104",
+  "sweeping-death/1840645281-103",
+  "sweeping-death/1434658758-107",
+  "sweeping-death/1840645281-107",
+  "sweeping-death/1434658758-103",
+  "sweeping-death/1840645281-102",
+  "sweeping-death/1434658758-108",
+  "sweeping-death/1840645281-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.32652698863637,
+   "iqr": 47.784711052389696
+  },
+  "onset_rate": {
+   "median": 4.427133843281773,
+   "iqr": 1.563288183635322
+  },
+  "tempo_var": {
+   "median": 15.943800959734052,
+   "iqr": 4.4828058644151785
+  },
+  "low_onset_rate": {
+   "median": 5.671637985553668,
+   "iqr": 1.2114644251018927
+  },
+  "lufs": {
+   "median": -8.811091138345883,
+   "iqr": 0.9056702613143042
+  },
+  "rms_dbfs": {
+   "median": -8.458862593521925,
+   "iqr": 1.0918053741031253
+  },
+  "crest": {
+   "median": 8.458862781524658,
+   "iqr": 1.0918054580688477
+  },
+  "centroid": {
+   "median": 2755.934584797958,
+   "iqr": 196.47586346513208
+  },
+  "flatness": {
+   "median": 0.04324284382164478,
+   "iqr": 0.008778986521065235
+  },
+  "sub100_share": {
+   "median": 0.3022950440645218,
+   "iqr": 0.0776916891336441
+  },
+  "lowest_pitch": {
+   "median": 52.4871826171875,
+   "iqr": 10.09368896484375
+  },
+  "harmonic_share": {
+   "median": 0.7807171642780304,
+   "iqr": 0.07963630557060242
+  },
+  "clean_share": {
+   "median": 0.001939487975174554,
+   "iqr": 0.029223268815733346
+  },
+  "minor_share": {
+   "median": 0.006841036526507638,
+   "iqr": 0.13931525203891823
+  },
+  "chord_rate": {
+   "median": 1.6349069001465688,
+   "iqr": 0.39033453817979824
+  },
+  "repetitiveness": {
+   "median": 0.8173710107803345,
+   "iqr": 0.061641380190849304
+  },
+  "vocal_share": {
+   "median": 0.19290567189455032,
+   "iqr": 0.0852007046341896
+  },
+  "vocal_voiced": {
+   "median": 0.6590182345825009,
+   "iqr": 0.47810699792691835
+  },
+  "song_length": {
+   "median": 292.527,
+   "iqr": 128.30000000000004
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

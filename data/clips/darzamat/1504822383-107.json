@@ -1,0 +1,32 @@
+{
+ "id": "darzamat/1504822383-107",
+ "band": "darzamat",
+ "title": "Gloria Inferni",
+ "source": "itunes",
+ "album": "Solfernus' Path",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.646683920865054,
+  "tempo_var": 2.788914518171195,
+  "low_onset_rate": 5.680096251757746,
+  "lufs": -7.332200350713998,
+  "rms_dbfs": -6.8749248841436925,
+  "crest": 6.874924182891846,
+  "centroid": 2951.038902818251,
+  "flatness": 0.05543895810842514,
+  "sub100_share": 0.43738555908203125,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7254654765129089,
+  "clean_share": 0.0,
+  "minor_share": -0.11177901821025182,
+  "chord_rate": 1.971327522668865,
+  "repetitiveness": 0.8945220708847046,
+  "vocal_share": 0.14278177917003632,
+  "vocal_voiced": 0.27728285077951004,
+  "song_length": 255.44
+ }
+}

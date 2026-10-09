@@ -1,0 +1,32 @@
+{
+ "id": "serenity/1183598525-106",
+ "band": "serenity",
+ "title": "The Matricide",
+ "source": "itunes",
+ "album": "War of Ages",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.066666666666666,
+  "tempo_var": 20.241536398196015,
+  "low_onset_rate": 7.066666666666666,
+  "lufs": -8.093863148070815,
+  "rms_dbfs": -7.447213839966864,
+  "crest": 7.447214126586914,
+  "centroid": 2762.2877030464647,
+  "flatness": 0.04265924170613289,
+  "sub100_share": 0.3504534065723419,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7057557106018066,
+  "clean_share": 0.0046439628482972135,
+  "minor_share": 0.044675398550439005,
+  "chord_rate": 1.5666666666666667,
+  "repetitiveness": 0.8893582820892334,
+  "vocal_share": 0.19533221423625946,
+  "vocal_voiced": 0.788480635551142,
+  "song_length": 296.107
+ }
+}

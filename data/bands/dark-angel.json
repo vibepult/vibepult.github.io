@@ -1,0 +1,127 @@
+{
+ "slug": "dark-angel",
+ "name": "Dark Angel",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1005187555,
+  "deezer": 289082,
+  "spotify": "0RFQyVQGVcECxnuSLvEKxV"
+ },
+ "metadata": {
+  "formed": 1983,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 11,
+  "full_lengths": 5,
+  "genre": "Thrash Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 5963,
+  "themes": "Death, Insanity, Society, Politics, Horror, Depression, Violence, War",
+  "release_year": 1989
+ },
+ "partial": false,
+ "clips": [
+  "dark-angel/1005312128-104",
+  "dark-angel/1005187416-103",
+  "dark-angel/1005196521-105",
+  "dark-angel/1005312128-103",
+  "dark-angel/1005187416-106",
+  "dark-angel/1005196521-104",
+  "dark-angel/1005312128-105",
+  "dark-angel/1005187416-102",
+  "dark-angel/1005196521-106",
+  "dark-angel/1005312128-102",
+  "dark-angel/1005187416-108",
+  "dark-angel/1005196521-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.90049098320159,
+   "iqr": 21.533203125
+  },
+  "onset_rate": {
+   "median": 5.6968024172040925,
+   "iqr": 2.188507673471367
+  },
+  "tempo_var": {
+   "median": 3.44639747093111,
+   "iqr": 3.513105273449019
+  },
+  "low_onset_rate": {
+   "median": 6.866233998448334,
+   "iqr": 2.472512486059255
+  },
+  "lufs": {
+   "median": -8.14628418109104,
+   "iqr": 1.2720544300674792
+  },
+  "rms_dbfs": {
+   "median": -7.986012562467385,
+   "iqr": 1.1368978709899382
+  },
+  "crest": {
+   "median": 7.9860124588012695,
+   "iqr": 1.1368975639343262
+  },
+  "centroid": {
+   "median": 2632.2290443581005,
+   "iqr": 257.34209345318595
+  },
+  "flatness": {
+   "median": 0.034643763676285744,
+   "iqr": 0.014190122950822115
+  },
+  "sub100_share": {
+   "median": 0.2970316708087921,
+   "iqr": 0.07726050540804863
+  },
+  "lowest_pitch": {
+   "median": 65.9454345703125,
+   "iqr": 29.608154296875
+  },
+  "harmonic_share": {
+   "median": 0.7331394851207733,
+   "iqr": 0.07103480398654938
+  },
+  "clean_share": {
+   "median": 0.0011636927851047323,
+   "iqr": 0.008533747090768037
+  },
+  "minor_share": {
+   "median": -0.0024639132491788007,
+   "iqr": 0.0847074148667308
+  },
+  "chord_rate": {
+   "median": 2.773223464093488,
+   "iqr": 0.6431873696843331
+  },
+  "repetitiveness": {
+   "median": 0.947464793920517,
+   "iqr": 0.046637892723083496
+  },
+  "vocal_share": {
+   "median": 0.14329874143004417,
+   "iqr": 0.13636876828968525
+  },
+  "vocal_voiced": {
+   "median": 0.33165871318934437,
+   "iqr": 0.22124747181420873
+  },
+  "song_length": {
+   "median": 393.65999999999997,
+   "iqr": 226.20725000000004
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

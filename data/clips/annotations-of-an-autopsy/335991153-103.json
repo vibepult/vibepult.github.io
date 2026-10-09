@@ -1,0 +1,32 @@
+{
+ "id": "annotations-of-an-autopsy/335991153-103",
+ "band": "annotations-of-an-autopsy",
+ "title": "Human Dust",
+ "source": "itunes",
+ "album": "Before the Throne of Infection",
+ "year": 2008,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 1.069194588566164,
+  "tempo_var": 13.074305175911938,
+  "low_onset_rate": 2.773223464093488,
+  "lufs": -8.93844547967103,
+  "rms_dbfs": -8.635177669470687,
+  "crest": 8.635178565979004,
+  "centroid": 2491.029686101543,
+  "flatness": 0.039520908147096634,
+  "sub100_share": 0.2700260579586029,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7170217633247375,
+  "clean_share": 0.028704422032583398,
+  "minor_share": 0.012628036253812647,
+  "chord_rate": 2.0047398535615577,
+  "repetitiveness": 0.9171152710914612,
+  "vocal_share": 0.0700606107711792,
+  "vocal_voiced": 0.2694300518134715,
+  "song_length": 234.921
+ }
+}

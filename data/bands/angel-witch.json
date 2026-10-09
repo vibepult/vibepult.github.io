@@ -1,0 +1,127 @@
+{
+ "slug": "angel-witch",
+ "name": "Angel Witch",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 4233332,
+  "deezer": 101469,
+  "spotify": "6L48AOtGmQL1ELLoKML7cS"
+ },
+ "metadata": {
+  "formed": 1978,
+  "split": null,
+  "country": "GB",
+  "status": "active",
+  "members": 4,
+  "past_members": 26,
+  "full_lengths": 5,
+  "genre": "NWOBHM, Heavy Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 10060,
+  "themes": "Love, Occultism, Life, Fantasy, Death",
+  "release_year": 2015
+ },
+ "partial": false,
+ "clips": [
+  "angel-witch/967291256-104",
+  "angel-witch/1475309041-104",
+  "angel-witch/967291256-105",
+  "angel-witch/1475309041-105",
+  "angel-witch/967291256-103",
+  "angel-witch/1475309041-103",
+  "angel-witch/967291256-106",
+  "angel-witch/1475309041-106",
+  "angel-witch/967291256-102",
+  "angel-witch/1475309041-102",
+  "angel-witch/967291256-107",
+  "angel-witch/1475309041-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 52.12788991798642
+  },
+  "onset_rate": {
+   "median": 4.7612571522086995,
+   "iqr": 0.6682466178538533
+  },
+  "tempo_var": {
+   "median": 3.906198485093878,
+   "iqr": 14.20376249998004
+  },
+  "low_onset_rate": {
+   "median": 5.897276402560248,
+   "iqr": 1.2863747393686662
+  },
+  "lufs": {
+   "median": -8.385943088555015,
+   "iqr": 1.0149079382409827
+  },
+  "rms_dbfs": {
+   "median": -7.616228827641622,
+   "iqr": 0.8411271004337753
+  },
+  "crest": {
+   "median": 7.6162285804748535,
+   "iqr": 0.8411270380020142
+  },
+  "centroid": {
+   "median": 2338.9746366389277,
+   "iqr": 483.8361280278741
+  },
+  "flatness": {
+   "median": 0.02213107142597437,
+   "iqr": 0.022655068896710873
+  },
+  "sub100_share": {
+   "median": 0.3704428970813751,
+   "iqr": 0.07788152247667313
+  },
+  "lowest_pitch": {
+   "median": 61.907958984375,
+   "iqr": 5.38330078125
+  },
+  "harmonic_share": {
+   "median": 0.7866067588329315,
+   "iqr": 0.06976494193077087
+  },
+  "clean_share": {
+   "median": 0.017455391776570985,
+   "iqr": 0.10065942591155935
+  },
+  "minor_share": {
+   "median": 0.16162610744241612,
+   "iqr": 0.12800980202772655
+  },
+  "chord_rate": {
+   "median": 1.7875597027590553,
+   "iqr": 0.5095380461135626
+  },
+  "repetitiveness": {
+   "median": 0.8742398917675018,
+   "iqr": 0.04964970052242279
+  },
+  "vocal_share": {
+   "median": 0.12166858464479446,
+   "iqr": 0.11597354523837566
+  },
+  "vocal_voiced": {
+   "median": 0.7800889553449237,
+   "iqr": 0.13869940690131
+  },
+  "song_length": {
+   "median": 354.536,
+   "iqr": 70.23600000000005
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

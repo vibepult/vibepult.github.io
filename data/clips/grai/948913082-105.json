@@ -1,0 +1,32 @@
+{
+ "id": "grai/948913082-105",
+ "band": "grai",
+ "title": "Пьянь-гулянь",
+ "source": "itunes",
+ "album": "Полынь​-​трава",
+ "year": 2009,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 5.412797604616205,
+  "tempo_var": 3.3104404426602057,
+  "low_onset_rate": 5.9473948988992875,
+  "lufs": -9.136654895236298,
+  "rms_dbfs": -8.699910474862007,
+  "crest": 8.699910163879395,
+  "centroid": 2512.7832196064646,
+  "flatness": 0.02465272694826126,
+  "sub100_share": 0.39249637722969055,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8459262847900391,
+  "clean_share": 0.09464701318851823,
+  "minor_share": -0.20553160208014043,
+  "chord_rate": 1.9379151917761723,
+  "repetitiveness": 0.8101611733436584,
+  "vocal_share": 6.072889959796157e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 291.773
+ }
+}

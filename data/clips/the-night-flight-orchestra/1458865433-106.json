@@ -1,0 +1,32 @@
+{
+ "id": "the-night-flight-orchestra/1458865433-106",
+ "band": "the-night-flight-orchestra",
+ "title": "Speedwagon",
+ "source": "itunes",
+ "album": "Sometimes the World Ain't Enough",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.9068727876642586,
+  "tempo_var": 3.135073936870977,
+  "low_onset_rate": 2.9068727876642586,
+  "lufs": -10.33304504330484,
+  "rms_dbfs": -10.56096424073515,
+  "crest": 10.560964584350586,
+  "centroid": 2269.266168414851,
+  "flatness": 0.027852913364768028,
+  "sub100_share": 0.2319246530532837,
+  "lowest_pitch": 145.34912109375,
+  "harmonic_share": 0.7108740210533142,
+  "clean_share": 0.21411947245927077,
+  "minor_share": -0.19552181725275275,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.735662043094635,
+  "vocal_share": 0.21080414950847626,
+  "vocal_voiced": 0.8754863813229572,
+  "song_length": 202.373
+ }
+}

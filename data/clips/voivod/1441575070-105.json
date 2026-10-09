@@ -1,0 +1,32 @@
+{
+ "id": "voivod/1441575070-105",
+ "band": "voivod",
+ "title": "Warchaic",
+ "source": "itunes",
+ "album": "Target Earth",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.809005721766959,
+  "tempo_var": 2.4251515353251007,
+  "low_onset_rate": 4.377015346942734,
+  "lufs": -10.010191099929727,
+  "rms_dbfs": -8.784734644106434,
+  "crest": 8.784734725952148,
+  "centroid": 1892.2815004130955,
+  "flatness": 0.008473174646496773,
+  "sub100_share": 0.24814768135547638,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8557502031326294,
+  "clean_share": 0.5461598138091543,
+  "minor_share": 0.11055431571111651,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.6333847641944885,
+  "vocal_share": 0.11240822076797485,
+  "vocal_voiced": 0.9753914988814317,
+  "song_length": 421.12
+ }
+}

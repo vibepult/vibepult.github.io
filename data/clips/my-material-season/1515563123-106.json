@@ -1,0 +1,32 @@
+{
+ "id": "my-material-season/1515563123-106",
+ "band": "my-material-season",
+ "title": "Circulate Drama",
+ "source": "itunes",
+ "album": "Bridal Aisles of Tragedy",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.680096251757746,
+  "tempo_var": 16.82170082014916,
+  "low_onset_rate": 6.649053847645832,
+  "lufs": -7.591310114595523,
+  "rms_dbfs": -7.097288867602266,
+  "crest": 7.097288131713867,
+  "centroid": 2670.124738237293,
+  "flatness": 0.047404944896698,
+  "sub100_share": 0.23598086833953857,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7046598196029663,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": 0.216832909914077,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.92872154712677,
+  "vocal_share": 0.05965898185968399,
+  "vocal_voiced": 0.5294117647058824,
+  "song_length": 243.64
+ }
+}

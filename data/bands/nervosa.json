@@ -1,0 +1,127 @@
+{
+ "slug": "nervosa",
+ "name": "Nervosa",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 511556134,
+  "deezer": 1693145,
+  "spotify": "5D9d9xyLNQu32QVD9t4YqH"
+ },
+ "metadata": {
+  "formed": 2010,
+  "split": null,
+  "country": "BR",
+  "status": "active",
+  "members": 5,
+  "past_members": 11,
+  "full_lengths": 6,
+  "genre": "Thrash/Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 16395,
+  "themes": "Society, Revolt, Apocalypse",
+  "release_year": 2017
+ },
+ "partial": false,
+ "clips": [
+  "nervosa/1184704186-106",
+  "nervosa/1183619249-106",
+  "nervosa/1362206594-108",
+  "nervosa/1534572397-107",
+  "nervosa/1862228924-106",
+  "nervosa/1184704186-107",
+  "nervosa/1183619249-107",
+  "nervosa/1362206594-107",
+  "nervosa/1534572397-106",
+  "nervosa/1862228924-107",
+  "nervosa/1184704186-105",
+  "nervosa/1183619249-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 103.359375,
+   "iqr": 21.926389040646853
+  },
+  "onset_rate": {
+   "median": 6.35,
+   "iqr": 0.708333333333333
+  },
+  "tempo_var": {
+   "median": 11.568126444548419,
+   "iqr": 8.88877136059309
+  },
+  "low_onset_rate": {
+   "median": 7.766666666666667,
+   "iqr": 1.9154048141366165
+  },
+  "lufs": {
+   "median": -8.304810904410518,
+   "iqr": 3.707110293735078
+  },
+  "rms_dbfs": {
+   "median": -7.531322830442386,
+   "iqr": 2.853650211243374
+  },
+  "crest": {
+   "median": 7.531322717666626,
+   "iqr": 2.8536500930786133
+  },
+  "centroid": {
+   "median": 2663.126610950026,
+   "iqr": 589.8528913943869
+  },
+  "flatness": {
+   "median": 0.0419329646974802,
+   "iqr": 0.03906445251777768
+  },
+  "sub100_share": {
+   "median": 0.34660816192626953,
+   "iqr": 0.15162613987922668
+  },
+  "lowest_pitch": {
+   "median": 43.06640625,
+   "iqr": 11.43951416015625
+  },
+  "harmonic_share": {
+   "median": 0.7000821530818939,
+   "iqr": 0.07841427624225616
+  },
+  "clean_share": {
+   "median": 0.005030959752321981,
+   "iqr": 0.03405572755417957
+  },
+  "minor_share": {
+   "median": 0.023990691763042332,
+   "iqr": 0.09060209792927289
+  },
+  "chord_rate": {
+   "median": 2.1166666666666667,
+   "iqr": 0.242551413842909
+  },
+  "repetitiveness": {
+   "median": 0.9211893677711487,
+   "iqr": 0.03014540672302246
+  },
+  "vocal_share": {
+   "median": 0.09545749425888062,
+   "iqr": 0.0694205891340971
+  },
+  "vocal_voiced": {
+   "median": 0.10795342411683442,
+   "iqr": 0.06503448147743271
+  },
+  "song_length": {
+   "median": 217.23000000000002,
+   "iqr": 50.75125
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

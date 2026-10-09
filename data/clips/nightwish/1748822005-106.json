@@ -1,0 +1,32 @@
+{
+ "id": "nightwish/1748822005-106",
+ "band": "nightwish",
+ "title": "Sway (Orchestral Version)",
+ "source": "itunes",
+ "album": "Yesterwynde (Orchestral)",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.566633005998452,
+  "tempo_var": 6.470753226273187,
+  "low_onset_rate": 5.533299874226006,
+  "lufs": -20.590947223061203,
+  "rms_dbfs": -18.481587311347,
+  "crest": 14.212709426879883,
+  "centroid": 443.5297483106113,
+  "flatness": 0.0031893497798591852,
+  "sub100_share": 0.6107874512672424,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.9910447001457214,
+  "clean_share": 0.9953596287703016,
+  "minor_share": 0.16763224265779186,
+  "chord_rate": 0.5999963719040248,
+  "repetitiveness": 0.5395957827568054,
+  "vocal_share": 3.5354642591300944e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 206.68
+ }
+}

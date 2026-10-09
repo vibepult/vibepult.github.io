@@ -1,0 +1,32 @@
+{
+ "id": "mortification/210914620-105",
+ "band": "mortification",
+ "title": "A Pearl",
+ "source": "itunes",
+ "album": "Hammer of God",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.174171434805799,
+  "tempo_var": 3.80134334361913,
+  "low_onset_rate": 4.377015346942734,
+  "lufs": -11.782638940117076,
+  "rms_dbfs": -11.061710962105803,
+  "crest": 11.061711311340332,
+  "centroid": 2543.086933855729,
+  "flatness": 0.028689991682767868,
+  "sub100_share": 0.3122562766075134,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7933349013328552,
+  "clean_share": 0.017843289371605897,
+  "minor_share": 0.14761694415792592,
+  "chord_rate": 2.405687824273869,
+  "repetitiveness": 0.7576917409896851,
+  "vocal_share": 0.10631541162729263,
+  "vocal_voiced": 0.34961832061068704,
+  "song_length": 375.133
+ }
+}

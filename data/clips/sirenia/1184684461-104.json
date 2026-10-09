@@ -1,0 +1,32 @@
+{
+ "id": "sirenia/1184684461-104",
+ "band": "sirenia",
+ "title": "Euphoria",
+ "source": "itunes",
+ "album": "An Elixir for Existence",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.933333333333334,
+  "tempo_var": 2.786732402591552,
+  "low_onset_rate": 5.466666666666667,
+  "lufs": -7.719351350142435,
+  "rms_dbfs": -7.277584149662937,
+  "crest": 7.277584075927734,
+  "centroid": 2126.259916485127,
+  "flatness": 0.018259575590491295,
+  "sub100_share": 0.2921588718891144,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8442079424858093,
+  "clean_share": 0.03018575851393189,
+  "minor_share": 0.2608318115900401,
+  "chord_rate": 1.1333333333333333,
+  "repetitiveness": 0.7523286938667297,
+  "vocal_share": 0.021643897518515587,
+  "vocal_voiced": 0.16356877323420074,
+  "song_length": 395.0
+ }
+}

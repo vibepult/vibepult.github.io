@@ -1,0 +1,32 @@
+{
+ "id": "the-agonist/1184702704-107",
+ "band": "the-agonist",
+ "title": "The Raven Eyes",
+ "source": "itunes",
+ "album": "Five",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.6,
+  "tempo_var": 6.210270196072093,
+  "low_onset_rate": 4.866666666666666,
+  "lufs": -22.316095957851996,
+  "rms_dbfs": -21.78513276951646,
+  "crest": 14.574955940246582,
+  "centroid": 1829.061142663785,
+  "flatness": 0.005262587685137987,
+  "sub100_share": 0.008036164566874504,
+  "lowest_pitch": 185.723876953125,
+  "harmonic_share": 0.9633165597915649,
+  "clean_share": 0.7755417956656346,
+  "minor_share": 0.19507413693262377,
+  "chord_rate": 1.3333333333333333,
+  "repetitiveness": 0.6148463487625122,
+  "vocal_share": 0.7274342179298401,
+  "vocal_voiced": 0.9389221556886228,
+  "song_length": 334.867
+ }
+}

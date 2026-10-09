@@ -1,0 +1,32 @@
+{
+ "id": "samson/1477349026-108",
+ "band": "samson",
+ "title": "Hunted",
+ "source": "itunes",
+ "album": "Head On (Bonus Tracks Edition)",
+ "year": 1980,
+ "itunes_year": 1980,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.066666666666667,
+  "tempo_var": 2.788130797724577,
+  "low_onset_rate": 3.6666666666666665,
+  "lufs": -13.489782993267712,
+  "rms_dbfs": -13.15677932550702,
+  "crest": 13.156780242919922,
+  "centroid": 2257.986717357879,
+  "flatness": 0.01874779351055622,
+  "sub100_share": 0.22818289697170258,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.6457724571228027,
+  "clean_share": 0.17337461300309598,
+  "minor_share": -0.07173484653157536,
+  "chord_rate": 2.033333333333333,
+  "repetitiveness": 0.8272731900215149,
+  "vocal_share": 0.24756598472595215,
+  "vocal_voiced": 0.8383720930232558,
+  "song_length": 178.0
+ }
+}

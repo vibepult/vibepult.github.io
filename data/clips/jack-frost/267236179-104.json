@@ -1,0 +1,32 @@
+{
+ "id": "jack-frost/267236179-104",
+ "band": "jack-frost",
+ "title": "Sentenced",
+ "source": "itunes",
+ "album": "Elsewhere",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.243366023371963,
+  "tempo_var": 1.1933081047079221,
+  "low_onset_rate": 5.379385273723512,
+  "lufs": -8.118874077162477,
+  "rms_dbfs": -8.33750647071246,
+  "crest": 8.337506294250488,
+  "centroid": 2746.5689178346015,
+  "flatness": 0.030127856880426407,
+  "sub100_share": 0.20173808932304382,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7928939461708069,
+  "clean_share": 0.0031031807602792862,
+  "minor_share": 0.18152841267627873,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.8065925240516663,
+  "vocal_share": 0.05126294493675232,
+  "vocal_voiced": 0.1622103386809269,
+  "song_length": 278.453
+ }
+}

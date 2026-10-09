@@ -1,0 +1,126 @@
+{
+ "slug": "entoria",
+ "name": "Entoria",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1450504615,
+  "deezer": 58245042,
+  "spotify": "6k9MSTmkiRPWNL4bJd20E5"
+ },
+ "metadata": {
+  "formed": 2013,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 6,
+  "past_members": 3,
+  "full_lengths": 1,
+  "genre": "Melodic Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 70,
+  "themes": "Fantasy, Time, Death, Wrath",
+  "release_year": 2019
+ },
+ "partial": false,
+ "clips": [
+  "entoria/1450504614-106",
+  "entoria/1450504614-105",
+  "entoria/1450504614-107",
+  "entoria/1450504614-104",
+  "entoria/1450504614-108",
+  "entoria/1450504614-103",
+  "entoria/1450504614-109",
+  "entoria/1450504614-102",
+  "entoria/1450504614-110",
+  "entoria/1450504614-101",
+  "entoria/1450504614-111"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 112.34714673913044,
+   "iqr": 15.660511363636374
+  },
+  "onset_rate": {
+   "median": 3.8758303835523447,
+   "iqr": 1.503554890171169
+  },
+  "tempo_var": {
+   "median": 2.7282882702225417,
+   "iqr": 15.890428246721331
+  },
+  "low_onset_rate": {
+   "median": 5.680096251757746,
+   "iqr": 1.7875597027590562
+  },
+  "lufs": {
+   "median": -8.50739021369841,
+   "iqr": 1.2643190781711198
+  },
+  "rms_dbfs": {
+   "median": -7.92325765349471,
+   "iqr": 1.454625601700723
+  },
+  "crest": {
+   "median": 7.923257350921631,
+   "iqr": 1.4546260833740234
+  },
+  "centroid": {
+   "median": 2396.6401272573676,
+   "iqr": 201.83093423200262
+  },
+  "flatness": {
+   "median": 0.02559703029692173,
+   "iqr": 0.013013997115194798
+  },
+  "sub100_share": {
+   "median": 0.2653043270111084,
+   "iqr": 0.19865520298480988
+  },
+  "lowest_pitch": {
+   "median": 61.907958984375,
+   "iqr": 55.1788330078125
+  },
+  "harmonic_share": {
+   "median": 0.7766704559326172,
+   "iqr": 0.1846499741077423
+  },
+  "clean_share": {
+   "median": 0.051978277734678044,
+   "iqr": 0.10705973622963537
+  },
+  "minor_share": {
+   "median": 0.03681905569335553,
+   "iqr": 0.21431763114196817
+  },
+  "chord_rate": {
+   "median": 1.5035548901711682,
+   "iqr": 0.6515404524075061
+  },
+  "repetitiveness": {
+   "median": 0.8241779208183289,
+   "iqr": 0.13045942783355713
+  },
+  "vocal_share": {
+   "median": 0.12945494055747986,
+   "iqr": 0.11748270690441132
+  },
+  "vocal_voiced": {
+   "median": 0.09725158562367865,
+   "iqr": 0.19327731092436973
+  },
+  "song_length": {
+   "median": 240.027,
+   "iqr": 112.33950000000004
+  },
+  "vocal_presence": {
+   "median": 0.8181818181818182,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "bolt-thrower/63609704-106",
+ "band": "bolt-thrower",
+ "title": "This Time It's War",
+ "source": "itunes",
+ "album": "The IVth Crusade",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 6.081044222470058,
+  "tempo_var": 13.680352001052213,
+  "low_onset_rate": 8.219433399602385,
+  "lufs": -15.0622660497205,
+  "rms_dbfs": -14.933251759428956,
+  "crest": 14.93325138092041,
+  "centroid": 2693.6329082954326,
+  "flatness": 0.027769362553954124,
+  "sub100_share": 0.2736007571220398,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7683376669883728,
+  "clean_share": 0.0395655546935609,
+  "minor_share": 0.053065602810874246,
+  "chord_rate": 2.3722754933811765,
+  "repetitiveness": 0.9095495343208313,
+  "vocal_share": 0.02649836428463459,
+  "vocal_voiced": 0.13028169014084506,
+  "song_length": 350.733
+ }
+}

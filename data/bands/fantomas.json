@@ -1,0 +1,125 @@
+{
+ "slug": "fantomas",
+ "name": "Fantômas",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 60806382,
+  "deezer": 1993,
+  "spotify": "43ltIj8NRBsmOEjDr5Sk10"
+ },
+ "metadata": {
+  "formed": 1998,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 4,
+  "past_members": 3,
+  "full_lengths": 4,
+  "genre": "Avant-garde Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 27653,
+  "themes": "Concept soundtracks, Pop culture",
+  "release_year": 2001
+ },
+ "partial": false,
+ "clips": [
+  "fantomas/1891406932-107",
+  "fantomas/1891406932-109",
+  "fantomas/1891406932-104",
+  "fantomas/1891406932-111",
+  "fantomas/1891406932-103",
+  "fantomas/1891406932-114",
+  "fantomas/1891406932-102",
+  "fantomas/1891406932-115",
+  "fantomas/1891406932-101",
+  "fantomas/1891406932-116"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 28.041991171728725
+  },
+  "onset_rate": {
+   "median": 1.6333234568498451,
+   "iqr": 2.4666517511609904
+  },
+  "tempo_var": {
+   "median": 9.955841666238719,
+   "iqr": 7.001871823454976
+  },
+  "low_onset_rate": {
+   "median": 2.2999860922987616,
+   "iqr": 2.299986092298761
+  },
+  "lufs": {
+   "median": -19.165800741937055,
+   "iqr": 10.972095589873039
+  },
+  "rms_dbfs": {
+   "median": -17.48897178361719,
+   "iqr": 12.242577673143664
+  },
+  "crest": {
+   "median": 15.743330955505371,
+   "iqr": 2.8163650035858154
+  },
+  "centroid": {
+   "median": 1792.0635070135218,
+   "iqr": 806.9340510127743
+  },
+  "flatness": {
+   "median": 0.008119645062834024,
+   "iqr": 0.007875962881371379
+  },
+  "sub100_share": {
+   "median": 0.30405794084072113,
+   "iqr": 0.3004757706075907
+  },
+  "lowest_pitch": {
+   "median": 53.8330078125,
+   "iqr": 24.89776611328125
+  },
+  "harmonic_share": {
+   "median": 0.9378460049629211,
+   "iqr": 0.09264026582241058
+  },
+  "clean_share": {
+   "median": 0.682907965970611,
+   "iqr": 0.2967904098994586
+  },
+  "minor_share": {
+   "median": 0.04067090532628381,
+   "iqr": 0.14447185734632562
+  },
+  "chord_rate": {
+   "median": 1.5166574956462848,
+   "iqr": 0.6749959183920278
+  },
+  "repetitiveness": {
+   "median": 0.7231755256652832,
+   "iqr": 0.14588730037212372
+  },
+  "vocal_share": {
+   "median": 0.14996333047747612,
+   "iqr": 0.2856652121990919
+  },
+  "vocal_voiced": {
+   "median": 0.6649951673492163,
+   "iqr": 0.6563869239718733
+  },
+  "song_length": {
+   "median": 181.55349999999999,
+   "iqr": 35.629500000000036
+  },
+  "vocal_presence": {
+   "median": 0.6,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.8,
+  "camp": 0.7
+ },
+ "sources_failed": []
+}

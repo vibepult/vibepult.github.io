@@ -1,0 +1,32 @@
+{
+ "id": "aria/819701693-104",
+ "band": "aria",
+ "title": "С кем ты?",
+ "source": "itunes",
+ "album": "С кем ты?",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 2.6666505417956654,
+  "tempo_var": 11.86351403548118,
+  "low_onset_rate": 3.9999758126934983,
+  "lufs": -16.821447693868137,
+  "rms_dbfs": -15.858565620904837,
+  "crest": 14.003990173339844,
+  "centroid": 2546.6085983300636,
+  "flatness": 0.027899280190467834,
+  "sub100_share": 0.3885096609592438,
+  "lowest_pitch": 131.890869140625,
+  "harmonic_share": 0.7052391171455383,
+  "clean_share": 0.10982211910286156,
+  "minor_share": 0.0510299043912647,
+  "chord_rate": 2.8333162006578947,
+  "repetitiveness": 0.8641518950462341,
+  "vocal_share": 0.019727269187569618,
+  "vocal_voiced": 0.6956521739130435,
+  "song_length": 283.36
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "amon-amarth/54263009-105",
+ "band": "amon-amarth",
+ "title": "As Long As the Raven Flies",
+ "source": "itunes",
+ "album": "The Crusher",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.145498957474664,
+  "tempo_var": 5.173617685726874,
+  "low_onset_rate": 7.3841251272850705,
+  "lufs": -7.872506720763432,
+  "rms_dbfs": -7.981183983384081,
+  "crest": 7.981184005737305,
+  "centroid": 2710.9771473066658,
+  "flatness": 0.03699364513158798,
+  "sub100_share": 0.2610922157764435,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7327488660812378,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": -0.16008262803425477,
+  "chord_rate": 0.7684836105319304,
+  "repetitiveness": 0.8962291479110718,
+  "vocal_share": 0.09040722995996475,
+  "vocal_voiced": 0.33979135618479883,
+  "song_length": 244.667
+ }
+}

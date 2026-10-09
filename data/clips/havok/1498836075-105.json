@@ -1,0 +1,32 @@
+{
+ "id": "havok/1498836075-105",
+ "band": "havok",
+ "title": "Interface with the Infinite",
+ "source": "itunes",
+ "album": "V",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 2.606161809630025,
+  "tempo_var": 1.0018200386551022,
+  "low_onset_rate": 1.9379151917761723,
+  "lufs": -9.949747380347903,
+  "rms_dbfs": -9.985695589570579,
+  "crest": 9.985695838928223,
+  "centroid": 2738.2005545823476,
+  "flatness": 0.045117538422346115,
+  "sub100_share": 0.24955527484416962,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.6896663904190063,
+  "clean_share": 0.032583397982932506,
+  "minor_share": -0.03386561333004201,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.9394903182983398,
+  "vocal_share": 0.08903779834508896,
+  "vocal_voiced": 0.07664233576642336,
+  "song_length": 242.661
+ }
+}

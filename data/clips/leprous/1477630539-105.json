@@ -1,0 +1,32 @@
+{
+ "id": "leprous/1477630539-105",
+ "band": "leprous",
+ "title": "Alleviate",
+ "source": "itunes",
+ "album": "Pitfalls",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 2.131982916338706,
+  "tempo_var": 26.018559622129867,
+  "low_onset_rate": 2.8981642768979285,
+  "lufs": -14.597703747946117,
+  "rms_dbfs": -13.202400326837358,
+  "crest": 13.202400207519531,
+  "centroid": 1237.900072806504,
+  "flatness": 0.002555000362917781,
+  "sub100_share": 0.4478589594364166,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.9235799908638,
+  "clean_share": 0.8986852281515855,
+  "minor_share": 0.10224825793921033,
+  "chord_rate": 1.4990504880506528,
+  "repetitiveness": 0.6221792101860046,
+  "vocal_share": 0.28489989042282104,
+  "vocal_voiced": 0.9490644490644491,
+  "song_length": 222.416
+ }
+}

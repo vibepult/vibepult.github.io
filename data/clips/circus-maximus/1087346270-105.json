@@ -1,0 +1,32 @@
+{
+ "id": "circus-maximus/1087346270-105",
+ "band": "circus-maximus",
+ "title": "Arrival of Love",
+ "source": "itunes",
+ "album": "Isolate",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.966576570039546,
+  "tempo_var": 21.73393921791794,
+  "low_onset_rate": 6.399883902332838,
+  "lufs": -7.240154772095338,
+  "rms_dbfs": -7.214165472746304,
+  "crest": 7.214165210723877,
+  "centroid": 2594.6016325652095,
+  "flatness": 0.0348677858710289,
+  "sub100_share": 0.21684139966964722,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.786887526512146,
+  "clean_share": 0.01237432327919567,
+  "minor_share": 0.03783695294002365,
+  "chord_rate": 0.9333164024235387,
+  "repetitiveness": 0.8148716688156128,
+  "vocal_share": 0.25461697578430176,
+  "vocal_voiced": 0.8451327433628318,
+  "song_length": 250.16
+ }
+}

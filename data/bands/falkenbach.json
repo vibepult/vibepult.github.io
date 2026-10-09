@@ -1,0 +1,127 @@
+{
+ "slug": "falkenbach",
+ "name": "Falkenbach",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 54677026,
+  "deezer": 107118,
+  "spotify": "2RyAx3MPzx4ESZOJOod2Hj"
+ },
+ "metadata": {
+  "formed": 1989,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 1,
+  "past_members": 0,
+  "full_lengths": 6,
+  "genre": "Viking/Black/Folk Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 11794,
+  "themes": "Heathenism, Lore, Germanic mythology",
+  "release_year": 2004
+ },
+ "partial": false,
+ "clips": [
+  "falkenbach/1556110990-104",
+  "falkenbach/1556106381-103",
+  "falkenbach/1556106520-104",
+  "falkenbach/1556106803-104",
+  "falkenbach/1556107428-105",
+  "falkenbach/1556078710-105",
+  "falkenbach/1556110990-103",
+  "falkenbach/1556106381-104",
+  "falkenbach/1556106520-103",
+  "falkenbach/1556106803-105",
+  "falkenbach/1556107428-104",
+  "falkenbach/1556078710-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 26.100852272727266
+  },
+  "onset_rate": {
+   "median": 4.226659857925617,
+   "iqr": 1.5787326346797261
+  },
+  "tempo_var": {
+   "median": 2.3231641662186067,
+   "iqr": 11.970310694777796
+  },
+  "low_onset_rate": {
+   "median": 5.379385273723512,
+   "iqr": 2.773223464093488
+  },
+  "lufs": {
+   "median": -9.92692141762923,
+   "iqr": 1.724439507999282
+  },
+  "rms_dbfs": {
+   "median": -9.12831928567375,
+   "iqr": 0.997834782198936
+  },
+  "crest": {
+   "median": 9.128319263458252,
+   "iqr": 0.9978349208831787
+  },
+  "centroid": {
+   "median": 2472.2544191397574,
+   "iqr": 337.44897067500506
+  },
+  "flatness": {
+   "median": 0.032241834327578545,
+   "iqr": 0.021347330883145332
+  },
+  "sub100_share": {
+   "median": 0.3232758641242981,
+   "iqr": 0.1580616757273674
+  },
+  "lowest_pitch": {
+   "median": 52.4871826171875,
+   "iqr": 18.16864013671875
+  },
+  "harmonic_share": {
+   "median": 0.7643689811229706,
+   "iqr": 0.08092062175273895
+  },
+  "clean_share": {
+   "median": 0.0023273855702094647,
+   "iqr": 0.01687354538401862
+  },
+  "minor_share": {
+   "median": 0.09096024851198051,
+   "iqr": 0.126795992179462
+  },
+  "chord_rate": {
+   "median": 1.2696685739223197,
+   "iqr": 0.5345972942830821
+  },
+  "repetitiveness": {
+   "median": 0.7602536380290985,
+   "iqr": 0.08385823667049408
+  },
+  "vocal_share": {
+   "median": 0.11055446416139603,
+   "iqr": 0.05776255019009113
+  },
+  "vocal_voiced": {
+   "median": 0.2936893203883495,
+   "iqr": 0.42424450500156013
+  },
+  "song_length": {
+   "median": 322.5135,
+   "iqr": 88.66725000000002
+  },
+  "vocal_presence": {
+   "median": 0.5833333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

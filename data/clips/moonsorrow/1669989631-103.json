@@ -1,0 +1,32 @@
+{
+ "id": "moonsorrow/1669989631-103",
+ "band": "moonsorrow",
+ "title": "Muinaiset",
+ "source": "itunes",
+ "album": "Varjoina Kuljemme Kuolleiden Maassa",
+ "year": 2011,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.176541361586578,
+  "tempo_var": 1.9043897822307454,
+  "low_onset_rate": 6.649053847645832,
+  "lufs": -9.160029920193644,
+  "rms_dbfs": -8.165321514396389,
+  "crest": 8.165322303771973,
+  "centroid": 2254.439705090616,
+  "flatness": 0.0196834709495306,
+  "sub100_share": 0.3823133707046509,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8268517255783081,
+  "clean_share": 0.012412723041117145,
+  "minor_share": 0.06492187923277615,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.8112878799438477,
+  "vocal_share": 6.619154646614334e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 703.813
+ }
+}

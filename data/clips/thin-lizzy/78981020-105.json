@@ -1,0 +1,32 @@
+{
+ "id": "thin-lizzy/78981020-105",
+ "band": "thin-lizzy",
+ "title": "My Sarah",
+ "source": "itunes",
+ "album": "Black Rose: A Rock Legend",
+ "year": 1979,
+ "itunes_year": 1979,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.066187206950654,
+  "tempo_var": 9.279499777738001,
+  "low_onset_rate": 3.432928543573093,
+  "lufs": -12.772360508824978,
+  "rms_dbfs": -11.908292024021886,
+  "crest": 11.908291816711426,
+  "centroid": 1467.68321802078,
+  "flatness": 0.0041323076002299786,
+  "sub100_share": 0.13972389698028564,
+  "lowest_pitch": 148.040771484375,
+  "harmonic_share": 0.7640409469604492,
+  "clean_share": 0.8136117556071152,
+  "minor_share": -0.42055825916192774,
+  "chord_rate": 1.633140763447394,
+  "repetitiveness": 0.7535781264305115,
+  "vocal_share": 0.21798942983150482,
+  "vocal_voiced": 0.9400278940027894,
+  "song_length": 212.467
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "megadeth/724934886-108",
+ "band": "megadeth",
+ "title": "Wanderlust",
+ "source": "itunes",
+ "album": "Risk (Remastered)",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 3.866608214539463,
+  "tempo_var": 22.200182237698474,
+  "low_onset_rate": 3.933273873410833,
+  "lufs": -9.483076604981349,
+  "rms_dbfs": -8.764549201028078,
+  "crest": 8.764549255371094,
+  "centroid": 2092.337501316533,
+  "flatness": 0.019324323162436485,
+  "sub100_share": 0.3596207797527313,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7080371975898743,
+  "clean_share": 0.22041763341067286,
+  "minor_share": 0.03282099439982744,
+  "chord_rate": 1.8999712778340465,
+  "repetitiveness": 0.814816415309906,
+  "vocal_share": 0.23866789042949677,
+  "vocal_voiced": 0.6873727087576375,
+  "song_length": 348.44
+ }
+}

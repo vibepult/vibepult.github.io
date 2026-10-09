@@ -1,0 +1,32 @@
+{
+ "id": "liquid-tension-experiment/151252913-104",
+ "band": "liquid-tension-experiment",
+ "title": "The Stretch",
+ "source": "itunes",
+ "album": "Liquid Tension Experiment",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.633333333333334,
+  "tempo_var": 2.754915786630564,
+  "low_onset_rate": 4.433333333333334,
+  "lufs": -9.373490184767926,
+  "rms_dbfs": -8.689433744379713,
+  "crest": 8.689433097839355,
+  "centroid": 2400.0191764394963,
+  "flatness": 0.02273412048816681,
+  "sub100_share": 0.3471994698047638,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6326987147331238,
+  "clean_share": 0.12616099071207432,
+  "minor_share": 0.18328467990109765,
+  "chord_rate": 1.9666666666666666,
+  "repetitiveness": 0.8536850214004517,
+  "vocal_share": 1.5942873687890824e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 120.8
+ }
+}

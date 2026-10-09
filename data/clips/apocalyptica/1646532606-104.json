@@ -1,0 +1,32 @@
+{
+ "id": "apocalyptica/1646532606-104",
+ "band": "apocalyptica",
+ "title": "The Unforgiven",
+ "source": "itunes",
+ "album": "Plays Metallica by Four Cellos",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.2999800454721364,
+  "tempo_var": 24.034367989898325,
+  "low_onset_rate": 4.366640262190402,
+  "lufs": -17.47468840859106,
+  "rms_dbfs": -17.160520656069547,
+  "crest": 15.3941011428833,
+  "centroid": 1288.347568568136,
+  "flatness": 0.018081512302160263,
+  "sub100_share": 0.029964562505483627,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.9626905918121338,
+  "clean_share": 0.97138437741686,
+  "minor_share": 0.1252100517123278,
+  "chord_rate": 1.2333258755804954,
+  "repetitiveness": 0.7808163166046143,
+  "vocal_share": 6.584727429981285e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 323.227
+ }
+}

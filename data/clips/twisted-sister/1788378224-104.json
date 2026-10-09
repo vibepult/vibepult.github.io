@@ -1,0 +1,32 @@
+{
+ "id": "twisted-sister/1788378224-104",
+ "band": "twisted-sister",
+ "title": "I Am (I'm Me)",
+ "source": "itunes",
+ "album": "You Can't Stop Rock 'N' Roll",
+ "year": 1983,
+ "itunes_year": 1983,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 2.3333192240712073,
+  "tempo_var": 16.307645545405745,
+  "low_onset_rate": 1.9666547745743035,
+  "lufs": -15.472358151002622,
+  "rms_dbfs": -14.58799888028658,
+  "crest": 14.58799934387207,
+  "centroid": 2333.5160109965855,
+  "flatness": 0.01966363936662674,
+  "sub100_share": 0.2839556932449341,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6507796049118042,
+  "clean_share": 0.1477184841453983,
+  "minor_share": -0.05431199272818721,
+  "chord_rate": 0.7666620307662538,
+  "repetitiveness": 0.8582057952880859,
+  "vocal_share": 0.18942776322364807,
+  "vocal_voiced": 0.7668393782383419,
+  "song_length": 215.41
+ }
+}

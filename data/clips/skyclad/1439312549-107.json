@@ -1,0 +1,32 @@
+{
+ "id": "skyclad/1439312549-107",
+ "band": "skyclad",
+ "title": "A Dog in the Manger",
+ "source": "itunes",
+ "album": "Prince of the Poverty Line",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.107346773020414,
+  "tempo_var": 6.785666594661811,
+  "low_onset_rate": 9.990286936915094,
+  "lufs": -17.842067536474357,
+  "rms_dbfs": -17.2849816558697,
+  "crest": 13.25290584564209,
+  "centroid": 1666.3340702641458,
+  "flatness": 0.01055991556495428,
+  "sub100_share": 0.008484147489070892,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.7285045385360718,
+  "clean_share": 0.007757951900698216,
+  "minor_share": 0.0837612964299867,
+  "chord_rate": 2.4391001551665616,
+  "repetitiveness": 0.9751383066177368,
+  "vocal_share": 3.771476258407347e-05,
+  "vocal_voiced": 0.0,
+  "song_length": 370.387
+ }
+}

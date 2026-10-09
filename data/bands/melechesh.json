@@ -1,0 +1,127 @@
+{
+ "slug": "melechesh",
+ "name": "Melechesh",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 159206829,
+  "deezer": 14463,
+  "spotify": "1bjUcmZxY4zJO1V5LaKzUY"
+ },
+ "metadata": {
+  "formed": 1993,
+  "split": null,
+  "country": "XX",
+  "status": "active",
+  "members": 3,
+  "past_members": 12,
+  "full_lengths": 6,
+  "genre": "Black/Death/Middle Eastern Folk Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 11464,
+  "themes": "Mesopotamian mythology, Occultism",
+  "release_year": 2004
+ },
+ "partial": false,
+ "clips": [
+  "melechesh/1456966662-106",
+  "melechesh/261313316-106",
+  "melechesh/263403302-105",
+  "melechesh/259131501-106",
+  "melechesh/1456962871-106",
+  "melechesh/1458697793-105",
+  "melechesh/1456966662-107",
+  "melechesh/261313316-105",
+  "melechesh/263403302-106",
+  "melechesh/259131501-105",
+  "melechesh/1456962871-105",
+  "melechesh/1458697793-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 103.359375,
+   "iqr": 30.53188981681035
+  },
+  "onset_rate": {
+   "median": 3.1908776002521457,
+   "iqr": 3.616884819133977
+  },
+  "tempo_var": {
+   "median": 11.62761079702123,
+   "iqr": 7.821641547749124
+  },
+  "low_onset_rate": {
+   "median": 4.360309181496388,
+   "iqr": 2.7732234640934883
+  },
+  "lufs": {
+   "median": -11.864511536171985,
+   "iqr": 4.658353876739103
+  },
+  "rms_dbfs": {
+   "median": -12.249439684281258,
+   "iqr": 5.011387500598337
+  },
+  "crest": {
+   "median": 12.249439716339111,
+   "iqr": 5.01138710975647
+  },
+  "centroid": {
+   "median": 2537.822968821159,
+   "iqr": 542.5695911457328
+  },
+  "flatness": {
+   "median": 0.022565748542547226,
+   "iqr": 0.020454117795452476
+  },
+  "sub100_share": {
+   "median": 0.21657785028219223,
+   "iqr": 0.13742825016379356
+  },
+  "lowest_pitch": {
+   "median": 64.599609375,
+   "iqr": 72.00164794921875
+  },
+  "harmonic_share": {
+   "median": 0.7966344654560089,
+   "iqr": 0.10675780475139618
+  },
+  "clean_share": {
+   "median": 0.14584949573312644,
+   "iqr": 0.3880915438324282
+  },
+  "minor_share": {
+   "median": -0.019625489725639433,
+   "iqr": 0.14078731657388166
+  },
+  "chord_rate": {
+   "median": 1.603791882849246,
+   "iqr": 0.9856637613344323
+  },
+  "repetitiveness": {
+   "median": 0.8760527968406677,
+   "iqr": 0.0866822600364685
+  },
+  "vocal_share": {
+   "median": 0.0,
+   "iqr": 0.0
+  },
+  "vocal_voiced": {
+   "median": 0.0,
+   "iqr": 0.0
+  },
+  "song_length": {
+   "median": 334.78,
+   "iqr": 157.15049999999997
+  },
+  "vocal_presence": {
+   "median": 0.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

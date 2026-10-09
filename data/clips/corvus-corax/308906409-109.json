@@ -1,0 +1,32 @@
+{
+ "id": "corvus-corax/308906409-109",
+ "band": "corvus-corax",
+ "title": "Palästinalied",
+ "source": "itunes",
+ "album": "Ante Casu Peccati",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.8666146645865833,
+  "tempo_var": 5.583293741620798,
+  "low_onset_rate": 5.3999020425933315,
+  "lufs": -22.905048286040632,
+  "rms_dbfs": -23.428114582439793,
+  "crest": 19.451940536499023,
+  "centroid": 2637.3797482747896,
+  "flatness": 0.028896352276206017,
+  "sub100_share": 0.01780923642218113,
+  "lowest_pitch": 129.19921875,
+  "harmonic_share": 0.8246043920516968,
+  "clean_share": 0.29156999226604796,
+  "minor_share": 0.0031144361096200335,
+  "chord_rate": 0.9333164024235387,
+  "repetitiveness": 0.8251816630363464,
+  "vocal_share": 0.21210137009620667,
+  "vocal_voiced": 0.6755725190839694,
+  "song_length": 336.187
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "warlock/1442215246-107",
+ "band": "warlock",
+ "title": "True As Steel",
+ "source": "itunes",
+ "album": "True As Steel",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.641944067303496,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.479622266401591,
+  "lufs": -17.217615572495156,
+  "rms_dbfs": -17.761214452461104,
+  "crest": 16.119611740112305,
+  "centroid": 2580.425857997212,
+  "flatness": 0.0362531878054142,
+  "sub100_share": 0.13372567296028137,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.6538597345352173,
+  "clean_share": 0.003878975950349108,
+  "minor_share": 0.17897022800120077,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.8373574614524841,
+  "vocal_share": 0.401909738779068,
+  "vocal_voiced": 0.6018998272884283,
+  "song_length": 209.867
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "kamelot/1435939794-105",
+ "band": "kamelot",
+ "title": "Where I Reign",
+ "source": "itunes",
+ "album": "Siege Perilous",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.1666666666666665,
+  "tempo_var": 19.80046302179729,
+  "low_onset_rate": 1.8,
+  "lufs": -13.897217913458105,
+  "rms_dbfs": -12.855888072245252,
+  "crest": 12.855888366699219,
+  "centroid": 1594.5523187642486,
+  "flatness": 0.008244701661169529,
+  "sub100_share": 0.1947062760591507,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.8214669227600098,
+  "clean_share": 0.631578947368421,
+  "minor_share": -0.005537440850529318,
+  "chord_rate": 1.3333333333333333,
+  "repetitiveness": 0.8075274229049683,
+  "vocal_share": 0.012211678549647331,
+  "vocal_voiced": 0.9478260869565217,
+  "song_length": 358.507
+ }
+}

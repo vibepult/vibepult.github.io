@@ -1,0 +1,32 @@
+{
+ "id": "ram/1275178865-105",
+ "band": "ram",
+ "title": "Ramrod the Destroyer, Pt. 1: Anno Infinitus",
+ "source": "itunes",
+ "album": "Rod",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.240996096591185,
+  "tempo_var": 11.267579398889854,
+  "low_onset_rate": 8.286258061387771,
+  "lufs": -22.11059130687222,
+  "rms_dbfs": -20.879411291892673,
+  "crest": 16.196990966796875,
+  "centroid": 1482.157130465565,
+  "flatness": 0.003687724005430937,
+  "sub100_share": 0.42227745056152344,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8307095766067505,
+  "clean_share": 0.7098525989138867,
+  "minor_share": 0.050981182414424286,
+  "chord_rate": 1.3030809048150125,
+  "repetitiveness": 0.9251464009284973,
+  "vocal_share": 0.07849045097827911,
+  "vocal_voiced": 0.4074074074074074,
+  "song_length": 130.933
+ }
+}

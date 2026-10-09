@@ -1,0 +1,32 @@
+{
+ "id": "aeternitas/1222072051-109",
+ "band": "aeternitas",
+ "title": "Tears",
+ "source": "itunes",
+ "album": "House of Usher",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 3.374645420161955,
+  "tempo_var": 42.155978910981915,
+  "low_onset_rate": 3.8758303835523447,
+  "lufs": -11.02380131172724,
+  "rms_dbfs": -11.17820373401507,
+  "crest": 11.178203582763672,
+  "centroid": 2646.23785313317,
+  "flatness": 0.03674078360199928,
+  "sub100_share": 0.2192232310771942,
+  "lowest_pitch": 104.974365234375,
+  "harmonic_share": 0.6259642243385315,
+  "clean_share": 0.15283165244375485,
+  "minor_share": 0.18413937611706666,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.8074321746826172,
+  "vocal_share": 0.10192563384771347,
+  "vocal_voiced": 0.42704626334519574,
+  "song_length": 217.213
+ }
+}

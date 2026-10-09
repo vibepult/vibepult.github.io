@@ -1,0 +1,32 @@
+{
+ "id": "saille/420940063-106",
+ "band": "saille",
+ "title": "Revelations",
+ "source": "itunes",
+ "album": "Irreversible Decay",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 6.047631891577365,
+  "tempo_var": 14.81345037674843,
+  "low_onset_rate": 6.515404524075062,
+  "lufs": -8.051838564220175,
+  "rms_dbfs": -8.20105192517637,
+  "crest": 8.201051712036133,
+  "centroid": 2364.842785393887,
+  "flatness": 0.03199487552046776,
+  "sub100_share": 0.13255327939987183,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7322292327880859,
+  "clean_share": 0.007757951900698216,
+  "minor_share": 0.15296887698748818,
+  "chord_rate": 1.1026069194588566,
+  "repetitiveness": 0.8428811430931091,
+  "vocal_share": 0.13324585556983948,
+  "vocal_voiced": 0.13242574257425743,
+  "song_length": 177.267
+ }
+}

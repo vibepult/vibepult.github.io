@@ -1,0 +1,127 @@
+{
+ "slug": "tears-of-martyr",
+ "name": "Tears of Martyr",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 313364869,
+  "deezer": 4608526,
+  "spotify": "7JpqzUHOToEFGMLWJ18RJA"
+ },
+ "metadata": {
+  "formed": 1996,
+  "split": null,
+  "country": "ES",
+  "status": "active",
+  "members": 4,
+  "past_members": 5,
+  "full_lengths": 2,
+  "genre": "Symphonic Gothic Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 618,
+  "themes": "History, War, Sadness",
+  "release_year": 2011
+ },
+ "partial": false,
+ "clips": [
+  "tears-of-martyr/364986403-107",
+  "tears-of-martyr/1148388123-105",
+  "tears-of-martyr/364986403-106",
+  "tears-of-martyr/1148388123-104",
+  "tears-of-martyr/364986403-108",
+  "tears-of-martyr/1148388123-106",
+  "tears-of-martyr/364986403-105",
+  "tears-of-martyr/1148388123-103",
+  "tears-of-martyr/364986403-109",
+  "tears-of-martyr/1148388123-107",
+  "tears-of-martyr/364986403-104",
+  "tears-of-martyr/1148388123-102"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 133.30078125,
+   "iqr": 47.95935325164764
+  },
+  "onset_rate": {
+   "median": 4.610901663191582,
+   "iqr": 1.231208653420666
+  },
+  "tempo_var": {
+   "median": 11.146495740059311,
+   "iqr": 15.722209779347763
+  },
+  "low_onset_rate": {
+   "median": 5.606528169862367,
+   "iqr": 0.8007587374415772
+  },
+  "lufs": {
+   "median": -8.745782593566464,
+   "iqr": 1.6041143546465353
+  },
+  "rms_dbfs": {
+   "median": -8.76448261416029,
+   "iqr": 1.465802748260435
+  },
+  "crest": {
+   "median": 8.764482975006104,
+   "iqr": 1.4658029079437256
+  },
+  "centroid": {
+   "median": 2572.2913028078165,
+   "iqr": 199.69140916053448
+  },
+  "flatness": {
+   "median": 0.034247152507305145,
+   "iqr": 0.01620084955357015
+  },
+  "sub100_share": {
+   "median": 0.15975168347358704,
+   "iqr": 0.07851926982402802
+  },
+  "lowest_pitch": {
+   "median": 67.291259765625,
+   "iqr": 51.81427001953125
+  },
+  "harmonic_share": {
+   "median": 0.7202090620994568,
+   "iqr": 0.10996545851230621
+  },
+  "clean_share": {
+   "median": 0.010448035222181622,
+   "iqr": 0.1449819011122131
+  },
+  "minor_share": {
+   "median": 0.07042717421487998,
+   "iqr": 0.22939163841511867
+  },
+  "chord_rate": {
+   "median": 1.2180737075000274,
+   "iqr": 0.3834238164360546
+  },
+  "repetitiveness": {
+   "median": 0.8184526562690735,
+   "iqr": 0.12715508043766022
+  },
+  "vocal_share": {
+   "median": 0.2663157880306244,
+   "iqr": 0.1158161386847496
+  },
+  "vocal_voiced": {
+   "median": 0.6098993288590604,
+   "iqr": 0.5209345662768341
+  },
+  "song_length": {
+   "median": 280.437,
+   "iqr": 57.84725
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

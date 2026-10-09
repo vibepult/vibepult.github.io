@@ -1,0 +1,32 @@
+{
+ "id": "entwine/1669925390-104",
+ "band": "entwine",
+ "title": "New Dawn",
+ "source": "itunes",
+ "album": "Gone",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.575119405518111,
+  "tempo_var": 0.0,
+  "low_onset_rate": 7.016589487465451,
+  "lufs": -9.285430942947427,
+  "rms_dbfs": -8.39903338537195,
+  "crest": 8.399033546447754,
+  "centroid": 2417.9967609712635,
+  "flatness": 0.024311069399118423,
+  "sub100_share": 0.36834871768951416,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8291609883308411,
+  "clean_share": 0.14197051978277736,
+  "minor_share": 0.1868366801206588,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.7392430305480957,
+  "vocal_share": 0.15978702902793884,
+  "vocal_voiced": 0.9477124183006536,
+  "song_length": 237.733
+ }
+}

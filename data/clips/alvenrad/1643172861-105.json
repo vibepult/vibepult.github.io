@@ -1,0 +1,32 @@
+{
+ "id": "alvenrad/1643172861-105",
+ "band": "alvenrad",
+ "title": "Veluws Ĳzer",
+ "source": "itunes",
+ "album": "Veluws Ĳzer",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 2.3722754933811765,
+  "tempo_var": 24.810445907987425,
+  "low_onset_rate": 3.474882412840033,
+  "lufs": -12.145483389202546,
+  "rms_dbfs": -11.74874412239457,
+  "crest": 11.748744010925293,
+  "centroid": 2362.779921823833,
+  "flatness": 0.025355828925967216,
+  "sub100_share": 0.3210168480873108,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8266383409500122,
+  "clean_share": 0.11792086889061287,
+  "minor_share": -0.023398090694058515,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.8104040026664734,
+  "vocal_share": 0.11135347187519073,
+  "vocal_voiced": 0.9537444933920705,
+  "song_length": 486.258
+ }
+}

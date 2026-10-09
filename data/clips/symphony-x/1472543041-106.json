@@ -1,0 +1,32 @@
+{
+ "id": "symphony-x/1472543041-106",
+ "band": "symphony-x",
+ "title": "Charon",
+ "source": "itunes",
+ "album": "Underworld",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.2666469136996903,
+  "tempo_var": 17.577301165683128,
+  "low_onset_rate": 4.733304711687307,
+  "lufs": -9.520861750160698,
+  "rms_dbfs": -8.787136986924137,
+  "crest": 8.787137031555176,
+  "centroid": 2670.9752426261452,
+  "flatness": 0.03979996219277382,
+  "sub100_share": 0.4188781976699829,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.786232590675354,
+  "clean_share": 0.005413766434648105,
+  "minor_share": -0.12726582486744897,
+  "chord_rate": 1.699989720394737,
+  "repetitiveness": 0.9217975735664368,
+  "vocal_share": 4.63091652136427e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 366.733
+ }
+}

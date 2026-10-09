@@ -1,0 +1,32 @@
+{
+ "id": "boisson-divine/1509120251-106",
+ "band": "boisson-divine",
+ "title": "La Sicolana",
+ "source": "itunes",
+ "album": "La Halha",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.377015346942734,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.813745575328517,
+  "lufs": -10.437838284173157,
+  "rms_dbfs": -10.173429931709537,
+  "crest": 10.173430442810059,
+  "centroid": 2820.7809384293437,
+  "flatness": 0.04207172617316246,
+  "sub100_share": 0.30346983671188354,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7432296276092529,
+  "clean_share": 0.0,
+  "minor_share": 0.10770593787828142,
+  "chord_rate": 1.9379151917761723,
+  "repetitiveness": 0.7655500769615173,
+  "vocal_share": 0.17104151844978333,
+  "vocal_voiced": 0.8006396588486141,
+  "song_length": 393.16
+ }
+}

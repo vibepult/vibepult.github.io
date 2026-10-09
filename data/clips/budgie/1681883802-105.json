@@ -1,0 +1,32 @@
+{
+ "id": "budgie/1681883802-105",
+ "band": "budgie",
+ "title": "Hot As a Docker's Armpit (2013 Remaster)",
+ "source": "itunes",
+ "album": "Squawk (2013 Remaster)",
+ "year": 1972,
+ "itunes_year": 1972,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.699928950431588,
+  "tempo_var": 27.040642050507184,
+  "low_onset_rate": 3.899941043975148,
+  "lufs": -19.506863285222256,
+  "rms_dbfs": -19.012401824720236,
+  "crest": 18.353729248046875,
+  "centroid": 2464.434639829135,
+  "flatness": 0.019822822883725166,
+  "sub100_share": 0.37904906272888184,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7134900689125061,
+  "clean_share": 0.44160866202629545,
+  "minor_share": 0.2183341817628967,
+  "chord_rate": 2.399963719369322,
+  "repetitiveness": 0.8201009035110474,
+  "vocal_share": 0.15900911390781403,
+  "vocal_voiced": 0.6330275229357798,
+  "song_length": 351.907
+ }
+}

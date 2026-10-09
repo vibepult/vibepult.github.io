@@ -1,0 +1,32 @@
+{
+ "id": "helmet/1611257276-105",
+ "band": "helmet",
+ "title": "On Your Way Down",
+ "source": "itunes",
+ "album": "Monochrome",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.2720385007030983,
+  "tempo_var": 2.300874194022754,
+  "low_onset_rate": 2.071564515346943,
+  "lufs": -8.534843485557348,
+  "rms_dbfs": -8.372254126106796,
+  "crest": 8.37225341796875,
+  "centroid": 2803.975112822632,
+  "flatness": 0.04289817437529564,
+  "sub100_share": 0.19794411957263947,
+  "lowest_pitch": 196.490478515625,
+  "harmonic_share": 0.631790041923523,
+  "clean_share": 0.0031031807602792862,
+  "minor_share": 0.10081639570447909,
+  "chord_rate": 2.606161809630025,
+  "repetitiveness": 0.8585638999938965,
+  "vocal_share": 0.2997264266014099,
+  "vocal_voiced": 0.9024707412223667,
+  "song_length": 256.413
+ }
+}

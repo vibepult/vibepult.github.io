@@ -1,0 +1,32 @@
+{
+ "id": "ensiferum/700734035-107",
+ "band": "ensiferum",
+ "title": "Abandoned",
+ "source": "itunes",
+ "album": "Ensiferum",
+ "year": 2001,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.410427677835426,
+  "tempo_var": 19.669069187846024,
+  "low_onset_rate": 5.513034597294284,
+  "lufs": -8.178173962465266,
+  "rms_dbfs": -7.367185702481674,
+  "crest": 7.367186069488525,
+  "centroid": 2682.2892314884307,
+  "flatness": 0.027430538088083267,
+  "sub100_share": 0.4274498224258423,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8828834295272827,
+  "clean_share": 0.08456167571761056,
+  "minor_share": -0.12823999892791005,
+  "chord_rate": 1.1026069194588566,
+  "repetitiveness": 0.6583038568496704,
+  "vocal_share": 0.16586551070213318,
+  "vocal_voiced": 0.5624515128006207,
+  "song_length": 410.6
+ }
+}

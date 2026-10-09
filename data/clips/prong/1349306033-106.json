@@ -1,0 +1,32 @@
+{
+ "id": "prong/1349306033-106",
+ "band": "prong",
+ "title": "Do Nothing",
+ "source": "itunes",
+ "album": "X - No Absolutes",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.076304368908501,
+  "tempo_var": 4.952318912363624,
+  "low_onset_rate": 6.014219560684673,
+  "lufs": -7.133387630692128,
+  "rms_dbfs": -6.939196923800378,
+  "crest": 6.939196586608887,
+  "centroid": 2708.612761210228,
+  "flatness": 0.0422251932322979,
+  "sub100_share": 0.3219621777534485,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7672572731971741,
+  "clean_share": 0.047323506594259115,
+  "minor_share": -0.14142409375034015,
+  "chord_rate": 1.4367302283857828,
+  "repetitiveness": 0.84400475025177,
+  "vocal_share": 0.2223464548587799,
+  "vocal_voiced": 0.8185451638689049,
+  "song_length": 220.627
+ }
+}

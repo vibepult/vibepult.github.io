@@ -1,0 +1,127 @@
+{
+ "slug": "sacred-reich",
+ "name": "Sacred Reich",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 74969375,
+  "deezer": 295452,
+  "spotify": "0UeVJTdCWGEFSSO9Tg9tiH"
+ },
+ "metadata": {
+  "formed": 1985,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 4,
+  "past_members": 7,
+  "full_lengths": 5,
+  "genre": "Thrash Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 14336,
+  "themes": "Politics, Society, Humour",
+  "release_year": 1996
+ },
+ "partial": false,
+ "clips": [
+  "sacred-reich/1548318833-105",
+  "sacred-reich/74969436-105",
+  "sacred-reich/1465301070-104",
+  "sacred-reich/1548318833-106",
+  "sacred-reich/74969436-107",
+  "sacred-reich/1465301070-105",
+  "sacred-reich/1548318833-104",
+  "sacred-reich/74969436-104",
+  "sacred-reich/1465301070-103",
+  "sacred-reich/1548318833-107",
+  "sacred-reich/74969436-108",
+  "sacred-reich/1465301070-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 132.59919819078948,
+   "iqr": 21.710891993447063
+  },
+  "onset_rate": {
+   "median": 5.049923659506281,
+   "iqr": 1.2324546187201388
+  },
+  "tempo_var": {
+   "median": 7.0788757122917225,
+   "iqr": 13.741327660593367
+  },
+  "low_onset_rate": {
+   "median": 6.340909483381388,
+   "iqr": 1.3027737584617327
+  },
+  "lufs": {
+   "median": -10.764803418123625,
+   "iqr": 1.0095950381218763
+  },
+  "rms_dbfs": {
+   "median": -10.265772098697793,
+   "iqr": 0.9684164865993914
+  },
+  "crest": {
+   "median": 10.265772819519043,
+   "iqr": 0.968416690826416
+  },
+  "centroid": {
+   "median": 2696.488605414608,
+   "iqr": 614.6958104154696
+  },
+  "flatness": {
+   "median": 0.03257855959236622,
+   "iqr": 0.025585674215108156
+  },
+  "sub100_share": {
+   "median": 0.2319653332233429,
+   "iqr": 0.13189434632658958
+  },
+  "lowest_pitch": {
+   "median": 61.907958984375,
+   "iqr": 41.04766845703125
+  },
+  "harmonic_share": {
+   "median": 0.7194721698760986,
+   "iqr": 0.09972016513347626
+  },
+  "clean_share": {
+   "median": 0.05148838077203921,
+   "iqr": 0.09548730797869054
+  },
+  "minor_share": {
+   "median": -0.004284606919785855,
+   "iqr": 0.17716628402033718
+  },
+  "chord_rate": {
+   "median": 2.035727390015518,
+   "iqr": 0.47552945429331306
+  },
+  "repetitiveness": {
+   "median": 0.8951690196990967,
+   "iqr": 0.06224370002746582
+  },
+  "vocal_share": {
+   "median": 0.09982451051473618,
+   "iqr": 0.12337714433670044
+  },
+  "vocal_voiced": {
+   "median": 0.7208053691275168,
+   "iqr": 0.45010239916980854
+  },
+  "song_length": {
+   "median": 241.5605,
+   "iqr": 49.43924999999999
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

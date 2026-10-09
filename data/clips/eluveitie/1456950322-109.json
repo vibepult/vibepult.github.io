@@ -1,0 +1,32 @@
+{
+ "id": "eluveitie/1456950322-109",
+ "band": "eluveitie",
+ "title": "A Rose for Epona",
+ "source": "itunes",
+ "album": "Helvetios",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 2.3333192240712073,
+  "tempo_var": 1.635982356145548,
+  "low_onset_rate": 0.7999951625386997,
+  "lufs": -10.586340686278387,
+  "rms_dbfs": -10.76133296828553,
+  "crest": 10.761332511901855,
+  "centroid": 1991.0561888399798,
+  "flatness": 0.017887365072965622,
+  "sub100_share": 0.23528070747852325,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.884252667427063,
+  "clean_share": 0.7215777262180975,
+  "minor_share": 0.005346291200037934,
+  "chord_rate": 1.099993348490712,
+  "repetitiveness": 0.656902015209198,
+  "vocal_share": 8.109525879262947e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 266.267
+ }
+}

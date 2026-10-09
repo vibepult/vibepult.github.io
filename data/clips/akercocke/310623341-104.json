@@ -1,0 +1,32 @@
+{
+ "id": "akercocke/310623341-104",
+ "band": "akercocke",
+ "title": "Eyes of Dawn",
+ "source": "itunes",
+ "album": "Words That Go Unspoken, Deeds That Go Undone",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.744550986762353,
+  "tempo_var": 4.66144268118508,
+  "low_onset_rate": 4.9784373030112015,
+  "lufs": -11.469329190713992,
+  "rms_dbfs": -10.978982265003815,
+  "crest": 10.978982925415039,
+  "centroid": 2713.368330467681,
+  "flatness": 0.0385296568274498,
+  "sub100_share": 0.39644855260849,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.8226275444030762,
+  "clean_share": 0.010861132660977503,
+  "minor_share": 0.19717133363787354,
+  "chord_rate": 1.0023699267807789,
+  "repetitiveness": 0.8782854080200195,
+  "vocal_share": 0.02493917942047119,
+  "vocal_voiced": 0.0,
+  "song_length": 280.986
+ }
+}

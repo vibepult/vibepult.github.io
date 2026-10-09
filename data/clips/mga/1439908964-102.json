@@ -1,0 +1,32 @@
+{
+ "id": "mga/1439908964-102",
+ "band": "mga",
+ "title": "With Hearts Toward None II",
+ "source": "itunes",
+ "album": "With Hearts Toward None",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.133333333333334,
+  "tempo_var": 13.475848087883792,
+  "low_onset_rate": 7.533333333333333,
+  "lufs": -7.140566011169992,
+  "rms_dbfs": -7.274433296478387,
+  "crest": 7.2744340896606445,
+  "centroid": 2430.0896444276827,
+  "flatness": 0.033407196402549744,
+  "sub100_share": 0.2903749942779541,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7993249893188477,
+  "clean_share": 0.005417956656346749,
+  "minor_share": 0.040199971878813856,
+  "chord_rate": 1.2,
+  "repetitiveness": 0.9070278406143188,
+  "vocal_share": 0.11299890279769897,
+  "vocal_voiced": 0.34807256235827666,
+  "song_length": 274.535
+ }
+}

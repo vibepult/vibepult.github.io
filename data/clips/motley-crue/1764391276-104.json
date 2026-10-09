@@ -1,0 +1,32 @@
+{
+ "id": "motley-crue/1764391276-104",
+ "band": "motley-crue",
+ "title": "Merry-Go-Round",
+ "source": "itunes",
+ "album": "Too Fast For Love",
+ "year": 1981,
+ "itunes_year": 1981,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.899941043975148,
+  "tempo_var": 6.286449838166036,
+  "low_onset_rate": 2.966621819775967,
+  "lufs": -13.97348811956466,
+  "rms_dbfs": -13.280652036445016,
+  "crest": 13.280651092529297,
+  "centroid": 2297.497522504175,
+  "flatness": 0.019130993634462357,
+  "sub100_share": 0.24857760965824127,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7355968952178955,
+  "clean_share": 0.26836813611755606,
+  "minor_share": 0.28877479155822394,
+  "chord_rate": 1.8666384483983613,
+  "repetitiveness": 0.7133483290672302,
+  "vocal_share": 0.23259955644607544,
+  "vocal_voiced": 0.9553327256153145,
+  "song_length": 201.547
+ }
+}

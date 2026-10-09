@@ -1,0 +1,32 @@
+{
+ "id": "rhapsody-of-fire/1460469831-106",
+ "band": "rhapsody-of-fire",
+ "title": "Raging Starfire",
+ "source": "itunes",
+ "album": "The Frozen Tears of Angels",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 2.1049768462396354,
+  "tempo_var": 26.888077284983382,
+  "low_onset_rate": 3.474882412840033,
+  "lufs": -8.438098268904216,
+  "rms_dbfs": -8.586456785822087,
+  "crest": 8.586456298828125,
+  "centroid": 2617.949330917715,
+  "flatness": 0.03310286998748779,
+  "sub100_share": 0.254355251789093,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.7135013937950134,
+  "clean_share": 0.01008533747090768,
+  "minor_share": 0.005619205738888411,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.8897531032562256,
+  "vocal_share": 5.756124892286607e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 296.013
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "saturnus/964099368-103",
+ "band": "saturnus",
+ "title": "A Lonely Passage",
+ "source": "itunes",
+ "album": "Saturn in Ascension",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.7755933908742665,
+  "tempo_var": 21.639813388361926,
+  "low_onset_rate": 7.3841251272850705,
+  "lufs": -12.684007357480175,
+  "rms_dbfs": -11.992688565844814,
+  "crest": 11.992424011230469,
+  "centroid": 1654.749762712582,
+  "flatness": 0.008084299974143505,
+  "sub100_share": 0.09720349311828613,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.9258743524551392,
+  "clean_share": 0.7897595034910784,
+  "minor_share": -0.1211902136852242,
+  "chord_rate": 0.9021329341027009,
+  "repetitiveness": 0.6924307346343994,
+  "vocal_share": 0.17113418877124786,
+  "vocal_voiced": 0.7407952871870398,
+  "song_length": 321.518
+ }
+}

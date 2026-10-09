@@ -1,0 +1,32 @@
+{
+ "id": "soundgarden/1440869180-106",
+ "band": "soundgarden",
+ "title": "Full On Kevin's Mom",
+ "source": "itunes",
+ "album": "Louder Than Love",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.8999259270456985,
+  "tempo_var": 0.41958669331563025,
+  "low_onset_rate": 5.766579492373509,
+  "lufs": -9.397677220366925,
+  "rms_dbfs": -9.26506315560911,
+  "crest": 9.265063285827637,
+  "centroid": 2252.7408670302625,
+  "flatness": 0.02552811987698078,
+  "sub100_share": 0.12237793207168579,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.6951000094413757,
+  "clean_share": 0.04408352668213457,
+  "minor_share": 0.012271725343893425,
+  "chord_rate": 2.2666324016265817,
+  "repetitiveness": 0.871461033821106,
+  "vocal_share": 0.10663699358701706,
+  "vocal_voiced": 0.3949367088607595,
+  "song_length": 217.515
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "mercenary/1606815905-106",
+ "band": "mercenary",
+ "title": "Graveart",
+ "source": "itunes",
+ "album": "First Breath",
+ "year": 1998,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.575119405518111,
+  "tempo_var": 3.025498661351841,
+  "low_onset_rate": 7.250475803714299,
+  "lufs": -9.74357529479742,
+  "rms_dbfs": -8.990869719669039,
+  "crest": 8.990869522094727,
+  "centroid": 2532.053600872829,
+  "flatness": 0.03250552713871002,
+  "sub100_share": 0.5109158158302307,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8477291464805603,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.053055414544728174,
+  "chord_rate": 2.138389177132328,
+  "repetitiveness": 0.8341909646987915,
+  "vocal_share": 0.11701427400112152,
+  "vocal_voiced": 0.23977695167286245,
+  "song_length": 249.947
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "voivod/1799320968-107",
+ "band": "voivod",
+ "title": "The Tower",
+ "source": "itunes",
+ "album": "Phobos",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.2,
+  "tempo_var": 2.1353761906966793,
+  "low_onset_rate": 5.133333333333334,
+  "lufs": -9.196054539428223,
+  "rms_dbfs": -8.793916243357474,
+  "crest": 8.793915748596191,
+  "centroid": 2776.8546740314846,
+  "flatness": 0.040328700095415115,
+  "sub100_share": 0.3498137295246124,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.5834602117538452,
+  "clean_share": 0.0007739938080495357,
+  "minor_share": -0.18145052309364162,
+  "chord_rate": 1.5,
+  "repetitiveness": 0.8623512387275696,
+  "vocal_share": 0.08537197858095169,
+  "vocal_voiced": 0.12464589235127478,
+  "song_length": 370.4
+ }
+}

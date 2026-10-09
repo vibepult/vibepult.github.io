@@ -1,0 +1,32 @@
+{
+ "id": "pyogenesis/346436374-109",
+ "band": "pyogenesis",
+ "title": "All the Pills",
+ "source": "itunes",
+ "album": "Unpop",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 6.165026387537103,
+  "tempo_var": 3.070424843105156,
+  "low_onset_rate": 4.465478572594442,
+  "lufs": -10.282090373932245,
+  "rms_dbfs": -9.764905350465037,
+  "crest": 9.76490592956543,
+  "centroid": 2200.2883527923846,
+  "flatness": 0.0161236971616745,
+  "sub100_share": 0.339035302400589,
+  "lowest_pitch": 88.824462890625,
+  "harmonic_share": 0.7945172786712646,
+  "clean_share": 0.15235885537509666,
+  "minor_share": 0.22080462247513605,
+  "chord_rate": 2.299388220216541,
+  "repetitiveness": 0.8414722084999084,
+  "vocal_share": 0.1427747756242752,
+  "vocal_voiced": 0.8061797752808989,
+  "song_length": 123.573
+ }
+}

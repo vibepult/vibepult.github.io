@@ -1,0 +1,32 @@
+{
+ "id": "my-material-season/1515563123-103",
+ "band": "my-material-season",
+ "title": "Twilight Memorial",
+ "source": "itunes",
+ "album": "Bridal Aisles of Tragedy",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 6.682466178538525,
+  "tempo_var": 0.0,
+  "low_onset_rate": 7.3507127963923775,
+  "lufs": -6.4469899868760026,
+  "rms_dbfs": -5.673046526609882,
+  "crest": 5.673046112060547,
+  "centroid": 2888.7980599989965,
+  "flatness": 0.04904058948159218,
+  "sub100_share": 0.4038866460323334,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8063666224479675,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.09155612538731739,
+  "chord_rate": 0.267298647141541,
+  "repetitiveness": 0.818394124507904,
+  "vocal_share": 0.10612602531909943,
+  "vocal_voiced": 0.24973656480505796,
+  "song_length": 250.52
+ }
+}

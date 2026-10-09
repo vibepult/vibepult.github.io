@@ -1,0 +1,127 @@
+{
+ "slug": "vreid",
+ "name": "Vreid",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 137322225,
+  "deezer": 415062,
+  "spotify": "2KvwC4Kmp2U8XnKr5Yr1hm"
+ },
+ "metadata": {
+  "formed": 2004,
+  "split": null,
+  "country": "NO",
+  "status": "active",
+  "members": 4,
+  "past_members": 1,
+  "full_lengths": 10,
+  "genre": "Melodic Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 4235,
+  "themes": "Coldness, Darkness, Evil, War, World War II-era Norway",
+  "release_year": 2008
+ },
+ "partial": false,
+ "clips": [
+  "vreid/338350778-104",
+  "vreid/448520728-104",
+  "vreid/1750777894-105",
+  "vreid/1750746685-105",
+  "vreid/1750631161-105",
+  "vreid/1750536480-104",
+  "vreid/1400513179-105",
+  "vreid/1851331352-106",
+  "vreid/338350778-105",
+  "vreid/448520728-105",
+  "vreid/1750777894-104",
+  "vreid/1750746685-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 156.74905215992646,
+   "iqr": 48.56264341127621
+  },
+  "onset_rate": {
+   "median": 4.688509631876247,
+   "iqr": 1.116649786095448
+  },
+  "tempo_var": {
+   "median": 18.87602662110865,
+   "iqr": 15.467610401713834
+  },
+  "low_onset_rate": {
+   "median": 6.573563527046619,
+   "iqr": 2.6208605632869286
+  },
+  "lufs": {
+   "median": -8.620772261367136,
+   "iqr": 1.5703002429233353
+  },
+  "rms_dbfs": {
+   "median": -7.819996135314858,
+   "iqr": 1.7682263958668756
+  },
+  "crest": {
+   "median": 7.819996118545532,
+   "iqr": 1.7682271003723145
+  },
+  "centroid": {
+   "median": 2463.5946172277727,
+   "iqr": 624.1277610734619
+  },
+  "flatness": {
+   "median": 0.03308793343603611,
+   "iqr": 0.02050849748775363
+  },
+  "sub100_share": {
+   "median": 0.3708500266075134,
+   "iqr": 0.09712720662355423
+  },
+  "lowest_pitch": {
+   "median": 43.06640625,
+   "iqr": 13.458251953125
+  },
+  "harmonic_share": {
+   "median": 0.7521284222602844,
+   "iqr": 0.08703947067260742
+  },
+  "clean_share": {
+   "median": 0.06277941076765324,
+   "iqr": 0.1548672898228031
+  },
+  "minor_share": {
+   "median": 0.02015161714812358,
+   "iqr": 0.1403220384521715
+  },
+  "chord_rate": {
+   "median": 1.4333116657344562,
+   "iqr": 0.4947597909996504
+  },
+  "repetitiveness": {
+   "median": 0.847187340259552,
+   "iqr": 0.04548521339893341
+  },
+  "vocal_share": {
+   "median": 0.07306152582168579,
+   "iqr": 0.058104777708649635
+  },
+  "vocal_voiced": {
+   "median": 0.12774869109947645,
+   "iqr": 0.3678533971733744
+  },
+  "song_length": {
+   "median": 280.7935,
+   "iqr": 87.79075
+  },
+  "vocal_presence": {
+   "median": 0.5833333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

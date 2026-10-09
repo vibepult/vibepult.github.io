@@ -1,0 +1,32 @@
+{
+ "id": "warlord/1729171776-108",
+ "band": "warlord",
+ "title": "Alarm",
+ "source": "itunes",
+ "album": "Free Spirit Soar",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.133178135203773,
+  "tempo_var": 3.5678509161888647,
+  "low_onset_rate": 7.566437900592574,
+  "lufs": -11.264179317343345,
+  "rms_dbfs": -10.882862791299697,
+  "crest": 10.88286304473877,
+  "centroid": 2260.889426906895,
+  "flatness": 0.019293688237667084,
+  "sub100_share": 0.2858247458934784,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7234491109848022,
+  "clean_share": 0.06651198762567673,
+  "minor_share": 0.16962425180716656,
+  "chord_rate": 1.4999546498972065,
+  "repetitiveness": 0.8772454261779785,
+  "vocal_share": 0.17310388386249542,
+  "vocal_voiced": 0.25875706214689265,
+  "song_length": 350.467
+ }
+}

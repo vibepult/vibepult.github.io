@@ -1,0 +1,32 @@
+{
+ "id": "entwine/1669921564-106",
+ "band": "entwine",
+ "title": "Twisted",
+ "source": "itunes",
+ "album": "Fatal Design",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 4.377015346942734,
+  "tempo_var": 27.0515247132026,
+  "low_onset_rate": 4.343603016050041,
+  "lufs": -7.9636822604835835,
+  "rms_dbfs": -7.781106389786894,
+  "crest": 7.781105995178223,
+  "centroid": 2510.7109462702133,
+  "flatness": 0.03762426599860191,
+  "sub100_share": 0.2261800616979599,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.6306252479553223,
+  "clean_share": 0.01008533747090768,
+  "minor_share": 0.0297458970023321,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.8647868037223816,
+  "vocal_share": 0.2040647566318512,
+  "vocal_voiced": 0.857976653696498,
+  "song_length": 233.52
+ }
+}

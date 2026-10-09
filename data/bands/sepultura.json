@@ -1,0 +1,127 @@
+{
+ "slug": "sepultura",
+ "name": "Sepultura",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 918092,
+  "deezer": 632,
+  "spotify": "6JW8wliOEwaDZ231ZY7cf4"
+ },
+ "metadata": {
+  "formed": 1984,
+  "split": null,
+  "country": "BR",
+  "status": "active",
+  "members": 4,
+  "past_members": 11,
+  "full_lengths": 16,
+  "genre": "Death/Thrash Metal (early); Nu-Metal, Groove/Thrash Metal (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 915014,
+  "themes": "Satanism, Death, Evil (early); Politics, Society, Literature (later)",
+  "release_year": 1999
+ },
+ "partial": false,
+ "clips": [
+  "sepultura/214474048-105",
+  "sepultura/214411044-106",
+  "sepultura/1392358661-105",
+  "sepultura/1291413726-106",
+  "sepultura/1299151419-107",
+  "sepultura/214474128-108",
+  "sepultura/214474414-108",
+  "sepultura/1589752047-107",
+  "sepultura/1589753117-108",
+  "sepultura/1589754188-109",
+  "sepultura/1456956265-109",
+  "sepultura/1458641844-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.69701086956522,
+   "iqr": 42.30641084558823
+  },
+  "onset_rate": {
+   "median": 4.6049308790853125,
+   "iqr": 1.101621247722517
+  },
+  "tempo_var": {
+   "median": 12.691965119672513,
+   "iqr": 6.9074584623526505
+  },
+  "low_onset_rate": {
+   "median": 5.564714221984834,
+   "iqr": 1.1959053315693113
+  },
+  "lufs": {
+   "median": -9.253145447293843,
+   "iqr": 1.7597575131129517
+  },
+  "rms_dbfs": {
+   "median": -9.315036030848855,
+   "iqr": 1.4832940304329654
+  },
+  "crest": {
+   "median": 9.315035820007324,
+   "iqr": 1.4832942485809326
+  },
+  "centroid": {
+   "median": 2676.472988152143,
+   "iqr": 337.4739138747882
+  },
+  "flatness": {
+   "median": 0.04151260666549206,
+   "iqr": 0.020667474251240492
+  },
+  "sub100_share": {
+   "median": 0.24111441522836685,
+   "iqr": 0.1650332175195217
+  },
+  "lowest_pitch": {
+   "median": 67.291259765625,
+   "iqr": 25.5706787109375
+  },
+  "harmonic_share": {
+   "median": 0.6466337740421295,
+   "iqr": 0.08923256397247314
+  },
+  "clean_share": {
+   "median": 0.038669760247486466,
+   "iqr": 0.1089176247107268
+  },
+  "minor_share": {
+   "median": 0.014779104884053873,
+   "iqr": 0.20955065290924182
+  },
+  "chord_rate": {
+   "median": 2.1356940315288035,
+   "iqr": 0.6056079290508061
+  },
+  "repetitiveness": {
+   "median": 0.9014128148555756,
+   "iqr": 0.0639747679233551
+  },
+  "vocal_share": {
+   "median": 0.1474282220005989,
+   "iqr": 0.09473848156630993
+  },
+  "vocal_voiced": {
+   "median": 0.20410283393708809,
+   "iqr": 0.24161866121350162
+  },
+  "song_length": {
+   "median": 228.4665,
+   "iqr": 109.65799999999999
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

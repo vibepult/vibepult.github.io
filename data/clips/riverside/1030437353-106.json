@@ -1,0 +1,32 @@
+{
+ "id": "riverside/1030437353-106",
+ "band": "riverside",
+ "title": "Afloat",
+ "source": "itunes",
+ "album": "Love, Fear and the Time Machine",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 2.565041946220006,
+  "tempo_var": 7.272336991793471,
+  "low_onset_rate": 6.0628264183381955,
+  "lufs": -13.531010229068004,
+  "rms_dbfs": -12.51655493244877,
+  "crest": 12.516554832458496,
+  "centroid": 746.7384788209457,
+  "flatness": 0.0012055017286911607,
+  "sub100_share": 0.11972860991954803,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.9581834673881531,
+  "clean_share": 0.974477958236659,
+  "minor_share": 0.34576647466921406,
+  "chord_rate": 1.0326792251015606,
+  "repetitiveness": 0.6171603798866272,
+  "vocal_share": 0.1884833723306656,
+  "vocal_voiced": 0.941398865784499,
+  "song_length": 192.88
+ }
+}

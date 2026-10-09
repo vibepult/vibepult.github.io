@@ -1,0 +1,32 @@
+{
+ "id": "celtian/1567042559-108",
+ "band": "celtian",
+ "title": "King of the Fairies",
+ "source": "itunes",
+ "album": "The Druid's Awaiting",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.011849633903894,
+  "tempo_var": 1.746381319975832,
+  "low_onset_rate": 7.083414149250837,
+  "lufs": -13.690463608732118,
+  "rms_dbfs": -14.68032402295526,
+  "crest": 12.609441757202148,
+  "centroid": 2661.807297628256,
+  "flatness": 0.0032131574116647243,
+  "sub100_share": 0.0046944767236709595,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.9022431969642639,
+  "clean_share": 0.8401861908456167,
+  "minor_share": 0.11476442853781543,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.6490364074707031,
+  "vocal_share": 0.002599729225039482,
+  "vocal_voiced": 0.98989898989899,
+  "song_length": 148.951
+ }
+}

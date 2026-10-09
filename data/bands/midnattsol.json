@@ -1,0 +1,127 @@
+{
+ "slug": "midnattsol",
+ "name": "Midnattsol",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 47458962,
+  "deezer": 98276,
+  "spotify": "3HND3tDShGgRZ0dVkiCl5e"
+ },
+ "metadata": {
+  "formed": 2002,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 5,
+  "past_members": 7,
+  "full_lengths": 4,
+  "genre": "Symphonic/Folk Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 3642,
+  "themes": "Fantasy, Mythology, Nature",
+  "release_year": 2009
+ },
+ "partial": false,
+ "clips": [
+  "midnattsol/1183626753-106",
+  "midnattsol/1184122906-105",
+  "midnattsol/1184685853-106",
+  "midnattsol/1351955301-105",
+  "midnattsol/1183626753-105",
+  "midnattsol/1184122906-104",
+  "midnattsol/1184685853-107",
+  "midnattsol/1351955301-106",
+  "midnattsol/1183626753-107",
+  "midnattsol/1184122906-106",
+  "midnattsol/1184685853-105",
+  "midnattsol/1351955301-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 135.99917763157896,
+   "iqr": 37.68310546875
+  },
+  "onset_rate": {
+   "median": 4.4,
+   "iqr": 1.5083333333333337
+  },
+  "tempo_var": {
+   "median": 9.195362481211456,
+   "iqr": 13.61372098088173
+  },
+  "low_onset_rate": {
+   "median": 6.45,
+   "iqr": 2.1500000000000004
+  },
+  "lufs": {
+   "median": -9.2466847467262,
+   "iqr": 1.5757175236625098
+  },
+  "rms_dbfs": {
+   "median": -8.74287550035837,
+   "iqr": 1.706097532947573
+  },
+  "crest": {
+   "median": 8.742876052856445,
+   "iqr": 1.7060974836349487
+  },
+  "centroid": {
+   "median": 2426.360727109168,
+   "iqr": 485.61147452140176
+  },
+  "flatness": {
+   "median": 0.027441696263849735,
+   "iqr": 0.02036757906898856
+  },
+  "sub100_share": {
+   "median": 0.2289547473192215,
+   "iqr": 0.3040770124644041
+  },
+  "lowest_pitch": {
+   "median": 55.1788330078125,
+   "iqr": 34.991455078125
+  },
+  "harmonic_share": {
+   "median": 0.8338002264499664,
+   "iqr": 0.07749398052692413
+  },
+  "clean_share": {
+   "median": 0.0348297213622291,
+   "iqr": 0.34539473684210525
+  },
+  "minor_share": {
+   "median": 0.10999527734541464,
+   "iqr": 0.12487741830052959
+  },
+  "chord_rate": {
+   "median": 1.35,
+   "iqr": 0.27500000000000013
+  },
+  "repetitiveness": {
+   "median": 0.798574835062027,
+   "iqr": 0.08853384852409363
+  },
+  "vocal_share": {
+   "median": 0.2729646563529968,
+   "iqr": 0.22928910702466965
+  },
+  "vocal_voiced": {
+   "median": 0.9342105263157895,
+   "iqr": 0.04209096267634038
+  },
+  "song_length": {
+   "median": 317.347,
+   "iqr": 90.86675000000002
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

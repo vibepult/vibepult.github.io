@@ -1,0 +1,127 @@
+{
+ "slug": "nanowar-of-steel",
+ "name": "Nanowar of Steel",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 536282514,
+  "deezer": 2829401,
+  "spotify": "7jw9vF1hFRp1k8dDRNRiC5"
+ },
+ "metadata": {
+  "formed": 2003,
+  "split": null,
+  "country": "IT",
+  "status": "active",
+  "members": 5,
+  "past_members": 1,
+  "full_lengths": 6,
+  "genre": "Heavy/Power Metal/Hard Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 13089,
+  "themes": "Heavy metal parody, Humour, Memes, Food, Pop culture",
+  "release_year": 2016
+ },
+ "partial": false,
+ "clips": [
+  "nanowar-of-steel/1607856818-109",
+  "nanowar-of-steel/831083841-109",
+  "nanowar-of-steel/1607860141-110",
+  "nanowar-of-steel/1440421736-109",
+  "nanowar-of-steel/1561885262-108",
+  "nanowar-of-steel/1659126085-105",
+  "nanowar-of-steel/1607856818-110",
+  "nanowar-of-steel/831083841-107",
+  "nanowar-of-steel/1607860141-111",
+  "nanowar-of-steel/1440421736-110",
+  "nanowar-of-steel/1561885262-107",
+  "nanowar-of-steel/1659126085-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 143.5546875,
+   "iqr": 15.71546052631578
+  },
+  "onset_rate": {
+   "median": 3.4873910249132987,
+   "iqr": 2.292470405379964
+  },
+  "tempo_var": {
+   "median": 10.383333317467173,
+   "iqr": 6.702078506975345
+  },
+  "low_onset_rate": {
+   "median": 3.9092427144450372,
+   "iqr": 1.653910379188284
+  },
+  "lufs": {
+   "median": -8.943774209742864,
+   "iqr": 2.0382190156811015
+  },
+  "rms_dbfs": {
+   "median": -8.097677927949489,
+   "iqr": 2.2183148242584148
+  },
+  "crest": {
+   "median": 8.097678184509277,
+   "iqr": 2.218315005302429
+  },
+  "centroid": {
+   "median": 2582.5976201874682,
+   "iqr": 258.3705633396403
+  },
+  "flatness": {
+   "median": 0.03560085594654083,
+   "iqr": 0.017810823395848274
+  },
+  "sub100_share": {
+   "median": 0.2424727976322174,
+   "iqr": 0.120821014046669
+  },
+  "lowest_pitch": {
+   "median": 75.3662109375,
+   "iqr": 59.88922119140625
+  },
+  "harmonic_share": {
+   "median": 0.7829056084156036,
+   "iqr": 0.06145448982715607
+  },
+  "clean_share": {
+   "median": 0.08055790054101665,
+   "iqr": 0.13751389741383602
+  },
+  "minor_share": {
+   "median": 0.03356254977271417,
+   "iqr": 0.2754827748959727
+  },
+  "chord_rate": {
+   "median": 1.453436393832129,
+   "iqr": 0.725942728923963
+  },
+  "repetitiveness": {
+   "median": 0.8657927513122559,
+   "iqr": 0.09232261776924133
+  },
+  "vocal_share": {
+   "median": 0.25306466221809387,
+   "iqr": 0.20795617252588272
+  },
+  "vocal_voiced": {
+   "median": 0.6973094170403588,
+   "iqr": 0.509881623383625
+  },
+  "song_length": {
+   "median": 293.28,
+   "iqr": 78.815
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.7,
+  "camp": 1.0
+ },
+ "sources_failed": []
+}

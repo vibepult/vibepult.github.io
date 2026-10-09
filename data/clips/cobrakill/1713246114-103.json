@@ -1,0 +1,32 @@
+{
+ "id": "cobrakill/1713246114-103",
+ "band": "cobrakill",
+ "title": "Concrete Jungle",
+ "source": "itunes",
+ "album": "Serpent's Kiss",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.399985487616099,
+  "tempo_var": 2.7102815484415115,
+  "low_onset_rate": 4.766637843459752,
+  "lufs": -11.67730613392899,
+  "rms_dbfs": -12.408366680637082,
+  "crest": 12.408367156982422,
+  "centroid": 2265.2941371806996,
+  "flatness": 0.03700339421629906,
+  "sub100_share": 0.4729105532169342,
+  "lowest_pitch": 88.824462890625,
+  "harmonic_share": 0.8046280145645142,
+  "clean_share": 0.2559938128383604,
+  "minor_share": 0.05119717478642638,
+  "chord_rate": 0.9666608214009288,
+  "repetitiveness": 0.7984256744384766,
+  "vocal_share": 0.03773118928074837,
+  "vocal_voiced": 0.9782135076252724,
+  "song_length": 258.311
+ }
+}

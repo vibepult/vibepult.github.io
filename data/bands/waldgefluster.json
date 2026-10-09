@@ -1,0 +1,127 @@
+{
+ "slug": "waldgefluster",
+ "name": "Waldgeflüster",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 338077884,
+  "deezer": 1022366,
+  "spotify": "1LAUNbSi4NHJfXGvgOoBFy"
+ },
+ "metadata": {
+  "formed": 2005,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 5,
+  "past_members": 2,
+  "full_lengths": 9,
+  "genre": "Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 1233,
+  "themes": "Nature, Heathendom",
+  "release_year": 2015
+ },
+ "partial": false,
+ "clips": [
+  "waldgefluster/1728044831-105",
+  "waldgefluster/1704297977-104",
+  "waldgefluster/1728044092-104",
+  "waldgefluster/1728044030-105",
+  "waldgefluster/1728230393-104",
+  "waldgefluster/1580391596-104",
+  "waldgefluster/1833427130-104",
+  "waldgefluster/1833427939-104",
+  "waldgefluster/1728044831-106",
+  "waldgefluster/1704297977-103",
+  "waldgefluster/1728044092-105",
+  "waldgefluster/1728044030-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 112.55992542613637,
+   "iqr": 27.165310107457202
+  },
+  "onset_rate": {
+   "median": 2.6166508441369967,
+   "iqr": 3.1333003783823425
+  },
+  "tempo_var": {
+   "median": 9.070960258443499,
+   "iqr": 7.531378659448942
+  },
+  "low_onset_rate": {
+   "median": 5.033302897639318,
+   "iqr": 3.841568155148548
+  },
+  "lufs": {
+   "median": -12.867647265990916,
+   "iqr": 5.389928937827136
+  },
+  "rms_dbfs": {
+   "median": -12.383570903261298,
+   "iqr": 4.54333306659688
+  },
+  "crest": {
+   "median": 12.383570671081543,
+   "iqr": 4.172044038772583
+  },
+  "centroid": {
+   "median": 1930.2667591935265,
+   "iqr": 1181.9460390352206
+  },
+  "flatness": {
+   "median": 0.01793778408318758,
+   "iqr": 0.021897395374253392
+  },
+  "sub100_share": {
+   "median": 0.23301604390144348,
+   "iqr": 0.19512232579290867
+  },
+  "lowest_pitch": {
+   "median": 84.7869873046875,
+   "iqr": 57.8704833984375
+  },
+  "harmonic_share": {
+   "median": 0.8466635048389435,
+   "iqr": 0.19166967272758484
+  },
+  "clean_share": {
+   "median": 0.2552204176334107,
+   "iqr": 0.8566367388522191
+  },
+  "minor_share": {
+   "median": 0.16594969808553728,
+   "iqr": 0.18651285554143993
+  },
+  "chord_rate": {
+   "median": 1.2166593096942724,
+   "iqr": 1.0583121193186655
+  },
+  "repetitiveness": {
+   "median": 0.7655901312828064,
+   "iqr": 0.2224063128232956
+  },
+  "vocal_share": {
+   "median": 0.11744966357946396,
+   "iqr": 0.028309069573879242
+  },
+  "vocal_voiced": {
+   "median": 0.24410377358490565,
+   "iqr": 0.2541269087402674
+  },
+  "song_length": {
+   "median": 450.6,
+   "iqr": 249.7940000000001
+  },
+  "vocal_presence": {
+   "median": 0.4166666666666667,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

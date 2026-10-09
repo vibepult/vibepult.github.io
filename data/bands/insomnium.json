@@ -1,0 +1,127 @@
+{
+ "slug": "insomnium",
+ "name": "Insomnium",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 78949757,
+  "deezer": 3022,
+  "spotify": "3uIgLG971oRM5fe6v8lvQS"
+ },
+ "metadata": {
+  "formed": 1997,
+  "split": null,
+  "country": "FI",
+  "status": "active",
+  "members": 5,
+  "past_members": 4,
+  "full_lengths": 10,
+  "genre": "Melodic Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 73560,
+  "themes": "Darkness, Mourning, Loss, Pain, Nature, Mysticism, Individualism",
+  "release_year": 2007
+ },
+ "partial": false,
+ "clips": [
+  "insomnium/1660388840-105",
+  "insomnium/1660429554-106",
+  "insomnium/1660162295-105",
+  "insomnium/1660171797-104",
+  "insomnium/1045293144-105",
+  "insomnium/1045292640-106",
+  "insomnium/1145037807-104",
+  "insomnium/1472537522-106",
+  "insomnium/1649798628-104",
+  "insomnium/1660388840-106",
+  "insomnium/1660429554-107",
+  "insomnium/1660162295-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 32.385480562002655
+  },
+  "onset_rate": {
+   "median": 4.8539367591068014,
+   "iqr": 1.5779653042243451
+  },
+  "tempo_var": {
+   "median": 8.13256615098896,
+   "iqr": 11.654395550146518
+  },
+  "low_onset_rate": {
+   "median": 5.938936632695208,
+   "iqr": 2.699843689265461
+  },
+  "lufs": {
+   "median": -9.709204464330808,
+   "iqr": 3.184070531724254
+  },
+  "rms_dbfs": {
+   "median": -9.466290954676097,
+   "iqr": 3.0226742567675124
+  },
+  "crest": {
+   "median": 9.466290950775146,
+   "iqr": 3.0226738452911377
+  },
+  "centroid": {
+   "median": 2547.1938776282554,
+   "iqr": 306.7398477216707
+  },
+  "flatness": {
+   "median": 0.03161075059324503,
+   "iqr": 0.017570888623595238
+  },
+  "sub100_share": {
+   "median": 0.2912220060825348,
+   "iqr": 0.08369423449039459
+  },
+  "lowest_pitch": {
+   "median": 51.141357421875,
+   "iqr": 28.2623291015625
+  },
+  "harmonic_share": {
+   "median": 0.7577633261680603,
+   "iqr": 0.10237514972686768
+  },
+  "clean_share": {
+   "median": 0.02555890879482739,
+   "iqr": 0.17376220851022053
+  },
+  "minor_share": {
+   "median": 0.1526765408183411,
+   "iqr": 0.16830549219862537
+  },
+  "chord_rate": {
+   "median": 1.0023699267807786,
+   "iqr": 0.6077478009645693
+  },
+  "repetitiveness": {
+   "median": 0.787200391292572,
+   "iqr": 0.1287798285484314
+  },
+  "vocal_share": {
+   "median": 0.09705400094389915,
+   "iqr": 0.03489854093641043
+  },
+  "vocal_voiced": {
+   "median": 0.23063722252393742,
+   "iqr": 0.05712351565610663
+  },
+  "song_length": {
+   "median": 293.16650000000004,
+   "iqr": 39.75600000000003
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

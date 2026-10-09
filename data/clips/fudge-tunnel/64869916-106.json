@@ -1,0 +1,32 @@
+{
+ "id": "fudge-tunnel/64869916-106",
+ "band": "fudge-tunnel",
+ "title": "Don't Have Time for You",
+ "source": "itunes",
+ "album": "Creep Diets",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 3.641944067303496,
+  "tempo_var": 30.26904501389722,
+  "low_onset_rate": 5.4462099355088975,
+  "lufs": -10.244285401413405,
+  "rms_dbfs": -10.64338663548054,
+  "crest": 10.643386840820312,
+  "centroid": 2791.915942968656,
+  "flatness": 0.0435180738568306,
+  "sub100_share": 0.18179920315742493,
+  "lowest_pitch": 99.591064453125,
+  "harmonic_share": 0.6907971501350403,
+  "clean_share": 0.017067494181536073,
+  "minor_share": -0.10572623093853362,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.8375725746154785,
+  "vocal_share": 0.05838797986507416,
+  "vocal_voiced": 0.8777969018932874,
+  "song_length": 177.72
+ }
+}

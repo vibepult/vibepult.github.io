@@ -1,0 +1,32 @@
+{
+ "id": "dark-the-suns/1702244317-107",
+ "band": "dark-the-suns",
+ "title": "Swans of the Frozen Waters",
+ "source": "itunes",
+ "album": "Raven and the Nightsky",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.6665638718572,
+  "tempo_var": 19.468268292643838,
+  "low_onset_rate": 7.499863948046294,
+  "lufs": -9.222835141328703,
+  "rms_dbfs": -8.672763540195454,
+  "crest": 8.67276382446289,
+  "centroid": 2083.5298018636604,
+  "flatness": 0.021680623292922974,
+  "sub100_share": 0.2625737190246582,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.7086966037750244,
+  "clean_share": 0.005413766434648105,
+  "minor_share": 0.10504009517315716,
+  "chord_rate": 1.4666400609512753,
+  "repetitiveness": 0.878936231136322,
+  "vocal_share": 0.21946942806243896,
+  "vocal_voiced": 0.13023255813953488,
+  "song_length": 245.125
+ }
+}

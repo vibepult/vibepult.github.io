@@ -1,0 +1,32 @@
+{
+ "id": "einherjer/1446646617-104",
+ "band": "einherjer",
+ "title": "Burning Yggdrasil",
+ "source": "itunes",
+ "album": "Norwegian Native Art",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 5.245735950152742,
+  "tempo_var": 20.786939901190678,
+  "low_onset_rate": 7.3841251272850705,
+  "lufs": -9.010501173734445,
+  "rms_dbfs": -8.429502623574768,
+  "crest": 8.429502487182617,
+  "centroid": 2341.2766742901,
+  "flatness": 0.02188766747713089,
+  "sub100_share": 0.3725460171699524,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.7794935703277588,
+  "clean_share": 0.1978277734678045,
+  "minor_share": 0.3653449836394834,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.9087131023406982,
+  "vocal_share": 0.0015882340958341956,
+  "vocal_voiced": 0.31746031746031744,
+  "song_length": 319.24
+ }
+}

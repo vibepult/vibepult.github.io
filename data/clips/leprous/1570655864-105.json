@@ -1,0 +1,32 @@
+{
+ "id": "leprous/1570655864-105",
+ "band": "leprous",
+ "title": "Have You Ever?",
+ "source": "itunes",
+ "album": "Aphelion",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 198.76802884615384,
+  "onset_rate": 3.2312866075758513,
+  "tempo_var": 22.125215291866773,
+  "low_onset_rate": 2.4317930139488366,
+  "lufs": -14.588513643003736,
+  "rms_dbfs": -11.537559604819403,
+  "crest": 11.53756046295166,
+  "centroid": 1472.8953315563995,
+  "flatness": 0.005806612316519022,
+  "sub100_share": 0.6955704689025879,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8612947463989258,
+  "clean_share": 0.7331786542923434,
+  "minor_share": 0.13644547765527104,
+  "chord_rate": 1.8321728187285755,
+  "repetitiveness": 0.7035271525382996,
+  "vocal_share": 0.1474650502204895,
+  "vocal_voiced": 0.9144981412639405,
+  "song_length": 281.579
+ }
+}

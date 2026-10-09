@@ -1,0 +1,32 @@
+{
+ "id": "skyforger/365963905-104",
+ "band": "skyforger",
+ "title": "Bewitched Forest",
+ "source": "itunes",
+ "album": "Kurbads",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.209953692479271,
+  "tempo_var": 10.256581051504293,
+  "low_onset_rate": 5.713508582650439,
+  "lufs": -9.424396002024965,
+  "rms_dbfs": -9.23680416363043,
+  "crest": 9.236804008483887,
+  "centroid": 2727.961407388391,
+  "flatness": 0.05022872984409332,
+  "sub100_share": 0.27693596482276917,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.6692184805870056,
+  "clean_share": 0.0,
+  "minor_share": 0.14560057819689087,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.8797545433044434,
+  "vocal_share": 0.10733014345169067,
+  "vocal_voiced": 0.18769230769230769,
+  "song_length": 314.577
+ }
+}

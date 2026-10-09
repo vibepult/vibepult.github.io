@@ -1,0 +1,32 @@
+{
+ "id": "ankhara/373318778-105",
+ "band": "ankhara",
+ "title": "Hasta El Fin",
+ "source": "itunes",
+ "album": "Dueño Del Tiempo",
+ "year": 1999,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 6.548816854967755,
+  "tempo_var": 18.064604438399066,
+  "low_onset_rate": 8.319670392280464,
+  "lufs": -7.923704774724786,
+  "rms_dbfs": -7.093227958851677,
+  "crest": 7.093228340148926,
+  "centroid": 2540.832252821084,
+  "flatness": 0.023326661437749863,
+  "sub100_share": 0.3033265471458435,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7968020439147949,
+  "clean_share": 0.012412723041117145,
+  "minor_share": 0.272133757009015,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.7304916977882385,
+  "vocal_share": 0.20393964648246765,
+  "vocal_voiced": 0.7713338856669428,
+  "song_length": 276.187
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "ktulu/1800700608-104",
+ "band": "ktulu",
+ "title": "Error Clínico",
+ "source": "itunes",
+ "album": "Involución",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 5.899892972463085,
+  "tempo_var": 10.570463823112838,
+  "low_onset_rate": 6.79987664622864,
+  "lufs": -10.057145905292082,
+  "rms_dbfs": -9.241328460054037,
+  "crest": 9.241329193115234,
+  "centroid": 3012.8775745894263,
+  "flatness": 0.05504284054040909,
+  "sub100_share": 0.5615971684455872,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.711249053478241,
+  "clean_share": 0.038669760247486466,
+  "minor_share": 0.13555209304537347,
+  "chord_rate": 2.3332910060588468,
+  "repetitiveness": 0.9403635859489441,
+  "vocal_share": 0.07788151502609253,
+  "vocal_voiced": 0.02653631284916201,
+  "song_length": 180.987
+ }
+}

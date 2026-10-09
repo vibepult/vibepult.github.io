@@ -1,0 +1,32 @@
+{
+ "id": "tool/1474185412-108",
+ "band": "tool",
+ "title": "Ticks & Leeches",
+ "source": "itunes",
+ "album": "Lateralus",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "hand",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.629767388456895,
+  "tempo_var": 23.136684221562138,
+  "low_onset_rate": 5.163396125507804,
+  "lufs": -12.24838548982864,
+  "rms_dbfs": -11.478331384131044,
+  "crest": 11.478330612182617,
+  "centroid": 2364.042263962383,
+  "flatness": 0.01779446192085743,
+  "sub100_share": 0.4830145537853241,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.8587049245834351,
+  "clean_share": 0.2737819025522042,
+  "minor_share": 0.04125075007070067,
+  "chord_rate": 2.3318563147454596,
+  "repetitiveness": 0.8624935746192932,
+  "vocal_share": 0.00224487017840147,
+  "vocal_voiced": 0.0,
+  "song_length": 490.248
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "soundgarden",
+ "name": "Soundgarden",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 133036,
+  "deezer": 1865,
+  "spotify": "5xUf6j4upBrXZPg6AI4MRK"
+ },
+ "metadata": {
+  "formed": 1984,
+  "split": 2017,
+  "country": "US",
+  "status": "split-up",
+  "members": 4,
+  "past_members": 3,
+  "full_lengths": 6,
+  "genre": "Stoner/Heavy Metal, Grunge",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 1333421,
+  "themes": "Society, People, Depression, Pain, Inner struggles, Life, Death, Humour",
+  "release_year": 1992
+ },
+ "partial": false,
+ "clips": [
+  "soundgarden/1188051263-110",
+  "soundgarden/1440869180-106",
+  "soundgarden/1440890539-106",
+  "soundgarden/1440811129-107",
+  "soundgarden/1440866412-108",
+  "soundgarden/1469581201-107",
+  "soundgarden/1188051263-111",
+  "soundgarden/1440869180-107",
+  "soundgarden/1440890539-107",
+  "soundgarden/1440811129-108",
+  "soundgarden/1440866412-109",
+  "soundgarden/1469581201-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.90049098320159,
+   "iqr": 31.10394984970509
+  },
+  "onset_rate": {
+   "median": 3.8166089703859356,
+   "iqr": 0.898585052874338
+  },
+  "tempo_var": {
+   "median": 10.759672072204744,
+   "iqr": 15.479376705892186
+  },
+  "low_onset_rate": {
+   "median": 5.399918368580974,
+   "iqr": 1.9670613608060203
+  },
+  "lufs": {
+   "median": -9.889390437485503,
+   "iqr": 2.3305173221292925
+  },
+  "rms_dbfs": {
+   "median": -9.435226127275312,
+   "iqr": 1.613280568143045
+  },
+  "crest": {
+   "median": 9.43522596359253,
+   "iqr": 1.6132802963256836
+  },
+  "centroid": {
+   "median": 2306.748018555556,
+   "iqr": 266.32190798800366
+  },
+  "flatness": {
+   "median": 0.02404649928212166,
+   "iqr": 0.010128488298505545
+  },
+  "sub100_share": {
+   "median": 0.2979080528020859,
+   "iqr": 0.2446109503507614
+  },
+  "lowest_pitch": {
+   "median": 55.1788330078125,
+   "iqr": 29.608154296875
+  },
+  "harmonic_share": {
+   "median": 0.760426938533783,
+   "iqr": 0.07090216875076294
+  },
+  "clean_share": {
+   "median": 0.14733178654292345,
+   "iqr": 0.16898685228151586
+  },
+  "minor_share": {
+   "median": 0.09179856144636683,
+   "iqr": 0.0668422241432132
+  },
+  "chord_rate": {
+   "median": 2.0665831743018233,
+   "iqr": 0.3916607458692991
+  },
+  "repetitiveness": {
+   "median": 0.8315900266170502,
+   "iqr": 0.15994372963905334
+  },
+  "vocal_share": {
+   "median": 0.17973670363426208,
+   "iqr": 0.10215640440583229
+  },
+  "vocal_voiced": {
+   "median": 0.8553464788561699,
+   "iqr": 0.1590310545200807
+  },
+  "song_length": {
+   "median": 253.97449999999998,
+   "iqr": 82.13399999999999
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

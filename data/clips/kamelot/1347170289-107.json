@@ -1,0 +1,32 @@
+{
+ "id": "kamelot/1347170289-107",
+ "band": "kamelot",
+ "title": "Kevlar Skin",
+ "source": "itunes",
+ "album": "The Shadow Theory",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 5.233333333333333,
+  "tempo_var": 24.814508105538334,
+  "low_onset_rate": 7.366666666666666,
+  "lufs": -8.54581294579798,
+  "rms_dbfs": -7.612769126937468,
+  "crest": 7.612769603729248,
+  "centroid": 2524.795542800434,
+  "flatness": 0.03327879309654236,
+  "sub100_share": 0.47253963351249695,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8272638320922852,
+  "clean_share": 0.005417956656346749,
+  "minor_share": 0.21284682360674423,
+  "chord_rate": 1.6333333333333333,
+  "repetitiveness": 0.8491721153259277,
+  "vocal_share": 0.1892811357975006,
+  "vocal_voiced": 0.8275316455696202,
+  "song_length": 245.699
+ }
+}

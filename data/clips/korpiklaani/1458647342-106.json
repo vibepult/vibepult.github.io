@@ -1,0 +1,32 @@
+{
+ "id": "korpiklaani/1458647342-106",
+ "band": "korpiklaani",
+ "title": "Minä Näin Vedessä Neidon",
+ "source": "itunes",
+ "album": "Noita",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 2.6333174100232197,
+  "tempo_var": 9.70616578291184,
+  "low_onset_rate": 1.0333270849458205,
+  "lufs": -11.804507769109339,
+  "rms_dbfs": -10.373388517817123,
+  "crest": 10.373388290405273,
+  "centroid": 1908.5323612281709,
+  "flatness": 0.01583990827202797,
+  "sub100_share": 0.4169807434082031,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8557016849517822,
+  "clean_share": 0.37587006960556846,
+  "minor_share": 0.37355808208992924,
+  "chord_rate": 1.699989720394737,
+  "repetitiveness": 0.6515955924987793,
+  "vocal_share": 0.0765790194272995,
+  "vocal_voiced": 0.788109756097561,
+  "song_length": 368.933
+ }
+}

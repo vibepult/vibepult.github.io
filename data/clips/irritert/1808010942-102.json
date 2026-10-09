@@ -1,0 +1,32 @@
+{
+ "id": "irritert/1808010942-102",
+ "band": "irritert",
+ "title": "Cruelty Knows No Mercy",
+ "source": "itunes",
+ "album": "Møte Med Depresjon",
+ "year": 2024,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 1.7666666666666666,
+  "tempo_var": 11.445296291814081,
+  "low_onset_rate": 7.2,
+  "lufs": -27.41854899057598,
+  "rms_dbfs": -31.35168289575208,
+  "crest": 24.140289306640625,
+  "centroid": 1499.4079112622521,
+  "flatness": 0.00644890358671546,
+  "sub100_share": 0.027057476341724396,
+  "lowest_pitch": 29.608154296875,
+  "harmonic_share": 0.896070122718811,
+  "clean_share": 0.6114551083591331,
+  "minor_share": -0.0946824114130867,
+  "chord_rate": 2.4,
+  "repetitiveness": 0.877458930015564,
+  "vocal_share": 0.8714211583137512,
+  "vocal_voiced": 0.855072463768116,
+  "song_length": 307.49
+ }
+}

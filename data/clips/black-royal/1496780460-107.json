@@ -1,0 +1,32 @@
+{
+ "id": "black-royal/1496780460-107",
+ "band": "black-royal",
+ "title": "The Reverend",
+ "source": "itunes",
+ "album": "Firebride",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 4.644313994084275,
+  "tempo_var": 18.903185474513897,
+  "low_onset_rate": 8.219433399602385,
+  "lufs": -7.181635901022449,
+  "rms_dbfs": -6.200863169311283,
+  "crest": 6.200863838195801,
+  "centroid": 2288.4891876894217,
+  "flatness": 0.02663765475153923,
+  "sub100_share": 0.43885233998298645,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8167790174484253,
+  "clean_share": 0.032583397982932506,
+  "minor_share": -0.03254946690499683,
+  "chord_rate": 2.2386261698104057,
+  "repetitiveness": 0.8230763673782349,
+  "vocal_share": 0.09825624525547028,
+  "vocal_voiced": 0.11314285714285714,
+  "song_length": 220.227
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "warlock/1440658703-106",
+ "band": "warlock",
+ "title": "East Meets West",
+ "source": "itunes",
+ "album": "Triumph and Agony",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.7332768967967227,
+  "tempo_var": 3.7099569008332574,
+  "low_onset_rate": 5.633248174630769,
+  "lufs": -15.330033456943353,
+  "rms_dbfs": -16.03330635159404,
+  "crest": 15.814811706542969,
+  "centroid": 2519.2459108188145,
+  "flatness": 0.030226336792111397,
+  "sub100_share": 0.07574032992124557,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.6899663805961609,
+  "clean_share": 0.0030935808197989174,
+  "minor_share": 0.016738332866753414,
+  "chord_rate": 1.7333071306556214,
+  "repetitiveness": 0.8455134630203247,
+  "vocal_share": 0.30196720361709595,
+  "vocal_voiced": 0.6633165829145728,
+  "song_length": 213.507
+ }
+}

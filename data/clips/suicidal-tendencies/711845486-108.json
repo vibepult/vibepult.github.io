@@ -1,0 +1,32 @@
+{
+ "id": "suicidal-tendencies/711845486-108",
+ "band": "suicidal-tendencies",
+ "title": "Come Alive",
+ "source": "itunes",
+ "album": "No Mercy Fool! / The Suicidal Family",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.813745575328517,
+  "tempo_var": 17.720803763272418,
+  "low_onset_rate": 5.680096251757746,
+  "lufs": -6.416042221971767,
+  "rms_dbfs": -6.433359856215018,
+  "crest": 6.433359146118164,
+  "centroid": 2703.1825528701675,
+  "flatness": 0.0414714477956295,
+  "sub100_share": 0.28466296195983887,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6913625001907349,
+  "clean_share": 0.005430566330488751,
+  "minor_share": -0.07585598539116234,
+  "chord_rate": 2.205213838917713,
+  "repetitiveness": 0.9200764298439026,
+  "vocal_share": 0.20404323935508728,
+  "vocal_voiced": 0.7194148936170213,
+  "song_length": 223.16
+ }
+}

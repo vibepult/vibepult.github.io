@@ -1,0 +1,32 @@
+{
+ "id": "pig-destroyer/68290017-106",
+ "band": "pig-destroyer",
+ "title": "Gravedancer",
+ "source": "itunes",
+ "album": "Terrifyer",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 5.98080722979198,
+  "tempo_var": 2.5844151253211747,
+  "low_onset_rate": 7.618011443533918,
+  "lufs": -6.505629128798588,
+  "rms_dbfs": -7.549204779849234,
+  "crest": 7.5492048263549805,
+  "centroid": 3058.540688934651,
+  "flatness": 0.07216475158929825,
+  "sub100_share": 0.03368634730577469,
+  "lowest_pitch": 131.890869140625,
+  "harmonic_share": 0.7084771990776062,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": -0.2065730851997254,
+  "chord_rate": 2.405687824273869,
+  "repetitiveness": 0.9552779197692871,
+  "vocal_share": 0.08841227740049362,
+  "vocal_voiced": 0.29074074074074074,
+  "song_length": 180.973
+ }
+}

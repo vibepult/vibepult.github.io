@@ -1,0 +1,32 @@
+{
+ "id": "novembers-doom/1556023828-108",
+ "band": "novembers-doom",
+ "title": "Sadness Rains",
+ "source": "itunes",
+ "album": "Amid Its Hallowed Mirth",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 1.5035548901711682,
+  "tempo_var": 10.430545139719708,
+  "low_onset_rate": 3.7755933908742665,
+  "lufs": -8.488756142465096,
+  "rms_dbfs": -8.397529640337224,
+  "crest": 8.397529602050781,
+  "centroid": 1901.583836171152,
+  "flatness": 0.011838614009320736,
+  "sub100_share": 0.0781155452132225,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8378311991691589,
+  "clean_share": 0.3785880527540729,
+  "minor_share": -0.16628855485912075,
+  "chord_rate": 0.8687206032100082,
+  "repetitiveness": 0.8164740204811096,
+  "vocal_share": 0.14370271563529968,
+  "vocal_voiced": 0.8464730290456431,
+  "song_length": 282.92
+ }
+}

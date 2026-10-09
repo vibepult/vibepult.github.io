@@ -1,0 +1,127 @@
+{
+ "slug": "dreamshade",
+ "name": "Dreamshade",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 304319444,
+  "deezer": 1047292,
+  "spotify": "3A7sZMxNjhJWX7apY1UpQO"
+ },
+ "metadata": {
+  "formed": 2006,
+  "split": null,
+  "country": "CH",
+  "status": "active",
+  "members": 5,
+  "past_members": 6,
+  "full_lengths": 4,
+  "genre": "Melodic Death Metal/Metalcore (early); Melodic Metalcore (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 10169,
+  "themes": "Life, Visions",
+  "release_year": 2016
+ },
+ "partial": false,
+ "clips": [
+  "dreamshade/1669979239-105",
+  "dreamshade/1185181234-106",
+  "dreamshade/1538712670-108",
+  "dreamshade/1669979239-106",
+  "dreamshade/1185181234-107",
+  "dreamshade/1538712670-106",
+  "dreamshade/1669979239-104",
+  "dreamshade/1185181234-105",
+  "dreamshade/1538712670-109",
+  "dreamshade/1669979239-107",
+  "dreamshade/1185181234-108",
+  "dreamshade/1538712670-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 15.98994283669495
+  },
+  "onset_rate": {
+   "median": 5.0118496339038945,
+   "iqr": 0.7434243623624113
+  },
+  "tempo_var": {
+   "median": 11.798758597660537,
+   "iqr": 13.051331901040271
+  },
+  "low_onset_rate": {
+   "median": 5.02855579935024,
+   "iqr": 2.2803915834262716
+  },
+  "lufs": {
+   "median": -7.920541597946757,
+   "iqr": 2.2554879203161873
+  },
+  "rms_dbfs": {
+   "median": -7.513803524451563,
+   "iqr": 2.1196882272747866
+  },
+  "crest": {
+   "median": 7.513803958892822,
+   "iqr": 2.1196879148483276
+  },
+  "centroid": {
+   "median": 2621.9390563492725,
+   "iqr": 194.67904139041048
+  },
+  "flatness": {
+   "median": 0.041278691962361336,
+   "iqr": 0.01312684640288353
+  },
+  "sub100_share": {
+   "median": 0.2962285131216049,
+   "iqr": 0.0665479302406311
+  },
+  "lowest_pitch": {
+   "median": 48.44970703125,
+   "iqr": 20.86029052734375
+  },
+  "harmonic_share": {
+   "median": 0.6778608560562134,
+   "iqr": 0.050140321254730225
+  },
+  "clean_share": {
+   "median": 0.008533747090768037,
+   "iqr": 0.043638479441427465
+  },
+  "minor_share": {
+   "median": 0.029657352022896488,
+   "iqr": 0.17854907927350522
+  },
+  "chord_rate": {
+   "median": 1.5035548901711682,
+   "iqr": 0.43436030160500416
+  },
+  "repetitiveness": {
+   "median": 0.8945838809013367,
+   "iqr": 0.042969539761543274
+  },
+  "vocal_share": {
+   "median": 0.21926705539226532,
+   "iqr": 0.03793194890022278
+  },
+  "vocal_voiced": {
+   "median": 0.3324203572621307,
+   "iqr": 0.20909623717855486
+  },
+  "song_length": {
+   "median": 214.826,
+   "iqr": 37.03650000000002
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

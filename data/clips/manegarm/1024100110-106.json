@@ -1,0 +1,32 @@
+{
+ "id": "manegarm/1024100110-106",
+ "band": "manegarm",
+ "title": "Preludium",
+ "source": "itunes",
+ "album": "Vredens tid",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 6.11445655336275,
+  "tempo_var": 5.872368259074274,
+  "low_onset_rate": 7.083414149250837,
+  "lufs": -39.49139262788644,
+  "rms_dbfs": -38.278852128653014,
+  "crest": 17.401554107666016,
+  "centroid": 1250.7144261173817,
+  "flatness": 0.003368253353983164,
+  "sub100_share": 0.1965668499469757,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.8511659502983093,
+  "clean_share": 0.8060512024825446,
+  "minor_share": 0.04591069962900457,
+  "chord_rate": 2.205213838917713,
+  "repetitiveness": 0.885513186454773,
+  "vocal_share": 0.41611483693122864,
+  "vocal_voiced": 0.8865030674846626,
+  "song_length": 213.48
+ }
+}

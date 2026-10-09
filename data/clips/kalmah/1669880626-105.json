@@ -1,0 +1,32 @@
+{
+ "id": "kalmah/1669880626-105",
+ "band": "kalmah",
+ "title": "Take Me Away",
+ "source": "itunes",
+ "album": "Palo",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.3,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.466666666666667,
+  "lufs": -9.169959595124723,
+  "rms_dbfs": -9.380400247408222,
+  "crest": 9.380400657653809,
+  "centroid": 2500.584371356784,
+  "flatness": 0.030969761312007904,
+  "sub100_share": 0.27112457156181335,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7454243898391724,
+  "clean_share": 0.0007739938080495357,
+  "minor_share": 0.27166251081854575,
+  "chord_rate": 1.9666666666666666,
+  "repetitiveness": 0.8619108200073242,
+  "vocal_share": 0.013110675849020481,
+  "vocal_voiced": 0.0,
+  "song_length": 288.093
+ }
+}

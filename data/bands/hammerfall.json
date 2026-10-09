@@ -1,0 +1,127 @@
+{
+ "slug": "hammerfall",
+ "name": "HammerFall",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 6475279,
+  "deezer": 5796,
+  "spotify": "2o18h28enlHxj887tATc58"
+ },
+ "metadata": {
+  "formed": 1993,
+  "split": null,
+  "country": "SE",
+  "status": "active",
+  "members": 5,
+  "past_members": 10,
+  "full_lengths": 13,
+  "genre": "Heavy/Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 209230,
+  "themes": "Medieval battles, Fantasy, Templar Knights",
+  "release_year": 2010
+ },
+ "partial": false,
+ "clips": [
+  "hammerfall/1460473546-105",
+  "hammerfall/1460473031-105",
+  "hammerfall/1456963068-107",
+  "hammerfall/1456962359-105",
+  "hammerfall/1460470408-106",
+  "hammerfall/1456953152-106",
+  "hammerfall/1460465290-106",
+  "hammerfall/1495206921-106",
+  "hammerfall/1244186991-105",
+  "hammerfall/1460137021-106",
+  "hammerfall/1591300865-105",
+  "hammerfall/1738614908-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 23.603703425480774
+  },
+  "onset_rate": {
+   "median": 2.8333162006578947,
+   "iqr": 1.750009977263932
+  },
+  "tempo_var": {
+   "median": 11.666178792288251,
+   "iqr": 14.58408387882534
+  },
+  "low_onset_rate": {
+   "median": 4.238073186894891,
+   "iqr": 2.7697387028026283
+  },
+  "lufs": {
+   "median": -11.346926406160136,
+   "iqr": 3.8181749375300917
+  },
+  "rms_dbfs": {
+   "median": -11.480606468187512,
+   "iqr": 2.7603351615840115
+  },
+  "crest": {
+   "median": 11.48060655593872,
+   "iqr": 2.7602686882019043
+  },
+  "centroid": {
+   "median": 2424.6716709920775,
+   "iqr": 700.2825072484266
+  },
+  "flatness": {
+   "median": 0.02656602766364813,
+   "iqr": 0.018388616619631648
+  },
+  "sub100_share": {
+   "median": 0.2584308981895447,
+   "iqr": 0.2218124195933342
+  },
+  "lowest_pitch": {
+   "median": 75.3662109375,
+   "iqr": 26.91650390625
+  },
+  "harmonic_share": {
+   "median": 0.7887910902500153,
+   "iqr": 0.13234250247478485
+  },
+  "clean_share": {
+   "median": 0.23124516627996905,
+   "iqr": 0.5268956843690479
+  },
+  "minor_share": {
+   "median": 0.13697551871869829,
+   "iqr": 0.08412589678683474
+  },
+  "chord_rate": {
+   "median": 1.2166629377902476,
+   "iqr": 0.5425741811850827
+  },
+  "repetitiveness": {
+   "median": 0.7709708511829376,
+   "iqr": 0.1632731705904007
+  },
+  "vocal_share": {
+   "median": 0.24154223501682281,
+   "iqr": 0.38510702550411224
+  },
+  "vocal_voiced": {
+   "median": 0.8727272727272727,
+   "iqr": 0.08917881881992673
+  },
+  "song_length": {
+   "median": 254.29500000000002,
+   "iqr": 54.00074999999998
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.5,
+  "camp": 0.6
+ },
+ "sources_failed": []
+}

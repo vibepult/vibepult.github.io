@@ -1,0 +1,127 @@
+{
+ "slug": "baroness",
+ "name": "Baroness",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 260990514,
+  "deezer": 390039,
+  "spotify": "3KdXhEwbqFHfNfSk7L9E87"
+ },
+ "metadata": {
+  "formed": 2003,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 4,
+  "past_members": 6,
+  "full_lengths": 6,
+  "genre": "Progressive Sludge Metal, Progressive Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 39393,
+  "themes": "Life, Society, Emotions",
+  "release_year": 2013
+ },
+ "partial": false,
+ "clips": [
+  "baroness/274013471-106",
+  "baroness/331785890-106",
+  "baroness/538195776-201",
+  "baroness/1031376313-105",
+  "baroness/1455603119-108",
+  "baroness/1688103157-106",
+  "baroness/274013471-107",
+  "baroness/331785890-107",
+  "baroness/538195776-109",
+  "baroness/1031376313-104",
+  "baroness/1455603119-110",
+  "baroness/1688103157-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 42.68863075657896
+  },
+  "onset_rate": {
+   "median": 3.1036102045410567,
+   "iqr": 1.753579394512621
+  },
+  "tempo_var": {
+   "median": 15.322087389789928,
+   "iqr": 10.965763843904746
+  },
+  "low_onset_rate": {
+   "median": 3.266446486242186,
+   "iqr": 2.506377948747308
+  },
+  "lufs": {
+   "median": -13.940750866578044,
+   "iqr": 8.407237189186478
+  },
+  "rms_dbfs": {
+   "median": -12.509423291397315,
+   "iqr": 8.703586687452415
+  },
+  "crest": {
+   "median": 12.50942325592041,
+   "iqr": 7.11760687828064
+  },
+  "centroid": {
+   "median": 1708.4094792862672,
+   "iqr": 904.2339611787788
+  },
+  "flatness": {
+   "median": 0.011978385504335165,
+   "iqr": 0.012751414673402905
+  },
+  "sub100_share": {
+   "median": 0.3698577731847763,
+   "iqr": 0.2420186698436737
+  },
+  "lowest_pitch": {
+   "median": 68.6370849609375,
+   "iqr": 30.28106689453125
+  },
+  "harmonic_share": {
+   "median": 0.8280920684337616,
+   "iqr": 0.11656811833381653
+  },
+  "clean_share": {
+   "median": 0.531322505800464,
+   "iqr": 0.5760811912997099
+  },
+  "minor_share": {
+   "median": 0.11129214023016612,
+   "iqr": 0.2698354376517985
+  },
+  "chord_rate": {
+   "median": 1.2165905355666973,
+   "iqr": 0.8444641732194383
+  },
+  "repetitiveness": {
+   "median": 0.7389906048774719,
+   "iqr": 0.09331206977367401
+  },
+  "vocal_share": {
+   "median": 0.1966642290353775,
+   "iqr": 0.15781067963689566
+  },
+  "vocal_voiced": {
+   "median": 0.8028163580246914,
+   "iqr": 0.18721064814814814
+  },
+  "song_length": {
+   "median": 262.0535,
+   "iqr": 75.91875000000002
+  },
+  "vocal_presence": {
+   "median": 0.3333333333333333,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

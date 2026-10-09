@@ -1,0 +1,32 @@
+{
+ "id": "caliban/1343408770-107",
+ "band": "caliban",
+ "title": "I Am Fear",
+ "source": "itunes",
+ "album": "Elements",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.363902531880789,
+  "tempo_var": 0.0,
+  "low_onset_rate": 3.9641557350672816,
+  "lufs": -7.724388913335758,
+  "rms_dbfs": -7.701323730390266,
+  "crest": 7.701324462890625,
+  "centroid": 2839.265297136764,
+  "flatness": 0.05812444910407066,
+  "sub100_share": 0.3499595820903778,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7252806425094604,
+  "clean_share": 0.0,
+  "minor_share": 0.19777474037525716,
+  "chord_rate": 1.2325526235083144,
+  "repetitiveness": 0.9270519614219666,
+  "vocal_share": 0.143076092004776,
+  "vocal_voiced": 0.11408815903197926,
+  "song_length": 271.033
+ }
+}

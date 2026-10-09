@@ -1,0 +1,32 @@
+{
+ "id": "king-diamond/331247722-108",
+ "band": "king-diamond",
+ "title": "Meet Me At Midnight (Remastered)",
+ "source": "itunes",
+ "album": "The Graveyard (Remastered)",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 5.145498957474664,
+  "tempo_var": 12.917257442674751,
+  "low_onset_rate": 5.9139825680065945,
+  "lufs": -9.655709939156681,
+  "rms_dbfs": -10.331229581230916,
+  "crest": 10.331230163574219,
+  "centroid": 3003.4454226871762,
+  "flatness": 0.04879835247993469,
+  "sub100_share": 0.1821335405111313,
+  "lowest_pitch": 139.9658203125,
+  "harmonic_share": 0.6880932450294495,
+  "clean_share": 0.0,
+  "minor_share": 0.12762400454037492,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.8037152886390686,
+  "vocal_share": 0.3313010036945343,
+  "vocal_voiced": 0.4090909090909091,
+  "song_length": 286.693
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "corrosion-of-conformity/1660307361-106",
+ "band": "corrosion-of-conformity",
+ "title": "The Doom",
+ "source": "itunes",
+ "album": "Corrosion of Conformity",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.5082947437327254,
+  "tempo_var": 7.421666046941577,
+  "low_onset_rate": 5.4462099355088975,
+  "lufs": -9.466246636333201,
+  "rms_dbfs": -8.75145855924716,
+  "crest": 8.751458168029785,
+  "centroid": 2155.414411133031,
+  "flatness": 0.01838538981974125,
+  "sub100_share": 0.3222673237323761,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8367608189582825,
+  "clean_share": 0.18386346004654772,
+  "minor_share": -0.08094434145040741,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.749936580657959,
+  "vocal_share": 0.08704616129398346,
+  "vocal_voiced": 0.7972972972972973,
+  "song_length": 289.6
+ }
+}

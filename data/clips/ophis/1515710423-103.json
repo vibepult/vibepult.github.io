@@ -1,0 +1,32 @@
+{
+ "id": "ophis/1515710423-103",
+ "band": "ophis",
+ "title": "Earth Expired",
+ "source": "itunes",
+ "album": "Withered Shades",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 1.0357822576734714,
+  "tempo_var": 6.89350728433286,
+  "low_onset_rate": 3.4080577510546477,
+  "lufs": -10.626688487565083,
+  "rms_dbfs": -9.60614175086266,
+  "crest": 9.606141090393066,
+  "centroid": 2410.6927433796477,
+  "flatness": 0.018720243126153946,
+  "sub100_share": 0.51121586561203,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.6857506036758423,
+  "clean_share": 0.011636927851047323,
+  "minor_share": -0.23046704830021336,
+  "chord_rate": 1.3030809048150125,
+  "repetitiveness": 0.9241805076599121,
+  "vocal_share": 0.005019461736083031,
+  "vocal_voiced": 0.25806451612903225,
+  "song_length": 693.227
+ }
+}

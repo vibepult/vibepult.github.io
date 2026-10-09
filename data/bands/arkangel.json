@@ -1,0 +1,127 @@
+{
+ "slug": "arkangel",
+ "name": "Arkangel",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 178617645,
+  "deezer": 181996,
+  "spotify": "1xtuZNLHzz6VFwtw0JpOYn"
+ },
+ "metadata": {
+  "formed": 1997,
+  "split": null,
+  "country": "BE",
+  "status": "active",
+  "members": 5,
+  "past_members": 3,
+  "full_lengths": 3,
+  "genre": "Metalcore/Thrash Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 3123,
+  "themes": "Animal rights (early); Cruelty, Violence (later)",
+  "release_year": 2004
+ },
+ "partial": false,
+ "clips": [
+  "arkangel/1622516768-105",
+  "arkangel/1622517426-106",
+  "arkangel/1622514165-104",
+  "arkangel/1622516768-104",
+  "arkangel/1622517426-105",
+  "arkangel/1622514165-105",
+  "arkangel/1622516768-107",
+  "arkangel/1622517426-107",
+  "arkangel/1622514165-103",
+  "arkangel/1622516768-103",
+  "arkangel/1622517426-104",
+  "arkangel/1622514165-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.52302631578948,
+   "iqr": 50.553265739889696
+  },
+  "onset_rate": {
+   "median": 4.7612571522086995,
+   "iqr": 2.5476902305678126
+  },
+  "tempo_var": {
+   "median": 16.042793636260633,
+   "iqr": 9.522456665671038
+  },
+  "low_onset_rate": {
+   "median": 5.997513395238326,
+   "iqr": 1.5870857174028998
+  },
+  "lufs": {
+   "median": -9.436879869798798,
+   "iqr": 3.0237616483627043
+  },
+  "rms_dbfs": {
+   "median": -9.37721535466803,
+   "iqr": 3.0560211191586912
+  },
+  "crest": {
+   "median": 9.37721586227417,
+   "iqr": 3.0560216903686523
+  },
+  "centroid": {
+   "median": 2562.523827758802,
+   "iqr": 364.0197308550414
+  },
+  "flatness": {
+   "median": 0.032880619168281555,
+   "iqr": 0.019321019295603037
+  },
+  "sub100_share": {
+   "median": 0.25382137298583984,
+   "iqr": 0.06193522363901138
+  },
+  "lowest_pitch": {
+   "median": 57.8704833984375,
+   "iqr": 34.991455078125
+  },
+  "harmonic_share": {
+   "median": 0.72704216837883,
+   "iqr": 0.1081371009349823
+  },
+  "clean_share": {
+   "median": 0.02443754848719938,
+   "iqr": 0.07273079906904577
+  },
+  "minor_share": {
+   "median": -0.018279718620218183,
+   "iqr": 0.1168397233314096
+  },
+  "chord_rate": {
+   "median": 1.553673386510207,
+   "iqr": 0.40930105343548484
+  },
+  "repetitiveness": {
+   "median": 0.9304585158824921,
+   "iqr": 0.05332839488983154
+  },
+  "vocal_share": {
+   "median": 0.10484129190444946,
+   "iqr": 0.05777248367667198
+  },
+  "vocal_voiced": {
+   "median": 0.08763693270735524,
+   "iqr": 0.12514928936151554
+  },
+  "song_length": {
+   "median": 170.4065,
+   "iqr": 76.16624999999999
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

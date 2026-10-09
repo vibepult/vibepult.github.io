@@ -1,0 +1,32 @@
+{
+ "id": "anthropia/303351976-103",
+ "band": "anthropia",
+ "title": "Whipping Soul",
+ "source": "itunes",
+ "album": "The Chain Reaction",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 6.181281215148136,
+  "tempo_var": 5.986939522665635,
+  "low_onset_rate": 6.047631891577365,
+  "lufs": -9.55857822265394,
+  "rms_dbfs": -9.256090610228627,
+  "crest": 9.25609016418457,
+  "centroid": 2707.838454293121,
+  "flatness": 0.04208986461162567,
+  "sub100_share": 0.3504997491836548,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7091520428657532,
+  "clean_share": 0.02560124127230411,
+  "minor_share": -0.0723014542227437,
+  "chord_rate": 2.205213838917713,
+  "repetitiveness": 0.9616485238075256,
+  "vocal_share": 0.09688109904527664,
+  "vocal_voiced": 0.4366412213740458,
+  "song_length": 471.493
+ }
+}

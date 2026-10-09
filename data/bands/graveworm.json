@@ -1,0 +1,127 @@
+{
+ "slug": "graveworm",
+ "name": "Graveworm",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 15866087,
+  "deezer": 15760,
+  "spotify": "4XJZ7zUJzQuayqyAVJowKX"
+ },
+ "metadata": {
+  "formed": 1992,
+  "split": null,
+  "country": "IT",
+  "status": "active",
+  "members": 5,
+  "past_members": 9,
+  "full_lengths": 10,
+  "genre": "Melodic Black/Death/Gothic Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 9689,
+  "themes": "Religion (early); Evil, Sadness, Death, Love",
+  "release_year": 2002
+ },
+ "partial": false,
+ "clips": [
+  "graveworm/1803455626-104",
+  "graveworm/1803459122-105",
+  "graveworm/1804249437-105",
+  "graveworm/1460472023-105",
+  "graveworm/1456936576-105",
+  "graveworm/1456956524-105",
+  "graveworm/1456966069-106",
+  "graveworm/1664802413-105",
+  "graveworm/1803455626-106",
+  "graveworm/1803459122-104",
+  "graveworm/1804249437-106",
+  "graveworm/1460472023-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.72650642942585,
+   "iqr": 44.27386271679187
+  },
+  "onset_rate": {
+   "median": 3.11661955223655,
+   "iqr": 2.315121118096965
+  },
+  "tempo_var": {
+   "median": 12.330269664342744,
+   "iqr": 11.614785157102833
+  },
+  "low_onset_rate": {
+   "median": 4.966591585917069,
+   "iqr": 4.573792514548035
+  },
+  "lufs": {
+   "median": -7.944875626407962,
+   "iqr": 4.432623815357577
+  },
+  "rms_dbfs": {
+   "median": -7.66205304396951,
+   "iqr": 3.9485642684496014
+  },
+  "crest": {
+   "median": 7.662052631378174,
+   "iqr": 3.6519010066986084
+  },
+  "centroid": {
+   "median": 2554.5865790832586,
+   "iqr": 710.7543940960572
+  },
+  "flatness": {
+   "median": 0.03735230676829815,
+   "iqr": 0.027242355979979038
+  },
+  "sub100_share": {
+   "median": 0.25501298904418945,
+   "iqr": 0.24778501689434052
+  },
+  "lowest_pitch": {
+   "median": 55.1788330078125,
+   "iqr": 25.5706787109375
+  },
+  "harmonic_share": {
+   "median": 0.7779543697834015,
+   "iqr": 0.09975631535053253
+  },
+  "clean_share": {
+   "median": 0.0476406046282513,
+   "iqr": 0.5591561832316639
+  },
+  "minor_share": {
+   "median": 0.046699243248368105,
+   "iqr": 0.17435766148602164
+  },
+  "chord_rate": {
+   "median": 1.451727112506466,
+   "iqr": 0.6021772199100394
+  },
+  "repetitiveness": {
+   "median": 0.8260084092617035,
+   "iqr": 0.15799549221992493
+  },
+  "vocal_share": {
+   "median": 0.110362958163023,
+   "iqr": 0.05776802450418472
+  },
+  "vocal_voiced": {
+   "median": 0.174982674982675,
+   "iqr": 0.11946116095776249
+  },
+  "song_length": {
+   "median": 291.6,
+   "iqr": 58.72825
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.5,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

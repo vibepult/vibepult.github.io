@@ -1,0 +1,32 @@
+{
+ "id": "psoty/1660433901-108",
+ "band": "psoty",
+ "title": "Obscura",
+ "source": "itunes",
+ "album": "Sunless",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.4391001551665616,
+  "tempo_var": 7.742290518559534,
+  "low_onset_rate": 1.1360192503515492,
+  "lufs": -7.630381960209782,
+  "rms_dbfs": -6.68388122090768,
+  "crest": 6.6838812828063965,
+  "centroid": 2343.2355974090938,
+  "flatness": 0.02168472483754158,
+  "sub100_share": 0.4160834550857544,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8401257395744324,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": -0.05787092659630355,
+  "chord_rate": 0.6014219560684673,
+  "repetitiveness": 0.8899288773536682,
+  "vocal_share": 0.0767631009221077,
+  "vocal_voiced": 0.9256292906178489,
+  "song_length": 489.12
+ }
+}

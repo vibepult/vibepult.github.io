@@ -1,0 +1,32 @@
+{
+ "id": "firewind/1174998887-105",
+ "band": "firewind",
+ "title": "Live and Die by the Sword",
+ "source": "itunes",
+ "album": "Immortals",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.109716699801193,
+  "tempo_var": 1.7236092362412754,
+  "low_onset_rate": 5.780333244435824,
+  "lufs": -10.259299234705884,
+  "rms_dbfs": -9.428667995810805,
+  "crest": 9.428668022155762,
+  "centroid": 2439.1522962415124,
+  "flatness": 0.019696252420544624,
+  "sub100_share": 0.26868435740470886,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.7951358556747437,
+  "clean_share": 0.10628394103956555,
+  "minor_share": 0.0016648687776154025,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.6668406128883362,
+  "vocal_share": 0.23038791120052338,
+  "vocal_voiced": 0.7998372660699756,
+  "song_length": 374.227
+ }
+}

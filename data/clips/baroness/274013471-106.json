@@ -1,0 +1,32 @@
+{
+ "id": "baroness/274013471-106",
+ "band": "baroness",
+ "title": "Wanderlust",
+ "source": "itunes",
+ "album": "Red Album",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.466666666666667,
+  "tempo_var": 18.486732139595052,
+  "low_onset_rate": 6.166666666666667,
+  "lufs": -9.063266371047682,
+  "rms_dbfs": -8.132576654887734,
+  "crest": 8.132576942443848,
+  "centroid": 2527.0171893756074,
+  "flatness": 0.021621135994791985,
+  "sub100_share": 0.409022718667984,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.8022632598876953,
+  "clean_share": 0.05417956656346749,
+  "minor_share": 0.26208633140051185,
+  "chord_rate": 1.9,
+  "repetitiveness": 0.761523425579071,
+  "vocal_share": 4.094629275641637e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 269.707
+ }
+}

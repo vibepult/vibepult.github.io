@@ -1,0 +1,32 @@
+{
+ "id": "accept/1787143199-106",
+ "band": "accept",
+ "title": "It Ain't Over Yet",
+ "source": "itunes",
+ "album": "Predator",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 4.4994694503142485,
+  "tempo_var": 33.452345760786194,
+  "low_onset_rate": 6.432574843782593,
+  "lufs": -10.408946254851395,
+  "rms_dbfs": -9.349417680043896,
+  "crest": 9.349417686462402,
+  "centroid": 2247.612005251566,
+  "flatness": 0.01823139190673828,
+  "sub100_share": 0.3612838089466095,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8234399557113647,
+  "clean_share": 0.08739365815931942,
+  "minor_share": -0.05340420800389212,
+  "chord_rate": 2.1997406201536327,
+  "repetitiveness": 0.8680899143218994,
+  "vocal_share": 0.07781277596950531,
+  "vocal_voiced": 0.7610619469026548,
+  "song_length": 256.293
+ }
+}

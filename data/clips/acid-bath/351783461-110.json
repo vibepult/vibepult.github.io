@@ -1,0 +1,32 @@
+{
+ "id": "acid-bath/351783461-110",
+ "band": "acid-bath",
+ "title": "God Machine",
+ "source": "itunes",
+ "album": "When the Kite String Pops",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.799970975232198,
+  "tempo_var": 6.7141764884090795,
+  "low_onset_rate": 4.833304107004644,
+  "lufs": -18.06575758720633,
+  "rms_dbfs": -21.208074077739067,
+  "crest": 19.65757179260254,
+  "centroid": 2411.3736077746985,
+  "flatness": 0.023417267948389053,
+  "sub100_share": 0.11914750933647156,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.7472679018974304,
+  "clean_share": 0.2822892498066512,
+  "minor_share": -0.10554019247149088,
+  "chord_rate": 1.8999885110294117,
+  "repetitiveness": 0.8778703808784485,
+  "vocal_share": 0.38452988862991333,
+  "vocal_voiced": 0.571078431372549,
+  "song_length": 300.84
+ }
+}

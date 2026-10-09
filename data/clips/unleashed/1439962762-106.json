@@ -1,0 +1,32 @@
+{
+ "id": "unleashed/1439962762-106",
+ "band": "unleashed",
+ "title": "The Dark One",
+ "source": "itunes",
+ "album": "Where No Life Dwells",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 7.016589487465451,
+  "tempo_var": 15.121765385934182,
+  "low_onset_rate": 6.047631891577365,
+  "lufs": -13.347584744532314,
+  "rms_dbfs": -12.780612031192433,
+  "crest": 12.78061294555664,
+  "centroid": 2765.3082012710943,
+  "flatness": 0.04677307605743408,
+  "sub100_share": 0.30265820026397705,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.712745189666748,
+  "clean_share": 0.038789759503491075,
+  "minor_share": -0.15693144892383842,
+  "chord_rate": 2.2720385007030983,
+  "repetitiveness": 0.9343896508216858,
+  "vocal_share": 0.11462024599313736,
+  "vocal_voiced": 0.18687872763419483,
+  "song_length": 219.507
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "judas-priest/207178142-105",
+ "band": "judas-priest",
+ "title": "Metal Meltdown",
+ "source": "itunes",
+ "album": "Painkiller (Bonus Track Version)",
+ "year": 1990,
+ "itunes_year": 1990,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 6.695758846626249,
+  "tempo_var": 8.74242065328487,
+  "low_onset_rate": 8.960990695236124,
+  "lufs": -8.876607223857535,
+  "rms_dbfs": -8.429174700040676,
+  "crest": 8.429174423217773,
+  "centroid": 3059.3525415379236,
+  "flatness": 0.054710954427719116,
+  "sub100_share": 0.4176660478115082,
+  "lowest_pitch": 29.608154296875,
+  "harmonic_share": 0.7962923049926758,
+  "clean_share": 0.0,
+  "minor_share": -0.15990099011045872,
+  "chord_rate": 1.9321095179319523,
+  "repetitiveness": 0.8881762027740479,
+  "vocal_share": 0.17266415059566498,
+  "vocal_voiced": 0.5741127348643006,
+  "song_length": 287.667
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "summoning/1184689169-105",
+ "band": "summoning",
+ "title": "Kor",
+ "source": "itunes",
+ "album": "Dol Guldur",
+ "year": 1997,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.833333333333333,
+  "tempo_var": 19.51821302242037,
+  "low_onset_rate": 7.9,
+  "lufs": -9.994977329242909,
+  "rms_dbfs": -10.008910025993114,
+  "crest": 10.008909225463867,
+  "centroid": 2463.237486773317,
+  "flatness": 0.026077594608068466,
+  "sub100_share": 0.12734255194664001,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.882116973400116,
+  "clean_share": 0.011609907120743035,
+  "minor_share": 0.012221957358443558,
+  "chord_rate": 0.5666666666666667,
+  "repetitiveness": 0.8999795317649841,
+  "vocal_share": 0.045611340552568436,
+  "vocal_voiced": 0.32053941908713696,
+  "song_length": 659.72
+ }
+}

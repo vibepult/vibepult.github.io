@@ -1,0 +1,32 @@
+{
+ "id": "boris/1580076290-105",
+ "band": "boris",
+ "title": "Blackout",
+ "source": "itunes",
+ "album": "Pink",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 1.4666444951701412,
+  "tempo_var": 9.482059184042374,
+  "low_onset_rate": 7.09989266980091,
+  "lufs": -5.821233067550726,
+  "rms_dbfs": -5.546072492125212,
+  "crest": 5.546072959899902,
+  "centroid": 2263.173733497922,
+  "flatness": 0.02384919300675392,
+  "sub100_share": 0.1245485171675682,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8802239894866943,
+  "clean_share": 0.21191028615622584,
+  "minor_share": -0.051963180129680264,
+  "chord_rate": 0.9666520536348657,
+  "repetitiveness": 0.8617011308670044,
+  "vocal_share": 1.51676692894398e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 289.693
+ }
+}

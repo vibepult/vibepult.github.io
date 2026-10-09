@@ -1,0 +1,32 @@
+{
+ "id": "my-dying-bride/73591106-105",
+ "band": "my-dying-bride",
+ "title": "All Swept Away",
+ "source": "itunes",
+ "album": "Like Gods of the Sun",
+ "year": 1996,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.343603016050041,
+  "tempo_var": 31.294288820848024,
+  "low_onset_rate": 6.61564151675314,
+  "lufs": -11.985811519026102,
+  "rms_dbfs": -11.304788885782466,
+  "crest": 11.304788589477539,
+  "centroid": 2643.7767470140284,
+  "flatness": 0.026642343029379845,
+  "sub100_share": 0.42149847745895386,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.796733021736145,
+  "clean_share": 0.09076803723816912,
+  "minor_share": 0.051402840953509,
+  "chord_rate": 2.3722754933811765,
+  "repetitiveness": 0.8680863976478577,
+  "vocal_share": 0.05248705670237541,
+  "vocal_voiced": 0.5147058823529411,
+  "song_length": 257.64
+ }
+}

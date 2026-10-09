@@ -1,0 +1,32 @@
+{
+ "id": "suotana/1047605668-104",
+ "band": "suotana",
+ "title": "Child of Frost",
+ "source": "itunes",
+ "album": "Frostrealm",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 6.415167531396984,
+  "tempo_var": 6.35600788684847,
+  "low_onset_rate": 7.3507127963923775,
+  "lufs": -10.731594625827475,
+  "rms_dbfs": -10.080078714706149,
+  "crest": 10.080079078674316,
+  "centroid": 2331.5558650546855,
+  "flatness": 0.029387257993221283,
+  "sub100_share": 0.2665170133113861,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.6880517601966858,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.3146748872564842,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.8611814975738525,
+  "vocal_share": 0.1510053426027298,
+  "vocal_voiced": 0.14759358288770053,
+  "song_length": 288.24
+ }
+}

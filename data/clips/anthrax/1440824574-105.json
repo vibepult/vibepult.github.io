@@ -1,0 +1,32 @@
+{
+ "id": "anthrax/1440824574-105",
+ "band": "anthrax",
+ "title": "A Skeleton In the Closet",
+ "source": "itunes",
+ "album": "Among the Living",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.099922903659809,
+  "tempo_var": 1.652030041078559,
+  "low_onset_rate": 6.966561352058171,
+  "lufs": -10.600459175082545,
+  "rms_dbfs": -10.972103958941371,
+  "crest": 10.9721040725708,
+  "centroid": 2456.4385596946604,
+  "flatness": 0.027405263856053352,
+  "sub100_share": 0.18484890460968018,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.6816182732582092,
+  "clean_share": 0.01237432327919567,
+  "minor_share": -0.05256810035621784,
+  "chord_rate": 1.6666414717842513,
+  "repetitiveness": 0.9335535764694214,
+  "vocal_share": 0.10978009551763535,
+  "vocal_voiced": 0.7414860681114551,
+  "song_length": 329.96
+ }
+}

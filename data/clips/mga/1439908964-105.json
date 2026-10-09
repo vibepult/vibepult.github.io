@@ -1,0 +1,32 @@
+{
+ "id": "mga/1439908964-105",
+ "band": "mga",
+ "title": "With Hearts Toward None V",
+ "source": "itunes",
+ "album": "With Hearts Toward None",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 6.066666666666666,
+  "tempo_var": 2.289843938812136,
+  "low_onset_rate": 6.2,
+  "lufs": -7.414156453598829,
+  "rms_dbfs": -7.386376186132436,
+  "crest": 7.386375427246094,
+  "centroid": 2448.229652563128,
+  "flatness": 0.03593587502837181,
+  "sub100_share": 0.31049320101737976,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7635065913200378,
+  "clean_share": 0.0,
+  "minor_share": -0.0014326494324616856,
+  "chord_rate": 2.5,
+  "repetitiveness": 0.9040970206260681,
+  "vocal_share": 0.05104384571313858,
+  "vocal_voiced": 0.2367601246105919,
+  "song_length": 327.564
+ }
+}

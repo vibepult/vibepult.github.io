@@ -1,0 +1,32 @@
+{
+ "id": "insomnium/1045293144-105",
+ "band": "insomnium",
+ "title": "Unsung",
+ "source": "itunes",
+ "album": "One For Sorrow",
+ "year": 2011,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.596455155389103,
+  "tempo_var": 14.871737369649185,
+  "low_onset_rate": 9.060927394439501,
+  "lufs": -8.594021109684363,
+  "rms_dbfs": -8.492809367667945,
+  "crest": 8.492809295654297,
+  "centroid": 2632.472409798047,
+  "flatness": 0.045134611427783966,
+  "sub100_share": 0.2963868975639343,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.6878455281257629,
+  "clean_share": 0.0,
+  "minor_share": 0.17284071268374313,
+  "chord_rate": 0.6995568944236379,
+  "repetitiveness": 0.9234340190887451,
+  "vocal_share": 0.0886155292391777,
+  "vocal_voiced": 0.2374784110535406,
+  "song_length": 304.6
+ }
+}

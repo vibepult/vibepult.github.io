@@ -1,0 +1,32 @@
+{
+ "id": "marduk/1374598334-105",
+ "band": "marduk",
+ "title": "Narva",
+ "source": "itunes",
+ "album": "Viktoria",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 6.962256711168587,
+  "tempo_var": 6.127090465360396,
+  "low_onset_rate": 8.494619432287031,
+  "lufs": -8.108703606049337,
+  "rms_dbfs": -7.697749738889138,
+  "crest": 7.697749614715576,
+  "centroid": 2389.6355664967327,
+  "flatness": 0.03464958816766739,
+  "sub100_share": 0.2309875637292862,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.686733603477478,
+  "clean_share": 0.0,
+  "minor_share": -0.034021065857613775,
+  "chord_rate": 1.89879728486416,
+  "repetitiveness": 0.9411262273788452,
+  "vocal_share": 0.12720799446105957,
+  "vocal_voiced": 0.11689814814814815,
+  "song_length": 271.107
+ }
+}

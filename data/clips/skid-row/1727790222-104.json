@@ -1,0 +1,32 @@
+{
+ "id": "skid-row/1727790222-104",
+ "band": "skid-row",
+ "title": "Piece of Me",
+ "source": "itunes",
+ "album": "Skid Row",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 2.8666493324303404,
+  "tempo_var": 0.0,
+  "low_onset_rate": 3.3666463090170278,
+  "lufs": -9.927344040077958,
+  "rms_dbfs": -9.515901709947748,
+  "crest": 9.515901565551758,
+  "centroid": 2411.040551926633,
+  "flatness": 0.030474120751023293,
+  "sub100_share": 0.3264913260936737,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7790648937225342,
+  "clean_share": 0.12529002320185614,
+  "minor_share": -0.11957406204865684,
+  "chord_rate": 2.4333186193885448,
+  "repetitiveness": 0.8870006203651428,
+  "vocal_share": 0.11166910082101822,
+  "vocal_voiced": 0.4533947065592635,
+  "song_length": 168.775
+ }
+}

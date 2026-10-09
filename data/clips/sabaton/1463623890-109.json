@@ -1,0 +1,32 @@
+{
+ "id": "sabaton/1463623890-109",
+ "band": "sabaton",
+ "title": "Panzerkampf",
+ "source": "itunes",
+ "album": "The Art of War",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 2.4999848829334366,
+  "tempo_var": 8.313979297405325,
+  "low_onset_rate": 2.8666493324303404,
+  "lufs": -9.822995155487712,
+  "rms_dbfs": -10.877102395009153,
+  "crest": 10.877102851867676,
+  "centroid": 2649.588480384081,
+  "flatness": 0.0426730252802372,
+  "sub100_share": 0.385684609413147,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6515628695487976,
+  "clean_share": 0.0,
+  "minor_share": 0.059530189254435095,
+  "chord_rate": 1.9333216428018576,
+  "repetitiveness": 0.8647518754005432,
+  "vocal_share": 0.10670524090528488,
+  "vocal_voiced": 0.41237113402061853,
+  "song_length": 315.76
+ }
+}

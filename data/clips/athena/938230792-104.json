@@ -1,0 +1,32 @@
+{
+ "id": "athena/938230792-104",
+ "band": "athena",
+ "title": "Kaçak",
+ "source": "itunes",
+ "album": "Altüst",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 4.333202321925263,
+  "tempo_var": 0.0,
+  "low_onset_rate": 3.5998911597532954,
+  "lufs": -11.012348063664641,
+  "rms_dbfs": -9.99801685045038,
+  "crest": 9.998017311096191,
+  "centroid": 1850.3830378662158,
+  "flatness": 0.01000041700899601,
+  "sub100_share": 0.31628674268722534,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.6036540865898132,
+  "clean_share": 0.5552977571539056,
+  "minor_share": 0.028384700934028895,
+  "chord_rate": 1.7666132543233763,
+  "repetitiveness": 0.7314294576644897,
+  "vocal_share": 0.2573847472667694,
+  "vocal_voiced": 0.8807251908396947,
+  "song_length": 213.262
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "sarcofago/1509755136-107",
+ "band": "sarcofago",
+ "title": "The Phantom",
+ "source": "itunes",
+ "album": "Hate",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 7.016589487465451,
+  "tempo_var": 11.058361695756519,
+  "low_onset_rate": 9.589338966202783,
+  "lufs": -8.984493808743936,
+  "rms_dbfs": -10.241382844792916,
+  "crest": 10.241382598876953,
+  "centroid": 2935.869033034985,
+  "flatness": 0.041503362357616425,
+  "sub100_share": 0.08978280425071716,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7267096638679504,
+  "clean_share": 0.005430566330488751,
+  "minor_share": -0.1557967049485534,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.9396805763244629,
+  "vocal_share": 0.011831957846879959,
+  "vocal_voiced": 0.1618705035971223,
+  "song_length": 300.885
+ }
+}

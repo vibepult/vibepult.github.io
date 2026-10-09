@@ -1,0 +1,32 @@
+{
+ "id": "godflesh/263698843-105",
+ "band": "godflesh",
+ "title": "Pure",
+ "source": "itunes",
+ "album": "Pure",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 198.76802884615384,
+  "onset_rate": 4.744550986762353,
+  "tempo_var": 7.9758283698988315,
+  "low_onset_rate": 6.949764825680066,
+  "lufs": -12.362513446549915,
+  "rms_dbfs": -13.668141020820908,
+  "crest": 13.668140411376953,
+  "centroid": 3293.4240924900687,
+  "flatness": 0.07127533107995987,
+  "sub100_share": 0.23919716477394104,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6409212946891785,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.023237754101672004,
+  "chord_rate": 2.8734604567715656,
+  "repetitiveness": 0.9095122814178467,
+  "vocal_share": 0.0007210055482573807,
+  "vocal_voiced": 0.6111111111111112,
+  "song_length": 302.467
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "hanzel-und-gretyl/414442854-106",
+ "band": "hanzel-und-gretyl",
+ "title": "Burning Bush",
+ "source": "itunes",
+ "album": "Scheissmessiah",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 2.9736974494496438,
+  "tempo_var": 15.60689608179211,
+  "low_onset_rate": 3.0071097803423363,
+  "lufs": -10.520322877044864,
+  "rms_dbfs": -10.182578203408267,
+  "crest": 10.182579040527344,
+  "centroid": 2484.1088048511706,
+  "flatness": 0.025605395436286926,
+  "sub100_share": 0.36196914315223694,
+  "lowest_pitch": 131.890869140625,
+  "harmonic_share": 0.7639819979667664,
+  "clean_share": 0.12102404965089217,
+  "minor_share": 0.15483327749210696,
+  "chord_rate": 1.971327522668865,
+  "repetitiveness": 0.8719074726104736,
+  "vocal_share": 0.08191278576850891,
+  "vocal_voiced": 0.31469194312796206,
+  "song_length": 174.2
+ }
+}

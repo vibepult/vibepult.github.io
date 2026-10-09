@@ -1,0 +1,32 @@
+{
+ "id": "tarot/1513375516-106",
+ "band": "tarot",
+ "title": "Tides",
+ "source": "itunes",
+ "album": "Crows Fly Black",
+ "year": 2006,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 2.5393371478446394,
+  "tempo_var": 12.042701230372263,
+  "low_onset_rate": 4.176541361586578,
+  "lufs": -16.520463890884805,
+  "rms_dbfs": -15.764820580724981,
+  "crest": 14.62283706665039,
+  "centroid": 1901.131446063296,
+  "flatness": 0.01052842941135168,
+  "sub100_share": 0.06654167920351028,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.9472350478172302,
+  "clean_share": 0.7509697439875873,
+  "minor_share": 0.015501933164111081,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.5331851243972778,
+  "vocal_share": 0.5848590731620789,
+  "vocal_voiced": 0.8749003984063745,
+  "song_length": 333.747
+ }
+}

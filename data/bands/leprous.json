@@ -1,0 +1,127 @@
+{
+ "slug": "leprous",
+ "name": "Leprous",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 322022617,
+  "deezer": 261790,
+  "spotify": "4lgrzShsg2FLA89UM2fdO5"
+ },
+ "metadata": {
+  "formed": 2001,
+  "split": null,
+  "country": "NO",
+  "status": "active",
+  "members": 5,
+  "past_members": 10,
+  "full_lengths": 8,
+  "genre": "Progressive Metal/Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 44156,
+  "themes": "Loneliness, Pain, Anxiety, Suffering, Introspection",
+  "release_year": 2014
+ },
+ "partial": false,
+ "clips": [
+  "leprous/1296401754-104",
+  "leprous/1045610274-105",
+  "leprous/1045635892-104",
+  "leprous/1047225280-106",
+  "leprous/1247616982-106",
+  "leprous/1477630539-105",
+  "leprous/1570655864-105",
+  "leprous/1746762447-105",
+  "leprous/1296401754-105",
+  "leprous/1045610274-106",
+  "leprous/1045635892-105",
+  "leprous/1047225280-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 43.365478515625
+  },
+  "onset_rate": {
+   "median": 3.3864968411006346,
+   "iqr": 1.4574101967159123
+  },
+  "tempo_var": {
+   "median": 10.296773521010593,
+   "iqr": 15.13112492364066
+  },
+  "low_onset_rate": {
+   "median": 3.5310967051859823,
+   "iqr": 1.7572202943260429
+  },
+  "lufs": {
+   "median": -13.122089015550893,
+   "iqr": 5.692220274413744
+  },
+  "rms_dbfs": {
+   "median": -11.380870551033478,
+   "iqr": 4.749473075304815
+  },
+  "crest": {
+   "median": 11.380871295928955,
+   "iqr": 4.7494730949401855
+  },
+  "centroid": {
+   "median": 1562.4651389447515,
+   "iqr": 628.1419212205628
+  },
+  "flatness": {
+   "median": 0.0060418033972382545,
+   "iqr": 0.008177003706805408
+  },
+  "sub100_share": {
+   "median": 0.35596445202827454,
+   "iqr": 0.3499319888651371
+  },
+  "lowest_pitch": {
+   "median": 61.907958984375,
+   "iqr": 56.524658203125
+  },
+  "harmonic_share": {
+   "median": 0.8568748533725739,
+   "iqr": 0.08973279595375061
+  },
+  "clean_share": {
+   "median": 0.7246713070378964,
+   "iqr": 0.5135122162242594
+  },
+  "minor_share": {
+   "median": 0.05961640543621277,
+   "iqr": 0.1270149637901357
+  },
+  "chord_rate": {
+   "median": 1.549018837652341,
+   "iqr": 0.7078849526905859
+  },
+  "repetitiveness": {
+   "median": 0.7304772734642029,
+   "iqr": 0.23218275606632233
+  },
+  "vocal_share": {
+   "median": 0.2414376437664032,
+   "iqr": 0.17303848639130592
+  },
+  "vocal_voiced": {
+   "median": 0.9030303971936803,
+   "iqr": 0.08508581816687033
+  },
+  "song_length": {
+   "median": 272.1535,
+   "iqr": 99.78250000000003
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

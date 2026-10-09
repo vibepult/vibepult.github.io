@@ -1,0 +1,32 @@
+{
+ "id": "onslaught/1543076971-105",
+ "band": "onslaught",
+ "title": "Let There Be Rock",
+ "source": "itunes",
+ "album": "In Search of Sanity",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 5.880570237113902,
+  "tempo_var": 1.6948326655705823,
+  "low_onset_rate": 4.4772523396208115,
+  "lufs": -8.646064379260322,
+  "rms_dbfs": -7.677172331956803,
+  "crest": 7.677172660827637,
+  "centroid": 3017.2718733694437,
+  "flatness": 0.05571681633591652,
+  "sub100_share": 0.4361152648925781,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.4877750277519226,
+  "clean_share": 0.08766485647788984,
+  "minor_share": 0.01592547147339901,
+  "chord_rate": 2.3722754933811765,
+  "repetitiveness": 0.9670228958129883,
+  "vocal_share": 0.14494919776916504,
+  "vocal_voiced": 0.45870736086175945,
+  "song_length": 240.027
+ }
+}

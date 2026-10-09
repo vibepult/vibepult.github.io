@@ -1,0 +1,32 @@
+{
+ "id": "girlschool/1471135014-105",
+ "band": "girlschool",
+ "title": "It Turns Your Head Around",
+ "source": "itunes",
+ "album": "Screaming Blue Murder",
+ "year": 1982,
+ "itunes_year": 1982,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.166666666666667,
+  "tempo_var": 7.269718152462997,
+  "low_onset_rate": 4.433333333333334,
+  "lufs": -9.15052960290869,
+  "rms_dbfs": -9.504031101311966,
+  "crest": 9.50403118133545,
+  "centroid": 2481.7989744141314,
+  "flatness": 0.03160277009010315,
+  "sub100_share": 0.07109402865171432,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.6776354312896729,
+  "clean_share": 0.0,
+  "minor_share": -0.39810962649761694,
+  "chord_rate": 0.9,
+  "repetitiveness": 0.8062358498573303,
+  "vocal_share": 0.13693881034851074,
+  "vocal_voiced": 0.5155393053016454,
+  "song_length": 188.173
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "lake-of-tears/1435828193-105",
+ "band": "lake-of-tears",
+ "title": "The Organ",
+ "source": "itunes",
+ "album": "Black Brick Road",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.1718015080250206,
+  "tempo_var": 7.3689393113501085,
+  "low_onset_rate": 1.6372042137419387,
+  "lufs": -13.31122271035707,
+  "rms_dbfs": -11.939392875855336,
+  "crest": 11.939393043518066,
+  "centroid": 1213.8168394426846,
+  "flatness": 0.004668036010116339,
+  "sub100_share": 0.4832044541835785,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8706027269363403,
+  "clean_share": 0.7874321179208689,
+  "minor_share": 0.09445141013972302,
+  "chord_rate": 0.33412330892692627,
+  "repetitiveness": 0.661480724811554,
+  "vocal_share": 0.042463887482881546,
+  "vocal_voiced": 0.9214285714285714,
+  "song_length": 281.933
+ }
+}

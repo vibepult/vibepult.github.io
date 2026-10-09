@@ -1,0 +1,32 @@
+{
+ "id": "viikate/1536714928-105",
+ "band": "viikate",
+ "title": "Vesi jota pelkäät",
+ "source": "itunes",
+ "album": "Unholan Urut",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 2.940285118556951,
+  "tempo_var": 29.7544139396213,
+  "low_onset_rate": 5.412797604616205,
+  "lufs": -10.418361206183748,
+  "rms_dbfs": -9.35186517621702,
+  "crest": 9.3518648147583,
+  "centroid": 1814.7454271923336,
+  "flatness": 0.009679190814495087,
+  "sub100_share": 0.29687413573265076,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8884143233299255,
+  "clean_share": 0.40806826997672613,
+  "minor_share": -0.04090191545527544,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.7622504830360413,
+  "vocal_share": 0.1980929970741272,
+  "vocal_voiced": 0.9580908032596042,
+  "song_length": 259.48
+ }
+}

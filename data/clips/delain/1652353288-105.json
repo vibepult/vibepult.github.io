@@ -1,0 +1,32 @@
+{
+ "id": "delain/1652353288-105",
+ "band": "delain",
+ "title": "Tainted Hearts",
+ "source": "itunes",
+ "album": "Dark Waters",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.733333333333333,
+  "tempo_var": 2.758273237932729,
+  "low_onset_rate": 7.7,
+  "lufs": -10.283106631782777,
+  "rms_dbfs": -9.261912123577929,
+  "crest": 9.26191234588623,
+  "centroid": 2296.977960631763,
+  "flatness": 0.02185342274606228,
+  "sub100_share": 0.4228227734565735,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8503554463386536,
+  "clean_share": 0.02786377708978328,
+  "minor_share": -0.1940865808376836,
+  "chord_rate": 1.0666666666666667,
+  "repetitiveness": 0.8634614944458008,
+  "vocal_share": 0.04916910454630852,
+  "vocal_voiced": 0.8606271777003485,
+  "song_length": 281.989
+ }
+}

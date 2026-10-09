@@ -1,0 +1,32 @@
+{
+ "id": "metallica/1275600311-104",
+ "band": "metallica",
+ "title": "Welcome Home (Sanitarium)",
+ "source": "itunes",
+ "album": "Master of Puppets (Remastered)",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 2.9,
+  "tempo_var": 41.82564422805811,
+  "low_onset_rate": 3.8666666666666667,
+  "lufs": -17.140477766742023,
+  "rms_dbfs": -16.336118869304038,
+  "crest": 15.902691841125488,
+  "centroid": 2181.936203230965,
+  "flatness": 0.011633898131549358,
+  "sub100_share": 0.20008407533168793,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.8833444118499756,
+  "clean_share": 0.3506191950464396,
+  "minor_share": 0.14834165938238175,
+  "chord_rate": 1.3333333333333333,
+  "repetitiveness": 0.710139811038971,
+  "vocal_share": 6.432551913349016e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 387.147
+ }
+}

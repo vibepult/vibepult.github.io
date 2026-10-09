@@ -1,0 +1,32 @@
+{
+ "id": "terrorizer/584501420-109",
+ "band": "terrorizer",
+ "title": "Broken Mirrors",
+ "source": "itunes",
+ "album": "Hordes of Zombies",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 8.085784076031615,
+  "tempo_var": 8.565337113262412,
+  "low_onset_rate": 6.649053847645832,
+  "lufs": -7.525438985079263,
+  "rms_dbfs": -7.478788232327896,
+  "crest": 7.478787899017334,
+  "centroid": 3012.7755071933566,
+  "flatness": 0.0742885172367096,
+  "sub100_share": 0.3914247155189514,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7067140936851501,
+  "clean_share": 0.0,
+  "minor_share": 0.2568220521269156,
+  "chord_rate": 2.405687824273869,
+  "repetitiveness": 0.9436130523681641,
+  "vocal_share": 0.042168911546468735,
+  "vocal_voiced": 0.1880108991825613,
+  "song_length": 188.0
+ }
+}

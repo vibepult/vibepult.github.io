@@ -1,0 +1,127 @@
+{
+ "slug": "tiamat",
+ "name": "Tiamat",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 18243640,
+  "deezer": 3799,
+  "spotify": "5SwHKKNKYToC1YzWVNWAIN"
+ },
+ "metadata": {
+  "formed": 1989,
+  "split": null,
+  "country": "SE",
+  "status": "active",
+  "members": 2,
+  "past_members": 10,
+  "full_lengths": 10,
+  "genre": "Death/Doom Metal (early); Gothic Metal/Rock (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 32006,
+  "themes": "Death, Morbidity, Evil, Satan (early); Dreams, Love, Drugs, Religion, Personal (later)",
+  "release_year": 1995
+ },
+ "partial": false,
+ "clips": [
+  "tiamat/1543279778-106",
+  "tiamat/1351322106-106",
+  "tiamat/1351323030-104",
+  "tiamat/1351352195-106",
+  "tiamat/1045445156-107",
+  "tiamat/1045547518-105",
+  "tiamat/1045510646-107",
+  "tiamat/1045638604-108",
+  "tiamat/1737274480-108",
+  "tiamat/1183589928-108",
+  "tiamat/1543279778-105",
+  "tiamat/1351322106-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 133.30078125,
+   "iqr": 24.017170788770045
+  },
+  "onset_rate": {
+   "median": 3.102642175250098,
+   "iqr": 1.3245269238229165
+  },
+  "tempo_var": {
+   "median": 4.032573597516086,
+   "iqr": 13.337443369819717
+  },
+  "low_onset_rate": {
+   "median": 4.52737083595985,
+   "iqr": 1.6323379581216488
+  },
+  "lufs": {
+   "median": -11.230870577417768,
+   "iqr": 2.0720400286080203
+  },
+  "rms_dbfs": {
+   "median": -10.059783836140543,
+   "iqr": 3.285867172724286
+  },
+  "crest": {
+   "median": 10.059783458709717,
+   "iqr": 3.285867214202881
+  },
+  "centroid": {
+   "median": 2463.2158600129287,
+   "iqr": 639.1389005977194
+  },
+  "flatness": {
+   "median": 0.029033766128122807,
+   "iqr": 0.021290825796313584
+  },
+  "sub100_share": {
+   "median": 0.2574083060026169,
+   "iqr": 0.12398021668195724
+  },
+  "lowest_pitch": {
+   "median": 45.758056640625,
+   "iqr": 16.82281494140625
+  },
+  "harmonic_share": {
+   "median": 0.7701628804206848,
+   "iqr": 0.10390391945838928
+  },
+  "clean_share": {
+   "median": 0.1330488750969744,
+   "iqr": 0.33842550176188907
+  },
+  "minor_share": {
+   "median": 0.06935449333935581,
+   "iqr": 0.16506421279144573
+  },
+  "chord_rate": {
+   "median": 1.2848303565238535,
+   "iqr": 0.8147733650685312
+  },
+  "repetitiveness": {
+   "median": 0.7462823688983917,
+   "iqr": 0.1818283498287201
+  },
+  "vocal_share": {
+   "median": 0.11566830798983574,
+   "iqr": 0.07710938155651093
+  },
+  "vocal_voiced": {
+   "median": 0.5880250657265774,
+   "iqr": 0.5246000628000427
+  },
+  "song_length": {
+   "median": 292.84000000000003,
+   "iqr": 77.24675000000002
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

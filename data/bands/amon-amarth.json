@@ -1,0 +1,127 @@
+{
+ "slug": "amon-amarth",
+ "name": "Amon Amarth",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 54261107,
+  "deezer": 6065,
+  "spotify": "3pulcT2wt7FEG10lQlqDJL"
+ },
+ "metadata": {
+  "formed": 1992,
+  "split": null,
+  "country": "SE",
+  "status": "active",
+  "members": 5,
+  "past_members": 4,
+  "full_lengths": 13,
+  "genre": "Melodic Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 365150,
+  "themes": "Vikings, Warfare, Mythology, Destruction",
+  "release_year": 2009
+ },
+ "partial": false,
+ "clips": [
+  "amon-amarth/54261136-104",
+  "amon-amarth/54261284-104",
+  "amon-amarth/54263009-105",
+  "amon-amarth/336233464-105",
+  "amon-amarth/191430782-105",
+  "amon-amarth/288236836-105",
+  "amon-amarth/421169232-106",
+  "amon-amarth/634108816-105",
+  "amon-amarth/1073193481-106",
+  "amon-amarth/1453761098-106",
+  "amon-amarth/1620926617-105",
+  "amon-amarth/6775988608-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 14.350562574760772
+  },
+  "onset_rate": {
+   "median": 5.262442115599088,
+   "iqr": 1.6958493813917785
+  },
+  "tempo_var": {
+   "median": 2.047007335427643,
+   "iqr": 5.648903243312114
+  },
+  "low_onset_rate": {
+   "median": 7.125395896975869,
+   "iqr": 1.5083405138748214
+  },
+  "lufs": {
+   "median": -9.006115316301148,
+   "iqr": 1.2478427798575833
+  },
+  "rms_dbfs": {
+   "median": -8.54622282452289,
+   "iqr": 1.5509149251404821
+  },
+  "crest": {
+   "median": 8.546222686767578,
+   "iqr": 1.5509153604507446
+  },
+  "centroid": {
+   "median": 2568.21541494168,
+   "iqr": 316.77716638973334
+  },
+  "flatness": {
+   "median": 0.03463076986372471,
+   "iqr": 0.016443985048681498
+  },
+  "sub100_share": {
+   "median": 0.35369911789894104,
+   "iqr": 0.0776560977101326
+  },
+  "lowest_pitch": {
+   "median": 43.06640625,
+   "iqr": 9.4207763671875
+  },
+  "harmonic_share": {
+   "median": 0.7404050827026367,
+   "iqr": 0.08923487365245819
+  },
+  "clean_share": {
+   "median": 0.0007757951900698216,
+   "iqr": 0.007353854406102682
+  },
+  "minor_share": {
+   "median": -0.0187928849403195,
+   "iqr": 0.20037084410575734
+  },
+  "chord_rate": {
+   "median": 1.1666490302489758,
+   "iqr": 0.46475774987759966
+  },
+  "repetitiveness": {
+   "median": 0.8690603971481323,
+   "iqr": 0.07468999922275543
+  },
+  "vocal_share": {
+   "median": 0.09820178151130676,
+   "iqr": 0.06229688227176666
+  },
+  "vocal_voiced": {
+   "median": 0.10601092896174863,
+   "iqr": 0.2528033893196556
+  },
+  "song_length": {
+   "median": 316.488,
+   "iqr": 93.88850000000002
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.5,
+  "camp": 0.5
+ },
+ "sources_failed": []
+}

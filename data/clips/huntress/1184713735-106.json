@@ -1,0 +1,32 @@
+{
+ "id": "huntress/1184713735-106",
+ "band": "huntress",
+ "title": "Aradia",
+ "source": "itunes",
+ "album": "Spell Eater",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.4,
+  "tempo_var": 3.0590818990145574,
+  "low_onset_rate": 6.366666666666666,
+  "lufs": -9.349881466192219,
+  "rms_dbfs": -9.022342289265579,
+  "crest": 9.022342681884766,
+  "centroid": 2433.619737695601,
+  "flatness": 0.024216271936893463,
+  "sub100_share": 0.2074775993824005,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7649884223937988,
+  "clean_share": 0.04953560371517028,
+  "minor_share": -0.15135956810961015,
+  "chord_rate": 1.9,
+  "repetitiveness": 0.728126049041748,
+  "vocal_share": 0.20339526236057281,
+  "vocal_voiced": 0.5947643979057592,
+  "song_length": 248.72
+ }
+}

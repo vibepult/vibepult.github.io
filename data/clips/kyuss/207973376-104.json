@@ -1,0 +1,32 @@
+{
+ "id": "kyuss/207973376-104",
+ "band": "kyuss",
+ "title": "100°",
+ "source": "itunes",
+ "album": "Welcome to Sky Valley",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 5.166057517027471,
+  "tempo_var": 15.315093057483086,
+  "low_onset_rate": 5.599339760391065,
+  "lufs": -10.99475321794528,
+  "rms_dbfs": -10.170633648528444,
+  "crest": 10.170633316040039,
+  "centroid": 2273.820738997653,
+  "flatness": 0.016422444954514503,
+  "sub100_share": 0.2951861619949341,
+  "lowest_pitch": 131.890869140625,
+  "harmonic_share": 0.6533935070037842,
+  "clean_share": 0.019334880123743233,
+  "minor_share": 0.0641287672813225,
+  "chord_rate": 2.666352266852888,
+  "repetitiveness": 0.9282769560813904,
+  "vocal_share": 0.03946736827492714,
+  "vocal_voiced": 0.9236209335219236,
+  "song_length": 156.093
+ }
+}

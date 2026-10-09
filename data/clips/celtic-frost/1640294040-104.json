@@ -1,0 +1,32 @@
+{
+ "id": "celtic-frost/1640294040-104",
+ "band": "celtic-frost",
+ "title": "The Name of My Bride",
+ "source": "itunes",
+ "album": "Vanity / Nemesis",
+ "year": 1990,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.443840008728119,
+  "tempo_var": 0.0,
+  "low_onset_rate": 7.050001818358144,
+  "lufs": -10.16514078406342,
+  "rms_dbfs": -10.403973409368524,
+  "crest": 10.403974533081055,
+  "centroid": 2725.2516343280886,
+  "flatness": 0.04452222213149071,
+  "sub100_share": 0.15810425579547882,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.6462415456771851,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.04586641957507631,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.9122107028961182,
+  "vocal_share": 0.18695902824401855,
+  "vocal_voiced": 0.2872727272727273,
+  "song_length": 272.533
+ }
+}

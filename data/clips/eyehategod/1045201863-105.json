@@ -1,0 +1,32 @@
+{
+ "id": "eyehategod/1045201863-105",
+ "band": "eyehategod",
+ "title": "The Concussion Machine Process",
+ "source": "itunes",
+ "album": "Confederacy of Ruined Lives",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.796961561762089,
+  "tempo_var": 5.017366843800671,
+  "low_onset_rate": 5.230020591643388,
+  "lufs": -9.641738841816137,
+  "rms_dbfs": -8.900824855597133,
+  "crest": 8.900824546813965,
+  "centroid": 2546.985445801732,
+  "flatness": 0.031756095588207245,
+  "sub100_share": 0.36660003662109375,
+  "lowest_pitch": 131.890869140625,
+  "harmonic_share": 0.6969617009162903,
+  "clean_share": 0.0015467904098994587,
+  "minor_share": -0.05103928676284919,
+  "chord_rate": 2.098670683270914,
+  "repetitiveness": 0.7874549031257629,
+  "vocal_share": 0.07424764335155487,
+  "vocal_voiced": 0.09223300970873786,
+  "song_length": 139.84
+ }
+}

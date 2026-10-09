@@ -1,0 +1,32 @@
+{
+ "id": "charon/705489112-106",
+ "band": "charon",
+ "title": "The Drift",
+ "source": "itunes",
+ "album": "Tearstained",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.143129030693886,
+  "tempo_var": 12.319129062296474,
+  "low_onset_rate": 7.283888134606992,
+  "lufs": -16.219860245913594,
+  "rms_dbfs": -15.80202516901762,
+  "crest": 15.382241249084473,
+  "centroid": 1732.2468721804453,
+  "flatness": 0.00805921945720911,
+  "sub100_share": 0.02389901876449585,
+  "lowest_pitch": 102.28271484375,
+  "harmonic_share": 0.8875691294670105,
+  "clean_share": 0.6431342125678821,
+  "minor_share": 0.15578579861024755,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.7405802607536316,
+  "vocal_share": 0.4945550560951233,
+  "vocal_voiced": 0.8858195211786372,
+  "song_length": 155.8
+ }
+}

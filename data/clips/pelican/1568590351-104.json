@@ -1,0 +1,32 @@
+{
+ "id": "pelican/1568590351-104",
+ "band": "pelican",
+ "title": "Gw",
+ "source": "itunes",
+ "album": "Australasia",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.474882412840033,
+  "tempo_var": 3.835925346911799,
+  "low_onset_rate": 7.3841251272850705,
+  "lufs": -9.326981001843336,
+  "rms_dbfs": -8.596384432317947,
+  "crest": 8.596384048461914,
+  "centroid": 2204.4515162946814,
+  "flatness": 0.01923881284892559,
+  "sub100_share": 0.15357914566993713,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8552358746528625,
+  "clean_share": 0.05430566330488751,
+  "minor_share": -0.06577832343779699,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.8970260620117188,
+  "vocal_share": 9.383889505443221e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 214.04
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "skyclad/1438564387-106",
+ "band": "skyclad",
+ "title": "A Stranger in the Garden",
+ "source": "itunes",
+ "album": "The Silent Whales of Lunar Sea",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 4.744550986762353,
+  "tempo_var": 12.802721303059279,
+  "low_onset_rate": 4.443840008728119,
+  "lufs": -16.285393822868546,
+  "rms_dbfs": -15.317942292101831,
+  "crest": 15.317941665649414,
+  "centroid": 2150.6701239814,
+  "flatness": 0.01587427221238613,
+  "sub100_share": 0.355405330657959,
+  "lowest_pitch": 113.04931640625,
+  "harmonic_share": 0.7621268033981323,
+  "clean_share": 0.395655546935609,
+  "minor_share": -0.045922390889962916,
+  "chord_rate": 1.971327522668865,
+  "repetitiveness": 0.883519172668457,
+  "vocal_share": 0.16026967763900757,
+  "vocal_voiced": 0.8267020335985853,
+  "song_length": 327.933
+ }
+}

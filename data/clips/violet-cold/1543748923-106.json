@@ -1,0 +1,32 @@
+{
+ "id": "violet-cold/1543748923-106",
+ "band": "violet-cold",
+ "title": "Drowned In the Lights",
+ "source": "itunes",
+ "album": "Magic Night",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 1.069194588566164,
+  "tempo_var": 21.301812270273874,
+  "low_onset_rate": 1.069194588566164,
+  "lufs": -13.04635576195562,
+  "rms_dbfs": -14.388373068139682,
+  "crest": 14.388372421264648,
+  "centroid": 1168.558064599883,
+  "flatness": 0.00454422552138567,
+  "sub100_share": 0.17963097989559174,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.8425535559654236,
+  "clean_share": 0.6392552366175329,
+  "minor_share": 0.14276442517411447,
+  "chord_rate": 0.7016589487465451,
+  "repetitiveness": 0.5211309790611267,
+  "vocal_share": 8.117155516629282e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 458.667
+ }
+}

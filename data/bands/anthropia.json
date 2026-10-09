@@ -1,0 +1,127 @@
+{
+ "slug": "anthropia",
+ "name": "Anthropia",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 206720154,
+  "deezer": 1267180,
+  "spotify": "4siv3lrIzkJZxy59uz3D1X"
+ },
+ "metadata": {
+  "formed": 2003,
+  "split": null,
+  "country": "FR",
+  "status": "active",
+  "members": 5,
+  "past_members": 1,
+  "full_lengths": 3,
+  "genre": "Progressive Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 656,
+  "themes": "Literature, Tales, Cthulhu Mythos",
+  "release_year": 2009
+ },
+ "partial": false,
+ "clips": [
+  "anthropia/206720151-105",
+  "anthropia/303351976-105",
+  "anthropia/962266862-107",
+  "anthropia/206720151-104",
+  "anthropia/303351976-104",
+  "anthropia/962266862-106",
+  "anthropia/206720151-106",
+  "anthropia/303351976-107",
+  "anthropia/962266862-108",
+  "anthropia/206720151-103",
+  "anthropia/303351976-103",
+  "anthropia/962266862-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 135.99917763157896,
+   "iqr": 21.777898615056813
+  },
+  "onset_rate": {
+   "median": 5.061968130242933,
+   "iqr": 1.5870857174028994
+  },
+  "tempo_var": {
+   "median": 14.92437379160128,
+   "iqr": 19.608600274158793
+  },
+  "low_onset_rate": {
+   "median": 4.961731137564854,
+   "iqr": 0.9438983477185676
+  },
+  "lufs": {
+   "median": -9.453983785111248,
+   "iqr": 1.1185884494836458
+  },
+  "rms_dbfs": {
+   "median": -8.820133636635404,
+   "iqr": 0.981139220997493
+  },
+  "crest": {
+   "median": 8.820134162902832,
+   "iqr": 0.9811396598815918
+  },
+  "centroid": {
+   "median": 2535.3964573519306,
+   "iqr": 378.102241299599
+  },
+  "flatness": {
+   "median": 0.024605744518339634,
+   "iqr": 0.02126859501004219
+  },
+  "sub100_share": {
+   "median": 0.28601357340812683,
+   "iqr": 0.15482892841100693
+  },
+  "lowest_pitch": {
+   "median": 72.674560546875,
+   "iqr": 35.66436767578125
+  },
+  "harmonic_share": {
+   "median": 0.774103194475174,
+   "iqr": 0.14843697845935822
+  },
+  "clean_share": {
+   "median": 0.10705973622963538,
+   "iqr": 0.1155934833204034
+  },
+  "minor_share": {
+   "median": 0.06367627590734276,
+   "iqr": 0.16810212566408192
+  },
+  "chord_rate": {
+   "median": 1.3030809048150123,
+   "iqr": 0.593068873345294
+  },
+  "repetitiveness": {
+   "median": 0.867438942193985,
+   "iqr": 0.08375787734985352
+  },
+  "vocal_share": {
+   "median": 0.1961238831281662,
+   "iqr": 0.06402163207530975
+  },
+  "vocal_voiced": {
+   "median": 0.6153136531365314,
+   "iqr": 0.36105614704700684
+  },
+  "song_length": {
+   "median": 396.86699999999996,
+   "iqr": 113.02250000000004
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

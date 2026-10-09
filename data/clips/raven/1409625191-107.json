@@ -1,0 +1,32 @@
+{
+ "id": "raven/1409625191-107",
+ "band": "raven",
+ "title": "Rock Until You Drop",
+ "source": "itunes",
+ "album": "Rock Until You Drop",
+ "year": 1981,
+ "itunes_year": 1981,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.4,
+  "tempo_var": 13.074219354566214,
+  "low_onset_rate": 5.033333333333333,
+  "lufs": -12.597015235552242,
+  "rms_dbfs": -12.513863791184924,
+  "crest": 12.513862609863281,
+  "centroid": 2042.7850698297361,
+  "flatness": 0.01492064818739891,
+  "sub100_share": 0.03262714296579361,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.7183196544647217,
+  "clean_share": 0.22445820433436534,
+  "minor_share": -0.10711887415472565,
+  "chord_rate": 1.6666666666666667,
+  "repetitiveness": 0.9234124422073364,
+  "vocal_share": 0.14210204780101776,
+  "vocal_voiced": 0.4079110012360939,
+  "song_length": 243.493
+ }
+}

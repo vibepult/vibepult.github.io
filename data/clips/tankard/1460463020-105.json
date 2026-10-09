@@ -1,0 +1,32 @@
+{
+ "id": "tankard/1460463020-105",
+ "band": "tankard",
+ "title": "Hope Can't Die",
+ "source": "itunes",
+ "album": "R.I.B.",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.3412330892692625,
+  "tempo_var": 6.409105319446847,
+  "low_onset_rate": 6.014219560684673,
+  "lufs": -9.216600175749445,
+  "rms_dbfs": -10.104481612743893,
+  "crest": 10.104480743408203,
+  "centroid": 1739.378927176541,
+  "flatness": 0.017589349299669266,
+  "sub100_share": 0.12761247158050537,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8210761547088623,
+  "clean_share": 0.5965865011636928,
+  "minor_share": 0.053978639866141265,
+  "chord_rate": 3.2744084274838774,
+  "repetitiveness": 0.846333920955658,
+  "vocal_share": 0.16522982716560364,
+  "vocal_voiced": 0.6193633952254642,
+  "song_length": 316.067
+ }
+}

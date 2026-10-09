@@ -1,0 +1,127 @@
+{
+ "slug": "rainbow",
+ "name": "Rainbow",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 51688,
+  "deezer": 1324,
+  "spotify": "6SLAMfhOi7UJI0fMztaK0m"
+ },
+ "metadata": {
+  "formed": 1975,
+  "split": null,
+  "country": "US",
+  "status": "on hold",
+  "members": 4,
+  "past_members": 24,
+  "full_lengths": 8,
+  "genre": "Hard Rock/Heavy Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 287214,
+  "themes": "Fantasy, Rock (early); Relationships, Love (later)",
+  "release_year": 1980
+ },
+ "partial": false,
+ "clips": [
+  "rainbow/1440924592-105",
+  "rainbow/1443913143-104",
+  "rainbow/1495411517-105",
+  "rainbow/1495873244-105",
+  "rainbow/1444019501-105",
+  "rainbow/1440924592-104",
+  "rainbow/1443913143-105",
+  "rainbow/1495411517-104",
+  "rainbow/1495873244-104",
+  "rainbow/1444019501-106",
+  "rainbow/1440924592-106",
+  "rainbow/1443913143-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 26.226846018145153
+  },
+  "onset_rate": {
+   "median": 3.4499478465934,
+   "iqr": 0.6583233813547786
+  },
+  "tempo_var": {
+   "median": 3.660975430783936,
+   "iqr": 20.082047660701747
+  },
+  "low_onset_rate": {
+   "median": 3.6166119937718255,
+   "iqr": 1.0430769856051825
+  },
+  "lufs": {
+   "median": -13.592517895036444,
+   "iqr": 3.5940069068443794
+  },
+  "rms_dbfs": {
+   "median": -13.454265618461019,
+   "iqr": 2.842977245729953
+  },
+  "crest": {
+   "median": 13.4541335105896,
+   "iqr": 2.842778205871582
+  },
+  "centroid": {
+   "median": 2169.330171382596,
+   "iqr": 659.6093879056461
+  },
+  "flatness": {
+   "median": 0.015171556267887354,
+   "iqr": 0.021541206631809473
+  },
+  "sub100_share": {
+   "median": 0.12030848115682602,
+   "iqr": 0.039903247728943825
+  },
+  "lowest_pitch": {
+   "median": 90.1702880859375,
+   "iqr": 51.81427001953125
+  },
+  "harmonic_share": {
+   "median": 0.7203472852706909,
+   "iqr": 0.11894458532333374
+  },
+  "clean_share": {
+   "median": 0.23433874709976799,
+   "iqr": 0.5436968290796598
+  },
+  "minor_share": {
+   "median": 0.057174204043510396,
+   "iqr": 0.11993197612389148
+  },
+  "chord_rate": {
+   "median": 1.3166467627095586,
+   "iqr": 0.5749913077655668
+  },
+  "repetitiveness": {
+   "median": 0.7672958672046661,
+   "iqr": 0.0889853835105896
+  },
+  "vocal_share": {
+   "median": 0.3059893101453781,
+   "iqr": 0.12823060154914856
+  },
+  "vocal_voiced": {
+   "median": 0.802086659969845,
+   "iqr": 0.1379144022109785
+  },
+  "song_length": {
+   "median": 245.1,
+   "iqr": 77.52950000000001
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.5,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

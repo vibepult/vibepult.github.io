@@ -1,0 +1,32 @@
+{
+ "id": "the-agonist/1045657052-105",
+ "band": "the-agonist",
+ "title": "Waiting out the Winter",
+ "source": "itunes",
+ "album": "Lullabies of the Dormant Mind",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.463839231084166,
+  "tempo_var": 22.484147073765264,
+  "low_onset_rate": 6.595822147422872,
+  "lufs": -7.70687371577018,
+  "rms_dbfs": -7.631411778171302,
+  "crest": 7.631412029266357,
+  "centroid": 2585.3811997499993,
+  "flatness": 0.036557331681251526,
+  "sub100_share": 0.24923166632652283,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7539370059967041,
+  "clean_share": 0.025522041763341066,
+  "minor_share": 0.04267695340565747,
+  "chord_rate": 1.8654850517963677,
+  "repetitiveness": 0.8064988255500793,
+  "vocal_share": 0.251120924949646,
+  "vocal_voiced": 0.6361185983827493,
+  "song_length": 243.013
+ }
+}

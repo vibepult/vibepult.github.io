@@ -1,0 +1,32 @@
+{
+ "id": "dissection/1630970998-106",
+ "band": "dissection",
+ "title": "Thorns of Crimson Death",
+ "source": "itunes",
+ "album": "Storm of the Light's Bane",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 5.8,
+  "tempo_var": 4.335481049681943,
+  "low_onset_rate": 6.466666666666667,
+  "lufs": -9.72521770821755,
+  "rms_dbfs": -10.012168676286905,
+  "crest": 10.012168884277344,
+  "centroid": 2454.292164243671,
+  "flatness": 0.023842046037316322,
+  "sub100_share": 0.09452100098133087,
+  "lowest_pitch": 88.824462890625,
+  "harmonic_share": 0.802836537361145,
+  "clean_share": 0.0,
+  "minor_share": 0.31003618301081537,
+  "chord_rate": 0.8666666666666667,
+  "repetitiveness": 0.8075916171073914,
+  "vocal_share": 6.173626729832904e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 486.609
+ }
+}

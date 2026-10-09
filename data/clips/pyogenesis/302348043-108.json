@@ -1,0 +1,32 @@
+{
+ "id": "pyogenesis/302348043-108",
+ "band": "pyogenesis",
+ "title": "Lunacy",
+ "source": "itunes",
+ "album": "She Makes Me Wish I Had a Gun",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.3,
+  "tempo_var": 1.3875554219886157,
+  "low_onset_rate": 3.8,
+  "lufs": -6.7278534839808115,
+  "rms_dbfs": -5.883258499810675,
+  "crest": 5.883258819580078,
+  "centroid": 2556.878522489992,
+  "flatness": 0.028774337843060493,
+  "sub100_share": 0.32643842697143555,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8375177979469299,
+  "clean_share": 0.07430340557275542,
+  "minor_share": -0.25619069535804595,
+  "chord_rate": 1.2666666666666666,
+  "repetitiveness": 0.7732173800468445,
+  "vocal_share": 0.17531290650367737,
+  "vocal_voiced": 0.894393741851369,
+  "song_length": 142.56
+ }
+}

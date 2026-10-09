@@ -1,0 +1,32 @@
+{
+ "id": "alestorm/1184704320-105",
+ "band": "alestorm",
+ "title": "Buckfast Powersmash",
+ "source": "itunes",
+ "album": "Back Through Time",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.966666666666667,
+  "tempo_var": 0.862814468720235,
+  "low_onset_rate": 5.666666666666667,
+  "lufs": -9.62267953461761,
+  "rms_dbfs": -9.436997436363693,
+  "crest": 9.436997413635254,
+  "centroid": 2793.4849405731766,
+  "flatness": 0.04802156984806061,
+  "sub100_share": 0.33521488308906555,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.5661629438400269,
+  "clean_share": 0.06656346749226007,
+  "minor_share": -0.1338529965598479,
+  "chord_rate": 2.1666666666666665,
+  "repetitiveness": 0.9719895720481873,
+  "vocal_share": 0.10786627978086472,
+  "vocal_voiced": 0.22246696035242292,
+  "song_length": 153.24
+ }
+}

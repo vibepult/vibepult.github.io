@@ -1,0 +1,32 @@
+{
+ "id": "isis/1891405758-106",
+ "band": "isis",
+ "title": "Maritime",
+ "source": "itunes",
+ "album": "Oceanic (Remastered)",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 2.5666511464783284,
+  "tempo_var": 4.190926675652944,
+  "low_onset_rate": 2.1333204334365323,
+  "lufs": -12.6950730458488,
+  "rms_dbfs": -12.505905146482924,
+  "crest": 12.505905151367188,
+  "centroid": 1350.0697868067825,
+  "flatness": 0.004322580061852932,
+  "sub100_share": 0.36812570691108704,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.6355716586112976,
+  "clean_share": 0.8329466357308585,
+  "minor_share": 0.07048433043130997,
+  "chord_rate": 0.933327689628483,
+  "repetitiveness": 0.7799496054649353,
+  "vocal_share": 0.00511235510930419,
+  "vocal_voiced": 0.6321626617375231,
+  "song_length": 183.839
+ }
+}

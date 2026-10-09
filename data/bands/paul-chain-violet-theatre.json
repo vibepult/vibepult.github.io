@@ -1,0 +1,123 @@
+{
+ "slug": "paul-chain-violet-theatre",
+ "name": "Paul Chain Violet Theatre",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 423842663,
+  "deezer": 1197967,
+  "spotify": "7g2t2PlAAkBOjdtDJxlJIY"
+ },
+ "metadata": {
+  "formed": 1984,
+  "split": null,
+  "country": "IT",
+  "status": "changed name",
+  "members": 4,
+  "past_members": 5,
+  "full_lengths": 2,
+  "genre": "Doom Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 142,
+  "themes": "N/A",
+  "release_year": 1986
+ },
+ "partial": false,
+ "clips": [
+  "paul-chain-violet-theatre/1201258900-104",
+  "paul-chain-violet-theatre/1201258900-105",
+  "paul-chain-violet-theatre/1201258900-103",
+  "paul-chain-violet-theatre/1201258900-106",
+  "paul-chain-violet-theatre/1201258900-102",
+  "paul-chain-violet-theatre/1201258900-107",
+  "paul-chain-violet-theatre/1201258900-101",
+  "paul-chain-violet-theatre/1201258900-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 57.94600976166328
+  },
+  "onset_rate": {
+   "median": 4.009479707123115,
+   "iqr": 0.8186021068709697
+  },
+  "tempo_var": {
+   "median": 9.90975304237492,
+   "iqr": 7.49921265011548
+  },
+  "low_onset_rate": {
+   "median": 4.2600721888183095,
+   "iqr": 1.0441353403966445
+  },
+  "lufs": {
+   "median": -15.17977999238299,
+   "iqr": 1.3163233071582336
+  },
+  "rms_dbfs": {
+   "median": -14.237690139330233,
+   "iqr": 1.1393803326306866
+  },
+  "crest": {
+   "median": 14.219245910644531,
+   "iqr": 1.2597594261169434
+  },
+  "centroid": {
+   "median": 2536.67339970009,
+   "iqr": 1031.0678487238501
+  },
+  "flatness": {
+   "median": 0.029309879057109356,
+   "iqr": 0.027553508814889938
+  },
+  "sub100_share": {
+   "median": 0.3764170706272125,
+   "iqr": 0.1673959270119667
+  },
+  "lowest_pitch": {
+   "median": 49.7955322265625,
+   "iqr": 28.2623291015625
+  },
+  "harmonic_share": {
+   "median": 0.6310491263866425,
+   "iqr": 0.18861137330532074
+  },
+  "clean_share": {
+   "median": 0.14895267649340574,
+   "iqr": 0.5162916989914663
+  },
+  "minor_share": {
+   "median": 0.16706497013879074,
+   "iqr": 0.20700691321613723
+  },
+  "chord_rate": {
+   "median": 1.6873227100809776,
+   "iqr": 1.0441353403966445
+  },
+  "repetitiveness": {
+   "median": 0.8187882304191589,
+   "iqr": 0.12893521785736084
+  },
+  "vocal_share": {
+   "median": 0.17971066385507584,
+   "iqr": 0.10635032132267952
+  },
+  "vocal_voiced": {
+   "median": 0.8925001073560356,
+   "iqr": 0.23153331719026116
+  },
+  "song_length": {
+   "median": 371.4,
+   "iqr": 101.38
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.5,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

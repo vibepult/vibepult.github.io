@@ -1,0 +1,32 @@
+{
+ "id": "soundgarden/1440866412-108",
+ "band": "soundgarden",
+ "title": "Never Named",
+ "source": "itunes",
+ "album": "Down On the Upside",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 5.133255733095494,
+  "tempo_var": 16.137922863798956,
+  "low_onset_rate": 5.433251198016659,
+  "lufs": -10.190536988160178,
+  "rms_dbfs": -9.94197644531149,
+  "crest": 9.941976547241211,
+  "centroid": 2282.1657598296374,
+  "flatness": 0.02700364962220192,
+  "sub100_share": 0.1646142601966858,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.6914172172546387,
+  "clean_share": 0.013921113689095127,
+  "minor_share": 0.19518149355064507,
+  "chord_rate": 2.399963719369322,
+  "repetitiveness": 0.8732985258102417,
+  "vocal_share": 0.25466427206993103,
+  "vocal_voiced": 0.7147766323024055,
+  "song_length": 147.467
+ }
+}

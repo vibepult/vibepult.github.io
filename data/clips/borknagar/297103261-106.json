@@ -1,0 +1,32 @@
+{
+ "id": "borknagar/297103261-106",
+ "band": "borknagar",
+ "title": "Dauden",
+ "source": "itunes",
+ "album": "Borknagar",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 5.880570237113902,
+  "tempo_var": 4.814549157268319,
+  "low_onset_rate": 6.081044222470058,
+  "lufs": -9.210656562118855,
+  "rms_dbfs": -10.564930337244522,
+  "crest": 10.564929962158203,
+  "centroid": 2861.0488884341194,
+  "flatness": 0.03848644345998764,
+  "sub100_share": 0.10756272077560425,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.7020846605300903,
+  "clean_share": 0.0,
+  "minor_share": 0.03486161138233612,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.8901178240776062,
+  "vocal_share": 0.12236793339252472,
+  "vocal_voiced": 0.7839444995044599,
+  "song_length": 348.533
+ }
+}

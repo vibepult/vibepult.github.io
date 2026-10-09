@@ -1,0 +1,32 @@
+{
+ "id": "skepticism/1570328523-104",
+ "band": "skepticism",
+ "title": "Passage",
+ "source": "itunes",
+ "album": "Companion",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 71.77734375,
+  "onset_rate": 1.7708535373127092,
+  "tempo_var": 4.817946488938328,
+  "low_onset_rate": 3.809005721766959,
+  "lufs": -15.971107136179668,
+  "rms_dbfs": -15.618939412889212,
+  "crest": 15.618939399719238,
+  "centroid": 2098.5008130581164,
+  "flatness": 0.01951557770371437,
+  "sub100_share": 0.07508005946874619,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7640332579612732,
+  "clean_share": 0.021722265321955005,
+  "minor_share": -0.10256637985846528,
+  "chord_rate": 1.0023699267807789,
+  "repetitiveness": 0.9606083631515503,
+  "vocal_share": 0.002112199319526553,
+  "vocal_voiced": 0.5775862068965517,
+  "song_length": 493.171
+ }
+}

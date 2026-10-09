@@ -1,0 +1,32 @@
+{
+ "id": "dokken/1727225217-107",
+ "band": "dokken",
+ "title": "So Many Tears",
+ "source": "itunes",
+ "album": "Back for the Attack",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.966648727747678,
+  "tempo_var": 2.969852091920883,
+  "low_onset_rate": 3.8333101538312695,
+  "lufs": -16.851104355223217,
+  "rms_dbfs": -16.82289698436012,
+  "crest": 16.0693416595459,
+  "centroid": 2601.0376561724547,
+  "flatness": 0.0417470745742321,
+  "sub100_share": 0.21749956905841827,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.6483749747276306,
+  "clean_share": 0.04563031709203403,
+  "minor_share": 0.16456687439766549,
+  "chord_rate": 1.299992139125387,
+  "repetitiveness": 0.8584510087966919,
+  "vocal_share": 0.09815037995576859,
+  "vocal_voiced": 0.8023255813953488,
+  "song_length": 296.533
+ }
+}

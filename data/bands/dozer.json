@@ -1,0 +1,127 @@
+{
+ "slug": "dozer",
+ "name": "Dozer",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1450661276,
+  "deezer": 5504,
+  "spotify": "57VFYrmiB0eCM2qXZmV96N"
+ },
+ "metadata": {
+  "formed": 1995,
+  "split": null,
+  "country": "SE",
+  "status": "active",
+  "members": 4,
+  "past_members": 3,
+  "full_lengths": 6,
+  "genre": "Stoner Rock/Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 7527,
+  "themes": "N/A",
+  "release_year": 2003
+ },
+ "partial": false,
+ "clips": [
+  "dozer/338594196-105",
+  "dozer/338904995-105",
+  "dozer/338909990-106",
+  "dozer/1609288371-105",
+  "dozer/1609082395-105",
+  "dozer/1673758527-104",
+  "dozer/338594196-104",
+  "dozer/338904995-106",
+  "dozer/338909990-107",
+  "dozer/1609288371-106",
+  "dozer/1609082395-106",
+  "dozer/1673758527-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.19921875,
+   "iqr": 44.50958307338931
+  },
+  "onset_rate": {
+   "median": 4.054742467144899,
+   "iqr": 0.8937798513795272
+  },
+  "tempo_var": {
+   "median": 3.5210353754391557,
+   "iqr": 17.110492693443625
+  },
+  "low_onset_rate": {
+   "median": 5.066574756013496,
+   "iqr": 1.8756625065652779
+  },
+  "lufs": {
+   "median": -9.119899118007858,
+   "iqr": 1.0816628798129049
+  },
+  "rms_dbfs": {
+   "median": -8.124368589310578,
+   "iqr": 1.0495340932303439
+  },
+  "crest": {
+   "median": 8.12436819076538,
+   "iqr": 1.0495339632034302
+  },
+  "centroid": {
+   "median": 2163.691338470576,
+   "iqr": 425.4918008819218
+  },
+  "flatness": {
+   "median": 0.015762540511786938,
+   "iqr": 0.013217368978075683
+  },
+  "sub100_share": {
+   "median": 0.16320070624351501,
+   "iqr": 0.2487732283771038
+  },
+  "lowest_pitch": {
+   "median": 75.3662109375,
+   "iqr": 26.91650390625
+  },
+  "harmonic_share": {
+   "median": 0.8108255565166473,
+   "iqr": 0.053507402539253235
+  },
+  "clean_share": {
+   "median": 0.09292622385741209,
+   "iqr": 0.36259230192772807
+  },
+  "minor_share": {
+   "median": -0.0160311573573588,
+   "iqr": 0.13819279857044042
+  },
+  "chord_rate": {
+   "median": 1.6854122564479592,
+   "iqr": 1.2451466408370868
+  },
+  "repetitiveness": {
+   "median": 0.842846006155014,
+   "iqr": 0.059393495321273804
+  },
+  "vocal_share": {
+   "median": 0.09041702002286911,
+   "iqr": 0.037072062492370605
+  },
+  "vocal_voiced": {
+   "median": 0.8740740740740741,
+   "iqr": 0.1332312828302007
+  },
+  "song_length": {
+   "median": 245.1465,
+   "iqr": 72.41
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

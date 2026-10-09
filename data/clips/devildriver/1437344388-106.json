@@ -1,0 +1,32 @@
+{
+ "id": "devildriver/1437344388-106",
+ "band": "devildriver",
+ "title": "You Make Me Sick",
+ "source": "itunes",
+ "album": "Beast",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 6.7,
+  "tempo_var": 20.087320367068017,
+  "low_onset_rate": 7.633333333333334,
+  "lufs": -9.603247591717224,
+  "rms_dbfs": -8.639870168107354,
+  "crest": 8.639870643615723,
+  "centroid": 2409.1968734017596,
+  "flatness": 0.0300759207457304,
+  "sub100_share": 0.45419132709503174,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8667236566543579,
+  "clean_share": 0.25,
+  "minor_share": -0.014338624556574642,
+  "chord_rate": 1.0,
+  "repetitiveness": 0.9315018653869629,
+  "vocal_share": 0.002680788515135646,
+  "vocal_voiced": 0.8625429553264605,
+  "song_length": 318.28
+ }
+}

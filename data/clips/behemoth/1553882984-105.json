@@ -1,0 +1,32 @@
+{
+ "id": "behemoth/1553882984-105",
+ "band": "behemoth",
+ "title": "Towards Babylon",
+ "source": "itunes",
+ "album": "Demigod",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 0.2999981859520124,
+  "tempo_var": 5.693111552789265,
+  "low_onset_rate": 1.666656588622291,
+  "lufs": -9.153848093152197,
+  "rms_dbfs": -8.42762884396451,
+  "crest": 8.427628517150879,
+  "centroid": 2739.098913886129,
+  "flatness": 0.04383356496691704,
+  "sub100_share": 0.39522674679756165,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7959369421005249,
+  "clean_share": 0.0,
+  "minor_share": -0.16540261788237126,
+  "chord_rate": 2.599984278250774,
+  "repetitiveness": 0.9512706398963928,
+  "vocal_share": 0.02358408272266388,
+  "vocal_voiced": 0.7142857142857143,
+  "song_length": 203.813
+ }
+}

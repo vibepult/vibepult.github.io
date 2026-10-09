@@ -1,0 +1,32 @@
+{
+ "id": "unisonic/1298872167-107",
+ "band": "unisonic",
+ "title": "Renegade",
+ "source": "itunes",
+ "album": "Unisonic",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 3.575119405518111,
+  "tempo_var": 9.172816940256949,
+  "low_onset_rate": 2.9068727876642586,
+  "lufs": -7.552106904272685,
+  "rms_dbfs": -7.658926446068515,
+  "crest": 7.658926010131836,
+  "centroid": 2617.4183069745386,
+  "flatness": 0.03550444543361664,
+  "sub100_share": 0.1270618587732315,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7621422410011292,
+  "clean_share": 0.0,
+  "minor_share": 0.23291291694719363,
+  "chord_rate": 1.0023699267807789,
+  "repetitiveness": 0.830687403678894,
+  "vocal_share": 0.45371899008750916,
+  "vocal_voiced": 0.8738095238095238,
+  "song_length": 278.933
+ }
+}

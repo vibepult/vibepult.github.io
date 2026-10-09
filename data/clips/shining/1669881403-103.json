@@ -1,0 +1,32 @@
+{
+ "id": "shining/1669881403-103",
+ "band": "shining",
+ "title": "Hail Darkness Hail (Remastered)",
+ "source": "itunes",
+ "album": "Redefining Darkness",
+ "year": 2012,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.410427677835426,
+  "tempo_var": 20.5069382963723,
+  "low_onset_rate": 4.71113865586966,
+  "lufs": -9.010603753822439,
+  "rms_dbfs": -9.026014186513788,
+  "crest": 9.02601432800293,
+  "centroid": 2506.1968584775495,
+  "flatness": 0.029475772753357887,
+  "sub100_share": 0.2559658885002136,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7978130578994751,
+  "clean_share": 0.003878975950349108,
+  "minor_share": -0.014490441940162357,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.7378571033477783,
+  "vocal_share": 0.17164316773414612,
+  "vocal_voiced": 0.33383010432190763,
+  "song_length": 428.387
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "waltari/814308815-105",
+ "band": "waltari",
+ "title": "Look Back in Anger",
+ "source": "itunes",
+ "album": "Covers All",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 6.3817552005042915,
+  "tempo_var": 11.184853644970008,
+  "low_onset_rate": 6.214693546040828,
+  "lufs": -8.21469357537432,
+  "rms_dbfs": -7.7150718595497105,
+  "crest": 7.715072154998779,
+  "centroid": 2564.860981154223,
+  "flatness": 0.03325740993022919,
+  "sub100_share": 0.32995280623435974,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.736346960067749,
+  "clean_share": 0.0,
+  "minor_share": -0.1634615813202963,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.8638463616371155,
+  "vocal_share": 0.06058279424905777,
+  "vocal_voiced": 0.2384737678855326,
+  "song_length": 189.787
+ }
+}

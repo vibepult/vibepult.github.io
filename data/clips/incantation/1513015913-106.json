@@ -1,0 +1,32 @@
+{
+ "id": "incantation/1513015913-106",
+ "band": "incantation",
+ "title": "Ignis Fatuus",
+ "source": "itunes",
+ "album": "Sect of Vile Divinities",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 1.8042658682054018,
+  "tempo_var": 11.28399676485181,
+  "low_onset_rate": 4.878200310333123,
+  "lufs": -15.665623804519498,
+  "rms_dbfs": -14.993593105379052,
+  "crest": 14.993593215942383,
+  "centroid": 2399.7635880455578,
+  "flatness": 0.02224227786064148,
+  "sub100_share": 0.291055828332901,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7479063868522644,
+  "clean_share": 0.1225756400310318,
+  "minor_share": -0.12278431795395839,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.7674124240875244,
+  "vocal_share": 0.1773758977651596,
+  "vocal_voiced": 0.4977220956719818,
+  "song_length": 143.18
+ }
+}

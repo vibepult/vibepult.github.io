@@ -1,0 +1,32 @@
+{
+ "id": "alvenrad/1555257422-104",
+ "band": "alvenrad",
+ "title": "1911",
+ "source": "itunes",
+ "album": "Habitat",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.880570237113902,
+  "tempo_var": 14.775717990245038,
+  "low_onset_rate": 7.88531009067546,
+  "lufs": -9.838365804666475,
+  "rms_dbfs": -9.95200006341467,
+  "crest": 9.95199966430664,
+  "centroid": 2876.060974396183,
+  "flatness": 0.053351521492004395,
+  "sub100_share": 0.2647661566734314,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.6806778907775879,
+  "clean_share": 0.0031031807602792862,
+  "minor_share": -0.08264613082901384,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.8587832450866699,
+  "vocal_share": 0.18291908502578735,
+  "vocal_voiced": 0.3196239717978848,
+  "song_length": 263.627
+ }
+}

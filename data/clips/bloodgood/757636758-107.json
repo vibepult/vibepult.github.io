@@ -1,0 +1,32 @@
+{
+ "id": "bloodgood/757636758-107",
+ "band": "bloodgood",
+ "title": "I Can Hold On",
+ "source": "itunes",
+ "album": "Dangerously Close",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.009479707123115,
+  "tempo_var": 17.21342425487931,
+  "low_onset_rate": 3.5417070746254184,
+  "lufs": -7.323565200245128,
+  "rms_dbfs": -6.695410262497462,
+  "crest": 6.69541072845459,
+  "centroid": 2033.858298103548,
+  "flatness": 0.013381244614720345,
+  "sub100_share": 0.16913017630577087,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8238662481307983,
+  "clean_share": 0.23506594259115593,
+  "minor_share": -0.15965943112420145,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.7139721512794495,
+  "vocal_share": 0.28377971053123474,
+  "vocal_voiced": 0.885558583106267,
+  "song_length": 255.844
+ }
+}

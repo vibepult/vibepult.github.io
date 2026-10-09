@@ -1,0 +1,127 @@
+{
+ "slug": "municipal-waste",
+ "name": "Municipal Waste",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 81322810,
+  "deezer": 131940,
+  "spotify": "2Ah9OuOj7B57gPD1cbwiaE"
+ },
+ "metadata": {
+  "formed": 2001,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 3,
+  "full_lengths": 7,
+  "genre": "Thrash Metal/Crossover",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 52313,
+  "themes": "Politics, Society, Thrashing, Partying, Humour",
+  "release_year": 2010
+ },
+ "partial": false,
+ "clips": [
+  "municipal-waste/81322935-112",
+  "municipal-waste/324940078-108",
+  "municipal-waste/1456955112-109",
+  "municipal-waste/1613487447-107",
+  "municipal-waste/81322935-107",
+  "municipal-waste/324940078-106",
+  "municipal-waste/1456955112-108",
+  "municipal-waste/1613487447-106",
+  "municipal-waste/81322935-114",
+  "municipal-waste/324940078-109",
+  "municipal-waste/1456955112-110",
+  "municipal-waste/1613487447-109"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 107.666015625,
+   "iqr": 20.619673295454547
+  },
+  "onset_rate": {
+   "median": 5.195617453813703,
+   "iqr": 5.373051768566633
+  },
+  "tempo_var": {
+   "median": 12.177438709016453,
+   "iqr": 8.498085214790699
+  },
+  "low_onset_rate": {
+   "median": 5.379385273723512,
+   "iqr": 2.3147567282247907
+  },
+  "lufs": {
+   "median": -8.330037324546655,
+   "iqr": 0.5538364025066453
+  },
+  "rms_dbfs": {
+   "median": -7.710726229208595,
+   "iqr": 0.6812664231468606
+  },
+  "crest": {
+   "median": 7.710726261138916,
+   "iqr": 0.6812663078308105
+  },
+  "centroid": {
+   "median": 2563.3650270098024,
+   "iqr": 208.15039699159388
+  },
+  "flatness": {
+   "median": 0.035554226487874985,
+   "iqr": 0.009376766625791788
+  },
+  "sub100_share": {
+   "median": 0.3062342703342438,
+   "iqr": 0.07087204605340958
+  },
+  "lowest_pitch": {
+   "median": 43.06640625,
+   "iqr": 18.16864013671875
+  },
+  "harmonic_share": {
+   "median": 0.6868919134140015,
+   "iqr": 0.1054290235042572
+  },
+  "clean_share": {
+   "median": 0.012398323130396592,
+   "iqr": 0.026155487835975415
+  },
+  "minor_share": {
+   "median": 0.08285850358993002,
+   "iqr": 0.21212010609072374
+  },
+  "chord_rate": {
+   "median": 2.1525609707307765,
+   "iqr": 0.5440591646897106
+  },
+  "repetitiveness": {
+   "median": 0.8931898474693298,
+   "iqr": 0.04567372798919678
+  },
+  "vocal_share": {
+   "median": 0.1298266388475895,
+   "iqr": 0.12081337906420231
+  },
+  "vocal_voiced": {
+   "median": 0.5587099032586558,
+   "iqr": 0.32957586063260963
+  },
+  "song_length": {
+   "median": 150.434,
+   "iqr": 11.27725000000001
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.8
+ },
+ "sources_failed": []
+}

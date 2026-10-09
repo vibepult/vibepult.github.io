@@ -1,0 +1,32 @@
+{
+ "id": "obscura/1053254298-105",
+ "band": "obscura",
+ "title": "Ode to the Sun",
+ "source": "itunes",
+ "album": "Akróasis",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 5.099922903659809,
+  "tempo_var": 16.734096878042205,
+  "low_onset_rate": 7.03322701092954,
+  "lufs": -10.792299869575817,
+  "rms_dbfs": -9.238572955704399,
+  "crest": 9.23857307434082,
+  "centroid": 2179.7653010425065,
+  "flatness": 0.020853709429502487,
+  "sub100_share": 0.5261674523353577,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.76201331615448,
+  "clean_share": 0.102861562258314,
+  "minor_share": -0.15066998759324157,
+  "chord_rate": 2.366630889933637,
+  "repetitiveness": 0.9441630840301514,
+  "vocal_share": 0.0930042564868927,
+  "vocal_voiced": 0.21485943775100402,
+  "song_length": 304.511
+ }
+}

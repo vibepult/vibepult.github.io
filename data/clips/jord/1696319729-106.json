@@ -1,0 +1,32 @@
+{
+ "id": "jord/1696319729-106",
+ "band": "jord",
+ "title": "Kyla",
+ "source": "itunes",
+ "album": "Tundra",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 63.02400914634146,
+  "onset_rate": 3.5,
+  "tempo_var": 3.032066330384033,
+  "low_onset_rate": 6.6,
+  "lufs": -11.238056389955903,
+  "rms_dbfs": -10.123188387320326,
+  "crest": 10.123188018798828,
+  "centroid": 1828.407359264344,
+  "flatness": 0.009668929502367973,
+  "sub100_share": 0.3004956841468811,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8841243386268616,
+  "clean_share": 0.20278637770897834,
+  "minor_share": 0.23184973284597166,
+  "chord_rate": 1.1333333333333333,
+  "repetitiveness": 0.6918992400169373,
+  "vocal_share": 9.170846624328988e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 347.413
+ }
+}

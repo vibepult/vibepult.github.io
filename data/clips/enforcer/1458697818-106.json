@@ -1,0 +1,32 @@
+{
+ "id": "enforcer/1458697818-106",
+ "band": "enforcer",
+ "title": "Hungry They Will Come",
+ "source": "itunes",
+ "album": "From Beyond (Bonus Digital Booklet Version)",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.8666372387770895,
+  "tempo_var": 1.1862017329427836,
+  "low_onset_rate": 4.366640262190402,
+  "lufs": -13.115573101257063,
+  "rms_dbfs": -15.832973079583066,
+  "crest": 15.83297348022461,
+  "centroid": 2360.7594013742105,
+  "flatness": 0.018901841714978218,
+  "sub100_share": 0.07997030764818192,
+  "lowest_pitch": 196.490478515625,
+  "harmonic_share": 0.835454523563385,
+  "clean_share": 0.19798917246713071,
+  "minor_share": 0.21559575385038976,
+  "chord_rate": 1.7999891157120742,
+  "repetitiveness": 0.8356130123138428,
+  "vocal_share": 8.414782541876775e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 272.52
+ }
+}

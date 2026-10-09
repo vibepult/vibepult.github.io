@@ -1,0 +1,32 @@
+{
+ "id": "carach-angren/1499728118-105",
+ "band": "carach-angren",
+ "title": "Sewn for Solitude",
+ "source": "itunes",
+ "album": "Franckensteina Strataemontanus",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 6.314930538718906,
+  "tempo_var": 3.383954916852011,
+  "low_onset_rate": 6.8829401638946806,
+  "lufs": -9.342402488148648,
+  "rms_dbfs": -8.582217868095935,
+  "crest": 8.582218170166016,
+  "centroid": 2670.006836878426,
+  "flatness": 0.04402640089392662,
+  "sub100_share": 0.38475289940834045,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6905823349952698,
+  "clean_share": 0.004654771140418929,
+  "minor_share": 0.07278856025548491,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.8603340983390808,
+  "vocal_share": 0.14035797119140625,
+  "vocal_voiced": 0.02924451665312754,
+  "song_length": 231.562
+ }
+}

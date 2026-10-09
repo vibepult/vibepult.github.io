@@ -1,0 +1,32 @@
+{
+ "id": "quiet-riot/192486740-105",
+ "band": "quiet-riot",
+ "title": "Winners Take All",
+ "source": "itunes",
+ "album": "Condition Critical",
+ "year": 1984,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.5317297131522136,
+  "tempo_var": 9.189225168956883,
+  "low_onset_rate": 3.7309701035927354,
+  "lufs": -18.031519805615606,
+  "rms_dbfs": -18.217499939579568,
+  "crest": 15.608108520507812,
+  "centroid": 2527.145989167247,
+  "flatness": 0.02832246571779251,
+  "sub100_share": 0.1455281525850296,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7573825716972351,
+  "clean_share": 0.03634957463263728,
+  "minor_share": -0.24484799402106616,
+  "chord_rate": 1.3991137888472758,
+  "repetitiveness": 0.7594824433326721,
+  "vocal_share": 0.44650793075561523,
+  "vocal_voiced": 0.6136986301369863,
+  "song_length": 331.907
+ }
+}

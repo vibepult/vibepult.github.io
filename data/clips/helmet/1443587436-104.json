@@ -1,0 +1,32 @@
+{
+ "id": "helmet/1443587436-104",
+ "band": "helmet",
+ "title": "Sinatra",
+ "source": "itunes",
+ "album": "Strap It On",
+ "year": 1990,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.933273873410833,
+  "tempo_var": 18.164719896445916,
+  "low_onset_rate": 3.4666142613112427,
+  "lufs": -11.64990010141411,
+  "rms_dbfs": -11.856939317642642,
+  "crest": 11.856938362121582,
+  "centroid": 2387.494423322595,
+  "flatness": 0.0314403735101223,
+  "sub100_share": 0.16695824265480042,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7285003662109375,
+  "clean_share": 0.0,
+  "minor_share": -0.02375220818175605,
+  "chord_rate": 2.1666339133195267,
+  "repetitiveness": 0.8724930882453918,
+  "vocal_share": 0.21886441111564636,
+  "vocal_voiced": 0.8246753246753247,
+  "song_length": 263.0
+ }
+}

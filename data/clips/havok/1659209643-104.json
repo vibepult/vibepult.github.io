@@ -1,0 +1,32 @@
+{
+ "id": "havok/1659209643-104",
+ "band": "havok",
+ "title": "D.O.A.",
+ "source": "itunes",
+ "album": "Time Is Up",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 7.033333333333333,
+  "tempo_var": 19.971917227731122,
+  "low_onset_rate": 7.633333333333334,
+  "lufs": -8.823904506385505,
+  "rms_dbfs": -8.280470310809898,
+  "crest": 8.28046989440918,
+  "centroid": 2875.2891712840633,
+  "flatness": 0.04805523529648781,
+  "sub100_share": 0.45403021574020386,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7696118354797363,
+  "clean_share": 0.01393188854489164,
+  "minor_share": 0.01510089696713579,
+  "chord_rate": 1.5,
+  "repetitiveness": 0.9082767367362976,
+  "vocal_share": 0.08736880868673325,
+  "vocal_voiced": 0.0,
+  "song_length": 223.2
+ }
+}

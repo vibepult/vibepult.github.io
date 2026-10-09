@@ -1,0 +1,32 @@
+{
+ "id": "venom/1552673594-105",
+ "band": "venom",
+ "title": "Skeletal Dance",
+ "source": "itunes",
+ "album": "Prime Evil",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.366600656074739,
+  "tempo_var": 13.367155514878862,
+  "low_onset_rate": 5.266587050838234,
+  "lufs": -15.171597820346003,
+  "rms_dbfs": -15.55659472534516,
+  "crest": 15.556593894958496,
+  "centroid": 3325.2211463542053,
+  "flatness": 0.07468943297863007,
+  "sub100_share": 0.2245868742465973,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.6621930599212646,
+  "clean_share": 0.002320185614849188,
+  "minor_share": 0.15338551915398235,
+  "chord_rate": 2.666626354854802,
+  "repetitiveness": 0.9467578530311584,
+  "vocal_share": 0.08974513411521912,
+  "vocal_voiced": 0.07390300230946882,
+  "song_length": 189.44
+ }
+}

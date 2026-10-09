@@ -1,0 +1,32 @@
+{
+ "id": "hellyeah/1696293414-105",
+ "band": "hellyeah",
+ "title": "Black Flag Army",
+ "source": "itunes",
+ "album": "Welcome Home",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.1995937023869985,
+  "tempo_var": 2.842170943040401e-14,
+  "low_onset_rate": 6.599162011173185,
+  "lufs": -7.022483814479145,
+  "rms_dbfs": -6.762087990534998,
+  "crest": 6.762087821960449,
+  "centroid": 2626.9257594129226,
+  "flatness": 0.05109955370426178,
+  "sub100_share": 0.27518853545188904,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6439496874809265,
+  "clean_share": 0.0,
+  "minor_share": 0.181312336108425,
+  "chord_rate": 2.5996698831894363,
+  "repetitiveness": 0.956652045249939,
+  "vocal_share": 0.23122374713420868,
+  "vocal_voiced": 0.03739061256961018,
+  "song_length": 191.479
+ }
+}

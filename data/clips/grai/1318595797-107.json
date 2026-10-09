@@ -1,0 +1,32 @@
+{
+ "id": "grai/1318595797-107",
+ "band": "grai",
+ "title": "Тень",
+ "source": "itunes",
+ "album": "Пепел",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 1.9045028608834795,
+  "tempo_var": 13.496367075288736,
+  "low_onset_rate": 3.7087687290888813,
+  "lufs": -10.916797882884598,
+  "rms_dbfs": -10.186162768078898,
+  "crest": 10.186162948608398,
+  "centroid": 2534.3035101823534,
+  "flatness": 0.02802942506968975,
+  "sub100_share": 0.49234315752983093,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7956742644309998,
+  "clean_share": 0.18231186966640806,
+  "minor_share": 0.11895485931827249,
+  "chord_rate": 2.472512486059254,
+  "repetitiveness": 0.8889514207839966,
+  "vocal_share": 4.2580265358083125e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 403.286
+ }
+}

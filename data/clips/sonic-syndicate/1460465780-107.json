@@ -1,0 +1,32 @@
+{
+ "id": "sonic-syndicate/1460465780-107",
+ "band": "sonic-syndicate",
+ "title": "Unbreakable",
+ "source": "itunes",
+ "album": "Sonic Syndicate",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 3.8758303835523447,
+  "tempo_var": 8.453862957248896,
+  "low_onset_rate": 5.245735950152742,
+  "lufs": -15.438554743945199,
+  "rms_dbfs": -15.929552708448487,
+  "crest": 14.291790962219238,
+  "centroid": 2105.338171347193,
+  "flatness": 0.004881666973233223,
+  "sub100_share": 0.0010814302368089557,
+  "lowest_pitch": 172.265625,
+  "harmonic_share": 0.8444481492042542,
+  "clean_share": 0.6516679596586501,
+  "minor_share": 0.17697056085586116,
+  "chord_rate": 0.5680096251757746,
+  "repetitiveness": 0.7732542753219604,
+  "vocal_share": 1.3694799463337404e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 302.012
+ }
+}

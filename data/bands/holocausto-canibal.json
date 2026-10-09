@@ -1,0 +1,127 @@
+{
+ "slug": "holocausto-canibal",
+ "name": "Holocausto Canibal",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 526533245,
+  "deezer": 483939,
+  "spotify": "4I2Z3KjDCA3uXOcQPiPGK8"
+ },
+ "metadata": {
+  "formed": 1997,
+  "split": null,
+  "country": "PT",
+  "status": "active",
+  "members": 4,
+  "past_members": 11,
+  "full_lengths": 6,
+  "genre": "Brutal Death Metal, Grindcore",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 1540,
+  "themes": "Gore, Cannibalism, Perversion",
+  "release_year": 2012
+ },
+ "partial": false,
+ "clips": [
+  "holocausto-canibal/1439984934-107",
+  "holocausto-canibal/526533244-105",
+  "holocausto-canibal/1628301045-107",
+  "holocausto-canibal/1439984934-109",
+  "holocausto-canibal/526533244-110",
+  "holocausto-canibal/1628301045-104",
+  "holocausto-canibal/1439984934-106",
+  "holocausto-canibal/526533244-104",
+  "holocausto-canibal/1628301045-110",
+  "holocausto-canibal/1439984934-110",
+  "holocausto-canibal/526533244-113",
+  "holocausto-canibal/1628301045-102"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.19921875,
+   "iqr": 36.92023129386696
+  },
+  "onset_rate": {
+   "median": 6.314930538718906,
+   "iqr": 2.1634484253018478
+  },
+  "tempo_var": {
+   "median": 4.765790023192689,
+   "iqr": 7.9313562793393455
+  },
+  "low_onset_rate": {
+   "median": 6.248105876933521,
+   "iqr": 1.7207350409736701
+  },
+  "lufs": {
+   "median": -6.3250734059816995,
+   "iqr": 1.7205190983964416
+  },
+  "rms_dbfs": {
+   "median": -6.035618092508324,
+   "iqr": 0.7888581172969582
+  },
+  "crest": {
+   "median": 6.035618305206299,
+   "iqr": 0.7888582944869995
+  },
+  "centroid": {
+   "median": 2514.549739765557,
+   "iqr": 166.1152283551396
+  },
+  "flatness": {
+   "median": 0.03629940748214722,
+   "iqr": 0.006314166821539402
+  },
+  "sub100_share": {
+   "median": 0.2720395475625992,
+   "iqr": 0.20561779662966728
+  },
+  "lowest_pitch": {
+   "median": 40.374755859375,
+   "iqr": 67.96417236328125
+  },
+  "harmonic_share": {
+   "median": 0.7549416422843933,
+   "iqr": 0.027297481894493103
+  },
+  "clean_share": {
+   "median": 0.0023273855702094647,
+   "iqr": 0.013576415826221877
+  },
+  "minor_share": {
+   "median": 0.06540617082561187,
+   "iqr": 0.1024117762660837
+  },
+  "chord_rate": {
+   "median": 2.0381521844542503,
+   "iqr": 0.48447879794404325
+  },
+  "repetitiveness": {
+   "median": 0.9096653759479523,
+   "iqr": 0.05332167446613312
+  },
+  "vocal_share": {
+   "median": 0.1315828263759613,
+   "iqr": 0.10819007456302643
+  },
+  "vocal_voiced": {
+   "median": 0.3594936708860759,
+   "iqr": 0.23990197109000952
+  },
+  "song_length": {
+   "median": 149.001,
+   "iqr": 54.36824999999999
+  },
+  "vocal_presence": {
+   "median": 0.5833333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.5
+ },
+ "sources_failed": []
+}

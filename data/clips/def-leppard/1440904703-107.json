@@ -1,0 +1,32 @@
+{
+ "id": "def-leppard/1440904703-107",
+ "band": "def-leppard",
+ "title": "Torn to Shreds",
+ "source": "itunes",
+ "album": "X (Bonus Track Version)",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 3.3999486024398724,
+  "tempo_var": 23.082849371078474,
+  "low_onset_rate": 4.466599144381793,
+  "lufs": -11.337140009745626,
+  "rms_dbfs": -10.826209623069632,
+  "crest": 10.826210021972656,
+  "centroid": 3008.7021671763882,
+  "flatness": 0.050334326922893524,
+  "sub100_share": 0.3754592537879944,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7890318632125854,
+  "clean_share": 0.06419180201082754,
+  "minor_share": -0.35811970215243866,
+  "chord_rate": 1.6999743012199362,
+  "repetitiveness": 0.6944884061813354,
+  "vocal_share": 0.20158681273460388,
+  "vocal_voiced": 0.6685808039376538,
+  "song_length": 178.877
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "king-diamond/1296824607-105",
+ "band": "king-diamond",
+ "title": "The Wedding Dream",
+ "source": "itunes",
+ "album": "Conspiracy",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.343603016050041,
+  "tempo_var": 22.934814349665732,
+  "low_onset_rate": 6.11445655336275,
+  "lufs": -17.58731618131877,
+  "rms_dbfs": -17.62227889749711,
+  "crest": 15.96112060546875,
+  "centroid": 2629.1882588478484,
+  "flatness": 0.036060597747564316,
+  "sub100_share": 0.06721314042806625,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7738277912139893,
+  "clean_share": 0.003878975950349108,
+  "minor_share": 0.19761867515033937,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.7703595161437988,
+  "vocal_share": 0.07637377083301544,
+  "vocal_voiced": 0.7121212121212122,
+  "song_length": 362.827
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "trivium/291308413-105",
+ "band": "trivium",
+ "title": "Throes of Perdition",
+ "source": "itunes",
+ "album": "Shogun",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.299207100126658,
+  "tempo_var": 0.38184314784160783,
+  "low_onset_rate": 6.698764551360142,
+  "lufs": -7.290859259605287,
+  "rms_dbfs": -7.155416130099148,
+  "crest": 7.155416488647461,
+  "centroid": 2715.478723700266,
+  "flatness": 0.04707205295562744,
+  "sub100_share": 0.2873106300830841,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7550460696220398,
+  "clean_share": 0.016241299303944315,
+  "minor_share": 0.13984713843090202,
+  "chord_rate": 1.8329952752478,
+  "repetitiveness": 0.823100745677948,
+  "vocal_share": 0.1771632879972458,
+  "vocal_voiced": 0.5025252525252525,
+  "song_length": 354.133
+ }
+}

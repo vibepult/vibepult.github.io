@@ -1,0 +1,32 @@
+{
+ "id": "budgie/1848469743-103",
+ "band": "budgie",
+ "title": "You Know I'll Always Love You",
+ "source": "itunes",
+ "album": "Never Turn Your Back On A Friend",
+ "year": 1973,
+ "itunes_year": 1973,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.7999310670101223,
+  "tempo_var": 6.823684909773011,
+  "low_onset_rate": 4.9999092986975295,
+  "lufs": -18.658798081116895,
+  "rms_dbfs": -18.0059119540681,
+  "crest": 14.293817520141602,
+  "centroid": 1618.3486596479822,
+  "flatness": 0.006186545826494694,
+  "sub100_share": 0.05698782578110695,
+  "lowest_pitch": 104.974365234375,
+  "harmonic_share": 0.9404075145721436,
+  "clean_share": 0.7849961330239753,
+  "minor_share": -0.04733820461738136,
+  "chord_rate": 1.5999709755832094,
+  "repetitiveness": 0.6239539980888367,
+  "vocal_share": 0.2802526354789734,
+  "vocal_voiced": 0.940854326396495,
+  "song_length": 128.867
+ }
+}

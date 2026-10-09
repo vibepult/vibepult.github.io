@@ -1,0 +1,127 @@
+{
+ "slug": "lifelover",
+ "name": "Lifelover",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 304770047,
+  "deezer": 171937,
+  "spotify": "1MVngxYrcAvKqx3os2rrRE"
+ },
+ "metadata": {
+  "formed": 2005,
+  "split": 2015,
+  "country": "SE",
+  "status": "split-up",
+  "members": 4,
+  "past_members": 4,
+  "full_lengths": 4,
+  "genre": "Depressive Black Metal/Post-Punk",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 15092,
+  "themes": "Cynicism, Misery, Depression, Hate, Drugs, Black humour",
+  "release_year": 2009
+ },
+ "partial": false,
+ "clips": [
+  "lifelover/1556060997-107",
+  "lifelover/1556072514-108",
+  "lifelover/1556060997-106",
+  "lifelover/1556072514-107",
+  "lifelover/1556060997-108",
+  "lifelover/1556072514-109",
+  "lifelover/1556060997-105",
+  "lifelover/1556072514-106",
+  "lifelover/1556060997-109",
+  "lifelover/1556072514-110",
+  "lifelover/1556060997-104",
+  "lifelover/1556072514-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.32652698863637,
+   "iqr": 36.71687199519231
+  },
+  "onset_rate": {
+   "median": 3.933273873410833,
+   "iqr": 0.8666535653278107
+  },
+  "tempo_var": {
+   "median": 2.5095766359478393,
+   "iqr": 9.266067331170712
+  },
+  "low_onset_rate": {
+   "median": 6.133240616166045,
+   "iqr": 1.574976190836117
+  },
+  "lufs": {
+   "median": -7.5266430198910985,
+   "iqr": 1.3554832054967108
+  },
+  "rms_dbfs": {
+   "median": -7.412520692410743,
+   "iqr": 1.5042747725412138
+  },
+  "crest": {
+   "median": 7.412520170211792,
+   "iqr": 1.5042754411697388
+  },
+  "centroid": {
+   "median": 2298.0119219055673,
+   "iqr": 417.0590153471371
+  },
+  "flatness": {
+   "median": 0.02147060539573431,
+   "iqr": 0.025316418847069144
+  },
+  "sub100_share": {
+   "median": 0.23030062019824982,
+   "iqr": 0.20105211064219475
+  },
+  "lowest_pitch": {
+   "median": 57.8704833984375,
+   "iqr": 24.89776611328125
+  },
+  "harmonic_share": {
+   "median": 0.8314929604530334,
+   "iqr": 0.06420950591564178
+  },
+  "clean_share": {
+   "median": 0.016241299303944315,
+   "iqr": 0.12412993039443154
+  },
+  "minor_share": {
+   "median": 0.11762060985301875,
+   "iqr": 0.16765816016712046
+  },
+  "chord_rate": {
+   "median": 1.366646006863086,
+   "iqr": 0.5666581004066453
+  },
+  "repetitiveness": {
+   "median": 0.8732168078422546,
+   "iqr": 0.0905737578868866
+  },
+  "vocal_share": {
+   "median": 0.10868138447403908,
+   "iqr": 0.16590825654566288
+  },
+  "vocal_voiced": {
+   "median": 0.32683612388008887,
+   "iqr": 0.3133377953159861
+  },
+  "song_length": {
+   "median": 263.5,
+   "iqr": 71.02324999999999
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

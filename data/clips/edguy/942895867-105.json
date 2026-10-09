@@ -1,0 +1,32 @@
+{
+ "id": "edguy/942895867-105",
+ "band": "edguy",
+ "title": "Deadmaker",
+ "source": "itunes",
+ "album": "Kingdom of Madness",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.9784373030112015,
+  "tempo_var": 7.774494449866155,
+  "low_onset_rate": 4.84478797944043,
+  "lufs": -12.20881743766291,
+  "rms_dbfs": -11.919971536452545,
+  "crest": 11.919971466064453,
+  "centroid": 2512.451320262979,
+  "flatness": 0.0295669287443161,
+  "sub100_share": 0.29334381222724915,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7057618498802185,
+  "clean_share": 0.041117145073700546,
+  "minor_share": 0.04373285176698527,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.8877644538879395,
+  "vocal_share": 0.18502095341682434,
+  "vocal_voiced": 0.6490984743411928,
+  "song_length": 315.333
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "budgie/1850559055-105",
+ "band": "budgie",
+ "title": "Pyramids",
+ "source": "itunes",
+ "album": "Impeckable (Expanded Edition)",
+ "year": 1978,
+ "itunes_year": 1978,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.232985258728066,
+  "tempo_var": 8.197376989973021,
+  "low_onset_rate": 4.266382886096768,
+  "lufs": -14.674918814069047,
+  "rms_dbfs": -14.355686004028975,
+  "crest": 14.35568618774414,
+  "centroid": 2458.7939632281987,
+  "flatness": 0.021672716364264488,
+  "sub100_share": 0.1871984750032425,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.5777930021286011,
+  "clean_share": 0.1608662026295437,
+  "minor_share": 0.06524205936261107,
+  "chord_rate": 2.33317814083417,
+  "repetitiveness": 0.8497734665870667,
+  "vocal_share": 0.18141108751296997,
+  "vocal_voiced": 0.9270833333333334,
+  "song_length": 262.933
+ }
+}

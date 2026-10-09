@@ -1,0 +1,32 @@
+{
+ "id": "toluca/1563938182-103",
+ "band": "toluca",
+ "title": "Murmur",
+ "source": "itunes",
+ "album": "Soras",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 6.782703171216603,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 6.081044222470058,
+  "lufs": -8.200285936234838,
+  "rms_dbfs": -7.706552949598896,
+  "crest": 7.706552505493164,
+  "centroid": 2357.366383011856,
+  "flatness": 0.028008241206407547,
+  "sub100_share": 0.28241416811943054,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.6470423936843872,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.057953445825754346,
+  "chord_rate": 1.9379151917761723,
+  "repetitiveness": 0.9162111282348633,
+  "vocal_share": 0.03916020691394806,
+  "vocal_voiced": 0.6539325842696629,
+  "song_length": 184.637
+ }
+}

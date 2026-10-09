@@ -1,0 +1,32 @@
+{
+ "id": "sonata-arctica/1776756064-106",
+ "band": "sonata-arctica",
+ "title": "Among the Shooting Stars",
+ "source": "itunes",
+ "album": "The Ninth Hour",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 2.2333333333333334,
+  "tempo_var": 30.144520281054522,
+  "low_onset_rate": 5.9,
+  "lufs": -9.361361377959646,
+  "rms_dbfs": -8.22278882125801,
+  "crest": 8.22278881072998,
+  "centroid": 2258.959417179228,
+  "flatness": 0.021061887964606285,
+  "sub100_share": 0.48215073347091675,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8553978800773621,
+  "clean_share": 0.20046439628482973,
+  "minor_share": 0.039180193840979705,
+  "chord_rate": 1.1666666666666667,
+  "repetitiveness": 0.6788755059242249,
+  "vocal_share": 0.07286503165960312,
+  "vocal_voiced": 0.8061889250814332,
+  "song_length": 250.747
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "warlord",
+ "name": "Warlord",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 4237829,
+  "deezer": 129327,
+  "spotify": "5DDTGRCwOUzF6mhCnyjl17"
+ },
+ "metadata": {
+  "formed": 1981,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 6,
+  "past_members": 11,
+  "full_lengths": 5,
+  "genre": "Heavy/Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 1913,
+  "themes": "Mythology, War, Christianity, Allegory",
+  "release_year": 2013
+ },
+ "partial": false,
+ "clips": [
+  "warlord/1591244106-106",
+  "warlord/1729171776-105",
+  "warlord/1591244106-105",
+  "warlord/1729171776-106",
+  "warlord/1591244106-107",
+  "warlord/1729171776-104",
+  "warlord/1591244106-104",
+  "warlord/1729171776-107",
+  "warlord/1591244106-108",
+  "warlord/1729171776-103",
+  "warlord/1591244106-103",
+  "warlord/1729171776-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.19921875,
+   "iqr": 17.51611216390161
+  },
+  "onset_rate": {
+   "median": 4.788989104002474,
+   "iqr": 0.6842452613339018
+  },
+  "tempo_var": {
+   "median": 2.66118909786723,
+   "iqr": 1.9625426989315569
+  },
+  "low_onset_rate": {
+   "median": 6.5576024918113855,
+   "iqr": 1.8071260590897156
+  },
+  "lufs": {
+   "median": -11.88743306314945,
+   "iqr": 0.9993651954506557
+  },
+  "rms_dbfs": {
+   "median": -11.199516165495558,
+   "iqr": 1.190582925751654
+  },
+  "crest": {
+   "median": 11.199516296386719,
+   "iqr": 1.190582513809204
+  },
+  "centroid": {
+   "median": 2417.517960181087,
+   "iqr": 353.78220336008144
+  },
+  "flatness": {
+   "median": 0.023384886793792248,
+   "iqr": 0.013302582316100597
+  },
+  "sub100_share": {
+   "median": 0.3751284182071686,
+   "iqr": 0.09317576140165329
+  },
+  "lowest_pitch": {
+   "median": 57.8704833984375,
+   "iqr": 10.09368896484375
+  },
+  "harmonic_share": {
+   "median": 0.7783888876438141,
+   "iqr": 0.06377933919429779
+  },
+  "clean_share": {
+   "median": 0.09648330180352882,
+   "iqr": 0.13970748381360035
+  },
+  "minor_share": {
+   "median": 0.12967630774424405,
+   "iqr": 0.139717611408668
+  },
+  "chord_rate": {
+   "median": 1.952301202379299,
+   "iqr": 1.0237089266672048
+  },
+  "repetitiveness": {
+   "median": 0.8042202293872833,
+   "iqr": 0.08698634803295135
+  },
+  "vocal_share": {
+   "median": 0.17310388386249542,
+   "iqr": 0.0607510581612587
+  },
+  "vocal_voiced": {
+   "median": 0.8161559888579387,
+   "iqr": 0.164912529736716
+  },
+  "song_length": {
+   "median": 348.36,
+   "iqr": 90.48375000000004
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.5,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

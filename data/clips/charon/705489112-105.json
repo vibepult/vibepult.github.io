@@ -1,0 +1,32 @@
+{
+ "id": "charon/705489112-105",
+ "band": "charon",
+ "title": "Deepest Scar",
+ "source": "itunes",
+ "album": "Tearstained",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.644313994084275,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.443840008728119,
+  "lufs": -8.14631871849352,
+  "rms_dbfs": -7.737822945052514,
+  "crest": 7.737822532653809,
+  "centroid": 2613.294455708394,
+  "flatness": 0.03365738317370415,
+  "sub100_share": 0.29962223768234253,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.6976761221885681,
+  "clean_share": 0.02482544608223429,
+  "minor_share": 0.05513026100439766,
+  "chord_rate": 1.7374412064200164,
+  "repetitiveness": 0.788851797580719,
+  "vocal_share": 0.16542306542396545,
+  "vocal_voiced": 0.5512239347234814,
+  "song_length": 268.893
+ }
+}

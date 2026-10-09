@@ -1,0 +1,32 @@
+{
+ "id": "rush/1440771611-103",
+ "band": "rush",
+ "title": "Closer To The Heart (Remastered 2013)",
+ "source": "itunes",
+ "album": "A Farewell To Kings (Remastered 2013)",
+ "year": 1977,
+ "itunes_year": 1977,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.166140173213827,
+  "tempo_var": 28.366667555082557,
+  "low_onset_rate": 2.9328456341349134,
+  "lufs": -12.448117320170814,
+  "rms_dbfs": -13.248872603488284,
+  "crest": 13.248872756958008,
+  "centroid": 2239.521733754809,
+  "flatness": 0.019382720813155174,
+  "sub100_share": 0.12890201807022095,
+  "lowest_pitch": 99.591064453125,
+  "harmonic_share": 0.5762791037559509,
+  "clean_share": 0.31322505800464034,
+  "minor_share": -0.42787112315055864,
+  "chord_rate": 0.9665059476126419,
+  "repetitiveness": 0.7630823850631714,
+  "vocal_share": 0.4439365565776825,
+  "vocal_voiced": 0.8676880222841226,
+  "song_length": 175.522
+ }
+}

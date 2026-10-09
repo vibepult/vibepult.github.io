@@ -1,0 +1,32 @@
+{
+ "id": "boisson-divine/1509120251-108",
+ "band": "boisson-divine",
+ "title": "Un Darrèr Còp",
+ "source": "itunes",
+ "album": "La Halha",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.842418052659652,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.544077001406197,
+  "lufs": -10.677604496179221,
+  "rms_dbfs": -10.01415019891758,
+  "crest": 10.014150619506836,
+  "centroid": 2896.3090089046036,
+  "flatness": 0.03355962783098221,
+  "sub100_share": 0.3634108901023865,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7959131598472595,
+  "clean_share": 0.0,
+  "minor_share": -0.306270199574318,
+  "chord_rate": 1.0023699267807789,
+  "repetitiveness": 0.693859875202179,
+  "vocal_share": 0.31120970845222473,
+  "vocal_voiced": 0.7150621118012422,
+  "song_length": 245.173
+ }
+}

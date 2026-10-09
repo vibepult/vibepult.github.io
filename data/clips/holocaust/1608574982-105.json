@@ -1,0 +1,32 @@
+{
+ "id": "holocaust/1608574982-105",
+ "band": "holocaust",
+ "title": "On The Ropes",
+ "source": "itunes",
+ "album": "No Man's Land",
+ "year": 1984,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.076304368908501,
+  "tempo_var": 1.833549335101041,
+  "low_onset_rate": 5.21232361926005,
+  "lufs": -10.679150220006436,
+  "rms_dbfs": -10.805559388553203,
+  "crest": 10.805559158325195,
+  "centroid": 2755.2258347063757,
+  "flatness": 0.035502489656209946,
+  "sub100_share": 0.22019554674625397,
+  "lowest_pitch": 148.040771484375,
+  "harmonic_share": 0.7351462244987488,
+  "clean_share": 0.017843289371605897,
+  "minor_share": 0.06442004660476253,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.8443927764892578,
+  "vocal_share": 0.2216319739818573,
+  "vocal_voiced": 0.8685714285714285,
+  "song_length": 174.413
+ }
+}

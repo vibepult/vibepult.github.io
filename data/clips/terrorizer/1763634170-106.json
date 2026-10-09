@@ -1,0 +1,32 @@
+{
+ "id": "terrorizer/1763634170-106",
+ "band": "terrorizer",
+ "title": "Infiltration",
+ "source": "itunes",
+ "album": "Caustic Attack",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 7.633217940771871,
+  "tempo_var": 2.0946429340804875,
+  "low_onset_rate": 9.066529606506327,
+  "lufs": -7.84101749248393,
+  "rms_dbfs": -7.078262179864071,
+  "crest": 7.0782623291015625,
+  "centroid": 2648.5401061605157,
+  "flatness": 0.03821427375078201,
+  "sub100_share": 0.34660112857818604,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7753311395645142,
+  "clean_share": 0.006187161639597835,
+  "minor_share": 0.20606147030568123,
+  "chord_rate": 2.799957672597542,
+  "repetitiveness": 0.907577633857727,
+  "vocal_share": 0.05468440428376198,
+  "vocal_voiced": 0.5281553398058253,
+  "song_length": 297.522
+ }
+}

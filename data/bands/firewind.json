@@ -1,0 +1,127 @@
+{
+ "slug": "firewind",
+ "name": "Firewind",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 21299680,
+  "deezer": 4819,
+  "spotify": "70I9vE7YTwKmelfEplXc5r"
+ },
+ "metadata": {
+  "formed": 1998,
+  "split": null,
+  "country": "GR",
+  "status": "active",
+  "members": 4,
+  "past_members": 12,
+  "full_lengths": 11,
+  "genre": "Heavy/Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 17976,
+  "themes": "War, Inner strength, Responsibility, Glory",
+  "release_year": 2005
+ },
+ "partial": false,
+ "clips": [
+  "firewind/434683600-107",
+  "firewind/1549808356-105",
+  "firewind/1045217378-105",
+  "firewind/1045706212-106",
+  "firewind/1045282719-108",
+  "firewind/1174998887-105",
+  "firewind/1500738274-106",
+  "firewind/1709919082-105",
+  "firewind/434683600-106",
+  "firewind/1549808356-104",
+  "firewind/1045217378-106",
+  "firewind/1045706212-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.32652698863637,
+   "iqr": 45.94538762019231
+  },
+  "onset_rate": {
+   "median": 5.145498957474664,
+   "iqr": 2.286232043834826
+  },
+  "tempo_var": {
+   "median": 11.515716409143206,
+   "iqr": 12.896084312766574
+  },
+  "low_onset_rate": {
+   "median": 5.813745575328516,
+   "iqr": 1.6121449655724192
+  },
+  "lufs": {
+   "median": -8.129209397331966,
+   "iqr": 1.0777830271363698
+  },
+  "rms_dbfs": {
+   "median": -7.504100046829723,
+   "iqr": 1.130255792000133
+  },
+  "crest": {
+   "median": 7.504099607467651,
+   "iqr": 1.1302556991577148
+  },
+  "centroid": {
+   "median": 2711.0551865099687,
+   "iqr": 247.4766934246395
+  },
+  "flatness": {
+   "median": 0.03577316738665104,
+   "iqr": 0.00840469729155302
+  },
+  "sub100_share": {
+   "median": 0.28931882977485657,
+   "iqr": 0.09650648012757301
+  },
+  "lowest_pitch": {
+   "median": 55.1788330078125,
+   "iqr": 33.6456298828125
+  },
+  "harmonic_share": {
+   "median": 0.8012622594833374,
+   "iqr": 0.07613424956798553
+  },
+  "clean_share": {
+   "median": 0.0031031807602792862,
+   "iqr": 0.025989138867339022
+  },
+  "minor_share": {
+   "median": 0.09038716482778864,
+   "iqr": 0.11275566801169104
+  },
+  "chord_rate": {
+   "median": 1.6852530519785411,
+   "iqr": 0.5262442115599086
+  },
+  "repetitiveness": {
+   "median": 0.8217417597770691,
+   "iqr": 0.12014192342758179
+  },
+  "vocal_share": {
+   "median": 0.17866086959838867,
+   "iqr": 0.057591184973716736
+  },
+  "vocal_voiced": {
+   "median": 0.6932938856015779,
+   "iqr": 0.14755716805282204
+  },
+  "song_length": {
+   "median": 281.7045,
+   "iqr": 95.79674999999997
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

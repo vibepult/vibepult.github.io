@@ -1,0 +1,32 @@
+{
+ "id": "helloween/1713501740-106",
+ "band": "helloween",
+ "title": "Perfect Gentleman",
+ "source": "itunes",
+ "album": "Master of the Rings",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.366600656074739,
+  "tempo_var": 3.0692005642607647,
+  "low_onset_rate": 5.566582515759399,
+  "lufs": -9.48070530542706,
+  "rms_dbfs": -10.08529009294858,
+  "crest": 10.085289001464844,
+  "centroid": 3023.4536857564594,
+  "flatness": 0.059294428676366806,
+  "sub100_share": 0.19240953028202057,
+  "lowest_pitch": 115.740966796875,
+  "harmonic_share": 0.6768559813499451,
+  "clean_share": 0.0015467904098994587,
+  "minor_share": 0.3331178233921071,
+  "chord_rate": 1.233314689120346,
+  "repetitiveness": 0.8453835248947144,
+  "vocal_share": 0.22156156599521637,
+  "vocal_voiced": 0.3392554991539763,
+  "song_length": 233.493
+ }
+}

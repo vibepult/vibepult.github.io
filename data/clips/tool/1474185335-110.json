@@ -1,0 +1,32 @@
+{
+ "id": "tool/1474185335-110",
+ "band": "tool",
+ "title": "Die Eier von Satan",
+ "source": "itunes",
+ "album": "Ænima",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "hand",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 2.598354179287798,
+  "tempo_var": 1.708979775039096,
+  "low_onset_rate": 7.395315741049886,
+  "lufs": -13.625064414947406,
+  "rms_dbfs": -11.857714836217372,
+  "crest": 11.857714653015137,
+  "centroid": 2373.584528723896,
+  "flatness": 0.03372006490826607,
+  "sub100_share": 0.6510262489318848,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.579402506351471,
+  "clean_share": 0.3225058004640371,
+  "minor_share": -0.060041169320882326,
+  "chord_rate": 2.0653584502031213,
+  "repetitiveness": 0.9552432298660278,
+  "vocal_share": 0.06562527269124985,
+  "vocal_voiced": 0.4738372093023256,
+  "song_length": 137.375
+ }
+}

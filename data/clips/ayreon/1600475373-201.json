@@ -1,0 +1,32 @@
+{
+ "id": "ayreon/1600475373-201",
+ "band": "ayreon",
+ "title": "The Garden of Emotions",
+ "source": "itunes",
+ "album": "Into the Electric Castle",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 2.4391001551665616,
+  "tempo_var": 11.134400183353256,
+  "low_onset_rate": 6.014219560684673,
+  "lufs": -21.128013582649157,
+  "rms_dbfs": -21.74001141052188,
+  "crest": 19.42344856262207,
+  "centroid": 2176.6927071879513,
+  "flatness": 0.0753970593214035,
+  "sub100_share": 0.1423015147447586,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.7990038394927979,
+  "clean_share": 0.45151280062063615,
+  "minor_share": 0.21740158063152287,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.8286246061325073,
+  "vocal_share": 0.8247721195220947,
+  "vocal_voiced": 0.5439093484419264,
+  "song_length": 581.333
+ }
+}

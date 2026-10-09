@@ -1,0 +1,32 @@
+{
+ "id": "evoken/1434313046-104",
+ "band": "evoken",
+ "title": "Too Feign Ebullience",
+ "source": "itunes",
+ "album": "Hypnagogia",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.9736974494496438,
+  "tempo_var": 5.849318576436989,
+  "low_onset_rate": 3.94265504533773,
+  "lufs": -7.576581728275732,
+  "rms_dbfs": -7.3679674054620765,
+  "crest": 7.36796760559082,
+  "centroid": 2453.439404306435,
+  "flatness": 0.018370945006608963,
+  "sub100_share": 0.3620135486125946,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.861595630645752,
+  "clean_share": 0.01008533747090768,
+  "minor_share": 0.03380404747391025,
+  "chord_rate": 1.3030809048150125,
+  "repetitiveness": 0.6059707403182983,
+  "vocal_share": 0.039561133831739426,
+  "vocal_voiced": 0.5714285714285714,
+  "song_length": 603.12
+ }
+}

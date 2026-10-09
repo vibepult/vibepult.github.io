@@ -1,0 +1,127 @@
+{
+ "slug": "bonfire",
+ "name": "Bonfire",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 19306078,
+  "deezer": 134695,
+  "spotify": "7gqKcfoY25do9k18uCCgIT"
+ },
+ "metadata": {
+  "formed": 1986,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 5,
+  "past_members": 16,
+  "full_lengths": 24,
+  "genre": "Melodic Heavy Metal/Hard Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 12032,
+  "themes": "Life, Relationships, Rock",
+  "release_year": 2017
+ },
+ "partial": false,
+ "clips": [
+  "bonfire/1672543272-105",
+  "bonfire/1672265808-108",
+  "bonfire/981073850-107",
+  "bonfire/1497860344-106",
+  "bonfire/1545573878-113",
+  "bonfire/1774753718-106",
+  "bonfire/1672543272-106",
+  "bonfire/1672265808-107",
+  "bonfire/981073850-108",
+  "bonfire/1497860344-107",
+  "bonfire/1545573878-111",
+  "bonfire/1774753718-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.69701086956522,
+   "iqr": 26.17397966056035
+  },
+  "onset_rate": {
+   "median": 3.6586502327498422,
+   "iqr": 0.7361368375115163
+  },
+  "tempo_var": {
+   "median": 6.676097701109218,
+   "iqr": 12.392105054007782
+  },
+  "low_onset_rate": {
+   "median": 4.493958505067158,
+   "iqr": 1.4086295741809303
+  },
+  "lufs": {
+   "median": -8.7877296220832,
+   "iqr": 0.7941099404775578
+  },
+  "rms_dbfs": {
+   "median": -8.20450854985241,
+   "iqr": 1.711046627958285
+  },
+  "crest": {
+   "median": 8.204508304595947,
+   "iqr": 1.7110471725463867
+  },
+  "centroid": {
+   "median": 2411.9790419125584,
+   "iqr": 220.58179944300173
+  },
+  "flatness": {
+   "median": 0.023823050782084465,
+   "iqr": 0.010381899774074554
+  },
+  "sub100_share": {
+   "median": 0.3385378122329712,
+   "iqr": 0.18130625784397125
+  },
+  "lowest_pitch": {
+   "median": 69.98291015625,
+   "iqr": 17.4957275390625
+  },
+  "harmonic_share": {
+   "median": 0.7397206723690033,
+   "iqr": 0.11897984147071838
+  },
+  "clean_share": {
+   "median": 0.056173095999250626,
+   "iqr": 0.07059736229635376
+  },
+  "minor_share": {
+   "median": -0.07335725461760062,
+   "iqr": 0.1615629411664654
+  },
+  "chord_rate": {
+   "median": 1.5351502771985972,
+   "iqr": 0.35918255709644575
+  },
+  "repetitiveness": {
+   "median": 0.7851926684379578,
+   "iqr": 0.0838741809129715
+  },
+  "vocal_share": {
+   "median": 0.15680836141109467,
+   "iqr": 0.08952484279870987
+  },
+  "vocal_voiced": {
+   "median": 0.6920583468395461,
+   "iqr": 0.16703009527417667
+  },
+  "song_length": {
+   "median": 262.77250000000004,
+   "iqr": 68.82675
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

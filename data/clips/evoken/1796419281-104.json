@@ -1,0 +1,32 @@
+{
+ "id": "evoken/1796419281-104",
+ "band": "evoken",
+ "title": "Astray in Eternal Night",
+ "source": "itunes",
+ "album": "A Caress of the Void",
+ "year": 2007,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 3.2,
+  "tempo_var": 23.25514924617233,
+  "low_onset_rate": 5.933333333333334,
+  "lufs": -8.789013816669689,
+  "rms_dbfs": -7.959216170913307,
+  "crest": 7.959216117858887,
+  "centroid": 1499.634652398257,
+  "flatness": 0.004062074702233076,
+  "sub100_share": 0.345762699842453,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.9058318734169006,
+  "clean_share": 0.7484520123839009,
+  "minor_share": 0.2081110102162701,
+  "chord_rate": 0.9,
+  "repetitiveness": 0.6196146607398987,
+  "vocal_share": 0.0035174500662833452,
+  "vocal_voiced": 0.6697674418604651,
+  "song_length": 517.373
+ }
+}

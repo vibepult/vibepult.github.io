@@ -1,0 +1,32 @@
+{
+ "id": "briqueville/1526167897-107",
+ "band": "briqueville",
+ "title": "Akte XIV",
+ "source": "itunes",
+ "album": "Quelle",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 75.99954044117646,
+  "onset_rate": 3.7087687290888813,
+  "tempo_var": 20.660506766514,
+  "low_onset_rate": 6.782703171216603,
+  "lufs": -10.866999194633197,
+  "rms_dbfs": -8.382284297336653,
+  "crest": 8.382284164428711,
+  "centroid": 811.4251440877924,
+  "flatness": 0.0005126679316163063,
+  "sub100_share": 0.7749190330505371,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.9431159496307373,
+  "clean_share": 0.978277734678045,
+  "minor_share": 0.05103247196788896,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.8621012568473816,
+  "vocal_share": 0.0002882091503124684,
+  "vocal_voiced": 1.0,
+  "song_length": 437.416
+ }
+}

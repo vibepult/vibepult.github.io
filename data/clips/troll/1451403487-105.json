@@ -1,0 +1,32 @@
+{
+ "id": "troll/1451403487-105",
+ "band": "troll",
+ "title": "Intermission 666",
+ "source": "itunes",
+ "album": "Universal",
+ "year": 2001,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 69.83741554054055,
+  "onset_rate": 4.443840008728119,
+  "tempo_var": 2.7539786710162013,
+  "low_onset_rate": 8.553556708529312,
+  "lufs": -21.008236530704014,
+  "rms_dbfs": -17.382506854492803,
+  "crest": 14.09319019317627,
+  "centroid": 505.61194720452977,
+  "flatness": 8.61724402057007e-05,
+  "sub100_share": 0.892106294631958,
+  "lowest_pitch": 24.224853515625,
+  "harmonic_share": 0.962014377117157,
+  "clean_share": 0.9992242048099301,
+  "minor_share": 0.10861439258010874,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.7766574025154114,
+  "vocal_share": 0.002161258365958929,
+  "vocal_voiced": 1.0,
+  "song_length": 265.267
+ }
+}

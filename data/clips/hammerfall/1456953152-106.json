@@ -1,0 +1,32 @@
+{
+ "id": "hammerfall/1456953152-106",
+ "band": "hammerfall",
+ "title": "Hallowed Be My Name",
+ "source": "itunes",
+ "album": "No Sacrifice, No Victory",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 1.83332224748452,
+  "tempo_var": 15.93578141826804,
+  "low_onset_rate": 3.0666481230650153,
+  "lufs": -11.834773557395428,
+  "rms_dbfs": -11.600346280187793,
+  "crest": 11.600346565246582,
+  "centroid": 2825.765399962268,
+  "flatness": 0.03802201896905899,
+  "sub100_share": 0.3680463433265686,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.7780700922012329,
+  "clean_share": 0.17246713070378963,
+  "minor_share": 0.23372805548155395,
+  "chord_rate": 1.1666596120356036,
+  "repetitiveness": 0.772115170955658,
+  "vocal_share": 5.420863544713939e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 236.027
+ }
+}

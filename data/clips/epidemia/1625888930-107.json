@@ -1,0 +1,32 @@
+{
+ "id": "epidemia/1625888930-107",
+ "band": "epidemia",
+ "title": "Белый сокол",
+ "source": "itunes",
+ "album": "Жизнь в сумерках",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 5.279148281045435,
+  "tempo_var": 10.34082422148639,
+  "low_onset_rate": 3.4080577510546477,
+  "lufs": -9.365886565931925,
+  "rms_dbfs": -9.001418203092333,
+  "crest": 9.001418113708496,
+  "centroid": 2658.3376541284692,
+  "flatness": 0.03705017641186714,
+  "sub100_share": 0.3221467137336731,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6998794674873352,
+  "clean_share": 0.01008533747090768,
+  "minor_share": -0.00115297554217475,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.834764838218689,
+  "vocal_share": 0.16836898028850555,
+  "vocal_voiced": 0.8030634573304157,
+  "song_length": 326.56
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "charon/1660642811-105",
+ "band": "charon",
+ "title": "Guilt On Skin",
+ "source": "itunes",
+ "album": "The Dying Daylights",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.4414700819473403,
+  "tempo_var": 6.023995630936097,
+  "low_onset_rate": 6.11445655336275,
+  "lufs": -6.909973192975885,
+  "rms_dbfs": -6.777448054108383,
+  "crest": 6.777447700500488,
+  "centroid": 2846.3965479781773,
+  "flatness": 0.04678197205066681,
+  "sub100_share": 0.3332313001155853,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7907693982124329,
+  "clean_share": 0.012412723041117145,
+  "minor_share": -0.16714332912294083,
+  "chord_rate": 1.7374412064200164,
+  "repetitiveness": 0.8266646862030029,
+  "vocal_share": 0.1428840458393097,
+  "vocal_voiced": 0.5327868852459017,
+  "song_length": 194.6
+ }
+}

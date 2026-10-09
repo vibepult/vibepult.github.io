@@ -1,0 +1,32 @@
+{
+ "id": "taake/1624633267-103",
+ "band": "taake",
+ "title": "Huset I Havet",
+ "source": "itunes",
+ "album": "Kong Vinter",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 2.773223464093488,
+  "tempo_var": 17.476716328952538,
+  "low_onset_rate": 4.4772523396208115,
+  "lufs": -7.695919307828779,
+  "rms_dbfs": -10.299710443834977,
+  "crest": 10.299710273742676,
+  "centroid": 2271.7662783365986,
+  "flatness": 0.03508944809436798,
+  "sub100_share": 0.1496284455060959,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.621296226978302,
+  "clean_share": 0.17222653219550038,
+  "minor_share": -0.08736218494749443,
+  "chord_rate": 2.505924816951947,
+  "repetitiveness": 0.9190779328346252,
+  "vocal_share": 7.966586963448208e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 432.853
+ }
+}

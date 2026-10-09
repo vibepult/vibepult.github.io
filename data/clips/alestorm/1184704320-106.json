@@ -1,0 +1,32 @@
+{
+ "id": "alestorm/1184704320-106",
+ "band": "alestorm",
+ "title": "Scraping the Barrel",
+ "source": "itunes",
+ "album": "Back Through Time",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 69.83741554054055,
+  "onset_rate": 4.833333333333333,
+  "tempo_var": 2.5711148196355897,
+  "low_onset_rate": 5.466666666666667,
+  "lufs": -9.829314370583859,
+  "rms_dbfs": -9.72109008316416,
+  "crest": 9.721089363098145,
+  "centroid": 2719.405409527073,
+  "flatness": 0.03945028409361839,
+  "sub100_share": 0.3165704607963562,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.6514705419540405,
+  "clean_share": 0.006191950464396285,
+  "minor_share": -0.08074341726750012,
+  "chord_rate": 1.3,
+  "repetitiveness": 0.7722923755645752,
+  "vocal_share": 0.2135305106639862,
+  "vocal_voiced": 0.11046511627906977,
+  "song_length": 279.653
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "rage",
+ "name": "Rage",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 3261481,
+  "deezer": 4836,
+  "spotify": "5TJVsWPUaJxBxWfVZQEt2x"
+ },
+ "metadata": {
+  "formed": 1986,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 3,
+  "past_members": 13,
+  "full_lengths": 26,
+  "genre": "Heavy/Speed/Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 15446,
+  "themes": "Humanity, Life, Relationships, Science fiction, Horror, Spirituality, Dark fantasy",
+  "release_year": 2000
+ },
+ "partial": false,
+ "clips": [
+  "rage/1660191808-112",
+  "rage/1660193280-112",
+  "rage/1660192769-110",
+  "rage/258660631-107",
+  "rage/402458106-107",
+  "rage/403130994-107",
+  "rage/1857796526-106",
+  "rage/1660193560-107",
+  "rage/1502106814-111",
+  "rage/1460469180-105",
+  "rage/1460466957-106",
+  "rage/1458642539-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.52302631578948,
+   "iqr": 57.15044806985293
+  },
+  "onset_rate": {
+   "median": 2.472512486059254,
+   "iqr": 1.6261781607104355
+  },
+  "tempo_var": {
+   "median": 20.09019679311527,
+   "iqr": 17.61105254072281
+  },
+  "low_onset_rate": {
+   "median": 3.809005721766959,
+   "iqr": 2.614514892353198
+  },
+  "lufs": {
+   "median": -11.95216672681261,
+   "iqr": 4.434577773209018
+  },
+  "rms_dbfs": {
+   "median": -11.372016804685206,
+   "iqr": 4.073980124079791
+  },
+  "crest": {
+   "median": 11.372016906738281,
+   "iqr": 4.07397985458374
+  },
+  "centroid": {
+   "median": 2281.3161004365556,
+   "iqr": 456.77428490109696
+  },
+  "flatness": {
+   "median": 0.021838164888322353,
+   "iqr": 0.02189730340614915
+  },
+  "sub100_share": {
+   "median": 0.2704376131296158,
+   "iqr": 0.2143155112862587
+  },
+  "lowest_pitch": {
+   "median": 72.674560546875,
+   "iqr": 12.1124267578125
+  },
+  "harmonic_share": {
+   "median": 0.8147798180580139,
+   "iqr": 0.13726267218589783
+  },
+  "clean_share": {
+   "median": 0.21688545531017706,
+   "iqr": 0.2354538401861908
+  },
+  "minor_share": {
+   "median": 0.034105852356641486,
+   "iqr": 0.23241508798785565
+  },
+  "chord_rate": {
+   "median": 1.2696685739223197,
+   "iqr": 0.7339228923956591
+  },
+  "repetitiveness": {
+   "median": 0.8555839955806732,
+   "iqr": 0.07932636141777039
+  },
+  "vocal_share": {
+   "median": 0.15020601451396942,
+   "iqr": 0.08911390975117683
+  },
+  "vocal_voiced": {
+   "median": 0.7814207650273224,
+   "iqr": 0.09763741069568121
+  },
+  "song_length": {
+   "median": 331.79999999999995,
+   "iqr": 108.36599999999999
+  },
+  "vocal_presence": {
+   "median": 0.5833333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

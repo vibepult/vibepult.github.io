@@ -1,0 +1,32 @@
+{
+ "id": "arcturus/1556086650-105",
+ "band": "arcturus",
+ "title": "Game Over",
+ "source": "itunes",
+ "album": "Arcturian",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.780333244435824,
+  "tempo_var": 2.7882596143775973,
+  "low_onset_rate": 7.283888134606992,
+  "lufs": -9.557580613206328,
+  "rms_dbfs": -9.241647266973285,
+  "crest": 9.241647720336914,
+  "centroid": 2273.05131309225,
+  "flatness": 0.019566399976611137,
+  "sub100_share": 0.31668713688850403,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.870781660079956,
+  "clean_share": 0.04499612102404965,
+  "minor_share": 0.08985525793109189,
+  "chord_rate": 1.7374412064200164,
+  "repetitiveness": 0.7993624806404114,
+  "vocal_share": 0.04450502619147301,
+  "vocal_voiced": 0.8374233128834356,
+  "song_length": 357.818
+ }
+}

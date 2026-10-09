@@ -1,0 +1,32 @@
+{
+ "id": "soilwork/1460468292-106",
+ "band": "soilwork",
+ "title": "Grand Failure Anthem",
+ "source": "itunes",
+ "album": "A Predator's Portrait (Reloaded)",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 0.7350712796392378,
+  "tempo_var": 6.223212102837581,
+  "low_onset_rate": 2.4391001551665616,
+  "lufs": -8.399296630487083,
+  "rms_dbfs": -8.264438074772471,
+  "crest": 8.264437675476074,
+  "centroid": 2764.0479247252683,
+  "flatness": 0.04169042780995369,
+  "sub100_share": 0.39022326469421387,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7480291128158569,
+  "clean_share": 0.01474010861132661,
+  "minor_share": -0.06437147764295381,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.9293773174285889,
+  "vocal_share": 0.09646610915660858,
+  "vocal_voiced": 0.025,
+  "song_length": 320.707
+ }
+}

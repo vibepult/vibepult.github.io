@@ -1,0 +1,32 @@
+{
+ "id": "aquilus/1518918198-103",
+ "band": "aquilus",
+ "title": "Smokefall",
+ "source": "itunes",
+ "album": "Griseus",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 60.09265988372093,
+  "onset_rate": 5.145498957474664,
+  "tempo_var": 2.6675051745155933,
+  "low_onset_rate": 6.715878509431217,
+  "lufs": -9.61595702155009,
+  "rms_dbfs": -8.978752414279201,
+  "crest": 8.978752136230469,
+  "centroid": 2638.8600790100445,
+  "flatness": 0.036567408591508865,
+  "sub100_share": 0.4133252501487732,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8430615067481995,
+  "clean_share": 0.0,
+  "minor_share": 0.2389414033882244,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.8896122574806213,
+  "vocal_share": 1.2259814639037359e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 420.025
+ }
+}

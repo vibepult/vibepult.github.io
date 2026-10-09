@@ -1,0 +1,32 @@
+{
+ "id": "machine-head/214475186-107",
+ "band": "machine-head",
+ "title": "All In Your Head",
+ "source": "itunes",
+ "album": "Supercharger",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.566010357055404,
+  "tempo_var": 16.820737744537688,
+  "low_onset_rate": 4.5327988536499095,
+  "lufs": -8.659136332035521,
+  "rms_dbfs": -7.951542709864175,
+  "crest": 7.951542854309082,
+  "centroid": 2412.948361092958,
+  "flatness": 0.032881543040275574,
+  "sub100_share": 0.355827271938324,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.5973116755485535,
+  "clean_share": 0.07579273008507348,
+  "minor_share": 0.039111893111991536,
+  "chord_rate": 1.5664819567760717,
+  "repetitiveness": 0.9132052659988403,
+  "vocal_share": 0.17223766446113586,
+  "vocal_voiced": 0.1532608695652174,
+  "song_length": 245.733
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "bathory",
+ "name": "Bathory",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 89837713,
+  "deezer": 11054,
+  "spotify": "6rBvjnvdsRxFRSrq1StGOM"
+ },
+ "metadata": {
+  "formed": 1983,
+  "split": 2004,
+  "country": "SE",
+  "status": "split-up",
+  "members": 1,
+  "past_members": 6,
+  "full_lengths": 12,
+  "genre": "Black/Viking Metal, Thrash Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 74861,
+  "themes": "Satanism, Evil (early); Norse mythology, Tales, Society, Death (later)",
+  "release_year": 1992
+ },
+ "partial": false,
+ "clips": [
+  "bathory/298776865-105",
+  "bathory/1741218509-105",
+  "bathory/290061167-105",
+  "bathory/292515903-104",
+  "bathory/290064223-104",
+  "bathory/290064196-104",
+  "bathory/298777463-105",
+  "bathory/6815395461-106",
+  "bathory/292516695-105",
+  "bathory/292057441-107",
+  "bathory/292056148-105",
+  "bathory/292056134-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.19921875,
+   "iqr": 28.839111328125
+  },
+  "onset_rate": {
+   "median": 4.89490647577947,
+   "iqr": 1.689434985614767
+  },
+  "tempo_var": {
+   "median": 2.7922537535781853,
+   "iqr": 9.700497832673706
+  },
+  "low_onset_rate": {
+   "median": 7.0417070746254184,
+   "iqr": 1.212907999631697
+  },
+  "lufs": {
+   "median": -10.083021321785047,
+   "iqr": 2.4401525712434307
+  },
+  "rms_dbfs": {
+   "median": -10.170273230186186,
+   "iqr": 2.12487788609085
+  },
+  "crest": {
+   "median": 10.170273780822754,
+   "iqr": 2.124877452850342
+  },
+  "centroid": {
+   "median": 2946.404241700657,
+   "iqr": 289.9721929412967
+  },
+  "flatness": {
+   "median": 0.040937431156635284,
+   "iqr": 0.0258476035669446
+  },
+  "sub100_share": {
+   "median": 0.2515055313706398,
+   "iqr": 0.10688347741961479
+  },
+  "lowest_pitch": {
+   "median": 56.524658203125,
+   "iqr": 20.1873779296875
+  },
+  "harmonic_share": {
+   "median": 0.7910738289356232,
+   "iqr": 0.1276458501815796
+  },
+  "clean_share": {
+   "median": 0.0,
+   "iqr": 0.015321955003878975
+  },
+  "minor_share": {
+   "median": 0.06436087181326075,
+   "iqr": 0.1612161113939922
+  },
+  "chord_rate": {
+   "median": 2.24998362332643,
+   "iqr": 0.7553709248573597
+  },
+  "repetitiveness": {
+   "median": 0.9383264183998108,
+   "iqr": 0.09103858470916748
+  },
+  "vocal_share": {
+   "median": 0.09418808668851852,
+   "iqr": 0.061348105780780315
+  },
+  "vocal_voiced": {
+   "median": 0.5290505913770475,
+   "iqr": 0.4722432659476883
+  },
+  "song_length": {
+   "median": 262.3085,
+   "iqr": 121.82650000000004
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

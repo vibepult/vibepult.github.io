@@ -1,0 +1,32 @@
+{
+ "id": "katatonia/208202368-105",
+ "band": "katatonia",
+ "title": "12",
+ "source": "itunes",
+ "album": "Brave Murder Day",
+ "year": 1996,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.374645420161955,
+  "tempo_var": 5.197924989256382,
+  "low_onset_rate": 5.9139825680065945,
+  "lufs": -10.56052884419836,
+  "rms_dbfs": -10.80984635406353,
+  "crest": 10.809845924377441,
+  "centroid": 2332.1312872613253,
+  "flatness": 0.015589190647006035,
+  "sub100_share": 0.33497899770736694,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8464012145996094,
+  "clean_share": 0.01474010861132661,
+  "minor_share": 0.21446007335062944,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.8099151253700256,
+  "vocal_share": 4.182220436632633e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 500.192
+ }
+}

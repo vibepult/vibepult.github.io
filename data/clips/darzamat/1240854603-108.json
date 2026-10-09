@@ -1,0 +1,32 @@
+{
+ "id": "darzamat/1240854603-108",
+ "band": "darzamat",
+ "title": "Recurring Yell",
+ "source": "itunes",
+ "album": "Transkarpatia",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.57748933229889,
+  "tempo_var": 1.8662745763388484,
+  "low_onset_rate": 5.780333244435824,
+  "lufs": -9.277431282079108,
+  "rms_dbfs": -8.633553449268035,
+  "crest": 8.633553504943848,
+  "centroid": 2686.9133793645847,
+  "flatness": 0.04138009622693062,
+  "sub100_share": 0.4398818016052246,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7710140943527222,
+  "clean_share": 0.01474010861132661,
+  "minor_share": 0.004517585032265126,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.8399963974952698,
+  "vocal_share": 0.1519707590341568,
+  "vocal_voiced": 0.7605985037406484,
+  "song_length": 338.236
+ }
+}

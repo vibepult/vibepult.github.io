@@ -1,0 +1,32 @@
+{
+ "id": "blaze-of-sorrow/1731340586-104",
+ "band": "blaze-of-sorrow",
+ "title": "Empito",
+ "source": "itunes",
+ "album": "Astri",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 4.866578384065595,
+  "tempo_var": 10.725508191645725,
+  "low_onset_rate": 5.999891158437035,
+  "lufs": -10.15250895608125,
+  "rms_dbfs": -8.869092345650953,
+  "crest": 8.869091987609863,
+  "centroid": 1665.208918256853,
+  "flatness": 0.00503243925049901,
+  "sub100_share": 0.38166236877441406,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.9249541759490967,
+  "clean_share": 0.5746326372776489,
+  "minor_share": 0.07780793339266079,
+  "chord_rate": 1.0666473170554729,
+  "repetitiveness": 0.6070195436477661,
+  "vocal_share": 0.03356876224279404,
+  "vocal_voiced": 1.0,
+  "song_length": 396.022
+ }
+}

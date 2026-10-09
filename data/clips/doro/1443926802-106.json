@@ -1,0 +1,32 @@
+{
+ "id": "doro/1443926802-106",
+ "band": "doro",
+ "title": "Beyond the Trees",
+ "source": "itunes",
+ "album": "Force Majeure",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.207583765698492,
+  "tempo_var": 7.342304563875184,
+  "low_onset_rate": 5.245735950152742,
+  "lufs": -25.598864909885318,
+  "rms_dbfs": -25.164830201586426,
+  "crest": 19.85348892211914,
+  "centroid": 1771.5489179849462,
+  "flatness": 0.007296842522919178,
+  "sub100_share": 0.029463933780789375,
+  "lowest_pitch": 164.190673828125,
+  "harmonic_share": 0.8640456199645996,
+  "clean_share": 0.721489526764934,
+  "minor_share": 0.06719169988192397,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.6159294247627258,
+  "vocal_share": 0.549355685710907,
+  "vocal_voiced": 0.9038189533239038,
+  "song_length": 146.027
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "saxon/1690333509-106",
+ "band": "saxon",
+ "title": "Baptism of Fire",
+ "source": "itunes",
+ "album": "Solid Ball of Rock",
+ "year": 1990,
+ "itunes_year": 1990,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.945024972118508,
+  "tempo_var": 5.955675672285607,
+  "low_onset_rate": 5.680096251757746,
+  "lufs": -12.195219066547015,
+  "rms_dbfs": -12.56778076895635,
+  "crest": 12.567779541015625,
+  "centroid": 2547.4667633059216,
+  "flatness": 0.031924232840538025,
+  "sub100_share": 0.18414610624313354,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.712179958820343,
+  "clean_share": 0.0031031807602792862,
+  "minor_share": 0.02255828742626187,
+  "chord_rate": 1.336493235707705,
+  "repetitiveness": 0.886780321598053,
+  "vocal_share": 0.28920790553092957,
+  "vocal_voiced": 0.8414872798434442,
+  "song_length": 192.707
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "samson/1435787757-105",
+ "band": "samson",
+ "title": "Go to Hell",
+ "source": "itunes",
+ "album": "Shock Tactics (Bonus Track Edition)",
+ "year": 1981,
+ "itunes_year": 1981,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.766666666666667,
+  "tempo_var": 2.0831113039053095,
+  "low_onset_rate": 4.6,
+  "lufs": -11.04871174449079,
+  "rms_dbfs": -10.910670356900136,
+  "crest": 10.91067123413086,
+  "centroid": 2193.051272714899,
+  "flatness": 0.01947455294430256,
+  "sub100_share": 0.13099193572998047,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.658848762512207,
+  "clean_share": 0.08668730650154799,
+  "minor_share": 0.17878574370604938,
+  "chord_rate": 1.2333333333333334,
+  "repetitiveness": 0.8598862290382385,
+  "vocal_share": 0.25689640641212463,
+  "vocal_voiced": 0.6538839724680433,
+  "song_length": 199.08
+ }
+}

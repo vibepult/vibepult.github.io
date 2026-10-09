@@ -1,0 +1,32 @@
+{
+ "id": "crematory/1825659131-106",
+ "band": "crematory",
+ "title": "Time For Tears",
+ "source": "itunes",
+ "album": "Believe",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.9,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.5,
+  "lufs": -16.67973650415056,
+  "rms_dbfs": -16.179432130513767,
+  "crest": 13.22984504699707,
+  "centroid": 2527.658082722323,
+  "flatness": 0.034201886504888535,
+  "sub100_share": 0.19218498468399048,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7440885901451111,
+  "clean_share": 0.003869969040247678,
+  "minor_share": 0.05300205183876916,
+  "chord_rate": 1.0,
+  "repetitiveness": 0.7748367190361023,
+  "vocal_share": 0.15183715522289276,
+  "vocal_voiced": 0.02857142857142857,
+  "song_length": 315.12
+ }
+}

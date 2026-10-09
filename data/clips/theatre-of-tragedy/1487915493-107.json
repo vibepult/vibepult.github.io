@@ -1,0 +1,32 @@
+{
+ "id": "theatre-of-tragedy/1487915493-107",
+ "band": "theatre-of-tragedy",
+ "title": "Image (Remastered)",
+ "source": "itunes",
+ "album": "Musique (Remastered)",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 78.30255681818181,
+  "onset_rate": 2.405687824273869,
+  "tempo_var": 24.318967380361016,
+  "low_onset_rate": 1.9379151917761723,
+  "lufs": -10.349432605053572,
+  "rms_dbfs": -9.86142053235959,
+  "crest": 9.861420631408691,
+  "centroid": 2648.6823937363915,
+  "flatness": 0.03982045128941536,
+  "sub100_share": 0.27165132761001587,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.76490718126297,
+  "clean_share": 0.1551590380139643,
+  "minor_share": 0.13517895253972956,
+  "chord_rate": 1.7374412064200164,
+  "repetitiveness": 0.8511983752250671,
+  "vocal_share": 0.024035748094320297,
+  "vocal_voiced": 0.7880184331797235,
+  "song_length": 189.16
+ }
+}

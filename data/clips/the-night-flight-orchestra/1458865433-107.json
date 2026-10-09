@@ -1,0 +1,32 @@
+{
+ "id": "the-night-flight-orchestra/1458865433-107",
+ "band": "the-night-flight-orchestra",
+ "title": "Lovers in the Rain",
+ "source": "itunes",
+ "album": "Sometimes the World Ain't Enough",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 2.4391001551665616,
+  "tempo_var": 1.2210870296199166,
+  "low_onset_rate": 4.410427677835426,
+  "lufs": -10.419847532669502,
+  "rms_dbfs": -10.218738231389139,
+  "crest": 10.218738555908203,
+  "centroid": 2285.3501885565192,
+  "flatness": 0.031675346195697784,
+  "sub100_share": 0.19212158024311066,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7266469597816467,
+  "clean_share": 0.01474010861132661,
+  "minor_share": -0.09563379332614597,
+  "chord_rate": 0.6682466178538525,
+  "repetitiveness": 0.825194239616394,
+  "vocal_share": 0.012480579316616058,
+  "vocal_voiced": 0.6938775510204082,
+  "song_length": 249.413
+ }
+}

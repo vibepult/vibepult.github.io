@@ -1,0 +1,32 @@
+{
+ "id": "warlock/1443457372-105",
+ "band": "warlock",
+ "title": "Without You",
+ "source": "itunes",
+ "album": "Burning the Witches",
+ "year": 1984,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 64.599609375,
+  "onset_rate": 3.4080577510546477,
+  "tempo_var": 20.74687528206028,
+  "low_onset_rate": 3.3412330892692625,
+  "lufs": -15.926839342951427,
+  "rms_dbfs": -15.635403659462144,
+  "crest": 15.635403633117676,
+  "centroid": 1948.8722075668527,
+  "flatness": 0.010492832399904728,
+  "sub100_share": 0.1683361679315567,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7635000348091125,
+  "clean_share": 0.4848719937936385,
+  "minor_share": -0.04523070253596384,
+  "chord_rate": 1.1026069194588566,
+  "repetitiveness": 0.6560343503952026,
+  "vocal_share": 0.40871474146842957,
+  "vocal_voiced": 0.8953488372093024,
+  "song_length": 334.2
+ }
+}

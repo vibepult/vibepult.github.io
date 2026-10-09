@@ -1,0 +1,32 @@
+{
+ "id": "ne-obliviscaris/1265279668-103",
+ "band": "ne-obliviscaris",
+ "title": "Intra Venus",
+ "source": "itunes",
+ "album": "Urn",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.374645420161955,
+  "tempo_var": 16.261102803845418,
+  "low_onset_rate": 3.2744084274838774,
+  "lufs": -11.410041814373699,
+  "rms_dbfs": -10.143512458202599,
+  "crest": 10.143512725830078,
+  "centroid": 2082.506049990762,
+  "flatness": 0.013337377458810806,
+  "sub100_share": 0.4632701277732849,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7845748662948608,
+  "clean_share": 0.33979829325058186,
+  "minor_share": -0.20721026914158103,
+  "chord_rate": 2.505924816951947,
+  "repetitiveness": 0.7546243071556091,
+  "vocal_share": 4.2650523823795083e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 448.837
+ }
+}

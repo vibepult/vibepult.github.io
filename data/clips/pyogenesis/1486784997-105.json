@@ -1,0 +1,32 @@
+{
+ "id": "pyogenesis/1486784997-105",
+ "band": "pyogenesis",
+ "title": "High Old Times",
+ "source": "itunes",
+ "album": "A Silent Soul Screams Loud",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.4080577510546477,
+  "tempo_var": 1.510081459986765,
+  "low_onset_rate": 3.5417070746254184,
+  "lufs": -11.994866841627768,
+  "rms_dbfs": -11.251154785093044,
+  "crest": 11.251153945922852,
+  "centroid": 2494.4458081950943,
+  "flatness": 0.029693514108657837,
+  "sub100_share": 0.453329861164093,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7690165638923645,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": -0.3433856078457377,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.8161865472793579,
+  "vocal_share": 0.1542147994041443,
+  "vocal_voiced": 0.7827616534740546,
+  "song_length": 182.447
+ }
+}

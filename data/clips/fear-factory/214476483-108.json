@@ -1,0 +1,32 @@
+{
+ "id": "fear-factory/214476483-108",
+ "band": "fear-factory",
+ "title": "Scumgrief",
+ "source": "itunes",
+ "album": "Soul of a New Machine",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 3.9092427144450372,
+  "tempo_var": 22.212076038450025,
+  "low_onset_rate": 7.751660767104689,
+  "lufs": -13.543363417953131,
+  "rms_dbfs": -13.7679084618415,
+  "crest": 13.767909049987793,
+  "centroid": 2856.4594268851533,
+  "flatness": 0.04932103306055069,
+  "sub100_share": 0.2805854082107544,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.6526455879211426,
+  "clean_share": 0.1373157486423584,
+  "minor_share": 0.12107614190088051,
+  "chord_rate": 2.505924816951947,
+  "repetitiveness": 0.9413567185401917,
+  "vocal_share": 0.13953156769275665,
+  "vocal_voiced": 0.227994227994228,
+  "song_length": 247.227
+ }
+}

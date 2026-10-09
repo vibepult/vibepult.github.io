@@ -1,0 +1,32 @@
+{
+ "id": "anthrax/1867327673-106",
+ "band": "anthrax",
+ "title": "Infectious",
+ "source": "itunes",
+ "album": "Cursum Perficio",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.6,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.8,
+  "lufs": -8.888650956920486,
+  "rms_dbfs": -8.221243909110152,
+  "crest": 8.221243858337402,
+  "centroid": 2540.9185354261726,
+  "flatness": 0.02429037354886532,
+  "sub100_share": 0.3824773132801056,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.8280683159828186,
+  "clean_share": 0.06346749226006192,
+  "minor_share": 0.0724341435732227,
+  "chord_rate": 2.8666666666666667,
+  "repetitiveness": 0.8800002932548523,
+  "vocal_share": 0.10696174204349518,
+  "vocal_voiced": 0.768361581920904,
+  "song_length": 316.531
+ }
+}

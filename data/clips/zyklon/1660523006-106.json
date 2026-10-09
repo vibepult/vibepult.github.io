@@ -1,0 +1,32 @@
+{
+ "id": "zyklon/1660523006-106",
+ "band": "zyklon",
+ "title": "Terrordrome",
+ "source": "itunes",
+ "album": "World Ov Worms",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 6.48199219318237,
+  "tempo_var": 9.935846535450157,
+  "low_onset_rate": 8.78744302477816,
+  "lufs": -7.070196492795289,
+  "rms_dbfs": -7.945053829412485,
+  "crest": 7.945053577423096,
+  "centroid": 3148.1779431594164,
+  "flatness": 0.09519932419061661,
+  "sub100_share": 0.19493882358074188,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.6594513654708862,
+  "clean_share": 0.0,
+  "minor_share": 0.027099023221613283,
+  "chord_rate": 2.2386261698104057,
+  "repetitiveness": 0.9542694687843323,
+  "vocal_share": 0.03382674977183342,
+  "vocal_voiced": 0.43243243243243246,
+  "song_length": 239.267
+ }
+}

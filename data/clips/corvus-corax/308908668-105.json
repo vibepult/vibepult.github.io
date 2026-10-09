@@ -1,0 +1,32 @@
+{
+ "id": "corvus-corax/308908668-105",
+ "band": "corvus-corax",
+ "title": "Saltarello Venusti",
+ "source": "itunes",
+ "album": "Tritonius",
+ "year": 1995,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.533333333333333,
+  "tempo_var": 1.8433740604119473,
+  "low_onset_rate": 6.133333333333334,
+  "lufs": -12.339068940995983,
+  "rms_dbfs": -12.683575241573191,
+  "crest": 12.683574676513672,
+  "centroid": 2409.542351345212,
+  "flatness": 0.0058791968040168285,
+  "sub100_share": 0.0016942444490268826,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.9393870830535889,
+  "clean_share": 0.6006191950464397,
+  "minor_share": 0.007818265010823722,
+  "chord_rate": 1.5,
+  "repetitiveness": 0.8085116147994995,
+  "vocal_share": 8.419143000537588e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 137.373
+ }
+}

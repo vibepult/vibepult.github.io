@@ -1,0 +1,32 @@
+{
+ "id": "wake/1310867032-105",
+ "band": "wake",
+ "title": "Paradigm Lost",
+ "source": "itunes",
+ "album": "Misery Rites",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.410427677835426,
+  "tempo_var": 15.987405815909803,
+  "low_onset_rate": 6.816115502109295,
+  "lufs": -7.921872852547295,
+  "rms_dbfs": -7.498620566242952,
+  "crest": 7.498620986938477,
+  "centroid": 2318.4519623932106,
+  "flatness": 0.027028074488043785,
+  "sub100_share": 0.32605981826782227,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7890954613685608,
+  "clean_share": 0.023273855702094646,
+  "minor_share": 0.014197099698907034,
+  "chord_rate": 2.138389177132328,
+  "repetitiveness": 0.8764331340789795,
+  "vocal_share": 0.15197819471359253,
+  "vocal_voiced": 0.33573141486810554,
+  "song_length": 218.433
+ }
+}

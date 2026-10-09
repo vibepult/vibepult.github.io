@@ -1,0 +1,32 @@
+{
+ "id": "down/299793030-109",
+ "band": "down",
+ "title": "Losing All",
+ "source": "itunes",
+ "album": "Nola",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.63290496358706,
+  "tempo_var": 3.731830196657216,
+  "low_onset_rate": 5.032739903684826,
+  "lufs": -9.643045369372786,
+  "rms_dbfs": -9.640902160241838,
+  "crest": 9.640902519226074,
+  "centroid": 2741.1534640381547,
+  "flatness": 0.038738273084163666,
+  "sub100_share": 0.22955931723117828,
+  "lowest_pitch": 94.207763671875,
+  "harmonic_share": 0.575374960899353,
+  "clean_share": 0.004640371229698376,
+  "minor_share": -0.07958374321397177,
+  "chord_rate": 1.966434796804005,
+  "repetitiveness": 0.8323990106582642,
+  "vocal_share": 0.17890480160713196,
+  "vocal_voiced": 0.801980198019802,
+  "song_length": 261.6
+ }
+}

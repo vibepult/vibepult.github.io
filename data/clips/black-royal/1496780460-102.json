@@ -1,0 +1,32 @@
+{
+ "id": "black-royal/1496780460-102",
+ "band": "black-royal",
+ "title": "Hail Yourself",
+ "source": "itunes",
+ "album": "Firebride",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 5.245735950152742,
+  "tempo_var": 6.286915950021047,
+  "low_onset_rate": 9.088154002812393,
+  "lufs": -7.124586841778086,
+  "rms_dbfs": -6.139084579499434,
+  "crest": 6.1390838623046875,
+  "centroid": 2215.836646455191,
+  "flatness": 0.02416827343404293,
+  "sub100_share": 0.42931464314460754,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8172433376312256,
+  "clean_share": 0.022498060512024826,
+  "minor_share": -0.015186831900061315,
+  "chord_rate": 2.071564515346943,
+  "repetitiveness": 0.9201499819755554,
+  "vocal_share": 0.08160394430160522,
+  "vocal_voiced": 0.16109154929577466,
+  "song_length": 208.267
+ }
+}

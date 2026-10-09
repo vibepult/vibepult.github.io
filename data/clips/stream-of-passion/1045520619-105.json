@@ -1,0 +1,32 @@
+{
+ "id": "stream-of-passion/1045520619-105",
+ "band": "stream-of-passion",
+ "title": "Haunted",
+ "source": "itunes",
+ "album": "Embrace the Storm",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.809005721766959,
+  "tempo_var": 19.55354990090899,
+  "low_onset_rate": 3.207583765698492,
+  "lufs": -14.725297202223773,
+  "rms_dbfs": -13.623993122934436,
+  "crest": 13.623992919921875,
+  "centroid": 1971.7572066204584,
+  "flatness": 0.009053219109773636,
+  "sub100_share": 0.3347480595111847,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8721702098846436,
+  "clean_share": 0.49961210240496506,
+  "minor_share": 0.04027831860959108,
+  "chord_rate": 0.9689575958880862,
+  "repetitiveness": 0.6260392069816589,
+  "vocal_share": 0.2619505226612091,
+  "vocal_voiced": 0.7750677506775068,
+  "song_length": 271.467
+ }
+}

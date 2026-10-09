@@ -1,0 +1,32 @@
+{
+ "id": "tuatha-de-danann/1482371337-103",
+ "band": "tuatha-de-danann",
+ "title": "Abracadabra",
+ "source": "itunes",
+ "album": "The Delirium Has Just Begun...",
+ "year": 2002,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.646683920865054,
+  "tempo_var": 13.840037028029796,
+  "low_onset_rate": 6.816115502109295,
+  "lufs": -12.550602220883613,
+  "rms_dbfs": -11.945336614103937,
+  "crest": 11.945337295532227,
+  "centroid": 2102.8465947689924,
+  "flatness": 0.006204674486070871,
+  "sub100_share": 0.07621452212333679,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.9530537128448486,
+  "clean_share": 0.6338246702870443,
+  "minor_share": 0.05738671464879719,
+  "chord_rate": 0.6348342869611598,
+  "repetitiveness": 0.732539713382721,
+  "vocal_share": 0.010284378193318844,
+  "vocal_voiced": 1.0,
+  "song_length": 208.507
+ }
+}

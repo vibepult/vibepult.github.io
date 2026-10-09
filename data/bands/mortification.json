@@ -1,0 +1,127 @@
+{
+ "slug": "mortification",
+ "name": "Mortification",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 41276986,
+  "deezer": 65423,
+  "spotify": "06T4NL0adq4kfYAr2nZv5t"
+ },
+ "metadata": {
+  "formed": 1990,
+  "split": null,
+  "country": "AU",
+  "status": "active",
+  "members": 4,
+  "past_members": 17,
+  "full_lengths": 14,
+  "genre": "Death/Thrash Metal (early/later); Death 'n' Roll (mid)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 9705,
+  "themes": "Christianity, Destruction of evil, Heavy metal",
+  "release_year": 1997
+ },
+ "partial": false,
+ "clips": [
+  "mortification/389230969-106",
+  "mortification/389242392-105",
+  "mortification/389252725-106",
+  "mortification/389278788-105",
+  "mortification/389280619-105",
+  "mortification/1575078554-104",
+  "mortification/1574942703-105",
+  "mortification/210914620-105",
+  "mortification/1574767358-105",
+  "mortification/276034709-107",
+  "mortification/281414028-106",
+  "mortification/457604078-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 33.318639106457795
+  },
+  "onset_rate": {
+   "median": 4.861494144886777,
+   "iqr": 1.3771908093913439
+  },
+  "tempo_var": {
+   "median": 5.543405369285084,
+   "iqr": 16.45703246388576
+  },
+  "low_onset_rate": {
+   "median": 6.515404524075062,
+   "iqr": 1.5163311632330139
+  },
+  "lufs": {
+   "median": -10.908657375543733,
+   "iqr": 3.357969739067155
+  },
+  "rms_dbfs": {
+   "median": -10.432075943286115,
+   "iqr": 3.21045909362061
+  },
+  "crest": {
+   "median": 10.43207597732544,
+   "iqr": 3.2104597091674805
+  },
+  "centroid": {
+   "median": 2623.385410813993,
+   "iqr": 177.3953804863395
+  },
+  "flatness": {
+   "median": 0.03261052817106247,
+   "iqr": 0.00818859227001667
+  },
+  "sub100_share": {
+   "median": 0.2640097066760063,
+   "iqr": 0.09537509456276894
+  },
+  "lowest_pitch": {
+   "median": 65.9454345703125,
+   "iqr": 16.14990234375
+  },
+  "harmonic_share": {
+   "median": 0.7339026033878326,
+   "iqr": 0.09127499163150787
+  },
+  "clean_share": {
+   "median": 0.02055857253685027,
+   "iqr": 0.06935986996880619
+  },
+  "minor_share": {
+   "median": 0.03216890044843179,
+   "iqr": 0.13269942791750416
+  },
+  "chord_rate": {
+   "median": 1.8543843645444407,
+   "iqr": 0.7131125882930147
+  },
+  "repetitiveness": {
+   "median": 0.8779354989528656,
+   "iqr": 0.08747465908527374
+  },
+  "vocal_share": {
+   "median": 0.10042212530970573,
+   "iqr": 0.050832318142056465
+  },
+  "vocal_voiced": {
+   "median": 0.2377189523361276,
+   "iqr": 0.18809364330120676
+  },
+  "song_length": {
+   "median": 267.553,
+   "iqr": 127.14325
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

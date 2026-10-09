@@ -1,0 +1,32 @@
+{
+ "id": "stryper/1443534228-107",
+ "band": "stryper",
+ "title": "Shout It Out Loud",
+ "source": "itunes",
+ "album": "The Covering",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.6085317364108036,
+  "tempo_var": 2.4619674510393748,
+  "low_onset_rate": 4.343603016050041,
+  "lufs": -8.078751966514693,
+  "rms_dbfs": -8.000275689231014,
+  "crest": 8.000276565551758,
+  "centroid": 2939.1455112534336,
+  "flatness": 0.051664017140865326,
+  "sub100_share": 0.2970855236053467,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.6404041647911072,
+  "clean_share": 0.009309542280837859,
+  "minor_share": 0.031467054567821506,
+  "chord_rate": 2.071564515346943,
+  "repetitiveness": 0.8050768971443176,
+  "vocal_share": 0.33854612708091736,
+  "vocal_voiced": 0.5466034755134281,
+  "song_length": 194.64
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "burning-inside/35962342-103",
+ "band": "burning-inside",
+ "title": "My Own",
+ "source": "itunes",
+ "album": "The Eve of the Entities",
+ "year": 1999,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 7.517774450855841,
+  "tempo_var": 11.600799619139922,
+  "low_onset_rate": 7.050001818358144,
+  "lufs": -7.78498979629017,
+  "rms_dbfs": -7.521250956454732,
+  "crest": 7.521251678466797,
+  "centroid": 2447.172316102969,
+  "flatness": 0.03513101115822792,
+  "sub100_share": 0.2602827847003937,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.6732104420661926,
+  "clean_share": 0.0,
+  "minor_share": 0.11510470201815265,
+  "chord_rate": 2.3722754933811765,
+  "repetitiveness": 0.932287335395813,
+  "vocal_share": 0.12117858231067657,
+  "vocal_voiced": 0.3701578192252511,
+  "song_length": 180.96
+ }
+}

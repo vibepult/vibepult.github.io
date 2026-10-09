@@ -1,0 +1,32 @@
+{
+ "id": "underoath/1789174149-106",
+ "band": "underoath",
+ "title": "And Then There Was Nothing",
+ "source": "itunes",
+ "album": "The Place After This One",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 0.9666608214009288,
+  "tempo_var": 18.104562513188505,
+  "low_onset_rate": 1.866655379256966,
+  "lufs": -6.423732864661759,
+  "rms_dbfs": -5.138496892568602,
+  "crest": 5.1384968757629395,
+  "centroid": 2606.2399842890636,
+  "flatness": 0.04409431293606758,
+  "sub100_share": 0.4908543527126312,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7738093137741089,
+  "clean_share": 0.0069605568445475635,
+  "minor_share": -0.01522915886326176,
+  "chord_rate": 1.7333228521671826,
+  "repetitiveness": 0.9316784739494324,
+  "vocal_share": 0.07365572452545166,
+  "vocal_voiced": 0.1806282722513089,
+  "song_length": 127.82
+ }
+}

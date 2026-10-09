@@ -1,0 +1,32 @@
+{
+ "id": "dagoba/583584426-106",
+ "band": "dagoba",
+ "title": "It's All About Time",
+ "source": "itunes",
+ "album": "What Hell is About",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 7.066666666666666,
+  "tempo_var": 16.299782253266784,
+  "low_onset_rate": 3.7,
+  "lufs": -7.310726966371107,
+  "rms_dbfs": -6.612319273511208,
+  "crest": 6.612318992614746,
+  "centroid": 2690.6383132684737,
+  "flatness": 0.03903580084443092,
+  "sub100_share": 0.5537959933280945,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7875242829322815,
+  "clean_share": 0.0,
+  "minor_share": 0.07994922263717164,
+  "chord_rate": 1.8,
+  "repetitiveness": 0.9453368782997131,
+  "vocal_share": 0.1840965896844864,
+  "vocal_voiced": 0.1649214659685864,
+  "song_length": 409.173
+ }
+}

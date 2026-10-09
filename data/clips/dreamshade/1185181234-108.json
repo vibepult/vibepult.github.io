@@ -1,0 +1,32 @@
+{
+ "id": "dreamshade/1185181234-108",
+ "band": "dreamshade",
+ "title": "Losing Touch",
+ "source": "itunes",
+ "album": "Vibrant",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.045261964796587,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 5.178911288367357,
+  "lufs": -7.5663586767497595,
+  "rms_dbfs": -7.305482546032041,
+  "crest": 7.305482864379883,
+  "centroid": 2466.7956913899943,
+  "flatness": 0.03408709168434143,
+  "sub100_share": 0.334405779838562,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.6862511038780212,
+  "clean_share": 0.041117145073700546,
+  "minor_share": 0.24352307635294657,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.8121538758277893,
+  "vocal_share": 0.3022124171257019,
+  "vocal_voiced": 0.3225538971807628,
+  "song_length": 196.0
+ }
+}

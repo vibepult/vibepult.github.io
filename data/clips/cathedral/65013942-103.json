@@ -1,0 +1,32 @@
+{
+ "id": "cathedral/65013942-103",
+ "band": "cathedral",
+ "title": "Serpent Eve",
+ "source": "itunes",
+ "album": "Forest of Equilibrium",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 75.99954044117646,
+  "onset_rate": 2.4391001551665616,
+  "tempo_var": 8.521322067790127,
+  "low_onset_rate": 3.207583765698492,
+  "lufs": -16.627782982230862,
+  "rms_dbfs": -15.709602231610836,
+  "crest": 15.180355072021484,
+  "centroid": 2143.4577666245164,
+  "flatness": 0.009406985715031624,
+  "sub100_share": 0.18006926774978638,
+  "lowest_pitch": 129.19921875,
+  "harmonic_share": 0.8615345358848572,
+  "clean_share": 0.360744763382467,
+  "minor_share": 0.19006488453233383,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.616305947303772,
+  "vocal_share": 0.0005241657490842044,
+  "vocal_voiced": 0.0,
+  "song_length": 460.4
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "turisas/1045404642-107",
+ "band": "turisas",
+ "title": "The Days Passed",
+ "source": "itunes",
+ "album": "Turisas2013",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.9092427144450372,
+  "tempo_var": 2.7273081799416254,
+  "low_onset_rate": 3.1407591039131066,
+  "lufs": -9.947119296857949,
+  "rms_dbfs": -9.405337973829386,
+  "crest": 9.4053373336792,
+  "centroid": 2246.104615320773,
+  "flatness": 0.022453268989920616,
+  "sub100_share": 0.24988824129104614,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.6261481046676636,
+  "clean_share": 0.18231186966640806,
+  "minor_share": 0.25004061010720136,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.8325309753417969,
+  "vocal_share": 0.2336682826280594,
+  "vocal_voiced": 0.7204188481675393,
+  "song_length": 273.547
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "mustasch/1349923988-106",
+ "band": "mustasch",
+ "title": "Sympathy for Destruction",
+ "source": "itunes",
+ "album": "Above All",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.610901663191583,
+  "tempo_var": 3.307211144047029,
+  "low_onset_rate": 5.780333244435824,
+  "lufs": -8.906523028144523,
+  "rms_dbfs": -8.866290770823355,
+  "crest": 8.866290092468262,
+  "centroid": 2036.953471542222,
+  "flatness": 0.015808293595910072,
+  "sub100_share": 0.28802040219306946,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.7924165725708008,
+  "clean_share": 0.11481768813033359,
+  "minor_share": 0.024056811530962396,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.9429948329925537,
+  "vocal_share": 0.14181306958198547,
+  "vocal_voiced": 0.47914735866543096,
+  "song_length": 194.56
+ }
+}

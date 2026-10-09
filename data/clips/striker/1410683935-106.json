@@ -1,0 +1,32 @@
+{
+ "id": "striker/1410683935-106",
+ "band": "striker",
+ "title": "Play to Win",
+ "source": "itunes",
+ "album": "Play to Win",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.143129030693886,
+  "tempo_var": 16.39982606629163,
+  "low_onset_rate": 4.911612641225816,
+  "lufs": -7.378459389960018,
+  "rms_dbfs": -6.883265411247047,
+  "crest": 6.883264541625977,
+  "centroid": 2673.439824541534,
+  "flatness": 0.03676001355051994,
+  "sub100_share": 0.3236287236213684,
+  "lowest_pitch": 131.890869140625,
+  "harmonic_share": 0.7887793183326721,
+  "clean_share": 0.01474010861132661,
+  "minor_share": 0.1637147373268163,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.7772640585899353,
+  "vocal_share": 0.23156225681304932,
+  "vocal_voiced": 0.8282828282828283,
+  "song_length": 229.154
+ }
+}

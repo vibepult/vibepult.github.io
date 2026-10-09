@@ -1,0 +1,32 @@
+{
+ "id": "nocturnus/583648327-103",
+ "band": "nocturnus",
+ "title": "Edge of Darkness",
+ "source": "itunes",
+ "album": "Ethereal Tomb",
+ "year": 1999,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.143129030693886,
+  "tempo_var": 2.5242710556915986,
+  "low_onset_rate": 5.847157906221209,
+  "lufs": -14.634155623407683,
+  "rms_dbfs": -14.059223249879981,
+  "crest": 14.059223175048828,
+  "centroid": 2068.514073502795,
+  "flatness": 0.01601775921881199,
+  "sub100_share": 0.30227383971214294,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7215118408203125,
+  "clean_share": 0.1365399534522886,
+  "minor_share": -0.13134802206927865,
+  "chord_rate": 1.4367302283857828,
+  "repetitiveness": 0.9305655360221863,
+  "vocal_share": 0.04639090970158577,
+  "vocal_voiced": 0.7421383647798742,
+  "song_length": 291.76
+ }
+}

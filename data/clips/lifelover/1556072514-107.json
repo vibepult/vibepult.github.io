@@ -1,0 +1,32 @@
+{
+ "id": "lifelover/1556072514-107",
+ "band": "lifelover",
+ "title": "Totus Anctus",
+ "source": "itunes",
+ "album": "Sjukdom",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 2.966621819775967,
+  "tempo_var": 31.804325340736753,
+  "low_onset_rate": 4.633263291560218,
+  "lufs": -5.421276361937521,
+  "rms_dbfs": -5.397352620042973,
+  "crest": 5.397352695465088,
+  "centroid": 2531.087427229257,
+  "flatness": 0.04681818187236786,
+  "sub100_share": 0.10924138873815536,
+  "lowest_pitch": 94.207763671875,
+  "harmonic_share": 0.6621811985969543,
+  "clean_share": 0.013147718484145398,
+  "minor_share": -0.11346805321120229,
+  "chord_rate": 1.8999712778340465,
+  "repetitiveness": 0.9235577583312988,
+  "vocal_share": 0.3335686922073364,
+  "vocal_voiced": 0.34881320949432404,
+  "song_length": 230.667
+ }
+}

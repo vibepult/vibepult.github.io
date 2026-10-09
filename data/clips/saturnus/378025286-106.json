@@ -1,0 +1,32 @@
+{
+ "id": "saturnus/378025286-106",
+ "band": "saturnus",
+ "title": "Softly On the Path You Fade",
+ "source": "itunes",
+ "album": "Martyre",
+ "year": 2000,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 2.9068727876642586,
+  "tempo_var": 5.948854541898349,
+  "low_onset_rate": 7.517774450855841,
+  "lufs": -23.316160081508887,
+  "rms_dbfs": -22.56389676797852,
+  "crest": 15.487049102783203,
+  "centroid": 1231.8142515254187,
+  "flatness": 0.0005940155242569745,
+  "sub100_share": 0.20501284301280975,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.986876904964447,
+  "clean_share": 1.0,
+  "minor_share": 0.10661829018443392,
+  "chord_rate": 0.6348342869611598,
+  "repetitiveness": 0.7596274018287659,
+  "vocal_share": 0.0014704640489071608,
+  "vocal_voiced": 1.0,
+  "song_length": 428.973
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "celtic-frost/1640294040-105",
+ "band": "celtic-frost",
+ "title": "This Island Earth",
+ "source": "itunes",
+ "album": "Vanity / Nemesis",
+ "year": 1990,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 2.940285118556951,
+  "tempo_var": 1.524155970681306,
+  "low_onset_rate": 3.6085317364108036,
+  "lufs": -11.71339219742608,
+  "rms_dbfs": -11.96680004748976,
+  "crest": 11.96679973602295,
+  "centroid": 2673.599071945274,
+  "flatness": 0.03036692552268505,
+  "sub100_share": 0.09483017772436142,
+  "lowest_pitch": 123.81591796875,
+  "harmonic_share": 0.765246570110321,
+  "clean_share": 0.1078355314197052,
+  "minor_share": 0.12991742453438093,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.5927481651306152,
+  "vocal_share": 0.12421199679374695,
+  "vocal_voiced": 0.8263772954924875,
+  "song_length": 352.267
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "helloween",
+ "name": "Helloween",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 2320560,
+  "deezer": 2582,
+  "spotify": "4pQN0GB0fNEEOfQCaWotsY"
+ },
+ "metadata": {
+  "formed": 1983,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 7,
+  "past_members": 5,
+  "full_lengths": 19,
+  "genre": "Power/Speed Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 479353,
+  "themes": "Fantasy, Life, Humanity, Good vs. Evil, Humour, Religion, Politics, Glory, Metal",
+  "release_year": 1992
+ },
+ "partial": false,
+ "clips": [
+  "helloween/1747311062-105",
+  "helloween/1747310393-104",
+  "helloween/1747310697-106",
+  "helloween/1438860190-109",
+  "helloween/1439725159-201",
+  "helloween/1752158807-106",
+  "helloween/1752139612-106",
+  "helloween/1713501740-106",
+  "helloween/1713881063-106",
+  "helloween/1713868289-108",
+  "helloween/1436154450-105",
+  "helloween/1776757493-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 62.89617139959431
+  },
+  "onset_rate": {
+   "median": 5.183254977249021,
+   "iqr": 1.1083235073291915
+  },
+  "tempo_var": {
+   "median": 17.29948061258675,
+   "iqr": 18.37506095267205
+  },
+  "low_onset_rate": {
+   "median": 6.09995263362106,
+   "iqr": 2.896708849278115
+  },
+  "lufs": {
+   "median": -9.762992303446097,
+   "iqr": 1.6949442770164538
+  },
+  "rms_dbfs": {
+   "median": -9.797745416922567,
+   "iqr": 1.8432469036310017
+  },
+  "crest": {
+   "median": 9.797744750976562,
+   "iqr": 1.8432464599609375
+  },
+  "centroid": {
+   "median": 2680.369242006531,
+   "iqr": 332.99460937173853
+  },
+  "flatness": {
+   "median": 0.037186335772275925,
+   "iqr": 0.015928960405290127
+  },
+  "sub100_share": {
+   "median": 0.2595122829079628,
+   "iqr": 0.16002782061696053
+  },
+  "lowest_pitch": {
+   "median": 63.2537841796875,
+   "iqr": 53.16009521484375
+  },
+  "harmonic_share": {
+   "median": 0.7546722888946533,
+   "iqr": 0.038202524185180664
+  },
+  "clean_share": {
+   "median": 0.004254870833423124,
+   "iqr": 0.013556297142908178
+  },
+  "minor_share": {
+   "median": -0.05633965134011085,
+   "iqr": 0.23026642931200686
+  },
+  "chord_rate": {
+   "median": 1.7999727895269915,
+   "iqr": 0.7833296800753833
+  },
+  "repetitiveness": {
+   "median": 0.8729880452156067,
+   "iqr": 0.08069862425327301
+  },
+  "vocal_share": {
+   "median": 0.22091183811426163,
+   "iqr": 0.09630455076694489
+  },
+  "vocal_voiced": {
+   "median": 0.6609995019253427,
+   "iqr": 0.2058399345632902
+  },
+  "song_length": {
+   "median": 272.24649999999997,
+   "iqr": 53.70350000000002
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.5,
+  "camp": 0.8
+ },
+ "sources_failed": []
+}

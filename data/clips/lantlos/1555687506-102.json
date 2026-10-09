@@ -1,0 +1,32 @@
+{
+ "id": "lantlos/1555687506-102",
+ "band": "lantlos",
+ "title": "Bliss",
+ "source": "itunes",
+ "album": "Agape",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 7.050001818358144,
+  "tempo_var": 2.2411116061017156,
+  "low_onset_rate": 7.450949789070456,
+  "lufs": -7.573248245522931,
+  "rms_dbfs": -7.0073474223552745,
+  "crest": 7.007347106933594,
+  "centroid": 2359.0579635478334,
+  "flatness": 0.03161763399839401,
+  "sub100_share": 0.3194758892059326,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.6951500773429871,
+  "clean_share": 0.0,
+  "minor_share": 0.15457560730828135,
+  "chord_rate": 0.6682466178538525,
+  "repetitiveness": 0.9225530624389648,
+  "vocal_share": 0.06463445723056793,
+  "vocal_voiced": 0.6325706594885598,
+  "song_length": 474.573
+ }
+}

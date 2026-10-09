@@ -1,0 +1,32 @@
+{
+ "id": "stille-volk/1555062669-106",
+ "band": "stille-volk",
+ "title": "Egerie Nocturne",
+ "source": "itunes",
+ "album": "Nueit De Sabbat",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 4.644313994084275,
+  "tempo_var": 2.32917748404289,
+  "low_onset_rate": 4.5106646705135045,
+  "lufs": -10.080217947434962,
+  "rms_dbfs": -9.93270757544251,
+  "crest": 9.932707786560059,
+  "centroid": 2491.0268791188214,
+  "flatness": 0.02211748994886875,
+  "sub100_share": 0.06169893220067024,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.8657175302505493,
+  "clean_share": 0.057408844065166796,
+  "minor_share": 0.024553203389264255,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.8190475106239319,
+  "vocal_share": 0.2545086443424225,
+  "vocal_voiced": 0.8089887640449438,
+  "song_length": 340.187
+ }
+}

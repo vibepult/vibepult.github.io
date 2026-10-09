@@ -1,0 +1,127 @@
+{
+ "slug": "the-black-dahlia-murder",
+ "name": "The Black Dahlia Murder",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 53265055,
+  "deezer": 12784,
+  "spotify": "4xTDPgk4jHCF0qui3dH6BS"
+ },
+ "metadata": {
+  "formed": 2001,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 4,
+  "past_members": 16,
+  "full_lengths": 10,
+  "genre": "Melodic Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 81104,
+  "themes": "Death, Violence, Horror stories, Occultism, H.P. Lovecraft, Blasphemy",
+  "release_year": 2008
+ },
+ "partial": false,
+ "clips": [
+  "the-black-dahlia-murder/53265401-106",
+  "the-black-dahlia-murder/73290539-106",
+  "the-black-dahlia-murder/261391604-106",
+  "the-black-dahlia-murder/325518688-105",
+  "the-black-dahlia-murder/437121209-106",
+  "the-black-dahlia-murder/633717738-105",
+  "the-black-dahlia-murder/1007417458-105",
+  "the-black-dahlia-murder/1267514262-105",
+  "the-black-dahlia-murder/1743248165-106",
+  "the-black-dahlia-murder/53265401-105",
+  "the-black-dahlia-murder/73290539-105",
+  "the-black-dahlia-murder/261391604-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.69701086956522,
+   "iqr": 34.52868009868422
+  },
+  "onset_rate": {
+   "median": 7.466553793593445,
+   "iqr": 1.2666776264405168
+  },
+  "tempo_var": {
+   "median": 9.055116979655105,
+   "iqr": 9.031438901552974
+  },
+  "low_onset_rate": {
+   "median": 7.592242111988706,
+   "iqr": 1.574976190836117
+  },
+  "lufs": {
+   "median": -8.071792543166959,
+   "iqr": 1.2259487024708164
+  },
+  "rms_dbfs": {
+   "median": -7.672650360654929,
+   "iqr": 1.1334606344217324
+  },
+  "crest": {
+   "median": 7.672650098800659,
+   "iqr": 1.1334606409072876
+  },
+  "centroid": {
+   "median": 2769.3293504471467,
+   "iqr": 111.89478147678028
+  },
+  "flatness": {
+   "median": 0.0528007410466671,
+   "iqr": 0.0171771002933383
+  },
+  "sub100_share": {
+   "median": 0.2827552407979965,
+   "iqr": 0.10620300844311714
+  },
+  "lowest_pitch": {
+   "median": 51.141357421875,
+   "iqr": 16.82281494140625
+  },
+  "harmonic_share": {
+   "median": 0.6987137198448181,
+   "iqr": 0.056835055351257324
+  },
+  "clean_share": {
+   "median": 0.0,
+   "iqr": 0.00019334880123743234
+  },
+  "minor_share": {
+   "median": 0.016180612825771934,
+   "iqr": 0.11051713695020858
+  },
+  "chord_rate": {
+   "median": 2.3666666666666667,
+   "iqr": 0.5988182833514686
+  },
+  "repetitiveness": {
+   "median": 0.9321749806404114,
+   "iqr": 0.027378767728805542
+  },
+  "vocal_share": {
+   "median": 0.16506675630807877,
+   "iqr": 0.031575240194797516
+  },
+  "vocal_voiced": {
+   "median": 0.0830532187503398,
+   "iqr": 0.1382889915311179
+  },
+  "song_length": {
+   "median": 217.2865,
+   "iqr": 21.31725
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

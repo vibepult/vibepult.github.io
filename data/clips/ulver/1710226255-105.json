@@ -1,0 +1,32 @@
+{
+ "id": "ulver/1710226255-105",
+ "band": "ulver",
+ "title": "It Is Not Sound",
+ "source": "itunes",
+ "album": "Blood Inside",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 2.799957672597542,
+  "tempo_var": 9.318758907179486,
+  "low_onset_rate": 7.6665507702075555,
+  "lufs": -9.25585528113126,
+  "rms_dbfs": -8.665871749410197,
+  "crest": 8.665872573852539,
+  "centroid": 1509.5814174828656,
+  "flatness": 0.006040386389940977,
+  "sub100_share": 0.0917043685913086,
+  "lowest_pitch": 115.740966796875,
+  "harmonic_share": 0.9160436391830444,
+  "clean_share": 0.6883217324052591,
+  "minor_share": 0.07985435321645373,
+  "chord_rate": 1.299980347991716,
+  "repetitiveness": 0.7083215713500977,
+  "vocal_share": 0.2868618965148926,
+  "vocal_voiced": 0.9046270066100094,
+  "song_length": 277.493
+ }
+}

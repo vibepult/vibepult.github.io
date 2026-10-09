@@ -1,0 +1,32 @@
+{
+ "id": "body-count/1820880340-106",
+ "band": "body-count",
+ "title": "Get A Job",
+ "source": "itunes",
+ "album": "Manslaughter",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.299919880273919,
+  "tempo_var": 17.40575764183086,
+  "low_onset_rate": 6.266571933908785,
+  "lufs": -6.8742503154086565,
+  "rms_dbfs": -6.953091871371516,
+  "crest": 6.953092098236084,
+  "centroid": 2649.8708925261158,
+  "flatness": 0.04453866928815842,
+  "sub100_share": 0.18169939517974854,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.6718863844871521,
+  "clean_share": 0.0007733952049497294,
+  "minor_share": -0.08979973935617869,
+  "chord_rate": 1.433311665734456,
+  "repetitiveness": 0.9029284715652466,
+  "vocal_share": 0.2334354668855667,
+  "vocal_voiced": 0.6363636363636364,
+  "song_length": 181.197
+ }
+}

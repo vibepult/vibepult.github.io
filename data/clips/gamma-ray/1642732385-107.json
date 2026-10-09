@@ -1,0 +1,32 @@
+{
+ "id": "gamma-ray/1642732385-107",
+ "band": "gamma-ray",
+ "title": "Valley of the Kings",
+ "source": "itunes",
+ "album": "Somewhere out in Space",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.9473948988992875,
+  "tempo_var": 12.224683862887694,
+  "low_onset_rate": 6.849527833001988,
+  "lufs": -10.51009933272294,
+  "rms_dbfs": -10.067730501972127,
+  "crest": 10.067729949951172,
+  "centroid": 2369.5115104152333,
+  "flatness": 0.029299072921276093,
+  "sub100_share": 0.3250698149204254,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7368338108062744,
+  "clean_share": 0.008533747090768037,
+  "minor_share": 0.14555280808603815,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.8686642050743103,
+  "vocal_share": 0.18255969882011414,
+  "vocal_voiced": 0.6845906902086677,
+  "song_length": 230.84
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "into-the-fray/1570799566-106",
+ "band": "into-the-fray",
+ "title": "Despotia",
+ "source": "itunes",
+ "album": "Into the Fray",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.84478797944043,
+  "tempo_var": 18.482391555467924,
+  "low_onset_rate": 6.548816854967755,
+  "lufs": -7.067178995770649,
+  "rms_dbfs": -6.32525731650761,
+  "crest": 6.325257301330566,
+  "centroid": 2443.646508270959,
+  "flatness": 0.03119124099612236,
+  "sub100_share": 0.3909309506416321,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.7128504514694214,
+  "clean_share": 0.09930178432893716,
+  "minor_share": 0.22456064874828308,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.82508784532547,
+  "vocal_share": 0.18198655545711517,
+  "vocal_voiced": 0.15374507227332457,
+  "song_length": 268.343
+ }
+}

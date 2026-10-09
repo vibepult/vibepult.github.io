@@ -1,0 +1,32 @@
+{
+ "id": "celtian/1569819402-106",
+ "band": "celtian",
+ "title": "Magia de Luna",
+ "source": "itunes",
+ "album": "Sendas de Leyenda",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.677726324976968,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.443840008728119,
+  "lufs": -8.87692297128659,
+  "rms_dbfs": -8.455697895747623,
+  "crest": 8.455698013305664,
+  "centroid": 2617.816286561818,
+  "flatness": 0.03037382662296295,
+  "sub100_share": 0.26651260256767273,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7802747488021851,
+  "clean_share": 0.10938712179984485,
+  "minor_share": 0.24104349503087052,
+  "chord_rate": 1.336493235707705,
+  "repetitiveness": 0.7628762125968933,
+  "vocal_share": 0.30542102456092834,
+  "vocal_voiced": 0.9107142857142857,
+  "song_length": 259.68
+ }
+}

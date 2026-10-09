@@ -1,0 +1,127 @@
+{
+ "slug": "faith-no-more",
+ "name": "Faith No More",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 170077,
+  "deezer": 2255,
+  "spotify": "6GbCJZrI318Ybm8mY36Of5"
+ },
+ "metadata": {
+  "formed": 1982,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 16,
+  "full_lengths": 7,
+  "genre": "Avant-garde/Alternative Rock/Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 641688,
+  "themes": "Struggle, Indifference, Silliness, Humour, Society",
+  "release_year": 1990
+ },
+ "partial": false,
+ "clips": [
+  "faith-no-more/1116657592-107",
+  "faith-no-more/63819537-105",
+  "faith-no-more/83386606-106",
+  "faith-no-more/184672979-107",
+  "faith-no-more/184673815-107",
+  "faith-no-more/365629446-106",
+  "faith-no-more/1891444924-105",
+  "faith-no-more/1116657592-108",
+  "faith-no-more/63819537-107",
+  "faith-no-more/83386606-105",
+  "faith-no-more/184672979-108",
+  "faith-no-more/184673815-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.19921875,
+   "iqr": 29.387865773857087
+  },
+  "onset_rate": {
+   "median": 3.9495342952758405,
+   "iqr": 0.758121403198496
+  },
+  "tempo_var": {
+   "median": 3.3040612220744072,
+   "iqr": 16.67684303376346
+  },
+  "low_onset_rate": {
+   "median": 4.5661282569855715,
+   "iqr": 1.4002607025278606
+  },
+  "lufs": {
+   "median": -12.638220469772438,
+   "iqr": 6.744092582087168
+  },
+  "rms_dbfs": {
+   "median": -12.456830716576068,
+   "iqr": 6.208194100915231
+  },
+  "crest": {
+   "median": 12.456830978393555,
+   "iqr": 4.270307302474976
+  },
+  "centroid": {
+   "median": 2149.6238107368763,
+   "iqr": 426.74609916550526
+  },
+  "flatness": {
+   "median": 0.01894344948232174,
+   "iqr": 0.01934655662626028
+  },
+  "sub100_share": {
+   "median": 0.19914774596691132,
+   "iqr": 0.22064350359141827
+  },
+  "lowest_pitch": {
+   "median": 80.74951171875,
+   "iqr": 51.81427001953125
+  },
+  "harmonic_share": {
+   "median": 0.7500496208667755,
+   "iqr": 0.0812949389219284
+  },
+  "clean_share": {
+   "median": 0.07165305575105435,
+   "iqr": 0.359287672416431
+  },
+  "minor_share": {
+   "median": 0.05818062447336089,
+   "iqr": 0.12876306943533755
+  },
+  "chord_rate": {
+   "median": 1.4997194862087266,
+   "iqr": 0.5595736148955699
+  },
+  "repetitiveness": {
+   "median": 0.8565393686294556,
+   "iqr": 0.12535087764263153
+  },
+  "vocal_share": {
+   "median": 0.16955728828907013,
+   "iqr": 0.06216876208782196
+  },
+  "vocal_voiced": {
+   "median": 0.8443743427970557,
+   "iqr": 0.11959074327405383
+  },
+  "song_length": {
+   "median": 234.587,
+   "iqr": 83.92000000000002
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.6
+ },
+ "sources_failed": []
+}

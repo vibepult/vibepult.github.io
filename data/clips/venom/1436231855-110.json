@@ -1,0 +1,32 @@
+{
+ "id": "venom/1436231855-110",
+ "band": "venom",
+ "title": "Don't Burn the Witch",
+ "source": "itunes",
+ "album": "Black Metal",
+ "year": 1982,
+ "itunes_year": 1982,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 5.333333333333333,
+  "tempo_var": 17.9736472765564,
+  "low_onset_rate": 7.066666666666666,
+  "lufs": -14.54793301117973,
+  "rms_dbfs": -13.738970888177652,
+  "crest": 13.738970756530762,
+  "centroid": 2634.1928277461616,
+  "flatness": 0.028941256925463676,
+  "sub100_share": 0.35541000962257385,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.6977700591087341,
+  "clean_share": 0.02476780185758514,
+  "minor_share": 0.0033470327731214278,
+  "chord_rate": 1.1666666666666667,
+  "repetitiveness": 0.945094883441925,
+  "vocal_share": 0.1218891590833664,
+  "vocal_voiced": 0.3947623666343356,
+  "song_length": 197.907
+ }
+}

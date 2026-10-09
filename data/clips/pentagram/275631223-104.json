@@ -1,0 +1,32 @@
+{
+ "id": "pentagram/275631223-104",
+ "band": "pentagram",
+ "title": "When the Screams Come",
+ "source": "itunes",
+ "album": "Day of Reckoning",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.3412330892692625,
+  "tempo_var": 2.9091173420204646,
+  "low_onset_rate": 3.742181059981574,
+  "lufs": -11.734212727132835,
+  "rms_dbfs": -10.99868470686114,
+  "crest": 10.998685836791992,
+  "centroid": 2296.5265675106216,
+  "flatness": 0.014541447162628174,
+  "sub100_share": 0.2000926285982132,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8363921046257019,
+  "clean_share": 0.16834755624515127,
+  "minor_share": 0.04926725381360375,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.6553239226341248,
+  "vocal_share": 0.04528183117508888,
+  "vocal_voiced": 0.9334811529933481,
+  "song_length": 222.987
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "strapping-young-lad/1464748550-105",
+ "band": "strapping-young-lad",
+ "title": "Happy Camper (Carpe B.U.M.)",
+ "source": "itunes",
+ "album": "Heavy As a Really Heavy Thing",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.9473948988992875,
+  "tempo_var": 2.4739182403982696,
+  "low_onset_rate": 8.586969039422005,
+  "lufs": -9.356930559711092,
+  "rms_dbfs": -8.98444700091519,
+  "crest": 8.984447479248047,
+  "centroid": 2346.8540459804417,
+  "flatness": 0.0327092744410038,
+  "sub100_share": 0.2153787761926651,
+  "lowest_pitch": 104.974365234375,
+  "harmonic_share": 0.6903004050254822,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": 0.02285597204880624,
+  "chord_rate": 2.7063988023081027,
+  "repetitiveness": 0.9531705379486084,
+  "vocal_share": 0.08721698075532913,
+  "vocal_voiced": 0.3759057971014493,
+  "song_length": 180.667
+ }
+}

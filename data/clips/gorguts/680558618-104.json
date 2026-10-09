@@ -1,0 +1,32 @@
+{
+ "id": "gorguts/680558618-104",
+ "band": "gorguts",
+ "title": "Colored Sands",
+ "source": "itunes",
+ "album": "Colored Sands",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.9,
+  "tempo_var": 0.7814752766798433,
+  "low_onset_rate": 7.1,
+  "lufs": -20.463743662384925,
+  "rms_dbfs": -20.579400497550637,
+  "crest": 14.044473648071289,
+  "centroid": 1926.159413051847,
+  "flatness": 0.0013278196565806866,
+  "sub100_share": 0.068890780210495,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.9859618544578552,
+  "clean_share": 0.9984520123839009,
+  "minor_share": 0.20805483768196642,
+  "chord_rate": 0.8666666666666667,
+  "repetitiveness": 0.7697676420211792,
+  "vocal_share": 1.6096391846076585e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 475.227
+ }
+}

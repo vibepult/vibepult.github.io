@@ -1,0 +1,32 @@
+{
+ "id": "fantomas/1891406932-111",
+ "band": "fantomas",
+ "title": "Henry: Portrait of a Serial Killer",
+ "source": "itunes",
+ "album": "The Director's Cut",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 215.33203125,
+  "onset_rate": 0.19999879063467493,
+  "tempo_var": 47.208541293610395,
+  "low_onset_rate": 0.1666656588622291,
+  "lufs": -18.955798443758702,
+  "rms_dbfs": -16.75143426231428,
+  "crest": 15.985440254211426,
+  "centroid": 286.7881843274239,
+  "flatness": 0.001152118551544845,
+  "sub100_share": 0.5359225273132324,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.9418202042579651,
+  "clean_share": 0.9806651198762568,
+  "minor_share": -0.09503113038761402,
+  "chord_rate": 1.133326480263158,
+  "repetitiveness": 0.8428245782852173,
+  "vocal_share": 1.2481215208026697e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 188.467
+ }
+}

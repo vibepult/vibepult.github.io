@@ -1,0 +1,32 @@
+{
+ "id": "baroness/331785890-106",
+ "band": "baroness",
+ "title": "Ogeechee Hymnal",
+ "source": "itunes",
+ "album": "Blue Record",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.1332859669543924,
+  "tempo_var": 7.271510709506666,
+  "low_onset_rate": 2.499962207676377,
+  "lufs": -11.3398359809006,
+  "rms_dbfs": -10.46640789115365,
+  "crest": 10.466407775878906,
+  "centroid": 1653.603349819329,
+  "flatness": 0.011331726796925068,
+  "sub100_share": 0.3376023471355438,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8221628665924072,
+  "clean_share": 0.46403712296983757,
+  "minor_share": -0.1479547002909729,
+  "chord_rate": 0.8999863947634957,
+  "repetitiveness": 0.7404731512069702,
+  "vocal_share": 1.1576698852877598e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 155.44
+ }
+}

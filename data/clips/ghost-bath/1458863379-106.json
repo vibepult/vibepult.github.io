@@ -1,0 +1,32 @@
+{
+ "id": "ghost-bath/1458863379-106",
+ "band": "ghost-bath",
+ "title": "Sorrow",
+ "source": "itunes",
+ "album": "Funeral",
+ "year": 2014,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 1.4367302283857828,
+  "tempo_var": 9.339629348152169,
+  "low_onset_rate": 5.513034597294284,
+  "lufs": -13.645669244501518,
+  "rms_dbfs": -14.31272969556333,
+  "crest": 14.312729835510254,
+  "centroid": 1937.4461025574972,
+  "flatness": 0.03116380050778389,
+  "sub100_share": 0.07128791511058807,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.8908819556236267,
+  "clean_share": 0.5228859581070597,
+  "minor_share": 0.18831124436225732,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.8179316520690918,
+  "vocal_share": 3.5949606171925552e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 370.005
+ }
+}

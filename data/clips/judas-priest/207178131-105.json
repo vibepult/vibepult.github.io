@@ -1,0 +1,32 @@
+{
+ "id": "judas-priest/207178131-105",
+ "band": "judas-priest",
+ "title": "Love Bites",
+ "source": "itunes",
+ "album": "Defenders of the Faith (Bonus Track Version)",
+ "year": 1984,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 2.131982916338706,
+  "tempo_var": 9.683624498477059,
+  "low_onset_rate": 4.430526998016373,
+  "lufs": -9.15341660542542,
+  "rms_dbfs": -8.564092810107095,
+  "crest": 8.564092636108398,
+  "centroid": 2570.7218661087254,
+  "flatness": 0.028341619297862053,
+  "sub100_share": 0.4631054997444153,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8249073624610901,
+  "clean_share": 0.08662026295436968,
+  "minor_share": -0.11125389345945713,
+  "chord_rate": 1.0326792251015606,
+  "repetitiveness": 0.8210019469261169,
+  "vocal_share": 0.12667329609394073,
+  "vocal_voiced": 0.21241258741258742,
+  "song_length": 287.733
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "rhapsody-of-fire/1460469831-105",
+ "band": "rhapsody-of-fire",
+ "title": "Danza Di Fuoco E Ghiaccio",
+ "source": "itunes",
+ "album": "The Frozen Tears of Angels",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.2744084274838774,
+  "tempo_var": 11.204538317260317,
+  "low_onset_rate": 6.281518207826213,
+  "lufs": -21.662522405832146,
+  "rms_dbfs": -21.826691490854135,
+  "crest": 20.514354705810547,
+  "centroid": 1681.805220897053,
+  "flatness": 0.023776628077030182,
+  "sub100_share": 0.21529227495193481,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7143514752388,
+  "clean_share": 0.7152831652443755,
+  "minor_share": 0.07358097321315094,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.7133989930152893,
+  "vocal_share": 0.5912410020828247,
+  "vocal_voiced": 0.7390791027154664,
+  "song_length": 384.747
+ }
+}

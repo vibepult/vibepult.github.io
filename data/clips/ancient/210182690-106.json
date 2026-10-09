@@ -1,0 +1,32 @@
+{
+ "id": "ancient/210182690-106",
+ "band": "ancient",
+ "title": "Cry of Mariamne",
+ "source": "itunes",
+ "album": "The Cainian Chronicle",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.109716699801193,
+  "tempo_var": 1.6533187181861786,
+  "low_onset_rate": 5.98080722979198,
+  "lufs": -18.660119527283896,
+  "rms_dbfs": -18.123710261004597,
+  "crest": 14.446901321411133,
+  "centroid": 1321.9443835344443,
+  "flatness": 0.0011349018895998597,
+  "sub100_share": 0.001408840762451291,
+  "lowest_pitch": 183.0322265625,
+  "harmonic_share": 0.9847909808158875,
+  "clean_share": 0.9976726144297905,
+  "minor_share": 0.050596997140217925,
+  "chord_rate": 0.7684836105319304,
+  "repetitiveness": 0.7735360264778137,
+  "vocal_share": 0.08608788251876831,
+  "vocal_voiced": 0.8853721129170231,
+  "song_length": 182.8
+ }
+}

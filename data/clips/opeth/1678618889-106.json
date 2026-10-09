@@ -1,0 +1,32 @@
+{
+ "id": "opeth/1678618889-106",
+ "band": "opeth",
+ "title": "Demon of the Fall (Abbey Road Remaster)",
+ "source": "itunes",
+ "album": "My Arms, Your Hearse (Abbey Road Remaster)",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 5.633333333333334,
+  "tempo_var": 14.570316384548876,
+  "low_onset_rate": 6.6,
+  "lufs": -12.949729943970068,
+  "rms_dbfs": -12.341718747360822,
+  "crest": 12.341453552246094,
+  "centroid": 2491.708656648546,
+  "flatness": 0.029663939028978348,
+  "sub100_share": 0.335262656211853,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7637386322021484,
+  "clean_share": 0.010061919504643963,
+  "minor_share": -0.16294687891415244,
+  "chord_rate": 1.5,
+  "repetitiveness": 0.9096469879150391,
+  "vocal_share": 5.553549158321403e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 370.955
+ }
+}

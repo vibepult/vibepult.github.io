@@ -1,0 +1,32 @@
+{
+ "id": "gamma-ray/1642730333-106",
+ "band": "gamma-ray",
+ "title": "Short as Hell",
+ "source": "itunes",
+ "album": "Power Plant",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.742181059981574,
+  "tempo_var": 2.6944927406711647,
+  "low_onset_rate": 4.9784373030112015,
+  "lufs": -10.733114377966139,
+  "rms_dbfs": -10.878427337366547,
+  "crest": 10.878427505493164,
+  "centroid": 2788.5717660066102,
+  "flatness": 0.047836534678936005,
+  "sub100_share": 0.21917718648910522,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.6772823333740234,
+  "clean_share": 0.012412723041117145,
+  "minor_share": -0.10238830297599433,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.7871919870376587,
+  "vocal_share": 0.22174978256225586,
+  "vocal_voiced": 0.7265268915223336,
+  "song_length": 237.107
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "nails/1747561948-109",
+ "band": "nails",
+ "title": "I Can't Turn It Off",
+ "source": "itunes",
+ "album": "Every Bridge Burning",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 2.4999848829334366,
+  "tempo_var": 17.81351904300607,
+  "low_onset_rate": 2.766649937113003,
+  "lufs": -6.6064410187462075,
+  "rms_dbfs": -5.934049498088058,
+  "crest": 5.934049606323242,
+  "centroid": 2729.2483008753907,
+  "flatness": 0.05522835627198219,
+  "sub100_share": 0.40291914343833923,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7293424606323242,
+  "clean_share": 0.0,
+  "minor_share": 0.11928926583733829,
+  "chord_rate": 2.733316805340557,
+  "repetitiveness": 0.9271245002746582,
+  "vocal_share": 0.08893656730651855,
+  "vocal_voiced": 0.15873015873015872,
+  "song_length": 139.745
+ }
+}

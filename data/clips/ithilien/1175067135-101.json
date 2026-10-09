@@ -1,0 +1,32 @@
+{
+ "id": "ithilien/1175067135-101",
+ "band": "ithilien",
+ "title": "Blindfolded",
+ "source": "itunes",
+ "album": "Shaping the Soul",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.579859259079669,
+  "tempo_var": 13.758509461691704,
+  "low_onset_rate": 5.412797604616205,
+  "lufs": -8.649974656543582,
+  "rms_dbfs": -8.248426677995969,
+  "crest": 8.24842643737793,
+  "centroid": 2392.436024808962,
+  "flatness": 0.027233073487877846,
+  "sub100_share": 0.2848474383354187,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7397117018699646,
+  "clean_share": 0.11249030256012413,
+  "minor_share": 0.09400712989157012,
+  "chord_rate": 1.3030809048150125,
+  "repetitiveness": 0.8707162141799927,
+  "vocal_share": 0.032386139035224915,
+  "vocal_voiced": 0.0,
+  "song_length": 279.293
+ }
+}

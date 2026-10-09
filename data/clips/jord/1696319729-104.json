@@ -1,0 +1,32 @@
+{
+ "id": "jord/1696319729-104",
+ "band": "jord",
+ "title": "Vilddjurets hjärta",
+ "source": "itunes",
+ "album": "Tundra",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.6,
+  "tempo_var": 2.617124055068421,
+  "low_onset_rate": 5.7,
+  "lufs": -11.66464708968939,
+  "rms_dbfs": -10.289628894628413,
+  "crest": 10.289628982543945,
+  "centroid": 2287.324498863176,
+  "flatness": 0.020502256229519844,
+  "sub100_share": 0.5116466879844666,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.830765962600708,
+  "clean_share": 0.1044891640866873,
+  "minor_share": 0.16765302975382246,
+  "chord_rate": 1.5666666666666667,
+  "repetitiveness": 0.8293117880821228,
+  "vocal_share": 2.1860575998289278e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 335.64
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "adrenaline-mob/1226486535-105",
+ "band": "adrenaline-mob",
+ "title": "Chasing Dragons",
+ "source": "itunes",
+ "album": "We the People",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.98080722979198,
+  "tempo_var": 20.614413501881035,
+  "low_onset_rate": 6.74929084032391,
+  "lufs": -5.937708250833146,
+  "rms_dbfs": -5.645354991341397,
+  "crest": 5.645355224609375,
+  "centroid": 2726.238036463516,
+  "flatness": 0.04724268987774849,
+  "sub100_share": 0.3074912130832672,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.6665670275688171,
+  "clean_share": 0.0,
+  "minor_share": 0.07608042980946517,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.8995469212532043,
+  "vocal_share": 0.24069485068321228,
+  "vocal_voiced": 0.4101497504159734,
+  "song_length": 249.613
+ }
+}

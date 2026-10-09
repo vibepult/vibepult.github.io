@@ -1,0 +1,32 @@
+{
+ "id": "impellitteri/1605952610-105",
+ "band": "impellitteri",
+ "title": "Slow Kill",
+ "source": "itunes",
+ "album": "System X",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.245735950152742,
+  "tempo_var": 17.22335482332084,
+  "low_onset_rate": 4.4772523396208115,
+  "lufs": -6.892316974942584,
+  "rms_dbfs": -6.525517807744821,
+  "crest": 6.525518417358398,
+  "centroid": 2328.7273418152954,
+  "flatness": 0.021971484646201134,
+  "sub100_share": 0.27648359537124634,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8257302045822144,
+  "clean_share": 0.022498060512024826,
+  "minor_share": 0.035374822873321166,
+  "chord_rate": 2.0047398535615577,
+  "repetitiveness": 0.7622241377830505,
+  "vocal_share": 0.3218217194080353,
+  "vocal_voiced": 0.829734219269103,
+  "song_length": 297.0
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "saint-vitus/117748132-105",
+ "band": "saint-vitus",
+ "title": "The Lost Feeling",
+ "source": "itunes",
+ "album": "Born Too Late",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.2,
+  "tempo_var": 2.980184085851822,
+  "low_onset_rate": 3.3,
+  "lufs": -25.16849926305413,
+  "rms_dbfs": -22.403499187260177,
+  "crest": 13.068772315979004,
+  "centroid": 1581.4974718514895,
+  "flatness": 0.004474102519452572,
+  "sub100_share": 0.8359881639480591,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.9569000005722046,
+  "clean_share": 0.7592879256965944,
+  "minor_share": -0.014097257070189606,
+  "chord_rate": 1.7666666666666666,
+  "repetitiveness": 0.5659213066101074,
+  "vocal_share": 0.006624102126806974,
+  "vocal_voiced": 0.2923076923076923,
+  "song_length": 324.081
+ }
+}

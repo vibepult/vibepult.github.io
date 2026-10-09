@@ -1,0 +1,32 @@
+{
+ "id": "taake/338849472-105",
+ "band": "taake",
+ "title": "V",
+ "source": "itunes",
+ "album": "Nattestid Ser Porten Vid",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 7.250475803714299,
+  "tempo_var": 8.264746545119499,
+  "low_onset_rate": 8.01895941424623,
+  "lufs": -7.279162054808927,
+  "rms_dbfs": -8.00057350735477,
+  "crest": 8.00057315826416,
+  "centroid": 2420.58299371199,
+  "flatness": 0.03312847763299942,
+  "sub100_share": 0.15117114782333374,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6777392029762268,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.024672647213437426,
+  "chord_rate": 1.3030809048150125,
+  "repetitiveness": 0.881695032119751,
+  "vocal_share": 0.008964418433606625,
+  "vocal_voiced": 0.33076923076923076,
+  "song_length": 251.12
+ }
+}

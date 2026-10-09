@@ -1,0 +1,32 @@
+{
+ "id": "finntroll/1045213506-108",
+ "band": "finntroll",
+ "title": "Mot Skuggornas Värld",
+ "source": "itunes",
+ "album": "Nifelvind",
+ "year": 2010,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.911612641225816,
+  "tempo_var": 24.878876816374106,
+  "low_onset_rate": 5.4462099355088975,
+  "lufs": -8.12394218531222,
+  "rms_dbfs": -7.274043333007855,
+  "crest": 7.274043083190918,
+  "centroid": 2494.5362858564654,
+  "flatness": 0.031397510319948196,
+  "sub100_share": 0.4091794192790985,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.7353308796882629,
+  "clean_share": 0.012412723041117145,
+  "minor_share": 0.11843143811944667,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.8733600974082947,
+  "vocal_share": 0.042159195989370346,
+  "vocal_voiced": 0.46763754045307443,
+  "song_length": 283.44
+ }
+}

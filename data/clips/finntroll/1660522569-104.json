@@ -1,0 +1,32 @@
+{
+ "id": "finntroll/1660522569-104",
+ "band": "finntroll",
+ "title": "Vätteanda",
+ "source": "itunes",
+ "album": "Midnattens Widunder",
+ "year": 1999,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.513034597294284,
+  "tempo_var": 3.8697326399837775,
+  "low_onset_rate": 9.28862798816855,
+  "lufs": -8.11074617289371,
+  "rms_dbfs": -7.653280331799342,
+  "crest": 7.653279781341553,
+  "centroid": 2558.986727927215,
+  "flatness": 0.032717227935791016,
+  "sub100_share": 0.4378785192966461,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8183943033218384,
+  "clean_share": 0.0,
+  "minor_share": 0.05968479298001206,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.9065461158752441,
+  "vocal_share": 5.457897600535944e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 275.627
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "down/299793030-105",
+ "band": "down",
+ "title": "Hail the Leaf",
+ "source": "itunes",
+ "album": "Nola",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.599575560251399,
+  "tempo_var": 13.801919697586518,
+  "low_onset_rate": 4.932751693677843,
+  "lufs": -10.879982965316517,
+  "rms_dbfs": -10.660058124039187,
+  "crest": 10.66005802154541,
+  "centroid": 2872.2261570465557,
+  "flatness": 0.05378098785877228,
+  "sub100_share": 0.290254682302475,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.5766849517822266,
+  "clean_share": 0.013147718484145398,
+  "minor_share": -0.011892136364500261,
+  "chord_rate": 2.3997170401675993,
+  "repetitiveness": 0.9221387505531311,
+  "vocal_share": 0.06208617612719536,
+  "vocal_voiced": 0.16349384098544234,
+  "song_length": 208.573
+ }
+}

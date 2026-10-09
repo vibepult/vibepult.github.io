@@ -1,0 +1,127 @@
+{
+ "slug": "nuclear",
+ "name": "Nuclear",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1544051506,
+  "deezer": 662083,
+  "spotify": "5ODa95P58TRNxymAD9moqt"
+ },
+ "metadata": {
+  "formed": 2003,
+  "split": null,
+  "country": "CL",
+  "status": "active",
+  "members": 5,
+  "past_members": 3,
+  "full_lengths": 5,
+  "genre": "Thrash Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 2145,
+  "themes": "Violence, Corruption, Social decay, War, Riots",
+  "release_year": 2009
+ },
+ "partial": false,
+ "clips": [
+  "nuclear/943532316-105",
+  "nuclear/943521761-105",
+  "nuclear/926376759-105",
+  "nuclear/1259693467-105",
+  "nuclear/1528964429-106",
+  "nuclear/943532316-104",
+  "nuclear/943521761-104",
+  "nuclear/926376759-104",
+  "nuclear/1259693467-106",
+  "nuclear/1528964429-107",
+  "nuclear/943532316-106",
+  "nuclear/943521761-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 105.5126953125,
+   "iqr": 28.533673614625513
+  },
+  "onset_rate": {
+   "median": 5.646683920865053,
+   "iqr": 1.0608415058429914
+  },
+  "tempo_var": {
+   "median": 12.1275864038979,
+   "iqr": 9.048301928384092
+  },
+  "low_onset_rate": {
+   "median": 6.565523020414101,
+   "iqr": 0.9606045131649124
+  },
+  "lufs": {
+   "median": -7.359789133919546,
+   "iqr": 2.0249156192261086
+  },
+  "rms_dbfs": {
+   "median": -7.045429626018944,
+   "iqr": 1.258138595305824
+  },
+  "crest": {
+   "median": 7.045429468154907,
+   "iqr": 1.25813889503479
+  },
+  "centroid": {
+   "median": 2530.375124909557,
+   "iqr": 356.3370834737716
+  },
+  "flatness": {
+   "median": 0.03467385284602642,
+   "iqr": 0.020963497459888458
+  },
+  "sub100_share": {
+   "median": 0.23699387907981873,
+   "iqr": 0.13668476417660713
+  },
+  "lowest_pitch": {
+   "median": 64.599609375,
+   "iqr": 32.2998046875
+  },
+  "harmonic_share": {
+   "median": 0.7037418782711029,
+   "iqr": 0.1005786657333374
+  },
+  "clean_share": {
+   "median": 0.013964313421256789,
+   "iqr": 0.04208688906128781
+  },
+  "minor_share": {
+   "median": 0.07444392803308628,
+   "iqr": 0.16650244234560385
+  },
+  "chord_rate": {
+   "median": 2.155095342578674,
+   "iqr": 0.5011849633903895
+  },
+  "repetitiveness": {
+   "median": 0.9141294956207275,
+   "iqr": 0.05347925424575806
+  },
+  "vocal_share": {
+   "median": 0.1273777037858963,
+   "iqr": 0.06265898793935776
+  },
+  "vocal_voiced": {
+   "median": 0.13581244947453516,
+   "iqr": 0.5923001243334846
+  },
+  "song_length": {
+   "median": 250.9,
+   "iqr": 113.80099999999999
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "volbeat/1440738335-107",
+ "band": "volbeat",
+ "title": "A New Day",
+ "source": "itunes",
+ "album": "Beyond Hell/Above Heaven (Bonus Track Version)",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.899941043975148,
+  "tempo_var": 29.32872001106168,
+  "low_onset_rate": 4.399933485510424,
+  "lufs": -8.89821339212916,
+  "rms_dbfs": -7.841116290844198,
+  "crest": 7.841115951538086,
+  "centroid": 2535.5515457683528,
+  "flatness": 0.027353830635547638,
+  "sub100_share": 0.5330130457878113,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8320651054382324,
+  "clean_share": 0.033255993812838364,
+  "minor_share": 0.20483281582728408,
+  "chord_rate": 1.333313177427401,
+  "repetitiveness": 0.8072486519813538,
+  "vocal_share": 0.1367873102426529,
+  "vocal_voiced": 0.7994616419919246,
+  "song_length": 246.68
+ }
+}

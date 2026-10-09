@@ -1,0 +1,32 @@
+{
+ "id": "apocalyptica/1646530800-108",
+ "band": "apocalyptica",
+ "title": "Hope",
+ "source": "itunes",
+ "album": "Cult",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 2.6999836735681115,
+  "tempo_var": 7.128512593497097,
+  "low_onset_rate": 1.7666559839396285,
+  "lufs": -13.634481351489685,
+  "rms_dbfs": -12.943160343868742,
+  "crest": 12.943161010742188,
+  "centroid": 1697.7541514531329,
+  "flatness": 0.012865710072219372,
+  "sub100_share": 0.4708634614944458,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.9509142637252808,
+  "clean_share": 0.9474091260634184,
+  "minor_share": 0.01543780825855956,
+  "chord_rate": 1.1666596120356036,
+  "repetitiveness": 0.8443119525909424,
+  "vocal_share": 0.008914676494896412,
+  "vocal_voiced": 0.9764309764309764,
+  "song_length": 205.493
+ }
+}

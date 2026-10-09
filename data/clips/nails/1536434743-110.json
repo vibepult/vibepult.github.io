@@ -1,0 +1,32 @@
+{
+ "id": "nails/1536434743-110",
+ "band": "nails",
+ "title": "Depths",
+ "source": "itunes",
+ "album": "Unsilent Death (10th Anniversary Edition)",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.1,
+  "tempo_var": 13.823198984866174,
+  "low_onset_rate": 7.766666666666667,
+  "lufs": -8.871056104172379,
+  "rms_dbfs": -8.677157953255769,
+  "crest": 8.67715835571289,
+  "centroid": 2270.9994891569368,
+  "flatness": 0.028256846591830254,
+  "sub100_share": 0.26506319642066956,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7595625519752502,
+  "clean_share": 0.206656346749226,
+  "minor_share": -0.11777958700088353,
+  "chord_rate": 2.1333333333333333,
+  "repetitiveness": 0.8432911038398743,
+  "vocal_share": 0.05683223903179169,
+  "vocal_voiced": 0.36281179138321995,
+  "song_length": 227.853
+ }
+}

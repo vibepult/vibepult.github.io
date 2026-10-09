@@ -1,0 +1,127 @@
+{
+ "slug": "kawir",
+ "name": "Kawir",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1507129448,
+  "deezer": 205433,
+  "spotify": "1wBSwxYOA4GFZcemohgd5z"
+ },
+ "metadata": {
+  "formed": 1993,
+  "split": null,
+  "country": "GR",
+  "status": "active",
+  "members": 7,
+  "past_members": 23,
+  "full_lengths": 9,
+  "genre": "Pagan/Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 1077,
+  "themes": "Hellenic antiquity, Paganism, Greek mythology",
+  "release_year": 2005
+ },
+ "partial": false,
+ "clips": [
+  "kawir/1669183171-103",
+  "kawir/1669355142-104",
+  "kawir/1508129487-103",
+  "kawir/1669183171-104",
+  "kawir/1669355142-103",
+  "kawir/1508129487-104",
+  "kawir/1669183171-102",
+  "kawir/1669355142-106",
+  "kawir/1508129487-102",
+  "kawir/1669183171-105",
+  "kawir/1669355142-102",
+  "kawir/1508129487-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.90049098320159,
+   "iqr": 22.60986328125
+  },
+  "onset_rate": {
+   "median": 5.680096251757746,
+   "iqr": 2.6813395541385834
+  },
+  "tempo_var": {
+   "median": 6.839894624874722,
+   "iqr": 9.166041548510597
+  },
+  "low_onset_rate": {
+   "median": 7.751660767104688,
+   "iqr": 2.338863162488483
+  },
+  "lufs": {
+   "median": -9.948550343237102,
+   "iqr": 2.14919953165278
+  },
+  "rms_dbfs": {
+   "median": -9.32942534652899,
+   "iqr": 2.2995278698568598
+  },
+  "crest": {
+   "median": 9.32942533493042,
+   "iqr": 2.2995269298553467
+  },
+  "centroid": {
+   "median": 2476.3760146084855,
+   "iqr": 581.3955109334606
+  },
+  "flatness": {
+   "median": 0.027903221547603607,
+   "iqr": 0.019054959760978818
+  },
+  "sub100_share": {
+   "median": 0.34838704764842987,
+   "iqr": 0.1838458515703678
+  },
+  "lowest_pitch": {
+   "median": 44.4122314453125,
+   "iqr": 15.47698974609375
+  },
+  "harmonic_share": {
+   "median": 0.8155370056629181,
+   "iqr": 0.11850197613239288
+  },
+  "clean_share": {
+   "median": 0.001939487975174554,
+   "iqr": 0.09755624515128006
+  },
+  "minor_share": {
+   "median": 0.011122286247288865,
+   "iqr": 0.15306214007820756
+  },
+  "chord_rate": {
+   "median": 1.7207350409736701,
+   "iqr": 0.47612571522087
+  },
+  "repetitiveness": {
+   "median": 0.9377319812774658,
+   "iqr": 0.05145162343978882
+  },
+  "vocal_share": {
+   "median": 0.12467391788959503,
+   "iqr": 0.10147316940128803
+  },
+  "vocal_voiced": {
+   "median": 0.2718808193668529,
+   "iqr": 0.36394522928459705
+  },
+  "song_length": {
+   "median": 346.0075,
+   "iqr": 119.97599999999994
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

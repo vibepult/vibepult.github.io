@@ -1,0 +1,32 @@
+{
+ "id": "agalloch/1074241343-103",
+ "band": "agalloch",
+ "title": "The Watcher's Monolith",
+ "source": "itunes",
+ "album": "Marrow of the Spirit",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 2.7063988023081027,
+  "tempo_var": 25.31405506209011,
+  "low_onset_rate": 5.780333244435824,
+  "lufs": -11.339005076083296,
+  "rms_dbfs": -10.454046157008296,
+  "crest": 10.454046249389648,
+  "centroid": 2291.9944722134715,
+  "flatness": 0.014387931674718857,
+  "sub100_share": 0.3207803964614868,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8229592442512512,
+  "clean_share": 0.36152055857253684,
+  "minor_share": 0.20290081561181594,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.7283197045326233,
+  "vocal_share": 3.0145954497129424e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 706.347
+ }
+}

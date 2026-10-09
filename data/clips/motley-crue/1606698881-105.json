@@ -1,0 +1,32 @@
+{
+ "id": "motley-crue/1606698881-105",
+ "band": "motley-crue",
+ "title": "1st Band On the Moon",
+ "source": "itunes",
+ "album": "New Tattoo",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.5332799201826126,
+  "tempo_var": 14.339811722401418,
+  "low_onset_rate": 5.633248174630769,
+  "lufs": -10.189178601897018,
+  "rms_dbfs": -9.102589266619493,
+  "crest": 9.10258960723877,
+  "centroid": 2719.818458192759,
+  "flatness": 0.027138417586684227,
+  "sub100_share": 0.5188284516334534,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8120707869529724,
+  "clean_share": 0.042536736272235115,
+  "minor_share": -0.05879194729638948,
+  "chord_rate": 2.0999682544481564,
+  "repetitiveness": 0.8570107221603394,
+  "vocal_share": 0.05714452639222145,
+  "vocal_voiced": 0.5593952483801296,
+  "song_length": 265.4
+ }
+}

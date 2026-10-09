@@ -1,0 +1,32 @@
+{
+ "id": "mantar/1458743782-106",
+ "band": "mantar",
+ "title": "Oz",
+ "source": "itunes",
+ "album": "Ode to the Flame",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 1.7040288755273238,
+  "tempo_var": 15.772324175990438,
+  "low_onset_rate": 2.606161809630025,
+  "lufs": -7.882495703220641,
+  "rms_dbfs": -7.0844008181138065,
+  "crest": 7.084400653839111,
+  "centroid": 2581.605842228166,
+  "flatness": 0.03612569347023964,
+  "sub100_share": 0.4364553391933441,
+  "lowest_pitch": 94.207763671875,
+  "harmonic_share": 0.7044619917869568,
+  "clean_share": 0.045771916214119475,
+  "minor_share": 0.07411734550058946,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.9015070199966431,
+  "vocal_share": 0.003094152780249715,
+  "vocal_voiced": 0.0,
+  "song_length": 206.4
+ }
+}

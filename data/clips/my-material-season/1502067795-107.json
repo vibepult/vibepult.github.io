@@ -1,0 +1,32 @@
+{
+ "id": "my-material-season/1502067795-107",
+ "band": "my-material-season",
+ "title": "Act of Sorrow",
+ "source": "itunes",
+ "album": "Bloody Pains Stigmata",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 5.145498957474664,
+  "tempo_var": 6.641767352717273,
+  "low_onset_rate": 6.74929084032391,
+  "lufs": -6.139857171595891,
+  "rms_dbfs": -5.96907429647413,
+  "crest": 5.969074249267578,
+  "centroid": 2673.57837639699,
+  "flatness": 0.04474739730358124,
+  "sub100_share": 0.27179548144340515,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.710016667842865,
+  "clean_share": 0.0,
+  "minor_share": -0.0869404147297298,
+  "chord_rate": 1.9379151917761723,
+  "repetitiveness": 0.9034855365753174,
+  "vocal_share": 0.12437371164560318,
+  "vocal_voiced": 0.10365853658536585,
+  "song_length": 229.36
+ }
+}

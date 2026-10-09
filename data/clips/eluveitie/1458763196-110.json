@@ -1,0 +1,32 @@
+{
+ "id": "eluveitie/1458763196-110",
+ "band": "eluveitie",
+ "title": "Artio",
+ "source": "itunes",
+ "album": "Evocation II - Pantheon",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.613271589972361,
+  "tempo_var": 5.00722662429167,
+  "low_onset_rate": 9.221803326383165,
+  "lufs": -15.84986683352434,
+  "rms_dbfs": -16.173938998929977,
+  "crest": 15.102410316467285,
+  "centroid": 2638.996477473804,
+  "flatness": 0.023531591519713402,
+  "sub100_share": 0.056064900010824203,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.9634235501289368,
+  "clean_share": 0.37315748642358415,
+  "minor_share": 0.06761176318856954,
+  "chord_rate": 2.205213838917713,
+  "repetitiveness": 0.768545925617218,
+  "vocal_share": 0.874092698097229,
+  "vocal_voiced": 0.9537126325940212,
+  "song_length": 311.638
+ }
+}

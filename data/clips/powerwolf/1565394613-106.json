@@ -1,0 +1,32 @@
+{
+ "id": "powerwolf/1565394613-106",
+ "band": "powerwolf",
+ "title": "Blood for Blood (Faoladh)",
+ "source": "itunes",
+ "album": "Call of the Wild",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.933333333333334,
+  "tempo_var": 2.7629551720228567,
+  "low_onset_rate": 6.333333333333333,
+  "lufs": -9.993123290288361,
+  "rms_dbfs": -9.780745178450662,
+  "crest": 9.780744552612305,
+  "centroid": 2621.2106273633335,
+  "flatness": 0.03665966913104057,
+  "sub100_share": 0.2356240302324295,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7160248160362244,
+  "clean_share": 0.0,
+  "minor_share": 0.08913051901405777,
+  "chord_rate": 1.4666666666666666,
+  "repetitiveness": 0.7944374680519104,
+  "vocal_share": 0.27778756618499756,
+  "vocal_voiced": 0.6478328173374613,
+  "song_length": 191.16
+ }
+}

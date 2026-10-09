@@ -1,0 +1,32 @@
+{
+ "id": "coroner/1442072890-104",
+ "band": "coroner",
+ "title": "Sirens",
+ "source": "itunes",
+ "album": "Mental Vortex",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 5.1,
+  "tempo_var": 13.803167951406103,
+  "low_onset_rate": 5.233333333333333,
+  "lufs": -15.400318642937398,
+  "rms_dbfs": -15.156972882479833,
+  "crest": 15.156973838806152,
+  "centroid": 2714.6540270429336,
+  "flatness": 0.03715198114514351,
+  "sub100_share": 0.07727377116680145,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.6719971895217896,
+  "clean_share": 0.01780185758513932,
+  "minor_share": 0.09179910988754425,
+  "chord_rate": 2.2333333333333334,
+  "repetitiveness": 0.9094392657279968,
+  "vocal_share": 0.12498826533555984,
+  "vocal_voiced": 0.008938547486033519,
+  "song_length": 296.707
+ }
+}

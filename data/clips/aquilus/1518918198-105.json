@@ -1,0 +1,32 @@
+{
+ "id": "aquilus/1518918198-105",
+ "band": "aquilus",
+ "title": "Latent Thistle",
+ "source": "itunes",
+ "album": "Griseus",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.7063988023081027,
+  "tempo_var": 10.441836710756332,
+  "low_onset_rate": 5.112086626581972,
+  "lufs": -10.373836128148032,
+  "rms_dbfs": -9.721385772147142,
+  "crest": 9.721385955810547,
+  "centroid": 2582.2775033985668,
+  "flatness": 0.02810692973434925,
+  "sub100_share": 0.3600286841392517,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.8486500382423401,
+  "clean_share": 0.008533747090768037,
+  "minor_share": -0.06956440589997304,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.8470692038536072,
+  "vocal_share": 0.012304180301725864,
+  "vocal_voiced": 0.0,
+  "song_length": 335.025
+ }
+}

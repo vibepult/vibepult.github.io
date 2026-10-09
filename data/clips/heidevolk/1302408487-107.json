@@ -1,0 +1,32 @@
+{
+ "id": "heidevolk/1302408487-107",
+ "band": "heidevolk",
+ "title": "Tiwaz",
+ "source": "itunes",
+ "album": "Vuur Van Verzet",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.766666666666667,
+  "tempo_var": 33.1001387197468,
+  "low_onset_rate": 5.9,
+  "lufs": -9.383745220912687,
+  "rms_dbfs": -8.661273241648855,
+  "crest": 8.661273002624512,
+  "centroid": 2434.7377413067916,
+  "flatness": 0.02502264827489853,
+  "sub100_share": 0.4231678247451782,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8009891510009766,
+  "clean_share": 0.08359133126934984,
+  "minor_share": 0.24410501449912503,
+  "chord_rate": 1.5666666666666667,
+  "repetitiveness": 0.8219479322433472,
+  "vocal_share": 0.07852732390165329,
+  "vocal_voiced": 0.7482319660537482,
+  "song_length": 249.067
+ }
+}

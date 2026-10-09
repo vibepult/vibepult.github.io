@@ -1,0 +1,32 @@
+{
+ "id": "obituary/1639226932-105",
+ "band": "obituary",
+ "title": "Dying of Everything",
+ "source": "itunes",
+ "album": "Dying of Everything",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 6.766666666666667,
+  "tempo_var": 13.82140865275953,
+  "low_onset_rate": 7.033333333333333,
+  "lufs": -9.249865159273499,
+  "rms_dbfs": -8.53811073872196,
+  "crest": 8.538110733032227,
+  "centroid": 2573.9514406004555,
+  "flatness": 0.030776210129261017,
+  "sub100_share": 0.30794674158096313,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8067764043807983,
+  "clean_share": 0.0,
+  "minor_share": -0.17769813970652099,
+  "chord_rate": 2.2,
+  "repetitiveness": 0.8708744645118713,
+  "vocal_share": 0.12400185316801071,
+  "vocal_voiced": 0.3913392141138733,
+  "song_length": 283.937
+ }
+}

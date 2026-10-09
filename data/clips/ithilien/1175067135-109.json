@@ -1,0 +1,32 @@
+{
+ "id": "ithilien/1175067135-109",
+ "band": "ithilien",
+ "title": "The Dive",
+ "source": "itunes",
+ "album": "Shaping the Soul",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.945024972118508,
+  "tempo_var": 2.8891879265352314,
+  "low_onset_rate": 6.715878509431217,
+  "lufs": -8.318397898013824,
+  "rms_dbfs": -7.942715814707889,
+  "crest": 7.942715644836426,
+  "centroid": 2395.673670186245,
+  "flatness": 0.02172854170203209,
+  "sub100_share": 0.3317427337169647,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8967221975326538,
+  "clean_share": 0.24359968968192397,
+  "minor_share": 0.05290983244166314,
+  "chord_rate": 0.7350712796392378,
+  "repetitiveness": 0.7495138645172119,
+  "vocal_share": 5.500561996996112e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 399.493
+ }
+}

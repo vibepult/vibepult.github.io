@@ -1,0 +1,32 @@
+{
+ "id": "arch-enemy/1675366375-104",
+ "band": "arch-enemy",
+ "title": "Dark of the Sun",
+ "source": "itunes",
+ "album": "Stigmata",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.4772523396208115,
+  "tempo_var": 23.824590037576158,
+  "low_onset_rate": 6.782703171216603,
+  "lufs": -6.994808779837812,
+  "rms_dbfs": -6.861585497996957,
+  "crest": 6.86158561706543,
+  "centroid": 2940.4050366477227,
+  "flatness": 0.047599829733371735,
+  "sub100_share": 0.26304399967193604,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7452054023742676,
+  "clean_share": 0.0,
+  "minor_share": 0.09425086282640616,
+  "chord_rate": 1.971327522668865,
+  "repetitiveness": 0.8619513511657715,
+  "vocal_share": 0.10614365339279175,
+  "vocal_voiced": 0.41818181818181815,
+  "song_length": 420.133
+ }
+}

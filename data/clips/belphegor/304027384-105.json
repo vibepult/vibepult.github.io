@@ -1,0 +1,32 @@
+{
+ "id": "belphegor/304027384-105",
+ "band": "belphegor",
+ "title": "Blutsabbath",
+ "source": "itunes",
+ "album": "Blutsabbath",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 6.74929084032391,
+  "tempo_var": 12.524005183611866,
+  "low_onset_rate": 7.3841251272850705,
+  "lufs": -7.366037303390319,
+  "rms_dbfs": -8.395614427212356,
+  "crest": 8.395614624023438,
+  "centroid": 2965.4172020938913,
+  "flatness": 0.0526389442384243,
+  "sub100_share": 0.2665795683860779,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6604983806610107,
+  "clean_share": 0.0,
+  "minor_share": 0.20580631061054694,
+  "chord_rate": 2.3722754933811765,
+  "repetitiveness": 0.9264668822288513,
+  "vocal_share": 0.028716638684272766,
+  "vocal_voiced": 0.356951871657754,
+  "song_length": 355.773
+ }
+}

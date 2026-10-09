@@ -1,0 +1,32 @@
+{
+ "id": "carpathian-forest/260017013-107",
+ "band": "carpathian-forest",
+ "title": "House of the Whipcord",
+ "source": "itunes",
+ "album": "Strange Old Brew",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 75.99954044117646,
+  "onset_rate": 2.2386261698104057,
+  "tempo_var": 33.78773641129921,
+  "low_onset_rate": 5.579859259079669,
+  "lufs": -11.559283684763644,
+  "rms_dbfs": -9.577748593887188,
+  "crest": 9.577749252319336,
+  "centroid": 1291.6133941695493,
+  "flatness": 0.0013842815533280373,
+  "sub100_share": 0.5587698221206665,
+  "lowest_pitch": 24.224853515625,
+  "harmonic_share": 0.9105293154716492,
+  "clean_share": 0.9511249030256013,
+  "minor_share": -0.14646965034876633,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.7807605266571045,
+  "vocal_share": 0.029353080317378044,
+  "vocal_voiced": 0.5917241379310345,
+  "song_length": 238.16
+ }
+}

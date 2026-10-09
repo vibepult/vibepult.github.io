@@ -1,0 +1,127 @@
+{
+ "slug": "hellyeah",
+ "name": "Hellyeah",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 215827435,
+  "deezer": 11991,
+  "spotify": "1CYNs0HjULLOVriK9RScTM"
+ },
+ "metadata": {
+  "formed": 2006,
+  "split": 2021,
+  "country": "US",
+  "status": "split-up",
+  "members": 5,
+  "past_members": 4,
+  "full_lengths": 6,
+  "genre": "Groove/Nu-Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 103920,
+  "themes": "Alcohol, Drugs, Sex, Partying, Fighting, Personal struggles, Abuse",
+  "release_year": 2013
+ },
+ "partial": false,
+ "clips": [
+  "hellyeah/219986867-106",
+  "hellyeah/375352740-106",
+  "hellyeah/1695704488-106",
+  "hellyeah/1695709207-106",
+  "hellyeah/1692927127-107",
+  "hellyeah/1696293414-105",
+  "hellyeah/219986867-105",
+  "hellyeah/375352740-105",
+  "hellyeah/1695704488-105",
+  "hellyeah/1695709207-105",
+  "hellyeah/1692927127-106",
+  "hellyeah/1696293414-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 143.5546875,
+   "iqr": 30.2536632140837
+  },
+  "onset_rate": {
+   "median": 3.2831200057020133,
+   "iqr": 1.381185501302673
+  },
+  "tempo_var": {
+   "median": 18.0380040140619,
+   "iqr": 20.145281049204847
+  },
+  "low_onset_rate": {
+   "median": 2.83214686860559,
+   "iqr": 2.314096002572563
+  },
+  "lufs": {
+   "median": -7.459193178160563,
+   "iqr": 2.848427785828794
+  },
+  "rms_dbfs": {
+   "median": -7.093674761600223,
+   "iqr": 2.79102934590967
+  },
+  "crest": {
+   "median": 7.093674659729004,
+   "iqr": 2.7910290956497192
+  },
+  "centroid": {
+   "median": 2667.3926140583903,
+   "iqr": 222.5565345474938
+  },
+  "flatness": {
+   "median": 0.042099738493561745,
+   "iqr": 0.01033891225233674
+  },
+  "sub100_share": {
+   "median": 0.3190125375986099,
+   "iqr": 0.13962139189243317
+  },
+  "lowest_pitch": {
+   "median": 65.9454345703125,
+   "iqr": 30.28106689453125
+  },
+  "harmonic_share": {
+   "median": 0.7042537033557892,
+   "iqr": 0.08044576644897461
+  },
+  "clean_share": {
+   "median": 0.025522041763341066,
+   "iqr": 0.0928074245939675
+  },
+  "minor_share": {
+   "median": 0.04279588733509421,
+   "iqr": 0.17007542073841536
+  },
+  "chord_rate": {
+   "median": 2.1659743573077384,
+   "iqr": 1.0414320112063722
+  },
+  "repetitiveness": {
+   "median": 0.9151807427406311,
+   "iqr": 0.15260663628578186
+  },
+  "vocal_share": {
+   "median": 0.21230550855398178,
+   "iqr": 0.055194124579429626
+  },
+  "vocal_voiced": {
+   "median": 0.18047111521740924,
+   "iqr": 0.41179240295419883
+  },
+  "song_length": {
+   "median": 235.66449999999998,
+   "iqr": 35.79174999999998
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

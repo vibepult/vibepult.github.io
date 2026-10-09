@@ -1,0 +1,32 @@
+{
+ "id": "darkthrone/112417815-103",
+ "band": "darkthrone",
+ "title": "Paragon Belial",
+ "source": "itunes",
+ "album": "A Blaze In the Northern Sky",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.866666666666666,
+  "tempo_var": 2.7692470194803205,
+  "low_onset_rate": 5.9,
+  "lufs": -9.9755597216724,
+  "rms_dbfs": -11.54200071697931,
+  "crest": 11.542000770568848,
+  "centroid": 3792.5828354417495,
+  "flatness": 0.15021546185016632,
+  "sub100_share": 0.08054016530513763,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.5994749665260315,
+  "clean_share": 0.0,
+  "minor_share": -0.1668578603063406,
+  "chord_rate": 1.7666666666666666,
+  "repetitiveness": 0.824883222579956,
+  "vocal_share": 0.12011037766933441,
+  "vocal_voiced": 0.47019867549668876,
+  "song_length": 324.64
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "liquid-tension-experiment/149011320-102",
+ "band": "liquid-tension-experiment",
+ "title": "Biaxident",
+ "source": "itunes",
+ "album": "Liquid Tension Experiment 2",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.8333333333333335,
+  "tempo_var": 14.304266676320191,
+  "low_onset_rate": 2.6,
+  "lufs": -11.710071647529098,
+  "rms_dbfs": -10.744646301153374,
+  "crest": 10.744647026062012,
+  "centroid": 1660.4472050004892,
+  "flatness": 0.006707852240651846,
+  "sub100_share": 0.4496777355670929,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.9084818959236145,
+  "clean_share": 0.7267801857585139,
+  "minor_share": -0.016033805095920117,
+  "chord_rate": 0.9333333333333333,
+  "repetitiveness": 0.5743300914764404,
+  "vocal_share": 7.38627193186403e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 461.0
+ }
+}

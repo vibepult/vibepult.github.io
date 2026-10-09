@@ -1,0 +1,32 @@
+{
+ "id": "dawn-of-ashes/1878094780-105",
+ "band": "dawn-of-ashes",
+ "title": "Echoes of Desolation",
+ "source": "itunes",
+ "album": "Anatomy of Suffering",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.7332768967967227,
+  "tempo_var": 9.469921666283685,
+  "low_onset_rate": 7.03322701092954,
+  "lufs": -10.763662091562814,
+  "rms_dbfs": -8.963633511471286,
+  "crest": 8.96363353729248,
+  "centroid": 1064.3914510186578,
+  "flatness": 0.001867169514298439,
+  "sub100_share": 0.4377765953540802,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7739056944847107,
+  "clean_share": 0.9218870843000774,
+  "minor_share": 0.05720769123491787,
+  "chord_rate": 1.1666490302489758,
+  "repetitiveness": 0.9320178627967834,
+  "vocal_share": 0.0015002143336459994,
+  "vocal_voiced": 0.0,
+  "song_length": 157.333
+ }
+}

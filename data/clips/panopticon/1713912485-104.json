@@ -1,0 +1,32 @@
+{
+ "id": "panopticon/1713912485-104",
+ "band": "panopticon",
+ "title": "An Autumn Storm",
+ "source": "itunes",
+ "album": "The Rime of Memory",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 8.066544723435776,
+  "tempo_var": 1.27129898871836,
+  "low_onset_rate": 8.566537164971052,
+  "lufs": -6.974979457113343,
+  "rms_dbfs": -6.825153716833495,
+  "crest": 6.825153350830078,
+  "centroid": 2372.8456682788096,
+  "flatness": 0.030253268778324127,
+  "sub100_share": 0.32999253273010254,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8554270267486572,
+  "clean_share": 0.0,
+  "minor_share": -0.07812873190124336,
+  "chord_rate": 1.9333041072697315,
+  "repetitiveness": 0.9202132225036621,
+  "vocal_share": 0.006618295796215534,
+  "vocal_voiced": 0.25728155339805825,
+  "song_length": 564.025
+ }
+}

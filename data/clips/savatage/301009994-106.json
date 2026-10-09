@@ -1,0 +1,32 @@
+{
+ "id": "savatage/301009994-106",
+ "band": "savatage",
+ "title": "She's In Love",
+ "source": "itunes",
+ "album": "Gutter Ballet",
+ "year": 1990,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.878200310333123,
+  "tempo_var": 1.0758160412313833,
+  "low_onset_rate": 5.813745575328517,
+  "lufs": -15.9529038369515,
+  "rms_dbfs": -15.849799508069465,
+  "crest": 14.175149917602539,
+  "centroid": 2326.239937772129,
+  "flatness": 0.02968752570450306,
+  "sub100_share": 0.17278389632701874,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6411958336830139,
+  "clean_share": 0.04189294026377036,
+  "minor_share": 0.1406816016003608,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.8645949959754944,
+  "vocal_share": 0.16317510604858398,
+  "vocal_voiced": 0.2635761589403974,
+  "song_length": 231.707
+ }
+}

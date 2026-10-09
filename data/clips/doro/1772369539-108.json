@@ -1,0 +1,32 @@
+{
+ "id": "doro/1772369539-108",
+ "band": "doro",
+ "title": "White Wedding",
+ "source": "itunes",
+ "album": "Calling the Wild",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.733265609694155,
+  "tempo_var": 2.842170943040401e-14,
+  "low_onset_rate": 4.799912926749628,
+  "lufs": -8.053898488648516,
+  "rms_dbfs": -6.83612010268579,
+  "crest": 6.83612060546875,
+  "centroid": 2256.044280391537,
+  "flatness": 0.016026610508561134,
+  "sub100_share": 0.3077285587787628,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7822256088256836,
+  "clean_share": 0.3062645011600928,
+  "minor_share": 0.05327783219055815,
+  "chord_rate": 1.2333109603453905,
+  "repetitiveness": 0.7817062139511108,
+  "vocal_share": 0.2754371166229248,
+  "vocal_voiced": 0.7609561752988048,
+  "song_length": 276.787
+ }
+}

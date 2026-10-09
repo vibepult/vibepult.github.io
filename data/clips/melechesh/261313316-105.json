@@ -1,0 +1,32 @@
+{
+ "id": "melechesh/261313316-105",
+ "band": "melechesh",
+ "title": "Rub the Lantern",
+ "source": "itunes",
+ "album": "Djinn",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.9068727876642586,
+  "tempo_var": 4.507427963073818,
+  "low_onset_rate": 3.9760673762304224,
+  "lufs": -9.76849664668572,
+  "rms_dbfs": -9.159591103024617,
+  "crest": 9.159591674804688,
+  "centroid": 2312.153030859446,
+  "flatness": 0.012743278406560421,
+  "sub100_share": 0.21863898634910583,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.9258109331130981,
+  "clean_share": 0.4204809930178433,
+  "minor_share": -0.035798718516946826,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.8580036163330078,
+  "vocal_share": 0.017284097149968147,
+  "vocal_voiced": 0.9825242718446602,
+  "song_length": 534.013
+ }
+}

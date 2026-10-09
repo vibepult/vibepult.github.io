@@ -1,0 +1,32 @@
+{
+ "id": "rata-blanca/1517788919-105",
+ "band": "rata-blanca",
+ "title": "Buscando Pelea",
+ "source": "itunes",
+ "album": "Tormenta Eléctrica",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.5393371478446394,
+  "tempo_var": 1.1292864638714715,
+  "low_onset_rate": 3.2744084274838774,
+  "lufs": -11.701007009604075,
+  "rms_dbfs": -9.737242460180095,
+  "crest": 9.737242698669434,
+  "centroid": 2084.012876171302,
+  "flatness": 0.009952135384082794,
+  "sub100_share": 0.6166470050811768,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.891659140586853,
+  "clean_share": 0.4010861132660978,
+  "minor_share": 0.08720918662457988,
+  "chord_rate": 2.138389177132328,
+  "repetitiveness": 0.7886897921562195,
+  "vocal_share": 2.791927613543521e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 275.84
+ }
+}

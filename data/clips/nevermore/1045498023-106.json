@@ -1,0 +1,32 @@
+{
+ "id": "nevermore/1045498023-106",
+ "band": "nevermore",
+ "title": "The Heart Collector",
+ "source": "itunes",
+ "album": "Dead Heart in a Dead World",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.697024862558711,
+  "tempo_var": 1.582521258964285,
+  "low_onset_rate": 4.630400396423127,
+  "lufs": -13.528443639364061,
+  "rms_dbfs": -13.06803219740825,
+  "crest": 13.068032264709473,
+  "centroid": 1701.9208171084258,
+  "flatness": 0.005077634006738663,
+  "sub100_share": 0.1452580690383911,
+  "lowest_pitch": 185.723876953125,
+  "harmonic_share": 0.8921906352043152,
+  "clean_share": 0.7648878576952823,
+  "minor_share": 0.031189453743308948,
+  "chord_rate": 1.0993036912371452,
+  "repetitiveness": 0.6281269788742065,
+  "vocal_share": 0.28008833527565,
+  "vocal_voiced": 0.9248780487804878,
+  "song_length": 355.827
+ }
+}

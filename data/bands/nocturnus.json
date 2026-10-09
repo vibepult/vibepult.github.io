@@ -1,0 +1,127 @@
+{
+ "slug": "nocturnus",
+ "name": "Nocturnus",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 41375803,
+  "deezer": 10815,
+  "spotify": "5ATaBoi3yPQE7k3PD7TuDB"
+ },
+ "metadata": {
+  "formed": 1987,
+  "split": 2002,
+  "country": "US",
+  "status": "split-up",
+  "members": 5,
+  "past_members": 8,
+  "full_lengths": 3,
+  "genre": "Technical Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 2824,
+  "themes": "Anti-Christianity, Necronomicon, Occultism, Science fiction",
+  "release_year": 1992
+ },
+ "partial": false,
+ "clips": [
+  "nocturnus/1401551408-105",
+  "nocturnus/564098882-104",
+  "nocturnus/583648327-104",
+  "nocturnus/1401551408-104",
+  "nocturnus/564098882-105",
+  "nocturnus/583648327-105",
+  "nocturnus/1401551408-106",
+  "nocturnus/564098882-103",
+  "nocturnus/583648327-103",
+  "nocturnus/1401551408-103",
+  "nocturnus/564098882-106",
+  "nocturnus/583648327-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 139.77693256578948,
+   "iqr": 61.856868717220266
+  },
+  "onset_rate": {
+   "median": 4.811375648547738,
+   "iqr": 1.4534363938321286
+  },
+  "tempo_var": {
+   "median": 9.607196345508374,
+   "iqr": 9.102582679422994
+  },
+  "low_onset_rate": {
+   "median": 7.1001203146971825,
+   "iqr": 2.4641594033360814
+  },
+  "lufs": {
+   "median": -14.695516051381293,
+   "iqr": 1.200391466219095
+  },
+  "rms_dbfs": {
+   "median": -14.267395275655565,
+   "iqr": 1.2278612678329246
+  },
+  "crest": {
+   "median": 14.184236526489258,
+   "iqr": 0.8039822578430176
+  },
+  "centroid": {
+   "median": 2303.7012720463326,
+   "iqr": 594.5161408663357
+  },
+  "flatness": {
+   "median": 0.021169107407331467,
+   "iqr": 0.014557134127244353
+  },
+  "sub100_share": {
+   "median": 0.26110634207725525,
+   "iqr": 0.0898723229765892
+  },
+  "lowest_pitch": {
+   "median": 64.599609375,
+   "iqr": 10.09368896484375
+  },
+  "harmonic_share": {
+   "median": 0.7225322127342224,
+   "iqr": 0.1352832317352295
+  },
+  "clean_share": {
+   "median": 0.07874321179208689,
+   "iqr": 0.13324282389449185
+  },
+  "minor_share": {
+   "median": 0.00573993141580556,
+   "iqr": 0.18041658019047424
+  },
+  "chord_rate": {
+   "median": 1.9546213572225186,
+   "iqr": 0.7517774450855839
+  },
+  "repetitiveness": {
+   "median": 0.9280145764350891,
+   "iqr": 0.04519757628440857
+  },
+  "vocal_share": {
+   "median": 0.07307272590696812,
+   "iqr": 0.04736321698874235
+  },
+  "vocal_voiced": {
+   "median": 0.26719822529878395,
+   "iqr": 0.2811087679147197
+  },
+  "song_length": {
+   "median": 291.2935,
+   "iqr": 78.22299999999996
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.7,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

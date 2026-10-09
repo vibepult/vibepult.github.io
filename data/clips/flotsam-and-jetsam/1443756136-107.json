@@ -1,0 +1,32 @@
+{
+ "id": "flotsam-and-jetsam/1443756136-107",
+ "band": "flotsam-and-jetsam",
+ "title": "Never to Reveal",
+ "source": "itunes",
+ "album": "Cuatro",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.744550986762353,
+  "tempo_var": 3.5864410737020296,
+  "low_onset_rate": 5.045261964796587,
+  "lufs": -10.779069774956639,
+  "rms_dbfs": -10.823562319551783,
+  "crest": 10.823562622070312,
+  "centroid": 3176.366559364254,
+  "flatness": 0.06936945766210556,
+  "sub100_share": 0.3055860698223114,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.46856531500816345,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.14274799165874152,
+  "chord_rate": 2.840048125878873,
+  "repetitiveness": 0.938188910484314,
+  "vocal_share": 0.15563949942588806,
+  "vocal_voiced": 0.48761149653121905,
+  "song_length": 255.867
+ }
+}

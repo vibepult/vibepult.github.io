@@ -1,0 +1,32 @@
+{
+ "id": "elderwind/1656310480-104",
+ "band": "elderwind",
+ "title": "The Nature Stuck in a Dream",
+ "source": "itunes",
+ "album": "The Magic of Nature",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.9760673762304224,
+  "tempo_var": 15.702204166537648,
+  "low_onset_rate": 6.147868884255443,
+  "lufs": -7.934777488603915,
+  "rms_dbfs": -8.14959415842757,
+  "crest": 8.1495943069458,
+  "centroid": 2391.7209463676595,
+  "flatness": 0.03195086494088173,
+  "sub100_share": 0.05094372108578682,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.8075816631317139,
+  "clean_share": 0.004654771140418929,
+  "minor_share": 0.15053417102831712,
+  "chord_rate": 0.23388631624884837,
+  "repetitiveness": 0.7351394295692444,
+  "vocal_share": 0.04580191150307655,
+  "vocal_voiced": 0.08840864440078586,
+  "song_length": 293.726
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "enthroned/1453586427-105",
+ "band": "enthroned",
+ "title": "Silent Redemption",
+ "source": "itunes",
+ "album": "Cold Black Suns",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.641944067303496,
+  "tempo_var": 2.689611143168967,
+  "low_onset_rate": 4.276778354264656,
+  "lufs": -11.283836471493313,
+  "rms_dbfs": -11.488845967521986,
+  "crest": 11.488845825195312,
+  "centroid": 2471.133374688998,
+  "flatness": 0.03312390670180321,
+  "sub100_share": 0.18344998359680176,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.7505590319633484,
+  "clean_share": 0.02094647013188518,
+  "minor_share": -0.1357110801945055,
+  "chord_rate": 0.9021329341027009,
+  "repetitiveness": 0.8459240794181824,
+  "vocal_share": 0.00010906184616032988,
+  "vocal_voiced": 1.0,
+  "song_length": 371.749
+ }
+}

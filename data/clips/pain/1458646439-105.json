@@ -1,0 +1,32 @@
+{
+ "id": "pain/1458646439-105",
+ "band": "pain",
+ "title": "Black Knight Satellite",
+ "source": "itunes",
+ "album": "Coming Home",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.533311967879257,
+  "tempo_var": 0.7776698663429914,
+  "low_onset_rate": 3.8333101538312695,
+  "lufs": -11.794018269254131,
+  "rms_dbfs": -11.198964308484298,
+  "crest": 11.19896411895752,
+  "centroid": 1680.3647663512488,
+  "flatness": 0.02587573416531086,
+  "sub100_share": 0.6648041009902954,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8609329462051392,
+  "clean_share": 0.5104408352668214,
+  "minor_share": 0.26965416701513867,
+  "chord_rate": 1.0666602167182662,
+  "repetitiveness": 0.7932538986206055,
+  "vocal_share": 6.81239635014208e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 221.28
+ }
+}

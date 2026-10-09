@@ -1,0 +1,127 @@
+{
+ "slug": "budgie",
+ "name": "Budgie",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1216756389,
+  "deezer": 10188,
+  "spotify": "42RbQv212uOjyfIXECLKfR"
+ },
+ "metadata": {
+  "formed": 1968,
+  "split": 2010,
+  "country": "GB",
+  "status": "split-up",
+  "members": 2,
+  "past_members": 13,
+  "full_lengths": 11,
+  "genre": "Heavy Metal/Hard/Progressive Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 8199,
+  "themes": "Society, Humour, Irony, Women, Love",
+  "release_year": 1973
+ },
+ "partial": false,
+ "clips": [
+  "budgie/1681893488-104",
+  "budgie/1681883802-105",
+  "budgie/1848469743-104",
+  "budgie/1848934363-103",
+  "budgie/1851021006-104",
+  "budgie/1848477680-104",
+  "budgie/1850559055-105",
+  "budgie/1681893488-105",
+  "budgie/1681883802-104",
+  "budgie/1848469743-103",
+  "budgie/1848934363-104",
+  "budgie/1851021006-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 35.52252024291499
+  },
+  "onset_rate": {
+   "median": 3.9998065141616714,
+   "iqr": 0.93316821884149
+  },
+  "tempo_var": {
+   "median": 9.329489201505712,
+   "iqr": 13.555523684255757
+  },
+  "low_onset_rate": {
+   "median": 4.416338397038534,
+   "iqr": 1.3052064018619474
+  },
+  "lufs": {
+   "median": -16.502604789937728,
+   "iqr": 3.419535669644022
+  },
+  "rms_dbfs": {
+   "median": -15.918483086334,
+   "iqr": 3.3775599752034857
+  },
+  "crest": {
+   "median": 15.301446437835693,
+   "iqr": 3.049489736557007
+  },
+  "centroid": {
+   "median": 2357.963897914909,
+   "iqr": 754.7520130061723
+  },
+  "flatness": {
+   "median": 0.019253521226346493,
+   "iqr": 0.011035810923203826
+  },
+  "sub100_share": {
+   "median": 0.29342760145664215,
+   "iqr": 0.16934989020228386
+  },
+  "lowest_pitch": {
+   "median": 75.3662109375,
+   "iqr": 44.4122314453125
+  },
+  "harmonic_share": {
+   "median": 0.6666685342788696,
+   "iqr": 0.21007533371448517
+  },
+  "clean_share": {
+   "median": 0.32018561484918795,
+   "iqr": 0.23785652528954318
+  },
+  "minor_share": {
+   "median": -0.029720692955439665,
+   "iqr": 0.2363957331199203
+  },
+  "chord_rate": {
+   "median": 2.132589436512874,
+   "iqr": 0.7500486267051509
+  },
+  "repetitiveness": {
+   "median": 0.8243333399295807,
+   "iqr": 0.06685353815555573
+  },
+  "vocal_share": {
+   "median": 0.14418213069438934,
+   "iqr": 0.07746950164437294
+  },
+  "vocal_voiced": {
+   "median": 0.9123831775700935,
+   "iqr": 0.11391367561736332
+  },
+  "song_length": {
+   "median": 364.7065,
+   "iqr": 187.26024999999998
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "bolt-thrower",
+ "name": "Bolt Thrower",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 42086322,
+  "deezer": 5601,
+  "spotify": "3EbMlZ7ZKmFWPTHrLzpzvs"
+ },
+ "metadata": {
+  "formed": 1986,
+  "split": 2016,
+  "country": "GB",
+  "status": "split-up",
+  "members": 4,
+  "past_members": 6,
+  "full_lengths": 8,
+  "genre": "Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 31270,
+  "themes": "Death, War, Loss, Sacrifice, Brotherhood, Warhammer 40K",
+  "release_year": 1993
+ },
+ "partial": false,
+ "clips": [
+  "bolt-thrower/310693166-106",
+  "bolt-thrower/778852967-105",
+  "bolt-thrower/63609704-106",
+  "bolt-thrower/42086430-106",
+  "bolt-thrower/53262401-105",
+  "bolt-thrower/53263685-105",
+  "bolt-thrower/88482014-105",
+  "bolt-thrower/310693166-107",
+  "bolt-thrower/778852967-104",
+  "bolt-thrower/63609704-105",
+  "bolt-thrower/42086430-105",
+  "bolt-thrower/53262401-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 132.59919819078948,
+   "iqr": 25.4296875
+  },
+  "onset_rate": {
+   "median": 6.014219560684673,
+   "iqr": 1.7549134951826852
+  },
+  "tempo_var": {
+   "median": 5.2966479389863075,
+   "iqr": 10.966990812775489
+  },
+  "low_onset_rate": {
+   "median": 7.775771427527493,
+   "iqr": 1.1026069194588555
+  },
+  "lufs": {
+   "median": -10.306593766563394,
+   "iqr": 5.463557051459283
+  },
+  "rms_dbfs": {
+   "median": -10.463502583952138,
+   "iqr": 5.54260590681106
+  },
+  "crest": {
+   "median": 10.463501930236816,
+   "iqr": 4.82324743270874
+  },
+  "centroid": {
+   "median": 2655.811942965545,
+   "iqr": 203.2029060897171
+  },
+  "flatness": {
+   "median": 0.030822835862636566,
+   "iqr": 0.0155861284583807
+  },
+  "sub100_share": {
+   "median": 0.28380186855793,
+   "iqr": 0.12788161262869835
+  },
+  "lowest_pitch": {
+   "median": 56.524658203125,
+   "iqr": 21.533203125
+  },
+  "harmonic_share": {
+   "median": 0.7762695252895355,
+   "iqr": 0.10049678385257721
+  },
+  "clean_share": {
+   "median": 0.032971295577967415,
+   "iqr": 0.05350226828593663
+  },
+  "minor_share": {
+   "median": -0.03752791531466365,
+   "iqr": 0.18082803632960498
+  },
+  "chord_rate": {
+   "median": 2.16917795994377,
+   "iqr": 0.4056783074042636
+  },
+  "repetitiveness": {
+   "median": 0.9079909324645996,
+   "iqr": 0.06305298209190369
+  },
+  "vocal_share": {
+   "median": 0.06358809769153595,
+   "iqr": 0.05229109525680542
+  },
+  "vocal_voiced": {
+   "median": 0.1299093655589124,
+   "iqr": 0.13547741688306159
+  },
+  "song_length": {
+   "median": 300.9465,
+   "iqr": 86.90625
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "akercocke",
+ "name": "Akercocke",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 42365401,
+  "deezer": 117263,
+  "spotify": "0YAOC9q7XHpKplKYf7FMSp"
+ },
+ "metadata": {
+  "formed": 1997,
+  "split": null,
+  "country": "GB",
+  "status": "active",
+  "members": 5,
+  "past_members": 10,
+  "full_lengths": 6,
+  "genre": "Progressive Black/Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 2626,
+  "themes": "Satanism, Faust, Sex, Sorrow",
+  "release_year": 2004
+ },
+ "partial": false,
+ "clips": [
+  "akercocke/1304652606-105",
+  "akercocke/76330425-105",
+  "akercocke/42365514-106",
+  "akercocke/310623341-106",
+  "akercocke/255446475-106",
+  "akercocke/1246365465-105",
+  "akercocke/1304652606-107",
+  "akercocke/76330425-106",
+  "akercocke/42365514-105",
+  "akercocke/310623341-104",
+  "akercocke/255446475-105",
+  "akercocke/1246365465-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 36.86390752377717
+  },
+  "onset_rate": {
+   "median": 4.661020159530621,
+   "iqr": 2.447453237889736
+  },
+  "tempo_var": {
+   "median": 9.87625630561862,
+   "iqr": 18.876831495932468
+  },
+  "low_onset_rate": {
+   "median": 5.6968024172040925,
+   "iqr": 2.7481642159239685
+  },
+  "lufs": {
+   "median": -12.028351972757001,
+   "iqr": 3.116709587435553
+  },
+  "rms_dbfs": {
+   "median": -11.850555953619898,
+   "iqr": 3.103480080794922
+  },
+  "crest": {
+   "median": 11.850555896759033,
+   "iqr": 3.1034798622131348
+  },
+  "centroid": {
+   "median": 2388.7315188094276,
+   "iqr": 593.0824172700839
+  },
+  "flatness": {
+   "median": 0.02191495057195425,
+   "iqr": 0.015693095047026873
+  },
+  "sub100_share": {
+   "median": 0.33623720705509186,
+   "iqr": 0.12920691072940826
+  },
+  "lowest_pitch": {
+   "median": 43.06640625,
+   "iqr": 12.78533935546875
+  },
+  "harmonic_share": {
+   "median": 0.8043249845504761,
+   "iqr": 0.09350498020648956
+  },
+  "clean_share": {
+   "median": 0.11365399534522885,
+   "iqr": 0.313421256788208
+  },
+  "minor_share": {
+   "median": 0.021731974773957385,
+   "iqr": 0.09226179101100665
+  },
+  "chord_rate": {
+   "median": 1.236256243029627,
+   "iqr": 0.8854267686563544
+  },
+  "repetitiveness": {
+   "median": 0.8518954813480377,
+   "iqr": 0.08270886540412903
+  },
+  "vocal_share": {
+   "median": 0.0925082191824913,
+   "iqr": 0.039396995678544044
+  },
+  "vocal_voiced": {
+   "median": 0.6482452433343534,
+   "iqr": 0.6927691801291563
+  },
+  "song_length": {
+   "median": 300.907,
+   "iqr": 144.68399999999997
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.5,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

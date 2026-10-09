@@ -1,0 +1,32 @@
+{
+ "id": "nightwish/1669902575-106",
+ "band": "nightwish",
+ "title": "Tutankhamen (Remastered)",
+ "source": "itunes",
+ "album": "Angels Fall First",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.109716699801193,
+  "tempo_var": 2.127240638391869,
+  "low_onset_rate": 4.71113865586966,
+  "lufs": -8.990434494818876,
+  "rms_dbfs": -9.273414029288023,
+  "crest": 9.27341365814209,
+  "centroid": 2620.823444996919,
+  "flatness": 0.030046284198760986,
+  "sub100_share": 0.2092357873916626,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8250933885574341,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": -0.050534394353672685,
+  "chord_rate": 1.0023699267807789,
+  "repetitiveness": 0.7286168336868286,
+  "vocal_share": 0.1394888460636139,
+  "vocal_voiced": 0.9183135704874835,
+  "song_length": 329.707
+ }
+}

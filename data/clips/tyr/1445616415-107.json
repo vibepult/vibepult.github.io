@@ -1,0 +1,32 @@
+{
+ "id": "tyr/1445616415-107",
+ "band": "tyr",
+ "title": "Empire of the North",
+ "source": "itunes",
+ "album": "Hel",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.546446928186976,
+  "tempo_var": 4.72033975460651,
+  "low_onset_rate": 7.584599112641226,
+  "lufs": -8.80126767572361,
+  "rms_dbfs": -8.573593417054738,
+  "crest": 8.573593139648438,
+  "centroid": 2464.4107299508305,
+  "flatness": 0.03270229324698448,
+  "sub100_share": 0.2809496819972992,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7906177639961243,
+  "clean_share": 0.011636927851047323,
+  "minor_share": 0.11177745889238444,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.9145964980125427,
+  "vocal_share": 0.19025978446006775,
+  "vocal_voiced": 0.5414258188824663,
+  "song_length": 311.813
+ }
+}

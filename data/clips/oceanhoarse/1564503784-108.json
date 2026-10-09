@@ -1,0 +1,32 @@
+{
+ "id": "oceanhoarse/1564503784-108",
+ "band": "oceanhoarse",
+ "title": "The Intruder",
+ "source": "itunes",
+ "album": "Dead Reckoning",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.742181059981574,
+  "tempo_var": 28.522893881926688,
+  "low_onset_rate": 5.680096251757746,
+  "lufs": -8.978034145146825,
+  "rms_dbfs": -8.385155587768974,
+  "crest": 8.385154724121094,
+  "centroid": 2689.5666735887894,
+  "flatness": 0.041820891201496124,
+  "sub100_share": 0.3899517357349396,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7008861899375916,
+  "clean_share": 0.0062063615205585725,
+  "minor_share": 0.09959450261615277,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.9350246787071228,
+  "vocal_share": 0.154872328042984,
+  "vocal_voiced": 0.3126064735945486,
+  "song_length": 250.445
+ }
+}

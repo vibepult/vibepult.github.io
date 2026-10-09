@@ -1,0 +1,32 @@
+{
+ "id": "superjoint/1435781868-107",
+ "band": "superjoint",
+ "title": "Deaththreat",
+ "source": "itunes",
+ "album": "A Lethal Dose of American Hatred",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.3,
+  "tempo_var": 20.633954194605902,
+  "low_onset_rate": 5.4,
+  "lufs": -9.831884871143156,
+  "rms_dbfs": -9.740780520228773,
+  "crest": 9.7407808303833,
+  "centroid": 2684.5472160620443,
+  "flatness": 0.04697711765766144,
+  "sub100_share": 0.3368350565433502,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.644626796245575,
+  "clean_share": 0.0,
+  "minor_share": -0.10124869171210071,
+  "chord_rate": 2.966666666666667,
+  "repetitiveness": 0.9017962217330933,
+  "vocal_share": 0.16349634528160095,
+  "vocal_voiced": 0.3410301953818828,
+  "song_length": 130.32
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "tnt/1365169578-106",
+ "band": "tnt",
+ "title": "Can't Breathe Anymore",
+ "source": "itunes",
+ "album": "XIII",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.6753563981961888,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.310190685157349,
+  "lufs": -10.485005290151495,
+  "rms_dbfs": -10.463511378344801,
+  "crest": 10.463510513305664,
+  "centroid": 2557.323686549526,
+  "flatness": 0.03309112414717674,
+  "sub100_share": 0.1437121033668518,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.6977881193161011,
+  "clean_share": 0.06982156710628394,
+  "minor_share": -0.26944560807203377,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.8291600942611694,
+  "vocal_share": 0.3510318100452423,
+  "vocal_voiced": 0.8579982891360137,
+  "song_length": 229.453
+ }
+}

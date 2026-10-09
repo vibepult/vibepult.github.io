@@ -1,0 +1,32 @@
+{
+ "id": "ram/1037095080-105",
+ "band": "ram",
+ "title": "Holy Death",
+ "source": "itunes",
+ "album": "Svbversvm",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.1407591039131066,
+  "tempo_var": 2.902484802685998,
+  "low_onset_rate": 6.147868884255443,
+  "lufs": -8.474461652604605,
+  "rms_dbfs": -8.057991096937759,
+  "crest": 8.057991027832031,
+  "centroid": 2317.2765355808037,
+  "flatness": 0.022646386176347733,
+  "sub100_share": 0.20022541284561157,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7995800375938416,
+  "clean_share": 0.030256012412723042,
+  "minor_share": 0.07823621321395169,
+  "chord_rate": 0.7684836105319304,
+  "repetitiveness": 0.819345235824585,
+  "vocal_share": 0.17330874502658844,
+  "vocal_voiced": 0.8878968253968254,
+  "song_length": 310.28
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "accept/192666101-105",
+ "band": "accept",
+ "title": "Screaming for a Love-Bite",
+ "source": "itunes",
+ "album": "Metal Heart",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.764282336660528,
+  "tempo_var": 8.727319037497223,
+  "low_onset_rate": 4.263965832677412,
+  "lufs": -15.784751826453142,
+  "rms_dbfs": -16.369627989154903,
+  "crest": 14.766684532165527,
+  "centroid": 3256.4369849911627,
+  "flatness": 0.06894826889038086,
+  "sub100_share": 0.1258683204650879,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.6564785838127136,
+  "clean_share": 0.0,
+  "minor_share": -0.12564998248704606,
+  "chord_rate": 1.2658648565761068,
+  "repetitiveness": 0.7473610043525696,
+  "vocal_share": 0.2013600915670395,
+  "vocal_voiced": 0.7185990338164251,
+  "song_length": 245.36
+ }
+}

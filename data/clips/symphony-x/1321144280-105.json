@@ -1,0 +1,32 @@
+{
+ "id": "symphony-x/1321144280-105",
+ "band": "symphony-x",
+ "title": "King of Terrors",
+ "source": "itunes",
+ "album": "The Odyssey",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.433266314946108,
+  "tempo_var": 23.48531037250685,
+  "low_onset_rate": 5.69991383350214,
+  "lufs": -10.970244224137488,
+  "rms_dbfs": -9.604878433554502,
+  "crest": 9.604878425598145,
+  "centroid": 2388.6501124775455,
+  "flatness": 0.021678615361452103,
+  "sub100_share": 0.5841701626777649,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8264742493629456,
+  "clean_share": 0.0765661252900232,
+  "minor_share": 0.005068808024334459,
+  "chord_rate": 3.3999486024398724,
+  "repetitiveness": 0.9673511385917664,
+  "vocal_share": 0.008268855512142181,
+  "vocal_voiced": 0.0,
+  "song_length": 379.96
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "overkill/1713516362-105",
+ "band": "overkill",
+ "title": "Let Me Shut That for You",
+ "source": "itunes",
+ "album": "The Killing Kind",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.299934997203368,
+  "tempo_var": 23.421950393655194,
+  "low_onset_rate": 5.666581004066455,
+  "lufs": -11.6720051250785,
+  "rms_dbfs": -11.404421500233743,
+  "crest": 11.404420852661133,
+  "centroid": 2834.5284608065394,
+  "flatness": 0.04248085618019104,
+  "sub100_share": 0.2975633442401886,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7651706337928772,
+  "clean_share": 0.04795050270688322,
+  "minor_share": 0.08202539522430624,
+  "chord_rate": 2.599960695983432,
+  "repetitiveness": 0.7846390604972839,
+  "vocal_share": 0.13434244692325592,
+  "vocal_voiced": 0.054098360655737705,
+  "song_length": 318.56
+ }
+}

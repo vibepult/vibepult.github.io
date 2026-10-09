@@ -1,0 +1,32 @@
+{
+ "id": "korpiklaani/1184710913-105",
+ "band": "korpiklaani",
+ "title": "Pellonpekko",
+ "source": "itunes",
+ "album": "Spirit of the Forest",
+ "year": 2003,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.1,
+  "tempo_var": 13.162543415726118,
+  "low_onset_rate": 3.433333333333333,
+  "lufs": -10.647107518531099,
+  "rms_dbfs": -9.809118133313017,
+  "crest": 9.809118270874023,
+  "centroid": 2008.294715878943,
+  "flatness": 0.004863373469561338,
+  "sub100_share": 0.3391879200935364,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.9190902709960938,
+  "clean_share": 0.6509287925696594,
+  "minor_share": -0.13945357790526236,
+  "chord_rate": 1.6666666666666667,
+  "repetitiveness": 0.8337279558181763,
+  "vocal_share": 4.520281606801291e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 215.893
+ }
+}

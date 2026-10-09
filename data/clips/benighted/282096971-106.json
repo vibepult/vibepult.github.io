@@ -1,0 +1,32 @@
+{
+ "id": "benighted/282096971-106",
+ "band": "benighted",
+ "title": "The Twins",
+ "source": "itunes",
+ "album": "Identisick",
+ "year": 2006,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 5.245735950152742,
+  "tempo_var": 19.366272427980515,
+  "low_onset_rate": 6.816115502109295,
+  "lufs": -8.141099881183875,
+  "rms_dbfs": -7.35897874399747,
+  "crest": 7.358979225158691,
+  "centroid": 2453.066298267208,
+  "flatness": 0.03128914162516594,
+  "sub100_share": 0.3693084418773651,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.6984971165657043,
+  "clean_share": 0.02482544608223429,
+  "minor_share": 0.29557235955820155,
+  "chord_rate": 2.405687824273869,
+  "repetitiveness": 0.9290292859077454,
+  "vocal_share": 0.06580526381731033,
+  "vocal_voiced": 0.05850091407678245,
+  "song_length": 201.32
+ }
+}

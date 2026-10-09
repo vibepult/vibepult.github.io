@@ -1,0 +1,32 @@
+{
+ "id": "myrath/464009405-106",
+ "band": "myrath",
+ "title": "Dawn Within",
+ "source": "itunes",
+ "album": "Tales of the Sands",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.878200310333123,
+  "tempo_var": 14.63633256299398,
+  "low_onset_rate": 4.310190685157349,
+  "lufs": -9.320276704713551,
+  "rms_dbfs": -8.62636352368704,
+  "crest": 8.626363754272461,
+  "centroid": 2395.6585540339856,
+  "flatness": 0.030706819146871567,
+  "sub100_share": 0.29818522930145264,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7290878295898438,
+  "clean_share": 0.03801396431342126,
+  "minor_share": 0.20952821376041458,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.8466120958328247,
+  "vocal_share": 0.30728644132614136,
+  "vocal_voiced": 0.9224204809930179,
+  "song_length": 211.387
+ }
+}

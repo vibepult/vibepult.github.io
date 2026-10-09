@@ -1,0 +1,32 @@
+{
+ "id": "black-royal/1354970984-103",
+ "band": "black-royal",
+ "title": "Salvation",
+ "source": "itunes",
+ "album": "Lightbringer",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 1.169431581244242,
+  "tempo_var": 10.316899513815578,
+  "low_onset_rate": 6.61564151675314,
+  "lufs": -10.92198426804795,
+  "rms_dbfs": -9.658381497712652,
+  "crest": 9.658381462097168,
+  "centroid": 1642.6115313924565,
+  "flatness": 0.005612683482468128,
+  "sub100_share": 0.514768660068512,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8918110132217407,
+  "clean_share": 0.6889061287820015,
+  "minor_share": 0.11959682165775287,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.7233217358589172,
+  "vocal_share": 0.005975127685815096,
+  "vocal_voiced": 0.9724770642201835,
+  "song_length": 322.84
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "kamelot/6781275561-108",
+ "band": "kamelot",
+ "title": "Godlike Alchemy",
+ "source": "itunes",
+ "album": "Dark Asylum",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.266640866873065,
+  "tempo_var": 16.497769802973366,
+  "low_onset_rate": 5.733298664860681,
+  "lufs": -12.416380926934119,
+  "rms_dbfs": -11.910033872720566,
+  "crest": 11.9100341796875,
+  "centroid": 2257.0527696234844,
+  "flatness": 0.03436362370848656,
+  "sub100_share": 0.39793649315834045,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7980917692184448,
+  "clean_share": 0.054137664346481054,
+  "minor_share": 0.13818594821992636,
+  "chord_rate": 1.6333234568498451,
+  "repetitiveness": 0.8816277384757996,
+  "vocal_share": 0.002338404767215252,
+  "vocal_voiced": 0.8433734939759037,
+  "song_length": 186.013
+ }
+}

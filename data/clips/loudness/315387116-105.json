@@ -1,0 +1,32 @@
+{
+ "id": "loudness/315387116-105",
+ "band": "loudness",
+ "title": "One Thousand Eyes (Remastered)",
+ "source": "itunes",
+ "album": "Shadows of War",
+ "year": 1986,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.610901663191583,
+  "tempo_var": 2.8363184020034797,
+  "low_onset_rate": 4.4772523396208115,
+  "lufs": -10.305040911143669,
+  "rms_dbfs": -10.81138306173941,
+  "crest": 10.811382293701172,
+  "centroid": 3169.909872406479,
+  "flatness": 0.059687741100788116,
+  "sub100_share": 0.2601008117198944,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.6362141370773315,
+  "clean_share": 0.0,
+  "minor_share": 0.10271325974445972,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.9157857894897461,
+  "vocal_share": 0.08130615949630737,
+  "vocal_voiced": 0.39528432732316227,
+  "song_length": 301.687
+ }
+}

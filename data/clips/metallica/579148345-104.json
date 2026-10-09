@@ -1,0 +1,32 @@
+{
+ "id": "metallica/579148345-104",
+ "band": "metallica",
+ "title": "Fade to Black",
+ "source": "itunes",
+ "album": "Ride the Lightning (Remastered) [2016 Remastered Version]",
+ "year": 1984,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.966666666666667,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 3.3666666666666667,
+  "lufs": -17.525135953585654,
+  "rms_dbfs": -17.71188396482994,
+  "crest": 17.711883544921875,
+  "centroid": 2261.5865026169304,
+  "flatness": 0.00817881990224123,
+  "sub100_share": 0.08048581331968307,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.8737043738365173,
+  "clean_share": 0.5595975232198143,
+  "minor_share": 0.08492913560962911,
+  "chord_rate": 1.2,
+  "repetitiveness": 0.7431665062904358,
+  "vocal_share": 1.0041752602774068e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 417.227
+ }
+}

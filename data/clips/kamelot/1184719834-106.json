@@ -1,0 +1,32 @@
+{
+ "id": "kamelot/1184719834-106",
+ "band": "kamelot",
+ "title": "My Therapy",
+ "source": "itunes",
+ "album": "Haven",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 69.83741554054055,
+  "onset_rate": 5.833333333333333,
+  "tempo_var": 10.44727153826953,
+  "low_onset_rate": 6.366666666666666,
+  "lufs": -9.202037666858251,
+  "rms_dbfs": -8.587899672017421,
+  "crest": 8.587899208068848,
+  "centroid": 2506.847515388668,
+  "flatness": 0.035689376294612885,
+  "sub100_share": 0.34289392828941345,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7313024401664734,
+  "clean_share": 0.005417956656346749,
+  "minor_share": -0.017873278398859438,
+  "chord_rate": 1.2,
+  "repetitiveness": 0.9131863713264465,
+  "vocal_share": 0.21416184306144714,
+  "vocal_voiced": 0.6500777604976672,
+  "song_length": 266.067
+ }
+}

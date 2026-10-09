@@ -1,0 +1,127 @@
+{
+ "slug": "einherjer",
+ "name": "Einherjer",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 54687228,
+  "deezer": 108220,
+  "spotify": "0iGkBvuI18nxqJR8Ipg1cu"
+ },
+ "metadata": {
+  "formed": 1993,
+  "split": null,
+  "country": "NO",
+  "status": "active",
+  "members": 4,
+  "past_members": 7,
+  "full_lengths": 10,
+  "genre": "Viking Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 5339,
+  "themes": "Nordic mythology",
+  "release_year": 2007
+ },
+ "partial": false,
+ "clips": [
+  "einherjer/1542118252-104",
+  "einherjer/1045121118-105",
+  "einherjer/1446646617-104",
+  "einherjer/499179237-107",
+  "einherjer/1750579915-103",
+  "einherjer/1750746558-104",
+  "einherjer/1750746093-107",
+  "einherjer/1750578112-105",
+  "einherjer/1539917083-104",
+  "einherjer/1884937024-104",
+  "einherjer/1542118252-105",
+  "einherjer/1045121118-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 136.376953125,
+   "iqr": 56.55117692618535
+  },
+  "onset_rate": {
+   "median": 4.766666666666667,
+   "iqr": 0.9760637370447958
+  },
+  "tempo_var": {
+   "median": 8.266711992367338,
+   "iqr": 14.298284613443304
+  },
+  "low_onset_rate": {
+   "median": 6.716666666666667,
+   "iqr": 0.812794066964349
+  },
+  "lufs": {
+   "median": -9.758649511381662,
+   "iqr": 1.324516877907847
+  },
+  "rms_dbfs": {
+   "median": -9.549729095535326,
+   "iqr": 2.0371022997937622
+  },
+  "crest": {
+   "median": 9.549729347229004,
+   "iqr": 2.037102460861206
+  },
+  "centroid": {
+   "median": 2354.1039621157124,
+   "iqr": 303.70939646152465
+  },
+  "flatness": {
+   "median": 0.0254326481372118,
+   "iqr": 0.01524207228794694
+  },
+  "sub100_share": {
+   "median": 0.30047503113746643,
+   "iqr": 0.0840788222849369
+  },
+  "lowest_pitch": {
+   "median": 57.8704833984375,
+   "iqr": 30.9539794921875
+  },
+  "harmonic_share": {
+   "median": 0.7270935773849487,
+   "iqr": 0.08075718581676483
+  },
+  "clean_share": {
+   "median": 0.03872015993500841,
+   "iqr": 0.06875762788227369
+  },
+  "minor_share": {
+   "median": 0.05223751762822576,
+   "iqr": 0.08378140929390411
+  },
+  "chord_rate": {
+   "median": 1.7854267686563547,
+   "iqr": 0.8452965927971532
+  },
+  "repetitiveness": {
+   "median": 0.8990936875343323,
+   "iqr": 0.04731099307537079
+  },
+  "vocal_share": {
+   "median": 0.09344422817230225,
+   "iqr": 0.07460121065378189
+  },
+  "vocal_voiced": {
+   "median": 0.13992537313432835,
+   "iqr": 0.46677603834795006
+  },
+  "song_length": {
+   "median": 351.34749999999997,
+   "iqr": 133.94275000000005
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "ensiferum/1679699224-105",
+ "band": "ensiferum",
+ "title": "Celestial Bond",
+ "source": "itunes",
+ "album": "Unsung Heroes",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.742181059981574,
+  "tempo_var": 2.3006631117820833,
+  "low_onset_rate": 1.336493235707705,
+  "lufs": -15.874775233970874,
+  "rms_dbfs": -14.698231665442352,
+  "crest": 14.698230743408203,
+  "centroid": 1896.6578756537917,
+  "flatness": 0.00768041517585516,
+  "sub100_share": 0.3646661341190338,
+  "lowest_pitch": 29.608154296875,
+  "harmonic_share": 0.9117751717567444,
+  "clean_share": 0.7463149728471683,
+  "minor_share": 0.05604799717071396,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.8082905411720276,
+  "vocal_share": 0.4019339680671692,
+  "vocal_voiced": 0.8812949640287769,
+  "song_length": 255.013
+ }
+}

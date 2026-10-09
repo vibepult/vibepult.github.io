@@ -1,0 +1,32 @@
+{
+ "id": "the-gathering/1372173296-105",
+ "band": "the-gathering",
+ "title": "Souvenirs",
+ "source": "itunes",
+ "album": "Souvenirs",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.4772523396208115,
+  "tempo_var": 2.0067633314222433,
+  "low_onset_rate": 1.8376781990980944,
+  "lufs": -12.861391931407638,
+  "rms_dbfs": -12.725136669504698,
+  "crest": 12.725135803222656,
+  "centroid": 2525.1736496287367,
+  "flatness": 0.02184373140335083,
+  "sub100_share": 0.1818767637014389,
+  "lowest_pitch": 145.34912109375,
+  "harmonic_share": 0.7871637940406799,
+  "clean_share": 0.19705197827773469,
+  "minor_share": 0.1379521047391734,
+  "chord_rate": 0.8687206032100082,
+  "repetitiveness": 0.7431217432022095,
+  "vocal_share": 0.36829861998558044,
+  "vocal_voiced": 0.897239263803681,
+  "song_length": 366.827
+ }
+}

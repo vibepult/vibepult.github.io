@@ -1,0 +1,127 @@
+{
+ "slug": "pallbearer",
+ "name": "Pallbearer",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 499450846,
+  "deezer": 3279621,
+  "spotify": "2yeEmsTQMNHBlS5dhWtuD1"
+ },
+ "metadata": {
+  "formed": 2008,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 4,
+  "past_members": 4,
+  "full_lengths": 5,
+  "genre": "Doom Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 6797,
+  "themes": "Doom, Death, Fear, Mysticism",
+  "release_year": 2015
+ },
+ "partial": false,
+ "clips": [
+  "pallbearer/499450844-103",
+  "pallbearer/892503890-103",
+  "pallbearer/1193361639-104",
+  "pallbearer/1518969970-104",
+  "pallbearer/1733291253-103",
+  "pallbearer/499450844-102",
+  "pallbearer/892503890-104",
+  "pallbearer/1193361639-103",
+  "pallbearer/1518969970-105",
+  "pallbearer/1733291253-104",
+  "pallbearer/499450844-104",
+  "pallbearer/892503890-102"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 112.34714673913044,
+   "iqr": 20.388303103146853
+  },
+  "onset_rate": {
+   "median": 2.35556932793483,
+   "iqr": 1.0976525240227581
+  },
+  "tempo_var": {
+   "median": 8.817003415992113,
+   "iqr": 10.130999708420612
+  },
+  "low_onset_rate": {
+   "median": 4.705573553879129,
+   "iqr": 1.977658747975719
+  },
+  "lufs": {
+   "median": -13.70456424112854,
+   "iqr": 3.6719686227345463
+  },
+  "rms_dbfs": {
+   "median": -12.836832557434176,
+   "iqr": 4.268256027041389
+  },
+  "crest": {
+   "median": 12.836833000183105,
+   "iqr": 2.6946306228637695
+  },
+  "centroid": {
+   "median": 1585.7244531717497,
+   "iqr": 393.78279735847923
+  },
+  "flatness": {
+   "median": 0.0072927039582282305,
+   "iqr": 0.006191435502842069
+  },
+  "sub100_share": {
+   "median": 0.278229221701622,
+   "iqr": 0.13808408752083778
+  },
+  "lowest_pitch": {
+   "median": 56.524658203125,
+   "iqr": 24.224853515625
+  },
+  "harmonic_share": {
+   "median": 0.8790510594844818,
+   "iqr": 0.09866008162498474
+  },
+  "clean_share": {
+   "median": 0.5849495733126455,
+   "iqr": 0.49002311185670644
+  },
+  "minor_share": {
+   "median": 0.025483903599541224,
+   "iqr": 0.11082439607589017
+  },
+  "chord_rate": {
+   "median": 1.0011423404169533,
+   "iqr": 0.4229464127870384
+  },
+  "repetitiveness": {
+   "median": 0.6759421825408936,
+   "iqr": 0.23480460047721863
+  },
+  "vocal_share": {
+   "median": 0.04301115497946739,
+   "iqr": 0.06760278111323714
+  },
+  "vocal_voiced": {
+   "median": 0.8945262166716226,
+   "iqr": 0.028382975529264498
+  },
+  "song_length": {
+   "median": 524.3195000000001,
+   "iqr": 135.5182499999999
+  },
+  "vocal_presence": {
+   "median": 0.3333333333333333,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "aquilus/1894229012-105",
+ "band": "aquilus",
+ "title": "The Silent Passing",
+ "source": "itunes",
+ "album": "Bellum I",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.4665840274523445,
+  "tempo_var": 2.7311199746205324,
+  "low_onset_rate": 7.03322701092954,
+  "lufs": -9.490403661370351,
+  "rms_dbfs": -8.832988354643602,
+  "crest": 8.832988739013672,
+  "centroid": 2402.725409058597,
+  "flatness": 0.0327337421476841,
+  "sub100_share": 0.3485369086265564,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6999109983444214,
+  "clean_share": 0.0,
+  "minor_share": -0.05168746455230627,
+  "chord_rate": 1.8666384483983613,
+  "repetitiveness": 0.9130268692970276,
+  "vocal_share": 0.02269231714308262,
+  "vocal_voiced": 0.45121951219512196,
+  "song_length": 517.56
+ }
+}

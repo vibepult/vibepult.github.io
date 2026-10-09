@@ -1,0 +1,32 @@
+{
+ "id": "black-sabbath/785242007-106",
+ "band": "black-sabbath",
+ "title": "Snowblind",
+ "source": "itunes",
+ "album": "Black Sabbath, Vol. 4",
+ "year": 1972,
+ "itunes_year": 1972,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.230877313849557,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.897157205794369,
+  "lufs": -17.937265806795637,
+  "rms_dbfs": -17.4361578709114,
+  "crest": 16.306560516357422,
+  "centroid": 3198.858938431345,
+  "flatness": 0.04422537982463837,
+  "sub100_share": 0.20350706577301025,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7335951328277588,
+  "clean_share": 0.07888631090487239,
+  "minor_share": 0.18476459428764097,
+  "chord_rate": 2.8316895407654514,
+  "repetitiveness": 0.7948229312896729,
+  "vocal_share": 0.059039779007434845,
+  "vocal_voiced": 0.9338624338624338,
+  "song_length": 326.328
+ }
+}

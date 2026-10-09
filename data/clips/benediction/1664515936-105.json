@@ -1,0 +1,32 @@
+{
+ "id": "benediction/1664515936-105",
+ "band": "benediction",
+ "title": "Child of Sin",
+ "source": "itunes",
+ "album": "The Grand Leveller",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 2.1049768462396354,
+  "tempo_var": 14.838132533608475,
+  "low_onset_rate": 1.971327522668865,
+  "lufs": -10.684524404572404,
+  "rms_dbfs": -9.48989312355476,
+  "crest": 9.489892959594727,
+  "centroid": 2526.0185586455973,
+  "flatness": 0.025427842512726784,
+  "sub100_share": 0.3244445025920868,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7516500353813171,
+  "clean_share": 0.057408844065166796,
+  "minor_share": 0.09356220896930834,
+  "chord_rate": 2.1049768462396354,
+  "repetitiveness": 0.9064818024635315,
+  "vocal_share": 0.08653507381677628,
+  "vocal_voiced": 0.056577086280056574,
+  "song_length": 279.68
+ }
+}

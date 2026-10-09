@@ -1,0 +1,32 @@
+{
+ "id": "cyhra/1882050029-107",
+ "band": "cyhra",
+ "title": "Ghost I'm Meant To Be",
+ "source": "itunes",
+ "album": "Requiem For A Pipe Dream",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 5.133333333333334,
+  "tempo_var": 6.627730330598062,
+  "low_onset_rate": 6.933333333333334,
+  "lufs": -10.031995721628702,
+  "rms_dbfs": -8.933222478615741,
+  "crest": 8.933222770690918,
+  "centroid": 2326.414234114525,
+  "flatness": 0.0294786486774683,
+  "sub100_share": 0.4305186867713928,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.7662336826324463,
+  "clean_share": 0.12616099071207432,
+  "minor_share": 0.3047103257043732,
+  "chord_rate": 1.3666666666666667,
+  "repetitiveness": 0.8607167601585388,
+  "vocal_share": 0.24830321967601776,
+  "vocal_voiced": 0.6243996157540826,
+  "song_length": 243.987
+ }
+}

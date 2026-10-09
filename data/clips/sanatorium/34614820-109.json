@@ -1,0 +1,32 @@
+{
+ "id": "sanatorium/34614820-109",
+ "band": "sanatorium",
+ "title": "Dunwich Morgue",
+ "source": "itunes",
+ "album": "Internal Womb Cannibalism",
+ "year": 2001,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.4772523396208115,
+  "tempo_var": 5.726118874423582,
+  "low_onset_rate": 6.415167531396984,
+  "lufs": -7.773410566702202,
+  "rms_dbfs": -6.539046826873803,
+  "crest": 6.5390472412109375,
+  "centroid": 2716.188725767177,
+  "flatness": 0.020579684525728226,
+  "sub100_share": 0.3801901936531067,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8194862604141235,
+  "clean_share": 0.013188518231186967,
+  "minor_share": 0.022485706975149566,
+  "chord_rate": 2.472512486059254,
+  "repetitiveness": 0.8977766036987305,
+  "vocal_share": 0.03126749396324158,
+  "vocal_voiced": 0.025139664804469275,
+  "song_length": 163.236
+ }
+}

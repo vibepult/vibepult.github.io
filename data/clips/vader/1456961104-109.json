@@ -1,0 +1,32 @@
+{
+ "id": "vader/1456961104-109",
+ "band": "vader",
+ "title": "Anger",
+ "source": "itunes",
+ "album": "Necropolis",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 0.8666614260835913,
+  "tempo_var": 12.153465747708584,
+  "low_onset_rate": 0.6999957672213623,
+  "lufs": -7.767795980165177,
+  "rms_dbfs": -7.57065232998465,
+  "crest": 7.570652961730957,
+  "centroid": 2827.1809418776315,
+  "flatness": 0.04821612313389778,
+  "sub100_share": 0.34938180446624756,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7396664023399353,
+  "clean_share": 0.01082753286929621,
+  "minor_share": 0.30810976340333074,
+  "chord_rate": 1.7666559839396285,
+  "repetitiveness": 0.8902472257614136,
+  "vocal_share": 0.09123984724283218,
+  "vocal_voiced": 0.3510848126232742,
+  "song_length": 134.413
+ }
+}

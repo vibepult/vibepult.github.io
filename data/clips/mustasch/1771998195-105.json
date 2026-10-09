@@ -1,0 +1,32 @@
+{
+ "id": "mustasch/1771998195-105",
+ "band": "mustasch",
+ "title": "Morning Star",
+ "source": "itunes",
+ "album": "Sounds Like Hell, Looks Like Heaven",
+ "year": 2012,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.866596524326089,
+  "tempo_var": 2.922940666210956,
+  "low_onset_rate": 3.8332637956681057,
+  "lufs": -8.043311830439112,
+  "rms_dbfs": -7.000737300454302,
+  "crest": 7.000737190246582,
+  "centroid": 2748.7965700573736,
+  "flatness": 0.03872135281562805,
+  "sub100_share": 0.5070157051086426,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8277384638786316,
+  "clean_share": 0.09976798143851508,
+  "minor_share": -0.1600485040548244,
+  "chord_rate": 2.2999582774008633,
+  "repetitiveness": 0.8479386568069458,
+  "vocal_share": 0.09293659031391144,
+  "vocal_voiced": 0.5884244372990354,
+  "song_length": 240.823
+ }
+}

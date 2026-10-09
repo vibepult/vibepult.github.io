@@ -1,0 +1,32 @@
+{
+ "id": "panopticon/1631488284-103",
+ "band": "panopticon",
+ "title": "Merkstave",
+ "source": "itunes",
+ "album": "Collapse",
+ "year": 2009,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 6.11445655336275,
+  "tempo_var": 1.4966975686918824,
+  "low_onset_rate": 6.582229185860447,
+  "lufs": -10.44855194412103,
+  "rms_dbfs": -10.16744185945085,
+  "crest": 10.167441368103027,
+  "centroid": 2334.5196152524513,
+  "flatness": 0.029840774834156036,
+  "sub100_share": 0.2246633917093277,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.7733221650123596,
+  "clean_share": 0.0,
+  "minor_share": 0.25786597049731175,
+  "chord_rate": 0.9021329341027009,
+  "repetitiveness": 0.8757839202880859,
+  "vocal_share": 0.03161263093352318,
+  "vocal_voiced": 0.3325526932084309,
+  "song_length": 607.329
+ }
+}

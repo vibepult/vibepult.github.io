@@ -1,0 +1,32 @@
+{
+ "id": "amorphis/75088285-105",
+ "band": "amorphis",
+ "title": "Greed",
+ "source": "itunes",
+ "album": "Tuonela",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.9092427144450372,
+  "tempo_var": 4.478085873768115,
+  "low_onset_rate": 5.479622266401591,
+  "lufs": -8.67606100474455,
+  "rms_dbfs": -8.719134450265868,
+  "crest": 8.719134330749512,
+  "centroid": 2613.7902104529016,
+  "flatness": 0.031046098098158836,
+  "sub100_share": 0.23061376810073853,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8044837713241577,
+  "clean_share": 0.0,
+  "minor_share": -0.04175395693343076,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.8208051919937134,
+  "vocal_share": 0.030486106872558594,
+  "vocal_voiced": 0.8863636363636364,
+  "song_length": 257.667
+ }
+}

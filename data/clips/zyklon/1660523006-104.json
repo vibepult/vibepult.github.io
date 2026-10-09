@@ -1,0 +1,32 @@
+{
+ "id": "zyklon/1660523006-104",
+ "band": "zyklon",
+ "title": "Storm Detonation",
+ "source": "itunes",
+ "album": "World Ov Worms",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 6.74929084032391,
+  "tempo_var": 2.6683331904981364,
+  "low_onset_rate": 8.252845730495078,
+  "lufs": -7.262255598226177,
+  "rms_dbfs": -7.918374311774565,
+  "crest": 7.918374538421631,
+  "centroid": 2840.814443174011,
+  "flatness": 0.06441178917884827,
+  "sub100_share": 0.19043518602848053,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6506878137588501,
+  "clean_share": 0.0,
+  "minor_share": -0.019984339762245673,
+  "chord_rate": 2.6395741405227175,
+  "repetitiveness": 0.9394435882568359,
+  "vocal_share": 0.10615989565849304,
+  "vocal_voiced": 0.2988505747126437,
+  "song_length": 281.667
+ }
+}

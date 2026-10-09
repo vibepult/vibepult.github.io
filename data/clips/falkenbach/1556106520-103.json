@@ -1,0 +1,32 @@
+{
+ "id": "falkenbach/1556106520-103",
+ "band": "falkenbach",
+ "title": "Aduatuza",
+ "source": "itunes",
+ "album": "OK Nefna Tysvar Ty",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 2.9736974494496438,
+  "tempo_var": 12.270730267551832,
+  "low_onset_rate": 3.1407591039131066,
+  "lufs": -10.631033198367293,
+  "rms_dbfs": -9.210683166863765,
+  "crest": 9.21068286895752,
+  "centroid": 1828.3732739049801,
+  "flatness": 0.020863888785243034,
+  "sub100_share": 0.4247950315475464,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.743956446647644,
+  "clean_share": 0.43444530643910007,
+  "minor_share": 0.08774822812356836,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.8460907340049744,
+  "vocal_share": 1.0150678235731903e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 275.813
+ }
+}

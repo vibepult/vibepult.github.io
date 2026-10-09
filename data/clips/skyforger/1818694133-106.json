@@ -1,0 +1,32 @@
+{
+ "id": "skyforger/1818694133-106",
+ "band": "skyforger",
+ "title": "Rex Semigalliae",
+ "source": "itunes",
+ "album": "Teikas",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.3333333333333335,
+  "tempo_var": 23.247824788865262,
+  "low_onset_rate": 3.6,
+  "lufs": -11.441319648055451,
+  "rms_dbfs": -10.734055678702122,
+  "crest": 10.73405647277832,
+  "centroid": 2386.324132910927,
+  "flatness": 0.02068808116018772,
+  "sub100_share": 0.31602954864501953,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.810537576675415,
+  "clean_share": 0.11996904024767802,
+  "minor_share": 0.35315417842164276,
+  "chord_rate": 1.5666666666666667,
+  "repetitiveness": 0.7898974418640137,
+  "vocal_share": 6.633320595028636e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 258.185
+ }
+}

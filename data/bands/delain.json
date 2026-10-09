@@ -1,0 +1,127 @@
+{
+ "slug": "delain",
+ "name": "Delain",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 184414833,
+  "deezer": 12013,
+  "spotify": "6pIRdCtSE5hLFfIfcTAicI"
+ },
+ "metadata": {
+  "formed": 2002,
+  "split": null,
+  "country": "NL",
+  "status": "active",
+  "members": 5,
+  "past_members": 15,
+  "full_lengths": 7,
+  "genre": "Symphonic Metal/Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 129475,
+  "themes": "Pain, Sorrow, Yearning, Love",
+  "release_year": 2015
+ },
+ "partial": false,
+ "clips": [
+  "delain/1151593289-107",
+  "delain/530146544-106",
+  "delain/1183570871-105",
+  "delain/1183562444-106",
+  "delain/1485653436-107",
+  "delain/1652353288-106",
+  "delain/1151593289-106",
+  "delain/530146544-107",
+  "delain/1183570871-104",
+  "delain/1183562444-105",
+  "delain/1485653436-106",
+  "delain/1652353288-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 13.937803918764303
+  },
+  "onset_rate": {
+   "median": 3.8833333333333333,
+   "iqr": 1.6089249058494555
+  },
+  "tempo_var": {
+   "median": 2.031974581594481,
+   "iqr": 3.5855283447930826
+  },
+  "low_onset_rate": {
+   "median": 4.933333333333334,
+   "iqr": 4.32095319344098
+  },
+  "lufs": {
+   "median": -9.077809929333315,
+   "iqr": 1.0951014879860566
+  },
+  "rms_dbfs": {
+   "median": -8.495527576993812,
+   "iqr": 0.9253127296756603
+  },
+  "crest": {
+   "median": 8.495527267456055,
+   "iqr": 0.9253126382827759
+  },
+  "centroid": {
+   "median": 2484.5071788106434,
+   "iqr": 257.8425321678624
+  },
+  "flatness": {
+   "median": 0.029394548386335373,
+   "iqr": 0.015413617249578238
+  },
+  "sub100_share": {
+   "median": 0.32823431491851807,
+   "iqr": 0.06106647104024887
+  },
+  "lowest_pitch": {
+   "median": 49.7955322265625,
+   "iqr": 19.51446533203125
+  },
+  "harmonic_share": {
+   "median": 0.7775861322879791,
+   "iqr": 0.07369273900985718
+  },
+  "clean_share": {
+   "median": 0.03521671826625387,
+   "iqr": 0.10146839655383612
+  },
+  "minor_share": {
+   "median": 0.06627622728460544,
+   "iqr": 0.12245545034511322
+  },
+  "chord_rate": {
+   "median": 1.1166666666666667,
+   "iqr": 0.5560029053322342
+  },
+  "repetitiveness": {
+   "median": 0.8547174036502838,
+   "iqr": 0.032115086913108826
+  },
+  "vocal_share": {
+   "median": 0.19488296657800674,
+   "iqr": 0.10397215932607651
+  },
+  "vocal_voiced": {
+   "median": 0.841889338168883,
+   "iqr": 0.13073477437272385
+  },
+  "song_length": {
+   "median": 254.60999999999999,
+   "iqr": 58.12149999999997
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

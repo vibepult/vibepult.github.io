@@ -1,0 +1,32 @@
+{
+ "id": "primal-fear/1776761168-107",
+ "band": "primal-fear",
+ "title": "Play to Kill",
+ "source": "itunes",
+ "album": "Jaws of Death",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 6.066666666666666,
+  "tempo_var": 10.674511376542306,
+  "low_onset_rate": 6.2,
+  "lufs": -9.825465458822533,
+  "rms_dbfs": -9.31202693397901,
+  "crest": 9.312026977539062,
+  "centroid": 2755.0642306730065,
+  "flatness": 0.04500197619199753,
+  "sub100_share": 0.35857316851615906,
+  "lowest_pitch": 24.224853515625,
+  "harmonic_share": 0.5896782875061035,
+  "clean_share": 0.0015479876160990713,
+  "minor_share": -0.057827461113036605,
+  "chord_rate": 1.6333333333333333,
+  "repetitiveness": 0.9147385954856873,
+  "vocal_share": 0.19304217398166656,
+  "vocal_voiced": 0.4011579818031431,
+  "song_length": 241.2
+ }
+}

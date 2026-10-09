@@ -1,0 +1,32 @@
+{
+ "id": "anvil/1710206665-105",
+ "band": "anvil",
+ "title": "No Evil",
+ "source": "itunes",
+ "album": "Speed of Sound",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 4.399933485510424,
+  "tempo_var": 31.305851198076134,
+  "low_onset_rate": 4.866593097610013,
+  "lufs": -9.460764911250672,
+  "rms_dbfs": -9.25692545143251,
+  "crest": 9.256925582885742,
+  "centroid": 2440.938674649472,
+  "flatness": 0.027663694694638252,
+  "sub100_share": 0.29044556617736816,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.6996757984161377,
+  "clean_share": 0.004640371229698376,
+  "minor_share": -0.03401758037051361,
+  "chord_rate": 1.5333101540415113,
+  "repetitiveness": 0.9049578905105591,
+  "vocal_share": 0.0758739784359932,
+  "vocal_voiced": 0.21372031662269128,
+  "song_length": 328.32
+ }
+}

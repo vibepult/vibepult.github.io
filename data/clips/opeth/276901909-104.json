@@ -1,0 +1,32 @@
+{
+ "id": "opeth/276901909-104",
+ "band": "opeth",
+ "title": "Moonlapse Vertigo (Remastered)",
+ "source": "itunes",
+ "album": "Still Life (Remastered)",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.266666666666667,
+  "tempo_var": 1.3250256800449955,
+  "low_onset_rate": 6.1,
+  "lufs": -7.929316508002657,
+  "rms_dbfs": -8.108950902934428,
+  "crest": 8.1089506149292,
+  "centroid": 2756.7697199254344,
+  "flatness": 0.03921126574277878,
+  "sub100_share": 0.2782571315765381,
+  "lowest_pitch": 164.190673828125,
+  "harmonic_share": 0.8057684898376465,
+  "clean_share": 0.0,
+  "minor_share": 0.24046387298333038,
+  "chord_rate": 1.6666666666666667,
+  "repetitiveness": 0.8123635053634644,
+  "vocal_share": 5.412823043116077e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 540.28
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "1349/1660396876-105",
+ "band": "1349",
+ "title": "Pitch Black",
+ "source": "itunes",
+ "album": "Liberation",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 7.083414149250837,
+  "tempo_var": 6.617360066146248,
+  "low_onset_rate": 8.520144377636619,
+  "lufs": -7.119391279909195,
+  "rms_dbfs": -7.342244448282419,
+  "crest": 7.3422441482543945,
+  "centroid": 3427.225041885698,
+  "flatness": 0.10812574625015259,
+  "sub100_share": 0.3561477065086365,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7078858017921448,
+  "clean_share": 0.0,
+  "minor_share": -0.0008431745565870563,
+  "chord_rate": 1.9379151917761723,
+  "repetitiveness": 0.9325252175331116,
+  "vocal_share": 0.0201337281614542,
+  "vocal_voiced": 0.08652246256239601,
+  "song_length": 199.92
+ }
+}

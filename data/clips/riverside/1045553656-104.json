@@ -1,0 +1,32 @@
+{
+ "id": "riverside/1045553656-104",
+ "band": "riverside",
+ "title": "Schizophrenic Prayer",
+ "source": "itunes",
+ "album": "Rapid Eye Movement",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.377015346942734,
+  "tempo_var": 1.1831260600402815,
+  "low_onset_rate": 4.911612641225816,
+  "lufs": -10.744248677312322,
+  "rms_dbfs": -9.144643995422237,
+  "crest": 9.144643783569336,
+  "centroid": 1500.7073862915263,
+  "flatness": 0.005528493318706751,
+  "sub100_share": 0.37286341190338135,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.840935230255127,
+  "clean_share": 0.7641582622187743,
+  "minor_share": -0.015426830595085983,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.9072883725166321,
+  "vocal_share": 0.27074986696243286,
+  "vocal_voiced": 0.9048603929679421,
+  "song_length": 260.467
+ }
+}

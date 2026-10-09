@@ -1,0 +1,32 @@
+{
+ "id": "nadja/330111059-102",
+ "band": "nadja",
+ "title": "Signs-Expressions",
+ "source": "itunes",
+ "album": "Desire In Uneasiness",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.3054508315957913,
+  "tempo_var": 4.917410786851618,
+  "low_onset_rate": 7.584599112641226,
+  "lufs": -9.552060917014225,
+  "rms_dbfs": -8.109326218173873,
+  "crest": 8.109325408935547,
+  "centroid": 1471.8202425386664,
+  "flatness": 0.005473268683999777,
+  "sub100_share": 0.36384910345077515,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8679788112640381,
+  "clean_share": 0.6082234290147401,
+  "minor_share": -0.2907109146335036,
+  "chord_rate": 0.9689575958880862,
+  "repetitiveness": 0.8534820675849915,
+  "vocal_share": 1.654395782679785e-05,
+  "vocal_voiced": 0.0,
+  "song_length": 796.677
+ }
+}

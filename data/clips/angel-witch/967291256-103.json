@@ -1,0 +1,32 @@
+{
+ "id": "angel-witch/967291256-103",
+ "band": "angel-witch",
+ "title": "Guburah",
+ "source": "itunes",
+ "album": "As Above, So Below",
+ "year": 2012,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.544077001406197,
+  "tempo_var": 4.097954356689075,
+  "low_onset_rate": 6.448579862289677,
+  "lufs": -7.724484078706512,
+  "rms_dbfs": -7.27682370054228,
+  "crest": 7.2768235206604,
+  "centroid": 2694.8452049899447,
+  "flatness": 0.04114702343940735,
+  "sub100_share": 0.4045342206954956,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7985838055610657,
+  "clean_share": 0.0031031807602792862,
+  "minor_share": 0.1856287286341969,
+  "chord_rate": 1.971327522668865,
+  "repetitiveness": 0.8695422410964966,
+  "vocal_share": 0.20828865468502045,
+  "vocal_voiced": 0.628519527702089,
+  "song_length": 324.013
+ }
+}

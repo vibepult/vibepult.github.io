@@ -1,0 +1,32 @@
+{
+ "id": "lizzy-borden/60357194-106",
+ "band": "lizzy-borden",
+ "title": "Never Too Young",
+ "source": "itunes",
+ "album": "Master of Disguise",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 2.2720385007030983,
+  "tempo_var": 39.02847768614688,
+  "low_onset_rate": 3.2744084274838774,
+  "lufs": -15.283589025550095,
+  "rms_dbfs": -15.489830806080205,
+  "crest": 15.48983097076416,
+  "centroid": 2654.5291213294913,
+  "flatness": 0.0347982719540596,
+  "sub100_share": 0.13326723873615265,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7914429306983948,
+  "clean_share": 0.04189294026377036,
+  "minor_share": -0.20400466805177342,
+  "chord_rate": 1.0357822576734714,
+  "repetitiveness": 0.6778728365898132,
+  "vocal_share": 0.3455909192562103,
+  "vocal_voiced": 0.8016682113067656,
+  "song_length": 292.267
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "my-material-season/1502067795-104",
+ "band": "my-material-season",
+ "title": "Frozen Tears",
+ "source": "itunes",
+ "album": "Bloody Pains Stigmata",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 5.245735950152742,
+  "tempo_var": 13.784265358649828,
+  "low_onset_rate": 6.782703171216603,
+  "lufs": -6.10605633995444,
+  "rms_dbfs": -5.883600956122241,
+  "crest": 5.883601188659668,
+  "centroid": 2584.6083070770524,
+  "flatness": 0.04377487301826477,
+  "sub100_share": 0.271300345659256,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6753507256507874,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.017902513399469133,
+  "chord_rate": 1.9379151917761723,
+  "repetitiveness": 0.8854420185089111,
+  "vocal_share": 0.154512420296669,
+  "vocal_voiced": 0.0918141592920354,
+  "song_length": 270.773
+ }
+}

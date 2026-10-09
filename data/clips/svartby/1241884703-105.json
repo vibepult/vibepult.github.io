@@ -1,0 +1,32 @@
+{
+ "id": "svartby/1241884703-105",
+ "band": "svartby",
+ "title": "Dead Boys",
+ "source": "itunes",
+ "album": "Swamp, My Neighbour",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.097856601082427,
+  "tempo_var": 4.04744639316025,
+  "low_onset_rate": 5.397176986791489,
+  "lufs": -9.347233313689257,
+  "rms_dbfs": -8.796386691994595,
+  "crest": 8.79638671875,
+  "centroid": 2672.608579417276,
+  "flatness": 0.04263700544834137,
+  "sub100_share": 0.2835679054260254,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.656339168548584,
+  "clean_share": 0.038669760247486466,
+  "minor_share": -0.08986095290599166,
+  "chord_rate": 1.5325317369901759,
+  "repetitiveness": 0.8977921605110168,
+  "vocal_share": 0.10099520534276962,
+  "vocal_voiced": 0.0,
+  "song_length": 235.428
+ }
+}

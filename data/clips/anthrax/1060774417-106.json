@@ -1,0 +1,32 @@
+{
+ "id": "anthrax/1060774417-106",
+ "band": "anthrax",
+ "title": "Evil Twin",
+ "source": "itunes",
+ "album": "For All Kings",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 5.633248174630769,
+  "tempo_var": 22.506379370000996,
+  "low_onset_rate": 5.733246662937824,
+  "lufs": -9.382208952352205,
+  "rms_dbfs": -8.554253269262865,
+  "crest": 8.554252624511719,
+  "centroid": 2690.4606570248316,
+  "flatness": 0.038384273648262024,
+  "sub100_share": 0.33226385712623596,
+  "lowest_pitch": 118.4326171875,
+  "harmonic_share": 0.6556091904640198,
+  "clean_share": 0.0015467904098994587,
+  "minor_share": -0.016777202907606314,
+  "chord_rate": 2.1333010838838415,
+  "repetitiveness": 0.836887001991272,
+  "vocal_share": 0.12562891840934753,
+  "vocal_voiced": 0.36057287278854255,
+  "song_length": 280.857
+ }
+}

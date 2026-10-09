@@ -1,0 +1,32 @@
+{
+ "id": "deafheaven/1485072758-104",
+ "band": "deafheaven",
+ "title": "Near",
+ "source": "itunes",
+ "album": "Ordinary Corrupt Human Love",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.2333137819272446,
+  "tempo_var": 2.857046092476012,
+  "low_onset_rate": 4.366640262190402,
+  "lufs": -19.957194971658154,
+  "rms_dbfs": -19.01409608033652,
+  "crest": 19.014095306396484,
+  "centroid": 1140.9461555951586,
+  "flatness": 0.0018540616147220135,
+  "sub100_share": 0.07078737765550613,
+  "lowest_pitch": 123.81591796875,
+  "harmonic_share": 0.8894116878509521,
+  "clean_share": 0.9791183294663574,
+  "minor_share": -0.28396201475176763,
+  "chord_rate": 0.5999963719040248,
+  "repetitiveness": 0.721440315246582,
+  "vocal_share": 8.1536899187995e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 328.643
+ }
+}

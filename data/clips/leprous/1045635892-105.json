@@ -1,0 +1,32 @@
+{
+ "id": "leprous/1045635892-105",
+ "band": "leprous",
+ "title": "The Valley",
+ "source": "itunes",
+ "album": "Coal",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.697024862558711,
+  "tempo_var": 0.0,
+  "low_onset_rate": 3.5977211713215667,
+  "lufs": -9.758841589042067,
+  "rms_dbfs": -9.028144583744876,
+  "crest": 9.028144836425781,
+  "centroid": 1950.847305134957,
+  "flatness": 0.011849045753479004,
+  "sub100_share": 0.16777431964874268,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8524549603462219,
+  "clean_share": 0.20185614849187936,
+  "minor_share": 0.22115411630321913,
+  "chord_rate": 0.5329957290846765,
+  "repetitiveness": 0.7574273943901062,
+  "vocal_share": 0.3855431377887726,
+  "vocal_voiced": 0.908739365815932,
+  "song_length": 539.827
+ }
+}

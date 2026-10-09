@@ -1,0 +1,32 @@
+{
+ "id": "mercyful-fate/60380739-106",
+ "band": "mercyful-fate",
+ "title": "Time",
+ "source": "itunes",
+ "album": "Time",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.040522111235029,
+  "tempo_var": 1.7048410064810309,
+  "low_onset_rate": 3.474882412840033,
+  "lufs": -13.930941093780355,
+  "rms_dbfs": -14.488619123598008,
+  "crest": 14.488618850708008,
+  "centroid": 2811.7665254639924,
+  "flatness": 0.023317402228713036,
+  "sub100_share": 0.07532668113708496,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.845260739326477,
+  "clean_share": 0.2583397982932506,
+  "minor_share": -0.036621944732468714,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.5451741218566895,
+  "vocal_share": 0.07838805764913559,
+  "vocal_voiced": 0.8954468802698144,
+  "song_length": 262.2
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "suicidal-tendencies/193867034-105",
+ "band": "suicidal-tendencies",
+ "title": "Give It Revolution",
+ "source": "itunes",
+ "album": "Lights... Camera... Revolution",
+ "year": 1990,
+ "itunes_year": 1990,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.9641557350672816,
+  "tempo_var": 8.646787938502616,
+  "low_onset_rate": 6.42926098208391,
+  "lufs": -15.541556089030331,
+  "rms_dbfs": -15.827986103802662,
+  "crest": 15.827985763549805,
+  "centroid": 2740.783541503802,
+  "flatness": 0.04013654962182045,
+  "sub100_share": 0.0731147900223732,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.6936652064323425,
+  "clean_share": 0.009280742459396751,
+  "minor_share": 0.09828054654181972,
+  "chord_rate": 1.7988605856607833,
+  "repetitiveness": 0.8869574069976807,
+  "vocal_share": 0.24701234698295593,
+  "vocal_voiced": 0.8948322756119673,
+  "song_length": 260.973
+ }
+}

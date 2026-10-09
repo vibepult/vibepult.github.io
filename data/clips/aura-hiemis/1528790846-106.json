@@ -1,0 +1,32 @@
+{
+ "id": "aura-hiemis/1528790846-106",
+ "band": "aura-hiemis",
+ "title": "Between Silence Seas",
+ "source": "itunes",
+ "album": "Silentium Manium",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.840048125878873,
+  "tempo_var": 12.880322618784284,
+  "low_onset_rate": 2.9736974494496438,
+  "lufs": -16.713120722930082,
+  "rms_dbfs": -15.92522730628084,
+  "crest": 15.925227165222168,
+  "centroid": 1391.9236215333833,
+  "flatness": 0.004218426067382097,
+  "sub100_share": 0.13984474539756775,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.8882386684417725,
+  "clean_share": 0.8541505042668736,
+  "minor_share": 0.15429503230212793,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.6754494309425354,
+  "vocal_share": 1.0567140407147235e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 242.96
+ }
+}

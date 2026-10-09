@@ -1,0 +1,32 @@
+{
+ "id": "coroner/1830021398-107",
+ "band": "coroner",
+ "title": "Transparent Eye",
+ "source": "itunes",
+ "album": "Dissonance Theory",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.9641557350672816,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.8629530199314415,
+  "lufs": -9.657145828809753,
+  "rms_dbfs": -8.86001619436451,
+  "crest": 8.860015869140625,
+  "centroid": 2424.0309687434824,
+  "flatness": 0.02877340279519558,
+  "sub100_share": 0.26549801230430603,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7442933917045593,
+  "clean_share": 0.08894044856921887,
+  "minor_share": -0.07340934019773682,
+  "chord_rate": 0.6329324282880534,
+  "repetitiveness": 0.866500973701477,
+  "vocal_share": 0.08534135669469833,
+  "vocal_voiced": 0.0,
+  "song_length": 316.32
+ }
+}

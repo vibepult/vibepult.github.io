@@ -1,0 +1,127 @@
+{
+ "slug": "forest-of-shadows",
+ "name": "Forest of Shadows",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 293743969,
+  "deezer": 194403,
+  "spotify": "0gBqFCwMICDkZe31IQSQeS"
+ },
+ "metadata": {
+  "formed": 1997,
+  "split": null,
+  "country": "SE",
+  "status": "active",
+  "members": 1,
+  "past_members": 7,
+  "full_lengths": 3,
+  "genre": "Gothic/Doom/Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 1600,
+  "themes": "Death, Sorrow, Loss, Nature",
+  "release_year": 2008
+ },
+ "partial": false,
+ "clips": [
+  "forest-of-shadows/1166883886-103",
+  "forest-of-shadows/331543108-103",
+  "forest-of-shadows/1436599594-104",
+  "forest-of-shadows/1166883886-102",
+  "forest-of-shadows/331543108-104",
+  "forest-of-shadows/1436599594-103",
+  "forest-of-shadows/1166883886-104",
+  "forest-of-shadows/331543108-102",
+  "forest-of-shadows/1436599594-105",
+  "forest-of-shadows/1166883886-101",
+  "forest-of-shadows/331543108-105",
+  "forest-of-shadows/1436599594-102"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.69701086956522,
+   "iqr": 18.989445612980774
+  },
+  "onset_rate": {
+   "median": 2.3555693279348304,
+   "iqr": 0.8353082723173157
+  },
+  "tempo_var": {
+   "median": 2.49129465487152,
+   "iqr": 10.008754121420353
+  },
+  "low_onset_rate": {
+   "median": 2.873460456771566,
+   "iqr": 3.608531736410803
+  },
+  "lufs": {
+   "median": -12.523826319055567,
+   "iqr": 4.653747436454696
+  },
+  "rms_dbfs": {
+   "median": -10.359377442993084,
+   "iqr": 4.201805328562452
+  },
+  "crest": {
+   "median": 10.359377384185791,
+   "iqr": 3.1557562351226807
+  },
+  "centroid": {
+   "median": 1490.8766072802523,
+   "iqr": 974.1272676924987
+  },
+  "flatness": {
+   "median": 0.005262239836156368,
+   "iqr": 0.006695139512885362
+  },
+  "sub100_share": {
+   "median": 0.5449453294277191,
+   "iqr": 0.24244540557265282
+  },
+  "lowest_pitch": {
+   "median": 64.599609375,
+   "iqr": 16.82281494140625
+  },
+  "harmonic_share": {
+   "median": 0.8818388283252716,
+   "iqr": 0.121369868516922
+  },
+  "clean_share": {
+   "median": 0.8293250581846392,
+   "iqr": 0.434833204034135
+  },
+  "minor_share": {
+   "median": 0.10428746110634501,
+   "iqr": 0.2147098022414065
+  },
+  "chord_rate": {
+   "median": 1.236256243029627,
+   "iqr": 0.275651729864714
+  },
+  "repetitiveness": {
+   "median": 0.652709037065506,
+   "iqr": 0.18103452026844025
+  },
+  "vocal_share": {
+   "median": 0.037921808660030365,
+   "iqr": 0.01865340583026409
+  },
+  "vocal_voiced": {
+   "median": 0.8726541554959786,
+   "iqr": 0.0807212714957447
+  },
+  "song_length": {
+   "median": 518.4185,
+   "iqr": 321.95575
+  },
+  "vocal_presence": {
+   "median": 0.4166666666666667,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

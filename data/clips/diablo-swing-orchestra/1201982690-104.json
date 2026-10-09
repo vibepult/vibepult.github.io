@@ -1,0 +1,32 @@
+{
+ "id": "diablo-swing-orchestra/1201982690-104",
+ "band": "diablo-swing-orchestra",
+ "title": "Bedlam Sticks",
+ "source": "itunes",
+ "album": "Sing Along Songs for the Damned & Delirious",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.040522111235029,
+  "tempo_var": 24.908498863127107,
+  "low_onset_rate": 6.181281215148136,
+  "lufs": -8.383741750281905,
+  "rms_dbfs": -8.288144313068189,
+  "crest": 8.2881441116333,
+  "centroid": 2832.2789104832627,
+  "flatness": 0.04583951085805893,
+  "sub100_share": 0.2727213501930237,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.6588870882987976,
+  "clean_share": 0.023273855702094646,
+  "minor_share": 0.10139602565911882,
+  "chord_rate": 2.2720385007030983,
+  "repetitiveness": 0.917064368724823,
+  "vocal_share": 0.16936546564102173,
+  "vocal_voiced": 0.09919028340080972,
+  "song_length": 209.173
+ }
+}

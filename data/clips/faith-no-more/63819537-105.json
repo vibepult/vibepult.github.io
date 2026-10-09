@@ -1,0 +1,32 @@
+{
+ "id": "faith-no-more/63819537-105",
+ "band": "faith-no-more",
+ "title": "Death March",
+ "source": "itunes",
+ "album": "Introduce Yourself",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.966198996943671,
+  "tempo_var": 2.8865021009020224,
+  "low_onset_rate": 5.099398710356149,
+  "lufs": -14.420412579605928,
+  "rms_dbfs": -14.27041707546203,
+  "crest": 14.270418167114258,
+  "centroid": 2453.866788514612,
+  "flatness": 0.03077225759625435,
+  "sub100_share": 0.04752504453063011,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7303614616394043,
+  "clean_share": 0.048723897911832945,
+  "minor_share": 0.11290756715403016,
+  "chord_rate": 1.5998113601117327,
+  "repetitiveness": 0.895074725151062,
+  "vocal_share": 0.15736299753189087,
+  "vocal_voiced": 0.8983425414364641,
+  "song_length": 182.333
+ }
+}

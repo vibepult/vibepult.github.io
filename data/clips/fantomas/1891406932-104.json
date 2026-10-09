@@ -1,0 +1,32 @@
+{
+ "id": "fantomas/1891406932-104",
+ "band": "fantomas",
+ "title": "One Step Beyond",
+ "source": "itunes",
+ "album": "The Director's Cut",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 0.8666614260835913,
+  "tempo_var": 11.361394691521719,
+  "low_onset_rate": 0.13333252708978327,
+  "lufs": -31.683153343897093,
+  "rms_dbfs": -30.962285940089046,
+  "crest": 19.747783660888672,
+  "centroid": 1079.806211561627,
+  "flatness": 0.0016070526326075196,
+  "sub100_share": 0.07506073266267776,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.9768619537353516,
+  "clean_share": 0.982985305491106,
+  "minor_share": 0.06358099508739212,
+  "chord_rate": 1.83332224748452,
+  "repetitiveness": 0.6134649515151978,
+  "vocal_share": 0.18313942849636078,
+  "vocal_voiced": 0.9912663755458515,
+  "song_length": 178.4
+ }
+}

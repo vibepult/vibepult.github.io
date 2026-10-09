@@ -1,0 +1,32 @@
+{
+ "id": "mustasch/1349923988-105",
+ "band": "mustasch",
+ "title": "Ocean Song (Including Orust)",
+ "source": "itunes",
+ "album": "Above All",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 2.472512486059254,
+  "tempo_var": 19.734116900679076,
+  "low_onset_rate": 4.777963317655045,
+  "lufs": -18.374929319054015,
+  "rms_dbfs": -20.745509306863692,
+  "crest": 16.821130752563477,
+  "centroid": 1805.2831119679954,
+  "flatness": 0.003979560919106007,
+  "sub100_share": 0.006833040155470371,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.7508999109268188,
+  "clean_share": 0.6586501163692785,
+  "minor_share": 0.16608131272011517,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.7623198628425598,
+  "vocal_share": 0.08179758489131927,
+  "vocal_voiced": 0.800498753117207,
+  "song_length": 346.933
+ }
+}

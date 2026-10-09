@@ -1,0 +1,32 @@
+{
+ "id": "danzig/1440900777-106",
+ "band": "danzig",
+ "title": "Left Hand Black",
+ "source": "itunes",
+ "album": "Danzig III: How the Gods Kill",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 78.30255681818181,
+  "onset_rate": 4.099938020589258,
+  "tempo_var": 40.0808183693645,
+  "low_onset_rate": 6.399903251651525,
+  "lufs": -11.379922120306286,
+  "rms_dbfs": -10.759770246003342,
+  "crest": 10.759771347045898,
+  "centroid": 1782.1830028685533,
+  "flatness": 0.013688272796571255,
+  "sub100_share": 0.27121564745903015,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6568684577941895,
+  "clean_share": 0.4717710750193349,
+  "minor_share": 0.09503895752875091,
+  "chord_rate": 1.0666505419419208,
+  "repetitiveness": 0.9656744003295898,
+  "vocal_share": 0.17488352954387665,
+  "vocal_voiced": 0.8712715855572999,
+  "song_length": 271.626
+ }
+}

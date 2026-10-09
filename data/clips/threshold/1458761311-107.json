@@ -1,0 +1,32 @@
+{
+ "id": "threshold/1458761311-107",
+ "band": "threshold",
+ "title": "The Shire, Pt. 2",
+ "source": "itunes",
+ "album": "Legends of the Shires",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.0047398535615577,
+  "tempo_var": 13.868490921085936,
+  "low_onset_rate": 2.7063988023081027,
+  "lufs": -16.737915345718232,
+  "rms_dbfs": -17.28123386536875,
+  "crest": 17.281234741210938,
+  "centroid": 2101.2803666485493,
+  "flatness": 0.040153734385967255,
+  "sub100_share": 0.01610124483704567,
+  "lowest_pitch": 164.190673828125,
+  "harmonic_share": 0.9441815614700317,
+  "clean_share": 0.6625290923196276,
+  "minor_share": -0.23341373872082238,
+  "chord_rate": 1.0023699267807789,
+  "repetitiveness": 0.7171807289123535,
+  "vocal_share": 8.518005643054494e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 324.841
+ }
+}

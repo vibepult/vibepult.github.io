@@ -1,0 +1,32 @@
+{
+ "id": "candlemass/1189441000-104",
+ "band": "candlemass",
+ "title": "Black Stone Wielder",
+ "source": "itunes",
+ "album": "Epicus Doomicus Metallicus",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.7666666666666666,
+  "tempo_var": 12.20246449138068,
+  "low_onset_rate": 4.9,
+  "lufs": -9.280321873711236,
+  "rms_dbfs": -8.327945811646948,
+  "crest": 8.327945709228516,
+  "centroid": 2455.645740625482,
+  "flatness": 0.018274495378136635,
+  "sub100_share": 0.5081896185874939,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8487056493759155,
+  "clean_share": 0.17569659442724458,
+  "minor_share": -0.022177829978928032,
+  "chord_rate": 2.2,
+  "repetitiveness": 0.8526321053504944,
+  "vocal_share": 4.261965500518272e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 456.747
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "tyr/1184727358-105",
+ "band": "tyr",
+ "title": "Brennivin",
+ "source": "itunes",
+ "album": "Land",
+ "year": 2008,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.633333333333334,
+  "tempo_var": 12.592216212145631,
+  "low_onset_rate": 4.6,
+  "lufs": -9.34724302333879,
+  "rms_dbfs": -8.417491624330182,
+  "crest": 8.41749095916748,
+  "centroid": 2010.6570260993835,
+  "flatness": 0.012197887524962425,
+  "sub100_share": 0.3560324013233185,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7949076890945435,
+  "clean_share": 0.3893188854489164,
+  "minor_share": -0.0024968517957660863,
+  "chord_rate": 2.1,
+  "repetitiveness": 0.8465715646743774,
+  "vocal_share": 0.011238109320402145,
+  "vocal_voiced": 0.6818181818181818,
+  "song_length": 298.48
+ }
+}

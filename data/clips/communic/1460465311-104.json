@@ -1,0 +1,32 @@
+{
+ "id": "communic/1460465311-104",
+ "band": "communic",
+ "title": "Voyage of Discovery",
+ "source": "itunes",
+ "album": "The Bottom Deep",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.0739344421277215,
+  "tempo_var": 15.780964903498816,
+  "low_onset_rate": 3.474882412840033,
+  "lufs": -12.783333613374298,
+  "rms_dbfs": -11.69366733124188,
+  "crest": 11.6936674118042,
+  "centroid": 1879.5515517269935,
+  "flatness": 0.007962483912706375,
+  "sub100_share": 0.26869505643844604,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.8428828716278076,
+  "clean_share": 0.6190845616757176,
+  "minor_share": 0.10758483610034575,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.6543843150138855,
+  "vocal_share": 0.13269202411174774,
+  "vocal_voiced": 0.8954545454545455,
+  "song_length": 410.96
+ }
+}

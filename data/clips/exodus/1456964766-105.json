@@ -1,0 +1,32 @@
+{
+ "id": "exodus/1456964766-105",
+ "band": "exodus",
+ "title": "I Am Abomination",
+ "source": "itunes",
+ "album": "Shovel Headed Kill Machine",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.143129030693886,
+  "tempo_var": 15.434149623581973,
+  "low_onset_rate": 6.61564151675314,
+  "lufs": -8.595897648797669,
+  "rms_dbfs": -8.103965358208514,
+  "crest": 8.103965759277344,
+  "centroid": 2649.317256771294,
+  "flatness": 0.03207330033183098,
+  "sub100_share": 0.32215407490730286,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7573879957199097,
+  "clean_share": 0.0791311093871218,
+  "minor_share": -0.08185018466735206,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.9463635087013245,
+  "vocal_share": 0.04181747883558273,
+  "vocal_voiced": 0.0,
+  "song_length": 204.933
+ }
+}

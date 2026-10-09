@@ -1,0 +1,32 @@
+{
+ "id": "obituary/214473854-107",
+ "band": "obituary",
+ "title": "Solid State",
+ "source": "itunes",
+ "album": "World Demise",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 3.842418052659652,
+  "tempo_var": 17.267043111976545,
+  "low_onset_rate": 4.5106646705135045,
+  "lufs": -10.664282179501836,
+  "rms_dbfs": -10.78598322710162,
+  "crest": 10.78598403930664,
+  "centroid": 2818.9695083324345,
+  "flatness": 0.040894076228141785,
+  "sub100_share": 0.28649359941482544,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6499680280685425,
+  "clean_share": 0.0,
+  "minor_share": 0.10363809785718481,
+  "chord_rate": 2.2386261698104057,
+  "repetitiveness": 0.8054413199424744,
+  "vocal_share": 0.12156587094068527,
+  "vocal_voiced": 0.5893074119076549,
+  "song_length": 278.76
+ }
+}

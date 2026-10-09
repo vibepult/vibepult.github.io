@@ -1,0 +1,32 @@
+{
+ "id": "within-temptation/1574152744-105",
+ "band": "within-temptation",
+ "title": "Radioactive",
+ "source": "itunes",
+ "album": "The Q - Music Sessions",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 2.8999824642027865,
+  "tempo_var": 11.692786199168028,
+  "low_onset_rate": 3.2999800454721364,
+  "lufs": -10.427740236716293,
+  "rms_dbfs": -10.233537124682803,
+  "crest": 10.233536720275879,
+  "centroid": 2448.1973903630524,
+  "flatness": 0.03591508790850639,
+  "sub100_share": 0.4246891736984253,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8059462904930115,
+  "clean_share": 0.20804331013147717,
+  "minor_share": -0.17467355283001562,
+  "chord_rate": 1.4333246662151702,
+  "repetitiveness": 0.7655394673347473,
+  "vocal_share": 0.16794328391551971,
+  "vocal_voiced": 0.8992497320471597,
+  "song_length": 194.547
+ }
+}

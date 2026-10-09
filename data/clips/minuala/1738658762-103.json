@@ -1,0 +1,32 @@
+{
+ "id": "minuala/1738658762-103",
+ "band": "minuala",
+ "title": "Исход",
+ "source": "itunes",
+ "album": "В агонии",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.133255733095494,
+  "tempo_var": 13.587813994986403,
+  "low_onset_rate": 5.566582515759399,
+  "lufs": -8.511681445104115,
+  "rms_dbfs": -7.902992248464598,
+  "crest": 7.902992248535156,
+  "centroid": 2432.772247534601,
+  "flatness": 0.033168841153383255,
+  "sub100_share": 0.25747501850128174,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7156648635864258,
+  "clean_share": 0.016241299303944315,
+  "minor_share": 0.06563958865733743,
+  "chord_rate": 1.233314689120346,
+  "repetitiveness": 0.844430685043335,
+  "vocal_share": 0.0767706111073494,
+  "vocal_voiced": 0.12722298221614228,
+  "song_length": 311.226
+ }
+}

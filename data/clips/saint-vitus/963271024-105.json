@@ -1,0 +1,32 @@
+{
+ "id": "saint-vitus/963271024-105",
+ "band": "saint-vitus",
+ "title": "Ice Monkey",
+ "source": "itunes",
+ "album": "V",
+ "year": 1990,
+ "itunes_year": 1990,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 3.9092427144450372,
+  "tempo_var": 32.07604194873869,
+  "low_onset_rate": 6.11445655336275,
+  "lufs": -16.406082035954114,
+  "rms_dbfs": -15.280143875065393,
+  "crest": 15.279879570007324,
+  "centroid": 2078.2867160965166,
+  "flatness": 0.012094447389245033,
+  "sub100_share": 0.36149877309799194,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.717389702796936,
+  "clean_share": 0.2839410395655547,
+  "minor_share": -0.04649461009770428,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.8512492179870605,
+  "vocal_share": 0.06969098001718521,
+  "vocal_voiced": 0.5461165048543689,
+  "song_length": 241.56
+ }
+}

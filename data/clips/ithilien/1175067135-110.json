@@ -1,0 +1,32 @@
+{
+ "id": "ithilien/1175067135-110",
+ "band": "ithilien",
+ "title": "The Bear Dance",
+ "source": "itunes",
+ "album": "Shaping the Soul",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.544077001406197,
+  "tempo_var": 25.411366085927487,
+  "low_onset_rate": 5.34597294283082,
+  "lufs": -7.168535694717398,
+  "rms_dbfs": -6.7825965365367455,
+  "crest": 6.782596588134766,
+  "centroid": 2528.7814281058427,
+  "flatness": 0.023811282590031624,
+  "sub100_share": 0.3655880391597748,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.858380138874054,
+  "clean_share": 0.0062063615205585725,
+  "minor_share": 0.04027203190211337,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.7118133902549744,
+  "vocal_share": 6.231737188500119e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 240.853
+ }
+}

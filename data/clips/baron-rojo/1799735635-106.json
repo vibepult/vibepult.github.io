@@ -1,0 +1,32 @@
+{
+ "id": "baron-rojo/1799735635-106",
+ "band": "baron-rojo",
+ "title": "Salvavidas",
+ "source": "itunes",
+ "album": "20+",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 2.2999860922987616,
+  "tempo_var": 17.232062186608974,
+  "low_onset_rate": 2.5666511464783284,
+  "lufs": -13.3905413431286,
+  "rms_dbfs": -12.787484830163944,
+  "crest": 12.787485122680664,
+  "centroid": 2736.713795620912,
+  "flatness": 0.046070974320173264,
+  "sub100_share": 0.4342256188392639,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.489531934261322,
+  "clean_share": 0.0711523588553751,
+  "minor_share": -0.07051356695980482,
+  "chord_rate": 2.1333204334365323,
+  "repetitiveness": 0.7755852341651917,
+  "vocal_share": 3.995558301994606e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 368.774
+ }
+}

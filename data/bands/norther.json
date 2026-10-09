@@ -1,0 +1,127 @@
+{
+ "slug": "norther",
+ "name": "Norther",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 65620642,
+  "deezer": 5704,
+  "spotify": "7FYqu76teK16FSlw4ZYFhW"
+ },
+ "metadata": {
+  "formed": 2000,
+  "split": null,
+  "country": "FI",
+  "status": "active",
+  "members": 5,
+  "past_members": 5,
+  "full_lengths": 6,
+  "genre": "Melodic Death/Power Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 15084,
+  "themes": "Love, Death, Night, Darkness, Sadness, Hate",
+  "release_year": 2005
+ },
+ "partial": false,
+ "clips": [
+  "norther/1660357341-105",
+  "norther/1660521113-105",
+  "norther/700718624-106",
+  "norther/701056447-106",
+  "norther/1045511875-107",
+  "norther/1045597756-105",
+  "norther/1660357341-104",
+  "norther/1660521113-104",
+  "norther/700718624-107",
+  "norther/701056447-107",
+  "norther/1045511875-108",
+  "norther/1045597756-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.52302631578948,
+   "iqr": 40.29605263157896
+  },
+  "onset_rate": {
+   "median": 5.16220512292101,
+   "iqr": 1.186137746690588
+  },
+  "tempo_var": {
+   "median": 6.310436247407566,
+   "iqr": 13.441589349755002
+  },
+  "low_onset_rate": {
+   "median": 6.8829401638946806,
+   "iqr": 0.9773106786112598
+  },
+  "lufs": {
+   "median": -8.139794209240552,
+   "iqr": 0.8163171634655626
+  },
+  "rms_dbfs": {
+   "median": -7.9368658255706155,
+   "iqr": 0.6461586859552169
+  },
+  "crest": {
+   "median": 7.936865568161011,
+   "iqr": 0.6461586952209473
+  },
+  "centroid": {
+   "median": 2583.3076510956535,
+   "iqr": 134.55067109659467
+  },
+  "flatness": {
+   "median": 0.03971204534173012,
+   "iqr": 0.009486735798418522
+  },
+  "sub100_share": {
+   "median": 0.3481360524892807,
+   "iqr": 0.06964440643787384
+  },
+  "lowest_pitch": {
+   "median": 40.374755859375,
+   "iqr": 6.05621337890625
+  },
+  "harmonic_share": {
+   "median": 0.7236197292804718,
+   "iqr": 0.074165940284729
+  },
+  "clean_share": {
+   "median": 0.0,
+   "iqr": 0.0013576415826221876
+  },
+  "minor_share": {
+   "median": 0.11623559551195112,
+   "iqr": 0.23233297791597773
+  },
+  "chord_rate": {
+   "median": 1.4200240629394365,
+   "iqr": 0.3675356398196188
+  },
+  "repetitiveness": {
+   "median": 0.8549728989601135,
+   "iqr": 0.10526177287101746
+  },
+  "vocal_share": {
+   "median": 0.10897130519151688,
+   "iqr": 0.039380380883812904
+  },
+  "vocal_voiced": {
+   "median": 0.16650252033623275,
+   "iqr": 0.09316530418738028
+  },
+  "song_length": {
+   "median": 274.11350000000004,
+   "iqr": 25.410000000000025
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

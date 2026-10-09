@@ -1,0 +1,32 @@
+{
+ "id": "trouble/1443849744-105",
+ "band": "trouble",
+ "title": "The Misery Shows (Act 2)",
+ "source": "itunes",
+ "album": "Trouble",
+ "year": 1984,
+ "itunes_year": 1990,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.6332784084896677,
+  "tempo_var": 2.842170943040401e-14,
+  "low_onset_rate": 4.5332648032531635,
+  "lufs": -18.630260222459786,
+  "rms_dbfs": -18.133918935910362,
+  "crest": 18.13391876220703,
+  "centroid": 2883.4016845776855,
+  "flatness": 0.03364931046962738,
+  "sub100_share": 0.3772847354412079,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.724885106086731,
+  "clean_share": 0.13379737045630316,
+  "minor_share": -0.05816417026873122,
+  "chord_rate": 0.6333237592780154,
+  "repetitiveness": 0.6355018019676208,
+  "vocal_share": 0.1990748643875122,
+  "vocal_voiced": 0.7947295423023578,
+  "song_length": 440.533
+ }
+}

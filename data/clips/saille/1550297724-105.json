@@ -1,0 +1,32 @@
+{
+ "id": "saille/1550297724-105",
+ "band": "saille",
+ "title": "Empty Expanse",
+ "source": "itunes",
+ "album": "V",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 0.6682466178538525,
+  "tempo_var": 12.387235371782738,
+  "low_onset_rate": 0.8687206032100082,
+  "lufs": -9.890768845432405,
+  "rms_dbfs": -9.380113654718889,
+  "crest": 9.38011360168457,
+  "centroid": 2821.2261026161536,
+  "flatness": 0.04486987739801407,
+  "sub100_share": 0.40870437026023865,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8514628410339355,
+  "clean_share": 0.013964313421256789,
+  "minor_share": 0.2382346514480561,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.8011156916618347,
+  "vocal_share": 0.09097333252429962,
+  "vocal_voiced": 0.2854938271604938,
+  "song_length": 387.178
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "jack-frost/265249490-104",
+ "band": "jack-frost",
+ "title": "Black Veil Torn",
+ "source": "itunes",
+ "album": "Glow Dying Sun",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 3.4080577510546477,
+  "tempo_var": 37.55340116490698,
+  "low_onset_rate": 5.312560611938127,
+  "lufs": -9.30315750866538,
+  "rms_dbfs": -7.842120615351552,
+  "crest": 7.84212064743042,
+  "centroid": 1614.6638172664632,
+  "flatness": 0.004852760583162308,
+  "sub100_share": 0.3866511285305023,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8107860684394836,
+  "clean_share": 0.7439875872769589,
+  "minor_share": 0.14825564891666398,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.8799226880073547,
+  "vocal_share": 0.10016430169343948,
+  "vocal_voiced": 0.6537753222836096,
+  "song_length": 304.227
+ }
+}

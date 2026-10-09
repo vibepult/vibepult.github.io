@@ -1,0 +1,32 @@
+{
+ "id": "entoria/1450504614-107",
+ "band": "entoria",
+ "title": "Die Stumme und der Einsiedler",
+ "source": "itunes",
+ "album": "Aschheim",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.379385273723512,
+  "tempo_var": 21.67479160473946,
+  "low_onset_rate": 3.742181059981574,
+  "lufs": -9.320214534130436,
+  "rms_dbfs": -8.553614975278267,
+  "crest": 8.55361557006836,
+  "centroid": 2345.3676543172587,
+  "flatness": 0.030093060806393623,
+  "sub100_share": 0.2653043270111084,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.7001399397850037,
+  "clean_share": 0.20403413498836306,
+  "minor_share": 0.03681905569335553,
+  "chord_rate": 1.9379151917761723,
+  "repetitiveness": 0.7089239954948425,
+  "vocal_share": 0.12945494055747986,
+  "vocal_voiced": 0.04731457800511509,
+  "song_length": 236.605
+ }
+}

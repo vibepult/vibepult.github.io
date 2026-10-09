@@ -1,0 +1,32 @@
+{
+ "id": "neonfly/1458600028-105",
+ "band": "neonfly",
+ "title": "The Revenant",
+ "source": "itunes",
+ "album": "Outshine the Sun",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 5.646683920865054,
+  "tempo_var": 13.745537439586581,
+  "low_onset_rate": 6.014219560684673,
+  "lufs": -8.124806802203338,
+  "rms_dbfs": -8.187648747187236,
+  "crest": 8.18764877319336,
+  "centroid": 2238.753416292091,
+  "flatness": 0.030953271314501762,
+  "sub100_share": 0.32592424750328064,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7219836115837097,
+  "clean_share": 0.16291698991466252,
+  "minor_share": -0.18296924645280643,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.907791018486023,
+  "vocal_share": 0.017296379432082176,
+  "vocal_voiced": 0.6268656716417911,
+  "song_length": 257.198
+ }
+}

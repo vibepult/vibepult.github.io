@@ -1,0 +1,32 @@
+{
+ "id": "shadow-gallery/80015778-108",
+ "band": "shadow-gallery",
+ "title": "I Believe",
+ "source": "itunes",
+ "album": "Tyranny",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.1407591039131066,
+  "tempo_var": 2.295762351941018,
+  "low_onset_rate": 3.641944067303496,
+  "lufs": -9.532729038476743,
+  "rms_dbfs": -9.65785342611623,
+  "crest": 9.657854080200195,
+  "centroid": 2517.7238593033208,
+  "flatness": 0.03172961249947548,
+  "sub100_share": 0.18419665098190308,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7701974511146545,
+  "clean_share": 0.007757951900698216,
+  "minor_share": 0.13852708017096416,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.6486530900001526,
+  "vocal_share": 0.26881933212280273,
+  "vocal_voiced": 0.4573885848318999,
+  "song_length": 520.573
+ }
+}

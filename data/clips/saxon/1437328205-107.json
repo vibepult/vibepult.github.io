@@ -1,0 +1,32 @@
+{
+ "id": "saxon/1437328205-107",
+ "band": "saxon",
+ "title": "Gonna Shout",
+ "source": "itunes",
+ "album": "Innocence Is No Excuse",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.933273873410833,
+  "tempo_var": 0.0,
+  "low_onset_rate": 3.2332844552614475,
+  "lufs": -13.319238664334714,
+  "rms_dbfs": -13.524636719471149,
+  "crest": 13.524637222290039,
+  "centroid": 2754.1304229416187,
+  "flatness": 0.03905732184648514,
+  "sub100_share": 0.18008305132389069,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.5884677767753601,
+  "clean_share": 0.01160092807424594,
+  "minor_share": -0.09661377124177939,
+  "chord_rate": 0.8333207358921256,
+  "repetitiveness": 0.9263954162597656,
+  "vocal_share": 0.19076307117938995,
+  "vocal_voiced": 0.8036677454153183,
+  "song_length": 239.36
+ }
+}

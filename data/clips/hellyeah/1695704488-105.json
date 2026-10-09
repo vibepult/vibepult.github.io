@@ -1,0 +1,32 @@
+{
+ "id": "hellyeah/1695704488-105",
+ "band": "hellyeah",
+ "title": "Bigger God",
+ "source": "itunes",
+ "album": "Band of Brothers",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.3666463090170278,
+  "tempo_var": 18.546914165201937,
+  "low_onset_rate": 2.466651751160991,
+  "lufs": -9.688540865314566,
+  "rms_dbfs": -8.862855961345351,
+  "crest": 8.862855911254883,
+  "centroid": 2816.427782095775,
+  "flatness": 0.03975098207592964,
+  "sub100_share": 0.4362356960773468,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7068045735359192,
+  "clean_share": 0.17556071152358854,
+  "minor_share": -0.008076357578798987,
+  "chord_rate": 1.866655379256966,
+  "repetitiveness": 0.9489569664001465,
+  "vocal_share": 0.017991328611969948,
+  "vocal_voiced": 0.3092105263157895,
+  "song_length": 279.613
+ }
+}

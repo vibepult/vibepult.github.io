@@ -1,0 +1,32 @@
+{
+ "id": "van-canto/1183577512-107",
+ "band": "van-canto",
+ "title": "Last Night of the Kings",
+ "source": "itunes",
+ "album": "Tribe of Force",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.8333333333333335,
+  "tempo_var": 16.685056544990278,
+  "low_onset_rate": 5.533333333333333,
+  "lufs": -13.585436051687159,
+  "rms_dbfs": -12.404109785592405,
+  "crest": 12.404109001159668,
+  "centroid": 2008.6188472105298,
+  "flatness": 0.010888086631894112,
+  "sub100_share": 0.3585543930530548,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.9088512063026428,
+  "clean_share": 0.6470588235294118,
+  "minor_share": 0.028752501365154837,
+  "chord_rate": 1.1,
+  "repetitiveness": 0.4700382649898529,
+  "vocal_share": 0.2752700746059418,
+  "vocal_voiced": 0.7631578947368421,
+  "song_length": 232.813
+ }
+}

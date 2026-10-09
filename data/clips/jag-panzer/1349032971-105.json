@@ -1,0 +1,32 @@
+{
+ "id": "jag-panzer/1349032971-105",
+ "band": "jag-panzer",
+ "title": "Foggy Dew",
+ "source": "itunes",
+ "album": "The Deviant Chord",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 73.828125,
+  "onset_rate": 3.30782075837657,
+  "tempo_var": 22.077169986843263,
+  "low_onset_rate": 5.045261964796587,
+  "lufs": -16.409739749888484,
+  "rms_dbfs": -15.950050089273054,
+  "crest": 15.950050354003906,
+  "centroid": 2123.3830815310685,
+  "flatness": 0.0143897021189332,
+  "sub100_share": 0.14287105202674866,
+  "lowest_pitch": 123.81591796875,
+  "harmonic_share": 0.8439593315124512,
+  "clean_share": 0.5795190069821567,
+  "minor_share": 0.13760824928026572,
+  "chord_rate": 1.7374412064200164,
+  "repetitiveness": 0.6364556550979614,
+  "vocal_share": 0.4867306351661682,
+  "vocal_voiced": 0.9350411710887465,
+  "song_length": 200.198
+ }
+}

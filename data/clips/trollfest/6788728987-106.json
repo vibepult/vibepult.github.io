@@ -1,0 +1,32 @@
+{
+ "id": "trollfest/6788728987-106",
+ "band": "trollfest",
+ "title": "Day Drinking",
+ "source": "itunes",
+ "album": "Trollywood",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.032739903684826,
+  "tempo_var": 2.69028462319205,
+  "low_onset_rate": 5.266045727034454,
+  "lufs": -9.325996496846185,
+  "rms_dbfs": -9.148483003369625,
+  "crest": 9.148482322692871,
+  "centroid": 2620.558181806202,
+  "flatness": 0.03698364645242691,
+  "sub100_share": 0.2619686722755432,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.6811179518699646,
+  "clean_share": 0.025522041763341066,
+  "minor_share": 0.2610042595962835,
+  "chord_rate": 2.299728830160616,
+  "repetitiveness": 0.8164365291595459,
+  "vocal_share": 0.3015964925289154,
+  "vocal_voiced": 0.7748447204968945,
+  "song_length": 199.56
+ }
+}

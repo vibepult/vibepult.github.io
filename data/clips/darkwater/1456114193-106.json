@@ -1,0 +1,32 @@
+{
+ "id": "darkwater/1456114193-106",
+ "band": "darkwater",
+ "title": "In the Blink of an Eye",
+ "source": "itunes",
+ "album": "Where Stories End",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 2.7063988023081027,
+  "tempo_var": 16.87312797814327,
+  "low_onset_rate": 1.2696685739223197,
+  "lufs": -17.21493202580972,
+  "rms_dbfs": -18.007181583312875,
+  "crest": 18.00718116760254,
+  "centroid": 1933.7754799232473,
+  "flatness": 0.021606355905532837,
+  "sub100_share": 0.3568384349346161,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6675563454627991,
+  "clean_share": 0.5058184639255237,
+  "minor_share": 0.13554962156380812,
+  "chord_rate": 0.7684836105319304,
+  "repetitiveness": 0.8047146797180176,
+  "vocal_share": 1.3215600120020099e-05,
+  "vocal_voiced": 0.0,
+  "song_length": 369.227
+ }
+}

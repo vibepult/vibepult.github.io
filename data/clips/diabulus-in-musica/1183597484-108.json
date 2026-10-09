@@ -1,0 +1,32 @@
+{
+ "id": "diabulus-in-musica/1183597484-108",
+ "band": "diabulus-in-musica",
+ "title": "Allegory of Faith, Innocence and Future",
+ "source": "itunes",
+ "album": "The Wanderer",
+ "year": 2012,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 3.6666666666666665,
+  "tempo_var": 29.95035753033922,
+  "low_onset_rate": 5.233333333333333,
+  "lufs": -10.971542105946474,
+  "rms_dbfs": -10.542642930708448,
+  "crest": 10.542642593383789,
+  "centroid": 1785.653559645816,
+  "flatness": 0.013036836870014668,
+  "sub100_share": 0.13142523169517517,
+  "lowest_pitch": 156.11572265625,
+  "harmonic_share": 0.8698328137397766,
+  "clean_share": 0.5657894736842105,
+  "minor_share": 0.026954624946309624,
+  "chord_rate": 0.8,
+  "repetitiveness": 0.6084016561508179,
+  "vocal_share": 0.33531591296195984,
+  "vocal_voiced": 0.7253333333333334,
+  "song_length": 319.547
+ }
+}

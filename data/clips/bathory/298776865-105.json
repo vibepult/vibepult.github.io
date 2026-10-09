@@ -1,0 +1,32 @@
+{
+ "id": "bathory/298776865-105",
+ "band": "bathory",
+ "title": "Sacrifice",
+ "source": "itunes",
+ "album": "Bathory",
+ "year": 1984,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.466666666666667,
+  "tempo_var": 4.631121727126855,
+  "low_onset_rate": 7.233333333333333,
+  "lufs": -7.943084681585229,
+  "rms_dbfs": -8.576318123954088,
+  "crest": 8.576318740844727,
+  "centroid": 2997.0497686262406,
+  "flatness": 0.04392814636230469,
+  "sub100_share": 0.1727219820022583,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.8481497764587402,
+  "clean_share": 0.0,
+  "minor_share": 0.06153040657214143,
+  "chord_rate": 1.6,
+  "repetitiveness": 0.8727850914001465,
+  "vocal_share": 0.045221779495477676,
+  "vocal_voiced": 0.1341317365269461,
+  "song_length": 196.827
+ }
+}

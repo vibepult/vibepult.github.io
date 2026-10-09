@@ -1,0 +1,32 @@
+{
+ "id": "athena/938230792-109",
+ "band": "athena",
+ "title": "Parçalanıyoruz",
+ "source": "itunes",
+ "album": "Altüst",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.79985487967106,
+  "tempo_var": 11.490189069864941,
+  "low_onset_rate": 5.233175111863587,
+  "lufs": -8.854344948223478,
+  "rms_dbfs": -8.606376428920441,
+  "crest": 8.606376647949219,
+  "centroid": 2037.7575406161611,
+  "flatness": 0.011854930780827999,
+  "sub100_share": 0.17833773791790009,
+  "lowest_pitch": 99.591064453125,
+  "harmonic_share": 0.7159385085105896,
+  "clean_share": 0.28924980665119876,
+  "minor_share": 0.11809337914842549,
+  "chord_rate": 2.4332597653888013,
+  "repetitiveness": 0.8311440944671631,
+  "vocal_share": 0.35020554065704346,
+  "vocal_voiced": 0.8320413436692506,
+  "song_length": 247.282
+ }
+}

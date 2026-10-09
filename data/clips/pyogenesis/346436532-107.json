@@ -1,0 +1,32 @@
+{
+ "id": "pyogenesis/346436532-107",
+ "band": "pyogenesis",
+ "title": "Just Ironic",
+ "source": "itunes",
+ "album": "Mono...or Will It Ever Be the Way It Used to Be",
+ "year": 1998,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.777963317655045,
+  "tempo_var": 15.754611140715268,
+  "low_onset_rate": 4.276778354264656,
+  "lufs": -9.332235626684252,
+  "rms_dbfs": -8.573821253725454,
+  "crest": 8.573821067810059,
+  "centroid": 2454.516609713421,
+  "flatness": 0.02631513774394989,
+  "sub100_share": 0.3289138078689575,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.7677693963050842,
+  "clean_share": 0.16369278510473234,
+  "minor_share": 0.20638403788493825,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.7970088124275208,
+  "vocal_share": 0.08486531674861908,
+  "vocal_voiced": 0.8238482384823849,
+  "song_length": 125.534
+ }
+}

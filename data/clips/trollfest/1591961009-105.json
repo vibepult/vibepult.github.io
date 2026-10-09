@@ -1,0 +1,32 @@
+{
+ "id": "trollfest/1591961009-105",
+ "band": "trollfest",
+ "title": "Der Sündenbock Gegalte",
+ "source": "itunes",
+ "album": "En Kvest for Den Hellige Gral",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 2.67298647141541,
+  "tempo_var": 34.91912807075245,
+  "low_onset_rate": 2.3722754933811765,
+  "lufs": -19.91594864540713,
+  "rms_dbfs": -19.292139192971895,
+  "crest": 19.29214096069336,
+  "centroid": 863.3059183161632,
+  "flatness": 0.0026924265548586845,
+  "sub100_share": 0.34165772795677185,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.9109348654747009,
+  "clean_share": 0.9542280837858805,
+  "minor_share": 0.09548475331757061,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.5706009864807129,
+  "vocal_share": 8.787206411398074e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 207.627
+ }
+}

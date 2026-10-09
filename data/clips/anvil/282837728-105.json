@@ -1,0 +1,32 @@
+{
+ "id": "anvil/282837728-105",
+ "band": "anvil",
+ "title": "Jackhammer",
+ "source": "itunes",
+ "album": "Metal On Metal",
+ "year": 1982,
+ "itunes_year": 1982,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 198.76802884615384,
+  "onset_rate": 6.314930538718906,
+  "tempo_var": 11.322384485392305,
+  "low_onset_rate": 6.348342869611598,
+  "lufs": -8.924598330711666,
+  "rms_dbfs": -8.155515472855237,
+  "crest": 8.155515670776367,
+  "centroid": 3105.8025293017536,
+  "flatness": 0.04534505307674408,
+  "sub100_share": 0.4337157905101776,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7821875810623169,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.08541016205613422,
+  "chord_rate": 2.3054508315957913,
+  "repetitiveness": 0.9110223054885864,
+  "vocal_share": 0.07784444838762283,
+  "vocal_voiced": 0.8890977443609023,
+  "song_length": 214.427
+ }
+}

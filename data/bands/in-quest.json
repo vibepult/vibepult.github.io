@@ -1,0 +1,126 @@
+{
+ "slug": "in-quest",
+ "name": "In-Quest",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 272592380,
+  "deezer": 146843,
+  "spotify": "4A4xkbsexrFtR7yy0y4I9F"
+ },
+ "metadata": {
+  "formed": 1994,
+  "split": 2014,
+  "country": "BE",
+  "status": "split-up",
+  "members": 5,
+  "past_members": 8,
+  "full_lengths": 6,
+  "genre": "Progressive Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 428,
+  "themes": "The future, Cyberspace, Technology, Social issues",
+  "release_year": 2009
+ },
+ "partial": false,
+ "clips": [
+  "in-quest/585574854-106",
+  "in-quest/585574854-105",
+  "in-quest/585574854-108",
+  "in-quest/585574854-104",
+  "in-quest/585574854-109",
+  "in-quest/585574854-103",
+  "in-quest/585574854-110",
+  "in-quest/585574854-102",
+  "in-quest/585574854-111",
+  "in-quest/585574854-101",
+  "in-quest/585574854-112"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 29.77035138372426
+  },
+  "onset_rate": {
+   "median": 5.412797604616205,
+   "iqr": 1.7708535373127088
+  },
+  "tempo_var": {
+   "median": 3.2775326111749217,
+   "iqr": 10.58938631016792
+  },
+  "low_onset_rate": {
+   "median": 6.515404524075062,
+   "iqr": 3.458176247393686
+  },
+  "lufs": {
+   "median": -7.708650123387966,
+   "iqr": 0.5394511687162469
+  },
+  "rms_dbfs": {
+   "median": -7.244172906108898,
+   "iqr": 0.4274140680755636
+  },
+  "crest": {
+   "median": 7.2441725730896,
+   "iqr": 0.4274139404296875
+  },
+  "centroid": {
+   "median": 2321.075692523186,
+   "iqr": 117.1493438295247
+  },
+  "flatness": {
+   "median": 0.03095594234764576,
+   "iqr": 0.007432390935719013
+  },
+  "sub100_share": {
+   "median": 0.2967313528060913,
+   "iqr": 0.06426341831684113
+  },
+  "lowest_pitch": {
+   "median": 45.758056640625,
+   "iqr": 25.5706787109375
+  },
+  "harmonic_share": {
+   "median": 0.7209925055503845,
+   "iqr": 0.11929035186767578
+  },
+  "clean_share": {
+   "median": 0.0023273855702094647,
+   "iqr": 0.021722265321955005
+  },
+  "minor_share": {
+   "median": 0.06544014042022922,
+   "iqr": 0.10815760779899414
+  },
+  "chord_rate": {
+   "median": 1.8042658682054018,
+   "iqr": 0.5011849633903893
+  },
+  "repetitiveness": {
+   "median": 0.9063487648963928,
+   "iqr": 0.04139202833175659
+  },
+  "vocal_share": {
+   "median": 0.2013489454984665,
+   "iqr": 0.14293768256902695
+  },
+  "vocal_voiced": {
+   "median": 0.0889487870619946,
+   "iqr": 0.1246906912804399
+  },
+  "song_length": {
+   "median": 295.893,
+   "iqr": 119.60700000000003
+  },
+  "vocal_presence": {
+   "median": 0.8181818181818182,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

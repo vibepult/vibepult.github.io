@@ -1,0 +1,32 @@
+{
+ "id": "megadeth/1436287653-106",
+ "band": "megadeth",
+ "title": "Promises",
+ "source": "itunes",
+ "album": "The World Needs a Hero",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.133333333333334,
+  "tempo_var": 3.5613623365974574,
+  "low_onset_rate": 4.8,
+  "lufs": -18.185113021997804,
+  "rms_dbfs": -18.49109090000299,
+  "crest": 16.396963119506836,
+  "centroid": 2688.2339360920855,
+  "flatness": 0.01875791698694229,
+  "sub100_share": 0.008981817401945591,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.8616161346435547,
+  "clean_share": 0.22213622291021673,
+  "minor_share": 0.1685011154796341,
+  "chord_rate": 1.3333333333333333,
+  "repetitiveness": 0.6442754864692688,
+  "vocal_share": 0.32348114252090454,
+  "vocal_voiced": 0.891941391941392,
+  "song_length": 268.707
+ }
+}

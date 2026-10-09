@@ -1,0 +1,127 @@
+{
+ "slug": "into-the-fray",
+ "name": "Into the Fray",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1522922086,
+  "deezer": 1163316,
+  "spotify": "5kgr7DdP0dMI2jLKBeJt2C"
+ },
+ "metadata": {
+  "formed": 2020,
+  "split": null,
+  "country": "RU",
+  "status": "active",
+  "members": 5,
+  "past_members": 1,
+  "full_lengths": 2,
+  "genre": "Groove Metal/Metalcore",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 275,
+  "themes": "Warfare, Historical, Modern",
+  "release_year": 2023
+ },
+ "partial": false,
+ "clips": [
+  "into-the-fray/1570799566-106",
+  "into-the-fray/1804979075-107",
+  "into-the-fray/1570799566-105",
+  "into-the-fray/1804979075-105",
+  "into-the-fray/1570799566-107",
+  "into-the-fray/1804979075-108",
+  "into-the-fray/1570799566-104",
+  "into-the-fray/1804979075-104",
+  "into-the-fray/1570799566-108",
+  "into-the-fray/1804979075-109",
+  "into-the-fray/1570799566-103",
+  "into-the-fray/1804979075-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 103.52501502403845,
+   "iqr": 33.49609375
+  },
+  "onset_rate": {
+   "median": 5.75,
+   "iqr": 1.0405804502254759
+  },
+  "tempo_var": {
+   "median": 12.74613398801565,
+   "iqr": 13.079307529194168
+  },
+  "low_onset_rate": {
+   "median": 6.691114592930223,
+   "iqr": 0.4918058215746166
+  },
+  "lufs": {
+   "median": -7.024045676850543,
+   "iqr": 0.5933648360207782
+  },
+  "rms_dbfs": {
+   "median": -6.281625139411369,
+   "iqr": 0.5152739524813681
+  },
+  "crest": {
+   "median": 6.281625032424927,
+   "iqr": 0.5152736902236938
+  },
+  "centroid": {
+   "median": 2583.5464449086335,
+   "iqr": 219.77530844387275
+  },
+  "flatness": {
+   "median": 0.038429681211709976,
+   "iqr": 0.011225959751755
+  },
+  "sub100_share": {
+   "median": 0.3950481712818146,
+   "iqr": 0.07837018370628357
+  },
+  "lowest_pitch": {
+   "median": 40.374755859375,
+   "iqr": 32.97271728515625
+  },
+  "harmonic_share": {
+   "median": 0.7006702423095703,
+   "iqr": 0.049187690019607544
+  },
+  "clean_share": {
+   "median": 0.014713988572032464,
+   "iqr": 0.03433028819710482
+  },
+  "minor_share": {
+   "median": 0.046353323400286195,
+   "iqr": 0.1859105140572491
+  },
+  "chord_rate": {
+   "median": 1.9354662674360343,
+   "iqr": 0.8366117320467441
+  },
+  "repetitiveness": {
+   "median": 0.9022457003593445,
+   "iqr": 0.05553889274597168
+  },
+  "vocal_share": {
+   "median": 0.1624872237443924,
+   "iqr": 0.05444226413965225
+  },
+  "vocal_voiced": {
+   "median": 0.1494542401343409,
+   "iqr": 0.12058966511130159
+  },
+  "song_length": {
+   "median": 342.03499999999997,
+   "iqr": 104.59749999999997
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

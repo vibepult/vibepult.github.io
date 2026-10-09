@@ -1,0 +1,32 @@
+{
+ "id": "pig-destroyer/556953439-107",
+ "band": "pig-destroyer",
+ "title": "Valley of the Geysers",
+ "source": "itunes",
+ "album": "Book Burner",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 5.145498957474664,
+  "tempo_var": 7.8306322254436465,
+  "low_onset_rate": 5.713508582650439,
+  "lufs": -9.857538899366594,
+  "rms_dbfs": -9.794742187020638,
+  "crest": 9.794742584228516,
+  "centroid": 2864.815035922589,
+  "flatness": 0.056616198271512985,
+  "sub100_share": 0.28403884172439575,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.5829146504402161,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.08193986338245302,
+  "chord_rate": 2.0047398535615577,
+  "repetitiveness": 0.9497462511062622,
+  "vocal_share": 0.11805476248264313,
+  "vocal_voiced": 0.05837173579109063,
+  "song_length": 139.493
+ }
+}

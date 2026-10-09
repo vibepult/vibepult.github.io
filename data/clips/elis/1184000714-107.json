@@ -1,0 +1,32 @@
+{
+ "id": "elis/1184000714-107",
+ "band": "elis",
+ "title": "Phoenix from the Ashes",
+ "source": "itunes",
+ "album": "Griefshire",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 3.2,
+  "tempo_var": 28.377621021109814,
+  "low_onset_rate": 5.233333333333333,
+  "lufs": -11.467015632465804,
+  "rms_dbfs": -10.967129512095191,
+  "crest": 10.967129707336426,
+  "centroid": 1834.6086854216853,
+  "flatness": 0.005753961857408285,
+  "sub100_share": 0.0040724510326981544,
+  "lowest_pitch": 115.740966796875,
+  "harmonic_share": 0.9531686902046204,
+  "clean_share": 0.7832817337461301,
+  "minor_share": 0.1399076876243026,
+  "chord_rate": 1.4,
+  "repetitiveness": 0.7373069524765015,
+  "vocal_share": 0.6703458428382874,
+  "vocal_voiced": 0.99140625,
+  "song_length": 243.28
+ }
+}

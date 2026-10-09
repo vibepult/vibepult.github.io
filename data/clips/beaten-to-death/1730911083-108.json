@@ -1,0 +1,32 @@
+{
+ "id": "beaten-to-death/1730911083-108",
+ "band": "beaten-to-death",
+ "title": "We're Not Gonna Make It",
+ "source": "itunes",
+ "album": "Sunrise Over Rigor Mortis",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.799927438738644,
+  "tempo_var": 11.457569935805068,
+  "low_onset_rate": 8.266541700049887,
+  "lufs": -5.687894211247284,
+  "rms_dbfs": -5.113601067944725,
+  "crest": 5.113601207733154,
+  "centroid": 2567.6109973601924,
+  "flatness": 0.04463823512196541,
+  "sub100_share": 0.45199668407440186,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.7662281394004822,
+  "clean_share": 0.07733952049497293,
+  "minor_share": 0.15515242443307153,
+  "chord_rate": 1.9666369367054164,
+  "repetitiveness": 0.7694318890571594,
+  "vocal_share": 0.15284545719623566,
+  "vocal_voiced": 0.1688888888888889,
+  "song_length": 127.047
+ }
+}

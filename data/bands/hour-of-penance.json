@@ -1,0 +1,127 @@
+{
+ "slug": "hour-of-penance",
+ "name": "Hour of Penance",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 283876193,
+  "deezer": 300813,
+  "spotify": "5QMEomYiV52o6l3uZmuE8N"
+ },
+ "metadata": {
+  "formed": 1999,
+  "split": null,
+  "country": "IT",
+  "status": "active",
+  "members": 4,
+  "past_members": 11,
+  "full_lengths": 9,
+  "genre": "Technical/Brutal Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 6845,
+  "themes": "Anti-religion, Torture, Morality, Social issues",
+  "release_year": 2009
+ },
+ "partial": false,
+ "clips": [
+  "hour-of-penance/1759401325-106",
+  "hour-of-penance/1781871755-105",
+  "hour-of-penance/1298802171-105",
+  "hour-of-penance/1298816930-105",
+  "hour-of-penance/508538958-105",
+  "hour-of-penance/865763831-106",
+  "hour-of-penance/1176654761-105",
+  "hour-of-penance/1771500731-106",
+  "hour-of-penance/1730801308-105",
+  "hour-of-penance/1759401325-105",
+  "hour-of-penance/1781871755-106",
+  "hour-of-penance/1298802171-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 9.250593413576553
+  },
+  "onset_rate": {
+   "median": 6.958255244953046,
+   "iqr": 0.9463990446245232
+  },
+  "tempo_var": {
+   "median": 2.453324253988149,
+   "iqr": 7.7394225862204875
+  },
+  "low_onset_rate": {
+   "median": 9.01067614578799,
+   "iqr": 1.558449761353848
+  },
+  "lufs": {
+   "median": -7.441269915696996,
+   "iqr": 0.9565729633479254
+  },
+  "rms_dbfs": {
+   "median": -6.71019448946772,
+   "iqr": 1.041381378702761
+  },
+  "crest": {
+   "median": 6.71019434928894,
+   "iqr": 1.0413808822631836
+  },
+  "centroid": {
+   "median": 2619.1731861583676,
+   "iqr": 144.96389488532395
+  },
+  "flatness": {
+   "median": 0.038530562072992325,
+   "iqr": 0.007437457330524921
+  },
+  "sub100_share": {
+   "median": 0.38570329546928406,
+   "iqr": 0.07940956950187683
+  },
+  "lowest_pitch": {
+   "median": 47.1038818359375,
+   "iqr": 17.4957275390625
+  },
+  "harmonic_share": {
+   "median": 0.7459442019462585,
+   "iqr": 0.06810149550437927
+  },
+  "clean_share": {
+   "median": 0.0,
+   "iqr": 0.002711683187564237
+  },
+  "minor_share": {
+   "median": 0.03453097407631224,
+   "iqr": 0.17501115903464678
+  },
+  "chord_rate": {
+   "median": 2.2219200043640592,
+   "iqr": 0.32854765367863603
+  },
+  "repetitiveness": {
+   "median": 0.9347190260887146,
+   "iqr": 0.039706408977508545
+  },
+  "vocal_share": {
+   "median": 0.10312756523489952,
+   "iqr": 0.07405539974570274
+  },
+  "vocal_voiced": {
+   "median": 0.11813678009896673,
+   "iqr": 0.2889116100218063
+  },
+  "song_length": {
+   "median": 226.29149999999998,
+   "iqr": 58.59049999999999
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

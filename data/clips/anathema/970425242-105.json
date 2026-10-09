@@ -1,0 +1,32 @@
+{
+ "id": "anathema/970425242-105",
+ "band": "anathema",
+ "title": "Pressure (Remastered)",
+ "source": "itunes",
+ "album": "A Fine Day to Exit (Remastered)",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.1407591039131066,
+  "tempo_var": 4.242151124776579,
+  "low_onset_rate": 5.412797604616205,
+  "lufs": -11.701998746920552,
+  "rms_dbfs": -10.328911686024888,
+  "crest": 10.328911781311035,
+  "centroid": 1750.3409985704398,
+  "flatness": 0.008528400212526321,
+  "sub100_share": 0.34480738639831543,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8465109467506409,
+  "clean_share": 0.5601241272304112,
+  "minor_share": -0.19060657989580054,
+  "chord_rate": 0.4343603016050041,
+  "repetitiveness": 0.7494122385978699,
+  "vocal_share": 0.14577524363994598,
+  "vocal_voiced": 0.9002375296912114,
+  "song_length": 398.4
+ }
+}

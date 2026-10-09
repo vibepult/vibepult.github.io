@@ -1,0 +1,32 @@
+{
+ "id": "nightwish/1460463951-106",
+ "band": "nightwish",
+ "title": "My Walden",
+ "source": "itunes",
+ "album": "Endless Forms Most Beautiful",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.240996096591185,
+  "tempo_var": 5.390347421602443,
+  "low_onset_rate": 1.603791882849246,
+  "lufs": -13.444810480038816,
+  "rms_dbfs": -12.539111915765485,
+  "crest": 12.539112091064453,
+  "centroid": 2251.362425769487,
+  "flatness": 0.020450280979275703,
+  "sub100_share": 0.35544970631599426,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7891085147857666,
+  "clean_share": 0.15050426687354537,
+  "minor_share": 0.10610198055693487,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.7684738039970398,
+  "vocal_share": 0.09053190052509308,
+  "vocal_voiced": 0.6751054852320675,
+  "song_length": 279.004
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "mar-de-grises/1531058389-104",
+ "band": "mar-de-grises",
+ "title": "Recklessness",
+ "source": "itunes",
+ "album": "The Tatterdemalion Express (Remastered 2020)",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.613271589972361,
+  "tempo_var": 17.46265851680018,
+  "low_onset_rate": 6.014219560684673,
+  "lufs": -10.204476590346777,
+  "rms_dbfs": -9.834154943145334,
+  "crest": 9.834155082702637,
+  "centroid": 2758.5320600214723,
+  "flatness": 0.034946467727422714,
+  "sub100_share": 0.2737542688846588,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8593788743019104,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.2326934736914109,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.8020062446594238,
+  "vocal_share": 0.08703159540891647,
+  "vocal_voiced": 0.5667903525046383,
+  "song_length": 343.693
+ }
+}

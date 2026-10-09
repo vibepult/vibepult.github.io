@@ -1,0 +1,32 @@
+{
+ "id": "pitchshifter/158002025-105",
+ "band": "pitchshifter",
+ "title": "Catharsis",
+ "source": "itunes",
+ "album": "Industrial",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.343603016050041,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.847157906221209,
+  "lufs": -15.49479746190036,
+  "rms_dbfs": -15.239428431528871,
+  "crest": 15.239428520202637,
+  "centroid": 2912.096199002506,
+  "flatness": 0.048865802586078644,
+  "sub100_share": 0.2442851960659027,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.6307644248008728,
+  "clean_share": 0.008533747090768037,
+  "minor_share": -0.17367477808123172,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.9077155590057373,
+  "vocal_share": 0.15430594980716705,
+  "vocal_voiced": 0.18384697130712008,
+  "song_length": 339.027
+ }
+}

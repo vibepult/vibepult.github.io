@@ -1,0 +1,32 @@
+{
+ "id": "darzamat/1240815134-105",
+ "band": "darzamat",
+ "title": "Seven Golden Fires",
+ "source": "itunes",
+ "album": "In the Flames of Black Art",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 1.1360192503515492,
+  "tempo_var": 8.888421990738674,
+  "low_onset_rate": 7.3507127963923775,
+  "lufs": -11.720821252270559,
+  "rms_dbfs": -10.382814110414875,
+  "crest": 10.134367942810059,
+  "centroid": 353.1903628955087,
+  "flatness": 1.2598040484590456e-05,
+  "sub100_share": 0.005382271483540535,
+  "lowest_pitch": 115.740966796875,
+  "harmonic_share": 0.9989926815032959,
+  "clean_share": 1.0,
+  "minor_share": -0.05913491775147661,
+  "chord_rate": 0.6348342869611598,
+  "repetitiveness": 0.9770479798316956,
+  "vocal_share": 1.77570509549696e-05,
+  "vocal_voiced": 0.0,
+  "song_length": 497.467
+ }
+}

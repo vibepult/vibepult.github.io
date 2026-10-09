@@ -1,0 +1,32 @@
+{
+ "id": "iron-maiden/1716081865-105",
+ "band": "iron-maiden",
+ "title": "Fates Warning",
+ "source": "itunes",
+ "album": "No Prayer for the Dying (2015 Remaster)",
+ "year": 1990,
+ "itunes_year": 1990,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.066605191153573,
+  "tempo_var": 12.606557179524325,
+  "low_onset_rate": 5.033257244788439,
+  "lufs": -9.453282010166637,
+  "rms_dbfs": -9.444613032166984,
+  "crest": 9.444612503051758,
+  "centroid": 2470.3550290629437,
+  "flatness": 0.03396634757518768,
+  "sub100_share": 0.10763172805309296,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.6240974068641663,
+  "clean_share": 0.04176334106728538,
+  "minor_share": 0.15772665157495147,
+  "chord_rate": 1.233314689120346,
+  "repetitiveness": 0.8693124055862427,
+  "vocal_share": 0.14666138589382172,
+  "vocal_voiced": 0.5662878787878788,
+  "song_length": 250.513
+ }
+}

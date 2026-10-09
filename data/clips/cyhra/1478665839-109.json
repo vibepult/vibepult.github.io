@@ -1,0 +1,32 @@
+{
+ "id": "cyhra/1478665839-109",
+ "band": "cyhra",
+ "title": "I Had Your Back",
+ "source": "itunes",
+ "album": "No Halos in Hell",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.1407591039131066,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.312560611938127,
+  "lufs": -13.669207984906821,
+  "rms_dbfs": -13.992898972223175,
+  "crest": 13.992899894714355,
+  "centroid": 2096.127884977746,
+  "flatness": 0.02069987542927265,
+  "sub100_share": 0.4240654408931732,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7535902261734009,
+  "clean_share": 0.3335919317300233,
+  "minor_share": 0.014488169463872547,
+  "chord_rate": 2.1718015080250206,
+  "repetitiveness": 0.9218246340751648,
+  "vocal_share": 0.009649650193750858,
+  "vocal_voiced": 0.845360824742268,
+  "song_length": 238.867
+ }
+}

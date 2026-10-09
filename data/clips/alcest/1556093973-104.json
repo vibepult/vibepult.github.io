@@ -1,0 +1,32 @@
+{
+ "id": "alcest/1556093973-104",
+ "band": "alcest",
+ "title": "Untouched",
+ "source": "itunes",
+ "album": "Kodama",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 5.279148281045435,
+  "tempo_var": 12.263559069140106,
+  "low_onset_rate": 4.5106646705135045,
+  "lufs": -12.63379797118284,
+  "rms_dbfs": -11.450499344436123,
+  "crest": 11.450499534606934,
+  "centroid": 1400.2218082384145,
+  "flatness": 0.003952682018280029,
+  "sub100_share": 0.3962559103965759,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.9229787588119507,
+  "clean_share": 0.7750193948797518,
+  "minor_share": -0.026067401213872077,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.7618042826652527,
+  "vocal_share": 0.08651483803987503,
+  "vocal_voiced": 0.9548793284365162,
+  "song_length": 312.413
+ }
+}

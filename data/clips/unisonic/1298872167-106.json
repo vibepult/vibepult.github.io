@@ -1,0 +1,32 @@
+{
+ "id": "unisonic/1298872167-106",
+ "band": "unisonic",
+ "title": "Never Change Me",
+ "source": "itunes",
+ "album": "Unisonic",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.94265504533773,
+  "tempo_var": 4.300544890908946,
+  "low_onset_rate": 2.405687824273869,
+  "lufs": -8.97167563951488,
+  "rms_dbfs": -8.529257661100143,
+  "crest": 8.529256820678711,
+  "centroid": 2269.623145860389,
+  "flatness": 0.02143270894885063,
+  "sub100_share": 0.22073116898536682,
+  "lowest_pitch": 145.34912109375,
+  "harmonic_share": 0.6939341425895691,
+  "clean_share": 0.15050426687354537,
+  "minor_share": 0.08846178760326862,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.7398098111152649,
+  "vocal_share": 0.2667466402053833,
+  "vocal_voiced": 0.8567041965199591,
+  "song_length": 225.613
+ }
+}

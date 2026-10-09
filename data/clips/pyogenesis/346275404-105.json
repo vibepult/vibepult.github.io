@@ -1,0 +1,32 @@
+{
+ "id": "pyogenesis/346275404-105",
+ "band": "pyogenesis",
+ "title": "I'll Search",
+ "source": "itunes",
+ "album": "Sweet X-rated Nothings",
+ "year": 1994,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.243366023371963,
+  "tempo_var": 15.879128766651068,
+  "low_onset_rate": 4.911612641225816,
+  "lufs": -10.88140188175566,
+  "rms_dbfs": -10.941632991862031,
+  "crest": 10.941633224487305,
+  "centroid": 3056.8482570842434,
+  "flatness": 0.053536780178546906,
+  "sub100_share": 0.16934959590435028,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.6627902388572693,
+  "clean_share": 0.04034134988363072,
+  "minor_share": 0.1882406240145893,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.7623711824417114,
+  "vocal_share": 0.26291677355766296,
+  "vocal_voiced": 0.3962765957446808,
+  "song_length": 218.896
+ }
+}

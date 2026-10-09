@@ -1,0 +1,32 @@
+{
+ "id": "kawir/1669355142-104",
+ "band": "kawir",
+ "title": "Katadesmos",
+ "source": "itunes",
+ "album": "Arai",
+ "year": 2005,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.5417070746254184,
+  "tempo_var": 8.746572401596508,
+  "low_onset_rate": 3.8758303835523447,
+  "lufs": -12.61096498230893,
+  "rms_dbfs": -11.58156942520461,
+  "crest": 11.58156967163086,
+  "centroid": 2682.692004805507,
+  "flatness": 0.02663429081439972,
+  "sub100_share": 0.521223247051239,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8159968852996826,
+  "clean_share": 0.05896043444530644,
+  "minor_share": -0.0826444345036137,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.7776521444320679,
+  "vocal_share": 0.08731958270072937,
+  "vocal_voiced": 0.45756880733944955,
+  "song_length": 412.853
+ }
+}

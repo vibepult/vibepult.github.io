@@ -1,0 +1,32 @@
+{
+ "id": "impellitteri/1409651352-106",
+ "band": "impellitteri",
+ "title": "Wonder World",
+ "source": "itunes",
+ "album": "The Nature of the Beast",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 7.283888134606992,
+  "tempo_var": 19.223013347738874,
+  "low_onset_rate": 7.618011443533918,
+  "lufs": -7.176473825418485,
+  "rms_dbfs": -6.7189216771409015,
+  "crest": 6.718921661376953,
+  "centroid": 2488.648654063301,
+  "flatness": 0.03379622846841812,
+  "sub100_share": 0.2691745162010193,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6765143275260925,
+  "clean_share": 0.003878975950349108,
+  "minor_share": 0.2887257243888225,
+  "chord_rate": 1.0023699267807789,
+  "repetitiveness": 0.9178628921508789,
+  "vocal_share": 0.19668512046337128,
+  "vocal_voiced": 0.351431391905232,
+  "song_length": 233.722
+ }
+}

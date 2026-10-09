@@ -1,0 +1,32 @@
+{
+ "id": "manowar/570730791-104",
+ "band": "manowar",
+ "title": "Hail to England",
+ "source": "itunes",
+ "album": "Hail to England (Silver Edition)",
+ "year": 1984,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.566597632688849,
+  "tempo_var": 2.231005211261307,
+  "low_onset_rate": 6.03324212785899,
+  "lufs": -11.622779843756547,
+  "rms_dbfs": -12.097301034824955,
+  "crest": 12.09730052947998,
+  "centroid": 2783.0447304697846,
+  "flatness": 0.029814425855875015,
+  "sub100_share": 0.140892893075943,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.8133134245872498,
+  "clean_share": 0.005413766434648105,
+  "minor_share": -0.14995514513413666,
+  "chord_rate": 2.0666354250124717,
+  "repetitiveness": 0.7912654280662537,
+  "vocal_share": 0.18687891960144043,
+  "vocal_voiced": 0.8850787766450418,
+  "song_length": 264.2
+ }
+}

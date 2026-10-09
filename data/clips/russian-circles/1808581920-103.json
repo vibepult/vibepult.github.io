@@ -1,0 +1,32 @@
+{
+ "id": "russian-circles/1808581920-103",
+ "band": "russian-circles",
+ "title": "Schiphol",
+ "source": "itunes",
+ "album": "Empros",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 6.066574957294675,
+  "tempo_var": 3.648851847673849,
+  "low_onset_rate": 8.766534141585161,
+  "lufs": -20.73176897201655,
+  "rms_dbfs": -20.515073807046072,
+  "crest": 14.595669746398926,
+  "centroid": 1405.724086229309,
+  "flatness": 0.0005962118157185614,
+  "sub100_share": 0.013709462247788906,
+  "lowest_pitch": 131.890869140625,
+  "harmonic_share": 0.9505893588066101,
+  "clean_share": 0.9992266047950503,
+  "minor_share": -0.11669071029098699,
+  "chord_rate": 0.4999924415352754,
+  "repetitiveness": 0.6253201961517334,
+  "vocal_share": 1.0385542736912612e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 375.64
+ }
+}

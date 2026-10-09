@@ -1,0 +1,127 @@
+{
+ "slug": "volbeat",
+ "name": "Volbeat",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 157709052,
+  "deezer": 13953,
+  "spotify": "0L5fC7Ogm2YwgqVCRcF1bT"
+ },
+ "metadata": {
+  "formed": 2001,
+  "split": null,
+  "country": "DK",
+  "status": "active",
+  "members": 4,
+  "past_members": 5,
+  "full_lengths": 9,
+  "genre": "Heavy/Groove Metal/Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 632058,
+  "themes": "Life, Rock 'n' Roll, Conceptual stories, Spirituality",
+  "release_year": 2017
+ },
+ "partial": false,
+ "clips": [
+  "volbeat/1440738335-107",
+  "volbeat/1440874757-108",
+  "volbeat/1440847412-108",
+  "volbeat/1460660831-107",
+  "volbeat/1585805799-107",
+  "volbeat/1794563060-105",
+  "volbeat/1440738335-106",
+  "volbeat/1440874757-109",
+  "volbeat/1440847412-107",
+  "volbeat/1460660831-106",
+  "volbeat/1585805799-106",
+  "volbeat/1794563060-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.19921875,
+   "iqr": 45.94538762019231
+  },
+  "onset_rate": {
+   "median": 4.915747313487287,
+   "iqr": 1.1249685478274927
+  },
+  "tempo_var": {
+   "median": 6.103170373041937,
+   "iqr": 8.597740939922096
+  },
+  "low_onset_rate": {
+   "median": 5.9238516081502866,
+   "iqr": 2.555862224723475
+  },
+  "lufs": {
+   "median": -9.054650938631688,
+   "iqr": 0.7073639461956382
+  },
+  "rms_dbfs": {
+   "median": -8.628495573572717,
+   "iqr": 0.6076936977360905
+  },
+  "crest": {
+   "median": 8.628495216369629,
+   "iqr": 0.6076934337615967
+  },
+  "centroid": {
+   "median": 2510.068440899147,
+   "iqr": 219.83691357878342
+  },
+  "flatness": {
+   "median": 0.02654746826738119,
+   "iqr": 0.009335948154330254
+  },
+  "sub100_share": {
+   "median": 0.34904246032238007,
+   "iqr": 0.13621032238006592
+  },
+  "lowest_pitch": {
+   "median": 57.8704833984375,
+   "iqr": 24.224853515625
+  },
+  "harmonic_share": {
+   "median": 0.7782622277736664,
+   "iqr": 0.070107102394104
+  },
+  "clean_share": {
+   "median": 0.017843289371605897,
+   "iqr": 0.08023975251353442
+  },
+  "minor_share": {
+   "median": -0.06256117138043676,
+   "iqr": 0.39734992362734567
+  },
+  "chord_rate": {
+   "median": 1.299980347991716,
+   "iqr": 0.49724597368306966
+  },
+  "repetitiveness": {
+   "median": 0.8188563287258148,
+   "iqr": 0.10418644547462463
+  },
+  "vocal_share": {
+   "median": 0.1849873811006546,
+   "iqr": 0.0928577110171318
+  },
+  "vocal_voiced": {
+   "median": 0.8246597277822257,
+   "iqr": 0.07004746080663304
+  },
+  "song_length": {
+   "median": 263.4805,
+   "iqr": 42.08650000000003
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

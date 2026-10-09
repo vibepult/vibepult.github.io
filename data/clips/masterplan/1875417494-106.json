@@ -1,0 +1,32 @@
+{
+ "id": "masterplan/1875417494-106",
+ "band": "masterplan",
+ "title": "Metalmorphosis",
+ "source": "itunes",
+ "album": "Metalmorphosis",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 6.3,
+  "tempo_var": 17.559635366336412,
+  "low_onset_rate": 8.266666666666667,
+  "lufs": -10.87273458149767,
+  "rms_dbfs": -10.427321741953374,
+  "crest": 10.427322387695312,
+  "centroid": 2596.3476712670945,
+  "flatness": 0.032164156436920166,
+  "sub100_share": 0.3503371775150299,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8124051094055176,
+  "clean_share": 0.03715170278637771,
+  "minor_share": 0.11159731763862357,
+  "chord_rate": 1.3,
+  "repetitiveness": 0.8821005821228027,
+  "vocal_share": 0.10491857677698135,
+  "vocal_voiced": 0.7458823529411764,
+  "song_length": 328.84
+ }
+}

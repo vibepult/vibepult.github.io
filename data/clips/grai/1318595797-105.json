@@ -1,0 +1,32 @@
+{
+ "id": "grai/1318595797-105",
+ "band": "grai",
+ "title": "Доня",
+ "source": "itunes",
+ "album": "Пепел",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.7755933908742665,
+  "tempo_var": 2.4270205248074492,
+  "low_onset_rate": 4.5106646705135045,
+  "lufs": -8.661643018633233,
+  "rms_dbfs": -7.966336128978517,
+  "crest": 7.966336250305176,
+  "centroid": 2441.1075493457583,
+  "flatness": 0.025799762457609177,
+  "sub100_share": 0.4112901985645294,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8004183173179626,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.23075623564366798,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.7577915191650391,
+  "vocal_share": 0.22888071835041046,
+  "vocal_voiced": 0.648995983935743,
+  "song_length": 283.997
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "nile/1478888374-105",
+ "band": "nile",
+ "title": "That Which Is Forbidden",
+ "source": "itunes",
+ "album": "Vile Nilotic Rites",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 1.4367302283857828,
+  "tempo_var": 20.141128964965958,
+  "low_onset_rate": 1.7374412064200164,
+  "lufs": -15.419050357723018,
+  "rms_dbfs": -16.046431176218853,
+  "crest": 16.046430587768555,
+  "centroid": 2906.608968929527,
+  "flatness": 0.030624626204371452,
+  "sub100_share": 0.2987033724784851,
+  "lowest_pitch": 183.0322265625,
+  "harmonic_share": 0.7475743889808655,
+  "clean_share": 0.20480993017843288,
+  "minor_share": 0.10124828553530318,
+  "chord_rate": 2.338863162488484,
+  "repetitiveness": 0.802546501159668,
+  "vocal_share": 0.0028007016517221928,
+  "vocal_voiced": 0.6428571428571429,
+  "song_length": 335.893
+ }
+}

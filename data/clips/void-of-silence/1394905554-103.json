@@ -1,0 +1,32 @@
+{
+ "id": "void-of-silence/1394905554-103",
+ "band": "void-of-silence",
+ "title": "The Sky Over",
+ "source": "itunes",
+ "album": "The Sky Over",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 2.1718015080250206,
+  "tempo_var": 11.029122778815948,
+  "low_onset_rate": 8.286258061387771,
+  "lufs": -10.047210542487935,
+  "rms_dbfs": -10.277702818242231,
+  "crest": 10.277702331542969,
+  "centroid": 2127.569368743583,
+  "flatness": 0.010931841097772121,
+  "sub100_share": 0.16155104339122772,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.910529613494873,
+  "clean_share": 0.08378588052754073,
+  "minor_share": 0.09352581393480708,
+  "chord_rate": 0.46777263249769674,
+  "repetitiveness": 0.6277280449867249,
+  "vocal_share": 0.01443299651145935,
+  "vocal_voiced": 0.9814814814814815,
+  "song_length": 935.341
+ }
+}

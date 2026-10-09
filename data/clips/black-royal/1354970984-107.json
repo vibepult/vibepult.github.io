@@ -1,0 +1,32 @@
+{
+ "id": "black-royal/1354970984-107",
+ "band": "black-royal",
+ "title": "The Chosen",
+ "source": "itunes",
+ "album": "Lightbringer",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 73.828125,
+  "onset_rate": 3.0071097803423363,
+  "tempo_var": 12.480628389831484,
+  "low_onset_rate": 2.9068727876642586,
+  "lufs": -9.229230988440216,
+  "rms_dbfs": -7.80776062823548,
+  "crest": 7.807760715484619,
+  "centroid": 1808.674196976107,
+  "flatness": 0.004283809568732977,
+  "sub100_share": 0.6622485518455505,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8998247981071472,
+  "clean_share": 0.7245927075252133,
+  "minor_share": -0.02496373299801824,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.8343526124954224,
+  "vocal_share": 0.004024998284876347,
+  "vocal_voiced": 1.0,
+  "song_length": 306.693
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "annihilator/1550273558-105",
+ "band": "annihilator",
+ "title": "Ritual",
+ "source": "itunes",
+ "album": "Waking the Fury",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 6.348342869611598,
+  "tempo_var": 19.779852771184654,
+  "low_onset_rate": 6.649053847645832,
+  "lufs": -11.25107922533322,
+  "rms_dbfs": -10.641706614744082,
+  "crest": 10.641707420349121,
+  "centroid": 2625.7858582407243,
+  "flatness": 0.03878270089626312,
+  "sub100_share": 0.3308731019496918,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.6602883338928223,
+  "clean_share": 0.004654771140418929,
+  "minor_share": -0.034803440248542095,
+  "chord_rate": 0.801895941424623,
+  "repetitiveness": 0.9557716846466064,
+  "vocal_share": 0.18278911709785461,
+  "vocal_voiced": 0.2570828961175236,
+  "song_length": 316.056
+ }
+}

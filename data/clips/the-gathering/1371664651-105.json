@@ -1,0 +1,32 @@
+{
+ "id": "the-gathering/1371664651-105",
+ "band": "the-gathering",
+ "title": "No Bird Call",
+ "source": "itunes",
+ "album": "The West Pole",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 54.978390957446805,
+  "onset_rate": 1.1360192503515492,
+  "tempo_var": 6.194369160872504,
+  "low_onset_rate": 6.147868884255443,
+  "lufs": -22.671047875399438,
+  "rms_dbfs": -23.054558055165437,
+  "crest": 20.555076599121094,
+  "centroid": 873.6184442343318,
+  "flatness": 0.0003325908037368208,
+  "sub100_share": 0.04133367910981178,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.9614924788475037,
+  "clean_share": 0.9937936384794415,
+  "minor_share": 0.1508363108699602,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.7854108810424805,
+  "vocal_share": 0.29724499583244324,
+  "vocal_voiced": 0.9878640776699029,
+  "song_length": 338.0
+ }
+}

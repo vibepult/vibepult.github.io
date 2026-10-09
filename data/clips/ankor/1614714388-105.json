@@ -1,0 +1,32 @@
+{
+ "id": "ankor/1614714388-105",
+ "band": "ankor",
+ "title": "Last Song for Venus, Pt. 2",
+ "source": "itunes",
+ "album": "Last Song For Venus",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 69.83741554054055,
+  "onset_rate": 2.773223464093488,
+  "tempo_var": 17.81888197903444,
+  "low_onset_rate": 3.9092427144450372,
+  "lufs": -13.804898869872627,
+  "rms_dbfs": -13.588003801228961,
+  "crest": 13.588004112243652,
+  "centroid": 2064.720824360049,
+  "flatness": 0.0180067028850317,
+  "sub100_share": 0.005487736780196428,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.8878676891326904,
+  "clean_share": 0.6702870442203258,
+  "minor_share": -0.24723491423698063,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.71602463722229,
+  "vocal_share": 0.7585774660110474,
+  "vocal_voiced": 0.7363919129082426,
+  "song_length": 188.91
+ }
+}

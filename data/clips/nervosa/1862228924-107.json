@@ -1,0 +1,32 @@
+{
+ "id": "nervosa/1862228924-107",
+ "band": "nervosa",
+ "title": "The New Empire",
+ "source": "itunes",
+ "album": "Slave Machine",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 6.496228946461918,
+  "tempo_var": 9.443633628545314,
+  "low_onset_rate": 8.694952589879797,
+  "lufs": -7.703905630458657,
+  "rms_dbfs": -6.741045554716893,
+  "crest": 6.741044998168945,
+  "centroid": 2693.1702097928296,
+  "flatness": 0.03920527920126915,
+  "sub100_share": 0.48680341243743896,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8636874556541443,
+  "clean_share": 0.0007733952049497294,
+  "minor_share": -0.026815024806114973,
+  "chord_rate": 2.032153670431677,
+  "repetitiveness": 0.9031052589416504,
+  "vocal_share": 0.04062652215361595,
+  "vocal_voiced": 0.1111111111111111,
+  "song_length": 180.663
+ }
+}

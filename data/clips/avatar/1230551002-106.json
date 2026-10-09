@@ -1,0 +1,32 @@
+{
+ "id": "avatar/1230551002-106",
+ "band": "avatar",
+ "title": "My Shining Star",
+ "source": "itunes",
+ "album": "Thoughts of No Tomorrow",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 5.4462099355088975,
+  "tempo_var": 13.273615912882565,
+  "low_onset_rate": 5.680096251757746,
+  "lufs": -8.701044765206785,
+  "rms_dbfs": -8.121586210734634,
+  "crest": 8.121585845947266,
+  "centroid": 2576.74682475786,
+  "flatness": 0.0377940759062767,
+  "sub100_share": 0.3504349887371063,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7907743453979492,
+  "clean_share": 0.01008533747090768,
+  "minor_share": 0.24017458828560717,
+  "chord_rate": 2.0047398535615577,
+  "repetitiveness": 0.7999566197395325,
+  "vocal_share": 0.10379654914140701,
+  "vocal_voiced": 0.22247706422018348,
+  "song_length": 223.187
+ }
+}

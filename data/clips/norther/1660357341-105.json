@@ -1,0 +1,32 @@
+{
+ "id": "norther/1660357341-105",
+ "band": "norther",
+ "title": "Dream",
+ "source": "itunes",
+ "album": "Dreams of Endless War",
+ "year": 2002,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 6.3817552005042915,
+  "tempo_var": 2.3059731759853377,
+  "low_onset_rate": 9.088154002812393,
+  "lufs": -6.95884774283478,
+  "rms_dbfs": -6.5552272568158365,
+  "crest": 6.555227756500244,
+  "centroid": 2391.823995737484,
+  "flatness": 0.03538233041763306,
+  "sub100_share": 0.3678440749645233,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7139002680778503,
+  "clean_share": 0.0,
+  "minor_share": -0.08320296757597123,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.9040723443031311,
+  "vocal_share": 0.13264699280261993,
+  "vocal_voiced": 0.05393835616438356,
+  "song_length": 274.067
+ }
+}

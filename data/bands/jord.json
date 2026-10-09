@@ -1,0 +1,127 @@
+{
+ "slug": "jord",
+ "name": "Jord",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1441043590,
+  "deezer": 554786,
+  "spotify": "0Vh3H2BnsDAi4K2FeCjin3"
+ },
+ "metadata": {
+  "formed": 2020,
+  "split": null,
+  "country": "SE",
+  "status": "active",
+  "members": 4,
+  "past_members": 0,
+  "full_lengths": 4,
+  "genre": "Atmospheric Black Metal/Post-Rock/Shoegaze (early); Atmospheric Doom/Black Metal (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 261,
+  "themes": "N/A",
+  "release_year": 2024
+ },
+ "partial": false,
+ "clips": [
+  "jord/1696319729-104",
+  "jord/1818148533-105",
+  "jord/1696319729-103",
+  "jord/1818148533-104",
+  "jord/1696319729-105",
+  "jord/1818148533-106",
+  "jord/1696319729-102",
+  "jord/1818148533-103",
+  "jord/1696319729-106",
+  "jord/1818148533-107",
+  "jord/1696319729-101",
+  "jord/1818148533-102"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.90049098320159,
+   "iqr": 26.892813971461905
+  },
+  "onset_rate": {
+   "median": 3.55,
+   "iqr": 1.7333333333333334
+  },
+  "tempo_var": {
+   "median": 2.824595192726227,
+   "iqr": 5.411245266239053
+  },
+  "low_onset_rate": {
+   "median": 6.449999999999999,
+   "iqr": 1.2166666666666668
+  },
+  "lufs": {
+   "median": -11.659164127229435,
+   "iqr": 1.1711824661368553
+  },
+  "rms_dbfs": {
+   "median": -10.58810626038153,
+   "iqr": 0.9156594866174892
+  },
+  "crest": {
+   "median": 10.588106632232666,
+   "iqr": 0.9156596660614014
+  },
+  "centroid": {
+   "median": 2309.02501254894,
+   "iqr": 381.85110153962705
+  },
+  "flatness": {
+   "median": 0.020817085169255733,
+   "iqr": 0.012155118398368359
+  },
+  "sub100_share": {
+   "median": 0.48717591166496277,
+   "iqr": 0.2377488650381565
+  },
+  "lowest_pitch": {
+   "median": 53.8330078125,
+   "iqr": 12.78533935546875
+  },
+  "harmonic_share": {
+   "median": 0.8453540503978729,
+   "iqr": 0.06681650876998901
+  },
+  "clean_share": {
+   "median": 0.06191950464396285,
+   "iqr": 0.24013157894736842
+  },
+  "minor_share": {
+   "median": 0.16593382972680565,
+   "iqr": 0.1509964878401078
+  },
+  "chord_rate": {
+   "median": 1.1333333333333333,
+   "iqr": 0.5333333333333332
+  },
+  "repetitiveness": {
+   "median": 0.7224363684654236,
+   "iqr": 0.11055952310562134
+  },
+  "vocal_share": {
+   "median": 0.07457121834158897,
+   "iqr": 0.007068105041980743
+  },
+  "vocal_voiced": {
+   "median": 0.15552771127469628,
+   "iqr": 0.11353968046181212
+  },
+  "song_length": {
+   "median": 333.229,
+   "iqr": 56.38300000000004
+  },
+  "vocal_presence": {
+   "median": 0.3333333333333333,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

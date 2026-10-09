@@ -1,0 +1,32 @@
+{
+ "id": "the-gathering/1454115174-104",
+ "band": "the-gathering",
+ "title": "King for a Day",
+ "source": "itunes",
+ "album": "Always...",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.945024972118508,
+  "tempo_var": 2.271843950122446,
+  "low_onset_rate": 8.854267686563546,
+  "lufs": -13.068162959793039,
+  "rms_dbfs": -11.940024320100003,
+  "crest": 11.940023422241211,
+  "centroid": 2219.076000156713,
+  "flatness": 0.016133781522512436,
+  "sub100_share": 0.41433119773864746,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8394134640693665,
+  "clean_share": 0.18851823118696664,
+  "minor_share": -0.007601043921824369,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.8369560241699219,
+  "vocal_share": 0.1075933501124382,
+  "vocal_voiced": 0.4293248945147679,
+  "song_length": 395.253
+ }
+}

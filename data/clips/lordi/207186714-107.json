@@ -1,0 +1,32 @@
+{
+ "id": "lordi/207186714-107",
+ "band": "lordi",
+ "title": "Not the Nicest Guy",
+ "source": "itunes",
+ "album": "Get Heavy",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 2.9068727876642586,
+  "tempo_var": 2.1993191225990447,
+  "low_onset_rate": 5.011849633903894,
+  "lufs": -7.8637568142650425,
+  "rms_dbfs": -7.81688619825743,
+  "crest": 7.8168864250183105,
+  "centroid": 2898.389367114743,
+  "flatness": 0.05028453469276428,
+  "sub100_share": 0.25246042013168335,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7170217633247375,
+  "clean_share": 0.0,
+  "minor_share": 0.0823696292328352,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.839618980884552,
+  "vocal_share": 0.2880870997905731,
+  "vocal_voiced": 0.20836621941594316,
+  "song_length": 192.733
+ }
+}

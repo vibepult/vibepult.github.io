@@ -1,0 +1,32 @@
+{
+ "id": "cyhra/1478665839-107",
+ "band": "cyhra",
+ "title": "Lost in Time",
+ "source": "itunes",
+ "album": "No Halos in Hell",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 78.30255681818181,
+  "onset_rate": 1.6372042137419387,
+  "tempo_var": 32.816004789057466,
+  "low_onset_rate": 3.2744084274838774,
+  "lufs": -22.641733754110575,
+  "rms_dbfs": -24.256164910714574,
+  "crest": 20.442277908325195,
+  "centroid": 1070.5818795384528,
+  "flatness": 0.014345689676702023,
+  "sub100_share": 0.015649639070034027,
+  "lowest_pitch": 115.740966796875,
+  "harmonic_share": 0.865696907043457,
+  "clean_share": 0.8937160589604345,
+  "minor_share": -0.05568992295078479,
+  "chord_rate": 0.801895941424623,
+  "repetitiveness": 0.6073646545410156,
+  "vocal_share": 0.5682055950164795,
+  "vocal_voiced": 0.9184782608695652,
+  "song_length": 278.547
+ }
+}

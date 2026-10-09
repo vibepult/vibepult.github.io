@@ -1,0 +1,32 @@
+{
+ "id": "seigmen/1750077459-106",
+ "band": "seigmen",
+ "title": "Tenn Alle Lys",
+ "source": "itunes",
+ "album": "Enola",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.699944067361038,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.399933485510424,
+  "lufs": -13.63203585979676,
+  "rms_dbfs": -11.459535342017022,
+  "crest": 11.459535598754883,
+  "centroid": 1113.5268124739277,
+  "flatness": 0.00197364529594779,
+  "sub100_share": 0.628288984298706,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8399121165275574,
+  "clean_share": 0.9102861562258314,
+  "minor_share": -0.2695738761620824,
+  "chord_rate": 1.2666475185560309,
+  "repetitiveness": 0.6703704595565796,
+  "vocal_share": 0.06240471452474594,
+  "vocal_voiced": 0.8978102189781022,
+  "song_length": 426.453
+ }
+}

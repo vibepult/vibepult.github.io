@@ -1,0 +1,32 @@
+{
+ "id": "sabaton/1459267126-105",
+ "band": "sabaton",
+ "title": "Devil Dogs",
+ "source": "itunes",
+ "album": "The Great War",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 0.39999758126934987,
+  "tempo_var": 15.588467477150902,
+  "low_onset_rate": 6.233295641447368,
+  "lufs": -8.711474328121918,
+  "rms_dbfs": -8.094727221740248,
+  "crest": 8.0947265625,
+  "centroid": 2581.0393553411936,
+  "flatness": 0.0460599884390831,
+  "sub100_share": 0.36106085777282715,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7049928307533264,
+  "clean_share": 0.002320185614849188,
+  "minor_share": 0.09558792732010657,
+  "chord_rate": 2.3333192240712073,
+  "repetitiveness": 0.9171704053878784,
+  "vocal_share": 0.25443217158317566,
+  "vocal_voiced": 0.5302175664786463,
+  "song_length": 197.12
+ }
+}

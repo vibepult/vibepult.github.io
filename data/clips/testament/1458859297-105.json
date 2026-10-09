@@ -1,0 +1,32 @@
+{
+ "id": "testament/1458859297-105",
+ "band": "testament",
+ "title": "John Doe",
+ "source": "itunes",
+ "album": "Demonic",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 3.0739344421277215,
+  "tempo_var": 17.109113014305475,
+  "low_onset_rate": 4.176541361586578,
+  "lufs": -9.235161455038995,
+  "rms_dbfs": -8.85133893999967,
+  "crest": 8.851338386535645,
+  "centroid": 2896.0035796572647,
+  "flatness": 0.054127730429172516,
+  "sub100_share": 0.40711092948913574,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7659907341003418,
+  "clean_share": 0.0062063615205585725,
+  "minor_share": 0.12945475146746593,
+  "chord_rate": 2.2720385007030983,
+  "repetitiveness": 0.8969520330429077,
+  "vocal_share": 0.03268956020474434,
+  "vocal_voiced": 0.1511879049676026,
+  "song_length": 191.56
+ }
+}

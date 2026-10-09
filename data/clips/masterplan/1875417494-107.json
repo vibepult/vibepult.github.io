@@ -1,0 +1,32 @@
+{
+ "id": "masterplan/1875417494-107",
+ "band": "masterplan",
+ "title": "Through The Storm",
+ "source": "itunes",
+ "album": "Metalmorphosis",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 6.133333333333334,
+  "tempo_var": 0.0,
+  "low_onset_rate": 8.7,
+  "lufs": -10.403178214157931,
+  "rms_dbfs": -10.17841855167518,
+  "crest": 10.17841911315918,
+  "centroid": 2820.618958110179,
+  "flatness": 0.04068344086408615,
+  "sub100_share": 0.33545538783073425,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7925678491592407,
+  "clean_share": 0.007739938080495356,
+  "minor_share": 0.10823520997424385,
+  "chord_rate": 2.066666666666667,
+  "repetitiveness": 0.8616904616355896,
+  "vocal_share": 0.16989736258983612,
+  "vocal_voiced": 0.42036290322580644,
+  "song_length": 255.813
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "the-black-dahlia-murder/261391604-105",
+ "band": "the-black-dahlia-murder",
+ "title": "Nocturnal",
+ "source": "itunes",
+ "album": "Nocturnal",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 7.966666666666667,
+  "tempo_var": 3.8715055538595933,
+  "low_onset_rate": 7.733333333333333,
+  "lufs": -7.0730762901046145,
+  "rms_dbfs": -7.0171213647517,
+  "crest": 7.017121315002441,
+  "centroid": 2789.2554594025896,
+  "flatness": 0.060219768434762955,
+  "sub100_share": 0.31868723034858704,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.656385600566864,
+  "clean_share": 0.0,
+  "minor_share": -0.05407242896985165,
+  "chord_rate": 2.4,
+  "repetitiveness": 0.9192614555358887,
+  "vocal_share": 0.2438974231481552,
+  "vocal_voiced": 0.07753796962430055,
+  "song_length": 192.933
+ }
+}

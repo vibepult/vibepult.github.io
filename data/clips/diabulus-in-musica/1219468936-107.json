@@ -1,0 +1,32 @@
+{
+ "id": "diabulus-in-musica/1219468936-107",
+ "band": "diabulus-in-musica",
+ "title": "A Speck in the Universe",
+ "source": "itunes",
+ "album": "Dirge for the Archons",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 1.5,
+  "tempo_var": 15.78000199254314,
+  "low_onset_rate": 5.6,
+  "lufs": -16.875404003824254,
+  "rms_dbfs": -16.32223823505778,
+  "crest": 14.098621368408203,
+  "centroid": 1518.5080177910318,
+  "flatness": 0.0027695850003510714,
+  "sub100_share": 0.01770693063735962,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.9682222008705139,
+  "clean_share": 0.9040247678018576,
+  "minor_share": 0.14184234083440717,
+  "chord_rate": 1.1,
+  "repetitiveness": 0.6032295227050781,
+  "vocal_share": 0.431773841381073,
+  "vocal_voiced": 0.9398373983739837,
+  "song_length": 294.453
+ }
+}

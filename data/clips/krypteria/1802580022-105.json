@@ -1,0 +1,32 @@
+{
+ "id": "krypteria/1802580022-105",
+ "band": "krypteria",
+ "title": "Scream",
+ "source": "itunes",
+ "album": "Bloodangel's Cry",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.6332784084896677,
+  "tempo_var": 2.4895194647188537,
+  "low_onset_rate": 3.1332859669543924,
+  "lufs": -8.239130543792303,
+  "rms_dbfs": -8.152497400983993,
+  "crest": 8.152498245239258,
+  "centroid": 2571.3250705290257,
+  "flatness": 0.034651417285203934,
+  "sub100_share": 0.244263157248497,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6338397264480591,
+  "clean_share": 0.01082753286929621,
+  "minor_share": 0.22274756991051836,
+  "chord_rate": 1.399978836298771,
+  "repetitiveness": 0.9196521639823914,
+  "vocal_share": 0.23766016960144043,
+  "vocal_voiced": 0.8693877551020408,
+  "song_length": 267.987
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "gamma-ray/1642730333-105",
+ "band": "gamma-ray",
+ "title": "Gardens of the Sinner",
+ "source": "itunes",
+ "album": "Power Plant",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 6.983177156572759,
+  "tempo_var": 17.203823543423,
+  "low_onset_rate": 8.620381370314698,
+  "lufs": -10.026476457238191,
+  "rms_dbfs": -10.089285451186324,
+  "crest": 10.089284896850586,
+  "centroid": 2895.4959313321483,
+  "flatness": 0.04960398003458977,
+  "sub100_share": 0.3108408749103546,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7242110371589661,
+  "clean_share": 0.0,
+  "minor_share": 0.2454081376232139,
+  "chord_rate": 1.4367302283857828,
+  "repetitiveness": 0.905617892742157,
+  "vocal_share": 0.1607055813074112,
+  "vocal_voiced": 0.6954662104362703,
+  "song_length": 356.933
+ }
+}

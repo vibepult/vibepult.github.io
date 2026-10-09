@@ -1,0 +1,32 @@
+{
+ "id": "kalmah/1669889880-105",
+ "band": "kalmah",
+ "title": "They Will Return",
+ "source": "itunes",
+ "album": "They Will Return",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 5.98080722979198,
+  "tempo_var": 11.176933540524926,
+  "low_onset_rate": 5.579859259079669,
+  "lufs": -6.493421623496757,
+  "rms_dbfs": -6.526586754274496,
+  "crest": 6.526587009429932,
+  "centroid": 2925.2266410162333,
+  "flatness": 0.048316873610019684,
+  "sub100_share": 0.28335461020469666,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8148414492607117,
+  "clean_share": 0.017843289371605897,
+  "minor_share": 0.30460712952400687,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.9330617189407349,
+  "vocal_share": 0.028388747945427895,
+  "vocal_voiced": 0.016917293233082706,
+  "song_length": 233.533
+ }
+}

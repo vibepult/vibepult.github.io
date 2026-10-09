@@ -1,0 +1,32 @@
+{
+ "id": "ghost/1440952111-106",
+ "band": "ghost",
+ "title": "Mummy Dust",
+ "source": "itunes",
+ "album": "Meliora",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 3.699944067361038,
+  "tempo_var": 31.895281596057092,
+  "low_onset_rate": 4.933258756481384,
+  "lufs": -8.482406395117616,
+  "rms_dbfs": -7.642584406297948,
+  "crest": 7.642584323883057,
+  "centroid": 2315.2018065615207,
+  "flatness": 0.02414478175342083,
+  "sub100_share": 0.2902562916278839,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.8031287789344788,
+  "clean_share": 0.13843774168600154,
+  "minor_share": 0.08267144563302387,
+  "chord_rate": 1.5666429834771962,
+  "repetitiveness": 0.7794783711433411,
+  "vocal_share": 0.051136314868927,
+  "vocal_voiced": 0.2692307692307692,
+  "song_length": 247.378
+ }
+}

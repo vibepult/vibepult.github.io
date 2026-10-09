@@ -1,0 +1,32 @@
+{
+ "id": "cro-mags/1469735225-107",
+ "band": "cro-mags",
+ "title": "Pressure Drop",
+ "source": "itunes",
+ "album": "Revenge",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 5.98080722979198,
+  "tempo_var": 14.031877996846573,
+  "low_onset_rate": 5.680096251757746,
+  "lufs": -8.26279151062445,
+  "rms_dbfs": -8.59058154468627,
+  "crest": 8.590581893920898,
+  "centroid": 2892.6765439295527,
+  "flatness": 0.05987564101815224,
+  "sub100_share": 0.23718726634979248,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.6336666345596313,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": -0.21692961781329262,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.9447469711303711,
+  "vocal_share": 0.11568627506494522,
+  "vocal_voiced": 0.6036184210526315,
+  "song_length": 161.907
+ }
+}

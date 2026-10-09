@@ -1,0 +1,32 @@
+{
+ "id": "athena/938230792-101",
+ "band": "athena",
+ "title": "Davet",
+ "source": "itunes",
+ "album": "Altüst",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 5.06651348409723,
+  "tempo_var": 37.24305150085173,
+  "low_onset_rate": 4.966516507437417,
+  "lufs": -11.971946548784052,
+  "rms_dbfs": -11.0479649840753,
+  "crest": 11.047965049743652,
+  "centroid": 1883.7425257863595,
+  "flatness": 0.01226070150732994,
+  "sub100_share": 0.3043126165866852,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6373122930526733,
+  "clean_share": 0.5104408352668214,
+  "minor_share": 0.02228606959001611,
+  "chord_rate": 1.8332779054299189,
+  "repetitiveness": 0.8342785835266113,
+  "vocal_share": 0.2606509029865265,
+  "vocal_voiced": 0.7676300578034682,
+  "song_length": 229.241
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "the-agonist/1045281849-106",
+ "band": "the-agonist",
+ "title": "Ideomotor",
+ "source": "itunes",
+ "album": "Prisoners",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 6.395948749016118,
+  "tempo_var": 8.200787039681483,
+  "low_onset_rate": 5.563142922321311,
+  "lufs": -9.166103448123543,
+  "rms_dbfs": -8.70342174513452,
+  "crest": 8.703421592712402,
+  "centroid": 2810.7019028079767,
+  "flatness": 0.04989508539438248,
+  "sub100_share": 0.3614553213119507,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.6601282954216003,
+  "clean_share": 0.0,
+  "minor_share": -0.10559043152362196,
+  "chord_rate": 1.8654850517963677,
+  "repetitiveness": 0.8912956714630127,
+  "vocal_share": 0.13816575706005096,
+  "vocal_voiced": 0.13096446700507614,
+  "song_length": 487.133
+ }
+}

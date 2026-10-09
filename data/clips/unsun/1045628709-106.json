@@ -1,0 +1,32 @@
+{
+ "id": "unsun/1045628709-106",
+ "band": "unsun",
+ "title": "Destiny",
+ "source": "itunes",
+ "album": "The End of Life",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 5.613271589972361,
+  "tempo_var": 4.272599090740966,
+  "low_onset_rate": 8.085784076031615,
+  "lufs": -6.20190645989454,
+  "rms_dbfs": -6.545510432570296,
+  "crest": 6.545510292053223,
+  "centroid": 2539.135363342027,
+  "flatness": 0.036335624754428864,
+  "sub100_share": 0.1449204683303833,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.8148386478424072,
+  "clean_share": 0.0,
+  "minor_share": 0.164422052066716,
+  "chord_rate": 1.0023699267807789,
+  "repetitiveness": 0.8553809523582458,
+  "vocal_share": 0.2574082314968109,
+  "vocal_voiced": 0.9604344453064391,
+  "song_length": 234.013
+ }
+}

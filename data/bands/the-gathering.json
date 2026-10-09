@@ -1,0 +1,127 @@
+{
+ "slug": "the-gathering",
+ "name": "The Gathering",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 3971095,
+  "deezer": 2015,
+  "spotify": "2kO6zjt4a1OIqxOERhliEX"
+ },
+ "metadata": {
+  "formed": 1989,
+  "split": null,
+  "country": "NL",
+  "status": "active",
+  "members": 4,
+  "past_members": 9,
+  "full_lengths": 12,
+  "genre": "Death/Doom Metal, Atmospheric Doom Metal (early); Atmospheric Progressive Rock (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 27795,
+  "themes": "Relationships, Introspection, Social issues",
+  "release_year": 1999
+ },
+ "partial": false,
+ "clips": [
+  "the-gathering/1454115174-104",
+  "the-gathering/1372839966-105",
+  "the-gathering/1045619491-104",
+  "the-gathering/1045697611-105",
+  "the-gathering/1045532666-107",
+  "the-gathering/1045517045-106",
+  "the-gathering/1372173296-105",
+  "the-gathering/1361237439-107",
+  "the-gathering/1371664651-105",
+  "the-gathering/1372481288-104",
+  "the-gathering/1613185648-104",
+  "the-gathering/1454115174-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.90049098320159,
+   "iqr": 42.18465870824353
+  },
+  "onset_rate": {
+   "median": 3.157465269359453,
+   "iqr": 1.3633292202692053
+  },
+  "tempo_var": {
+   "median": 5.270774039094778,
+   "iqr": 8.45674296720877
+  },
+  "low_onset_rate": {
+   "median": 5.438302207341771,
+   "iqr": 2.3233382321407214
+  },
+  "lufs": {
+   "median": -13.44371670037205,
+   "iqr": 3.3409327983573576
+  },
+  "rms_dbfs": {
+   "median": -12.765688599618016,
+   "iqr": 3.3702428726161706
+  },
+  "crest": {
+   "median": 12.765687942504883,
+   "iqr": 2.2355008125305176
+  },
+  "centroid": {
+   "median": 1899.1204840939827,
+   "iqr": 883.4852006867061
+  },
+  "flatness": {
+   "median": 0.010721052763983607,
+   "iqr": 0.014247623243136331
+  },
+  "sub100_share": {
+   "median": 0.18221399933099747,
+   "iqr": 0.22535751666873693
+  },
+  "lowest_pitch": {
+   "median": 51.141357421875,
+   "iqr": 32.2998046875
+  },
+  "harmonic_share": {
+   "median": 0.8791216611862183,
+   "iqr": 0.07753622531890869
+  },
+  "clean_share": {
+   "median": 0.49107385534209685,
+   "iqr": 0.7430178432893716
+  },
+  "minor_share": {
+   "median": 0.12145344812501269,
+   "iqr": 0.15332746204875103
+  },
+  "chord_rate": {
+   "median": 0.9355452649953935,
+   "iqr": 0.6002708310821132
+  },
+  "repetitiveness": {
+   "median": 0.7462246716022491,
+   "iqr": 0.0950259268283844
+  },
+  "vocal_share": {
+   "median": 0.3019544184207916,
+   "iqr": 0.20588871464133263
+  },
+  "vocal_voiced": {
+   "median": 0.9537617554858934,
+   "iqr": 0.11895502165816563
+  },
+  "song_length": {
+   "median": 363.9865,
+   "iqr": 119.29299999999995
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

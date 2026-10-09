@@ -1,0 +1,32 @@
+{
+ "id": "nailbomb/280151959-107",
+ "band": "nailbomb",
+ "title": "Cockroaches",
+ "source": "itunes",
+ "album": "Point Blank",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 4.031370972859772,
+  "tempo_var": 14.305395156486187,
+  "low_onset_rate": 4.664396166945191,
+  "lufs": -12.878415857530902,
+  "rms_dbfs": -12.39823595403369,
+  "crest": 12.398235321044922,
+  "centroid": 2791.754590143608,
+  "flatness": 0.04806852340698242,
+  "sub100_share": 0.2396148443222046,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.5371911525726318,
+  "clean_share": 0.0,
+  "minor_share": 0.2618654415735791,
+  "chord_rate": 2.1989296215598757,
+  "repetitiveness": 0.8818052411079407,
+  "vocal_share": 0.09401834011077881,
+  "vocal_voiced": 0.44724770642201833,
+  "song_length": 310.493
+ }
+}

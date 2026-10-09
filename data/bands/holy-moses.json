@@ -1,0 +1,127 @@
+{
+ "slug": "holy-moses",
+ "name": "Holy Moses",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 67737354,
+  "deezer": 328673,
+  "spotify": "7jcSmabVYrhiPf8mY1P0OV"
+ },
+ "metadata": {
+  "formed": 1980,
+  "split": 2023,
+  "country": "DE",
+  "status": "split-up",
+  "members": 4,
+  "past_members": 32,
+  "full_lengths": 13,
+  "genre": "Speed/Thrash Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 4185,
+  "themes": "Religion, Society, War",
+  "release_year": 1994
+ },
+ "partial": false,
+ "clips": [
+  "holy-moses/121306783-106",
+  "holy-moses/167099565-106",
+  "holy-moses/1895812511-105",
+  "holy-moses/1895707686-106",
+  "holy-moses/1895707816-106",
+  "holy-moses/157119444-109",
+  "holy-moses/1060459795-106",
+  "holy-moses/6766841221-106",
+  "holy-moses/1895708493-105",
+  "holy-moses/6766504456-111",
+  "holy-moses/1895810296-106",
+  "holy-moses/121306783-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 107.666015625,
+   "iqr": 30.422551081730774
+  },
+  "onset_rate": {
+   "median": 4.054981273849026,
+   "iqr": 3.5109164655568432
+  },
+  "tempo_var": {
+   "median": 12.324235074346177,
+   "iqr": 4.92682240556651
+  },
+  "low_onset_rate": {
+   "median": 5.833227515147117,
+   "iqr": 1.8631251545985954
+  },
+  "lufs": {
+   "median": -8.873493807311153,
+   "iqr": 1.5579824569631775
+  },
+  "rms_dbfs": {
+   "median": -8.501729092738328,
+   "iqr": 1.5068565565533465
+  },
+  "crest": {
+   "median": 8.501729488372803,
+   "iqr": 1.506856918334961
+  },
+  "centroid": {
+   "median": 2726.9922937544025,
+   "iqr": 607.358584758033
+  },
+  "flatness": {
+   "median": 0.037013791501522064,
+   "iqr": 0.026319745928049088
+  },
+  "sub100_share": {
+   "median": 0.3562542349100113,
+   "iqr": 0.19072607904672623
+  },
+  "lowest_pitch": {
+   "median": 57.8704833984375,
+   "iqr": 20.86029052734375
+  },
+  "harmonic_share": {
+   "median": 0.7798047661781311,
+   "iqr": 0.0614052414894104
+  },
+  "clean_share": {
+   "median": 0.017412192044409323,
+   "iqr": 0.07340219490639159
+  },
+  "minor_share": {
+   "median": -0.028681008455095885,
+   "iqr": 0.19511402033274128
+  },
+  "chord_rate": {
+   "median": 1.7019592174248874,
+   "iqr": 0.4673746213241512
+  },
+  "repetitiveness": {
+   "median": 0.8973504304885864,
+   "iqr": 0.08142457902431488
+  },
+  "vocal_share": {
+   "median": 0.09985256940126419,
+   "iqr": 0.05908634699881077
+  },
+  "vocal_voiced": {
+   "median": 0.230458988574683,
+   "iqr": 0.2934684090575677
+  },
+  "song_length": {
+   "median": 231.6055,
+   "iqr": 95.7305
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

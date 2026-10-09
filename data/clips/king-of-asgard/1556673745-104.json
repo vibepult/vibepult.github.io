@@ -1,0 +1,32 @@
+{
+ "id": "king-of-asgard/1556673745-104",
+ "band": "king-of-asgard",
+ "title": "Kvikr",
+ "source": "itunes",
+ "album": "Svartrviðr",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 8.987917010134316,
+  "tempo_var": 11.44871136611221,
+  "low_onset_rate": 6.816115502109295,
+  "lufs": -7.843176423663202,
+  "rms_dbfs": -7.715308457930554,
+  "crest": 7.71530818939209,
+  "centroid": 2463.888883054878,
+  "flatness": 0.029799826443195343,
+  "sub100_share": 0.21014411747455597,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.7861653566360474,
+  "clean_share": 0.0,
+  "minor_share": 0.1459588282636698,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.9246524572372437,
+  "vocal_share": 6.66557696149539e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 541.093
+ }
+}

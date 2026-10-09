@@ -1,0 +1,32 @@
+{
+ "id": "amon-amarth/54261136-104",
+ "band": "amon-amarth",
+ "title": "Victorious March",
+ "source": "itunes",
+ "album": "Once Sent from the Golden Hall",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.610901663191583,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.582229185860447,
+  "lufs": -9.810132359615015,
+  "rms_dbfs": -9.938774092650437,
+  "crest": 9.938774108886719,
+  "centroid": 2847.826930969486,
+  "flatness": 0.04733848571777344,
+  "sub100_share": 0.2802131175994873,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.760385274887085,
+  "clean_share": 0.0,
+  "minor_share": 0.08009537705132252,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.8714514970779419,
+  "vocal_share": 4.908733330921677e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 476.707
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "panzerchrist/1756360355-104",
+ "band": "panzerchrist",
+ "title": "Confessions",
+ "source": "itunes",
+ "album": "Maleficium, Pt. 1",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.866519530777603,
+  "tempo_var": 5.155917475812001,
+  "low_onset_rate": 5.8664892973757405,
+  "lufs": -13.770714326788976,
+  "rms_dbfs": -13.36536686272214,
+  "crest": 13.365365982055664,
+  "centroid": 2769.3977923321904,
+  "flatness": 0.04867478460073471,
+  "sub100_share": 0.41365545988082886,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.775909960269928,
+  "clean_share": 0.0015467904098994587,
+  "minor_share": 0.09441674930672511,
+  "chord_rate": 1.7666132543233763,
+  "repetitiveness": 0.8122695684432983,
+  "vocal_share": 0.11068900674581528,
+  "vocal_voiced": 0.18537074148296592,
+  "song_length": 283.28
+ }
+}

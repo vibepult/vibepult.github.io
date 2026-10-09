@@ -1,0 +1,32 @@
+{
+ "id": "six-feet-under/1099905481-106",
+ "band": "six-feet-under",
+ "title": "Murders in the Rue Morgue",
+ "source": "itunes",
+ "album": "Graveyard Classics IV: The Number of the Priest",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.109716699801193,
+  "tempo_var": 14.108256513906362,
+  "low_onset_rate": 5.780333244435824,
+  "lufs": -9.42746412604662,
+  "rms_dbfs": -7.868965598833983,
+  "crest": 7.868966102600098,
+  "centroid": 2148.0769635206543,
+  "flatness": 0.013941406272351742,
+  "sub100_share": 0.4845481514930725,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7762249112129211,
+  "clean_share": 0.18541505042668735,
+  "minor_share": -0.03953388788467821,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.7513633370399475,
+  "vocal_share": 0.12451715767383575,
+  "vocal_voiced": 0.0,
+  "song_length": 263.053
+ }
+}

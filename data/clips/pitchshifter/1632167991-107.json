@@ -1,0 +1,32 @@
+{
+ "id": "pitchshifter/1632167991-107",
+ "band": "pitchshifter",
+ "title": "Product Placement",
+ "source": "itunes",
+ "album": "Infotainment?",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.374645420161955,
+  "tempo_var": 11.380425134471194,
+  "low_onset_rate": 4.176541361586578,
+  "lufs": -7.8003797132127985,
+  "rms_dbfs": -7.7666223136527135,
+  "crest": 7.766622543334961,
+  "centroid": 3252.168390913565,
+  "flatness": 0.07749553769826889,
+  "sub100_share": 0.3579963147640228,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.6862650513648987,
+  "clean_share": 0.017067494181536073,
+  "minor_share": -0.00916641811101726,
+  "chord_rate": 1.1026069194588566,
+  "repetitiveness": 0.941709578037262,
+  "vocal_share": 0.0553845576941967,
+  "vocal_voiced": 0.05317324185248713,
+  "song_length": 259.0
+ }
+}

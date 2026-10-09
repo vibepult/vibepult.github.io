@@ -1,0 +1,32 @@
+{
+ "id": "artrosis/510043877-107",
+ "band": "artrosis",
+ "title": "Imago",
+ "source": "itunes",
+ "album": "Imago",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.7755933908742665,
+  "tempo_var": 9.627155879180242,
+  "low_onset_rate": 3.374645420161955,
+  "lufs": -10.224834953378407,
+  "rms_dbfs": -9.550518228738401,
+  "crest": 9.550518035888672,
+  "centroid": 2066.095771034658,
+  "flatness": 0.01612796075642109,
+  "sub100_share": 0.14272959530353546,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7862012386322021,
+  "clean_share": 0.23894491854150504,
+  "minor_share": -0.031353952921442385,
+  "chord_rate": 1.0023699267807789,
+  "repetitiveness": 0.8073761463165283,
+  "vocal_share": 0.2637965977191925,
+  "vocal_voiced": 0.8238944918541505,
+  "song_length": 348.787
+ }
+}

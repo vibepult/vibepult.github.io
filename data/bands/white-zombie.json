@@ -1,0 +1,127 @@
+{
+ "slug": "white-zombie",
+ "name": "White Zombie",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 115954,
+  "deezer": 3006,
+  "spotify": "0CF71zaDOJWCynIkW9bSK8"
+ },
+ "metadata": {
+  "formed": 1985,
+  "split": 1998,
+  "country": "US",
+  "status": "split-up",
+  "members": 4,
+  "past_members": 7,
+  "full_lengths": 5,
+  "genre": "Noise Rock/Heavy Metal (early); Groove Metal/Industrial Rock (later)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 139356,
+  "themes": "Horror culture, Hell, Evil, Monsters, Sex, Death, Humour",
+  "release_year": 1989
+ },
+ "partial": false,
+ "clips": [
+  "white-zombie/1101918450-105",
+  "white-zombie/1101918996-104",
+  "white-zombie/1445662543-106",
+  "white-zombie/1440905314-111",
+  "white-zombie/1101918450-106",
+  "white-zombie/1101918996-103",
+  "white-zombie/1445662543-105",
+  "white-zombie/1101918450-104",
+  "white-zombie/1101918996-105",
+  "white-zombie/1445662543-107",
+  "white-zombie/1101918450-107",
+  "white-zombie/1101918996-102"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 32.37782353940217
+  },
+  "onset_rate": {
+   "median": 4.066605191153573,
+   "iqr": 1.15
+  },
+  "tempo_var": {
+   "median": 5.469020272893575,
+   "iqr": 11.205769601027907
+  },
+  "low_onset_rate": {
+   "median": 4.983295289060886,
+   "iqr": 1.4749935753049837
+  },
+  "lufs": {
+   "median": -11.552209440980999,
+   "iqr": 1.8961380885341228
+  },
+  "rms_dbfs": {
+   "median": -11.491309467060308,
+   "iqr": 1.6186194702904757
+  },
+  "crest": {
+   "median": 11.491309642791748,
+   "iqr": 1.618619680404663
+  },
+  "centroid": {
+   "median": 2209.900864986428,
+   "iqr": 538.1837961875235
+  },
+  "flatness": {
+   "median": 0.016924253664910793,
+   "iqr": 0.019581813598051667
+  },
+  "sub100_share": {
+   "median": 0.2560018450021744,
+   "iqr": 0.08525082841515541
+  },
+  "lowest_pitch": {
+   "median": 67.291259765625,
+   "iqr": 43.06640625
+  },
+  "harmonic_share": {
+   "median": 0.7466166317462921,
+   "iqr": 0.11426277458667755
+  },
+  "clean_share": {
+   "median": 0.11455108359133127,
+   "iqr": 0.15654653301056654
+  },
+  "minor_share": {
+   "median": 0.016226888491490066,
+   "iqr": 0.1120399543978652
+  },
+  "chord_rate": {
+   "median": 2.4333333333333336,
+   "iqr": 0.375024942933591
+  },
+  "repetitiveness": {
+   "median": 0.9152485132217407,
+   "iqr": 0.05045248568058014
+  },
+  "vocal_share": {
+   "median": 0.18223830312490463,
+   "iqr": 0.11566456221044064
+  },
+  "vocal_voiced": {
+   "median": 0.6492327117327117,
+   "iqr": 0.46310212808617895
+  },
+  "song_length": {
+   "median": 245.68,
+   "iqr": 68.98000000000002
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.8,
+  "camp": 0.7
+ },
+ "sources_failed": []
+}

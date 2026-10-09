@@ -1,0 +1,32 @@
+{
+ "id": "moonsorrow/705428477-103",
+ "band": "moonsorrow",
+ "title": "Kylän Päässä",
+ "source": "itunes",
+ "album": "Voimasta ja Kunniasta",
+ "year": 2001,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.245735950152742,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.746920913543131,
+  "lufs": -10.799160398152598,
+  "rms_dbfs": -9.975463246191461,
+  "crest": 9.9754638671875,
+  "centroid": 2304.1490525291665,
+  "flatness": 0.020382383838295937,
+  "sub100_share": 0.3183450400829315,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.6761454343795776,
+  "clean_share": 0.045771916214119475,
+  "minor_share": -0.17434684489487406,
+  "chord_rate": 0.9021329341027009,
+  "repetitiveness": 0.9700759053230286,
+  "vocal_share": 0.08225890249013901,
+  "vocal_voiced": 0.01411764705882353,
+  "song_length": 458.173
+ }
+}

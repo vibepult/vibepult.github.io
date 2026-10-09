@@ -1,0 +1,32 @@
+{
+ "id": "athena/938230792-111",
+ "band": "athena",
+ "title": "Tek Başına",
+ "source": "itunes",
+ "album": "Altüst",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.066543717499093,
+  "tempo_var": 9.072911960445087,
+  "low_onset_rate": 3.6998881364131093,
+  "lufs": -10.246940389121331,
+  "rms_dbfs": -9.641998694879218,
+  "crest": 9.641998291015625,
+  "centroid": 1745.8514157010131,
+  "flatness": 0.005763786844909191,
+  "sub100_share": 0.1887030154466629,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.6721805930137634,
+  "clean_share": 0.6310904872389791,
+  "minor_share": 0.09933450393243903,
+  "chord_rate": 1.06663441770468,
+  "repetitiveness": 0.788409411907196,
+  "vocal_share": 0.3849586546421051,
+  "vocal_voiced": 0.830423940149626,
+  "song_length": 246.442
+ }
+}

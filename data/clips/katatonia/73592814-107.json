@@ -1,0 +1,32 @@
+{
+ "id": "katatonia/73592814-107",
+ "band": "katatonia",
+ "title": "Wealth",
+ "source": "itunes",
+ "album": "Viva Emptiness",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.6085317364108036,
+  "tempo_var": 1.886468000276158,
+  "low_onset_rate": 4.209953692479271,
+  "lufs": -9.277430736567664,
+  "rms_dbfs": -8.621711142491103,
+  "crest": 8.621710777282715,
+  "centroid": 2006.7306908676774,
+  "flatness": 0.01703033037483692,
+  "sub100_share": 0.3013719916343689,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8768692016601562,
+  "clean_share": 0.43366951124903025,
+  "minor_share": -0.060929756674656055,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.8066161274909973,
+  "vocal_share": 0.10157867521047592,
+  "vocal_voiced": 0.859375,
+  "song_length": 262.88
+ }
+}

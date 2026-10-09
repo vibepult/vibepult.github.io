@@ -1,0 +1,32 @@
+{
+ "id": "lizzy-borden/60375335-105",
+ "band": "lizzy-borden",
+ "title": "Visual Lies",
+ "source": "itunes",
+ "album": "Visual Lies (Remastered)",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.2744084274838774,
+  "tempo_var": 3.6084930210631025,
+  "low_onset_rate": 5.579859259079669,
+  "lufs": -11.39877216449806,
+  "rms_dbfs": -11.542725154223803,
+  "crest": 11.542725563049316,
+  "centroid": 2801.792832953946,
+  "flatness": 0.03943180665373802,
+  "sub100_share": 0.12752650678157806,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7974782586097717,
+  "clean_share": 0.03335919317300233,
+  "minor_share": 0.1971782856646277,
+  "chord_rate": 1.3030809048150125,
+  "repetitiveness": 0.7618904113769531,
+  "vocal_share": 0.38096317648887634,
+  "vocal_voiced": 0.6385869565217391,
+  "song_length": 245.8
+ }
+}

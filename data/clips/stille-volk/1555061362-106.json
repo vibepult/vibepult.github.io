@@ -1,0 +1,32 @@
+{
+ "id": "stille-volk/1555061362-106",
+ "band": "stille-volk",
+ "title": "La Meneuse D'ours",
+ "source": "itunes",
+ "album": "Maudat",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.94265504533773,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 6.782703171216603,
+  "lufs": -15.81418720612894,
+  "rms_dbfs": -15.215519621447182,
+  "crest": 14.161367416381836,
+  "centroid": 1528.7842206885732,
+  "flatness": 0.004744586534798145,
+  "sub100_share": 0.03619154170155525,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.896116316318512,
+  "clean_share": 0.6788207913110939,
+  "minor_share": -0.04764581622044928,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.8803823590278625,
+  "vocal_share": 0.13662368059158325,
+  "vocal_voiced": 0.6638370118845501,
+  "song_length": 351.427
+ }
+}

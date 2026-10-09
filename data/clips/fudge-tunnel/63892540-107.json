@@ -1,0 +1,32 @@
+{
+ "id": "fudge-tunnel/63892540-107",
+ "band": "fudge-tunnel",
+ "title": "Excuse",
+ "source": "itunes",
+ "album": "The Complicated Futility of Ignorance",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.207583765698492,
+  "tempo_var": 6.0085519564645615,
+  "low_onset_rate": 5.279148281045435,
+  "lufs": -13.562657581652664,
+  "rms_dbfs": -12.986407103514022,
+  "crest": 12.986407279968262,
+  "centroid": 2071.494410548941,
+  "flatness": 0.01653938554227352,
+  "sub100_share": 0.2020931988954544,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7278628945350647,
+  "clean_share": 0.186966640806827,
+  "minor_share": 0.12913077320259614,
+  "chord_rate": 2.3722754933811765,
+  "repetitiveness": 0.8009521961212158,
+  "vocal_share": 0.019040752202272415,
+  "vocal_voiced": 0.5187713310580204,
+  "song_length": 275.173
+ }
+}

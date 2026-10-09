@@ -1,0 +1,32 @@
+{
+ "id": "epidemia/1590543823-105",
+ "band": "epidemia",
+ "title": "Тор и Рагнарёк",
+ "source": "itunes",
+ "album": "Призраки и тени",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.680096251757746,
+  "tempo_var": 21.55432932378424,
+  "low_onset_rate": 5.579859259079669,
+  "lufs": -11.298356671608856,
+  "rms_dbfs": -10.38036524315033,
+  "crest": 10.380365371704102,
+  "centroid": 2322.6688668057545,
+  "flatness": 0.0234624482691288,
+  "sub100_share": 0.4270677864551544,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.8269336223602295,
+  "clean_share": 0.21799844840961985,
+  "minor_share": -0.00041532614656603073,
+  "chord_rate": 2.606161809630025,
+  "repetitiveness": 0.879087507724762,
+  "vocal_share": 0.03818650543689728,
+  "vocal_voiced": 0.1297709923664122,
+  "song_length": 290.289
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "meathook-seed/567237242-109",
+ "band": "meathook-seed",
+ "title": "Embedded",
+ "source": "itunes",
+ "album": "Embedded",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.71113865586966,
+  "tempo_var": 13.684435202719992,
+  "low_onset_rate": 7.3841251272850705,
+  "lufs": -15.167202013126742,
+  "rms_dbfs": -13.995535421682222,
+  "crest": 13.995534896850586,
+  "centroid": 2524.563277796358,
+  "flatness": 0.02193167246878147,
+  "sub100_share": 0.5772535800933838,
+  "lowest_pitch": 174.957275390625,
+  "harmonic_share": 0.8555309176445007,
+  "clean_share": 0.19006982156710628,
+  "minor_share": 0.15901938682417896,
+  "chord_rate": 3.040522111235029,
+  "repetitiveness": 0.9206520915031433,
+  "vocal_share": 7.159281085478142e-05,
+  "vocal_voiced": 0.0,
+  "song_length": 127.0
+ }
+}

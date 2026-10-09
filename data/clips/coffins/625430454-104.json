@@ -1,0 +1,32 @@
+{
+ "id": "coffins/625430454-104",
+ "band": "coffins",
+ "title": "No Saviour",
+ "source": "itunes",
+ "album": "The Fleshland",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.813745575328517,
+  "tempo_var": 13.52275730235644,
+  "low_onset_rate": 7.718248436211996,
+  "lufs": -7.146071769026075,
+  "rms_dbfs": -7.323152317541723,
+  "crest": 7.323152542114258,
+  "centroid": 2622.818739721902,
+  "flatness": 0.045792967081069946,
+  "sub100_share": 0.09423048049211502,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7117211222648621,
+  "clean_share": 0.0,
+  "minor_share": 0.09470318862249255,
+  "chord_rate": 2.0047398535615577,
+  "repetitiveness": 0.9277979731559753,
+  "vocal_share": 0.09131995588541031,
+  "vocal_voiced": 0.2995658465991317,
+  "song_length": 224.76
+ }
+}

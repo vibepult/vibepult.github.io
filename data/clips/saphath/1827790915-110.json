@@ -1,0 +1,32 @@
+{
+ "id": "saphath/1827790915-110",
+ "band": "saphath",
+ "title": "The Land of My Dreams",
+ "source": "itunes",
+ "album": "Ascension of the Dark Prophet",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.2332844552614475,
+  "tempo_var": 22.337132807344954,
+  "low_onset_rate": 6.966561352058171,
+  "lufs": -8.306749854044291,
+  "rms_dbfs": -7.378434975041221,
+  "crest": 7.378435134887695,
+  "centroid": 2265.7857489104267,
+  "flatness": 0.020540772005915642,
+  "sub100_share": 0.3464202284812927,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8925986886024475,
+  "clean_share": 0.19489559164733178,
+  "minor_share": 0.08537948448740107,
+  "chord_rate": 1.1333162008132909,
+  "repetitiveness": 0.7363243103027344,
+  "vocal_share": 5.243242640062817e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 415.152
+ }
+}

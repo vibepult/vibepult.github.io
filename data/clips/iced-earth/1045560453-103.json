@@ -1,0 +1,32 @@
+{
+ "id": "iced-earth/1045560453-103",
+ "band": "iced-earth",
+ "title": "Colors",
+ "source": "itunes",
+ "album": "Iced Earth",
+ "year": 1990,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.513034597294284,
+  "tempo_var": 0.7296927920400283,
+  "low_onset_rate": 6.949764825680066,
+  "lufs": -11.259769525097488,
+  "rms_dbfs": -10.649708575432477,
+  "crest": 10.64970874786377,
+  "centroid": 2560.509985064941,
+  "flatness": 0.029051920399069786,
+  "sub100_share": 0.2323930263519287,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7676257491111755,
+  "clean_share": 0.07137315748642359,
+  "minor_share": 0.22947100218475347,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.8426474332809448,
+  "vocal_share": 0.05219493806362152,
+  "vocal_voiced": 0.12687585266030013,
+  "song_length": 290.893
+ }
+}

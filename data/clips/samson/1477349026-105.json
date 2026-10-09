@@ -1,0 +1,32 @@
+{
+ "id": "samson/1477349026-105",
+ "band": "samson",
+ "title": "Too Close to Rock",
+ "source": "itunes",
+ "album": "Head On (Bonus Tracks Edition)",
+ "year": 1980,
+ "itunes_year": 1980,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.266666666666667,
+  "tempo_var": 2.484324608444678,
+  "low_onset_rate": 4.8,
+  "lufs": -11.869960607502557,
+  "rms_dbfs": -12.854802627762947,
+  "crest": 12.854803085327148,
+  "centroid": 2554.2219034011177,
+  "flatness": 0.022869862616062164,
+  "sub100_share": 0.09795739501714706,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.55073082447052,
+  "clean_share": 0.07120743034055728,
+  "minor_share": -0.2361812870102457,
+  "chord_rate": 0.9666666666666667,
+  "repetitiveness": 0.8482498526573181,
+  "vocal_share": 0.14075274765491486,
+  "vocal_voiced": 0.7826704545454546,
+  "song_length": 215.307
+ }
+}

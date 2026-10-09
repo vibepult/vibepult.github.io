@@ -1,0 +1,32 @@
+{
+ "id": "in-quest/585574854-105",
+ "band": "in-quest",
+ "title": "Thy Subsonic Collapse",
+ "source": "itunes",
+ "album": "Made Out of Negative Matter",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 6.61564151675314,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.582229185860447,
+  "lufs": -7.632881347599555,
+  "rms_dbfs": -7.304297715955967,
+  "crest": 7.30429744720459,
+  "centroid": 2295.546754226727,
+  "flatness": 0.03095594234764576,
+  "sub100_share": 0.25843632221221924,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.6553662419319153,
+  "clean_share": 0.0,
+  "minor_share": 0.06274966109746194,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.9566799402236938,
+  "vocal_share": 0.24688230454921722,
+  "vocal_voiced": 0.056559308719560095,
+  "song_length": 401.16
+ }
+}

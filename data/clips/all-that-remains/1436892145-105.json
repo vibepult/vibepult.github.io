@@ -1,0 +1,32 @@
+{
+ "id": "all-that-remains/1436892145-105",
+ "band": "all-that-remains",
+ "title": "Alone In The Darkness",
+ "source": "itunes",
+ "album": "Victim of the New Disease",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.366600656074739,
+  "tempo_var": 1.456752656606749,
+  "low_onset_rate": 5.266587050838234,
+  "lufs": -10.83660417510727,
+  "rms_dbfs": -10.810709033672728,
+  "crest": 10.810708999633789,
+  "centroid": 2414.121331060306,
+  "flatness": 0.029628228396177292,
+  "sub100_share": 0.10342512279748917,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7531839609146118,
+  "clean_share": 0.0007733952049497294,
+  "minor_share": 0.015425338616810058,
+  "chord_rate": 1.433311665734456,
+  "repetitiveness": 0.792176365852356,
+  "vocal_share": 0.43172070384025574,
+  "vocal_voiced": 0.5086614173228347,
+  "song_length": 209.861
+ }
+}

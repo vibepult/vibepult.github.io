@@ -1,0 +1,32 @@
+{
+ "id": "diamond-head/1458154418-103",
+ "band": "diamond-head",
+ "title": "Call Me",
+ "source": "itunes",
+ "album": "Borrowed Time",
+ "year": 1982,
+ "itunes_year": 1982,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.1332859669543924,
+  "tempo_var": 2.6600409710194612,
+  "low_onset_rate": 3.866608214539463,
+  "lufs": -8.533166696083992,
+  "rms_dbfs": -9.009991121526928,
+  "crest": 9.009991645812988,
+  "centroid": 2813.504552075448,
+  "flatness": 0.03621254488825798,
+  "sub100_share": 0.12850621342658997,
+  "lowest_pitch": 99.591064453125,
+  "harmonic_share": 0.6720241904258728,
+  "clean_share": 0.02320185614849188,
+  "minor_share": 0.19427253664010896,
+  "chord_rate": 1.9333041072697315,
+  "repetitiveness": 0.760307252407074,
+  "vocal_share": 0.27405649423599243,
+  "vocal_voiced": 0.8792958927074602,
+  "song_length": 232.64
+ }
+}

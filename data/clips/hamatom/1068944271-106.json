@@ -1,0 +1,32 @@
+{
+ "id": "hamatom/1068944271-106",
+ "band": "hamatom",
+ "title": "Tanz aus der Reihe",
+ "source": "itunes",
+ "album": "Wir sind Gott",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.0333149912925697,
+  "tempo_var": 21.452073926591474,
+  "low_onset_rate": 1.9333216428018576,
+  "lufs": -7.802727063775282,
+  "rms_dbfs": -7.244806516316695,
+  "crest": 7.24480676651001,
+  "centroid": 2761.6817114878313,
+  "flatness": 0.04110435023903847,
+  "sub100_share": 0.3471486270427704,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6371124386787415,
+  "clean_share": 0.01160092807424594,
+  "minor_share": 0.026177770090217378,
+  "chord_rate": 1.4333246662151702,
+  "repetitiveness": 0.8822203278541565,
+  "vocal_share": 0.1366892158985138,
+  "vocal_voiced": 0.00558659217877095,
+  "song_length": 206.013
+ }
+}

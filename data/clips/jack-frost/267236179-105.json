@@ -1,0 +1,32 @@
+{
+ "id": "jack-frost/267236179-105",
+ "band": "jack-frost",
+ "title": "Sleepless",
+ "source": "itunes",
+ "album": "Elsewhere",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 2.2720385007030983,
+  "tempo_var": 5.059034741754043,
+  "low_onset_rate": 5.746920913543131,
+  "lufs": -8.821060549833629,
+  "rms_dbfs": -9.037642220466566,
+  "crest": 9.037642478942871,
+  "centroid": 2606.857752967501,
+  "flatness": 0.016956273466348648,
+  "sub100_share": 0.06258469820022583,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.9088892340660095,
+  "clean_share": 0.10318076027928627,
+  "minor_share": -0.04257867529332959,
+  "chord_rate": 1.3030809048150125,
+  "repetitiveness": 0.7302616238594055,
+  "vocal_share": 3.903732249455061e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 420.293
+ }
+}

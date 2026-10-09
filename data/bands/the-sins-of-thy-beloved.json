@@ -1,0 +1,127 @@
+{
+ "slug": "the-sins-of-thy-beloved",
+ "name": "The Sins of Thy Beloved",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 65808114,
+  "deezer": 8555,
+  "spotify": "0eFg9cfr8pPciNtqP5s14S"
+ },
+ "metadata": {
+  "formed": 1996,
+  "split": 2008,
+  "country": "NO",
+  "status": "split-up",
+  "members": 6,
+  "past_members": 4,
+  "full_lengths": 2,
+  "genre": "Symphonic Gothic/Doom Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 9032,
+  "themes": "Betrayal, Hate, Unattainable love, Death",
+  "release_year": 1999
+ },
+ "partial": false,
+ "clips": [
+  "the-sins-of-thy-beloved/1184723215-104",
+  "the-sins-of-thy-beloved/1184169548-105",
+  "the-sins-of-thy-beloved/1184723215-103",
+  "the-sins-of-thy-beloved/1184169548-104",
+  "the-sins-of-thy-beloved/1184723215-105",
+  "the-sins-of-thy-beloved/1184169548-106",
+  "the-sins-of-thy-beloved/1184723215-102",
+  "the-sins-of-thy-beloved/1184169548-103",
+  "the-sins-of-thy-beloved/1184723215-106",
+  "the-sins-of-thy-beloved/1184169548-107",
+  "the-sins-of-thy-beloved/1184723215-101",
+  "the-sins-of-thy-beloved/1184169548-102"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 6.15234375
+  },
+  "onset_rate": {
+   "median": 3.8666666666666663,
+   "iqr": 0.6000000000000005
+  },
+  "tempo_var": {
+   "median": 2.475120185301072,
+   "iqr": 2.0438747910627786
+  },
+  "low_onset_rate": {
+   "median": 6.216666666666667,
+   "iqr": 1.5083333333333329
+  },
+  "lufs": {
+   "median": -9.815996258718549,
+   "iqr": 4.944774244165908
+  },
+  "rms_dbfs": {
+   "median": -9.425435509839618,
+   "iqr": 4.5911120016176605
+  },
+  "crest": {
+   "median": 9.425436019897461,
+   "iqr": 4.591112971305847
+  },
+  "centroid": {
+   "median": 1905.9535702267979,
+   "iqr": 240.28363394473058
+  },
+  "flatness": {
+   "median": 0.012827449943870306,
+   "iqr": 0.009295153082348406
+  },
+  "sub100_share": {
+   "median": 0.3114788234233856,
+   "iqr": 0.11969244107604027
+  },
+  "lowest_pitch": {
+   "median": 49.7955322265625,
+   "iqr": 21.533203125
+  },
+  "harmonic_share": {
+   "median": 0.8576700389385223,
+   "iqr": 0.0843680202960968
+  },
+  "clean_share": {
+   "median": 0.21207430340557276,
+   "iqr": 0.4127321981424149
+  },
+  "minor_share": {
+   "median": -0.06958252734116138,
+   "iqr": 0.21651068637021995
+  },
+  "chord_rate": {
+   "median": 1.0833333333333335,
+   "iqr": 0.5916666666666667
+  },
+  "repetitiveness": {
+   "median": 0.7320409417152405,
+   "iqr": 0.07177039980888367
+  },
+  "vocal_share": {
+   "median": 0.15510082989931107,
+   "iqr": 0.14172685705125332
+  },
+  "vocal_voiced": {
+   "median": 0.6597099558048491,
+   "iqr": 0.428817660700465
+  },
+  "song_length": {
+   "median": 435.38,
+   "iqr": 57.26675
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

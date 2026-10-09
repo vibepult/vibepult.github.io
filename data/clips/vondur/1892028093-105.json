@@ -1,0 +1,32 @@
+{
+ "id": "vondur/1892028093-105",
+ "band": "vondur",
+ "title": "Fjórði Ríkins Uppgangur",
+ "source": "itunes",
+ "album": "Striðsyfirlýsing",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 7.566552281900501,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 7.799882087950296,
+  "lufs": -8.417380568604404,
+  "rms_dbfs": -10.222528392160072,
+  "crest": 10.222528457641602,
+  "centroid": 3844.830237135062,
+  "flatness": 0.07957562059164047,
+  "sub100_share": 0.17279650270938873,
+  "lowest_pitch": 29.608154296875,
+  "harmonic_share": 0.5765386819839478,
+  "clean_share": 0.0,
+  "minor_share": -0.18307418993320934,
+  "chord_rate": 2.1666339133195267,
+  "repetitiveness": 0.9728650450706482,
+  "vocal_share": 0.021184923127293587,
+  "vocal_voiced": 0.5235294117647059,
+  "song_length": 205.773
+ }
+}

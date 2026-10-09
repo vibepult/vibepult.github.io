@@ -1,0 +1,32 @@
+{
+ "id": "melvins/1891423096-108",
+ "band": "melvins",
+ "title": "Manky, Pt. 2",
+ "source": "itunes",
+ "album": "The Maggot",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 0.7999951625386997,
+  "tempo_var": 11.489305013223321,
+  "low_onset_rate": 0.1666656588622291,
+  "lufs": -8.754076449120971,
+  "rms_dbfs": -8.031604438138606,
+  "crest": 8.031604766845703,
+  "centroid": 2129.1214200608124,
+  "flatness": 0.016056586056947708,
+  "sub100_share": 0.18742164969444275,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8721843361854553,
+  "clean_share": 0.16782675947409126,
+  "minor_share": -0.008265378711852012,
+  "chord_rate": 0.9999939531733746,
+  "repetitiveness": 0.9231634736061096,
+  "vocal_share": 0.015040348283946514,
+  "vocal_voiced": 0.34146341463414637,
+  "song_length": 226.638
+ }
+}

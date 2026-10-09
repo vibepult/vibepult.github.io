@@ -1,0 +1,32 @@
+{
+ "id": "l-homme-absurde/1683473730-103",
+ "band": "l-homme-absurde",
+ "title": "Soil",
+ "source": "itunes",
+ "album": "Stranger",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 2.5393371478446394,
+  "tempo_var": 37.25407037618055,
+  "low_onset_rate": 2.338863162488484,
+  "lufs": -10.844945639184198,
+  "rms_dbfs": -9.809054070101324,
+  "crest": 9.809054374694824,
+  "centroid": 2090.192506729095,
+  "flatness": 0.00862885918468237,
+  "sub100_share": 0.4610840976238251,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.7276036143302917,
+  "clean_share": 0.5973622963537626,
+  "minor_share": 0.13321149418586664,
+  "chord_rate": 0.9689575958880862,
+  "repetitiveness": 0.7516202330589294,
+  "vocal_share": 1.9105940737063065e-05,
+  "vocal_voiced": 0.0,
+  "song_length": 312.289
+ }
+}

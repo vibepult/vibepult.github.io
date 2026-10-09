@@ -1,0 +1,32 @@
+{
+ "id": "baroness/1688103157-107",
+ "band": "baroness",
+ "title": "Shine",
+ "source": "itunes",
+ "album": "Stone",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.0739344421277215,
+  "tempo_var": 1.602099545154632,
+  "low_onset_rate": 3.641944067303496,
+  "lufs": -26.305839057682658,
+  "rms_dbfs": -26.836011058361162,
+  "crest": 16.634912490844727,
+  "centroid": 1078.5768624891612,
+  "flatness": 0.0014041822869330645,
+  "sub100_share": 0.010429278016090393,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.967706561088562,
+  "clean_share": 0.9635376260667183,
+  "minor_share": 0.244746578249172,
+  "chord_rate": 0.9021329341027009,
+  "repetitiveness": 0.7375080585479736,
+  "vocal_share": 0.000249528355197981,
+  "vocal_voiced": 0.0,
+  "song_length": 391.867
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "neurosis/259502631-104",
+ "band": "neurosis",
+ "title": "Left to Wander",
+ "source": "itunes",
+ "album": "The Eye of Every Storm",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 6.281518207826213,
+  "tempo_var": 8.10702944299506,
+  "low_onset_rate": 8.219433399602385,
+  "lufs": -12.002742005567187,
+  "rms_dbfs": -10.090933079369425,
+  "crest": 10.090932846069336,
+  "centroid": 1735.2507657345768,
+  "flatness": 0.012036707252264023,
+  "sub100_share": 0.42910832166671753,
+  "lowest_pitch": 29.608154296875,
+  "harmonic_share": 0.7506985664367676,
+  "clean_share": 0.13886733902249807,
+  "minor_share": 0.18589754051705565,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.9606050848960876,
+  "vocal_share": 0.0002335910394322127,
+  "vocal_voiced": 0.022727272727272728,
+  "song_length": 490.6
+ }
+}

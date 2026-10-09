@@ -1,0 +1,32 @@
+{
+ "id": "darzamat/1240852768-105",
+ "band": "darzamat",
+ "title": "Fistful of Ashes",
+ "source": "itunes",
+ "album": "SemiDevilish",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 6.081044222470058,
+  "tempo_var": 5.412912766979791,
+  "low_onset_rate": 7.150238811036222,
+  "lufs": -7.419547231425333,
+  "rms_dbfs": -6.772778525219928,
+  "crest": 6.772778034210205,
+  "centroid": 2602.387977988502,
+  "flatness": 0.041947126388549805,
+  "sub100_share": 0.3527567982673645,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7756965160369873,
+  "clean_share": 0.011636927851047323,
+  "minor_share": 0.10278003534333213,
+  "chord_rate": 2.472512486059254,
+  "repetitiveness": 0.9035500884056091,
+  "vocal_share": 0.13242438435554504,
+  "vocal_voiced": 0.04963898916967509,
+  "song_length": 305.853
+ }
+}

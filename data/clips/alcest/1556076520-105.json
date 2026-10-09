@@ -1,0 +1,32 @@
+{
+ "id": "alcest/1556076520-105",
+ "band": "alcest",
+ "title": "L'éveil des Muses",
+ "source": "itunes",
+ "album": "Shelter (Deluxe Edition)",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.94265504533773,
+  "tempo_var": 1.6432772050915125,
+  "low_onset_rate": 3.174171434805799,
+  "lufs": -10.169207010034834,
+  "rms_dbfs": -10.245525611597932,
+  "crest": 10.245525360107422,
+  "centroid": 1570.2540620666653,
+  "flatness": 0.001132643548771739,
+  "sub100_share": 0.1732645183801651,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.9836689233779907,
+  "clean_share": 0.9371605896043445,
+  "minor_share": -0.06840494655712903,
+  "chord_rate": 0.801895941424623,
+  "repetitiveness": 0.9673558473587036,
+  "vocal_share": 1.2632065136131132e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 409.387
+ }
+}

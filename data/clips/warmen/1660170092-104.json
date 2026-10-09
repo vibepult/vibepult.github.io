@@ -1,0 +1,32 @@
+{
+ "id": "warmen/1660170092-104",
+ "band": "warmen",
+ "title": "Roppongi Rumble",
+ "source": "itunes",
+ "album": "Accept the Fact",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 6.248105876933521,
+  "tempo_var": 1.1993145039060573,
+  "low_onset_rate": 6.61564151675314,
+  "lufs": -7.622259954056676,
+  "rms_dbfs": -7.272472890499549,
+  "crest": 7.272472381591797,
+  "centroid": 2787.352547062509,
+  "flatness": 0.04461435601115227,
+  "sub100_share": 0.30857130885124207,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7383792400360107,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.0819877084722958,
+  "chord_rate": 1.3030809048150125,
+  "repetitiveness": 0.8145021796226501,
+  "vocal_share": 0.007920650765299797,
+  "vocal_voiced": 0.4461839530332681,
+  "song_length": 234.88
+ }
+}

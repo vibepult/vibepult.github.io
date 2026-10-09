@@ -1,0 +1,32 @@
+{
+ "id": "corvus-corax/737898742-107",
+ "band": "corvus-corax",
+ "title": "Grendel",
+ "source": "itunes",
+ "album": "Gimlie",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 5.813745575328517,
+  "tempo_var": 5.177399373093368,
+  "low_onset_rate": 5.34597294283082,
+  "lufs": -8.71275372903693,
+  "rms_dbfs": -7.602869550670627,
+  "crest": 7.602869033813477,
+  "centroid": 1931.1519065708596,
+  "flatness": 0.01324167288839817,
+  "sub100_share": 0.476229190826416,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6950634717941284,
+  "clean_share": 0.2125678820791311,
+  "minor_share": 0.07243974413250703,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.9629918336868286,
+  "vocal_share": 0.19711445271968842,
+  "vocal_voiced": 0.8196881091617934,
+  "song_length": 258.427
+ }
+}

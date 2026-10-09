@@ -1,0 +1,32 @@
+{
+ "id": "faith-no-more/83386606-105",
+ "band": "faith-no-more",
+ "title": "Zombie Eaters",
+ "source": "itunes",
+ "album": "The Real Thing",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.699445870328216,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.299493030300282,
+  "lufs": -22.45707828080379,
+  "rms_dbfs": -21.69266227622594,
+  "crest": 16.371543884277344,
+  "centroid": 2142.784596479132,
+  "flatness": 0.007831289432942867,
+  "sub100_share": 0.1901293247938156,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.9485232830047607,
+  "clean_share": 0.5846867749419954,
+  "minor_share": 0.17821926318070203,
+  "chord_rate": 0.8998938900628497,
+  "repetitiveness": 0.5796136856079102,
+  "vocal_share": 0.21005013585090637,
+  "vocal_voiced": 0.9453717754172989,
+  "song_length": 360.107
+ }
+}

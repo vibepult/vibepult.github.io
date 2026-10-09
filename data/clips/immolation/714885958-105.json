@@ -1,0 +1,32 @@
+{
+ "id": "immolation/714885958-105",
+ "band": "immolation",
+ "title": "Dead to Me",
+ "source": "itunes",
+ "album": "Harnessing Ruin",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.145498957474664,
+  "tempo_var": 5.343554062813681,
+  "low_onset_rate": 5.045261964796587,
+  "lufs": -12.129099376801541,
+  "rms_dbfs": -11.381068453419335,
+  "crest": 11.381068229675293,
+  "centroid": 1731.5724350165578,
+  "flatness": 0.011509314179420471,
+  "sub100_share": 0.2287408411502838,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.7521728277206421,
+  "clean_share": 0.4197051978277735,
+  "minor_share": -0.05269165013304922,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.7636836767196655,
+  "vocal_share": 0.050022419542074203,
+  "vocal_voiced": 0.9,
+  "song_length": 316.32
+ }
+}

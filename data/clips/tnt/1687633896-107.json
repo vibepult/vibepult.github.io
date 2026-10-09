@@ -1,0 +1,32 @@
+{
+ "id": "tnt/1687633896-107",
+ "band": "tnt",
+ "title": "You'll Be There",
+ "source": "itunes",
+ "album": "My Religion (DeLuxe Edition)",
+ "year": 2004,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.040522111235029,
+  "tempo_var": 2.796330530262291,
+  "low_onset_rate": 4.243366023371963,
+  "lufs": -8.0188878342107,
+  "rms_dbfs": -8.054827424418683,
+  "crest": 8.054827690124512,
+  "centroid": 2801.427441631413,
+  "flatness": 0.04065188392996788,
+  "sub100_share": 0.17827396094799042,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7278287410736084,
+  "clean_share": 0.0,
+  "minor_share": -0.1358529980691957,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.7554700374603271,
+  "vocal_share": 0.3191099166870117,
+  "vocal_voiced": 0.8861283643892339,
+  "song_length": 213.373
+ }
+}

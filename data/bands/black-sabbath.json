@@ -1,0 +1,127 @@
+{
+ "slug": "black-sabbath",
+ "name": "Black Sabbath",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 165907,
+  "deezer": 647,
+  "spotify": "5M52tdBnJaKSvOpJGz8mfZ"
+ },
+ "metadata": {
+  "formed": 1969,
+  "split": 2025,
+  "country": "GB",
+  "status": "split-up",
+  "members": 4,
+  "past_members": 21,
+  "full_lengths": 19,
+  "genre": "Heavy/Doom Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 3037954,
+  "themes": "Doom, Drugs, Life, Death, Religion, Fantasy",
+  "release_year": 1981
+ },
+ "partial": false,
+ "clips": [
+  "black-sabbath/787645011-103",
+  "black-sabbath/785239139-104",
+  "black-sabbath/785242007-106",
+  "black-sabbath/785231031-105",
+  "black-sabbath/785227765-104",
+  "black-sabbath/298099519-104",
+  "black-sabbath/40458848-106",
+  "black-sabbath/59401879-105",
+  "black-sabbath/145055958-105",
+  "black-sabbath/1748883041-104",
+  "black-sabbath/298103928-106",
+  "black-sabbath/1747285170-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 45.40972541360293
+  },
+  "onset_rate": {
+   "median": 4.0652441185113775,
+   "iqr": 1.400116405726842
+  },
+  "tempo_var": {
+   "median": 3.858691278106879,
+   "iqr": 11.34172425089239
+  },
+  "low_onset_rate": {
+   "median": 4.914440090302658,
+   "iqr": 1.64201161109931
+  },
+  "lufs": {
+   "median": -13.839232486955453,
+   "iqr": 3.8415910781988263
+  },
+  "rms_dbfs": {
+   "median": -13.479629272400064,
+   "iqr": 4.469027745052392
+  },
+  "crest": {
+   "median": 13.479496955871582,
+   "iqr": 4.453200340270996
+  },
+  "centroid": {
+   "median": 2561.3101464612946,
+   "iqr": 632.6081531118652
+  },
+  "flatness": {
+   "median": 0.025135141797363758,
+   "iqr": 0.01697178464382887
+  },
+  "sub100_share": {
+   "median": 0.17799759656190872,
+   "iqr": 0.11845877580344677
+  },
+  "lowest_pitch": {
+   "median": 71.3287353515625,
+   "iqr": 20.1873779296875
+  },
+  "harmonic_share": {
+   "median": 0.7454335391521454,
+   "iqr": 0.03573046624660492
+  },
+  "clean_share": {
+   "median": 0.08623356535189482,
+   "iqr": 0.12103634957463265
+  },
+  "minor_share": {
+   "median": 0.03155798987632158,
+   "iqr": 0.2071949087894684
+  },
+  "chord_rate": {
+   "median": 2.1824484526283072,
+   "iqr": 0.9665091573364342
+  },
+  "repetitiveness": {
+   "median": 0.8239694833755493,
+   "iqr": 0.08824770152568817
+  },
+  "vocal_share": {
+   "median": 0.16381793469190598,
+   "iqr": 0.1277514211833477
+  },
+  "vocal_voiced": {
+   "median": 0.888468246713833,
+   "iqr": 0.08070948476105033
+  },
+  "song_length": {
+   "median": 322.664,
+   "iqr": 73.58974999999998
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

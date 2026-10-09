@@ -1,0 +1,32 @@
+{
+ "id": "rage/1460469180-105",
+ "band": "rage",
+ "title": "Without You",
+ "source": "itunes",
+ "album": "Carved in Stone",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 2.138389177132328,
+  "tempo_var": 20.33786968584169,
+  "low_onset_rate": 2.7398111332007953,
+  "lufs": -14.671654723209443,
+  "rms_dbfs": -14.519826218387484,
+  "crest": 14.51982593536377,
+  "centroid": 2323.3903918089213,
+  "flatness": 0.014355488121509552,
+  "sub100_share": 0.04263942688703537,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.9024888277053833,
+  "clean_share": 0.5337470907680373,
+  "minor_share": -0.27380735785178834,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.5632489323616028,
+  "vocal_share": 0.41254258155822754,
+  "vocal_voiced": 0.8856152512998267,
+  "song_length": 345.227
+ }
+}

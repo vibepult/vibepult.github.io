@@ -1,0 +1,32 @@
+{
+ "id": "callisto/1494785482-103",
+ "band": "callisto",
+ "title": "Acts",
+ "source": "itunes",
+ "album": "Secret Youth",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.94265504533773,
+  "tempo_var": 8.955289771319894,
+  "low_onset_rate": 6.649053847645832,
+  "lufs": -8.090525010942022,
+  "rms_dbfs": -7.4180532970641995,
+  "crest": 7.418053150177002,
+  "centroid": 1927.1501643562597,
+  "flatness": 0.012646150775253773,
+  "sub100_share": 0.3009916841983795,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.834115743637085,
+  "clean_share": 0.10318076027928627,
+  "minor_share": 0.14227105994506611,
+  "chord_rate": 1.3030809048150125,
+  "repetitiveness": 0.8594743609428406,
+  "vocal_share": 0.11569802463054657,
+  "vocal_voiced": 0.7896551724137931,
+  "song_length": 302.994
+ }
+}

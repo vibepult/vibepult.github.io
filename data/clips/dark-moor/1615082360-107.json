@@ -1,0 +1,32 @@
+{
+ "id": "dark-moor/1615082360-107",
+ "band": "dark-moor",
+ "title": "The Sound of the Blade",
+ "source": "itunes",
+ "album": "The Hall of the Olden Dreams",
+ "year": 2000,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 2.7398111332007953,
+  "tempo_var": 40.86099042868183,
+  "low_onset_rate": 1.9379151917761723,
+  "lufs": -18.401108032397534,
+  "rms_dbfs": -17.773728201558544,
+  "crest": 14.71098518371582,
+  "centroid": 1409.8984449836132,
+  "flatness": 0.0017048640875145793,
+  "sub100_share": 0.07281946390867233,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.9628055691719055,
+  "clean_share": 0.969743987587277,
+  "minor_share": 0.306589558540603,
+  "chord_rate": 0.8353082723173156,
+  "repetitiveness": 0.6007373929023743,
+  "vocal_share": 0.22091390192508698,
+  "vocal_voiced": 0.5466666666666666,
+  "song_length": 240.133
+ }
+}

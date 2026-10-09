@@ -1,0 +1,32 @@
+{
+ "id": "obituary/273574571-105",
+ "band": "obituary",
+ "title": "Download",
+ "source": "itunes",
+ "album": "Back from the Dead",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 7.0306124916132235,
+  "tempo_var": 7.124560215383548,
+  "low_onset_rate": 8.063546080428436,
+  "lufs": -9.626203823658743,
+  "rms_dbfs": -9.464358534238222,
+  "crest": 9.46435832977295,
+  "centroid": 2775.397478913498,
+  "flatness": 0.035962771624326706,
+  "sub100_share": 0.2741585373878479,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.7941514849662781,
+  "clean_share": 0.0,
+  "minor_share": 0.009134398277070632,
+  "chord_rate": 1.9659058625837922,
+  "repetitiveness": 0.8635072708129883,
+  "vocal_share": 0.05538053438067436,
+  "vocal_voiced": 0.13861386138613863,
+  "song_length": 164.839
+ }
+}

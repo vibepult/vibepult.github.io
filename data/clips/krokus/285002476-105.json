@@ -1,0 +1,32 @@
+{
+ "id": "krokus/285002476-105",
+ "band": "krokus",
+ "title": "Shy Kid",
+ "source": "itunes",
+ "album": "Metal Rendez-Vous",
+ "year": 1980,
+ "itunes_year": 1980,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.8975312689316968,
+  "tempo_var": 0.0,
+  "low_onset_rate": 3.9641557350672816,
+  "lufs": -18.09878134842899,
+  "rms_dbfs": -18.083934017547413,
+  "crest": 17.424118041992188,
+  "centroid": 2523.8562484186473,
+  "flatness": 0.019348392263054848,
+  "sub100_share": 0.18617451190948486,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.5392988920211792,
+  "clean_share": 0.026295436968290797,
+  "minor_share": -0.17114953703488223,
+  "chord_rate": 0.8994302928303917,
+  "repetitiveness": 0.8545551896095276,
+  "vocal_share": 0.10276789963245392,
+  "vocal_voiced": 0.8333333333333334,
+  "song_length": 151.16
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "gojira/291261388-106",
+ "band": "gojira",
+ "title": "All the Tears",
+ "source": "itunes",
+ "album": "The Way of All Flesh",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 6.866666666666666,
+  "tempo_var": 1.9144700767178398,
+  "low_onset_rate": 5.666666666666667,
+  "lufs": -7.058198642805864,
+  "rms_dbfs": -6.629189405646972,
+  "crest": 6.629189968109131,
+  "centroid": 2852.8765678518885,
+  "flatness": 0.051238350570201874,
+  "sub100_share": 0.3498004376888275,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.748782753944397,
+  "clean_share": 0.0,
+  "minor_share": -0.00388283900576758,
+  "chord_rate": 1.8666666666666667,
+  "repetitiveness": 0.8550622463226318,
+  "vocal_share": 0.13658873736858368,
+  "vocal_voiced": 0.026687598116169546,
+  "song_length": 221.187
+ }
+}

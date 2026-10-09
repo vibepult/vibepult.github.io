@@ -1,0 +1,32 @@
+{
+ "id": "a-n-i-m-a-l/1442385882-105",
+ "band": "a-n-i-m-a-l",
+ "title": "Elección",
+ "source": "itunes",
+ "album": "Una Razón para Seguir",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.813745575328517,
+  "tempo_var": 23.50437236166168,
+  "low_onset_rate": 7.217063472821607,
+  "lufs": -6.350434632844923,
+  "rms_dbfs": -6.102976382422343,
+  "crest": 6.1029767990112305,
+  "centroid": 2437.411288111818,
+  "flatness": 0.035790663212537766,
+  "sub100_share": 0.23465897142887115,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.6773098111152649,
+  "clean_share": 0.0031031807602792862,
+  "minor_share": -0.08506342043920512,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.9020505547523499,
+  "vocal_share": 0.2630457580089569,
+  "vocal_voiced": 0.29457364341085274,
+  "song_length": 257.265
+ }
+}

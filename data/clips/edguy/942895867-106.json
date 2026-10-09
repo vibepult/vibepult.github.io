@@ -1,0 +1,32 @@
+{
+ "id": "edguy/942895867-106",
+ "band": "edguy",
+ "title": "Angel Rebellion",
+ "source": "itunes",
+ "album": "Kingdom of Madness",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.374645420161955,
+  "tempo_var": 9.805390085570014,
+  "low_onset_rate": 5.780333244435824,
+  "lufs": -13.222605656039509,
+  "rms_dbfs": -13.085265963521547,
+  "crest": 13.08526611328125,
+  "centroid": 2398.128442104775,
+  "flatness": 0.028498593717813492,
+  "sub100_share": 0.18477821350097656,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7837390899658203,
+  "clean_share": 0.30023273855702093,
+  "minor_share": 0.10427466333313018,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.628635585308075,
+  "vocal_share": 0.3006710708141327,
+  "vocal_voiced": 0.8773388773388774,
+  "song_length": 404.2
+ }
+}

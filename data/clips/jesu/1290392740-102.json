@@ -1,0 +1,32 @@
+{
+ "id": "jesu/1290392740-102",
+ "band": "jesu",
+ "title": "Comforter",
+ "source": "itunes",
+ "album": "Every Day I Get Closer to the Light from Which I Came",
+ "year": 2013,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.343603016050041,
+  "tempo_var": 0.0,
+  "low_onset_rate": 2.0047398535615577,
+  "lufs": -9.631565518776226,
+  "rms_dbfs": -8.245954066437546,
+  "crest": 8.245953559875488,
+  "centroid": 1595.220092098043,
+  "flatness": 0.004458257462829351,
+  "sub100_share": 0.48432543873786926,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.9148921966552734,
+  "clean_share": 0.7222653219550039,
+  "minor_share": -0.09226863295703702,
+  "chord_rate": 0.534597294283082,
+  "repetitiveness": 0.6979341506958008,
+  "vocal_share": 0.023496555164456367,
+  "vocal_voiced": 0.9231508165225745,
+  "song_length": 430.453
+ }
+}

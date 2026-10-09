@@ -1,0 +1,32 @@
+{
+ "id": "danzig/6793288172-106",
+ "band": "danzig",
+ "title": "Deth Red Moon",
+ "source": "itunes",
+ "album": "Deth Red Sabaoth",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.5,
+  "tempo_var": 3.8930785602498217,
+  "low_onset_rate": 2.6,
+  "lufs": -8.697921172264996,
+  "rms_dbfs": -8.392071647558215,
+  "crest": 8.392071723937988,
+  "centroid": 2061.812118374909,
+  "flatness": 0.012888764031231403,
+  "sub100_share": 0.22772815823554993,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.8343235850334167,
+  "clean_share": 0.27786377708978327,
+  "minor_share": 0.17460172010245378,
+  "chord_rate": 1.2666666666666666,
+  "repetitiveness": 0.7542983889579773,
+  "vocal_share": 0.268571674823761,
+  "vocal_voiced": 0.9238197424892703,
+  "song_length": 238.027
+ }
+}

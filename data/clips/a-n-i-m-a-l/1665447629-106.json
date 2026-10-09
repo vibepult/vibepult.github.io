@@ -1,0 +1,32 @@
+{
+ "id": "a-n-i-m-a-l/1665447629-106",
+ "band": "a-n-i-m-a-l",
+ "title": "Hambre",
+ "source": "itunes",
+ "album": "Fin De Un Mundo Enfermo",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 2.505924816951947,
+  "tempo_var": 16.45223961329959,
+  "low_onset_rate": 3.4080577510546477,
+  "lufs": -12.007651124291574,
+  "rms_dbfs": -11.802732691617631,
+  "crest": 11.802732467651367,
+  "centroid": 2245.5147353509165,
+  "flatness": 0.027199745178222656,
+  "sub100_share": 0.18205882608890533,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.7292963862419128,
+  "clean_share": 0.1768813033359193,
+  "minor_share": -0.10126470410668131,
+  "chord_rate": 2.67298647141541,
+  "repetitiveness": 0.919379472732544,
+  "vocal_share": 0.04092942923307419,
+  "vocal_voiced": 0.6132596685082873,
+  "song_length": 210.96
+ }
+}

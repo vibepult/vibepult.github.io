@@ -1,0 +1,32 @@
+{
+ "id": "mantar/1458743782-105",
+ "band": "mantar",
+ "title": "Born Reversed",
+ "source": "itunes",
+ "album": "Ode to the Flame",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 66.25600961538461,
+  "onset_rate": 0.801895941424623,
+  "tempo_var": 11.47154839813096,
+  "low_onset_rate": 3.9092427144450372,
+  "lufs": -7.448877701626028,
+  "rms_dbfs": -6.256627922429631,
+  "crest": 6.256628036499023,
+  "centroid": 2616.6547861840586,
+  "flatness": 0.03084585815668106,
+  "sub100_share": 0.48987454175949097,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8715673089027405,
+  "clean_share": 0.17145073700543056,
+  "minor_share": -0.03186024067927895,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.8893761038780212,
+  "vocal_share": 7.586029369122116e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 207.32
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "winterhorde/1680977834-105",
+ "band": "winterhorde",
+ "title": "Chronic Death",
+ "source": "itunes",
+ "album": "Maestro",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 7.484362119963148,
+  "tempo_var": 14.956687605574558,
+  "low_onset_rate": 7.283888134606992,
+  "lufs": -7.178075730412402,
+  "rms_dbfs": -6.650663649454273,
+  "crest": 6.650664329528809,
+  "centroid": 2420.8891803096726,
+  "flatness": 0.031054366379976273,
+  "sub100_share": 0.33816924691200256,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8078728914260864,
+  "clean_share": 0.0,
+  "minor_share": -0.004722121182040406,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.909397304058075,
+  "vocal_share": 0.20354002714157104,
+  "vocal_voiced": 0.8852201257861635,
+  "song_length": 383.8
+ }
+}

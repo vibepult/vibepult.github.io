@@ -1,0 +1,32 @@
+{
+ "id": "rammstein/1532029367-105",
+ "band": "rammstein",
+ "title": "Seemann",
+ "source": "itunes",
+ "album": "Herzeleid (Remastered 2020)",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "hand",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.698026601073048,
+  "tempo_var": 2.6215426842156613,
+  "low_onset_rate": 5.630328789021127,
+  "lufs": -17.248241022280215,
+  "rms_dbfs": -16.203673864050614,
+  "crest": 15.624700546264648,
+  "centroid": 1913.0956068913574,
+  "flatness": 0.012348559685051441,
+  "sub100_share": 0.4012259840965271,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.8794836401939392,
+  "clean_share": 0.5947409126063419,
+  "minor_share": -0.009841129968996887,
+  "chord_rate": 0.8995199840447954,
+  "repetitiveness": 0.5726383924484253,
+  "vocal_share": 0.17778818309307098,
+  "vocal_voiced": 0.8,
+  "song_length": 287.858
+ }
+}

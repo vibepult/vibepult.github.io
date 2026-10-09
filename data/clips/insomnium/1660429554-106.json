@@ -1,0 +1,32 @@
+{
+ "id": "insomnium/1660429554-106",
+ "band": "insomnium",
+ "title": "Under the Plaintive Sky",
+ "source": "itunes",
+ "album": "Since the Day It All Came Down",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.677726324976968,
+  "tempo_var": 1.6372324118226196,
+  "low_onset_rate": 6.248105876933521,
+  "lufs": -10.811123296149635,
+  "rms_dbfs": -10.400297839548784,
+  "crest": 10.400297164916992,
+  "centroid": 2724.7609681953386,
+  "flatness": 0.03372154384851456,
+  "sub100_share": 0.34605973958969116,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8054661750793457,
+  "clean_share": 0.04422032583397983,
+  "minor_share": 0.1601117679940255,
+  "chord_rate": 0.8687206032100082,
+  "repetitiveness": 0.7763586640357971,
+  "vocal_share": 0.08606927841901779,
+  "vocal_voiced": 0.26624548736462095,
+  "song_length": 249.973
+ }
+}

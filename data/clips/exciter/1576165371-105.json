@@ -1,0 +1,32 @@
+{
+ "id": "exciter/1576165371-105",
+ "band": "exciter",
+ "title": "Shadow of the Cross",
+ "source": "itunes",
+ "album": "Kill After Kill",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.809005721766959,
+  "tempo_var": 2.7766885842849103,
+  "low_onset_rate": 4.176541361586578,
+  "lufs": -14.871995310778216,
+  "rms_dbfs": -15.896119928742639,
+  "crest": 14.178291320800781,
+  "centroid": 2645.5328068711565,
+  "flatness": 0.030872786417603493,
+  "sub100_share": 0.16859348118305206,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7670879364013672,
+  "clean_share": 0.16369278510473234,
+  "minor_share": 0.07729129680566793,
+  "chord_rate": 1.7374412064200164,
+  "repetitiveness": 0.8852154016494751,
+  "vocal_share": 0.04456974193453789,
+  "vocal_voiced": 0.7329842931937173,
+  "song_length": 326.933
+ }
+}

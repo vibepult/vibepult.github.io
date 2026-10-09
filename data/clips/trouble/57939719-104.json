@@ -1,0 +1,32 @@
+{
+ "id": "trouble/57939719-104",
+ "band": "trouble",
+ "title": "Run to the Light",
+ "source": "itunes",
+ "album": "Run to the Light",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 78.30255681818181,
+  "onset_rate": 4.176541361586578,
+  "tempo_var": 19.745193436711112,
+  "low_onset_rate": 5.011849633903894,
+  "lufs": -16.629483146616092,
+  "rms_dbfs": -16.244865245341778,
+  "crest": 16.244600296020508,
+  "centroid": 2702.558933996879,
+  "flatness": 0.028635086491703987,
+  "sub100_share": 0.23583288490772247,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.6828750967979431,
+  "clean_share": 0.03801396431342126,
+  "minor_share": -0.050481129569385386,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.8253632187843323,
+  "vocal_share": 0.10609189420938492,
+  "vocal_voiced": 0.7961165048543689,
+  "song_length": 361.707
+ }
+}

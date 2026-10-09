@@ -1,0 +1,32 @@
+{
+ "id": "sirenia/1183624336-106",
+ "band": "sirenia",
+ "title": "Earendel",
+ "source": "itunes",
+ "album": "The Seventh Life Path",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.866666666666666,
+  "tempo_var": 15.25250503609756,
+  "low_onset_rate": 7.033333333333333,
+  "lufs": -8.520409142546812,
+  "rms_dbfs": -7.662106735150656,
+  "crest": 7.662107467651367,
+  "centroid": 2648.846024607582,
+  "flatness": 0.04958399012684822,
+  "sub100_share": 0.4765391945838928,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7880626320838928,
+  "clean_share": 0.0673374613003096,
+  "minor_share": 0.18784322822761568,
+  "chord_rate": 1.0333333333333334,
+  "repetitiveness": 0.8563978672027588,
+  "vocal_share": 0.033159516751766205,
+  "vocal_voiced": 0.29846153846153844,
+  "song_length": 373.653
+ }
+}

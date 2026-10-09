@@ -1,0 +1,127 @@
+{
+ "slug": "confess",
+ "name": "Confess",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1410830670,
+  "deezer": 876236,
+  "spotify": "6XFIRJcLodORR7cmCCL5Zw"
+ },
+ "metadata": {
+  "formed": 2010,
+  "split": null,
+  "country": "IR",
+  "status": "active",
+  "members": 8,
+  "past_members": 2,
+  "full_lengths": 4,
+  "genre": "Groove/Thrash Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 948,
+  "themes": "Anti-religion, Rebellion",
+  "release_year": 2018
+ },
+ "partial": false,
+ "clips": [
+  "confess/1479850737-105",
+  "confess/1388825422-107",
+  "confess/1580974625-106",
+  "confess/1774731359-105",
+  "confess/1479850737-106",
+  "confess/1388825422-108",
+  "confess/1580974625-105",
+  "confess/1774731359-106",
+  "confess/1479850737-104",
+  "confess/1388825422-106",
+  "confess/1580974625-107",
+  "confess/1774731359-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 101.37169471153845,
+   "iqr": 28.8818359375
+  },
+  "onset_rate": {
+   "median": 5.546446928186976,
+   "iqr": 1.174348883449282
+  },
+  "tempo_var": {
+   "median": 9.04262090225116,
+   "iqr": 10.547669503286237
+  },
+  "low_onset_rate": {
+   "median": 6.3817552005042915,
+   "iqr": 2.1186541752755925
+  },
+  "lufs": {
+   "median": -8.241226426920637,
+   "iqr": 1.1604596866963828
+  },
+  "rms_dbfs": {
+   "median": -7.795121785145524,
+   "iqr": 1.4980608333237528
+  },
+  "crest": {
+   "median": 7.795121908187866,
+   "iqr": 1.4980602264404297
+  },
+  "centroid": {
+   "median": 2692.576589895878,
+   "iqr": 350.12385944483685
+  },
+  "flatness": {
+   "median": 0.040589435026049614,
+   "iqr": 0.022712915670126677
+  },
+  "sub100_share": {
+   "median": 0.2670315355062485,
+   "iqr": 0.19270257279276848
+  },
+  "lowest_pitch": {
+   "median": 51.141357421875,
+   "iqr": 20.86029052734375
+  },
+  "harmonic_share": {
+   "median": 0.7330461740493774,
+   "iqr": 0.0876588523387909
+  },
+  "clean_share": {
+   "median": 0.0027068832173240526,
+   "iqr": 0.0252133436772692
+  },
+  "minor_share": {
+   "median": 0.016844483438541447,
+   "iqr": 0.12001947501842408
+  },
+  "chord_rate": {
+   "median": 1.8376781990980944,
+   "iqr": 0.7686123134027683
+  },
+  "repetitiveness": {
+   "median": 0.9237269461154938,
+   "iqr": 0.08484490215778351
+  },
+  "vocal_share": {
+   "median": 0.1650623083114624,
+   "iqr": 0.11014334671199322
+  },
+  "vocal_voiced": {
+   "median": 0.18383343563287158,
+   "iqr": 0.2741111770529656
+  },
+  "song_length": {
+   "median": 275.03999999999996,
+   "iqr": 38.91674999999998
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

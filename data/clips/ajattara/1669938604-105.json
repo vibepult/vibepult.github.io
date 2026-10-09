@@ -1,0 +1,32 @@
+{
+ "id": "ajattara/1669938604-105",
+ "band": "ajattara",
+ "title": "Ikiyössä",
+ "source": "itunes",
+ "album": "Kuolema",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 2.8066357949861804,
+  "tempo_var": 4.263256414560601e-14,
+  "low_onset_rate": 3.240996096591185,
+  "lufs": -8.615031882806873,
+  "rms_dbfs": -7.872382006489616,
+  "crest": 7.872382164001465,
+  "centroid": 2406.0021585000895,
+  "flatness": 0.031407684087753296,
+  "sub100_share": 0.39840617775917053,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.760351300239563,
+  "clean_share": 0.11404189294026378,
+  "minor_share": 0.03210900305401598,
+  "chord_rate": 2.338863162488484,
+  "repetitiveness": 0.8001901507377625,
+  "vocal_share": 0.12379807233810425,
+  "vocal_voiced": 0.05855338691159587,
+  "song_length": 201.933
+ }
+}

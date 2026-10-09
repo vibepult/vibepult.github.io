@@ -1,0 +1,32 @@
+{
+ "id": "darkestrah/1106605128-105",
+ "band": "darkestrah",
+ "title": "Bird of Prey",
+ "source": "itunes",
+ "album": "Turan",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 4.644313994084275,
+  "tempo_var": 7.367704961824439,
+  "low_onset_rate": 4.410427677835426,
+  "lufs": -11.220318316911674,
+  "rms_dbfs": -11.373824115532036,
+  "crest": 11.373824119567871,
+  "centroid": 2569.5689697481735,
+  "flatness": 0.03495240584015846,
+  "sub100_share": 0.23694777488708496,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7083351016044617,
+  "clean_share": 0.0,
+  "minor_share": -0.13161500425266992,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.8383148908615112,
+  "vocal_share": 0.053487829864025116,
+  "vocal_voiced": 0.25,
+  "song_length": 586.387
+ }
+}

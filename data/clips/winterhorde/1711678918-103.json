@@ -1,0 +1,32 @@
+{
+ "id": "winterhorde/1711678918-103",
+ "band": "winterhorde",
+ "title": "Angels in Disguise (feat. Kobi Farhi)",
+ "source": "itunes",
+ "album": "Neptunian",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 6.833168056403776,
+  "tempo_var": 2.1986884837070764,
+  "low_onset_rate": 8.399796830310983,
+  "lufs": -9.121080446001773,
+  "rms_dbfs": -8.221189215184511,
+  "crest": 8.221189498901367,
+  "centroid": 2143.5086530995313,
+  "flatness": 0.020870672538876534,
+  "sub100_share": 0.4270469844341278,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7556889057159424,
+  "clean_share": 0.030162412993039442,
+  "minor_share": 0.14082458792548136,
+  "chord_rate": 1.4999637196983897,
+  "repetitiveness": 0.8505475521087646,
+  "vocal_share": 0.15864184498786926,
+  "vocal_voiced": 0.2094736842105263,
+  "song_length": 378.2
+ }
+}

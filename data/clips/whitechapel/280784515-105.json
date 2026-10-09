@@ -1,0 +1,32 @@
+{
+ "id": "whitechapel/280784515-105",
+ "band": "whitechapel",
+ "title": "Exalt",
+ "source": "itunes",
+ "album": "This Is Exile",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 6.233333333333333,
+  "tempo_var": 22.383697033923852,
+  "low_onset_rate": 4.866666666666666,
+  "lufs": -8.900839455424203,
+  "rms_dbfs": -8.399573953083163,
+  "crest": 8.39957332611084,
+  "centroid": 2513.0617972689215,
+  "flatness": 0.03781915083527565,
+  "sub100_share": 0.3292740285396576,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.6176636815071106,
+  "clean_share": 0.006191950464396285,
+  "minor_share": -0.1872746637549076,
+  "chord_rate": 1.8,
+  "repetitiveness": 0.9273220896720886,
+  "vocal_share": 0.20917697250843048,
+  "vocal_voiced": 0.054600606673407485,
+  "song_length": 185.6
+ }
+}

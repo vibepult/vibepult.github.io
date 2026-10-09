@@ -1,0 +1,32 @@
+{
+ "id": "charon/705468158-105",
+ "band": "charon",
+ "title": "Air",
+ "source": "itunes",
+ "album": "Songs for the Sinners (Finnish version)",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 63.02400914634146,
+  "onset_rate": 2.5393371478446394,
+  "tempo_var": 7.7237419356734005,
+  "low_onset_rate": 3.4414700819473403,
+  "lufs": -11.308644179748566,
+  "rms_dbfs": -9.9947528689236,
+  "crest": 9.994752883911133,
+  "centroid": 1648.5166851699055,
+  "flatness": 0.00784918013960123,
+  "sub100_share": 0.434306263923645,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8988485336303711,
+  "clean_share": 0.7455391776570985,
+  "minor_share": 0.28737302701968614,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.5482854247093201,
+  "vocal_share": 0.15993352234363556,
+  "vocal_voiced": 0.836986301369863,
+  "song_length": 211.72
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "hypocrisy/1587904861-105",
+ "band": "hypocrisy",
+ "title": "Black Metal (Remastered)",
+ "source": "itunes",
+ "album": "Osculum Obscenum (Remastered)",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.4414700819473403,
+  "tempo_var": 22.49398940848923,
+  "low_onset_rate": 4.009479707123115,
+  "lufs": -8.454130745663816,
+  "rms_dbfs": -9.538743854458007,
+  "crest": 9.53874397277832,
+  "centroid": 3819.75797482055,
+  "flatness": 0.1439003050327301,
+  "sub100_share": 0.18174831569194794,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.5563198924064636,
+  "clean_share": 0.004654771140418929,
+  "minor_share": 0.11561598906852122,
+  "chord_rate": 2.1718015080250206,
+  "repetitiveness": 0.9509053230285645,
+  "vocal_share": 0.2841661870479584,
+  "vocal_voiced": 0.12191103789126853,
+  "song_length": 178.88
+ }
+}

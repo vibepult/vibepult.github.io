@@ -1,0 +1,32 @@
+{
+ "id": "brujeria/214478345-108",
+ "band": "brujeria",
+ "title": "La Ley de Plomo",
+ "source": "itunes",
+ "album": "Raza Odiada",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 4.811375648547738,
+  "tempo_var": 23.931707199496806,
+  "low_onset_rate": 6.548816854967755,
+  "lufs": -9.305524642875344,
+  "rms_dbfs": -8.31034784588879,
+  "crest": 8.310347557067871,
+  "centroid": 1957.1057783466106,
+  "flatness": 0.0161556638777256,
+  "sub100_share": 0.2524699568748474,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.6396116614341736,
+  "clean_share": 0.22187742435996896,
+  "minor_share": -0.255392129982044,
+  "chord_rate": 2.7063988023081027,
+  "repetitiveness": 0.9586310982704163,
+  "vocal_share": 0.19178543984889984,
+  "vocal_voiced": 0.01616161616161616,
+  "song_length": 166.453
+ }
+}

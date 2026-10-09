@@ -1,0 +1,32 @@
+{
+ "id": "amon-amarth/191430782-105",
+ "band": "amon-amarth",
+ "title": "Gods of War Arise",
+ "source": "itunes",
+ "album": "With Oden On Our Side",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.933333333333334,
+  "tempo_var": 2.2567223027645684,
+  "low_onset_rate": 6.866666666666666,
+  "lufs": -8.628976135588541,
+  "rms_dbfs": -7.731619699221986,
+  "crest": 7.731619358062744,
+  "centroid": 2694.0443693576663,
+  "flatness": 0.04354958236217499,
+  "sub100_share": 0.4522619843482971,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6841075420379639,
+  "clean_share": 0.0007739938080495357,
+  "minor_share": 0.08487256412136218,
+  "chord_rate": 1.6333333333333333,
+  "repetitiveness": 0.9064131379127502,
+  "vocal_share": 0.09705986827611923,
+  "vocal_voiced": 0.057297297297297295,
+  "song_length": 362.373
+ }
+}

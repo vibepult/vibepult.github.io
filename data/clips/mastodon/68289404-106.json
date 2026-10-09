@@ -1,0 +1,32 @@
+{
+ "id": "mastodon/68289404-106",
+ "band": "mastodon",
+ "title": "Burning Man",
+ "source": "itunes",
+ "album": "Remission",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 7.466553793593445,
+  "tempo_var": 13.657127079654902,
+  "low_onset_rate": 8.533204335535366,
+  "lufs": -8.312261599518356,
+  "rms_dbfs": -8.901828939478275,
+  "crest": 8.90182876586914,
+  "centroid": 2676.443385395302,
+  "flatness": 0.04423820227384567,
+  "sub100_share": 0.30634012818336487,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7113996148109436,
+  "clean_share": 0.0,
+  "minor_share": 0.07289317912510118,
+  "chord_rate": 2.766624843161857,
+  "repetitiveness": 0.9202280640602112,
+  "vocal_share": 0.0656973123550415,
+  "vocal_voiced": 0.2298507462686567,
+  "song_length": 166.893
+ }
+}

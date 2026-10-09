@@ -1,0 +1,32 @@
+{
+ "id": "kauan/1153944186-104",
+ "band": "kauan",
+ "title": "Savu",
+ "source": "itunes",
+ "album": "Lumikuuro",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.3412330892692625,
+  "tempo_var": 2.4311789896570497,
+  "low_onset_rate": 2.3722754933811765,
+  "lufs": -11.71512933857262,
+  "rms_dbfs": -10.17110867765557,
+  "crest": 10.17110824584961,
+  "centroid": 1667.8497591358966,
+  "flatness": 0.0040069809183478355,
+  "sub100_share": 0.4334995746612549,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.833652138710022,
+  "clean_share": 0.7152831652443755,
+  "minor_share": 0.058890878974170224,
+  "chord_rate": 0.7684836105319304,
+  "repetitiveness": 0.7306583523750305,
+  "vocal_share": 3.476581468930817e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 251.0
+ }
+}

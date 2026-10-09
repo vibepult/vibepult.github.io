@@ -1,0 +1,127 @@
+{
+ "slug": "cathedral",
+ "name": "Cathedral",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 29438573,
+  "deezer": 7271,
+  "spotify": "5O7ziOtiFUyRMBJN1J4Tpv"
+ },
+ "metadata": {
+  "formed": 1989,
+  "split": 2013,
+  "country": "GB",
+  "status": "split-up",
+  "members": 4,
+  "past_members": 8,
+  "full_lengths": 10,
+  "genre": "Doom/Stoner Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 10157,
+  "themes": "Doom, Occultism, Dystopia, Science fiction, Lovelessness, Mythology, History, Films, Death",
+  "release_year": 1997
+ },
+ "partial": false,
+ "clips": [
+  "cathedral/65013942-104",
+  "cathedral/44656672-105",
+  "cathedral/65626369-106",
+  "cathedral/46628580-106",
+  "cathedral/310758889-105",
+  "cathedral/317902063-105",
+  "cathedral/1551713690-105",
+  "cathedral/965390461-104",
+  "cathedral/65013942-103",
+  "cathedral/44656672-106",
+  "cathedral/65626369-107",
+  "cathedral/46628580-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 107.85326086956522,
+   "iqr": 56.43715873222234
+  },
+  "onset_rate": {
+   "median": 2.6197000102664987,
+   "iqr": 1.2907591039131066
+  },
+  "tempo_var": {
+   "median": 5.929363287698404,
+   "iqr": 9.042368504091293
+  },
+  "low_onset_rate": {
+   "median": 5.022196495821817,
+   "iqr": 2.263685417979926
+  },
+  "lufs": {
+   "median": -11.013421474961614,
+   "iqr": 3.5701946722106523
+  },
+  "rms_dbfs": {
+   "median": -10.46613114698227,
+   "iqr": 2.8750424987706467
+  },
+  "crest": {
+   "median": 10.46613073348999,
+   "iqr": 2.87504243850708
+  },
+  "centroid": {
+   "median": 2200.4569109604463,
+   "iqr": 240.03873775450757
+  },
+  "flatness": {
+   "median": 0.016907354816794395,
+   "iqr": 0.008957745507359505
+  },
+  "sub100_share": {
+   "median": 0.22374559193849564,
+   "iqr": 0.05764160677790642
+  },
+  "lowest_pitch": {
+   "median": 65.9454345703125,
+   "iqr": 53.16009521484375
+  },
+  "harmonic_share": {
+   "median": 0.7452930212020874,
+   "iqr": 0.10202854871749878
+  },
+  "clean_share": {
+   "median": 0.2774212375734664,
+   "iqr": 0.33145849495733126
+  },
+  "minor_share": {
+   "median": -0.010607463445935827,
+   "iqr": 0.13756556105355877
+  },
+  "chord_rate": {
+   "median": 2.138389177132328,
+   "iqr": 0.8145429561296476
+  },
+  "repetitiveness": {
+   "median": 0.8498450219631195,
+   "iqr": 0.09205682575702667
+  },
+  "vocal_share": {
+   "median": 0.08178027346730232,
+   "iqr": 0.06437244825065136
+  },
+  "vocal_voiced": {
+   "median": 0.47171680778238156,
+   "iqr": 0.5810062212597377
+  },
+  "song_length": {
+   "median": 372.86699999999996,
+   "iqr": 155.78299999999996
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.5
+ },
+ "sources_failed": []
+}

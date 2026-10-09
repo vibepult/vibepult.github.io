@@ -1,0 +1,32 @@
+{
+ "id": "myrath/464009405-105",
+ "band": "myrath",
+ "title": "Sour Sigh",
+ "source": "itunes",
+ "album": "Tales of the Sands",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.076304368908501,
+  "tempo_var": 14.810718591952895,
+  "low_onset_rate": 2.2386261698104057,
+  "lufs": -12.387463202734112,
+  "rms_dbfs": -11.714114192396273,
+  "crest": 11.71411418914795,
+  "centroid": 2333.310293680278,
+  "flatness": 0.02960612252354622,
+  "sub100_share": 0.4903128743171692,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.6999184489250183,
+  "clean_share": 0.2560124127230411,
+  "minor_share": 0.11716508262969688,
+  "chord_rate": 2.7063988023081027,
+  "repetitiveness": 0.8353089690208435,
+  "vocal_share": 0.020450545474886894,
+  "vocal_voiced": 0.7692307692307693,
+  "song_length": 298.507
+ }
+}

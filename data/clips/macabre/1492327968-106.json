@@ -1,0 +1,32 @@
+{
+ "id": "macabre/1492327968-106",
+ "band": "macabre",
+ "title": "Countess Bathory",
+ "source": "itunes",
+ "album": "Grim Scary Tales (Remastered)",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 0.9689575958880862,
+  "tempo_var": 8.666222337142752,
+  "low_onset_rate": 3.4080577510546477,
+  "lufs": -8.599140785760609,
+  "rms_dbfs": -8.73762734476378,
+  "crest": 8.737627029418945,
+  "centroid": 3103.4135524270705,
+  "flatness": 0.04566853120923042,
+  "sub100_share": 0.3182399272918701,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.8201724290847778,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.10784998276348812,
+  "chord_rate": 2.138389177132328,
+  "repetitiveness": 0.7641447186470032,
+  "vocal_share": 0.08799468725919724,
+  "vocal_voiced": 0.6174863387978142,
+  "song_length": 206.173
+ }
+}

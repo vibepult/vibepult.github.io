@@ -1,0 +1,32 @@
+{
+ "id": "wormrot/1613218529-111",
+ "band": "wormrot",
+ "title": "Voiceless Choir",
+ "source": "itunes",
+ "album": "Hiss",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 6.582229185860447,
+  "tempo_var": 2.9174868283116524,
+  "low_onset_rate": 7.150238811036222,
+  "lufs": -8.400914642328491,
+  "rms_dbfs": -7.824451122637743,
+  "crest": 7.824450492858887,
+  "centroid": 2165.6832103295465,
+  "flatness": 0.02250257134437561,
+  "sub100_share": 0.30091577768325806,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7859333157539368,
+  "clean_share": 0.08688906128782002,
+  "minor_share": 0.04013340782624997,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.9043470025062561,
+  "vocal_share": 0.019587958231568336,
+  "vocal_voiced": 0.25851703406813625,
+  "song_length": 155.693
+ }
+}

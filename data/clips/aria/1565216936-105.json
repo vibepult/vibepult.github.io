@@ -1,0 +1,32 @@
+{
+ "id": "aria/1565216936-105",
+ "band": "aria",
+ "title": "Твой новый мир",
+ "source": "itunes",
+ "album": "Крещение огнём",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.312560611938127,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.582229185860447,
+  "lufs": -10.37770898700848,
+  "rms_dbfs": -9.838528145814806,
+  "crest": 9.83852767944336,
+  "centroid": 2454.3388795469086,
+  "flatness": 0.02324712835252285,
+  "sub100_share": 0.2701108753681183,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.7123084664344788,
+  "clean_share": 0.07447633824670287,
+  "minor_share": -0.0417270202683212,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.8007187247276306,
+  "vocal_share": 0.22191815078258514,
+  "vocal_voiced": 0.7257559958289885,
+  "song_length": 247.8
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "enthroned/1834733974-105",
+ "band": "enthroned",
+ "title": "Raviasamin",
+ "source": "itunes",
+ "album": "Ashspawn",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.933333333333334,
+  "tempo_var": 0.0,
+  "low_onset_rate": 8.233333333333333,
+  "lufs": -8.254124486491909,
+  "rms_dbfs": -8.280322567808266,
+  "crest": 8.280323028564453,
+  "centroid": 2467.12170059193,
+  "flatness": 0.036013539880514145,
+  "sub100_share": 0.313871294260025,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7096294164657593,
+  "clean_share": 0.006191950464396285,
+  "minor_share": 0.3263792426002073,
+  "chord_rate": 1.1666666666666667,
+  "repetitiveness": 0.9264809489250183,
+  "vocal_share": 0.3015572428703308,
+  "vocal_voiced": 0.13485113835376533,
+  "song_length": 266.074
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "body-count/1201912007-105",
+ "band": "body-count",
+ "title": "Raining in Blood / Postmortem 2017",
+ "source": "itunes",
+ "album": "Bloodlust",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 2.3984807808810444,
+  "tempo_var": 39.558384115883136,
+  "low_onset_rate": 1.6656116533896141,
+  "lufs": -8.241599600758233,
+  "rms_dbfs": -6.377499562541299,
+  "crest": 6.377499580383301,
+  "centroid": 2313.661869364021,
+  "flatness": 0.018108129501342773,
+  "sub100_share": 0.681795597076416,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8756592869758606,
+  "clean_share": 0.300077339520495,
+  "minor_share": 0.047374481720777184,
+  "chord_rate": 1.9654217509997447,
+  "repetitiveness": 0.8434925675392151,
+  "vocal_share": 0.0050302003510296345,
+  "vocal_voiced": 0.7079646017699115,
+  "song_length": 271.56
+ }
+}

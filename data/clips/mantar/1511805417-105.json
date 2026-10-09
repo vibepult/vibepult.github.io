@@ -1,0 +1,32 @@
+{
+ "id": "mantar/1511805417-105",
+ "band": "mantar",
+ "title": "Can I Run",
+ "source": "itunes",
+ "album": "Grungetown Hooligans II",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.143129030693886,
+  "tempo_var": 2.2563467449236416,
+  "low_onset_rate": 5.045261964796587,
+  "lufs": -8.78144170473208,
+  "rms_dbfs": -7.553930570808216,
+  "crest": 7.553930759429932,
+  "centroid": 2539.6365506212555,
+  "flatness": 0.027020184323191643,
+  "sub100_share": 0.46524834632873535,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7655186057090759,
+  "clean_share": 0.0791311093871218,
+  "minor_share": 0.12205216520428686,
+  "chord_rate": 1.336493235707705,
+  "repetitiveness": 0.8004509210586548,
+  "vocal_share": 0.10150819271802902,
+  "vocal_voiced": 0.47680690399137,
+  "song_length": 247.747
+ }
+}

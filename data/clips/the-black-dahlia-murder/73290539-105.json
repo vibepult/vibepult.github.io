@@ -1,0 +1,32 @@
+{
+ "id": "the-black-dahlia-murder/73290539-105",
+ "band": "the-black-dahlia-murder",
+ "title": "A Vulgar Picture",
+ "source": "itunes",
+ "album": "Miasma",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 7.899880576257351,
+  "tempo_var": 13.976442015641823,
+  "low_onset_rate": 7.966546235128721,
+  "lufs": -8.54697746109875,
+  "rms_dbfs": -8.386648354162036,
+  "crest": 8.386648178100586,
+  "centroid": 2599.37407842759,
+  "flatness": 0.04241684451699257,
+  "sub100_share": 0.2504560947418213,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.706042468547821,
+  "clean_share": 0.0,
+  "minor_share": -0.10872873211532458,
+  "chord_rate": 2.299965231062267,
+  "repetitiveness": 0.9387179613113403,
+  "vocal_share": 0.17504513263702393,
+  "vocal_voiced": 0.21335504885993486,
+  "song_length": 217.787
+ }
+}

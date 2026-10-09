@@ -1,0 +1,32 @@
+{
+ "id": "trivium/1499575032-106",
+ "band": "trivium",
+ "title": "The Defiant",
+ "source": "itunes",
+ "album": "What the Dead Men Say",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 6.131331265981177,
+  "tempo_var": 12.203490787669288,
+  "low_onset_rate": 5.098335237473479,
+  "lufs": -7.349376055998715,
+  "rms_dbfs": -6.9759297563444775,
+  "crest": 6.9759297370910645,
+  "centroid": 2562.938603412466,
+  "flatness": 0.04081694781780243,
+  "sub100_share": 0.2617574632167816,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.6787711381912231,
+  "clean_share": 0.0,
+  "minor_share": 0.2988289406605318,
+  "chord_rate": 1.432865458897775,
+  "repetitiveness": 0.8526588082313538,
+  "vocal_share": 0.26828640699386597,
+  "vocal_voiced": 0.340632603406326,
+  "song_length": 269.22
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "pantera/1163814147-106",
+ "band": "pantera",
+ "title": "Death Rattle",
+ "source": "itunes",
+ "album": "Reinventing the Steel",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 6.363319070239692,
+  "tempo_var": 6.961702135743174,
+  "low_onset_rate": 7.129582623200493,
+  "lufs": -7.14285661641228,
+  "rms_dbfs": -7.782231257552495,
+  "crest": 7.782231330871582,
+  "centroid": 3090.607662867488,
+  "flatness": 0.06776594370603561,
+  "sub100_share": 0.2725118398666382,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.6684063076972961,
+  "clean_share": 0.0,
+  "minor_share": 0.045693971193595334,
+  "chord_rate": 2.298790658882402,
+  "repetitiveness": 0.917490541934967,
+  "vocal_share": 0.12133274972438812,
+  "vocal_voiced": 0.2484076433121019,
+  "song_length": 197.5
+ }
+}

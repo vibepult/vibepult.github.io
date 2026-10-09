@@ -1,0 +1,32 @@
+{
+ "id": "theatres-des-vampires/1058952452-105",
+ "band": "theatres-des-vampires",
+ "title": "Bloodlust",
+ "source": "itunes",
+ "album": "Suicide Vampire",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.513034597294284,
+  "tempo_var": 25.079991890016895,
+  "low_onset_rate": 7.8184854288900745,
+  "lufs": -9.72812950886564,
+  "rms_dbfs": -8.92243177205912,
+  "crest": 8.922431945800781,
+  "centroid": 2203.1918740046235,
+  "flatness": 0.016749069094657898,
+  "sub100_share": 0.3414224684238434,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.9004660844802856,
+  "clean_share": 0.20946470131885184,
+  "minor_share": 0.02317091071658456,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.6840316653251648,
+  "vocal_share": 0.09282504767179489,
+  "vocal_voiced": 0.40025740025740025,
+  "song_length": 271.733
+ }
+}

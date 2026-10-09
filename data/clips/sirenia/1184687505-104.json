@@ -1,0 +1,32 @@
+{
+ "id": "sirenia/1184687505-104",
+ "band": "sirenia",
+ "title": "In a Manica",
+ "source": "itunes",
+ "album": "At Sixes and Sevens",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.966666666666667,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.433333333333334,
+  "lufs": -10.301435869764315,
+  "rms_dbfs": -9.191166774474283,
+  "crest": 9.191166877746582,
+  "centroid": 2107.813770982868,
+  "flatness": 0.01452593132853508,
+  "sub100_share": 0.34471243619918823,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8575776219367981,
+  "clean_share": 0.32120743034055727,
+  "minor_share": 0.15106693749407818,
+  "chord_rate": 0.8333333333333334,
+  "repetitiveness": 0.8589977622032166,
+  "vocal_share": 0.08063328266143799,
+  "vocal_voiced": 0.7170542635658915,
+  "song_length": 363.8
+ }
+}

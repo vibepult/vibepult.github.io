@@ -1,0 +1,32 @@
+{
+ "id": "anthrax/932619879-105",
+ "band": "anthrax",
+ "title": "Subjugator",
+ "source": "itunes",
+ "album": "Fistful of Metal",
+ "year": 1984,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 0.5333301083591331,
+  "tempo_var": 28.43132464401321,
+  "low_onset_rate": 4.06664207623839,
+  "lufs": -14.253339103050015,
+  "rms_dbfs": -14.729134959140353,
+  "crest": 14.729135513305664,
+  "centroid": 3072.473510786454,
+  "flatness": 0.06886787712574005,
+  "sub100_share": 0.2906859219074249,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.5831683278083801,
+  "clean_share": 0.013147718484145398,
+  "minor_share": 0.24874521362276225,
+  "chord_rate": 0.9666608214009288,
+  "repetitiveness": 0.9777995944023132,
+  "vocal_share": 0.09876876324415207,
+  "vocal_voiced": 0.6560975609756098,
+  "song_length": 282.64
+ }
+}

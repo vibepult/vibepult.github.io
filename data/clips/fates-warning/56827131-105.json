@@ -1,0 +1,32 @@
+{
+ "id": "fates-warning/56827131-105",
+ "band": "fates-warning",
+ "title": "Island in the Stream",
+ "source": "itunes",
+ "album": "Inside Out",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.575119405518111,
+  "tempo_var": 14.265219170567114,
+  "low_onset_rate": 3.2744084274838774,
+  "lufs": -15.267265133445461,
+  "rms_dbfs": -15.044377415721009,
+  "crest": 15.044376373291016,
+  "centroid": 2118.7713121203537,
+  "flatness": 0.009567161090672016,
+  "sub100_share": 0.14853014051914215,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.867720365524292,
+  "clean_share": 0.5197827773467805,
+  "minor_share": -0.12693791688797962,
+  "chord_rate": 1.1026069194588566,
+  "repetitiveness": 0.7300336360931396,
+  "vocal_share": 0.4193630516529083,
+  "vocal_voiced": 0.8461538461538461,
+  "song_length": 390.04
+ }
+}

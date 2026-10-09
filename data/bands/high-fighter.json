@@ -1,0 +1,127 @@
+{
+ "slug": "high-fighter",
+ "name": "High Fighter",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1118365633,
+  "deezer": 10448376,
+  "spotify": "1NpdATa8tL5ZLa9NR45Bt9"
+ },
+ "metadata": {
+  "formed": 2014,
+  "split": 2026,
+  "country": "DE",
+  "status": "split-up",
+  "members": 4,
+  "past_members": 1,
+  "full_lengths": 2,
+  "genre": "Sludge/Stoner Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 214,
+  "themes": "N/A",
+  "release_year": 2017
+ },
+ "partial": false,
+ "clips": [
+  "high-fighter/1497181852-104",
+  "high-fighter/1464038337-106",
+  "high-fighter/1497181852-103",
+  "high-fighter/1464038337-105",
+  "high-fighter/1497181852-105",
+  "high-fighter/1464038337-107",
+  "high-fighter/1497181852-102",
+  "high-fighter/1464038337-104",
+  "high-fighter/1497181852-106",
+  "high-fighter/1464038337-109",
+  "high-fighter/1497181852-101",
+  "high-fighter/1464038337-102"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.69701086956522,
+   "iqr": 42.53882323332577
+  },
+  "onset_rate": {
+   "median": 3.30782075837657,
+   "iqr": 1.9713275226688651
+  },
+  "tempo_var": {
+   "median": 7.8368637722544445,
+   "iqr": 14.304523632433934
+  },
+  "low_onset_rate": {
+   "median": 4.193247527032924,
+   "iqr": 1.8794436127139607
+  },
+  "lufs": {
+   "median": -11.329849210025563,
+   "iqr": 1.7643091325454172
+  },
+  "rms_dbfs": {
+   "median": -10.93386979887596,
+   "iqr": 1.766720178829173
+  },
+  "crest": {
+   "median": 10.9338698387146,
+   "iqr": 1.766719102859497
+  },
+  "centroid": {
+   "median": 2067.119037977944,
+   "iqr": 375.56014274081235
+  },
+  "flatness": {
+   "median": 0.01634528674185276,
+   "iqr": 0.01231725886464119
+  },
+  "sub100_share": {
+   "median": 0.39900803565979004,
+   "iqr": 0.11378778517246246
+  },
+  "lowest_pitch": {
+   "median": 64.599609375,
+   "iqr": 14.8040771484375
+  },
+  "harmonic_share": {
+   "median": 0.8321922421455383,
+   "iqr": 0.14720191061496735
+  },
+  "clean_share": {
+   "median": 0.35415050426687356,
+   "iqr": 0.5967804499612103
+  },
+  "minor_share": {
+   "median": 0.0312296443415227,
+   "iqr": 0.17338627369526294
+  },
+  "chord_rate": {
+   "median": 1.2195500775832808,
+   "iqr": 1.11096000218203
+  },
+  "repetitiveness": {
+   "median": 0.8134281933307648,
+   "iqr": 0.09808836877346039
+  },
+  "vocal_share": {
+   "median": 0.11321154236793518,
+   "iqr": 0.034280236810445786
+  },
+  "vocal_voiced": {
+   "median": 0.5973154362416108,
+   "iqr": 0.4841418346544253
+  },
+  "song_length": {
+   "median": 277.56949999999995,
+   "iqr": 86.18300000000002
+  },
+  "vocal_presence": {
+   "median": 0.5833333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

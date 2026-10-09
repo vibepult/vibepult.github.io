@@ -1,0 +1,32 @@
+{
+ "id": "electric-wizard/965381927-104",
+ "band": "electric-wizard",
+ "title": "Barbarian",
+ "source": "itunes",
+ "album": "Dopethrone",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.799912321809194,
+  "tempo_var": 4.572628403929551,
+  "low_onset_rate": 6.166573445601729,
+  "lufs": -7.16811861853382,
+  "rms_dbfs": -5.303255262544589,
+  "crest": 5.303255081176758,
+  "centroid": 2602.228179833659,
+  "flatness": 0.021306795999407768,
+  "sub100_share": 0.6893749237060547,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.8944393992424011,
+  "clean_share": 0.0448569218870843,
+  "minor_share": -0.053017189940046006,
+  "chord_rate": 2.0333025955767865,
+  "repetitiveness": 0.7315909266471863,
+  "vocal_share": 0.022654766216874123,
+  "vocal_voiced": 0.296551724137931,
+  "song_length": 389.467
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "cryptopsy/1045198706-105",
+ "band": "cryptopsy",
+ "title": "Flame to the Surface",
+ "source": "itunes",
+ "album": "Whisper Supremacy",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.579859259079669,
+  "tempo_var": 4.200285762336313,
+  "low_onset_rate": 9.221803326383165,
+  "lufs": -9.066579398765374,
+  "rms_dbfs": -8.964543885628872,
+  "crest": 8.964544296264648,
+  "centroid": 2816.1060861736273,
+  "flatness": 0.043144118040800095,
+  "sub100_share": 0.3678573668003082,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.7878828048706055,
+  "clean_share": 0.0,
+  "minor_share": 0.07145610958292625,
+  "chord_rate": 3.040522111235029,
+  "repetitiveness": 0.9638351798057556,
+  "vocal_share": 0.08750473707914352,
+  "vocal_voiced": 0.06342494714587738,
+  "song_length": 185.133
+ }
+}

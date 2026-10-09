@@ -1,0 +1,32 @@
+{
+ "id": "lantlos/1556021361-104",
+ "band": "lantlos",
+ "title": "Neige De Mars",
+ "source": "itunes",
+ "album": ".Neon",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 8.353082723173156,
+  "tempo_var": 5.17727196088888,
+  "low_onset_rate": 6.916352494787374,
+  "lufs": -8.873953771989289,
+  "rms_dbfs": -7.347920503217962,
+  "crest": 7.3479204177856445,
+  "centroid": 2362.344014530727,
+  "flatness": 0.02289658971130848,
+  "sub100_share": 0.5276193022727966,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8212940692901611,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.05842843095483591,
+  "chord_rate": 2.071564515346943,
+  "repetitiveness": 0.9248212575912476,
+  "vocal_share": 0.07869421690702438,
+  "vocal_voiced": 0.6910755148741419,
+  "song_length": 303.547
+ }
+}

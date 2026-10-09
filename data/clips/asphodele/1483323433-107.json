@@ -1,0 +1,32 @@
+{
+ "id": "asphodele/1483323433-107",
+ "band": "asphodele",
+ "title": "Réminiscences",
+ "source": "itunes",
+ "album": "Jours Pâles",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.4414700819473403,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.0428920380158075,
+  "lufs": -9.113814980986694,
+  "rms_dbfs": -8.544611781504424,
+  "crest": 8.544611930847168,
+  "centroid": 2311.42549667746,
+  "flatness": 0.021744385361671448,
+  "sub100_share": 0.2140275239944458,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7675263285636902,
+  "clean_share": 0.1582622187742436,
+  "minor_share": 0.31226627020909503,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.7015138864517212,
+  "vocal_share": 0.13244153559207916,
+  "vocal_voiced": 0.889922480620155,
+  "song_length": 289.767
+ }
+}

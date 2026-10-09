@@ -1,0 +1,32 @@
+{
+ "id": "cathedral/44656672-105",
+ "band": "cathedral",
+ "title": "Fountain of Innocence",
+ "source": "itunes",
+ "album": "The Ethereal Mirror",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 2.466666666666667,
+  "tempo_var": 22.447019689019836,
+  "low_onset_rate": 5.366666666666666,
+  "lufs": -12.142480143776142,
+  "rms_dbfs": -11.471221738525411,
+  "crest": 11.471221923828125,
+  "centroid": 2318.41676115774,
+  "flatness": 0.020897118374705315,
+  "sub100_share": 0.22315463423728943,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7303321361541748,
+  "clean_share": 0.2693498452012384,
+  "minor_share": 0.08200837716999188,
+  "chord_rate": 1.7333333333333334,
+  "repetitiveness": 0.7491134405136108,
+  "vocal_share": 0.030919700860977173,
+  "vocal_voiced": 0.6483516483516484,
+  "song_length": 433.4
+ }
+}

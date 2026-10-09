@@ -1,0 +1,32 @@
+{
+ "id": "myrath/1067485638-107",
+ "band": "myrath",
+ "title": "The Unburnt",
+ "source": "itunes",
+ "album": "Legacy",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 5.379385273723512,
+  "tempo_var": 1.7506299659511293,
+  "low_onset_rate": 6.415167531396984,
+  "lufs": -7.413282923235493,
+  "rms_dbfs": -7.274423726613116,
+  "crest": 7.274423599243164,
+  "centroid": 2565.3261752147855,
+  "flatness": 0.03587063401937485,
+  "sub100_share": 0.2258647233247757,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7888166904449463,
+  "clean_share": 0.0031031807602792862,
+  "minor_share": -0.002188420102081756,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.7787348628044128,
+  "vocal_share": 0.3213232159614563,
+  "vocal_voiced": 0.8164705882352942,
+  "song_length": 276.211
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "ajattara/1669937053-105",
+ "band": "ajattara",
+ "title": "Harhojen Virta",
+ "source": "itunes",
+ "album": "Kalmanto",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.207583765698492,
+  "tempo_var": 1.770061983592182,
+  "low_onset_rate": 6.448579862289677,
+  "lufs": -8.443630872438808,
+  "rms_dbfs": -7.27323475288873,
+  "crest": 7.2732343673706055,
+  "centroid": 2295.1910545203423,
+  "flatness": 0.019368262961506844,
+  "sub100_share": 0.38402044773101807,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7651669383049011,
+  "clean_share": 0.09930178432893716,
+  "minor_share": 0.12428453353227198,
+  "chord_rate": 2.472512486059254,
+  "repetitiveness": 0.8004266619682312,
+  "vocal_share": 0.19038905203342438,
+  "vocal_voiced": 0.12946428571428573,
+  "song_length": 246.667
+ }
+}

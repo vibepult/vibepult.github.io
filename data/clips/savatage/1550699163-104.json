@@ -1,0 +1,32 @@
+{
+ "id": "savatage/1550699163-104",
+ "band": "savatage",
+ "title": "Rage",
+ "source": "itunes",
+ "album": "Sirens",
+ "year": 1983,
+ "itunes_year": 1983,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.544077001406197,
+  "tempo_var": 2.575526416399748,
+  "low_onset_rate": 7.952134752460845,
+  "lufs": -12.293225411516401,
+  "rms_dbfs": -11.474696773528155,
+  "crest": 11.474696159362793,
+  "centroid": 2858.6395614175285,
+  "flatness": 0.03613314405083656,
+  "sub100_share": 0.4828302562236786,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8264321684837341,
+  "clean_share": 0.02948021722265322,
+  "minor_share": 0.0060798333145259675,
+  "chord_rate": 2.405687824273869,
+  "repetitiveness": 0.9233695864677429,
+  "vocal_share": 0.13202139735221863,
+  "vocal_voiced": 0.6224862888482633,
+  "song_length": 159.68
+ }
+}

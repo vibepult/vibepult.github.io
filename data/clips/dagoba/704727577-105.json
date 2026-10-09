@@ -1,0 +1,32 @@
+{
+ "id": "dagoba/704727577-105",
+ "band": "dagoba",
+ "title": "Kiss Me, Kraken",
+ "source": "itunes",
+ "album": "Post Mortem Nihil Est",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 6.61564151675314,
+  "tempo_var": 14.896903261152575,
+  "low_onset_rate": 7.684836105319304,
+  "lufs": -8.65321797869291,
+  "rms_dbfs": -8.0213327741678,
+  "crest": 8.021332740783691,
+  "centroid": 2816.150985321181,
+  "flatness": 0.049359891563653946,
+  "sub100_share": 0.44262197613716125,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7729411721229553,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": -0.005972828527966212,
+  "chord_rate": 2.071564515346943,
+  "repetitiveness": 0.937376856803894,
+  "vocal_share": 0.16137129068374634,
+  "vocal_voiced": 0.24484536082474226,
+  "song_length": 263.52
+ }
+}

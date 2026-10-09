@@ -1,0 +1,127 @@
+{
+ "slug": "acute-mind",
+ "name": "Acute Mind",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1237697146,
+  "deezer": 12460946,
+  "spotify": "7mwjY1Pb2o5A8k7ngkikGy"
+ },
+ "metadata": {
+  "formed": 2006,
+  "split": null,
+  "country": "PL",
+  "status": "active",
+  "members": 4,
+  "past_members": 10,
+  "full_lengths": 2,
+  "genre": "Progressive Metal/Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 30,
+  "themes": "Misery, Emotions, Human mind",
+  "release_year": 2015
+ },
+ "partial": false,
+ "clips": [
+  "acute-mind/1423177255-104",
+  "acute-mind/1522770126-105",
+  "acute-mind/1423177255-105",
+  "acute-mind/1522770126-104",
+  "acute-mind/1423177255-103",
+  "acute-mind/1522770126-106",
+  "acute-mind/1423177255-106",
+  "acute-mind/1522770126-103",
+  "acute-mind/1423177255-102",
+  "acute-mind/1522770126-107",
+  "acute-mind/1423177255-107",
+  "acute-mind/1522770126-102"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 99.38401442307692,
+   "iqr": 29.975197531960234
+  },
+  "onset_rate": {
+   "median": 3.2744084274838774,
+   "iqr": 1.7374412064200166
+  },
+  "tempo_var": {
+   "median": 14.035977098739814,
+   "iqr": 13.417092773326914
+  },
+  "low_onset_rate": {
+   "median": 4.243366023371964,
+   "iqr": 1.8710905299907874
+  },
+  "lufs": {
+   "median": -11.428300741163412,
+   "iqr": 2.233970759286919
+  },
+  "rms_dbfs": {
+   "median": -11.186570261409964,
+   "iqr": 3.26508243476224
+  },
+  "crest": {
+   "median": 11.186570644378662,
+   "iqr": 3.265082836151123
+  },
+  "centroid": {
+   "median": 1974.3576918972797,
+   "iqr": 512.8788616195257
+  },
+  "flatness": {
+   "median": 0.014250947162508965,
+   "iqr": 0.017161403317004442
+  },
+  "sub100_share": {
+   "median": 0.2100396752357483,
+   "iqr": 0.11713961884379387
+  },
+  "lowest_pitch": {
+   "median": 79.4036865234375,
+   "iqr": 45.08514404296875
+  },
+  "harmonic_share": {
+   "median": 0.7862608432769775,
+   "iqr": 0.1408020704984665
+  },
+  "clean_share": {
+   "median": 0.3983708301008534,
+   "iqr": 0.4402637703646237
+  },
+  "minor_share": {
+   "median": 0.08175939838674924,
+   "iqr": 0.12207345806246533
+  },
+  "chord_rate": {
+   "median": 1.386611732046744,
+   "iqr": 0.7684836105319303
+  },
+  "repetitiveness": {
+   "median": 0.7781217694282532,
+   "iqr": 0.18341581523418427
+  },
+  "vocal_share": {
+   "median": 0.3116600215435028,
+   "iqr": 0.11588029935956001
+  },
+  "vocal_voiced": {
+   "median": 0.8741072941375805,
+   "iqr": 0.07711058835347906
+  },
+  "song_length": {
+   "median": 297.3825,
+   "iqr": 143.95825000000002
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

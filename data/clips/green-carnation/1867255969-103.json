@@ -1,0 +1,32 @@
+{
+ "id": "green-carnation/1867255969-103",
+ "band": "green-carnation",
+ "title": "Sweet to the Point of Bitter",
+ "source": "itunes",
+ "album": "A Dark Poem, Part II: Sanguis",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 6.0,
+  "tempo_var": 17.61500664638558,
+  "low_onset_rate": 7.6,
+  "lufs": -9.799102881028109,
+  "rms_dbfs": -8.597659010824984,
+  "crest": 8.59765911102295,
+  "centroid": 2442.162146081086,
+  "flatness": 0.026607725769281387,
+  "sub100_share": 0.408165842294693,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8356059789657593,
+  "clean_share": 0.03560371517027864,
+  "minor_share": 0.2384729228422754,
+  "chord_rate": 1.3666666666666667,
+  "repetitiveness": 0.8112865090370178,
+  "vocal_share": 0.13706378638744354,
+  "vocal_voiced": 0.8442280945757997,
+  "song_length": 358.0
+ }
+}

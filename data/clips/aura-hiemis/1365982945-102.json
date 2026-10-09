@@ -1,0 +1,32 @@
+{
+ "id": "aura-hiemis/1365982945-102",
+ "band": "aura-hiemis",
+ "title": "Penta Imperium",
+ "source": "itunes",
+ "album": "Five",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 1.6706165446346313,
+  "tempo_var": 6.175877362637366,
+  "low_onset_rate": 7.618011443533918,
+  "lufs": -9.790726837342158,
+  "rms_dbfs": -9.188421170490292,
+  "crest": 9.188421249389648,
+  "centroid": 2219.947249245773,
+  "flatness": 0.020220741629600525,
+  "sub100_share": 0.31266361474990845,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8896045088768005,
+  "clean_share": 0.1008533747090768,
+  "minor_share": 0.1796768869070413,
+  "chord_rate": 0.8353082723173156,
+  "repetitiveness": 0.6082669496536255,
+  "vocal_share": 0.08622860163450241,
+  "vocal_voiced": 0.958904109589041,
+  "song_length": 472.547
+ }
+}

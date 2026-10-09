@@ -1,0 +1,32 @@
+{
+ "id": "ajattara/1669938604-106",
+ "band": "ajattara",
+ "title": "Musta Leski",
+ "source": "itunes",
+ "album": "Kuolema",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 2.8734604567715656,
+  "tempo_var": 4.878812629918461,
+  "low_onset_rate": 5.880570237113902,
+  "lufs": -8.961958045800847,
+  "rms_dbfs": -8.42586063453595,
+  "crest": 8.425861358642578,
+  "centroid": 2622.5109649068613,
+  "flatness": 0.039942603558301926,
+  "sub100_share": 0.3497306704521179,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7684905529022217,
+  "clean_share": 0.010861132660977503,
+  "minor_share": -0.0037643511784841155,
+  "chord_rate": 1.336493235707705,
+  "repetitiveness": 0.7752771973609924,
+  "vocal_share": 0.11431808769702911,
+  "vocal_voiced": 0.21535393818544366,
+  "song_length": 190.507
+ }
+}

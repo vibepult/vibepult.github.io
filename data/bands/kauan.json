@@ -1,0 +1,127 @@
+{
+ "slug": "kauan",
+ "name": "Kauan",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1157658276,
+  "deezer": 283715,
+  "spotify": "2QgzO1Z5XYu9zj3nOYsXUa"
+ },
+ "metadata": {
+  "formed": 2005,
+  "split": null,
+  "country": "RU",
+  "status": "active",
+  "members": 5,
+  "past_members": 6,
+  "full_lengths": 11,
+  "genre": "Folk/Doom Metal (early); Post-Rock (later)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 2485,
+  "themes": "Nature, History, Memories, Mystery",
+  "release_year": 2011
+ },
+ "partial": false,
+ "clips": [
+  "kauan/1153944186-104",
+  "kauan/1153935253-103",
+  "kauan/1153912071-103",
+  "kauan/1894231320-104",
+  "kauan/1894225699-105",
+  "kauan/1894225980-104",
+  "kauan/1581073441-104",
+  "kauan/1544830897-104",
+  "kauan/1807902856-104",
+  "kauan/1153944186-103",
+  "kauan/1153935253-104",
+  "kauan/1153912071-102"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 83.441162109375,
+   "iqr": 18.601859681571597
+  },
+  "onset_rate": {
+   "median": 2.3054508315957913,
+   "iqr": 1.1409085899575167
+  },
+  "tempo_var": {
+   "median": 14.873796019228063,
+   "iqr": 12.519691399312512
+  },
+  "low_onset_rate": {
+   "median": 3.32027359587301,
+   "iqr": 1.7150460005778343
+  },
+  "lufs": {
+   "median": -14.974725303426156,
+   "iqr": 6.557886316483552
+  },
+  "rms_dbfs": {
+   "median": -13.864404341673975,
+   "iqr": 7.094699357756676
+  },
+  "crest": {
+   "median": 13.86440372467041,
+   "iqr": 5.1179070472717285
+  },
+  "centroid": {
+   "median": 1652.7295223749927,
+   "iqr": 347.0791970805051
+  },
+  "flatness": {
+   "median": 0.004289953038096428,
+   "iqr": 0.006154641887405887
+  },
+  "sub100_share": {
+   "median": 0.3884155601263046,
+   "iqr": 0.2996807787567377
+  },
+  "lowest_pitch": {
+   "median": 47.1038818359375,
+   "iqr": 39.70184326171875
+  },
+  "harmonic_share": {
+   "median": 0.8727254569530487,
+   "iqr": 0.09810122847557068
+  },
+  "clean_share": {
+   "median": 0.7862453252789833,
+   "iqr": 0.2858803775416592
+  },
+  "minor_share": {
+   "median": 0.07519826022108062,
+   "iqr": 0.12290267361904053
+  },
+  "chord_rate": {
+   "median": 1.1012553946897274,
+   "iqr": 0.534040784084029
+  },
+  "repetitiveness": {
+   "median": 0.7437553107738495,
+   "iqr": 0.09440864622592926
+  },
+  "vocal_share": {
+   "median": 0.48706044256687164,
+   "iqr": 0.18560443818569183
+  },
+  "vocal_voiced": {
+   "median": 0.8762813378631678,
+   "iqr": 0.05411638940955954
+  },
+  "song_length": {
+   "median": 420.932,
+   "iqr": 164.6015
+  },
+  "vocal_presence": {
+   "median": 0.16666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "obscura",
+ "name": "Obscura",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 42373693,
+  "deezer": 983172,
+  "spotify": "7i82bJxWj1Tggc7pnU1hzt"
+ },
+ "metadata": {
+  "formed": 2002,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 4,
+  "past_members": 17,
+  "full_lengths": 7,
+  "genre": "Progressive/Technical Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 25711,
+  "themes": "Space, Philosophy",
+  "release_year": 2013
+ },
+ "partial": false,
+ "clips": [
+  "obscura/356117942-107",
+  "obscura/299199913-105",
+  "obscura/414335720-105",
+  "obscura/1053254298-104",
+  "obscura/1376758678-106",
+  "obscura/1571804497-106",
+  "obscura/1776828743-104",
+  "obscura/356117942-106",
+  "obscura/299199913-106",
+  "obscura/414335720-104",
+  "obscura/1053254298-105",
+  "obscura/1376758678-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.90049098320159,
+   "iqr": 21.2255859375
+  },
+  "onset_rate": {
+   "median": 6.0234604567715655,
+   "iqr": 2.9352262629750534
+  },
+  "tempo_var": {
+   "median": 12.642810756030235,
+   "iqr": 6.135445067809577
+  },
+  "low_onset_rate": {
+   "median": 6.999946838798103,
+   "iqr": 2.5205340040365334
+  },
+  "lufs": {
+   "median": -9.405210015116918,
+   "iqr": 1.655199474177877
+  },
+  "rms_dbfs": {
+   "median": -8.742626719325767,
+   "iqr": 1.4123834865663074
+  },
+  "crest": {
+   "median": 8.742626667022705,
+   "iqr": 1.4123835563659668
+  },
+  "centroid": {
+   "median": 2446.551292635769,
+   "iqr": 280.67097486203056
+  },
+  "flatness": {
+   "median": 0.027780093252658844,
+   "iqr": 0.0105811832472682
+  },
+  "sub100_share": {
+   "median": 0.332013338804245,
+   "iqr": 0.0909188985824585
+  },
+  "lowest_pitch": {
+   "median": 44.4122314453125,
+   "iqr": 16.82281494140625
+  },
+  "harmonic_share": {
+   "median": 0.7329193949699402,
+   "iqr": 0.050435587763786316
+  },
+  "clean_share": {
+   "median": 0.01588488688521834,
+   "iqr": 0.05656270662546041
+  },
+  "minor_share": {
+   "median": 0.004438740329288149,
+   "iqr": 0.25258310317103094
+  },
+  "chord_rate": {
+   "median": 1.9189970946677657,
+   "iqr": 0.6971900151757573
+  },
+  "repetitiveness": {
+   "median": 0.9372855424880981,
+   "iqr": 0.05198186635971069
+  },
+  "vocal_share": {
+   "median": 0.11369889974594116,
+   "iqr": 0.03827594220638275
+  },
+  "vocal_voiced": {
+   "median": 0.28453267162944584,
+   "iqr": 0.17512930180021696
+  },
+  "song_length": {
+   "median": 306.6215,
+   "iqr": 80.35700000000003
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.0,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

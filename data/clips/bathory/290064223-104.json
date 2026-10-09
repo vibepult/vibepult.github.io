@@ -1,0 +1,32 @@
+{
+ "id": "bathory/290064223-104",
+ "band": "bathory",
+ "title": "Father to Son",
+ "source": "itunes",
+ "album": "Hammerheart",
+ "year": 1990,
+ "itunes_year": 1990,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.8758303835523447,
+  "tempo_var": 0.0,
+  "low_onset_rate": 7.618011443533918,
+  "lufs": -10.984520248910584,
+  "rms_dbfs": -10.925474464343703,
+  "crest": 10.925474166870117,
+  "centroid": 2970.6008975617965,
+  "flatness": 0.04845815151929855,
+  "sub100_share": 0.2572011947631836,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7989386916160583,
+  "clean_share": 0.0,
+  "minor_share": 0.30682366761362656,
+  "chord_rate": 2.3722754933811765,
+  "repetitiveness": 0.8988960981369019,
+  "vocal_share": 0.13576960563659668,
+  "vocal_voiced": 0.7570564516129032,
+  "song_length": 389.133
+ }
+}

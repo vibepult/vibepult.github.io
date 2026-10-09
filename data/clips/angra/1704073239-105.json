@@ -1,0 +1,32 @@
+{
+ "id": "angra/1704073239-105",
+ "band": "angra",
+ "title": "Salvation: Suicide",
+ "source": "itunes",
+ "album": "Aurora Consurgens",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 2.4333186193885448,
+  "tempo_var": 23.8714965805848,
+  "low_onset_rate": 1.1666596120356036,
+  "lufs": -6.787770851012522,
+  "rms_dbfs": -6.078541750210461,
+  "crest": 6.0785417556762695,
+  "centroid": 2663.729549506386,
+  "flatness": 0.04098460078239441,
+  "sub100_share": 0.4836423099040985,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.8467031121253967,
+  "clean_share": 0.04640371229698376,
+  "minor_share": 0.10382718927286994,
+  "chord_rate": 1.499990929760062,
+  "repetitiveness": 0.9036546945571899,
+  "vocal_share": 5.112676149110484e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 261.667
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "nadja/387815063-104",
+ "band": "nadja",
+ "title": "Chainsaw",
+ "source": "itunes",
+ "album": "Belles Betes",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.544077001406197,
+  "tempo_var": 4.072254597721628,
+  "low_onset_rate": 8.820855355670853,
+  "lufs": -14.029199025012705,
+  "rms_dbfs": -13.12643454790579,
+  "crest": 13.126434326171875,
+  "centroid": 1935.5295507504177,
+  "flatness": 0.013333473354578018,
+  "sub100_share": 0.16118291020393372,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.8823005557060242,
+  "clean_share": 0.01474010861132661,
+  "minor_share": 0.12074806539246019,
+  "chord_rate": 0.8353082723173156,
+  "repetitiveness": 0.8732980489730835,
+  "vocal_share": 6.197949551278725e-05,
+  "vocal_voiced": 0.0,
+  "song_length": 419.84
+ }
+}

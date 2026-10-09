@@ -1,0 +1,32 @@
+{
+ "id": "serenity/1183626844-107",
+ "band": "serenity",
+ "title": "Caught in a Myth",
+ "source": "itunes",
+ "album": "Codex Atlanticus",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.233333333333333,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 6.4,
+  "lufs": -14.739599724029208,
+  "rms_dbfs": -13.34436034956516,
+  "crest": 13.3443603515625,
+  "centroid": 1272.620733312973,
+  "flatness": 0.0075647542253136635,
+  "sub100_share": 0.5237357020378113,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.7317372560501099,
+  "clean_share": 0.7469040247678018,
+  "minor_share": 0.027920008216342884,
+  "chord_rate": 1.7666666666666666,
+  "repetitiveness": 0.9108299016952515,
+  "vocal_share": 0.0014103756984695792,
+  "vocal_voiced": 0.7735849056603774,
+  "song_length": 333.09
+ }
+}

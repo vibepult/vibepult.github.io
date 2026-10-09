@@ -1,0 +1,32 @@
+{
+ "id": "masterplan/943476906-104",
+ "band": "masterplan",
+ "title": "I'm Not Afraid",
+ "source": "itunes",
+ "album": "Aeronautics (Deluxe Edition)",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.199941951166419,
+  "tempo_var": 14.496111698666878,
+  "low_onset_rate": 1.9999637194790116,
+  "lufs": -9.83326989398951,
+  "rms_dbfs": -9.005081993609114,
+  "crest": 9.005081176757812,
+  "centroid": 2276.404704923705,
+  "flatness": 0.017612872645258904,
+  "sub100_share": 0.4270845353603363,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.8413568139076233,
+  "clean_share": 0.16782675947409126,
+  "minor_share": 0.3417854332789604,
+  "chord_rate": 0.9999818597395058,
+  "repetitiveness": 0.6601880788803101,
+  "vocal_share": 0.10972864925861359,
+  "vocal_voiced": 0.7579281183932347,
+  "song_length": 329.893
+ }
+}

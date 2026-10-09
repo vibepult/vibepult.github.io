@@ -1,0 +1,32 @@
+{
+ "id": "nailbomb/280151959-111",
+ "band": "nailbomb",
+ "title": "Religious Cancer",
+ "source": "itunes",
+ "album": "Point Blank",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.0989646693999435,
+  "tempo_var": 0.0,
+  "low_onset_rate": 3.365542275369831,
+  "lufs": -13.372004713374826,
+  "rms_dbfs": -12.972573077082467,
+  "crest": 12.972573280334473,
+  "centroid": 2897.290950664367,
+  "flatness": 0.05780415236949921,
+  "sub100_share": 0.3741648197174072,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.5446696877479553,
+  "clean_share": 0.019334880123743233,
+  "minor_share": 0.07550116700430354,
+  "chord_rate": 2.8990314649225275,
+  "repetitiveness": 0.9789441227912903,
+  "vocal_share": 0.11109762638807297,
+  "vocal_voiced": 0.1231578947368421,
+  "song_length": 309.373
+ }
+}

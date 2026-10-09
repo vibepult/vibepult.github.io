@@ -1,0 +1,32 @@
+{
+ "id": "cult-of-luna/49241601-105",
+ "band": "cult-of-luna",
+ "title": "Circle",
+ "source": "itunes",
+ "album": "The Beyond",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 54.978390957446805,
+  "onset_rate": 2.1049768462396354,
+  "tempo_var": 6.0727746040149215,
+  "low_onset_rate": 8.586969039422005,
+  "lufs": -25.43066380247782,
+  "rms_dbfs": -25.178776720585113,
+  "crest": 15.041781425476074,
+  "centroid": 1152.6112988278378,
+  "flatness": 0.001638907822780311,
+  "sub100_share": 0.006609243340790272,
+  "lowest_pitch": 26.91650390625,
+  "harmonic_share": 0.9857016205787659,
+  "clean_share": 0.9200930954228084,
+  "minor_share": 0.07958589865617549,
+  "chord_rate": 1.1026069194588566,
+  "repetitiveness": 0.6510816216468811,
+  "vocal_share": 2.534078475946444e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 491.44
+ }
+}

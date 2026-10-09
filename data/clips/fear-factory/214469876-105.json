@@ -1,0 +1,32 @@
+{
+ "id": "fear-factory/214469876-105",
+ "band": "fear-factory",
+ "title": "Descent",
+ "source": "itunes",
+ "album": "Obsolete",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.5662461569157378,
+  "tempo_var": 5.274574403015112,
+  "low_onset_rate": 2.4330464435032604,
+  "lufs": -9.691640062024007,
+  "rms_dbfs": -8.73693225660028,
+  "crest": 8.736932754516602,
+  "centroid": 2891.6981498214313,
+  "flatness": 0.047806836664676666,
+  "sub100_share": 0.45603618025779724,
+  "lowest_pitch": 26.91650390625,
+  "harmonic_share": 0.8115776777267456,
+  "clean_share": 0.04176334106728538,
+  "minor_share": 0.2430376506460165,
+  "chord_rate": 1.666470166783055,
+  "repetitiveness": 0.8452137112617493,
+  "vocal_share": 0.24168813228607178,
+  "vocal_voiced": 0.7639109697933227,
+  "song_length": 276.507
+ }
+}

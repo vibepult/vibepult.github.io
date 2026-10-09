@@ -1,0 +1,127 @@
+{
+ "slug": "overkill",
+ "name": "Overkill",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 263455457,
+  "deezer": 5584,
+  "spotify": "0NmYchKQ8JIR9QHYJA0FRe"
+ },
+ "metadata": {
+  "formed": 1980,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 17,
+  "full_lengths": 20,
+  "genre": "Thrash Metal, Thrash/Groove Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 112854,
+  "themes": "Death, Violence, Rebellion, Metal, Society, War, Corruption, Humour",
+  "release_year": 1993
+ },
+ "partial": false,
+ "clips": [
+  "overkill/932619714-105",
+  "overkill/300981199-105",
+  "overkill/300982971-105",
+  "overkill/358595407-105",
+  "overkill/300973105-106",
+  "overkill/42031778-105",
+  "overkill/357796442-105",
+  "overkill/1713516362-105",
+  "overkill/1713522159-105",
+  "overkill/1713513628-105",
+  "overkill/1456950845-105",
+  "overkill/1456955588-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 113.203125,
+   "iqr": 41.53536137696476
+  },
+  "onset_rate": {
+   "median": 3.804570571033138,
+   "iqr": 1.8328073126228985
+  },
+  "tempo_var": {
+   "median": 16.421207170098874,
+   "iqr": 13.320994590160504
+  },
+  "low_onset_rate": {
+   "median": 5.649914589348612,
+   "iqr": 2.2570310432406435
+  },
+  "lufs": {
+   "median": -13.298338682344589,
+   "iqr": 3.643266081014108
+  },
+  "rms_dbfs": {
+   "median": -13.929375303797507,
+   "iqr": 4.838939494482254
+  },
+  "crest": {
+   "median": 13.55736494064331,
+   "iqr": 4.249833345413208
+  },
+  "centroid": {
+   "median": 2812.1931229738802,
+   "iqr": 351.9951462968188
+  },
+  "flatness": {
+   "median": 0.03701438568532467,
+   "iqr": 0.01563290785998106
+  },
+  "sub100_share": {
+   "median": 0.27424831688404083,
+   "iqr": 0.20383412390947342
+  },
+  "lowest_pitch": {
+   "median": 76.7120361328125,
+   "iqr": 37.01019287109375
+  },
+  "harmonic_share": {
+   "median": 0.7178736925125122,
+   "iqr": 0.11236664652824402
+  },
+  "clean_share": {
+   "median": 0.05993812838360402,
+   "iqr": 0.1260716683556562
+  },
+  "minor_share": {
+   "median": -0.002042411865376015,
+   "iqr": 0.1277457729051386
+  },
+  "chord_rate": {
+   "median": 2.0548583499005963,
+   "iqr": 0.7712592910754938
+  },
+  "repetitiveness": {
+   "median": 0.8455047607421875,
+   "iqr": 0.15545932948589325
+  },
+  "vocal_share": {
+   "median": 0.09994588047266006,
+   "iqr": 0.08603104436770082
+  },
+  "vocal_voiced": {
+   "median": 0.585919339841934,
+   "iqr": 0.2935186083883696
+  },
+  "song_length": {
+   "median": 314.304,
+   "iqr": 62.75649999999996
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

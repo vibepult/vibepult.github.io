@@ -1,0 +1,127 @@
+{
+ "slug": "elyose",
+ "name": "Elyose",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 499786753,
+  "deezer": 1612734,
+  "spotify": "0dG3N31PXKZKVipFUqY1jz"
+ },
+ "metadata": {
+  "formed": 2009,
+  "split": null,
+  "country": "FR",
+  "status": "active",
+  "members": 1,
+  "past_members": 8,
+  "full_lengths": 5,
+  "genre": "Industrial/Gothic/Symphonic Metal (early); Symphonic Metalcore/Djent/Nu-Metal (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 4981,
+  "themes": "Emotions, Social issues, Romance, Technology, Philosophy",
+  "release_year": 2020
+ },
+ "partial": false,
+ "clips": [
+  "elyose/1488582665-106",
+  "elyose/1474981702-105",
+  "elyose/1665196585-105",
+  "elyose/1777042310-105",
+  "elyose/1488582665-107",
+  "elyose/1474981702-104",
+  "elyose/1665196585-106",
+  "elyose/1777042310-106",
+  "elyose/1488582665-105",
+  "elyose/1474981702-106",
+  "elyose/1665196585-104",
+  "elyose/1777042310-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.69701086956522,
+   "iqr": 33.40407151442308
+  },
+  "onset_rate": {
+   "median": 4.7612571522086995,
+   "iqr": 1.7959127854822285
+  },
+  "tempo_var": {
+   "median": 12.232578194712627,
+   "iqr": 15.380642367931198
+  },
+  "low_onset_rate": {
+   "median": 5.763627078989478,
+   "iqr": 2.230273087087232
+  },
+  "lufs": {
+   "median": -9.540844983968661,
+   "iqr": 1.0946569307705758
+  },
+  "rms_dbfs": {
+   "median": -9.039114495521389,
+   "iqr": 0.9607659838172484
+  },
+  "crest": {
+   "median": 9.039114952087402,
+   "iqr": 0.9607663154602051
+  },
+  "centroid": {
+   "median": 2523.3037208744317,
+   "iqr": 223.9298175014992
+  },
+  "flatness": {
+   "median": 0.028712394647300243,
+   "iqr": 0.00771003682166338
+  },
+  "sub100_share": {
+   "median": 0.40794382989406586,
+   "iqr": 0.10906023532152176
+  },
+  "lowest_pitch": {
+   "median": 45.758056640625,
+   "iqr": 9.4207763671875
+  },
+  "harmonic_share": {
+   "median": 0.7609200477600098,
+   "iqr": 0.09178406000137329
+  },
+  "clean_share": {
+   "median": 0.04143544310025278,
+   "iqr": 0.05851553720366934
+  },
+  "minor_share": {
+   "median": 0.10527981321738485,
+   "iqr": 0.12131390070742229
+  },
+  "chord_rate": {
+   "median": 1.5350591860956784,
+   "iqr": 0.4928318806672163
+  },
+  "repetitiveness": {
+   "median": 0.8916950523853302,
+   "iqr": 0.04015552997589111
+  },
+  "vocal_share": {
+   "median": 0.16846472769975662,
+   "iqr": 0.1286349780857563
+  },
+  "vocal_voiced": {
+   "median": 0.7602370929662792,
+   "iqr": 0.17365494174285856
+  },
+  "song_length": {
+   "median": 253.5245,
+   "iqr": 45.47300000000001
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

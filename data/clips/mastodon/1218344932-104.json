@@ -1,0 +1,32 @@
+{
+ "id": "mastodon/1218344932-104",
+ "band": "mastodon",
+ "title": "The Czar: I. Usurper, II. Escape, III. Martyr, IV. Spiral",
+ "source": "itunes",
+ "album": "Crack the Skye",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.46402740768938,
+  "tempo_var": 1.5144730241663487,
+  "low_onset_rate": 4.163494480395889,
+  "lufs": -8.119933176792562,
+  "rms_dbfs": -8.402449603463728,
+  "crest": 8.402449607849121,
+  "centroid": 2573.616397167496,
+  "flatness": 0.030616523697972298,
+  "sub100_share": 0.23308324813842773,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8285547494888306,
+  "clean_share": 0.004640371229698376,
+  "minor_share": 0.168086011969248,
+  "chord_rate": 1.6320898363151886,
+  "repetitiveness": 0.8029861450195312,
+  "vocal_share": 0.1683836132287979,
+  "vocal_voiced": 0.5712062256809338,
+  "song_length": 654.283
+ }
+}

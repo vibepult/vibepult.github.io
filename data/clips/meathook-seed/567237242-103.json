@@ -1,0 +1,32 @@
+{
+ "id": "meathook-seed/567237242-103",
+ "band": "meathook-seed",
+ "title": "My Infinity",
+ "source": "itunes",
+ "album": "Embedded",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 3.9760673762304224,
+  "tempo_var": 12.933777259785264,
+  "low_onset_rate": 8.620381370314698,
+  "lufs": -13.77394703340728,
+  "rms_dbfs": -13.377921529371637,
+  "crest": 13.377922058105469,
+  "centroid": 2726.0492796003255,
+  "flatness": 0.039365220814943314,
+  "sub100_share": 0.3416805863380432,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.6864771842956543,
+  "clean_share": 0.005430566330488751,
+  "minor_share": 0.18652164414124145,
+  "chord_rate": 3.5082947437327254,
+  "repetitiveness": 0.9412944912910461,
+  "vocal_share": 0.10057873278856277,
+  "vocal_voiced": 0.4993103448275862,
+  "song_length": 181.0
+ }
+}

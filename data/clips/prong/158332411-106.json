@@ -1,0 +1,32 @@
+{
+ "id": "prong/158332411-106",
+ "band": "prong",
+ "title": "One Outnumbered",
+ "source": "itunes",
+ "album": "Cleansing",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 2.9981009761013055,
+  "tempo_var": 31.98101686565243,
+  "low_onset_rate": 3.297911073711436,
+  "lufs": -11.848237453246867,
+  "rms_dbfs": -11.938874041115579,
+  "crest": 11.938873291015625,
+  "centroid": 3047.912971434288,
+  "flatness": 0.05479009822010994,
+  "sub100_share": 0.2698155343532562,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.49821311235427856,
+  "clean_share": 0.0,
+  "minor_share": 0.012498774017823844,
+  "chord_rate": 1.765548352592991,
+  "repetitiveness": 0.917782187461853,
+  "vocal_share": 0.08812439441680908,
+  "vocal_voiced": 0.4765840220385675,
+  "song_length": 297.693
+ }
+}

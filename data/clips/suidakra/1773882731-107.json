@@ -1,0 +1,32 @@
+{
+ "id": "suidakra/1773882731-107",
+ "band": "suidakra",
+ "title": "The Heart of Darkness",
+ "source": "itunes",
+ "album": "Darkanakrad",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 8.566537164971052,
+  "tempo_var": 11.076477757612198,
+  "low_onset_rate": 8.166543211742832,
+  "lufs": -6.648659624079899,
+  "rms_dbfs": -6.19733246965652,
+  "crest": 6.197332382202148,
+  "centroid": 2882.191250514522,
+  "flatness": 0.05861250311136246,
+  "sub100_share": 0.4491947293281555,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8385631442070007,
+  "clean_share": 0.0,
+  "minor_share": 0.19387758631698995,
+  "chord_rate": 1.8666384483983613,
+  "repetitiveness": 0.9075177907943726,
+  "vocal_share": 0.054609451442956924,
+  "vocal_voiced": 0.0,
+  "song_length": 384.253
+ }
+}

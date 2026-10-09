@@ -1,0 +1,32 @@
+{
+ "id": "heathen-foray/1668338950-105",
+ "band": "heathen-foray",
+ "title": "Allvoll",
+ "source": "itunes",
+ "album": "Oathbreaker",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.410427677835426,
+  "tempo_var": 3.6364870023283546,
+  "low_onset_rate": 5.112086626581972,
+  "lufs": -8.235991171971715,
+  "rms_dbfs": -8.485905492532194,
+  "crest": 8.485904693603516,
+  "centroid": 2780.10232883229,
+  "flatness": 0.04812019690871239,
+  "sub100_share": 0.28033554553985596,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7585815787315369,
+  "clean_share": 0.0,
+  "minor_share": -0.27892218645658484,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.7702622413635254,
+  "vocal_share": 0.08099385350942612,
+  "vocal_voiced": 0.018916595012897677,
+  "song_length": 214.393
+ }
+}

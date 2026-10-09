@@ -1,0 +1,32 @@
+{
+ "id": "deep-purple/829213313-105",
+ "band": "deep-purple",
+ "title": "Breakfast In Bed",
+ "source": "itunes",
+ "album": "Slaves and Masters (Bonus Track Version)",
+ "year": 1990,
+ "itunes_year": 1990,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.4772523396208115,
+  "tempo_var": 0.0,
+  "low_onset_rate": 2.8066357949861804,
+  "lufs": -12.834322729462448,
+  "rms_dbfs": -13.038711937230422,
+  "crest": 13.038711547851562,
+  "centroid": 3128.0827316220616,
+  "flatness": 0.04127134382724762,
+  "sub100_share": 0.03538809344172478,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.6822478175163269,
+  "clean_share": 0.003878975950349108,
+  "minor_share": -0.1738844262078929,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.881233274936676,
+  "vocal_share": 0.3968278467655182,
+  "vocal_voiced": 0.8124410933081998,
+  "song_length": 315.227
+ }
+}

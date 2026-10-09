@@ -1,0 +1,32 @@
+{
+ "id": "helmet/1443558996-107",
+ "band": "helmet",
+ "title": "Broadcast Emotion",
+ "source": "itunes",
+ "album": "Aftertaste",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.066605191153573,
+  "tempo_var": 3.5895762567502913,
+  "low_onset_rate": 6.8998956931868,
+  "lufs": -10.588875272211984,
+  "rms_dbfs": -10.33805506302372,
+  "crest": 10.338054656982422,
+  "centroid": 2699.9845742960256,
+  "flatness": 0.04314479976892471,
+  "sub100_share": 0.25582969188690186,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7025337219238281,
+  "clean_share": 0.005413766434648105,
+  "minor_share": 0.1933058243841509,
+  "chord_rate": 2.0333025955767865,
+  "repetitiveness": 0.824973464012146,
+  "vocal_share": 0.13874083757400513,
+  "vocal_voiced": 0.6039260969976905,
+  "song_length": 164.773
+ }
+}

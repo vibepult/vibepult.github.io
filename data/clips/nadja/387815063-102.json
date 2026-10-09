@@ -1,0 +1,32 @@
+{
+ "id": "nadja/387815063-102",
+ "band": "nadja",
+ "title": "Beautiful Beast",
+ "source": "itunes",
+ "album": "Belles Betes",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.847157906221209,
+  "tempo_var": 3.9001765625757745,
+  "low_onset_rate": 9.68957595888086,
+  "lufs": -12.977633515543017,
+  "rms_dbfs": -12.028372968261587,
+  "crest": 12.028373718261719,
+  "centroid": 1996.7015471476755,
+  "flatness": 0.014991599135100842,
+  "sub100_share": 0.13321733474731445,
+  "lowest_pitch": 115.740966796875,
+  "harmonic_share": 0.844956636428833,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.1713158347820241,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.8710407614707947,
+  "vocal_share": 6.592648423975334e-05,
+  "vocal_voiced": 0.0,
+  "song_length": 810.773
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "akercocke/1304652606-105",
+ "band": "akercocke",
+ "title": "Marguerite & Gretchen",
+ "source": "itunes",
+ "album": "Rape of the Bastard Nazarene",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 5.412797604616205,
+  "tempo_var": 23.399864552550635,
+  "low_onset_rate": 8.152608737817001,
+  "lufs": -13.23189923269092,
+  "rms_dbfs": -12.240336827891669,
+  "crest": 12.240337371826172,
+  "centroid": 2130.9104454688577,
+  "flatness": 0.015245859511196613,
+  "sub100_share": 0.304193377494812,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.8464171290397644,
+  "clean_share": 0.08688906128782002,
+  "minor_share": 0.038253312590501354,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.906370222568512,
+  "vocal_share": 0.09443222731351852,
+  "vocal_voiced": 0.8757062146892656,
+  "song_length": 419.293
+ }
+}

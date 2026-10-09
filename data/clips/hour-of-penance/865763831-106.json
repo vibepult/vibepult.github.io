@@ -1,0 +1,32 @@
+{
+ "id": "hour-of-penance/865763831-106",
+ "band": "hour-of-penance",
+ "title": "Sealed into Ecstasy",
+ "source": "itunes",
+ "album": "Regicide",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.078674295689279,
+  "tempo_var": 15.523091214964632,
+  "low_onset_rate": 4.744550986762353,
+  "lufs": -6.4029217497992095,
+  "rms_dbfs": -5.733548125908734,
+  "crest": 5.733547687530518,
+  "centroid": 2475.8738970652726,
+  "flatness": 0.03226519376039505,
+  "sub100_share": 0.30949243903160095,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7465843558311462,
+  "clean_share": 0.0062063615205585725,
+  "minor_share": 0.05285887685967888,
+  "chord_rate": 2.1718015080250206,
+  "repetitiveness": 0.9440975785255432,
+  "vocal_share": 0.06553449481725693,
+  "vocal_voiced": 0.3393782383419689,
+  "song_length": 225.0
+ }
+}

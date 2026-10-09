@@ -1,0 +1,32 @@
+{
+ "id": "twisted-sister/1788378632-106",
+ "band": "twisted-sister",
+ "title": "Destroyer",
+ "source": "itunes",
+ "album": "Under the Blade (1985 Remix)",
+ "year": 1982,
+ "itunes_year": 1982,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 1.2666590073529411,
+  "tempo_var": 10.391915071007254,
+  "low_onset_rate": 2.933315595975232,
+  "lufs": -18.494217781853017,
+  "rms_dbfs": -19.850309501050816,
+  "crest": 19.850309371948242,
+  "centroid": 2015.1350124580742,
+  "flatness": 0.020103394985198975,
+  "sub100_share": 0.11679895222187042,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7834018468856812,
+  "clean_share": 0.48182521268368134,
+  "minor_share": -0.21382295049826167,
+  "chord_rate": 1.866655379256966,
+  "repetitiveness": 0.8199544548988342,
+  "vocal_share": 0.0806010365486145,
+  "vocal_voiced": 0.05305039787798409,
+  "song_length": 250.118
+ }
+}

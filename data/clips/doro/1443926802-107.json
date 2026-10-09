@@ -1,0 +1,32 @@
+{
+ "id": "doro/1443926802-107",
+ "band": "doro",
+ "title": "Hard Times",
+ "source": "itunes",
+ "album": "Force Majeure",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.377015346942734,
+  "tempo_var": 2.685858147755785,
+  "low_onset_rate": 5.045261964796587,
+  "lufs": -15.845040151587703,
+  "rms_dbfs": -16.2097480208983,
+  "crest": 16.209747314453125,
+  "centroid": 2566.0186633856533,
+  "flatness": 0.03210587054491043,
+  "sub100_share": 0.09585042297840118,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.693708062171936,
+  "clean_share": 0.027928626842513578,
+  "minor_share": -0.24081783473786722,
+  "chord_rate": 2.2386261698104057,
+  "repetitiveness": 0.79483562707901,
+  "vocal_share": 0.3695738911628723,
+  "vocal_voiced": 0.8835555555555555,
+  "song_length": 215.76
+ }
+}

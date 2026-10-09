@@ -1,0 +1,32 @@
+{
+ "id": "samson/1435787757-109",
+ "band": "samson",
+ "title": "Communion",
+ "source": "itunes",
+ "album": "Shock Tactics (Bonus Track Edition)",
+ "year": 1981,
+ "itunes_year": 1981,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.533333333333333,
+  "tempo_var": 9.026328390738337,
+  "low_onset_rate": 4.166666666666667,
+  "lufs": -12.301500665116974,
+  "rms_dbfs": -11.601596299435906,
+  "crest": 11.601595878601074,
+  "centroid": 1476.3047980176605,
+  "flatness": 0.0024504559114575386,
+  "sub100_share": 0.3716098368167877,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.9312974810600281,
+  "clean_share": 0.9102167182662538,
+  "minor_share": -0.19038219937806566,
+  "chord_rate": 1.1,
+  "repetitiveness": 0.5024376511573792,
+  "vocal_share": 0.2514598071575165,
+  "vocal_voiced": 0.9181708784596871,
+  "song_length": 391.053
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "stravaganzza/922088256-106",
+ "band": "stravaganzza",
+ "title": "Odio",
+ "source": "itunes",
+ "album": "Sentimientos",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 1.0023699267807789,
+  "tempo_var": 10.659058902950107,
+  "low_onset_rate": 1.069194588566164,
+  "lufs": -14.060577219975118,
+  "rms_dbfs": -13.793725448412717,
+  "crest": 13.793725967407227,
+  "centroid": 2495.8604641822103,
+  "flatness": 0.006832553539425135,
+  "sub100_share": 0.3681509494781494,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.8854497075080872,
+  "clean_share": 0.8487199379363848,
+  "minor_share": -0.11285934466893871,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.3931715488433838,
+  "vocal_share": 0.004177901428192854,
+  "vocal_voiced": 1.0,
+  "song_length": 380.627
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "serenity/1486896622-106",
+ "band": "serenity",
+ "title": "My Kingdom Comes",
+ "source": "itunes",
+ "album": "The Last Knight",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.9,
+  "tempo_var": 25.763617976409726,
+  "low_onset_rate": 7.2,
+  "lufs": -8.768491479372633,
+  "rms_dbfs": -8.068013288477603,
+  "crest": 8.068013191223145,
+  "centroid": 2080.7636447463574,
+  "flatness": 0.02100834622979164,
+  "sub100_share": 0.3046259582042694,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8218092918395996,
+  "clean_share": 0.2739938080495356,
+  "minor_share": -0.12139895761393804,
+  "chord_rate": 1.3,
+  "repetitiveness": 0.8352579474449158,
+  "vocal_share": 0.1306936889886856,
+  "vocal_voiced": 0.8467741935483871,
+  "song_length": 273.347
+ }
+}

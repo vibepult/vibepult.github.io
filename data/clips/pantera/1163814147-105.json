@@ -1,0 +1,32 @@
+{
+ "id": "pantera/1163814147-105",
+ "band": "pantera",
+ "title": "Revolution Is My Name",
+ "source": "itunes",
+ "album": "Reinventing the Steel",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.397299310549068,
+  "tempo_var": 15.20587190837345,
+  "low_onset_rate": 7.029815768678107,
+  "lufs": -7.374684970408051,
+  "rms_dbfs": -7.839080543605078,
+  "crest": 7.839080810546875,
+  "centroid": 2961.5926738275502,
+  "flatness": 0.05590615049004555,
+  "sub100_share": 0.25080329179763794,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.6840217709541321,
+  "clean_share": 0.0,
+  "minor_share": -0.15801673023378043,
+  "chord_rate": 2.3987996935773634,
+  "repetitiveness": 0.887410581111908,
+  "vocal_share": 0.12483902275562286,
+  "vocal_voiced": 0.5439560439560439,
+  "song_length": 315.767
+ }
+}

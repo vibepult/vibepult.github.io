@@ -1,0 +1,127 @@
+{
+ "slug": "idi-bihotz",
+ "name": "Idi Bihotz",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 188272338,
+  "deezer": 112404,
+  "spotify": "7BIeSSe53hoJr761JxpDaO"
+ },
+ "metadata": {
+  "formed": 1996,
+  "split": 2010,
+  "country": "ES",
+  "status": "split-up",
+  "members": 5,
+  "past_members": 1,
+  "full_lengths": 5,
+  "genre": "Heavy/Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 179,
+  "themes": "Basque nationalism",
+  "release_year": 1999
+ },
+ "partial": false,
+ "clips": [
+  "idi-bihotz/200790795-105",
+  "idi-bihotz/975171028-105",
+  "idi-bihotz/975285945-106",
+  "idi-bihotz/975196400-106",
+  "idi-bihotz/188272336-105",
+  "idi-bihotz/200790795-106",
+  "idi-bihotz/975171028-106",
+  "idi-bihotz/975285945-105",
+  "idi-bihotz/975196400-105",
+  "idi-bihotz/188272336-106",
+  "idi-bihotz/200790795-104",
+  "idi-bihotz/975171028-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 143.5546875,
+   "iqr": 33.837890625
+  },
+  "onset_rate": {
+   "median": 5.563153093633322,
+   "iqr": 2.1133299289628082
+  },
+  "tempo_var": {
+   "median": 15.404833112886262,
+   "iqr": 18.320010667560393
+  },
+  "low_onset_rate": {
+   "median": 6.348342869611598,
+   "iqr": 2.2720385007030988
+  },
+  "lufs": {
+   "median": -9.70786863556661,
+   "iqr": 2.201905389186056
+  },
+  "rms_dbfs": {
+   "median": -8.659642269975464,
+   "iqr": 2.19573559580407
+  },
+  "crest": {
+   "median": 8.659642219543457,
+   "iqr": 2.195735454559326
+  },
+  "centroid": {
+   "median": 2694.3487754649127,
+   "iqr": 159.59955021963015
+  },
+  "flatness": {
+   "median": 0.03226689621806145,
+   "iqr": 0.006329334806650877
+  },
+  "sub100_share": {
+   "median": 0.3735923618078232,
+   "iqr": 0.18612215667963028
+  },
+  "lowest_pitch": {
+   "median": 40.374755859375,
+   "iqr": 3.36456298828125
+  },
+  "harmonic_share": {
+   "median": 0.7632901072502136,
+   "iqr": 0.13276885449886322
+  },
+  "clean_share": {
+   "median": 0.031031807602792862,
+   "iqr": 0.10512024825446083
+  },
+  "minor_share": {
+   "median": 0.03628772881836029,
+   "iqr": 0.14550887011914398
+  },
+  "chord_rate": {
+   "median": 1.7708535373127092,
+   "iqr": 0.3675356398196188
+  },
+  "repetitiveness": {
+   "median": 0.840345710515976,
+   "iqr": 0.08094033598899841
+  },
+  "vocal_share": {
+   "median": 0.21189096570014954,
+   "iqr": 0.06945580989122391
+  },
+  "vocal_voiced": {
+   "median": 0.8229755178907722,
+   "iqr": 0.17617980797929644
+  },
+  "song_length": {
+   "median": 239.107,
+   "iqr": 51.59975
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

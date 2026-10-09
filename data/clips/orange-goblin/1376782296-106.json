@@ -1,0 +1,32 @@
+{
+ "id": "orange-goblin/1376782296-106",
+ "band": "orange-goblin",
+ "title": "Snail Hook",
+ "source": "itunes",
+ "album": "Time Travelling Blues",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.233333333333333,
+  "tempo_var": 9.770344271465241,
+  "low_onset_rate": 5.566666666666666,
+  "lufs": -9.61496707132605,
+  "rms_dbfs": -8.266360113181442,
+  "crest": 8.26636028289795,
+  "centroid": 2377.543080720181,
+  "flatness": 0.01877601630985737,
+  "sub100_share": 0.43096181750297546,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.856178879737854,
+  "clean_share": 0.23142414860681115,
+  "minor_share": -0.10542814008731871,
+  "chord_rate": 2.466666666666667,
+  "repetitiveness": 0.7004091739654541,
+  "vocal_share": 4.499029273574706e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 348.827
+ }
+}

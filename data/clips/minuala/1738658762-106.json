@@ -1,0 +1,32 @@
+{
+ "id": "minuala/1738658762-106",
+ "band": "minuala",
+ "title": "Гроза",
+ "source": "itunes",
+ "album": "В агонии",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.633263291560218,
+  "tempo_var": 14.123369003734728,
+  "low_onset_rate": 5.666581004066455,
+  "lufs": -8.517510067098087,
+  "rms_dbfs": -7.6394998338066165,
+  "crest": 7.639499664306641,
+  "centroid": 2273.173646757132,
+  "flatness": 0.024196825921535492,
+  "sub100_share": 0.3584892749786377,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8227919340133667,
+  "clean_share": 0.03634957463263728,
+  "minor_share": 0.0008511135953701565,
+  "chord_rate": 1.333313177427401,
+  "repetitiveness": 0.7717565298080444,
+  "vocal_share": 0.024531854316592216,
+  "vocal_voiced": 0.17670682730923695,
+  "song_length": 350.25
+ }
+}

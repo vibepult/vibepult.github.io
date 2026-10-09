@@ -1,0 +1,32 @@
+{
+ "id": "teitanblood/1434450308-104",
+ "band": "teitanblood",
+ "title": "Cadaver Synod",
+ "source": "itunes",
+ "album": "Death",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.377015346942734,
+  "tempo_var": 7.138812197664034,
+  "low_onset_rate": 10.224173253163944,
+  "lufs": -10.405807864307711,
+  "rms_dbfs": -10.085920033606623,
+  "crest": 10.085920333862305,
+  "centroid": 2196.803905386728,
+  "flatness": 0.009112589992582798,
+  "sub100_share": 0.2068694829940796,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.8515985012054443,
+  "clean_share": 0.10318076027928627,
+  "minor_share": -0.31918857949573376,
+  "chord_rate": 0.033412330892692625,
+  "repetitiveness": 0.9797685742378235,
+  "vocal_share": 0.0008958344114944339,
+  "vocal_voiced": 0.7533039647577092,
+  "song_length": 680.187
+ }
+}

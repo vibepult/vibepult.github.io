@@ -1,0 +1,32 @@
+{
+ "id": "volturian/1699045579-107",
+ "band": "volturian",
+ "title": "Distant Caress",
+ "source": "itunes",
+ "album": "Red Dragon",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.866519530777603,
+  "tempo_var": 11.067990097606407,
+  "low_onset_rate": 4.166540694158907,
+  "lufs": -10.931509190673081,
+  "rms_dbfs": -10.524625394223508,
+  "crest": 10.524625778198242,
+  "centroid": 1730.7996210991357,
+  "flatness": 0.004398444667458534,
+  "sub100_share": 0.098333939909935,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.9286265969276428,
+  "clean_share": 0.805877803557618,
+  "minor_share": 0.06953007688861368,
+  "chord_rate": 0.6999788366186963,
+  "repetitiveness": 0.867964506149292,
+  "vocal_share": 0.48245489597320557,
+  "vocal_voiced": 0.8943089430894309,
+  "song_length": 176.495
+ }
+}

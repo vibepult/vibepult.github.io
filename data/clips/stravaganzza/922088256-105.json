@@ -1,0 +1,32 @@
+{
+ "id": "stravaganzza/922088256-105",
+ "band": "stravaganzza",
+ "title": "Pasión",
+ "source": "itunes",
+ "album": "Sentimientos",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 2.505924816951947,
+  "tempo_var": 28.204154375069024,
+  "low_onset_rate": 2.338863162488484,
+  "lufs": -10.46788393132275,
+  "rms_dbfs": -9.896565430797223,
+  "crest": 9.896565437316895,
+  "centroid": 2279.671558336156,
+  "flatness": 0.022314492613077164,
+  "sub100_share": 0.29740241169929504,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.791817307472229,
+  "clean_share": 0.13809154383242825,
+  "minor_share": -0.20146205395710126,
+  "chord_rate": 0.6682466178538525,
+  "repetitiveness": 0.7990743517875671,
+  "vocal_share": 9.211477731696505e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 381.587
+ }
+}

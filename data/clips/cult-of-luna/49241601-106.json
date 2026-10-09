@@ -1,0 +1,32 @@
+{
+ "id": "cult-of-luna/49241601-106",
+ "band": "cult-of-luna",
+ "title": "Arrival",
+ "source": "itunes",
+ "album": "The Beyond",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.7087687290888813,
+  "tempo_var": 3.0263719819413564,
+  "low_onset_rate": 7.283888134606992,
+  "lufs": -7.472941578173944,
+  "rms_dbfs": -6.931590212731299,
+  "crest": 6.9315900802612305,
+  "centroid": 2254.3177987138783,
+  "flatness": 0.026023603975772858,
+  "sub100_share": 0.4554838538169861,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7987405061721802,
+  "clean_share": 0.0,
+  "minor_share": -0.10140857237269285,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.8994089365005493,
+  "vocal_share": 0.03958495333790779,
+  "vocal_voiced": 0.24627720504009165,
+  "song_length": 573.8
+ }
+}

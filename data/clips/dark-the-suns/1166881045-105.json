@@ -1,0 +1,32 @@
+{
+ "id": "dark-the-suns/1166881045-105",
+ "band": "dark-the-suns",
+ "title": "Don't Feel the Sleep",
+ "source": "itunes",
+ "album": "Sleepwalking in a Nighmare",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.379385273723512,
+  "tempo_var": 3.35120541107546,
+  "low_onset_rate": 6.916352494787374,
+  "lufs": -7.606164488227119,
+  "rms_dbfs": -7.204758936184076,
+  "crest": 7.204758644104004,
+  "centroid": 2448.681189401308,
+  "flatness": 0.031172143295407295,
+  "sub100_share": 0.3035784363746643,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8171010613441467,
+  "clean_share": 0.05896043444530644,
+  "minor_share": 0.18906136277261953,
+  "chord_rate": 0.8353082723173156,
+  "repetitiveness": 0.8525450229644775,
+  "vocal_share": 0.08663979917764664,
+  "vocal_voiced": 0.0,
+  "song_length": 274.16
+ }
+}

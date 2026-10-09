@@ -1,0 +1,32 @@
+{
+ "id": "cruachan/1571606738-106",
+ "band": "cruachan",
+ "title": "Cattle Raid of Cooley",
+ "source": "itunes",
+ "album": "The Middle Kingdom",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 6.147868884255443,
+  "tempo_var": 2.663373014953343,
+  "low_onset_rate": 5.813745575328517,
+  "lufs": -11.601775294797715,
+  "rms_dbfs": -10.583543021552051,
+  "crest": 10.583542823791504,
+  "centroid": 1079.0210870361118,
+  "flatness": 0.0009727196884341538,
+  "sub100_share": 0.24646541476249695,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.9507347941398621,
+  "clean_share": 0.9930178432893716,
+  "minor_share": -0.09168571102339873,
+  "chord_rate": 1.7374412064200164,
+  "repetitiveness": 0.9211805462837219,
+  "vocal_share": 6.355063533192151e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 284.947
+ }
+}

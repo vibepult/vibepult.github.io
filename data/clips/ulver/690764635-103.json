@@ -1,0 +1,32 @@
+{
+ "id": "ulver/690764635-103",
+ "band": "ulver",
+ "title": "Glamour Box (ostinati)",
+ "source": "itunes",
+ "album": "Messe I.X-VI.X",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.677726324976968,
+  "tempo_var": 2.7939791541872334,
+  "low_onset_rate": 1.7708535373127092,
+  "lufs": -19.333964000429344,
+  "rms_dbfs": -15.873208911377422,
+  "crest": 12.558694839477539,
+  "centroid": 380.6366273224823,
+  "flatness": 7.819586244295351e-06,
+  "sub100_share": 0.9043064713478088,
+  "lowest_pitch": 26.91650390625,
+  "harmonic_share": 0.9782902598381042,
+  "clean_share": 1.0,
+  "minor_share": -0.11470441585598468,
+  "chord_rate": 0.7016589487465451,
+  "repetitiveness": 0.6458740234375,
+  "vocal_share": 2.1339808142784022e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 371.4
+ }
+}

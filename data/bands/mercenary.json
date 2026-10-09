@@ -1,0 +1,127 @@
+{
+ "slug": "mercenary",
+ "name": "Mercenary",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 80073958,
+  "deezer": 161125,
+  "spotify": "7I4cvfefaKzYwdihC3n2y1"
+ },
+ "metadata": {
+  "formed": 1991,
+  "split": null,
+  "country": "DK",
+  "status": "active",
+  "members": 4,
+  "past_members": 13,
+  "full_lengths": 8,
+  "genre": "Melodic Death/Groove/Power Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 4942,
+  "themes": "Fantasy, Science fiction, Inner struggles",
+  "release_year": 2007
+ },
+ "partial": false,
+ "clips": [
+  "mercenary/1606815905-106",
+  "mercenary/1045612550-107",
+  "mercenary/1045639128-105",
+  "mercenary/1045630619-105",
+  "mercenary/1582914492-105",
+  "mercenary/1582919953-105",
+  "mercenary/1606815905-105",
+  "mercenary/1045612550-106",
+  "mercenary/1045639128-106",
+  "mercenary/1045630619-106",
+  "mercenary/1582914492-104",
+  "mercenary/1582919953-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 27.75390625
+  },
+  "onset_rate": {
+   "median": 4.627607828637928,
+   "iqr": 1.737441206420017
+  },
+  "tempo_var": {
+   "median": 12.923444298016639,
+   "iqr": 14.792526075189812
+  },
+  "low_onset_rate": {
+   "median": 6.498698358628715,
+   "iqr": 1.5620264692333796
+  },
+  "lufs": {
+   "median": -7.642529143733892,
+   "iqr": 2.9300325636696183
+  },
+  "rms_dbfs": {
+   "median": -7.651899337697949,
+   "iqr": 2.351741189380392
+  },
+  "crest": {
+   "median": 7.651899337768555,
+   "iqr": 2.351740837097168
+  },
+  "centroid": {
+   "median": 2676.7314794926174,
+   "iqr": 288.94835936913205
+  },
+  "flatness": {
+   "median": 0.03843970037996769,
+   "iqr": 0.01330184331163764
+  },
+  "sub100_share": {
+   "median": 0.3552432954311371,
+   "iqr": 0.2152482271194458
+  },
+  "lowest_pitch": {
+   "median": 55.1788330078125,
+   "iqr": 15.47698974609375
+  },
+  "harmonic_share": {
+   "median": 0.8281755745410919,
+   "iqr": 0.053452879190444946
+  },
+  "clean_share": {
+   "median": 0.0007757951900698216,
+   "iqr": 0.013382467028704423
+  },
+  "minor_share": {
+   "median": 0.03264671101117869,
+   "iqr": 0.1329698537645456
+  },
+  "chord_rate": {
+   "median": 1.603791882849246,
+   "iqr": 0.8269551895941427
+  },
+  "repetitiveness": {
+   "median": 0.8854158818721771,
+   "iqr": 0.072721466422081
+  },
+  "vocal_share": {
+   "median": 0.1591934710741043,
+   "iqr": 0.11331155337393284
+  },
+  "vocal_voiced": {
+   "median": 0.5624460316614253,
+   "iqr": 0.42670279838272085
+  },
+  "song_length": {
+   "median": 343.5535,
+   "iqr": 85.33050000000003
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

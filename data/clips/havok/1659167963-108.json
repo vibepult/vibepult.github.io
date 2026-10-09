@@ -1,0 +1,32 @@
+{
+ "id": "havok/1659167963-108",
+ "band": "havok",
+ "title": "Ivory Tower",
+ "source": "itunes",
+ "album": "Burn",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 6.666666666666667,
+  "tempo_var": 16.639192006528837,
+  "low_onset_rate": 7.033333333333333,
+  "lufs": -8.705927111206986,
+  "rms_dbfs": -7.743543240483753,
+  "crest": 7.74354362487793,
+  "centroid": 2538.287789657211,
+  "flatness": 0.03522409126162529,
+  "sub100_share": 0.4273104965686798,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.6368626952171326,
+  "clean_share": 0.005417956656346749,
+  "minor_share": 0.25339247836962003,
+  "chord_rate": 1.9333333333333333,
+  "repetitiveness": 0.9182314872741699,
+  "vocal_share": 0.1370622217655182,
+  "vocal_voiced": 0.0,
+  "song_length": 228.173
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "vader/1352272282-108",
+ "band": "vader",
+ "title": "Demon’s Wind",
+ "source": "itunes",
+ "album": "Dark Age",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.109716699801193,
+  "tempo_var": 3.691081713448522,
+  "low_onset_rate": 6.081044222470058,
+  "lufs": -18.26550238349518,
+  "rms_dbfs": -17.742420678082432,
+  "crest": 17.742155075073242,
+  "centroid": 2475.2980054017694,
+  "flatness": 0.022574273869395256,
+  "sub100_share": 0.28449395298957825,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.8201169371604919,
+  "clean_share": 0.19550038789759502,
+  "minor_share": 0.007701189934448349,
+  "chord_rate": 2.572749478737332,
+  "repetitiveness": 0.8203447461128235,
+  "vocal_share": 6.054927439436142e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 252.779
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "draconian/1875265349-105",
+ "band": "draconian",
+ "title": "I Gave You Wings",
+ "source": "itunes",
+ "album": "In Somnolent Ruin",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.298922800718133,
+  "tempo_var": 2.4760671686098172,
+  "low_onset_rate": 7.630841629943964,
+  "lufs": -11.078618438269135,
+  "rms_dbfs": -9.647311306826161,
+  "crest": 9.647311210632324,
+  "centroid": 1948.0138952643174,
+  "flatness": 0.009141272865235806,
+  "sub100_share": 0.4162077307701111,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.9248874187469482,
+  "clean_share": 0.5738592420726991,
+  "minor_share": -0.045940565579865034,
+  "chord_rate": 1.0663184810402047,
+  "repetitiveness": 0.8702471852302551,
+  "vocal_share": 9.196918995257874e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 450.4
+ }
+}

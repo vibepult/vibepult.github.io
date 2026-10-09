@@ -1,0 +1,32 @@
+{
+ "id": "apocalyptica/1755131680-105",
+ "band": "apocalyptica",
+ "title": "The Call of Ktulu",
+ "source": "itunes",
+ "album": "Plays Metallica, Vol. 2",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.0333089444659445,
+  "tempo_var": 1.973092250250185,
+  "low_onset_rate": 4.633305316369969,
+  "lufs": -18.523972593122643,
+  "rms_dbfs": -18.72294389017974,
+  "crest": 14.448431968688965,
+  "centroid": 1355.2714478932153,
+  "flatness": 0.015250460244715214,
+  "sub100_share": 0.03996795788407326,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.9348008036613464,
+  "clean_share": 0.9265274555297757,
+  "minor_share": 0.17427942872443036,
+  "chord_rate": 0.8333282943111455,
+  "repetitiveness": 0.763860821723938,
+  "vocal_share": 0.0010652559576556087,
+  "vocal_voiced": 0.475,
+  "song_length": 446.763
+ }
+}

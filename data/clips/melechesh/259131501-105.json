@@ -1,0 +1,32 @@
+{
+ "id": "melechesh/259131501-105",
+ "band": "melechesh",
+ "title": "Gyroscope",
+ "source": "itunes",
+ "album": "Emissaries",
+ "year": 2006,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.474882412840033,
+  "tempo_var": 16.41959672111762,
+  "low_onset_rate": 5.412797604616205,
+  "lufs": -8.828933434672098,
+  "rms_dbfs": -9.021976574587478,
+  "crest": 9.021976470947266,
+  "centroid": 2219.9785948047534,
+  "flatness": 0.01958457939326763,
+  "sub100_share": 0.2510923445224762,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7645283341407776,
+  "clean_share": 0.39332816136539955,
+  "minor_share": -0.001681238060225465,
+  "chord_rate": 2.840048125878873,
+  "repetitiveness": 0.8772408962249756,
+  "vocal_share": 5.577497177000623e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 177.68
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "impellitteri/1605949412-104",
+ "band": "impellitteri",
+ "title": "I'll Wait",
+ "source": "itunes",
+ "album": "Answer To the Master",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 3.842418052659652,
+  "tempo_var": 24.942805845702885,
+  "low_onset_rate": 5.579859259079669,
+  "lufs": -12.982685703446336,
+  "rms_dbfs": -13.122800030298373,
+  "crest": 13.122800827026367,
+  "centroid": 2669.402364915257,
+  "flatness": 0.03542120009660721,
+  "sub100_share": 0.16733083128929138,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7593035101890564,
+  "clean_share": 0.08301008533747091,
+  "minor_share": 0.16213211052654242,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.790330708026886,
+  "vocal_share": 0.25033465027809143,
+  "vocal_voiced": 0.6299283154121864,
+  "song_length": 307.76
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "kaunis-kuolematon/1703145651-105",
+ "band": "kaunis-kuolematon",
+ "title": "Nyt olet poissa",
+ "source": "itunes",
+ "album": "Mielenvalta",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 0.9666432860278512,
+  "tempo_var": 4.255407051877871,
+  "low_onset_rate": 4.966546538556891,
+  "lufs": -10.541714419039952,
+  "rms_dbfs": -10.796858110490623,
+  "crest": 10.796857833862305,
+  "centroid": 1813.3325680727196,
+  "flatness": 0.005455540493130684,
+  "sub100_share": 0.5377809405326843,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.942694365978241,
+  "clean_share": 0.6163959783449343,
+  "minor_share": 0.13220535043940962,
+  "chord_rate": 0.9999758131322598,
+  "repetitiveness": 0.5836871266365051,
+  "vocal_share": 0.0030711470171809196,
+  "vocal_voiced": 0.9490196078431372,
+  "song_length": 351.348
+ }
+}

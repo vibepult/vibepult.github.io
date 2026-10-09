@@ -1,0 +1,32 @@
+{
+ "id": "the-agonist/1045281849-105",
+ "band": "the-agonist",
+ "title": "Panophobia",
+ "source": "itunes",
+ "album": "Prisoners",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 6.895632245033003,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.329957290846765,
+  "lufs": -8.160317952619144,
+  "rms_dbfs": -8.143265701333068,
+  "crest": 8.143265724182129,
+  "centroid": 2675.0294775012508,
+  "flatness": 0.04146217927336693,
+  "sub100_share": 0.2804436683654785,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6868678331375122,
+  "clean_share": 0.0,
+  "minor_share": -0.08756170895575943,
+  "chord_rate": 1.3991137888472758,
+  "repetitiveness": 0.8779556155204773,
+  "vocal_share": 0.15121416747570038,
+  "vocal_voiced": 0.5168738898756661,
+  "song_length": 234.333
+ }
+}

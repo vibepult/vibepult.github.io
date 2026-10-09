@@ -1,0 +1,127 @@
+{
+ "slug": "macabre",
+ "name": "Macabre",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1527142729,
+  "deezer": 65436,
+  "spotify": "2lbJzDX11fy6cLeFtlkUA8"
+ },
+ "metadata": {
+  "formed": 1985,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 3,
+  "past_members": 0,
+  "full_lengths": 6,
+  "genre": "Thrash/Death Metal/Grindcore",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 4166,
+  "themes": "Death, Murder, Serial killers, Sick humour, Gore",
+  "release_year": 2003
+ },
+ "partial": false,
+ "clips": [
+  "macabre/1492335403-113",
+  "macabre/1492327988-114",
+  "macabre/1492327974-108",
+  "macabre/1492327968-107",
+  "macabre/1527226374-109",
+  "macabre/1492335403-119",
+  "macabre/1492327988-115",
+  "macabre/1492327974-106",
+  "macabre/1492327968-106",
+  "macabre/1527226374-108",
+  "macabre/1492327988-113",
+  "macabre/1492327974-110"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.90049098320159,
+   "iqr": 31.29869962993422
+  },
+  "onset_rate": {
+   "median": 2.4223939897202156,
+   "iqr": 1.7123819582504969
+  },
+  "tempo_var": {
+   "median": 8.694487340002933,
+   "iqr": 11.274673990600574
+  },
+  "low_onset_rate": {
+   "median": 2.773223464093488,
+   "iqr": 2.664633388692237
+  },
+  "lufs": {
+   "median": -9.07671814499189,
+   "iqr": 2.8449376875277643
+  },
+  "rms_dbfs": {
+   "median": -8.846016950362614,
+   "iqr": 1.6744907833049787
+  },
+  "crest": {
+   "median": 8.846016883850098,
+   "iqr": 1.674489974975586
+  },
+  "centroid": {
+   "median": 2640.4444173157726,
+   "iqr": 361.74699890942156
+  },
+  "flatness": {
+   "median": 0.03792337886989117,
+   "iqr": 0.014469516929239035
+  },
+  "sub100_share": {
+   "median": 0.292540043592453,
+   "iqr": 0.13281497731804848
+  },
+  "lowest_pitch": {
+   "median": 63.2537841796875,
+   "iqr": 30.28106689453125
+  },
+  "harmonic_share": {
+   "median": 0.8163105547428131,
+   "iqr": 0.1456976979970932
+  },
+  "clean_share": {
+   "median": 0.03297129557796742,
+   "iqr": 0.04402637703646237
+  },
+  "minor_share": {
+   "median": 0.059011419882123245,
+   "iqr": 0.09965264027321358
+  },
+  "chord_rate": {
+   "median": 2.4892186515056007,
+   "iqr": 0.6682466178538529
+  },
+  "repetitiveness": {
+   "median": 0.8437138497829437,
+   "iqr": 0.16042441129684448
+  },
+  "vocal_share": {
+   "median": 0.08799468725919724,
+   "iqr": 0.11131837964057922
+  },
+  "vocal_voiced": {
+   "median": 0.2044917257683215,
+   "iqr": 0.561087206476773
+  },
+  "song_length": {
+   "median": 157.7415,
+   "iqr": 49.530250000000024
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.7
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "carach-angren/633793914-106",
+ "band": "carach-angren",
+ "title": "The Carriage Wheel Murder",
+ "source": "itunes",
+ "album": "Lammendam",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.579859259079669,
+  "tempo_var": 14.984348657999174,
+  "low_onset_rate": 8.720618362992775,
+  "lufs": -7.942236481733847,
+  "rms_dbfs": -7.363451064356496,
+  "crest": 7.36345100402832,
+  "centroid": 2704.688645772031,
+  "flatness": 0.042326319962739944,
+  "sub100_share": 0.3342321813106537,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8038735389709473,
+  "clean_share": 0.04034134988363072,
+  "minor_share": -0.22221311582216996,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.8422232866287231,
+  "vocal_share": 0.07211562991142273,
+  "vocal_voiced": 0.26666666666666666,
+  "song_length": 220.24
+ }
+}

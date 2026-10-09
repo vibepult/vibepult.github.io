@@ -1,0 +1,32 @@
+{
+ "id": "aeon-zen/1498160107-105",
+ "band": "aeon-zen",
+ "title": "Natural Selection",
+ "source": "itunes",
+ "album": "The Face of the Unknown",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.911612641225816,
+  "tempo_var": 2.358371017404344,
+  "low_onset_rate": 3.742181059981574,
+  "lufs": -9.764362459677491,
+  "rms_dbfs": -9.047475950265582,
+  "crest": 9.047475814819336,
+  "centroid": 3185.221954417438,
+  "flatness": 0.053352002054452896,
+  "sub100_share": 0.3938376009464264,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6576021313667297,
+  "clean_share": 0.02017067494181536,
+  "minor_share": 0.032368600646646206,
+  "chord_rate": 2.7398111332007953,
+  "repetitiveness": 0.9381897449493408,
+  "vocal_share": 0.17750410735607147,
+  "vocal_voiced": 0.7920918367346939,
+  "song_length": 289.467
+ }
+}

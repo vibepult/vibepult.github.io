@@ -1,0 +1,32 @@
+{
+ "id": "enforcer/364350456-105",
+ "band": "enforcer",
+ "title": "High Roller",
+ "source": "itunes",
+ "album": "Diamonds",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 6.081044222470058,
+  "tempo_var": 4.263256414560601e-14,
+  "low_onset_rate": 6.515404524075062,
+  "lufs": -10.340714452621706,
+  "rms_dbfs": -9.275541974646336,
+  "crest": 9.275542259216309,
+  "centroid": 2442.6331111378395,
+  "flatness": 0.031199367716908455,
+  "sub100_share": 0.39501577615737915,
+  "lowest_pitch": 29.608154296875,
+  "harmonic_share": 0.4689241349697113,
+  "clean_share": 0.01474010861132661,
+  "minor_share": -0.07241289338046847,
+  "chord_rate": 2.0047398535615577,
+  "repetitiveness": 0.8807408213615417,
+  "vocal_share": 0.1581747978925705,
+  "vocal_voiced": 0.6835326586936522,
+  "song_length": 201.719
+ }
+}

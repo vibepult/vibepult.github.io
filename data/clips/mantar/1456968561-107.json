@@ -1,0 +1,32 @@
+{
+ "id": "mantar/1456968561-107",
+ "band": "mantar",
+ "title": "Eternal Return",
+ "source": "itunes",
+ "album": "The Modern Art of Setting Ablaze",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 69.83741554054055,
+  "onset_rate": 1.1360192503515492,
+  "tempo_var": 16.914264204478073,
+  "low_onset_rate": 0.7350712796392378,
+  "lufs": -9.690893475862838,
+  "rms_dbfs": -9.107578206116676,
+  "crest": 9.10757827758789,
+  "centroid": 2326.2190841784955,
+  "flatness": 0.03471983224153519,
+  "sub100_share": 0.5307546854019165,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.8702980875968933,
+  "clean_share": 0.208688906128782,
+  "minor_share": 0.2180566544106371,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.7603891491889954,
+  "vocal_share": 0.001592519460245967,
+  "vocal_voiced": 1.0,
+  "song_length": 227.36
+ }
+}

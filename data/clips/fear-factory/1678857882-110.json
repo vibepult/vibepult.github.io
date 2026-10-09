@@ -1,0 +1,32 @@
+{
+ "id": "fear-factory/1678857882-110",
+ "band": "fear-factory",
+ "title": "Enhanced Reality",
+ "source": "itunes",
+ "album": "Re-Industrialized",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 2.472512486059254,
+  "tempo_var": 10.983834898445071,
+  "low_onset_rate": 6.548816854967755,
+  "lufs": -23.87767830248821,
+  "rms_dbfs": -22.384282785774985,
+  "crest": 12.551852226257324,
+  "centroid": 556.260339656694,
+  "flatness": 1.7716787624522112e-05,
+  "sub100_share": 0.35575711727142334,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.9871499538421631,
+  "clean_share": 1.0,
+  "minor_share": 0.09395498196659235,
+  "chord_rate": 0.267298647141541,
+  "repetitiveness": 0.6383082270622253,
+  "vocal_share": 0.0012507099891081452,
+  "vocal_voiced": 0.2222222222222222,
+  "song_length": 332.907
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "anthrax/1466891702-107",
+ "band": "anthrax",
+ "title": "Nobody Knows Anything",
+ "source": "itunes",
+ "album": "We've Come for You All",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 4.176541361586578,
+  "tempo_var": 37.463188376832605,
+  "low_onset_rate": 3.6753563981961888,
+  "lufs": -10.68309045734293,
+  "rms_dbfs": -10.188182716065562,
+  "crest": 10.188182830810547,
+  "centroid": 2951.573680014926,
+  "flatness": 0.0734531357884407,
+  "sub100_share": 0.3191494047641754,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.4351361095905304,
+  "clean_share": 0.0,
+  "minor_share": -0.1053205544672925,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.9423077702522278,
+  "vocal_share": 0.06789571046829224,
+  "vocal_voiced": 0.5232558139534884,
+  "song_length": 177.253
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "for-my-pain",
+ "name": "For My Pain...",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 309867739,
+  "deezer": 193881,
+  "spotify": "6s5biOReFi1Oe9GQOG0nsL"
+ },
+ "metadata": {
+  "formed": 1999,
+  "split": null,
+  "country": "FI",
+  "status": "active",
+  "members": 6,
+  "past_members": 2,
+  "full_lengths": 2,
+  "genre": "Gothic Metal/Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 2673,
+  "themes": "Love, Death, Depression, Pain, Solitude",
+  "release_year": 2014
+ },
+ "partial": false,
+ "clips": [
+  "for-my-pain/1660704175-107",
+  "for-my-pain/1862487748-106",
+  "for-my-pain/1660704175-106",
+  "for-my-pain/1862487748-105",
+  "for-my-pain/1660704175-108",
+  "for-my-pain/1862487748-107",
+  "for-my-pain/1660704175-105",
+  "for-my-pain/1862487748-104",
+  "for-my-pain/1660704175-109",
+  "for-my-pain/1862487748-108",
+  "for-my-pain/1660704175-104",
+  "for-my-pain/1862487748-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 17.99560546875
+  },
+  "onset_rate": {
+   "median": 3.7875692196286606,
+   "iqr": 0.8179660952149082
+  },
+  "tempo_var": {
+   "median": 1.4868097097807014,
+   "iqr": 1.1859677479991808
+  },
+  "low_onset_rate": {
+   "median": 6.883229278468958,
+   "iqr": 0.6758299911085768
+  },
+  "lufs": {
+   "median": -9.013015324418,
+   "iqr": 0.6873311956600965
+  },
+  "rms_dbfs": {
+   "median": -8.240233726020634,
+   "iqr": 0.7648839787131649
+  },
+  "crest": {
+   "median": 8.240233898162842,
+   "iqr": 0.7648836374282837
+  },
+  "centroid": {
+   "median": 2342.8273923394026,
+   "iqr": 210.77888747732413
+  },
+  "flatness": {
+   "median": 0.02571867499500513,
+   "iqr": 0.008194848895072937
+  },
+  "sub100_share": {
+   "median": 0.2958363890647888,
+   "iqr": 0.08232511579990387
+  },
+  "lowest_pitch": {
+   "median": 44.4122314453125,
+   "iqr": 32.97271728515625
+  },
+  "harmonic_share": {
+   "median": 0.8243321478366852,
+   "iqr": 0.061149269342422485
+  },
+  "clean_share": {
+   "median": 0.10208816705336426,
+   "iqr": 0.12911154950839304
+  },
+  "minor_share": {
+   "median": 0.1857996945725443,
+   "iqr": 0.18365173324064843
+  },
+  "chord_rate": {
+   "median": 1.084588979971885,
+   "iqr": 0.25821017594104767
+  },
+  "repetitiveness": {
+   "median": 0.8013447821140289,
+   "iqr": 0.08730888366699219
+  },
+  "vocal_share": {
+   "median": 0.14948759973049164,
+   "iqr": 0.056868283078074455
+  },
+  "vocal_voiced": {
+   "median": 0.7606827257957283,
+   "iqr": 0.1385872102994461
+  },
+  "song_length": {
+   "median": 252.16000000000003,
+   "iqr": 50.76025000000001
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

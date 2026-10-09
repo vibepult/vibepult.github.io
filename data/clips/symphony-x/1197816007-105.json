@@ -1,0 +1,32 @@
+{
+ "id": "symphony-x/1197816007-105",
+ "band": "symphony-x",
+ "title": "Pharaoh",
+ "source": "itunes",
+ "album": "The Divine Wings of Tragedy (Special Edition)",
+ "year": 1996,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 66.25600961538461,
+  "onset_rate": 3.999939532282203,
+  "tempo_var": 8.429512545856735,
+  "low_onset_rate": 4.633263291560218,
+  "lufs": -11.226043449327928,
+  "rms_dbfs": -10.599454381536226,
+  "crest": 10.599454879760742,
+  "centroid": 2312.980450282526,
+  "flatness": 0.02061394974589348,
+  "sub100_share": 0.17228928208351135,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7534722089767456,
+  "clean_share": 0.08662026295436968,
+  "minor_share": 0.11074537405993468,
+  "chord_rate": 1.2666475185560309,
+  "repetitiveness": 0.7807021737098694,
+  "vocal_share": 0.2681426405906677,
+  "vocal_voiced": 0.8991049633848658,
+  "song_length": 328.933
+ }
+}

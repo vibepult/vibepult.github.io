@@ -1,0 +1,32 @@
+{
+ "id": "lex-talion/1157621878-105",
+ "band": "lex-talion",
+ "title": "Ode to a Fallen Warrior",
+ "source": "itunes",
+ "album": "Funeral in the Forest",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 61.5234375,
+  "onset_rate": 1.0023699267807789,
+  "tempo_var": 6.1874967870505815,
+  "low_onset_rate": 3.207583765698492,
+  "lufs": -15.306244492577688,
+  "rms_dbfs": -12.499928800886797,
+  "crest": 12.49992847442627,
+  "centroid": 1089.8514429459228,
+  "flatness": 0.0030080045107752085,
+  "sub100_share": 0.5743036270141602,
+  "lowest_pitch": 26.91650390625,
+  "harmonic_share": 0.6299349665641785,
+  "clean_share": 0.9224204809930179,
+  "minor_share": -0.0736773519429994,
+  "chord_rate": 1.871090529990787,
+  "repetitiveness": 0.9154941439628601,
+  "vocal_share": 0.015347585082054138,
+  "vocal_voiced": 0.09929078014184398,
+  "song_length": 345.944
+ }
+}

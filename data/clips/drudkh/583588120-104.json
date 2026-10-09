@@ -1,0 +1,32 @@
+{
+ "id": "drudkh/583588120-104",
+ "band": "drudkh",
+ "title": "Sunwheel (Сонячне Коло)",
+ "source": "itunes",
+ "album": "Autumn Aurora",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 7.466666666666667,
+  "tempo_var": 7.001133896220445,
+  "low_onset_rate": 9.566666666666666,
+  "lufs": -9.547767859354309,
+  "rms_dbfs": -9.350567659080976,
+  "crest": 9.350567817687988,
+  "centroid": 2503.197191886493,
+  "flatness": 0.02804487571120262,
+  "sub100_share": 0.15546497702598572,
+  "lowest_pitch": 88.824462890625,
+  "harmonic_share": 0.876364529132843,
+  "clean_share": 0.0,
+  "minor_share": -0.14913528374309504,
+  "chord_rate": 0.7666666666666667,
+  "repetitiveness": 0.9370558261871338,
+  "vocal_share": 7.161095254559768e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 540.28
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "grave-digger/1399674520-106",
+ "band": "grave-digger",
+ "title": "Hymn of the Damned",
+ "source": "itunes",
+ "album": "The Living Dead",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.7,
+  "tempo_var": 12.151976551211794,
+  "low_onset_rate": 3.0,
+  "lufs": -9.880149379280875,
+  "rms_dbfs": -9.020878791611858,
+  "crest": 9.020878791809082,
+  "centroid": 2213.6092019907733,
+  "flatness": 0.014136075042188168,
+  "sub100_share": 0.5119947195053101,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8547035455703735,
+  "clean_share": 0.19582043343653252,
+  "minor_share": 0.2536833157932403,
+  "chord_rate": 2.3,
+  "repetitiveness": 0.799574077129364,
+  "vocal_share": 0.00042572608799673617,
+  "vocal_voiced": 0.0,
+  "song_length": 330.603
+ }
+}

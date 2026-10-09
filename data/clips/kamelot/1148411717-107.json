@@ -1,0 +1,32 @@
+{
+ "id": "kamelot/1148411717-107",
+ "band": "kamelot",
+ "title": "Necropolis",
+ "source": "itunes",
+ "album": "Poetry for the Poisoned",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.240996096591185,
+  "tempo_var": 12.14234681264777,
+  "low_onset_rate": 3.207583765698492,
+  "lufs": -9.371792882686812,
+  "rms_dbfs": -9.171557960506938,
+  "crest": 9.171558380126953,
+  "centroid": 2378.822795760989,
+  "flatness": 0.027436483651399612,
+  "sub100_share": 0.20441874861717224,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.6982288360595703,
+  "clean_share": 0.0682699767261443,
+  "minor_share": 0.010434544782877975,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.8504496812820435,
+  "vocal_share": 0.310545951128006,
+  "vocal_voiced": 0.6907378335949764,
+  "song_length": 257.627
+ }
+}

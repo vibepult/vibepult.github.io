@@ -1,0 +1,32 @@
+{
+ "id": "archspire/1855056093-103",
+ "band": "archspire",
+ "title": "Carrion Ladder",
+ "source": "itunes",
+ "album": "Too Fast to Die",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 1.299980347991716,
+  "tempo_var": 24.552006580255153,
+  "low_onset_rate": 1.2666475185560309,
+  "lufs": -6.363491046917335,
+  "rms_dbfs": -5.713042896814235,
+  "crest": 5.713042736053467,
+  "centroid": 3021.616542687075,
+  "flatness": 0.06852323561906815,
+  "sub100_share": 0.478639155626297,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7729607224464417,
+  "clean_share": 0.0,
+  "minor_share": 0.16032713284270794,
+  "chord_rate": 1.5666429834771962,
+  "repetitiveness": 0.9497931003570557,
+  "vocal_share": 0.07456392794847488,
+  "vocal_voiced": 0.04479166666666667,
+  "song_length": 263.655
+ }
+}

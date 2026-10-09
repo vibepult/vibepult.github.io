@@ -1,0 +1,32 @@
+{
+ "id": "the-berzerker/42257249-108",
+ "band": "the-berzerker",
+ "title": "Deform",
+ "source": "itunes",
+ "album": "The Berzerker",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 7.851897759782767,
+  "tempo_var": 9.037717030853964,
+  "low_onset_rate": 7.918722421568152,
+  "lufs": -8.72150147684027,
+  "rms_dbfs": -8.623146624273456,
+  "crest": 8.623146057128906,
+  "centroid": 2285.0939405148574,
+  "flatness": 0.03131627291440964,
+  "sub100_share": 0.1871296763420105,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.6637767553329468,
+  "clean_share": 0.0,
+  "minor_share": -0.03220809361167909,
+  "chord_rate": 2.3722754933811765,
+  "repetitiveness": 0.9679181575775146,
+  "vocal_share": 0.21281836926937103,
+  "vocal_voiced": 0.14609053497942387,
+  "song_length": 166.987
+ }
+}

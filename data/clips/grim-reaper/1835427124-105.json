@@ -1,0 +1,32 @@
+{
+ "id": "grim-reaper/1835427124-105",
+ "band": "grim-reaper",
+ "title": "Now Or Never",
+ "source": "itunes",
+ "album": "See You In Hell",
+ "year": 1983,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.533249686323714,
+  "tempo_var": 1.8200327038697344,
+  "low_onset_rate": 7.43322096415776,
+  "lufs": -9.626988190775485,
+  "rms_dbfs": -9.57811664068612,
+  "crest": 9.578116416931152,
+  "centroid": 3166.1582706270015,
+  "flatness": 0.04816962406039238,
+  "sub100_share": 0.1818659007549286,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7713697552680969,
+  "clean_share": 0.0,
+  "minor_share": -0.30484878646624697,
+  "chord_rate": 2.4332965488050067,
+  "repetitiveness": 0.9294149279594421,
+  "vocal_share": 0.17300307750701904,
+  "vocal_voiced": 0.5615034168564921,
+  "song_length": 172.983
+ }
+}

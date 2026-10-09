@@ -1,0 +1,32 @@
+{
+ "id": "rush/1440765198-104",
+ "band": "rush",
+ "title": "Digital Man",
+ "source": "itunes",
+ "album": "Signals (Remastered)",
+ "year": 1982,
+ "itunes_year": 1982,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.766594609302959,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.733246662937824,
+  "lufs": -11.881821861711654,
+  "rms_dbfs": -11.38231898169667,
+  "crest": 11.382318496704102,
+  "centroid": 2219.6895847903947,
+  "flatness": 0.023652900010347366,
+  "sub100_share": 0.2636460065841675,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.6518508791923523,
+  "clean_share": 0.14849187935034802,
+  "minor_share": 0.15249848880368955,
+  "chord_rate": 2.5332950371120617,
+  "repetitiveness": 0.8228462338447571,
+  "vocal_share": 0.13585081696510315,
+  "vocal_voiced": 0.875968992248062,
+  "song_length": 389.341
+ }
+}

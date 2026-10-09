@@ -1,0 +1,32 @@
+{
+ "id": "poisonblack/1204953569-106",
+ "band": "poisonblack",
+ "title": "Casket Case",
+ "source": "itunes",
+ "album": "Of Rust and Bones",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.379385273723512,
+  "tempo_var": 5.403411795789236,
+  "low_onset_rate": 6.74929084032391,
+  "lufs": -7.634372024657666,
+  "rms_dbfs": -7.473887094919717,
+  "crest": 7.4738874435424805,
+  "centroid": 2595.119808363861,
+  "flatness": 0.04183341935276985,
+  "sub100_share": 0.20367616415023804,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.6972728967666626,
+  "clean_share": 0.0,
+  "minor_share": -0.020284499571044723,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.9047740697860718,
+  "vocal_share": 0.13225510716438293,
+  "vocal_voiced": 0.14654161781946073,
+  "song_length": 224.08
+ }
+}

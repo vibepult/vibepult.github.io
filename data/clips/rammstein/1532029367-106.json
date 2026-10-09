@@ -1,0 +1,32 @@
+{
+ "id": "rammstein/1532029367-106",
+ "band": "rammstein",
+ "title": "Du riechst so gut",
+ "source": "itunes",
+ "album": "Herzeleid (Remastered 2020)",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "hand",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.565101876116466,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 3.5323401129841043,
+  "lufs": -14.124912958380701,
+  "rms_dbfs": -13.34231901945813,
+  "crest": 13.34231948852539,
+  "centroid": 2929.1826998079096,
+  "flatness": 0.04774894565343857,
+  "sub100_share": 0.5294303297996521,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.6598485708236694,
+  "clean_share": 0.06805877803557618,
+  "minor_share": -0.05063895730699297,
+  "chord_rate": 2.0994096897924392,
+  "repetitiveness": 0.8839454054832458,
+  "vocal_share": 0.17385289072990417,
+  "vocal_voiced": 0.4248847926267281,
+  "song_length": 291.66
+ }
+}

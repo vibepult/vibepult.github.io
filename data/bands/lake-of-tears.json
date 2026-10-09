@@ -1,0 +1,127 @@
+{
+ "slug": "lake-of-tears",
+ "name": "Lake of Tears",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 254023830,
+  "deezer": 9401,
+  "spotify": "13ltbymjg9upz4wOoF5TTs"
+ },
+ "metadata": {
+  "formed": 1992,
+  "split": null,
+  "country": "SE",
+  "status": "active",
+  "members": 1,
+  "past_members": 7,
+  "full_lengths": 9,
+  "genre": "Doom/Gothic Metal (early); Gothic Metal/Rock (later)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 8710,
+  "themes": "Nature, Sadness, Space",
+  "release_year": 1998
+ },
+ "partial": false,
+ "clips": [
+  "lake-of-tears/292514642-104",
+  "lake-of-tears/290407924-104",
+  "lake-of-tears/290406892-105",
+  "lake-of-tears/1893641333-105",
+  "lake-of-tears/292071196-106",
+  "lake-of-tears/1435828193-105",
+  "lake-of-tears/1540550615-105",
+  "lake-of-tears/292514642-105",
+  "lake-of-tears/290407924-106",
+  "lake-of-tears/290406892-104",
+  "lake-of-tears/1893641333-104",
+  "lake-of-tears/292071196-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 27.377524394762844
+  },
+  "onset_rate": {
+   "median": 3.4080577510546477,
+   "iqr": 1.562026469233381
+  },
+  "tempo_var": {
+   "median": 3.1811509516534704,
+   "iqr": 8.478305078104393
+  },
+  "low_onset_rate": {
+   "median": 4.493958505067158,
+   "iqr": 1.9344590485542028
+  },
+  "lufs": {
+   "median": -12.948419541591644,
+   "iqr": 3.979457869701811
+  },
+  "rms_dbfs": {
+   "median": -11.908757514718001,
+   "iqr": 3.964230570282716
+  },
+  "crest": {
+   "median": 11.90875768661499,
+   "iqr": 3.9642302989959717
+  },
+  "centroid": {
+   "median": 2424.024378108947,
+   "iqr": 769.6751453516299
+  },
+  "flatness": {
+   "median": 0.02199053019285202,
+   "iqr": 0.019005052046850324
+  },
+  "sub100_share": {
+   "median": 0.33734460175037384,
+   "iqr": 0.11213703081011772
+  },
+  "lowest_pitch": {
+   "median": 49.7955322265625,
+   "iqr": 24.89776611328125
+  },
+  "harmonic_share": {
+   "median": 0.833086371421814,
+   "iqr": 0.10932569205760956
+  },
+  "clean_share": {
+   "median": 0.15244375484871994,
+   "iqr": 0.40147401086113266
+  },
+  "minor_share": {
+   "median": 0.09607688663013914,
+   "iqr": 0.21850999307446006
+  },
+  "chord_rate": {
+   "median": 1.0357822576734714,
+   "iqr": 0.7267181969160644
+  },
+  "repetitiveness": {
+   "median": 0.6779021918773651,
+   "iqr": 0.18670274317264557
+  },
+  "vocal_share": {
+   "median": 0.10866696387529373,
+   "iqr": 0.049878258258104324
+  },
+  "vocal_voiced": {
+   "median": 0.7733499377334994,
+   "iqr": 0.15330751807757448
+  },
+  "song_length": {
+   "median": 267.29999999999995,
+   "iqr": 50.62974999999997
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

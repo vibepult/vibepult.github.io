@@ -1,0 +1,32 @@
+{
+ "id": "manegarm/975174535-106",
+ "band": "manegarm",
+ "title": "En fallen härskare",
+ "source": "itunes",
+ "album": "Nordstjärnans tidsålder (Re-Mastered)",
+ "year": 1998,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 4.410427677835426,
+  "tempo_var": 10.582569301686904,
+  "low_onset_rate": 8.65379370120739,
+  "lufs": -9.558498645164228,
+  "rms_dbfs": -9.094981409745209,
+  "crest": 9.09498119354248,
+  "centroid": 3016.6490607671185,
+  "flatness": 0.045157067477703094,
+  "sub100_share": 0.46707746386528015,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8840991854667664,
+  "clean_share": 0.005430566330488751,
+  "minor_share": 0.2080968974485497,
+  "chord_rate": 2.1049768462396354,
+  "repetitiveness": 0.8432331681251526,
+  "vocal_share": 0.03163568302989006,
+  "vocal_voiced": 0.5238095238095238,
+  "song_length": 238.133
+ }
+}

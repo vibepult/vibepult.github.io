@@ -1,0 +1,32 @@
+{
+ "id": "motorhead/1444140555-105",
+ "band": "motorhead",
+ "title": "Mine All Mine",
+ "source": "itunes",
+ "album": "Hammered",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.5332648032531635,
+  "tempo_var": 8.955823967194469,
+  "low_onset_rate": 6.066574957294675,
+  "lufs": -7.672180423009517,
+  "rms_dbfs": -8.165068358804358,
+  "crest": 8.165068626403809,
+  "centroid": 2647.2046109092635,
+  "flatness": 0.04746954143047333,
+  "sub100_share": 0.09044376760721207,
+  "lowest_pitch": 24.224853515625,
+  "harmonic_share": 0.6553769707679749,
+  "clean_share": 0.0,
+  "minor_share": -0.06017980360492692,
+  "chord_rate": 1.099983371377606,
+  "repetitiveness": 0.8916489481925964,
+  "vocal_share": 0.13913746178150177,
+  "vocal_voiced": 0.7876447876447876,
+  "song_length": 254.333
+ }
+}

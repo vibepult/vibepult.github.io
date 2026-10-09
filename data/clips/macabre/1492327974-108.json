@@ -1,0 +1,32 @@
+{
+ "id": "macabre/1492327974-108",
+ "band": "macabre",
+ "title": "Werewolf of Bedburg",
+ "source": "itunes",
+ "album": "Murder Metal (Remastered)",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 6.047631891577365,
+  "tempo_var": 4.407589064144999,
+  "low_onset_rate": 5.34597294283082,
+  "lufs": -14.997850516068274,
+  "rms_dbfs": -14.488330228449078,
+  "crest": 11.79151439666748,
+  "centroid": 2193.843275825039,
+  "flatness": 0.01700061932206154,
+  "sub100_share": 0.1856279969215393,
+  "lowest_pitch": 88.824462890625,
+  "harmonic_share": 0.9874717593193054,
+  "clean_share": 0.29092319627618307,
+  "minor_share": 0.010516783414021846,
+  "chord_rate": 0.534597294283082,
+  "repetitiveness": 0.4418507516384125,
+  "vocal_share": 0.0096896318718791,
+  "vocal_voiced": 0.9917355371900827,
+  "song_length": 304.733
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "arch-enemy",
+ "name": "Arch Enemy",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 18098340,
+  "deezer": 1392,
+  "spotify": "0DCw6lHkzh9t7f8Hb4Z0Sx"
+ },
+ "metadata": {
+  "formed": 1995,
+  "split": null,
+  "country": "SE",
+  "status": "active",
+  "members": 5,
+  "past_members": 9,
+  "full_lengths": 13,
+  "genre": "Melodic Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 398512,
+  "themes": "Inner struggles, Humanity, Anti-religion, Rebellion, Society",
+  "release_year": 2000
+ },
+ "partial": false,
+ "clips": [
+  "arch-enemy/1056429541-105",
+  "arch-enemy/1675366375-105",
+  "arch-enemy/1675364923-104",
+  "arch-enemy/1056430200-109",
+  "arch-enemy/1045081832-106",
+  "arch-enemy/1045072875-106",
+  "arch-enemy/1045084634-107",
+  "arch-enemy/1252750166-107",
+  "arch-enemy/1604941921-105",
+  "arch-enemy/1056429541-104",
+  "arch-enemy/1675366375-104",
+  "arch-enemy/1675364923-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 132.59919819078948,
+   "iqr": 40.070270521069006
+  },
+  "onset_rate": {
+   "median": 5.196708358575596,
+   "iqr": 1.7241833302767269
+  },
+  "tempo_var": {
+   "median": 7.1068380050048905,
+   "iqr": 11.904223050973615
+  },
+  "low_onset_rate": {
+   "median": 6.922448290794284,
+   "iqr": 2.8901466834176928
+  },
+  "lufs": {
+   "median": -8.761133067813706,
+   "iqr": 1.079327200998617
+  },
+  "rms_dbfs": {
+   "median": -9.01455273699443,
+   "iqr": 1.9131518121291906
+  },
+  "crest": {
+   "median": 9.014552593231201,
+   "iqr": 1.9131519794464111
+  },
+  "centroid": {
+   "median": 2701.343919967261,
+   "iqr": 207.8452242847402
+  },
+  "flatness": {
+   "median": 0.04831968434154987,
+   "iqr": 0.015833616256713867
+  },
+  "sub100_share": {
+   "median": 0.23655879497528076,
+   "iqr": 0.09685686230659485
+  },
+  "lowest_pitch": {
+   "median": 55.1788330078125,
+   "iqr": 17.4957275390625
+  },
+  "harmonic_share": {
+   "median": 0.6764506101608276,
+   "iqr": 0.0766964703798294
+  },
+  "clean_share": {
+   "median": 0.0007733952049497294,
+   "iqr": 0.02734678044996121
+  },
+  "minor_share": {
+   "median": 0.006330061829501188,
+   "iqr": 0.17112047488357324
+  },
+  "chord_rate": {
+   "median": 1.9350624037665125,
+   "iqr": 0.5476749135767909
+  },
+  "repetitiveness": {
+   "median": 0.893129289150238,
+   "iqr": 0.05062609910964966
+  },
+  "vocal_share": {
+   "median": 0.1265108920633793,
+   "iqr": 0.06200035847723484
+  },
+  "vocal_voiced": {
+   "median": 0.13431557736699754,
+   "iqr": 0.14114383488878787
+  },
+  "song_length": {
+   "median": 267.0665,
+   "iqr": 73.61999999999998
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

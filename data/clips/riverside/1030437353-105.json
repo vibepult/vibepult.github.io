@@ -1,0 +1,32 @@
+{
+ "id": "riverside/1030437353-105",
+ "band": "riverside",
+ "title": "Saturate Me",
+ "source": "itunes",
+ "album": "Love, Fear and the Time Machine",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.463839231084166,
+  "tempo_var": 24.01825577196243,
+  "low_onset_rate": 5.663079621524688,
+  "lufs": -11.712232905939127,
+  "rms_dbfs": -10.490531166084718,
+  "crest": 10.490530967712402,
+  "centroid": 1732.4562613158093,
+  "flatness": 0.008619037456810474,
+  "sub100_share": 0.3934352695941925,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.8291022181510925,
+  "clean_share": 0.4068058778035576,
+  "minor_share": -0.06452656660001654,
+  "chord_rate": 1.9321095179319523,
+  "repetitiveness": 0.8520514965057373,
+  "vocal_share": 7.446836889357655e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 429.493
+ }
+}

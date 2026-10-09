@@ -1,0 +1,127 @@
+{
+ "slug": "severe-torture",
+ "name": "Severe Torture",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 258831121,
+  "deezer": 5606,
+  "spotify": "2LkGWKBS0nNlEtqx4khGf1"
+ },
+ "metadata": {
+  "formed": 1997,
+  "split": null,
+  "country": "NL",
+  "status": "active",
+  "members": 5,
+  "past_members": 4,
+  "full_lengths": 6,
+  "genre": "Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 7221,
+  "themes": "Gore, Anti-Christianity, Misanthropy, Vengeance, Death",
+  "release_year": 2006
+ },
+ "partial": false,
+ "clips": [
+  "severe-torture/1606957870-106",
+  "severe-torture/1606816104-104",
+  "severe-torture/258962605-105",
+  "severe-torture/265875561-105",
+  "severe-torture/583573636-105",
+  "severe-torture/1733325927-105",
+  "severe-torture/1606957870-107",
+  "severe-torture/1606816104-103",
+  "severe-torture/258962605-104",
+  "severe-torture/265875561-106",
+  "severe-torture/583573636-104",
+  "severe-torture/1733325927-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 20.440939198369563
+  },
+  "onset_rate": {
+   "median": 7.417537458177763,
+   "iqr": 2.0830173430958956
+  },
+  "tempo_var": {
+   "median": 6.692985122085732,
+   "iqr": 8.865119686992777
+  },
+  "low_onset_rate": {
+   "median": 7.952134752460845,
+   "iqr": 0.8636845088008522
+  },
+  "lufs": {
+   "median": -8.60086273252372,
+   "iqr": 0.7552335924133828
+  },
+  "rms_dbfs": {
+   "median": -7.910834090226696,
+   "iqr": 0.9316988837100384
+  },
+  "crest": {
+   "median": 7.910833835601807,
+   "iqr": 0.9316986799240112
+  },
+  "centroid": {
+   "median": 2647.382372378509,
+   "iqr": 237.98837572369484
+  },
+  "flatness": {
+   "median": 0.03729988634586334,
+   "iqr": 0.012252292595803738
+  },
+  "sub100_share": {
+   "median": 0.3469899445772171,
+   "iqr": 0.1639086678624153
+  },
+  "lowest_pitch": {
+   "median": 51.141357421875,
+   "iqr": 19.51446533203125
+  },
+  "harmonic_share": {
+   "median": 0.7057708501815796,
+   "iqr": 0.14367277920246124
+  },
+  "clean_share": {
+   "median": 0.001939487975174554,
+   "iqr": 0.007946946897659884
+  },
+  "minor_share": {
+   "median": 0.11015136992802005,
+   "iqr": 0.09291052047771645
+  },
+  "chord_rate": {
+   "median": 2.505924816951947,
+   "iqr": 0.4133299289628085
+  },
+  "repetitiveness": {
+   "median": 0.9391418695449829,
+   "iqr": 0.03788003325462341
+  },
+  "vocal_share": {
+   "median": 0.09207510203123093,
+   "iqr": 0.04464327543973923
+  },
+  "vocal_voiced": {
+   "median": 0.07124288738118809,
+   "iqr": 0.26064105390446707
+  },
+  "song_length": {
+   "median": 221.32,
+   "iqr": 87.06925000000001
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

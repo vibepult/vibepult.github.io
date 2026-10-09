@@ -1,0 +1,32 @@
+{
+ "id": "girlschool/1504285961-106",
+ "band": "girlschool",
+ "title": "London",
+ "source": "itunes",
+ "album": "21st Anniversary: Not That Innocent",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.84478797944043,
+  "tempo_var": 1.6726924051389267,
+  "low_onset_rate": 6.047631891577365,
+  "lufs": -8.162440337100348,
+  "rms_dbfs": -8.383045351698046,
+  "crest": 8.383045196533203,
+  "centroid": 2630.7318459432695,
+  "flatness": 0.04207853600382805,
+  "sub100_share": 0.16483938694000244,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.6858290433883667,
+  "clean_share": 0.003878975950349108,
+  "minor_share": -0.006350764611771864,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.8271322846412659,
+  "vocal_share": 0.22142279148101807,
+  "vocal_voiced": 0.9001706484641638,
+  "song_length": 161.787
+ }
+}

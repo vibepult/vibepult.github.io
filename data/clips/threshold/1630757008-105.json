@@ -1,0 +1,32 @@
+{
+ "id": "threshold/1630757008-105",
+ "band": "threshold",
+ "title": "The Domino Effect",
+ "source": "itunes",
+ "album": "Dividing Lines",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 1.8376781990980944,
+  "tempo_var": 16.96208236040853,
+  "low_onset_rate": 2.8066357949861804,
+  "lufs": -16.288478349705702,
+  "rms_dbfs": -16.863311927863013,
+  "crest": 16.642915725708008,
+  "centroid": 1464.59428919564,
+  "flatness": 0.0045241015031933784,
+  "sub100_share": 0.3297366499900818,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.969883382320404,
+  "clean_share": 0.7967416602017068,
+  "minor_share": -0.014485503694829038,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.8286905288696289,
+  "vocal_share": 0.002661023987457156,
+  "vocal_voiced": 0.9875,
+  "song_length": 663.0
+ }
+}

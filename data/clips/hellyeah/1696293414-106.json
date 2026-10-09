@@ -1,0 +1,32 @@
+{
+ "id": "hellyeah/1696293414-106",
+ "band": "hellyeah",
+ "title": "At Wick's End",
+ "source": "itunes",
+ "album": "Welcome Home",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 0.9666608214009288,
+  "tempo_var": 11.666839530741305,
+  "low_onset_rate": 0.5999963719040248,
+  "lufs": -11.09175675951572,
+  "rms_dbfs": -12.764815691392151,
+  "crest": 12.764815330505371,
+  "centroid": 1774.3718765766841,
+  "flatness": 0.047472137957811356,
+  "sub100_share": 0.254849374294281,
+  "lowest_pitch": 196.490478515625,
+  "harmonic_share": 0.677250862121582,
+  "clean_share": 0.38592420726991494,
+  "minor_share": 0.05678071805956386,
+  "chord_rate": 2.23331982875387,
+  "repetitiveness": 0.9137828946113586,
+  "vocal_share": 0.24508558213710785,
+  "vocal_voiced": 0.09375,
+  "song_length": 238.825
+ }
+}

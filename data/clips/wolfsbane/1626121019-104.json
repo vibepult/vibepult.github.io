@@ -1,0 +1,32 @@
+{
+ "id": "wolfsbane/1626121019-104",
+ "band": "wolfsbane",
+ "title": "Rock the Boat",
+ "source": "itunes",
+ "album": "Genius (Wolfgenius)",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.945024972118508,
+  "tempo_var": 1.1415599856735472,
+  "low_onset_rate": 4.4772523396208115,
+  "lufs": -6.448361535294159,
+  "rms_dbfs": -5.95970743961573,
+  "crest": 5.959707260131836,
+  "centroid": 2566.992982637424,
+  "flatness": 0.03700048476457596,
+  "sub100_share": 0.2883807122707367,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7471654415130615,
+  "clean_share": 0.05120248254460822,
+  "minor_share": 0.031520171815735964,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.9393870234489441,
+  "vocal_share": 0.2122693955898285,
+  "vocal_voiced": 0.678714859437751,
+  "song_length": 168.135
+ }
+}

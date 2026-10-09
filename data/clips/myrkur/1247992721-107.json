@@ -1,0 +1,32 @@
+{
+ "id": "myrkur/1247992721-107",
+ "band": "myrkur",
+ "title": "Funeral (feat. Chelsea Wolfe)",
+ "source": "itunes",
+ "album": "Mareridt (Deluxe Version)",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.666611237925353,
+  "tempo_var": 8.049205136669395,
+  "low_onset_rate": 7.533219452464816,
+  "lufs": -8.000903591585248,
+  "rms_dbfs": -7.393799511776104,
+  "crest": 7.393799304962158,
+  "centroid": 2180.291207709223,
+  "flatness": 0.021539904177188873,
+  "sub100_share": 0.286865770816803,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8537783026695251,
+  "clean_share": 0.019334880123743233,
+  "minor_share": 0.28332039372424633,
+  "chord_rate": 1.1333162008132909,
+  "repetitiveness": 0.7100887298583984,
+  "vocal_share": 0.13271988928318024,
+  "vocal_voiced": 0.9012345679012346,
+  "song_length": 179.569
+ }
+}

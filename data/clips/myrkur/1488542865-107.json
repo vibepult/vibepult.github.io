@@ -1,0 +1,32 @@
+{
+ "id": "myrkur/1488542865-107",
+ "band": "myrkur",
+ "title": "Harpens Kraft",
+ "source": "itunes",
+ "album": "Folkesange",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.0,
+  "tempo_var": 0.0,
+  "low_onset_rate": 2.1666666666666665,
+  "lufs": -12.468738939696765,
+  "rms_dbfs": -11.388728004993018,
+  "crest": 11.388727188110352,
+  "centroid": 1184.313876527508,
+  "flatness": 0.002073850715532899,
+  "sub100_share": 0.16367967426776886,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8948115110397339,
+  "clean_share": 0.9280185758513931,
+  "minor_share": 0.17544469856686173,
+  "chord_rate": 1.0666666666666667,
+  "repetitiveness": 0.7906442880630493,
+  "vocal_share": 0.35750529170036316,
+  "vocal_voiced": 0.9865145228215768,
+  "song_length": 199.214
+ }
+}

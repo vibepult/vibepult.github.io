@@ -1,0 +1,127 @@
+{
+ "slug": "bohse-onkelz",
+ "name": "Böhse Onkelz",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 17364502,
+  "deezer": 12824,
+  "spotify": "6x9jRPDmA8Ihpw3A9FBowD"
+ },
+ "metadata": {
+  "formed": 1980,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 4,
+  "past_members": 0,
+  "full_lengths": 20,
+  "genre": "Punk, Hard Rock/Heavy Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 40593,
+  "themes": "Patriotism, Hooliganism (early); Violence, Brotherhood, Life",
+  "release_year": 1993
+ },
+ "partial": false,
+ "clips": [
+  "bohse-onkelz/588852333-105",
+  "bohse-onkelz/588919384-105",
+  "bohse-onkelz/587107054-106",
+  "bohse-onkelz/587130071-107",
+  "bohse-onkelz/587117982-108",
+  "bohse-onkelz/587068576-106",
+  "bohse-onkelz/587065521-106",
+  "bohse-onkelz/587170652-106",
+  "bohse-onkelz/587163405-107",
+  "bohse-onkelz/587127382-107",
+  "bohse-onkelz/587190110-106",
+  "bohse-onkelz/586843684-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.32652698863637,
+   "iqr": 36.61516320850204
+  },
+  "onset_rate": {
+   "median": 4.744550986762352,
+   "iqr": 1.4784956420016484
+  },
+  "tempo_var": {
+   "median": 2.557522178005098,
+   "iqr": 14.093149139216692
+  },
+  "low_onset_rate": {
+   "median": 5.613271589972361,
+   "iqr": 1.0023699267807782
+  },
+  "lufs": {
+   "median": -9.072520103496384,
+   "iqr": 7.479795397802259
+  },
+  "rms_dbfs": {
+   "median": -9.114419834431706,
+   "iqr": 7.580414169274489
+  },
+  "crest": {
+   "median": 9.11441946029663,
+   "iqr": 7.554118871688843
+  },
+  "centroid": {
+   "median": 2651.1947179327685,
+   "iqr": 138.73838765528762
+  },
+  "flatness": {
+   "median": 0.041581302881240845,
+   "iqr": 0.004353565163910389
+  },
+  "sub100_share": {
+   "median": 0.22436892986297607,
+   "iqr": 0.07869698107242584
+  },
+  "lowest_pitch": {
+   "median": 56.524658203125,
+   "iqr": 21.533203125
+  },
+  "harmonic_share": {
+   "median": 0.7144957780838013,
+   "iqr": 0.13436931371688843
+  },
+  "clean_share": {
+   "median": 0.016679596586501165,
+   "iqr": 0.0395655546935609
+  },
+  "minor_share": {
+   "median": 0.09884309884818673,
+   "iqr": 0.1531822533737602
+  },
+  "chord_rate": {
+   "median": 1.603791882849246,
+   "iqr": 0.2840048125878871
+  },
+  "repetitiveness": {
+   "median": 0.8222258985042572,
+   "iqr": 0.07216751575469971
+  },
+  "vocal_share": {
+   "median": 0.2135881781578064,
+   "iqr": 0.0591784305870533
+  },
+  "vocal_voiced": {
+   "median": 0.4317211658821248,
+   "iqr": 0.36646319040064457
+  },
+  "song_length": {
+   "median": 226.5335,
+   "iqr": 46.51325
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "ensiferum/1679779197-106",
+ "band": "ensiferum",
+ "title": "Lost In Despair",
+ "source": "itunes",
+ "album": "Iron",
+ "year": 2004,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.1407591039131066,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.945024972118508,
+  "lufs": -9.99191552636313,
+  "rms_dbfs": -9.052260841054963,
+  "crest": 9.052260398864746,
+  "centroid": 2800.414202185408,
+  "flatness": 0.02905995585024357,
+  "sub100_share": 0.42090731859207153,
+  "lowest_pitch": 88.824462890625,
+  "harmonic_share": 0.7934613823890686,
+  "clean_share": 0.045771916214119475,
+  "minor_share": -0.0871620222120173,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.7591685652732849,
+  "vocal_share": 4.7184067852867884e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 337.72
+ }
+}

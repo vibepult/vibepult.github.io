@@ -1,0 +1,32 @@
+{
+ "id": "powerwolf/1184700533-106",
+ "band": "powerwolf",
+ "title": "Cardinal Sin",
+ "source": "itunes",
+ "album": "Preachers of the Night",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 6.666666666666667,
+  "tempo_var": 2.517583120204603,
+  "low_onset_rate": 8.3,
+  "lufs": -8.58049714712754,
+  "rms_dbfs": -7.103424551428951,
+  "crest": 7.103424072265625,
+  "centroid": 2434.4180643383324,
+  "flatness": 0.022177841514348984,
+  "sub100_share": 0.5456603765487671,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8506484627723694,
+  "clean_share": 0.02244582043343653,
+  "minor_share": 0.1451725427644851,
+  "chord_rate": 1.2,
+  "repetitiveness": 0.8861797451972961,
+  "vocal_share": 0.11910045892000198,
+  "vocal_voiced": 0.8742138364779874,
+  "song_length": 227.04
+ }
+}

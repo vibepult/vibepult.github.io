@@ -1,0 +1,32 @@
+{
+ "id": "lamb-of-god/1627094333-105",
+ "band": "lamb-of-god",
+ "title": "Omens",
+ "source": "itunes",
+ "album": "Omens",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.565041946220006,
+  "tempo_var": 7.399670395206627,
+  "low_onset_rate": 1.2658648565761068,
+  "lufs": -8.21562149510527,
+  "rms_dbfs": -7.219545043966297,
+  "crest": 7.219545364379883,
+  "centroid": 2165.8216387389193,
+  "flatness": 0.022059448063373566,
+  "sub100_share": 0.30630385875701904,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7054422497749329,
+  "clean_share": 0.058004640371229696,
+  "minor_share": 0.00985275865438251,
+  "chord_rate": 1.5656749541862371,
+  "repetitiveness": 0.9246334433555603,
+  "vocal_share": 0.13186347484588623,
+  "vocal_voiced": 0.0891891891891892,
+  "song_length": 227.9
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "hamlet/1786509868-107",
+ "band": "hamlet",
+ "title": "Al Lado",
+ "source": "itunes",
+ "album": "Sanatorio de Muñecos",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 3.9666426809210527,
+  "tempo_var": 16.332964519235958,
+  "low_onset_rate": 3.866643285603715,
+  "lufs": -16.267819770591448,
+  "rms_dbfs": -15.524732298347558,
+  "crest": 15.524731636047363,
+  "centroid": 2487.8413052330175,
+  "flatness": 0.01986740157008171,
+  "sub100_share": 0.275826632976532,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.762103259563446,
+  "clean_share": 0.20726991492652747,
+  "minor_share": 0.07893686102670655,
+  "chord_rate": 2.3666523558436534,
+  "repetitiveness": 0.842971920967102,
+  "vocal_share": 0.030354302376508713,
+  "vocal_voiced": 0.12693498452012383,
+  "song_length": 206.388
+ }
+}

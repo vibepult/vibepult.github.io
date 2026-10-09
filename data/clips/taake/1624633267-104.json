@@ -1,0 +1,32 @@
+{
+ "id": "taake/1624633267-104",
+ "band": "taake",
+ "title": "Havet I Huset",
+ "source": "itunes",
+ "album": "Kong Vinter",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.377015346942734,
+  "tempo_var": 14.169670652815268,
+  "low_onset_rate": 7.851897759782767,
+  "lufs": -7.808552483003312,
+  "rms_dbfs": -9.069503452289053,
+  "crest": 9.069503784179688,
+  "centroid": 2581.295869852724,
+  "flatness": 0.03734121099114418,
+  "sub100_share": 0.11708897352218628,
+  "lowest_pitch": 174.957275390625,
+  "harmonic_share": 0.6880525946617126,
+  "clean_share": 0.0,
+  "minor_share": -0.15826685976444543,
+  "chord_rate": 1.971327522668865,
+  "repetitiveness": 0.9186166524887085,
+  "vocal_share": 3.6958698501621257e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 455.816
+ }
+}

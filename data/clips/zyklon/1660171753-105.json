@@ -1,0 +1,32 @@
+{
+ "id": "zyklon/1660171753-105",
+ "band": "zyklon",
+ "title": "No Names Above the Names",
+ "source": "itunes",
+ "album": "Aeon",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.243366023371963,
+  "tempo_var": 2.383250640297917,
+  "low_onset_rate": 7.3841251272850705,
+  "lufs": -10.15935016057187,
+  "rms_dbfs": -9.773975247149139,
+  "crest": 9.773975372314453,
+  "centroid": 2699.7769773092227,
+  "flatness": 0.032823216170072556,
+  "sub100_share": 0.28615522384643555,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7697830200195312,
+  "clean_share": 0.005430566330488751,
+  "minor_share": -0.011371924076923667,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.8877172470092773,
+  "vocal_share": 0.05438147857785225,
+  "vocal_voiced": 0.09603340292275574,
+  "song_length": 256.64
+ }
+}

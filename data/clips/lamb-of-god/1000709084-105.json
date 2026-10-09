@@ -1,0 +1,32 @@
+{
+ "id": "lamb-of-god/1000709084-105",
+ "band": "lamb-of-god",
+ "title": "Footprints",
+ "source": "itunes",
+ "album": "VII: Sturm und Drang",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 7.3507127963923775,
+  "tempo_var": 18.920970354076612,
+  "low_onset_rate": 7.7850730979973815,
+  "lufs": -9.423173920093328,
+  "rms_dbfs": -8.185035951337156,
+  "crest": 8.185035705566406,
+  "centroid": 2459.2717870515926,
+  "flatness": 0.03156165033578873,
+  "sub100_share": 0.4748183786869049,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7583505511283875,
+  "clean_share": 0.009309542280837859,
+  "minor_share": 0.18928178141170648,
+  "chord_rate": 2.3054508315957913,
+  "repetitiveness": 0.9189766049385071,
+  "vocal_share": 0.09843391180038452,
+  "vocal_voiced": 0.1757188498402556,
+  "song_length": 264.687
+ }
+}

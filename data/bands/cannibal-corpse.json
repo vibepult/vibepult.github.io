@@ -1,0 +1,127 @@
+{
+ "slug": "cannibal-corpse",
+ "name": "Cannibal Corpse",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 28692971,
+  "deezer": 2999,
+  "spotify": "0yLwGBQiBqhXOvmTfH2A7n"
+ },
+ "metadata": {
+  "formed": 1988,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 4,
+  "full_lengths": 16,
+  "genre": "Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 330698,
+  "themes": "Necrophilia, Misogyny (early); Gore, Death, Torture, Cannibalism, Zombies",
+  "release_year": 2000
+ },
+ "partial": false,
+ "clips": [
+  "cannibal-corpse/56584339-106",
+  "cannibal-corpse/56584850-105",
+  "cannibal-corpse/56585354-105",
+  "cannibal-corpse/193562544-106",
+  "cannibal-corpse/56579462-108",
+  "cannibal-corpse/56580241-106",
+  "cannibal-corpse/56583555-106",
+  "cannibal-corpse/56587302-107",
+  "cannibal-corpse/129322268-107",
+  "cannibal-corpse/299470818-107",
+  "cannibal-corpse/495057213-106",
+  "cannibal-corpse/894310780-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 37.535385564271266
+  },
+  "onset_rate": {
+   "median": 6.216620308083023,
+   "iqr": 1.149992819458511
+  },
+  "tempo_var": {
+   "median": 12.36004962927652,
+   "iqr": 9.806985394267652
+  },
+  "low_onset_rate": {
+   "median": 7.683275385103778,
+   "iqr": 2.4416638952296017
+  },
+  "lufs": {
+   "median": -9.595094226961118,
+   "iqr": 2.147691538992893
+  },
+  "rms_dbfs": {
+   "median": -9.115734498854689,
+   "iqr": 2.580206641218835
+  },
+  "crest": {
+   "median": 9.115734577178955,
+   "iqr": 2.580206513404846
+  },
+  "centroid": {
+   "median": 2604.3288862439563,
+   "iqr": 300.4931918551679
+  },
+  "flatness": {
+   "median": 0.03422241844236851,
+   "iqr": 0.01880339113995433
+  },
+  "sub100_share": {
+   "median": 0.2664606645703316,
+   "iqr": 0.18301725015044212
+  },
+  "lowest_pitch": {
+   "median": 44.4122314453125,
+   "iqr": 30.28106689453125
+  },
+  "harmonic_share": {
+   "median": 0.7338517606258392,
+   "iqr": 0.1198846846818924
+  },
+  "clean_share": {
+   "median": 0.005027068832173241,
+   "iqr": 0.018376067608628505
+  },
+  "minor_share": {
+   "median": 0.02309363880965834,
+   "iqr": 0.1415498473311707
+  },
+  "chord_rate": {
+   "median": 2.5999999999999996,
+   "iqr": 0.4916327795498181
+  },
+  "repetitiveness": {
+   "median": 0.9421592056751251,
+   "iqr": 0.04201848804950714
+  },
+  "vocal_share": {
+   "median": 0.1555825173854828,
+   "iqr": 0.07900779694318771
+  },
+  "vocal_voiced": {
+   "median": 0.4436974789915966,
+   "iqr": 0.27464846885516864
+  },
+  "song_length": {
+   "median": 214.22,
+   "iqr": 43.16
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

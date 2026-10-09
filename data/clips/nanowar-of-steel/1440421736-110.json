@@ -1,0 +1,32 @@
+{
+ "id": "nanowar-of-steel/1440421736-110",
+ "band": "nanowar-of-steel",
+ "title": "Tooth Fairy",
+ "source": "itunes",
+ "album": "Stairway To Valhalla",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.479622266401591,
+  "tempo_var": 1.1932255441851745,
+  "low_onset_rate": 5.9139825680065945,
+  "lufs": -11.808959865820286,
+  "rms_dbfs": -11.06445407219266,
+  "crest": 11.064454078674316,
+  "centroid": 2524.977011672574,
+  "flatness": 0.030574969947338104,
+  "sub100_share": 0.29756537079811096,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.5157484412193298,
+  "clean_share": 0.005430566330488751,
+  "minor_share": 0.2183698379018777,
+  "chord_rate": 1.0357822576734714,
+  "repetitiveness": 0.8182933926582336,
+  "vocal_share": 0.25306466221809387,
+  "vocal_voiced": 0.8295003965107058,
+  "song_length": 297.48
+ }
+}

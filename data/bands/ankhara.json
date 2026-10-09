@@ -1,0 +1,127 @@
+{
+ "slug": "ankhara",
+ "name": "Ankhara",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 48886867,
+  "deezer": 131960,
+  "spotify": "4c0CmlfLtocEfBgq5w289e"
+ },
+ "metadata": {
+  "formed": 1995,
+  "split": null,
+  "country": "ES",
+  "status": "active",
+  "members": 5,
+  "past_members": 7,
+  "full_lengths": 5,
+  "genre": "Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 2742,
+  "themes": "Love, Inner power/struggles, Fantasy",
+  "release_year": 2010
+ },
+ "partial": false,
+ "clips": [
+  "ankhara/373318778-106",
+  "ankhara/373369219-107",
+  "ankhara/1707583853-105",
+  "ankhara/1707578482-105",
+  "ankhara/373318778-105",
+  "ankhara/373369219-106",
+  "ankhara/1707583853-104",
+  "ankhara/1707578482-106",
+  "ankhara/373318778-107",
+  "ankhara/373369219-108",
+  "ankhara/1707583853-106",
+  "ankhara/1707578482-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 44.17067307692308
+  },
+  "onset_rate": {
+   "median": 5.756706617129529,
+   "iqr": 1.6000316318964414
+  },
+  "tempo_var": {
+   "median": 13.019839794705815,
+   "iqr": 15.132269424290321
+  },
+  "low_onset_rate": {
+   "median": 5.5998306929495705,
+   "iqr": 4.070136482526694
+  },
+  "lufs": {
+   "median": -7.83542061790228,
+   "iqr": 1.313983350214695
+  },
+  "rms_dbfs": {
+   "median": -7.036177942524692,
+   "iqr": 1.7929306724441982
+  },
+  "crest": {
+   "median": 7.03617787361145,
+   "iqr": 1.7929307222366333
+  },
+  "centroid": {
+   "median": 2501.706274653535,
+   "iqr": 199.65514822897694
+  },
+  "flatness": {
+   "median": 0.024795442819595337,
+   "iqr": 0.0060227615758776665
+  },
+  "sub100_share": {
+   "median": 0.32331423461437225,
+   "iqr": 0.1686573252081871
+  },
+  "lowest_pitch": {
+   "median": 44.4122314453125,
+   "iqr": 14.8040771484375
+  },
+  "harmonic_share": {
+   "median": 0.7925836145877838,
+   "iqr": 0.029155179858207703
+  },
+  "clean_share": {
+   "median": 0.03908045770116225,
+   "iqr": 0.11212070485162992
+  },
+  "minor_share": {
+   "median": 0.15591974238875267,
+   "iqr": 0.1616053489254409
+  },
+  "chord_rate": {
+   "median": 1.5035548901711682,
+   "iqr": 0.13902220740049764
+  },
+  "repetitiveness": {
+   "median": 0.8451982140541077,
+   "iqr": 0.08971984684467316
+  },
+  "vocal_share": {
+   "median": 0.14225364476442337,
+   "iqr": 0.07026156596839428
+  },
+  "vocal_voiced": {
+   "median": 0.7551334581569674,
+   "iqr": 0.24247947149296134
+  },
+  "song_length": {
+   "median": 282.7935,
+   "iqr": 64.06175000000002
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "wolf-spider/1680229430-107",
+ "band": "wolf-spider",
+ "title": "Niemoc",
+ "source": "itunes",
+ "album": "VI",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 1.9379151917761723,
+  "tempo_var": 3.7856295288322395,
+  "low_onset_rate": 4.310190685157349,
+  "lufs": -11.160922113259439,
+  "rms_dbfs": -10.700962437068187,
+  "crest": 10.70096206665039,
+  "centroid": 2053.332895571167,
+  "flatness": 0.01887710578739643,
+  "sub100_share": 0.21022988855838776,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8080291748046875,
+  "clean_share": 0.4142746314972847,
+  "minor_share": -0.349186393249416,
+  "chord_rate": 1.0357822576734714,
+  "repetitiveness": 0.6926087737083435,
+  "vocal_share": 0.23449915647506714,
+  "vocal_voiced": 0.9373040752351097,
+  "song_length": 269.587
+ }
+}

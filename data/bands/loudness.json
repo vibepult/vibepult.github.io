@@ -1,0 +1,127 @@
+{
+ "slug": "loudness",
+ "name": "Loudness",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 82625317,
+  "deezer": 249476,
+  "spotify": "2bjzKs28cL5EVKB0xqUGuJ"
+ },
+ "metadata": {
+  "formed": 1981,
+  "split": null,
+  "country": "JP",
+  "status": "active",
+  "members": 4,
+  "past_members": 7,
+  "full_lengths": 34,
+  "genre": "Heavy Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 7194,
+  "themes": "Rocking, Freedom",
+  "release_year": 1986
+ },
+ "partial": false,
+ "clips": [
+  "loudness/309954417-105",
+  "loudness/340105849-105",
+  "loudness/336668278-105",
+  "loudness/315387116-105",
+  "loudness/336668979-105",
+  "loudness/336669037-105",
+  "loudness/312461016-105",
+  "loudness/1622412178-109",
+  "loudness/309954417-106",
+  "loudness/340105849-106",
+  "loudness/336668278-104",
+  "loudness/315387116-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 44.6674317655051
+  },
+  "onset_rate": {
+   "median": 4.377015346942734,
+   "iqr": 1.1853103397680251
+  },
+  "tempo_var": {
+   "median": 12.399268572691408,
+   "iqr": 21.776025710238063
+  },
+  "low_onset_rate": {
+   "median": 5.095380461135626,
+   "iqr": 1.4895438703283466
+  },
+  "lufs": {
+   "median": -14.764712683554198,
+   "iqr": 6.831202944660262
+  },
+  "rms_dbfs": {
+   "median": -14.691144813028357,
+   "iqr": 6.984338814805133
+  },
+  "crest": {
+   "median": 14.427748203277588,
+   "iqr": 5.117220878601074
+  },
+  "centroid": {
+   "median": 2708.7877231035973,
+   "iqr": 360.7759065492937
+  },
+  "flatness": {
+   "median": 0.03715710714459419,
+   "iqr": 0.012586260680109262
+  },
+  "sub100_share": {
+   "median": 0.18508780747652054,
+   "iqr": 0.0683455690741539
+  },
+  "lowest_pitch": {
+   "median": 64.599609375,
+   "iqr": 30.28106689453125
+  },
+  "harmonic_share": {
+   "median": 0.7169169783592224,
+   "iqr": 0.06856377422809601
+  },
+  "clean_share": {
+   "median": 0.018197587174959513,
+   "iqr": 0.03238944918541505
+  },
+  "minor_share": {
+   "median": 0.030690094886975966,
+   "iqr": 0.13138855745279815
+  },
+  "chord_rate": {
+   "median": 1.7875597027590555,
+   "iqr": 0.2850414070507814
+  },
+  "repetitiveness": {
+   "median": 0.8283328711986542,
+   "iqr": 0.11502940952777863
+  },
+  "vocal_share": {
+   "median": 0.20106537640094757,
+   "iqr": 0.1056441217660904
+  },
+  "vocal_voiced": {
+   "median": 0.7680525164113785,
+   "iqr": 0.21379753304560423
+  },
+  "song_length": {
+   "median": 263.2715,
+   "iqr": 58.58000000000001
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

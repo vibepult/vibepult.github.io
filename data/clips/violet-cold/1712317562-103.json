@@ -1,0 +1,32 @@
+{
+ "id": "violet-cold/1712317562-103",
+ "band": "violet-cold",
+ "title": "Lovegaze",
+ "source": "itunes",
+ "album": "Anomie",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.233269338331998,
+  "tempo_var": 7.518861828887661,
+  "low_onset_rate": 5.433251198016659,
+  "lufs": -9.326418307174334,
+  "rms_dbfs": -9.062997360348152,
+  "crest": 9.062996864318848,
+  "centroid": 2149.5428889861023,
+  "flatness": 0.016160529106855392,
+  "sub100_share": 0.28707975149154663,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8378660082817078,
+  "clean_share": 0.1136890951276102,
+  "minor_share": -0.12820246693685833,
+  "chord_rate": 0.9999848830705508,
+  "repetitiveness": 0.7344012260437012,
+  "vocal_share": 5.275588819131372e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 485.825
+ }
+}

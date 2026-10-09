@@ -1,0 +1,32 @@
+{
+ "id": "manowar/724147263-104",
+ "band": "manowar",
+ "title": "Mountains",
+ "source": "itunes",
+ "album": "Sign of the Hammer",
+ "year": 1984,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.4080577510546477,
+  "tempo_var": 6.207880282534463,
+  "low_onset_rate": 5.513034597294284,
+  "lufs": -16.744604079079355,
+  "rms_dbfs": -16.783154484642452,
+  "crest": 16.538799285888672,
+  "centroid": 1606.1062089539762,
+  "flatness": 0.0029455949552357197,
+  "sub100_share": 0.133735790848732,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.9380648732185364,
+  "clean_share": 0.8510473235065943,
+  "minor_share": -0.21228202464632084,
+  "chord_rate": 0.7350712796392378,
+  "repetitiveness": 0.4970705509185791,
+  "vocal_share": 0.562562108039856,
+  "vocal_voiced": 0.9431396786155748,
+  "song_length": 459.0
+ }
+}

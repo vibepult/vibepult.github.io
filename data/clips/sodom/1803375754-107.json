@@ -1,0 +1,32 @@
+{
+ "id": "sodom/1803375754-107",
+ "band": "sodom",
+ "title": "Gun Without Groom",
+ "source": "itunes",
+ "album": "The Arsonist",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 6.332586633775609,
+  "tempo_var": 5.191955368083684,
+  "low_onset_rate": 7.199151120502798,
+  "lufs": -8.659169543321761,
+  "rms_dbfs": -7.672661430169905,
+  "crest": 7.672661781311035,
+  "centroid": 2430.0506031630957,
+  "flatness": 0.03121495433151722,
+  "sub100_share": 0.4783376157283783,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7946076393127441,
+  "clean_share": 0.03248259860788863,
+  "minor_share": 0.07951170600864235,
+  "chord_rate": 1.966434796804005,
+  "repetitiveness": 0.9533764719963074,
+  "vocal_share": 0.1166594848036766,
+  "vocal_voiced": 0.14308943089430895,
+  "song_length": 283.875
+ }
+}

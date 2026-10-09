@@ -1,0 +1,32 @@
+{
+ "id": "tnt/1444106542-107",
+ "band": "tnt",
+ "title": "Listen to Your Heart",
+ "source": "itunes",
+ "album": "Tell No Tales",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.641944067303496,
+  "tempo_var": 7.989989940021644,
+  "low_onset_rate": 4.57748933229889,
+  "lufs": -15.888975723301714,
+  "rms_dbfs": -16.435781104769823,
+  "crest": 16.435781478881836,
+  "centroid": 2859.843057246458,
+  "flatness": 0.05606018751859665,
+  "sub100_share": 0.10172118246555328,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.6262191534042358,
+  "clean_share": 0.017843289371605897,
+  "minor_share": -0.3416616852212292,
+  "chord_rate": 1.871090529990787,
+  "repetitiveness": 0.8217649459838867,
+  "vocal_share": 0.3910101652145386,
+  "vocal_voiced": 0.7676685621445979,
+  "song_length": 197.107
+ }
+}

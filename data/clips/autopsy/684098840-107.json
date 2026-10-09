@@ -1,0 +1,32 @@
+{
+ "id": "autopsy/684098840-107",
+ "band": "autopsy",
+ "title": "Bridge of Bones",
+ "source": "itunes",
+ "album": "Macabre Eternal",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 2.8734604567715656,
+  "tempo_var": 18.216338716071046,
+  "low_onset_rate": 6.415167531396984,
+  "lufs": -7.7859086665951,
+  "rms_dbfs": -7.9669696133625765,
+  "crest": 7.9669694900512695,
+  "centroid": 2439.264903587388,
+  "flatness": 0.023852847516536713,
+  "sub100_share": 0.247779980301857,
+  "lowest_pitch": 94.207763671875,
+  "harmonic_share": 0.7542338371276855,
+  "clean_share": 0.028704422032583398,
+  "minor_share": -0.10511349831856692,
+  "chord_rate": 2.840048125878873,
+  "repetitiveness": 0.9037213325500488,
+  "vocal_share": 0.03015037253499031,
+  "vocal_voiced": 0.0,
+  "song_length": 285.867
+ }
+}

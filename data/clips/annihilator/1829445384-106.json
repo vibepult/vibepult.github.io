@@ -1,0 +1,32 @@
+{
+ "id": "annihilator/1829445384-106",
+ "band": "annihilator",
+ "title": "Time Bomb",
+ "source": "itunes",
+ "album": "Carnival Diablos",
+ "year": 2001,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 1.9999697661411016,
+  "tempo_var": 24.220428496694897,
+  "low_onset_rate": 1.299980347991716,
+  "lufs": -10.320101427192464,
+  "rms_dbfs": -10.060597231294926,
+  "crest": 10.06059741973877,
+  "centroid": 2601.0958431725153,
+  "flatness": 0.03338129073381424,
+  "sub100_share": 0.26329436898231506,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.5812619924545288,
+  "clean_share": 0.0069605568445475635,
+  "minor_share": -0.06776621834784968,
+  "chord_rate": 0.5999909298423305,
+  "repetitiveness": 0.9720370769500732,
+  "vocal_share": 0.24571524560451508,
+  "vocal_voiced": 0.2057471264367816,
+  "song_length": 289.173
+ }
+}

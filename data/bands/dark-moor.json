@@ -1,0 +1,127 @@
+{
+ "slug": "dark-moor",
+ "name": "Dark Moor",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 258882455,
+  "deezer": 4816,
+  "spotify": "0YWKRTzA4kBceGwjywtMkh"
+ },
+ "metadata": {
+  "formed": 1993,
+  "split": null,
+  "country": "ES",
+  "status": "active",
+  "members": 2,
+  "past_members": 14,
+  "full_lengths": 11,
+  "genre": "Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 19765,
+  "themes": "Fantasy tales, Quests, Spanish culture, Science fiction",
+  "release_year": 2006
+ },
+ "partial": false,
+ "clips": [
+  "dark-moor/1615077513-106",
+  "dark-moor/1615082360-107",
+  "dark-moor/1615082527-108",
+  "dark-moor/1615076996-107",
+  "dark-moor/1615080953-107",
+  "dark-moor/1462669811-106",
+  "dark-moor/1462669760-106",
+  "dark-moor/1462669829-105",
+  "dark-moor/1396326288-106",
+  "dark-moor/1549085295-108",
+  "dark-moor/1447225147-106",
+  "dark-moor/1615077513-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 47.784711052389696
+  },
+  "onset_rate": {
+   "median": 4.844787979440431,
+   "iqr": 2.6980457195849294
+  },
+  "tempo_var": {
+   "median": 8.098639300035973,
+   "iqr": 22.20990792405962
+  },
+  "low_onset_rate": {
+   "median": 5.713508582650439,
+   "iqr": 3.1992306829753194
+  },
+  "lufs": {
+   "median": -9.821500014489192,
+   "iqr": 4.4175714348352475
+  },
+  "rms_dbfs": {
+   "median": -9.108212127033038,
+   "iqr": 4.678917086787489
+  },
+  "crest": {
+   "median": 9.1082124710083,
+   "iqr": 4.678917288780212
+  },
+  "centroid": {
+   "median": 2122.2745036975366,
+   "iqr": 576.8557956075147
+  },
+  "flatness": {
+   "median": 0.01413075439631939,
+   "iqr": 0.01874559302814305
+  },
+  "sub100_share": {
+   "median": 0.25240006297826767,
+   "iqr": 0.22341719083487988
+  },
+  "lowest_pitch": {
+   "median": 65.9454345703125,
+   "iqr": 34.31854248046875
+  },
+  "harmonic_share": {
+   "median": 0.831770271062851,
+   "iqr": 0.13497216999530792
+  },
+  "clean_share": {
+   "median": 0.18463925523661753,
+   "iqr": 0.2339022498060512
+  },
+  "minor_share": {
+   "median": 0.06343815469102393,
+   "iqr": 0.2382704869941234
+  },
+  "chord_rate": {
+   "median": 1.0190760922271251,
+   "iqr": 0.6348342869611598
+  },
+  "repetitiveness": {
+   "median": 0.8073629438877106,
+   "iqr": 0.16179686784744263
+  },
+  "vocal_share": {
+   "median": 0.26061174273490906,
+   "iqr": 0.14846081286668777
+  },
+  "vocal_voiced": {
+   "median": 0.7212205270457698,
+   "iqr": 0.14663873950856154
+  },
+  "song_length": {
+   "median": 273.87350000000004,
+   "iqr": 45.94725
+  },
+  "vocal_presence": {
+   "median": 0.5833333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

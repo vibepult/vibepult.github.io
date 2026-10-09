@@ -1,0 +1,32 @@
+{
+ "id": "ancient/54263635-107",
+ "band": "ancient",
+ "title": "Satan's Children",
+ "source": "itunes",
+ "album": "Proxima Centauri",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.713508582650439,
+  "tempo_var": 2.438532543175775,
+  "low_onset_rate": 6.983177156572759,
+  "lufs": -10.562892448674553,
+  "rms_dbfs": -10.410797957048638,
+  "crest": 10.410797119140625,
+  "centroid": 2551.1876753973906,
+  "flatness": 0.03546002134680748,
+  "sub100_share": 0.2823764681816101,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.7917506694793701,
+  "clean_share": 0.010861132660977503,
+  "minor_share": 0.23357142256401187,
+  "chord_rate": 2.205213838917713,
+  "repetitiveness": 0.881348192691803,
+  "vocal_share": 0.07963219285011292,
+  "vocal_voiced": 0.016726403823178016,
+  "song_length": 331.04
+ }
+}

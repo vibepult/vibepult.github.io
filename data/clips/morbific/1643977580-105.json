@@ -1,0 +1,32 @@
+{
+ "id": "morbific/1643977580-105",
+ "band": "morbific",
+ "title": "Initiation into Oblivion",
+ "source": "itunes",
+ "album": "Squirm Beyond the Mortal Realm",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 1.8042658682054018,
+  "tempo_var": 10.342982780832118,
+  "low_onset_rate": 6.214693546040828,
+  "lufs": -13.84078755246914,
+  "rms_dbfs": -11.64528360772139,
+  "crest": 11.645283699035645,
+  "centroid": 307.53300260743987,
+  "flatness": 9.362271157442592e-06,
+  "sub100_share": 0.716727077960968,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.9659150242805481,
+  "clean_share": 1.0,
+  "minor_share": -0.07522729922397564,
+  "chord_rate": 0.46777263249769674,
+  "repetitiveness": 0.8980100154876709,
+  "vocal_share": 0.0003011816879734397,
+  "vocal_voiced": 1.0,
+  "song_length": 127.439
+ }
+}

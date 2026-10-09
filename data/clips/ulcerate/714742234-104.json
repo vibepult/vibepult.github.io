@@ -1,0 +1,32 @@
+{
+ "id": "ulcerate/714742234-104",
+ "band": "ulcerate",
+ "title": "Caecus",
+ "source": "itunes",
+ "album": "Everything Is Fire",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 6.582229185860447,
+  "tempo_var": 12.72321343614054,
+  "low_onset_rate": 9.68957595888086,
+  "lufs": -8.03554503109838,
+  "rms_dbfs": -7.603738605812737,
+  "crest": 7.603738307952881,
+  "centroid": 2656.829337426395,
+  "flatness": 0.037381790578365326,
+  "sub100_share": 0.39607152342796326,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.781198263168335,
+  "clean_share": 0.0,
+  "minor_share": 0.03486419184099396,
+  "chord_rate": 2.6395741405227175,
+  "repetitiveness": 0.9461362957954407,
+  "vocal_share": 0.028122572228312492,
+  "vocal_voiced": 0.23958333333333334,
+  "song_length": 386.227
+ }
+}

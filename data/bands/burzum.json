@@ -1,0 +1,127 @@
+{
+ "slug": "burzum",
+ "name": "Burzum",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 265766061,
+  "deezer": 1095,
+  "spotify": "7L6u6TyhjuwubrcojPeNgf"
+ },
+ "metadata": {
+  "formed": 1991,
+  "split": null,
+  "country": "NO",
+  "status": "active",
+  "members": 1,
+  "past_members": 0,
+  "full_lengths": 14,
+  "genre": "Black Metal, Ambient",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 52267,
+  "themes": "Mythology, Folklore, Odalism, Darkness, Philosophy, Mysticism",
+  "release_year": 1998
+ },
+ "partial": false,
+ "clips": [
+  "burzum/286929510-104",
+  "burzum/286930912-103",
+  "burzum/290345171-103",
+  "burzum/286841886-104",
+  "burzum/353714408-105",
+  "burzum/416115499-104",
+  "burzum/513990988-106",
+  "burzum/669033628-106",
+  "burzum/286929510-105",
+  "burzum/286930912-104",
+  "burzum/290345171-104",
+  "burzum/286841886-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 105.5126953125,
+   "iqr": 36.2631036059862
+  },
+  "onset_rate": {
+   "median": 2.99040361489599,
+   "iqr": 2.7545019517044076
+  },
+  "tempo_var": {
+   "median": 9.983633524387407,
+   "iqr": 12.613343952532558
+  },
+  "low_onset_rate": {
+   "median": 5.607109780342336,
+   "iqr": 4.493958505067159
+  },
+  "lufs": {
+   "median": -12.482437569256502,
+   "iqr": 3.210571997527097
+  },
+  "rms_dbfs": {
+   "median": -12.10714945785106,
+   "iqr": 2.5248072381357414
+  },
+  "crest": {
+   "median": 12.107149600982666,
+   "iqr": 2.076535701751709
+  },
+  "centroid": {
+   "median": 1756.1883518139434,
+   "iqr": 1423.8033085359202
+  },
+  "flatness": {
+   "median": 0.011077419854700565,
+   "iqr": 0.029263133474159986
+  },
+  "sub100_share": {
+   "median": 0.21917062252759933,
+   "iqr": 0.16139537282288074
+  },
+  "lowest_pitch": {
+   "median": 57.8704833984375,
+   "iqr": 23.55194091796875
+  },
+  "harmonic_share": {
+   "median": 0.8051632940769196,
+   "iqr": 0.22390219569206238
+  },
+  "clean_share": {
+   "median": 0.5081458494957332,
+   "iqr": 0.9200930954228084
+  },
+  "minor_share": {
+   "median": 0.05316741572683348,
+   "iqr": 0.13077789226328798
+  },
+  "chord_rate": {
+   "median": 1.2696685739223197,
+   "iqr": 0.5680096251757747
+  },
+  "repetitiveness": {
+   "median": 0.8363498747348785,
+   "iqr": 0.08822409808635712
+  },
+  "vocal_share": {
+   "median": 0.0911720022559166,
+   "iqr": 0.035828106105327606
+  },
+  "vocal_voiced": {
+   "median": 0.3522975929978118,
+   "iqr": 0.2142070094066318
+  },
+  "song_length": {
+   "median": 284.62,
+   "iqr": 257.72974999999997
+  },
+  "vocal_presence": {
+   "median": 0.4166666666666667,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

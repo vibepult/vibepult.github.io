@@ -1,0 +1,32 @@
+{
+ "id": "elyose/1665196585-104",
+ "band": "elyose",
+ "title": "L'emblème",
+ "source": "itunes",
+ "album": "Déviante",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.610901663191583,
+  "tempo_var": 18.332406415962442,
+  "low_onset_rate": 6.181281215148136,
+  "lufs": -10.173459537680085,
+  "rms_dbfs": -9.178979995700981,
+  "crest": 9.178980827331543,
+  "centroid": 2462.79785009593,
+  "flatness": 0.02747724950313568,
+  "sub100_share": 0.48915937542915344,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7459352612495422,
+  "clean_share": 0.07447633824670287,
+  "minor_share": 0.17852129647733422,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.8651250600814819,
+  "vocal_share": 0.12775078415870667,
+  "vocal_voiced": 0.8748964374482188,
+  "song_length": 273.359
+ }
+}

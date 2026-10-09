@@ -1,0 +1,32 @@
+{
+ "id": "into-the-fray/1570799566-103",
+ "band": "into-the-fray",
+ "title": "Pentagrammed Sun",
+ "source": "itunes",
+ "album": "Into the Fray",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 5.9139825680065945,
+  "tempo_var": 13.103358144259781,
+  "low_onset_rate": 6.8829401638946806,
+  "lufs": -6.745594676555273,
+  "rms_dbfs": -6.237992962315127,
+  "crest": 6.237992763519287,
+  "centroid": 2600.3961609730422,
+  "flatness": 0.042297519743442535,
+  "sub100_share": 0.3615889549255371,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.5972798466682434,
+  "clean_share": 0.0069821567106283944,
+  "minor_share": 0.031438931037991114,
+  "chord_rate": 2.3722754933811765,
+  "repetitiveness": 0.9413452744483948,
+  "vocal_share": 0.2488621175289154,
+  "vocal_voiced": 0.15118110236220472,
+  "song_length": 235.027
+ }
+}

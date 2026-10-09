@@ -1,0 +1,32 @@
+{
+ "id": "dr-sin/1549458076-108",
+ "band": "dr-sin",
+ "title": "See Me Now",
+ "source": "itunes",
+ "album": "Back Home Again",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.773223464093488,
+  "tempo_var": 2.7535866421840556,
+  "low_onset_rate": 3.9760673762304224,
+  "lufs": -9.92004746772633,
+  "rms_dbfs": -9.462309249643079,
+  "crest": 9.462309837341309,
+  "centroid": 2425.063540054354,
+  "flatness": 0.020513884723186493,
+  "sub100_share": 0.29745593667030334,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7988492846488953,
+  "clean_share": 0.21644685802948022,
+  "minor_share": 0.09017179068434211,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.6458407640457153,
+  "vocal_share": 0.29463857412338257,
+  "vocal_voiced": 0.5239206534422404,
+  "song_length": 271.12
+ }
+}

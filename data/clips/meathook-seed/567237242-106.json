@@ -1,0 +1,32 @@
+{
+ "id": "meathook-seed/567237242-106",
+ "band": "meathook-seed",
+ "title": "A Wilted Remnant",
+ "source": "itunes",
+ "album": "Embedded",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.9092427144450372,
+  "tempo_var": 2.773513943077174,
+  "low_onset_rate": 7.484362119963148,
+  "lufs": -14.433306479864903,
+  "rms_dbfs": -14.266687761031665,
+  "crest": 14.266687393188477,
+  "centroid": 2938.316362010388,
+  "flatness": 0.05220884084701538,
+  "sub100_share": 0.3587215542793274,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7443169951438904,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": 0.04678969057177845,
+  "chord_rate": 2.205213838917713,
+  "repetitiveness": 0.9205148816108704,
+  "vocal_share": 0.0002521709247957915,
+  "vocal_voiced": 0.0,
+  "song_length": 274.0
+ }
+}

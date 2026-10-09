@@ -1,0 +1,32 @@
+{
+ "id": "angra/1697417901-105",
+ "band": "angra",
+ "title": "Paradise",
+ "source": "itunes",
+ "album": "Fireworks",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.0666481230650153,
+  "tempo_var": 0.8140923265531197,
+  "low_onset_rate": 3.7666438902863777,
+  "lufs": -12.830508251268236,
+  "rms_dbfs": -12.46319478715996,
+  "crest": 12.463193893432617,
+  "centroid": 2400.9818004603717,
+  "flatness": 0.03182627633213997,
+  "sub100_share": 0.43413957953453064,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8671938180923462,
+  "clean_share": 0.5127610208816705,
+  "minor_share": 0.016996433236270425,
+  "chord_rate": 1.2333258755804954,
+  "repetitiveness": 0.7772247195243835,
+  "vocal_share": 4.6149926902216976e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 458.2
+ }
+}

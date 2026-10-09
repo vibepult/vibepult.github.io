@@ -1,0 +1,32 @@
+{
+ "id": "rammstein/1440770702-106",
+ "band": "rammstein",
+ "title": "Mutter",
+ "source": "itunes",
+ "album": "Mutter",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "hand",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.132499894208041,
+  "tempo_var": 2.8439227998395133,
+  "low_onset_rate": 3.1658243611677013,
+  "lufs": -11.824636061151852,
+  "rms_dbfs": -11.79334579487434,
+  "crest": 11.793346405029297,
+  "centroid": 2382.5084224272728,
+  "flatness": 0.025688501074910164,
+  "sub100_share": 0.1698453724384308,
+  "lowest_pitch": 123.81591796875,
+  "harmonic_share": 0.7895066142082214,
+  "clean_share": 0.2374323279195669,
+  "minor_share": 0.10624232288925872,
+  "chord_rate": 1.0663829427091205,
+  "repetitiveness": 0.6960325241088867,
+  "vocal_share": 0.1221701055765152,
+  "vocal_voiced": 0.66429418742586,
+  "song_length": 268.6
+ }
+}

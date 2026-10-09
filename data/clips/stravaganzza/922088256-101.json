@@ -1,0 +1,32 @@
+{
+ "id": "stravaganzza/922088256-101",
+ "band": "stravaganzza",
+ "title": "Miedo",
+ "source": "itunes",
+ "album": "Sentimientos",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 2.3722754933811765,
+  "tempo_var": 24.220799096386095,
+  "low_onset_rate": 6.582229185860447,
+  "lufs": -10.038738944849786,
+  "rms_dbfs": -9.78584705649691,
+  "crest": 9.785846710205078,
+  "centroid": 1944.3302417303598,
+  "flatness": 0.028738083317875862,
+  "sub100_share": 0.549919605255127,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.8417233824729919,
+  "clean_share": 0.4615981380915438,
+  "minor_share": -0.06750688579826075,
+  "chord_rate": 1.7374412064200164,
+  "repetitiveness": 0.8599147796630859,
+  "vocal_share": 0.00173315335996449,
+  "vocal_voiced": 0.1010989010989011,
+  "song_length": 218.987
+ }
+}

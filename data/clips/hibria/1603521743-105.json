@@ -1,0 +1,32 @@
+{
+ "id": "hibria/1603521743-105",
+ "band": "hibria",
+ "title": "I Am so Lonely",
+ "source": "itunes",
+ "album": "Me7amorphosis",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 6.3817552005042915,
+  "tempo_var": 9.075949438307756,
+  "low_onset_rate": 5.713508582650439,
+  "lufs": -9.647132291834556,
+  "rms_dbfs": -8.950568207025672,
+  "crest": 8.950568199157715,
+  "centroid": 2738.4980309473744,
+  "flatness": 0.039300840348005295,
+  "sub100_share": 0.35135504603385925,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7025355100631714,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": -0.10059897411235058,
+  "chord_rate": 2.338863162488484,
+  "repetitiveness": 0.9190009832382202,
+  "vocal_share": 0.2113807201385498,
+  "vocal_voiced": 0.7231270358306189,
+  "song_length": 337.536
+ }
+}

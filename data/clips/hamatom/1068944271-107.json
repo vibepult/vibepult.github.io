@@ -1,0 +1,32 @@
+{
+ "id": "hamatom/1068944271-107",
+ "band": "hamatom",
+ "title": "I Have a Dream",
+ "source": "itunes",
+ "album": "Wir sind Gott",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 1.9666547745743035,
+  "tempo_var": 19.754504901319798,
+  "low_onset_rate": 1.666656588622291,
+  "lufs": -10.294347959983185,
+  "rms_dbfs": -10.76137943431559,
+  "crest": 10.76137924194336,
+  "centroid": 2045.6788556903607,
+  "flatness": 0.020090211182832718,
+  "sub100_share": 0.3677920997142792,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7452256083488464,
+  "clean_share": 0.42691415313225056,
+  "minor_share": 0.12030738713417644,
+  "chord_rate": 1.666656588622291,
+  "repetitiveness": 0.8024312853813171,
+  "vocal_share": 0.02816368080675602,
+  "vocal_voiced": 0.5686032138442522,
+  "song_length": 214.0
+ }
+}

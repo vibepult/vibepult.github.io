@@ -1,0 +1,32 @@
+{
+ "id": "slayer/57665862-103",
+ "band": "slayer",
+ "title": "At Dawn They Sleep",
+ "source": "itunes",
+ "album": "Hell Awaits",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 6.333237592780155,
+  "tempo_var": 5.4645300010265085,
+  "low_onset_rate": 6.666565887137005,
+  "lufs": -12.63842054529851,
+  "rms_dbfs": -12.963153638839913,
+  "crest": 12.963153839111328,
+  "centroid": 2882.0854896930323,
+  "flatness": 0.048541925847530365,
+  "sub100_share": 0.18609490990638733,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.5360733866691589,
+  "clean_share": 0.0,
+  "minor_share": 0.23532990605095727,
+  "chord_rate": 1.9666369367054164,
+  "repetitiveness": 0.938690185546875,
+  "vocal_share": 0.18876808881759644,
+  "vocal_voiced": 0.24744897959183673,
+  "song_length": 377.36
+ }
+}

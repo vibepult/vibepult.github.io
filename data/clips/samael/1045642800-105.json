@@ -1,0 +1,32 @@
+{
+ "id": "samael/1045642800-105",
+ "band": "samael",
+ "title": "Mask of the Red Death",
+ "source": "itunes",
+ "album": "Ceremony of Opposites",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 3.7087687290888813,
+  "tempo_var": 30.71608180629978,
+  "low_onset_rate": 7.150238811036222,
+  "lufs": -11.105520753852039,
+  "rms_dbfs": -11.566041058407638,
+  "crest": 11.5660400390625,
+  "centroid": 3013.4373317233576,
+  "flatness": 0.061437394469976425,
+  "sub100_share": 0.1626085788011551,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.6870867013931274,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.26176456896116185,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.8469701409339905,
+  "vocal_share": 0.09381012618541718,
+  "vocal_voiced": 0.32540675844806005,
+  "song_length": 184.053
+ }
+}

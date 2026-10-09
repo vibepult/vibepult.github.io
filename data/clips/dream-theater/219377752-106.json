@@ -1,0 +1,32 @@
+{
+ "id": "dream-theater/219377752-106",
+ "band": "dream-theater",
+ "title": "Hell's Kitchen",
+ "source": "itunes",
+ "album": "Falling Into Infinity",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 3.7662225769297044,
+  "tempo_var": 26.272748907130847,
+  "low_onset_rate": 4.332822433635943,
+  "lufs": -9.142557111130582,
+  "rms_dbfs": -8.193739020561061,
+  "crest": 8.19373893737793,
+  "centroid": 2100.021066628515,
+  "flatness": 0.011555735021829605,
+  "sub100_share": 0.3196694552898407,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8469225764274597,
+  "clean_share": 0.31322505800464034,
+  "minor_share": -0.181484569946312,
+  "chord_rate": 0.5665998567062387,
+  "repetitiveness": 0.6998708844184875,
+  "vocal_share": 8.461876745968766e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 256.827
+ }
+}

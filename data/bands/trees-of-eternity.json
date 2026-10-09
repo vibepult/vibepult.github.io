@@ -1,0 +1,125 @@
+{
+ "slug": "trees-of-eternity",
+ "name": "Trees of Eternity",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1160723938,
+  "deezer": 11177040,
+  "spotify": "7IxOJnsT8vXhTTzb6nlPOO"
+ },
+ "metadata": {
+  "formed": 2009,
+  "split": 2016,
+  "country": "XX",
+  "status": "split-up",
+  "members": 5,
+  "past_members": 0,
+  "full_lengths": 1,
+  "genre": "Atmospheric Doom Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 5802,
+  "themes": "Sorrow, Love, Death, Memories",
+  "release_year": 2016
+ },
+ "partial": false,
+ "clips": [
+  "trees-of-eternity/1494093264-105",
+  "trees-of-eternity/1494093264-106",
+  "trees-of-eternity/1494093264-104",
+  "trees-of-eternity/1494093264-107",
+  "trees-of-eternity/1494093264-103",
+  "trees-of-eternity/1494093264-108",
+  "trees-of-eternity/1494093264-102",
+  "trees-of-eternity/1494093264-109",
+  "trees-of-eternity/1494093264-101",
+  "trees-of-eternity/1494093264-110"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 107.85326086956522,
+   "iqr": 28.008222246503507
+  },
+  "onset_rate": {
+   "median": 2.8,
+   "iqr": 1.6500000000000004
+  },
+  "tempo_var": {
+   "median": 12.867175652110667,
+   "iqr": 8.28602991945952
+  },
+  "low_onset_rate": {
+   "median": 4.783333333333333,
+   "iqr": 1.1416666666666666
+  },
+  "lufs": {
+   "median": -13.892560789038757,
+   "iqr": 5.967028978676851
+  },
+  "rms_dbfs": {
+   "median": -13.681405780293746,
+   "iqr": 6.37704180015713
+  },
+  "crest": {
+   "median": 13.362212181091309,
+   "iqr": 3.7015340328216553
+  },
+  "centroid": {
+   "median": 1769.9816779814073,
+   "iqr": 382.6361556132183
+  },
+  "flatness": {
+   "median": 0.007606754079461098,
+   "iqr": 0.005968085955828428
+  },
+  "sub100_share": {
+   "median": 0.40530742704868317,
+   "iqr": 0.28614572808146477
+  },
+  "lowest_pitch": {
+   "median": 64.599609375,
+   "iqr": 18.16864013671875
+  },
+  "harmonic_share": {
+   "median": 0.9350229501724243,
+   "iqr": 0.03264245390892029
+  },
+  "clean_share": {
+   "median": 0.6598297213622291,
+   "iqr": 0.3426857585139318
+  },
+  "minor_share": {
+   "median": 0.10651975633497918,
+   "iqr": 0.23207400370592043
+  },
+  "chord_rate": {
+   "median": 1.0833333333333335,
+   "iqr": 0.275
+  },
+  "repetitiveness": {
+   "median": 0.6849285662174225,
+   "iqr": 0.12250511348247528
+  },
+  "vocal_share": {
+   "median": 0.1663038283586502,
+   "iqr": 0.14079856872558594
+  },
+  "vocal_voiced": {
+   "median": 0.8528428093645485,
+   "iqr": 0.05056282882662422
+  },
+  "song_length": {
+   "median": 363.307,
+   "iqr": 68.10025000000002
+  },
+  "vocal_presence": {
+   "median": 0.9,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

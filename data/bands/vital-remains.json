@@ -1,0 +1,127 @@
+{
+ "slug": "vital-remains",
+ "name": "Vital Remains",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 28448368,
+  "deezer": 9268,
+  "spotify": "6bPweC1Ugh3y4m5emo7A36"
+ },
+ "metadata": {
+  "formed": 1988,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 3,
+  "past_members": 19,
+  "full_lengths": 6,
+  "genre": "Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 15497,
+  "themes": "Satanism, Occultism, Anti-Christianity, Death",
+  "release_year": 1998
+ },
+ "partial": false,
+ "clips": [
+  "vital-remains/112419294-105",
+  "vital-remains/157992511-105",
+  "vital-remains/299462984-103",
+  "vital-remains/299482335-105",
+  "vital-remains/1045597513-105",
+  "vital-remains/1045697927-105",
+  "vital-remains/112419294-104",
+  "vital-remains/157992511-104",
+  "vital-remains/299462984-102",
+  "vital-remains/299482335-103",
+  "vital-remains/1045597513-106",
+  "vital-remains/1045697927-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 139.77693256578948,
+   "iqr": 28.211950618315498
+  },
+  "onset_rate": {
+   "median": 5.9139825680065945,
+   "iqr": 2.014634281258676
+  },
+  "tempo_var": {
+   "median": 11.37517724371727,
+   "iqr": 8.467011146079601
+  },
+  "low_onset_rate": {
+   "median": 7.55638169733134,
+   "iqr": 1.3515125912749593
+  },
+  "lufs": {
+   "median": -11.012294011551166,
+   "iqr": 3.5181545793288977
+  },
+  "rms_dbfs": {
+   "median": -10.996561858595571,
+   "iqr": 4.222693622962139
+  },
+  "crest": {
+   "median": 10.996561527252197,
+   "iqr": 4.22269332408905
+  },
+  "centroid": {
+   "median": 2954.6405736488678,
+   "iqr": 497.3566436534293
+  },
+  "flatness": {
+   "median": 0.05755338445305824,
+   "iqr": 0.029849045909941196
+  },
+  "sub100_share": {
+   "median": 0.24478904157876968,
+   "iqr": 0.1570570394396782
+  },
+  "lowest_pitch": {
+   "median": 53.8330078125,
+   "iqr": 28.93524169921875
+  },
+  "harmonic_share": {
+   "median": 0.713803231716156,
+   "iqr": 0.08467105031013489
+  },
+  "clean_share": {
+   "median": 0.0,
+   "iqr": 0.0
+  },
+  "minor_share": {
+   "median": 0.09318329259756666,
+   "iqr": 0.3058994049931859
+  },
+  "chord_rate": {
+   "median": 2.288744666149445,
+   "iqr": 1.4033178974930904
+  },
+  "repetitiveness": {
+   "median": 0.9378927648067474,
+   "iqr": 0.042864665389060974
+  },
+  "vocal_share": {
+   "median": 0.14959298074245453,
+   "iqr": 0.06187191605567932
+  },
+  "vocal_voiced": {
+   "median": 0.24784217016029594,
+   "iqr": 0.31887569052847275
+  },
+  "song_length": {
+   "median": 403.033,
+   "iqr": 127.12075000000004
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "enforcer/1458641081-106",
+ "band": "enforcer",
+ "title": "Crystal Suite",
+ "source": "itunes",
+ "album": "Death by Fire",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 3.30782075837657,
+  "tempo_var": 24.871134901581076,
+  "low_onset_rate": 3.9092427144450372,
+  "lufs": -8.390088595749162,
+  "rms_dbfs": -8.121247949184742,
+  "crest": 8.121248245239258,
+  "centroid": 2255.4289816561086,
+  "flatness": 0.02551455609500408,
+  "sub100_share": 0.19636940956115723,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7579830884933472,
+  "clean_share": 0.22963537626066718,
+  "minor_share": 0.05689491011776554,
+  "chord_rate": 2.606161809630025,
+  "repetitiveness": 0.9150605797767639,
+  "vocal_share": 1.2799364412785508e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 236.747
+ }
+}

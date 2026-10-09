@@ -1,0 +1,32 @@
+{
+ "id": "exciter/932617636-106",
+ "band": "exciter",
+ "title": "Invasion / Waiting in the Dark",
+ "source": "itunes",
+ "album": "Unveiling the Wicked",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 54.978390957446805,
+  "onset_rate": 0.7016589487465451,
+  "tempo_var": 14.176945699513219,
+  "low_onset_rate": 0.5680096251757746,
+  "lufs": -8.047677324478173,
+  "rms_dbfs": -7.663166256338285,
+  "crest": 7.663166522979736,
+  "centroid": 2076.498235123544,
+  "flatness": 0.012602671049535275,
+  "sub100_share": 0.3566555976867676,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.8706329464912415,
+  "clean_share": 0.16757176105508145,
+  "minor_share": 0.19836833662189202,
+  "chord_rate": 1.0023699267807789,
+  "repetitiveness": 0.7335852384567261,
+  "vocal_share": 0.0013793398393318057,
+  "vocal_voiced": 0.22816901408450704,
+  "song_length": 339.053
+ }
+}

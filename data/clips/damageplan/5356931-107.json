@@ -1,0 +1,32 @@
+{
+ "id": "damageplan/5356931-107",
+ "band": "damageplan",
+ "title": "Explode",
+ "source": "itunes",
+ "album": "New Found Power",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 6.199587631359365,
+  "tempo_var": 0.0,
+  "low_onset_rate": 7.599494515859867,
+  "lufs": -7.943613120165052,
+  "rms_dbfs": -7.98243759231212,
+  "crest": 7.9824371337890625,
+  "centroid": 2592.402541628801,
+  "flatness": 0.03977580741047859,
+  "sub100_share": 0.2651340663433075,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.687717854976654,
+  "clean_share": 0.010054137664346482,
+  "minor_share": 0.29449193015246117,
+  "chord_rate": 1.9332047452625978,
+  "repetitiveness": 0.909281313419342,
+  "vocal_share": 0.1367853730916977,
+  "vocal_voiced": 0.33108866442199775,
+  "song_length": 193.427
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "van-canto/1393130855-106",
+ "band": "van-canto",
+ "title": "Neverland",
+ "source": "itunes",
+ "album": "Trust in Rust",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 4.066666666666666,
+  "tempo_var": 29.419590795967324,
+  "low_onset_rate": 5.533333333333333,
+  "lufs": -9.82598939648685,
+  "rms_dbfs": -8.539835525243728,
+  "crest": 8.539834976196289,
+  "centroid": 2115.916381977458,
+  "flatness": 0.011919653974473476,
+  "sub100_share": 0.44780677556991577,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8406228423118591,
+  "clean_share": 0.36300309597523217,
+  "minor_share": -0.07068345012959254,
+  "chord_rate": 1.4666666666666666,
+  "repetitiveness": 0.7251378297805786,
+  "vocal_share": 0.20360353589057922,
+  "vocal_voiced": 0.8987889273356401,
+  "song_length": 301.373
+ }
+}

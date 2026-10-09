@@ -1,0 +1,32 @@
+{
+ "id": "trouble/1443849744-106",
+ "band": "trouble",
+ "title": "R.I.P.",
+ "source": "itunes",
+ "album": "Trouble",
+ "year": 1984,
+ "itunes_year": 1990,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 4.1666036794606285,
+  "tempo_var": 18.802736686452835,
+  "low_onset_rate": 5.366585539145289,
+  "lufs": -15.981959318305265,
+  "rms_dbfs": -15.962639783437778,
+  "crest": 15.962373733520508,
+  "centroid": 2478.294618310752,
+  "flatness": 0.026084309443831444,
+  "sub100_share": 0.23482559621334076,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.6920167803764343,
+  "clean_share": 0.02088167053364269,
+  "minor_share": 0.03734238338268159,
+  "chord_rate": 1.9333041072697315,
+  "repetitiveness": 0.8481079339981079,
+  "vocal_share": 0.14800004661083221,
+  "vocal_voiced": 0.5598455598455598,
+  "song_length": 248.8
+ }
+}

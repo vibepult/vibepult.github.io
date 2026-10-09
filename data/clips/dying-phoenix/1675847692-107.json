@@ -1,0 +1,32 @@
+{
+ "id": "dying-phoenix/1675847692-107",
+ "band": "dying-phoenix",
+ "title": "Dead Faces Blue",
+ "source": "itunes",
+ "album": "Winter Is Coming",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 3.575119405518111,
+  "tempo_var": 9.894641961238715,
+  "low_onset_rate": 6.715878509431217,
+  "lufs": -12.830413457735263,
+  "rms_dbfs": -12.383522146908634,
+  "crest": 12.383256912231445,
+  "centroid": 1855.4895688011861,
+  "flatness": 0.008332801051437855,
+  "sub100_share": 0.25698888301849365,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.9045988321304321,
+  "clean_share": 0.5531419705197828,
+  "minor_share": 0.12476572464330882,
+  "chord_rate": 0.7350712796392378,
+  "repetitiveness": 0.5555068254470825,
+  "vocal_share": 0.3317635953426361,
+  "vocal_voiced": 0.8524319868095631,
+  "song_length": 260.637
+ }
+}

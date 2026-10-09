@@ -1,0 +1,32 @@
+{
+ "id": "lacuna-coil/1056457943-106",
+ "band": "lacuna-coil",
+ "title": "1:19",
+ "source": "itunes",
+ "album": "Unleashed Memories (Bonus Tracks)",
+ "year": 2001,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.064092434270658,
+  "tempo_var": 22.331337492896655,
+  "low_onset_rate": 3.3312233067792283,
+  "lufs": -9.217078510891119,
+  "rms_dbfs": -8.185725445833143,
+  "crest": 8.185725212097168,
+  "centroid": 2457.0480964569965,
+  "flatness": 0.020927036181092262,
+  "sub100_share": 0.3298836946487427,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8290264010429382,
+  "clean_share": 0.23511214230471772,
+  "minor_share": 0.20837532952219578,
+  "chord_rate": 1.8654850517963677,
+  "repetitiveness": 0.5754823088645935,
+  "vocal_share": 0.1878516674041748,
+  "vocal_voiced": 0.7776838546069316,
+  "song_length": 299.413
+ }
+}

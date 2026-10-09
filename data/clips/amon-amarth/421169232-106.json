@@ -1,0 +1,32 @@
+{
+ "id": "amon-amarth/421169232-106",
+ "band": "amon-amarth",
+ "title": "The Last Stand of Frej",
+ "source": "itunes",
+ "album": "Surtur Rising (Bonus Track Version)",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.866608214539463,
+  "tempo_var": 14.678445571792071,
+  "low_onset_rate": 6.29990476334447,
+  "lufs": -9.453470023475871,
+  "rms_dbfs": -9.077065462124004,
+  "crest": 9.077065467834473,
+  "centroid": 2742.6089234700294,
+  "flatness": 0.045230042189359665,
+  "sub100_share": 0.3269738256931305,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7480612993240356,
+  "clean_share": 0.0,
+  "minor_share": -0.08968625492645754,
+  "chord_rate": 0.7999879064564406,
+  "repetitiveness": 0.7427321076393127,
+  "vocal_share": 0.11099369078874588,
+  "vocal_voiced": 0.4490049751243781,
+  "song_length": 337.858
+ }
+}

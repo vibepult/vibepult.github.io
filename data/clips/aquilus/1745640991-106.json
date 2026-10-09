@@ -1,0 +1,32 @@
+{
+ "id": "aquilus/1745640991-106",
+ "band": "aquilus",
+ "title": "My Frost-Laden Vale",
+ "source": "itunes",
+ "album": "Bellum II",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.4332965488050067,
+  "tempo_var": 7.455309810953639,
+  "low_onset_rate": 5.399918368580974,
+  "lufs": -17.832950767899625,
+  "rms_dbfs": -17.346786368461842,
+  "crest": 15.034722328186035,
+  "centroid": 1228.7281989650382,
+  "flatness": 0.001270547159947455,
+  "sub100_share": 0.004642566666007042,
+  "lowest_pitch": 123.81591796875,
+  "harmonic_share": 0.963869571685791,
+  "clean_share": 0.9505027068832174,
+  "minor_share": 0.09788066841317222,
+  "chord_rate": 1.333313177427401,
+  "repetitiveness": 0.6889047026634216,
+  "vocal_share": 2.225230673502665e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 1038.853
+ }
+}

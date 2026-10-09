@@ -1,0 +1,127 @@
+{
+ "slug": "decapitated",
+ "name": "Decapitated",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 42258018,
+  "deezer": 5600,
+  "spotify": "17MbhJOaaPHuWnRaWU9xkc"
+ },
+ "metadata": {
+  "formed": 1996,
+  "split": null,
+  "country": "PL",
+  "status": "active",
+  "members": 4,
+  "past_members": 9,
+  "full_lengths": 8,
+  "genre": "Technical Death Metal (early); Death/Groove Metal (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 54798,
+  "themes": "Death, Nihilism, Misanthropy, Anti-Christianity, Social criticism, Evil",
+  "release_year": 2005
+ },
+ "partial": false,
+ "clips": [
+  "decapitated/46610363-105",
+  "decapitated/42258182-104",
+  "decapitated/310752832-104",
+  "decapitated/118923989-104",
+  "decapitated/1456956687-104",
+  "decapitated/1458641560-105",
+  "decapitated/1458762335-104",
+  "decapitated/1610309884-105",
+  "decapitated/46610363-104",
+  "decapitated/42258182-105",
+  "decapitated/310752832-106",
+  "decapitated/118923989-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 132.59919819078948,
+   "iqr": 31.735565675133685
+  },
+  "onset_rate": {
+   "median": 5.431508428332734,
+   "iqr": 2.7207041404868906
+  },
+  "tempo_var": {
+   "median": 6.946817540547293,
+   "iqr": 10.800190769658892
+  },
+  "low_onset_rate": {
+   "median": 6.1813445147099255,
+   "iqr": 3.3759623228927094
+  },
+  "lufs": {
+   "median": -7.867032559858522,
+   "iqr": 1.8014628032554922
+  },
+  "rms_dbfs": {
+   "median": -7.631329744096432,
+   "iqr": 1.3314305153107382
+  },
+  "crest": {
+   "median": 7.631329774856567,
+   "iqr": 1.3314303159713745
+  },
+  "centroid": {
+   "median": 2945.1507966927843,
+   "iqr": 294.7934479091018
+  },
+  "flatness": {
+   "median": 0.04782023839652538,
+   "iqr": 0.012651446275413036
+  },
+  "sub100_share": {
+   "median": 0.38864195346832275,
+   "iqr": 0.12031026184558868
+  },
+  "lowest_pitch": {
+   "median": 43.06640625,
+   "iqr": 16.14990234375
+  },
+  "harmonic_share": {
+   "median": 0.7337078154087067,
+   "iqr": 0.0939449816942215
+  },
+  "clean_share": {
+   "median": 0.0030977766142184283,
+   "iqr": 0.010831573440219903
+  },
+  "minor_share": {
+   "median": 0.07447388228459048,
+   "iqr": 0.08566528810155875
+  },
+  "chord_rate": {
+   "median": 1.9499803479323,
+   "iqr": 0.6030129644110596
+  },
+  "repetitiveness": {
+   "median": 0.9224497973918915,
+   "iqr": 0.039257943630218506
+  },
+  "vocal_share": {
+   "median": 0.1042785570025444,
+   "iqr": 0.0793544352054596
+  },
+  "vocal_voiced": {
+   "median": 0.011011011011011011,
+   "iqr": 0.19130434782608696
+  },
+  "song_length": {
+   "median": 297.2645,
+   "iqr": 43.57325000000003
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

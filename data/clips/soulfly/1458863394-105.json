@@ -1,0 +1,32 @@
+{
+ "id": "soulfly/1458863394-105",
+ "band": "soulfly",
+ "title": "Under Rapture",
+ "source": "itunes",
+ "album": "Ritual",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 1.699989720394737,
+  "tempo_var": 12.524185578470014,
+  "low_onset_rate": 3.9999758126934983,
+  "lufs": -8.970762053018293,
+  "rms_dbfs": -7.668821306137645,
+  "crest": 7.668821334838867,
+  "centroid": 2324.4339873198123,
+  "flatness": 0.02664424665272236,
+  "sub100_share": 0.4858064353466034,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7596539258956909,
+  "clean_share": 0.2861562258313998,
+  "minor_share": -0.147623894447161,
+  "chord_rate": 0.8666614260835913,
+  "repetitiveness": 0.9157776832580566,
+  "vocal_share": 0.04151775315403938,
+  "vocal_voiced": 0.0,
+  "song_length": 342.319
+ }
+}

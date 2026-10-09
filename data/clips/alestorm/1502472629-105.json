@@ -1,0 +1,32 @@
+{
+ "id": "alestorm/1502472629-105",
+ "band": "alestorm",
+ "title": "Zombies Ate My Pirate Ship",
+ "source": "itunes",
+ "album": "Curse of the Crystal Coconut",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 2.999981859520124,
+  "tempo_var": 3.732745058257933,
+  "low_onset_rate": 3.333313177244582,
+  "lufs": -14.904353047030048,
+  "rms_dbfs": -13.787841944368797,
+  "crest": 13.787841796875,
+  "centroid": 1899.196550109768,
+  "flatness": 0.009836179204285145,
+  "sub100_share": 0.3356824517250061,
+  "lowest_pitch": 102.28271484375,
+  "harmonic_share": 0.8807299137115479,
+  "clean_share": 0.6434648105181748,
+  "minor_share": 0.09376181548468654,
+  "chord_rate": 0.8666614260835913,
+  "repetitiveness": 0.6427966952323914,
+  "vocal_share": 6.483815582214447e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 304.916
+ }
+}

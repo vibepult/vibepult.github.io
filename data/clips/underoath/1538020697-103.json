@@ -1,0 +1,32 @@
+{
+ "id": "underoath/1538020697-103",
+ "band": "underoath",
+ "title": "Walking Away",
+ "source": "itunes",
+ "album": "Cries of the Past",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 2.67298647141541,
+  "tempo_var": 9.233610465772204,
+  "low_onset_rate": 6.214693546040828,
+  "lufs": -7.999851409026667,
+  "rms_dbfs": -7.787062108961214,
+  "crest": 7.78706169128418,
+  "centroid": 2535.1446284872613,
+  "flatness": 0.043890248984098434,
+  "sub100_share": 0.2973319888114929,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7511671781539917,
+  "clean_share": 0.11404189294026378,
+  "minor_share": 0.07750935430192141,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.8130010366439819,
+  "vocal_share": 0.09426257014274597,
+  "vocal_voiced": 0.3926174496644295,
+  "song_length": 455.96
+ }
+}

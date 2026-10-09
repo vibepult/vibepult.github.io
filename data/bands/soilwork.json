@@ -1,0 +1,127 @@
+{
+ "slug": "soilwork",
+ "name": "Soilwork",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 6767103,
+  "deezer": 1786,
+  "spotify": "7wqP36o9lqWteOCxBnXlwx"
+ },
+ "metadata": {
+  "formed": 1996,
+  "split": null,
+  "country": "SE",
+  "status": "active",
+  "members": 6,
+  "past_members": 13,
+  "full_lengths": 12,
+  "genre": "Melodic Death/Groove Metal (early); Metalcore/Melodic Groove Metal (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 73532,
+  "themes": "Society, Life, Anti-fascism, Abstract",
+  "release_year": 2001
+ },
+ "partial": false,
+ "clips": [
+  "soilwork/274417068-106",
+  "soilwork/264823878-105",
+  "soilwork/1460468292-106",
+  "soilwork/1718104663-106",
+  "soilwork/1460469544-106",
+  "soilwork/1456927427-106",
+  "soilwork/1458638923-110",
+  "soilwork/1445218842-107",
+  "soilwork/274417068-105",
+  "soilwork/264823878-104",
+  "soilwork/1460468292-105",
+  "soilwork/1718104663-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 110.40660511363637,
+   "iqr": 33.40407151442308
+  },
+  "onset_rate": {
+   "median": 2.551924959038152,
+   "iqr": 5.363114703438524
+  },
+  "tempo_var": {
+   "median": 17.118575551174946,
+   "iqr": 12.362315953367135
+  },
+  "low_onset_rate": {
+   "median": 2.5528753484811135,
+   "iqr": 5.342094610401591
+  },
+  "lufs": {
+   "median": -8.820164169282172,
+   "iqr": 1.9140863856078631
+  },
+  "rms_dbfs": {
+   "median": -8.625843507155857,
+   "iqr": 1.4263878993533918
+  },
+  "crest": {
+   "median": 8.625843524932861,
+   "iqr": 1.4263877868652344
+  },
+  "centroid": {
+   "median": 2768.356269949778,
+   "iqr": 371.2117796031821
+  },
+  "flatness": {
+   "median": 0.04189421236515045,
+   "iqr": 0.026354124769568443
+  },
+  "sub100_share": {
+   "median": 0.24120783060789108,
+   "iqr": 0.22137802094221115
+  },
+  "lowest_pitch": {
+   "median": 61.907958984375,
+   "iqr": 5.38330078125
+  },
+  "harmonic_share": {
+   "median": 0.7331419885158539,
+   "iqr": 0.1361873298883438
+  },
+  "clean_share": {
+   "median": 0.008894044856921888,
+   "iqr": 0.030449961210240496
+  },
+  "minor_share": {
+   "median": 0.013148652891729978,
+   "iqr": 0.18985244096736006
+  },
+  "chord_rate": {
+   "median": 2.016654472232972,
+   "iqr": 0.647560696615104
+  },
+  "repetitiveness": {
+   "median": 0.8785333633422852,
+   "iqr": 0.08933910727500916
+  },
+  "vocal_share": {
+   "median": 0.09646610915660858,
+   "iqr": 0.08410398662090302
+  },
+  "vocal_voiced": {
+   "median": 0.04552129221732746,
+   "iqr": 0.05984412918736251
+  },
+  "song_length": {
+   "median": 266.7455,
+   "iqr": 78.84025
+  },
+  "vocal_presence": {
+   "median": 0.5833333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

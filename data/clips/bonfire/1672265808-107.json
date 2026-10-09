@@ -1,0 +1,32 @@
+{
+ "id": "bonfire/1672265808-107",
+ "band": "bonfire",
+ "title": "Look of Love (MMXXIII Version)",
+ "source": "itunes",
+ "album": "Point Blank (MMXXIII Version)",
+ "year": 1989,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.742181059981574,
+  "tempo_var": 4.263256414560601e-14,
+  "low_onset_rate": 5.045261964796587,
+  "lufs": -8.774451805772847,
+  "rms_dbfs": -7.575319218669515,
+  "crest": 7.575319290161133,
+  "centroid": 2122.692181007137,
+  "flatness": 0.01621965691447258,
+  "sub100_share": 0.3838900029659271,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8047568202018738,
+  "clean_share": 0.10473235065942592,
+  "minor_share": -0.16703474156399156,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.6965655088424683,
+  "vocal_share": 0.11385520547628403,
+  "vocal_voiced": 0.7725806451612903,
+  "song_length": 278.507
+ }
+}

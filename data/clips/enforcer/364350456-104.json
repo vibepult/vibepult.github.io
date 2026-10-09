@@ -1,0 +1,32 @@
+{
+ "id": "enforcer/364350456-104",
+ "band": "enforcer",
+ "title": "Running In Menace",
+ "source": "itunes",
+ "album": "Diamonds",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 78.30255681818181,
+  "onset_rate": 4.878200310333123,
+  "tempo_var": 23.892949772663652,
+  "low_onset_rate": 4.811375648547738,
+  "lufs": -10.1167362573025,
+  "rms_dbfs": -9.226505988095546,
+  "crest": 9.226505279541016,
+  "centroid": 2403.074412674105,
+  "flatness": 0.027112621814012527,
+  "sub100_share": 0.3469159007072449,
+  "lowest_pitch": 29.608154296875,
+  "harmonic_share": 0.5041835308074951,
+  "clean_share": 0.017843289371605897,
+  "minor_share": 0.005372254595825132,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.8319708108901978,
+  "vocal_share": 0.1713053435087204,
+  "vocal_voiced": 0.9219298245614035,
+  "song_length": 225.97
+ }
+}

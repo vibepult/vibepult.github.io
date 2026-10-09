@@ -1,0 +1,127 @@
+{
+ "slug": "carpathian-forest",
+ "name": "Carpathian Forest",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 72865924,
+  "deezer": 4023,
+  "spotify": "0sFntmE9T1tiF6G6O6Lm3H"
+ },
+ "metadata": {
+  "formed": 1992,
+  "split": null,
+  "country": "NO",
+  "status": "active",
+  "members": 5,
+  "past_members": 9,
+  "full_lengths": 5,
+  "genre": "Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 29258,
+  "themes": "Death, Misanthropy, Anti-Christianity, Nihilism, BDSM, Lust, Dark humour",
+  "release_year": 2000
+ },
+ "partial": false,
+ "clips": [
+  "carpathian-forest/256516269-106",
+  "carpathian-forest/260017013-106",
+  "carpathian-forest/262094734-106",
+  "carpathian-forest/583570828-106",
+  "carpathian-forest/256516269-105",
+  "carpathian-forest/260017013-107",
+  "carpathian-forest/262094734-107",
+  "carpathian-forest/583570828-107",
+  "carpathian-forest/256516269-107",
+  "carpathian-forest/260017013-105",
+  "carpathian-forest/262094734-105",
+  "carpathian-forest/583570828-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 39.65193414322249
+  },
+  "onset_rate": {
+   "median": 4.84478797944043,
+   "iqr": 2.982050532172817
+  },
+  "tempo_var": {
+   "median": 8.568825983347045,
+   "iqr": 11.58069232954268
+  },
+  "low_onset_rate": {
+   "median": 7.033295652911797,
+   "iqr": 0.7267181969160639
+  },
+  "lufs": {
+   "median": -10.631403423583961,
+   "iqr": 2.113573894709095
+  },
+  "rms_dbfs": {
+   "median": -10.048605046193131,
+   "iqr": 2.069994524654046
+  },
+  "crest": {
+   "median": 10.04860544204712,
+   "iqr": 2.0699946880340576
+  },
+  "centroid": {
+   "median": 2423.4108205206285,
+   "iqr": 334.9089389777009
+  },
+  "flatness": {
+   "median": 0.027119520120322704,
+   "iqr": 0.012126433197408915
+  },
+  "sub100_share": {
+   "median": 0.42552539706230164,
+   "iqr": 0.11091411858797073
+  },
+  "lowest_pitch": {
+   "median": 41.7205810546875,
+   "iqr": 13.458251953125
+  },
+  "harmonic_share": {
+   "median": 0.8020710647106171,
+   "iqr": 0.08462779223918915
+  },
+  "clean_share": {
+   "median": 0.005430566330488751,
+   "iqr": 0.07893716058960434
+  },
+  "minor_share": {
+   "median": 0.04490398103215676,
+   "iqr": 0.19924750594887797
+  },
+  "chord_rate": {
+   "median": 2.0047398535615577,
+   "iqr": 0.3257702262037532
+  },
+  "repetitiveness": {
+   "median": 0.8459846675395966,
+   "iqr": 0.08766235411167145
+  },
+  "vocal_share": {
+   "median": 0.0742405317723751,
+   "iqr": 0.03863707464188337
+  },
+  "vocal_voiced": {
+   "median": 0.42704396597734906,
+   "iqr": 0.2855861551268695
+  },
+  "song_length": {
+   "median": 234.89350000000002,
+   "iqr": 55.13375000000002
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.6,
+  "camp": 0.5
+ },
+ "sources_failed": []
+}

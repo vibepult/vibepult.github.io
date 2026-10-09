@@ -1,0 +1,127 @@
+{
+ "slug": "fates-warning",
+ "name": "Fates Warning",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 56820038,
+  "deezer": 13134,
+  "spotify": "4S6URhg3PMKnCv9clR4ejE"
+ },
+ "metadata": {
+  "formed": 1984,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 4,
+  "past_members": 8,
+  "full_lengths": 13,
+  "genre": "Progressive Heavy/Power Metal (early); Progressive Metal (later)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 11196,
+  "themes": "Fantasy (early); Emotions, Introspection, Life, Awareness (later)",
+  "release_year": 1992
+ },
+ "partial": false,
+ "clips": [
+  "fates-warning/56827767-104",
+  "fates-warning/56827633-104",
+  "fates-warning/56820248-104",
+  "fates-warning/56820449-104",
+  "fates-warning/56820600-104",
+  "fates-warning/56830213-104",
+  "fates-warning/56827131-105",
+  "fates-warning/56825236-106",
+  "fates-warning/56827357-104",
+  "fates-warning/56830088-105",
+  "fates-warning/1045365843-106",
+  "fates-warning/1115813342-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 99.9755859375,
+   "iqr": 41.79629898763612
+  },
+  "onset_rate": {
+   "median": 3.458176247393687,
+   "iqr": 1.278021656645493
+  },
+  "tempo_var": {
+   "median": 18.18635698791177,
+   "iqr": 14.261306296820994
+  },
+  "low_onset_rate": {
+   "median": 4.276778354264656,
+   "iqr": 1.90450286088348
+  },
+  "lufs": {
+   "median": -16.33834252283147,
+   "iqr": 6.467380091783053
+  },
+  "rms_dbfs": {
+   "median": -14.856589311017245,
+   "iqr": 5.118548618511401
+  },
+  "crest": {
+   "median": 14.346278667449951,
+   "iqr": 3.415726661682129
+  },
+  "centroid": {
+   "median": 2265.073097220412,
+   "iqr": 913.9805090006421
+  },
+  "flatness": {
+   "median": 0.01406524097546935,
+   "iqr": 0.02026523428503424
+  },
+  "sub100_share": {
+   "median": 0.1424964815378189,
+   "iqr": 0.13953465595841408
+  },
+  "lowest_pitch": {
+   "median": 72.674560546875,
+   "iqr": 13.458251953125
+  },
+  "harmonic_share": {
+   "median": 0.8395352959632874,
+   "iqr": 0.1853322982788086
+  },
+  "clean_share": {
+   "median": 0.44763382467028706,
+   "iqr": 0.6227695888285493
+  },
+  "minor_share": {
+   "median": 0.04923424974663071,
+   "iqr": 0.26609444748442124
+  },
+  "chord_rate": {
+   "median": 1.2696685739223197,
+   "iqr": 0.9271921822722203
+  },
+  "repetitiveness": {
+   "median": 0.798188716173172,
+   "iqr": 0.1744060069322586
+  },
+  "vocal_share": {
+   "median": 0.23482072353363037,
+   "iqr": 0.16273167356848717
+  },
+  "vocal_voiced": {
+   "median": 0.8700490369845209,
+   "iqr": 0.04944511796308204
+  },
+  "song_length": {
+   "median": 407.74,
+   "iqr": 134.76
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.0,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

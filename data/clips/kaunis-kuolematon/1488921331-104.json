@@ -1,0 +1,32 @@
+{
+ "id": "kaunis-kuolematon/1488921331-104",
+ "band": "kaunis-kuolematon",
+ "title": "Kuolematon",
+ "source": "itunes",
+ "album": "Kylmä kaunis maailma",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.613271589972361,
+  "tempo_var": 8.465301076606925,
+  "low_onset_rate": 6.582229185860447,
+  "lufs": -9.853107527578231,
+  "rms_dbfs": -9.194348196787553,
+  "crest": 9.194347381591797,
+  "centroid": 2307.461989939453,
+  "flatness": 0.018942689523100853,
+  "sub100_share": 0.636195182800293,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8796106576919556,
+  "clean_share": 0.26066718386346005,
+  "minor_share": 0.10351230969140979,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.8766900897026062,
+  "vocal_share": 0.005699282977730036,
+  "vocal_voiced": 0.3241590214067278,
+  "song_length": 343.08
+ }
+}

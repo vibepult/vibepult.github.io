@@ -1,0 +1,32 @@
+{
+ "id": "saturnus/964099368-105",
+ "band": "saturnus",
+ "title": "Mourning Sun",
+ "source": "itunes",
+ "album": "Saturn in Ascension",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 1.871090529990787,
+  "tempo_var": 9.925755100287049,
+  "low_onset_rate": 5.780333244435824,
+  "lufs": -8.859166617641186,
+  "rms_dbfs": -11.283839614529928,
+  "crest": 11.28384017944336,
+  "centroid": 1432.0517258502548,
+  "flatness": 0.005966715514659882,
+  "sub100_share": 0.3833807706832886,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.91619473695755,
+  "clean_share": 0.6896819239720714,
+  "minor_share": 0.06699534490758752,
+  "chord_rate": 1.1026069194588566,
+  "repetitiveness": 0.4447496235370636,
+  "vocal_share": 0.146672323346138,
+  "vocal_voiced": 0.7243816254416962,
+  "song_length": 619.625
+ }
+}

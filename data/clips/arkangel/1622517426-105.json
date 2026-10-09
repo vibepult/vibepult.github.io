@@ -1,0 +1,32 @@
+{
+ "id": "arkangel/1622517426-105",
+ "band": "arkangel",
+ "title": "Then",
+ "source": "itunes",
+ "album": "Hope You Die by Overdose",
+ "year": 2004,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 6.448579862289677,
+  "tempo_var": 10.999052893582506,
+  "low_onset_rate": 5.479622266401591,
+  "lufs": -9.356280067308129,
+  "rms_dbfs": -9.258914815926397,
+  "crest": 9.258914947509766,
+  "centroid": 2773.560503713048,
+  "flatness": 0.04845905676484108,
+  "sub100_share": 0.2491229772567749,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.625146210193634,
+  "clean_share": 0.0,
+  "minor_share": -0.02608924345854091,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.9401553273200989,
+  "vocal_share": 0.05704699829220772,
+  "vocal_voiced": 0.03853211009174312,
+  "song_length": 121.48
+ }
+}

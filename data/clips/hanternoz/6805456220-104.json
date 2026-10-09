@@ -1,0 +1,32 @@
+{
+ "id": "hanternoz/6805456220-104",
+ "band": "hanternoz",
+ "title": "La Peste à Limoges",
+ "source": "itunes",
+ "album": "A Hed an Noz, a Noz, a Noz",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.999924415352754,
+  "tempo_var": 2.774756029600419,
+  "low_onset_rate": 5.8332451512448795,
+  "lufs": -9.886016813337513,
+  "rms_dbfs": -10.09151131213963,
+  "crest": 10.091510772705078,
+  "centroid": 2510.7844061673477,
+  "flatness": 0.024058427661657333,
+  "sub100_share": 0.2057228982448578,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.8122485280036926,
+  "clean_share": 0.0007733952049497294,
+  "minor_share": 0.1664071179588461,
+  "chord_rate": 0.8999863947634957,
+  "repetitiveness": 0.6859414577484131,
+  "vocal_share": 0.027324194088578224,
+  "vocal_voiced": 0.0,
+  "song_length": 654.0
+ }
+}

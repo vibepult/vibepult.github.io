@@ -1,0 +1,32 @@
+{
+ "id": "drudkh/583582545-103",
+ "band": "drudkh",
+ "title": "Towards the Light",
+ "source": "itunes",
+ "album": "Пригорща Зірок",
+ "year": 2010,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 6.314930538718906,
+  "tempo_var": 0.0,
+  "low_onset_rate": 8.01895941424623,
+  "lufs": -10.996620083482922,
+  "rms_dbfs": -10.625210146833727,
+  "crest": 10.62520980834961,
+  "centroid": 2463.73459521582,
+  "flatness": 0.029679248109459877,
+  "sub100_share": 0.2920597493648529,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.8025692105293274,
+  "clean_share": 0.0,
+  "minor_share": 0.11096981026677089,
+  "chord_rate": 0.801895941424623,
+  "repetitiveness": 0.8413575291633606,
+  "vocal_share": 0.10679677128791809,
+  "vocal_voiced": 0.3106312292358804,
+  "song_length": 558.053
+ }
+}

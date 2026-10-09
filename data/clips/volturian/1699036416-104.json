@@ -1,0 +1,32 @@
+{
+ "id": "volturian/1699036416-104",
+ "band": "volturian",
+ "title": "Broken",
+ "source": "itunes",
+ "album": "Crimson",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.499863949691619,
+  "tempo_var": 11.936325011762065,
+  "low_onset_rate": 2.6665860442617,
+  "lufs": -8.104867572101002,
+  "rms_dbfs": -8.02371552155882,
+  "crest": 8.02371597290039,
+  "centroid": 2531.149328613708,
+  "flatness": 0.03363513946533203,
+  "sub100_share": 0.3975798785686493,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8611776828765869,
+  "clean_share": 0.004640371229698376,
+  "minor_share": 0.21716513922809155,
+  "chord_rate": 1.566619301003749,
+  "repetitiveness": 0.8403457999229431,
+  "vocal_share": 0.21458342671394348,
+  "vocal_voiced": 0.7176470588235294,
+  "song_length": 219.132
+ }
+}

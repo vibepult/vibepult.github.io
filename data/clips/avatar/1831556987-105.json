@@ -1,0 +1,32 @@
+{
+ "id": "avatar/1831556987-105",
+ "band": "avatar",
+ "title": "Death And Glitz",
+ "source": "itunes",
+ "album": "Don't Go In The Forest",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.6,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.133333333333334,
+  "lufs": -10.097160016522192,
+  "rms_dbfs": -9.494563580923456,
+  "crest": 9.494564056396484,
+  "centroid": 2563.3292086870583,
+  "flatness": 0.02962789684534073,
+  "sub100_share": 0.41190192103385925,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7862429022789001,
+  "clean_share": 0.11996904024767802,
+  "minor_share": -0.030038379173279894,
+  "chord_rate": 2.5,
+  "repetitiveness": 0.9341787695884705,
+  "vocal_share": 0.07659261673688889,
+  "vocal_voiced": 0.3232830820770519,
+  "song_length": 243.066
+ }
+}

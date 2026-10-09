@@ -1,0 +1,32 @@
+{
+ "id": "fear-factory/1689056677-106",
+ "band": "fear-factory",
+ "title": "Oxidizer",
+ "source": "itunes",
+ "album": "Mechanize",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.0071097803423363,
+  "tempo_var": 14.476881355297822,
+  "low_onset_rate": 1.9379151917761723,
+  "lufs": -9.53625020550904,
+  "rms_dbfs": -8.556829099151965,
+  "crest": 8.556829452514648,
+  "centroid": 2867.796378246381,
+  "flatness": 0.049349840730428696,
+  "sub100_share": 0.48983240127563477,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7411205768585205,
+  "clean_share": 0.11559348332040341,
+  "minor_share": 0.2703899361298961,
+  "chord_rate": 2.773223464093488,
+  "repetitiveness": 0.9536181092262268,
+  "vocal_share": 0.01796957477927208,
+  "vocal_voiced": 0.5967741935483871,
+  "song_length": 222.947
+ }
+}

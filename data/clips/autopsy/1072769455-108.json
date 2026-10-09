@@ -1,0 +1,32 @@
+{
+ "id": "autopsy/1072769455-108",
+ "band": "autopsy",
+ "title": "Severed Survival",
+ "source": "itunes",
+ "album": "Severed Survival",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 6.448579862289677,
+  "tempo_var": 10.262428769035145,
+  "low_onset_rate": 6.715878509431217,
+  "lufs": -10.853804627189911,
+  "rms_dbfs": -9.715785246703243,
+  "crest": 9.715785026550293,
+  "centroid": 2459.682895979892,
+  "flatness": 0.029818810522556305,
+  "sub100_share": 0.483633816242218,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.7852225303649902,
+  "clean_share": 0.02948021722265322,
+  "minor_share": 0.1941252303641473,
+  "chord_rate": 2.6395741405227175,
+  "repetitiveness": 0.9201004505157471,
+  "vocal_share": 0.04179662838578224,
+  "vocal_voiced": 0.0,
+  "song_length": 208.267
+ }
+}

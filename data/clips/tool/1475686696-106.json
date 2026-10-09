@@ -1,0 +1,32 @@
+{
+ "id": "tool/1475686696-106",
+ "band": "tool",
+ "title": "Descending",
+ "source": "itunes",
+ "album": "Fear Inoculum",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "hand",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 2.6649786454233824,
+  "tempo_var": 6.836777268612147,
+  "low_onset_rate": 6.962256711168587,
+  "lufs": -27.668898019031825,
+  "rms_dbfs": -25.84809099054581,
+  "crest": 16.212390899658203,
+  "centroid": 1249.9443024082345,
+  "flatness": 0.004809009376913309,
+  "sub100_share": 0.6333744525909424,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.9431623220443726,
+  "clean_share": 0.7146171693735499,
+  "minor_share": 0.1059477814540809,
+  "chord_rate": 2.365168547813252,
+  "repetitiveness": 0.8358665704727173,
+  "vocal_share": 6.812173523940146e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 817.832
+ }
+}

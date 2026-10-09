@@ -1,0 +1,32 @@
+{
+ "id": "warlock/1443457372-106",
+ "band": "warlock",
+ "title": "Metal Racer",
+ "source": "itunes",
+ "album": "Burning the Witches",
+ "year": 1984,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.847157906221209,
+  "tempo_var": 2.1192184945835995,
+  "low_onset_rate": 6.949764825680066,
+  "lufs": -13.47695406241326,
+  "rms_dbfs": -13.42315348381667,
+  "crest": 13.423152923583984,
+  "centroid": 2638.8514768840123,
+  "flatness": 0.026873532682657242,
+  "sub100_share": 0.21882423758506775,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.808200478553772,
+  "clean_share": 0.018619084561675717,
+  "minor_share": 0.19234536072185493,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.8398345708847046,
+  "vocal_share": 0.2816448211669922,
+  "vocal_voiced": 0.8653675819309123,
+  "song_length": 226.707
+ }
+}

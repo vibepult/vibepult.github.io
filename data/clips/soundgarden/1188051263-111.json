@@ -1,0 +1,32 @@
+{
+ "id": "soundgarden/1188051263-111",
+ "band": "soundgarden",
+ "title": "Head Injury",
+ "source": "itunes",
+ "album": "Ultramega OK (Expanded Reissue)",
+ "year": 1988,
+ "itunes_year": 1988,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.766609726232408,
+  "tempo_var": 1.644771066698953,
+  "low_onset_rate": 5.499916856888029,
+  "lufs": -11.302098687937752,
+  "rms_dbfs": -10.428609055932247,
+  "crest": 10.428608894348145,
+  "centroid": 2489.5230029843683,
+  "flatness": 0.028100311756134033,
+  "sub100_share": 0.44902920722961426,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7922992706298828,
+  "clean_share": 0.05955143078112916,
+  "minor_share": 0.059581398724823875,
+  "chord_rate": 1.9666369367054164,
+  "repetitiveness": 0.9137870073318481,
+  "vocal_share": 0.14243367314338684,
+  "vocal_voiced": 0.8584392014519057,
+  "song_length": 140.707
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "prong/425617094-107",
+ "band": "prong",
+ "title": "Avoid Promises",
+ "source": "itunes",
+ "album": "Scorpio Rising",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.145498957474664,
+  "tempo_var": 12.674989717895896,
+  "low_onset_rate": 5.312560611938127,
+  "lufs": -8.660355180545613,
+  "rms_dbfs": -8.13439114805874,
+  "crest": 8.134391784667969,
+  "centroid": 2318.3735799084848,
+  "flatness": 0.022885160520672798,
+  "sub100_share": 0.2052430659532547,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7395695447921753,
+  "clean_share": 0.18231186966640806,
+  "minor_share": 0.043925683149409034,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.7870660424232483,
+  "vocal_share": 0.23439960181713104,
+  "vocal_voiced": 0.7952,
+  "song_length": 193.6
+ }
+}

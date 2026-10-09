@@ -1,0 +1,32 @@
+{
+ "id": "strapping-young-lad/1464748550-106",
+ "band": "strapping-young-lad",
+ "title": "Critic",
+ "source": "itunes",
+ "album": "Heavy As a Really Heavy Thing",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 5.9473948988992875,
+  "tempo_var": 12.498227463764907,
+  "low_onset_rate": 9.021329341027009,
+  "lufs": -8.447726808535503,
+  "rms_dbfs": -8.124352801060574,
+  "crest": 8.12435245513916,
+  "centroid": 2402.550687211492,
+  "flatness": 0.03178562596440315,
+  "sub100_share": 0.33408674597740173,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.7211865782737732,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": -0.20532158055163957,
+  "chord_rate": 2.572749478737332,
+  "repetitiveness": 0.9688499569892883,
+  "vocal_share": 0.10041019320487976,
+  "vocal_voiced": 0.46279306829765543,
+  "song_length": 247.933
+ }
+}

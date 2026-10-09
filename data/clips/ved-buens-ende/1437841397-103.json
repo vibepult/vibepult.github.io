@@ -1,0 +1,32 @@
+{
+ "id": "ved-buens-ende/1437841397-103",
+ "band": "ved-buens-ende",
+ "title": "It's Magic",
+ "source": "itunes",
+ "album": "Written in Waters",
+ "year": 1995,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.641944067303496,
+  "tempo_var": 2.447579575628252,
+  "low_onset_rate": 6.014219560684673,
+  "lufs": -12.70575982716673,
+  "rms_dbfs": -11.64191173403314,
+  "crest": 11.641911506652832,
+  "centroid": 2015.6653910313016,
+  "flatness": 0.011159700341522694,
+  "sub100_share": 0.33276671171188354,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8452875018119812,
+  "clean_share": 0.22808378588052755,
+  "minor_share": 0.28565412563831993,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.7000355124473572,
+  "vocal_share": 0.008510426618158817,
+  "vocal_voiced": 0.9,
+  "song_length": 325.307
+ }
+}

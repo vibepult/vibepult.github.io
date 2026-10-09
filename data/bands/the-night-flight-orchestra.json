@@ -1,0 +1,127 @@
+{
+ "slug": "the-night-flight-orchestra",
+ "name": "The Night Flight Orchestra",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 520501012,
+  "deezer": 1849611,
+  "spotify": "6xPOeIDWmM9ooOw7SBknMl"
+ },
+ "metadata": {
+  "formed": 2007,
+  "split": null,
+  "country": "SE",
+  "status": "active",
+  "members": 8,
+  "past_members": 3,
+  "full_lengths": 7,
+  "genre": "Hard Rock/AOR",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 7439,
+  "themes": "Love, Feelings, Nostalgia",
+  "release_year": 2017
+ },
+ "partial": false,
+ "clips": [
+  "the-night-flight-orchestra/520500533-106",
+  "the-night-flight-orchestra/976552405-107",
+  "the-night-flight-orchestra/1458861595-106",
+  "the-night-flight-orchestra/1458865433-106",
+  "the-night-flight-orchestra/1491164524-106",
+  "the-night-flight-orchestra/1573577827-106",
+  "the-night-flight-orchestra/1772135763-107",
+  "the-night-flight-orchestra/520500533-105",
+  "the-night-flight-orchestra/976552405-106",
+  "the-night-flight-orchestra/1458861595-105",
+  "the-night-flight-orchestra/1458865433-107",
+  "the-night-flight-orchestra/1491164524-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 35.19608347039474
+  },
+  "onset_rate": {
+   "median": 3.5417070746254184,
+   "iqr": 0.8435555188514998
+  },
+  "tempo_var": {
+   "median": 5.99144494009593,
+   "iqr": 14.85554680897979
+  },
+  "low_onset_rate": {
+   "median": 4.076304368908501,
+   "iqr": 1.784253918356601
+  },
+  "lufs": {
+   "median": -10.486031509692925,
+   "iqr": 3.3047712985739714
+  },
+  "rms_dbfs": {
+   "median": -10.22164500355822,
+   "iqr": 3.6703619482517382
+  },
+  "crest": {
+   "median": 10.221644878387451,
+   "iqr": 3.670361042022705
+  },
+  "centroid": {
+   "median": 2193.439530837283,
+   "iqr": 410.9147304143851
+  },
+  "flatness": {
+   "median": 0.01911128032952547,
+   "iqr": 0.013724930584430695
+  },
+  "sub100_share": {
+   "median": 0.25831490755081177,
+   "iqr": 0.1430196352303028
+  },
+  "lowest_pitch": {
+   "median": 83.441162109375,
+   "iqr": 53.8330078125
+  },
+  "harmonic_share": {
+   "median": 0.7391523122787476,
+   "iqr": 0.12697692215442657
+  },
+  "clean_share": {
+   "median": 0.31691233514352213,
+   "iqr": 0.4879666246069274
+  },
+  "minor_share": {
+   "median": -0.020860382056324345,
+   "iqr": 0.24690388336317187
+  },
+  "chord_rate": {
+   "median": 1.5202610556175145,
+   "iqr": 0.9188390995490472
+  },
+  "repetitiveness": {
+   "median": 0.7737356722354889,
+   "iqr": 0.11724403500556946
+  },
+  "vocal_share": {
+   "median": 0.17673083394765854,
+   "iqr": 0.15567106567323208
+  },
+  "vocal_voiced": {
+   "median": 0.8781101631385428,
+   "iqr": 0.07745122913932989
+  },
+  "song_length": {
+   "median": 274.02,
+   "iqr": 52.541
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.6,
+  "camp": 0.7
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "diablo-swing-orchestra/1659201023-107",
+ "band": "diablo-swing-orchestra",
+ "title": "Malign Monologues",
+ "source": "itunes",
+ "album": "Swagger & Stroll Down the Rabbit Hole",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.566666666666667,
+  "tempo_var": 10.39195156920145,
+  "low_onset_rate": 3.533333333333333,
+  "lufs": -11.63423743851216,
+  "rms_dbfs": -10.370491246297895,
+  "crest": 10.370491981506348,
+  "centroid": 2617.504808421067,
+  "flatness": 0.028008516877889633,
+  "sub100_share": 0.43986037373542786,
+  "lowest_pitch": 158.807373046875,
+  "harmonic_share": 0.6929466128349304,
+  "clean_share": 0.17647058823529413,
+  "minor_share": 0.10581494295213001,
+  "chord_rate": 2.6666666666666665,
+  "repetitiveness": 0.8464800119400024,
+  "vocal_share": 0.1332492232322693,
+  "vocal_voiced": 0.4992679355783309,
+  "song_length": 300.133
+ }
+}

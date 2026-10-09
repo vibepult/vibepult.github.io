@@ -1,0 +1,32 @@
+{
+ "id": "avatar/1230551002-105",
+ "band": "avatar",
+ "title": "The Willy",
+ "source": "itunes",
+ "album": "Thoughts of No Tomorrow",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 4.911612641225816,
+  "tempo_var": 14.252819695325305,
+  "low_onset_rate": 5.4462099355088975,
+  "lufs": -8.551408241319733,
+  "rms_dbfs": -7.9105778691981365,
+  "crest": 7.910577774047852,
+  "centroid": 2579.8044368418336,
+  "flatness": 0.03697331249713898,
+  "sub100_share": 0.4288520812988281,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7867387533187866,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.048018541651573654,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.8989073038101196,
+  "vocal_share": 0.08779210597276688,
+  "vocal_voiced": 0.13494318181818182,
+  "song_length": 261.32
+ }
+}

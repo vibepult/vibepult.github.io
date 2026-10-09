@@ -1,0 +1,32 @@
+{
+ "id": "pig-destroyer/77645436-122",
+ "band": "pig-destroyer",
+ "title": "Piss Angel",
+ "source": "itunes",
+ "album": "Prowler In the Yard",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.733261779867274,
+  "tempo_var": 14.485722331774669,
+  "low_onset_rate": 7.166558328672281,
+  "lufs": -5.672575050772035,
+  "rms_dbfs": -5.466130073608534,
+  "crest": 5.466129779815674,
+  "centroid": 2910.6160460496644,
+  "flatness": 0.0546971932053566,
+  "sub100_share": 0.2525249123573303,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6445185542106628,
+  "clean_share": 0.02397525135344161,
+  "minor_share": -0.028107879954431425,
+  "chord_rate": 2.1333010838838415,
+  "repetitiveness": 0.9603719711303711,
+  "vocal_share": 0.07064986228942871,
+  "vocal_voiced": 0.14246947082767977,
+  "song_length": 477.8
+ }
+}

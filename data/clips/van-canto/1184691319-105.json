@@ -1,0 +1,32 @@
+{
+ "id": "van-canto/1184691319-105",
+ "band": "van-canto",
+ "title": "Rain",
+ "source": "itunes",
+ "album": "A Storm to Come",
+ "year": 2006,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 4.266666666666667,
+  "tempo_var": 15.842609053760462,
+  "low_onset_rate": 4.333333333333333,
+  "lufs": -11.905177780599972,
+  "rms_dbfs": -11.219886722041243,
+  "crest": 11.219886779785156,
+  "centroid": 1997.2072149918245,
+  "flatness": 0.011802120134234428,
+  "sub100_share": 0.17118772864341736,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8227869868278503,
+  "clean_share": 0.2708978328173375,
+  "minor_share": 0.25989211647570704,
+  "chord_rate": 1.2333333333333334,
+  "repetitiveness": 0.7129780650138855,
+  "vocal_share": 0.5555252432823181,
+  "vocal_voiced": 0.7033567525370804,
+  "song_length": 243.32
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "high-on-fire/508425705-105",
+ "band": "high-on-fire",
+ "title": "Samsara",
+ "source": "itunes",
+ "album": "De Vermis Mysteriis",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.965345576989342,
+  "tempo_var": 3.4054231016730316,
+  "low_onset_rate": 4.532127506513762,
+  "lufs": -7.868400470586571,
+  "rms_dbfs": -6.8356867768746445,
+  "crest": 6.835687160491943,
+  "centroid": 1985.2523772650015,
+  "flatness": 0.010343850590288639,
+  "sub100_share": 0.33272111415863037,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8910735845565796,
+  "clean_share": 0.18174787316318639,
+  "minor_share": 0.11253447393426697,
+  "chord_rate": 1.4329520792653807,
+  "repetitiveness": 0.7054046392440796,
+  "vocal_share": 4.4305423330115445e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 221.907
+ }
+}

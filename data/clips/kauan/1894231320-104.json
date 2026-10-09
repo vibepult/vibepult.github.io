@@ -1,0 +1,32 @@
+{
+ "id": "kauan/1894231320-104",
+ "band": "kauan",
+ "title": "IV",
+ "source": "itunes",
+ "album": "Pirut",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 2.8332905020332273,
+  "tempo_var": 24.655361873207852,
+  "low_onset_rate": 5.933243639551934,
+  "lufs": -21.882864752659465,
+  "rms_dbfs": -22.395390906434702,
+  "crest": 17.808332443237305,
+  "centroid": 2022.446997328667,
+  "flatness": 0.00847346056252718,
+  "sub100_share": 0.0062454636208713055,
+  "lowest_pitch": 104.974365234375,
+  "harmonic_share": 0.8700149655342102,
+  "clean_share": 0.6310904872389791,
+  "minor_share": 0.091505641467991,
+  "chord_rate": 1.1333162008132909,
+  "repetitiveness": 0.7842311263084412,
+  "vocal_share": 0.6726648807525635,
+  "vocal_voiced": 0.8221649484536082,
+  "song_length": 480.734
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "saturnus/1166875909-105",
+ "band": "saturnus",
+ "title": "All Alone",
+ "source": "itunes",
+ "album": "Veronica Decides to Die",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.2744084274838774,
+  "tempo_var": 23.32338754024351,
+  "low_onset_rate": 5.312560611938127,
+  "lufs": -16.010998044757528,
+  "rms_dbfs": -15.696806710234739,
+  "crest": 15.071810722351074,
+  "centroid": 786.0409273665139,
+  "flatness": 0.00016835627320688218,
+  "sub100_share": 0.026049213483929634,
+  "lowest_pitch": 148.040771484375,
+  "harmonic_share": 0.9685078859329224,
+  "clean_share": 0.9968968192397207,
+  "minor_share": 0.30275018790180175,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.5539512634277344,
+  "vocal_share": 5.226558528192982e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 380.0
+ }
+}

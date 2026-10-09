@@ -1,0 +1,32 @@
+{
+ "id": "stille-volk/1555059836-107",
+ "band": "stille-volk",
+ "title": "La Vengeance De Pan",
+ "source": "itunes",
+ "album": "Satyre Cornu",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 4.84478797944043,
+  "tempo_var": 3.259119852582016,
+  "low_onset_rate": 4.109716699801193,
+  "lufs": -11.526000541201435,
+  "rms_dbfs": -10.811729083131056,
+  "crest": 10.811729431152344,
+  "centroid": 1706.1614350885936,
+  "flatness": 0.007452081423252821,
+  "sub100_share": 0.20694245398044586,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7688398957252502,
+  "clean_share": 0.6656322730799069,
+  "minor_share": 0.039320586164136806,
+  "chord_rate": 0.8687206032100082,
+  "repetitiveness": 0.8805819153785706,
+  "vocal_share": 0.1786617934703827,
+  "vocal_voiced": 0.8014888337468983,
+  "song_length": 261.227
+ }
+}

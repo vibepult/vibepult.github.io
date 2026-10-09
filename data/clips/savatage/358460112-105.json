@@ -1,0 +1,32 @@
+{
+ "id": "savatage/358460112-105",
+ "band": "savatage",
+ "title": "Prelude to Madness",
+ "source": "itunes",
+ "album": "Hall of the Mountain King",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.833260268174329,
+  "tempo_var": 4.153100235839049,
+  "low_onset_rate": 8.333207358921257,
+  "lufs": -13.554594621045176,
+  "rms_dbfs": -12.60103047122864,
+  "crest": 12.601030349731445,
+  "centroid": 1436.491683951206,
+  "flatness": 0.0015801572008058429,
+  "sub100_share": 0.2752646505832672,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.9120835065841675,
+  "clean_share": 0.982985305491106,
+  "minor_share": 0.3128348149902172,
+  "chord_rate": 1.5333101540415113,
+  "repetitiveness": 0.6452930569648743,
+  "vocal_share": 1.0504850251891185e-05,
+  "vocal_voiced": 0.0,
+  "song_length": 193.465
+ }
+}

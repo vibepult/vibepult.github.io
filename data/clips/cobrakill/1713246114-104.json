@@ -1,0 +1,32 @@
+{
+ "id": "cobrakill/1713246114-104",
+ "band": "cobrakill",
+ "title": "Razor Blade",
+ "source": "itunes",
+ "album": "Serpent's Kiss",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 1.5666571933049536,
+  "tempo_var": 3.44016572623735,
+  "low_onset_rate": 3.2999800454721364,
+  "lufs": -12.87243257757471,
+  "rms_dbfs": -12.747732678521428,
+  "crest": 12.747732162475586,
+  "centroid": 2497.3327667805333,
+  "flatness": 0.03541632741689682,
+  "sub100_share": 0.31379255652427673,
+  "lowest_pitch": 115.740966796875,
+  "harmonic_share": 0.7558913230895996,
+  "clean_share": 0.03557617942768755,
+  "minor_share": -0.08222796973070567,
+  "chord_rate": 1.699989720394737,
+  "repetitiveness": 0.7834835648536682,
+  "vocal_share": 4.680795484546252e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 225.073
+ }
+}

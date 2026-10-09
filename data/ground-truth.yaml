@@ -1,0 +1,71 @@
+# conventions (assumed — flip if wrong):
+#   rawness = production polish / primitiveness (0 = hyper-polished); not textural harshness
+#   era     = one row per band, scored on the canonical album in the trailing comment
+#   pre-registered rows are untouched; proposed revisions are in trailing comments
+
+bands:
+  # from gut.yaml — unchanged (pre-registered)
+  elderwind:         {aggression: 15, serenity: 85, darkness: 45, rawness: 35, speed: 35, heaviness: 30}
+  mayhem:            {aggression: 90, serenity: 5,  darkness: 90, rawness: 85, speed: 75, heaviness: 60}  # rawness 85 = Deathcrush; propose 60 if era = De Mysteriis
+  gorgoroth:         {aggression: 85, serenity: 5,  darkness: 95, rawness: 80, speed: 70, heaviness: 60}
+  cannibal-corpse:   {aggression: 85, serenity: 2,  darkness: 55, rawness: 40, speed: 70, heaviness: 90}  # propose heaviness 80 — theirs is brutality; keep 90+ for weight
+  anaal-nathrakh:    {aggression: 98, serenity: 0,  darkness: 80, rawness: 65, speed: 95, heaviness: 80}  # propose rawness 45 — dense modern production; 65 reads as a hedge
+  metallica:         {aggression: 50, serenity: 35, darkness: 35, rawness: 25, speed: 50, heaviness: 55}  # career average; propose serenity 20 if era = Master of Puppets
+  children-of-bodom: {aggression: 65, serenity: 20, darkness: 35, rawness: 20, speed: 80, heaviness: 60}
+  nightwish:         {aggression: 25, serenity: 75, darkness: 30, rawness: 10, speed: 45, heaviness: 45}
+  # from the ladder — ×10, two values rescaled
+  alcest:            {aggression: 10, serenity: 90, darkness: 30, rawness: 25, speed: 30, heaviness: 30}
+  within-temptation: {aggression: 20, serenity: 65, darkness: 25, rawness: 10, speed: 35, heaviness: 35}
+  iron-maiden:       {aggression: 35, serenity: 20, darkness: 30, rawness: 30, speed: 60, heaviness: 35}
+  mastodon:          {aggression: 45, serenity: 30, darkness: 45, rawness: 40, speed: 50, heaviness: 70}
+  megadeth:          {aggression: 55, serenity: 10, darkness: 40, rawness: 30, speed: 70, heaviness: 55}
+  lamb-of-god:       {aggression: 70, serenity: 5,  darkness: 50, rawness: 25, speed: 65, heaviness: 75}
+  slayer:            {aggression: 80, serenity: 0,  darkness: 75, rawness: 45, speed: 85, heaviness: 65}
+  napalm-death:      {aggression: 90, serenity: 0,  darkness: 45, rawness: 85, speed: 90, heaviness: 60}  # Scum (1987); was darkness 50 / rawness 70 / heaviness 70
+
+  # slow wing — doom / drone / funeral doom (speed floor, heaviness ceiling); entirely missing before
+  sunn-o:            {aggression: 5,  serenity: 50, darkness: 70, rawness: 35, speed: 0,  heaviness: 100} # Monoliths & Dimensions (2009); heavy ≠ aggressive
+  bell-witch:        {aggression: 20, serenity: 55, darkness: 80, rawness: 30, speed: 3,  heaviness: 95}  # Mirror Reaper (2017); dark + serene
+  electric-wizard:   {aggression: 45, serenity: 15, darkness: 75, rawness: 70, speed: 15, heaviness: 95}  # Dopethrone (2000)
+  sleep:             {aggression: 25, serenity: 50, darkness: 30, rawness: 50, speed: 10, heaviness: 90}  # Dopesmoker (2003); heavy + calm, not dark
+  candlemass:        {aggression: 30, serenity: 30, darkness: 65, rawness: 45, speed: 20, heaviness: 65}  # Epicus Doomicus Metallicus (1986)
+  pallbearer:        {aggression: 20, serenity: 60, darkness: 60, rawness: 35, speed: 15, heaviness: 75}  # Sorrow and Extinction (2012)
+  neurosis:          {aggression: 70, serenity: 30, darkness: 75, rawness: 45, speed: 25, heaviness: 85}  # Through Silver in Blood (1996); aggressive but slow
+  meshuggah:         {aggression: 70, serenity: 5,  darkness: 50, rawness: 5,  speed: 55, heaviness: 95}  # obZen (2008); heaviest + most polished corner
+
+  # middle serenity (40–65) — empty before
+  opeth:             {aggression: 55, serenity: 45, darkness: 60, rawness: 15, speed: 40, heaviness: 60}  # Blackwater Park (2001)
+  katatonia:         {aggression: 20, serenity: 50, darkness: 70, rawness: 10, speed: 30, heaviness: 45}  # The Great Cold Distance (2006); dark, not aggressive
+  agalloch:          {aggression: 25, serenity: 65, darkness: 60, rawness: 40, speed: 30, heaviness: 40}  # The Mantle (2002); dark + serene
+  pelican:           {aggression: 20, serenity: 60, darkness: 30, rawness: 25, speed: 40, heaviness: 65}  # The Fire in Our Throats Will Beckon the Thaw (2005)
+  enslaved:          {aggression: 55, serenity: 40, darkness: 55, rawness: 25, speed: 55, heaviness: 60}  # Isa (2004)
+  gojira:            {aggression: 70, serenity: 30, darkness: 45, rawness: 20, speed: 55, heaviness: 85}  # From Mars to Sirius (2005)
+  tool:              {aggression: 35, serenity: 50, darkness: 50, rawness: 10, speed: 35, heaviness: 55}  # Lateralus (2001); metal-adjacent, near-midpoint on everything
+
+  # darkness floor (0–25) — power / party metal; also the low-aggression + low-serenity corner
+  helloween:         {aggression: 30, serenity: 30, darkness: 10, rawness: 25, speed: 70, heaviness: 40}  # Keeper of the Seven Keys Pt. II (1988)
+  dragonforce:       {aggression: 30, serenity: 25, darkness: 5,  rawness: 5,  speed: 100, heaviness: 45} # Inhuman Rampage (2006); fast ≠ aggressive
+  municipal-waste:   {aggression: 70, serenity: 5,  darkness: 10, rawness: 40, speed: 85, heaviness: 50}  # Hazardous Mutation (2005); aggressive ≠ dark
+  motorhead:         {aggression: 55, serenity: 10, darkness: 20, rawness: 60, speed: 70, heaviness: 45}  # Ace of Spades (1980); metal-adjacent
+
+  # darkness 55–75 — empty before
+  black-sabbath:     {aggression: 40, serenity: 30, darkness: 60, rawness: 55, speed: 35, heaviness: 60}  # Paranoid (1970); the origin point, mid on everything
+  type-o-negative:   {aggression: 25, serenity: 40, darkness: 70, rawness: 15, speed: 25, heaviness: 55}  # Bloody Kisses (1993); dark, not aggressive
+  paradise-lost:     {aggression: 35, serenity: 35, darkness: 65, rawness: 20, speed: 35, heaviness: 55}  # Draconian Times (1995)
+  entombed:          {aggression: 75, serenity: 5,  darkness: 65, rawness: 60, speed: 65, heaviness: 80}  # Left Hand Path (1990); HM-2 buzzsaw = mid rawness
+
+  # rawness — true ceiling (90+), the 45–85 middle, and the polished floor
+  ildjarn:           {aggression: 85, serenity: 0,  darkness: 80, rawness: 100, speed: 75, heaviness: 25} # Forest Poetry (1996); aggressive ≠ heavy
+  darkthrone:        {aggression: 75, serenity: 15, darkness: 85, rawness: 98, speed: 60, heaviness: 30}  # Transilvanian Hunger (1994)
+  bathory:           {aggression: 80, serenity: 5,  darkness: 85, rawness: 85, speed: 75, heaviness: 50}  # Under the Sign of the Black Mark (1987)
+  burzum:            {aggression: 40, serenity: 35, darkness: 85, rawness: 85, speed: 40, heaviness: 35}  # Filosofem (1996); raw + dark, not aggressive
+  venom:             {aggression: 65, serenity: 5,  darkness: 60, rawness: 75, speed: 65, heaviness: 45}  # Black Metal (1982)
+  behemoth:          {aggression: 80, serenity: 10, darkness: 85, rawness: 20, speed: 65, heaviness: 75}  # The Satanist (2014); dark + polished
+  dimmu-borgir:      {aggression: 65, serenity: 15, darkness: 75, rawness: 5,  speed: 65, heaviness: 65}  # Death Cult Armageddon (2003); dark + polished
+  dream-theater:     {aggression: 20, serenity: 45, darkness: 15, rawness: 0,  speed: 55, heaviness: 35}  # Images and Words (1992); polished floor
+
+  # remaining corners and end-points
+  deafheaven:        {aggression: 65, serenity: 60, darkness: 40, rawness: 25, speed: 75, heaviness: 50}  # Sunbather (2013); aggressive AND serene
+  wolves-in-the-throne-room: {aggression: 55, serenity: 55, darkness: 70, rawness: 55, speed: 60, heaviness: 55}  # Two Hunters (2007)
+  cryptopsy:         {aggression: 92, serenity: 0,  darkness: 60, rawness: 50, speed: 98, heaviness: 80}  # None So Vile (1996); speed ceiling, brutal side
+  ghost:             {aggression: 10, serenity: 45, darkness: 35, rawness: 15, speed: 35, heaviness: 20}  # Meliora (2015); heaviness floor

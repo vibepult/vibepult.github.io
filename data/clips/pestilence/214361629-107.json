@@ -1,0 +1,32 @@
+{
+ "id": "pestilence/214361629-107",
+ "band": "pestilence",
+ "title": "Land of Tears",
+ "source": "itunes",
+ "album": "Testimony of the Ancients",
+ "year": 1991,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 6.281518207826213,
+  "tempo_var": 17.51599027904547,
+  "low_onset_rate": 7.3507127963923775,
+  "lufs": -9.763503896417271,
+  "rms_dbfs": -9.88632276011126,
+  "crest": 9.886322975158691,
+  "centroid": 2861.8237053061835,
+  "flatness": 0.04436083510518074,
+  "sub100_share": 0.23429220914840698,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.5634797811508179,
+  "clean_share": 0.0031031807602792862,
+  "minor_share": 0.14984889651291522,
+  "chord_rate": 2.840048125878873,
+  "repetitiveness": 0.9586492776870728,
+  "vocal_share": 0.12338607013225555,
+  "vocal_voiced": 0.2239657631954351,
+  "song_length": 286.846
+ }
+}

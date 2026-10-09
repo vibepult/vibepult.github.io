@@ -1,0 +1,32 @@
+{
+ "id": "megadeth/723975910-107",
+ "band": "megadeth",
+ "title": "Sin",
+ "source": "itunes",
+ "album": "Cryptic Writings (Remastered)",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.1666036794606285,
+  "tempo_var": 2.868523616931503,
+  "low_onset_rate": 6.133240616166045,
+  "lufs": -8.092266505486558,
+  "rms_dbfs": -7.448381714632034,
+  "crest": 7.4483819007873535,
+  "centroid": 2090.526628370207,
+  "flatness": 0.01919996738433838,
+  "sub100_share": 0.22665394842624664,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7101019024848938,
+  "clean_share": 0.05104408352668213,
+  "minor_share": 0.030180094477495256,
+  "chord_rate": 1.433311665734456,
+  "repetitiveness": 0.8441188335418701,
+  "vocal_share": 0.12718744575977325,
+  "vocal_voiced": 0.3549382716049383,
+  "song_length": 185.973
+ }
+}

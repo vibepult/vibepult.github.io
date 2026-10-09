@@ -1,0 +1,32 @@
+{
+ "id": "skid-row/1727790222-106",
+ "band": "skid-row",
+ "title": "Rattlesnake Shake",
+ "source": "itunes",
+ "album": "Skid Row",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 2.3666523558436534,
+  "tempo_var": 2.5721560614548706,
+  "low_onset_rate": 3.5666450996517027,
+  "lufs": -11.288135325125811,
+  "rms_dbfs": -11.1237453309681,
+  "crest": 11.12374496459961,
+  "centroid": 2689.4964144828878,
+  "flatness": 0.038895852863788605,
+  "sub100_share": 0.3444805443286896,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.7389981150627136,
+  "clean_share": 0.10982211910286156,
+  "minor_share": 0.07156471607513576,
+  "chord_rate": 2.6666505417956654,
+  "repetitiveness": 0.9156835079193115,
+  "vocal_share": 0.006248918827623129,
+  "vocal_voiced": 0.35384615384615387,
+  "song_length": 189.669
+ }
+}

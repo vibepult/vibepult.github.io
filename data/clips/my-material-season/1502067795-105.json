@@ -1,0 +1,32 @@
+{
+ "id": "my-material-season/1502067795-105",
+ "band": "my-material-season",
+ "title": "Winter Mirage",
+ "source": "itunes",
+ "album": "Bloody Pains Stigmata",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 6.348342869611598,
+  "tempo_var": 10.18818753436255,
+  "low_onset_rate": 7.517774450855841,
+  "lufs": -6.374895358226283,
+  "rms_dbfs": -5.964146307161067,
+  "crest": 5.964146137237549,
+  "centroid": 2706.2918250158687,
+  "flatness": 0.04985828697681427,
+  "sub100_share": 0.28176796436309814,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6680643558502197,
+  "clean_share": 0.0,
+  "minor_share": 0.05866556813451451,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.9040886163711548,
+  "vocal_share": 0.1086001843214035,
+  "vocal_voiced": 0.13942857142857143,
+  "song_length": 266.107
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "hibria/6781042886-104",
+ "band": "hibria",
+ "title": "Persist",
+ "source": "itunes",
+ "album": "On the Shortness of Life",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 6.2332391044731,
+  "tempo_var": 14.362571432432883,
+  "low_onset_rate": 7.199891158107966,
+  "lufs": -8.404482586093557,
+  "rms_dbfs": -8.34947972765132,
+  "crest": 8.349479675292969,
+  "centroid": 2631.9982434924955,
+  "flatness": 0.04361891373991966,
+  "sub100_share": 0.32158443331718445,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6835569739341736,
+  "clean_share": 0.0007733952049497294,
+  "minor_share": -0.14767907603533564,
+  "chord_rate": 2.766624843161857,
+  "repetitiveness": 0.925199568271637,
+  "vocal_share": 0.31601136922836304,
+  "vocal_voiced": 0.3297129557796742,
+  "song_length": 277.5
+ }
+}

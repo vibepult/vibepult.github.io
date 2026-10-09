@@ -1,0 +1,127 @@
+{
+ "slug": "epicardiectomy",
+ "name": "Epicardiectomy",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 616996619,
+  "deezer": 4529044,
+  "spotify": "1JIZqDjZ1BCqZDCoVNoG8O"
+ },
+ "metadata": {
+  "formed": 2007,
+  "split": null,
+  "country": "CZ",
+  "status": "active",
+  "members": 4,
+  "past_members": 5,
+  "full_lengths": 4,
+  "genre": "Slam/Brutal Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 1520,
+  "themes": "Gore, Mutilation, Necrophilia, Perversion",
+  "release_year": 2016
+ },
+ "partial": false,
+ "clips": [
+  "epicardiectomy/1537396000-104",
+  "epicardiectomy/979234183-104",
+  "epicardiectomy/1700747424-105",
+  "epicardiectomy/6792017553-104",
+  "epicardiectomy/1537396000-105",
+  "epicardiectomy/979234183-105",
+  "epicardiectomy/1700747424-104",
+  "epicardiectomy/6792017553-105",
+  "epicardiectomy/1537396000-103",
+  "epicardiectomy/979234183-103",
+  "epicardiectomy/1700747424-106",
+  "epicardiectomy/6792017553-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 151.99908088235293,
+   "iqr": 10.333270849458188
+  },
+  "onset_rate": {
+   "median": 6.558186382005878,
+   "iqr": 3.0043201004685507
+  },
+  "tempo_var": {
+   "median": 13.002276352528085,
+   "iqr": 6.887955418938594
+  },
+  "low_onset_rate": {
+   "median": 7.918722421568152,
+   "iqr": 3.4824067972844714
+  },
+  "lufs": {
+   "median": -7.303775654166637,
+   "iqr": 1.582881933118859
+  },
+  "rms_dbfs": {
+   "median": -6.828321825833006,
+   "iqr": 0.8849099900461272
+  },
+  "crest": {
+   "median": 6.82832145690918,
+   "iqr": 0.8849097490310669
+  },
+  "centroid": {
+   "median": 2807.659304359005,
+   "iqr": 249.26676442101962
+  },
+  "flatness": {
+   "median": 0.030444626696407795,
+   "iqr": 0.008431833237409592
+  },
+  "sub100_share": {
+   "median": 0.48054517805576324,
+   "iqr": 0.22220871597528458
+  },
+  "lowest_pitch": {
+   "median": 75.3662109375,
+   "iqr": 57.19757080078125
+  },
+  "harmonic_share": {
+   "median": 0.8393451869487762,
+   "iqr": 0.028973475098609924
+  },
+  "clean_share": {
+   "median": 0.03718896942838955,
+   "iqr": 0.039334406126682014
+  },
+  "minor_share": {
+   "median": 0.029730585960261097,
+   "iqr": 0.12945364422546005
+  },
+  "chord_rate": {
+   "median": 2.7863711402520135,
+   "iqr": 0.5627537460920009
+  },
+  "repetitiveness": {
+   "median": 0.9069313108921051,
+   "iqr": 0.08557839691638947
+  },
+  "vocal_share": {
+   "median": 0.04434581845998764,
+   "iqr": 0.03637532843276858
+  },
+  "vocal_voiced": {
+   "median": 0.6257293854823114,
+   "iqr": 0.22748860206250832
+  },
+  "song_length": {
+   "median": 231.6875,
+   "iqr": 34.46350000000001
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

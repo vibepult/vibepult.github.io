@@ -1,0 +1,32 @@
+{
+ "id": "krypteria/327048907-105",
+ "band": "krypteria",
+ "title": "Deny",
+ "source": "itunes",
+ "album": "My Fatal Kiss",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.366151836971604,
+  "tempo_var": 10.845947655770795,
+  "low_onset_rate": 6.099280810425982,
+  "lufs": -8.479486183490076,
+  "rms_dbfs": -8.4109356985172,
+  "crest": 8.41093635559082,
+  "centroid": 3076.9092779413177,
+  "flatness": 0.05715513974428177,
+  "sub100_share": 0.3221614360809326,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6683837175369263,
+  "clean_share": 0.002320185614849188,
+  "minor_share": 0.1811524130507045,
+  "chord_rate": 1.0665409067411553,
+  "repetitiveness": 0.84975266456604,
+  "vocal_share": 0.21452924609184265,
+  "vocal_voiced": 0.5819032761310452,
+  "song_length": 294.921
+ }
+}

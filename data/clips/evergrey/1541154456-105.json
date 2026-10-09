@@ -1,0 +1,32 @@
+{
+ "id": "evergrey/1541154456-105",
+ "band": "evergrey",
+ "title": "The Beholder (feat. James Labrie)",
+ "source": "itunes",
+ "album": "Escape of the Phoenix",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.6332674237202047,
+  "tempo_var": 13.190490556533579,
+  "low_onset_rate": 6.1332220730689695,
+  "lufs": -9.852836457014469,
+  "rms_dbfs": -9.068022428521784,
+  "crest": 9.068022727966309,
+  "centroid": 2291.650648640395,
+  "flatness": 0.025407524779438972,
+  "sub100_share": 0.2837602496147156,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8254919648170471,
+  "clean_share": 0.0951276102088167,
+  "minor_share": 0.012418017572460638,
+  "chord_rate": 1.0333145883974895,
+  "repetitiveness": 0.831064760684967,
+  "vocal_share": 0.20618535578250885,
+  "vocal_voiced": 0.8467087466185753,
+  "song_length": 349.747
+ }
+}

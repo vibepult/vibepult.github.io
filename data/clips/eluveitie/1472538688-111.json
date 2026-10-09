@@ -1,0 +1,32 @@
+{
+ "id": "eluveitie/1472538688-111",
+ "band": "eluveitie",
+ "title": "The Silver Sister",
+ "source": "itunes",
+ "album": "Origins",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.9666426809210527,
+  "tempo_var": 2.318473193204918,
+  "low_onset_rate": 5.399967347136223,
+  "lufs": -11.430002711491142,
+  "rms_dbfs": -11.110517627163489,
+  "crest": 11.110517501831055,
+  "centroid": 1862.7467785141012,
+  "flatness": 0.014772523194551468,
+  "sub100_share": 0.412156879901886,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7293844819068909,
+  "clean_share": 0.4980665119876257,
+  "minor_share": 0.357539892785957,
+  "chord_rate": 1.7666559839396285,
+  "repetitiveness": 0.866461455821991,
+  "vocal_share": 0.018306108191609383,
+  "vocal_voiced": 0.6009389671361502,
+  "song_length": 254.914
+ }
+}

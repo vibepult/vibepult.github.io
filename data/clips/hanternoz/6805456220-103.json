@@ -1,0 +1,32 @@
+{
+ "id": "hanternoz/6805456220-103",
+ "band": "hanternoz",
+ "title": "Le Diable de Quimper Corentin",
+ "source": "itunes",
+ "album": "A Hed an Noz, a Noz, a Noz",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 6.333237592780155,
+  "tempo_var": 0.0,
+  "low_onset_rate": 8.933198288763586,
+  "lufs": -8.8102089468669,
+  "rms_dbfs": -8.92207457816782,
+  "crest": 8.922075271606445,
+  "centroid": 2618.1234501591184,
+  "flatness": 0.04496810957789421,
+  "sub100_share": 0.29858511686325073,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.742908239364624,
+  "clean_share": 0.0,
+  "minor_share": -0.14828570157549692,
+  "chord_rate": 0.9666520536348657,
+  "repetitiveness": 0.936988890171051,
+  "vocal_share": 0.1758585423231125,
+  "vocal_voiced": 0.5764150943396227,
+  "song_length": 469.945
+ }
+}

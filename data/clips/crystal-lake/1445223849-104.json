@@ -1,0 +1,32 @@
+{
+ "id": "crystal-lake/1445223849-104",
+ "band": "crystal-lake",
+ "title": "+81",
+ "source": "itunes",
+ "album": "Helix",
+ "year": 2018,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.599966137770898,
+  "tempo_var": 11.799389736014849,
+  "low_onset_rate": 2.8999824642027865,
+  "lufs": -8.742795558701687,
+  "rms_dbfs": -8.198600079077693,
+  "crest": 8.198600769042969,
+  "centroid": 2506.09389360798,
+  "flatness": 0.047921497374773026,
+  "sub100_share": 0.5036273002624512,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7292165160179138,
+  "clean_share": 0.1430781129156999,
+  "minor_share": -0.09208267008903881,
+  "chord_rate": 2.4333186193885448,
+  "repetitiveness": 0.9688673615455627,
+  "vocal_share": 0.13564807176589966,
+  "vocal_voiced": 0.02390998593530239,
+  "song_length": 199.601
+ }
+}

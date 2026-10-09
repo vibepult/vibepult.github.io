@@ -1,0 +1,32 @@
+{
+ "id": "tool/1475686696-105",
+ "band": "tool",
+ "title": "Legion Inoculant",
+ "source": "itunes",
+ "album": "Fear Inoculum",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "hand",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.8309068027961124,
+  "tempo_var": 7.1197869450198255,
+  "low_onset_rate": 4.263965832677412,
+  "lufs": -14.139045188454885,
+  "rms_dbfs": -10.074317278212717,
+  "crest": 10.074317932128906,
+  "centroid": 893.0639672410749,
+  "flatness": 0.00032891283626668155,
+  "sub100_share": 0.8895636796951294,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.9705324172973633,
+  "clean_share": 0.9992266047950503,
+  "minor_share": -0.0532772089764898,
+  "chord_rate": 0.9993669920337684,
+  "repetitiveness": 0.9268907904624939,
+  "vocal_share": 0.0412130281329155,
+  "vocal_voiced": 0.7384076990376203,
+  "song_length": 189.979
+ }
+}

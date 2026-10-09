@@ -1,0 +1,32 @@
+{
+ "id": "nailbomb/280151959-106",
+ "band": "nailbomb",
+ "title": "Sum of Your Achievements",
+ "source": "itunes",
+ "album": "Point Blank",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 66.25600961538461,
+  "onset_rate": 1.666470166783055,
+  "tempo_var": 33.09015088226908,
+  "low_onset_rate": 6.299257230439948,
+  "lufs": -13.296850058845115,
+  "rms_dbfs": -12.621460538725307,
+  "crest": 12.6214599609375,
+  "centroid": 2059.761107792614,
+  "flatness": 0.015727300196886063,
+  "sub100_share": 0.1859738975763321,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7833293080329895,
+  "clean_share": 0.23124516627996908,
+  "minor_share": -0.06434668762444506,
+  "chord_rate": 1.0998703100768163,
+  "repetitiveness": 0.9863409399986267,
+  "vocal_share": 0.03714882582426071,
+  "vocal_voiced": 0.3177083333333333,
+  "song_length": 162.173
+ }
+}

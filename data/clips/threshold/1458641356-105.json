@@ -1,0 +1,32 @@
+{
+ "id": "threshold/1458641356-105",
+ "band": "threshold",
+ "title": "Echoes of Life",
+ "source": "itunes",
+ "album": "Critical Mass (Definitive Edition)",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 1.169431581244242,
+  "tempo_var": 33.60012644204613,
+  "low_onset_rate": 2.1049768462396354,
+  "lufs": -23.311729700351876,
+  "rms_dbfs": -22.89862848462567,
+  "crest": 18.767744064331055,
+  "centroid": 1126.1285776396317,
+  "flatness": 0.013357936404645443,
+  "sub100_share": 0.1175045520067215,
+  "lowest_pitch": 156.11572265625,
+  "harmonic_share": 0.9582948088645935,
+  "clean_share": 0.9666408068269977,
+  "minor_share": 0.11453041330060798,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.640906810760498,
+  "vocal_share": 0.0220197606831789,
+  "vocal_voiced": 0.0,
+  "song_length": 535.28
+ }
+}

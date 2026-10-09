@@ -1,0 +1,32 @@
+{
+ "id": "slayer/1733768895-106",
+ "band": "slayer",
+ "title": "Criminally Insane",
+ "source": "itunes",
+ "album": "Reign In Blood",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 5.796635059919866,
+  "tempo_var": 4.203845572088237,
+  "low_onset_rate": 6.895996881628805,
+  "lufs": -9.559273186345326,
+  "rms_dbfs": -9.622328461539148,
+  "crest": 9.62232780456543,
+  "centroid": 2710.564381609247,
+  "flatness": 0.049518097192049026,
+  "sub100_share": 0.16272133588790894,
+  "lowest_pitch": 180.340576171875,
+  "harmonic_share": 0.5441998243331909,
+  "clean_share": 0.013921113689095127,
+  "minor_share": 0.12061815117033575,
+  "chord_rate": 1.6323857352647897,
+  "repetitiveness": 0.9469543099403381,
+  "vocal_share": 0.12754875421524048,
+  "vocal_voiced": 0.0759493670886076,
+  "song_length": 143.0
+ }
+}

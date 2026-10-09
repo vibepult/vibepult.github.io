@@ -1,0 +1,32 @@
+{
+ "id": "damageplan/5356931-102",
+ "band": "damageplan",
+ "title": "Breathing New Life",
+ "source": "itunes",
+ "album": "New Found Power",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 0.8998938900628497,
+  "tempo_var": 8.723556311356319,
+  "low_onset_rate": 1.999764200139666,
+  "lufs": -9.52277133075558,
+  "rms_dbfs": -9.97702900665962,
+  "crest": 9.977028846740723,
+  "centroid": 2692.309042420672,
+  "flatness": 0.03905758261680603,
+  "sub100_share": 0.20938026905059814,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.6424908638000488,
+  "clean_share": 0.007733952049497293,
+  "minor_share": 0.18944337063826133,
+  "chord_rate": 2.4663758468389214,
+  "repetitiveness": 0.8392564058303833,
+  "vocal_share": 0.1707107126712799,
+  "vocal_voiced": 0.1778846153846154,
+  "song_length": 229.493
+ }
+}

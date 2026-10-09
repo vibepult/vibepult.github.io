@@ -1,0 +1,127 @@
+{
+ "slug": "entombed",
+ "name": "Entombed",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 3198183,
+  "deezer": 5512,
+  "spotify": "2pnezMcaiTHfGmgmGQjLsB"
+ },
+ "metadata": {
+  "formed": 1989,
+  "split": null,
+  "country": "SE",
+  "status": "active",
+  "members": 3,
+  "past_members": 9,
+  "full_lengths": 9,
+  "genre": "Death Metal/Death 'n' Roll",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 40355,
+  "themes": "Horror, Death, Violence, Anti-religion, Life",
+  "release_year": 1998
+ },
+ "partial": false,
+ "clips": [
+  "entombed/757879247-105",
+  "entombed/65013435-105",
+  "entombed/1620373599-106",
+  "entombed/1888507992-106",
+  "entombed/1633484319-106",
+  "entombed/6774097237-107",
+  "entombed/757879247-106",
+  "entombed/65013435-104",
+  "entombed/1620373599-105",
+  "entombed/1888507992-107",
+  "entombed/1633484319-105",
+  "entombed/6774097237-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 35.974347749502655
+  },
+  "onset_rate": {
+   "median": 4.555218064862011,
+   "iqr": 1.0196634375642812
+  },
+  "tempo_var": {
+   "median": 11.267336136074299,
+   "iqr": 11.743893928675451
+  },
+  "low_onset_rate": {
+   "median": 7.175040407958752,
+   "iqr": 1.8190694313384848
+  },
+  "lufs": {
+   "median": -8.957410654180403,
+   "iqr": 4.448800400399293
+  },
+  "rms_dbfs": {
+   "median": -9.284659154308507,
+   "iqr": 7.382317470063661
+  },
+  "crest": {
+   "median": 9.284658908843994,
+   "iqr": 7.214184761047363
+  },
+  "centroid": {
+   "median": 2675.547997517403,
+   "iqr": 994.6908020022138
+  },
+  "flatness": {
+   "median": 0.04450352489948273,
+   "iqr": 0.04828433878719807
+  },
+  "sub100_share": {
+   "median": 0.23932676762342453,
+   "iqr": 0.11013008281588554
+  },
+  "lowest_pitch": {
+   "median": 56.524658203125,
+   "iqr": 32.2998046875
+  },
+  "harmonic_share": {
+   "median": 0.7309043407440186,
+   "iqr": 0.08688169717788696
+  },
+  "clean_share": {
+   "median": 0.012412723041117145,
+   "iqr": 0.1224621529637538
+  },
+  "minor_share": {
+   "median": -0.003490951248558999,
+   "iqr": 0.19296123786648495
+  },
+  "chord_rate": {
+   "median": 2.202646418238536,
+   "iqr": 0.42600721888183113
+  },
+  "repetitiveness": {
+   "median": 0.8979457914829254,
+   "iqr": 0.05332779884338379
+  },
+  "vocal_share": {
+   "median": 0.09333661943674088,
+   "iqr": 0.060730934143066406
+  },
+  "vocal_voiced": {
+   "median": 0.15334103398788895,
+   "iqr": 0.11620103014709432
+  },
+  "song_length": {
+   "median": 193.393,
+   "iqr": 49.110000000000014
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

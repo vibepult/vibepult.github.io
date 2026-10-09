@@ -1,0 +1,32 @@
+{
+ "id": "furor-gallico/1838016134-108",
+ "band": "furor-gallico",
+ "title": "Miracolous Child",
+ "source": "itunes",
+ "album": "Furor Gallico",
+ "year": 2010,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 75.99954044117646,
+  "onset_rate": 3.4998941830934815,
+  "tempo_var": 27.266834118303105,
+  "low_onset_rate": 5.666495344056113,
+  "lufs": -10.05946641358237,
+  "rms_dbfs": -10.05010177578219,
+  "crest": 10.050101280212402,
+  "centroid": 2651.6897525490763,
+  "flatness": 0.03380971401929855,
+  "sub100_share": 0.1616997867822647,
+  "lowest_pitch": 131.890869140625,
+  "harmonic_share": 0.7807007431983948,
+  "clean_share": 0.02320185614849188,
+  "minor_share": 0.17342548761653775,
+  "chord_rate": 1.4666223243439351,
+  "repetitiveness": 0.6696509718894958,
+  "vocal_share": 0.03536859527230263,
+  "vocal_voiced": 0.45217391304347826,
+  "song_length": 377.907
+ }
+}

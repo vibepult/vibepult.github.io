@@ -1,0 +1,32 @@
+{
+ "id": "rush/1440724415-104",
+ "band": "rush",
+ "title": "By-Tor & The Snow Dog",
+ "source": "itunes",
+ "album": "Fly By Night (Remastered)",
+ "year": 1975,
+ "itunes_year": 1975,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.729865480335657,
+  "tempo_var": 21.870019073136536,
+  "low_onset_rate": 5.396043717002651,
+  "lufs": -10.968593776732273,
+  "rms_dbfs": -10.826024168524926,
+  "crest": 10.826024055480957,
+  "centroid": 2717.7597741006853,
+  "flatness": 0.035277798771858215,
+  "sub100_share": 0.281856507062912,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.6346737742424011,
+  "clean_share": 0.10518174787316319,
+  "minor_share": -0.05826989013771555,
+  "chord_rate": 1.9652257981676322,
+  "repetitiveness": 0.7701029181480408,
+  "vocal_share": 0.18329831957817078,
+  "vocal_voiced": 0.46781789638932497,
+  "song_length": 519.686
+ }
+}

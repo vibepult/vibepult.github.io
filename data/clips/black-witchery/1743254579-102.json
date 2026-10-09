@@ -1,0 +1,32 @@
+{
+ "id": "black-witchery/1743254579-102",
+ "band": "black-witchery",
+ "title": "Crush the Messiah",
+ "source": "itunes",
+ "album": "Desecration of the Holy Kingdom",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.166588562531179,
+  "tempo_var": 2.371834164056213,
+  "low_onset_rate": 7.866547746821666,
+  "lufs": -7.508831244545709,
+  "rms_dbfs": -5.943844389564607,
+  "crest": 5.943844318389893,
+  "centroid": 2223.260851056547,
+  "flatness": 0.01883065328001976,
+  "sub100_share": 0.4456348121166229,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.8206185698509216,
+  "clean_share": 0.029389017788089715,
+  "minor_share": 0.04821274126212888,
+  "chord_rate": 1.299980347991716,
+  "repetitiveness": 0.9634920358657837,
+  "vocal_share": 0.06435054540634155,
+  "vocal_voiced": 0.20992761116856257,
+  "song_length": 160.76
+ }
+}

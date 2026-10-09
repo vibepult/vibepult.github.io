@@ -1,0 +1,32 @@
+{
+ "id": "ultar/1733631051-104",
+ "band": "ultar",
+ "title": "My Rope",
+ "source": "itunes",
+ "album": "At the Gates of Dusk",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 6.799897204879745,
+  "tempo_var": 8.580635881856796,
+  "low_onset_rate": 7.766549258514611,
+  "lufs": -6.881623927845272,
+  "rms_dbfs": -6.570337481754476,
+  "crest": 6.570338249206543,
+  "centroid": 2428.3771966106324,
+  "flatness": 0.03709493577480316,
+  "sub100_share": 0.36649641394615173,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7697545886039734,
+  "clean_share": 0.0,
+  "minor_share": 0.049830927509499634,
+  "chord_rate": 1.7666399600913063,
+  "repetitiveness": 0.9076662063598633,
+  "vocal_share": 0.12244537472724915,
+  "vocal_voiced": 0.16470588235294117,
+  "song_length": 444.0
+ }
+}

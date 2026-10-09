@@ -1,0 +1,32 @@
+{
+ "id": "the-berzerker/117621004-106",
+ "band": "the-berzerker",
+ "title": "Follow Me",
+ "source": "itunes",
+ "album": "World of Lies",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 6.11445655336275,
+  "tempo_var": 8.178797950254097,
+  "low_onset_rate": 8.687206032100082,
+  "lufs": -7.3862152423440435,
+  "rms_dbfs": -6.359187248787377,
+  "crest": 6.359187126159668,
+  "centroid": 2605.729053474748,
+  "flatness": 0.032645173370838165,
+  "sub100_share": 0.47753286361694336,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8613016605377197,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": 0.21838410137728237,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.9555954337120056,
+  "vocal_share": 0.05150548741221428,
+  "vocal_voiced": 0.3286118980169972,
+  "song_length": 162.107
+ }
+}

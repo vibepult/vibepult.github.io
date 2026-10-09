@@ -1,0 +1,32 @@
+{
+ "id": "superjoint/1435781868-105",
+ "band": "superjoint",
+ "title": "Personal Insult",
+ "source": "itunes",
+ "album": "A Lethal Dose of American Hatred",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 6.866666666666666,
+  "tempo_var": 3.476685842126069,
+  "low_onset_rate": 7.333333333333333,
+  "lufs": -9.964622649619221,
+  "rms_dbfs": -9.482048795061393,
+  "crest": 9.482048988342285,
+  "centroid": 2498.2708729669434,
+  "flatness": 0.030132394284009933,
+  "sub100_share": 0.4308432638645172,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7119824290275574,
+  "clean_share": 0.0015479876160990713,
+  "minor_share": -0.022992258917629738,
+  "chord_rate": 2.5,
+  "repetitiveness": 0.9171754717826843,
+  "vocal_share": 0.03619857132434845,
+  "vocal_voiced": 0.2549800796812749,
+  "song_length": 251.533
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "riverside/1647619910-104",
+ "band": "riverside",
+ "title": "Post-Truth",
+ "source": "itunes",
+ "album": "ID.Entity",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.363902531880789,
+  "tempo_var": 2.842170943040401e-14,
+  "low_onset_rate": 5.529830689253519,
+  "lufs": -10.419869535096963,
+  "rms_dbfs": -9.789582349287787,
+  "crest": 9.789582252502441,
+  "centroid": 2010.8931195098808,
+  "flatness": 0.01311881747096777,
+  "sub100_share": 0.2675997018814087,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.747002363204956,
+  "clean_share": 0.4006187161639598,
+  "minor_share": 0.25235117500284043,
+  "chord_rate": 2.1652951494064983,
+  "repetitiveness": 0.7799582481384277,
+  "vocal_share": 0.22714856266975403,
+  "vocal_voiced": 0.7743413516609393,
+  "song_length": 337.223
+ }
+}

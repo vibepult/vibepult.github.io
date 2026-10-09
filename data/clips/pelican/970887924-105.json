@@ -1,0 +1,32 @@
+{
+ "id": "pelican/970887924-105",
+ "band": "pelican",
+ "title": "Strung up from the Sky",
+ "source": "itunes",
+ "album": "What We All Come to Need",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 3.6,
+  "tempo_var": 18.462383373535616,
+  "low_onset_rate": 3.433333333333333,
+  "lufs": -10.569306382757455,
+  "rms_dbfs": -9.331785262957746,
+  "crest": 9.331785202026367,
+  "centroid": 2289.585940168036,
+  "flatness": 0.02269795723259449,
+  "sub100_share": 0.45555379986763,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7210907936096191,
+  "clean_share": 0.1346749226006192,
+  "minor_share": -0.0005935026952618161,
+  "chord_rate": 1.3666666666666667,
+  "repetitiveness": 0.8348780870437622,
+  "vocal_share": 4.4414233002498804e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 312.907
+ }
+}

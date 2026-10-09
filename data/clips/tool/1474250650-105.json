@@ -1,0 +1,32 @@
+{
+ "id": "tool/1474250650-105",
+ "band": "tool",
+ "title": "The Pot",
+ "source": "itunes",
+ "album": "10,000 Days",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "hand",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.8642190358639046,
+  "tempo_var": 8.382077348477283,
+  "low_onset_rate": 3.197974374508059,
+  "lufs": -11.105977324551107,
+  "rms_dbfs": -9.99833193990218,
+  "crest": 9.998332023620605,
+  "centroid": 2287.3076271184823,
+  "flatness": 0.015565324574708939,
+  "sub100_share": 0.4232170283794403,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8122549653053284,
+  "clean_share": 0.22351121423047177,
+  "minor_share": 0.037924885684529674,
+  "chord_rate": 1.4324260219150682,
+  "repetitiveness": 0.9242513179779053,
+  "vocal_share": 0.04444212093949318,
+  "vocal_voiced": 0.9393139841688655,
+  "song_length": 381.947
+ }
+}

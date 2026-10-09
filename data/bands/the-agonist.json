@@ -1,0 +1,127 @@
+{
+ "slug": "the-agonist",
+ "name": "The Agonist",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 259346705,
+  "deezer": 168263,
+  "spotify": "3NrGqWwh6dKk99v1UFqQak"
+ },
+ "metadata": {
+  "formed": 2007,
+  "split": 2023,
+  "country": "CA",
+  "status": "split-up",
+  "members": 5,
+  "past_members": 1,
+  "full_lengths": 6,
+  "genre": "Melodic Death Metal/Metalcore",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 51772,
+  "themes": "Social/global problems, Self-help, Veganism, Straight edge culture",
+  "release_year": 2013
+ },
+ "partial": false,
+ "clips": [
+  "the-agonist/1045610593-106",
+  "the-agonist/1045657052-106",
+  "the-agonist/1045281849-106",
+  "the-agonist/1056443883-107",
+  "the-agonist/1184702704-107",
+  "the-agonist/1464617096-105",
+  "the-agonist/1045610593-105",
+  "the-agonist/1045657052-105",
+  "the-agonist/1045281849-105",
+  "the-agonist/1056443883-106",
+  "the-agonist/1184702704-108",
+  "the-agonist/1464617096-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 31.539809283088232
+  },
+  "onset_rate": {
+   "median": 4.980178843634946,
+   "iqr": 2.766464488083201
+  },
+  "tempo_var": {
+   "median": 7.205528617876788,
+   "iqr": 17.683254752592234
+  },
+  "low_onset_rate": {
+   "median": 5.214978645423383,
+   "iqr": 1.8896383338857792
+  },
+  "lufs": {
+   "median": -8.821320723588414,
+   "iqr": 1.704305404764268
+  },
+  "rms_dbfs": {
+   "median": -8.413913715292516,
+   "iqr": 1.6401743310940526
+  },
+  "crest": {
+   "median": 8.413913249969482,
+   "iqr": 1.6401747465133667
+  },
+  "centroid": {
+   "median": 2493.5765521329304,
+   "iqr": 233.20399488391104
+  },
+  "flatness": {
+   "median": 0.0348176546394825,
+   "iqr": 0.01672141533344984
+  },
+  "sub100_share": {
+   "median": 0.27295492589473724,
+   "iqr": 0.0741528682410717
+  },
+  "lowest_pitch": {
+   "median": 51.141357421875,
+   "iqr": 61.907958984375
+  },
+  "harmonic_share": {
+   "median": 0.7650444805622101,
+   "iqr": 0.13579607009887695
+  },
+  "clean_share": {
+   "median": 0.023622153542648038,
+   "iqr": 0.1423488646893609
+  },
+  "minor_share": {
+   "median": 0.012745647136515131,
+   "iqr": 0.196873572931867
+  },
+  "chord_rate": {
+   "median": 1.6519749389839822,
+   "iqr": 0.4462617714561339
+  },
+  "repetitiveness": {
+   "median": 0.8654676377773285,
+   "iqr": 0.09724102914333344
+  },
+  "vocal_share": {
+   "median": 0.18404129147529602,
+   "iqr": 0.14279082417488098
+  },
+  "vocal_voiced": {
+   "median": 0.52,
+   "iqr": 0.33337334695651977
+  },
+  "song_length": {
+   "median": 257.0265,
+   "iqr": 68.70824999999999
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

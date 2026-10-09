@@ -1,0 +1,32 @@
+{
+ "id": "metsatoll/1656546225-108",
+ "band": "metsatoll",
+ "title": "Merepojad",
+ "source": "itunes",
+ "album": "Hiiekoda",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.9092427144450372,
+  "tempo_var": 5.569581155235721,
+  "low_onset_rate": 5.579859259079669,
+  "lufs": -19.50635979075027,
+  "rms_dbfs": -19.305243469330513,
+  "crest": 13.593975067138672,
+  "centroid": 1324.5572629641822,
+  "flatness": 0.0001211933049489744,
+  "sub100_share": 1.3051118912699167e-05,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.9651307463645935,
+  "clean_share": 1.0,
+  "minor_share": 0.1727675461510041,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.6122124195098877,
+  "vocal_share": 9.570105248712935e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 339.92
+ }
+}

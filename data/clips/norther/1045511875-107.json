@@ -1,0 +1,32 @@
+{
+ "id": "norther/1045511875-107",
+ "band": "norther",
+ "title": "We Rock",
+ "source": "itunes",
+ "album": "N",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 5.145498957474664,
+  "tempo_var": 14.768339641055334,
+  "low_onset_rate": 6.74929084032391,
+  "lufs": -8.448548676763686,
+  "rms_dbfs": -8.243905462989268,
+  "crest": 8.243905067443848,
+  "centroid": 2726.4457008092973,
+  "flatness": 0.04745856299996376,
+  "sub100_share": 0.30882954597473145,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6967491507530212,
+  "clean_share": 0.0,
+  "minor_share": -0.027419119611623133,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.8877191543579102,
+  "vocal_share": 0.10324423760175705,
+  "vocal_voiced": 0.11959654178674352,
+  "song_length": 237.08
+ }
+}

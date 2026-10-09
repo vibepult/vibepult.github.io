@@ -1,0 +1,32 @@
+{
+ "id": "edge-of-sanity/290526259-106",
+ "band": "edge-of-sanity",
+ "title": "Forever Together Forever",
+ "source": "itunes",
+ "album": "Infernal",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 5.646683920865054,
+  "tempo_var": 32.74236325063957,
+  "low_onset_rate": 7.250475803714299,
+  "lufs": -9.988383659776446,
+  "rms_dbfs": -10.095804177479582,
+  "crest": 10.095804214477539,
+  "centroid": 3019.667675234914,
+  "flatness": 0.06803195923566818,
+  "sub100_share": 0.2786521911621094,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.6509742736816406,
+  "clean_share": 0.0,
+  "minor_share": 0.1349233465698481,
+  "chord_rate": 2.338863162488484,
+  "repetitiveness": 0.9189012050628662,
+  "vocal_share": 0.20997217297554016,
+  "vocal_voiced": 0.10070052539404553,
+  "song_length": 267.333
+ }
+}

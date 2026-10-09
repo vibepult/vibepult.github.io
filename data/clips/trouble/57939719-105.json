@@ -1,0 +1,32 @@
+{
+ "id": "trouble/57939719-105",
+ "band": "trouble",
+ "title": "Peace of Mind",
+ "source": "itunes",
+ "album": "Run to the Light",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 2.1718015080250206,
+  "tempo_var": 12.287113183711787,
+  "low_onset_rate": 3.5417070746254184,
+  "lufs": -15.8643093635122,
+  "rms_dbfs": -15.724057239107585,
+  "crest": 15.7240571975708,
+  "centroid": 2367.570618446926,
+  "flatness": 0.021038034930825233,
+  "sub100_share": 0.18314504623413086,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.6135329604148865,
+  "clean_share": 0.06904577191621412,
+  "minor_share": 0.01452778013739725,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.9131870269775391,
+  "vocal_share": 0.1820162832736969,
+  "vocal_voiced": 0.6670480549199085,
+  "song_length": 182.8
+ }
+}

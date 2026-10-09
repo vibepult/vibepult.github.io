@@ -1,0 +1,32 @@
+{
+ "id": "stryper/1753105419-106",
+ "band": "stryper",
+ "title": "Trinity",
+ "source": "itunes",
+ "album": "When We Were Kings",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 4.8,
+  "tempo_var": 17.803225358900523,
+  "low_onset_rate": 6.933333333333334,
+  "lufs": -8.89889810219593,
+  "rms_dbfs": -8.23719654307936,
+  "crest": 8.23719596862793,
+  "centroid": 2720.695683783856,
+  "flatness": 0.03361581638455391,
+  "sub100_share": 0.2973410487174988,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7861135601997375,
+  "clean_share": 0.017027863777089782,
+  "minor_share": 0.02794621472349268,
+  "chord_rate": 1.5666666666666667,
+  "repetitiveness": 0.7949486374855042,
+  "vocal_share": 0.13999593257904053,
+  "vocal_voiced": 0.8571428571428571,
+  "song_length": 250.353
+ }
+}

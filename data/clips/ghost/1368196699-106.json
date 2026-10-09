@@ -1,0 +1,32 @@
+{
+ "id": "ghost/1368196699-106",
+ "band": "ghost",
+ "title": "Dance Macabre",
+ "source": "itunes",
+ "album": "Prequelle",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.699959184290487,
+  "tempo_var": 3.0325410023386667,
+  "low_onset_rate": 3.599945579053983,
+  "lufs": -9.655551745679036,
+  "rms_dbfs": -8.687089937959186,
+  "crest": 8.687089920043945,
+  "centroid": 2411.3584574277097,
+  "flatness": 0.025488100945949554,
+  "sub100_share": 0.38473328948020935,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.6658693552017212,
+  "clean_share": 0.11214230471771075,
+  "minor_share": -0.156166971533081,
+  "chord_rate": 1.333313177427401,
+  "repetitiveness": 0.7033600807189941,
+  "vocal_share": 0.14414505660533905,
+  "vocal_voiced": 0.5688405797101449,
+  "song_length": 219.72
+ }
+}

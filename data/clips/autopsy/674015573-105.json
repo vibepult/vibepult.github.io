@@ -1,0 +1,32 @@
+{
+ "id": "autopsy/674015573-105",
+ "band": "autopsy",
+ "title": "When Hammer Meets Bone",
+ "source": "itunes",
+ "album": "The Headless Ritual",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 6.515404524075062,
+  "tempo_var": 3.0188240618920577,
+  "low_onset_rate": 6.74929084032391,
+  "lufs": -7.153407401828272,
+  "rms_dbfs": -6.966899970159101,
+  "crest": 6.966899871826172,
+  "centroid": 2500.6037364236972,
+  "flatness": 0.03530775383114815,
+  "sub100_share": 0.28384000062942505,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7285250425338745,
+  "clean_share": 0.0,
+  "minor_share": -0.08057851363588225,
+  "chord_rate": 2.2386261698104057,
+  "repetitiveness": 0.9342188835144043,
+  "vocal_share": 0.13303256034851074,
+  "vocal_voiced": 0.16019417475728157,
+  "song_length": 334.72
+ }
+}

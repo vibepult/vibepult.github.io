@@ -1,0 +1,127 @@
+{
+ "slug": "megadeth",
+ "name": "Megadeth",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 488289,
+  "deezer": 3487,
+  "spotify": "1Yox196W7bzVNZI7RBaPnf"
+ },
+ "metadata": {
+  "formed": 1983,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 4,
+  "past_members": 25,
+  "full_lengths": 17,
+  "genre": "Thrash Metal (early/later); Heavy Metal/Rock (mid)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 1800032,
+  "themes": "Society, Politics, History, Death, Religion, New World Order, Addiction, Love",
+  "release_year": 1995
+ },
+ "partial": false,
+ "clips": [
+  "megadeth/268441837-104",
+  "megadeth/1440837699-106",
+  "megadeth/1021605113-104",
+  "megadeth/724648893-104",
+  "megadeth/1674088375-106",
+  "megadeth/1455396819-106",
+  "megadeth/723975910-107",
+  "megadeth/724934886-108",
+  "megadeth/1436287653-106",
+  "megadeth/1436296074-107",
+  "megadeth/1440644391-106",
+  "megadeth/1437340561-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 132.59919819078948,
+   "iqr": 27.377524394762844
+  },
+  "onset_rate": {
+   "median": 4.316633913319526,
+   "iqr": 0.5999440673610374
+  },
+  "tempo_var": {
+   "median": 4.503208810009363,
+   "iqr": 13.14386433937444
+  },
+  "low_onset_rate": {
+   "median": 5.733290250084403,
+   "iqr": 1.8120226900010188
+  },
+  "lufs": {
+   "median": -9.840041211455944,
+   "iqr": 3.8974367509250047
+  },
+  "rms_dbfs": {
+   "median": -9.358085538236846,
+   "iqr": 4.390238022937256
+  },
+  "crest": {
+   "median": 9.358085632324219,
+   "iqr": 4.37227201461792
+  },
+  "centroid": {
+   "median": 2604.9391984895638,
+   "iqr": 507.31716455833157
+  },
+  "flatness": {
+   "median": 0.02776839304715395,
+   "iqr": 0.01977440807968378
+  },
+  "sub100_share": {
+   "median": 0.2670169025659561,
+   "iqr": 0.1140175387263298
+  },
+  "lowest_pitch": {
+   "median": 60.5621337890625,
+   "iqr": 40.374755859375
+  },
+  "harmonic_share": {
+   "median": 0.7157578468322754,
+   "iqr": 0.11119146645069122
+  },
+  "clean_share": {
+   "median": 0.05645784996133024,
+   "iqr": 0.19995034587287108
+  },
+  "minor_share": {
+   "median": 0.03150054443866135,
+   "iqr": 0.219206728715004
+  },
+  "chord_rate": {
+   "median": 1.849972033680519,
+   "iqr": 0.6648994149482799
+  },
+  "repetitiveness": {
+   "median": 0.8333125114440918,
+   "iqr": 0.06945006549358368
+  },
+  "vocal_share": {
+   "median": 0.13864971697330475,
+   "iqr": 0.03175441548228264
+  },
+  "vocal_voiced": {
+   "median": 0.4797517344592651,
+   "iqr": 0.2946808179325867
+  },
+  "song_length": {
+   "median": 240.0335,
+   "iqr": 46.20675
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

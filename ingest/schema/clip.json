@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Per-clip raw features. Immutable once written; keyed by extractor_version.",
+  "type": "object",
+  "required": ["id", "band", "source", "album", "year", "year_source", "itunes_year", "extractor_version", "features"],
+  "properties": {
+    "id": {"type": "string", "pattern": "^[a-z0-9-]+/[0-9]+-[0-9]+$"},
+    "band": {"type": "string"},
+    "title": {"type": "string"},
+    "source": {"enum": ["itunes", "deezer"]},
+    "album": {"type": "string"},
+    "year": {"type": "integer", "minimum": 1960},
+    "itunes_year": {"type": "integer"},
+    "year_source": {"enum": ["metal-archives", "hand"]},
+    "extractor_version": {"type": "string"},
+    "features": {
+      "type": "object",
+      "additionalProperties": {"type": "number"}
+    }
+  }
+}

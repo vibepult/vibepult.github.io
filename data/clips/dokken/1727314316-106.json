@@ -1,0 +1,32 @@
+{
+ "id": "dokken/1727314316-106",
+ "band": "dokken",
+ "title": "It's Not Love",
+ "source": "itunes",
+ "album": "Under Lock and Key",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.2333137819272446,
+  "tempo_var": 0.0,
+  "low_onset_rate": 3.399979440789474,
+  "lufs": -17.20795064650274,
+  "rms_dbfs": -17.589174479884342,
+  "crest": 17.589174270629883,
+  "centroid": 1909.6158884269526,
+  "flatness": 0.01759708672761917,
+  "sub100_share": 0.30842334032058716,
+  "lowest_pitch": 104.974365234375,
+  "harmonic_share": 0.7352777719497681,
+  "clean_share": 0.605568445475638,
+  "minor_share": 0.06724042090940113,
+  "chord_rate": 1.7333228521671826,
+  "repetitiveness": 0.7411460876464844,
+  "vocal_share": 1.583426637807861e-05,
+  "vocal_voiced": 0.0,
+  "song_length": 299.4
+ }
+}

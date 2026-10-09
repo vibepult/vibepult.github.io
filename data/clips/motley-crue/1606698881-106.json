@@ -1,0 +1,32 @@
+{
+ "id": "motley-crue/1606698881-106",
+ "band": "motley-crue",
+ "title": "She Needs Rock N Roll",
+ "source": "itunes",
+ "album": "New Tattoo",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.599930462124534,
+  "tempo_var": 11.062171805760299,
+  "low_onset_rate": 5.299919880273919,
+  "lufs": -8.933037100454705,
+  "rms_dbfs": -8.91245828109109,
+  "crest": 8.912457466125488,
+  "centroid": 2685.9096081297685,
+  "flatness": 0.02980600669980049,
+  "sub100_share": 0.3012354373931885,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7876761555671692,
+  "clean_share": 0.004640371229698376,
+  "minor_share": -0.008092315393506078,
+  "chord_rate": 1.8666384483983613,
+  "repetitiveness": 0.836115300655365,
+  "vocal_share": 0.12919670343399048,
+  "vocal_voiced": 0.8669410150891632,
+  "song_length": 239.92
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "heidevolk/1183998300-105",
+ "band": "heidevolk",
+ "title": "In Het Woud Gezworen",
+ "source": "itunes",
+ "album": "Batavi",
+ "year": 2012,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 2.2666666666666666,
+  "tempo_var": 1.0923890729004793,
+  "low_onset_rate": 3.9,
+  "lufs": -9.7997940471493,
+  "rms_dbfs": -9.561204943061286,
+  "crest": 9.56120491027832,
+  "centroid": 2497.0318976847425,
+  "flatness": 0.020752333104610443,
+  "sub100_share": 0.32121241092681885,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8363028764724731,
+  "clean_share": 0.0456656346749226,
+  "minor_share": 0.06911035507308139,
+  "chord_rate": 1.4666666666666666,
+  "repetitiveness": 0.7414840459823608,
+  "vocal_share": 6.384672701642558e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 399.12
+ }
+}

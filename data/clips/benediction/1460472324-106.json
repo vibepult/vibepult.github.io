@@ -1,0 +1,32 @@
+{
+ "id": "benediction/1460472324-106",
+ "band": "benediction",
+ "title": "Nothing on the Inside",
+ "source": "itunes",
+ "album": "Organised Chaos",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 73.828125,
+  "onset_rate": 3.4080577510546477,
+  "tempo_var": 26.889485963891417,
+  "low_onset_rate": 2.138389177132328,
+  "lufs": -13.208514978936574,
+  "rms_dbfs": -12.486877152225874,
+  "crest": 12.48687744140625,
+  "centroid": 2502.53777267034,
+  "flatness": 0.025076894089579582,
+  "sub100_share": 0.2571122348308563,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7322223782539368,
+  "clean_share": 0.15671062839410396,
+  "minor_share": 0.06419347779525464,
+  "chord_rate": 3.207583765698492,
+  "repetitiveness": 0.9257108569145203,
+  "vocal_share": 0.043667022138834,
+  "vocal_voiced": 0.0,
+  "song_length": 281.28
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "sabaton/1463549401-108",
+ "band": "sabaton",
+ "title": "Shiroyama (Track Commentary)",
+ "source": "itunes",
+ "album": "The Last Stand (Track Commentary Version)",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.343603016050041,
+  "tempo_var": 14.415938253269811,
+  "low_onset_rate": 6.916352494787374,
+  "lufs": -16.081219252187843,
+  "rms_dbfs": -15.419891910891906,
+  "crest": 15.419892311096191,
+  "centroid": 1328.9747150700068,
+  "flatness": 0.004028479102998972,
+  "sub100_share": 0.07829299569129944,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8394697904586792,
+  "clean_share": 0.851823118696664,
+  "minor_share": 0.1768449737964538,
+  "chord_rate": 2.606161809630025,
+  "repetitiveness": 0.8229637742042542,
+  "vocal_share": 0.954993724822998,
+  "vocal_voiced": 0.8220958570268074,
+  "song_length": 137.84
+ }
+}

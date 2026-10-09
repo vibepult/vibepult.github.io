@@ -1,0 +1,32 @@
+{
+ "id": "rammstein/1440770702-105",
+ "band": "rammstein",
+ "title": "Feuer frei",
+ "source": "itunes",
+ "album": "Mutter",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "hand",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 5.0,
+  "tempo_var": 11.570233954454071,
+  "low_onset_rate": 3.966666666666667,
+  "lufs": -7.72988351881197,
+  "rms_dbfs": -7.514994416899414,
+  "crest": 7.514994144439697,
+  "centroid": 3026.1881599172807,
+  "flatness": 0.07044562697410583,
+  "sub100_share": 0.33153003454208374,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7282095551490784,
+  "clean_share": 0.0,
+  "minor_share": 0.1598292365023698,
+  "chord_rate": 2.933333333333333,
+  "repetitiveness": 0.8997456431388855,
+  "vocal_share": 0.08494042605161667,
+  "vocal_voiced": 0.27533460803059273,
+  "song_length": 188.6
+ }
+}

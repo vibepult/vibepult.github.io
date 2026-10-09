@@ -1,0 +1,32 @@
+{
+ "id": "angellore/1887731401-102",
+ "band": "angellore",
+ "title": "Still Glowing Ashes",
+ "source": "itunes",
+ "album": "La Litanie des Cendres",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 1.9333041072697315,
+  "tempo_var": 2.718888490113424,
+  "low_onset_rate": 3.899941043975148,
+  "lufs": -13.891158553809934,
+  "rms_dbfs": -13.572460279828785,
+  "crest": 13.572460174560547,
+  "centroid": 2261.8580403804112,
+  "flatness": 0.018314208835363388,
+  "sub100_share": 0.2660359740257263,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.881213366985321,
+  "clean_share": 0.16705336426914152,
+  "minor_share": 0.21774904744999446,
+  "chord_rate": 0.7999879064564406,
+  "repetitiveness": 0.6784716248512268,
+  "vocal_share": 4.0511642396268144e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 626.12
+ }
+}

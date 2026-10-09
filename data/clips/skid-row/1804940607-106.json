@@ -1,0 +1,32 @@
+{
+ "id": "skid-row/1804940607-106",
+ "band": "skid-row",
+ "title": "Strength",
+ "source": "itunes",
+ "album": "Revolutions Per Minute",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 4.233256539563908,
+  "tempo_var": 22.780147973731076,
+  "low_onset_rate": 6.266552987700903,
+  "lufs": -8.870031591083352,
+  "rms_dbfs": -8.549955912574731,
+  "crest": 8.549956321716309,
+  "centroid": 2144.23090251651,
+  "flatness": 0.019160235300660133,
+  "sub100_share": 0.2471548318862915,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7541610598564148,
+  "clean_share": 0.14385150812064965,
+  "minor_share": -0.06051586191199776,
+  "chord_rate": 1.0999800457134565,
+  "repetitiveness": 0.8673200607299805,
+  "vocal_share": 0.21066610515117645,
+  "vocal_voiced": 0.9366336633663367,
+  "song_length": 307.763
+ }
+}

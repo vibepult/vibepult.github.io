@@ -1,0 +1,32 @@
+{
+ "id": "tygers-of-pan-tang/1655648306-105",
+ "band": "tygers-of-pan-tang",
+ "title": "Back For Good",
+ "source": "itunes",
+ "album": "Bloodlines",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.6085317364108036,
+  "tempo_var": 1.7450123576642058,
+  "low_onset_rate": 5.412797604616205,
+  "lufs": -9.043937093073188,
+  "rms_dbfs": -9.037842991987272,
+  "crest": 9.037842750549316,
+  "centroid": 2576.9406287814363,
+  "flatness": 0.035099729895591736,
+  "sub100_share": 0.2274491786956787,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.7114871740341187,
+  "clean_share": 0.026377036462373934,
+  "minor_share": 0.031929942258570376,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.8409749865531921,
+  "vocal_share": 0.2622707486152649,
+  "vocal_voiced": 0.711864406779661,
+  "song_length": 305.813
+ }
+}

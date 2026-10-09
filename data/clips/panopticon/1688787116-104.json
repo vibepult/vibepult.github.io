@@ -1,0 +1,32 @@
+{
+ "id": "panopticon/1688787116-104",
+ "band": "panopticon",
+ "title": "Black Soot and Red Blood",
+ "source": "itunes",
+ "album": "Kentucky",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.472512486059254,
+  "tempo_var": 11.382367966597762,
+  "low_onset_rate": 5.513034597294284,
+  "lufs": -12.4564107827256,
+  "rms_dbfs": -12.651356503233176,
+  "crest": 12.65135669708252,
+  "centroid": 2814.842977030659,
+  "flatness": 0.040974851697683334,
+  "sub100_share": 0.2252347618341446,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7220118641853333,
+  "clean_share": 0.0,
+  "minor_share": -0.20581904126360728,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.736717700958252,
+  "vocal_share": 0.09056498110294342,
+  "vocal_voiced": 0.3411330049261084,
+  "song_length": 611.266
+ }
+}

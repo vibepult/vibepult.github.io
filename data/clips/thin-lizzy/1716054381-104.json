@@ -1,0 +1,32 @@
+{
+ "id": "thin-lizzy/1716054381-104",
+ "band": "thin-lizzy",
+ "title": "The Rocker",
+ "source": "itunes",
+ "album": "Vagabonds Of The Western World",
+ "year": 1973,
+ "itunes_year": 1973,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.563548414386542,
+  "tempo_var": 15.865231971937623,
+  "low_onset_rate": 4.197132118340907,
+  "lufs": -11.42271327061804,
+  "rms_dbfs": -11.342599387438812,
+  "crest": 11.342599868774414,
+  "centroid": 2168.975940183953,
+  "flatness": 0.017835982143878937,
+  "sub100_share": 0.10197798162698746,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.6704006195068359,
+  "clean_share": 0.16163959783449341,
+  "minor_share": -0.2957177894830103,
+  "chord_rate": 2.431671782848303,
+  "repetitiveness": 0.8290443420410156,
+  "vocal_share": 0.28717201948165894,
+  "vocal_voiced": 0.6908077994428969,
+  "song_length": 312.32
+ }
+}

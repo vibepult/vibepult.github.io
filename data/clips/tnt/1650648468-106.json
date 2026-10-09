@@ -1,0 +1,32 @@
+{
+ "id": "tnt/1650648468-106",
+ "band": "tnt",
+ "title": "Now We're Talkin'",
+ "source": "itunes",
+ "album": "The New Territory",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.076304368908501,
+  "tempo_var": 16.92444819248836,
+  "low_onset_rate": 5.279148281045435,
+  "lufs": -8.23627706596035,
+  "rms_dbfs": -8.41718803156507,
+  "crest": 8.417187690734863,
+  "centroid": 2365.144505839253,
+  "flatness": 0.02367057278752327,
+  "sub100_share": 0.16591988503932953,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.7450560331344604,
+  "clean_share": 0.021722265321955005,
+  "minor_share": 0.17601239789431,
+  "chord_rate": 1.3030809048150125,
+  "repetitiveness": 0.749072253704071,
+  "vocal_share": 0.14448034763336182,
+  "vocal_voiced": 0.6937269372693727,
+  "song_length": 216.4
+ }
+}

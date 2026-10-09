@@ -1,0 +1,32 @@
+{
+ "id": "psoty/1660433901-102",
+ "band": "psoty",
+ "title": "The Yawning Void",
+ "source": "itunes",
+ "album": "Sunless",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 2.2386261698104057,
+  "tempo_var": 17.05548147452579,
+  "low_onset_rate": 1.1026069194588566,
+  "lufs": -13.685914517453854,
+  "rms_dbfs": -12.41761766119133,
+  "crest": 12.417617797851562,
+  "centroid": 1306.9441115743045,
+  "flatness": 0.002237701788544655,
+  "sub100_share": 0.4260604679584503,
+  "lowest_pitch": 123.81591796875,
+  "harmonic_share": 0.7826589941978455,
+  "clean_share": 0.878200155159038,
+  "minor_share": 0.008311608518784097,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.8549584150314331,
+  "vocal_share": 5.783014103144524e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 426.347
+ }
+}

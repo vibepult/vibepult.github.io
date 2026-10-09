@@ -1,0 +1,32 @@
+{
+ "id": "tankard/1186816608-106",
+ "band": "tankard",
+ "title": "I'm so Sorry!",
+ "source": "itunes",
+ "album": "Kings of Beer",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.629767388456895,
+  "tempo_var": 10.921837255212948,
+  "low_onset_rate": 5.929577486067026,
+  "lufs": -10.376864181122775,
+  "rms_dbfs": -9.96627601098627,
+  "crest": 9.966276168823242,
+  "centroid": 2437.7279074887692,
+  "flatness": 0.027613991871476173,
+  "sub100_share": 0.30078086256980896,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.6936871409416199,
+  "clean_share": 0.0317092034029389,
+  "minor_share": 0.08637891580187324,
+  "chord_rate": 2.3984807808810444,
+  "repetitiveness": 0.8655794858932495,
+  "vocal_share": 0.18712161481380463,
+  "vocal_voiced": 0.5794520547945206,
+  "song_length": 192.587
+ }
+}

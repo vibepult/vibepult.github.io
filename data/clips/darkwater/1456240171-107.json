@@ -1,0 +1,32 @@
+{
+ "id": "darkwater/1456240171-107",
+ "band": "darkwater",
+ "title": "Shattered",
+ "source": "itunes",
+ "album": "Calling the Earth to Witness",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 0.9689575958880862,
+  "tempo_var": 14.296790002947946,
+  "low_onset_rate": 1.069194588566164,
+  "lufs": -11.633572103058047,
+  "rms_dbfs": -10.890591290044672,
+  "crest": 10.89059066772461,
+  "centroid": 2469.1271861768455,
+  "flatness": 0.017521075904369354,
+  "sub100_share": 0.42445889115333557,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.8616061210632324,
+  "clean_share": 0.20946470131885184,
+  "minor_share": 0.33291034407175346,
+  "chord_rate": 1.0357822576734714,
+  "repetitiveness": 0.586520791053772,
+  "vocal_share": 5.460586862682248e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 577.987
+ }
+}

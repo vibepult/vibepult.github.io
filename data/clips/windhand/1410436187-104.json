@@ -1,0 +1,32 @@
+{
+ "id": "windhand/1410436187-104",
+ "band": "windhand",
+ "title": "First to Die",
+ "source": "itunes",
+ "album": "Eternal Return",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.3333333333333335,
+  "tempo_var": 2.459631747058685,
+  "low_onset_rate": 4.766666666666667,
+  "lufs": -10.919171834316389,
+  "rms_dbfs": -9.928855838474865,
+  "crest": 9.928855895996094,
+  "centroid": 1999.6700948145472,
+  "flatness": 0.012124518863856792,
+  "sub100_share": 0.3421041965484619,
+  "lowest_pitch": 99.591064453125,
+  "harmonic_share": 0.8525280356407166,
+  "clean_share": 0.1021671826625387,
+  "minor_share": 0.1618925521896043,
+  "chord_rate": 1.5666666666666667,
+  "repetitiveness": 0.7692380547523499,
+  "vocal_share": 0.13251087069511414,
+  "vocal_voiced": 0.9457777777777778,
+  "song_length": 424.383
+ }
+}

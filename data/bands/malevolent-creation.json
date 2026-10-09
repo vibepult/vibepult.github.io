@@ -1,0 +1,127 @@
+{
+ "slug": "malevolent-creation",
+ "name": "Malevolent Creation",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 3563158,
+  "deezer": 64112,
+  "spotify": "1NrkyGnaWUYV1hLP74pp6X"
+ },
+ "metadata": {
+  "formed": 1987,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 32,
+  "full_lengths": 13,
+  "genre": "Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 21876,
+  "themes": "Death, War, Hate, Violence",
+  "release_year": 2000
+ },
+ "partial": false,
+ "clips": [
+  "malevolent-creation/214479868-105",
+  "malevolent-creation/214476368-105",
+  "malevolent-creation/214477635-105",
+  "malevolent-creation/1564315913-106",
+  "malevolent-creation/1564299803-107",
+  "malevolent-creation/1564307814-107",
+  "malevolent-creation/1564133451-106",
+  "malevolent-creation/1556383059-106",
+  "malevolent-creation/1556383032-106",
+  "malevolent-creation/1556388626-106",
+  "malevolent-creation/1038433571-105",
+  "malevolent-creation/1441648878-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 31.207540760869563
+  },
+  "onset_rate": {
+   "median": 4.594195497745236,
+   "iqr": 4.379488390497344
+  },
+  "tempo_var": {
+   "median": 3.8462227353645186,
+   "iqr": 13.623139653182704
+  },
+  "low_onset_rate": {
+   "median": 6.824655870060063,
+   "iqr": 3.6855508817678073
+  },
+  "lufs": {
+   "median": -8.44266275493845,
+   "iqr": 4.645323742042944
+  },
+  "rms_dbfs": {
+   "median": -8.060158267186932,
+   "iqr": 5.240737449753924
+  },
+  "crest": {
+   "median": 8.060158252716064,
+   "iqr": 5.088045239448547
+  },
+  "centroid": {
+   "median": 2819.618000689469,
+   "iqr": 505.3276500421375
+  },
+  "flatness": {
+   "median": 0.03946775197982788,
+   "iqr": 0.014619564637541771
+  },
+  "sub100_share": {
+   "median": 0.2987123280763626,
+   "iqr": 0.1220933198928833
+  },
+  "lowest_pitch": {
+   "median": 55.1788330078125,
+   "iqr": 30.9539794921875
+  },
+  "harmonic_share": {
+   "median": 0.7467682361602783,
+   "iqr": 0.12113787233829498
+  },
+  "clean_share": {
+   "median": 0.0003878975950349108,
+   "iqr": 0.024392548766197647
+  },
+  "minor_share": {
+   "median": 0.008500933818619799,
+   "iqr": 0.14640428014730822
+  },
+  "chord_rate": {
+   "median": 2.338863162488484,
+   "iqr": 0.6348342869611598
+  },
+  "repetitiveness": {
+   "median": 0.9331134259700775,
+   "iqr": 0.04655544459819794
+  },
+  "vocal_share": {
+   "median": 0.10786691308021545,
+   "iqr": 0.06462996173650026
+  },
+  "vocal_voiced": {
+   "median": 0.08415683522375227,
+   "iqr": 0.19827619266758706
+  },
+  "song_length": {
+   "median": 224.00650000000002,
+   "iqr": 65.79774999999998
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

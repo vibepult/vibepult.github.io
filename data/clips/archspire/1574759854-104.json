@@ -1,0 +1,32 @@
+{
+ "id": "archspire/1574759854-104",
+ "band": "archspire",
+ "title": "Bleed the Future",
+ "source": "itunes",
+ "album": "Bleed the Future",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 0.9666666666666667,
+  "tempo_var": 28.838802262959923,
+  "low_onset_rate": 2.966666666666667,
+  "lufs": -6.528861460380754,
+  "rms_dbfs": -5.408558559931253,
+  "crest": 5.4085588455200195,
+  "centroid": 2922.124776348568,
+  "flatness": 0.050484221428632736,
+  "sub100_share": 0.5349580645561218,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8203255534172058,
+  "clean_share": 0.009287925696594427,
+  "minor_share": 0.09069969834767272,
+  "chord_rate": 2.533333333333333,
+  "repetitiveness": 0.9519951939582825,
+  "vocal_share": 0.03548156097531319,
+  "vocal_voiced": 0.08361774744027303,
+  "song_length": 228.187
+ }
+}

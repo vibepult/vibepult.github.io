@@ -1,0 +1,32 @@
+{
+ "id": "tuatha-de-danann/1718081687-104",
+ "band": "tuatha-de-danann",
+ "title": "The Rabble's Cry",
+ "source": "itunes",
+ "album": "The Nameless Cry",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 4.966591585917069,
+  "tempo_var": 12.429337744435347,
+  "low_onset_rate": 6.5665673988299496,
+  "lufs": -7.027182689726282,
+  "rms_dbfs": -6.143413931204703,
+  "crest": 6.143413543701172,
+  "centroid": 2300.537305357282,
+  "flatness": 0.026125840842723846,
+  "sub100_share": 0.2758026123046875,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.6799191832542419,
+  "clean_share": 0.01237432327919567,
+  "minor_share": 0.004086395930465114,
+  "chord_rate": 1.333313177427401,
+  "repetitiveness": 0.826430082321167,
+  "vocal_share": 0.1709655374288559,
+  "vocal_voiced": 0.6168300653594772,
+  "song_length": 250.167
+ }
+}

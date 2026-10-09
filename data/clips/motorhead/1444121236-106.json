@@ -1,0 +1,32 @@
+{
+ "id": "motorhead/1444121236-106",
+ "band": "motorhead",
+ "title": "Dog-Face Boy",
+ "source": "itunes",
+ "album": "Sacrifice",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.766594609302959,
+  "tempo_var": 7.761201507976009,
+  "low_onset_rate": 6.333237592780155,
+  "lufs": -11.232172996710503,
+  "rms_dbfs": -10.886890724871856,
+  "crest": 10.886890411376953,
+  "centroid": 2525.9583139381684,
+  "flatness": 0.03018009662628174,
+  "sub100_share": 0.07126305252313614,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7362805604934692,
+  "clean_share": 0.013921113689095127,
+  "minor_share": 0.13944715793105955,
+  "chord_rate": 1.1333162008132909,
+  "repetitiveness": 0.9205999374389648,
+  "vocal_share": 0.06672224402427673,
+  "vocal_voiced": 0.0,
+  "song_length": 205.0
+ }
+}

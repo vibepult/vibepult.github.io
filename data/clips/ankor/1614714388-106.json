@@ -1,0 +1,32 @@
+{
+ "id": "ankor/1614714388-106",
+ "band": "ankor",
+ "title": "The Dark Passenger",
+ "source": "itunes",
+ "album": "Last Song For Venus",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.279148281045435,
+  "tempo_var": 18.305592644741683,
+  "low_onset_rate": 5.011849633903894,
+  "lufs": -7.857873353517018,
+  "rms_dbfs": -6.549307713593819,
+  "crest": 6.549307823181152,
+  "centroid": 2230.3373877220024,
+  "flatness": 0.018759284168481827,
+  "sub100_share": 0.4996383786201477,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.8184460997581482,
+  "clean_share": 0.19550038789759502,
+  "minor_share": 0.11965107137958492,
+  "chord_rate": 1.7374412064200164,
+  "repetitiveness": 0.8645650148391724,
+  "vocal_share": 0.19792033731937408,
+  "vocal_voiced": 0.8651399491094147,
+  "song_length": 268.331
+ }
+}

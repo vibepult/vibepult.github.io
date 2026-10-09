@@ -1,0 +1,32 @@
+{
+ "id": "alcatrazz/1504293899-107",
+ "band": "alcatrazz",
+ "title": "I Am the King",
+ "source": "itunes",
+ "album": "Born Innocent",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.644313994084275,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.045261964796587,
+  "lufs": -5.596767913703502,
+  "rms_dbfs": -5.84194598571494,
+  "crest": 5.841946125030518,
+  "centroid": 2430.564999782287,
+  "flatness": 0.03341307118535042,
+  "sub100_share": 0.08700093626976013,
+  "lowest_pitch": 123.81591796875,
+  "harmonic_share": 0.6947050094604492,
+  "clean_share": 0.0031031807602792862,
+  "minor_share": 0.051401453046572954,
+  "chord_rate": 1.0023699267807789,
+  "repetitiveness": 0.8006075620651245,
+  "vocal_share": 0.30154749751091003,
+  "vocal_voiced": 0.8251618871415356,
+  "song_length": 329.301
+ }
+}

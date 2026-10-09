@@ -1,0 +1,32 @@
+{
+ "id": "helmet/1440903175-107",
+ "band": "helmet",
+ "title": "Street Crab",
+ "source": "itunes",
+ "album": "Betty",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.599945579053983,
+  "tempo_var": 2.454156378125287,
+  "low_onset_rate": 3.933273873410833,
+  "lufs": -12.973065924107303,
+  "rms_dbfs": -11.980519165742855,
+  "crest": 11.98051929473877,
+  "centroid": 2202.2786911546355,
+  "flatness": 0.019596338272094727,
+  "sub100_share": 0.3284878432750702,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.6995545029640198,
+  "clean_share": 0.17633410672853828,
+  "minor_share": 0.12283845914740077,
+  "chord_rate": 1.8666384483983613,
+  "repetitiveness": 0.895538330078125,
+  "vocal_share": 0.112164705991745,
+  "vocal_voiced": 0.839171974522293,
+  "song_length": 211.267
+ }
+}

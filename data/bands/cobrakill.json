@@ -1,0 +1,127 @@
+{
+ "slug": "cobrakill",
+ "name": "CobraKill",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1528950636,
+  "deezer": 104958132,
+  "spotify": "3wZZh7PGBeZf3MyOSqcDOS"
+ },
+ "metadata": {
+  "formed": 2020,
+  "split": 2024,
+  "country": "DE",
+  "status": "split-up",
+  "members": 5,
+  "past_members": 3,
+  "full_lengths": 2,
+  "genre": "Heavy Metal/Hard Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 68,
+  "themes": "Violence, Partying, Sex",
+  "release_year": 2024
+ },
+ "partial": false,
+ "clips": [
+  "cobrakill/1713246114-106",
+  "cobrakill/1713246114-107",
+  "cobrakill/1713246114-105",
+  "cobrakill/1713246114-108",
+  "cobrakill/1713246114-104",
+  "cobrakill/1713246114-109",
+  "cobrakill/1713246114-103",
+  "cobrakill/1713246114-110",
+  "cobrakill/1713246114-102",
+  "cobrakill/1713246114-111",
+  "cobrakill/1713246114-101",
+  "cobrakill/1713246114-112"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 23.603703425480774
+  },
+  "onset_rate": {
+   "median": 2.199986696981424,
+   "iqr": 1.1999927438080493
+  },
+  "tempo_var": {
+   "median": 3.978450264026481,
+   "iqr": 9.721754031227597
+  },
+  "low_onset_rate": {
+   "median": 2.2999860922987616,
+   "iqr": 0.9916606702302633
+  },
+  "lufs": {
+   "median": -11.543562038923863,
+   "iqr": 1.8356396630549643
+  },
+  "rms_dbfs": {
+   "median": -10.951078971485327,
+   "iqr": 2.3523721061209635
+  },
+  "crest": {
+   "median": 10.951079368591309,
+   "iqr": 2.352372884750366
+  },
+  "centroid": {
+   "median": 2436.8787930628037,
+   "iqr": 247.0952720399
+  },
+  "flatness": {
+   "median": 0.030201473273336887,
+   "iqr": 0.012625239789485931
+  },
+  "sub100_share": {
+   "median": 0.5107895731925964,
+   "iqr": 0.05218227952718735
+  },
+  "lowest_pitch": {
+   "median": 68.6370849609375,
+   "iqr": 21.533203125
+  },
+  "harmonic_share": {
+   "median": 0.7770465910434723,
+   "iqr": 0.07205480337142944
+  },
+  "clean_share": {
+   "median": 0.20843000773395204,
+   "iqr": 0.2051430781129157
+  },
+  "minor_share": {
+   "median": 0.06616984958826555,
+   "iqr": 0.1023256428358971
+  },
+  "chord_rate": {
+   "median": 1.866655379256966,
+   "iqr": 1.1249931973200464
+  },
+  "repetitiveness": {
+   "median": 0.8460617065429688,
+   "iqr": 0.08007457852363586
+  },
+  "vocal_share": {
+   "median": 0.08836593478918076,
+   "iqr": 0.06923174113035202
+  },
+  "vocal_voiced": {
+   "median": 0.5672955974842767,
+   "iqr": 0.23366111190667904
+  },
+  "song_length": {
+   "median": 233.23250000000002,
+   "iqr": 21.809500000000014
+  },
+  "vocal_presence": {
+   "median": 0.5833333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.5,
+  "camp": 0.6
+ },
+ "sources_failed": []
+}

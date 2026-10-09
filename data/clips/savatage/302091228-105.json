@@ -1,0 +1,32 @@
+{
+ "id": "savatage/302091228-105",
+ "band": "savatage",
+ "title": "Castles Burning",
+ "source": "itunes",
+ "album": "Handful of Rain",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.5417070746254184,
+  "tempo_var": 2.8750713343183745,
+  "low_onset_rate": 4.377015346942734,
+  "lufs": -12.926731666724768,
+  "rms_dbfs": -12.246197043790062,
+  "crest": 12.246197700500488,
+  "centroid": 1726.3669895538546,
+  "flatness": 0.007506385911256075,
+  "sub100_share": 0.07063436508178711,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.8636628985404968,
+  "clean_share": 0.6617532971295578,
+  "minor_share": -0.13978082566658712,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.7897482514381409,
+  "vocal_share": 0.31044116616249084,
+  "vocal_voiced": 0.8920863309352518,
+  "song_length": 278.373
+ }
+}

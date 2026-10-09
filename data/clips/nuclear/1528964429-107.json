@@ -1,0 +1,32 @@
+{
+ "id": "nuclear/1528964429-107",
+ "band": "nuclear",
+ "title": "Misery Inc.",
+ "source": "itunes",
+ "album": "Murder of Crows",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 6.081044222470058,
+  "tempo_var": 5.991161871486545,
+  "low_onset_rate": 5.112086626581972,
+  "lufs": -7.7106419650350615,
+  "rms_dbfs": -7.553341945231686,
+  "crest": 7.553341388702393,
+  "centroid": 2558.715828921847,
+  "flatness": 0.04059953615069389,
+  "sub100_share": 0.33729931712150574,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7277934551239014,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": 0.10565156087867333,
+  "chord_rate": 2.3722754933811765,
+  "repetitiveness": 0.8868532776832581,
+  "vocal_share": 0.06321442872285843,
+  "vocal_voiced": 0.06956521739130435,
+  "song_length": 188.387
+ }
+}

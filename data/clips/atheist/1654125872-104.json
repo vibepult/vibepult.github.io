@@ -1,0 +1,32 @@
+{
+ "id": "atheist/1654125872-104",
+ "band": "atheist",
+ "title": "On They Slay",
+ "source": "itunes",
+ "album": "Piece of Time",
+ "year": 1990,
+ "itunes_year": 1990,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 1.2028439121369345,
+  "tempo_var": 12.539344706224176,
+  "low_onset_rate": 4.243366023371963,
+  "lufs": -11.458088494404887,
+  "rms_dbfs": -11.611819741609136,
+  "crest": 11.611820220947266,
+  "centroid": 2628.547198401812,
+  "flatness": 0.0202742051333189,
+  "sub100_share": 0.272672563791275,
+  "lowest_pitch": 121.124267578125,
+  "harmonic_share": 0.6911570429801941,
+  "clean_share": 0.17222653219550038,
+  "minor_share": -0.2432955980356737,
+  "chord_rate": 2.0047398535615577,
+  "repetitiveness": 0.9338218569755554,
+  "vocal_share": 0.0039865546859800816,
+  "vocal_voiced": 0.9807692307692307,
+  "song_length": 217.893
+ }
+}

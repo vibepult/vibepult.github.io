@@ -1,0 +1,32 @@
+{
+ "id": "voyager/1473359674-105",
+ "band": "voyager",
+ "title": "Entropy",
+ "source": "itunes",
+ "album": "Colours in the Sun",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.9760673762304224,
+  "tempo_var": 13.893498203487114,
+  "low_onset_rate": 4.009479707123115,
+  "lufs": -9.09122782434833,
+  "rms_dbfs": -8.725457188064329,
+  "crest": 8.725457191467285,
+  "centroid": 2220.5824245081876,
+  "flatness": 0.019648974761366844,
+  "sub100_share": 0.2533356249332428,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.712416410446167,
+  "clean_share": 0.15128006206361522,
+  "minor_share": 0.14252549847453766,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.8539321422576904,
+  "vocal_share": 0.2355932891368866,
+  "vocal_voiced": 0.8777573529411765,
+  "song_length": 282.824
+ }
+}

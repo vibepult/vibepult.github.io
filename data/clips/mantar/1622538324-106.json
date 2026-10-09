@@ -1,0 +1,32 @@
+{
+ "id": "mantar/1622538324-106",
+ "band": "mantar",
+ "title": "The Berserker's Path",
+ "source": "itunes",
+ "album": "Death by Burning",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.6753563981961888,
+  "tempo_var": 6.983152608279764,
+  "low_onset_rate": 6.448579862289677,
+  "lufs": -6.965289761006889,
+  "rms_dbfs": -6.555157883158797,
+  "crest": 6.55515718460083,
+  "centroid": 2656.461640113989,
+  "flatness": 0.03679974377155304,
+  "sub100_share": 0.28020772337913513,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7396594882011414,
+  "clean_share": 0.0062063615205585725,
+  "minor_share": -0.23738484013651018,
+  "chord_rate": 1.1026069194588566,
+  "repetitiveness": 0.8762206435203552,
+  "vocal_share": 0.0325036384165287,
+  "vocal_voiced": 0.0,
+  "song_length": 148.813
+ }
+}

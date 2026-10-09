@@ -1,0 +1,32 @@
+{
+ "id": "mga/1479040873-102",
+ "band": "mga",
+ "title": "Age of Excuse II",
+ "source": "itunes",
+ "album": "Age of Excuse",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 7.2,
+  "tempo_var": 10.292749922073977,
+  "low_onset_rate": 5.1,
+  "lufs": -9.01891510042693,
+  "rms_dbfs": -9.133503862611338,
+  "crest": 9.133503913879395,
+  "centroid": 2743.1138132955425,
+  "flatness": 0.04983646795153618,
+  "sub100_share": 0.21764475107192993,
+  "lowest_pitch": 29.608154296875,
+  "harmonic_share": 0.5937204957008362,
+  "clean_share": 0.0,
+  "minor_share": 0.031735644508290584,
+  "chord_rate": 1.1,
+  "repetitiveness": 0.9271451830863953,
+  "vocal_share": 0.011307730339467525,
+  "vocal_voiced": 0.09375,
+  "song_length": 417.712
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "caliban/273555472-107",
+ "band": "caliban",
+ "title": "Stop Running",
+ "source": "itunes",
+ "album": "The Awakening",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 2.1049768462396354,
+  "tempo_var": 14.554228808758637,
+  "low_onset_rate": 2.606161809630025,
+  "lufs": -7.414765668440883,
+  "rms_dbfs": -6.677131272810712,
+  "crest": 6.677131175994873,
+  "centroid": 2598.6708833039575,
+  "flatness": 0.04031454771757126,
+  "sub100_share": 0.38486671447753906,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7323169708251953,
+  "clean_share": 0.013964313421256789,
+  "minor_share": -0.01304607358666443,
+  "chord_rate": 2.67298647141541,
+  "repetitiveness": 0.941754162311554,
+  "vocal_share": 0.14550060033798218,
+  "vocal_voiced": 0.1717670286278381,
+  "song_length": 201.866
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "meathook-seed/567237242-104",
+ "band": "meathook-seed",
+ "title": "Day of Conceiving",
+ "source": "itunes",
+ "album": "Embedded",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.9139825680065945,
+  "tempo_var": 12.18111764627283,
+  "low_onset_rate": 8.052371745138922,
+  "lufs": -13.006245515632632,
+  "rms_dbfs": -13.20718967451576,
+  "crest": 13.207189559936523,
+  "centroid": 2935.044750036811,
+  "flatness": 0.06166549026966095,
+  "sub100_share": 0.29025331139564514,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7023919820785522,
+  "clean_share": 0.0,
+  "minor_share": -0.01649495574782478,
+  "chord_rate": 3.107346773020414,
+  "repetitiveness": 0.9150756597518921,
+  "vocal_share": 0.06743640452623367,
+  "vocal_voiced": 0.66015625,
+  "song_length": 200.333
+ }
+}

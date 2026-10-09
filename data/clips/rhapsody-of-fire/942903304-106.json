@@ -1,0 +1,32 @@
+{
+ "id": "rhapsody-of-fire/942903304-106",
+ "band": "rhapsody-of-fire",
+ "title": "My Sacrifice",
+ "source": "itunes",
+ "album": "Dark Wings of Steel",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.641944067303496,
+  "tempo_var": 12.548167849800507,
+  "low_onset_rate": 3.742181059981574,
+  "lufs": -11.448197674459534,
+  "rms_dbfs": -10.922361605585596,
+  "crest": 10.922361373901367,
+  "centroid": 2257.365544288564,
+  "flatness": 0.015804467722773552,
+  "sub100_share": 0.24129998683929443,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8726527094841003,
+  "clean_share": 0.19705197827773469,
+  "minor_share": 0.06841730197292917,
+  "chord_rate": 0.7016589487465451,
+  "repetitiveness": 0.9171980023384094,
+  "vocal_share": 0.013803106732666492,
+  "vocal_voiced": 0.7326478149100257,
+  "song_length": 485.587
+ }
+}

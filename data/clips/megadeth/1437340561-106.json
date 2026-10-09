@@ -1,0 +1,32 @@
+{
+ "id": "megadeth/1437340561-106",
+ "band": "megadeth",
+ "title": "Bodies",
+ "source": "itunes",
+ "album": "Endgame",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.5,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.766666666666667,
+  "lufs": -8.31577055430653,
+  "rms_dbfs": -7.907608318301299,
+  "crest": 7.9076080322265625,
+  "centroid": 2619.8049398561366,
+  "flatness": 0.038310304284095764,
+  "sub100_share": 0.2943742573261261,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.721413791179657,
+  "clean_share": 0.02631578947368421,
+  "minor_share": -0.03969489813082516,
+  "chord_rate": 2.3,
+  "repetitiveness": 0.838188886642456,
+  "vocal_share": 0.12882772088050842,
+  "vocal_voiced": 0.4337485843714609,
+  "song_length": 214.08
+ }
+}

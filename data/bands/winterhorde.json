@@ -1,0 +1,127 @@
+{
+ "slug": "winterhorde",
+ "name": "Winterhorde",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 263803266,
+  "deezer": 124548,
+  "spotify": "0Y1fuYaUaYwwXnAndDoqwJ"
+ },
+ "metadata": {
+  "formed": 2001,
+  "split": null,
+  "country": "IL",
+  "status": "active",
+  "members": 7,
+  "past_members": 14,
+  "full_lengths": 4,
+  "genre": "Melodic Black/Progressive Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 629,
+  "themes": "Nature, Fiction, Insanity",
+  "release_year": 2013
+ },
+ "partial": false,
+ "clips": [
+  "winterhorde/1680978242-106",
+  "winterhorde/1681909313-107",
+  "winterhorde/1680977834-106",
+  "winterhorde/1711678918-104",
+  "winterhorde/1680978242-107",
+  "winterhorde/1681909313-106",
+  "winterhorde/1680977834-107",
+  "winterhorde/1711678918-105",
+  "winterhorde/1680978242-105",
+  "winterhorde/1681909313-108",
+  "winterhorde/1680977834-105",
+  "winterhorde/1711678918-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 14.484757133152172
+  },
+  "onset_rate": {
+   "median": 6.3817552005042915,
+   "iqr": 1.5761589625075692
+  },
+  "tempo_var": {
+   "median": 6.236268846672912,
+   "iqr": 5.77604371839108
+  },
+  "low_onset_rate": {
+   "median": 7.975571609818042,
+   "iqr": 1.454640673404315
+  },
+  "lufs": {
+   "median": -8.254955113195589,
+   "iqr": 1.7305703247894817
+  },
+  "rms_dbfs": {
+   "median": -7.653759840225822,
+   "iqr": 1.2465883629822558
+  },
+  "crest": {
+   "median": 7.653759956359863,
+   "iqr": 1.2465884685516357
+  },
+  "centroid": {
+   "median": 2420.81880216846,
+   "iqr": 287.35980573274765
+  },
+  "flatness": {
+   "median": 0.03030730877071619,
+   "iqr": 0.01959598297253251
+  },
+  "sub100_share": {
+   "median": 0.2525814473628998,
+   "iqr": 0.17165161296725273
+  },
+  "lowest_pitch": {
+   "median": 44.4122314453125,
+   "iqr": 11.43951416015625
+  },
+  "harmonic_share": {
+   "median": 0.7902388274669647,
+   "iqr": 0.0653691291809082
+  },
+  "clean_share": {
+   "median": 0.0030971807974790556,
+   "iqr": 0.008339798293250583
+  },
+  "minor_share": {
+   "median": 0.035016331215963176,
+   "iqr": 0.12876835698990674
+  },
+  "chord_rate": {
+   "median": 1.201407443947823,
+   "iqr": 0.5653162473211908
+  },
+  "repetitiveness": {
+   "median": 0.8374841213226318,
+   "iqr": 0.06746229529380798
+  },
+  "vocal_share": {
+   "median": 0.15835128724575043,
+   "iqr": 0.07286151498556137
+  },
+  "vocal_voiced": {
+   "median": 0.32150313152400833,
+   "iqr": 0.5346205580662613
+  },
+  "song_length": {
+   "median": 381.0,
+   "iqr": 142.72324999999995
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "cobrakill/1713246114-109",
+ "band": "cobrakill",
+ "title": "Seventeen",
+ "source": "itunes",
+ "album": "Serpent's Kiss",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.2666469136996903,
+  "tempo_var": 4.516734801815613,
+  "low_onset_rate": 1.5333240615325077,
+  "lufs": -16.509587001213863,
+  "rms_dbfs": -15.049793421109873,
+  "crest": 13.731904983520508,
+  "centroid": 1353.9719078350965,
+  "flatness": 0.002747937571257353,
+  "sub100_share": 0.47490638494491577,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.9604316353797913,
+  "clean_share": 0.9164733178654292,
+  "minor_share": 0.12269802677873842,
+  "chord_rate": 1.2666590073529411,
+  "repetitiveness": 0.6286998391151428,
+  "vocal_share": 0.12802726030349731,
+  "vocal_voiced": 0.9024725274725275,
+  "song_length": 298.487
+ }
+}

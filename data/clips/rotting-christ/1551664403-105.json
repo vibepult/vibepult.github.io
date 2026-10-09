@@ -1,0 +1,32 @@
+{
+ "id": "rotting-christ/1551664403-105",
+ "band": "rotting-christ",
+ "title": "Dies Irae",
+ "source": "itunes",
+ "album": "The Heretics",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.84478797944043,
+  "tempo_var": 1.0902859126418694,
+  "low_onset_rate": 5.078674295689279,
+  "lufs": -9.02329712386953,
+  "rms_dbfs": -8.093066241395675,
+  "crest": 8.093067169189453,
+  "centroid": 2234.3708830854034,
+  "flatness": 0.019672516733407974,
+  "sub100_share": 0.3707559108734131,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8221484422683716,
+  "clean_share": 0.021722265321955005,
+  "minor_share": 0.1273698530677052,
+  "chord_rate": 0.801895941424623,
+  "repetitiveness": 0.8048757910728455,
+  "vocal_share": 0.05634894222021103,
+  "vocal_voiced": 0.7904599659284497,
+  "song_length": 225.523
+ }
+}

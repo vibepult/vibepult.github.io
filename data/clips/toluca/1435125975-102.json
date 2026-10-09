@@ -1,0 +1,32 @@
+{
+ "id": "toluca/1435125975-102",
+ "band": "toluca",
+ "title": "Vual",
+ "source": "itunes",
+ "album": "Memoria",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.0071097803423363,
+  "tempo_var": 16.095542561397465,
+  "low_onset_rate": 3.240996096591185,
+  "lufs": -10.047145883818311,
+  "rms_dbfs": -10.68022858437917,
+  "crest": 10.680228233337402,
+  "centroid": 2085.644878266874,
+  "flatness": 0.017842408269643784,
+  "sub100_share": 0.3507832884788513,
+  "lowest_pitch": 102.28271484375,
+  "harmonic_share": 0.8400607109069824,
+  "clean_share": 0.5391776570985259,
+  "minor_share": 0.03724794732688497,
+  "chord_rate": 1.3030809048150125,
+  "repetitiveness": 0.6873041391372681,
+  "vocal_share": 0.027364900335669518,
+  "vocal_voiced": 0.0,
+  "song_length": 230.28
+ }
+}

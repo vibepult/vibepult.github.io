@@ -1,0 +1,32 @@
+{
+ "id": "deafheaven/1485062651-102",
+ "band": "deafheaven",
+ "title": "Luna",
+ "source": "itunes",
+ "album": "New Bermuda",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 198.76802884615384,
+  "onset_rate": 1.466657797987616,
+  "tempo_var": 29.806419824119427,
+  "low_onset_rate": 5.533299874226006,
+  "lufs": -8.801003660702312,
+  "rms_dbfs": -8.294876571323512,
+  "crest": 8.294877052307129,
+  "centroid": 2233.7658893577313,
+  "flatness": 0.035718996077775955,
+  "sub100_share": 0.24294666945934296,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7478472590446472,
+  "clean_share": 0.1268368136117556,
+  "minor_share": 0.23130048039384643,
+  "chord_rate": 1.5999903250773995,
+  "repetitiveness": 0.9399179816246033,
+  "vocal_share": 0.02643474005162716,
+  "vocal_voiced": 0.27884615384615385,
+  "song_length": 614.049
+ }
+}

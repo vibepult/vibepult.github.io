@@ -1,0 +1,32 @@
+{
+ "id": "pallbearer/1193361639-104",
+ "band": "pallbearer",
+ "title": "Dancing in Madness",
+ "source": "itunes",
+ "album": "Heartless",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 1.871090529990787,
+  "tempo_var": 2.140178162625657,
+  "low_onset_rate": 5.011849633903894,
+  "lufs": -14.017141526942828,
+  "rms_dbfs": -12.910451276349146,
+  "crest": 12.910451889038086,
+  "centroid": 1769.4508209674188,
+  "flatness": 0.007391772232949734,
+  "sub100_share": 0.24689804017543793,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.9079517126083374,
+  "clean_share": 0.5616757176105508,
+  "minor_share": 0.008481281547647823,
+  "chord_rate": 0.7350712796392378,
+  "repetitiveness": 0.5209973454475403,
+  "vocal_share": 1.061891680365079e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 707.48
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "saille/916473938-105",
+ "band": "saille",
+ "title": "Cold War",
+ "source": "itunes",
+ "album": "Eldritch",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 2.8734604567715656,
+  "tempo_var": 2.22395711739077,
+  "low_onset_rate": 5.746920913543131,
+  "lufs": -9.96028124987341,
+  "rms_dbfs": -9.50377673739197,
+  "crest": 9.503776550292969,
+  "centroid": 2220.390285744113,
+  "flatness": 0.020280756056308746,
+  "sub100_share": 0.24040058255195618,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8345848917961121,
+  "clean_share": 0.07680372381691233,
+  "minor_share": 0.1839386971383965,
+  "chord_rate": 0.801895941424623,
+  "repetitiveness": 0.811188817024231,
+  "vocal_share": 0.06092870607972145,
+  "vocal_voiced": 0.3719412724306688,
+  "song_length": 402.0
+ }
+}

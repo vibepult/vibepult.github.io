@@ -1,0 +1,32 @@
+{
+ "id": "midnattsol/1183626753-105",
+ "band": "midnattsol",
+ "title": "Desolation",
+ "source": "itunes",
+ "album": "Where Twilight Dwells",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.533333333333333,
+  "tempo_var": 20.18525776786793,
+  "low_onset_rate": 5.333333333333333,
+  "lufs": -13.012429805152784,
+  "rms_dbfs": -12.019705884142288,
+  "crest": 12.019705772399902,
+  "centroid": 1274.4333407848915,
+  "flatness": 0.002649255096912384,
+  "sub100_share": 0.07012880593538284,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.9541207551956177,
+  "clean_share": 0.9226006191950464,
+  "minor_share": -0.030788444463156206,
+  "chord_rate": 0.8666666666666667,
+  "repetitiveness": 0.9259641170501709,
+  "vocal_share": 0.19220368564128876,
+  "vocal_voiced": 0.9355400696864111,
+  "song_length": 262.173
+ }
+}

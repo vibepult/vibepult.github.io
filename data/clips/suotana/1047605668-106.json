@@ -1,0 +1,32 @@
+{
+ "id": "suotana/1047605668-106",
+ "band": "suotana",
+ "title": "King Pikes",
+ "source": "itunes",
+ "album": "Frostrealm",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.680096251757746,
+  "tempo_var": 20.23544837712,
+  "low_onset_rate": 5.680096251757746,
+  "lufs": -10.524933979089514,
+  "rms_dbfs": -10.115836061997145,
+  "crest": 10.115835189819336,
+  "centroid": 2329.516972444949,
+  "flatness": 0.030946949496865273,
+  "sub100_share": 0.18663664162158966,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.6470800638198853,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.12579400709885935,
+  "chord_rate": 1.971327522668865,
+  "repetitiveness": 0.8804130554199219,
+  "vocal_share": 0.09093711525201797,
+  "vocal_voiced": 0.2838616714697406,
+  "song_length": 392.333
+ }
+}

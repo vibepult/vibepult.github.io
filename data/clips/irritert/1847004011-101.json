@@ -1,0 +1,32 @@
+{
+ "id": "irritert/1847004011-101",
+ "band": "irritert",
+ "title": "Torn Soul",
+ "source": "itunes",
+ "album": "Torn Soul",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 1.9333333333333333,
+  "tempo_var": 2.3225673708792463,
+  "low_onset_rate": 7.933333333333334,
+  "lufs": -27.533133915265722,
+  "rms_dbfs": -27.109654951149555,
+  "crest": 16.273372650146484,
+  "centroid": 2587.8500929613733,
+  "flatness": 0.013451127335429192,
+  "sub100_share": 0.003514481708407402,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.9892825484275818,
+  "clean_share": 0.2476780185758514,
+  "minor_share": 0.05419306992846251,
+  "chord_rate": 0.2,
+  "repetitiveness": 0.5554545521736145,
+  "vocal_share": 1.5700409221608425e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 665.467
+ }
+}

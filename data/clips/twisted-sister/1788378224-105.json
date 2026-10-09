@@ -1,0 +1,32 @@
+{
+ "id": "twisted-sister/1788378224-105",
+ "band": "twisted-sister",
+ "title": "The Power and the Glory",
+ "source": "itunes",
+ "album": "You Can't Stop Rock 'N' Roll",
+ "year": 1983,
+ "itunes_year": 1983,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 2.999981859520124,
+  "tempo_var": 1.5783758092371578,
+  "low_onset_rate": 3.899976417376161,
+  "lufs": -16.875003999943146,
+  "rms_dbfs": -15.714953953170053,
+  "crest": 15.191340446472168,
+  "centroid": 1923.099872312752,
+  "flatness": 0.011874325573444366,
+  "sub100_share": 0.20229510962963104,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.6583011746406555,
+  "clean_share": 0.5382830626450116,
+  "minor_share": 0.09087604152347717,
+  "chord_rate": 1.0333270849458205,
+  "repetitiveness": 0.8897511959075928,
+  "vocal_share": 0.0835937112569809,
+  "vocal_voiced": 0.8161993769470405,
+  "song_length": 262.117
+ }
+}

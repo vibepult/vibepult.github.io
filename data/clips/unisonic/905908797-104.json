@@ -1,0 +1,32 @@
+{
+ "id": "unisonic/905908797-104",
+ "band": "unisonic",
+ "title": "For the Kingdom",
+ "source": "itunes",
+ "album": "Light of Dawn",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 7.083414149250837,
+  "tempo_var": 0.0,
+  "low_onset_rate": 8.520144377636619,
+  "lufs": -8.269917144913869,
+  "rms_dbfs": -7.513215653846581,
+  "crest": 7.5132155418396,
+  "centroid": 2312.8804873366216,
+  "flatness": 0.023084010928869247,
+  "sub100_share": 0.32802918553352356,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8138163089752197,
+  "clean_share": 0.026377036462373934,
+  "minor_share": -0.08685627143720065,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.8849315047264099,
+  "vocal_share": 0.16725485026836395,
+  "vocal_voiced": 0.7767402376910016,
+  "song_length": 298.453
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "bonfire/1545573878-113",
+ "band": "bonfire",
+ "title": "Love Don't Lie (Almost Unplugged)",
+ "source": "itunes",
+ "album": "Roots",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.575119405518111,
+  "tempo_var": 16.18498184735554,
+  "low_onset_rate": 6.014219560684673,
+  "lufs": -11.28770110984407,
+  "rms_dbfs": -11.31315172101331,
+  "crest": 11.313151359558105,
+  "centroid": 2048.229192702884,
+  "flatness": 0.012252526357769966,
+  "sub100_share": 0.0009899884462356567,
+  "lowest_pitch": 137.274169921875,
+  "harmonic_share": 0.8548131585121155,
+  "clean_share": 0.4546159813809154,
+  "minor_share": -0.16369950416883094,
+  "chord_rate": 0.8687206032100082,
+  "repetitiveness": 0.705640435218811,
+  "vocal_share": 0.5738090872764587,
+  "vocal_voiced": 0.7403369672943508,
+  "song_length": 341.72
+ }
+}

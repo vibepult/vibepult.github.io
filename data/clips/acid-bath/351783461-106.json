@@ -1,0 +1,32 @@
+{
+ "id": "acid-bath/351783461-106",
+ "band": "acid-bath",
+ "title": "Scream of the Butterfly",
+ "source": "itunes",
+ "album": "When the Kite String Pops",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.633305316369969,
+  "tempo_var": 40.95577836657212,
+  "low_onset_rate": 1.3666584026702786,
+  "lufs": -15.948988409088761,
+  "rms_dbfs": -14.785801679193378,
+  "crest": 12.502745628356934,
+  "centroid": 1430.8037721296096,
+  "flatness": 0.00400284118950367,
+  "sub100_share": 0.10766371339559555,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.9540325999259949,
+  "clean_share": 0.8754833720030936,
+  "minor_share": 0.24872720012761396,
+  "chord_rate": 2.266652960526316,
+  "repetitiveness": 0.5658878087997437,
+  "vocal_share": 0.06046510860323906,
+  "vocal_voiced": 0.8805031446540881,
+  "song_length": 374.533
+ }
+}

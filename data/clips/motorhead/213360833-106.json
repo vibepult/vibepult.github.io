@@ -1,0 +1,32 @@
+{
+ "id": "motorhead/213360833-106",
+ "band": "motorhead",
+ "title": "Don't Let Daddy Kiss Me",
+ "source": "itunes",
+ "album": "Bastards",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.9,
+  "tempo_var": 9.14155349318787,
+  "low_onset_rate": 3.033333333333333,
+  "lufs": -19.233633447701404,
+  "rms_dbfs": -19.13941351791973,
+  "crest": 17.379812240600586,
+  "centroid": 1798.7556047086998,
+  "flatness": 0.007484246976673603,
+  "sub100_share": 0.09494049102067947,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.8624140024185181,
+  "clean_share": 0.6099071207430341,
+  "minor_share": 0.34376213028639235,
+  "chord_rate": 0.7666666666666667,
+  "repetitiveness": 0.6842544078826904,
+  "vocal_share": 0.40076810121536255,
+  "vocal_voiced": 0.7210526315789474,
+  "song_length": 247.307
+ }
+}

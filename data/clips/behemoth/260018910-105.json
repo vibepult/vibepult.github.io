@@ -1,0 +1,32 @@
+{
+ "id": "behemoth/260018910-105",
+ "band": "behemoth",
+ "title": "Blackest Ov the Black",
+ "source": "itunes",
+ "album": "Zos Kia Cultus",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.98080722979198,
+  "tempo_var": 3.4375444029684767,
+  "low_onset_rate": 6.949764825680066,
+  "lufs": -7.959886768789376,
+  "rms_dbfs": -7.279702510031444,
+  "crest": 7.2797017097473145,
+  "centroid": 2652.025146036955,
+  "flatness": 0.042045168578624725,
+  "sub100_share": 0.39574134349823,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7317882180213928,
+  "clean_share": 0.04189294026377036,
+  "minor_share": 0.0345902929521007,
+  "chord_rate": 2.7063988023081027,
+  "repetitiveness": 0.9407317638397217,
+  "vocal_share": 0.1760609745979309,
+  "vocal_voiced": 0.1301775147928994,
+  "song_length": 224.253
+ }
+}

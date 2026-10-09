@@ -1,0 +1,32 @@
+{
+ "id": "lorihen/1434534550-106",
+ "band": "lorihen",
+ "title": "Golpe de Suerte",
+ "source": "itunes",
+ "album": "Aún Sigo Latiendo",
+ "year": 2015,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.21232361926005,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 6.181281215148136,
+  "lufs": -9.122761974535505,
+  "rms_dbfs": -8.136484096523018,
+  "crest": 8.136484146118164,
+  "centroid": 2377.594792713475,
+  "flatness": 0.02018548920750618,
+  "sub100_share": 0.2741100490093231,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7328357696533203,
+  "clean_share": 0.08533747090768037,
+  "minor_share": 0.15409514724840923,
+  "chord_rate": 1.0357822576734714,
+  "repetitiveness": 0.8903412818908691,
+  "vocal_share": 0.1641455590724945,
+  "vocal_voiced": 0.7663265306122449,
+  "song_length": 222.146
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "u-d-o/942961587-105",
+ "band": "u-d-o",
+ "title": "Heavy Metal Heaven",
+ "source": "itunes",
+ "album": "Dominator",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 3.240996096591185,
+  "tempo_var": 20.962998234840526,
+  "low_onset_rate": 4.276778354264656,
+  "lufs": -9.384396920790833,
+  "rms_dbfs": -9.337437031313463,
+  "crest": 9.33743667602539,
+  "centroid": 2493.892537345115,
+  "flatness": 0.0407431460916996,
+  "sub100_share": 0.1497584730386734,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.6447860598564148,
+  "clean_share": 0.0,
+  "minor_share": -0.2605238862215712,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.7883886098861694,
+  "vocal_share": 0.2912941873073578,
+  "vocal_voiced": 0.1150855365474339,
+  "song_length": 260.64
+ }
+}

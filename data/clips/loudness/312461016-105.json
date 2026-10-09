@@ -1,0 +1,32 @@
+{
+ "id": "loudness/312461016-105",
+ "band": "loudness",
+ "title": "Electric Kisses",
+ "source": "itunes",
+ "album": "Heavy Metal Hippies",
+ "year": 1994,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 3.7755933908742665,
+  "tempo_var": 31.788038986579004,
+  "low_onset_rate": 5.513034597294284,
+  "lufs": -14.881180122430942,
+  "rms_dbfs": -14.607287656092458,
+  "crest": 14.607287406921387,
+  "centroid": 2741.1891329467326,
+  "flatness": 0.03430621698498726,
+  "sub100_share": 0.1534203439950943,
+  "lowest_pitch": 156.11572265625,
+  "harmonic_share": 0.7062174081802368,
+  "clean_share": 0.01008533747090768,
+  "minor_share": -0.32151493020895405,
+  "chord_rate": 2.138389177132328,
+  "repetitiveness": 0.74217289686203,
+  "vocal_share": 0.3343408703804016,
+  "vocal_voiced": 0.7680525164113785,
+  "song_length": 295.16
+ }
+}

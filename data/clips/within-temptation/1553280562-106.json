@@ -1,0 +1,32 @@
+{
+ "id": "within-temptation/1553280562-106",
+ "band": "within-temptation",
+ "title": "Forsaken",
+ "source": "itunes",
+ "album": "The Silent Force",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.133314386609907,
+  "tempo_var": 17.162564974754897,
+  "low_onset_rate": 3.0999812548374615,
+  "lufs": -10.93751331827463,
+  "rms_dbfs": -11.323032464638791,
+  "crest": 11.32303237915039,
+  "centroid": 2169.500275340988,
+  "flatness": 0.023289857432246208,
+  "sub100_share": 0.140893816947937,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8272029161453247,
+  "clean_share": 0.39752513534416084,
+  "minor_share": 0.29569377720220613,
+  "chord_rate": 1.3333252708978327,
+  "repetitiveness": 0.6789252161979675,
+  "vocal_share": 0.16223345696926117,
+  "vocal_voiced": 0.8683385579937304,
+  "song_length": 293.493
+ }
+}

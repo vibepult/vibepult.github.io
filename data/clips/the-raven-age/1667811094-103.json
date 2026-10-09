@@ -1,0 +1,32 @@
+{
+ "id": "the-raven-age/1667811094-103",
+ "band": "the-raven-age",
+ "title": "Serpents Tongue",
+ "source": "itunes",
+ "album": "Blood Omen",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.5106646705135045,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.880570237113902,
+  "lufs": -8.894263625289875,
+  "rms_dbfs": -9.236744935198601,
+  "crest": 9.23674488067627,
+  "centroid": 2880.690375671263,
+  "flatness": 0.054391976445913315,
+  "sub100_share": 0.12712210416793823,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7631819844245911,
+  "clean_share": 0.0,
+  "minor_share": 0.039928312474878824,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.8393237590789795,
+  "vocal_share": 0.326019823551178,
+  "vocal_voiced": 0.6361520558572537,
+  "song_length": 239.355
+ }
+}

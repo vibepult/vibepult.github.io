@@ -1,0 +1,32 @@
+{
+ "id": "meathook-seed/567237242-102",
+ "band": "meathook-seed",
+ "title": "A Furred Grave",
+ "source": "itunes",
+ "album": "Embedded",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.343603016050041,
+  "tempo_var": 15.471931765168252,
+  "low_onset_rate": 7.751660767104689,
+  "lufs": -13.80568422721459,
+  "rms_dbfs": -13.805572932851566,
+  "crest": 13.805572509765625,
+  "centroid": 2769.4453876876787,
+  "flatness": 0.050818122923374176,
+  "sub100_share": 0.2867434024810791,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.6570653319358826,
+  "clean_share": 0.0,
+  "minor_share": -0.02576733736855602,
+  "chord_rate": 2.405687824273869,
+  "repetitiveness": 0.9501639604568481,
+  "vocal_share": 0.1785457879304886,
+  "vocal_voiced": 0.28045977011494255,
+  "song_length": 227.333
+ }
+}

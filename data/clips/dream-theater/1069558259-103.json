@@ -1,0 +1,32 @@
+{
+ "id": "dream-theater/1069558259-103",
+ "band": "dream-theater",
+ "title": "Wither",
+ "source": "itunes",
+ "album": "Black Clouds & Silver Linings",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.940285118556951,
+  "tempo_var": 2.5098962375754357,
+  "low_onset_rate": 4.443840008728119,
+  "lufs": -13.543643261591075,
+  "rms_dbfs": -12.9859187740491,
+  "crest": 12.985918045043945,
+  "centroid": 2508.3284642198046,
+  "flatness": 0.024675235152244568,
+  "sub100_share": 0.29618459939956665,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8364886045455933,
+  "clean_share": 0.04965089216446858,
+  "minor_share": -0.0627474097310925,
+  "chord_rate": 0.7350712796392378,
+  "repetitiveness": 0.6675214171409607,
+  "vocal_share": 0.2621515691280365,
+  "vocal_voiced": 0.8275862068965517,
+  "song_length": 325.627
+ }
+}

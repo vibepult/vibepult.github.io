@@ -1,0 +1,127 @@
+{
+ "slug": "agathodaimon",
+ "name": "Agathodaimon",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 16145392,
+  "deezer": 65398,
+  "spotify": "4wGWp9UJ9wHLNYddWbB0sF"
+ },
+ "metadata": {
+  "formed": 1995,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 4,
+  "past_members": 17,
+  "full_lengths": 7,
+  "genre": "Symphonic/Melodic Gothic/Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 4869,
+  "themes": "Darkness, Occultism, Vampirism, Demons, Romanticism, History, Mythology",
+  "release_year": 2002
+ },
+ "partial": false,
+ "clips": [
+  "agathodaimon/1460473337-105",
+  "agathodaimon/1460472834-106",
+  "agathodaimon/1460472325-104",
+  "agathodaimon/1502106945-105",
+  "agathodaimon/336542682-107",
+  "agathodaimon/1222092775-104",
+  "agathodaimon/1600700542-105",
+  "agathodaimon/1460473337-106",
+  "agathodaimon/1460472834-107",
+  "agathodaimon/1460472325-105",
+  "agathodaimon/1502106945-106",
+  "agathodaimon/336542682-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 31.678654597355774
+  },
+  "onset_rate": {
+   "median": 2.622867975076371,
+   "iqr": 1.63483428696116
+  },
+  "tempo_var": {
+   "median": 10.759399934498669,
+   "iqr": 18.618767957483787
+  },
+  "low_onset_rate": {
+   "median": 3.12405293846676,
+   "iqr": 3.0655813594045487
+  },
+  "lufs": {
+   "median": -11.390462687755674,
+   "iqr": 6.188160543054757
+  },
+  "rms_dbfs": {
+   "median": -11.256453498769602,
+   "iqr": 5.6558953455699905
+  },
+  "crest": {
+   "median": 11.256453514099121,
+   "iqr": 5.655894756317139
+  },
+  "centroid": {
+   "median": 2268.501492833083,
+   "iqr": 1225.165900746134
+  },
+  "flatness": {
+   "median": 0.023207418620586395,
+   "iqr": 0.024461092427372932
+  },
+  "sub100_share": {
+   "median": 0.30462706089019775,
+   "iqr": 0.16854676976799965
+  },
+  "lowest_pitch": {
+   "median": 51.141357421875,
+   "iqr": 24.89776611328125
+  },
+  "harmonic_share": {
+   "median": 0.7785844504833221,
+   "iqr": 0.14581844210624695
+  },
+  "clean_share": {
+   "median": 0.21334367726920095,
+   "iqr": 0.7708687104746762
+  },
+  "minor_share": {
+   "median": -0.03237298836862895,
+   "iqr": 0.15334325834429724
+  },
+  "chord_rate": {
+   "median": 1.169431581244242,
+   "iqr": 0.5017774450855839
+  },
+  "repetitiveness": {
+   "median": 0.8288245797157288,
+   "iqr": 0.11750884354114532
+  },
+  "vocal_share": {
+   "median": 0.10038788244128227,
+   "iqr": 0.09429749008268118
+  },
+  "vocal_voiced": {
+   "median": 0.3199524704257175,
+   "iqr": 0.5742333058091864
+  },
+  "song_length": {
+   "median": 317.88,
+   "iqr": 55.718500000000006
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.5,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

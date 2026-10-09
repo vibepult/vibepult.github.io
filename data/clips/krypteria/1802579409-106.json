@@ -1,0 +1,32 @@
+{
+ "id": "krypteria/1802579409-106",
+ "band": "krypteria",
+ "title": "Always And Forever",
+ "source": "itunes",
+ "album": "In Medias Res",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.1666187963900776,
+  "tempo_var": 2.646650579117817,
+  "low_onset_rate": 3.2999501141328174,
+  "lufs": -11.198684628794057,
+  "rms_dbfs": -10.75074698241089,
+  "crest": 10.750746726989746,
+  "centroid": 2394.736257279758,
+  "flatness": 0.02399544231593609,
+  "sub100_share": 0.18563030660152435,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.8240399360656738,
+  "clean_share": 0.042536736272235115,
+  "minor_share": 0.24324261106747636,
+  "chord_rate": 1.333313177427401,
+  "repetitiveness": 0.7217204570770264,
+  "vocal_share": 0.3453768193721771,
+  "vocal_voiced": 0.8306010928961749,
+  "song_length": 277.427
+ }
+}

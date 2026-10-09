@@ -1,0 +1,32 @@
+{
+ "id": "enforcer/1458697818-105",
+ "band": "enforcer",
+ "title": "Below the Slumber",
+ "source": "itunes",
+ "album": "From Beyond (Bonus Digital Booklet Version)",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.2666469136996903,
+  "tempo_var": 12.985015041703047,
+  "low_onset_rate": 6.499960695626935,
+  "lufs": -16.27417595209098,
+  "rms_dbfs": -16.8193253753098,
+  "crest": 15.138888359069824,
+  "centroid": 1918.4623446634957,
+  "flatness": 0.006884335074573755,
+  "sub100_share": 0.05930373817682266,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.8853866457939148,
+  "clean_share": 0.6937354988399071,
+  "minor_share": 0.20658025267896485,
+  "chord_rate": 1.1999927438080495,
+  "repetitiveness": 0.6934235095977783,
+  "vocal_share": 0.6205227375030518,
+  "vocal_voiced": 0.9003690036900369,
+  "song_length": 381.667
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "anthrax/1466892888-109",
+ "band": "anthrax",
+ "title": "Harms Way",
+ "source": "itunes",
+ "album": "Volume 8: The Threat Is Real (Deluxe Edition)",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.4666457043343653,
+  "tempo_var": 23.92601020236209,
+  "low_onset_rate": 4.433306525735294,
+  "lufs": -15.404641854791544,
+  "rms_dbfs": -15.005114642687001,
+  "crest": 15.005115509033203,
+  "centroid": 2543.6484734707233,
+  "flatness": 0.026515986770391464,
+  "sub100_share": 0.34356367588043213,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7459061741828918,
+  "clean_share": 0.14926527455529776,
+  "minor_share": -0.22808022136558992,
+  "chord_rate": 1.1666596120356036,
+  "repetitiveness": 0.8134543895721436,
+  "vocal_share": 0.21392183005809784,
+  "vocal_voiced": 0.8411910669975186,
+  "song_length": 313.627
+ }
+}

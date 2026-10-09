@@ -1,0 +1,127 @@
+{
+ "slug": "the-berzerker",
+ "name": "The Berzerker",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 42257218,
+  "deezer": 8720,
+  "spotify": "1tlY3ijEXpF5JsRTTwePA7"
+ },
+ "metadata": {
+  "formed": 1995,
+  "split": null,
+  "country": "AU",
+  "status": "active",
+  "members": 4,
+  "past_members": 9,
+  "full_lengths": 5,
+  "genre": "Industrial Death Metal/Grindcore",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 2991,
+  "themes": "Misanthropy, Anger, Medical/Pathological errors",
+  "release_year": 2003
+ },
+ "partial": false,
+ "clips": [
+  "the-berzerker/42257249-107",
+  "the-berzerker/44387932-107",
+  "the-berzerker/117621004-107",
+  "the-berzerker/6779700173-105",
+  "the-berzerker/42257249-106",
+  "the-berzerker/44387932-108",
+  "the-berzerker/117621004-106",
+  "the-berzerker/6779700173-106",
+  "the-berzerker/42257249-108",
+  "the-berzerker/44387932-106",
+  "the-berzerker/117621004-108",
+  "the-berzerker/6779700173-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.77318274456522,
+   "iqr": 32.63980263157896
+  },
+  "onset_rate": {
+   "median": 6.257544266918813,
+   "iqr": 2.8152860277360228
+  },
+  "tempo_var": {
+   "median": 8.608257490554031,
+   "iqr": 5.883004027222491
+  },
+  "low_onset_rate": {
+   "median": 8.726936349383376,
+   "iqr": 1.8497639165009954
+  },
+  "lufs": {
+   "median": -6.8944677912414924,
+   "iqr": 1.9629173379032228
+  },
+  "rms_dbfs": {
+   "median": -5.989028322876602,
+   "iqr": 2.0284458377153936
+  },
+  "crest": {
+   "median": 5.989027976989746,
+   "iqr": 2.0284459590911865
+  },
+  "centroid": {
+   "median": 2417.592503838916,
+   "iqr": 299.8058141712304
+  },
+  "flatness": {
+   "median": 0.02884213626384735,
+   "iqr": 0.00809738365933299
+  },
+  "sub100_share": {
+   "median": 0.41790610551834106,
+   "iqr": 0.11015591770410538
+  },
+  "lowest_pitch": {
+   "median": 51.141357421875,
+   "iqr": 6.05621337890625
+  },
+  "harmonic_share": {
+   "median": 0.8297837972640991,
+   "iqr": 0.08908790349960327
+  },
+  "clean_share": {
+   "median": 0.0003878975950349108,
+   "iqr": 0.008518885689100678
+  },
+  "minor_share": {
+   "median": 0.05985118086349306,
+   "iqr": 0.13690384996672905
+  },
+  "chord_rate": {
+   "median": 2.0548583499005963,
+   "iqr": 1.1536338877305274
+  },
+  "repetitiveness": {
+   "median": 0.9379469752311707,
+   "iqr": 0.02456130087375641
+  },
+  "vocal_share": {
+   "median": 0.06278364732861519,
+   "iqr": 0.08325820416212082
+  },
+  "vocal_voiced": {
+   "median": 0.18728367808573843,
+   "iqr": 0.20862703737669247
+  },
+  "song_length": {
+   "median": 177.273,
+   "iqr": 35.54325
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

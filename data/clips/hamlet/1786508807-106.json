@@ -1,0 +1,32 @@
+{
+ "id": "hamlet/1786508807-106",
+ "band": "hamlet",
+ "title": "Antes y Después",
+ "source": "itunes",
+ "album": "Insomnio",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 1.866655379256966,
+  "tempo_var": 10.985613170398672,
+  "low_onset_rate": 3.9999758126934983,
+  "lufs": -10.244827922837732,
+  "rms_dbfs": -10.269668866680732,
+  "crest": 10.269668579101562,
+  "centroid": 2828.6726436818417,
+  "flatness": 0.03670964390039444,
+  "sub100_share": 0.3615129590034485,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.704953670501709,
+  "clean_share": 0.02242846094354215,
+  "minor_share": 0.07760096587649629,
+  "chord_rate": 1.4333246662151702,
+  "repetitiveness": 0.908149778842926,
+  "vocal_share": 0.015078957192599773,
+  "vocal_voiced": 0.9292929292929293,
+  "song_length": 287.2
+ }
+}

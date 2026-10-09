@@ -1,0 +1,32 @@
+{
+ "id": "immolation/714503061-104",
+ "band": "immolation",
+ "title": "Wolf Among the Flock",
+ "source": "itunes",
+ "album": "Unholy Cult",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 6.816115502109295,
+  "tempo_var": 10.227098540781965,
+  "low_onset_rate": 7.016589487465451,
+  "lufs": -6.783557643989099,
+  "rms_dbfs": -6.3715338385813505,
+  "crest": 6.3715338706970215,
+  "centroid": 2242.0808351442806,
+  "flatness": 0.02968563139438629,
+  "sub100_share": 0.2954610586166382,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.6545443534851074,
+  "clean_share": 0.01008533747090768,
+  "minor_share": -0.3180833736802565,
+  "chord_rate": 2.7063988023081027,
+  "repetitiveness": 0.9395997524261475,
+  "vocal_share": 0.10286020487546921,
+  "vocal_voiced": 0.0,
+  "song_length": 229.92
+ }
+}

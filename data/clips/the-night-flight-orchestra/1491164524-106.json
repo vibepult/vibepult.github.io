@@ -1,0 +1,32 @@
+{
+ "id": "the-night-flight-orchestra/1491164524-106",
+ "band": "the-night-flight-orchestra",
+ "title": "Transmissions",
+ "source": "itunes",
+ "album": "Aeromantic",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.4414700819473403,
+  "tempo_var": 0.0,
+  "low_onset_rate": 2.505924816951947,
+  "lufs": -11.269790244343652,
+  "rms_dbfs": -10.224551775727297,
+  "crest": 10.2245512008667,
+  "centroid": 2044.169292227652,
+  "flatness": 0.01653425581753254,
+  "sub100_share": 0.41179943084716797,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.5583595037460327,
+  "clean_share": 0.3809154383242824,
+  "minor_share": 0.07092355759913604,
+  "chord_rate": 0.801895941424623,
+  "repetitiveness": 0.8980938196182251,
+  "vocal_share": 0.14265751838684082,
+  "vocal_voiced": 0.7663043478260869,
+  "song_length": 344.333
+ }
+}

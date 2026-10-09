@@ -1,0 +1,32 @@
+{
+ "id": "saxon/1437466858-105",
+ "band": "saxon",
+ "title": "Play It Loud",
+ "source": "itunes",
+ "album": "Denim and Leather",
+ "year": 1981,
+ "itunes_year": 1981,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.199936508896313,
+  "tempo_var": 2.5567131588120535,
+  "low_onset_rate": 5.099922903659809,
+  "lufs": -16.127423279439018,
+  "rms_dbfs": -17.08222854921534,
+  "crest": 17.082229614257812,
+  "centroid": 3198.810211274502,
+  "flatness": 0.05941394716501236,
+  "sub100_share": 0.10712110996246338,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.6144164800643921,
+  "clean_share": 0.0,
+  "minor_share": -0.21094617662379955,
+  "chord_rate": 0.8999863947634957,
+  "repetitiveness": 0.8620620369911194,
+  "vocal_share": 0.25133123993873596,
+  "vocal_voiced": 0.8371212121212122,
+  "song_length": 250.933
+ }
+}

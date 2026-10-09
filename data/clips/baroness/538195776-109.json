@@ -1,0 +1,32 @@
+{
+ "id": "baroness/538195776-109",
+ "band": "baroness",
+ "title": "Eula",
+ "source": "itunes",
+ "album": "Yellow & Green",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.699944067361038,
+  "tempo_var": 21.04904502838729,
+  "low_onset_rate": 5.533249686323714,
+  "lufs": -17.991507330302372,
+  "rms_dbfs": -16.520497430767108,
+  "crest": 15.9105863571167,
+  "centroid": 1401.7105083860074,
+  "flatness": 0.003220058511942625,
+  "sub100_share": 0.4794918894767761,
+  "lowest_pitch": 29.608154296875,
+  "harmonic_share": 0.9529359936714172,
+  "clean_share": 0.843000773395205,
+  "minor_share": 0.13328159758759772,
+  "chord_rate": 0.23332980604979517,
+  "repetitiveness": 0.6266061067581177,
+  "vocal_share": 0.16082631051540375,
+  "vocal_voiced": 0.75625,
+  "song_length": 407.52
+ }
+}

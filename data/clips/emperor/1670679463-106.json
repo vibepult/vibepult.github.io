@@ -1,0 +1,32 @@
+{
+ "id": "emperor/1670679463-106",
+ "band": "emperor",
+ "title": "The Majesty of the Night Sky",
+ "source": "itunes",
+ "album": "In the Nightside Eclipse",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.933333333333334,
+  "tempo_var": 10.61393145463315,
+  "low_onset_rate": 8.933333333333334,
+  "lufs": -9.045947473004434,
+  "rms_dbfs": -9.962428108891165,
+  "crest": 9.962428092956543,
+  "centroid": 2716.432069611464,
+  "flatness": 0.039359863847494125,
+  "sub100_share": 0.12356720864772797,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.6991958022117615,
+  "clean_share": 0.0,
+  "minor_share": -0.043113094971622024,
+  "chord_rate": 1.5666666666666667,
+  "repetitiveness": 0.9074138402938843,
+  "vocal_share": 0.05881623551249504,
+  "vocal_voiced": 0.24778761061946902,
+  "song_length": 293.027
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "primal-fear/1776759340-109",
+ "band": "primal-fear",
+ "title": "The Beast",
+ "source": "itunes",
+ "album": "Apocalypse (Deluxe Edition)",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 6.3,
+  "tempo_var": 0.7405750583466859,
+  "low_onset_rate": 7.033333333333333,
+  "lufs": -8.631556702776008,
+  "rms_dbfs": -7.9131299845607845,
+  "crest": 7.913129806518555,
+  "centroid": 2395.7572326432833,
+  "flatness": 0.026585670188069344,
+  "sub100_share": 0.39168116450309753,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8051104545593262,
+  "clean_share": 0.04102167182662539,
+  "minor_share": 0.05721755286500474,
+  "chord_rate": 1.6,
+  "repetitiveness": 0.8747826218605042,
+  "vocal_share": 0.10064470022916794,
+  "vocal_voiced": 0.717948717948718,
+  "song_length": 222.533
+ }
+}

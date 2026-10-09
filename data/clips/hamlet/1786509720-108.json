@@ -1,0 +1,32 @@
+{
+ "id": "hamlet/1786509720-108",
+ "band": "hamlet",
+ "title": "La Tierra de Paco",
+ "source": "itunes",
+ "album": "Revolución 12.111",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.46663965750774,
+  "tempo_var": 30.04699663450681,
+  "low_onset_rate": 1.0333270849458205,
+  "lufs": -17.54369462161036,
+  "rms_dbfs": -16.1350506937043,
+  "crest": 13.946630477905273,
+  "centroid": 1947.654989499397,
+  "flatness": 0.009722176007926464,
+  "sub100_share": 0.3689219355583191,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.9421154260635376,
+  "clean_share": 0.608662026295437,
+  "minor_share": -0.1813007759280355,
+  "chord_rate": 0.26666505417956654,
+  "repetitiveness": 0.9153155088424683,
+  "vocal_share": 0.0712345764040947,
+  "vocal_voiced": 0.7726218097447796,
+  "song_length": 248.877
+ }
+}

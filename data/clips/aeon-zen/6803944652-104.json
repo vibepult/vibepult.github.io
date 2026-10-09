@@ -1,0 +1,32 @@
+{
+ "id": "aeon-zen/6803944652-104",
+ "band": "aeon-zen",
+ "title": "10,000 Eyes",
+ "source": "itunes",
+ "album": "Transversal",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.233333333333333,
+  "tempo_var": 28.000309269083107,
+  "low_onset_rate": 3.466666666666667,
+  "lufs": -12.428690462006776,
+  "rms_dbfs": -11.226570077370479,
+  "crest": 11.226570129394531,
+  "centroid": 1988.6983924506603,
+  "flatness": 0.010504087433218956,
+  "sub100_share": 0.4044753313064575,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8420112133026123,
+  "clean_share": 0.5208978328173375,
+  "minor_share": 0.33394652783418943,
+  "chord_rate": 0.5666666666666667,
+  "repetitiveness": 0.760807454586029,
+  "vocal_share": 0.19386762380599976,
+  "vocal_voiced": 0.9601731601731601,
+  "song_length": 135.533
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "trivium/1852600021-106",
+ "band": "trivium",
+ "title": "Ember to Inferno",
+ "source": "itunes",
+ "album": "Ember to Inferno",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.366640262190402,
+  "tempo_var": 1.0522601889871603,
+  "low_onset_rate": 4.833304107004644,
+  "lufs": -12.129249201913224,
+  "rms_dbfs": -11.209422508662229,
+  "crest": 11.20942211151123,
+  "centroid": 2551.380953285711,
+  "flatness": 0.043298378586769104,
+  "sub100_share": 0.4543095827102661,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.5872299075126648,
+  "clean_share": 0.02165506573859242,
+  "minor_share": 0.06623589778554206,
+  "chord_rate": 1.6333234568498451,
+  "repetitiveness": 0.8132836222648621,
+  "vocal_share": 0.10872098058462143,
+  "vocal_voiced": 0.06537890044576523,
+  "song_length": 251.16
+ }
+}

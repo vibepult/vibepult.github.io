@@ -1,0 +1,32 @@
+{
+ "id": "queensryche/723572494-107",
+ "band": "queensryche",
+ "title": "Dis Con Nect Ted",
+ "source": "itunes",
+ "album": "Promised Land (Remastered) [Expanded Edition]",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 3.766609726232408,
+  "tempo_var": 34.572453878552444,
+  "low_onset_rate": 3.3666157730041877,
+  "lufs": -12.560975007214294,
+  "rms_dbfs": -11.71438143863412,
+  "crest": 11.714381217956543,
+  "centroid": 2432.2510882647402,
+  "flatness": 0.039660606533288956,
+  "sub100_share": 0.5010404586791992,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.7332333922386169,
+  "clean_share": 0.24671307037896364,
+  "minor_share": 0.3013962932112528,
+  "chord_rate": 1.433311665734456,
+  "repetitiveness": 0.816541314125061,
+  "vocal_share": 0.03689827397465706,
+  "vocal_voiced": 0.5048543689320388,
+  "song_length": 284.893
+ }
+}

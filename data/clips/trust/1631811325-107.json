@@ -1,0 +1,32 @@
+{
+ "id": "trust/1631811325-107",
+ "band": "trust",
+ "title": "Le jour se lèvera",
+ "source": "itunes",
+ "album": "Propaganda",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.742181059981574,
+  "tempo_var": 1.8014832676936816,
+  "low_onset_rate": 5.579859259079669,
+  "lufs": -6.447473354118761,
+  "rms_dbfs": -6.034671009513252,
+  "crest": 6.034671783447266,
+  "centroid": 2547.3309295403183,
+  "flatness": 0.03461013734340668,
+  "sub100_share": 0.16427835822105408,
+  "lowest_pitch": 118.4326171875,
+  "harmonic_share": 0.7642242312431335,
+  "clean_share": 0.007757951900698216,
+  "minor_share": -0.24275967679818805,
+  "chord_rate": 1.4367302283857828,
+  "repetitiveness": 0.7783716917037964,
+  "vocal_share": 0.17039483785629272,
+  "vocal_voiced": 0.7425320056899004,
+  "song_length": 259.573
+ }
+}

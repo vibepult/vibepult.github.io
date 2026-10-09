@@ -1,0 +1,32 @@
+{
+ "id": "zyklon/1660171753-103",
+ "band": "zyklon",
+ "title": "Subtle Manipulation",
+ "source": "itunes",
+ "album": "Aeon",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 7.484362119963148,
+  "tempo_var": 2.9895700183101233,
+  "low_onset_rate": 7.7850730979973815,
+  "lufs": -8.437382209981461,
+  "rms_dbfs": -8.519681831034948,
+  "crest": 8.519681930541992,
+  "centroid": 2572.5306021911156,
+  "flatness": 0.03924935311079025,
+  "sub100_share": 0.22901663184165955,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7133352756500244,
+  "clean_share": 0.0,
+  "minor_share": -0.030153727349142345,
+  "chord_rate": 2.338863162488484,
+  "repetitiveness": 0.9617370963096619,
+  "vocal_share": 0.07016502320766449,
+  "vocal_voiced": 0.3076923076923077,
+  "song_length": 197.493
+ }
+}

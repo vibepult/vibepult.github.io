@@ -1,0 +1,32 @@
+{
+ "id": "bucovina/1658692510-106",
+ "band": "bucovina",
+ "title": "Insomnii",
+ "source": "itunes",
+ "album": "Suntem Aici",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 6.314930538718906,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.949764825680066,
+  "lufs": -9.674580603511453,
+  "rms_dbfs": -8.973088469028909,
+  "crest": 8.973088264465332,
+  "centroid": 2193.68889460241,
+  "flatness": 0.01787542551755905,
+  "sub100_share": 0.2769638001918793,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8080809116363525,
+  "clean_share": 0.009309542280837859,
+  "minor_share": 0.10330383068537352,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.7676650285720825,
+  "vocal_share": 4.867899860983016e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 215.333
+ }
+}

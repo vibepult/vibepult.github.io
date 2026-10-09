@@ -1,0 +1,32 @@
+{
+ "id": "winterhorde/1681909313-108",
+ "band": "winterhorde",
+ "title": "Delirium",
+ "source": "itunes",
+ "album": "Underwatermoon",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.0428920380158075,
+  "tempo_var": 10.531750498041907,
+  "low_onset_rate": 6.3817552005042915,
+  "lufs": -7.002000793637895,
+  "rms_dbfs": -7.197377978319275,
+  "crest": 7.197377681732178,
+  "centroid": 2771.4802827457265,
+  "flatness": 0.053699228912591934,
+  "sub100_share": 0.14206942915916443,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7801663875579834,
+  "clean_share": 0.0,
+  "minor_share": -0.20574928438082007,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.7433711290359497,
+  "vocal_share": 0.15835128724575043,
+  "vocal_voiced": 0.7791479820627802,
+  "song_length": 359.547
+ }
+}

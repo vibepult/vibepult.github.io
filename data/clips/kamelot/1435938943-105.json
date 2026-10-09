@@ -1,0 +1,32 @@
+{
+ "id": "kamelot/1435938943-105",
+ "band": "kamelot",
+ "title": "Red Sands",
+ "source": "itunes",
+ "album": "Eternity",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.109716699801193,
+  "tempo_var": 10.577088982945288,
+  "low_onset_rate": 3.9092427144450372,
+  "lufs": -12.091448937380632,
+  "rms_dbfs": -12.0425159688989,
+  "crest": 12.04251480102539,
+  "centroid": 2884.9617683294946,
+  "flatness": 0.05131135508418083,
+  "sub100_share": 0.24154868721961975,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.5694094300270081,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": -0.17213468128931525,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.9052985906600952,
+  "vocal_share": 0.12877561151981354,
+  "vocal_voiced": 0.6666666666666666,
+  "song_length": 248.773
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "gamma-ray",
+ "name": "Gamma Ray",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 3264233,
+  "deezer": 4831,
+  "spotify": "6LZE884lDIsCSLHuTplfGp"
+ },
+ "metadata": {
+  "formed": 1989,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 5,
+  "past_members": 7,
+  "full_lengths": 11,
+  "genre": "Power/Speed Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 63493,
+  "themes": "Science fiction, Fantasy, Politics, Religion, Metal",
+  "release_year": 2000
+ },
+ "partial": false,
+ "clips": [
+  "gamma-ray/1642732385-107",
+  "gamma-ray/1642730333-106",
+  "gamma-ray/1643988439-106",
+  "gamma-ray/1675500038-107",
+  "gamma-ray/1733325981-106",
+  "gamma-ray/1642732385-108",
+  "gamma-ray/1642730333-105",
+  "gamma-ray/1643988439-107",
+  "gamma-ray/1675500038-106",
+  "gamma-ray/1733325981-105",
+  "gamma-ray/1642732385-105",
+  "gamma-ray/1642730333-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.32652698863637,
+   "iqr": 27.78785129433639
+  },
+  "onset_rate": {
+   "median": 5.840245619777271,
+   "iqr": 2.45826228397973
+  },
+  "tempo_var": {
+   "median": 2.3920682729111737,
+   "iqr": 11.530292109940234
+  },
+  "low_onset_rate": {
+   "median": 6.682466178538525,
+   "iqr": 1.8785520473295056
+  },
+  "lufs": {
+   "median": -9.275897212957346,
+   "iqr": 2.7176613965140524
+  },
+  "rms_dbfs": {
+   "median": -8.947858720177937,
+   "iqr": 2.665523378931508
+  },
+  "crest": {
+   "median": 8.947858810424805,
+   "iqr": 2.665522813796997
+  },
+  "centroid": {
+   "median": 2675.200453444243,
+   "iqr": 313.7134091318271
+  },
+  "flatness": {
+   "median": 0.040479857474565506,
+   "iqr": 0.010606467723846436
+  },
+  "sub100_share": {
+   "median": 0.25189869850873947,
+   "iqr": 0.06369559094309807
+  },
+  "lowest_pitch": {
+   "median": 53.8330078125,
+   "iqr": 14.13116455078125
+  },
+  "harmonic_share": {
+   "median": 0.7305224239826202,
+   "iqr": 0.080617755651474
+  },
+  "clean_share": {
+   "median": 0.0034847735182431962,
+   "iqr": 0.012596471901874209
+  },
+  "minor_share": {
+   "median": 0.10568472402784995,
+   "iqr": 0.26570939697550433
+  },
+  "chord_rate": {
+   "median": 1.3030809048150123,
+   "iqr": 0.5855790730871162
+  },
+  "repetitiveness": {
+   "median": 0.8640950322151184,
+   "iqr": 0.06470291316509247
+  },
+  "vocal_share": {
+   "median": 0.1831749752163887,
+   "iqr": 0.06336413696408272
+  },
+  "vocal_voiced": {
+   "median": 0.7544591379000061,
+   "iqr": 0.10762602684882627
+  },
+  "song_length": {
+   "median": 289.74649999999997,
+   "iqr": 39.32275000000004
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

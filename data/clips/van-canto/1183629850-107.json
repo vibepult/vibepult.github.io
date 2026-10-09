@@ -1,0 +1,32 @@
+{
+ "id": "van-canto/1183629850-107",
+ "band": "van-canto",
+ "title": "The Awakening",
+ "source": "itunes",
+ "album": "Dawn of the Brave",
+ "year": 2014,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.866666666666666,
+  "tempo_var": 11.556972012805195,
+  "low_onset_rate": 4.9,
+  "lufs": -8.820589719393864,
+  "rms_dbfs": -8.204799896288618,
+  "crest": 8.20479965209961,
+  "centroid": 2541.190320325163,
+  "flatness": 0.026504844427108765,
+  "sub100_share": 0.3291035294532776,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7549430131912231,
+  "clean_share": 0.0046439628482972135,
+  "minor_share": 0.0143694182457752,
+  "chord_rate": 1.6333333333333333,
+  "repetitiveness": 0.6963369846343994,
+  "vocal_share": 0.2867305278778076,
+  "vocal_voiced": 0.7802197802197802,
+  "song_length": 253.071
+ }
+}

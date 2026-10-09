@@ -1,0 +1,32 @@
+{
+ "id": "helloween/1752158807-106",
+ "band": "helloween",
+ "title": "Goin' Home (2024 Remaster)",
+ "source": "itunes",
+ "album": "Pink Bubbles Go Ape (2024 Remaster)",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.066590074224123,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.933243639551934,
+  "lufs": -9.637551447648852,
+  "rms_dbfs": -9.467486106490034,
+  "crest": 9.467486381530762,
+  "centroid": 2475.8849145247186,
+  "flatness": 0.028761979192495346,
+  "sub100_share": 0.1907302439212799,
+  "lowest_pitch": 123.81591796875,
+  "harmonic_share": 0.738539457321167,
+  "clean_share": 0.009280742459396751,
+  "minor_share": -0.18252137543836233,
+  "chord_rate": 2.0333025955767865,
+  "repetitiveness": 0.8464173674583435,
+  "vocal_share": 0.41007766127586365,
+  "vocal_voiced": 0.5716523101018011,
+  "song_length": 231.213
+ }
+}

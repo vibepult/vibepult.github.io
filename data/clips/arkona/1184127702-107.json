@@ -1,0 +1,32 @@
+{
+ "id": "arkona/1184127702-107",
+ "band": "arkona",
+ "title": "Никогда",
+ "source": "itunes",
+ "album": "Slovo",
+ "year": 2011,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.966666666666667,
+  "tempo_var": 10.136771223465049,
+  "low_onset_rate": 7.533333333333333,
+  "lufs": -7.22559725599686,
+  "rms_dbfs": -6.414296218782898,
+  "crest": 6.4142961502075195,
+  "centroid": 2459.9260889300426,
+  "flatness": 0.02873503975570202,
+  "sub100_share": 0.3365069627761841,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8224210143089294,
+  "clean_share": 0.01238390092879257,
+  "minor_share": 0.2648996351024521,
+  "chord_rate": 1.5666666666666667,
+  "repetitiveness": 0.8470441699028015,
+  "vocal_share": 0.2947666347026825,
+  "vocal_voiced": 0.63671875,
+  "song_length": 284.027
+ }
+}

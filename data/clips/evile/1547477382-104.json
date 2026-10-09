@@ -1,0 +1,32 @@
+{
+ "id": "evile/1547477382-104",
+ "band": "evile",
+ "title": "War of Attrition",
+ "source": "itunes",
+ "album": "Hell Unleashed",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 7.633333333333334,
+  "tempo_var": 1.068363392104499,
+  "low_onset_rate": 7.566666666666666,
+  "lufs": -9.741587145262972,
+  "rms_dbfs": -9.386715307985,
+  "crest": 9.386714935302734,
+  "centroid": 2835.326035316457,
+  "flatness": 0.05997368320822716,
+  "sub100_share": 0.37950101494789124,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6214494109153748,
+  "clean_share": 0.0,
+  "minor_share": 0.21436597775031618,
+  "chord_rate": 0.8,
+  "repetitiveness": 0.921521008014679,
+  "vocal_share": 0.1232711523771286,
+  "vocal_voiced": 0.04130162703379224,
+  "song_length": 265.667
+ }
+}

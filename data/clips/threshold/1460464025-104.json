@@ -1,0 +1,32 @@
+{
+ "id": "threshold/1460464025-104",
+ "band": "threshold",
+ "title": "Sheltering Sky",
+ "source": "itunes",
+ "album": "Hypothetical (Definitive Edition)",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 0.8687206032100082,
+  "tempo_var": 20.17395934282919,
+  "low_onset_rate": 2.0047398535615577,
+  "lufs": -15.942051212002921,
+  "rms_dbfs": -15.199901649090222,
+  "crest": 15.199901580810547,
+  "centroid": 923.0105163710559,
+  "flatness": 0.00955362617969513,
+  "sub100_share": 0.06807068735361099,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.9606568813323975,
+  "clean_share": 0.9371605896043445,
+  "minor_share": 0.2554698796357028,
+  "chord_rate": 0.267298647141541,
+  "repetitiveness": 0.6976670026779175,
+  "vocal_share": 5.774408236902673e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 335.933
+ }
+}

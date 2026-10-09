@@ -1,0 +1,127 @@
+{
+ "slug": "despised-icon",
+ "name": "Despised Icon",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 64636070,
+  "deezer": 161182,
+  "spotify": "3MjNMjqBpaQ0P8ebfbZjYn"
+ },
+ "metadata": {
+  "formed": 2002,
+  "split": null,
+  "country": "CA",
+  "status": "active",
+  "members": 6,
+  "past_members": 4,
+  "full_lengths": 7,
+  "genre": "Deathcore",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 22095,
+  "themes": "Misanthropy, Anti-capitalism (early); Madness, Society (later)",
+  "release_year": 2008
+ },
+ "partial": false,
+ "clips": [
+  "despised-icon/1045091757-106",
+  "despised-icon/1045197608-105",
+  "despised-icon/1045115964-105",
+  "despised-icon/1045717988-105",
+  "despised-icon/1458752218-104",
+  "despised-icon/1476233988-106",
+  "despised-icon/1821649062-105",
+  "despised-icon/1045091757-107",
+  "despised-icon/1045197608-104",
+  "despised-icon/1045115964-106",
+  "despised-icon/1045717988-106",
+  "despised-icon/1458752218-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 147.77688419117646,
+   "iqr": 12.708256488244956
+  },
+  "onset_rate": {
+   "median": 4.136272329688212,
+   "iqr": 2.4528233246661175
+  },
+  "tempo_var": {
+   "median": 15.018623836650388,
+   "iqr": 9.9070869640029
+  },
+  "low_onset_rate": {
+   "median": 4.365177352864654,
+   "iqr": 2.555798154384741
+  },
+  "lufs": {
+   "median": -7.476546011046569,
+   "iqr": 1.0621289028562213
+  },
+  "rms_dbfs": {
+   "median": -7.281856587158165,
+   "iqr": 0.746981875021266
+  },
+  "crest": {
+   "median": 7.281856536865234,
+   "iqr": 0.7469817399978638
+  },
+  "centroid": {
+   "median": 2749.1382494219897,
+   "iqr": 266.66531544607506
+  },
+  "flatness": {
+   "median": 0.04950852319598198,
+   "iqr": 0.016270958818495274
+  },
+  "sub100_share": {
+   "median": 0.29215963184833527,
+   "iqr": 0.04100915789604187
+  },
+  "lowest_pitch": {
+   "median": 45.758056640625,
+   "iqr": 19.51446533203125
+  },
+  "harmonic_share": {
+   "median": 0.6825046837329865,
+   "iqr": 0.06676292419433594
+  },
+  "clean_share": {
+   "median": 0.026295436968290797,
+   "iqr": 0.0448075721930524
+  },
+  "minor_share": {
+   "median": -0.0037105243915199204,
+   "iqr": 0.14654241854911287
+  },
+  "chord_rate": {
+   "median": 1.9880336881152112,
+   "iqr": 0.881228304697546
+  },
+  "repetitiveness": {
+   "median": 0.8901126384735107,
+   "iqr": 0.03512386977672577
+  },
+  "vocal_share": {
+   "median": 0.20636555552482605,
+   "iqr": 0.06033836305141449
+  },
+  "vocal_voiced": {
+   "median": 0.22770472759108357,
+   "iqr": 0.21498450732475075
+  },
+  "song_length": {
+   "median": 203.05349999999999,
+   "iqr": 44.474999999999994
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

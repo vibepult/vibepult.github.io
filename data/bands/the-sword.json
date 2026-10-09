@@ -1,0 +1,127 @@
+{
+ "slug": "the-sword",
+ "name": "The Sword",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 121471614,
+  "deezer": 12106,
+  "spotify": "0q32a3GRCjDxS4EIrC7YVY"
+ },
+ "metadata": {
+  "formed": 2003,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 4,
+  "past_members": 1,
+  "full_lengths": 7,
+  "genre": "Stoner/Doom Metal, Hard Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 19578,
+  "themes": "Norse mythology, Literature, Science fiction",
+  "release_year": 2011
+ },
+ "partial": false,
+ "clips": [
+  "the-sword/1775732196-106",
+  "the-sword/1775746985-105",
+  "the-sword/1440927039-106",
+  "the-sword/1402572666-107",
+  "the-sword/1775732196-105",
+  "the-sword/1775746985-106",
+  "the-sword/1440927039-105",
+  "the-sword/1402572666-108",
+  "the-sword/1775732196-107",
+  "the-sword/1775746985-104",
+  "the-sword/1440927039-107",
+  "the-sword/1402572666-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 118.4326171875,
+   "iqr": 39.40833313177245
+  },
+  "onset_rate": {
+   "median": 3.51661350546477,
+   "iqr": 2.1817918423475553
+  },
+  "tempo_var": {
+   "median": 15.245806373945038,
+   "iqr": 8.406262769502774
+  },
+  "low_onset_rate": {
+   "median": 4.516598388535321,
+   "iqr": 1.8415861690173498
+  },
+  "lufs": {
+   "median": -9.325382873400823,
+   "iqr": 1.8481988345006037
+  },
+  "rms_dbfs": {
+   "median": -8.253226999140448,
+   "iqr": 1.1264383990947806
+  },
+  "crest": {
+   "median": 8.25322675704956,
+   "iqr": 1.126439094543457
+  },
+  "centroid": {
+   "median": 2018.9499949151216,
+   "iqr": 412.9993040536435
+  },
+  "flatness": {
+   "median": 0.012760046403855085,
+   "iqr": 0.008741000201553106
+  },
+  "sub100_share": {
+   "median": 0.3095049113035202,
+   "iqr": 0.1405978500843048
+  },
+  "lowest_pitch": {
+   "median": 57.8704833984375,
+   "iqr": 26.91650390625
+  },
+  "harmonic_share": {
+   "median": 0.7669567465782166,
+   "iqr": 0.12778189778327942
+  },
+  "clean_share": {
+   "median": 0.33023975251353443,
+   "iqr": 0.3344139615792587
+  },
+  "minor_share": {
+   "median": 0.0651629031773886,
+   "iqr": 0.20840192313642247
+  },
+  "chord_rate": {
+   "median": 1.5999758129128812,
+   "iqr": 0.45832879825449857
+  },
+  "repetitiveness": {
+   "median": 0.831490159034729,
+   "iqr": 0.11910758912563324
+  },
+  "vocal_share": {
+   "median": 0.058023618534207344,
+   "iqr": 0.02887530904263258
+  },
+  "vocal_voiced": {
+   "median": 0.8338791491095925,
+   "iqr": 0.1277894066772196
+  },
+  "song_length": {
+   "median": 248.324,
+   "iqr": 103.03725
+  },
+  "vocal_presence": {
+   "median": 0.3333333333333333,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

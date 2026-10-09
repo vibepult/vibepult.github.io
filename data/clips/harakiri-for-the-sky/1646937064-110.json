@@ -1,0 +1,32 @@
+{
+ "id": "harakiri-for-the-sky/1646937064-110",
+ "band": "harakiri-for-the-sky",
+ "title": "Mad World",
+ "source": "itunes",
+ "album": "Aokigahara MMXXII",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.107346773020414,
+  "tempo_var": 1.209246887796181,
+  "low_onset_rate": 3.9760673762304224,
+  "lufs": -10.967772396802708,
+  "rms_dbfs": -9.258115107280654,
+  "crest": 9.258115768432617,
+  "centroid": 1738.0175751561762,
+  "flatness": 0.007706402335315943,
+  "sub100_share": 0.4959425926208496,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7332066893577576,
+  "clean_share": 0.460822342901474,
+  "minor_share": -0.06179914570447509,
+  "chord_rate": 1.4367302283857828,
+  "repetitiveness": 0.7284254431724548,
+  "vocal_share": 0.0965278297662735,
+  "vocal_voiced": 0.6896831844029244,
+  "song_length": 305.625
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "wintersun/1458859851-103",
+ "band": "wintersun",
+ "title": "Eternal Darkness (Autumn)",
+ "source": "itunes",
+ "album": "The Forest Seasons",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 258.3984375,
+  "onset_rate": 1.2028439121369345,
+  "tempo_var": 9.242720029291318,
+  "low_onset_rate": 8.353082723173156,
+  "lufs": -27.00240831785656,
+  "rms_dbfs": -24.369901114247664,
+  "crest": 18.773996353149414,
+  "centroid": 525.5634089912036,
+  "flatness": 7.454568549292162e-05,
+  "sub100_share": 0.6338397860527039,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.9405243992805481,
+  "clean_share": 0.9992242048099301,
+  "minor_share": -0.07825819010975599,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.8595316410064697,
+  "vocal_share": 0.026892486959695816,
+  "vocal_voiced": 0.6025641025641025,
+  "song_length": 848.118
+ }
+}

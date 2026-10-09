@@ -1,0 +1,32 @@
+{
+ "id": "suspyre/438339995-105",
+ "band": "suspyre",
+ "title": "Siren (One Last Breath)",
+ "source": "itunes",
+ "album": "When Time Fades...",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.240996096591185,
+  "tempo_var": 12.154426657768575,
+  "low_onset_rate": 4.009479707123115,
+  "lufs": -14.437235553411682,
+  "rms_dbfs": -13.384921786256172,
+  "crest": 13.384922981262207,
+  "centroid": 1419.3632007912718,
+  "flatness": 0.003673990722745657,
+  "sub100_share": 0.15713270008563995,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8747365474700928,
+  "clean_share": 0.8944918541505043,
+  "minor_share": 0.10784878274859466,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.6589940786361694,
+  "vocal_share": 0.10715753585100174,
+  "vocal_voiced": 0.8431372549019608,
+  "song_length": 615.627
+ }
+}

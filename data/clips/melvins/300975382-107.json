@@ -1,0 +1,32 @@
+{
+ "id": "melvins/300975382-107",
+ "band": "melvins",
+ "title": "Set Me Straight",
+ "source": "itunes",
+ "album": "Houdini",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.432928543573093,
+  "tempo_var": 2.2671419474806833,
+  "low_onset_rate": 5.699327970398048,
+  "lufs": -10.77277080568456,
+  "rms_dbfs": -9.80025307444656,
+  "crest": 9.800252914428711,
+  "centroid": 2032.5697897281077,
+  "flatness": 0.01578504964709282,
+  "sub100_share": 0.2762858271598816,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8013310432434082,
+  "clean_share": 0.06109822119102862,
+  "minor_share": -0.07570872660840455,
+  "chord_rate": 0.9665526967341719,
+  "repetitiveness": 0.7609467506408691,
+  "vocal_share": 0.1070818081498146,
+  "vocal_voiced": 0.6175771971496437,
+  "song_length": 145.133
+ }
+}

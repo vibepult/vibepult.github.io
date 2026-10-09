@@ -1,0 +1,32 @@
+{
+ "id": "lacuna-coil/1045292638-106",
+ "band": "lacuna-coil",
+ "title": "I Forgive (But I Won't Forget Your Name)",
+ "source": "itunes",
+ "album": "Broken Crown Halo",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.677726324976968,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.3817552005042915,
+  "lufs": -6.8985430492053705,
+  "rms_dbfs": -7.260038986371869,
+  "crest": 7.26003885269165,
+  "centroid": 2514.6189661589865,
+  "flatness": 0.03333304077386856,
+  "sub100_share": 0.13477547466754913,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7616610527038574,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.25685834069674307,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.746366024017334,
+  "vocal_share": 0.2905409634113312,
+  "vocal_voiced": 0.8650116369278511,
+  "song_length": 236.227
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "kyuss/207946744-107",
+ "band": "kyuss",
+ "title": "The Law",
+ "source": "itunes",
+ "album": "Wretch",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.733261779867274,
+  "tempo_var": 18.999952273539954,
+  "low_onset_rate": 5.133255733095494,
+  "lufs": -16.748149671424105,
+  "rms_dbfs": -16.040922208914225,
+  "crest": 15.746255874633789,
+  "centroid": 2345.029498050511,
+  "flatness": 0.03036942519247532,
+  "sub100_share": 0.24733014404773712,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.696844220161438,
+  "clean_share": 0.22351121423047177,
+  "minor_share": 0.07025675777381646,
+  "chord_rate": 2.0999682544481564,
+  "repetitiveness": 0.8910606503486633,
+  "vocal_share": 4.316603735787794e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 472.733
+ }
+}

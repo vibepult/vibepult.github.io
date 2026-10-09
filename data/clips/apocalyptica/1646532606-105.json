@@ -1,0 +1,32 @@
+{
+ "id": "apocalyptica/1646532606-105",
+ "band": "apocalyptica",
+ "title": "Sad but True",
+ "source": "itunes",
+ "album": "Plays Metallica by Four Cellos",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 1.699989720394737,
+  "tempo_var": 30.330435708181177,
+  "low_onset_rate": 1.83332224748452,
+  "lufs": -16.32359642345573,
+  "rms_dbfs": -16.778562076823714,
+  "crest": 15.326681137084961,
+  "centroid": 1807.9066716804057,
+  "flatness": 0.02460133284330368,
+  "sub100_share": 0.05701347440481186,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.8745217323303223,
+  "clean_share": 0.5452436194895591,
+  "minor_share": 0.017408437003531563,
+  "chord_rate": 1.0666602167182662,
+  "repetitiveness": 0.7178443670272827,
+  "vocal_share": 7.626358637935482e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 288.307
+ }
+}

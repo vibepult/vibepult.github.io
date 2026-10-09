@@ -1,0 +1,127 @@
+{
+ "slug": "liquid-tension-experiment",
+ "name": "Liquid Tension Experiment",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 149011322,
+  "deezer": 2090,
+  "spotify": "0r1s1XoxdoXECGfyChzb2v"
+ },
+ "metadata": {
+  "formed": 1997,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 4,
+  "past_members": 0,
+  "full_lengths": 3,
+  "genre": "Technical Progressive Rock/Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 29258,
+  "themes": "Instrumental",
+  "release_year": 1998
+ },
+ "partial": false,
+ "clips": [
+  "liquid-tension-experiment/151252913-105",
+  "liquid-tension-experiment/149011320-104",
+  "liquid-tension-experiment/151252913-104",
+  "liquid-tension-experiment/149011320-105",
+  "liquid-tension-experiment/151252913-106",
+  "liquid-tension-experiment/149011320-103",
+  "liquid-tension-experiment/151252913-103",
+  "liquid-tension-experiment/149011320-106",
+  "liquid-tension-experiment/151252913-107",
+  "liquid-tension-experiment/149011320-102",
+  "liquid-tension-experiment/151252913-102",
+  "liquid-tension-experiment/149011320-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 42.29736328125
+  },
+  "onset_rate": {
+   "median": 4.216666666666667,
+   "iqr": 2.341666666666667
+  },
+  "tempo_var": {
+   "median": 13.635217324618335,
+   "iqr": 13.615985974611883
+  },
+  "low_onset_rate": {
+   "median": 4.1,
+   "iqr": 1.7333333333333334
+  },
+  "lufs": {
+   "median": -12.180347377361539,
+   "iqr": 6.010117809204472
+  },
+  "rms_dbfs": {
+   "median": -10.959376578814386,
+   "iqr": 5.293982727808675
+  },
+  "crest": {
+   "median": 10.959376811981201,
+   "iqr": 4.350175857543945
+  },
+  "centroid": {
+   "median": 1692.0560917383655,
+   "iqr": 1191.7206371847133
+  },
+  "flatness": {
+   "median": 0.0055653436575084925,
+   "iqr": 0.02223227237118408
+  },
+  "sub100_share": {
+   "median": 0.4214630573987961,
+   "iqr": 0.16160233318805695
+  },
+  "lowest_pitch": {
+   "median": 67.291259765625,
+   "iqr": 51.81427001953125
+  },
+  "harmonic_share": {
+   "median": 0.9088253378868103,
+   "iqr": 0.21246877312660217
+  },
+  "clean_share": {
+   "median": 0.7275541795665634,
+   "iqr": 0.6563467492260062
+  },
+  "minor_share": {
+   "median": -0.017665979120381314,
+   "iqr": 0.11775311010268488
+  },
+  "chord_rate": {
+   "median": 1.7,
+   "iqr": 1.0166666666666666
+  },
+  "repetitiveness": {
+   "median": 0.7900901138782501,
+   "iqr": 0.14943331480026245
+  },
+  "vocal_share": {
+   "median": 0.0,
+   "iqr": 0.0
+  },
+  "vocal_voiced": {
+   "median": 0.0,
+   "iqr": 0.0
+  },
+  "song_length": {
+   "median": 425.3,
+   "iqr": 373.12325
+  },
+  "vocal_presence": {
+   "median": 0.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.0,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

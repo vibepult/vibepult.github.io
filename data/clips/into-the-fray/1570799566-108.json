@@ -1,0 +1,32 @@
+{
+ "id": "into-the-fray/1570799566-108",
+ "band": "into-the-fray",
+ "title": "Invictus",
+ "source": "itunes",
+ "album": "Into the Fray",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.911612641225816,
+  "tempo_var": 1.6974160430544938,
+  "low_onset_rate": 6.582229185860447,
+  "lufs": -6.955905019284433,
+  "rms_dbfs": -5.98622622004963,
+  "crest": 5.9862260818481445,
+  "centroid": 2499.295380511932,
+  "flatness": 0.03415906801819801,
+  "sub100_share": 0.4788385033607483,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.7236708402633667,
+  "clean_share": 0.0,
+  "minor_share": -0.039078880030620766,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.8558704853057861,
+  "vocal_share": 0.13309067487716675,
+  "vocal_voiced": 0.14493927125506073,
+  "song_length": 353.077
+ }
+}

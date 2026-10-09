@@ -1,0 +1,32 @@
+{
+ "id": "rammstein/1456789831-106",
+ "band": "rammstein",
+ "title": "Puppe",
+ "source": "itunes",
+ "album": "Rammstein",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "hand",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.3993833318218916,
+  "tempo_var": 1.2445714644544013,
+  "low_onset_rate": 1.5663825156434208,
+  "lufs": -12.59262018227369,
+  "rms_dbfs": -12.21361832733071,
+  "crest": 12.213619232177734,
+  "centroid": 2198.6422587728966,
+  "flatness": 0.026220759376883507,
+  "sub100_share": 0.28081873059272766,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.5770454406738281,
+  "clean_share": 0.3851508120649652,
+  "minor_share": -0.14908962009862303,
+  "chord_rate": 1.6996916659109458,
+  "repetitiveness": 0.7480201721191406,
+  "vocal_share": 0.40972238779067993,
+  "vocal_voiced": 0.5597920277296361,
+  "song_length": 273.707
+ }
+}

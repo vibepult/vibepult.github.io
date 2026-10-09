@@ -1,0 +1,32 @@
+{
+ "id": "warmen/1660760497-107",
+ "band": "warmen",
+ "title": "Warcry of Salieri",
+ "source": "itunes",
+ "album": "Unknown Soldier",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 7.584599112641226,
+  "tempo_var": 13.061994005588542,
+  "low_onset_rate": 7.484362119963148,
+  "lufs": -8.26095254564001,
+  "rms_dbfs": -7.573294054241856,
+  "crest": 7.573294162750244,
+  "centroid": 2753.7248902018137,
+  "flatness": 0.0389397032558918,
+  "sub100_share": 0.4536919593811035,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.797309935092926,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.1582589702070774,
+  "chord_rate": 2.4391001551665616,
+  "repetitiveness": 0.9313754439353943,
+  "vocal_share": 4.915098656965711e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 354.707
+ }
+}

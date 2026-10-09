@@ -1,0 +1,32 @@
+{
+ "id": "ajattara/1669900342-106",
+ "band": "ajattara",
+ "title": "Hirsipuulintu",
+ "source": "itunes",
+ "album": "Äpäre",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.9784373030112015,
+  "tempo_var": 21.664641230055285,
+  "low_onset_rate": 8.319670392280464,
+  "lufs": -8.176206134805836,
+  "rms_dbfs": -7.179507599576759,
+  "crest": 7.179507732391357,
+  "centroid": 2423.77480557778,
+  "flatness": 0.02689060941338539,
+  "sub100_share": 0.5382863879203796,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8326076865196228,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.07663373569146159,
+  "chord_rate": 2.7398111332007953,
+  "repetitiveness": 0.9369795918464661,
+  "vocal_share": 0.05109962075948715,
+  "vocal_voiced": 0.0,
+  "song_length": 217.04
+ }
+}

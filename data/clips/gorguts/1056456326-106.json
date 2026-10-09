@@ -1,0 +1,32 @@
+{
+ "id": "gorguts/1056456326-106",
+ "band": "gorguts",
+ "title": "Clouded",
+ "source": "itunes",
+ "album": "Obscura",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 67.99958881578948,
+  "onset_rate": 2.4391001551665616,
+  "tempo_var": 5.569941997436095,
+  "low_onset_rate": 9.021329341027009,
+  "lufs": -7.264383641822039,
+  "rms_dbfs": -6.482755528959627,
+  "crest": 6.482755661010742,
+  "centroid": 2105.5829441381816,
+  "flatness": 0.01683671586215496,
+  "sub100_share": 0.35307908058166504,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8337944149971008,
+  "clean_share": 0.24049650892164467,
+  "minor_share": -0.045072273584139844,
+  "chord_rate": 2.1718015080250206,
+  "repetitiveness": 0.8207012414932251,
+  "vocal_share": 0.04031887277960777,
+  "vocal_voiced": 0.37628865979381443,
+  "song_length": 572.267
+ }
+}

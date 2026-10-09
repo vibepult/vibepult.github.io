@@ -1,0 +1,32 @@
+{
+ "id": "down/299793030-108",
+ "band": "down",
+ "title": "Jail",
+ "source": "itunes",
+ "album": "Nola",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 3.6995637702583823,
+  "tempo_var": 31.072709586754197,
+  "low_onset_rate": 6.099280810425982,
+  "lufs": -17.50151478342395,
+  "rms_dbfs": -16.347750208538596,
+  "crest": 15.703934669494629,
+  "centroid": 1094.0822525192214,
+  "flatness": 0.0019722883589565754,
+  "sub100_share": 0.15983115136623383,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.9373278021812439,
+  "clean_share": 0.9497293116782676,
+  "minor_share": 0.0037961151939416293,
+  "chord_rate": 0.43328224336359433,
+  "repetitiveness": 0.6288368701934814,
+  "vocal_share": 0.08964778482913971,
+  "vocal_voiced": 0.8926553672316384,
+  "song_length": 317.427
+ }
+}

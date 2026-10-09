@@ -1,0 +1,127 @@
+{
+ "slug": "heathen",
+ "name": "Heathen",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 59865029,
+  "deezer": 56362,
+  "spotify": "3VD3oXiELCSHXzR4XXnlaF"
+ },
+ "metadata": {
+  "formed": 1984,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 20,
+  "full_lengths": 4,
+  "genre": "Technical Speed/Thrash Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 6344,
+  "themes": "Society, Politics, Religion, Death",
+  "release_year": 2015
+ },
+ "partial": false,
+ "clips": [
+  "heathen/1601044778-107",
+  "heathen/1515868490-106",
+  "heathen/1601044778-106",
+  "heathen/1515868490-107",
+  "heathen/1601044778-108",
+  "heathen/1515868490-105",
+  "heathen/1601044778-105",
+  "heathen/1515868490-108",
+  "heathen/1601044778-109",
+  "heathen/1515868490-104",
+  "heathen/1601044778-104",
+  "heathen/1515868490-109"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 99.38401442307692,
+   "iqr": 29.093449990203766
+  },
+  "onset_rate": {
+   "median": 2.6395741405227175,
+   "iqr": 0.9104860168258742
+  },
+  "tempo_var": {
+   "median": 15.272882221059033,
+   "iqr": 18.724653903560046
+  },
+  "low_onset_rate": {
+   "median": 2.0214460190079038,
+   "iqr": 1.2028439121369345
+  },
+  "lufs": {
+   "median": -11.001100688749949,
+   "iqr": 3.7569583112724096
+  },
+  "rms_dbfs": {
+   "median": -10.100639751461038,
+   "iqr": 4.054463493045667
+  },
+  "crest": {
+   "median": 10.100639343261719,
+   "iqr": 4.0544633865356445
+  },
+  "centroid": {
+   "median": 2529.6201225346877,
+   "iqr": 336.8877613108225
+  },
+  "flatness": {
+   "median": 0.02855762280523777,
+   "iqr": 0.014063343405723572
+  },
+  "sub100_share": {
+   "median": 0.35176225006580353,
+   "iqr": 0.1977652758359909
+  },
+  "lowest_pitch": {
+   "median": 52.4871826171875,
+   "iqr": 45.758056640625
+  },
+  "harmonic_share": {
+   "median": 0.8298413455486298,
+   "iqr": 0.11655773222446442
+  },
+  "clean_share": {
+   "median": 0.09542280837858805,
+   "iqr": 0.2829712955779674
+  },
+  "minor_share": {
+   "median": -0.030533141825838717,
+   "iqr": 0.19376224393585656
+  },
+  "chord_rate": {
+   "median": 1.5703795519565533,
+   "iqr": 0.5847157906221212
+  },
+  "repetitiveness": {
+   "median": 0.8801154792308807,
+   "iqr": 0.15732744336128235
+  },
+  "vocal_share": {
+   "median": 0.1579665243625641,
+   "iqr": 0.0
+  },
+  "vocal_voiced": {
+   "median": 0.9626865671641791,
+   "iqr": 0.0
+  },
+  "song_length": {
+   "median": 296.49350000000004,
+   "iqr": 138.48699999999997
+  },
+  "vocal_presence": {
+   "median": 0.08333333333333333,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "motley-crue/1606692937-107",
+ "band": "motley-crue",
+ "title": "Red Hot",
+ "source": "itunes",
+ "album": "Shout at the Devil",
+ "year": 1983,
+ "itunes_year": 1983,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.966576468987619,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.999894181493855,
+  "lufs": -8.38155926092502,
+  "rms_dbfs": -8.049584444042907,
+  "crest": 8.04958438873291,
+  "centroid": 2393.331361343346,
+  "flatness": 0.023909609764814377,
+  "sub100_share": 0.12314771115779877,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7906835079193115,
+  "clean_share": 0.017014694508894045,
+  "minor_share": -0.01310654042448084,
+  "chord_rate": 1.5999758129128812,
+  "repetitiveness": 0.8649399876594543,
+  "vocal_share": 0.15922720730304718,
+  "vocal_voiced": 0.6290018832391714,
+  "song_length": 201.4
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "burzum/286841886-104",
+ "band": "burzum",
+ "title": "Die liebe Nerpus",
+ "source": "itunes",
+ "album": "Hlidskjalf",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 67.99958881578948,
+  "onset_rate": 3.174171434805799,
+  "tempo_var": 30.27071639466588,
+  "low_onset_rate": 4.343603016050041,
+  "lufs": -12.315164472245153,
+  "rms_dbfs": -12.060656787745323,
+  "crest": 12.060656547546387,
+  "centroid": 1611.441296581995,
+  "flatness": 0.002133428119122982,
+  "sub100_share": 0.00023309906828217208,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.9706750512123108,
+  "clean_share": 0.8844065166795966,
+  "minor_share": 0.18197649074861344,
+  "chord_rate": 1.3030809048150125,
+  "repetitiveness": 0.7562094926834106,
+  "vocal_share": 1.961509724424104e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 134.733
+ }
+}

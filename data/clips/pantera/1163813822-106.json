@@ -1,0 +1,32 @@
+{
+ "id": "pantera/1163813822-106",
+ "band": "pantera",
+ "title": "Domination",
+ "source": "itunes",
+ "album": "Cowboys from Hell",
+ "year": 1990,
+ "itunes_year": 1990,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 2.69937973436187,
+  "tempo_var": 8.971132685594315,
+  "low_onset_rate": 3.032636491690496,
+  "lufs": -11.346690448210088,
+  "rms_dbfs": -11.854005138721948,
+  "crest": 11.854004859924316,
+  "centroid": 3571.4001570136948,
+  "flatness": 0.087675541639328,
+  "sub100_share": 0.14639611542224884,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.6468164920806885,
+  "clean_share": 0.009280742459396751,
+  "minor_share": 0.11659103113033598,
+  "chord_rate": 1.8329121653074425,
+  "repetitiveness": 0.8834171295166016,
+  "vocal_share": 0.1523711234331131,
+  "vocal_voiced": 0.32220609579100146,
+  "song_length": 304.732
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "iced-earth/1119632197-105",
+ "band": "iced-earth",
+ "title": "The Last Laugh",
+ "source": "itunes",
+ "album": "The Dark Saga",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 78.30255681818181,
+  "onset_rate": 5.096771659372219,
+  "tempo_var": 28.25870905739596,
+  "low_onset_rate": 7.861687003998979,
+  "lufs": -11.628419072017888,
+  "rms_dbfs": -10.588663407105868,
+  "crest": 10.588664054870605,
+  "centroid": 2509.7651048476146,
+  "flatness": 0.02595730684697628,
+  "sub100_share": 0.42496052384376526,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8095270395278931,
+  "clean_share": 0.08352668213457076,
+  "minor_share": -0.07389446087191603,
+  "chord_rate": 1.5656749541862371,
+  "repetitiveness": 0.9750534892082214,
+  "vocal_share": 0.05726643651723862,
+  "vocal_voiced": 0.24295774647887325,
+  "song_length": 226.6
+ }
+}

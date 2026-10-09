@@ -1,0 +1,32 @@
+{
+ "id": "therion/1490043541-106",
+ "band": "therion",
+ "title": "Ljusaflheim",
+ "source": "itunes",
+ "album": "Secret of the Runes",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 2.8666666666666667,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.466666666666667,
+  "lufs": -9.270974962650214,
+  "rms_dbfs": -8.670871668637556,
+  "crest": 8.67087173461914,
+  "centroid": 2347.44159014293,
+  "flatness": 0.023127036169171333,
+  "sub100_share": 0.342761754989624,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.8382517695426941,
+  "clean_share": 0.0781733746130031,
+  "minor_share": 0.06004484153171519,
+  "chord_rate": 1.0666666666666667,
+  "repetitiveness": 0.6361526250839233,
+  "vocal_share": 0.14962463080883026,
+  "vocal_voiced": 0.7257751937984496,
+  "song_length": 234.933
+ }
+}

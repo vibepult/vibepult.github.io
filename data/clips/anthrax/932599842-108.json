@@ -1,0 +1,32 @@
+{
+ "id": "anthrax/932599842-108",
+ "band": "anthrax",
+ "title": "American Pompeii",
+ "source": "itunes",
+ "album": "Stomp 442 (Deluxe Edition)",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 1.4367302283857828,
+  "tempo_var": 19.378118044008936,
+  "low_onset_rate": 4.644313994084275,
+  "lufs": -11.331629571901917,
+  "rms_dbfs": -12.084573229838023,
+  "crest": 12.084573745727539,
+  "centroid": 2786.877040264745,
+  "flatness": 0.035699471831321716,
+  "sub100_share": 0.24128317832946777,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6583725214004517,
+  "clean_share": 0.007757951900698216,
+  "minor_share": 0.1683703615263339,
+  "chord_rate": 2.2386261698104057,
+  "repetitiveness": 0.829903781414032,
+  "vocal_share": 0.22349947690963745,
+  "vocal_voiced": 0.5908163265306122,
+  "song_length": 330.267
+ }
+}

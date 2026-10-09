@@ -1,0 +1,125 @@
+{
+ "slug": "wolfsbane",
+ "name": "Wolfsbane",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 202357984,
+  "deezer": 661401,
+  "spotify": "58mY0RMBlQK2dW650Qeh9v"
+ },
+ "metadata": {
+  "formed": 1984,
+  "split": null,
+  "country": "GB",
+  "status": "active",
+  "members": 4,
+  "past_members": 2,
+  "full_lengths": 6,
+  "genre": "Heavy Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 867,
+  "themes": "Sex, Rock, Social, Personal, Humour",
+  "release_year": 2022
+ },
+ "partial": false,
+ "clips": [
+  "wolfsbane/1626121019-105",
+  "wolfsbane/1626121019-106",
+  "wolfsbane/1626121019-104",
+  "wolfsbane/1626121019-107",
+  "wolfsbane/1626121019-103",
+  "wolfsbane/1626121019-108",
+  "wolfsbane/1626121019-102",
+  "wolfsbane/1626121019-109",
+  "wolfsbane/1626121019-101",
+  "wolfsbane/1626121019-110"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.69701086956522,
+   "iqr": 57.1527099609375
+  },
+  "onset_rate": {
+   "median": 4.828081813994084,
+   "iqr": 1.044135340396644
+  },
+  "tempo_var": {
+   "median": 10.132751360902779,
+   "iqr": 18.984882278120168
+  },
+  "low_onset_rate": {
+   "median": 5.813745575328516,
+   "iqr": 1.1944908294137608
+  },
+  "lufs": {
+   "median": -6.365388860839958,
+   "iqr": 0.879090668464678
+  },
+  "rms_dbfs": {
+   "median": -5.972400656046755,
+   "iqr": 0.6676937429430314
+  },
+  "crest": {
+   "median": 5.972400426864624,
+   "iqr": 0.667694091796875
+  },
+  "centroid": {
+   "median": 2343.409366028784,
+   "iqr": 137.5084214391868
+  },
+  "flatness": {
+   "median": 0.027227293699979782,
+   "iqr": 0.007966618984937668
+  },
+  "sub100_share": {
+   "median": 0.23864249885082245,
+   "iqr": 0.0712035708129406
+  },
+  "lowest_pitch": {
+   "median": 48.44970703125,
+   "iqr": 16.14990234375
+  },
+  "harmonic_share": {
+   "median": 0.7531613409519196,
+   "iqr": 0.0645056962966919
+  },
+  "clean_share": {
+   "median": 0.022885958107059737,
+   "iqr": 0.04809930178432894
+  },
+  "minor_share": {
+   "median": -0.029704824608561997,
+   "iqr": 0.14663014158964252
+  },
+  "chord_rate": {
+   "median": 1.6204980482955924,
+   "iqr": 0.6849527833001989
+  },
+  "repetitiveness": {
+   "median": 0.8470350801944733,
+   "iqr": 0.08799181878566742
+  },
+  "vocal_share": {
+   "median": 0.25013818591833115,
+   "iqr": 0.07810554653406143
+  },
+  "vocal_voiced": {
+   "median": 0.76490307838242,
+   "iqr": 0.21560245406404377
+  },
+  "song_length": {
+   "median": 185.9385,
+   "iqr": 22.827499999999986
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

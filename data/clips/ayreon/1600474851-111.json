@@ -1,0 +1,32 @@
+{
+ "id": "ayreon/1600474851-111",
+ "band": "ayreon",
+ "title": "Day Eleven: Love",
+ "source": "itunes",
+ "album": "The Human Equation",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.0666481230650153,
+  "tempo_var": 2.913037706819595,
+  "low_onset_rate": 2.6666505417956654,
+  "lufs": -13.977774859463391,
+  "rms_dbfs": -13.461523111410497,
+  "crest": 13.461523056030273,
+  "centroid": 2407.1831763531322,
+  "flatness": 0.02687724679708481,
+  "sub100_share": 0.3025161623954773,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.8355333209037781,
+  "clean_share": 0.337200309358082,
+  "minor_share": -0.10123562206142234,
+  "chord_rate": 1.3666584026702786,
+  "repetitiveness": 0.7007516026496887,
+  "vocal_share": 0.001069913967512548,
+  "vocal_voiced": 0.8648648648648649,
+  "song_length": 258.08
+ }
+}

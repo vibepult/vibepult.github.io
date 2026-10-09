@@ -1,0 +1,127 @@
+{
+ "slug": "stryper",
+ "name": "Stryper",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 3296621,
+  "deezer": 16108,
+  "spotify": "6lE1ly8K8H7u8k2ej2plvv"
+ },
+ "metadata": {
+  "formed": 1983,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 4,
+  "past_members": 3,
+  "full_lengths": 17,
+  "genre": "Heavy Metal, Hard Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 43818,
+  "themes": "Christianity, Relationships, Love, Rock",
+  "release_year": 2014
+ },
+ "partial": false,
+ "clips": [
+  "stryper/1444186126-105",
+  "stryper/1443727717-106",
+  "stryper/78848100-106",
+  "stryper/1443631487-106",
+  "stryper/1443534228-107",
+  "stryper/1544936675-106",
+  "stryper/1677443951-106",
+  "stryper/1886157114-106",
+  "stryper/1516987654-106",
+  "stryper/1634682712-106",
+  "stryper/1753105419-106",
+  "stryper/1854187061-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 35.974347749502655
+  },
+  "onset_rate": {
+   "median": 3.742181059981574,
+   "iqr": 0.5106167455205397
+  },
+  "tempo_var": {
+   "median": 7.7938129636593505,
+   "iqr": 12.850512516300505
+  },
+  "low_onset_rate": {
+   "median": 4.57748933229889,
+   "iqr": 0.9005682100641765
+  },
+  "lufs": {
+   "median": -8.833004388689428,
+   "iqr": 2.8492801650898514
+  },
+  "rms_dbfs": {
+   "median": -8.520042930424777,
+   "iqr": 1.7652834406313245
+  },
+  "crest": {
+   "median": 8.520042896270752,
+   "iqr": 1.7652826309204102
+  },
+  "centroid": {
+   "median": 2752.593172033156,
+   "iqr": 256.7275960041229
+  },
+  "flatness": {
+   "median": 0.0398905947804451,
+   "iqr": 0.01556550757959485
+  },
+  "sub100_share": {
+   "median": 0.24158796668052673,
+   "iqr": 0.10807404667139053
+  },
+  "lowest_pitch": {
+   "median": 51.141357421875,
+   "iqr": 20.86029052734375
+  },
+  "harmonic_share": {
+   "median": 0.7069061100482941,
+   "iqr": 0.07590608298778534
+  },
+  "clean_share": {
+   "median": 0.013168703028963821,
+   "iqr": 0.041069145371298695
+  },
+  "minor_share": {
+   "median": 0.018499329734619152,
+   "iqr": 0.08021328621194151
+  },
+  "chord_rate": {
+   "median": 1.5870857174028996,
+   "iqr": 0.3126834900234017
+  },
+  "repetitiveness": {
+   "median": 0.8054684102535248,
+   "iqr": 0.0805475115776062
+  },
+  "vocal_share": {
+   "median": 0.258244127035141,
+   "iqr": 0.07786519825458527
+  },
+  "vocal_voiced": {
+   "median": 0.7851596203623814,
+   "iqr": 0.17030939707882964
+  },
+  "song_length": {
+   "median": 250.09050000000002,
+   "iqr": 26.658500000000004
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.8,
+  "camp": 0.6
+ },
+ "sources_failed": []
+}

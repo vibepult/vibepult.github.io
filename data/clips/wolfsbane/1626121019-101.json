@@ -1,0 +1,32 @@
+{
+ "id": "wolfsbane/1626121019-101",
+ "band": "wolfsbane",
+ "title": "Spit It Out",
+ "source": "itunes",
+ "album": "Genius (Wolfgenius)",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.513034597294284,
+  "tempo_var": 26.908718719792212,
+  "low_onset_rate": 7.684836105319304,
+  "lufs": -5.942683617946034,
+  "rms_dbfs": -5.288865724015279,
+  "crest": 5.288865566253662,
+  "centroid": 2520.1369725269656,
+  "flatness": 0.03299446031451225,
+  "sub100_share": 0.2767601013183594,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.6990877985954285,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.10318373176953177,
+  "chord_rate": 2.1049768462396354,
+  "repetitiveness": 0.8676614165306091,
+  "vocal_share": 0.2430964559316635,
+  "vocal_voiced": 0.525235243798118,
+  "song_length": 123.55
+ }
+}

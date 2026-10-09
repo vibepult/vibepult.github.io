@@ -1,0 +1,32 @@
+{
+ "id": "the-crown/56194227-106",
+ "band": "the-crown",
+ "title": "Rebel Angel",
+ "source": "itunes",
+ "album": "Deathrace King",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 4.71113865586966,
+  "tempo_var": 6.0378038568931585,
+  "low_onset_rate": 5.9473948988992875,
+  "lufs": -7.522348632895491,
+  "rms_dbfs": -7.704914277245805,
+  "crest": 7.7049150466918945,
+  "centroid": 2902.8832026952286,
+  "flatness": 0.058420151472091675,
+  "sub100_share": 0.2392757534980774,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7094138264656067,
+  "clean_share": 0.0,
+  "minor_share": 0.09614977149682646,
+  "chord_rate": 2.2720385007030983,
+  "repetitiveness": 0.8969016671180725,
+  "vocal_share": 0.14207562804222107,
+  "vocal_voiced": 0.02661290322580645,
+  "song_length": 261.4
+ }
+}

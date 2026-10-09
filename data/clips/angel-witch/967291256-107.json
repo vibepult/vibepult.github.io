@@ -1,0 +1,32 @@
+{
+ "id": "angel-witch/967291256-107",
+ "band": "angel-witch",
+ "title": "Guillotine",
+ "source": "itunes",
+ "album": "As Above, So Below",
+ "year": 2012,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.21232361926005,
+  "tempo_var": 7.272218239756942,
+  "low_onset_rate": 6.214693546040828,
+  "lufs": -7.183347212232752,
+  "rms_dbfs": -6.799316234839612,
+  "crest": 6.79931640625,
+  "centroid": 2628.355724822728,
+  "flatness": 0.03951118886470795,
+  "sub100_share": 0.37093859910964966,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7746297121047974,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": 0.39051555775963176,
+  "chord_rate": 1.9379151917761723,
+  "repetitiveness": 0.8685038685798645,
+  "vocal_share": 0.1820821315050125,
+  "vocal_voiced": 0.786697247706422,
+  "song_length": 413.707
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "hamatom",
+ "name": "Hämatom",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 154066010,
+  "deezer": 393876,
+  "spotify": "6vg9BW5gHSjidGbypXQku2"
+ },
+ "metadata": {
+  "formed": 2003,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 4,
+  "past_members": 1,
+  "full_lengths": 12,
+  "genre": "Nu-Metal (early); Melodic Groove Metal/Metalcore with Electronic elements (later)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 32054,
+  "themes": "Social issues, Anger",
+  "release_year": 2020
+ },
+ "partial": false,
+ "clips": [
+  "hamatom/1068944271-107",
+  "hamatom/1289608085-108",
+  "hamatom/1454786627-108",
+  "hamatom/1583739456-105",
+  "hamatom/1554999600-105",
+  "hamatom/1646593555-106",
+  "hamatom/1068944271-106",
+  "hamatom/1289608085-107",
+  "hamatom/1454786627-109",
+  "hamatom/1583739456-106",
+  "hamatom/1554999600-106",
+  "hamatom/1646593555-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 140.59914981617646,
+   "iqr": 28.952205882352928
+  },
+  "onset_rate": {
+   "median": 4.503480542906278,
+   "iqr": 2.0942242717291206
+  },
+  "tempo_var": {
+   "median": 11.77447737281928,
+   "iqr": 14.25966099105672
+  },
+  "low_onset_rate": {
+   "median": 4.610901663191582,
+   "iqr": 2.09762862653123
+  },
+  "lufs": {
+   "median": -8.282633422116492,
+   "iqr": 1.4449013184845736
+  },
+  "rms_dbfs": {
+   "median": -7.960682049748694,
+   "iqr": 1.4222075468990134
+  },
+  "crest": {
+   "median": 7.960682153701782,
+   "iqr": 1.4222074747085571
+  },
+  "centroid": {
+   "median": 2615.5494170291845,
+   "iqr": 220.99422527117167
+  },
+  "flatness": {
+   "median": 0.040908895432949066,
+   "iqr": 0.013590395450592041
+  },
+  "sub100_share": {
+   "median": 0.3134754002094269,
+   "iqr": 0.08602509275078773
+  },
+  "lowest_pitch": {
+   "median": 47.1038818359375,
+   "iqr": 16.14990234375
+  },
+  "harmonic_share": {
+   "median": 0.6391732096672058,
+   "iqr": 0.06491519510746002
+  },
+  "clean_share": {
+   "median": 0.01082753286929621,
+   "iqr": 0.030837858805275408
+  },
+  "minor_share": {
+   "median": -0.011315693696372475,
+   "iqr": 0.2377019694340688
+  },
+  "chord_rate": {
+   "median": 1.4331686929847405,
+   "iqr": 0.6000456109760874
+  },
+  "repetitiveness": {
+   "median": 0.8897427320480347,
+   "iqr": 0.08129967749118805
+  },
+  "vocal_share": {
+   "median": 0.23816516995429993,
+   "iqr": 0.1165413111448288
+  },
+  "vocal_voiced": {
+   "median": 0.12946912242686892,
+   "iqr": 0.24592449870540753
+  },
+  "song_length": {
+   "median": 200.978,
+   "iqr": 22.412000000000035
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.7,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

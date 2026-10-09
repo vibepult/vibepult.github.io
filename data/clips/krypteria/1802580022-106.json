@@ -1,0 +1,32 @@
+{
+ "id": "krypteria/1802580022-106",
+ "band": "krypteria",
+ "title": "Lost",
+ "source": "itunes",
+ "album": "Bloodangel's Cry",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 4.699928950431588,
+  "tempo_var": 16.47405927847251,
+  "low_onset_rate": 1.7999727895269915,
+  "lufs": -9.583826486685679,
+  "rms_dbfs": -8.600651871211381,
+  "crest": 8.600651741027832,
+  "centroid": 2378.046603884238,
+  "flatness": 0.024020623415708542,
+  "sub100_share": 0.3965061604976654,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7784422039985657,
+  "clean_share": 0.12761020881670534,
+  "minor_share": 0.18819715803518333,
+  "chord_rate": 1.7666399600913063,
+  "repetitiveness": 0.7981759309768677,
+  "vocal_share": 0.23124955594539642,
+  "vocal_voiced": 0.7756059421422987,
+  "song_length": 278.507
+ }
+}

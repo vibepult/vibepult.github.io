@@ -1,0 +1,32 @@
+{
+ "id": "gloryhammer/6782098667-107",
+ "band": "gloryhammer",
+ "title": "Warriors of Auchtermuchty",
+ "source": "itunes",
+ "album": "Space 1993: Wrath of Kor-Virliath",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 5.597943612550492,
+  "tempo_var": 29.925880727048597,
+  "low_onset_rate": 4.431705359935806,
+  "lufs": -8.553290432493409,
+  "rms_dbfs": -8.244290667888464,
+  "crest": 8.244291305541992,
+  "centroid": 2565.2706953293987,
+  "flatness": 0.042685430496931076,
+  "sub100_share": 0.3039642572402954,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7253333926200867,
+  "clean_share": 0.0,
+  "minor_share": -0.008650990347484067,
+  "chord_rate": 1.6660546465924082,
+  "repetitiveness": 0.9029601216316223,
+  "vocal_share": 0.218855619430542,
+  "vocal_voiced": 0.44883158742949236,
+  "song_length": 243.893
+ }
+}

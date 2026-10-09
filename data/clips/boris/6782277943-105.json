@@ -1,0 +1,32 @@
+{
+ "id": "boris/6782277943-105",
+ "band": "boris",
+ "title": "method of error",
+ "source": "itunes",
+ "album": "präparat",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 1.4999773246058261,
+  "tempo_var": 4.4104641227402235,
+  "low_onset_rate": 2.399963719369322,
+  "lufs": -10.04605826546304,
+  "rms_dbfs": -8.60782402292365,
+  "crest": 8.607824325561523,
+  "centroid": 1346.8873207692643,
+  "flatness": 0.0030911648645997047,
+  "sub100_share": 0.4000301659107208,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8781470060348511,
+  "clean_share": 0.7927300850734725,
+  "minor_share": -0.06273702527528024,
+  "chord_rate": 1.2666475185560309,
+  "repetitiveness": 0.8968689441680908,
+  "vocal_share": 7.880980774643831e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 435.787
+ }
+}

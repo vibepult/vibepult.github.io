@@ -1,0 +1,32 @@
+{
+ "id": "hellyeah/1692927127-107",
+ "band": "hellyeah",
+ "title": "Blood Plague",
+ "source": "itunes",
+ "album": "Unden!Able",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 2.4333186193885448,
+  "tempo_var": 28.97489810595333,
+  "low_onset_rate": 1.299992139125387,
+  "lufs": -7.574384400456443,
+  "rms_dbfs": -6.519838355236093,
+  "crest": 6.519837856292725,
+  "centroid": 2401.5211143637084,
+  "flatness": 0.027351632714271545,
+  "sub100_share": 0.38024815917015076,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.8648242354393005,
+  "clean_share": 0.07811291569992267,
+  "minor_share": -0.04637570726632628,
+  "chord_rate": 1.466657797987616,
+  "repetitiveness": 0.7600129246711731,
+  "vocal_share": 0.009533108212053776,
+  "vocal_voiced": 0.0,
+  "song_length": 237.129
+ }
+}

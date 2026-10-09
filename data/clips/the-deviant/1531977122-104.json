@@ -1,0 +1,32 @@
+{
+ "id": "the-deviant/1531977122-104",
+ "band": "the-deviant",
+ "title": "Immolate",
+ "source": "itunes",
+ "album": "Lightning Bolts",
+ "year": 2017,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.412797604616205,
+  "tempo_var": 8.705437975913897,
+  "low_onset_rate": 4.71113865586966,
+  "lufs": -11.276282356835413,
+  "rms_dbfs": -10.942844634173156,
+  "crest": 10.942845344543457,
+  "centroid": 2695.5741475562327,
+  "flatness": 0.02399159036576748,
+  "sub100_share": 0.3557317554950714,
+  "lowest_pitch": 115.740966796875,
+  "harmonic_share": 0.8206073641777039,
+  "clean_share": 0.14197051978277736,
+  "minor_share": -0.019031151342583263,
+  "chord_rate": 2.205213838917713,
+  "repetitiveness": 0.8000105023384094,
+  "vocal_share": 0.024165330454707146,
+  "vocal_voiced": 0.24742268041237114,
+  "song_length": 312.703
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "stryper/1444186126-105",
+ "band": "stryper",
+ "title": "The Writings On the Wall",
+ "source": "itunes",
+ "album": "In God We Trust",
+ "year": 1988,
+ "itunes_year": 1988,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 4.933258756481384,
+  "tempo_var": 14.70232555739273,
+  "low_onset_rate": 5.666581004066455,
+  "lufs": -14.114343424952596,
+  "rms_dbfs": -14.547955934895768,
+  "crest": 13.687942504882812,
+  "centroid": 3023.9036762323685,
+  "flatness": 0.04912928491830826,
+  "sub100_share": 0.19978919625282288,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.769018292427063,
+  "clean_share": 0.008507347254447023,
+  "minor_share": 0.014615918245030168,
+  "chord_rate": 2.0999682544481564,
+  "repetitiveness": 0.8783852458000183,
+  "vocal_share": 0.34450194239616394,
+  "vocal_voiced": 0.9391304347826087,
+  "song_length": 256.267
+ }
+}

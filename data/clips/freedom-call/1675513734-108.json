@@ -1,0 +1,32 @@
+{
+ "id": "freedom-call/1675513734-108",
+ "band": "freedom-call",
+ "title": "The Darkness",
+ "source": "itunes",
+ "album": "Legend of the Shadowking",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.207583765698492,
+  "tempo_var": 7.560108727985658,
+  "low_onset_rate": 4.443840008728119,
+  "lufs": -9.700214111050224,
+  "rms_dbfs": -9.389461755733405,
+  "crest": 9.389461517333984,
+  "centroid": 2568.6546552576315,
+  "flatness": 0.03359536826610565,
+  "sub100_share": 0.2661914825439453,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.7417454123497009,
+  "clean_share": 0.04965089216446858,
+  "minor_share": 0.17118507897249047,
+  "chord_rate": 1.0357822576734714,
+  "repetitiveness": 0.7614023089408875,
+  "vocal_share": 0.17924349009990692,
+  "vocal_voiced": 0.6424010217113666,
+  "song_length": 305.627
+ }
+}

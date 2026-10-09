@@ -1,0 +1,127 @@
+{
+ "slug": "tersivel",
+ "name": "Tersivel",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1180259395,
+  "deezer": 11440956,
+  "spotify": "34ezOg9ZEcpw8lAFDQgmcO"
+ },
+ "metadata": {
+  "formed": 2004,
+  "split": null,
+  "country": "AR",
+  "status": "active",
+  "members": 3,
+  "past_members": 16,
+  "full_lengths": 3,
+  "genre": "Symphonic Power/Folk Metal (early); Pagan Death/Doom Metal (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 112,
+  "themes": "Fantasy, Mythology, Roman Paganism, Philosophy",
+  "release_year": 2017
+ },
+ "partial": false,
+ "clips": [
+  "tersivel/1180259394-106",
+  "tersivel/1301081760-107",
+  "tersivel/1599516223-103",
+  "tersivel/1180259394-107",
+  "tersivel/1301081760-105",
+  "tersivel/1599516223-104",
+  "tersivel/1180259394-105",
+  "tersivel/1301081760-108",
+  "tersivel/1599516223-102",
+  "tersivel/1180259394-108",
+  "tersivel/1301081760-104",
+  "tersivel/1599516223-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 132.59919819078948,
+   "iqr": 56.088461894762844
+  },
+  "onset_rate": {
+   "median": 3.4080577510546477,
+   "iqr": 1.4534363938321295
+  },
+  "tempo_var": {
+   "median": 12.44430012266806,
+   "iqr": 14.438966818388026
+  },
+  "low_onset_rate": {
+   "median": 4.5106646705135045,
+   "iqr": 1.653910379188285
+  },
+  "lufs": {
+   "median": -9.23635149374494,
+   "iqr": 1.5666634694779926
+  },
+  "rms_dbfs": {
+   "median": -8.792269157035397,
+   "iqr": 2.4049204149540966
+  },
+  "crest": {
+   "median": 8.792269229888916,
+   "iqr": 2.404919385910034
+  },
+  "centroid": {
+   "median": 2400.901483031408,
+   "iqr": 290.9475927513281
+  },
+  "flatness": {
+   "median": 0.023220423609018326,
+   "iqr": 0.020669064484536648
+  },
+  "sub100_share": {
+   "median": 0.2981325089931488,
+   "iqr": 0.19388359412550926
+  },
+  "lowest_pitch": {
+   "median": 64.599609375,
+   "iqr": 39.0289306640625
+  },
+  "harmonic_share": {
+   "median": 0.827989399433136,
+   "iqr": 0.10412369668483734
+  },
+  "clean_share": {
+   "median": 0.07098525989138868,
+   "iqr": 0.4094259115593483
+  },
+  "minor_share": {
+   "median": -0.033151679062435324,
+   "iqr": 0.197308346006356
+  },
+  "chord_rate": {
+   "median": 1.2529624084759736,
+   "iqr": 0.5680096251757747
+  },
+  "repetitiveness": {
+   "median": 0.7614490687847137,
+   "iqr": 0.12753333151340485
+  },
+  "vocal_share": {
+   "median": 0.13707035779953003,
+   "iqr": 0.1104825884103775
+  },
+  "vocal_voiced": {
+   "median": 0.7531806615776081,
+   "iqr": 0.3164521252637319
+  },
+  "song_length": {
+   "median": 322.95799999999997,
+   "iqr": 171.89325000000002
+  },
+  "vocal_presence": {
+   "median": 0.4166666666666667,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "dickless-tracy",
+ "name": "Dickless Tracy",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1590745092,
+  "deezer": 5463104,
+  "spotify": "76y8dPpmMXtRurz7VVuZjm"
+ },
+ "metadata": {
+  "formed": 1997,
+  "split": null,
+  "country": "SI",
+  "status": "active",
+  "members": 4,
+  "past_members": 10,
+  "full_lengths": 5,
+  "genre": "Grindcore/Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 32,
+  "themes": "Reality's horrors, Extinction of mankind",
+  "release_year": 2014
+ },
+ "partial": false,
+ "clips": [
+  "dickless-tracy/1591063330-105",
+  "dickless-tracy/1804176498-106",
+  "dickless-tracy/1590748541-105",
+  "dickless-tracy/1591063330-106",
+  "dickless-tracy/1804176498-105",
+  "dickless-tracy/1590748541-104",
+  "dickless-tracy/1591063330-104",
+  "dickless-tracy/1804176498-107",
+  "dickless-tracy/1590748541-106",
+  "dickless-tracy/1591063330-107",
+  "dickless-tracy/1804176498-104",
+  "dickless-tracy/1590748541-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 156.74905215992646,
+   "iqr": 45.420238170546554
+  },
+  "onset_rate": {
+   "median": 6.047631891577366,
+   "iqr": 0.8469595031437391
+  },
+  "tempo_var": {
+   "median": 18.33248919582083,
+   "iqr": 11.035442124792862
+  },
+  "low_onset_rate": {
+   "median": 6.682466178538524,
+   "iqr": 1.5148111332007952
+  },
+  "lufs": {
+   "median": -8.35226538269766,
+   "iqr": 2.0485986073231084
+  },
+  "rms_dbfs": {
+   "median": -7.498069104471903,
+   "iqr": 1.8070189645317472
+  },
+  "crest": {
+   "median": 7.498068809509277,
+   "iqr": 1.8070189952850342
+  },
+  "centroid": {
+   "median": 2629.486509709973,
+   "iqr": 407.9680406364023
+  },
+  "flatness": {
+   "median": 0.03221381362527609,
+   "iqr": 0.012067944277077913
+  },
+  "sub100_share": {
+   "median": 0.3939460963010788,
+   "iqr": 0.18117821589112282
+  },
+  "lowest_pitch": {
+   "median": 51.141357421875,
+   "iqr": 13.458251953125
+  },
+  "harmonic_share": {
+   "median": 0.7575887441635132,
+   "iqr": 0.05431957542896271
+  },
+  "clean_share": {
+   "median": 0.018619084561675717,
+   "iqr": 0.045072529644743446
+  },
+  "minor_share": {
+   "median": 0.03656210937516263,
+   "iqr": 0.14499654819716506
+  },
+  "chord_rate": {
+   "median": 2.1718015080250206,
+   "iqr": 0.5847157906221208
+  },
+  "repetitiveness": {
+   "median": 0.8872394859790802,
+   "iqr": 0.07164324820041656
+  },
+  "vocal_share": {
+   "median": 0.06305583752691746,
+   "iqr": 0.05460011772811413
+  },
+  "vocal_voiced": {
+   "median": 0.0,
+   "iqr": 0.060321827722502386
+  },
+  "song_length": {
+   "median": 284.0535,
+   "iqr": 94.68674999999996
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.6
+ },
+ "sources_failed": []
+}

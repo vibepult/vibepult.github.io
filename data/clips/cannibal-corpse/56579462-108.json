@@ -1,0 +1,32 @@
+{
+ "id": "cannibal-corpse/56579462-108",
+ "band": "cannibal-corpse",
+ "title": "Unite the Dead",
+ "source": "itunes",
+ "album": "Gallery of Suicide",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 6.133240616166045,
+  "tempo_var": 9.148965488089052,
+  "low_onset_rate": 9.233193753684752,
+  "lufs": -9.47028851307312,
+  "rms_dbfs": -8.323225777729908,
+  "crest": 8.323225975036621,
+  "centroid": 2383.4473996915826,
+  "flatness": 0.025299072265625,
+  "sub100_share": 0.4164569079875946,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8064804077148438,
+  "clean_share": 0.005413766434648105,
+  "minor_share": 0.05641591846572863,
+  "chord_rate": 2.799957672597542,
+  "repetitiveness": 0.9628857970237732,
+  "vocal_share": 0.15731346607208252,
+  "vocal_voiced": 0.6408888888888888,
+  "song_length": 185.333
+ }
+}

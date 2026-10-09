@@ -1,0 +1,32 @@
+{
+ "id": "carcass/42159460-107",
+ "band": "carcass",
+ "title": "Polarized",
+ "source": "itunes",
+ "album": "Swansong",
+ "year": 1996,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.599915345195084,
+  "tempo_var": 4.090014369683414,
+  "low_onset_rate": 7.199891158107966,
+  "lufs": -7.487860967256263,
+  "rms_dbfs": -6.829794668184007,
+  "crest": 6.829794883728027,
+  "centroid": 2742.4784993008616,
+  "flatness": 0.0430702343583107,
+  "sub100_share": 0.2980852425098419,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7424637079238892,
+  "clean_share": 0.05877803557617943,
+  "minor_share": 0.1969682100109041,
+  "chord_rate": 2.366630889933637,
+  "repetitiveness": 0.8798452019691467,
+  "vocal_share": 0.06844352930784225,
+  "vocal_voiced": 0.08940719144800778,
+  "song_length": 241.573
+ }
+}

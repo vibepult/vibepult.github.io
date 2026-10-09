@@ -1,0 +1,32 @@
+{
+ "id": "accept/1456957927-107",
+ "band": "accept",
+ "title": "Time Machine",
+ "source": "itunes",
+ "album": "Blood of the Nations",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.166647518382353,
+  "tempo_var": 3.1365847018296584,
+  "low_onset_rate": 0.7666620307662538,
+  "lufs": -14.530290959254199,
+  "rms_dbfs": -13.418974047744012,
+  "crest": 13.418973922729492,
+  "centroid": 1408.7289277884408,
+  "flatness": 0.00756275886669755,
+  "sub100_share": 0.511753261089325,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.9580439925193787,
+  "clean_share": 0.8221191028615623,
+  "minor_share": -0.030055204338502728,
+  "chord_rate": 0.9999939531733746,
+  "repetitiveness": 0.9293360114097595,
+  "vocal_share": 5.066681296739262e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 324.56
+ }
+}

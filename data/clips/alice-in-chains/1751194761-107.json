@@ -1,0 +1,32 @@
+{
+ "id": "alice-in-chains/1751194761-107",
+ "band": "alice-in-chains",
+ "title": "Low Ceiling",
+ "source": "itunes",
+ "album": "The Devil Put Dinosaurs Here",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.297716773571737,
+  "tempo_var": 26.34398295875003,
+  "low_onset_rate": 6.495502735823119,
+  "lufs": -8.318168216287775,
+  "rms_dbfs": -7.855528899060963,
+  "crest": 7.855528831481934,
+  "centroid": 2288.833184659571,
+  "flatness": 0.022401103749871254,
+  "sub100_share": 0.2438703030347824,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.8075464367866516,
+  "clean_share": 0.09744779582366589,
+  "minor_share": 0.11059226231279395,
+  "chord_rate": 1.0659286540837938,
+  "repetitiveness": 0.7311397790908813,
+  "vocal_share": 0.1975976675748825,
+  "vocal_voiced": 0.6841201716738198,
+  "song_length": 315.17
+ }
+}

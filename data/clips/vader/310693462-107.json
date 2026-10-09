@@ -1,0 +1,32 @@
+{
+ "id": "vader/310693462-107",
+ "band": "vader",
+ "title": "Reign Carrion",
+ "source": "itunes",
+ "album": "The Ultimate Incantation",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.310190685157349,
+  "tempo_var": 18.532295868844308,
+  "low_onset_rate": 7.116826480143529,
+  "lufs": -14.583669747709648,
+  "rms_dbfs": -13.976835683570716,
+  "crest": 13.976836204528809,
+  "centroid": 2773.417211332267,
+  "flatness": 0.033720534294843674,
+  "sub100_share": 0.4101877212524414,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8202818036079407,
+  "clean_share": 0.07602792862684252,
+  "minor_share": -0.04742016236783131,
+  "chord_rate": 1.3030809048150125,
+  "repetitiveness": 0.9124912023544312,
+  "vocal_share": 7.251650094985962e-05,
+  "vocal_voiced": 0.0,
+  "song_length": 408.973
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "danzig/1440885708-106",
+ "band": "danzig",
+ "title": "Her Black Wings",
+ "source": "itunes",
+ "album": "Danzig II: Lucifuge",
+ "year": 1990,
+ "itunes_year": 1990,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.2332844552614475,
+  "tempo_var": 14.793191819028332,
+  "low_onset_rate": 5.733246662937824,
+  "lufs": -10.182794288408605,
+  "rms_dbfs": -9.509262289485227,
+  "crest": 9.509262084960938,
+  "centroid": 2208.5333208160496,
+  "flatness": 0.020860455930233,
+  "sub100_share": 0.355552613735199,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7849658727645874,
+  "clean_share": 0.2273781902552204,
+  "minor_share": 0.1730556257383022,
+  "chord_rate": 2.0999682544481564,
+  "repetitiveness": 0.7744682431221008,
+  "vocal_share": 0.23362088203430176,
+  "vocal_voiced": 0.85,
+  "song_length": 287.064
+ }
+}

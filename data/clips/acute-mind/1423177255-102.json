@@ -1,0 +1,32 @@
+{
+ "id": "acute-mind/1423177255-102",
+ "band": "acute-mind",
+ "title": "Garden",
+ "source": "itunes",
+ "album": "Acute Mind",
+ "year": 2011,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 3.2744084274838774,
+  "tempo_var": 25.315310012102916,
+  "low_onset_rate": 3.9760673762304224,
+  "lufs": -9.833298405119502,
+  "rms_dbfs": -9.302424835128864,
+  "crest": 9.302424430847168,
+  "centroid": 2010.501405359617,
+  "flatness": 0.02091498114168644,
+  "sub100_share": 0.3502207100391388,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7700814604759216,
+  "clean_share": 0.3840186190845617,
+  "minor_share": 0.04769234113214926,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.6213422417640686,
+  "vocal_share": 0.02865365333855152,
+  "vocal_voiced": 0.9130434782608695,
+  "song_length": 388.12
+ }
+}

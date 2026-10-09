@@ -1,0 +1,32 @@
+{
+ "id": "windhand/676466174-104",
+ "band": "windhand",
+ "title": "Evergreen",
+ "source": "itunes",
+ "album": "Soma",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 78.30255681818181,
+  "onset_rate": 2.0666354250124717,
+  "tempo_var": 37.33960917737612,
+  "low_onset_rate": 4.499931973817478,
+  "lufs": -13.06691697888867,
+  "rms_dbfs": -11.947380905916658,
+  "crest": 11.947380065917969,
+  "centroid": 1116.3093132627303,
+  "flatness": 0.00175223418045789,
+  "sub100_share": 0.08563937991857529,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.9619092345237732,
+  "clean_share": 0.9412219644238206,
+  "minor_share": -0.18689878401170656,
+  "chord_rate": 0.9333192241991807,
+  "repetitiveness": 0.6237369179725647,
+  "vocal_share": 0.07283428311347961,
+  "vocal_voiced": 0.7517337031900139,
+  "song_length": 416.573
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "ktulu/282482074-107",
+ "band": "ktulu",
+ "title": "Por Mi",
+ "source": "itunes",
+ "album": "Show Canibal",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 6.61564151675314,
+  "tempo_var": 8.88539766163848,
+  "low_onset_rate": 6.248105876933521,
+  "lufs": -7.448546652511207,
+  "rms_dbfs": -7.428267288642055,
+  "crest": 7.428267478942871,
+  "centroid": 2372.874163165832,
+  "flatness": 0.033214129507541656,
+  "sub100_share": 0.16661185026168823,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.5927293300628662,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.18246097645628911,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.8212113976478577,
+  "vocal_share": 0.30122944712638855,
+  "vocal_voiced": 0.19658119658119658,
+  "song_length": 263.6
+ }
+}

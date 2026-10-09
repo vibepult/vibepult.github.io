@@ -1,0 +1,32 @@
+{
+ "id": "l-homme-absurde/1784099436-104",
+ "band": "l-homme-absurde",
+ "title": "Separation",
+ "source": "itunes",
+ "album": "Belong",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.7308588402740215,
+  "tempo_var": 28.74077705285276,
+  "low_onset_rate": 5.330545172139742,
+  "lufs": -11.337340354553994,
+  "rms_dbfs": -10.341789526025627,
+  "crest": 10.341789245605469,
+  "centroid": 2233.676868527579,
+  "flatness": 0.011408857069909573,
+  "sub100_share": 0.24270787835121155,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.7835059762001038,
+  "clean_share": 0.42691415313225056,
+  "minor_share": 0.27941646348271815,
+  "chord_rate": 1.8990067175747833,
+  "repetitiveness": 0.7304019927978516,
+  "vocal_share": 3.328869695451431e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 313.412
+ }
+}

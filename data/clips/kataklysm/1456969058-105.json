@@ -1,0 +1,32 @@
+{
+ "id": "kataklysm/1456969058-105",
+ "band": "kataklysm",
+ "title": "The Night They Returned",
+ "source": "itunes",
+ "album": "Serenity in Fire",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 1.3030809048150125,
+  "tempo_var": 5.387186523033894,
+  "low_onset_rate": 0.3675356398196189,
+  "lufs": -7.093880262458888,
+  "rms_dbfs": -6.426813131830614,
+  "crest": 6.42681360244751,
+  "centroid": 2682.5957219307993,
+  "flatness": 0.032746780663728714,
+  "sub100_share": 0.5026502013206482,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.808834969997406,
+  "clean_share": 0.021722265321955005,
+  "minor_share": 0.09877815534883005,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.9887319803237915,
+  "vocal_share": 8.441663226221863e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 233.187
+ }
+}

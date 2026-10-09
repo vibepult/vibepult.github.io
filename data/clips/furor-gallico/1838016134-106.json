@@ -1,0 +1,32 @@
+{
+ "id": "furor-gallico/1838016134-106",
+ "band": "furor-gallico",
+ "title": "Golden Spiral",
+ "source": "itunes",
+ "album": "Furor Gallico",
+ "year": 2010,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 2.13326883540936,
+  "tempo_var": 29.47658404168175,
+  "low_onset_rate": 7.866428830572016,
+  "lufs": -15.786771723305941,
+  "rms_dbfs": -16.566330613723544,
+  "crest": 15.21784782409668,
+  "centroid": 1167.7849595613586,
+  "flatness": 0.0004138737276662141,
+  "sub100_share": 0.057525634765625,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.9853491187095642,
+  "clean_share": 0.9868522815158546,
+  "minor_share": 0.08985215990719131,
+  "chord_rate": 1.199963719917765,
+  "repetitiveness": 0.7738264203071594,
+  "vocal_share": 2.711610932237818e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 155.227
+ }
+}

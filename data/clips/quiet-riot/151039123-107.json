@@ -1,0 +1,32 @@
+{
+ "id": "quiet-riot/151039123-107",
+ "band": "quiet-riot",
+ "title": "Too Much Information",
+ "source": "itunes",
+ "album": "Alive and Well",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.7755933908742665,
+  "tempo_var": 2.7872263090146787,
+  "low_onset_rate": 5.680096251757746,
+  "lufs": -10.396259847201057,
+  "rms_dbfs": -9.425775035702445,
+  "crest": 9.425774574279785,
+  "centroid": 2753.863093713598,
+  "flatness": 0.0379914715886116,
+  "sub100_share": 0.5500092506408691,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.6254043579101562,
+  "clean_share": 0.09154383242823895,
+  "minor_share": -0.0549651291719323,
+  "chord_rate": 2.138389177132328,
+  "repetitiveness": 0.8959713578224182,
+  "vocal_share": 0.09259149432182312,
+  "vocal_voiced": 0.6770025839793282,
+  "song_length": 268.237
+ }
+}

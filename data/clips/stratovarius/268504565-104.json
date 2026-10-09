@@ -1,0 +1,32 @@
+{
+ "id": "stratovarius/268504565-104",
+ "band": "stratovarius",
+ "title": "Witch Hunt",
+ "source": "itunes",
+ "album": "Fright Night",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.405687824273869,
+  "tempo_var": 27.04786530076695,
+  "low_onset_rate": 5.847157906221209,
+  "lufs": -10.20696647283448,
+  "rms_dbfs": -10.105878563154242,
+  "crest": 10.105877876281738,
+  "centroid": 2803.8047757956915,
+  "flatness": 0.04101316258311272,
+  "sub100_share": 0.3031969666481018,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.6726549863815308,
+  "clean_share": 0.037238169123351435,
+  "minor_share": 0.16453613239148568,
+  "chord_rate": 2.7398111332007953,
+  "repetitiveness": 0.9282476305961609,
+  "vocal_share": 0.20189838111400604,
+  "vocal_voiced": 0.40823970037453183,
+  "song_length": 199.387
+ }
+}

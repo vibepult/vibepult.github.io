@@ -1,0 +1,32 @@
+{
+ "id": "edenbridge/1708137865-105",
+ "band": "edenbridge",
+ "title": "Into a Sea of Souls",
+ "source": "itunes",
+ "album": "The Bonding",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 73.828125,
+  "onset_rate": 3.699944067361038,
+  "tempo_var": 12.750323011863873,
+  "low_onset_rate": 1.8999712778340465,
+  "lufs": -14.669007252860965,
+  "rms_dbfs": -13.679362561597294,
+  "crest": 13.679362297058105,
+  "centroid": 2082.271692043765,
+  "flatness": 0.007256675511598587,
+  "sub100_share": 0.32984980940818787,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.9326928853988647,
+  "clean_share": 0.6241299303944315,
+  "minor_share": 0.028682870632989688,
+  "chord_rate": 1.233314689120346,
+  "repetitiveness": 0.7836776375770569,
+  "vocal_share": 0.20677994191646576,
+  "vocal_voiced": 0.9258037922506183,
+  "song_length": 298.75
+ }
+}

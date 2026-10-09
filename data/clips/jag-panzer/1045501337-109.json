@@ -1,0 +1,32 @@
+{
+ "id": "jag-panzer/1045501337-109",
+ "band": "jag-panzer",
+ "title": "Hell to Pay",
+ "source": "itunes",
+ "album": "Thane to the Throne",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.009479707123115,
+  "tempo_var": 11.550615939445416,
+  "low_onset_rate": 4.443840008728119,
+  "lufs": -10.843465018033,
+  "rms_dbfs": -10.652966139553822,
+  "crest": 10.652966499328613,
+  "centroid": 2926.9152930671726,
+  "flatness": 0.04194590449333191,
+  "sub100_share": 0.23434005677700043,
+  "lowest_pitch": 123.81591796875,
+  "harmonic_share": 0.6532677412033081,
+  "clean_share": 0.0069821567106283944,
+  "minor_share": -0.24353239078089617,
+  "chord_rate": 1.871090529990787,
+  "repetitiveness": 0.8428305387496948,
+  "vocal_share": 0.12083768844604492,
+  "vocal_voiced": 0.7058823529411765,
+  "song_length": 271.627
+ }
+}

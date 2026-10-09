@@ -1,0 +1,32 @@
+{
+ "id": "alcest/1556065979-104",
+ "band": "alcest",
+ "title": "Nous Sommes l'emeraude",
+ "source": "itunes",
+ "album": "Les Voyages De l'âme",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.6332784084896677,
+  "tempo_var": 9.438483295689728,
+  "low_onset_rate": 4.566597632688849,
+  "lufs": -8.914598938135077,
+  "rms_dbfs": -8.754135391881999,
+  "crest": 8.754135131835938,
+  "centroid": 2132.4194372603743,
+  "flatness": 0.017068319022655487,
+  "sub100_share": 0.1114862710237503,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8736734986305237,
+  "clean_share": 0.0448569218870843,
+  "minor_share": -0.1796806367393191,
+  "chord_rate": 1.0666505419419208,
+  "repetitiveness": 0.7614551186561584,
+  "vocal_share": 0.1912122517824173,
+  "vocal_voiced": 0.9432565789473685,
+  "song_length": 260.387
+ }
+}

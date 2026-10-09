@@ -1,0 +1,32 @@
+{
+ "id": "van-canto/1184691319-106",
+ "band": "van-canto",
+ "title": "Shes Alive",
+ "source": "itunes",
+ "album": "A Storm to Come",
+ "year": 2006,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 5.3,
+  "tempo_var": 9.112898638760905,
+  "low_onset_rate": 10.5,
+  "lufs": -11.238776123033906,
+  "rms_dbfs": -10.647561651072056,
+  "crest": 10.647562026977539,
+  "centroid": 2094.6029580619784,
+  "flatness": 0.016899319365620613,
+  "sub100_share": 0.22475840151309967,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7943717837333679,
+  "clean_share": 0.04643962848297214,
+  "minor_share": 0.09482413260466038,
+  "chord_rate": 1.2,
+  "repetitiveness": 0.8631694316864014,
+  "vocal_share": 0.5097832083702087,
+  "vocal_voiced": 0.3978328173374613,
+  "song_length": 252.88
+ }
+}

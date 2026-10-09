@@ -1,0 +1,32 @@
+{
+ "id": "turisas/1045281090-103",
+ "band": "turisas",
+ "title": "Cursed Be Iron",
+ "source": "itunes",
+ "album": "The Varangian Way",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.79759456972832,
+  "tempo_var": 6.5918245986085395,
+  "low_onset_rate": 5.929577486067026,
+  "lufs": -14.18368288984433,
+  "rms_dbfs": -13.399442884654572,
+  "crest": 13.399443626403809,
+  "centroid": 1853.3059507320893,
+  "flatness": 0.010509266518056393,
+  "sub100_share": 0.3160947263240814,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8588416576385498,
+  "clean_share": 0.6697602474864656,
+  "minor_share": -0.01129383815382945,
+  "chord_rate": 1.2325526235083144,
+  "repetitiveness": 0.8568632006645203,
+  "vocal_share": 0.369747519493103,
+  "vocal_voiced": 0.8357862122385747,
+  "song_length": 303.507
+ }
+}

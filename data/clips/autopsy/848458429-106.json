@@ -1,0 +1,32 @@
+{
+ "id": "autopsy/848458429-106",
+ "band": "autopsy",
+ "title": "Forever Hungry",
+ "source": "itunes",
+ "album": "Tourniquets, Hacksaws & Graves",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 6.8829401638946806,
+  "tempo_var": 14.02899231558881,
+  "low_onset_rate": 7.083414149250837,
+  "lufs": -8.820794537912208,
+  "rms_dbfs": -8.739239285649955,
+  "crest": 8.739239692687988,
+  "centroid": 2700.4570594704624,
+  "flatness": 0.041244085878133774,
+  "sub100_share": 0.2685220241546631,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.7486075162887573,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": -0.13785386915229703,
+  "chord_rate": 2.9736974494496438,
+  "repetitiveness": 0.9437701106071472,
+  "vocal_share": 0.07783916592597961,
+  "vocal_voiced": 0.10178117048346055,
+  "song_length": 280.311
+ }
+}

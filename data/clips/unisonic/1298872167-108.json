@@ -1,0 +1,32 @@
+{
+ "id": "unisonic/1298872167-108",
+ "band": "unisonic",
+ "title": "My Sanctuary",
+ "source": "itunes",
+ "album": "Unisonic",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.945024972118508,
+  "tempo_var": 25.62155805516585,
+  "low_onset_rate": 4.410427677835426,
+  "lufs": -7.414566014612032,
+  "rms_dbfs": -7.422660792351526,
+  "crest": 7.422661304473877,
+  "centroid": 2581.3214596440757,
+  "flatness": 0.03561451658606529,
+  "sub100_share": 0.1600276082754135,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6754434108734131,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.2724032682972636,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.8389967679977417,
+  "vocal_share": 0.2933497726917267,
+  "vocal_voiced": 0.780016792611251,
+  "song_length": 256.04
+ }
+}

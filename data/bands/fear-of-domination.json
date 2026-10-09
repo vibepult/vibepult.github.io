@@ -1,0 +1,127 @@
+{
+ "slug": "fear-of-domination",
+ "name": "Fear of Domination",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 315775925,
+  "deezer": 802449,
+  "spotify": "4KmUqzBGTHWlO46RpvMBUq"
+ },
+ "metadata": {
+  "formed": 2006,
+  "split": null,
+  "country": "FI",
+  "status": "active",
+  "members": 7,
+  "past_members": 6,
+  "full_lengths": 7,
+  "genre": "Electronic/Melodic Groove Metal/Metalcore",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 1942,
+  "themes": "Sex, Perversions, Difficulties of life",
+  "release_year": 2015
+ },
+ "partial": false,
+ "clips": [
+  "fear-of-domination/1055617427-105",
+  "fear-of-domination/1056632411-105",
+  "fear-of-domination/814307816-106",
+  "fear-of-domination/1108039649-106",
+  "fear-of-domination/1675993168-105",
+  "fear-of-domination/1672173179-105",
+  "fear-of-domination/1862112115-105",
+  "fear-of-domination/1055617427-104",
+  "fear-of-domination/1056632411-104",
+  "fear-of-domination/814307816-105",
+  "fear-of-domination/1108039649-105",
+  "fear-of-domination/1675993168-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 107.85326086956522,
+   "iqr": 62.11500901442308
+  },
+  "onset_rate": {
+   "median": 3.3913515856083016,
+   "iqr": 1.595438800126073
+  },
+  "tempo_var": {
+   "median": 13.5720731811004,
+   "iqr": 8.531961093814779
+  },
+  "low_onset_rate": {
+   "median": 5.379385273723512,
+   "iqr": 3.7254748945352283
+  },
+  "lufs": {
+   "median": -9.267958376313349,
+   "iqr": 2.75148753292612
+  },
+  "rms_dbfs": {
+   "median": -8.638596707266515,
+   "iqr": 2.625396923411186
+  },
+  "crest": {
+   "median": 8.638597011566162,
+   "iqr": 2.625396966934204
+  },
+  "centroid": {
+   "median": 2663.119930583628,
+   "iqr": 447.3295695561487
+  },
+  "flatness": {
+   "median": 0.04147897660732269,
+   "iqr": 0.025472396984696388
+  },
+  "sub100_share": {
+   "median": 0.40956471860408783,
+   "iqr": 0.20881341397762299
+  },
+  "lowest_pitch": {
+   "median": 57.8704833984375,
+   "iqr": 18.841552734375
+  },
+  "harmonic_share": {
+   "median": 0.7802512347698212,
+   "iqr": 0.1256595253944397
+  },
+  "clean_share": {
+   "median": 0.009689333656781483,
+   "iqr": 0.057408844065166796
+  },
+  "minor_share": {
+   "median": 0.062400854947503026,
+   "iqr": 0.23717289849316883
+  },
+  "chord_rate": {
+   "median": 1.2863747393686662,
+   "iqr": 0.7574051120108617
+  },
+  "repetitiveness": {
+   "median": 0.9128701388835907,
+   "iqr": 0.09243489801883698
+  },
+  "vocal_share": {
+   "median": 0.14729560166597366,
+   "iqr": 0.12708179838955402
+  },
+  "vocal_voiced": {
+   "median": 0.39784459533838157,
+   "iqr": 0.17796978136191632
+  },
+  "song_length": {
+   "median": 260.2735,
+   "iqr": 72.40699999999998
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

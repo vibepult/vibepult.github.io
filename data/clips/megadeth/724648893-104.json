@@ -1,0 +1,32 @@
+{
+ "id": "megadeth/724648893-104",
+ "band": "megadeth",
+ "title": "Five Magics",
+ "source": "itunes",
+ "album": "Rust In Peace",
+ "year": 1990,
+ "itunes_year": 1990,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.333267826639053,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.099938020589258,
+  "lufs": -17.884137354115044,
+  "rms_dbfs": -16.984411355770213,
+  "crest": 16.394948959350586,
+  "centroid": 2336.301951485447,
+  "flatness": 0.017123520374298096,
+  "sub100_share": 0.2520429491996765,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6113196015357971,
+  "clean_share": 0.15699922660479504,
+  "minor_share": 0.18222736599900002,
+  "chord_rate": 2.366630889933637,
+  "repetitiveness": 0.8076776266098022,
+  "vocal_share": 1.1098204595327843e-05,
+  "vocal_voiced": 0.0,
+  "song_length": 342.827
+ }
+}

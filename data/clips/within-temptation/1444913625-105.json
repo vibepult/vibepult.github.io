@@ -1,0 +1,32 @@
+{
+ "id": "within-temptation/1444913625-105",
+ "band": "within-temptation",
+ "title": "Holy Ground",
+ "source": "itunes",
+ "album": "Resist (Extended Deluxe)",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.5332799201826126,
+  "tempo_var": 9.038960167035134,
+  "low_onset_rate": 4.399933485510424,
+  "lufs": -9.272805386911989,
+  "rms_dbfs": -8.970263333859094,
+  "crest": 8.970263481140137,
+  "centroid": 2606.8916322313567,
+  "flatness": 0.04319816455245018,
+  "sub100_share": 0.2641233205795288,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.743079662322998,
+  "clean_share": 0.04949729311678268,
+  "minor_share": 0.1380167293496719,
+  "chord_rate": 0.9999848830705508,
+  "repetitiveness": 0.7395719885826111,
+  "vocal_share": 0.2411666214466095,
+  "vocal_voiced": 0.7246713070378964,
+  "song_length": 250.813
+ }
+}

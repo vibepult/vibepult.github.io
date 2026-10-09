@@ -1,0 +1,32 @@
+{
+ "id": "sybreed/549110258-107",
+ "band": "sybreed",
+ "title": "Downfall Inc.",
+ "source": "itunes",
+ "album": "God Is an Automaton",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 6.014219560684673,
+  "tempo_var": 14.553974712318304,
+  "low_onset_rate": 6.448579862289677,
+  "lufs": -8.807649856328407,
+  "rms_dbfs": -7.939655187766222,
+  "crest": 7.939655303955078,
+  "centroid": 2586.976302409964,
+  "flatness": 0.03229162096977234,
+  "sub100_share": 0.3854552209377289,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.787483274936676,
+  "clean_share": 0.022498060512024826,
+  "minor_share": 0.029271050689054112,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.9231812357902527,
+  "vocal_share": 0.0917215421795845,
+  "vocal_voiced": 0.6090651558073654,
+  "song_length": 300.933
+ }
+}

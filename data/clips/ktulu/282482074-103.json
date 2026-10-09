@@ -1,0 +1,32 @@
+{
+ "id": "ktulu/282482074-103",
+ "band": "ktulu",
+ "title": "Superpredador",
+ "source": "itunes",
+ "album": "Show Canibal",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 6.047631891577365,
+  "tempo_var": 16.536155684269513,
+  "low_onset_rate": 6.715878509431217,
+  "lufs": -7.229698360936747,
+  "rms_dbfs": -7.038390761350558,
+  "crest": 7.038390636444092,
+  "centroid": 2220.1174509330363,
+  "flatness": 0.023271756246685982,
+  "sub100_share": 0.22669240832328796,
+  "lowest_pitch": 24.224853515625,
+  "harmonic_share": 0.6420061588287354,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": 0.069878423605098,
+  "chord_rate": 2.0047398535615577,
+  "repetitiveness": 0.9543863534927368,
+  "vocal_share": 0.16765254735946655,
+  "vocal_voiced": 0.04246284501061571,
+  "song_length": 212.453
+ }
+}

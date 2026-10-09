@@ -1,0 +1,32 @@
+{
+ "id": "alice-in-chains/274953009-107",
+ "band": "alice-in-chains",
+ "title": "It Ain't Like That",
+ "source": "itunes",
+ "album": "Facelift",
+ "year": 1990,
+ "itunes_year": 1990,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.564408938253774,
+  "tempo_var": 3.7435610882122163,
+  "low_onset_rate": 3.2312866075758513,
+  "lufs": -12.791963984460603,
+  "rms_dbfs": -12.22764274997854,
+  "crest": 12.227642059326172,
+  "centroid": 2410.1345607927515,
+  "flatness": 0.02385566011071205,
+  "sub100_share": 0.2285108119249344,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.6980858445167542,
+  "clean_share": 0.1430781129156999,
+  "minor_share": 0.221287999478555,
+  "chord_rate": 2.4317930139488366,
+  "repetitiveness": 0.8742231726646423,
+  "vocal_share": 0.17625375092029572,
+  "vocal_voiced": 0.6379647749510763,
+  "song_length": 277.693
+ }
+}

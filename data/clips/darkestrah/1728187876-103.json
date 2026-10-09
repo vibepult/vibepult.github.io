@@ -1,0 +1,32 @@
+{
+ "id": "darkestrah/1728187876-103",
+ "band": "darkestrah",
+ "title": "Nomad",
+ "source": "itunes",
+ "album": "Nomad",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.099876043052364,
+  "tempo_var": 6.334586980613086,
+  "low_onset_rate": 7.633102551699117,
+  "lufs": -9.277095551730918,
+  "rms_dbfs": -9.18797831620911,
+  "crest": 9.18797779083252,
+  "centroid": 2441.1135467156864,
+  "flatness": 0.029790401458740234,
+  "sub100_share": 0.15433253347873688,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7790541052818298,
+  "clean_share": 0.0,
+  "minor_share": 0.03782399976230888,
+  "chord_rate": 0.6999788366186963,
+  "repetitiveness": 0.8624081015586853,
+  "vocal_share": 0.08715897053480148,
+  "vocal_voiced": 0.8567493112947658,
+  "song_length": 569.137
+ }
+}

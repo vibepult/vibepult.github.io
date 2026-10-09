@@ -1,0 +1,32 @@
+{
+ "id": "zyklon/1660354283-105",
+ "band": "zyklon",
+ "title": "A Cold Grave",
+ "source": "itunes",
+ "album": "Disintegrate",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.312560611938127,
+  "tempo_var": 8.816666032729476,
+  "low_onset_rate": 8.252845730495078,
+  "lufs": -6.860885947441731,
+  "rms_dbfs": -6.957820737179956,
+  "crest": 6.957821369171143,
+  "centroid": 2780.2069596524725,
+  "flatness": 0.0433582179248333,
+  "sub100_share": 0.22835944592952728,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8071275949478149,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": -0.1122661987271456,
+  "chord_rate": 1.1026069194588566,
+  "repetitiveness": 0.8482916951179504,
+  "vocal_share": 0.06104181334376335,
+  "vocal_voiced": 0.11205432937181664,
+  "song_length": 280.773
+ }
+}

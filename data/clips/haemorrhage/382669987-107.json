@@ -1,0 +1,32 @@
+{
+ "id": "haemorrhage/382669987-107",
+ "band": "haemorrhage",
+ "title": "Decom-Posers",
+ "source": "itunes",
+ "album": "Grume (Reissue)",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 5.880570237113902,
+  "tempo_var": 16.348081774064024,
+  "low_onset_rate": 7.851897759782767,
+  "lufs": -7.87734821320971,
+  "rms_dbfs": -7.9762031300370575,
+  "crest": 7.976202964782715,
+  "centroid": 3062.2866517542957,
+  "flatness": 0.050460685044527054,
+  "sub100_share": 0.11116736382246017,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.798417329788208,
+  "clean_share": 0.0069821567106283944,
+  "minor_share": 0.02004992477117301,
+  "chord_rate": 2.505924816951947,
+  "repetitiveness": 0.8909489512443542,
+  "vocal_share": 0.08611202985048294,
+  "vocal_voiced": 0.1569767441860465,
+  "song_length": 175.787
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "iron-monkey/1732418472-104",
+ "band": "iron-monkey",
+ "title": "666 Pack",
+ "source": "itunes",
+ "album": "Iron Monkey",
+ "year": 1996,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.8332753851037777,
+  "tempo_var": 4.706060153200577,
+  "low_onset_rate": 7.933213405693036,
+  "lufs": -13.227798454699801,
+  "rms_dbfs": -11.86390727552763,
+  "crest": 11.863907814025879,
+  "centroid": 2167.608549217738,
+  "flatness": 0.013234859332442284,
+  "sub100_share": 0.5080554485321045,
+  "lowest_pitch": 29.608154296875,
+  "harmonic_share": 0.7810797095298767,
+  "clean_share": 0.20804331013147717,
+  "minor_share": -0.08560568589264828,
+  "chord_rate": 1.333313177427401,
+  "repetitiveness": 0.8940983414649963,
+  "vocal_share": 6.990696874709101e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 450.093
+ }
+}

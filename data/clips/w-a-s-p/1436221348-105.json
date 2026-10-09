@@ -1,0 +1,32 @@
+{
+ "id": "w-a-s-p/1436221348-105",
+ "band": "w-a-s-p",
+ "title": "Charisma",
+ "source": "itunes",
+ "album": "Unholy Terror",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.009479707123115,
+  "tempo_var": 18.7868935490777,
+  "low_onset_rate": 4.610901663191583,
+  "lufs": -9.53041646152048,
+  "rms_dbfs": -9.493908685321044,
+  "crest": 9.493908882141113,
+  "centroid": 2644.0928875202526,
+  "flatness": 0.03608030825853348,
+  "sub100_share": 0.21219412982463837,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6820778846740723,
+  "clean_share": 0.02482544608223429,
+  "minor_share": 0.016017486170931794,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.9196764826774597,
+  "vocal_share": 0.3256060779094696,
+  "vocal_voiced": 0.7244157937147462,
+  "song_length": 325.827
+ }
+}

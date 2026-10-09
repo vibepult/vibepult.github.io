@@ -1,0 +1,127 @@
+{
+ "slug": "amebix",
+ "name": "Amebix",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 13419672,
+  "deezer": 421698,
+  "spotify": "6tUC9fQSG7uqbzUy9AJ1NY"
+ },
+ "metadata": {
+  "formed": 1979,
+  "split": 2012,
+  "country": "GB",
+  "status": "split-up",
+  "members": 3,
+  "past_members": 10,
+  "full_lengths": 3,
+  "genre": "Crust Punk/Thrash Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 2308,
+  "themes": "Society, Politics, Doomsday, Apocalypse, Anti-religion",
+  "release_year": 1987
+ },
+ "partial": false,
+ "clips": [
+  "amebix/1137704553-106",
+  "amebix/304405531-105",
+  "amebix/1220823490-106",
+  "amebix/1137704553-105",
+  "amebix/304405531-104",
+  "amebix/1220823490-105",
+  "amebix/1137704553-107",
+  "amebix/304405531-106",
+  "amebix/1220823490-107",
+  "amebix/1137704553-104",
+  "amebix/304405531-103",
+  "amebix/1220823490-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 38.87939453125
+  },
+  "onset_rate": {
+   "median": 4.594195497745236,
+   "iqr": 1.871090529990787
+  },
+  "tempo_var": {
+   "median": 5.655852885000446,
+   "iqr": 7.259312489103317
+  },
+  "low_onset_rate": {
+   "median": 5.579859259079669,
+   "iqr": 3.6837094809193625
+  },
+  "lufs": {
+   "median": -12.370939300769908,
+   "iqr": 6.823166742461789
+  },
+  "rms_dbfs": {
+   "median": -11.754362740274,
+   "iqr": 6.87823988207278
+  },
+  "crest": {
+   "median": 11.7543625831604,
+   "iqr": 5.942165374755859
+  },
+  "centroid": {
+   "median": 2151.6826876550886,
+   "iqr": 331.5414247749327
+  },
+  "flatness": {
+   "median": 0.01809481345117092,
+   "iqr": 0.008083685068413615
+  },
+  "sub100_share": {
+   "median": 0.2274400293827057,
+   "iqr": 0.17348477989435196
+  },
+  "lowest_pitch": {
+   "median": 68.6370849609375,
+   "iqr": 34.31854248046875
+  },
+  "harmonic_share": {
+   "median": 0.8062705099582672,
+   "iqr": 0.06093563139438629
+  },
+  "clean_share": {
+   "median": 0.1264546159813809,
+   "iqr": 0.36501163692785105
+  },
+  "minor_share": {
+   "median": 0.02094787694438227,
+   "iqr": 0.17985147280072106
+  },
+  "chord_rate": {
+   "median": 1.5035548901711682,
+   "iqr": 0.6765997005770257
+  },
+  "repetitiveness": {
+   "median": 0.9123497605323792,
+   "iqr": 0.07265906035900116
+  },
+  "vocal_share": {
+   "median": 0.12594826519489288,
+   "iqr": 0.12363292276859283
+  },
+  "vocal_voiced": {
+   "median": 0.39798850574712646,
+   "iqr": 0.28290777019590585
+  },
+  "song_length": {
+   "median": 270.5,
+   "iqr": 83.56550000000001
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

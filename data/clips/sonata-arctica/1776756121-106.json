@@ -1,0 +1,32 @@
+{
+ "id": "sonata-arctica/1776756121-106",
+ "band": "sonata-arctica",
+ "title": "Who Failed the Most",
+ "source": "itunes",
+ "album": "Talviyö",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.133333333333334,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.033333333333333,
+  "lufs": -9.472745968941595,
+  "rms_dbfs": -9.18668715954972,
+  "crest": 9.186687469482422,
+  "centroid": 2191.7133721468776,
+  "flatness": 0.02350637875497341,
+  "sub100_share": 0.21200235188007355,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.7227064371109009,
+  "clean_share": 0.020123839009287926,
+  "minor_share": -0.19254257116060147,
+  "chord_rate": 1.5666666666666667,
+  "repetitiveness": 0.7905970811843872,
+  "vocal_share": 0.21386322379112244,
+  "vocal_voiced": 0.7711442786069652,
+  "song_length": 284.067
+ }
+}

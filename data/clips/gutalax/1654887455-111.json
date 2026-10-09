@@ -1,0 +1,32 @@
+{
+ "id": "gutalax/1654887455-111",
+ "band": "gutalax",
+ "title": "Shit Hit",
+ "source": "itunes",
+ "album": "The Shitpendables",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.847157906221209,
+  "tempo_var": 10.004856968374927,
+  "low_onset_rate": 8.052371745138922,
+  "lufs": -6.746414433130156,
+  "rms_dbfs": -6.275531129270691,
+  "crest": 6.275531768798828,
+  "centroid": 2495.4016896741286,
+  "flatness": 0.032938968390226364,
+  "sub100_share": 0.39667147397994995,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7702524065971375,
+  "clean_share": 0.0,
+  "minor_share": 0.02238866292107594,
+  "chord_rate": 2.3054508315957913,
+  "repetitiveness": 0.9260927438735962,
+  "vocal_share": 0.07535671442747116,
+  "vocal_voiced": 0.4765714285714286,
+  "song_length": 169.733
+ }
+}

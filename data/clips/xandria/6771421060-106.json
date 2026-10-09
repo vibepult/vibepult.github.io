@@ -1,0 +1,32 @@
+{
+ "id": "xandria/6771421060-106",
+ "band": "xandria",
+ "title": "Wave of Tanis",
+ "source": "itunes",
+ "album": "Eclipse",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.4999848829334366,
+  "tempo_var": 2.5755849465016993,
+  "low_onset_rate": 5.166635424729102,
+  "lufs": -13.165578892566522,
+  "rms_dbfs": -14.084428568753893,
+  "crest": 14.084428787231445,
+  "centroid": 1921.267621919025,
+  "flatness": 0.01886100135743618,
+  "sub100_share": 0.2917299270629883,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.7304283976554871,
+  "clean_share": 0.36040216550657383,
+  "minor_share": 0.1478724433263493,
+  "chord_rate": 1.5999903250773995,
+  "repetitiveness": 0.8789305090904236,
+  "vocal_share": 0.3376407325267792,
+  "vocal_voiced": 0.2848101265822785,
+  "song_length": 298.733
+ }
+}

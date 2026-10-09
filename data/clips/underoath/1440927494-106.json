@@ -1,0 +1,32 @@
+{
+ "id": "underoath/1440927494-106",
+ "band": "underoath",
+ "title": "Sink With You",
+ "source": "itunes",
+ "album": "Erase Me",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.4665840274523445,
+  "tempo_var": 9.588138285905039,
+  "low_onset_rate": 5.499916856888029,
+  "lufs": -9.772041773298124,
+  "rms_dbfs": -8.728232081479458,
+  "crest": 8.728232383728027,
+  "centroid": 2348.024644844132,
+  "flatness": 0.0194378849118948,
+  "sub100_share": 0.3966417610645294,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7247083783149719,
+  "clean_share": 0.12761020881670534,
+  "minor_share": 0.2626905204913332,
+  "chord_rate": 1.7333071306556214,
+  "repetitiveness": 0.7504761815071106,
+  "vocal_share": 0.17067092657089233,
+  "vocal_voiced": 0.7049689440993789,
+  "song_length": 284.745
+ }
+}

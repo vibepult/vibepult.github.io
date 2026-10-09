@@ -1,0 +1,32 @@
+{
+ "id": "alkonost/1547390089-105",
+ "band": "alkonost",
+ "title": "Парус",
+ "source": "itunes",
+ "album": "Ведомые Ветром",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.143129030693886,
+  "tempo_var": 7.895444924496824,
+  "low_onset_rate": 8.386495054065849,
+  "lufs": -23.292144525714793,
+  "rms_dbfs": -23.62471888148825,
+  "crest": 18.040922164916992,
+  "centroid": 2378.5261081958593,
+  "flatness": 0.022936813533306122,
+  "sub100_share": 0.0019384851912036538,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.8102871775627136,
+  "clean_share": 0.23816912335143522,
+  "minor_share": 0.058281766262025525,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.7672731876373291,
+  "vocal_share": 0.48379459977149963,
+  "vocal_voiced": 0.8605817452357071,
+  "song_length": 271.802
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "liquid-tension-experiment/151252913-106",
+ "band": "liquid-tension-experiment",
+ "title": "Chris and Kevin's Excellent Adventure",
+ "source": "itunes",
+ "album": "Liquid Tension Experiment",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.666666666666667,
+  "tempo_var": 38.8845812325603,
+  "low_onset_rate": 3.3333333333333335,
+  "lufs": -11.429907339395681,
+  "rms_dbfs": -10.584946514308822,
+  "crest": 10.584946632385254,
+  "centroid": 2426.6978008079172,
+  "flatness": 0.029033076018095016,
+  "sub100_share": 0.26346325874328613,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.5941278338432312,
+  "clean_share": 0.2917956656346749,
+  "minor_share": 0.07331922412361408,
+  "chord_rate": 2.3333333333333335,
+  "repetitiveness": 0.806916356086731,
+  "vocal_share": 2.19784988075844e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 141.867
+ }
+}

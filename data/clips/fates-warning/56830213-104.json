@@ -1,0 +1,32 @@
+{
+ "id": "fates-warning/56830213-104",
+ "band": "fates-warning",
+ "title": "The Eleventh Hour",
+ "source": "itunes",
+ "album": "Parallels",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.0739344421277215,
+  "tempo_var": 17.679779729137742,
+  "low_onset_rate": 4.076304368908501,
+  "lufs": -17.57749735214444,
+  "rms_dbfs": -16.76173210477476,
+  "crest": 14.488324165344238,
+  "centroid": 1783.1476072607204,
+  "flatness": 0.005960782058537006,
+  "sub100_share": 0.17820031940937042,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.9523081183433533,
+  "clean_share": 0.6144297905352987,
+  "minor_share": -0.08575220429336217,
+  "chord_rate": 0.9689575958880862,
+  "repetitiveness": 0.5844628810882568,
+  "vocal_share": 0.25521376729011536,
+  "vocal_voiced": 0.7212121212121212,
+  "song_length": 491.907
+ }
+}

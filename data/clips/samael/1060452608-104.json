@@ -1,0 +1,32 @@
+{
+ "id": "samael/1060452608-104",
+ "band": "samael",
+ "title": "Morbid Metal",
+ "source": "itunes",
+ "album": "Worship Him",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 6.649053847645832,
+  "tempo_var": 4.040661456038576,
+  "low_onset_rate": 5.9473948988992875,
+  "lufs": -8.988277687958567,
+  "rms_dbfs": -9.979376543420845,
+  "crest": 9.979376792907715,
+  "centroid": 3734.129418134586,
+  "flatness": 0.09970050305128098,
+  "sub100_share": 0.1433245688676834,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6305631995201111,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": -0.1529280343658177,
+  "chord_rate": 1.3030809048150125,
+  "repetitiveness": 0.8383039236068726,
+  "vocal_share": 0.0788368359208107,
+  "vocal_voiced": 0.46366782006920415,
+  "song_length": 294.747
+ }
+}

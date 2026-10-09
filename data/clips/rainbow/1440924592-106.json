@@ -1,0 +1,32 @@
+{
+ "id": "rainbow/1440924592-106",
+ "band": "rainbow",
+ "title": "The Temple of the King",
+ "source": "itunes",
+ "album": "Ritchie Blackmore's Rainbow",
+ "year": 1975,
+ "itunes_year": 1975,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 3.999939532282203,
+  "tempo_var": 30.06439938211652,
+  "low_onset_rate": 3.599945579053983,
+  "lufs": -13.535044028661472,
+  "rms_dbfs": -13.03999949848184,
+  "crest": 13.039999008178711,
+  "centroid": 1803.7550359787294,
+  "flatness": 0.009200864471495152,
+  "sub100_share": 0.12305157631635666,
+  "lowest_pitch": 148.040771484375,
+  "harmonic_share": 0.6168845295906067,
+  "clean_share": 0.608662026295437,
+  "minor_share": 0.06390477241717296,
+  "chord_rate": 0.7666550770207556,
+  "repetitiveness": 0.7821112275123596,
+  "vocal_share": 0.4466191232204437,
+  "vocal_voiced": 0.6577851790174855,
+  "song_length": 282.013
+ }
+}

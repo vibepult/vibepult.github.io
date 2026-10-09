@@ -1,0 +1,32 @@
+{
+ "id": "teitanblood/1482838282-108",
+ "band": "teitanblood",
+ "title": "The Baneful Choir",
+ "source": "itunes",
+ "album": "The Baneful Choir",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.143129030693886,
+  "tempo_var": 8.534532147913374,
+  "low_onset_rate": 9.15497866459778,
+  "lufs": -17.273085531992628,
+  "rms_dbfs": -15.81857495424931,
+  "crest": 14.61591625213623,
+  "centroid": 608.584265899809,
+  "flatness": 0.0001188626338262111,
+  "sub100_share": 0.36152246594429016,
+  "lowest_pitch": 99.591064453125,
+  "harmonic_share": 0.9212579727172852,
+  "clean_share": 1.0,
+  "minor_share": -0.06542749763467082,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.8267924189567566,
+  "vocal_share": 7.998259548003261e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 529.32
+ }
+}

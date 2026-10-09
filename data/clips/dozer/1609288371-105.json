@@ -1,0 +1,32 @@
+{
+ "id": "dozer/1609288371-105",
+ "band": "dozer",
+ "title": "Days of Future Past",
+ "source": "itunes",
+ "album": "Through the Eyes of Heathens",
+ "year": 2005,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.0428920380158075,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.0428920380158075,
+  "lufs": -23.22977898356956,
+  "rms_dbfs": -24.40429745394175,
+  "crest": 20.384862899780273,
+  "centroid": 2007.6182732544012,
+  "flatness": 0.010281169787049294,
+  "sub100_share": 1.3946613762527704e-05,
+  "lowest_pitch": 196.490478515625,
+  "harmonic_share": 0.7897953987121582,
+  "clean_share": 0.6819239720713731,
+  "minor_share": -0.013699207589584206,
+  "chord_rate": 0.8353082723173156,
+  "repetitiveness": 0.7735042572021484,
+  "vocal_share": 0.6671433448791504,
+  "vocal_voiced": 0.9483695652173914,
+  "song_length": 225.213
+ }
+}

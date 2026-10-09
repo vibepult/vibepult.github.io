@@ -1,0 +1,32 @@
+{
+ "id": "epidemia/1625910043-106",
+ "band": "epidemia",
+ "title": "На пороге ада",
+ "source": "itunes",
+ "album": "Эльфийская рукопись",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.9760673762304224,
+  "tempo_var": 13.707930587622908,
+  "low_onset_rate": 5.078674295689279,
+  "lufs": -10.317265046947659,
+  "rms_dbfs": -9.941513783197994,
+  "crest": 9.941513061523438,
+  "centroid": 2507.6696661188553,
+  "flatness": 0.025447050109505653,
+  "sub100_share": 0.27175503969192505,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.8274232149124146,
+  "clean_share": 0.01474010861132661,
+  "minor_share": 0.2602770252052432,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.747901976108551,
+  "vocal_share": 0.039773400872945786,
+  "vocal_voiced": 0.44357976653696496,
+  "song_length": 389.013
+ }
+}

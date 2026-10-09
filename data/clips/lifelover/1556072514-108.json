@@ -1,0 +1,32 @@
+{
+ "id": "lifelover/1556072514-108",
+ "band": "lifelover",
+ "title": "Horans Hora",
+ "source": "itunes",
+ "album": "Sjukdom",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.599945579053983,
+  "tempo_var": 2.7806407186008184,
+  "low_onset_rate": 6.63323305770132,
+  "lufs": -7.539288966734497,
+  "rms_dbfs": -7.006603307731107,
+  "crest": 7.006602764129639,
+  "centroid": 2228.3240545927724,
+  "flatness": 0.021647680550813675,
+  "sub100_share": 0.14778999984264374,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.8613987565040588,
+  "clean_share": 0.08816705336426914,
+  "minor_share": 0.2151437401045646,
+  "chord_rate": 1.333313177427401,
+  "repetitiveness": 0.7439520955085754,
+  "vocal_share": 0.13249583542346954,
+  "vocal_voiced": 0.18501529051987767,
+  "song_length": 378.587
+ }
+}

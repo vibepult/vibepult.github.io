@@ -1,0 +1,32 @@
+{
+ "id": "toluca/1435125975-105",
+ "band": "toluca",
+ "title": "Vine",
+ "source": "itunes",
+ "album": "Memoria",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.1407591039131066,
+  "tempo_var": 13.978591992345338,
+  "low_onset_rate": 3.842418052659652,
+  "lufs": -13.54537850038214,
+  "rms_dbfs": -12.18732450959362,
+  "crest": 12.187324523925781,
+  "centroid": 1262.9966020538302,
+  "flatness": 0.004782058298587799,
+  "sub100_share": 0.5368181467056274,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.8452025651931763,
+  "clean_share": 0.7548487199379363,
+  "minor_share": 0.08616311152569228,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.8150361776351929,
+  "vocal_share": 3.6287383409217e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 235.373
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "deicide/214483523-104",
+ "band": "deicide",
+ "title": "Trifixion",
+ "source": "itunes",
+ "album": "Legion",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 6.3817552005042915,
+  "tempo_var": 1.8838983429317633,
+  "low_onset_rate": 10.458059569412791,
+  "lufs": -9.58707222758208,
+  "rms_dbfs": -9.376399476274637,
+  "crest": 9.376399993896484,
+  "centroid": 2973.801816537461,
+  "flatness": 0.04726708307862282,
+  "sub100_share": 0.35314908623695374,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.7737171053886414,
+  "clean_share": 0.0,
+  "minor_share": 0.059657864555917955,
+  "chord_rate": 2.5393371478446394,
+  "repetitiveness": 0.9779958724975586,
+  "vocal_share": 0.1777503937482834,
+  "vocal_voiced": 0.06635071090047394,
+  "song_length": 177.96
+ }
+}

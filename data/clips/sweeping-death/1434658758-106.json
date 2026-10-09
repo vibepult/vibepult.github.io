@@ -1,0 +1,32 @@
+{
+ "id": "sweeping-death/1434658758-106",
+ "band": "sweeping-death",
+ "title": "Resonanz",
+ "source": "itunes",
+ "album": "In Lucid",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 4.744550986762353,
+  "tempo_var": 25.283758909196205,
+  "low_onset_rate": 4.677726324976968,
+  "lufs": -9.317471773421904,
+  "rms_dbfs": -8.995813113653025,
+  "crest": 8.995813369750977,
+  "centroid": 2851.8865222067448,
+  "flatness": 0.04380684718489647,
+  "sub100_share": 0.3253268003463745,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7332518696784973,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.17129334303051913,
+  "chord_rate": 1.7374412064200164,
+  "repetitiveness": 0.8723131418228149,
+  "vocal_share": 0.2510629892349243,
+  "vocal_voiced": 0.8409756097560975,
+  "song_length": 369.733
+ }
+}

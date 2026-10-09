@@ -1,0 +1,32 @@
+{
+ "id": "dark-moor/1615077513-106",
+ "band": "dark-moor",
+ "title": "Flying",
+ "source": "itunes",
+ "album": "Shadowland",
+ "year": 1999,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 7.8184854288900745,
+  "tempo_var": 1.6075024425786395,
+  "low_onset_rate": 8.152608737817001,
+  "lufs": -12.254169209669156,
+  "rms_dbfs": -11.668175511946583,
+  "crest": 11.66817569732666,
+  "centroid": 2107.2493650711644,
+  "flatness": 0.015566477552056313,
+  "sub100_share": 0.20127160847187042,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7763651013374329,
+  "clean_share": 0.11093871217998448,
+  "minor_share": 0.31360441299764064,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.8543776273727417,
+  "vocal_share": 1.37178824388684e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 400.467
+ }
+}

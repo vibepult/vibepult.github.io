@@ -1,0 +1,32 @@
+{
+ "id": "taake/1624634110-104",
+ "band": "taake",
+ "title": "Du Ville Ville Vestland",
+ "source": "itunes",
+ "album": "Noregs Vaapen",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 0.8687206032100082,
+  "tempo_var": 24.74773050407507,
+  "low_onset_rate": 4.945024972118508,
+  "lufs": -8.866543936870583,
+  "rms_dbfs": -8.33480023170284,
+  "crest": 8.334800720214844,
+  "centroid": 2801.3279483918736,
+  "flatness": 0.05579283460974693,
+  "sub100_share": 0.4450386166572571,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6266038417816162,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": -0.02412177793465109,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.9203734397888184,
+  "vocal_share": 7.158148491726024e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 410.72
+ }
+}

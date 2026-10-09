@@ -1,0 +1,32 @@
+{
+ "id": "nemesea/1468373465-108",
+ "band": "nemesea",
+ "title": "Nothing Like Me",
+ "source": "itunes",
+ "album": "White Flag",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.4999667424535605,
+  "tempo_var": 23.37610546759537,
+  "low_onset_rate": 5.466633610681114,
+  "lufs": -9.777005369475534,
+  "rms_dbfs": -8.218350272982544,
+  "crest": 8.218350410461426,
+  "centroid": 2148.7525072316466,
+  "flatness": 0.015158778056502342,
+  "sub100_share": 0.6422435641288757,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8658233880996704,
+  "clean_share": 0.41608662026295434,
+  "minor_share": -0.11656018806037521,
+  "chord_rate": 2.6666505417956654,
+  "repetitiveness": 0.9562181830406189,
+  "vocal_share": 0.14768080413341522,
+  "vocal_voiced": 0.7641606591143152,
+  "song_length": 173.318
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "therion/578647223-108",
+ "band": "therion",
+ "title": "Dis moi poupée",
+ "source": "itunes",
+ "album": "Les fleurs du mal",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.5333180147058822,
+  "tempo_var": 1.8725823552385452,
+  "low_onset_rate": 3.4666457043343653,
+  "lufs": -7.692973845537035,
+  "rms_dbfs": -6.805921555415687,
+  "crest": 6.8059210777282715,
+  "centroid": 2351.2088110421937,
+  "flatness": 0.030213866382837296,
+  "sub100_share": 0.3095610737800598,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8427141308784485,
+  "clean_share": 0.15235885537509666,
+  "minor_share": 0.2286663398381461,
+  "chord_rate": 1.466657797987616,
+  "repetitiveness": 0.7229601740837097,
+  "vocal_share": 0.13189242780208588,
+  "vocal_voiced": 0.32997762863534674,
+  "song_length": 202.187
+ }
+}

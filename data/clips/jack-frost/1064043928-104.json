@@ -1,0 +1,32 @@
+{
+ "id": "jack-frost/1064043928-104",
+ "band": "jack-frost",
+ "title": "Loser in Your Eyes",
+ "source": "itunes",
+ "album": "Mélaina Cholé",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 2.3722754933811765,
+  "tempo_var": 1.9896015176133752,
+  "low_onset_rate": 6.047631891577365,
+  "lufs": -8.110006237688467,
+  "rms_dbfs": -7.247796969640728,
+  "crest": 7.247797012329102,
+  "centroid": 2377.769029869943,
+  "flatness": 0.01856927201151848,
+  "sub100_share": 0.4852733314037323,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.9006336331367493,
+  "clean_share": 0.015515903801396431,
+  "minor_share": 0.10629740966777712,
+  "chord_rate": 0.9021329341027009,
+  "repetitiveness": 0.6650382280349731,
+  "vocal_share": 3.4641129786905367e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 287.427
+ }
+}

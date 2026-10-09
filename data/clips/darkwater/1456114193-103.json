@@ -1,0 +1,32 @@
+{
+ "id": "darkwater/1456114193-103",
+ "band": "darkwater",
+ "title": "Into the Cold",
+ "source": "itunes",
+ "album": "Where Stories End",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 1.8042658682054018,
+  "tempo_var": 3.0908391850396675,
+  "low_onset_rate": 3.30782075837657,
+  "lufs": -12.49771443281814,
+  "rms_dbfs": -11.380793035083832,
+  "crest": 11.380792617797852,
+  "centroid": 2368.5716998507496,
+  "flatness": 0.026262696832418442,
+  "sub100_share": 0.35847145318984985,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.6619280576705933,
+  "clean_share": 0.15360744763382467,
+  "minor_share": -0.08451028269319383,
+  "chord_rate": 1.1026069194588566,
+  "repetitiveness": 0.8364719152450562,
+  "vocal_share": 0.0036517882253974676,
+  "vocal_voiced": 0.9459459459459459,
+  "song_length": 390.707
+ }
+}

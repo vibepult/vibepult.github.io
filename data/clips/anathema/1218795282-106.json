@@ -1,0 +1,32 @@
+{
+ "id": "anathema/1218795282-106",
+ "band": "anathema",
+ "title": "Springfield",
+ "source": "itunes",
+ "album": "The Optimist",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 71.77734375,
+  "onset_rate": 3.1407591039131066,
+  "tempo_var": 10.090735310142627,
+  "low_onset_rate": 2.1049768462396354,
+  "lufs": -17.623853414121925,
+  "rms_dbfs": -15.890956250830971,
+  "crest": 15.890955924987793,
+  "centroid": 1496.970793923463,
+  "flatness": 0.005824053660035133,
+  "sub100_share": 0.5400379300117493,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.6749078631401062,
+  "clean_share": 0.704422032583398,
+  "minor_share": 0.17783893509535031,
+  "chord_rate": 1.336493235707705,
+  "repetitiveness": 0.6172780394554138,
+  "vocal_share": 0.01098670344799757,
+  "vocal_voiced": 0.9401709401709402,
+  "song_length": 349.4
+ }
+}

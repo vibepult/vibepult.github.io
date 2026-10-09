@@ -1,0 +1,32 @@
+{
+ "id": "judicator/1501765229-104",
+ "band": "judicator",
+ "title": "Autumn of Souls",
+ "source": "itunes",
+ "album": "Let There Be Nothing",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 6.48199219318237,
+  "tempo_var": 2.7964517196442293,
+  "low_onset_rate": 6.548816854967755,
+  "lufs": -10.756493198735885,
+  "rms_dbfs": -10.499260236887107,
+  "crest": 10.499259948730469,
+  "centroid": 2558.660630691528,
+  "flatness": 0.03267063945531845,
+  "sub100_share": 0.31752291321754456,
+  "lowest_pitch": 118.4326171875,
+  "harmonic_share": 0.6367130875587463,
+  "clean_share": 0.0069821567106283944,
+  "minor_share": 0.10978954481714165,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.9424717426300049,
+  "vocal_share": 0.10767105221748352,
+  "vocal_voiced": 0.1776937618147448,
+  "song_length": 284.338
+ }
+}

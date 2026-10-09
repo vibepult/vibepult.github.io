@@ -1,0 +1,32 @@
+{
+ "id": "sodom/1675507619-106",
+ "band": "sodom",
+ "title": "Cold Sweat",
+ "source": "itunes",
+ "album": "Better Off Dead",
+ "year": 1990,
+ "itunes_year": 1990,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 4.677726324976968,
+  "tempo_var": 25.31815645848599,
+  "low_onset_rate": 6.8829401638946806,
+  "lufs": -17.501761498606648,
+  "rms_dbfs": -16.803785920907348,
+  "crest": 16.708904266357422,
+  "centroid": 2508.9805343986177,
+  "flatness": 0.02569274604320526,
+  "sub100_share": 0.44373369216918945,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6775239109992981,
+  "clean_share": 0.09775019394879751,
+  "minor_share": 0.1259698461677795,
+  "chord_rate": 2.405687824273869,
+  "repetitiveness": 0.865217387676239,
+  "vocal_share": 0.10275905579328537,
+  "vocal_voiced": 0.12808641975308643,
+  "song_length": 190.507
+ }
+}

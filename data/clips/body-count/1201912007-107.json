@@ -1,0 +1,32 @@
+{
+ "id": "body-count/1201912007-107",
+ "band": "body-count",
+ "title": "Walk With Me... (feat. Randy Blythe)",
+ "source": "itunes",
+ "album": "Bloodlust",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 6.962256711168587,
+  "tempo_var": 13.000595263000175,
+  "low_onset_rate": 6.029514185270403,
+  "lufs": -5.953198430811869,
+  "rms_dbfs": -5.425225424545609,
+  "crest": 5.425225257873535,
+  "centroid": 2409.438863238585,
+  "flatness": 0.03570110723376274,
+  "sub100_share": 0.3264877498149872,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.652746319770813,
+  "clean_share": 0.0,
+  "minor_share": 0.019802937128795772,
+  "chord_rate": 1.8654850517963677,
+  "repetitiveness": 0.8884783983230591,
+  "vocal_share": 0.19933871924877167,
+  "vocal_voiced": 0.21785714285714286,
+  "song_length": 187.133
+ }
+}

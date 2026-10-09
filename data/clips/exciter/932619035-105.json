@@ -1,0 +1,32 @@
+{
+ "id": "exciter/932619035-105",
+ "band": "exciter",
+ "title": "Destructor",
+ "source": "itunes",
+ "album": "Violence & Force",
+ "year": 1984,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 0.8687206032100082,
+  "tempo_var": 17.67837721847978,
+  "low_onset_rate": 3.240996096591185,
+  "lufs": -15.390486027630049,
+  "rms_dbfs": -15.336393792222152,
+  "crest": 15.336393356323242,
+  "centroid": 2713.959758694442,
+  "flatness": 0.03625171631574631,
+  "sub100_share": 0.4284241199493408,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7245802879333496,
+  "clean_share": 0.005430566330488751,
+  "minor_share": 0.1036441578494135,
+  "chord_rate": 2.338863162488484,
+  "repetitiveness": 0.9653123021125793,
+  "vocal_share": 0.055025070905685425,
+  "vocal_voiced": 0.5791139240506329,
+  "song_length": 258.827
+ }
+}

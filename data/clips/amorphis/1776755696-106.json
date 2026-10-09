@@ -1,0 +1,32 @@
+{
+ "id": "amorphis/1776755696-106",
+ "band": "amorphis",
+ "title": "My Sun",
+ "source": "itunes",
+ "album": "Skyforger",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 69.83741554054055,
+  "onset_rate": 4.0,
+  "tempo_var": 8.619438232803397,
+  "low_onset_rate": 5.266666666666667,
+  "lufs": -9.683703039045806,
+  "rms_dbfs": -8.395559304728677,
+  "crest": 8.395559310913086,
+  "centroid": 2058.221375632866,
+  "flatness": 0.013280455023050308,
+  "sub100_share": 0.4851383566856384,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8849443793296814,
+  "clean_share": 0.33359133126934987,
+  "minor_share": 0.06785500130755107,
+  "chord_rate": 1.5666666666666667,
+  "repetitiveness": 0.6404901146888733,
+  "vocal_share": 0.09280485659837723,
+  "vocal_voiced": 0.718508997429306,
+  "song_length": 244.867
+ }
+}

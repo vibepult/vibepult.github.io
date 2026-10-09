@@ -1,0 +1,32 @@
+{
+ "id": "thin-lizzy/322038272-105",
+ "band": "thin-lizzy",
+ "title": "Hollywood (Down On Your Luck)",
+ "source": "itunes",
+ "album": "Renegade",
+ "year": 1981,
+ "itunes_year": 1981,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.699445870328216,
+  "tempo_var": 27.80865195338405,
+  "low_onset_rate": 5.399363340377098,
+  "lufs": -15.33619733763656,
+  "rms_dbfs": -15.025490650907932,
+  "crest": 15.025490760803223,
+  "centroid": 2653.870014788544,
+  "flatness": 0.04118852689862251,
+  "sub100_share": 0.2490767240524292,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.5631826519966125,
+  "clean_share": 0.0920340293890178,
+  "minor_share": -0.10909058264942417,
+  "chord_rate": 1.5998113601117327,
+  "repetitiveness": 0.8834899067878723,
+  "vocal_share": 0.17955531179904938,
+  "vocal_voiced": 0.4296774193548387,
+  "song_length": 249.968
+ }
+}

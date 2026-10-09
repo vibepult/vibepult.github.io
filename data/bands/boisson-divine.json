@@ -1,0 +1,127 @@
+{
+ "slug": "boisson-divine",
+ "name": "Boisson divine",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 656543354,
+  "deezer": 4848035,
+  "spotify": "39HT4igSf5Y3A7ZJOR5zL2"
+ },
+ "metadata": {
+  "formed": 2005,
+  "split": null,
+  "country": "FR",
+  "status": "active",
+  "members": 6,
+  "past_members": 1,
+  "full_lengths": 4,
+  "genre": "Folk Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 9699,
+  "themes": "Folklore, History, Everyday life, Gascony",
+  "release_year": 2023
+ },
+ "partial": false,
+ "clips": [
+  "boisson-divine/1509120251-105",
+  "boisson-divine/1875389904-104",
+  "boisson-divine/1509120251-106",
+  "boisson-divine/1875389904-105",
+  "boisson-divine/1509120251-104",
+  "boisson-divine/1875389904-103",
+  "boisson-divine/1509120251-107",
+  "boisson-divine/1875389904-106",
+  "boisson-divine/1509120251-103",
+  "boisson-divine/1875389904-102",
+  "boisson-divine/1509120251-108",
+  "boisson-divine/1875389904-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 107.85326086956522,
+   "iqr": 30.422551081730774
+  },
+  "onset_rate": {
+   "median": 5.083179646873866,
+   "iqr": 1.349619162214946
+  },
+  "tempo_var": {
+   "median": 4.136401218624668,
+   "iqr": 15.906640947054594
+  },
+  "low_onset_rate": {
+   "median": 5.830451740774864,
+   "iqr": 1.2499622082476716
+  },
+  "lufs": {
+   "median": -8.967241923902723,
+   "iqr": 1.81206635644633
+  },
+  "rms_dbfs": {
+   "median": -8.719634558431697,
+   "iqr": 1.4911421994635958
+  },
+  "crest": {
+   "median": 8.719635009765625,
+   "iqr": 1.4911417961120605
+  },
+  "centroid": {
+   "median": 2745.4054418386986,
+   "iqr": 80.71991414441345
+  },
+  "flatness": {
+   "median": 0.038064368069171906,
+   "iqr": 0.007833616808056831
+  },
+  "sub100_share": {
+   "median": 0.31074850261211395,
+   "iqr": 0.07069016247987747
+  },
+  "lowest_pitch": {
+   "median": 53.8330078125,
+   "iqr": 12.78533935546875
+  },
+  "harmonic_share": {
+   "median": 0.7800747156143188,
+   "iqr": 0.07403960824012756
+  },
+  "clean_share": {
+   "median": 0.001160092807424594,
+   "iqr": 0.009485491189954622
+  },
+  "minor_share": {
+   "median": 0.03534797570255871,
+   "iqr": 0.35613011228890173
+  },
+  "chord_rate": {
+   "median": 1.5850455812476547,
+   "iqr": 0.33746353184776856
+  },
+  "repetitiveness": {
+   "median": 0.7772996425628662,
+   "iqr": 0.05779838562011719
+  },
+  "vocal_share": {
+   "median": 0.16782910376787186,
+   "iqr": 0.05694708041846752
+  },
+  "vocal_voiced": {
+   "median": 0.8185961652651943,
+   "iqr": 0.1245496305706777
+  },
+  "song_length": {
+   "median": 325.2865,
+   "iqr": 124.07650000000007
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.7
+ },
+ "sources_failed": []
+}

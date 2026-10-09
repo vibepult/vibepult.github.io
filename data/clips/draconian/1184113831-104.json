@@ -1,0 +1,32 @@
+{
+ "id": "draconian/1184113831-104",
+ "band": "draconian",
+ "title": "The Solitude",
+ "source": "itunes",
+ "album": "Where Lovers Mourn",
+ "year": 2003,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.6333333333333333,
+  "tempo_var": 4.023388586632206,
+  "low_onset_rate": 4.766666666666667,
+  "lufs": -9.209421088209249,
+  "rms_dbfs": -8.30392007311647,
+  "crest": 8.303919792175293,
+  "centroid": 2535.9573464218424,
+  "flatness": 0.026927417144179344,
+  "sub100_share": 0.4450641870498657,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8613526821136475,
+  "clean_share": 0.21517027863777088,
+  "minor_share": -0.003421591261708712,
+  "chord_rate": 0.9666666666666667,
+  "repetitiveness": 0.5908059477806091,
+  "vocal_share": 0.06838027387857437,
+  "vocal_voiced": 0.10548523206751055,
+  "song_length": 474.227
+ }
+}

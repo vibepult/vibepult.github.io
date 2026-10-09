@@ -1,0 +1,32 @@
+{
+ "id": "dark-the-suns/1702244317-104",
+ "band": "dark-the-suns",
+ "title": "Aurora",
+ "source": "itunes",
+ "album": "Raven and the Nightsky",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 6.23322025904292,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.6998784602546895,
+  "lufs": -11.502461433897324,
+  "rms_dbfs": -10.73703137124271,
+  "crest": 10.737030029296875,
+  "centroid": 2017.4819777821597,
+  "flatness": 0.015671882778406143,
+  "sub100_share": 0.3554014563560486,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6889751553535461,
+  "clean_share": 0.08120649651972157,
+  "minor_share": 0.0042383804810243175,
+  "chord_rate": 1.2999764176613575,
+  "repetitiveness": 0.9153929352760315,
+  "vocal_share": 0.09195184707641602,
+  "vocal_voiced": 0.0,
+  "song_length": 354.432
+ }
+}

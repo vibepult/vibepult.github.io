@@ -1,0 +1,32 @@
+{
+ "id": "soundgarden/1440866412-109",
+ "band": "soundgarden",
+ "title": "Applebite",
+ "source": "itunes",
+ "album": "Down On the Upside",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 63.02400914634146,
+  "onset_rate": 2.699959184290487,
+  "tempo_var": 22.46428473372968,
+  "low_onset_rate": 3.4999470907469274,
+  "lufs": -15.066336827637736,
+  "rms_dbfs": -13.404833382904357,
+  "crest": 13.40483283996582,
+  "centroid": 1526.4487924271616,
+  "flatness": 0.006111106835305691,
+  "sub100_share": 0.44006118178367615,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7511046528816223,
+  "clean_share": 0.7556071152358855,
+  "minor_share": 0.19024334942788507,
+  "chord_rate": 1.8666384483983613,
+  "repetitiveness": 0.7633923888206482,
+  "vocal_share": 5.838503511768067e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 309.747
+ }
+}

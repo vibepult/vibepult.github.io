@@ -1,0 +1,32 @@
+{
+ "id": "vader/60367812-105",
+ "band": "vader",
+ "title": "Cold Demons",
+ "source": "itunes",
+ "album": "Litany",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 7.517774450855841,
+  "tempo_var": 5.19419202023545,
+  "low_onset_rate": 5.713508582650439,
+  "lufs": -7.344599533133132,
+  "rms_dbfs": -6.549967442445384,
+  "crest": 6.5499677658081055,
+  "centroid": 2736.756031173029,
+  "flatness": 0.032265786081552505,
+  "sub100_share": 0.4910566210746765,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8393051624298096,
+  "clean_share": 0.0,
+  "minor_share": -0.017418955660639668,
+  "chord_rate": 2.840048125878873,
+  "repetitiveness": 0.9250580072402954,
+  "vocal_share": 0.024340875446796417,
+  "vocal_voiced": 0.32838589981447125,
+  "song_length": 192.56
+ }
+}

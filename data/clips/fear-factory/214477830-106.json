@@ -1,0 +1,32 @@
+{
+ "id": "fear-factory/214477830-106",
+ "band": "fear-factory",
+ "title": "Dog Day Sunrise",
+ "source": "itunes",
+ "album": "Demanufacture",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.999410500349165,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.799198280474864,
+  "lufs": -10.040914616328694,
+  "rms_dbfs": -10.108763487893416,
+  "crest": 10.108762741088867,
+  "centroid": 2993.0439317670075,
+  "flatness": 0.06414144486188889,
+  "sub100_share": 0.30637019872665405,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6811209917068481,
+  "clean_share": 0.0,
+  "minor_share": 0.19008271945312977,
+  "chord_rate": 1.4331643434334274,
+  "repetitiveness": 0.9514980316162109,
+  "vocal_share": 0.0699620246887207,
+  "vocal_voiced": 0.8729508196721312,
+  "song_length": 285.893
+ }
+}

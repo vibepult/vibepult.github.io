@@ -1,0 +1,32 @@
+{
+ "id": "huntress/1184091957-108",
+ "band": "huntress",
+ "title": "Receiver",
+ "source": "itunes",
+ "album": "Starbound Beast",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 5.533333333333333,
+  "tempo_var": 9.13625813674081,
+  "low_onset_rate": 7.166666666666667,
+  "lufs": -7.3286519721091175,
+  "rms_dbfs": -6.359349278374045,
+  "crest": 6.359349250793457,
+  "centroid": 2436.6036304971954,
+  "flatness": 0.027320660650730133,
+  "sub100_share": 0.3656200170516968,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7642232775688171,
+  "clean_share": 0.008513931888544891,
+  "minor_share": 0.08376079459238095,
+  "chord_rate": 1.3666666666666667,
+  "repetitiveness": 0.7787551879882812,
+  "vocal_share": 0.23321333527565002,
+  "vocal_voiced": 0.8564146134239592,
+  "song_length": 271.747
+ }
+}

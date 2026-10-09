@@ -1,0 +1,32 @@
+{
+ "id": "kamelot/1436230207-106",
+ "band": "kamelot",
+ "title": "Birth of a Hero",
+ "source": "itunes",
+ "album": "Dominion",
+ "year": 1996,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.3412330892692625,
+  "tempo_var": 8.814165965200296,
+  "low_onset_rate": 1.971327522668865,
+  "lufs": -16.11259197050654,
+  "rms_dbfs": -15.920024453045409,
+  "crest": 15.920024871826172,
+  "centroid": 2300.4479326172554,
+  "flatness": 0.01942773163318634,
+  "sub100_share": 0.1464647352695465,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.7803969979286194,
+  "clean_share": 0.4359968968192397,
+  "minor_share": 0.09824148950068223,
+  "chord_rate": 0.9689575958880862,
+  "repetitiveness": 0.5921875238418579,
+  "vocal_share": 0.38430559635162354,
+  "vocal_voiced": 0.9083484573502723,
+  "song_length": 317.267
+ }
+}

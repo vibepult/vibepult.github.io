@@ -1,0 +1,32 @@
+{
+ "id": "stille-volk/1555059836-106",
+ "band": "stille-volk",
+ "title": "Marche Nocturne",
+ "source": "itunes",
+ "album": "Satyre Cornu",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 4.143129030693886,
+  "tempo_var": 4.088874588679711,
+  "low_onset_rate": 7.651423774426611,
+  "lufs": -10.423576022401573,
+  "rms_dbfs": -9.60176355750645,
+  "crest": 9.601763725280762,
+  "centroid": 1771.3624809536345,
+  "flatness": 0.004210609942674637,
+  "sub100_share": 0.11850453913211823,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8519579172134399,
+  "clean_share": 0.7470907680372382,
+  "minor_share": 0.04854687940042518,
+  "chord_rate": 2.2386261698104057,
+  "repetitiveness": 0.9662172794342041,
+  "vocal_share": 0.0009515039273537695,
+  "vocal_voiced": 0.9688644688644689,
+  "song_length": 130.2
+ }
+}

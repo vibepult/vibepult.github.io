@@ -1,0 +1,127 @@
+{
+ "slug": "nemesea",
+ "name": "Nemesea",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 262387134,
+  "deezer": 9398,
+  "spotify": "0KV2B2b0q24rEawMkFmQvD"
+ },
+ "metadata": {
+  "formed": 2002,
+  "split": null,
+  "country": "NL",
+  "status": "active",
+  "members": 5,
+  "past_members": 7,
+  "full_lengths": 5,
+  "genre": "Symphonic Metal (early); Symphonic/Alternative Rock (later)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 33755,
+  "themes": "Darkness, Love, Sadness",
+  "release_year": 2009
+ },
+ "partial": false,
+ "clips": [
+  "nemesea/370379074-107",
+  "nemesea/325099230-105",
+  "nemesea/1183612927-108",
+  "nemesea/1184718162-106",
+  "nemesea/1468373465-107",
+  "nemesea/370379074-108",
+  "nemesea/325099230-106",
+  "nemesea/1183612927-107",
+  "nemesea/1184718162-107",
+  "nemesea/1468373465-108",
+  "nemesea/370379074-105",
+  "nemesea/325099230-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.72650642942585,
+   "iqr": 32.37782353940217
+  },
+  "onset_rate": {
+   "median": 3.3499727895269915,
+   "iqr": 2.216694078652573
+  },
+  "tempo_var": {
+   "median": 15.290520137310205,
+   "iqr": 18.73146438573083
+  },
+  "low_onset_rate": {
+   "median": 4.033307130655621,
+   "iqr": 2.3667045093050993
+  },
+  "lufs": {
+   "median": -9.813596118274486,
+   "iqr": 3.434742939216635
+  },
+  "rms_dbfs": {
+   "median": -9.128500083871266,
+   "iqr": 3.150159734644726
+  },
+  "crest": {
+   "median": 9.128499984741211,
+   "iqr": 3.1501588821411133
+  },
+  "centroid": {
+   "median": 1976.1489501919539,
+   "iqr": 288.2173699275322
+  },
+  "flatness": {
+   "median": 0.014408729039132595,
+   "iqr": 0.010452558752149343
+  },
+  "sub100_share": {
+   "median": 0.3670913875102997,
+   "iqr": 0.22477399930357933
+  },
+  "lowest_pitch": {
+   "median": 45.758056640625,
+   "iqr": 8.074951171875
+  },
+  "harmonic_share": {
+   "median": 0.8307067155838013,
+   "iqr": 0.12405547499656677
+  },
+  "clean_share": {
+   "median": 0.39559164733178653,
+   "iqr": 0.43269201990235584
+  },
+  "minor_share": {
+   "median": 0.006378360920998333,
+   "iqr": 0.146240444198999
+  },
+  "chord_rate": {
+   "median": 1.1347472270394277,
+   "iqr": 0.907931920841521
+  },
+  "repetitiveness": {
+   "median": 0.7395251393318176,
+   "iqr": 0.22894185781478882
+  },
+  "vocal_share": {
+   "median": 0.1781039983034134,
+   "iqr": 0.13045088946819305
+  },
+  "vocal_voiced": {
+   "median": 0.8753740157480314,
+   "iqr": 0.06332635318696855
+  },
+  "song_length": {
+   "median": 224.723,
+   "iqr": 28.510500000000008
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

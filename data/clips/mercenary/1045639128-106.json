@@ -1,0 +1,32 @@
+{
+ "id": "mercenary/1045639128-106",
+ "band": "mercenary",
+ "title": "Soul Decision",
+ "source": "itunes",
+ "album": "The Hours That Remain",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 6.081044222470058,
+  "tempo_var": 7.262120190238314,
+  "low_onset_rate": 8.252845730495078,
+  "lufs": -7.082309787272993,
+  "rms_dbfs": -6.454083763773165,
+  "crest": 6.4540839195251465,
+  "centroid": 2440.325910899046,
+  "flatness": 0.028746943920850754,
+  "sub100_share": 0.41124439239501953,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8379957675933838,
+  "clean_share": 0.0,
+  "minor_share": 0.13525309364303129,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.9034395217895508,
+  "vocal_share": 0.15813978016376495,
+  "vocal_voiced": 0.4315068493150685,
+  "song_length": 303.08
+ }
+}

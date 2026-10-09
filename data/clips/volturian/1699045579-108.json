@@ -1,0 +1,32 @@
+{
+ "id": "volturian/1699045579-108",
+ "band": "volturian",
+ "title": "Bury Me",
+ "source": "itunes",
+ "album": "Red Dragon",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.8665497641794655,
+  "tempo_var": 9.15755579362996,
+  "low_onset_rate": 6.799794412867335,
+  "lufs": -9.956017606185666,
+  "rms_dbfs": -9.216777252119497,
+  "crest": 9.216776847839355,
+  "centroid": 2488.4743994243804,
+  "flatness": 0.021905530244112015,
+  "sub100_share": 0.45523521304130554,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8696613311767578,
+  "clean_share": 0.06109822119102862,
+  "minor_share": -0.20363788863128357,
+  "chord_rate": 1.2666283710243076,
+  "repetitiveness": 0.7162843942642212,
+  "vocal_share": 0.2224869579076767,
+  "vocal_voiced": 0.9168110918544194,
+  "song_length": 265.607
+ }
+}

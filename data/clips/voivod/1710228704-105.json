@@ -1,0 +1,32 @@
+{
+ "id": "voivod/1710228704-105",
+ "band": "voivod",
+ "title": "Odds & Frauds",
+ "source": "itunes",
+ "album": "Katorz",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.599930462124534,
+  "tempo_var": 0.6783977872373892,
+  "low_onset_rate": 6.09990778673036,
+  "lufs": -8.200516919251326,
+  "rms_dbfs": -7.624854336690387,
+  "crest": 7.624854564666748,
+  "centroid": 2405.5488264753535,
+  "flatness": 0.032065488398075104,
+  "sub100_share": 0.26918911933898926,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7124541997909546,
+  "clean_share": 0.04331013147718484,
+  "minor_share": -0.16418884107188314,
+  "chord_rate": 1.1333162008132909,
+  "repetitiveness": 0.8816406726837158,
+  "vocal_share": 0.06733731925487518,
+  "vocal_voiced": 0.5613275613275613,
+  "song_length": 290.28
+ }
+}

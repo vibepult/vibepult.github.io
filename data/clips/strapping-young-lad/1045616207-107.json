@@ -1,0 +1,32 @@
+{
+ "id": "strapping-young-lad/1045616207-107",
+ "band": "strapping-young-lad",
+ "title": "Possessions",
+ "source": "itunes",
+ "album": "Alien",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.297911073711436,
+  "tempo_var": 11.968461177360995,
+  "low_onset_rate": 7.461940207185471,
+  "lufs": -10.64443179132774,
+  "rms_dbfs": -10.11451962453119,
+  "crest": 10.114519119262695,
+  "centroid": 2922.150785609004,
+  "flatness": 0.05159575492143631,
+  "sub100_share": 0.46230173110961914,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.795589029788971,
+  "clean_share": 0.007733952049497293,
+  "minor_share": 0.238836074226216,
+  "chord_rate": 1.9654217509997447,
+  "repetitiveness": 0.9093074798583984,
+  "vocal_share": 0.07847299426794052,
+  "vocal_voiced": 0.19952774498229045,
+  "song_length": 252.707
+ }
+}

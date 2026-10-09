@@ -1,0 +1,32 @@
+{
+ "id": "running-wild/1436103560-108",
+ "band": "running-wild",
+ "title": "Lead or Gold",
+ "source": "itunes",
+ "album": "Pile of Skulls",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 5.546446928186976,
+  "tempo_var": 31.768641768695566,
+  "low_onset_rate": 7.050001818358144,
+  "lufs": -7.793421098093102,
+  "rms_dbfs": -8.56157378597717,
+  "crest": 8.56157398223877,
+  "centroid": 2944.614639907377,
+  "flatness": 0.056775402277708054,
+  "sub100_share": 0.17781177163124084,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.6656690239906311,
+  "clean_share": 0.0,
+  "minor_share": -0.09335609175898818,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.869920551776886,
+  "vocal_share": 0.22802650928497314,
+  "vocal_voiced": 0.49720149253731344,
+  "song_length": 307.293
+ }
+}

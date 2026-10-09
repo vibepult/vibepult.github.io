@@ -1,0 +1,32 @@
+{
+ "id": "alkonost/1438126707-105",
+ "band": "alkonost",
+ "title": "Папоротник",
+ "source": "itunes",
+ "album": "Октаграмма",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.343603016050041,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.011849633903894,
+  "lufs": -7.767116243007615,
+  "rms_dbfs": -7.494087936732217,
+  "crest": 7.494088172912598,
+  "centroid": 2509.887912057967,
+  "flatness": 0.029103446751832962,
+  "sub100_share": 0.3521134555339813,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7914783358573914,
+  "clean_share": 0.010861132660977503,
+  "minor_share": 0.12046864643066835,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.8298397660255432,
+  "vocal_share": 0.09744087606668472,
+  "vocal_voiced": 0.5137420718816068,
+  "song_length": 308.0
+ }
+}

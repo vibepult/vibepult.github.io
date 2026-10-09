@@ -1,0 +1,32 @@
+{
+ "id": "fight/6770627693-105",
+ "band": "fight",
+ "title": "Never Again",
+ "source": "itunes",
+ "album": "A Small Deadly Space",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.363902531880789,
+  "tempo_var": 2.842170943040401e-14,
+  "low_onset_rate": 4.996834960168842,
+  "lufs": -9.435892918680052,
+  "rms_dbfs": -9.350096711344296,
+  "crest": 9.350096702575684,
+  "centroid": 3068.288339695423,
+  "flatness": 0.05667020007967949,
+  "sub100_share": 0.2641311287879944,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6897087693214417,
+  "clean_share": 0.0,
+  "minor_share": 0.19472405166955026,
+  "chord_rate": 1.5989871872540296,
+  "repetitiveness": 0.9432933926582336,
+  "vocal_share": 0.057159677147865295,
+  "vocal_voiced": 0.6067146282973621,
+  "song_length": 230.56
+ }
+}

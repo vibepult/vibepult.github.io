@@ -1,0 +1,32 @@
+{
+ "id": "entwine/1669947806-105",
+ "band": "entwine",
+ "title": "Lost in My Denial",
+ "source": "itunes",
+ "album": "Painstained",
+ "year": 2009,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.176541361586578,
+  "tempo_var": 2.0249948731492635,
+  "low_onset_rate": 7.517774450855841,
+  "lufs": -15.328488524066243,
+  "rms_dbfs": -15.227972382422415,
+  "crest": 15.157710075378418,
+  "centroid": 1678.3566671185924,
+  "flatness": 0.00577679555863142,
+  "sub100_share": 0.01750742271542549,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.8910893797874451,
+  "clean_share": 0.7750193948797518,
+  "minor_share": -0.0870190500342507,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.8349704742431641,
+  "vocal_share": 0.47706660628318787,
+  "vocal_voiced": 0.8320388349514564,
+  "song_length": 265.533
+ }
+}

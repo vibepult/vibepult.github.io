@@ -1,0 +1,32 @@
+{
+ "id": "wolf-spider/1680229430-110",
+ "band": "wolf-spider",
+ "title": "Transcendencja",
+ "source": "itunes",
+ "album": "VI",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.4391001551665616,
+  "tempo_var": 1.9609449021258891,
+  "low_onset_rate": 1.7708535373127092,
+  "lufs": -9.015616378172481,
+  "rms_dbfs": -8.576223627205108,
+  "crest": 8.576223373413086,
+  "centroid": 2740.4047426344787,
+  "flatness": 0.03966798260807991,
+  "sub100_share": 0.218999445438385,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7357685565948486,
+  "clean_share": 0.027152831652443754,
+  "minor_share": -0.005158525844074613,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.7969575524330139,
+  "vocal_share": 0.23699145019054413,
+  "vocal_voiced": 0.6026200873362445,
+  "song_length": 345.053
+ }
+}

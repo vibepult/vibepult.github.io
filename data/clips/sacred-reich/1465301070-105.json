@@ -1,0 +1,32 @@
+{
+ "id": "sacred-reich/1465301070-105",
+ "band": "sacred-reich",
+ "title": "Killing Machine",
+ "source": "itunes",
+ "album": "Awakening",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 4.699928950431588,
+  "tempo_var": 23.219595375018685,
+  "low_onset_rate": 6.2332391044731,
+  "lufs": -10.179749721490785,
+  "rms_dbfs": -9.201485833006437,
+  "crest": 9.201485633850098,
+  "centroid": 2218.883901775065,
+  "flatness": 0.016938315704464912,
+  "sub100_share": 0.22045545279979706,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.755039632320404,
+  "clean_share": 0.09976798143851508,
+  "minor_share": -0.14924232114318353,
+  "chord_rate": 0.8333207358921256,
+  "repetitiveness": 0.8882558345794678,
+  "vocal_share": 0.09982451051473618,
+  "vocal_voiced": 0.7662753468516542,
+  "song_length": 198.455
+ }
+}

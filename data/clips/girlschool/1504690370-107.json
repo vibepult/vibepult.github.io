@@ -1,0 +1,32 @@
+{
+ "id": "girlschool/1504690370-107",
+ "band": "girlschool",
+ "title": "C'mon",
+ "source": "itunes",
+ "album": "Believe",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 4.109716699801193,
+  "tempo_var": 10.161915458943549,
+  "low_onset_rate": 5.21232361926005,
+  "lufs": -8.932312167754516,
+  "rms_dbfs": -8.779698643198131,
+  "crest": 8.779699325561523,
+  "centroid": 2654.6196445843866,
+  "flatness": 0.039275310933589935,
+  "sub100_share": 0.36130291223526,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.6873213052749634,
+  "clean_share": 0.004654771140418929,
+  "minor_share": -0.07832926929243367,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.8375795483589172,
+  "vocal_share": 0.14902321994304657,
+  "vocal_voiced": 0.5806451612903226,
+  "song_length": 199.933
+ }
+}

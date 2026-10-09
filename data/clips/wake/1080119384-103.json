@@ -1,0 +1,32 @@
+{
+ "id": "wake/1080119384-103",
+ "band": "wake",
+ "title": "Drones",
+ "source": "itunes",
+ "album": "Sowing the Seeds of a Worthless Tomorrow",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.310190685157349,
+  "tempo_var": 9.016267609886278,
+  "low_onset_rate": 4.878200310333123,
+  "lufs": -9.800417051984482,
+  "rms_dbfs": -8.444239162184871,
+  "crest": 8.444238662719727,
+  "centroid": 2325.279503149433,
+  "flatness": 0.027585221454501152,
+  "sub100_share": 0.536854088306427,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.7634454965591431,
+  "clean_share": 0.09309542280837858,
+  "minor_share": -0.060148659299202545,
+  "chord_rate": 2.1718015080250206,
+  "repetitiveness": 0.9206817150115967,
+  "vocal_share": 0.11302404850721359,
+  "vocal_voiced": 0.34146341463414637,
+  "song_length": 132.29
+ }
+}

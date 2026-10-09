@@ -1,0 +1,32 @@
+{
+ "id": "avalanch/1003372636-108",
+ "band": "avalanch",
+ "title": "Sigue Así",
+ "source": "itunes",
+ "album": "La Llama Eterna",
+ "year": 1997,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.310190685157349,
+  "tempo_var": 27.596468488823376,
+  "low_onset_rate": 7.584599112641226,
+  "lufs": -10.552731560762766,
+  "rms_dbfs": -9.846169664098328,
+  "crest": 9.846169471740723,
+  "centroid": 2465.1258706918215,
+  "flatness": 0.027522709220647812,
+  "sub100_share": 0.335435688495636,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7498943209648132,
+  "clean_share": 0.12335143522110163,
+  "minor_share": -0.13840078883557927,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.8365908265113831,
+  "vocal_share": 9.625389338907553e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 289.342
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "bloodgood/560189773-105",
+ "band": "bloodgood",
+ "title": "Heaven On Earth",
+ "source": "itunes",
+ "album": "Rock in a Hard Place (Remastered)",
+ "year": 1988,
+ "itunes_year": 1988,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 5.145498957474664,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 5.613271589972361,
+  "lufs": -7.854070920873161,
+  "rms_dbfs": -8.108727038407897,
+  "crest": 8.108726501464844,
+  "centroid": 2832.545985419173,
+  "flatness": 0.03375855088233948,
+  "sub100_share": 0.1962824910879135,
+  "lowest_pitch": 94.207763671875,
+  "harmonic_share": 0.7637656927108765,
+  "clean_share": 0.005430566330488751,
+  "minor_share": 0.1458165019999409,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.7860078811645508,
+  "vocal_share": 0.31822675466537476,
+  "vocal_voiced": 0.8376690946930281,
+  "song_length": 223.787
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "ancient-rites/1601280359-106",
+ "band": "ancient-rites",
+ "title": "Götterdämmerung (Twilight of the Gods)",
+ "source": "itunes",
+ "album": "Dim Carcosa",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 4.9784373030112015,
+  "tempo_var": 9.882408943836014,
+  "low_onset_rate": 7.684836105319304,
+  "lufs": -9.993469620364378,
+  "rms_dbfs": -9.677506560812262,
+  "crest": 9.677506446838379,
+  "centroid": 2351.313887197158,
+  "flatness": 0.02913835272192955,
+  "sub100_share": 0.287119597196579,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8505901098251343,
+  "clean_share": 0.29014740108611325,
+  "minor_share": 0.24520596139617712,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.6761247515678406,
+  "vocal_share": 0.06056177616119385,
+  "vocal_voiced": 0.22821576763485477,
+  "song_length": 270.613
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "deadsquad",
+ "name": "Deadsquad",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1176673653,
+  "deezer": 5481223,
+  "spotify": "2By8ec9DQOnN2aiiFyrQ82"
+ },
+ "metadata": {
+  "formed": 2006,
+  "split": null,
+  "country": "ID",
+  "status": "active",
+  "members": 3,
+  "past_members": 15,
+  "full_lengths": 4,
+  "genre": "Technical Brutal Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 8033,
+  "themes": "Social and political criticism, Religious hypocrisy, Psychological, Despair",
+  "release_year": 2013
+ },
+ "partial": false,
+ "clips": [
+  "deadsquad/1527232343-104",
+  "deadsquad/1564694302-104",
+  "deadsquad/1562803592-105",
+  "deadsquad/1527232343-103",
+  "deadsquad/1564694302-105",
+  "deadsquad/1562803592-106",
+  "deadsquad/1527232343-105",
+  "deadsquad/1564694302-103",
+  "deadsquad/1562803592-104",
+  "deadsquad/1527232343-102",
+  "deadsquad/1564694302-106",
+  "deadsquad/1562803592-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.52302631578948,
+   "iqr": 29.70191379433639
+  },
+  "onset_rate": {
+   "median": 6.799409336662949,
+   "iqr": 1.4450833111089567
+  },
+  "tempo_var": {
+   "median": 13.148531572413365,
+   "iqr": 9.4852764844639
+  },
+  "low_onset_rate": {
+   "median": 7.1001203146971825,
+   "iqr": 1.9963867708383853
+  },
+  "lufs": {
+   "median": -7.761690286252964,
+   "iqr": 1.5605791411276506
+  },
+  "rms_dbfs": {
+   "median": -7.117005476121914,
+   "iqr": 1.778476888927547
+  },
+  "crest": {
+   "median": 7.117005825042725,
+   "iqr": 1.7784767150878906
+  },
+  "centroid": {
+   "median": 2323.7571222982997,
+   "iqr": 269.2809782788713
+  },
+  "flatness": {
+   "median": 0.023859817534685135,
+   "iqr": 0.017879330087453127
+  },
+  "sub100_share": {
+   "median": 0.39124563336372375,
+   "iqr": 0.31248728558421135
+  },
+  "lowest_pitch": {
+   "median": 40.374755859375,
+   "iqr": 15.47698974609375
+  },
+  "harmonic_share": {
+   "median": 0.6977187991142273,
+   "iqr": 0.11204689741134644
+  },
+  "clean_share": {
+   "median": 0.02055857253685027,
+   "iqr": 0.027152831652443754
+  },
+  "minor_share": {
+   "median": -0.008637723606171266,
+   "iqr": 0.11414518701010935
+  },
+  "chord_rate": {
+   "median": 2.3889816588275226,
+   "iqr": 0.5178911288367356
+  },
+  "repetitiveness": {
+   "median": 0.9392165243625641,
+   "iqr": 0.04129412770271301
+  },
+  "vocal_share": {
+   "median": 0.07962596789002419,
+   "iqr": 0.05014413595199585
+  },
+  "vocal_voiced": {
+   "median": 0.1402327514546966,
+   "iqr": 0.0875007737823374
+  },
+  "song_length": {
+   "median": 200.4535,
+   "iqr": 43.295500000000004
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

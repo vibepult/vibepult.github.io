@@ -1,0 +1,32 @@
+{
+ "id": "baron-rojo/273924956-104",
+ "band": "baron-rojo",
+ "title": "Caso Perdido",
+ "source": "itunes",
+ "album": "En un Lugar de la Marcha",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 5.39658175698235,
+  "tempo_var": 5.258458234109707,
+  "low_onset_rate": 6.562509914355079,
+  "lufs": -9.676458208899973,
+  "rms_dbfs": -9.543291540967015,
+  "crest": 9.543291091918945,
+  "centroid": 2382.7917434906253,
+  "flatness": 0.026173315942287445,
+  "sub100_share": 0.2735455632209778,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7054175138473511,
+  "clean_share": 0.018561484918793503,
+  "minor_share": 0.33301365969465774,
+  "chord_rate": 1.8654850517963677,
+  "repetitiveness": 0.8724246025085449,
+  "vocal_share": 0.16903062164783478,
+  "vocal_voiced": 0.7578231292517007,
+  "song_length": 345.067
+ }
+}

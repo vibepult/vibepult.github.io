@@ -1,0 +1,32 @@
+{
+ "id": "sonata-arctica/1660615195-107",
+ "band": "sonata-arctica",
+ "title": "Last Drop Falls",
+ "source": "itunes",
+ "album": "Silence",
+ "year": 2001,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.266666666666667,
+  "tempo_var": 4.219755001595022,
+  "low_onset_rate": 7.4,
+  "lufs": -13.228340723634414,
+  "rms_dbfs": -13.111300649911728,
+  "crest": 13.111300468444824,
+  "centroid": 1862.8327940597774,
+  "flatness": 0.008036419749259949,
+  "sub100_share": 0.050886109471321106,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.847407877445221,
+  "clean_share": 0.6137770897832817,
+  "minor_share": 0.10763099679132981,
+  "chord_rate": 0.7666666666666667,
+  "repetitiveness": 0.6686898469924927,
+  "vocal_share": 0.4534595310688019,
+  "vocal_voiced": 0.8916666666666667,
+  "song_length": 313.827
+ }
+}

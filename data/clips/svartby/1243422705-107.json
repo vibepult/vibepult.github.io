@@ -1,0 +1,32 @@
+{
+ "id": "svartby/1243422705-107",
+ "band": "svartby",
+ "title": "Ash and Dust",
+ "source": "itunes",
+ "album": "Elemental Tales",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.0317475666544786,
+  "tempo_var": 1.7165338256353324,
+  "low_onset_rate": 6.1301269479607035,
+  "lufs": -11.832054546568681,
+  "rms_dbfs": -11.825949964259358,
+  "crest": 11.825950622558594,
+  "centroid": 1162.8631474416875,
+  "flatness": 0.0007619860116392374,
+  "sub100_share": 0.007819895632565022,
+  "lowest_pitch": 115.740966796875,
+  "harmonic_share": 0.9856105446815491,
+  "clean_share": 0.9845320959010054,
+  "minor_share": 0.11403635735048245,
+  "chord_rate": 0.5996863318657211,
+  "repetitiveness": 0.7984000444412231,
+  "vocal_share": 0.2096150517463684,
+  "vocal_voiced": 0.8585690515806988,
+  "song_length": 144.187
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "acid-bath/351783461-107",
+ "band": "acid-bath",
+ "title": "Dr Soose Is Dead",
+ "source": "itunes",
+ "album": "When the Kite String Pops",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 0.733328898993808,
+  "tempo_var": 10.79721318832403,
+  "low_onset_rate": 3.5666450996517027,
+  "lufs": -10.636239527553474,
+  "rms_dbfs": -9.947365143134109,
+  "crest": 9.947364807128906,
+  "centroid": 2563.420694381846,
+  "flatness": 0.012678737752139568,
+  "sub100_share": 0.4890902042388916,
+  "lowest_pitch": 115.740966796875,
+  "harmonic_share": 0.9632213711738586,
+  "clean_share": 0.29698375870069604,
+  "minor_share": -0.02267710968217418,
+  "chord_rate": 0.8999945578560371,
+  "repetitiveness": 0.765963077545166,
+  "vocal_share": 2.4218390990426997e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 364.4
+ }
+}

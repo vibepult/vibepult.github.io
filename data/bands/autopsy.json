@@ -1,0 +1,127 @@
+{
+ "slug": "autopsy",
+ "name": "Autopsy",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 427889075,
+  "deezer": 13978,
+  "spotify": "6hR8mUd2yyHFazoCuweiIJ"
+ },
+ "metadata": {
+  "formed": 1987,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 4,
+  "past_members": 6,
+  "full_lengths": 10,
+  "genre": "Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 11755,
+  "themes": "Gore, Death, Horror, Zombies, Necrophilia, Sick humour",
+  "release_year": 2012
+ },
+ "partial": false,
+ "clips": [
+  "autopsy/1072769455-107",
+  "autopsy/673995374-106",
+  "autopsy/684098840-106",
+  "autopsy/674015573-105",
+  "autopsy/848458429-106",
+  "autopsy/1155548895-104",
+  "autopsy/1635424468-105",
+  "autopsy/1703033029-106",
+  "autopsy/1072769455-108",
+  "autopsy/673995374-105",
+  "autopsy/684098840-107",
+  "autopsy/674015573-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 25.89897382723113
+  },
+  "onset_rate": {
+   "median": 3.7878474747281876,
+   "iqr": 2.5035557993502406
+  },
+  "tempo_var": {
+   "median": 9.876246838225244,
+   "iqr": 9.97420736563463
+  },
+  "low_onset_rate": {
+   "median": 6.047631891577365,
+   "iqr": 2.0052114325662282
+  },
+  "lufs": {
+   "median": -8.753413293284055,
+   "iqr": 2.9436435754528336
+  },
+  "rms_dbfs": {
+   "median": -8.55715862900193,
+   "iqr": 1.6546265955171418
+  },
+  "crest": {
+   "median": 8.557158946990967,
+   "iqr": 1.6546261310577393
+  },
+  "centroid": {
+   "median": 2319.8613814991295,
+   "iqr": 263.1896624386536
+  },
+  "flatness": {
+   "median": 0.025032796896994114,
+   "iqr": 0.01418396015651524
+  },
+  "sub100_share": {
+   "median": 0.2543373182415962,
+   "iqr": 0.16824048943817616
+  },
+  "lowest_pitch": {
+   "median": 67.291259765625,
+   "iqr": 33.6456298828125
+  },
+  "harmonic_share": {
+   "median": 0.7620083093643188,
+   "iqr": 0.09848111867904663
+  },
+  "clean_share": {
+   "median": 0.03180760279286268,
+   "iqr": 0.04226412631381004
+  },
+  "minor_share": {
+   "median": -0.03461522593556232,
+   "iqr": 0.15685656338733112
+  },
+  "chord_rate": {
+   "median": 2.0548583499005963,
+   "iqr": 1.5396967940173547
+  },
+  "repetitiveness": {
+   "median": 0.8357867896556854,
+   "iqr": 0.16894182562828064
+  },
+  "vocal_share": {
+   "median": 0.08747632429003716,
+   "iqr": 0.0708055729046464
+  },
+  "vocal_voiced": {
+   "median": 0.15659376143629045,
+   "iqr": 0.42353450216605487
+  },
+  "song_length": {
+   "median": 264.32,
+   "iqr": 55.146000000000015
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.5
+ },
+ "sources_failed": []
+}

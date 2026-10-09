@@ -1,0 +1,32 @@
+{
+ "id": "mercyful-fate/60363672-105",
+ "band": "mercyful-fate",
+ "title": "Banshee",
+ "source": "itunes",
+ "album": "Dead Again",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.207583765698492,
+  "tempo_var": 0.0,
+  "low_onset_rate": 3.6085317364108036,
+  "lufs": -9.977875939965056,
+  "rms_dbfs": -10.502669148108657,
+  "crest": 10.502670288085938,
+  "centroid": 3012.0971909458194,
+  "flatness": 0.04729529097676277,
+  "sub100_share": 0.21590442955493927,
+  "lowest_pitch": 94.207763671875,
+  "harmonic_share": 0.7145731449127197,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.1410417486282357,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.6332235336303711,
+  "vocal_share": 0.32278695702552795,
+  "vocal_voiced": 0.71875,
+  "song_length": 286.667
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "thin-lizzy/1440918303-105",
+ "band": "thin-lizzy",
+ "title": "Warriors",
+ "source": "itunes",
+ "album": "Jailbreak",
+ "year": 1976,
+ "itunes_year": 1976,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.9997339557157194,
+  "tempo_var": 2.842170943040401e-14,
+  "low_onset_rate": 5.199654142430435,
+  "lufs": -13.668370469578273,
+  "rms_dbfs": -13.537091773997291,
+  "crest": 13.537092208862305,
+  "centroid": 2231.7099155873934,
+  "flatness": 0.023165930062532425,
+  "sub100_share": 0.10656280070543289,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.5599531531333923,
+  "clean_share": 0.20959010054137664,
+  "minor_share": 0.14860280981787044,
+  "chord_rate": 2.133191443048384,
+  "repetitiveness": 0.8949892520904541,
+  "vocal_share": 0.2667712867259979,
+  "vocal_voiced": 0.7589803012746235,
+  "song_length": 248.267
+ }
+}

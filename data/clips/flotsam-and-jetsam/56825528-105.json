@@ -1,0 +1,32 @@
+{
+ "id": "flotsam-and-jetsam/56825528-105",
+ "band": "flotsam-and-jetsam",
+ "title": "Falling",
+ "source": "itunes",
+ "album": "Unnatural Selection",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.343603016050041,
+  "tempo_var": 3.3487125635082067,
+  "low_onset_rate": 5.479622266401591,
+  "lufs": -10.559285392397063,
+  "rms_dbfs": -9.609072728793219,
+  "crest": 9.6090726852417,
+  "centroid": 2915.872184128082,
+  "flatness": 0.034785281866788864,
+  "sub100_share": 0.534629762172699,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.6860966086387634,
+  "clean_share": 0.1404189294026377,
+  "minor_share": 0.1771465914390169,
+  "chord_rate": 2.405687824273869,
+  "repetitiveness": 0.8396666646003723,
+  "vocal_share": 0.055748358368873596,
+  "vocal_voiced": 0.40682095006090135,
+  "song_length": 219.96
+ }
+}

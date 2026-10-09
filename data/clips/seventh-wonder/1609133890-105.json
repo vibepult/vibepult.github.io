@@ -1,0 +1,32 @@
+{
+ "id": "seventh-wonder/1609133890-105",
+ "band": "seventh-wonder",
+ "title": "The Red River",
+ "source": "itunes",
+ "album": "The Testament",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.780333244435824,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.078674295689279,
+  "lufs": -10.315022193334709,
+  "rms_dbfs": -9.703352899837727,
+  "crest": 9.703352928161621,
+  "centroid": 2480.439493514726,
+  "flatness": 0.03158993273973465,
+  "sub100_share": 0.27976131439208984,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7507497668266296,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.03426519511626225,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.9107320308685303,
+  "vocal_share": 0.1020573228597641,
+  "vocal_voiced": 0.6540880503144654,
+  "song_length": 372.787
+ }
+}

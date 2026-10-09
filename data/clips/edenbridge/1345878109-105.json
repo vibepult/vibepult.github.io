@@ -1,0 +1,32 @@
+{
+ "id": "edenbridge/1345878109-105",
+ "band": "edenbridge",
+ "title": "See You Fading Afar",
+ "source": "itunes",
+ "album": "The Grand Design",
+ "year": 2006,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.1,
+  "tempo_var": 2.629354476984048,
+  "low_onset_rate": 5.5,
+  "lufs": -10.397152044302485,
+  "rms_dbfs": -9.732630212686145,
+  "crest": 9.732629776000977,
+  "centroid": 2499.839441233809,
+  "flatness": 0.02728142775595188,
+  "sub100_share": 0.329050213098526,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.7845754623413086,
+  "clean_share": 0.15789473684210525,
+  "minor_share": 0.1679367817807389,
+  "chord_rate": 1.2666666666666666,
+  "repetitiveness": 0.8139598965644836,
+  "vocal_share": 0.2075786590576172,
+  "vocal_voiced": 0.8938906752411575,
+  "song_length": 286.08
+ }
+}

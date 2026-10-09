@@ -1,0 +1,32 @@
+{
+ "id": "epidemia/1625910805-107",
+ "band": "epidemia",
+ "title": "Без сердца и души",
+ "source": "itunes",
+ "album": "Эльфийская рукопись: Сказание на все времена",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 69.83741554054055,
+  "onset_rate": 2.472512486059254,
+  "tempo_var": 5.021130886090266,
+  "low_onset_rate": 3.7087687290888813,
+  "lufs": -11.334623890030995,
+  "rms_dbfs": -11.538344257670373,
+  "crest": 11.538344383239746,
+  "centroid": 2271.797915690791,
+  "flatness": 0.018298836424946785,
+  "sub100_share": 0.24832653999328613,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.8436673283576965,
+  "clean_share": 0.17377812257564004,
+  "minor_share": -0.03789189956502681,
+  "chord_rate": 1.0023699267807789,
+  "repetitiveness": 0.7228083610534668,
+  "vocal_share": 0.001653853221796453,
+  "vocal_voiced": 0.8881987577639752,
+  "song_length": 511.387
+ }
+}

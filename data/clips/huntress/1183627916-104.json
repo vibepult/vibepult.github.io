@@ -1,0 +1,32 @@
+{
+ "id": "huntress/1183627916-104",
+ "band": "huntress",
+ "title": "I Want to Wanna Wake Up",
+ "source": "itunes",
+ "album": "Static",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 4.7,
+  "tempo_var": 11.283147024558259,
+  "low_onset_rate": 4.4,
+  "lufs": -8.260709857102274,
+  "rms_dbfs": -8.155333432224406,
+  "crest": 8.155333518981934,
+  "centroid": 2630.2021173801545,
+  "flatness": 0.0282439012080431,
+  "sub100_share": 0.11286589503288269,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.7035521268844604,
+  "clean_share": 0.018575851393188854,
+  "minor_share": 0.15857886623910333,
+  "chord_rate": 1.0666666666666667,
+  "repetitiveness": 0.737902045249939,
+  "vocal_share": 0.28947120904922485,
+  "vocal_voiced": 0.8710337768679631,
+  "song_length": 207.454
+ }
+}

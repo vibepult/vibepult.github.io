@@ -1,0 +1,32 @@
+{
+ "id": "sodom/1675512622-105",
+ "band": "sodom",
+ "title": "Magic Dragon",
+ "source": "itunes",
+ "album": "Agent Orange",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.6333333333333333,
+  "tempo_var": 3.375936665166493,
+  "low_onset_rate": 5.766666666666667,
+  "lufs": -8.365161919515733,
+  "rms_dbfs": -7.879540767724639,
+  "crest": 7.879540920257568,
+  "centroid": 2978.5409307547325,
+  "flatness": 0.04567829146981239,
+  "sub100_share": 0.30570802092552185,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7377512454986572,
+  "clean_share": 0.04643962848297214,
+  "minor_share": 0.03119265499146817,
+  "chord_rate": 1.5333333333333334,
+  "repetitiveness": 0.9132777452468872,
+  "vocal_share": 0.05946891009807587,
+  "vocal_voiced": 0.0,
+  "song_length": 359.32
+ }
+}

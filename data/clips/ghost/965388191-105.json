@@ -1,0 +1,32 @@
+{
+ "id": "ghost/965388191-105",
+ "band": "ghost",
+ "title": "Stand by Him",
+ "source": "itunes",
+ "album": "Opus Eponymous",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.6332784084896677,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.299934997203368,
+  "lufs": -7.716174527234559,
+  "rms_dbfs": -7.199454332151852,
+  "crest": 7.199454307556152,
+  "centroid": 2401.8102546079904,
+  "flatness": 0.025683226063847542,
+  "sub100_share": 0.1443420946598053,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.7319403290748596,
+  "clean_share": 0.08584686774941995,
+  "minor_share": 0.1075150006960503,
+  "chord_rate": 1.2666475185560309,
+  "repetitiveness": 0.758419930934906,
+  "vocal_share": 0.3152647614479065,
+  "vocal_voiced": 0.9114126097366321,
+  "song_length": 236.04
+ }
+}

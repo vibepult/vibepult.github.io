@@ -1,0 +1,32 @@
+{
+ "id": "alcest/1556156328-103",
+ "band": "alcest",
+ "title": "Les Iris",
+ "source": "itunes",
+ "album": "Souvenirs D'un Autre Monde",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.276778354264656,
+  "tempo_var": 2.267101074148183,
+  "low_onset_rate": 6.816115502109295,
+  "lufs": -9.1081778832546,
+  "rms_dbfs": -9.567166124364086,
+  "crest": 9.567166328430176,
+  "centroid": 2565.651971397648,
+  "flatness": 0.028004968538880348,
+  "sub100_share": 0.054608993232250214,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.8392724990844727,
+  "clean_share": 0.0,
+  "minor_share": 0.2332246296627435,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.7684072256088257,
+  "vocal_share": 0.16835279762744904,
+  "vocal_voiced": 0.9645030425963489,
+  "song_length": 461.267
+ }
+}

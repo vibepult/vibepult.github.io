@@ -1,0 +1,32 @@
+{
+ "id": "pelican/1459564734-104",
+ "band": "pelican",
+ "title": "Cold Hope",
+ "source": "itunes",
+ "album": "Nighttime Stories",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 2.533333333333333,
+  "tempo_var": 5.959491588058237,
+  "low_onset_rate": 4.6,
+  "lufs": -9.150054909821627,
+  "rms_dbfs": -8.126826661343506,
+  "crest": 8.126826286315918,
+  "centroid": 2258.3801467181815,
+  "flatness": 0.02295035310089588,
+  "sub100_share": 0.35118788480758667,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.6756504774093628,
+  "clean_share": 0.07739938080495357,
+  "minor_share": -0.0810307123346442,
+  "chord_rate": 1.0666666666666667,
+  "repetitiveness": 0.8537089824676514,
+  "vocal_share": 5.029994554206496e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 417.64
+ }
+}

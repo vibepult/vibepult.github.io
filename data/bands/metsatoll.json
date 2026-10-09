@@ -1,0 +1,127 @@
+{
+ "slug": "metsatoll",
+ "name": "Metsatöll",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1455483688,
+  "deezer": 361385,
+  "spotify": "5LJPlSHiYtJQ7mvVfDPVkT"
+ },
+ "metadata": {
+  "formed": 1999,
+  "split": null,
+  "country": "EE",
+  "status": "active",
+  "members": 4,
+  "past_members": 3,
+  "full_lengths": 7,
+  "genre": "Folk Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 2787,
+  "themes": "War, Nature, Mythology, History, Werevolves",
+  "release_year": 2008
+ },
+ "partial": false,
+ "clips": [
+  "metsatoll/1656546225-110",
+  "metsatoll/1656547728-105",
+  "metsatoll/1455484537-107",
+  "metsatoll/1656546225-111",
+  "metsatoll/1656547728-106",
+  "metsatoll/1455484537-106",
+  "metsatoll/1656546225-108",
+  "metsatoll/1656547728-104",
+  "metsatoll/1455484537-108",
+  "metsatoll/1656546225-112",
+  "metsatoll/1656547728-107",
+  "metsatoll/1455484537-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.19921875,
+   "iqr": 34.403638119753225
+  },
+  "onset_rate": {
+   "median": 4.143129030693886,
+   "iqr": 2.188507673471367
+  },
+  "tempo_var": {
+   "median": 3.2255835470227145,
+   "iqr": 8.181512020584432
+  },
+  "low_onset_rate": {
+   "median": 5.412797604616205,
+   "iqr": 1.8126189509285755
+  },
+  "lufs": {
+   "median": -12.287746908610565,
+   "iqr": 4.483733702903683
+  },
+  "rms_dbfs": {
+   "median": -11.846468716839933,
+   "iqr": 4.506581906845836
+  },
+  "crest": {
+   "median": 11.846468925476074,
+   "iqr": 4.144663333892822
+  },
+  "centroid": {
+   "median": 2178.600721070341,
+   "iqr": 458.74370352371443
+  },
+  "flatness": {
+   "median": 0.016336283646523952,
+   "iqr": 0.011851108749397099
+  },
+  "sub100_share": {
+   "median": 0.30849742889404297,
+   "iqr": 0.0956486165523529
+  },
+  "lowest_pitch": {
+   "median": 68.6370849609375,
+   "iqr": 32.97271728515625
+  },
+  "harmonic_share": {
+   "median": 0.7078157067298889,
+   "iqr": 0.13229010999202728
+  },
+  "clean_share": {
+   "median": 0.2339022498060512,
+   "iqr": 0.6297517455391777
+  },
+  "minor_share": {
+   "median": 0.1388376249722829,
+   "iqr": 0.15037873494731369
+  },
+  "chord_rate": {
+   "median": 1.704028875527324,
+   "iqr": 0.5429503770062551
+  },
+  "repetitiveness": {
+   "median": 0.7950273752212524,
+   "iqr": 0.12548211216926575
+  },
+  "vocal_share": {
+   "median": 0.19400164484977722,
+   "iqr": 0.1010105162858963
+  },
+  "vocal_voiced": {
+   "median": 0.6773308957952467,
+   "iqr": 0.218159188707994
+  },
+  "song_length": {
+   "median": 272.5745,
+   "iqr": 50.40650000000002
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.5,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

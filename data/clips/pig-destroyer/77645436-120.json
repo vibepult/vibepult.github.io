@@ -1,0 +1,32 @@
+{
+ "id": "pig-destroyer/77645436-120",
+ "band": "pig-destroyer",
+ "title": "Starbelly",
+ "source": "itunes",
+ "album": "Prowler In the Yard",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 5.633248174630769,
+  "tempo_var": 2.0149698035992785,
+  "low_onset_rate": 6.333237592780155,
+  "lufs": -9.92775455742053,
+  "rms_dbfs": -10.346536747911525,
+  "crest": 10.346536636352539,
+  "centroid": 3318.6268471935678,
+  "flatness": 0.08813553303480148,
+  "sub100_share": 0.1708703190088272,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.5281541347503662,
+  "clean_share": 0.0,
+  "minor_share": -0.03104511827240186,
+  "chord_rate": 3.2666172846971326,
+  "repetitiveness": 0.9680818319320679,
+  "vocal_share": 0.09965064376592636,
+  "vocal_voiced": 0.0764904386951631,
+  "song_length": 303.213
+ }
+}

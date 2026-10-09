@@ -1,0 +1,32 @@
+{
+ "id": "a-sound-of-thunder/1358064294-106",
+ "band": "a-sound-of-thunder",
+ "title": "Obsidian & Gold (Desdinova Returns)",
+ "source": "itunes",
+ "album": "It Was Metal",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.30782075837657,
+  "tempo_var": 9.585637681757921,
+  "low_onset_rate": 2.9068727876642586,
+  "lufs": -13.302576109262066,
+  "rms_dbfs": -13.312352192458158,
+  "crest": 13.312353134155273,
+  "centroid": 1991.05900989516,
+  "flatness": 0.00827342551201582,
+  "sub100_share": 0.13751740753650665,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.9187269806861877,
+  "clean_share": 0.6726144297905353,
+  "minor_share": 0.2552441863276399,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.6842385530471802,
+  "vocal_share": 0.5362074375152588,
+  "vocal_voiced": 0.9385964912280702,
+  "song_length": 575.413
+ }
+}

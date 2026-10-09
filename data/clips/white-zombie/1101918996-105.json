@@ -1,0 +1,32 @@
+{
+ "id": "white-zombie/1101918996-105",
+ "band": "white-zombie",
+ "title": "Acid Flesh",
+ "source": "itunes",
+ "album": "Make Them Die Slowly",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.566666666666666,
+  "tempo_var": 6.2581518538506185,
+  "low_onset_rate": 7.1,
+  "lufs": -13.908533081576731,
+  "rms_dbfs": -13.432648584131924,
+  "crest": 13.432647705078125,
+  "centroid": 2038.195951198415,
+  "flatness": 0.015020922757685184,
+  "sub100_share": 0.2729727029800415,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.767175555229187,
+  "clean_share": 0.10139318885448917,
+  "minor_share": 0.12063974576824804,
+  "chord_rate": 2.3666666666666667,
+  "repetitiveness": 0.92600017786026,
+  "vocal_share": 0.2602202594280243,
+  "vocal_voiced": 0.6848290598290598,
+  "song_length": 329.053
+ }
+}

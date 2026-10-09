@@ -1,0 +1,32 @@
+{
+ "id": "rush/1440759088-104",
+ "band": "rush",
+ "title": "Marathon",
+ "source": "itunes",
+ "album": "Power Windows (Remastered)",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.299934997203368,
+  "tempo_var": 4.513364264002218,
+  "low_onset_rate": 5.633248174630769,
+  "lufs": -10.630274062229713,
+  "rms_dbfs": -10.293994576938474,
+  "crest": 10.293993949890137,
+  "centroid": 2378.3316389323554,
+  "flatness": 0.02678621932864189,
+  "sub100_share": 0.3194694221019745,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.6586000919342041,
+  "clean_share": 0.0448569218870843,
+  "minor_share": 0.133844489873173,
+  "chord_rate": 1.399978836298771,
+  "repetitiveness": 0.854310154914856,
+  "vocal_share": 0.1551312357187271,
+  "vocal_voiced": 0.8347406513872135,
+  "song_length": 369.703
+ }
+}

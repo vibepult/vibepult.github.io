@@ -1,0 +1,32 @@
+{
+ "id": "idi-bihotz/975285945-106",
+ "band": "idi-bihotz",
+ "title": "Hondarraren jauna",
+ "source": "itunes",
+ "album": "Negarraren amorrua",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 5.34597294283082,
+  "tempo_var": 29.763783306486275,
+  "low_onset_rate": 4.343603016050041,
+  "lufs": -8.592276092923944,
+  "rms_dbfs": -7.012107087767117,
+  "crest": 7.0121073722839355,
+  "centroid": 2600.3158118552765,
+  "flatness": 0.031592801213264465,
+  "sub100_share": 0.6066445112228394,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8414164185523987,
+  "clean_share": 0.08611326609775019,
+  "minor_share": 0.07316529994190474,
+  "chord_rate": 2.4391001551665616,
+  "repetitiveness": 0.888064444065094,
+  "vocal_share": 0.0762290433049202,
+  "vocal_voiced": 0.8229755178907722,
+  "song_length": 266.28
+ }
+}

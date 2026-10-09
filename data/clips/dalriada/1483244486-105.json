@@ -1,0 +1,32 @@
+{
+ "id": "dalriada/1483244486-105",
+ "band": "dalriada",
+ "title": "Ígéret",
+ "source": "itunes",
+ "album": "Ígéret",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.57748933229889,
+  "tempo_var": 7.400260052591103,
+  "low_onset_rate": 6.816115502109295,
+  "lufs": -7.658124682647958,
+  "rms_dbfs": -6.784157730796217,
+  "crest": 6.784157752990723,
+  "centroid": 2368.7984292088872,
+  "flatness": 0.0231479462236166,
+  "sub100_share": 0.4104057252407074,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8467875123023987,
+  "clean_share": 0.03180760279286268,
+  "minor_share": 0.16368756902621817,
+  "chord_rate": 1.0357822576734714,
+  "repetitiveness": 0.7547425031661987,
+  "vocal_share": 0.12971234321594238,
+  "vocal_voiced": 0.9200463499420626,
+  "song_length": 274.973
+ }
+}

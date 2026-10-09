@@ -1,0 +1,32 @@
+{
+ "id": "powerwolf/272130233-107",
+ "band": "powerwolf",
+ "title": "Vampires Don't Die",
+ "source": "itunes",
+ "album": "Lupus Dei",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.766666666666667,
+  "tempo_var": 13.49820076406019,
+  "low_onset_rate": 6.933333333333334,
+  "lufs": -7.083258454931767,
+  "rms_dbfs": -7.106544472656198,
+  "crest": 7.106544494628906,
+  "centroid": 2605.7040779355334,
+  "flatness": 0.037345040589571,
+  "sub100_share": 0.23890945315361023,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7977722883224487,
+  "clean_share": 0.0,
+  "minor_share": 0.15909243627154668,
+  "chord_rate": 1.1666666666666667,
+  "repetitiveness": 0.7617637515068054,
+  "vocal_share": 0.16489528119564056,
+  "vocal_voiced": 0.33749025720966486,
+  "song_length": 188.88
+ }
+}

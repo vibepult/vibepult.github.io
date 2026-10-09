@@ -1,0 +1,32 @@
+{
+ "id": "grave-digger/1183623154-106",
+ "band": "grave-digger",
+ "title": "Lonely the Innocence Dies",
+ "source": "itunes",
+ "album": "Ballads of a Hangman",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 2.9,
+  "tempo_var": 11.672304485025773,
+  "low_onset_rate": 5.8,
+  "lufs": -8.498916461918768,
+  "rms_dbfs": -8.64996489991633,
+  "crest": 8.649965286254883,
+  "centroid": 2359.1817543529096,
+  "flatness": 0.01926822029054165,
+  "sub100_share": 0.217059925198555,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.8766330480575562,
+  "clean_share": 0.15247678018575853,
+  "minor_share": 0.019359173695028375,
+  "chord_rate": 0.5333333333333333,
+  "repetitiveness": 0.6473047137260437,
+  "vocal_share": 0.14494688808918,
+  "vocal_voiced": 0.6666666666666666,
+  "song_length": 345.427
+ }
+}

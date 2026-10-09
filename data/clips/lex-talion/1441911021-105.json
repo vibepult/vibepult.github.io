@@ -1,0 +1,32 @@
+{
+ "id": "lex-talion/1441911021-105",
+ "band": "lex-talion",
+ "title": "Arise",
+ "source": "itunes",
+ "album": "Sons of Chaos",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 2.138389177132328,
+  "tempo_var": 2.6784682733526335,
+  "low_onset_rate": 2.940285118556951,
+  "lufs": -7.124320835113184,
+  "rms_dbfs": -7.064499655952268,
+  "crest": 7.064499855041504,
+  "centroid": 2826.5142574259576,
+  "flatness": 0.05288155376911163,
+  "sub100_share": 0.36096492409706116,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.76962810754776,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.23595433839924684,
+  "chord_rate": 2.138389177132328,
+  "repetitiveness": 0.8931677937507629,
+  "vocal_share": 0.23908327519893646,
+  "vocal_voiced": 0.15182357930449533,
+  "song_length": 271.98
+ }
+}

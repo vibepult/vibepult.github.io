@@ -1,0 +1,32 @@
+{
+ "id": "leatherwolf/1443815795-106",
+ "band": "leatherwolf",
+ "title": "Bad Moon Rising",
+ "source": "itunes",
+ "album": "Leatherwolf",
+ "year": 1984,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.633248174630769,
+  "tempo_var": 11.272444610791363,
+  "low_onset_rate": 5.69991383350214,
+  "lufs": -14.59161115492414,
+  "rms_dbfs": -15.260290265379766,
+  "crest": 15.26029109954834,
+  "centroid": 2781.938559926759,
+  "flatness": 0.043585266917943954,
+  "sub100_share": 0.04246741160750389,
+  "lowest_pitch": 123.81591796875,
+  "harmonic_share": 0.7049223184585571,
+  "clean_share": 0.008507347254447023,
+  "minor_share": -0.10980149737348677,
+  "chord_rate": 1.199981859684661,
+  "repetitiveness": 0.8816460371017456,
+  "vocal_share": 0.222046360373497,
+  "vocal_voiced": 0.5683890577507599,
+  "song_length": 159.893
+ }
+}

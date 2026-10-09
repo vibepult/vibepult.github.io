@@ -1,0 +1,32 @@
+{
+ "id": "ultra-vomit/1751639502-112",
+ "band": "ultra-vomit",
+ "title": "Auto-thunes",
+ "source": "itunes",
+ "album": "Ultra Vomit et le Pouvoir de la Puissance",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.866608214539463,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.633263291560218,
+  "lufs": -9.000632679804632,
+  "rms_dbfs": -8.540485954856894,
+  "crest": 8.540486335754395,
+  "centroid": 2817.602671216109,
+  "flatness": 0.04581911489367485,
+  "sub100_share": 0.2950389087200165,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6813797354698181,
+  "clean_share": 0.013147718484145398,
+  "minor_share": 0.08969891214327563,
+  "chord_rate": 1.433311665734456,
+  "repetitiveness": 0.8527812361717224,
+  "vocal_share": 0.1913437843322754,
+  "vocal_voiced": 0.8257777777777778,
+  "song_length": 131.667
+ }
+}

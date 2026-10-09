@@ -1,0 +1,32 @@
+{
+ "id": "battlelore/1611051595-106",
+ "band": "battlelore",
+ "title": "Firekeeper",
+ "source": "itunes",
+ "album": "The Return of the Shadow",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.899851856330875,
+  "tempo_var": 2.842170943040401e-14,
+  "low_onset_rate": 5.433169065183215,
+  "lufs": -10.052575052020467,
+  "rms_dbfs": -9.214929133597494,
+  "crest": 9.214929580688477,
+  "centroid": 2144.0379777974053,
+  "flatness": 0.0176391564309597,
+  "sub100_share": 0.29861971735954285,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8191816806793213,
+  "clean_share": 0.0069605568445475635,
+  "minor_share": -0.052433663692513344,
+  "chord_rate": 1.1332990688112226,
+  "repetitiveness": 0.7989556789398193,
+  "vocal_share": 0.1478249877691269,
+  "vocal_voiced": 0.99581589958159,
+  "song_length": 398.916
+ }
+}

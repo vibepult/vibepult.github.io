@@ -1,0 +1,32 @@
+{
+ "id": "ultar/1622740565-105",
+ "band": "ultar",
+ "title": "The Ancient Ones",
+ "source": "itunes",
+ "album": "Kadath",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 0.6682466178538525,
+  "tempo_var": 7.064355926529529,
+  "low_onset_rate": 5.780333244435824,
+  "lufs": -12.260948237303065,
+  "rms_dbfs": -9.987434848730278,
+  "crest": 9.987434387207031,
+  "centroid": 1253.090383774017,
+  "flatness": 0.00106875563506037,
+  "sub100_share": 0.629540741443634,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.957835853099823,
+  "clean_share": 0.9650892164468581,
+  "minor_share": -0.012649291061647805,
+  "chord_rate": 0.9021329341027009,
+  "repetitiveness": 0.8667705059051514,
+  "vocal_share": 3.202878531283204e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 207.627
+ }
+}

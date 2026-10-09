@@ -1,0 +1,32 @@
+{
+ "id": "the-gathering/1613185648-104",
+ "band": "the-gathering",
+ "title": "We Rise",
+ "source": "itunes",
+ "album": "Beautiful Distortion",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.6753563981961888,
+  "tempo_var": 4.347178917317052,
+  "low_onset_rate": 4.109716699801193,
+  "lufs": -13.427758089151617,
+  "rms_dbfs": -12.483459728040964,
+  "crest": 12.48345947265625,
+  "centroid": 2108.700215262374,
+  "flatness": 0.016111338511109352,
+  "sub100_share": 0.326620489358902,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.8233113288879395,
+  "clean_share": 0.1730023273855702,
+  "minor_share": -0.06570865110989277,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.6220570802688599,
+  "vocal_share": 0.21326015889644623,
+  "vocal_voiced": 0.9318637274549099,
+  "song_length": 407.7
+ }
+}

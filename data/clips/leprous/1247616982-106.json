@@ -1,0 +1,32 @@
+{
+ "id": "leprous/1247616982-106",
+ "band": "leprous",
+ "title": "Leashes",
+ "source": "itunes",
+ "album": "Malina",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.9974679681350738,
+  "tempo_var": 2.4362933822486137,
+  "low_onset_rate": 4.397214764948581,
+  "lufs": -11.65566438809805,
+  "rms_dbfs": -11.224181497247553,
+  "crest": 11.22418212890625,
+  "centroid": 1577.7031296098912,
+  "flatness": 0.006276994477957487,
+  "sub100_share": 0.1327279657125473,
+  "lowest_pitch": 148.040771484375,
+  "harmonic_share": 0.8846660852432251,
+  "clean_share": 0.7161639597834494,
+  "minor_share": 0.3136011737353296,
+  "chord_rate": 1.5989871872540296,
+  "repetitiveness": 0.6940194368362427,
+  "vocal_share": 0.5446615219116211,
+  "vocal_voiced": 0.8973214285714286,
+  "song_length": 249.658
+ }
+}

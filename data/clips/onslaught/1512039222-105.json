@@ -1,0 +1,32 @@
+{
+ "id": "onslaught/1512039222-105",
+ "band": "onslaught",
+ "title": "All Seeing Eye",
+ "source": "itunes",
+ "album": "Generation Antichrist",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 6.8829401638946806,
+  "tempo_var": 11.002262019937142,
+  "low_onset_rate": 8.319670392280464,
+  "lufs": -9.678012290566581,
+  "rms_dbfs": -9.407143718534886,
+  "crest": 9.407143592834473,
+  "centroid": 2739.9486757209056,
+  "flatness": 0.04714396595954895,
+  "sub100_share": 0.39483174681663513,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7610024213790894,
+  "clean_share": 0.0,
+  "minor_share": 0.17739403965099837,
+  "chord_rate": 2.0047398535615577,
+  "repetitiveness": 0.9534925818443298,
+  "vocal_share": 0.125813826918602,
+  "vocal_voiced": 0.013793103448275862,
+  "song_length": 230.5
+ }
+}

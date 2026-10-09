@@ -1,0 +1,32 @@
+{
+ "id": "oceanhoarse/1564503784-105",
+ "band": "oceanhoarse",
+ "title": "Reaching Skywards",
+ "source": "itunes",
+ "album": "Dead Reckoning",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 6.782703171216603,
+  "tempo_var": 9.499101820853877,
+  "low_onset_rate": 7.8184854288900745,
+  "lufs": -9.649604337910068,
+  "rms_dbfs": -8.463474171178198,
+  "crest": 8.46347427368164,
+  "centroid": 2798.044778440683,
+  "flatness": 0.042211417108774185,
+  "sub100_share": 0.5471636056900024,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7992934584617615,
+  "clean_share": 0.010861132660977503,
+  "minor_share": 0.19203283391244563,
+  "chord_rate": 2.2386261698104057,
+  "repetitiveness": 0.893161952495575,
+  "vocal_share": 0.11098718643188477,
+  "vocal_voiced": 0.48614834673815904,
+  "song_length": 246.534
+ }
+}

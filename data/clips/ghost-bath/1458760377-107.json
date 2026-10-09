@@ -1,0 +1,32 @@
+{
+ "id": "ghost-bath/1458760377-107",
+ "band": "ghost-bath",
+ "title": "Luminescence",
+ "source": "itunes",
+ "album": "Starmourner",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 73.828125,
+  "onset_rate": 1.069194588566164,
+  "tempo_var": 9.488383465170568,
+  "low_onset_rate": 6.214693546040828,
+  "lufs": -9.779490738624457,
+  "rms_dbfs": -8.670615984968181,
+  "crest": 8.670615196228027,
+  "centroid": 2616.239806337381,
+  "flatness": 0.028633976355195045,
+  "sub100_share": 0.5857574939727783,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8813282251358032,
+  "clean_share": 0.04344453064391001,
+  "minor_share": 0.04977808656301297,
+  "chord_rate": 2.338863162488484,
+  "repetitiveness": 0.8978860974311829,
+  "vocal_share": 5.526774771169585e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 368.406
+ }
+}

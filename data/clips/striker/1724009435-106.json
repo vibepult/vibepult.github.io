@@ -1,0 +1,32 @@
+{
+ "id": "striker/1724009435-106",
+ "band": "striker",
+ "title": "Ready for Anything",
+ "source": "itunes",
+ "album": "Ultrapower",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.833333333333333,
+  "tempo_var": 2.4834416123247762,
+  "low_onset_rate": 6.566666666666666,
+  "lufs": -7.9447653856062175,
+  "rms_dbfs": -7.376756580442827,
+  "crest": 7.37675666809082,
+  "centroid": 2807.937440806792,
+  "flatness": 0.050507109612226486,
+  "sub100_share": 0.36949622631073,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7072625160217285,
+  "clean_share": 0.0,
+  "minor_share": 0.16297729268673355,
+  "chord_rate": 1.9333333333333333,
+  "repetitiveness": 0.8912760615348816,
+  "vocal_share": 0.17331314086914062,
+  "vocal_voiced": 0.6443024494142705,
+  "song_length": 236.354
+ }
+}

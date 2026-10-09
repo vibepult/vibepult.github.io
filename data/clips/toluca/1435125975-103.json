@@ -1,0 +1,32 @@
+{
+ "id": "toluca/1435125975-103",
+ "band": "toluca",
+ "title": "Furcas",
+ "source": "itunes",
+ "album": "Memoria",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.312560611938127,
+  "tempo_var": 1.1933081047079221,
+  "low_onset_rate": 5.412797604616205,
+  "lufs": -10.814501116945575,
+  "rms_dbfs": -10.705691716551458,
+  "crest": 10.70569133758545,
+  "centroid": 2356.355955155188,
+  "flatness": 0.015993164852261543,
+  "sub100_share": 0.28744998574256897,
+  "lowest_pitch": 137.274169921875,
+  "harmonic_share": 0.8541156053543091,
+  "clean_share": 0.5011636927851048,
+  "minor_share": 0.24555086246500113,
+  "chord_rate": 1.0023699267807789,
+  "repetitiveness": 0.5925763249397278,
+  "vocal_share": 0.026609688997268677,
+  "vocal_voiced": 0.0,
+  "song_length": 409.876
+ }
+}

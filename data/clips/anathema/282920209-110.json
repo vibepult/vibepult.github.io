@@ -1,0 +1,32 @@
+{
+ "id": "anathema/282920209-110",
+ "band": "anathema",
+ "title": "Unchained (Tales of the Unexpected)",
+ "source": "itunes",
+ "album": "Hindsight",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.2,
+  "tempo_var": 24.437570608415236,
+  "low_onset_rate": 5.966666666666667,
+  "lufs": -13.352687151735902,
+  "rms_dbfs": -13.21355528826253,
+  "crest": 13.213556289672852,
+  "centroid": 984.9771450383386,
+  "flatness": 0.0008962772553786635,
+  "sub100_share": 0.1319805085659027,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.9541497230529785,
+  "clean_share": 0.9690402476780186,
+  "minor_share": -0.14625081813082674,
+  "chord_rate": 0.7,
+  "repetitiveness": 0.7959965467453003,
+  "vocal_share": 0.06641107052564621,
+  "vocal_voiced": 1.0,
+  "song_length": 258.347
+ }
+}

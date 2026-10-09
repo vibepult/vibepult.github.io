@@ -1,0 +1,32 @@
+{
+ "id": "neurosis/73640380-105",
+ "band": "neurosis",
+ "title": "Locust Star",
+ "source": "itunes",
+ "album": "Through Silver In Blood",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 3.866608214539463,
+  "tempo_var": 44.602754892345196,
+  "low_onset_rate": 6.43323608108721,
+  "lufs": -21.11834351877676,
+  "rms_dbfs": -19.503376045435044,
+  "crest": 17.80780792236328,
+  "centroid": 1198.8150087335603,
+  "flatness": 0.002405676292255521,
+  "sub100_share": 0.7109536528587341,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.9271367788314819,
+  "clean_share": 0.8739365815931941,
+  "minor_share": 0.1067760846780128,
+  "chord_rate": 1.5999758129128812,
+  "repetitiveness": 0.7172777652740479,
+  "vocal_share": 0.002797069028019905,
+  "vocal_voiced": 0.7368421052631579,
+  "song_length": 348.64
+ }
+}

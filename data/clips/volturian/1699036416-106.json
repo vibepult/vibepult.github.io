@@ -1,0 +1,32 @@
+{
+ "id": "volturian/1699036416-106",
+ "band": "volturian",
+ "title": "In A Heartbeat",
+ "source": "itunes",
+ "album": "Crimson",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.499863949691619,
+  "tempo_var": 9.013220008834393,
+  "low_onset_rate": 6.766462087314064,
+  "lufs": -7.755513122671505,
+  "rms_dbfs": -7.247612123096153,
+  "crest": 7.247611999511719,
+  "centroid": 2391.5436357789117,
+  "flatness": 0.024969208985567093,
+  "sub100_share": 0.35204997658729553,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8716424107551575,
+  "clean_share": 0.0030935808197989174,
+  "minor_share": 0.20431554559379528,
+  "chord_rate": 1.166631394364494,
+  "repetitiveness": 0.8457692265510559,
+  "vocal_share": 0.2788139283657074,
+  "vocal_voiced": 0.6872556684910086,
+  "song_length": 225.511
+ }
+}

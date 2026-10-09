@@ -1,0 +1,127 @@
+{
+ "slug": "angra",
+ "name": "Angra",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 192030844,
+  "deezer": 639,
+  "spotify": "7IAXZaLTb6nkJr8RmVPn5y"
+ },
+ "metadata": {
+  "formed": 1991,
+  "split": null,
+  "country": "BR",
+  "status": "active",
+  "members": 5,
+  "past_members": 10,
+  "full_lengths": 10,
+  "genre": "Progressive Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 272244,
+  "themes": "Religion, Personal thoughts, Conceits, War, Life, Spirituality",
+  "release_year": 2002
+ },
+ "partial": false,
+ "clips": [
+  "angra/1689467004-106",
+  "angra/1697410103-106",
+  "angra/1697417901-105",
+  "angra/1689475163-106",
+  "angra/1704073200-107",
+  "angra/1704073239-105",
+  "angra/1704078587-106",
+  "angra/1237028395-106",
+  "angra/1328534515-106",
+  "angra/1776759376-107",
+  "angra/1689467004-105",
+  "angra/1697410103-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 47.8515625
+  },
+  "onset_rate": {
+   "median": 4.30531993926217,
+   "iqr": 2.499984882933436
+  },
+  "tempo_var": {
+   "median": 17.54767858860896,
+   "iqr": 8.36139338309209
+  },
+  "low_onset_rate": {
+   "median": 3.771118640580322,
+   "iqr": 1.549990627418731
+  },
+  "lufs": {
+   "median": -13.925901322709715,
+   "iqr": 9.953895996927963
+  },
+  "rms_dbfs": {
+   "median": -13.479316815974197,
+   "iqr": 11.354053573176644
+  },
+  "crest": {
+   "median": 13.479316711425781,
+   "iqr": 8.386897087097168
+  },
+  "centroid": {
+   "median": 2134.0985057516164,
+   "iqr": 958.1284817552807
+  },
+  "flatness": {
+   "median": 0.022997847758233547,
+   "iqr": 0.018389994045719504
+  },
+  "sub100_share": {
+   "median": 0.35750365257263184,
+   "iqr": 0.3492969907820225
+  },
+  "lowest_pitch": {
+   "median": 71.3287353515625,
+   "iqr": 37.01019287109375
+  },
+  "harmonic_share": {
+   "median": 0.8576674461364746,
+   "iqr": 0.15225081145763397
+  },
+  "clean_share": {
+   "median": 0.46597061098221193,
+   "iqr": 0.7068284451404203
+  },
+  "minor_share": {
+   "median": -0.021901883400647415,
+   "iqr": 0.19055441101399406
+  },
+  "chord_rate": {
+   "median": 1.7999945578560372,
+   "iqr": 0.4949900566939416
+  },
+  "repetitiveness": {
+   "median": 0.8218198120594025,
+   "iqr": 0.11505191028118134
+  },
+  "vocal_share": {
+   "median": 0.19904345273971558,
+   "iqr": 0.25780909322202206
+  },
+  "vocal_voiced": {
+   "median": 0.6898690436887862,
+   "iqr": 0.4823224525358689
+  },
+  "song_length": {
+   "median": 323.36,
+   "iqr": 174.0095
+  },
+  "vocal_presence": {
+   "median": 0.5,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

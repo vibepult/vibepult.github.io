@@ -1,0 +1,127 @@
+{
+ "slug": "saxon",
+ "name": "Saxon",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 3632744,
+  "deezer": 8552,
+  "spotify": "71vVmHeNgCVSa5SVmfvscU"
+ },
+ "metadata": {
+  "formed": 1978,
+  "split": null,
+  "country": "GB",
+  "status": "active",
+  "members": 5,
+  "past_members": 8,
+  "full_lengths": 28,
+  "genre": "NWOBHM, Heavy Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 137912,
+  "themes": "History, Mythology, Motorcycles, Rock/Metal",
+  "release_year": 1986
+ },
+ "partial": false,
+ "clips": [
+  "saxon/1437353200-104",
+  "saxon/1451595306-105",
+  "saxon/1437332232-108",
+  "saxon/1437466858-105",
+  "saxon/1437338198-106",
+  "saxon/1437328205-107",
+  "saxon/1437341373-107",
+  "saxon/1690333509-106",
+  "saxon/1690544288-105",
+  "saxon/1689552940-106",
+  "saxon/1690543900-106",
+  "saxon/1690333497-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 41.074316910686875
+  },
+  "onset_rate": {
+   "median": 4.555416818504531,
+   "iqr": 1.0756087311596838
+  },
+  "tempo_var": {
+   "median": 7.485320804181837,
+   "iqr": 12.56294104932442
+  },
+  "low_onset_rate": {
+   "median": 5.339811579912731,
+   "iqr": 1.0678294585605306
+  },
+  "lufs": {
+   "median": -12.077957043201735,
+   "iqr": 3.165630725841824
+  },
+  "rms_dbfs": {
+   "median": -12.142167193433583,
+   "iqr": 2.4328581874189865
+  },
+  "crest": {
+   "median": 12.142166137695312,
+   "iqr": 2.432858943939209
+  },
+  "centroid": {
+   "median": 2768.1067791570313,
+   "iqr": 375.54424952724185
+  },
+  "flatness": {
+   "median": 0.034902531653642654,
+   "iqr": 0.01876627840101719
+  },
+  "sub100_share": {
+   "median": 0.1952795833349228,
+   "iqr": 0.07523110881447792
+  },
+  "lowest_pitch": {
+   "median": 61.907958984375,
+   "iqr": 22.8790283203125
+  },
+  "harmonic_share": {
+   "median": 0.7117944061756134,
+   "iqr": 0.15704800188541412
+  },
+  "clean_share": {
+   "median": 0.012394723152716454,
+   "iqr": 0.04736325634781065
+  },
+  "minor_share": {
+   "median": -0.015603061687472497,
+   "iqr": 0.13335872716186992
+  },
+  "chord_rate": {
+   "median": 1.436730228385783,
+   "iqr": 0.8195728503590105
+  },
+  "repetitiveness": {
+   "median": 0.8841950297355652,
+   "iqr": 0.07204283773899078
+  },
+  "vocal_share": {
+   "median": 0.24628594517707825,
+   "iqr": 0.07421582192182541
+  },
+  "vocal_voiced": {
+   "median": 0.8036677454153183,
+   "iqr": 0.16100190298791262
+  },
+  "song_length": {
+   "median": 251.53300000000002,
+   "iqr": 28.05374999999998
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

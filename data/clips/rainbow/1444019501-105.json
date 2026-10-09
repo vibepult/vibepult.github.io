@@ -1,0 +1,32 @@
+{
+ "id": "rainbow/1444019501-105",
+ "band": "rainbow",
+ "title": "Anybody There",
+ "source": "itunes",
+ "album": "Bent Out of Shape",
+ "year": 1983,
+ "itunes_year": 1983,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.4332814318755576,
+  "tempo_var": 1.419983877174378,
+  "low_onset_rate": 3.966606702846518,
+  "lufs": -13.13849008414052,
+  "rms_dbfs": -13.381926595091315,
+  "crest": 13.381661415100098,
+  "centroid": 1829.161798692121,
+  "flatness": 0.006990561727434397,
+  "sub100_share": 0.08917589485645294,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8995592594146729,
+  "clean_share": 0.7347254447022429,
+  "minor_share": -0.09089000634264777,
+  "chord_rate": 1.1333162008132909,
+  "repetitiveness": 0.6082871556282043,
+  "vocal_share": 9.411940482095815e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 158.867
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "machine-head",
+ "name": "Machine Head",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 16638695,
+  "deezer": 536,
+  "spotify": "0lVlNsuGaOr9vMHCZIAKMt"
+ },
+ "metadata": {
+  "formed": 1991,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 4,
+  "past_members": 10,
+  "full_lengths": 11,
+  "genre": "Groove/Thrash Metal, Nu-Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 300050,
+  "themes": "Violence, Domination, Respect, Inner struggles, Politics, Society, Anti-religion",
+  "release_year": 2000
+ },
+ "partial": false,
+ "clips": [
+  "machine-head/214477654-106",
+  "machine-head/214392135-105",
+  "machine-head/214355871-107",
+  "machine-head/214475186-107",
+  "machine-head/1581949593-106",
+  "machine-head/1530511730-105",
+  "machine-head/1571698816-104",
+  "machine-head/1458748149-108",
+  "machine-head/214477654-105",
+  "machine-head/214392135-106",
+  "machine-head/214355871-106",
+  "machine-head/214475186-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 135.99917763157896,
+   "iqr": 37.633618588503225
+  },
+  "onset_rate": {
+   "median": 4.988840974123152,
+   "iqr": 2.280845816342192
+  },
+  "tempo_var": {
+   "median": 15.844292196655095,
+   "iqr": 18.49888208392382
+  },
+  "low_onset_rate": {
+   "median": 5.116063412023979,
+   "iqr": 2.991006353340844
+  },
+  "lufs": {
+   "median": -10.357359162981325,
+   "iqr": 5.199015027422767
+  },
+  "rms_dbfs": {
+   "median": -10.227715234327338,
+   "iqr": 4.070940856999462
+  },
+  "crest": {
+   "median": 10.227715492248535,
+   "iqr": 3.9901371002197266
+  },
+  "centroid": {
+   "median": 2470.6138516464357,
+   "iqr": 852.6195590329667
+  },
+  "flatness": {
+   "median": 0.032881978899240494,
+   "iqr": 0.024045704631134868
+  },
+  "sub100_share": {
+   "median": 0.3326299786567688,
+   "iqr": 0.14163809269666672
+  },
+  "lowest_pitch": {
+   "median": 61.907958984375,
+   "iqr": 30.28106689453125
+  },
+  "harmonic_share": {
+   "median": 0.7373264729976654,
+   "iqr": 0.15258684754371643
+  },
+  "clean_share": {
+   "median": 0.057617942768754836,
+   "iqr": 0.30201082753286934
+  },
+  "minor_share": {
+   "median": 0.05085045157334454,
+   "iqr": 0.19392642351736922
+  },
+  "chord_rate": {
+   "median": 2.0164289018074966,
+   "iqr": 0.6681636902968211
+  },
+  "repetitiveness": {
+   "median": 0.9151154458522797,
+   "iqr": 0.1404876857995987
+  },
+  "vocal_share": {
+   "median": 0.17602842301130295,
+   "iqr": 0.014318469911813736
+  },
+  "vocal_voiced": {
+   "median": 0.29345735785953175,
+   "iqr": 0.3306803376519902
+  },
+  "song_length": {
+   "median": 306.892,
+   "iqr": 91.88050000000004
+  },
+  "vocal_presence": {
+   "median": 0.3333333333333333,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

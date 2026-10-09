@@ -1,0 +1,32 @@
+{
+ "id": "samael/1045654697-108",
+ "band": "samael",
+ "title": "I",
+ "source": "itunes",
+ "album": "Eternal",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.811375648547738,
+  "tempo_var": 0.29738231030866136,
+  "low_onset_rate": 5.579859259079669,
+  "lufs": -8.891402911861,
+  "rms_dbfs": -8.737247941478481,
+  "crest": 8.737247467041016,
+  "centroid": 2660.3828129836575,
+  "flatness": 0.04898087680339813,
+  "sub100_share": 0.28048843145370483,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.5942431688308716,
+  "clean_share": 0.0,
+  "minor_share": 0.2122297147709264,
+  "chord_rate": 2.071564515346943,
+  "repetitiveness": 0.9083328247070312,
+  "vocal_share": 0.13667111098766327,
+  "vocal_voiced": 0.1271043771043771,
+  "song_length": 240.947
+ }
+}

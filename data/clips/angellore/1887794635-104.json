@@ -1,0 +1,32 @@
+{
+ "id": "angellore/1887794635-104",
+ "band": "angellore",
+ "title": "Martyrium",
+ "source": "itunes",
+ "album": "Nocturnes",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.299934997203368,
+  "tempo_var": 25.64597866678611,
+  "low_onset_rate": 6.799897204879745,
+  "lufs": -12.158566575986429,
+  "rms_dbfs": -10.533954611344278,
+  "crest": 10.533954620361328,
+  "centroid": 2296.8725333683997,
+  "flatness": 0.021546026691794395,
+  "sub100_share": 0.49673664569854736,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7854516506195068,
+  "clean_share": 0.16009280742459397,
+  "minor_share": 0.04389225825618037,
+  "chord_rate": 1.5333101540415113,
+  "repetitiveness": 0.8840929269790649,
+  "vocal_share": 0.10996758937835693,
+  "vocal_voiced": 0.7936378466557912,
+  "song_length": 740.427
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "panopticon/1688750220-104",
+ "band": "panopticon",
+ "title": "Oaks Ablaze",
+ "source": "itunes",
+ "album": "Autumn Eternal",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 0.8666614260835913,
+  "tempo_var": 16.84252611158296,
+  "low_onset_rate": 3.66664449496904,
+  "lufs": -10.89559960113813,
+  "rms_dbfs": -9.546316368086393,
+  "crest": 9.546316146850586,
+  "centroid": 2128.817168791115,
+  "flatness": 0.018948810175061226,
+  "sub100_share": 0.4840686023235321,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7912534475326538,
+  "clean_share": 0.04408352668213457,
+  "minor_share": -0.0281005320781203,
+  "chord_rate": 2.1666535652089784,
+  "repetitiveness": 0.8991527557373047,
+  "vocal_share": 3.752637667275849e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 518.267
+ }
+}

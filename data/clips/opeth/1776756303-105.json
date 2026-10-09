@@ -1,0 +1,32 @@
+{
+ "id": "opeth/1776756303-105",
+ "band": "opeth",
+ "title": "Lovelorn Crime",
+ "source": "itunes",
+ "album": "In Cauda Venenum",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 61.5234375,
+  "onset_rate": 2.066666666666667,
+  "tempo_var": 12.655060076076872,
+  "low_onset_rate": 4.633333333333334,
+  "lufs": -16.78508627908024,
+  "rms_dbfs": -16.236523043508527,
+  "crest": 14.504145622253418,
+  "centroid": 1214.1118638205894,
+  "flatness": 0.00325806369073689,
+  "sub100_share": 0.0016289176419377327,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.9740932583808899,
+  "clean_share": 0.9543343653250774,
+  "minor_share": 0.10346140226685008,
+  "chord_rate": 0.8,
+  "repetitiveness": 0.6760473251342773,
+  "vocal_share": 0.6391354203224182,
+  "vocal_voiced": 0.9845410628019323,
+  "song_length": 394.0
+ }
+}

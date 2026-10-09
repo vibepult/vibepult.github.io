@@ -1,0 +1,32 @@
+{
+ "id": "aeon-zen/1541479708-104",
+ "band": "aeon-zen",
+ "title": "Seven Hills",
+ "source": "itunes",
+ "album": "Enigma",
+ "year": 2012,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.773223464093488,
+  "tempo_var": 18.50411189731437,
+  "low_onset_rate": 3.575119405518111,
+  "lufs": -14.390273027308089,
+  "rms_dbfs": -13.891154714428636,
+  "crest": 13.891154289245605,
+  "centroid": 1866.528793617859,
+  "flatness": 0.006183838006108999,
+  "sub100_share": 0.0347072035074234,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.9420092701911926,
+  "clean_share": 0.6881303335919318,
+  "minor_share": -0.03428251067508503,
+  "chord_rate": 0.9021329341027009,
+  "repetitiveness": 0.5895421504974365,
+  "vocal_share": 0.5177609324455261,
+  "vocal_voiced": 0.8710771840542832,
+  "song_length": 210.427
+ }
+}

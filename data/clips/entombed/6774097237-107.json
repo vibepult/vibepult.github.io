@@ -1,0 +1,32 @@
+{
+ "id": "entombed/6774097237-107",
+ "band": "entombed",
+ "title": "Intermission (2026 Remaster)",
+ "source": "itunes",
+ "album": "Inferno (2026 Remaster)",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.933333333333333,
+  "tempo_var": 4.759970162022325,
+  "low_onset_rate": 3.6666666666666665,
+  "lufs": -21.944813796379012,
+  "rms_dbfs": -21.271605906109535,
+  "crest": 15.459999084472656,
+  "centroid": 887.0828350594821,
+  "flatness": 5.199285442358814e-05,
+  "sub100_share": 0.001662163995206356,
+  "lowest_pitch": 131.890869140625,
+  "harmonic_share": 0.9794458150863647,
+  "clean_share": 1.0,
+  "minor_share": -0.25259665736676706,
+  "chord_rate": 1.7333333333333334,
+  "repetitiveness": 0.5661304593086243,
+  "vocal_share": 1.605782244951115e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 129.493
+ }
+}

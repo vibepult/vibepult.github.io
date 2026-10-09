@@ -1,0 +1,32 @@
+{
+ "id": "darkthrone/1189264987-104",
+ "band": "darkthrone",
+ "title": "Hans siste vinter",
+ "source": "itunes",
+ "album": "Panzerfaust",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 7.3173004654996845,
+  "tempo_var": 5.561723739750313,
+  "low_onset_rate": 6.348342869611598,
+  "lufs": -8.109131633087898,
+  "rms_dbfs": -8.672529580537976,
+  "crest": 8.672529220581055,
+  "centroid": 2539.64951306913,
+  "flatness": 0.03574599325656891,
+  "sub100_share": 0.08543052524328232,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6360970735549927,
+  "clean_share": 0.0,
+  "minor_share": -0.05213532498827811,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.869544267654419,
+  "vocal_share": 0.3022187650203705,
+  "vocal_voiced": 0.45,
+  "song_length": 290.413
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "opeth/1679083624-103",
+ "band": "opeth",
+ "title": "Nectar (2023 Abbey Road Remaster)",
+ "source": "itunes",
+ "album": "Morningrise (2023 Abbey Road Remaster)",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.433333333333333,
+  "tempo_var": 19.557047108343365,
+  "low_onset_rate": 5.4,
+  "lufs": -14.649246635461036,
+  "rms_dbfs": -14.675402731804489,
+  "crest": 13.819485664367676,
+  "centroid": 2237.5889003329353,
+  "flatness": 0.018630636855959892,
+  "sub100_share": 0.20211218297481537,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.6929998993873596,
+  "clean_share": 0.10913312693498452,
+  "minor_share": -0.04472648521407807,
+  "chord_rate": 1.6333333333333333,
+  "repetitiveness": 0.8955419063568115,
+  "vocal_share": 0.006024649366736412,
+  "vocal_voiced": 0.3191489361702128,
+  "song_length": 611.603
+ }
+}

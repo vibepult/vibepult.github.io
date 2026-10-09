@@ -1,0 +1,32 @@
+{
+ "id": "falkenbach/1556106803-105",
+ "band": "falkenbach",
+ "title": "Heralder",
+ "source": "itunes",
+ "album": "Heralding - The Fireblade",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.644313994084275,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 4.71113865586966,
+  "lufs": -7.957205937784303,
+  "rms_dbfs": -7.567057459160066,
+  "crest": 7.567057132720947,
+  "centroid": 2162.9109914963174,
+  "flatness": 0.0255100280046463,
+  "sub100_share": 0.3260475993156433,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7134226560592651,
+  "clean_share": 0.0031031807602792862,
+  "minor_share": 0.1937364714321611,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.7728576064109802,
+  "vocal_share": 0.1713591367006302,
+  "vocal_voiced": 0.12539851222104145,
+  "song_length": 312.88
+ }
+}

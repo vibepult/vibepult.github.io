@@ -1,0 +1,32 @@
+{
+ "id": "kalmah/1669889880-104",
+ "band": "kalmah",
+ "title": "Human Fates",
+ "source": "itunes",
+ "album": "They Will Return",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.575119405518111,
+  "tempo_var": 3.7410865094402777,
+  "low_onset_rate": 5.847157906221209,
+  "lufs": -6.637520748107423,
+  "rms_dbfs": -6.77507711730824,
+  "crest": 6.775076389312744,
+  "centroid": 2967.702449380284,
+  "flatness": 0.05786585062742233,
+  "sub100_share": 0.2901538610458374,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7861474752426147,
+  "clean_share": 0.023273855702094646,
+  "minor_share": 0.19959603786881758,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.9141343832015991,
+  "vocal_share": 0.04772501811385155,
+  "vocal_voiced": 0.17374881964117092,
+  "song_length": 350.133
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "svartby/1244053933-106",
+ "band": "svartby",
+ "title": "Groda, Ryttare",
+ "source": "itunes",
+ "album": "Riv, Hugg Och Bit",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.363861079465616,
+  "tempo_var": 23.14827322690087,
+  "low_onset_rate": 2.565324864092251,
+  "lufs": -7.696169754057014,
+  "rms_dbfs": -7.05082477305181,
+  "crest": 7.0508246421813965,
+  "centroid": 2559.627585879365,
+  "flatness": 0.029137035831809044,
+  "sub100_share": 0.3427518904209137,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8886264562606812,
+  "clean_share": 0.026295436968290797,
+  "minor_share": 0.19859440993682032,
+  "chord_rate": 2.4986930494405044,
+  "repetitiveness": 0.8499950766563416,
+  "vocal_share": 0.023697519674897194,
+  "vocal_voiced": 0.6111111111111112,
+  "song_length": 200.453
+ }
+}

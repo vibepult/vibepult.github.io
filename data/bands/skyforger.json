@@ -1,0 +1,127 @@
+{
+ "slug": "skyforger",
+ "name": "Skyforger",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 268908289,
+  "deezer": 283619,
+  "spotify": "5QLr9mctfuwi8KGF1W211r"
+ },
+ "metadata": {
+  "formed": 1995,
+  "split": null,
+  "country": "LV",
+  "status": "active",
+  "members": 4,
+  "past_members": 8,
+  "full_lengths": 7,
+  "genre": "Pagan/Folk Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 4618,
+  "themes": "Paganism, Historical battles, Latvian history, Mythology",
+  "release_year": 2012
+ },
+ "partial": false,
+ "clips": [
+  "skyforger/1726446296-106",
+  "skyforger/365963905-106",
+  "skyforger/1027490227-107",
+  "skyforger/1818694133-107",
+  "skyforger/1726446296-105",
+  "skyforger/365963905-107",
+  "skyforger/1027490227-106",
+  "skyforger/1818694133-106",
+  "skyforger/1726446296-107",
+  "skyforger/365963905-104",
+  "skyforger/1027490227-108",
+  "skyforger/1818694133-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 132.59919819078948,
+   "iqr": 41.8988770780051
+  },
+  "onset_rate": {
+   "median": 4.338310179572969,
+   "iqr": 2.4681873696843337
+  },
+  "tempo_var": {
+   "median": 0.9362518776044512,
+   "iqr": 16.04196302606718
+  },
+  "low_onset_rate": {
+   "median": 6.264812042379868,
+   "iqr": 2.826976757342125
+  },
+  "lufs": {
+   "median": -9.089183222468467,
+   "iqr": 2.0622130159974787
+  },
+  "rms_dbfs": {
+   "median": -8.996489871152777,
+   "iqr": 1.171939153603649
+  },
+  "crest": {
+   "median": 8.996489524841309,
+   "iqr": 1.171939730644226
+  },
+  "centroid": {
+   "median": 2585.3356364410256,
+   "iqr": 353.1700026134158
+  },
+  "flatness": {
+   "median": 0.030880547128617764,
+   "iqr": 0.018816290888935328
+  },
+  "sub100_share": {
+   "median": 0.3155447393655777,
+   "iqr": 0.11180707067251205
+  },
+  "lowest_pitch": {
+   "median": 51.141357421875,
+   "iqr": 24.224853515625
+  },
+  "harmonic_share": {
+   "median": 0.7499167323112488,
+   "iqr": 0.0815322995185852
+  },
+  "clean_share": {
+   "median": 0.013188518231186967,
+   "iqr": 0.06191950464396285
+  },
+  "minor_share": {
+   "median": 0.12547411479346082,
+   "iqr": 0.1690173253560838
+  },
+  "chord_rate": {
+   "median": 1.3181281215148135,
+   "iqr": 0.48234586384134204
+  },
+  "repetitiveness": {
+   "median": 0.866823673248291,
+   "iqr": 0.12503233551979065
+  },
+  "vocal_share": {
+   "median": 0.07878570258617401,
+   "iqr": 0.05484512075781822
+  },
+  "vocal_voiced": {
+   "median": 0.1610738255033557,
+   "iqr": 0.2542564392482134
+  },
+  "song_length": {
+   "median": 300.43600000000004,
+   "iqr": 49.543499999999995
+  },
+  "vocal_presence": {
+   "median": 0.5833333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

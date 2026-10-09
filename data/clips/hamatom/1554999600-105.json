@@ -1,0 +1,32 @@
+{
+ "id": "hamatom/1554999600-105",
+ "band": "hamatom",
+ "title": "Zwischen Gangstern und Ganoven",
+ "source": "itunes",
+ "album": "Berlin (Ein akustischer Tanz auf dem Vulkan)",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.377015346942734,
+  "tempo_var": 10.983732445306803,
+  "low_onset_rate": 4.443840008728119,
+  "lufs": -10.690955659258064,
+  "rms_dbfs": -10.658948874570326,
+  "crest": 10.65894889831543,
+  "centroid": 2534.2347096959693,
+  "flatness": 0.033781006932258606,
+  "sub100_share": 0.21719197928905487,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.5843895077705383,
+  "clean_share": 0.05120248254460822,
+  "minor_share": -0.07282285308375591,
+  "chord_rate": 1.0357822576734714,
+  "repetitiveness": 0.7383859157562256,
+  "vocal_share": 0.3017229735851288,
+  "vocal_voiced": 0.0338389731621937,
+  "song_length": 198.772
+ }
+}

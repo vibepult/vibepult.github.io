@@ -1,0 +1,32 @@
+{
+ "id": "skid-row/1727790222-105",
+ "band": "skid-row",
+ "title": "18 And Life",
+ "source": "itunes",
+ "album": "Skid Row",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 2.4333186193885448,
+  "tempo_var": 29.5975760417244,
+  "low_onset_rate": 2.3333192240712073,
+  "lufs": -16.47064961555296,
+  "rms_dbfs": -16.164479389853128,
+  "crest": 16.164478302001953,
+  "centroid": 1862.694354061218,
+  "flatness": 0.010355394333600998,
+  "sub100_share": 0.24743568897247314,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.8387866616249084,
+  "clean_share": 0.6751740139211136,
+  "minor_share": 0.026674498710834382,
+  "chord_rate": 1.5999903250773995,
+  "repetitiveness": 0.7159609794616699,
+  "vocal_share": 0.14887088537216187,
+  "vocal_voiced": 0.7574123989218329,
+  "song_length": 232.552
+ }
+}

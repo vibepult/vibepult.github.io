@@ -1,0 +1,127 @@
+{
+ "slug": "cruachan",
+ "name": "Cruachan",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 211136953,
+  "deezer": 7659,
+  "spotify": "6QpbkfyEQJ3JiQw2AbTRUH"
+ },
+ "metadata": {
+  "formed": 1993,
+  "split": null,
+  "country": "IE",
+  "status": "active",
+  "members": 4,
+  "past_members": 20,
+  "full_lengths": 9,
+  "genre": "Celtic Folk/Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 11057,
+  "themes": "Celtic folklore, Irish history/mythology, Tolkien, Anti-Christianity, Paganism",
+  "release_year": 2003
+ },
+ "partial": false,
+ "clips": [
+  "cruachan/1266667479-106",
+  "cruachan/1571606738-106",
+  "cruachan/1571606419-106",
+  "cruachan/1571606194-106",
+  "cruachan/1660238343-106",
+  "cruachan/1627301405-106",
+  "cruachan/1633246029-105",
+  "cruachan/1655409230-106",
+  "cruachan/1266667479-107",
+  "cruachan/1571606738-105",
+  "cruachan/1571606419-105",
+  "cruachan/1571606194-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 101.37169471153845,
+   "iqr": 43.38325021222411
+  },
+  "onset_rate": {
+   "median": 3.641944067303496,
+   "iqr": 1.7040288755273245
+  },
+  "tempo_var": {
+   "median": 12.333667368875734,
+   "iqr": 13.896330207350868
+  },
+  "low_onset_rate": {
+   "median": 4.52737083595985,
+   "iqr": 1.6204980482955924
+  },
+  "lufs": {
+   "median": -10.15270136329622,
+   "iqr": 4.239822387330296
+  },
+  "rms_dbfs": {
+   "median": -10.040716923307919,
+   "iqr": 4.9820206140633765
+  },
+  "crest": {
+   "median": 10.040716648101807,
+   "iqr": 4.982020854949951
+  },
+  "centroid": {
+   "median": 2365.570756361311,
+   "iqr": 542.8390680146881
+  },
+  "flatness": {
+   "median": 0.025794336572289467,
+   "iqr": 0.024189722957089543
+  },
+  "sub100_share": {
+   "median": 0.3176577389240265,
+   "iqr": 0.17304962128400803
+  },
+  "lowest_pitch": {
+   "median": 63.2537841796875,
+   "iqr": 42.39349365234375
+  },
+  "harmonic_share": {
+   "median": 0.7793987989425659,
+   "iqr": 0.16344225406646729
+  },
+  "clean_share": {
+   "median": 0.1442979053529868,
+   "iqr": 0.7084949573312644
+  },
+  "minor_share": {
+   "median": 0.10349939479969211,
+   "iqr": 0.17882655718651394
+  },
+  "chord_rate": {
+   "median": 1.6706165446346313,
+   "iqr": 0.5011849633903895
+  },
+  "repetitiveness": {
+   "median": 0.8543402850627899,
+   "iqr": 0.11920025944709778
+  },
+  "vocal_share": {
+   "median": 0.09579393267631531,
+   "iqr": 0.1268614586442709
+  },
+  "vocal_voiced": {
+   "median": 0.6757150494520181,
+   "iqr": 0.43757598197788783
+  },
+  "song_length": {
+   "median": 287.62350000000004,
+   "iqr": 33.588750000000005
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

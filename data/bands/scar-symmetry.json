@@ -1,0 +1,127 @@
+{
+ "slug": "scar-symmetry",
+ "name": "Scar Symmetry",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 81695527,
+  "deezer": 65412,
+  "spotify": "2PQVMx0BpRQhzMWLa7X0T6"
+ },
+ "metadata": {
+  "formed": 2004,
+  "split": null,
+  "country": "SE",
+  "status": "active",
+  "members": 5,
+  "past_members": 6,
+  "full_lengths": 7,
+  "genre": "Melodic Death/Groove Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 22390,
+  "themes": "Mysticism, Philosophy, Science, Inner struggles, Science fiction",
+  "release_year": 2008
+ },
+ "partial": false,
+ "clips": [
+  "scar-symmetry/1456960961-106",
+  "scar-symmetry/1456932015-107",
+  "scar-symmetry/1456937604-106",
+  "scar-symmetry/1456970944-106",
+  "scar-symmetry/1456958159-105",
+  "scar-symmetry/1456955293-104",
+  "scar-symmetry/1456960961-107",
+  "scar-symmetry/1456932015-106",
+  "scar-symmetry/1456937604-107",
+  "scar-symmetry/1456970944-107",
+  "scar-symmetry/1456958159-104",
+  "scar-symmetry/1456955293-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 119.67927631578948,
+   "iqr": 50.89624396151383
+  },
+  "onset_rate": {
+   "median": 2.622867975076371,
+   "iqr": 1.946268274499345
+  },
+  "tempo_var": {
+   "median": 14.796931910826778,
+   "iqr": 6.24487960841515
+  },
+  "low_onset_rate": {
+   "median": 3.408057751054648,
+   "iqr": 2.6312210577995447
+  },
+  "lufs": {
+   "median": -7.809296665211758,
+   "iqr": 1.0164282550573311
+  },
+  "rms_dbfs": {
+   "median": -7.390738891608818,
+   "iqr": 1.4351738619148335
+  },
+  "crest": {
+   "median": 7.3907389640808105,
+   "iqr": 1.4351747035980225
+  },
+  "centroid": {
+   "median": 2511.163665407416,
+   "iqr": 148.07117970242143
+  },
+  "flatness": {
+   "median": 0.03882480226457119,
+   "iqr": 0.006307261995971203
+  },
+  "sub100_share": {
+   "median": 0.3054205924272537,
+   "iqr": 0.11716542020440102
+  },
+  "lowest_pitch": {
+   "median": 45.758056640625,
+   "iqr": 4.0374755859375
+  },
+  "harmonic_share": {
+   "median": 0.7670266628265381,
+   "iqr": 0.05423365533351898
+  },
+  "clean_share": {
+   "median": 0.02909231962761831,
+   "iqr": 0.07605492845944356
+  },
+  "minor_share": {
+   "median": 0.019249042004766403,
+   "iqr": 0.20863872488330315
+  },
+  "chord_rate": {
+   "median": 1.653910379188285,
+   "iqr": 0.4928318806672165
+  },
+  "repetitiveness": {
+   "median": 0.9100796282291412,
+   "iqr": 0.040832459926605225
+  },
+  "vocal_share": {
+   "median": 0.10089974477887154,
+   "iqr": 0.05945224314928055
+  },
+  "vocal_voiced": {
+   "median": 0.5058040078201369,
+   "iqr": 0.5069926781130892
+  },
+  "song_length": {
+   "median": 280.681,
+   "iqr": 56.08974999999998
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

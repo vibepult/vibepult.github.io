@@ -1,0 +1,32 @@
+{
+ "id": "aborted/1721696267-105",
+ "band": "aborted",
+ "title": "Hellbound (feat. Matt McGachy)",
+ "source": "itunes",
+ "album": "Vault Of Horrors",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.599972184597523,
+  "tempo_var": 2.481248957934078,
+  "low_onset_rate": 3.899976417376161,
+  "lufs": -7.417813701690899,
+  "rms_dbfs": -6.973995126042349,
+  "crest": 6.973995685577393,
+  "centroid": 2649.0757168745017,
+  "flatness": 0.04134489968419075,
+  "sub100_share": 0.5333312749862671,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8546106815338135,
+  "clean_share": 0.0069605568445475635,
+  "minor_share": 0.03424663027632058,
+  "chord_rate": 1.3333252708978327,
+  "repetitiveness": 0.9003621339797974,
+  "vocal_share": 1.1166943295393139e-05,
+  "vocal_voiced": 1.0,
+  "song_length": 287.558
+ }
+}

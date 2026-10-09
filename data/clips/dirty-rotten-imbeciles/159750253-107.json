@@ -1,0 +1,32 @@
+{
+ "id": "dirty-rotten-imbeciles/159750253-107",
+ "band": "dirty-rotten-imbeciles",
+ "title": "Wages of Sin",
+ "source": "itunes",
+ "album": "Full Speed Ahead",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 6.047631891577365,
+  "tempo_var": 10.108849065751542,
+  "low_onset_rate": 6.11445655336275,
+  "lufs": -10.363705472053192,
+  "rms_dbfs": -10.577368771427997,
+  "crest": 10.57736873626709,
+  "centroid": 2632.3825126570864,
+  "flatness": 0.035092975944280624,
+  "sub100_share": 0.228333979845047,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.5779586434364319,
+  "clean_share": 0.04499612102404965,
+  "minor_share": 0.14014246340882308,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.9200799465179443,
+  "vocal_share": 0.11338714510202408,
+  "vocal_voiced": 0.5355769230769231,
+  "song_length": 135.167
+ }
+}

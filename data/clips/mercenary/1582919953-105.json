@@ -1,0 +1,32 @@
+{
+ "id": "mercenary/1582919953-105",
+ "band": "mercenary",
+ "title": "A Moment of Clarity",
+ "source": "itunes",
+ "album": "Through Our Darkest Days",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.544077001406197,
+  "tempo_var": 10.20663038791366,
+  "low_onset_rate": 2.572749478737332,
+  "lufs": -10.508118990252624,
+  "rms_dbfs": -9.185548983727884,
+  "crest": 9.185548782348633,
+  "centroid": 2433.197157657775,
+  "flatness": 0.03172789514064789,
+  "sub100_share": 0.5759055614471436,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8415175676345825,
+  "clean_share": 0.05352986811481769,
+  "minor_share": 0.01223800747762921,
+  "chord_rate": 2.505924816951947,
+  "repetitiveness": 0.9371057152748108,
+  "vocal_share": 0.06830256432294846,
+  "vocal_voiced": 0.060948081264108354,
+  "song_length": 302.227
+ }
+}

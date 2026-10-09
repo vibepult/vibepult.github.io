@@ -1,0 +1,32 @@
+{
+ "id": "bloodgood/757636758-106",
+ "band": "bloodgood",
+ "title": "Pray",
+ "source": "itunes",
+ "album": "Dangerously Close",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 2.7398111332007953,
+  "tempo_var": 1.4082914558997583,
+  "low_onset_rate": 3.2744084274838774,
+  "lufs": -8.03942416994626,
+  "rms_dbfs": -7.174468494593738,
+  "crest": 7.174468517303467,
+  "centroid": 2092.9547698628026,
+  "flatness": 0.019218027591705322,
+  "sub100_share": 0.19980421662330627,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.7214442491531372,
+  "clean_share": 0.2707525213343677,
+  "minor_share": 0.13682137342631928,
+  "chord_rate": 0.7350712796392378,
+  "repetitiveness": 0.8484135866165161,
+  "vocal_share": 0.1777597963809967,
+  "vocal_voiced": 0.854320987654321,
+  "song_length": 170.502
+ }
+}

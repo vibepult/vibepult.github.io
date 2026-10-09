@@ -1,0 +1,127 @@
+{
+ "slug": "anaal-nathrakh",
+ "name": "Anaal Nathrakh",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 72869936,
+  "deezer": 3270,
+  "spotify": "7vrrJ5YlL3I8XUrh1ktGJV"
+ },
+ "metadata": {
+  "formed": 1999,
+  "split": null,
+  "country": "GB",
+  "status": "active",
+  "members": 2,
+  "past_members": 1,
+  "full_lengths": 11,
+  "genre": "Industrial Black Metal/Grindcore",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 17344,
+  "themes": "Armageddon, Misanthropy, Nihilism, Philosophy, Anti-authoritarianism",
+  "release_year": 2010
+ },
+ "partial": false,
+ "clips": [
+  "anaal-nathrakh/1560913461-105",
+  "anaal-nathrakh/582710055-106",
+  "anaal-nathrakh/583579854-105",
+  "anaal-nathrakh/1571185319-106",
+  "anaal-nathrakh/1660388024-105",
+  "anaal-nathrakh/1660416549-106",
+  "anaal-nathrakh/1660673390-105",
+  "anaal-nathrakh/911861676-106",
+  "anaal-nathrakh/1143602893-107",
+  "anaal-nathrakh/1406197385-106",
+  "anaal-nathrakh/1522388462-105",
+  "anaal-nathrakh/1560913461-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.90049098320159,
+   "iqr": 31.29869962993422
+  },
+  "onset_rate": {
+   "median": 7.033295652911798,
+   "iqr": 1.615316007963222
+  },
+  "tempo_var": {
+   "median": 6.662776528436249,
+   "iqr": 5.2764603938937436
+  },
+  "low_onset_rate": {
+   "median": 8.653793701207391,
+   "iqr": 1.2362562430296284
+  },
+  "lufs": {
+   "median": -6.12509957126552,
+   "iqr": 1.2494763305474512
+  },
+  "rms_dbfs": {
+   "median": -6.525729480580356,
+   "iqr": 1.0743060936622921
+  },
+  "crest": {
+   "median": 6.525729656219482,
+   "iqr": 1.074306607246399
+  },
+  "centroid": {
+   "median": 3020.136372267515,
+   "iqr": 479.91264813930593
+  },
+  "flatness": {
+   "median": 0.0704302228987217,
+   "iqr": 0.03107642102986574
+  },
+  "sub100_share": {
+   "median": 0.33746933937072754,
+   "iqr": 0.07032514363527298
+  },
+  "lowest_pitch": {
+   "median": 48.44970703125,
+   "iqr": 3.36456298828125
+  },
+  "harmonic_share": {
+   "median": 0.7540339231491089,
+   "iqr": 0.037689849734306335
+  },
+  "clean_share": {
+   "median": 0.0,
+   "iqr": 0.0
+  },
+  "minor_share": {
+   "median": -0.006996475730453616,
+   "iqr": 0.08773497032450353
+  },
+  "chord_rate": {
+   "median": 2.052354054004857,
+   "iqr": 0.5847157906221205
+  },
+  "repetitiveness": {
+   "median": 0.9317745268344879,
+   "iqr": 0.0334380567073822
+  },
+  "vocal_share": {
+   "median": 0.09219174832105637,
+   "iqr": 0.05717559903860092
+  },
+  "vocal_voiced": {
+   "median": 0.28191489361702127,
+   "iqr": 0.0957639400447437
+  },
+  "song_length": {
+   "median": 234.69650000000001,
+   "iqr": 54.9015
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

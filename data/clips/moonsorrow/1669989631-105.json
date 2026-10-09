@@ -1,0 +1,32 @@
+{
+ "id": "moonsorrow/1669989631-105",
+ "band": "moonsorrow",
+ "title": "Huuto",
+ "source": "itunes",
+ "album": "Varjoina Kuljemme Kuolleiden Maassa",
+ "year": 2011,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.040522111235029,
+  "tempo_var": 2.069086234696736,
+  "low_onset_rate": 5.646683920865054,
+  "lufs": -9.172782109347692,
+  "rms_dbfs": -8.026145227878253,
+  "crest": 8.026144981384277,
+  "centroid": 2139.4423471995988,
+  "flatness": 0.016935372725129128,
+  "sub100_share": 0.4957398772239685,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8307279944419861,
+  "clean_share": 0.27928626842513576,
+  "minor_share": 0.15528575133470923,
+  "chord_rate": 1.7374412064200164,
+  "repetitiveness": 0.7909408807754517,
+  "vocal_share": 2.882006810978055e-05,
+  "vocal_voiced": 1.0,
+  "song_length": 958.453
+ }
+}

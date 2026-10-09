@@ -1,0 +1,32 @@
+{
+ "id": "metallica/1434424163-105",
+ "band": "metallica",
+ "title": "The Shortest Straw",
+ "source": "itunes",
+ "album": "...And Justice for All (Remastered)",
+ "year": 1988,
+ "itunes_year": 1988,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 69.83741554054055,
+  "onset_rate": 3.0333149912925697,
+  "tempo_var": 35.03963017259805,
+  "low_onset_rate": 2.066654169891641,
+  "lufs": -12.66191078261079,
+  "rms_dbfs": -11.992049163155357,
+  "crest": 11.992049217224121,
+  "centroid": 2585.5004743949553,
+  "flatness": 0.034939687699079514,
+  "sub100_share": 0.39896270632743835,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.6176877021789551,
+  "clean_share": 0.29311678267594743,
+  "minor_share": 0.019774403291312304,
+  "chord_rate": 2.199986696981424,
+  "repetitiveness": 0.8736059069633484,
+  "vocal_share": 3.275510493949696e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 395.102
+ }
+}

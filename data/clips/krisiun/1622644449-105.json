@@ -1,0 +1,32 @@
+{
+ "id": "krisiun/1622644449-105",
+ "band": "krisiun",
+ "title": "Tomb of the Nameless",
+ "source": "itunes",
+ "album": "Mortem Solis",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.713508582650439,
+  "tempo_var": 3.0470323041789116,
+  "low_onset_rate": 8.052371745138922,
+  "lufs": -9.153012528572821,
+  "rms_dbfs": -8.055947732720753,
+  "crest": 8.055948257446289,
+  "centroid": 2839.7018889843785,
+  "flatness": 0.042490582913160324,
+  "sub100_share": 0.5074067115783691,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8043681383132935,
+  "clean_share": 0.0,
+  "minor_share": -0.1448825095699181,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.9683420658111572,
+  "vocal_share": 0.06568339467048645,
+  "vocal_voiced": 0.02986857825567503,
+  "song_length": 268.011
+ }
+}

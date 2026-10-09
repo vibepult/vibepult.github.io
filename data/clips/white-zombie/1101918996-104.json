@@ -1,0 +1,32 @@
+{
+ "id": "white-zombie/1101918996-104",
+ "band": "white-zombie",
+ "title": "Revenge",
+ "source": "itunes",
+ "album": "Make Them Die Slowly",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.9,
+  "tempo_var": 4.523286250467506,
+  "low_onset_rate": 6.3,
+  "lufs": -12.5982006534152,
+  "rms_dbfs": -12.57027132440455,
+  "crest": 12.570271492004395,
+  "centroid": 2085.4503747341982,
+  "flatness": 0.015896957367658615,
+  "sub100_share": 0.12143106758594513,
+  "lowest_pitch": 99.591064453125,
+  "harmonic_share": 0.7971743941307068,
+  "clean_share": 0.12770897832817338,
+  "minor_share": 0.07619886046089624,
+  "chord_rate": 2.5,
+  "repetitiveness": 0.8596560955047607,
+  "vocal_share": 0.26130425930023193,
+  "vocal_voiced": 0.8344594594594594,
+  "song_length": 261.747
+ }
+}

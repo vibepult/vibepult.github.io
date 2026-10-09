@@ -1,0 +1,32 @@
+{
+ "id": "dark-suns/1556064772-106",
+ "band": "dark-suns",
+ "title": "Ghost",
+ "source": "itunes",
+ "album": "Orange",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.4080577510546477,
+  "tempo_var": 16.770681503033273,
+  "low_onset_rate": 3.7755933908742665,
+  "lufs": -11.564527575886665,
+  "rms_dbfs": -11.078563544517174,
+  "crest": 11.07856273651123,
+  "centroid": 2378.992508831252,
+  "flatness": 0.025445155799388885,
+  "sub100_share": 0.23179136216640472,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.7138873934745789,
+  "clean_share": 0.2017067494181536,
+  "minor_share": 0.04529000022157004,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.7203323841094971,
+  "vocal_share": 0.14252793788909912,
+  "vocal_voiced": 0.8230088495575221,
+  "song_length": 387.307
+ }
+}

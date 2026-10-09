@@ -1,0 +1,32 @@
+{
+ "id": "ministry/262311649-106",
+ "band": "ministry",
+ "title": "No Glory",
+ "source": "itunes",
+ "album": "The Last Sucker",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 7.033333333333333,
+  "tempo_var": 3.496440068105188,
+  "low_onset_rate": 6.666666666666667,
+  "lufs": -8.233027686127226,
+  "rms_dbfs": -7.794211826642597,
+  "crest": 7.794212341308594,
+  "centroid": 3088.696028656972,
+  "flatness": 0.06399640440940857,
+  "sub100_share": 0.40110108256340027,
+  "lowest_pitch": 26.91650390625,
+  "harmonic_share": 0.7459362745285034,
+  "clean_share": 0.014705882352941176,
+  "minor_share": 0.06109737185682279,
+  "chord_rate": 1.0666666666666667,
+  "repetitiveness": 0.9468262195587158,
+  "vocal_share": 0.011690125800669193,
+  "vocal_voiced": 0.0,
+  "song_length": 221.56
+ }
+}

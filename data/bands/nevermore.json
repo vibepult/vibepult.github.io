@@ -1,0 +1,127 @@
+{
+ "slug": "nevermore",
+ "name": "Nevermore",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 18030088,
+  "deezer": 6580,
+  "spotify": "1wUArE0NhHB8M1bU2WSplY"
+ },
+ "metadata": {
+  "formed": 1992,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 6,
+  "full_lengths": 7,
+  "genre": "Groove/Progressive Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 24455,
+  "themes": "Politics, Philosophy, Human issues, Misanthropy",
+  "release_year": 1999
+ },
+ "partial": false,
+ "clips": [
+  "nevermore/1045514233-104",
+  "nevermore/1045632751-105",
+  "nevermore/1045504954-107",
+  "nevermore/1045498023-106",
+  "nevermore/1045434955-105",
+  "nevermore/1045282036-106",
+  "nevermore/1045514233-105",
+  "nevermore/1045632751-104",
+  "nevermore/1045504954-108",
+  "nevermore/1045498023-105",
+  "nevermore/1045434955-104",
+  "nevermore/1045282036-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 107.85326086956522,
+   "iqr": 38.67443591564685
+  },
+  "onset_rate": {
+   "median": 3.986967867832549,
+   "iqr": 1.232772757958335
+  },
+  "tempo_var": {
+   "median": 13.210108909439828,
+   "iqr": 15.34996526505627
+  },
+  "low_onset_rate": {
+   "median": 5.245735950152742,
+   "iqr": 2.369027399727921
+  },
+  "lufs": {
+   "median": -9.513287726110548,
+   "iqr": 1.8647710465170366
+  },
+  "rms_dbfs": {
+   "median": -9.334710282505526,
+   "iqr": 2.3297448787092385
+  },
+  "crest": {
+   "median": 9.334710121154785,
+   "iqr": 2.329745054244995
+  },
+  "centroid": {
+   "median": 2783.634827413248,
+   "iqr": 823.2762117328707
+  },
+  "flatness": {
+   "median": 0.03756773844361305,
+   "iqr": 0.040899340994656086
+  },
+  "sub100_share": {
+   "median": 0.32494276762008667,
+   "iqr": 0.1362019032239914
+  },
+  "lowest_pitch": {
+   "median": 78.057861328125,
+   "iqr": 24.89776611328125
+  },
+  "harmonic_share": {
+   "median": 0.8125633299350739,
+   "iqr": 0.13579928874969482
+  },
+  "clean_share": {
+   "median": 0.025562841510382635,
+   "iqr": 0.32211910286156226
+  },
+  "minor_share": {
+   "median": 0.11446301034298217,
+   "iqr": 0.08927613274634316
+  },
+  "chord_rate": {
+   "median": 1.8016132758455425,
+   "iqr": 0.861193327542263
+  },
+  "repetitiveness": {
+   "median": 0.8183187246322632,
+   "iqr": 0.29941636323928833
+  },
+  "vocal_share": {
+   "median": 0.18215340375900269,
+   "iqr": 0.1029577236622572
+  },
+  "vocal_voiced": {
+   "median": 0.7648706273489447,
+   "iqr": 0.2709335104582625
+  },
+  "song_length": {
+   "median": 291.307,
+   "iqr": 55.56675000000007
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

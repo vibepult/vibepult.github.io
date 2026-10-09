@@ -1,0 +1,32 @@
+{
+ "id": "deafheaven/1485072758-103",
+ "band": "deafheaven",
+ "title": "Canary Yellow",
+ "source": "itunes",
+ "album": "Ordinary Corrupt Human Love",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.333313177244582,
+  "tempo_var": 6.180014883846465,
+  "low_onset_rate": 2.8333162006578947,
+  "lufs": -12.097350470155684,
+  "rms_dbfs": -11.202457124048188,
+  "crest": 11.202457427978516,
+  "centroid": 2027.131028199729,
+  "flatness": 0.011166725307703018,
+  "sub100_share": 0.28681695461273193,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7589811682701111,
+  "clean_share": 0.34184068058778033,
+  "minor_share": -0.2494522161505478,
+  "chord_rate": 0.9999939531733746,
+  "repetitiveness": 0.8249680995941162,
+  "vocal_share": 4.067262295848195e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 737.408
+ }
+}

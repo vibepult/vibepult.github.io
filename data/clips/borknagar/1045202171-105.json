@@ -1,0 +1,32 @@
+{
+ "id": "borknagar/1045202171-105",
+ "band": "borknagar",
+ "title": "Inner Landscape",
+ "source": "itunes",
+ "album": "Quintessence",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.009479707123115,
+  "tempo_var": 13.710838055808905,
+  "low_onset_rate": 4.57748933229889,
+  "lufs": -10.605325666734485,
+  "rms_dbfs": -9.593980079113928,
+  "crest": 9.59398078918457,
+  "centroid": 2462.4257808197704,
+  "flatness": 0.022348280996084213,
+  "sub100_share": 0.3739689588546753,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8493865728378296,
+  "clean_share": 0.06982156710628394,
+  "minor_share": 0.1158576323839623,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.5543489456176758,
+  "vocal_share": 5.559277269640006e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 170.587
+ }
+}

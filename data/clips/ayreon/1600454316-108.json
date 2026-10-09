@@ -1,0 +1,32 @@
+{
+ "id": "ayreon/1600454316-108",
+ "band": "ayreon",
+ "title": "Web of Lies",
+ "source": "itunes",
+ "album": "01011001",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.107346773020414,
+  "tempo_var": 23.32270314729819,
+  "low_onset_rate": 3.5082947437327254,
+  "lufs": -14.840820236497285,
+  "rms_dbfs": -17.150409591875956,
+  "crest": 16.290103912353516,
+  "centroid": 1494.9463287517772,
+  "flatness": 0.004129229113459587,
+  "sub100_share": 0.010160014033317566,
+  "lowest_pitch": 148.040771484375,
+  "harmonic_share": 0.9736149907112122,
+  "clean_share": 0.9107835531419706,
+  "minor_share": -0.10968386964238752,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.6403350234031677,
+  "vocal_share": 5.7680936151882634e-05,
+  "vocal_voiced": 0.0,
+  "song_length": 170.267
+ }
+}

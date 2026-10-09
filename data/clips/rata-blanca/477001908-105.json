@@ -1,0 +1,32 @@
+{
+ "id": "rata-blanca/477001908-105",
+ "band": "rata-blanca",
+ "title": "Obsesión",
+ "source": "itunes",
+ "album": "Entre el Cielo y el Infierno",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 4.697024862558711,
+  "tempo_var": 11.48908074595331,
+  "low_onset_rate": 5.763016320728065,
+  "lufs": -17.514196036700206,
+  "rms_dbfs": -16.896719826043146,
+  "crest": 16.223737716674805,
+  "centroid": 2904.8620429563584,
+  "flatness": 0.03311613202095032,
+  "sub100_share": 0.3528175950050354,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7393559813499451,
+  "clean_share": 0.02320185614849188,
+  "minor_share": -0.09597030966203302,
+  "chord_rate": 0.7994935936270148,
+  "repetitiveness": 0.900355339050293,
+  "vocal_share": 0.09618279337882996,
+  "vocal_voiced": 0.24177949709864605,
+  "song_length": 214.6
+ }
+}

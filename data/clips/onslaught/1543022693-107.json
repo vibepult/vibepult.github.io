@@ -1,0 +1,32 @@
+{
+ "id": "onslaught/1543022693-107",
+ "band": "onslaught",
+ "title": "The Devil's Legion",
+ "source": "itunes",
+ "album": "Power from Hell",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 1.169431581244242,
+  "tempo_var": 12.986550384146092,
+  "low_onset_rate": 5.34597294283082,
+  "lufs": -9.436421144670085,
+  "rms_dbfs": -10.37857201199165,
+  "crest": 10.378571510314941,
+  "centroid": 2523.269570033753,
+  "flatness": 0.019078459590673447,
+  "sub100_share": 0.07806586474180222,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.81307452917099,
+  "clean_share": 0.1551590380139643,
+  "minor_share": 0.04458233446609816,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.7501847743988037,
+  "vocal_share": 0.006026116665452719,
+  "vocal_voiced": 0.717391304347826,
+  "song_length": 247.293
+ }
+}

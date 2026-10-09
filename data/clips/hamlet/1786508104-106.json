@@ -1,0 +1,32 @@
+{
+ "id": "hamlet/1786508104-106",
+ "band": "hamlet",
+ "title": "Miserable",
+ "source": "itunes",
+ "album": "El Inferno",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 1.7666559839396285,
+  "tempo_var": 21.303236565269327,
+  "low_onset_rate": 4.433306525735294,
+  "lufs": -8.871495910344287,
+  "rms_dbfs": -8.170073195367733,
+  "crest": 8.170073509216309,
+  "centroid": 2051.7415435480325,
+  "flatness": 0.01929558627307415,
+  "sub100_share": 0.3599681258201599,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8110654354095459,
+  "clean_share": 0.2977571539056458,
+  "minor_share": -0.25554630507954523,
+  "chord_rate": 1.7333228521671826,
+  "repetitiveness": 0.9306023120880127,
+  "vocal_share": 0.011218870989978313,
+  "vocal_voiced": 0.847457627118644,
+  "song_length": 211.524
+ }
+}

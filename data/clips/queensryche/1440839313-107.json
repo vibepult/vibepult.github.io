@@ -1,0 +1,32 @@
+{
+ "id": "queensryche/1440839313-107",
+ "band": "queensryche",
+ "title": "The Mission",
+ "source": "itunes",
+ "album": "Operation: Mindcrime (Bonus Track Version)",
+ "year": 1988,
+ "itunes_year": 1988,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.632520615191159,
+  "tempo_var": 9.621254668434403,
+  "low_onset_rate": 2.866025439508621,
+  "lufs": -12.298972761127763,
+  "rms_dbfs": -12.315969948885998,
+  "crest": 12.315970420837402,
+  "centroid": 2083.841192876715,
+  "flatness": 0.015772070735692978,
+  "sub100_share": 0.13535811007022858,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7910592555999756,
+  "clean_share": 0.5042536736272235,
+  "minor_share": 0.0014463220816851585,
+  "chord_rate": 0.7331692984789495,
+  "repetitiveness": 0.8087050914764404,
+  "vocal_share": 0.2437649816274643,
+  "vocal_voiced": 0.7270029673590505,
+  "song_length": 347.867
+ }
+}

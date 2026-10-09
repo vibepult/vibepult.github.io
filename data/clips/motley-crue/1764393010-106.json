@@ -1,0 +1,32 @@
+{
+ "id": "motley-crue/1764393010-106",
+ "band": "motley-crue",
+ "title": "Tonight (We Need A Lover)",
+ "source": "itunes",
+ "album": "Theatre of Pain",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.366600656074739,
+  "tempo_var": 3.402803819428957,
+  "low_onset_rate": 3.6332784084896677,
+  "lufs": -9.13178803452042,
+  "rms_dbfs": -9.295430997005267,
+  "crest": 9.295431137084961,
+  "centroid": 2507.7890969322066,
+  "flatness": 0.02396884560585022,
+  "sub100_share": 0.20367534458637238,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7172955870628357,
+  "clean_share": 0.01082753286929621,
+  "minor_share": 0.05163522267875864,
+  "chord_rate": 1.8666384483983613,
+  "repetitiveness": 0.8632698655128479,
+  "vocal_share": 0.20270463824272156,
+  "vocal_voiced": 0.7308132875143184,
+  "song_length": 217.24
+ }
+}

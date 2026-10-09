@@ -1,0 +1,32 @@
+{
+ "id": "sleep/272772755-106",
+ "band": "sleep",
+ "title": "Nebuchadnezzar's Dream",
+ "source": "itunes",
+ "album": "Volume One",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.076304368908501,
+  "tempo_var": 3.0739112373804223,
+  "low_onset_rate": 6.314930538718906,
+  "lufs": -12.205065674144008,
+  "rms_dbfs": -11.367341758614113,
+  "crest": 11.367341041564941,
+  "centroid": 2124.2823617366325,
+  "flatness": 0.017738504335284233,
+  "sub100_share": 0.2532275319099426,
+  "lowest_pitch": 121.124267578125,
+  "harmonic_share": 0.707080066204071,
+  "clean_share": 0.14972847168347556,
+  "minor_share": 0.18402190033677446,
+  "chord_rate": 3.30782075837657,
+  "repetitiveness": 0.9003885388374329,
+  "vocal_share": 0.12483121454715729,
+  "vocal_voiced": 0.3684210526315789,
+  "song_length": 287.173
+ }
+}

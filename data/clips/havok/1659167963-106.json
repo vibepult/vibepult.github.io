@@ -1,0 +1,32 @@
+{
+ "id": "havok/1659167963-106",
+ "band": "havok",
+ "title": "The Disease",
+ "source": "itunes",
+ "album": "Burn",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 6.266666666666667,
+  "tempo_var": 12.620267835196582,
+  "low_onset_rate": 4.233333333333333,
+  "lufs": -9.053144277158413,
+  "rms_dbfs": -7.915091085014586,
+  "crest": 7.915091037750244,
+  "centroid": 2560.99876102146,
+  "flatness": 0.027559664100408554,
+  "sub100_share": 0.4355577826499939,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.687606930732727,
+  "clean_share": 0.01393188854489164,
+  "minor_share": 0.09615734254600461,
+  "chord_rate": 2.3,
+  "repetitiveness": 0.8958133459091187,
+  "vocal_share": 0.07106390595436096,
+  "vocal_voiced": 0.2702020202020202,
+  "song_length": 266.64
+ }
+}

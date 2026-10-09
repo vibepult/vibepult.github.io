@@ -1,0 +1,32 @@
+{
+ "id": "hypocrisy/1460471617-105",
+ "band": "hypocrisy",
+ "title": "New World",
+ "source": "itunes",
+ "album": "The Arrival",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 2.6395741405227175,
+  "tempo_var": 3.047912006270264,
+  "low_onset_rate": 2.1718015080250206,
+  "lufs": -10.131891186115434,
+  "rms_dbfs": -9.624657312576574,
+  "crest": 9.624656677246094,
+  "centroid": 2870.250758618052,
+  "flatness": 0.056406427174806595,
+  "sub100_share": 0.31301993131637573,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6848275065422058,
+  "clean_share": 0.045771916214119475,
+  "minor_share": -0.04195374468070617,
+  "chord_rate": 2.3054508315957913,
+  "repetitiveness": 0.9256899952888489,
+  "vocal_share": 0.10114360600709915,
+  "vocal_voiced": 0.0,
+  "song_length": 250.16
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "hibria/1222190643-105",
+ "band": "hibria",
+ "title": "Ghosts",
+ "source": "itunes",
+ "album": "Hibria",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.744550986762353,
+  "tempo_var": 22.437117789370564,
+  "low_onset_rate": 5.011849633903894,
+  "lufs": -8.391063162676419,
+  "rms_dbfs": -7.551428724427729,
+  "crest": 7.55142879486084,
+  "centroid": 2533.6454955601416,
+  "flatness": 0.026130441576242447,
+  "sub100_share": 0.2682940661907196,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.8038443922996521,
+  "clean_share": 0.08688906128782002,
+  "minor_share": -0.004671442632683154,
+  "chord_rate": 2.2386261698104057,
+  "repetitiveness": 0.9133947491645813,
+  "vocal_share": 0.09852158278226852,
+  "vocal_voiced": 0.5464547677261614,
+  "song_length": 308.027
+ }
+}

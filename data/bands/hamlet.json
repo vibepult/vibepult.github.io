@@ -1,0 +1,127 @@
+{
+ "slug": "hamlet",
+ "name": "Hamlet",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 993234951,
+  "deezer": 7223,
+  "spotify": "5bTh3KLGlKlcloVl318t1h"
+ },
+ "metadata": {
+  "formed": 1986,
+  "split": null,
+  "country": "ES",
+  "status": "active",
+  "members": 5,
+  "past_members": 8,
+  "full_lengths": 13,
+  "genre": "Heavy Metal (early); Groove/Nu-Metal (later)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 4505,
+  "themes": "Life, God, Existential problems",
+  "release_year": 2005
+ },
+ "partial": false,
+ "clips": [
+  "hamlet/1786509868-106",
+  "hamlet/1786509720-108",
+  "hamlet/1786508807-106",
+  "hamlet/1786508104-106",
+  "hamlet/373321690-106",
+  "hamlet/373321770-105",
+  "hamlet/1863524020-105",
+  "hamlet/1863523465-106",
+  "hamlet/969062464-107",
+  "hamlet/1439910527-106",
+  "hamlet/1788361768-105",
+  "hamlet/1786509868-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 107.85326086956522,
+   "iqr": 38.73501481681035
+  },
+  "onset_rate": {
+   "median": 3.9999758126934983,
+   "iqr": 1.7526029890215504
+  },
+  "tempo_var": {
+   "median": 14.736329269390978,
+   "iqr": 12.542038613005635
+  },
+  "low_onset_rate": {
+   "median": 4.099975208010836,
+   "iqr": 1.2818898699494747
+  },
+  "lufs": {
+   "median": -8.559933858431114,
+   "iqr": 4.068016692814893
+  },
+  "rms_dbfs": {
+   "median": -7.87959720938913,
+   "iqr": 4.468307744190361
+  },
+  "crest": {
+   "median": 7.879597187042236,
+   "iqr": 4.073782324790955
+  },
+  "centroid": {
+   "median": 2488.304513945621,
+   "iqr": 317.65164909928717
+  },
+  "flatness": {
+   "median": 0.03092036023736,
+   "iqr": 0.014638764318078756
+  },
+  "sub100_share": {
+   "median": 0.34037336707115173,
+   "iqr": 0.10187605768442154
+  },
+  "lowest_pitch": {
+   "median": 69.98291015625,
+   "iqr": 18.16864013671875
+  },
+  "harmonic_share": {
+   "median": 0.7471778690814972,
+   "iqr": 0.08659109473228455
+  },
+  "clean_share": {
+   "median": 0.06280461061141421,
+   "iqr": 0.21751545175249634
+  },
+  "minor_share": {
+   "median": 0.051752875993407166,
+   "iqr": 0.1364776435574792
+  },
+  "chord_rate": {
+   "median": 2.252679164728484,
+   "iqr": 1.2675421401582412
+  },
+  "repetitiveness": {
+   "median": 0.9125426709651947,
+   "iqr": 0.05196675658226013
+  },
+  "vocal_share": {
+   "median": 0.1341184377670288,
+   "iqr": 0.16323129832744598
+  },
+  "vocal_voiced": {
+   "median": 0.13922506801763768,
+   "iqr": 0.6126728350248329
+  },
+  "song_length": {
+   "median": 238.666,
+   "iqr": 73.46000000000001
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

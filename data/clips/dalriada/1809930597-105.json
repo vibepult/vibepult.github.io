@@ -1,0 +1,32 @@
+{
+ "id": "dalriada/1809930597-105",
+ "band": "dalriada",
+ "title": "Vér a véredből",
+ "source": "itunes",
+ "album": "Magvető",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 6.63313278510098,
+  "tempo_var": 0.0,
+  "low_onset_rate": 8.633072318297256,
+  "lufs": -7.409870369998331,
+  "rms_dbfs": -7.452799580457592,
+  "crest": 7.452798843383789,
+  "centroid": 2543.776815319851,
+  "flatness": 0.03360923007130623,
+  "sub100_share": 0.2601306438446045,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7707744240760803,
+  "clean_share": 0.005413766434648105,
+  "minor_share": 0.06617675324227912,
+  "chord_rate": 1.3666253476841215,
+  "repetitiveness": 0.8930331468582153,
+  "vocal_share": 0.19536550343036652,
+  "vocal_voiced": 0.8154929577464789,
+  "song_length": 311.32
+ }
+}

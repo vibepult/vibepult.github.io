@@ -1,0 +1,32 @@
+{
+ "id": "amon-amarth/336233464-105",
+ "band": "amon-amarth",
+ "title": "Across the Rainbow Bridge",
+ "source": "itunes",
+ "album": "Versus the World (Bonus Edition)",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 6.782703171216603,
+  "tempo_var": 2.0772603316217526,
+  "low_onset_rate": 7.684836105319304,
+  "lufs": -8.539403020081721,
+  "rms_dbfs": -8.220977112730385,
+  "crest": 8.220976829528809,
+  "centroid": 2700.5913823815335,
+  "flatness": 0.03927095979452133,
+  "sub100_share": 0.3760155737400055,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.7928221821784973,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.08743368533266849,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.8349286317825317,
+  "vocal_share": 0.038667794317007065,
+  "vocal_voiced": 0.0,
+  "song_length": 289.306
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "brujeria/215211258-111",
+ "band": "brujeria",
+ "title": "Desperado",
+ "source": "itunes",
+ "album": "Mantando Gueros",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 6.314930538718906,
+  "tempo_var": 10.103896703054305,
+  "low_onset_rate": 6.74929084032391,
+  "lufs": -11.392522700388083,
+  "rms_dbfs": -10.546143880758086,
+  "crest": 10.546142578125,
+  "centroid": 2554.933515042605,
+  "flatness": 0.028994416818022728,
+  "sub100_share": 0.5032168030738831,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7674590945243835,
+  "clean_share": 0.007757951900698216,
+  "minor_share": -0.0363196805777653,
+  "chord_rate": 2.338863162488484,
+  "repetitiveness": 0.9224563837051392,
+  "vocal_share": 0.0645400732755661,
+  "vocal_voiced": 0.13670133729569092,
+  "song_length": 161.2
+ }
+}

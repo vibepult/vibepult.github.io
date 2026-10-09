@@ -1,0 +1,32 @@
+{
+ "id": "mastodon/1584124422-108",
+ "band": "mastodon",
+ "title": "Pushing the Tides",
+ "source": "itunes",
+ "album": "Hushed and Grim",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.563975098969508,
+  "tempo_var": 15.05560656878234,
+  "low_onset_rate": 6.830029313106283,
+  "lufs": -8.15872922482377,
+  "rms_dbfs": -7.6909355939747694,
+  "crest": 7.690935134887695,
+  "centroid": 2932.62933647113,
+  "flatness": 0.05638495460152626,
+  "sub100_share": 0.4450133144855499,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7991811633110046,
+  "clean_share": 0.0038669760247486465,
+  "minor_share": 0.2925361671276607,
+  "chord_rate": 1.166102565652292,
+  "repetitiveness": 0.8521963953971863,
+  "vocal_share": 0.08870081603527069,
+  "vocal_voiced": 0.7273593898951383,
+  "song_length": 209.932
+ }
+}

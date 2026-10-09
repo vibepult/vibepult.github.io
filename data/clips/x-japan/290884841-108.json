@@ -1,0 +1,32 @@
+{
+ "id": "x-japan/290884841-108",
+ "band": "x-japan",
+ "title": "Xclamation",
+ "source": "itunes",
+ "album": "Blue Blood",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.531096705185982,
+  "tempo_var": 2.314125225063257,
+  "low_onset_rate": 7.328691274914302,
+  "lufs": -14.115013903148983,
+  "rms_dbfs": -14.170663764843995,
+  "crest": 14.170663833618164,
+  "centroid": 1929.4388876895014,
+  "flatness": 0.003155563725158572,
+  "sub100_share": 0.0638669952750206,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.8839850425720215,
+  "clean_share": 0.8213457076566125,
+  "minor_share": 0.04471599907304746,
+  "chord_rate": 0.7661813605592225,
+  "repetitiveness": 0.7731530666351318,
+  "vocal_share": 1.5380716149593354e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 237.787
+ }
+}

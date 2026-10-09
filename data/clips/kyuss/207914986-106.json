@@ -1,0 +1,32 @@
+{
+ "id": "kyuss/207914986-106",
+ "band": "kyuss",
+ "title": "El Rodeo",
+ "source": "itunes",
+ "album": "...And the Circus Leaves Town",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.4662579469087547,
+  "tempo_var": 4.1313951948839716,
+  "low_onset_rate": 4.23283422362896,
+  "lufs": -10.737084879309267,
+  "rms_dbfs": -9.498193431792135,
+  "crest": 9.498193740844727,
+  "centroid": 1408.263239445008,
+  "flatness": 0.0048615047708153725,
+  "sub100_share": 0.22881758213043213,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8281119465827942,
+  "clean_share": 0.774168600154679,
+  "minor_share": -0.07467866270222845,
+  "chord_rate": 2.1330818134823106,
+  "repetitiveness": 0.9304278492927551,
+  "vocal_share": 3.3086610073951306e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 329.067
+ }
+}

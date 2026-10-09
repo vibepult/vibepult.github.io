@@ -1,0 +1,32 @@
+{
+ "id": "haemorrhage/1677190231-103",
+ "band": "haemorrhage",
+ "title": "Surgery for the Dead",
+ "source": "itunes",
+ "album": "Anatomical Inferno",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 6.281518207826213,
+  "tempo_var": 13.848105480163992,
+  "low_onset_rate": 6.74929084032391,
+  "lufs": -8.073341842846357,
+  "rms_dbfs": -8.637183531869798,
+  "crest": 8.63718318939209,
+  "centroid": 3256.262477698898,
+  "flatness": 0.08047540485858917,
+  "sub100_share": 0.23348689079284668,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.56241375207901,
+  "clean_share": 0.0,
+  "minor_share": 0.12608861142505767,
+  "chord_rate": 2.2720385007030983,
+  "repetitiveness": 0.9483134746551514,
+  "vocal_share": 0.1545170396566391,
+  "vocal_voiced": 0.03391384051329056,
+  "song_length": 133.2
+ }
+}

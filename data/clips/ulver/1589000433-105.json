@@ -1,0 +1,32 @@
+{
+ "id": "ulver/1589000433-105",
+ "band": "ulver",
+ "title": "ALCHEMIST SALK",
+ "source": "itunes",
+ "album": "Scary Muzak",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 1.4701425592784756,
+  "tempo_var": 3.8101313100886136,
+  "low_onset_rate": 7.217063472821607,
+  "lufs": -12.13886070239114,
+  "rms_dbfs": -9.769446289239218,
+  "crest": 9.76944637298584,
+  "centroid": 796.0862203072406,
+  "flatness": 0.00039730744902044535,
+  "sub100_share": 0.5493168234825134,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.9061524868011475,
+  "clean_share": 0.9992242048099301,
+  "minor_share": -0.027224216286730496,
+  "chord_rate": 1.1026069194588566,
+  "repetitiveness": 0.5968490839004517,
+  "vocal_share": 0.00043191341683268547,
+  "vocal_voiced": 0.7878787878787878,
+  "song_length": 138.6
+ }
+}

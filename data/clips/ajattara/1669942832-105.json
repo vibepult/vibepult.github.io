@@ -1,0 +1,32 @@
+{
+ "id": "ajattara/1669942832-105",
+ "band": "ajattara",
+ "title": "Saveen Saarnattu",
+ "source": "itunes",
+ "album": "Noitumaa",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.544077001406197,
+  "tempo_var": 1.6075024425786395,
+  "low_onset_rate": 5.813745575328517,
+  "lufs": -7.3594375435188635,
+  "rms_dbfs": -6.577956009676443,
+  "crest": 6.577956199645996,
+  "centroid": 2187.2250558554756,
+  "flatness": 0.023226313292980194,
+  "sub100_share": 0.316666841506958,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7168381810188293,
+  "clean_share": 0.15748642358417378,
+  "minor_share": -0.15850733569718767,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.8050703406333923,
+  "vocal_share": 0.22734561562538147,
+  "vocal_voiced": 0.02040816326530612,
+  "song_length": 254.827
+ }
+}

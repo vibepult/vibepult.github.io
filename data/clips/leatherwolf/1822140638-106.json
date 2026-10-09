@@ -1,0 +1,32 @@
+{
+ "id": "leatherwolf/1822140638-106",
+ "band": "leatherwolf",
+ "title": "Off the Track",
+ "source": "itunes",
+ "album": "Endangered Species",
+ "year": 1984,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 4.233269338331998,
+  "tempo_var": 12.545691403423707,
+  "low_onset_rate": 4.8999259270456985,
+  "lufs": -9.230619913786407,
+  "rms_dbfs": -9.00667060298243,
+  "crest": 9.006670951843262,
+  "centroid": 2618.4506002637845,
+  "flatness": 0.03814348205924034,
+  "sub100_share": 0.20592202246189117,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7126652598381042,
+  "clean_share": 0.0007733952049497294,
+  "minor_share": 0.090977442745519,
+  "chord_rate": 2.599960695983432,
+  "repetitiveness": 0.9274534583091736,
+  "vocal_share": 0.07577838748693466,
+  "vocal_voiced": 0.5556756756756757,
+  "song_length": 226.372
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "metsatoll/1656547728-105",
+ "band": "metsatoll",
+ "title": "Veelind",
+ "source": "itunes",
+ "album": "Iivakivi",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 2.338863162488484,
+  "tempo_var": 16.01730461663056,
+  "low_onset_rate": 3.040522111235029,
+  "lufs": -13.76783503495081,
+  "rms_dbfs": -13.721956940838393,
+  "crest": 13.721957206726074,
+  "centroid": 2331.944335747947,
+  "flatness": 0.021514788269996643,
+  "sub100_share": 0.3502930700778961,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.5911585688591003,
+  "clean_share": 0.35143522110162917,
+  "minor_share": -0.14586888350724925,
+  "chord_rate": 1.4367302283857828,
+  "repetitiveness": 0.7409764528274536,
+  "vocal_share": 0.27755966782569885,
+  "vocal_voiced": 0.6764275256222547,
+  "song_length": 409.667
+ }
+}

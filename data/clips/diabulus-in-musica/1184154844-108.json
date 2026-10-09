@@ -1,0 +1,32 @@
+{
+ "id": "diabulus-in-musica/1184154844-108",
+ "band": "diabulus-in-musica",
+ "title": "Eternal Breeze",
+ "source": "itunes",
+ "album": "Argia",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.3,
+  "tempo_var": 13.00187828187917,
+  "low_onset_rate": 6.033333333333333,
+  "lufs": -13.07863526719854,
+  "rms_dbfs": -13.139039573537106,
+  "crest": 13.139039039611816,
+  "centroid": 1965.8460363636627,
+  "flatness": 0.008929229341447353,
+  "sub100_share": 0.016415942460298538,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.9491849541664124,
+  "clean_share": 0.641640866873065,
+  "minor_share": -0.1935593344473222,
+  "chord_rate": 1.2,
+  "repetitiveness": 0.6008198261260986,
+  "vocal_share": 0.5672106742858887,
+  "vocal_voiced": 0.8995348837209303,
+  "song_length": 302.933
+ }
+}

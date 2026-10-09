@@ -1,0 +1,127 @@
+{
+ "slug": "mustasch",
+ "name": "Mustasch",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 14839336,
+  "deezer": 14549,
+  "spotify": "7ig8pUnno95YNA9MclOveH"
+ },
+ "metadata": {
+  "formed": 1998,
+  "split": null,
+  "country": "SE",
+  "status": "active",
+  "members": 4,
+  "past_members": 9,
+  "full_lengths": 10,
+  "genre": "Heavy/Stoner Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 8637,
+  "themes": "Love, Day-to-day problems, Loneliness",
+  "release_year": 2008
+ },
+ "partial": false,
+ "clips": [
+  "mustasch/1349923988-105",
+  "mustasch/1350727091-105",
+  "mustasch/1350505370-106",
+  "mustasch/258881803-106",
+  "mustasch/1436001986-107",
+  "mustasch/1771998195-105",
+  "mustasch/1236295735-105",
+  "mustasch/1230557818-105",
+  "mustasch/1358249135-106",
+  "mustasch/1486625112-104",
+  "mustasch/1349923988-106",
+  "mustasch/1350727091-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 32.99282731681035
+  },
+  "onset_rate": {
+   "median": 3.207583765698492,
+   "iqr": 1.5145632475616484
+  },
+  "tempo_var": {
+   "median": 5.20755705812222,
+   "iqr": 10.176362092411335
+  },
+  "low_onset_rate": {
+   "median": 4.305613556661576,
+   "iqr": 2.0149541156105313
+  },
+  "lufs": {
+   "median": -8.332607230333032,
+   "iqr": 2.0551147838640675
+  },
+  "rms_dbfs": {
+   "median": -7.676885491659794,
+   "iqr": 2.4864903765395425
+  },
+  "crest": {
+   "median": 7.676885604858398,
+   "iqr": 2.486489772796631
+  },
+  "centroid": {
+   "median": 2221.399411058673,
+   "iqr": 552.6490629049656
+  },
+  "flatness": {
+   "median": 0.017704131081700325,
+   "iqr": 0.016728004906326532
+  },
+  "sub100_share": {
+   "median": 0.346166655421257,
+   "iqr": 0.13546257093548775
+  },
+  "lowest_pitch": {
+   "median": 64.599609375,
+   "iqr": 30.28106689453125
+  },
+  "harmonic_share": {
+   "median": 0.8169054985046387,
+   "iqr": 0.08680926263332367
+  },
+  "clean_share": {
+   "median": 0.13439286676422607,
+   "iqr": 0.4232736757032107
+  },
+  "minor_share": {
+   "median": 0.05930191926287959,
+   "iqr": 0.15076302189191534
+  },
+  "chord_rate": {
+   "median": 1.7541473718663627,
+   "iqr": 0.8255820510454106
+  },
+  "repetitiveness": {
+   "median": 0.7966184914112091,
+   "iqr": 0.09088645875453949
+  },
+  "vocal_share": {
+   "median": 0.12322365492582321,
+   "iqr": 0.0963219664990902
+  },
+  "vocal_voiced": {
+   "median": 0.5951557093425606,
+   "iqr": 0.2841134550027924
+  },
+  "song_length": {
+   "median": 234.1515,
+   "iqr": 94.082
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

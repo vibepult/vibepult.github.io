@@ -1,0 +1,32 @@
+{
+ "id": "septicflesh/631937565-106",
+ "band": "septicflesh",
+ "title": "The Crypt",
+ "source": "itunes",
+ "album": "A Fallen Temple",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 6.314930538718906,
+  "tempo_var": 7.588658792276995,
+  "low_onset_rate": 8.186021068709692,
+  "lufs": -7.731960235909603,
+  "rms_dbfs": -6.201690959026266,
+  "crest": 6.201691150665283,
+  "centroid": 2118.702891852607,
+  "flatness": 0.017335638403892517,
+  "sub100_share": 0.5535442233085632,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8569691777229309,
+  "clean_share": 0.10628394103956555,
+  "minor_share": 0.15267870318582966,
+  "chord_rate": 2.0047398535615577,
+  "repetitiveness": 0.9082457423210144,
+  "vocal_share": 0.10027161240577698,
+  "vocal_voiced": 0.312900274473925,
+  "song_length": 257.947
+ }
+}

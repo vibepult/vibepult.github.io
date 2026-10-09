@@ -1,0 +1,32 @@
+{
+ "id": "entoria/1450504614-104",
+ "band": "entoria",
+ "title": "Scherben",
+ "source": "itunes",
+ "album": "Aschheim",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.143129030693886,
+  "tempo_var": 2.7282882702225417,
+  "low_onset_rate": 6.11445655336275,
+  "lufs": -7.708057081209202,
+  "rms_dbfs": -7.172337809075088,
+  "crest": 7.172337532043457,
+  "centroid": 2509.9250025477513,
+  "flatness": 0.039111681282520294,
+  "sub100_share": 0.25385400652885437,
+  "lowest_pitch": 107.666015625,
+  "harmonic_share": 0.671207070350647,
+  "clean_share": 0.013188518231186967,
+  "minor_share": 0.329205487482736,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.8207454085350037,
+  "vocal_share": 0.24400678277015686,
+  "vocal_voiced": 0.09243697478991597,
+  "song_length": 274.639
+ }
+}

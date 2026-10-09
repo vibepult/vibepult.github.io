@@ -1,0 +1,32 @@
+{
+ "id": "saint-vitus/117991551-101",
+ "band": "saint-vitus",
+ "title": "The Creeps",
+ "source": "itunes",
+ "album": "Mournful Cries",
+ "year": 1988,
+ "itunes_year": 1988,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.474882412840033,
+  "tempo_var": 6.263522195102995,
+  "low_onset_rate": 5.078674295689279,
+  "lufs": -15.582616864489506,
+  "rms_dbfs": -14.719509643520208,
+  "crest": 14.719510078430176,
+  "centroid": 2197.0783860884185,
+  "flatness": 0.014102991670370102,
+  "sub100_share": 0.16238661110401154,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7694752216339111,
+  "clean_share": 0.14507370054305663,
+  "minor_share": 0.04546396438835265,
+  "chord_rate": 2.1718015080250206,
+  "repetitiveness": 0.7839248776435852,
+  "vocal_share": 0.03710251674056053,
+  "vocal_voiced": 0.7900990099009901,
+  "song_length": 167.834
+ }
+}

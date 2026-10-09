@@ -1,0 +1,32 @@
+{
+ "id": "electric-wizard/965381711-104",
+ "band": "electric-wizard",
+ "title": "Raptus",
+ "source": "itunes",
+ "album": "Witchcult Today",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 1.2,
+  "tempo_var": 7.1847804638361525,
+  "low_onset_rate": 6.366666666666666,
+  "lufs": -14.133116868818759,
+  "rms_dbfs": -13.64744413388217,
+  "crest": 13.64717960357666,
+  "centroid": 1146.0909908417398,
+  "flatness": 0.0010128746507689357,
+  "sub100_share": 0.008257810026407242,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.9561335444450378,
+  "clean_share": 0.9806501547987616,
+  "minor_share": -0.0559565435587257,
+  "chord_rate": 0.1,
+  "repetitiveness": 0.9207907319068909,
+  "vocal_share": 1.127074256146443e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 133.4
+ }
+}

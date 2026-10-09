@@ -1,0 +1,32 @@
+{
+ "id": "iced-earth/1045281091-105",
+ "band": "iced-earth",
+ "title": "V",
+ "source": "itunes",
+ "album": "Dystopia",
+ "year": 2011,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.746920913543131,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 5.98080722979198,
+  "lufs": -8.33236254184988,
+  "rms_dbfs": -8.253997985068523,
+  "crest": 8.253997802734375,
+  "centroid": 2563.790665619123,
+  "flatness": 0.04491456598043442,
+  "sub100_share": 0.16660243272781372,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.6741235852241516,
+  "clean_share": 0.037238169123351435,
+  "minor_share": 0.06739808378671519,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.9027948379516602,
+  "vocal_share": 0.2969699203968048,
+  "vocal_voiced": 0.2908792111750205,
+  "song_length": 219.16
+ }
+}

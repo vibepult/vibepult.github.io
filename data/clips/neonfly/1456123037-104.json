@@ -1,0 +1,32 @@
+{
+ "id": "neonfly/1456123037-104",
+ "band": "neonfly",
+ "title": "Rose in Bloom",
+ "source": "itunes",
+ "album": "Strangers in Paradise",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.2386261698104057,
+  "tempo_var": 10.464287436308341,
+  "low_onset_rate": 1.7040288755273238,
+  "lufs": -13.697473872438714,
+  "rms_dbfs": -13.51031270417481,
+  "crest": 13.510313034057617,
+  "centroid": 2239.0194310783345,
+  "flatness": 0.010842244140803814,
+  "sub100_share": 0.14834044873714447,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.9227828979492188,
+  "clean_share": 0.48332040341349886,
+  "minor_share": -0.38710296674693356,
+  "chord_rate": 0.8353082723173156,
+  "repetitiveness": 0.639552891254425,
+  "vocal_share": 0.395251601934433,
+  "vocal_voiced": 0.9065934065934066,
+  "song_length": 257.427
+ }
+}

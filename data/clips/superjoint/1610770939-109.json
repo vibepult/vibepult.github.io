@@ -1,0 +1,32 @@
+{
+ "id": "superjoint/1610770939-109",
+ "band": "superjoint",
+ "title": "All of Our Lives Will Get Tired",
+ "source": "itunes",
+ "album": "Use Once and Destroy",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.2333333333333334,
+  "tempo_var": 12.459363605070967,
+  "low_onset_rate": 4.566666666666666,
+  "lufs": -7.8836643031967695,
+  "rms_dbfs": -8.344327174813396,
+  "crest": 8.344326972961426,
+  "centroid": 2523.353388826166,
+  "flatness": 0.036460041999816895,
+  "sub100_share": 0.14336825907230377,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.6706190705299377,
+  "clean_share": 0.03637770897832817,
+  "minor_share": -0.1488447260376795,
+  "chord_rate": 2.1666666666666665,
+  "repetitiveness": 0.8478265404701233,
+  "vocal_share": 0.2055864781141281,
+  "vocal_voiced": 0.2579185520361991,
+  "song_length": 201.013
+ }
+}

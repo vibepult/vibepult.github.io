@@ -1,0 +1,32 @@
+{
+ "id": "bloodbound/307341717-104",
+ "band": "bloodbound",
+ "title": "Tabula Rasa",
+ "source": "itunes",
+ "album": "Tabula Rasa",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.240996096591185,
+  "tempo_var": 15.896748379582371,
+  "low_onset_rate": 4.5106646705135045,
+  "lufs": -9.424663187064697,
+  "rms_dbfs": -8.301640979768923,
+  "crest": 8.301640510559082,
+  "centroid": 3081.158342100345,
+  "flatness": 0.05003952234983444,
+  "sub100_share": 0.5416120290756226,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8121967911720276,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.10920259753305206,
+  "chord_rate": 1.871090529990787,
+  "repetitiveness": 0.9120041131973267,
+  "vocal_share": 0.05442100390791893,
+  "vocal_voiced": 0.7034313725490197,
+  "song_length": 222.413
+ }
+}

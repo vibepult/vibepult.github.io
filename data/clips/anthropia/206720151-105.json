@@ -1,0 +1,32 @@
+{
+ "id": "anthropia/206720151-105",
+ "band": "anthropia",
+ "title": "Forgotten",
+ "source": "itunes",
+ "album": "The Ereyn Chronicles, Part 1 - The Journey of Beginnings",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 2.3722754933811765,
+  "tempo_var": 22.305979999577303,
+  "low_onset_rate": 3.4414700819473403,
+  "lufs": -11.270839330992187,
+  "rms_dbfs": -10.612414947667485,
+  "crest": 10.612415313720703,
+  "centroid": 2473.8572038854186,
+  "flatness": 0.02039298601448536,
+  "sub100_share": 0.280699759721756,
+  "lowest_pitch": 115.740966796875,
+  "harmonic_share": 0.9017831087112427,
+  "clean_share": 0.2932505818463926,
+  "minor_share": 0.04464696790021061,
+  "chord_rate": 1.0357822576734714,
+  "repetitiveness": 0.5862659811973572,
+  "vocal_share": 0.3026737868785858,
+  "vocal_voiced": 0.7976973684210527,
+  "song_length": 538.04
+ }
+}

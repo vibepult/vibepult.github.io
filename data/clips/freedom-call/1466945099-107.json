@@ -1,0 +1,32 @@
+{
+ "id": "freedom-call/1466945099-107",
+ "band": "freedom-call",
+ "title": "Heart of the Rainbow",
+ "source": "itunes",
+ "album": "Crystal Empire",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 78.30255681818181,
+  "onset_rate": 6.348342869611598,
+  "tempo_var": 17.89603732709476,
+  "low_onset_rate": 7.88531009067546,
+  "lufs": -9.960606492452916,
+  "rms_dbfs": -10.03417194637089,
+  "crest": 10.034172058105469,
+  "centroid": 2465.0830514394092,
+  "flatness": 0.031043387949466705,
+  "sub100_share": 0.16744768619537354,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.705619752407074,
+  "clean_share": 0.0,
+  "minor_share": 0.13001710502706043,
+  "chord_rate": 1.336493235707705,
+  "repetitiveness": 0.9154639840126038,
+  "vocal_share": 0.11741473525762558,
+  "vocal_voiced": 0.6614853195164075,
+  "song_length": 276.507
+ }
+}

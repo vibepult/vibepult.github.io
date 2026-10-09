@@ -1,0 +1,32 @@
+{
+ "id": "doro/1456971596-109",
+ "band": "doro",
+ "title": "Little Headbanger (Nackenbrecher)",
+ "source": "itunes",
+ "album": "Raise Your Fist",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 1.1026069194588566,
+  "tempo_var": 16.83586913352901,
+  "low_onset_rate": 1.5703795519565533,
+  "lufs": -10.142541028354543,
+  "rms_dbfs": -8.753808454984593,
+  "crest": 8.753808975219727,
+  "centroid": 2538.032998553587,
+  "flatness": 0.030809490010142326,
+  "sub100_share": 0.5727635622024536,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.888206422328949,
+  "clean_share": 0.08301008533747091,
+  "minor_share": 0.03848970856522249,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.7490085959434509,
+  "vocal_share": 0.006704497151076794,
+  "vocal_voiced": 0.9047619047619048,
+  "song_length": 194.787
+ }
+}

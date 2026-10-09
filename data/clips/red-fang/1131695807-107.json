@@ -1,0 +1,32 @@
+{
+ "id": "red-fang/1131695807-107",
+ "band": "red-fang",
+ "title": "The Smell of the Sound",
+ "source": "itunes",
+ "album": "Only Ghosts",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.107346773020414,
+  "tempo_var": 3.6880240639899706,
+  "low_onset_rate": 6.582229185860447,
+  "lufs": -9.993409451625862,
+  "rms_dbfs": -9.744131646695973,
+  "crest": 9.744131088256836,
+  "centroid": 2320.6164730926216,
+  "flatness": 0.023473823443055153,
+  "sub100_share": 0.22277657687664032,
+  "lowest_pitch": 29.608154296875,
+  "harmonic_share": 0.7565894722938538,
+  "clean_share": 0.06361520558572537,
+  "minor_share": 0.08869523084366315,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.8226688504219055,
+  "vocal_share": 0.18017879128456116,
+  "vocal_voiced": 0.9192439862542955,
+  "song_length": 323.307
+ }
+}

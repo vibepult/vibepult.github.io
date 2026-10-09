@@ -1,0 +1,32 @@
+{
+ "id": "obscura/1776828743-104",
+ "band": "obscura",
+ "title": "The Prolonging",
+ "source": "itunes",
+ "album": "A Sonication",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 0.23333192240712075,
+  "tempo_var": 11.181849078771386,
+  "low_onset_rate": 0.4666638448142415,
+  "lufs": -10.8893931206637,
+  "rms_dbfs": -10.182964432476853,
+  "crest": 10.182964324951172,
+  "centroid": 2986.395801633198,
+  "flatness": 0.05480840057134628,
+  "sub100_share": 0.3183678686618805,
+  "lowest_pitch": 26.91650390625,
+  "harmonic_share": 0.6675384044647217,
+  "clean_share": 0.0,
+  "minor_share": 0.04402477046744435,
+  "chord_rate": 1.299992139125387,
+  "repetitiveness": 0.9463562369346619,
+  "vocal_share": 0.11369889974594116,
+  "vocal_voiced": 0.38064516129032255,
+  "song_length": 128.158
+ }
+}

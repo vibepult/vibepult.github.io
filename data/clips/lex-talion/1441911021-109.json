@@ -1,0 +1,32 @@
+{
+ "id": "lex-talion/1441911021-109",
+ "band": "lex-talion",
+ "title": "The Circle",
+ "source": "itunes",
+ "album": "Sons of Chaos",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 6.816115502109295,
+  "tempo_var": 0.0,
+  "low_onset_rate": 7.851897759782767,
+  "lufs": -7.218579286003756,
+  "rms_dbfs": -6.942599781244647,
+  "crest": 6.942599296569824,
+  "centroid": 2487.5719397183852,
+  "flatness": 0.036284033209085464,
+  "sub100_share": 0.35259920358657837,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7481696009635925,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": -0.08121566367740363,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.9014970064163208,
+  "vocal_share": 0.2246517837047577,
+  "vocal_voiced": 0.24623911322248615,
+  "song_length": 213.036
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "hellyeah/375352740-105",
+ "band": "hellyeah",
+ "title": "Better Man",
+ "source": "itunes",
+ "album": "Stampede",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.832673874865111,
+  "tempo_var": 1.549075335149716,
+  "low_onset_rate": 3.0326273248555893,
+  "lufs": -9.839872439088786,
+  "rms_dbfs": -10.049090795707487,
+  "crest": 10.049090385437012,
+  "centroid": 2579.7173328686854,
+  "flatness": 0.03050619550049305,
+  "sub100_share": 0.16445599496364594,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.6331915855407715,
+  "clean_share": 0.07888631090487239,
+  "minor_share": -0.22311105001766018,
+  "chord_rate": 1.432999724931762,
+  "repetitiveness": 0.7160732746124268,
+  "vocal_share": 0.23747994005680084,
+  "vocal_voiced": 0.7520576131687243,
+  "song_length": 270.937
+ }
+}

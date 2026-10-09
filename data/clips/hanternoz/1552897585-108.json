@@ -1,0 +1,32 @@
+{
+ "id": "hanternoz/1552897585-108",
+ "band": "hanternoz",
+ "title": "Le chaudron d'immortalité",
+ "source": "itunes",
+ "album": "Metal Kozh",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.9092427144450372,
+  "tempo_var": 2.8797324225452066,
+  "low_onset_rate": 5.312560611938127,
+  "lufs": -8.818068010467622,
+  "rms_dbfs": -9.107570080883976,
+  "crest": 9.107569694519043,
+  "centroid": 2436.398654094057,
+  "flatness": 0.02890675701200962,
+  "sub100_share": 0.1678827404975891,
+  "lowest_pitch": 107.666015625,
+  "harmonic_share": 0.6037989258766174,
+  "clean_share": 0.06749418153607448,
+  "minor_share": 0.00034697836365571444,
+  "chord_rate": 2.338863162488484,
+  "repetitiveness": 0.9072198271751404,
+  "vocal_share": 0.3443465828895569,
+  "vocal_voiced": 0.21411947245927077,
+  "song_length": 412.0
+ }
+}

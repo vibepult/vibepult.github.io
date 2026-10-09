@@ -1,0 +1,32 @@
+{
+ "id": "arch-enemy/1675364923-104",
+ "band": "arch-enemy",
+ "title": "Silverwing",
+ "source": "itunes",
+ "album": "Burning Bridges",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 7.050001818358144,
+  "tempo_var": 6.066067526751438,
+  "low_onset_rate": 7.517774450855841,
+  "lufs": -8.92294305931511,
+  "rms_dbfs": -9.279732373186565,
+  "crest": 9.279731750488281,
+  "centroid": 2737.7936936246297,
+  "flatness": 0.05417275428771973,
+  "sub100_share": 0.20908144116401672,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.6704165935516357,
+  "clean_share": 0.0,
+  "minor_share": -0.22845859796304036,
+  "chord_rate": 1.971327522668865,
+  "repetitiveness": 0.9237188696861267,
+  "vocal_share": 0.11605729907751083,
+  "vocal_voiced": 0.21699544764795145,
+  "song_length": 246.28
+ }
+}

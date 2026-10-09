@@ -1,0 +1,32 @@
+{
+ "id": "rush/1440782998-104",
+ "band": "rush",
+ "title": "Here Again (Remastered 2013)",
+ "source": "itunes",
+ "album": "Rush (Remastered 2013)",
+ "year": 1974,
+ "itunes_year": 1974,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.79759456972832,
+  "tempo_var": 2.1337621785392358,
+  "low_onset_rate": 3.3645355398470205,
+  "lufs": -12.69443804253982,
+  "rms_dbfs": -11.908780481475787,
+  "crest": 11.908780097961426,
+  "centroid": 1884.3599271349367,
+  "flatness": 0.011029589921236038,
+  "sub100_share": 0.10331390798091888,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.811489462852478,
+  "clean_share": 0.5460170146945089,
+  "minor_share": 0.0011121139442126227,
+  "chord_rate": 1.2325526235083144,
+  "repetitiveness": 0.69552081823349,
+  "vocal_share": 0.16670916974544525,
+  "vocal_voiced": 0.7984395318595578,
+  "song_length": 455.673
+ }
+}

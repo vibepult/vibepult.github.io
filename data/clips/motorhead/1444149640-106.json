@@ -1,0 +1,32 @@
+{
+ "id": "motorhead/1444149640-106",
+ "band": "motorhead",
+ "title": "Buried Alive",
+ "source": "itunes",
+ "album": "Motörizer",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 7.499886623029131,
+  "tempo_var": 6.657752041447716,
+  "low_onset_rate": 8.066544723435776,
+  "lufs": -10.28915953406314,
+  "rms_dbfs": -10.007842379099152,
+  "crest": 10.007843017578125,
+  "centroid": 2513.0608351328888,
+  "flatness": 0.037269726395606995,
+  "sub100_share": 0.21520540118217468,
+  "lowest_pitch": 24.224853515625,
+  "harmonic_share": 0.6066811084747314,
+  "clean_share": 0.0,
+  "minor_share": -0.1526178055551498,
+  "chord_rate": 1.5333101540415113,
+  "repetitiveness": 0.9495693445205688,
+  "vocal_share": 0.11541862785816193,
+  "vocal_voiced": 0.5504926108374384,
+  "song_length": 192.747
+ }
+}

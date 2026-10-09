@@ -1,0 +1,32 @@
+{
+ "id": "nile/1479066038-105",
+ "band": "nile",
+ "title": "What Should Not Be Unearthed",
+ "source": "itunes",
+ "album": "What Should Not Be Unearthed",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 0.8333282943111455,
+  "tempo_var": 15.053052429711581,
+  "low_onset_rate": 1.5333240615325077,
+  "lufs": -9.836110550314025,
+  "rms_dbfs": -9.382839716901172,
+  "crest": 9.382840156555176,
+  "centroid": 2654.904335983457,
+  "flatness": 0.030499955639243126,
+  "sub100_share": 0.3874323070049286,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.7452774047851562,
+  "clean_share": 0.014694508894044857,
+  "minor_share": 0.044311628525471325,
+  "chord_rate": 2.1333204334365323,
+  "repetitiveness": 0.8659210205078125,
+  "vocal_share": 0.018564002588391304,
+  "vocal_voiced": 0.25,
+  "song_length": 418.014
+ }
+}

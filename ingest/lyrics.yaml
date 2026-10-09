@@ -1,0 +1,18 @@
+# Metal Archives "Themes" -> lyric axes, the buttons of the Lyrics grid on the desk (one button per axis, pressed
+# buttons are a union filter). A band is on an axis when any of its listed themes contains one of the axis keys
+# (substring, lower case; era markers such as "(early)" are stripped). Edit, then: python -m ingest publish.
+axes:
+  death:    {label: Death, keys: [death, mortal, decay, funeral, dying, afterlife, grave, tomb, corpse, burial, rot]}
+  violence: {label: Violence, keys: [violence, gore, murder, torture, brutal, cannibal, necro, perver, sick, mutilat, killing, carnage, slaughter, blood]}
+  war:      {label: War, keys: [war, battle, military, conflict, soldier, armageddon, apocalyp, destruction, chaos, glory, honour, honor, victory]}
+  horror:   {label: Horror, keys: [horror, lovecraft, vampir, nightmare, fear, zombie, monster, macabre, terror, cthulhu, splatter, "b-movie", undead, supernatural, mystery, ghost, haunt, serial killer, psychopath]}
+  occult:   {label: Occult, keys: [satan, occult, blasphem, anti-christ, antichrist, anti-relig, evil, demon, hell, lucifer, witch, devil, left hand path, ritual, black magic, darkness, esoteric, paganism, atheism, heathen]}
+  despair:  {label: Despair, keys: [depress, despair, sorrow, pain, suffer, misery, suicide, lonel, grief, melanchol, sadness, nihil, misanthrop, hopeless, negativ, loss, solitude, isolation, anguish, mourning, agony, self-destruct, hatred, hate, anger, madness, insanity, mental, doom, angst, pessimis, hardship, cynic, revenge]}
+  nature:   {label: Nature, keys: [nature, forest, winter, season, earth, mountain, sea, ocean, wilderness, landscape, wood, tree, animal, cold, river, moon, night, sky, storm, wind, ecolog, environment]}
+  fantasy:  {label: Fantasy, keys: [fantasy, tolkien, dragon, magic, sword, sorcery, tales, epic, medieval, dungeon, legend, fairy, adventure, heroic, warhammer, lore]}
+  history:  {label: History, keys: [history, mythology, norse, viking, folklore, ancient, heritage, tradition, celtic, slavic, egypt, rome, greek, saga, ancestors, culture, nationalism, mesopotam, sumer]}
+  humour:   {label: Humour, keys: [humour, humor, parody, party, alcohol, beer, drinking, fun, irony, sarcasm, satire, comedy, rock 'n' roll, rock, metal, pirates, trolls, nonsense, absurd, silly, booze, food]}
+  society:  {label: Society, keys: [society, politic, social, rebellion, corruption, anti-fascis, anti-racis, freedom, injustice, oppression, capitalis, media, revolution, anarch, authority, government, class, consumer, propaganda, crime, drug, addiction, street, urban, city, work]}
+  life:     {label: Life, keys: [life, love, relationship, inner, introspect, emotion, personal, hope, heartbreak, romance, feeling, memor, dream, humanity, existential, philosoph, psycholog, self, soul, experience, struggle, strength, growth, beauty, sex, women, lust, passion, desire, poetry, literature, nostalgia, childhood, existence, individual, mankind, people, unity, optimis, positiv, morality]}
+  spirit:   {label: Spirit, keys: [spiritual, religion, mysticism, christian, faith, god, theolog, belief, enlighten, meditation, prayer, bible, divine, heaven, karma, buddhis, hindu]}
+  cosmos:   {label: Cosmos, keys: [space, cosmos, cosmic, science fiction, sci-fi, astronom, universe, star, technolog, dystopia, future, science, alien, galaxy, planet, astral, void, time, transcend, abstract, metaphysic, consciousness, surreal, psychedel, dimension]}

@@ -1,0 +1,32 @@
+{
+ "id": "lordi/274671623-106",
+ "band": "lordi",
+ "title": "Who's Your Daddy",
+ "source": "itunes",
+ "album": "The Arockalypse",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.764282336660528,
+  "tempo_var": 1.2419772657543908,
+  "low_onset_rate": 3.7309701035927354,
+  "lufs": -6.277274750422639,
+  "rms_dbfs": -7.215166388712219,
+  "crest": 7.2151665687561035,
+  "centroid": 3488.9480888938383,
+  "flatness": 0.0971582904458046,
+  "sub100_share": 0.21788953244686127,
+  "lowest_pitch": 88.824462890625,
+  "harmonic_share": 0.6174591183662415,
+  "clean_share": 0.0015467904098994587,
+  "minor_share": 0.2000545232073192,
+  "chord_rate": 1.3324893227116912,
+  "repetitiveness": 0.7749674916267395,
+  "vocal_share": 0.25654086470603943,
+  "vocal_voiced": 0.1549421193232413,
+  "song_length": 217.747
+ }
+}

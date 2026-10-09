@@ -1,0 +1,32 @@
+{
+ "id": "mago-de-oz/1467056298-108",
+ "band": "mago-de-oz",
+ "title": "La cantiga de las brujas",
+ "source": "itunes",
+ "album": "Ira Dei",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.366151836971604,
+  "tempo_var": 31.375008271986758,
+  "low_onset_rate": 6.03262200375466,
+  "lufs": -13.276124579082298,
+  "rms_dbfs": -12.889985637455851,
+  "crest": 12.365527153015137,
+  "centroid": 1617.6823162331086,
+  "flatness": 0.008795949630439281,
+  "sub100_share": 0.007264803629368544,
+  "lowest_pitch": 99.591064453125,
+  "harmonic_share": 0.9146456718444824,
+  "clean_share": 0.8422273781902552,
+  "minor_share": 0.12515404704295208,
+  "chord_rate": 1.0998703100768163,
+  "repetitiveness": 0.6281078457832336,
+  "vocal_share": 0.6668153405189514,
+  "vocal_voiced": 0.9176706827309237,
+  "song_length": 353.707
+ }
+}

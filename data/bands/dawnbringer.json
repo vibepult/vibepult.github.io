@@ -1,0 +1,127 @@
+{
+ "slug": "dawnbringer",
+ "name": "Dawnbringer",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 387303771,
+  "deezer": 3965811,
+  "spotify": "5dw3NZy4lXaWWPYUPt145Z"
+ },
+ "metadata": {
+  "formed": 1995,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 2,
+  "past_members": 3,
+  "full_lengths": 7,
+  "genre": "Heavy Metal with Black Metal influences",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 220,
+  "themes": "Personality disorders, Stations of sleep, Aging",
+  "release_year": 2012
+ },
+ "partial": false,
+ "clips": [
+  "dawnbringer/1747317327-105",
+  "dawnbringer/1631130712-105",
+  "dawnbringer/1778368725-105",
+  "dawnbringer/1747317327-104",
+  "dawnbringer/1631130712-104",
+  "dawnbringer/1778368725-106",
+  "dawnbringer/1747317327-106",
+  "dawnbringer/1631130712-106",
+  "dawnbringer/1778368725-104",
+  "dawnbringer/1747317327-103",
+  "dawnbringer/1631130712-103",
+  "dawnbringer/1778368725-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.29161658653845,
+   "iqr": 50.22228931726042
+  },
+  "onset_rate": {
+   "median": 2.6499599401369593,
+   "iqr": 1.5666429834771964
+  },
+  "tempo_var": {
+   "median": 10.432516177897721,
+   "iqr": 13.405314193791506
+  },
+  "low_onset_rate": {
+   "median": 4.021097779320975,
+   "iqr": 1.8749716557572826
+  },
+  "lufs": {
+   "median": -10.024284671358318,
+   "iqr": 1.371219682065
+  },
+  "rms_dbfs": {
+   "median": -9.148528081974607,
+   "iqr": 1.546634994363023
+  },
+  "crest": {
+   "median": 9.148528099060059,
+   "iqr": 1.5466349124908447
+  },
+  "centroid": {
+   "median": 1845.580776439671,
+   "iqr": 434.5302596649426
+  },
+  "flatness": {
+   "median": 0.011247497517615557,
+   "iqr": 0.007533175521530211
+  },
+  "sub100_share": {
+   "median": 0.2822231650352478,
+   "iqr": 0.14436468109488487
+  },
+  "lowest_pitch": {
+   "median": 69.98291015625,
+   "iqr": 20.86029052734375
+  },
+  "harmonic_share": {
+   "median": 0.8429065644741058,
+   "iqr": 0.15482468903064728
+  },
+  "clean_share": {
+   "median": 0.3864570039665754,
+   "iqr": 0.4048576898823227
+  },
+  "minor_share": {
+   "median": 0.06687203865237323,
+   "iqr": 0.1743961124088933
+  },
+  "chord_rate": {
+   "median": 1.3516093720138993,
+   "iqr": 0.8010214253975395
+  },
+  "repetitiveness": {
+   "median": 0.7789905965328217,
+   "iqr": 0.20830437541007996
+  },
+  "vocal_share": {
+   "median": 0.09584059193730354,
+   "iqr": 0.058665878139436245
+  },
+  "vocal_voiced": {
+   "median": 0.8555764617856121,
+   "iqr": 0.3550001227295041
+  },
+  "song_length": {
+   "median": 278.887,
+   "iqr": 79.50300000000004
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

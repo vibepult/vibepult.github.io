@@ -1,0 +1,32 @@
+{
+ "id": "tristania/1184167523-105",
+ "band": "tristania",
+ "title": "Exile",
+ "source": "itunes",
+ "album": "Rubicon",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.7666666666666666,
+  "tempo_var": 0.28370355633995187,
+  "low_onset_rate": 5.466666666666667,
+  "lufs": -11.289242919607995,
+  "rms_dbfs": -11.022994741326606,
+  "crest": 11.022994995117188,
+  "centroid": 2600.410202183568,
+  "flatness": 0.035555992275476456,
+  "sub100_share": 0.28759077191352844,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7311824560165405,
+  "clean_share": 0.07430340557275542,
+  "minor_share": 0.08140468409066848,
+  "chord_rate": 1.2,
+  "repetitiveness": 0.8549485206604004,
+  "vocal_share": 0.2742297351360321,
+  "vocal_voiced": 0.7862407862407862,
+  "song_length": 266.213
+ }
+}

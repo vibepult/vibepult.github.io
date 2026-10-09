@@ -1,0 +1,32 @@
+{
+ "id": "municipal-waste/81322935-112",
+ "band": "municipal-waste",
+ "title": "Mind Eraser",
+ "source": "itunes",
+ "album": "Hazardous Mutation",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 6.314930538718906,
+  "tempo_var": 13.441629013755797,
+  "low_onset_rate": 5.312560611938127,
+  "lufs": -8.667954183600605,
+  "rms_dbfs": -8.528025555763637,
+  "crest": 8.52802562713623,
+  "centroid": 2756.1582256899324,
+  "flatness": 0.04347110539674759,
+  "sub100_share": 0.29570120573043823,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7304955720901489,
+  "clean_share": 0.005430566330488751,
+  "minor_share": -0.005096914810447273,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.8925524950027466,
+  "vocal_share": 0.16471751034259796,
+  "vocal_voiced": 0.7583230579531443,
+  "song_length": 137.043
+ }
+}

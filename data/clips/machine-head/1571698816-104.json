@@ -1,0 +1,32 @@
+{
+ "id": "machine-head/1571698816-104",
+ "band": "machine-head",
+ "title": "This Is the End",
+ "source": "itunes",
+ "album": "Unto the Locust",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 3.575119405518111,
+  "tempo_var": 36.881817395099546,
+  "low_onset_rate": 3.107346773020414,
+  "lufs": -19.412180819403183,
+  "rms_dbfs": -18.551271015761643,
+  "crest": 13.499833106994629,
+  "centroid": 1119.6533764961553,
+  "flatness": 0.004599086474627256,
+  "sub100_share": 0.025185681879520416,
+  "lowest_pitch": 94.207763671875,
+  "harmonic_share": 0.991341233253479,
+  "clean_share": 0.9891388673390225,
+  "minor_share": -0.05139918365977125,
+  "chord_rate": 1.4367302283857828,
+  "repetitiveness": 0.55946946144104,
+  "vocal_share": 4.907965831080219e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 371.488
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "fantomas/1891406932-109",
+ "band": "fantomas",
+ "title": "Spider Baby",
+ "source": "itunes",
+ "album": "The Director's Cut",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 2.23331982875387,
+  "tempo_var": 0.0,
+  "low_onset_rate": 2.599984278250774,
+  "lufs": -10.37943688209166,
+  "rms_dbfs": -10.937560448560893,
+  "crest": 10.93756103515625,
+  "centroid": 2714.8377607756147,
+  "flatness": 0.054276928305625916,
+  "sub100_share": 0.2689201533794403,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.5837604403495789,
+  "clean_share": 0.04021655065738593,
+  "minor_share": 0.1693933013927475,
+  "chord_rate": 2.799983068885449,
+  "repetitiveness": 0.9100250005722046,
+  "vocal_share": 0.10129804909229279,
+  "vocal_voiced": 0.13280212483399734,
+  "song_length": 146.333
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "dagoba/582707931-107",
+ "band": "dagoba",
+ "title": "Orphan of You",
+ "source": "itunes",
+ "album": "Face the Colossus",
+ "year": 2008,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 6.649053847645832,
+  "tempo_var": 6.282344670035338,
+  "low_onset_rate": 9.622751297095476,
+  "lufs": -6.92378874454175,
+  "rms_dbfs": -6.605314016563362,
+  "crest": 6.605314254760742,
+  "centroid": 2632.7406815264308,
+  "flatness": 0.038857314735651016,
+  "sub100_share": 0.4343135952949524,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.8290181159973145,
+  "clean_share": 0.0,
+  "minor_share": -0.02741435625058397,
+  "chord_rate": 2.1718015080250206,
+  "repetitiveness": 0.9031197428703308,
+  "vocal_share": 0.0996479019522667,
+  "vocal_voiced": 0.23684210526315788,
+  "song_length": 369.893
+ }
+}

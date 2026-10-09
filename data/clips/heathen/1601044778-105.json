@@ -1,0 +1,32 @@
+{
+ "id": "heathen/1601044778-105",
+ "band": "heathen",
+ "title": "Arrows of Agony (Remastered 2020)",
+ "source": "itunes",
+ "album": "The Evolution of Chaos (10th Anniversary Edition)",
+ "year": 2010,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 1.971327522668865,
+  "tempo_var": 11.26841263101462,
+  "low_onset_rate": 2.205213838917713,
+  "lufs": -10.51936607500148,
+  "rms_dbfs": -9.961265921146927,
+  "crest": 9.961265563964844,
+  "centroid": 2708.0273696622803,
+  "flatness": 0.03241562098264694,
+  "sub100_share": 0.44435521960258484,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8747686743736267,
+  "clean_share": 0.013188518231186967,
+  "minor_share": -0.1144729175294032,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.919489860534668,
+  "vocal_share": 6.007413730912958e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 400.187
+ }
+}

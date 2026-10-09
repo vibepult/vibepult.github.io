@@ -1,0 +1,32 @@
+{
+ "id": "gutalax/1658782837-106",
+ "band": "gutalax",
+ "title": "Nature Mature",
+ "source": "itunes",
+ "album": "Shit Happens!",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.777963317655045,
+  "tempo_var": 3.292806920086992,
+  "low_onset_rate": 4.9784373030112015,
+  "lufs": -6.7112584940575655,
+  "rms_dbfs": -6.106053784219504,
+  "crest": 6.106053352355957,
+  "centroid": 2514.498292061222,
+  "flatness": 0.02692885883152485,
+  "sub100_share": 0.31029877066612244,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7407779693603516,
+  "clean_share": 0.03491078355314197,
+  "minor_share": 0.04097836138645283,
+  "chord_rate": 1.871090529990787,
+  "repetitiveness": 0.9035007953643799,
+  "vocal_share": 0.09406173229217529,
+  "vocal_voiced": 0.36585365853658536,
+  "song_length": 140.893
+ }
+}

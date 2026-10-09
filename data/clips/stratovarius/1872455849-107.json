@@ -1,0 +1,32 @@
+{
+ "id": "stratovarius/1872455849-107",
+ "band": "stratovarius",
+ "title": "Tears of Ice",
+ "source": "itunes",
+ "album": "Dreamspace",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 2.266652960526316,
+  "tempo_var": 17.108994794228963,
+  "low_onset_rate": 3.5666450996517027,
+  "lufs": -20.97585689855791,
+  "rms_dbfs": -20.85663975857883,
+  "crest": 16.006277084350586,
+  "centroid": 1560.8907832897248,
+  "flatness": 0.012317163869738579,
+  "sub100_share": 0.0003390437923371792,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.9826368689537048,
+  "clean_share": 0.9311678267594741,
+  "minor_share": 0.09903877556563201,
+  "chord_rate": 1.3999915344427245,
+  "repetitiveness": 0.6315101981163025,
+  "vocal_share": 0.12575091421604156,
+  "vocal_voiced": 0.8260019550342131,
+  "song_length": 315.4
+ }
+}

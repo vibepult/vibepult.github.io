@@ -1,0 +1,32 @@
+{
+ "id": "pitchshifter/1443756091-107",
+ "band": "pitchshifter",
+ "title": "Please Sir",
+ "source": "itunes",
+ "album": "Www.Pitchshifter.Com",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 3.866608214539463,
+  "tempo_var": 22.684686715459808,
+  "low_onset_rate": 4.566597632688849,
+  "lufs": -7.712665401705281,
+  "rms_dbfs": -8.108133166943382,
+  "crest": 8.108133316040039,
+  "centroid": 3042.154768717454,
+  "flatness": 0.061086952686309814,
+  "sub100_share": 0.19574832916259766,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.6725320219993591,
+  "clean_share": 0.0,
+  "minor_share": 0.2968561497265186,
+  "chord_rate": 1.9999697661411016,
+  "repetitiveness": 0.9060724973678589,
+  "vocal_share": 0.0655229464173317,
+  "vocal_voiced": 0.7242990654205608,
+  "song_length": 224.627
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "witchfinder-general/305996132-105",
+ "band": "witchfinder-general",
+ "title": "Witchfinder General",
+ "source": "itunes",
+ "album": "Death Penalty",
+ "year": 1982,
+ "itunes_year": 1982,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 5.178911288367357,
+  "tempo_var": 15.343662412851717,
+  "low_onset_rate": 5.780333244435824,
+  "lufs": -13.345633599240061,
+  "rms_dbfs": -13.685836799545195,
+  "crest": 13.685836791992188,
+  "centroid": 2391.347364079994,
+  "flatness": 0.02646990679204464,
+  "sub100_share": 0.0368475504219532,
+  "lowest_pitch": 131.890869140625,
+  "harmonic_share": 0.6988664865493774,
+  "clean_share": 0.012412723041117145,
+  "minor_share": 0.08442370080141381,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.8613923788070679,
+  "vocal_share": 0.4584597945213318,
+  "vocal_voiced": 0.8780709736123748,
+  "song_length": 231.827
+ }
+}

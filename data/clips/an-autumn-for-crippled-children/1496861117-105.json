@@ -1,0 +1,32 @@
+{
+ "id": "an-autumn-for-crippled-children/1496861117-105",
+ "band": "an-autumn-for-crippled-children",
+ "title": "Silver",
+ "source": "itunes",
+ "album": "All Fell Silent, Everything Went Quiet",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.680096251757746,
+  "tempo_var": 21.23156245361092,
+  "low_onset_rate": 8.620381370314698,
+  "lufs": -7.946336395348186,
+  "rms_dbfs": -7.787525925780317,
+  "crest": 7.7875261306762695,
+  "centroid": 2409.0354946608627,
+  "flatness": 0.036466557532548904,
+  "sub100_share": 0.08094457536935806,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.8028188347816467,
+  "clean_share": 0.0,
+  "minor_share": -0.392345080648418,
+  "chord_rate": 0.6014219560684673,
+  "repetitiveness": 0.8236891031265259,
+  "vocal_share": 0.03128759190440178,
+  "vocal_voiced": 0.056530214424951264,
+  "song_length": 183.448
+ }
+}

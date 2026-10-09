@@ -1,0 +1,32 @@
+{
+ "id": "anthrax/932602233-108",
+ "band": "anthrax",
+ "title": "Black Lodge",
+ "source": "itunes",
+ "album": "Sound of White Noise (Deluxe Edition)",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 5.466633610681114,
+  "tempo_var": 2.3334208742823894,
+  "low_onset_rate": 7.833285966524768,
+  "lufs": -16.520688661857687,
+  "rms_dbfs": -15.512818300306987,
+  "crest": 15.512818336486816,
+  "centroid": 1353.5531686467964,
+  "flatness": 0.006450515240430832,
+  "sub100_share": 0.20802880823612213,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.8361063599586487,
+  "clean_share": 0.6937354988399071,
+  "minor_share": -0.020546794308824556,
+  "chord_rate": 0.7666620307662538,
+  "repetitiveness": 0.952014684677124,
+  "vocal_share": 0.005391199141740799,
+  "vocal_voiced": 0.8148148148148148,
+  "song_length": 326.133
+ }
+}

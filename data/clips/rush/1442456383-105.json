@@ -1,0 +1,32 @@
+{
+ "id": "rush/1442456383-105",
+ "band": "rush",
+ "title": "Prime Mover",
+ "source": "itunes",
+ "album": "Hold Your Fire (Remastered)",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.366600656074739,
+  "tempo_var": 0.0,
+  "low_onset_rate": 3.666611237925353,
+  "lufs": -11.455174904881382,
+  "rms_dbfs": -10.707342422278128,
+  "crest": 10.707342147827148,
+  "centroid": 2286.847450876126,
+  "flatness": 0.02256484515964985,
+  "sub100_share": 0.34079840779304504,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7428953647613525,
+  "clean_share": 0.12219644238205724,
+  "minor_share": -0.26920363944185455,
+  "chord_rate": 0.9666520536348657,
+  "repetitiveness": 0.6839151382446289,
+  "vocal_share": 0.16319328546524048,
+  "vocal_voiced": 0.8350253807106599,
+  "song_length": 319.511
+ }
+}

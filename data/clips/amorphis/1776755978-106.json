@@ -1,0 +1,32 @@
+{
+ "id": "amorphis/1776755978-106",
+ "band": "amorphis",
+ "title": "Nightbird's Song",
+ "source": "itunes",
+ "album": "Circle (Deluxe Edition)",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.766666666666667,
+  "tempo_var": 8.278992092403069,
+  "low_onset_rate": 7.5,
+  "lufs": -7.888212677467181,
+  "rms_dbfs": -7.8520475168411785,
+  "crest": 7.852047920227051,
+  "centroid": 2519.645232864971,
+  "flatness": 0.03276766464114189,
+  "sub100_share": 0.41128408908843994,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.7647557258605957,
+  "clean_share": 0.04411764705882353,
+  "minor_share": 0.15909451934884178,
+  "chord_rate": 1.6333333333333333,
+  "repetitiveness": 0.8922500014305115,
+  "vocal_share": 0.07545718550682068,
+  "vocal_voiced": 0.45129224652087474,
+  "song_length": 300.347
+ }
+}

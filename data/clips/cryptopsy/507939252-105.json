@@ -1,0 +1,32 @@
+{
+ "id": "cryptopsy/507939252-105",
+ "band": "cryptopsy",
+ "title": "Born Headless",
+ "source": "itunes",
+ "album": "Blasphemy Made Flesh",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.112086626581972,
+  "tempo_var": 20.36471177775128,
+  "low_onset_rate": 6.181281215148136,
+  "lufs": -18.556559030930504,
+  "rms_dbfs": -18.826330478170664,
+  "crest": 17.538930892944336,
+  "centroid": 3120.262270207379,
+  "flatness": 0.05838215723633766,
+  "sub100_share": 0.19501106441020966,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.6454414129257202,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.001377750759759544,
+  "chord_rate": 3.2744084274838774,
+  "repetitiveness": 0.9678746461868286,
+  "vocal_share": 0.12681765854358673,
+  "vocal_voiced": 0.15921787709497207,
+  "song_length": 269.04
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "nekromantheon",
+ "name": "Nekromantheon",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 458196158,
+  "deezer": 1412688,
+  "spotify": "2eA577rcxnqTxv7SVFaXGZ"
+ },
+ "metadata": {
+  "formed": 2005,
+  "split": null,
+  "country": "NO",
+  "status": "active",
+  "members": 3,
+  "past_members": 1,
+  "full_lengths": 3,
+  "genre": "Thrash Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 444,
+  "themes": "Greek mythology, Social issues, Death",
+  "release_year": 2012
+ },
+ "partial": false,
+ "clips": [
+  "nekromantheon/458196157-104",
+  "nekromantheon/1750593598-104",
+  "nekromantheon/1749996955-104",
+  "nekromantheon/458196157-106",
+  "nekromantheon/1750593598-105",
+  "nekromantheon/1749996955-105",
+  "nekromantheon/458196157-103",
+  "nekromantheon/1750593598-103",
+  "nekromantheon/1749996955-103",
+  "nekromantheon/458196157-108",
+  "nekromantheon/1750593598-106",
+  "nekromantheon/1749996955-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 107.666015625,
+   "iqr": 5.476923403532609
+  },
+  "onset_rate": {
+   "median": 6.249905519190943,
+   "iqr": 2.5721477880724004
+  },
+  "tempo_var": {
+   "median": 12.331369198639557,
+   "iqr": 7.096481934398074
+  },
+  "low_onset_rate": {
+   "median": 7.675892191405948,
+   "iqr": 0.7260623098957524
+  },
+  "lufs": {
+   "median": -9.48339468849513,
+   "iqr": 1.5353312541030206
+  },
+  "rms_dbfs": {
+   "median": -9.473516557731092,
+   "iqr": 2.5437574523639945
+  },
+  "crest": {
+   "median": 9.473516941070557,
+   "iqr": 2.543757677078247
+  },
+  "centroid": {
+   "median": 3131.5273402250928,
+   "iqr": 298.1725286187325
+  },
+  "flatness": {
+   "median": 0.07040311396121979,
+   "iqr": 0.02042178064584732
+  },
+  "sub100_share": {
+   "median": 0.29390399158000946,
+   "iqr": 0.10804684460163116
+  },
+  "lowest_pitch": {
+   "median": 43.06640625,
+   "iqr": 28.2623291015625
+  },
+  "harmonic_share": {
+   "median": 0.7136021256446838,
+   "iqr": 0.07962179183959961
+  },
+  "clean_share": {
+   "median": 0.0,
+   "iqr": 0.0025189343826068277
+  },
+  "minor_share": {
+   "median": 0.0380116826701781,
+   "iqr": 0.22915208493310257
+  },
+  "chord_rate": {
+   "median": 2.066635425012471,
+   "iqr": 0.5210567414901632
+  },
+  "repetitiveness": {
+   "median": 0.9350346326828003,
+   "iqr": 0.025760367512702942
+  },
+  "vocal_share": {
+   "median": 0.09869878739118576,
+   "iqr": 0.04241405054926872
+  },
+  "vocal_voiced": {
+   "median": 0.1881600143189547,
+   "iqr": 0.2765634688863424
+  },
+  "song_length": {
+   "median": 221.1155,
+   "iqr": 37.784250000000014
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "urfaust/1701821167-102",
+ "band": "urfaust",
+ "title": "Höllenkosmos",
+ "source": "itunes",
+ "album": "Untergang",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 60.09265988372093,
+  "onset_rate": 1.433289998790664,
+  "tempo_var": 7.7776397909515,
+  "low_onset_rate": 5.266507437416858,
+  "lufs": -10.418719603219014,
+  "rms_dbfs": -10.767674304380252,
+  "crest": 10.767674446105957,
+  "centroid": 2703.70990948718,
+  "flatness": 0.03629075363278389,
+  "sub100_share": 0.3262487053871155,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8390299081802368,
+  "clean_share": 0.01237432327919567,
+  "minor_share": 0.21266383491056118,
+  "chord_rate": 1.4666223243439351,
+  "repetitiveness": 0.7400017380714417,
+  "vocal_share": 3.457681998497719e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 291.253
+ }
+}

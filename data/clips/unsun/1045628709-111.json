@@ -1,0 +1,32 @@
+{
+ "id": "unsun/1045628709-111",
+ "band": "unsun",
+ "title": "Indifference",
+ "source": "itunes",
+ "album": "The End of Life",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.9784373030112015,
+  "tempo_var": 12.005249473510627,
+  "low_onset_rate": 7.718248436211996,
+  "lufs": -7.199847337915058,
+  "rms_dbfs": -7.167997060986069,
+  "crest": 7.167997360229492,
+  "centroid": 2832.0737894493336,
+  "flatness": 0.04657180234789848,
+  "sub100_share": 0.26523128151893616,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7133423686027527,
+  "clean_share": 0.0069821567106283944,
+  "minor_share": 0.12303879245582561,
+  "chord_rate": 1.7374412064200164,
+  "repetitiveness": 0.9386031031608582,
+  "vocal_share": 0.23678390681743622,
+  "vocal_voiced": 0.33656644034917554,
+  "song_length": 180.48
+ }
+}

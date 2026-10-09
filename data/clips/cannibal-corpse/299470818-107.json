@@ -1,0 +1,32 @@
+{
+ "id": "cannibal-corpse/299470818-107",
+ "band": "cannibal-corpse",
+ "title": "Carnivorous Swarm",
+ "source": "itunes",
+ "album": "Evisceration Plague",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 6.3,
+  "tempo_var": 13.006031029723385,
+  "low_onset_rate": 9.6,
+  "lufs": -8.390444660142697,
+  "rms_dbfs": -7.526807558741291,
+  "crest": 7.5268073081970215,
+  "centroid": 2530.7290470231146,
+  "flatness": 0.03187497705221176,
+  "sub100_share": 0.4799049198627472,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.78950035572052,
+  "clean_share": 0.0456656346749226,
+  "minor_share": 0.08109644678954647,
+  "chord_rate": 2.3333333333333335,
+  "repetitiveness": 0.9333725571632385,
+  "vocal_share": 0.15745331346988678,
+  "vocal_voiced": 0.5463258785942492,
+  "song_length": 216.493
+ }
+}

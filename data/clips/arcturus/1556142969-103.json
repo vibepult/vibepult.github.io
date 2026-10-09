@@ -1,0 +1,32 @@
+{
+ "id": "arcturus/1556142969-103",
+ "band": "arcturus",
+ "title": "Ad Absurdum",
+ "source": "itunes",
+ "album": "The Sham Mirrors",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.045261964796587,
+  "tempo_var": 9.728246124036813,
+  "low_onset_rate": 8.01895941424623,
+  "lufs": -6.6353421169941145,
+  "rms_dbfs": -6.5177280198328935,
+  "crest": 6.517727851867676,
+  "centroid": 2691.981590997604,
+  "flatness": 0.03357618674635887,
+  "sub100_share": 0.41601014137268066,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8318265676498413,
+  "clean_share": 0.008533747090768037,
+  "minor_share": -0.13450207093049094,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.8321928381919861,
+  "vocal_share": 0.05657542124390602,
+  "vocal_voiced": 0.536036036036036,
+  "song_length": 408.653
+ }
+}

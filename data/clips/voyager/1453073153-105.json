@@ -1,0 +1,32 @@
+{
+ "id": "voyager/1453073153-105",
+ "band": "voyager",
+ "title": "To the Riverside",
+ "source": "itunes",
+ "album": "Ghost Mile",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 2.773223464093488,
+  "tempo_var": 4.872298384562466,
+  "low_onset_rate": 7.718248436211996,
+  "lufs": -12.784907506059463,
+  "rms_dbfs": -12.916912235906135,
+  "crest": 12.916912078857422,
+  "centroid": 1718.433081134736,
+  "flatness": 0.007810261100530624,
+  "sub100_share": 0.041280973702669144,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.9210466146469116,
+  "clean_share": 0.6594259115593484,
+  "minor_share": 0.21955697259412477,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.7527163028717041,
+  "vocal_share": 0.24351313710212708,
+  "vocal_voiced": 0.908957415565345,
+  "song_length": 129.96
+ }
+}

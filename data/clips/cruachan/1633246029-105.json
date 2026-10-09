@@ -1,0 +1,32 @@
+{
+ "id": "cruachan/1633246029-105",
+ "band": "cruachan",
+ "title": "The Battle of the Yellow Ford",
+ "source": "itunes",
+ "album": "Nine Years of Blood",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.2744084274838774,
+  "tempo_var": 1.7390311452531322,
+  "low_onset_rate": 3.240996096591185,
+  "lufs": -8.151837186150724,
+  "rms_dbfs": -8.10204207422194,
+  "crest": 8.102042198181152,
+  "centroid": 2368.101195485345,
+  "flatness": 0.025704042986035347,
+  "sub100_share": 0.16758432984352112,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7755581140518188,
+  "clean_share": 0.15671062839410396,
+  "minor_share": 0.06403802124490798,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.9412482976913452,
+  "vocal_share": 0.30917322635650635,
+  "vocal_voiced": 0.5410852713178295,
+  "song_length": 290.3
+ }
+}

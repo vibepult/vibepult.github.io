@@ -1,0 +1,127 @@
+{
+ "slug": "charon",
+ "name": "Charon",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1458389821,
+  "deezer": 12026,
+  "spotify": "2FBDDo06NZR5B7qOzmMxq9"
+ },
+ "metadata": {
+  "formed": 1992,
+  "split": null,
+  "country": "FI",
+  "status": "active",
+  "members": 5,
+  "past_members": 1,
+  "full_lengths": 5,
+  "genre": "Death Metal (early); Gothic Metal/Rock (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 7234,
+  "themes": "Death, Despair, Love, Relationships",
+  "release_year": 2002
+ },
+ "partial": false,
+ "clips": [
+  "charon/705489112-106",
+  "charon/1660479126-106",
+  "charon/1660642811-106",
+  "charon/705468158-105",
+  "charon/705489112-105",
+  "charon/1660479126-105",
+  "charon/1660642811-105",
+  "charon/705468158-106",
+  "charon/705489112-107",
+  "charon/1660479126-107",
+  "charon/1660642811-107",
+  "charon/705468158-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 101.37169471153845,
+   "iqr": 46.72395989084929
+  },
+  "onset_rate": {
+   "median": 2.5727494787373324,
+   "iqr": 1.0622437125216182
+  },
+  "tempo_var": {
+   "median": 7.706457934817712,
+   "iqr": 10.589560219002962
+  },
+  "low_onset_rate": {
+   "median": 4.32192000436406,
+   "iqr": 2.1017379463059043
+  },
+  "lufs": {
+   "median": -8.010479577877058,
+   "iqr": 2.62901278612632
+  },
+  "rms_dbfs": {
+   "median": -7.6867293133970716,
+   "iqr": 2.0805681351420864
+  },
+  "crest": {
+   "median": 7.6867289543151855,
+   "iqr": 2.0805678367614746
+  },
+  "centroid": {
+   "median": 2508.084822952344,
+   "iqr": 911.5347744947767
+  },
+  "flatness": {
+   "median": 0.030481006018817425,
+   "iqr": 0.029058800311759114
+  },
+  "sub100_share": {
+   "median": 0.31972378492355347,
+   "iqr": 0.10420729219913483
+  },
+  "lowest_pitch": {
+   "median": 64.599609375,
+   "iqr": 30.28106689453125
+  },
+  "harmonic_share": {
+   "median": 0.7983371913433075,
+   "iqr": 0.07433076202869415
+  },
+  "clean_share": {
+   "median": 0.05813960470472947,
+   "iqr": 0.45719045651824075
+  },
+  "minor_share": {
+   "median": 0.06422598978006605,
+   "iqr": 0.16296156443025236
+  },
+  "chord_rate": {
+   "median": 1.4701425592784756,
+   "iqr": 0.31149323570770493
+  },
+  "repetitiveness": {
+   "median": 0.7743806838989258,
+   "iqr": 0.11730071902275085
+  },
+  "vocal_share": {
+   "median": 0.17499707639217377,
+   "iqr": 0.04751705005764961
+  },
+  "vocal_voiced": {
+   "median": 0.6634387170309983,
+   "iqr": 0.28193933661887627
+  },
+  "song_length": {
+   "median": 217.553,
+   "iqr": 32.7535
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

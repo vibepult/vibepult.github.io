@@ -1,0 +1,32 @@
+{
+ "id": "korpiklaani/1183984185-106",
+ "band": "korpiklaani",
+ "title": "Liekkion Isku",
+ "source": "itunes",
+ "album": "Tervaskanto",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.4,
+  "tempo_var": 15.124224337072771,
+  "low_onset_rate": 5.166666666666667,
+  "lufs": -7.47823993818617,
+  "rms_dbfs": -7.081405832717879,
+  "crest": 7.0814056396484375,
+  "centroid": 2697.8956388545253,
+  "flatness": 0.049072738736867905,
+  "sub100_share": 0.2906414568424225,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.6852809190750122,
+  "clean_share": 0.0007739938080495357,
+  "minor_share": -0.07565079566290989,
+  "chord_rate": 1.5,
+  "repetitiveness": 0.8214554786682129,
+  "vocal_share": 0.17657850682735443,
+  "vocal_voiced": 0.17418351477449456,
+  "song_length": 176.067
+ }
+}

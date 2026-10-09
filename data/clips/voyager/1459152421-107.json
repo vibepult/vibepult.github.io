@@ -1,0 +1,32 @@
+{
+ "id": "voyager/1459152421-107",
+ "band": "voyager",
+ "title": "Pulse 04",
+ "source": "itunes",
+ "album": "Univers",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.9139825680065945,
+  "tempo_var": 14.973907506114632,
+  "low_onset_rate": 5.680096251757746,
+  "lufs": -9.759730925927988,
+  "rms_dbfs": -8.835423411002687,
+  "crest": 8.835423469543457,
+  "centroid": 2336.329152392589,
+  "flatness": 0.02091227099299431,
+  "sub100_share": 0.3479878902435303,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7249054312705994,
+  "clean_share": 0.04965089216446858,
+  "minor_share": 0.0362806415541157,
+  "chord_rate": 0.7016589487465451,
+  "repetitiveness": 0.7925829291343689,
+  "vocal_share": 0.14079570770263672,
+  "vocal_voiced": 0.7922987164527421,
+  "song_length": 299.6
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "suotana/1813853025-104",
+ "band": "suotana",
+ "title": "Twilight Stream",
+ "source": "itunes",
+ "album": "Ounas II",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 1.5999903250773995,
+  "tempo_var": 13.034733250677835,
+  "low_onset_rate": 7.266622726393189,
+  "lufs": -12.191163408605059,
+  "rms_dbfs": -11.26208686912225,
+  "crest": 11.262086868286133,
+  "centroid": 2451.5638703089785,
+  "flatness": 0.03490651398897171,
+  "sub100_share": 0.4858120381832123,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.8347283601760864,
+  "clean_share": 0.0,
+  "minor_share": 0.13176477190205715,
+  "chord_rate": 1.8999885110294117,
+  "repetitiveness": 0.8907554149627686,
+  "vocal_share": 4.859422801928304e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 316.416
+ }
+}

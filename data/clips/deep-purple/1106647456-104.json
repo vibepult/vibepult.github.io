@@ -1,0 +1,32 @@
+{
+ "id": "deep-purple/1106647456-104",
+ "band": "deep-purple",
+ "title": "Anyone's Daughter",
+ "source": "itunes",
+ "album": "Fireball",
+ "year": 1971,
+ "itunes_year": 1971,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 4.866092887006521,
+  "tempo_var": 13.916296739737355,
+  "low_onset_rate": 3.899540190272349,
+  "lufs": -27.09905702744478,
+  "rms_dbfs": -26.665785656596256,
+  "crest": 19.54391860961914,
+  "centroid": 1368.8310627158485,
+  "flatness": 0.0013569645816460252,
+  "sub100_share": 0.15840834379196167,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7676653861999512,
+  "clean_share": 0.9358081979891725,
+  "minor_share": 0.16510596598962468,
+  "chord_rate": 0.666588066713222,
+  "repetitiveness": 0.6915121674537659,
+  "vocal_share": 0.2908799350261688,
+  "vocal_voiced": 0.8960396039603961,
+  "song_length": 284.836
+ }
+}

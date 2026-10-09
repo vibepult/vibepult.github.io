@@ -1,0 +1,32 @@
+{
+ "id": "riverside/1045596629-105",
+ "band": "riverside",
+ "title": "Artificial Smile",
+ "source": "itunes",
+ "album": "Second Life Syndrome",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.377015346942734,
+  "tempo_var": 5.5909024741319575,
+  "low_onset_rate": 5.847157906221209,
+  "lufs": -9.857105124863061,
+  "rms_dbfs": -9.021944392432937,
+  "crest": 9.021944046020508,
+  "centroid": 2276.7892487331665,
+  "flatness": 0.023412110283970833,
+  "sub100_share": 0.3382677435874939,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7682797312736511,
+  "clean_share": 0.1256788207913111,
+  "minor_share": -0.00398689247279399,
+  "chord_rate": 2.840048125878873,
+  "repetitiveness": 0.9046159386634827,
+  "vocal_share": 0.2291666716337204,
+  "vocal_voiced": 0.856140350877193,
+  "song_length": 327.453
+ }
+}

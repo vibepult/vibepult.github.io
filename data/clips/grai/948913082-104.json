@@ -1,0 +1,32 @@
+{
+ "id": "grai/948913082-104",
+ "band": "grai",
+ "title": "Песнь о печали и о подвиге",
+ "source": "itunes",
+ "album": "Полынь​-​трава",
+ "year": 2009,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 5.21232361926005,
+  "tempo_var": 1.3804737625113672,
+  "low_onset_rate": 4.777963317655045,
+  "lufs": -8.747158223373436,
+  "rms_dbfs": -8.736615875420078,
+  "crest": 8.736616134643555,
+  "centroid": 2364.46522638503,
+  "flatness": 0.012577051296830177,
+  "sub100_share": 0.08130715042352676,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.9427968859672546,
+  "clean_share": 0.25678820791311097,
+  "minor_share": 0.010210894327543962,
+  "chord_rate": 0.9021329341027009,
+  "repetitiveness": 0.6058223843574524,
+  "vocal_share": 0.4520898163318634,
+  "vocal_voiced": 0.9418402777777778,
+  "song_length": 414.2
+ }
+}

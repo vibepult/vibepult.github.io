@@ -1,0 +1,32 @@
+{
+ "id": "kalmah/1669886572-105",
+ "band": "kalmah",
+ "title": "Dance of the Water",
+ "source": "itunes",
+ "album": "Swamplord",
+ "year": 2000,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 69.83741554054055,
+  "onset_rate": 4.777963317655045,
+  "tempo_var": 3.641551946761214,
+  "low_onset_rate": 5.813745575328517,
+  "lufs": -8.859509863348572,
+  "rms_dbfs": -9.430322205689706,
+  "crest": 9.43032169342041,
+  "centroid": 2867.067808257687,
+  "flatness": 0.034210480749607086,
+  "sub100_share": 0.23083451390266418,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7146543264389038,
+  "clean_share": 0.2754072924747867,
+  "minor_share": -0.08709237079282173,
+  "chord_rate": 1.4367302283857828,
+  "repetitiveness": 0.9548933506011963,
+  "vocal_share": 8.665411428410152e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 271.8
+ }
+}

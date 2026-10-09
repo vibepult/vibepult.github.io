@@ -1,0 +1,32 @@
+{
+ "id": "saint-vitus/117991551-102",
+ "band": "saint-vitus",
+ "title": "Dragon Time",
+ "source": "itunes",
+ "album": "Mournful Cries",
+ "year": 1988,
+ "itunes_year": 1988,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 2.9736974494496438,
+  "tempo_var": 11.393698327453563,
+  "low_onset_rate": 4.644313994084275,
+  "lufs": -14.785224394640663,
+  "rms_dbfs": -14.3862806140928,
+  "crest": 14.38628101348877,
+  "centroid": 2166.408463684221,
+  "flatness": 0.012822064571082592,
+  "sub100_share": 0.14814656972885132,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.876193106174469,
+  "clean_share": 0.1830876648564779,
+  "minor_share": 0.01609681455270673,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.8108434081077576,
+  "vocal_share": 0.019663987681269646,
+  "vocal_voiced": 0.862453531598513,
+  "song_length": 446.682
+ }
+}

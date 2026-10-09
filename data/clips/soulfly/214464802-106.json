@@ -1,0 +1,32 @@
+{
+ "id": "soulfly/214464802-106",
+ "band": "soulfly",
+ "title": "Son Song",
+ "source": "itunes",
+ "album": "Primitive",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 4.432810643642926,
+  "tempo_var": 7.837664960659372,
+  "low_onset_rate": 3.899540190272349,
+  "lufs": -7.736771666215314,
+  "rms_dbfs": -7.579160341213215,
+  "crest": 7.579160690307617,
+  "centroid": 2533.056544139262,
+  "flatness": 0.04309329390525818,
+  "sub100_share": 0.266934335231781,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.6612419486045837,
+  "clean_share": 0.09280742459396751,
+  "minor_share": -0.2620835404763111,
+  "chord_rate": 1.0665409067411553,
+  "repetitiveness": 0.8504197597503662,
+  "vocal_share": 0.27178555727005005,
+  "vocal_voiced": 0.05115346038114343,
+  "song_length": 257.806
+ }
+}

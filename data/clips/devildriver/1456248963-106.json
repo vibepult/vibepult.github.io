@@ -1,0 +1,32 @@
+{
+ "id": "devildriver/1456248963-106",
+ "band": "devildriver",
+ "title": "Head On to Heartache (Let Them Rot)",
+ "source": "itunes",
+ "album": "The Last Kind Words",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 7.5,
+  "tempo_var": 20.625476596878155,
+  "low_onset_rate": 6.4,
+  "lufs": -9.080915212215475,
+  "rms_dbfs": -8.669301159257259,
+  "crest": 8.66930103302002,
+  "centroid": 2770.4046570660935,
+  "flatness": 0.046759817749261856,
+  "sub100_share": 0.34700337052345276,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.747736394405365,
+  "clean_share": 0.0015479876160990713,
+  "minor_share": 0.2680943964254575,
+  "chord_rate": 2.0,
+  "repetitiveness": 0.9219902157783508,
+  "vocal_share": 0.047440651804208755,
+  "vocal_voiced": 0.3757396449704142,
+  "song_length": 260.987
+ }
+}

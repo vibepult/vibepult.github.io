@@ -1,0 +1,32 @@
+{
+ "id": "crossfaith/467547900-104",
+ "band": "crossfaith",
+ "title": "Promise",
+ "source": "itunes",
+ "album": "The Dream, The Space",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.7755933908742665,
+  "tempo_var": 6.247791024274059,
+  "low_onset_rate": 4.878200310333123,
+  "lufs": -8.989348784922583,
+  "rms_dbfs": -7.991880510182159,
+  "crest": 7.991880416870117,
+  "centroid": 2558.3184690562384,
+  "flatness": 0.03387358412146568,
+  "sub100_share": 0.4384450316429138,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.6225120425224304,
+  "clean_share": 0.010861132660977503,
+  "minor_share": -0.1969959281220509,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.9310876727104187,
+  "vocal_share": 0.18031664192676544,
+  "vocal_voiced": 0.08583247156153051,
+  "song_length": 204.973
+ }
+}

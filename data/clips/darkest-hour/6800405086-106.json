@@ -1,0 +1,32 @@
+{
+ "id": "darkest-hour/6800405086-106",
+ "band": "darkest-hour",
+ "title": "Low",
+ "source": "itunes",
+ "album": "Undoing Ruin",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 6.761984899344068,
+  "tempo_var": 6.726646582431325,
+  "low_onset_rate": 4.963230295577665,
+  "lufs": -10.803200823977962,
+  "rms_dbfs": -10.107016340611574,
+  "crest": 10.107016563415527,
+  "centroid": 2715.799347757136,
+  "flatness": 0.04270008206367493,
+  "sub100_share": 0.3784160912036896,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7558607459068298,
+  "clean_share": 0.02165506573859242,
+  "minor_share": 0.15697586830960575,
+  "chord_rate": 1.7987546037664022,
+  "repetitiveness": 0.8843715190887451,
+  "vocal_share": 0.06055692955851555,
+  "vocal_voiced": 0.22994652406417113,
+  "song_length": 184.507
+ }
+}

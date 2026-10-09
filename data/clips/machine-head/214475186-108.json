@@ -1,0 +1,32 @@
+{
+ "id": "machine-head/214475186-108",
+ "band": "machine-head",
+ "title": "American High",
+ "source": "itunes",
+ "album": "Supercharger",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 5.8326455837406925,
+  "tempo_var": 2.046963100190754,
+  "low_onset_rate": 6.36591603711127,
+  "lufs": -7.949953092492259,
+  "rms_dbfs": -7.202945290448922,
+  "crest": 7.202945232391357,
+  "centroid": 2452.6248897500955,
+  "flatness": 0.032882414758205414,
+  "sub100_share": 0.4026423692703247,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.5257354378700256,
+  "clean_share": 0.016241299303944315,
+  "minor_share": 0.06258901003469755,
+  "chord_rate": 2.033093603475327,
+  "repetitiveness": 0.917025625705719,
+  "vocal_share": 0.2032736986875534,
+  "vocal_voiced": 0.43365384615384617,
+  "song_length": 228.28
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "saint-vitus/963271024-104",
+ "band": "saint-vitus",
+ "title": "Patra (Petra)",
+ "source": "itunes",
+ "album": "V",
+ "year": 1990,
+ "itunes_year": 1990,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 1.3699055666003976,
+  "tempo_var": 6.084457438014894,
+  "low_onset_rate": 3.30782075837657,
+  "lufs": -18.960362893130856,
+  "rms_dbfs": -17.334134421684332,
+  "crest": 17.334135055541992,
+  "centroid": 1076.6519929090744,
+  "flatness": 0.0008981777937151492,
+  "sub100_share": 0.3813501298427582,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.8938469290733337,
+  "clean_share": 0.9868114817688131,
+  "minor_share": 0.09114012222450585,
+  "chord_rate": 1.4367302283857828,
+  "repetitiveness": 0.5775858163833618,
+  "vocal_share": 9.65809817898844e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 453.2
+ }
+}

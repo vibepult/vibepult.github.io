@@ -1,0 +1,127 @@
+{
+ "slug": "sarcofago",
+ "name": "Sarcófago",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 274634662,
+  "deezer": 4120060,
+  "spotify": "3bPSw3qkTeBZXnfDFUqmPG"
+ },
+ "metadata": {
+  "formed": 1985,
+  "split": 2000,
+  "country": "BR",
+  "status": "split-up",
+  "members": 2,
+  "past_members": 15,
+  "full_lengths": 4,
+  "genre": "Black/Thrash/Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 20443,
+  "themes": "Death, Lust, Alcohol, Satan, Anti-Christianity, Blasphemy, Depression, Suicide",
+  "release_year": 1992
+ },
+ "partial": false,
+ "clips": [
+  "sarcofago/900436572-105",
+  "sarcofago/1509755136-105",
+  "sarcofago/900436572-104",
+  "sarcofago/1509755136-104",
+  "sarcofago/900436572-106",
+  "sarcofago/1509755136-106",
+  "sarcofago/900436572-103",
+  "sarcofago/1509755136-103",
+  "sarcofago/900436572-107",
+  "sarcofago/1509755136-107",
+  "sarcofago/900436572-102",
+  "sarcofago/1509755136-102"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 30.735426682692307
+  },
+  "onset_rate": {
+   "median": 6.532110689521408,
+   "iqr": 2.7231049677544483
+  },
+  "tempo_var": {
+   "median": 2.5775418506699523,
+   "iqr": 11.771293602473087
+  },
+  "low_onset_rate": {
+   "median": 7.400831292731416,
+   "iqr": 2.990403614895989
+  },
+  "lufs": {
+   "median": -9.34973004040426,
+   "iqr": 1.7843431025625023
+  },
+  "rms_dbfs": {
+   "median": -10.249428087108642,
+   "iqr": 0.9176799921812222
+  },
+  "crest": {
+   "median": 10.249427795410156,
+   "iqr": 0.9176797866821289
+  },
+  "centroid": {
+   "median": 2831.9388178534973,
+   "iqr": 462.8484933810628
+  },
+  "flatness": {
+   "median": 0.03539343364536762,
+   "iqr": 0.0275946413166821
+  },
+  "sub100_share": {
+   "median": 0.18839209526777267,
+   "iqr": 0.134963596239686
+  },
+  "lowest_pitch": {
+   "median": 59.21630859375,
+   "iqr": 17.4957275390625
+  },
+  "harmonic_share": {
+   "median": 0.7650569975376129,
+   "iqr": 0.09120610356330872
+  },
+  "clean_share": {
+   "median": 0.051978277734678044,
+   "iqr": 0.126066718386346
+  },
+  "minor_share": {
+   "median": -0.016368758203154782,
+   "iqr": 0.12593188988517456
+  },
+  "chord_rate": {
+   "median": 1.5369672210638607,
+   "iqr": 0.7517774450855843
+  },
+  "repetitiveness": {
+   "median": 0.8849877715110779,
+   "iqr": 0.08607721328735352
+  },
+  "vocal_share": {
+   "median": 0.07122475653886795,
+   "iqr": 0.02782018482685089
+  },
+  "vocal_voiced": {
+   "median": 0.10701956271576525,
+   "iqr": 0.05480349023821178
+  },
+  "song_length": {
+   "median": 235.309,
+   "iqr": 92.31074999999998
+  },
+  "vocal_presence": {
+   "median": 0.5833333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.7,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

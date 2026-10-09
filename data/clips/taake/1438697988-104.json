@@ -1,0 +1,32 @@
+{
+ "id": "taake/1438697988-104",
+ "band": "taake",
+ "title": "Doedsjarl",
+ "source": "itunes",
+ "album": "Taake",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 7.116826480143529,
+  "tempo_var": 6.380733053268821,
+  "low_onset_rate": 6.014219560684673,
+  "lufs": -7.708153535445858,
+  "rms_dbfs": -8.321357239681323,
+  "crest": 8.321356773376465,
+  "centroid": 3050.783593007696,
+  "flatness": 0.07694932818412781,
+  "sub100_share": 0.2256152629852295,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6213532090187073,
+  "clean_share": 0.0,
+  "minor_share": -0.023083967617199663,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.8688844442367554,
+  "vocal_share": 0.16595888137817383,
+  "vocal_voiced": 0.06467661691542288,
+  "song_length": 325.693
+ }
+}

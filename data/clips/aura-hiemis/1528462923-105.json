@@ -1,0 +1,32 @@
+{
+ "id": "aura-hiemis/1528462923-105",
+ "band": "aura-hiemis",
+ "title": "A Morning to Fade Away",
+ "source": "itunes",
+ "album": "While the Rest of the World Sleep...",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 73.828125,
+  "onset_rate": 1.4367302283857828,
+  "tempo_var": 18.729901726820554,
+  "low_onset_rate": 3.4414700819473403,
+  "lufs": -8.021904213289249,
+  "rms_dbfs": -7.454140399750093,
+  "crest": 7.454140663146973,
+  "centroid": 1674.3124243324758,
+  "flatness": 0.003889974672347307,
+  "sub100_share": 0.21883389353752136,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.9374865293502808,
+  "clean_share": 0.8169123351435221,
+  "minor_share": -0.06395622453661642,
+  "chord_rate": 0.46777263249769674,
+  "repetitiveness": 0.8915396332740784,
+  "vocal_share": 9.649061212257948e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 775.48
+ }
+}

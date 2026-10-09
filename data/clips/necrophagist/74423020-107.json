@@ -1,0 +1,32 @@
+{
+ "id": "necrophagist/74423020-107",
+ "band": "necrophagist",
+ "title": "Seven",
+ "source": "itunes",
+ "album": "Epitaph",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 7.266556816979335,
+  "tempo_var": 8.610853718444593,
+  "low_onset_rate": 7.833214917385981,
+  "lufs": -10.50316998998108,
+  "rms_dbfs": -9.658791542659838,
+  "crest": 9.658791542053223,
+  "centroid": 2551.728131063977,
+  "flatness": 0.032205980271101,
+  "sub100_share": 0.3640228807926178,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7097002863883972,
+  "clean_share": 0.0,
+  "minor_share": 0.03561864804939452,
+  "chord_rate": 2.399963719369322,
+  "repetitiveness": 0.973314642906189,
+  "vocal_share": 0.12647496163845062,
+  "vocal_voiced": 0.15863689776733256,
+  "song_length": 221.88
+ }
+}

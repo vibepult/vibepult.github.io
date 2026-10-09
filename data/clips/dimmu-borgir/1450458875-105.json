@@ -1,0 +1,32 @@
+{
+ "id": "dimmu-borgir/1450458875-105",
+ "band": "dimmu-borgir",
+ "title": "Glittertind",
+ "source": "itunes",
+ "album": "For all tid",
+ "year": 1995,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.433300478908668,
+  "tempo_var": 4.987718705673133,
+  "low_onset_rate": 9.033278710332818,
+  "lufs": -9.31489595416892,
+  "rms_dbfs": -9.675430028525088,
+  "crest": 9.675430297851562,
+  "centroid": 3010.613806025696,
+  "flatness": 0.04576857015490532,
+  "sub100_share": 0.33352968096733093,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.832724928855896,
+  "clean_share": 0.0015467904098994587,
+  "minor_share": 0.14745102899311247,
+  "chord_rate": 1.9333216428018576,
+  "repetitiveness": 0.9332521557807922,
+  "vocal_share": 7.105584813871246e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 315.173
+ }
+}

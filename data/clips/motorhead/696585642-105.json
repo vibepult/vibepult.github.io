@@ -1,0 +1,32 @@
+{
+ "id": "motorhead/696585642-105",
+ "band": "motorhead",
+ "title": "City Kids",
+ "source": "itunes",
+ "album": "On Parole (Bonus Track Version)",
+ "year": 1979,
+ "itunes_year": 1979,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 4.878200310333123,
+  "tempo_var": 25.249302770028784,
+  "low_onset_rate": 5.513034597294284,
+  "lufs": -11.604712387189801,
+  "rms_dbfs": -10.958027292273165,
+  "crest": 10.958027839660645,
+  "centroid": 2809.899388423574,
+  "flatness": 0.033127203583717346,
+  "sub100_share": 0.2301623523235321,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.6259641051292419,
+  "clean_share": 0.01008533747090768,
+  "minor_share": -0.1153759334880457,
+  "chord_rate": 1.7374412064200164,
+  "repetitiveness": 0.8588600754737854,
+  "vocal_share": 0.13091211020946503,
+  "vocal_voiced": 0.8929471032745592,
+  "song_length": 223.093
+ }
+}

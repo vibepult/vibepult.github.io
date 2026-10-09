@@ -1,0 +1,32 @@
+{
+ "id": "sonata-arctica/1776757258-111",
+ "band": "sonata-arctica",
+ "title": "The Truth Is out There",
+ "source": "itunes",
+ "album": "The Days of Grays",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.333333333333333,
+  "tempo_var": 11.81122957754939,
+  "low_onset_rate": 5.2,
+  "lufs": -9.42602949852388,
+  "rms_dbfs": -9.20713112902096,
+  "crest": 9.207131385803223,
+  "centroid": 2571.485839134186,
+  "flatness": 0.03223174810409546,
+  "sub100_share": 0.35428735613822937,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7411009073257446,
+  "clean_share": 0.01238390092879257,
+  "minor_share": -0.038544555783388446,
+  "chord_rate": 0.7,
+  "repetitiveness": 0.7618341445922852,
+  "vocal_share": 0.20854592323303223,
+  "vocal_voiced": 0.7296,
+  "song_length": 303.547
+ }
+}

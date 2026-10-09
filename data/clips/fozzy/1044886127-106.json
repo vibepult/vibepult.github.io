@@ -1,0 +1,32 @@
+{
+ "id": "fozzy/1044886127-106",
+ "band": "fozzy",
+ "title": "A Passed Life",
+ "source": "itunes",
+ "album": "Sin and Bones",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 71.77734375,
+  "onset_rate": 2.0653584502031213,
+  "tempo_var": 11.390986678093848,
+  "low_onset_rate": 1.532362721118445,
+  "lufs": -17.370246691157856,
+  "rms_dbfs": -17.181735297673782,
+  "crest": 17.18173599243164,
+  "centroid": 1725.1627047267395,
+  "flatness": 0.0036243998911231756,
+  "sub100_share": 0.14775016903877258,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.8363530039787292,
+  "clean_share": 0.8151585460170147,
+  "minor_share": -0.17476951148568964,
+  "chord_rate": 0.8328058266948071,
+  "repetitiveness": 0.617008626461029,
+  "vocal_share": 0.37094634771347046,
+  "vocal_voiced": 0.8567980691874497,
+  "song_length": 415.2
+ }
+}

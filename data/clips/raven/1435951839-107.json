@@ -1,0 +1,32 @@
+{
+ "id": "raven/1435951839-107",
+ "band": "raven",
+ "title": "Live At the Inferno",
+ "source": "itunes",
+ "album": "Wiped Out (Bonus Track Edition)",
+ "year": 1982,
+ "itunes_year": 1982,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 6.033333333333333,
+  "tempo_var": 3.0711220581513765,
+  "low_onset_rate": 6.833333333333333,
+  "lufs": -9.826575869209913,
+  "rms_dbfs": -9.757229885315908,
+  "crest": 9.757229804992676,
+  "centroid": 2824.3095819624377,
+  "flatness": 0.0393269881606102,
+  "sub100_share": 0.1919955164194107,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7489405274391174,
+  "clean_share": 0.0,
+  "minor_share": 0.011594719008018783,
+  "chord_rate": 1.5333333333333334,
+  "repetitiveness": 0.8795104622840881,
+  "vocal_share": 0.1879868358373642,
+  "vocal_voiced": 0.7523961661341853,
+  "song_length": 235.96
+ }
+}

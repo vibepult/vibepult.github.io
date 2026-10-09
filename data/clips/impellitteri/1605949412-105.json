@@ -1,0 +1,32 @@
+{
+ "id": "impellitteri/1605949412-105",
+ "band": "impellitteri",
+ "title": "Hold the Line",
+ "source": "itunes",
+ "album": "Answer To the Master",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.777963317655045,
+  "tempo_var": 26.10662391935463,
+  "low_onset_rate": 5.34597294283082,
+  "lufs": -12.067496960363076,
+  "rms_dbfs": -11.824586444004733,
+  "crest": 11.824586868286133,
+  "centroid": 2846.0363742961613,
+  "flatness": 0.04020166024565697,
+  "sub100_share": 0.275197297334671,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6976962685585022,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": -0.018825017012848,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.8476021885871887,
+  "vocal_share": 0.24746693670749664,
+  "vocal_voiced": 0.6552020636285468,
+  "song_length": 240.467
+ }
+}

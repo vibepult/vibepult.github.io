@@ -1,0 +1,32 @@
+{
+ "id": "windhand/676466174-102",
+ "band": "windhand",
+ "title": "Woodbine",
+ "source": "itunes",
+ "album": "Soma",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.333267826639053,
+  "tempo_var": 7.310183751484106,
+  "low_onset_rate": 5.766579492373509,
+  "lufs": -8.334351453033255,
+  "rms_dbfs": -7.366308561940913,
+  "crest": 7.36630916595459,
+  "centroid": 2048.304118872407,
+  "flatness": 0.017543958500027657,
+  "sub100_share": 0.29151296615600586,
+  "lowest_pitch": 88.824462890625,
+  "harmonic_share": 0.8281177878379822,
+  "clean_share": 0.04563031709203403,
+  "minor_share": 0.2897404750210919,
+  "chord_rate": 1.299980347991716,
+  "repetitiveness": 0.7660030722618103,
+  "vocal_share": 0.10216822475194931,
+  "vocal_voiced": 0.8910433979686058,
+  "song_length": 562.587
+ }
+}

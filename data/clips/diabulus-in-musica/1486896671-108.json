@@ -1,0 +1,32 @@
+{
+ "id": "diabulus-in-musica/1486896671-108",
+ "band": "diabulus-in-musica",
+ "title": "On the Edge",
+ "source": "itunes",
+ "album": "Euphonic Entropy",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 6.966666666666667,
+  "tempo_var": 16.39180890920633,
+  "low_onset_rate": 6.866666666666666,
+  "lufs": -9.993616793536178,
+  "rms_dbfs": -9.366477898484083,
+  "crest": 9.366477966308594,
+  "centroid": 2709.6393499824,
+  "flatness": 0.043141480535268784,
+  "sub100_share": 0.3619559407234192,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7779200077056885,
+  "clean_share": 0.0,
+  "minor_share": 0.12476892738130191,
+  "chord_rate": 1.9666666666666666,
+  "repetitiveness": 0.9131473898887634,
+  "vocal_share": 0.16085116565227509,
+  "vocal_voiced": 0.8208092485549133,
+  "song_length": 250.68
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "tristania/1184124451-105",
+ "band": "tristania",
+ "title": "Lethal River",
+ "source": "itunes",
+ "album": "Beyond the Veil",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.733316805340557,
+  "tempo_var": 2.043602289772812,
+  "low_onset_rate": 4.599972184597523,
+  "lufs": -10.703591186900505,
+  "rms_dbfs": -10.287564911894943,
+  "crest": 10.287565231323242,
+  "centroid": 2466.2991487576555,
+  "flatness": 0.029510756954550743,
+  "sub100_share": 0.4361918866634369,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.8623239994049072,
+  "clean_share": 0.19644238205723125,
+  "minor_share": -0.07160703138411406,
+  "chord_rate": 1.299992139125387,
+  "repetitiveness": 0.6069715023040771,
+  "vocal_share": 0.002339699072763324,
+  "vocal_voiced": 1.0,
+  "song_length": 356.893
+ }
+}

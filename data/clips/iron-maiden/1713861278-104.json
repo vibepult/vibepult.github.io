@@ -1,0 +1,32 @@
+{
+ "id": "iron-maiden/1713861278-104",
+ "band": "iron-maiden",
+ "title": "Flash of the Blade (2015 Remaster)",
+ "source": "itunes",
+ "album": "Powerslave (2015 Remaster)",
+ "year": 1984,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.69991383350214,
+  "tempo_var": 2.2945970973409473,
+  "low_onset_rate": 5.299919880273919,
+  "lufs": -9.534988956369917,
+  "rms_dbfs": -9.217811801730063,
+  "crest": 9.217811584472656,
+  "centroid": 2319.7448608662958,
+  "flatness": 0.021931016817688942,
+  "sub100_share": 0.06860299408435822,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.6952956318855286,
+  "clean_share": 0.0634184068058778,
+  "minor_share": -0.2595329923951014,
+  "chord_rate": 1.5333101540415113,
+  "repetitiveness": 0.79102623462677,
+  "vocal_share": 0.15330205857753754,
+  "vocal_voiced": 0.535183349851338,
+  "song_length": 245.571
+ }
+}

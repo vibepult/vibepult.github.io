@@ -1,0 +1,32 @@
+{
+ "id": "iron-monkey/1260737417-105",
+ "band": "iron-monkey",
+ "title": "Destroyer",
+ "source": "itunes",
+ "album": "9-13",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.011849633903894,
+  "tempo_var": 14.31796578395313,
+  "low_onset_rate": 7.751660767104689,
+  "lufs": -7.1513474572111315,
+  "rms_dbfs": -6.567436837187057,
+  "crest": 6.567437171936035,
+  "centroid": 2263.852295019577,
+  "flatness": 0.027209095656871796,
+  "sub100_share": 0.3023854196071625,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.702656626701355,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": 0.16748846442439075,
+  "chord_rate": 2.7398111332007953,
+  "repetitiveness": 0.9041330814361572,
+  "vocal_share": 0.09135057032108307,
+  "vocal_voiced": 0.15728715728715728,
+  "song_length": 256.096
+ }
+}

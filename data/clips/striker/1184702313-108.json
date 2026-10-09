@@ -1,0 +1,32 @@
+{
+ "id": "striker/1184702313-108",
+ "band": "striker",
+ "title": "Second Attack",
+ "source": "itunes",
+ "album": "City of Gold",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 2.3,
+  "tempo_var": 13.249297001256064,
+  "low_onset_rate": 3.566666666666667,
+  "lufs": -9.252967077699042,
+  "rms_dbfs": -9.044736519483603,
+  "crest": 9.044736862182617,
+  "centroid": 2579.2511587500417,
+  "flatness": 0.03750164061784744,
+  "sub100_share": 0.3244331479072571,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6997572183609009,
+  "clean_share": 0.043343653250773995,
+  "minor_share": 0.1789355294438145,
+  "chord_rate": 2.3333333333333335,
+  "repetitiveness": 0.9202642440795898,
+  "vocal_share": 0.24269549548625946,
+  "vocal_voiced": 0.6429330499468651,
+  "song_length": 219.6
+ }
+}

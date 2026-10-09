@@ -1,0 +1,32 @@
+{
+ "id": "deafheaven/652038965-103",
+ "band": "deafheaven",
+ "title": "Sunbather",
+ "source": "itunes",
+ "album": "Sunbather",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 0.43333071304179566,
+  "tempo_var": 4.323298200603156,
+  "low_onset_rate": 2.033321038119195,
+  "lufs": -7.9081255189534145,
+  "rms_dbfs": -8.070440342632052,
+  "crest": 8.070440292358398,
+  "centroid": 2476.487738054042,
+  "flatness": 0.0362028069794178,
+  "sub100_share": 0.21241764724254608,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7860509157180786,
+  "clean_share": 0.0,
+  "minor_share": 0.02387785484076177,
+  "chord_rate": 0.5999963719040248,
+  "repetitiveness": 0.7243186235427856,
+  "vocal_share": 4.730094076421665e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 616.787
+ }
+}

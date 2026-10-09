@@ -1,0 +1,32 @@
+{
+ "id": "diocletian/6810823975-104",
+ "band": "diocletian",
+ "title": "Deathstrike Overkill",
+ "source": "itunes",
+ "album": "Doom Cult",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.633333333333334,
+  "tempo_var": 3.8344577691617703,
+  "low_onset_rate": 6.0,
+  "lufs": -11.284106044043495,
+  "rms_dbfs": -10.711915245265242,
+  "crest": 10.711915969848633,
+  "centroid": 1921.410693829262,
+  "flatness": 0.011635059490799904,
+  "sub100_share": 0.2008228451013565,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.8054280281066895,
+  "clean_share": 0.23993808049535603,
+  "minor_share": -0.16431027129066078,
+  "chord_rate": 1.8333333333333333,
+  "repetitiveness": 0.8814920783042908,
+  "vocal_share": 2.6749607968667988e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 220.347
+ }
+}

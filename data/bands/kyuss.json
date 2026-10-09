@@ -1,0 +1,127 @@
+{
+ "slug": "kyuss",
+ "name": "Kyuss",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 762893,
+  "deezer": 2982,
+  "spotify": "3HCpwNmFp2rvjkdjTs4uxs"
+ },
+ "metadata": {
+  "formed": 1989,
+  "split": 1995,
+  "country": "US",
+  "status": "split-up",
+  "members": 4,
+  "past_members": 3,
+  "full_lengths": 4,
+  "genre": "Stoner Rock/Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 58312,
+  "themes": "Drugs, Life, Rock 'n' Roll, Struggles, Society",
+  "release_year": 1993
+ },
+ "partial": false,
+ "clips": [
+  "kyuss/207946744-106",
+  "kyuss/213508542-105",
+  "kyuss/207973376-105",
+  "kyuss/207914986-106",
+  "kyuss/207946744-105",
+  "kyuss/213508542-106",
+  "kyuss/207973376-106",
+  "kyuss/207914986-105",
+  "kyuss/207946744-107",
+  "kyuss/213508542-104",
+  "kyuss/207973376-104",
+  "kyuss/207914986-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 105.5126953125,
+   "iqr": 34.3505859375
+  },
+  "onset_rate": {
+   "median": 3.4662579469087547,
+   "iqr": 1.5581804408423712
+  },
+  "tempo_var": {
+   "median": 18.1925701474969,
+   "iqr": 23.77371799458092
+  },
+  "low_onset_rate": {
+   "median": 5.049923659506281,
+   "iqr": 1.2411836599260253
+  },
+  "lufs": {
+   "median": -12.262152355274083,
+   "iqr": 4.610858375575583
+  },
+  "rms_dbfs": {
+   "median": -10.939302719365621,
+   "iqr": 6.574836959066376
+  },
+  "crest": {
+   "median": 10.939302921295166,
+   "iqr": 5.860776901245117
+  },
+  "centroid": {
+   "median": 1790.9459235932773,
+   "iqr": 737.6158356655551
+  },
+  "flatness": {
+   "median": 0.007036740658804774,
+   "iqr": 0.0076313038589432836
+  },
+  "sub100_share": {
+   "median": 0.2942568510770798,
+   "iqr": 0.09279906377196312
+  },
+  "lowest_pitch": {
+   "median": 68.6370849609375,
+   "iqr": 26.24359130859375
+  },
+  "harmonic_share": {
+   "median": 0.8072788417339325,
+   "iqr": 0.11056703329086304
+  },
+  "clean_share": {
+   "median": 0.5390564578499614,
+   "iqr": 0.3377803557617942
+  },
+  "minor_share": {
+   "median": -0.0459388410436003,
+   "iqr": 0.2229014047347494
+  },
+  "chord_rate": {
+   "median": 1.7498810406728178,
+   "iqr": 0.383181072734355
+  },
+  "repetitiveness": {
+   "median": 0.9010177850723267,
+   "iqr": 0.08228503167629242
+  },
+  "vocal_share": {
+   "median": 0.039129588752985,
+   "iqr": 0.019152197986841202
+  },
+  "vocal_voiced": {
+   "median": 0.9209133691356319,
+   "iqr": 0.021678876500035305
+  },
+  "song_length": {
+   "median": 312.66700000000003,
+   "iqr": 67.60025000000002
+  },
+  "vocal_presence": {
+   "median": 0.3333333333333333,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

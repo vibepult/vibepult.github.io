@@ -1,0 +1,32 @@
+{
+ "id": "green-carnation/1556136526-105",
+ "band": "green-carnation",
+ "title": "Journey to the End of Night, Pt. I",
+ "source": "itunes",
+ "album": "Journey to the End of the Night",
+ "year": 2000,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 1.4367302283857828,
+  "tempo_var": 23.89748904573948,
+  "low_onset_rate": 3.94265504533773,
+  "lufs": -16.563695110844904,
+  "rms_dbfs": -17.001292983697617,
+  "crest": 17.001293182373047,
+  "centroid": 2041.2476568502375,
+  "flatness": 0.016103049740195274,
+  "sub100_share": 0.16060689091682434,
+  "lowest_pitch": 118.4326171875,
+  "harmonic_share": 0.7448886036872864,
+  "clean_share": 0.34290147401086113,
+  "minor_share": -0.00044855243944352807,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.706758439540863,
+  "vocal_share": 0.0796336904168129,
+  "vocal_voiced": 1.0,
+  "song_length": 688.56
+ }
+}

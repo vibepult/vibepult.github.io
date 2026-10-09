@@ -1,0 +1,32 @@
+{
+ "id": "pain/1460467980-107",
+ "band": "pain",
+ "title": "Generation X",
+ "source": "itunes",
+ "album": "Cynic Paradise",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.9092427144450372,
+  "tempo_var": 1.1993145039060575,
+  "low_onset_rate": 2.472512486059254,
+  "lufs": -14.331619471269011,
+  "rms_dbfs": -13.46510091178696,
+  "crest": 13.46510124206543,
+  "centroid": 1716.3725924071923,
+  "flatness": 0.013240030035376549,
+  "sub100_share": 0.42950108647346497,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.782561182975769,
+  "clean_share": 0.6314972847168348,
+  "minor_share": -0.08602640000233597,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.7059929966926575,
+  "vocal_share": 0.010692082345485687,
+  "vocal_voiced": 0.11960132890365449,
+  "song_length": 258.493
+ }
+}

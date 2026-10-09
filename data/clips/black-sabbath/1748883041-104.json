@@ -1,0 +1,32 @@
+{
+ "id": "black-sabbath/1748883041-104",
+ "band": "black-sabbath",
+ "title": "The Sabbath Stones (2024 Remaster)",
+ "source": "itunes",
+ "album": "Tyr (2024 Remaster)",
+ "year": 1990,
+ "itunes_year": 1990,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 1.5322909585316111,
+  "tempo_var": 3.035992134108018,
+  "low_onset_rate": 3.830727396329028,
+  "lufs": -14.05852727996331,
+  "rms_dbfs": -13.810056242934454,
+  "crest": 13.810056686401367,
+  "centroid": 2577.153932008592,
+  "flatness": 0.024813802912831306,
+  "sub100_share": 0.17537304759025574,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7819027900695801,
+  "clean_share": 0.17246713070378963,
+  "minor_share": 0.0063794607722589824,
+  "chord_rate": 2.2318150917743034,
+  "repetitiveness": 0.7706598043441772,
+  "vocal_share": 0.2998206317424774,
+  "vocal_voiced": 0.9216043755697356,
+  "song_length": 408.053
+ }
+}

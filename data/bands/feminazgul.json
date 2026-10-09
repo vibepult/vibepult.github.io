@@ -1,0 +1,123 @@
+{
+ "slug": "feminazgul",
+ "name": "Feminazgûl",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1354016086,
+  "deezer": 14223235,
+  "spotify": "4uYAaVxjz3cqYj7P57le8j"
+ },
+ "metadata": {
+  "formed": 2018,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 3,
+  "past_members": 0,
+  "full_lengths": 1,
+  "genre": "Atmospheric Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 899,
+  "themes": "Feminism, Anti-fascism, Tolkienist themes",
+  "release_year": 2020
+ },
+ "partial": false,
+ "clips": [
+  "feminazgul/1503994691-104",
+  "feminazgul/1503994691-105",
+  "feminazgul/1503994691-103",
+  "feminazgul/1503994691-106",
+  "feminazgul/1503994691-102",
+  "feminazgul/1503994691-107",
+  "feminazgul/1503994691-101",
+  "feminazgul/1503994691-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.90049098320159,
+   "iqr": 37.959172175480774
+  },
+  "onset_rate": {
+   "median": 2.940285118556951,
+   "iqr": 1.6288511310187657
+  },
+  "tempo_var": {
+   "median": 9.942677814677864,
+   "iqr": 3.0572839857060092
+  },
+  "low_onset_rate": {
+   "median": 5.529740762740629,
+   "iqr": 5.462916100955244
+  },
+  "lufs": {
+   "median": -11.808999784011068,
+   "iqr": 3.0467015200514727
+  },
+  "rms_dbfs": {
+   "median": -11.139404272751026,
+   "iqr": 2.5400294264440664
+  },
+  "crest": {
+   "median": 11.139404296875,
+   "iqr": 2.5400285720825195
+  },
+  "centroid": {
+   "median": 2102.1123048379714,
+   "iqr": 547.632163701938
+  },
+  "flatness": {
+   "median": 0.01124793291091919,
+   "iqr": 0.016306144010741264
+  },
+  "sub100_share": {
+   "median": 0.2187379077076912,
+   "iqr": 0.14561630226671696
+  },
+  "lowest_pitch": {
+   "median": 45.758056640625,
+   "iqr": 14.13116455078125
+  },
+  "harmonic_share": {
+   "median": 0.8556566536426544,
+   "iqr": 0.1002141684293747
+  },
+  "clean_share": {
+   "median": 0.2331264546159814,
+   "iqr": 0.8093483320403414
+  },
+  "minor_share": {
+   "median": 0.13701990528786145,
+   "iqr": 0.07940667107974747
+  },
+  "chord_rate": {
+   "median": 0.584715790622121,
+   "iqr": 0.15870857174028996
+  },
+  "repetitiveness": {
+   "median": 0.8136857450008392,
+   "iqr": 0.1487429141998291
+  },
+  "vocal_share": {
+   "median": 0.1228029765188694,
+   "iqr": 0.03425106033682823
+  },
+  "vocal_voiced": {
+   "median": 0.527020868081145,
+   "iqr": 0.1206169271944455
+  },
+  "song_length": {
+   "median": 341.83950000000004,
+   "iqr": 119.42599999999999
+  },
+  "vocal_presence": {
+   "median": 0.25,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.6,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

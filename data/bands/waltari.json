@@ -1,0 +1,127 @@
+{
+ "slug": "waltari",
+ "name": "Waltari",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 14638119,
+  "deezer": 65997,
+  "spotify": "6IuUpA7uQbkfYhl3oG3ZDv"
+ },
+ "metadata": {
+  "formed": 1986,
+  "split": null,
+  "country": "FI",
+  "status": "active",
+  "members": 4,
+  "past_members": 11,
+  "full_lengths": 16,
+  "genre": "Alternative/Progressive Metal/Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 2208,
+  "themes": "Feelings, Loneliness, Irony, Sarcasm, The world",
+  "release_year": 2002
+ },
+ "partial": false,
+ "clips": [
+  "waltari/835846708-106",
+  "waltari/273561879-107",
+  "waltari/1556452822-108",
+  "waltari/1410441259-107",
+  "waltari/1417235410-104",
+  "waltari/1529628784-106",
+  "waltari/995191767-109",
+  "waltari/995196422-106",
+  "waltari/1412265034-105",
+  "waltari/814308815-105",
+  "waltari/1772690179-107",
+  "waltari/1772751858-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 33.21276212993422
+  },
+  "onset_rate": {
+   "median": 5.089171486828316,
+   "iqr": 2.1101458395744443
+  },
+  "tempo_var": {
+   "median": 12.972117473615931,
+   "iqr": 5.887144168848518
+  },
+  "low_onset_rate": {
+   "median": 5.446209935508898,
+   "iqr": 1.2158286731106305
+  },
+  "lufs": {
+   "median": -9.786722805582725,
+   "iqr": 1.5513798736198972
+  },
+  "rms_dbfs": {
+   "median": -9.206917875532477,
+   "iqr": 2.2901233146473317
+  },
+  "crest": {
+   "median": 9.206918239593506,
+   "iqr": 2.290123224258423
+  },
+  "centroid": {
+   "median": 2561.2730212255506,
+   "iqr": 291.98524937737557
+  },
+  "flatness": {
+   "median": 0.036380767822265625,
+   "iqr": 0.015091293025761843
+  },
+  "sub100_share": {
+   "median": 0.2939465790987015,
+   "iqr": 0.22509700059890747
+  },
+  "lowest_pitch": {
+   "median": 53.8330078125,
+   "iqr": 26.91650390625
+  },
+  "harmonic_share": {
+   "median": 0.7574406564235687,
+   "iqr": 0.08433306217193604
+  },
+  "clean_share": {
+   "median": 0.04298583348783237,
+   "iqr": 0.05880023543854029
+  },
+  "minor_share": {
+   "median": 0.01605349750095847,
+   "iqr": 0.10321807220298795
+  },
+  "chord_rate": {
+   "median": 1.553673386510207,
+   "iqr": 0.4283952859231037
+  },
+  "repetitiveness": {
+   "median": 0.8223863840103149,
+   "iqr": 0.05886359512805939
+  },
+  "vocal_share": {
+   "median": 0.14712976664304733,
+   "iqr": 0.06202591769397259
+  },
+  "vocal_voiced": {
+   "median": 0.6548432267680853,
+   "iqr": 0.2726788954351943
+  },
+  "song_length": {
+   "median": 252.1075,
+   "iqr": 55.32125000000002
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.5
+ },
+ "sources_failed": []
+}

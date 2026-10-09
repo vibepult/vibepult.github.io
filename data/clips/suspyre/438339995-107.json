@@ -1,0 +1,32 @@
+{
+ "id": "suspyre/438339995-107",
+ "band": "suspyre",
+ "title": "Fallen Stars",
+ "source": "itunes",
+ "album": "When Time Fades...",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.009479707123115,
+  "tempo_var": 17.917334087786966,
+  "low_onset_rate": 5.746920913543131,
+  "lufs": -14.088185918339068,
+  "rms_dbfs": -13.602042693146878,
+  "crest": 13.602042198181152,
+  "centroid": 2133.461033754328,
+  "flatness": 0.009610739536583424,
+  "sub100_share": 0.001862641773186624,
+  "lowest_pitch": 131.890869140625,
+  "harmonic_share": 0.9551007747650146,
+  "clean_share": 0.6408068269976727,
+  "minor_share": 0.0759327287505297,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.6388516426086426,
+  "vocal_share": 0.5698186159133911,
+  "vocal_voiced": 0.9386385426653883,
+  "song_length": 221.827
+ }
+}

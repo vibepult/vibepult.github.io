@@ -1,0 +1,32 @@
+{
+ "id": "aura-hiemis/1528790846-107",
+ "band": "aura-hiemis",
+ "title": "Frozen Memories",
+ "source": "itunes",
+ "album": "Silentium Manium",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 0.9021329341027009,
+  "tempo_var": 27.929554628494962,
+  "low_onset_rate": 4.009479707123115,
+  "lufs": -16.40412306183983,
+  "rms_dbfs": -20.145669928187413,
+  "crest": 17.952816009521484,
+  "centroid": 2654.0586334124505,
+  "flatness": 0.0017107119783759117,
+  "sub100_share": 2.393987961113453e-05,
+  "lowest_pitch": 164.190673828125,
+  "harmonic_share": 0.9537311792373657,
+  "clean_share": 0.9270752521334368,
+  "minor_share": 0.18615897391353364,
+  "chord_rate": 0.7350712796392378,
+  "repetitiveness": 0.7203046679496765,
+  "vocal_share": 0.0003290464810561389,
+  "vocal_voiced": 1.0,
+  "song_length": 557.227
+ }
+}

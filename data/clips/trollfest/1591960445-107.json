@@ -1,0 +1,32 @@
+{
+ "id": "trollfest/1591960445-107",
+ "band": "trollfest",
+ "title": "Apis Mellifera",
+ "source": "itunes",
+ "album": "Brumlebassen",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.546446928186976,
+  "tempo_var": 12.75623812359031,
+  "low_onset_rate": 7.584599112641226,
+  "lufs": -8.95759389463591,
+  "rms_dbfs": -8.615205202997297,
+  "crest": 8.615205764770508,
+  "centroid": 2970.4474528058618,
+  "flatness": 0.06408390402793884,
+  "sub100_share": 0.3361108601093292,
+  "lowest_pitch": 29.608154296875,
+  "harmonic_share": 0.6846437454223633,
+  "clean_share": 0.0,
+  "minor_share": -0.16097361364897766,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.9140679240226746,
+  "vocal_share": 0.15034665167331696,
+  "vocal_voiced": 0.2871536523929471,
+  "song_length": 273.4
+ }
+}

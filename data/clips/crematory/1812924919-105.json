@@ -1,0 +1,32 @@
+{
+ "id": "crematory/1812924919-105",
+ "band": "crematory",
+ "title": "I Saw The Angels Fly",
+ "source": "itunes",
+ "album": "...Just Dreaming",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.4,
+  "tempo_var": 11.264683279098561,
+  "low_onset_rate": 4.0,
+  "lufs": -16.995701342816137,
+  "rms_dbfs": -16.6468208717232,
+  "crest": 12.984167098999023,
+  "centroid": 2417.0409676285467,
+  "flatness": 0.016175780445337296,
+  "sub100_share": 0.2254006713628769,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.8563345670700073,
+  "clean_share": 0.163312693498452,
+  "minor_share": -0.10541591769882641,
+  "chord_rate": 1.4,
+  "repetitiveness": 0.732423722743988,
+  "vocal_share": 1.246768874807458e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 294.614
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "sleep/272772755-104",
+ "band": "sleep",
+ "title": "Anguish",
+ "source": "itunes",
+ "album": "Volume One",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 75.99954044117646,
+  "onset_rate": 2.2386261698104057,
+  "tempo_var": 28.370815378037754,
+  "low_onset_rate": 5.412797604616205,
+  "lufs": -12.979805669369222,
+  "rms_dbfs": -12.152878540455195,
+  "crest": 12.15287971496582,
+  "centroid": 2105.0888717174375,
+  "flatness": 0.015784388408064842,
+  "sub100_share": 0.2926560938358307,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8077793121337891,
+  "clean_share": 0.21644685802948022,
+  "minor_share": -0.028330710289527217,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.8239248394966125,
+  "vocal_share": 0.11967173218727112,
+  "vocal_voiced": 0.4454828660436137,
+  "song_length": 337.933
+ }
+}

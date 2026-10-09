@@ -1,0 +1,32 @@
+{
+ "id": "circus-maximus/1087346270-104",
+ "band": "circus-maximus",
+ "title": "Sane No More",
+ "source": "itunes",
+ "album": "Isolate",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.033242027355513,
+  "tempo_var": 2.4715062341955196,
+  "low_onset_rate": 3.299940137140369,
+  "lufs": -6.947323363275706,
+  "rms_dbfs": -6.704369838159002,
+  "crest": 6.704370498657227,
+  "centroid": 2457.262004704016,
+  "flatness": 0.024347245693206787,
+  "sub100_share": 0.2602134048938751,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7972396612167358,
+  "clean_share": 0.01082753286929621,
+  "minor_share": 0.049251636020047895,
+  "chord_rate": 1.6666364328991765,
+  "repetitiveness": 0.877617597579956,
+  "vocal_share": 9.263482638743881e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 234.587
+ }
+}

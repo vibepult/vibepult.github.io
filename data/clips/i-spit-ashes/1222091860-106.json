@@ -1,0 +1,32 @@
+{
+ "id": "i-spit-ashes/1222091860-106",
+ "band": "i-spit-ashes",
+ "title": "One Star Per Tear",
+ "source": "itunes",
+ "album": "Inhaling Blackness...Reflecting Light",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 69.83741554054055,
+  "onset_rate": 1.603791882849246,
+  "tempo_var": 12.769056827228935,
+  "low_onset_rate": 8.553556708529312,
+  "lufs": -21.698961152854256,
+  "rms_dbfs": -21.647820356202697,
+  "crest": 15.172871589660645,
+  "centroid": 956.5246889378856,
+  "flatness": 0.001590339932590723,
+  "sub100_share": 0.0373714454472065,
+  "lowest_pitch": 115.740966796875,
+  "harmonic_share": 0.9614357352256775,
+  "clean_share": 0.8929402637703646,
+  "minor_share": 0.2613553894051204,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.7332886457443237,
+  "vocal_share": 1.236851289831975e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 192.387
+ }
+}

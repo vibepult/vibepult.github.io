@@ -1,0 +1,32 @@
+{
+ "id": "prong/368743298-106",
+ "band": "prong",
+ "title": "Take It In Hand",
+ "source": "itunes",
+ "album": "Beg to Differ",
+ "year": 1990,
+ "itunes_year": 1990,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.430526998016373,
+  "tempo_var": 18.146221924594975,
+  "low_onset_rate": 5.929577486067026,
+  "lufs": -17.23382047015051,
+  "rms_dbfs": -16.786860558672522,
+  "crest": 16.7868595123291,
+  "centroid": 2741.307394566437,
+  "flatness": 0.029146723449230194,
+  "sub100_share": 0.15737126767635345,
+  "lowest_pitch": 102.28271484375,
+  "harmonic_share": 0.6290583610534668,
+  "clean_share": 0.12915699922660479,
+  "minor_share": -0.11056990719872395,
+  "chord_rate": 2.9981009761013055,
+  "repetitiveness": 0.9069228768348694,
+  "vocal_share": 6.736363502568565e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 223.505
+ }
+}

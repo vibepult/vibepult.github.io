@@ -1,0 +1,32 @@
+{
+ "id": "black-moth/1660465535-107",
+ "band": "black-moth",
+ "title": "Screen Queen",
+ "source": "itunes",
+ "album": "Anatomical Venus",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.412797604616205,
+  "tempo_var": 10.803598492393258,
+  "low_onset_rate": 4.911612641225816,
+  "lufs": -9.171118504854409,
+  "rms_dbfs": -8.237137739272217,
+  "crest": 8.237137794494629,
+  "centroid": 2343.2898975941766,
+  "flatness": 0.026833059266209602,
+  "sub100_share": 0.4502652883529663,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7202926874160767,
+  "clean_share": 0.010861132660977503,
+  "minor_share": -0.19656336205419767,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.8635236620903015,
+  "vocal_share": 0.1362452507019043,
+  "vocal_voiced": 0.861878453038674,
+  "song_length": 248.187
+ }
+}

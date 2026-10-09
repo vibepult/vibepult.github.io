@@ -1,0 +1,32 @@
+{
+ "id": "impellitteri/1605951267-106",
+ "band": "impellitteri",
+ "title": "Master of Disguise",
+ "source": "itunes",
+ "album": "Eye of the Hurricane",
+ "year": 1997,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.076304368908501,
+  "tempo_var": 22.30615195172448,
+  "low_onset_rate": 4.377015346942734,
+  "lufs": -11.29264328253498,
+  "rms_dbfs": -10.662515580783447,
+  "crest": 10.662515640258789,
+  "centroid": 1871.9584378819152,
+  "flatness": 0.01474464125931263,
+  "sub100_share": 0.33429938554763794,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.8480734825134277,
+  "clean_share": 0.5717610550814585,
+  "minor_share": 0.2123889951737895,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.6490681767463684,
+  "vocal_share": 0.17640750110149384,
+  "vocal_voiced": 0.6866310160427808,
+  "song_length": 279.333
+ }
+}

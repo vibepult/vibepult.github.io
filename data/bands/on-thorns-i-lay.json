@@ -1,0 +1,127 @@
+{
+ "slug": "on-thorns-i-lay",
+ "name": "On Thorns I Lay",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 54599541,
+  "deezer": 76458,
+  "spotify": "7bGopU168qloFmaY1OcSwv"
+ },
+ "metadata": {
+  "formed": 1995,
+  "split": null,
+  "country": "GR",
+  "status": "active",
+  "members": 4,
+  "past_members": 19,
+  "full_lengths": 10,
+  "genre": "Death/Doom Metal, Gothic Metal/Rock",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 1702,
+  "themes": "Sorrow, Pain, Human feelings, Emotions",
+  "release_year": 2000
+ },
+ "partial": false,
+ "clips": [
+  "on-thorns-i-lay/1759220976-105",
+  "on-thorns-i-lay/1759220918-105",
+  "on-thorns-i-lay/1759220794-105",
+  "on-thorns-i-lay/1759225557-106",
+  "on-thorns-i-lay/1700712351-104",
+  "on-thorns-i-lay/1700719333-105",
+  "on-thorns-i-lay/1507823602-106",
+  "on-thorns-i-lay/1700720028-105",
+  "on-thorns-i-lay/1493911477-104",
+  "on-thorns-i-lay/1695934971-103",
+  "on-thorns-i-lay/1759220976-104",
+  "on-thorns-i-lay/1759220918-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.69701086956522,
+   "iqr": 37.71643860052245
+  },
+  "onset_rate": {
+   "median": 3.533333333333333,
+   "iqr": 1.6859205034023503
+  },
+  "tempo_var": {
+   "median": 7.207621998357459,
+   "iqr": 22.141791091117454
+  },
+  "low_onset_rate": {
+   "median": 4.9558853181722675,
+   "iqr": 1.9333333333333331
+  },
+  "lufs": {
+   "median": -11.207236543919027,
+   "iqr": 1.928187144855782
+  },
+  "rms_dbfs": {
+   "median": -10.923068830813389,
+   "iqr": 3.4625064601106494
+  },
+  "crest": {
+   "median": 10.923069477081299,
+   "iqr": 3.46250581741333
+  },
+  "centroid": {
+   "median": 2005.9657249397544,
+   "iqr": 612.7404621595392
+  },
+  "flatness": {
+   "median": 0.011084293946623802,
+   "iqr": 0.018702427012613043
+  },
+  "sub100_share": {
+   "median": 0.2304610088467598,
+   "iqr": 0.33642667531967163
+  },
+  "lowest_pitch": {
+   "median": 74.0203857421875,
+   "iqr": 34.991455078125
+  },
+  "harmonic_share": {
+   "median": 0.8564809262752533,
+   "iqr": 0.1472817063331604
+  },
+  "clean_share": {
+   "median": 0.3413312693498452,
+   "iqr": 0.6719647313418855
+  },
+  "minor_share": {
+   "median": 0.09627796946037614,
+   "iqr": 0.1527469251391395
+  },
+  "chord_rate": {
+   "median": 1.2166666666666668,
+   "iqr": 0.3753554890171168
+  },
+  "repetitiveness": {
+   "median": 0.7867816388607025,
+   "iqr": 0.1188250333070755
+  },
+  "vocal_share": {
+   "median": 0.09708238020539284,
+   "iqr": 0.06874676793813705
+  },
+  "vocal_voiced": {
+   "median": 0.7802841512172816,
+   "iqr": 0.3983386512593746
+  },
+  "song_length": {
+   "median": 324.2335,
+   "iqr": 106.53075000000001
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

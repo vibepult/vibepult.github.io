@@ -1,0 +1,32 @@
+{
+ "id": "lizzy-borden/60368952-106",
+ "band": "lizzy-borden",
+ "title": "We Only Come Out at Night",
+ "source": "itunes",
+ "album": "Deal with the Devil",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.176541361586578,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 5.98080722979198,
+  "lufs": -7.302942538566518,
+  "rms_dbfs": -7.133700868060417,
+  "crest": 7.133700370788574,
+  "centroid": 2380.010180699332,
+  "flatness": 0.03211928904056549,
+  "sub100_share": 0.18328486382961273,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.6389511227607727,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.03971797026304669,
+  "chord_rate": 0.6682466178538525,
+  "repetitiveness": 0.8733764886856079,
+  "vocal_share": 0.24527810513973236,
+  "vocal_voiced": 0.13259668508287292,
+  "song_length": 274.84
+ }
+}

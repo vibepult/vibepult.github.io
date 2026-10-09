@@ -1,0 +1,32 @@
+{
+ "id": "cobrakill/1713246114-102",
+ "band": "cobrakill",
+ "title": "Bazooka",
+ "source": "itunes",
+ "album": "Serpent's Kiss",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 61.5234375,
+  "onset_rate": 1.5666571933049536,
+  "tempo_var": 2.6625056437441685,
+  "low_onset_rate": 1.8999885110294117,
+  "lufs": -11.477614574638643,
+  "rms_dbfs": -10.972602933715102,
+  "crest": 10.972602844238281,
+  "centroid": 2550.309571886102,
+  "flatness": 0.02929363027215004,
+  "sub100_share": 0.4937605559825897,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8044267296791077,
+  "clean_share": 0.19721577726218098,
+  "minor_share": 0.23764600198937602,
+  "chord_rate": 2.033321038119195,
+  "repetitiveness": 0.901178777217865,
+  "vocal_share": 0.1774071455001831,
+  "vocal_voiced": 0.5672955974842767,
+  "song_length": 233.226
+ }
+}

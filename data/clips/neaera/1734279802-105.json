@@ -1,0 +1,32 @@
+{
+ "id": "neaera/1734279802-105",
+ "band": "neaera",
+ "title": "Per Aspera",
+ "source": "itunes",
+ "album": "All Is Dust",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 0.3999939532282203,
+  "tempo_var": 5.943397496911055,
+  "low_onset_rate": 0.9333192241991807,
+  "lufs": -7.823872634420185,
+  "rms_dbfs": -7.277034298196204,
+  "crest": 7.277034759521484,
+  "centroid": 2660.037736939609,
+  "flatness": 0.044797156006097794,
+  "sub100_share": 0.3912244737148285,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7806453108787537,
+  "clean_share": 0.019334880123743233,
+  "minor_share": -0.10754303325594833,
+  "chord_rate": 1.3666460068630861,
+  "repetitiveness": 0.8805063366889954,
+  "vocal_share": 0.08580382913351059,
+  "vocal_voiced": 0.05588235294117647,
+  "song_length": 272.302
+ }
+}

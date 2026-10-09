@@ -1,0 +1,32 @@
+{
+ "id": "dagoba/1567252611-109",
+ "band": "dagoba",
+ "title": "Act 1, Pt. 2",
+ "source": "itunes",
+ "album": "Dagoba",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.143129030693886,
+  "tempo_var": 8.863582353854595,
+  "low_onset_rate": 1.871090529990787,
+  "lufs": -6.958500878393658,
+  "rms_dbfs": -6.321414144887013,
+  "crest": 6.321413993835449,
+  "centroid": 2552.6330121242945,
+  "flatness": 0.040237907320261,
+  "sub100_share": 0.44911208748817444,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7400166392326355,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.009253043681181627,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.8888304233551025,
+  "vocal_share": 0.13244004547595978,
+  "vocal_voiced": 0.30194472876151485,
+  "song_length": 183.28
+ }
+}

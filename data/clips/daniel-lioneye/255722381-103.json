@@ -1,0 +1,32 @@
+{
+ "id": "daniel-lioneye/255722381-103",
+ "band": "daniel-lioneye",
+ "title": "Dope Danny",
+ "source": "itunes",
+ "album": "The King of Rock 'N' Roll",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 75.99954044117646,
+  "onset_rate": 4.71113865586966,
+  "tempo_var": 16.953888611650754,
+  "low_onset_rate": 5.98080722979198,
+  "lufs": -4.924959821228837,
+  "rms_dbfs": -4.696907609191708,
+  "crest": 4.6969075202941895,
+  "centroid": 2519.6029112639053,
+  "flatness": 0.03156919777393341,
+  "sub100_share": 0.1835857480764389,
+  "lowest_pitch": 99.591064453125,
+  "harmonic_share": 0.8099007606506348,
+  "clean_share": 0.021722265321955005,
+  "minor_share": -0.014781684530125738,
+  "chord_rate": 1.9379151917761723,
+  "repetitiveness": 0.692120373249054,
+  "vocal_share": 0.17197047173976898,
+  "vocal_voiced": 0.7398843930635838,
+  "song_length": 298.552
+ }
+}

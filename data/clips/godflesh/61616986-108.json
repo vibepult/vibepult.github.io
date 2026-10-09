@@ -1,0 +1,32 @@
+{
+ "id": "godflesh/61616986-108",
+ "band": "godflesh",
+ "title": "Life Is Easy",
+ "source": "itunes",
+ "album": "Streetcleaner",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 1.0357822576734714,
+  "tempo_var": 14.835078092960236,
+  "low_onset_rate": 6.849527833001988,
+  "lufs": -24.813550968018465,
+  "rms_dbfs": -24.66388476488415,
+  "crest": 19.104251861572266,
+  "centroid": 2634.8840935176777,
+  "flatness": 0.008547418750822544,
+  "sub100_share": 0.24434268474578857,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.9505636692047119,
+  "clean_share": 0.3281613653995345,
+  "minor_share": -0.15358851767272808,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.7874588370323181,
+  "vocal_share": 0.002407217165455222,
+  "vocal_voiced": 0.0,
+  "song_length": 294.133
+ }
+}

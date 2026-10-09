@@ -1,0 +1,32 @@
+{
+ "id": "coldseed/1460470424-105",
+ "band": "coldseed",
+ "title": "Burning with a Shade",
+ "source": "itunes",
+ "album": "Completion Makes the Tragedy",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.773223464093488,
+  "tempo_var": 10.460665322453083,
+  "low_onset_rate": 2.3054508315957913,
+  "lufs": -13.6976847238116,
+  "rms_dbfs": -10.654271449143584,
+  "crest": 9.93447494506836,
+  "centroid": 800.4591025235433,
+  "flatness": 0.0031815425027161837,
+  "sub100_share": 0.8833354711532593,
+  "lowest_pitch": 24.224853515625,
+  "harmonic_share": 0.9461327195167542,
+  "clean_share": 0.86966640806827,
+  "minor_share": 0.024664935397898657,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.9592283368110657,
+  "vocal_share": 0.01569226197898388,
+  "vocal_voiced": 0.12391304347826088,
+  "song_length": 253.806
+ }
+}

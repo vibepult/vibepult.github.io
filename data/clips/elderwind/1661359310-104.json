@@ -1,0 +1,32 @@
+{
+ "id": "elderwind/1661359310-104",
+ "band": "elderwind",
+ "title": "Fires",
+ "source": "itunes",
+ "album": "Fires",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 5.379385273723512,
+  "tempo_var": 11.76617496486451,
+  "low_onset_rate": 5.9473948988992875,
+  "lufs": -8.633915976114032,
+  "rms_dbfs": -7.903259099440717,
+  "crest": 7.90325927734375,
+  "centroid": 2446.1902340154834,
+  "flatness": 0.026181960478425026,
+  "sub100_share": 0.37387779355049133,
+  "lowest_pitch": 29.608154296875,
+  "harmonic_share": 0.8213279247283936,
+  "clean_share": 0.0,
+  "minor_share": 0.14976705629126852,
+  "chord_rate": 0.9021329341027009,
+  "repetitiveness": 0.7711296677589417,
+  "vocal_share": 0.00035414128797128797,
+  "vocal_voiced": 1.0,
+  "song_length": 458.693
+ }
+}

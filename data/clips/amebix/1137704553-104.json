@@ -1,0 +1,32 @@
+{
+ "id": "amebix/1137704553-104",
+ "band": "amebix",
+ "title": "Largactyl (Remastered 2014)",
+ "source": "itunes",
+ "album": "Arise!",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.240996096591185,
+  "tempo_var": 3.4608988088896946,
+  "low_onset_rate": 3.107346773020414,
+  "lufs": -11.051922583604513,
+  "rms_dbfs": -10.454672365566996,
+  "crest": 10.454672813415527,
+  "centroid": 2168.083288059018,
+  "flatness": 0.023014148697257042,
+  "sub100_share": 0.17184285819530487,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.8431710004806519,
+  "clean_share": 0.3948797517455392,
+  "minor_share": 0.2130525020034405,
+  "chord_rate": 2.071564515346943,
+  "repetitiveness": 0.8772447109222412,
+  "vocal_share": 0.02303951047360897,
+  "vocal_voiced": 0.24675324675324675,
+  "song_length": 227.73
+ }
+}

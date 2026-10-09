@@ -1,0 +1,32 @@
+{
+ "id": "kauan/1544830897-104",
+ "band": "kauan",
+ "title": "Kutsu",
+ "source": "itunes",
+ "album": "Ice Fleet",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.7087687290888813,
+  "tempo_var": 10.785507624363083,
+  "low_onset_rate": 4.4772523396208115,
+  "lufs": -15.919591477834784,
+  "rms_dbfs": -13.91662735785357,
+  "crest": 13.916626930236816,
+  "centroid": 720.3313533318479,
+  "flatness": 8.587943011661991e-05,
+  "sub100_share": 0.5867173075675964,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8459588289260864,
+  "clean_share": 0.9992242048099301,
+  "minor_share": 0.23587587012513556,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.7033500671386719,
+  "vocal_share": 0.00012074801634298638,
+  "vocal_voiced": 1.0,
+  "song_length": 313.263
+ }
+}

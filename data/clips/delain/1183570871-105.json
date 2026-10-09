@@ -1,0 +1,32 @@
+{
+ "id": "delain/1183570871-105",
+ "band": "delain",
+ "title": "Tell Me, Mechanist",
+ "source": "itunes",
+ "album": "The Human Contradiction",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 5.133333333333334,
+  "tempo_var": 13.624846320291791,
+  "low_onset_rate": 2.8666666666666667,
+  "lufs": -8.474280103458424,
+  "rms_dbfs": -7.946202717126884,
+  "crest": 7.946202754974365,
+  "centroid": 2704.755294681421,
+  "flatness": 0.045622486621141434,
+  "sub100_share": 0.30065545439720154,
+  "lowest_pitch": 26.91650390625,
+  "harmonic_share": 0.702332615852356,
+  "clean_share": 0.02089783281733746,
+  "minor_share": 0.039423282461417464,
+  "chord_rate": 1.5666666666666667,
+  "repetitiveness": 0.8718262910842896,
+  "vocal_share": 0.2156577706336975,
+  "vocal_voiced": 0.869281045751634,
+  "song_length": 292.4
+ }
+}

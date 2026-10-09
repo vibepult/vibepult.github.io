@@ -1,0 +1,32 @@
+{
+ "id": "zyklon/1660171753-104",
+ "band": "zyklon",
+ "title": "Two Thousand Years",
+ "source": "itunes",
+ "album": "Aeon",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 6.682466178538525,
+  "tempo_var": 2.6014352818810833,
+  "low_onset_rate": 9.221803326383165,
+  "lufs": -8.226037051042644,
+  "rms_dbfs": -8.006553488873733,
+  "crest": 8.006552696228027,
+  "centroid": 2590.4495720026025,
+  "flatness": 0.032159753143787384,
+  "sub100_share": 0.29742759466171265,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.7732505798339844,
+  "clean_share": 0.005430566330488751,
+  "minor_share": -0.011836129506781479,
+  "chord_rate": 2.0047398535615577,
+  "repetitiveness": 0.9017531871795654,
+  "vocal_share": 0.1040043830871582,
+  "vocal_voiced": 0.23024638912489379,
+  "song_length": 349.667
+ }
+}

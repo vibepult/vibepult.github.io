@@ -1,0 +1,32 @@
+{
+ "id": "rainbow/1495411517-105",
+ "band": "rainbow",
+ "title": "Vielleicht Das Nächste Mal (Maybe Next Time)",
+ "source": "itunes",
+ "album": "Difficult to Cure",
+ "year": 1981,
+ "itunes_year": 1981,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.866623331468912,
+  "tempo_var": 2.8376079656633513,
+  "low_onset_rate": 2.499962207676377,
+  "lufs": -14.907295933860807,
+  "rms_dbfs": -14.534594704911362,
+  "crest": 14.534329414367676,
+  "centroid": 1649.5415112278602,
+  "flatness": 0.004651087336242199,
+  "sub100_share": 0.1282534897327423,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.8989453911781311,
+  "clean_share": 0.7965970610982211,
+  "minor_share": 0.08385236938597718,
+  "chord_rate": 0.9333192241991807,
+  "repetitiveness": 0.630274772644043,
+  "vocal_share": 1.7353509974782355e-05,
+  "vocal_voiced": 0.0,
+  "song_length": 197.827
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "nile/1479037127-105",
+ "band": "nile",
+ "title": "Eat of the Dead",
+ "source": "itunes",
+ "album": "Ithyphallic",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 1.1360192503515492,
+  "tempo_var": 7.216115902686508,
+  "low_onset_rate": 1.9045028608834795,
+  "lufs": -9.751828614563392,
+  "rms_dbfs": -9.683477878003947,
+  "crest": 9.683477401733398,
+  "centroid": 2495.371010232438,
+  "flatness": 0.01431382168084383,
+  "sub100_share": 0.12605327367782593,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.8559558987617493,
+  "clean_share": 0.5003878975950349,
+  "minor_share": -0.03320681745587384,
+  "chord_rate": 2.338863162488484,
+  "repetitiveness": 0.8030974268913269,
+  "vocal_share": 2.2107765289547388e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 389.133
+ }
+}

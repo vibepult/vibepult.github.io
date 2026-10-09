@@ -1,0 +1,32 @@
+{
+ "id": "artrosis/510043877-103",
+ "band": "artrosis",
+ "title": "Za Wszystko - Nic",
+ "source": "itunes",
+ "album": "Imago",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.57748933229889,
+  "tempo_var": 13.532750928038928,
+  "low_onset_rate": 5.379385273723512,
+  "lufs": -10.547303782623565,
+  "rms_dbfs": -8.981589776638112,
+  "crest": 8.981589317321777,
+  "centroid": 1945.4097164484467,
+  "flatness": 0.012067239731550217,
+  "sub100_share": 0.37574082612991333,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8423128128051758,
+  "clean_share": 0.23972071373157486,
+  "minor_share": 0.17142138250340466,
+  "chord_rate": 0.5680096251757746,
+  "repetitiveness": 0.701016366481781,
+  "vocal_share": 0.03414008021354675,
+  "vocal_voiced": 0.7475728155339806,
+  "song_length": 385.56
+ }
+}

@@ -1,0 +1,126 @@
+{
+ "slug": "stravaganzza",
+ "name": "Stravaganzza",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 251855365,
+  "deezer": 15828,
+  "spotify": "1lVrgymnyAR40c556RIY5i"
+ },
+ "metadata": {
+  "formed": 2003,
+  "split": null,
+  "country": "ES",
+  "status": "on hold",
+  "members": 4,
+  "past_members": 2,
+  "full_lengths": 4,
+  "genre": "Symphonic Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 28788,
+  "themes": "Feelings, Philosophy",
+  "release_year": 2005
+ },
+ "partial": false,
+ "clips": [
+  "stravaganzza/922088256-106",
+  "stravaganzza/922088256-105",
+  "stravaganzza/922088256-107",
+  "stravaganzza/922088256-104",
+  "stravaganzza/922088256-108",
+  "stravaganzza/922088256-103",
+  "stravaganzza/922088256-109",
+  "stravaganzza/922088256-102",
+  "stravaganzza/922088256-110",
+  "stravaganzza/922088256-101",
+  "stravaganzza/922088256-111"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 39.80134662828948
+  },
+  "onset_rate": {
+   "median": 2.3722754933811765,
+   "iqr": 1.3531994011540514
+  },
+  "tempo_var": {
+   "median": 10.659058902950107,
+   "iqr": 12.888683211073797
+  },
+  "low_onset_rate": {
+   "median": 2.338863162488484,
+   "iqr": 3.842418052659652
+  },
+  "lufs": {
+   "median": -9.606552687063168,
+   "iqr": 3.0288609938082693
+  },
+  "rms_dbfs": {
+   "median": -8.57140287794937,
+   "iqr": 2.886910412711077
+  },
+  "crest": {
+   "median": 8.571402549743652,
+   "iqr": 2.8869104385375977
+  },
+  "centroid": {
+   "median": 2451.2223488512122,
+   "iqr": 385.4734465407164
+  },
+  "flatness": {
+   "median": 0.024871524423360825,
+   "iqr": 0.014540401753038168
+  },
+  "sub100_share": {
+   "median": 0.3681509494781494,
+   "iqr": 0.15724802017211914
+  },
+  "lowest_pitch": {
+   "median": 64.599609375,
+   "iqr": 28.2623291015625
+  },
+  "harmonic_share": {
+   "median": 0.8123596906661987,
+   "iqr": 0.05172070860862732
+  },
+  "clean_share": {
+   "median": 0.1373157486423584,
+   "iqr": 0.4534522885958107
+  },
+  "minor_share": {
+   "median": -0.06750688579826075,
+   "iqr": 0.09238587212555058
+  },
+  "chord_rate": {
+   "median": 1.5369672210638607,
+   "iqr": 0.4677726324976965
+  },
+  "repetitiveness": {
+   "median": 0.8563131093978882,
+   "iqr": 0.053813666105270386
+  },
+  "vocal_share": {
+   "median": 0.0839252695441246,
+   "iqr": 0.4592284858226776
+  },
+  "vocal_voiced": {
+   "median": 0.7712895377128953,
+   "iqr": 0.26082690601324143
+  },
+  "song_length": {
+   "median": 380.627,
+   "iqr": 70.06000000000006
+  },
+  "vocal_presence": {
+   "median": 0.2727272727272727,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.5,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

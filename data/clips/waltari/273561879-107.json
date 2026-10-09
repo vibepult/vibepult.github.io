@@ -1,0 +1,32 @@
+{
+ "id": "waltari/273561879-107",
+ "band": "waltari",
+ "title": "Till the Music Nation",
+ "source": "itunes",
+ "album": "Torcha",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.312560611938127,
+  "tempo_var": 11.999765148415644,
+  "low_onset_rate": 5.412797604616205,
+  "lufs": -11.888115574073284,
+  "rms_dbfs": -11.959598302725428,
+  "crest": 11.959598541259766,
+  "centroid": 3026.8655742540523,
+  "flatness": 0.05152095854282379,
+  "sub100_share": 0.2511236071586609,
+  "lowest_pitch": 123.81591796875,
+  "harmonic_share": 0.686245858669281,
+  "clean_share": 0.01474010861132661,
+  "minor_share": 0.11241269975386536,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.82076096534729,
+  "vocal_share": 0.1152442991733551,
+  "vocal_voiced": 0.8532235939643347,
+  "song_length": 223.333
+ }
+}

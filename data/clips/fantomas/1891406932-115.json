@@ -1,0 +1,32 @@
+{
+ "id": "fantomas/1891406932-115",
+ "band": "fantomas",
+ "title": "Twin Peaks: Fire Walk With Me",
+ "source": "itunes",
+ "album": "The Director's Cut",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 66.25600961538461,
+  "onset_rate": 0.6333295036764706,
+  "tempo_var": 15.515013582924745,
+  "low_onset_rate": 0.6999957672213623,
+  "lufs": -19.89715762729563,
+  "rms_dbfs": -18.51894713949615,
+  "crest": 15.12016773223877,
+  "centroid": 1611.5862932292268,
+  "flatness": 0.008308685384690762,
+  "sub100_share": 0.42663073539733887,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.9608796834945679,
+  "clean_share": 0.703016241299304,
+  "minor_share": 0.04302939486794444,
+  "chord_rate": 0.7999951625386997,
+  "repetitiveness": 0.6319355368614197,
+  "vocal_share": 0.00842755101621151,
+  "vocal_voiced": 0.9259259259259259,
+  "song_length": 208.867
+ }
+}

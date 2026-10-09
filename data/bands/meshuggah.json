@@ -1,0 +1,127 @@
+{
+ "slug": "meshuggah",
+ "name": "Meshuggah",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 17304969,
+  "deezer": 2175,
+  "spotify": "3ggwAqZD3lyT2sbovlmfQY"
+ },
+ "metadata": {
+  "formed": 1987,
+  "split": null,
+  "country": "SE",
+  "status": "active",
+  "members": 5,
+  "past_members": 7,
+  "full_lengths": 10,
+  "genre": "Technical Groove/Thrash Metal (early); Djent (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 131428,
+  "themes": "Futurism, Consciousness, Apocalypse, Psychedelia, Paradoxes, Society, Chaos",
+  "release_year": 2001
+ },
+ "partial": false,
+ "clips": [
+  "meshuggah/1776756449-107",
+  "meshuggah/6768807518-105",
+  "meshuggah/1882469450-104",
+  "meshuggah/1776754909-108",
+  "meshuggah/1882049235-105",
+  "meshuggah/1776753677-105",
+  "meshuggah/1776755521-105",
+  "meshuggah/1776761417-107",
+  "meshuggah/1776756449-106",
+  "meshuggah/6768807518-106",
+  "meshuggah/1882469450-105",
+  "meshuggah/1776754909-109"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.32652698863637,
+   "iqr": 25.303693145875513
+  },
+  "onset_rate": {
+   "median": 4.016666666666667,
+   "iqr": 1.2500000000000009
+  },
+  "tempo_var": {
+   "median": 5.863879232812071,
+   "iqr": 14.407965545748379
+  },
+  "low_onset_rate": {
+   "median": 5.866666666666667,
+   "iqr": 1.8083333333333327
+  },
+  "lufs": {
+   "median": -9.56680063987275,
+   "iqr": 1.9557964077845682
+  },
+  "rms_dbfs": {
+   "median": -9.390653518558358,
+   "iqr": 2.153385582863603
+  },
+  "crest": {
+   "median": 9.390653133392334,
+   "iqr": 2.1533865928649902
+  },
+  "centroid": {
+   "median": 2668.0673960165514,
+   "iqr": 289.042234135899
+  },
+  "flatness": {
+   "median": 0.04549305886030197,
+   "iqr": 0.018935486674308777
+  },
+  "sub100_share": {
+   "median": 0.37730905413627625,
+   "iqr": 0.12054025754332542
+  },
+  "lowest_pitch": {
+   "median": 65.9454345703125,
+   "iqr": 34.31854248046875
+  },
+  "harmonic_share": {
+   "median": 0.6902952492237091,
+   "iqr": 0.1371535360813141
+  },
+  "clean_share": {
+   "median": 0.03444272445820433,
+   "iqr": 0.105843653250774
+  },
+  "minor_share": {
+   "median": 0.007217856229544017,
+   "iqr": 0.21134511424556812
+  },
+  "chord_rate": {
+   "median": 2.466666666666667,
+   "iqr": 1.3833333333333333
+  },
+  "repetitiveness": {
+   "median": 0.922953724861145,
+   "iqr": 0.062298715114593506
+  },
+  "vocal_share": {
+   "median": 0.14494680613279343,
+   "iqr": 0.05265011265873909
+  },
+  "vocal_voiced": {
+   "median": 0.13152095113817602,
+   "iqr": 0.1569251645150702
+  },
+  "song_length": {
+   "median": 326.61350000000004,
+   "iqr": 157.12625000000003
+  },
+  "vocal_presence": {
+   "median": 0.5,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.0,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

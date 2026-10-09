@@ -1,0 +1,127 @@
+{
+ "slug": "callisto",
+ "name": "Callisto",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1489994623,
+  "deezer": 127949,
+  "spotify": "4ybKgPHm2IPUSWP8LIxNSK"
+ },
+ "metadata": {
+  "formed": 2001,
+  "split": null,
+  "country": "FI",
+  "status": "active",
+  "members": 7,
+  "past_members": 3,
+  "full_lengths": 4,
+  "genre": "Atmospheric Sludge/Post-Metal (early); Post-Metal/Rock (later)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 1775,
+  "themes": "Christianity, Eschatology",
+  "release_year": 2007
+ },
+ "partial": false,
+ "clips": [
+  "callisto/1166876447-106",
+  "callisto/317306685-105",
+  "callisto/313241977-105",
+  "callisto/1494785482-105",
+  "callisto/1166876447-105",
+  "callisto/317306685-103",
+  "callisto/313241977-106",
+  "callisto/1494785482-106",
+  "callisto/1166876447-107",
+  "callisto/317306685-106",
+  "callisto/313241977-104",
+  "callisto/1494785482-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 103.359375,
+   "iqr": 37.939453125
+  },
+  "onset_rate": {
+   "median": 3.240996096591185,
+   "iqr": 1.6873227100809773
+  },
+  "tempo_var": {
+   "median": 10.768736927490536,
+   "iqr": 11.79723540225165
+  },
+  "low_onset_rate": {
+   "median": 5.396091439169859,
+   "iqr": 2.748164215923968
+  },
+  "lufs": {
+   "median": -10.046431582499254,
+   "iqr": 4.14569149184803
+  },
+  "rms_dbfs": {
+   "median": -8.77756641991689,
+   "iqr": 4.248104169652773
+  },
+  "crest": {
+   "median": 8.77756643295288,
+   "iqr": 4.2481032609939575
+  },
+  "centroid": {
+   "median": 1671.110571993042,
+   "iqr": 792.2112962711533
+  },
+  "flatness": {
+   "median": 0.0072744619101285934,
+   "iqr": 0.009599603072274476
+  },
+  "sub100_share": {
+   "median": 0.3400881439447403,
+   "iqr": 0.1700378879904747
+  },
+  "lowest_pitch": {
+   "median": 65.9454345703125,
+   "iqr": 15.47698974609375
+  },
+  "harmonic_share": {
+   "median": 0.8619805574417114,
+   "iqr": 0.05001020431518555
+  },
+  "clean_share": {
+   "median": 0.6121024049650892,
+   "iqr": 0.6452676493405741
+  },
+  "minor_share": {
+   "median": 0.08166555938275799,
+   "iqr": 0.2206738690507036
+  },
+  "chord_rate": {
+   "median": 0.968957595888086,
+   "iqr": 0.6682466178538525
+  },
+  "repetitiveness": {
+   "median": 0.7238525152206421,
+   "iqr": 0.14657220244407654
+  },
+  "vocal_share": {
+   "median": 0.12186272442340851,
+   "iqr": 0.040153130888938904
+  },
+  "vocal_voiced": {
+   "median": 0.8791893998441154,
+   "iqr": 0.0760784819560294
+  },
+  "song_length": {
+   "median": 374.277,
+   "iqr": 93.05424999999997
+  },
+  "vocal_presence": {
+   "median": 0.25,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.0,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

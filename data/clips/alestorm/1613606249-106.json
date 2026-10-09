@@ -1,0 +1,32 @@
+{
+ "id": "alestorm/1613606249-106",
+ "band": "alestorm",
+ "title": "Magyarország",
+ "source": "itunes",
+ "album": "Seventh Rum of a Seventh Rum",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 1.5333240615325077,
+  "tempo_var": 16.34931584892674,
+  "low_onset_rate": 3.933309549148607,
+  "lufs": -10.872501791887421,
+  "rms_dbfs": -10.091696619483885,
+  "crest": 10.091695785522461,
+  "centroid": 2711.5313786810743,
+  "flatness": 0.041152473539114,
+  "sub100_share": 0.47401347756385803,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.6832244992256165,
+  "clean_share": 0.0038669760247486465,
+  "minor_share": -0.11836453336991976,
+  "chord_rate": 2.199986696981424,
+  "repetitiveness": 0.883999764919281,
+  "vocal_share": 0.023788107559084892,
+  "vocal_voiced": 0.0,
+  "song_length": 238.637
+ }
+}

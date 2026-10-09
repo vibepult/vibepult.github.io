@@ -1,0 +1,32 @@
+{
+ "id": "bloodgood/167250108-107",
+ "band": "bloodgood",
+ "title": "Fear No Evil",
+ "source": "itunes",
+ "album": "All Stand Together",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.6753563981961888,
+  "tempo_var": 23.514369586886684,
+  "low_onset_rate": 5.880570237113902,
+  "lufs": -14.79206446711965,
+  "rms_dbfs": -14.614780392990646,
+  "crest": 14.61478042602539,
+  "centroid": 2575.194091415262,
+  "flatness": 0.032865870743989944,
+  "sub100_share": 0.24939866364002228,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7555738687515259,
+  "clean_share": 0.03646237393328161,
+  "minor_share": 0.2318583573530033,
+  "chord_rate": 1.0357822576734714,
+  "repetitiveness": 0.5987953543663025,
+  "vocal_share": 0.27598923444747925,
+  "vocal_voiced": 0.8814139110604333,
+  "song_length": 228.533
+ }
+}

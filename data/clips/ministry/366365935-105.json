@@ -1,0 +1,32 @@
+{
+ "id": "ministry/366365935-105",
+ "band": "ministry",
+ "title": "Useless",
+ "source": "itunes",
+ "album": "Filth Pig",
+ "year": 1996,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.4332814318755576,
+  "tempo_var": 1.4567526566067492,
+  "low_onset_rate": 5.199921391966864,
+  "lufs": -10.744762507358475,
+  "rms_dbfs": -10.520022334943388,
+  "crest": 10.520021438598633,
+  "centroid": 3173.192724343572,
+  "flatness": 0.05114651098847389,
+  "sub100_share": 0.5208292007446289,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8821005821228027,
+  "clean_share": 0.0007733952049497294,
+  "minor_share": 0.24394446238905,
+  "chord_rate": 1.6666414717842513,
+  "repetitiveness": 0.6899755001068115,
+  "vocal_share": 0.01573878899216652,
+  "vocal_voiced": 0.08695652173913043,
+  "song_length": 355.563
+ }
+}

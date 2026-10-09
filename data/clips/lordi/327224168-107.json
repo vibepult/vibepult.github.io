@@ -1,0 +1,32 @@
+{
+ "id": "lordi/327224168-107",
+ "band": "lordi",
+ "title": "Wake the Snake",
+ "source": "itunes",
+ "album": "The Monsterican Dream",
+ "year": 2004,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 4.243366023371963,
+  "tempo_var": 24.163013089261685,
+  "low_onset_rate": 5.245735950152742,
+  "lufs": -8.647863079982542,
+  "rms_dbfs": -8.317717814986738,
+  "crest": 8.317717552185059,
+  "centroid": 2803.068160699506,
+  "flatness": 0.04015303775668144,
+  "sub100_share": 0.3387964367866516,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7856073379516602,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": -0.12371275606103282,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.7612776756286621,
+  "vocal_share": 0.142196923494339,
+  "vocal_voiced": 0.1572139303482587,
+  "song_length": 226.131
+ }
+}

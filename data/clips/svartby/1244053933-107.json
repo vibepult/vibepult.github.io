@@ -1,0 +1,32 @@
+{
+ "id": "svartby/1244053933-107",
+ "band": "svartby",
+ "title": "Solens Ljus",
+ "source": "itunes",
+ "album": "Riv, Hugg Och Bit",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.897438376903389,
+  "tempo_var": 1.7256597927304418,
+  "low_onset_rate": 3.1650111959579723,
+  "lufs": -11.337230196383935,
+  "rms_dbfs": -10.820371505544998,
+  "crest": 10.820371627807617,
+  "centroid": 1284.1998648243907,
+  "flatness": 0.0035311002284288406,
+  "sub100_share": 0.01467258669435978,
+  "lowest_pitch": 164.190673828125,
+  "harmonic_share": 0.9418070912361145,
+  "clean_share": 0.9218870843000774,
+  "minor_share": 0.2058560607595868,
+  "chord_rate": 1.3992681076866824,
+  "repetitiveness": 0.6763337850570679,
+  "vocal_share": 0.007049404550343752,
+  "vocal_voiced": 0.993103448275862,
+  "song_length": 266.747
+ }
+}

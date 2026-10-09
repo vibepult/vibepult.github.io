@@ -1,0 +1,32 @@
+{
+ "id": "edguy/1460471568-106",
+ "band": "edguy",
+ "title": "Forever",
+ "source": "itunes",
+ "album": "Hellfire Club",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 2.2386261698104057,
+  "tempo_var": 3.287996249547892,
+  "low_onset_rate": 1.9045028608834795,
+  "lufs": -20.972563006620952,
+  "rms_dbfs": -21.075483842229836,
+  "crest": 16.892841339111328,
+  "centroid": 1853.1308346976894,
+  "flatness": 0.011118214577436447,
+  "sub100_share": 0.032506950199604034,
+  "lowest_pitch": 104.974365234375,
+  "harmonic_share": 0.8744838833808899,
+  "clean_share": 0.6718386346004654,
+  "minor_share": -0.06478204822126887,
+  "chord_rate": 0.9689575958880862,
+  "repetitiveness": 0.6427109241485596,
+  "vocal_share": 0.25054749846458435,
+  "vocal_voiced": 0.8817204301075269,
+  "song_length": 340.973
+ }
+}

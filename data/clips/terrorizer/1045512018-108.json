@@ -1,0 +1,32 @@
+{
+ "id": "terrorizer/1045512018-108",
+ "band": "terrorizer",
+ "title": "Nightmare",
+ "source": "itunes",
+ "album": "Darker Days Ahead",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 7.150238811036222,
+  "tempo_var": 17.724056988365955,
+  "low_onset_rate": 10.157348591378558,
+  "lufs": -6.346248473387587,
+  "rms_dbfs": -5.902806219661566,
+  "crest": 5.902806282043457,
+  "centroid": 2359.6404079904105,
+  "flatness": 0.031668052077293396,
+  "sub100_share": 0.28152579069137573,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7243565917015076,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": -0.15389885612315168,
+  "chord_rate": 2.472512486059254,
+  "repetitiveness": 0.964838981628418,
+  "vocal_share": 0.07092563807964325,
+  "vocal_voiced": 0.05844155844155844,
+  "song_length": 222.053
+ }
+}

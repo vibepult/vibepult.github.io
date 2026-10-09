@@ -1,0 +1,32 @@
+{
+ "id": "nocturnus/564098882-103",
+ "band": "nocturnus",
+ "title": "Nocturne in Bm",
+ "source": "itunes",
+ "album": "Thresholds",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.677726324976968,
+  "tempo_var": 3.475762672304879,
+  "low_onset_rate": 5.579859259079669,
+  "lufs": -16.117540822639164,
+  "rms_dbfs": -15.596509286642778,
+  "crest": 13.571930885314941,
+  "centroid": 2321.5193776589977,
+  "flatness": 0.01569567807018757,
+  "sub100_share": 0.17341172695159912,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.8591092228889465,
+  "clean_share": 0.05896043444530644,
+  "minor_share": 0.08346217505158415,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.5889101624488831,
+  "vocal_share": 7.45716824894771e-05,
+  "vocal_voiced": 1.0,
+  "song_length": 171.507
+ }
+}

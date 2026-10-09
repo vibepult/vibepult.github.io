@@ -1,0 +1,32 @@
+{
+ "id": "taake/1438697988-105",
+ "band": "taake",
+ "title": "Motpol",
+ "source": "itunes",
+ "album": "Taake",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 1.5703795519565533,
+  "tempo_var": 12.49622849279771,
+  "low_onset_rate": 3.5417070746254184,
+  "lufs": -8.218982499266021,
+  "rms_dbfs": -10.459879580235679,
+  "crest": 10.459879875183105,
+  "centroid": 3119.39155482018,
+  "flatness": 0.035207830369472504,
+  "sub100_share": 0.13494443893432617,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7352252006530762,
+  "clean_share": 0.0,
+  "minor_share": 0.012504009352812706,
+  "chord_rate": 1.0023699267807789,
+  "repetitiveness": 0.7825449705123901,
+  "vocal_share": 0.12451115250587463,
+  "vocal_voiced": 0.3431034482758621,
+  "song_length": 312.107
+ }
+}

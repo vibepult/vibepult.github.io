@@ -1,0 +1,32 @@
+{
+ "id": "whitechapel/280784515-106",
+ "band": "whitechapel",
+ "title": "Somatically Incorrect",
+ "source": "itunes",
+ "album": "This Is Exile",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.433333333333334,
+  "tempo_var": 15.559181063731906,
+  "low_onset_rate": 6.033333333333333,
+  "lufs": -8.527580009235413,
+  "rms_dbfs": -8.418029248338653,
+  "crest": 8.41802978515625,
+  "centroid": 2497.279563802259,
+  "flatness": 0.03997382894158363,
+  "sub100_share": 0.23496843874454498,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.5792449116706848,
+  "clean_share": 0.0,
+  "minor_share": 0.09026230918070755,
+  "chord_rate": 2.4,
+  "repetitiveness": 0.9298452138900757,
+  "vocal_share": 0.2575167119503021,
+  "vocal_voiced": 0.3377049180327869,
+  "song_length": 190.5
+ }
+}

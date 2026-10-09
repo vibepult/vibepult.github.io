@@ -1,0 +1,32 @@
+{
+ "id": "impellitteri/1605951267-105",
+ "band": "impellitteri",
+ "title": "Bleed In Silence",
+ "source": "itunes",
+ "album": "Eye of the Hurricane",
+ "year": 1997,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.71113865586966,
+  "tempo_var": 1.7506299659511295,
+  "low_onset_rate": 7.050001818358144,
+  "lufs": -8.07530192170774,
+  "rms_dbfs": -8.123668820573425,
+  "crest": 8.123668670654297,
+  "centroid": 2915.514259969809,
+  "flatness": 0.0463259257376194,
+  "sub100_share": 0.23211611807346344,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.7582286596298218,
+  "clean_share": 0.007757951900698216,
+  "minor_share": 0.08525037643609445,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.8474310040473938,
+  "vocal_share": 0.2300812155008316,
+  "vocal_voiced": 0.6545454545454545,
+  "song_length": 251.733
+ }
+}

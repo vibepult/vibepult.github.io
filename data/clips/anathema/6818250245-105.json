@@ -1,0 +1,32 @@
+{
+ "id": "anathema/6818250245-105",
+ "band": "anathema",
+ "title": "Nocturnal Emission (2026 Remaster)",
+ "source": "itunes",
+ "album": "The Silent Enigma",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 1.9666666666666666,
+  "tempo_var": 4.229012707667748,
+  "low_onset_rate": 4.4,
+  "lufs": -10.858948167261934,
+  "rms_dbfs": -10.069557231397066,
+  "crest": 10.069557189941406,
+  "centroid": 1715.7049377161823,
+  "flatness": 0.00699699716642499,
+  "sub100_share": 0.07179239392280579,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.9139789938926697,
+  "clean_share": 0.5750773993808049,
+  "minor_share": 0.14851717739899384,
+  "chord_rate": 1.0,
+  "repetitiveness": 0.7967739105224609,
+  "vocal_share": 1.8605079503686284e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 260.067
+ }
+}

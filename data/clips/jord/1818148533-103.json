@@ -1,0 +1,32 @@
+{
+ "id": "jord/1818148533-103",
+ "band": "jord",
+ "title": "King of the Night",
+ "source": "itunes",
+ "album": "Emellan Träden",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.5,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 6.533333333333333,
+  "lufs": -10.720015129548766,
+  "rms_dbfs": -8.990341356302395,
+  "crest": 8.990341186523438,
+  "centroid": 2366.2933084818824,
+  "flatness": 0.020606640726327896,
+  "sub100_share": 0.5501803755760193,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8744105696678162,
+  "clean_share": 0.043343653250773995,
+  "minor_share": 0.22174417771564237,
+  "chord_rate": 1.1333333333333333,
+  "repetitiveness": 0.7020604014396667,
+  "vocal_share": 4.494916083785938e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 382.436
+ }
+}

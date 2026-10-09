@@ -1,0 +1,32 @@
+{
+ "id": "absu/285959377-104",
+ "band": "absu",
+ "title": "Manannan",
+ "source": "itunes",
+ "album": "Tara",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 6.983177156572759,
+  "tempo_var": 4.8302187235917495,
+  "low_onset_rate": 9.622751297095476,
+  "lufs": -14.788459683936294,
+  "rms_dbfs": -15.388139480575243,
+  "crest": 13.61944580078125,
+  "centroid": 1713.0597819505906,
+  "flatness": 0.002054874785244465,
+  "sub100_share": 0.02924341708421707,
+  "lowest_pitch": 24.224853515625,
+  "harmonic_share": 0.7359327673912048,
+  "clean_share": 0.9976726144297905,
+  "minor_share": -0.2710797095839932,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.9455606937408447,
+  "vocal_share": 0.21398372948169708,
+  "vocal_voiced": 0.2862453531598513,
+  "song_length": 399.093
+ }
+}

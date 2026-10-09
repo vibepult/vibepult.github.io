@@ -1,0 +1,32 @@
+{
+ "id": "aborted/1091143089-107",
+ "band": "aborted",
+ "title": "Divine Impediment",
+ "source": "itunes",
+ "album": "Retrogore",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 8.520144377636619,
+  "tempo_var": 0.0,
+  "low_onset_rate": 9.823225282451633,
+  "lufs": -6.718338572134394,
+  "rms_dbfs": -6.021049823061019,
+  "crest": 6.021050453186035,
+  "centroid": 2575.967230024807,
+  "flatness": 0.03423859924077988,
+  "sub100_share": 0.5250439047813416,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8323243856430054,
+  "clean_share": 0.0,
+  "minor_share": 0.08004034443009778,
+  "chord_rate": 1.871090529990787,
+  "repetitiveness": 0.8472297191619873,
+  "vocal_share": 0.10221787542104721,
+  "vocal_voiced": 0.05274725274725275,
+  "song_length": 258.68
+ }
+}

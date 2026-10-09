@@ -1,0 +1,32 @@
+{
+ "id": "asphodele/1483323433-106",
+ "band": "asphodele",
+ "title": "Refuge",
+ "source": "itunes",
+ "album": "Jours Pâles",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.742181059981574,
+  "tempo_var": 1.5615824035578845,
+  "low_onset_rate": 5.011849633903894,
+  "lufs": -9.579609842771957,
+  "rms_dbfs": -8.508432121608177,
+  "crest": 8.508432388305664,
+  "centroid": 2118.5060797459478,
+  "flatness": 0.020484473556280136,
+  "sub100_share": 0.356128066778183,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7304027676582336,
+  "clean_share": 0.016291698991466253,
+  "minor_share": 0.055304554625245916,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.7367165088653564,
+  "vocal_share": 0.018819721415638924,
+  "vocal_voiced": 0.12030075187969924,
+  "song_length": 283.47
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "body-count/1201912007-104",
+ "band": "body-count",
+ "title": "All Love Is Lost (feat. Max Cavalera)",
+ "source": "itunes",
+ "album": "Bloodlust",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.529830689253519,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.763016320728065,
+  "lufs": -6.380148335509458,
+  "rms_dbfs": -5.7394486029141785,
+  "crest": 5.739448547363281,
+  "centroid": 2495.4664213455562,
+  "flatness": 0.03592732176184654,
+  "sub100_share": 0.33892902731895447,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6700910329818726,
+  "clean_share": 0.007733952049497293,
+  "minor_share": -0.03241962752950189,
+  "chord_rate": 1.4324260219150682,
+  "repetitiveness": 0.8959017992019653,
+  "vocal_share": 0.24783354997634888,
+  "vocal_voiced": 0.6960388035569928,
+  "song_length": 216.813
+ }
+}

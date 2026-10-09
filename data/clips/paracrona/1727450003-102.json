@@ -1,0 +1,32 @@
+{
+ "id": "paracrona/1727450003-102",
+ "band": "paracrona",
+ "title": "Carry The Cross",
+ "source": "itunes",
+ "album": "Sun God",
+ "year": 2023,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.8,
+  "tempo_var": 15.983192894671276,
+  "low_onset_rate": 7.1,
+  "lufs": -11.661247087632793,
+  "rms_dbfs": -10.388145328408235,
+  "crest": 10.388145446777344,
+  "centroid": 2453.6049242849735,
+  "flatness": 0.0277862511575222,
+  "sub100_share": 0.4941693842411041,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7649945020675659,
+  "clean_share": 0.010835913312693499,
+  "minor_share": 0.01627676093992869,
+  "chord_rate": 1.5666666666666667,
+  "repetitiveness": 0.848079264163971,
+  "vocal_share": 0.042058054357767105,
+  "vocal_voiced": 0.0,
+  "song_length": 299.917
+ }
+}

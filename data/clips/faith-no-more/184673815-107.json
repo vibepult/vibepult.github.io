@@ -1,0 +1,32 @@
+{
+ "id": "faith-no-more/184673815-107",
+ "band": "faith-no-more",
+ "title": "Caralho Voador",
+ "source": "itunes",
+ "album": "King for a Day, Fool for a Lifetime",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.599575560251399,
+  "tempo_var": 0.8287340523972112,
+  "low_onset_rate": 3.366269736901771,
+  "lufs": -17.44874517906867,
+  "rms_dbfs": -16.027949072360425,
+  "crest": 16.0279483795166,
+  "centroid": 1357.5012949763086,
+  "flatness": 0.0062121558003127575,
+  "sub100_share": 0.37114208936691284,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.6416330337524414,
+  "clean_share": 0.7780355761794276,
+  "minor_share": 0.08832356952242015,
+  "chord_rate": 1.666470166783055,
+  "repetitiveness": 0.7650948762893677,
+  "vocal_share": 0.21808704733848572,
+  "vocal_voiced": 0.8710990502035278,
+  "song_length": 240.907
+ }
+}

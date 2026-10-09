@@ -1,0 +1,127 @@
+{
+ "slug": "ulcerate",
+ "name": "Ulcerate",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 269626062,
+  "deezer": 150651,
+  "spotify": "3Bv5btxNbwbt79fcjw9DAg"
+ },
+ "metadata": {
+  "formed": 2002,
+  "split": null,
+  "country": "NZ",
+  "status": "active",
+  "members": 3,
+  "past_members": 8,
+  "full_lengths": 7,
+  "genre": "Avant-garde/Technical Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 7340,
+  "themes": "Humanity, Suffering, Destruction",
+  "release_year": 2012
+ },
+ "partial": false,
+ "clips": [
+  "ulcerate/714496782-105",
+  "ulcerate/714742234-104",
+  "ulcerate/1442859087-104",
+  "ulcerate/676794075-105",
+  "ulcerate/1136895199-104",
+  "ulcerate/1501528592-104",
+  "ulcerate/1730490061-104",
+  "ulcerate/714496782-104",
+  "ulcerate/714742234-105",
+  "ulcerate/1442859087-103",
+  "ulcerate/676794075-104",
+  "ulcerate/1136895199-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 18.38353297093532
+  },
+  "onset_rate": {
+   "median": 3.9380147356512905,
+   "iqr": 2.3105236954026886
+  },
+  "tempo_var": {
+   "median": 7.476542433269168,
+   "iqr": 8.64702801194478
+  },
+  "low_onset_rate": {
+   "median": 6.8829401638946806,
+   "iqr": 2.2697233967020143
+  },
+  "lufs": {
+   "median": -8.368337601387434,
+   "iqr": 1.543191229361728
+  },
+  "rms_dbfs": {
+   "median": -7.737645997478088,
+   "iqr": 1.259865674334944
+  },
+  "crest": {
+   "median": 7.737646102905273,
+   "iqr": 1.259865641593933
+  },
+  "centroid": {
+   "median": 2433.5920526781856,
+   "iqr": 279.1527551191298
+  },
+  "flatness": {
+   "median": 0.034804899245500565,
+   "iqr": 0.013690875843167305
+  },
+  "sub100_share": {
+   "median": 0.36327871680259705,
+   "iqr": 0.09769996255636215
+  },
+  "lowest_pitch": {
+   "median": 64.599609375,
+   "iqr": 14.8040771484375
+  },
+  "harmonic_share": {
+   "median": 0.7794276177883148,
+   "iqr": 0.08602449297904968
+  },
+  "clean_share": {
+   "median": 0.0038741759801089234,
+   "iqr": 0.02986811481768813
+  },
+  "minor_share": {
+   "median": 0.0782769292697226,
+   "iqr": 0.10519726149438334
+  },
+  "chord_rate": {
+   "median": 2.1024566780478624,
+   "iqr": 0.8937798513795281
+  },
+  "repetitiveness": {
+   "median": 0.9058286249637604,
+   "iqr": 0.10198958218097687
+  },
+  "vocal_share": {
+   "median": 0.050099100917577744,
+   "iqr": 0.02745210751891136
+  },
+  "vocal_voiced": {
+   "median": 0.2336482558139535,
+   "iqr": 0.13436045159812446
+  },
+  "song_length": {
+   "median": 403.41999999999996,
+   "iqr": 104.952
+  },
+  "vocal_presence": {
+   "median": 0.5,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

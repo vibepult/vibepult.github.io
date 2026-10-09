@@ -1,0 +1,32 @@
+{
+ "id": "beyond-the-black/1825330337-106",
+ "band": "beyond-the-black",
+ "title": "The Flood",
+ "source": "itunes",
+ "album": "Break The Silence",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.499863949691619,
+  "tempo_var": 25.82602231090397,
+  "low_onset_rate": 5.633163018502842,
+  "lufs": -8.677949732787228,
+  "rms_dbfs": -7.760603416927896,
+  "crest": 7.760603904724121,
+  "centroid": 2389.6041678068545,
+  "flatness": 0.024238618090748787,
+  "sub100_share": 0.359423965215683,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7935511469841003,
+  "clean_share": 0.0765661252900232,
+  "minor_share": -0.06762979892812315,
+  "chord_rate": 1.299960696577579,
+  "repetitiveness": 0.8902667164802551,
+  "vocal_share": 0.21340203285217285,
+  "vocal_voiced": 0.8559463986599665,
+  "song_length": 232.545
+ }
+}

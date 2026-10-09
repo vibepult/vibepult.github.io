@@ -1,0 +1,32 @@
+{
+ "id": "hellyeah/1695709207-106",
+ "band": "hellyeah",
+ "title": "Dmf",
+ "source": "itunes",
+ "album": "Blood for Blood",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 2.399985487616099,
+  "tempo_var": 20.035428153426185,
+  "low_onset_rate": 3.0666481230650153,
+  "lufs": -6.971437530618594,
+  "rms_dbfs": -6.271331537478197,
+  "crest": 6.271331310272217,
+  "centroid": 2735.609862627257,
+  "flatness": 0.04091949760913849,
+  "sub100_share": 0.3885558545589447,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7381656765937805,
+  "clean_share": 0.015467904098994586,
+  "minor_share": -0.012446898794102323,
+  "chord_rate": 3.2666469136996903,
+  "repetitiveness": 0.9019255638122559,
+  "vocal_share": 0.11752253770828247,
+  "vocal_voiced": 0.0,
+  "song_length": 229.647
+ }
+}

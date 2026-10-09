@@ -1,0 +1,32 @@
+{
+ "id": "isis/1891405758-104",
+ "band": "isis",
+ "title": "Carry",
+ "source": "itunes",
+ "album": "Oceanic (Remastered)",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 0.03333313177244582,
+  "tempo_var": 4.94917985245277,
+  "low_onset_rate": 0.5999963719040248,
+  "lufs": -17.882075409818793,
+  "rms_dbfs": -17.494813609630665,
+  "crest": 14.082695007324219,
+  "centroid": 1517.6633431944838,
+  "flatness": 0.00201013102196157,
+  "sub100_share": 0.025479987263679504,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.9585723280906677,
+  "clean_share": 0.9976798143851509,
+  "minor_share": -0.14229592048410256,
+  "chord_rate": 0.43333071304179566,
+  "repetitiveness": 0.918931782245636,
+  "vocal_share": 9.395303095516283e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 405.248
+ }
+}

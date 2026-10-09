@@ -1,0 +1,32 @@
+{
+ "id": "carcass/1458640608-108",
+ "band": "carcass",
+ "title": "Unfit for Human Consumption",
+ "source": "itunes",
+ "album": "Surgical Steel",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.2744084274838774,
+  "tempo_var": 26.341282552400322,
+  "low_onset_rate": 6.3817552005042915,
+  "lufs": -10.920361156030772,
+  "rms_dbfs": -10.192772211217227,
+  "crest": 10.192771911621094,
+  "centroid": 2511.640050825679,
+  "flatness": 0.028114911168813705,
+  "sub100_share": 0.3856358826160431,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7180217504501343,
+  "clean_share": 0.037238169123351435,
+  "minor_share": -0.08158545732308914,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.8674237728118896,
+  "vocal_share": 5.277212267174036e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 264.68
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "edge-of-sanity",
+ "name": "Edge of Sanity",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 81241274,
+  "deezer": 1685436,
+  "spotify": "1Mcy1ngqEXUXXEQEpUDGix"
+ },
+ "metadata": {
+  "formed": 1989,
+  "split": 2003,
+  "country": "SE",
+  "status": "split-up",
+  "members": 1,
+  "past_members": 5,
+  "full_lengths": 8,
+  "genre": "Progressive Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 7335,
+  "themes": "Death, Fantasy, Conceptual, Anti-religion, Evil",
+  "release_year": 1995
+ },
+ "partial": false,
+ "clips": [
+  "edge-of-sanity/1739584208-104",
+  "edge-of-sanity/298244085-107",
+  "edge-of-sanity/1739584466-105",
+  "edge-of-sanity/299890067-104",
+  "edge-of-sanity/290526259-106",
+  "edge-of-sanity/299889704-104",
+  "edge-of-sanity/1800527938-106",
+  "edge-of-sanity/1739584208-105",
+  "edge-of-sanity/298244085-108",
+  "edge-of-sanity/1739584466-106",
+  "edge-of-sanity/299890067-105",
+  "edge-of-sanity/290526259-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 139.77693256578948,
+   "iqr": 44.33306525735293
+  },
+  "onset_rate": {
+   "median": 4.069697912465077,
+   "iqr": 2.495269484256066
+  },
+  "tempo_var": {
+   "median": 8.08041156240814,
+   "iqr": 13.634405835227593
+  },
+  "low_onset_rate": {
+   "median": 5.92172997812436,
+   "iqr": 1.4952018074479945
+  },
+  "lufs": {
+   "median": -12.304177560905053,
+   "iqr": 2.35457073134671
+  },
+  "rms_dbfs": {
+   "median": -11.930974380136897,
+   "iqr": 2.4685592275800197
+  },
+  "crest": {
+   "median": 11.93097448348999,
+   "iqr": 2.468559503555298
+  },
+  "centroid": {
+   "median": 2792.4165409271227,
+   "iqr": 525.6891249778973
+  },
+  "flatness": {
+   "median": 0.04347211681306362,
+   "iqr": 0.014235537499189377
+  },
+  "sub100_share": {
+   "median": 0.27552565932273865,
+   "iqr": 0.1334640085697174
+  },
+  "lowest_pitch": {
+   "median": 63.2537841796875,
+   "iqr": 12.1124267578125
+  },
+  "harmonic_share": {
+   "median": 0.7261850535869598,
+   "iqr": 0.1390114575624466
+  },
+  "clean_share": {
+   "median": 0.008514547209807299,
+   "iqr": 0.0684418756603709
+  },
+  "minor_share": {
+   "median": 0.06165404090999438,
+   "iqr": 0.1292034962037501
+  },
+  "chord_rate": {
+   "median": 2.1819512659403943,
+   "iqr": 0.4009479707123116
+  },
+  "repetitiveness": {
+   "median": 0.8965493440628052,
+   "iqr": 0.0743839293718338
+  },
+  "vocal_share": {
+   "median": 0.11092925816774368,
+   "iqr": 0.10403909161686897
+  },
+  "vocal_voiced": {
+   "median": 0.1609561752988048,
+   "iqr": 0.21669467550726654
+  },
+  "song_length": {
+   "median": 244.087,
+   "iqr": 52.139250000000004
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

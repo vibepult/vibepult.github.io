@@ -1,0 +1,32 @@
+{
+ "id": "savatage/300996478-106",
+ "band": "savatage",
+ "title": "Hard for Love",
+ "source": "itunes",
+ "album": "Power of the Night",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.0047398535615577,
+  "tempo_var": 6.207577295539773,
+  "low_onset_rate": 2.1718015080250206,
+  "lufs": -17.317783296182135,
+  "rms_dbfs": -17.611275944691908,
+  "crest": 17.611276626586914,
+  "centroid": 2627.923823529507,
+  "flatness": 0.04182279109954834,
+  "sub100_share": 0.18577192723751068,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.45775866508483887,
+  "clean_share": 0.18153607447633824,
+  "minor_share": -0.227477138454814,
+  "chord_rate": 1.3030809048150125,
+  "repetitiveness": 0.8730661273002625,
+  "vocal_share": 0.188627690076828,
+  "vocal_voiced": 0.59026369168357,
+  "song_length": 239.547
+ }
+}

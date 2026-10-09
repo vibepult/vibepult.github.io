@@ -1,0 +1,127 @@
+{
+ "slug": "archspire",
+ "name": "Archspire",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 429852013,
+  "deezer": 416348,
+  "spotify": "7F9ZL4TJNr8AoU0UUQX8ih"
+ },
+ "metadata": {
+  "formed": 2009,
+  "split": null,
+  "country": "CA",
+  "status": "active",
+  "members": 5,
+  "past_members": 3,
+  "full_lengths": 5,
+  "genre": "Technical Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 18808,
+  "themes": "Science fiction, Alien invasion, Body horror",
+  "release_year": 2019
+ },
+ "partial": false,
+ "clips": [
+  "archspire/855043551-104",
+  "archspire/1244257785-104",
+  "archspire/1574759854-104",
+  "archspire/1855056093-104",
+  "archspire/855043551-105",
+  "archspire/1244257785-103",
+  "archspire/1574759854-105",
+  "archspire/1855056093-105",
+  "archspire/855043551-103",
+  "archspire/1244257785-105",
+  "archspire/1574759854-103",
+  "archspire/1855056093-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 124.1731621853547,
+   "iqr": 49.57697941706731
+  },
+  "onset_rate": {
+   "median": 5.0555682629538214,
+   "iqr": 1.851916599993535
+  },
+  "tempo_var": {
+   "median": 18.729306872482354,
+   "iqr": 16.093175618045777
+  },
+  "low_onset_rate": {
+   "median": 4.504779352341237,
+   "iqr": 3.2938381903699763
+  },
+  "lufs": {
+   "median": -6.720374355013844,
+   "iqr": 1.0287271422236435
+  },
+  "rms_dbfs": {
+   "median": -5.780433019031595,
+   "iqr": 1.5205584425617236
+  },
+  "crest": {
+   "median": 5.780433177947998,
+   "iqr": 1.5205585956573486
+  },
+  "centroid": {
+   "median": 2804.5723008029026,
+   "iqr": 213.90739221044032
+  },
+  "flatness": {
+   "median": 0.047306954860687256,
+   "iqr": 0.010430478490889072
+  },
+  "sub100_share": {
+   "median": 0.4542268216609955,
+   "iqr": 0.11836310476064682
+  },
+  "lowest_pitch": {
+   "median": 47.1038818359375,
+   "iqr": 7.40203857421875
+  },
+  "harmonic_share": {
+   "median": 0.7804132699966431,
+   "iqr": 0.07132895290851593
+  },
+  "clean_share": {
+   "median": 0.010462426773820876,
+   "iqr": 0.01161275605818798
+  },
+  "minor_share": {
+   "median": 0.04326066384587332,
+   "iqr": 0.12688639149372366
+  },
+  "chord_rate": {
+   "median": 1.4666548250719313,
+   "iqr": 0.966005614695459
+  },
+  "repetitiveness": {
+   "median": 0.9237166047096252,
+   "iqr": 0.060177579522132874
+  },
+  "vocal_share": {
+   "median": 0.07456392794847488,
+   "iqr": 0.052423492074012756
+  },
+  "vocal_voiced": {
+   "median": 0.04479166666666667,
+   "iqr": 0.059560008867698855
+  },
+  "song_length": {
+   "median": 261.3935,
+   "iqr": 31.031750000000017
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

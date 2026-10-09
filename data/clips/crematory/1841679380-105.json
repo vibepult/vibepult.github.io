@@ -1,0 +1,32 @@
+{
+ "id": "crematory/1841679380-105",
+ "band": "crematory",
+ "title": "Never Look Back",
+ "source": "itunes",
+ "album": "Infinity",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.733333333333333,
+  "tempo_var": 33.232837826654624,
+  "low_onset_rate": 5.0,
+  "lufs": -17.350514845957512,
+  "rms_dbfs": -16.97893432883147,
+  "crest": 12.816004753112793,
+  "centroid": 2557.398849777541,
+  "flatness": 0.040098924189805984,
+  "sub100_share": 0.24728162586688995,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.6118212342262268,
+  "clean_share": 0.0015479876160990713,
+  "minor_share": -0.04679743611935605,
+  "chord_rate": 2.033333333333333,
+  "repetitiveness": 0.9120645523071289,
+  "vocal_share": 0.23463204503059387,
+  "vocal_voiced": 0.18990120746432493,
+  "song_length": 251.147
+ }
+}

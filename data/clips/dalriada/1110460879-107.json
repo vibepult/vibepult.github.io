@@ -1,0 +1,32 @@
+{
+ "id": "dalriada/1110460879-107",
+ "band": "dalriada",
+ "title": "A Galagonya",
+ "source": "itunes",
+ "album": "Forrás",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.279148281045435,
+  "tempo_var": 4.263256414560601e-14,
+  "low_onset_rate": 5.4462099355088975,
+  "lufs": -10.008659005577544,
+  "rms_dbfs": -8.39437459614891,
+  "crest": 8.39437484741211,
+  "centroid": 1934.7642890851414,
+  "flatness": 0.009966257959604263,
+  "sub100_share": 0.5562342405319214,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8947883248329163,
+  "clean_share": 0.39720713731574864,
+  "minor_share": -0.025114456614603875,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.7845257520675659,
+  "vocal_share": 0.11432881653308868,
+  "vocal_voiced": 0.43491422805247226,
+  "song_length": 243.84
+ }
+}

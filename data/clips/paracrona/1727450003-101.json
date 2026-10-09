@@ -1,0 +1,32 @@
+{
+ "id": "paracrona/1727450003-101",
+ "band": "paracrona",
+ "title": "New Impurity",
+ "source": "itunes",
+ "album": "Sun God",
+ "year": 2023,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.466666666666667,
+  "tempo_var": 4.35924912118943,
+  "low_onset_rate": 5.7,
+  "lufs": -16.436796178716403,
+  "rms_dbfs": -15.037004169897525,
+  "crest": 13.799570083618164,
+  "centroid": 908.3813482826199,
+  "flatness": 0.0004214882501401007,
+  "sub100_share": 0.3257400393486023,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.971400797367096,
+  "clean_share": 1.0,
+  "minor_share": 0.08733348836977717,
+  "chord_rate": 0.6,
+  "repetitiveness": 0.6661355495452881,
+  "vocal_share": 0.08645166456699371,
+  "vocal_voiced": 0.7605790645879733,
+  "song_length": 469.963
+ }
+}

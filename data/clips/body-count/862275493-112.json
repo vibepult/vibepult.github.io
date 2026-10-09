@@ -1,0 +1,32 @@
+{
+ "id": "body-count/862275493-112",
+ "band": "body-count",
+ "title": "There Goes the Neighborhood",
+ "source": "itunes",
+ "album": "Body Count",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.699445870328216,
+  "tempo_var": 12.62728654284194,
+  "low_onset_rate": 5.932633793747676,
+  "lufs": -11.251736735761805,
+  "rms_dbfs": -10.971057578329956,
+  "crest": 10.971057891845703,
+  "centroid": 2571.7858398638027,
+  "flatness": 0.0381295382976532,
+  "sub100_share": 0.33932602405548096,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.6697559356689453,
+  "clean_share": 0.02397525135344161,
+  "minor_share": -0.2123902120334768,
+  "chord_rate": 1.999764200139666,
+  "repetitiveness": 0.8654505014419556,
+  "vocal_share": 0.1393568068742752,
+  "vocal_voiced": 0.8210900473933649,
+  "song_length": 350.24
+ }
+}

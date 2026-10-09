@@ -1,0 +1,32 @@
+{
+ "id": "kreator/1745504838-105",
+ "band": "kreator",
+ "title": "Son of Evil",
+ "source": "itunes",
+ "album": "Endless Pain",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 5.199921391966864,
+  "tempo_var": 6.638939938284916,
+  "low_onset_rate": 5.033257244788439,
+  "lufs": -10.580053754554251,
+  "rms_dbfs": -11.060548292888994,
+  "crest": 11.060547828674316,
+  "centroid": 2715.1763864118548,
+  "flatness": 0.03751100227236748,
+  "sub100_share": 0.15329329669475555,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.6955068111419678,
+  "clean_share": 0.037122969837587005,
+  "minor_share": 0.11482770946353049,
+  "chord_rate": 2.0666354250124717,
+  "repetitiveness": 0.8343724012374878,
+  "vocal_share": 0.023971471935510635,
+  "vocal_voiced": 0.0,
+  "song_length": 256.894
+ }
+}

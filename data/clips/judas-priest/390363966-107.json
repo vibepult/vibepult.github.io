@@ -1,0 +1,32 @@
+{
+ "id": "judas-priest/390363966-107",
+ "band": "judas-priest",
+ "title": "Bloodsuckers",
+ "source": "itunes",
+ "album": "Demolition",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 2.1666339133195267,
+  "tempo_var": 15.847466251355177,
+  "low_onset_rate": 8.966531118199272,
+  "lufs": -15.213904078060084,
+  "rms_dbfs": -12.55057161805708,
+  "crest": 12.550572395324707,
+  "centroid": 1422.6363587806081,
+  "flatness": 0.0023249683436006308,
+  "sub100_share": 0.7004967331886292,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8131569623947144,
+  "clean_share": 0.9110595514307811,
+  "minor_share": 0.219320866537953,
+  "chord_rate": 1.0333177125062358,
+  "repetitiveness": 0.9806907176971436,
+  "vocal_share": 9.615812359697884e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 378.493
+ }
+}

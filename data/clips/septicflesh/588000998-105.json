@@ -1,0 +1,32 @@
+{
+ "id": "septicflesh/588000998-105",
+ "band": "septicflesh",
+ "title": "Oceans of Grey",
+ "source": "itunes",
+ "album": "The Great Mass",
+ "year": 2011,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.610901663191583,
+  "tempo_var": 9.4323606945909,
+  "low_onset_rate": 5.34597294283082,
+  "lufs": -9.135403992357675,
+  "rms_dbfs": -8.74023548299916,
+  "crest": 8.740235328674316,
+  "centroid": 2194.489517532613,
+  "flatness": 0.02008499577641487,
+  "sub100_share": 0.3165593445301056,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.784874439239502,
+  "clean_share": 0.13576415826221877,
+  "minor_share": 0.035245865134847953,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.9107039570808411,
+  "vocal_share": 0.049274273216724396,
+  "vocal_voiced": 0.03523035230352303,
+  "song_length": 311.987
+ }
+}

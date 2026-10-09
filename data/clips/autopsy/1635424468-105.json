@@ -1,0 +1,32 @@
+{
+ "id": "autopsy/1635424468-105",
+ "band": "autopsy",
+ "title": "Flesh Strewn Temple",
+ "source": "itunes",
+ "album": "Morbidity Triumphant",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.641944067303496,
+  "tempo_var": 7.48860290031143,
+  "low_onset_rate": 5.011849633903894,
+  "lufs": -8.995033120538244,
+  "rms_dbfs": -8.916071002717663,
+  "crest": 8.916070938110352,
+  "centroid": 2356.0285404761426,
+  "flatness": 0.026212746277451515,
+  "sub100_share": 0.189049631357193,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.6734548211097717,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.02972916070226317,
+  "chord_rate": 3.040522111235029,
+  "repetitiveness": 0.8320522904396057,
+  "vocal_share": 0.10385813564062119,
+  "vocal_voiced": 0.5678160919540229,
+  "song_length": 238.25
+ }
+}

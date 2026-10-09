@@ -1,0 +1,32 @@
+{
+ "id": "ancient/54263635-106",
+ "band": "ancient",
+ "title": "Apophis",
+ "source": "itunes",
+ "album": "Proxima Centauri",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 7.618011443533918,
+  "tempo_var": 3.9098179717648085,
+  "low_onset_rate": 7.952134752460845,
+  "lufs": -10.577452615079995,
+  "rms_dbfs": -10.440794238594526,
+  "crest": 10.440793991088867,
+  "centroid": 2429.203450108207,
+  "flatness": 0.025622181594371796,
+  "sub100_share": 0.22422343492507935,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.8175398707389832,
+  "clean_share": 0.015515903801396431,
+  "minor_share": 0.11159124839419554,
+  "chord_rate": 2.9068727876642586,
+  "repetitiveness": 0.8905309438705444,
+  "vocal_share": 0.06655643880367279,
+  "vocal_voiced": 0.17624521072796934,
+  "song_length": 177.493
+ }
+}

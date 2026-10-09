@@ -1,0 +1,32 @@
+{
+ "id": "ghost/1440952111-105",
+ "band": "ghost",
+ "title": "He Is",
+ "source": "itunes",
+ "album": "Meliora",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.033272361717888,
+  "tempo_var": 1.6642241192780227,
+  "low_onset_rate": 3.999939532282203,
+  "lufs": -10.173460423136655,
+  "rms_dbfs": -10.291094036081567,
+  "crest": 10.291094779968262,
+  "centroid": 2442.672285242248,
+  "flatness": 0.023228932172060013,
+  "sub100_share": 0.027374468743801117,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.8763477206230164,
+  "clean_share": 0.0765661252900232,
+  "minor_share": -0.0434895830262515,
+  "chord_rate": 0.6666565887137005,
+  "repetitiveness": 0.587944746017456,
+  "vocal_share": 0.3350337743759155,
+  "vocal_voiced": 0.6887755102040817,
+  "song_length": 253.179
+ }
+}

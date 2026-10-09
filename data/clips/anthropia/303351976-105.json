@@ -1,0 +1,32 @@
+{
+ "id": "anthropia/303351976-105",
+ "band": "anthropia",
+ "title": "Take Me Home",
+ "source": "itunes",
+ "album": "The Chain Reaction",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.178911288367357,
+  "tempo_var": 12.737032559977369,
+  "low_onset_rate": 5.178911288367357,
+  "lufs": -8.418923542532244,
+  "rms_dbfs": -8.70769273105137,
+  "crest": 8.707693099975586,
+  "centroid": 2836.6226511173477,
+  "flatness": 0.04325837269425392,
+  "sub100_share": 0.18318244814872742,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.706987202167511,
+  "clean_share": 0.003878975950349108,
+  "minor_share": 0.17820377041827806,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.8535997867584229,
+  "vocal_share": 0.43264514207839966,
+  "vocal_voiced": 0.6586501163692785,
+  "song_length": 324.387
+ }
+}

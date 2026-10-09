@@ -1,0 +1,32 @@
+{
+ "id": "krokus/353667373-106",
+ "band": "krokus",
+ "title": "Too Hot",
+ "source": "itunes",
+ "album": "Hoodoo",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.30782075837657,
+  "tempo_var": 2.7595151267291644,
+  "low_onset_rate": 5.178911288367357,
+  "lufs": -8.534675027956386,
+  "rms_dbfs": -8.255657216999193,
+  "crest": 8.255657196044922,
+  "centroid": 2492.0710973766923,
+  "flatness": 0.031891822814941406,
+  "sub100_share": 0.2745489776134491,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7299167513847351,
+  "clean_share": 0.14584949573312644,
+  "minor_share": -0.10660762408351587,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.93887859582901,
+  "vocal_share": 0.15063735842704773,
+  "vocal_voiced": 0.7940761636107193,
+  "song_length": 225.448
+ }
+}

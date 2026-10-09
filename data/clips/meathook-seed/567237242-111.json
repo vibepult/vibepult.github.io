@@ -1,0 +1,32 @@
+{
+ "id": "meathook-seed/567237242-111",
+ "band": "meathook-seed",
+ "title": "Sea of Tranquility",
+ "source": "itunes",
+ "album": "Embedded",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.811375648547738,
+  "tempo_var": 23.007420037215695,
+  "low_onset_rate": 5.21232361926005,
+  "lufs": -18.478685400516525,
+  "rms_dbfs": -15.678823222242766,
+  "crest": 13.264110565185547,
+  "centroid": 1729.0176135950676,
+  "flatness": 0.00771360145881772,
+  "sub100_share": 0.8009395599365234,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.9360218644142151,
+  "clean_share": 0.6400310318076028,
+  "minor_share": 0.08932889237221608,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.9551136493682861,
+  "vocal_share": 0.0006987907690927386,
+  "vocal_voiced": 0.9508196721311475,
+  "song_length": 823.333
+ }
+}

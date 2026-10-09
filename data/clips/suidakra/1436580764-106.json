@@ -1,0 +1,32 @@
+{
+ "id": "suidakra/1436580764-106",
+ "band": "suidakra",
+ "title": "At Nine Light Night",
+ "source": "itunes",
+ "album": "Cimbric Yarns",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 2.1718015080250206,
+  "tempo_var": 7.186962847858623,
+  "low_onset_rate": 1.0357822576734714,
+  "lufs": -10.600712461838606,
+  "rms_dbfs": -9.411310136704374,
+  "crest": 9.411310195922852,
+  "centroid": 1355.599540486338,
+  "flatness": 0.008965890854597092,
+  "sub100_share": 0.432841956615448,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.9282712340354919,
+  "clean_share": 0.7982932505818464,
+  "minor_share": 0.07575804505732298,
+  "chord_rate": 1.0023699267807789,
+  "repetitiveness": 0.6218568682670593,
+  "vocal_share": 0.05805489420890808,
+  "vocal_voiced": 0.9623430962343096,
+  "song_length": 320.253
+ }
+}

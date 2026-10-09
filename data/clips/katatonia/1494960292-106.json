@@ -1,0 +1,32 @@
+{
+ "id": "katatonia/1494960292-106",
+ "band": "katatonia",
+ "title": "Vanishers",
+ "source": "itunes",
+ "album": "City Burials",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 2.205213838917713,
+  "tempo_var": 13.856572947205025,
+  "low_onset_rate": 4.377015346942734,
+  "lufs": -16.194521681085522,
+  "rms_dbfs": -15.455177906121184,
+  "crest": 15.353057861328125,
+  "centroid": 1572.9321710400402,
+  "flatness": 0.009576763026416302,
+  "sub100_share": 0.1708204299211502,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.886767566204071,
+  "clean_share": 0.7331264546159814,
+  "minor_share": 0.028549952490288577,
+  "chord_rate": 0.7684836105319304,
+  "repetitiveness": 0.661842405796051,
+  "vocal_share": 0.4631202220916748,
+  "vocal_voiced": 0.8195232690124858,
+  "song_length": 296.093
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "vader/60372482-106",
+ "band": "vader",
+ "title": "Torch of War",
+ "source": "itunes",
+ "album": "Revelations",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 7.283888134606992,
+  "tempo_var": 2.1023244118525892,
+  "low_onset_rate": 8.286258061387771,
+  "lufs": -6.699719135688255,
+  "rms_dbfs": -6.118615679993259,
+  "crest": 6.11861515045166,
+  "centroid": 2638.2014027687974,
+  "flatness": 0.043973539024591446,
+  "sub100_share": 0.31389784812927246,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7332438826560974,
+  "clean_share": 0.0,
+  "minor_share": 0.15648412357480562,
+  "chord_rate": 2.572749478737332,
+  "repetitiveness": 0.8471301198005676,
+  "vocal_share": 0.11103414744138718,
+  "vocal_voiced": 0.4041331802525832,
+  "song_length": 165.907
+ }
+}

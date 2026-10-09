@@ -1,0 +1,32 @@
+{
+ "id": "queensryche/306557954-106",
+ "band": "queensryche",
+ "title": "The Killer",
+ "source": "itunes",
+ "album": "American Soldier",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.412797604616205,
+  "tempo_var": 12.25307328134079,
+  "low_onset_rate": 3.7087687290888813,
+  "lufs": -10.427920861724981,
+  "rms_dbfs": -10.521755476412881,
+  "crest": 10.52175521850586,
+  "centroid": 2463.6240763938044,
+  "flatness": 0.031146172434091568,
+  "sub100_share": 0.13672341406345367,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.6533113121986389,
+  "clean_share": 0.048875096974398756,
+  "minor_share": 0.17050048894530434,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.8084755539894104,
+  "vocal_share": 0.30573415756225586,
+  "vocal_voiced": 0.6837455830388692,
+  "song_length": 326.4
+ }
+}

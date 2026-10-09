@@ -1,0 +1,32 @@
+{
+ "id": "girlschool/1436248100-106",
+ "band": "girlschool",
+ "title": "Breakdown",
+ "source": "itunes",
+ "album": "Demolition",
+ "year": 1980,
+ "itunes_year": 1980,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 4.566666666666666,
+  "tempo_var": 26.163105376237386,
+  "low_onset_rate": 4.633333333333334,
+  "lufs": -10.241320057954674,
+  "rms_dbfs": -10.368447247785774,
+  "crest": 10.368447303771973,
+  "centroid": 2886.138475570043,
+  "flatness": 0.04855868220329285,
+  "sub100_share": 0.18235157430171967,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7299739718437195,
+  "clean_share": 0.0015479876160990713,
+  "minor_share": -0.06523916609256786,
+  "chord_rate": 1.8333333333333333,
+  "repetitiveness": 0.8284778594970703,
+  "vocal_share": 0.16295939683914185,
+  "vocal_voiced": 0.8256784968684759,
+  "song_length": 185.787
+ }
+}

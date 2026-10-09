@@ -1,0 +1,32 @@
+{
+ "id": "dr-sin/1549458076-107",
+ "band": "dr-sin",
+ "title": "Run For Your Life",
+ "source": "itunes",
+ "album": "Back Home Again",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 1.871090529990787,
+  "tempo_var": 13.570647139307633,
+  "low_onset_rate": 5.412797604616205,
+  "lufs": -10.295852494494792,
+  "rms_dbfs": -11.12220452246548,
+  "crest": 11.122203826904297,
+  "centroid": 2232.6497059100457,
+  "flatness": 0.018681442365050316,
+  "sub100_share": 0.1986352503299713,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7248507738113403,
+  "clean_share": 0.21722265321955003,
+  "minor_share": -0.05761364599376062,
+  "chord_rate": 2.2386261698104057,
+  "repetitiveness": 0.902411699295044,
+  "vocal_share": 0.08507614582777023,
+  "vocal_voiced": 0.7315914489311164,
+  "song_length": 255.267
+ }
+}

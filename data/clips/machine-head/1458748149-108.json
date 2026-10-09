@@ -1,0 +1,32 @@
+{
+ "id": "machine-head/1458748149-108",
+ "band": "machine-head",
+ "title": "Hope Begets Hope",
+ "source": "itunes",
+ "album": "Catharsis",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 78.30255681818181,
+  "onset_rate": 2.766649937113003,
+  "tempo_var": 29.939424063186237,
+  "low_onset_rate": 3.66664449496904,
+  "lufs": -10.530690893291384,
+  "rms_dbfs": -9.413878435034066,
+  "crest": 9.41387939453125,
+  "centroid": 2736.7779814015767,
+  "flatness": 0.037700191140174866,
+  "sub100_share": 0.5433756113052368,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7110345959663391,
+  "clean_share": 0.03944315545243619,
+  "minor_share": 0.14580513296304728,
+  "chord_rate": 2.1666535652089784,
+  "repetitiveness": 0.9656193852424622,
+  "vocal_share": 3.2898049084906233e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 270.411
+ }
+}

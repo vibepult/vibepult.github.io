@@ -1,0 +1,32 @@
+{
+ "id": "tersivel/1599516223-104",
+ "band": "tersivel",
+ "title": "The Ferryman",
+ "source": "itunes",
+ "album": "To the Orphic Void",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.811375648547738,
+  "tempo_var": 14.464465293028148,
+  "low_onset_rate": 5.646683920865054,
+  "lufs": -8.748611116650054,
+  "rms_dbfs": -7.559800478728382,
+  "crest": 7.559800148010254,
+  "centroid": 2404.390565939121,
+  "flatness": 0.02171311154961586,
+  "sub100_share": 0.3537226915359497,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.8329861760139465,
+  "clean_share": 0.04422032583397983,
+  "minor_share": 0.28745751347019377,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.7132167816162109,
+  "vocal_share": 0.0951557606458664,
+  "vocal_voiced": 0.7531806615776081,
+  "song_length": 299.541
+ }
+}

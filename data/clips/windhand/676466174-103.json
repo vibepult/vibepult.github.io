@@ -1,0 +1,32 @@
+{
+ "id": "windhand/676466174-103",
+ "band": "windhand",
+ "title": "Feral Bones",
+ "source": "itunes",
+ "album": "Soma",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.866623331468912,
+  "tempo_var": 3.4694860363633593,
+  "low_onset_rate": 6.83323003431543,
+  "lufs": -8.109155388660453,
+  "rms_dbfs": -6.899699563099517,
+  "crest": 6.899699687957764,
+  "centroid": 1820.4196861935272,
+  "flatness": 0.010421072132885456,
+  "sub100_share": 0.30427947640419006,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.849019467830658,
+  "clean_share": 0.1840680587780356,
+  "minor_share": -0.055262534884898296,
+  "chord_rate": 1.7333071306556214,
+  "repetitiveness": 0.7263559699058533,
+  "vocal_share": 0.03722963109612465,
+  "vocal_voiced": 0.9174193548387096,
+  "song_length": 479.52
+ }
+}

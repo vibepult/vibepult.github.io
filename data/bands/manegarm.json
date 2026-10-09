@@ -1,0 +1,127 @@
+{
+ "slug": "manegarm",
+ "name": "Månegarm",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 217710731,
+  "deezer": 101440,
+  "spotify": "6jQgWQKirZ7IKDGN8fRtdA"
+ },
+ "metadata": {
+  "formed": 1995,
+  "split": null,
+  "country": "SE",
+  "status": "active",
+  "members": 3,
+  "past_members": 8,
+  "full_lengths": 11,
+  "genre": "Viking/Black/Folk Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 13050,
+  "themes": "Heritage, Paganism, Viking history",
+  "release_year": 2008
+ },
+ "partial": false,
+ "clips": [
+  "manegarm/975174535-106",
+  "manegarm/988469482-107",
+  "manegarm/1003248277-107",
+  "manegarm/1024100110-106",
+  "manegarm/274350791-106",
+  "manegarm/1134545188-106",
+  "manegarm/1183597805-107",
+  "manegarm/1183993101-106",
+  "manegarm/1451637858-105",
+  "manegarm/1603707834-105",
+  "manegarm/1810723372-106",
+  "manegarm/975174535-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 130.50426136363637,
+   "iqr": 50.32215947690217
+  },
+  "onset_rate": {
+   "median": 3.7046608560021985,
+   "iqr": 3.362503248841693
+  },
+  "tempo_var": {
+   "median": 10.68677334653659,
+   "iqr": 7.474099134811171
+  },
+  "low_onset_rate": {
+   "median": 5.790127123438232,
+   "iqr": 3.568845299701417
+  },
+  "lufs": {
+   "median": -9.567234986180512,
+   "iqr": 2.780227888226289
+  },
+  "rms_dbfs": {
+   "median": -8.974907230953297,
+   "iqr": 2.2680273927155152
+  },
+  "crest": {
+   "median": 8.974907398223877,
+   "iqr": 2.268026113510132
+  },
+  "centroid": {
+   "median": 2554.6214751431025,
+   "iqr": 307.43143476124396
+  },
+  "flatness": {
+   "median": 0.03482373431324959,
+   "iqr": 0.0175409356597811
+  },
+  "sub100_share": {
+   "median": 0.334028422832489,
+   "iqr": 0.15232416987419128
+  },
+  "lowest_pitch": {
+   "median": 59.21630859375,
+   "iqr": 16.82281494140625
+  },
+  "harmonic_share": {
+   "median": 0.7920269072055817,
+   "iqr": 0.0969989150762558
+  },
+  "clean_share": {
+   "median": 0.0027104831950041913,
+   "iqr": 0.05763054269063532
+  },
+  "minor_share": {
+   "median": -0.0034554055560760827,
+   "iqr": 0.10234442764871059
+  },
+  "chord_rate": {
+   "median": 1.81666112374226,
+   "iqr": 0.6846270448469542
+  },
+  "repetitiveness": {
+   "median": 0.874879002571106,
+   "iqr": 0.05747905373573303
+  },
+  "vocal_share": {
+   "median": 0.12420688569545746,
+   "iqr": 0.10980347823351622
+  },
+  "vocal_voiced": {
+   "median": 0.45613380466090603,
+   "iqr": 0.21492355101187877
+  },
+  "song_length": {
+   "median": 264.32,
+   "iqr": 155.04825
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

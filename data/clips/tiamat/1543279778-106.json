@@ -1,0 +1,32 @@
+{
+ "id": "tiamat/1543279778-106",
+ "band": "tiamat",
+ "title": "Nocturnal Funeral",
+ "source": "itunes",
+ "album": "Sumerian Cry",
+ "year": 1990,
+ "itunes_year": 1990,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.945024972118508,
+  "tempo_var": 18.050706940714573,
+  "low_onset_rate": 6.548816854967755,
+  "lufs": -11.312899778105997,
+  "rms_dbfs": -10.970287749725287,
+  "crest": 10.970287322998047,
+  "centroid": 2709.749397261872,
+  "flatness": 0.03351975604891777,
+  "sub100_share": 0.2373318374156952,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.7712566256523132,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": -0.026304543792648294,
+  "chord_rate": 2.0047398535615577,
+  "repetitiveness": 0.8837527632713318,
+  "vocal_share": 0.04487686976790428,
+  "vocal_voiced": 0.053019145802650956,
+  "song_length": 246.027
+ }
+}

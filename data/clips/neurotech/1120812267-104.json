@@ -1,0 +1,32 @@
+{
+ "id": "neurotech/1120812267-104",
+ "band": "neurotech",
+ "title": "The Lost Hope",
+ "source": "itunes",
+ "album": "In Remission",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.71113865586966,
+  "tempo_var": 17.037157339844594,
+  "low_onset_rate": 6.983177156572759,
+  "lufs": -9.188101870477709,
+  "rms_dbfs": -6.9032589059341545,
+  "crest": 6.903258323669434,
+  "centroid": 1283.1065674612546,
+  "flatness": 0.003523104125633836,
+  "sub100_share": 0.5639728307723999,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7790154814720154,
+  "clean_share": 0.7688130333591932,
+  "minor_share": -0.024021889567643284,
+  "chord_rate": 0.6682466178538525,
+  "repetitiveness": 0.9745028018951416,
+  "vocal_share": 0.021743183955550194,
+  "vocal_voiced": 0.9952153110047847,
+  "song_length": 438.0
+ }
+}

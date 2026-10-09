@@ -1,0 +1,127 @@
+{
+ "slug": "avalanch",
+ "name": "Avalanch",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 65457331,
+  "deezer": 5684,
+  "spotify": "2ZUIJQdnxHYN1pssKbtwh5"
+ },
+ "metadata": {
+  "formed": 1989,
+  "split": null,
+  "country": "ES",
+  "status": "active",
+  "members": 5,
+  "past_members": 25,
+  "full_lengths": 16,
+  "genre": "Heavy/Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 59454,
+  "themes": "Epic, Legends, Religion (early); Personal issues, Tales, Philosophy (later)",
+  "release_year": 2006
+ },
+ "partial": false,
+ "clips": [
+  "avalanch/1003372636-108",
+  "avalanch/555205511-107",
+  "avalanch/554133064-108",
+  "avalanch/65457550-107",
+  "avalanch/655835016-105",
+  "avalanch/119520264-106",
+  "avalanch/269079943-106",
+  "avalanch/382250149-106",
+  "avalanch/595216136-106",
+  "avalanch/1477507330-105",
+  "avalanch/1477507524-105",
+  "avalanch/1679833883-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 22.687882133152172
+  },
+  "onset_rate": {
+   "median": 4.2600721888183095,
+   "iqr": 1.762500454589536
+  },
+  "tempo_var": {
+   "median": 7.987361008429465,
+   "iqr": 14.272839385254821
+  },
+  "low_onset_rate": {
+   "median": 5.078674295689279,
+   "iqr": 1.8126189509285755
+  },
+  "lufs": {
+   "median": -10.073597746260736,
+   "iqr": 1.5712071824134117
+  },
+  "rms_dbfs": {
+   "median": -9.40271419622282,
+   "iqr": 1.4307268951728407
+  },
+  "crest": {
+   "median": 9.402713775634766,
+   "iqr": 1.430727481842041
+  },
+  "centroid": {
+   "median": 2454.056217397312,
+   "iqr": 290.0477598700186
+  },
+  "flatness": {
+   "median": 0.02810936514288187,
+   "iqr": 0.016430377960205078
+  },
+  "sub100_share": {
+   "median": 0.2976273447275162,
+   "iqr": 0.1741786003112793
+  },
+  "lowest_pitch": {
+   "median": 72.674560546875,
+   "iqr": 30.28106689453125
+  },
+  "harmonic_share": {
+   "median": 0.7417331635951996,
+   "iqr": 0.059536710381507874
+  },
+  "clean_share": {
+   "median": 0.10850234299754771,
+   "iqr": 0.16892940263770365
+  },
+  "minor_share": {
+   "median": 0.10447041429438156,
+   "iqr": 0.24469264349053454
+  },
+  "chord_rate": {
+   "median": 1.4033178974930904,
+   "iqr": 0.33412330892692643
+  },
+  "repetitiveness": {
+   "median": 0.8290417194366455,
+   "iqr": 0.08110818266868591
+  },
+  "vocal_share": {
+   "median": 0.2571178302168846,
+   "iqr": 0.10533342510461807
+  },
+  "vocal_voiced": {
+   "median": 0.7935341474445952,
+   "iqr": 0.08179657913576621
+  },
+  "song_length": {
+   "median": 273.346,
+   "iqr": 80.01999999999998
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

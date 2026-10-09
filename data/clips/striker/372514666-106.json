@@ -1,0 +1,32 @@
+{
+ "id": "striker/372514666-106",
+ "band": "striker",
+ "title": "The Voice of Rock",
+ "source": "itunes",
+ "album": "Eyes In the Night",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 5.34597294283082,
+  "tempo_var": 6.470610505238475,
+  "low_onset_rate": 6.3817552005042915,
+  "lufs": -7.96491276752939,
+  "rms_dbfs": -7.195485857374812,
+  "crest": 7.195486068725586,
+  "centroid": 2456.4209636233277,
+  "flatness": 0.02438267134130001,
+  "sub100_share": 0.41023945808410645,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8129061460494995,
+  "clean_share": 0.10395655546935609,
+  "minor_share": 0.2213101505709435,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.7934468984603882,
+  "vocal_share": 0.18268871307373047,
+  "vocal_voiced": 0.7997448979591837,
+  "song_length": 248.976
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "dirty-rotten-imbeciles/348437536-109",
+ "band": "dirty-rotten-imbeciles",
+ "title": "Redline",
+ "source": "itunes",
+ "album": "Crossover (Millennium Edition)",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.809005721766959,
+  "tempo_var": 8.708834190484348,
+  "low_onset_rate": 5.646683920865054,
+  "lufs": -7.370820189794387,
+  "rms_dbfs": -7.52725829982325,
+  "crest": 7.527258396148682,
+  "centroid": 3045.2368898498867,
+  "flatness": 0.05176249518990517,
+  "sub100_share": 0.21298664808273315,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7720920443534851,
+  "clean_share": 0.007757951900698216,
+  "minor_share": 0.15126270269444253,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.8166936039924622,
+  "vocal_share": 7.355057505264995e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 185.479
+ }
+}

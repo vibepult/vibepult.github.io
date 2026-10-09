@@ -1,0 +1,127 @@
+{
+ "slug": "kalmah",
+ "name": "Kalmah",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 255252667,
+  "deezer": 13110,
+  "spotify": "2YPVtFn6SsYNntkmrdDpGF"
+ },
+ "metadata": {
+  "formed": 1998,
+  "split": null,
+  "country": "FI",
+  "status": "active",
+  "members": 5,
+  "past_members": 5,
+  "full_lengths": 9,
+  "genre": "Melodic Death/Power Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 25878,
+  "themes": "Politics, Personal struggles, Swamps, History, Hunting, Fishing",
+  "release_year": 2004
+ },
+ "partial": false,
+ "clips": [
+  "kalmah/1669886572-105",
+  "kalmah/1669889880-105",
+  "kalmah/1669975933-105",
+  "kalmah/1669976740-106",
+  "kalmah/1670682133-105",
+  "kalmah/705459000-105",
+  "kalmah/1669880626-105",
+  "kalmah/1785260201-105",
+  "kalmah/1669886572-104",
+  "kalmah/1669889880-104",
+  "kalmah/1669975933-104",
+  "kalmah/1669976740-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 107.666015625,
+   "iqr": 29.81520432692308
+  },
+  "onset_rate": {
+   "median": 5.32298647141541,
+   "iqr": 0.9548592590796678
+  },
+  "tempo_var": {
+   "median": 11.677565136502437,
+   "iqr": 11.380920755398524
+  },
+  "low_onset_rate": {
+   "median": 6.75,
+   "iqr": 1.6111951765019636
+  },
+  "lufs": {
+   "median": -7.855254448814272,
+   "iqr": 1.3534678888812497
+  },
+  "rms_dbfs": {
+   "median": -7.806226248650299,
+   "iqr": 1.089226249638294
+  },
+  "crest": {
+   "median": 7.8062262535095215,
+   "iqr": 1.0892261266708374
+  },
+  "centroid": {
+   "median": 2756.8654024575235,
+   "iqr": 276.5729094120288
+  },
+  "flatness": {
+   "median": 0.0444394052028656,
+   "iqr": 0.016609004698693752
+  },
+  "sub100_share": {
+   "median": 0.3015168160200119,
+   "iqr": 0.06686796247959137
+  },
+  "lowest_pitch": {
+   "median": 57.8704833984375,
+   "iqr": 29.608154296875
+  },
+  "harmonic_share": {
+   "median": 0.7559778094291687,
+   "iqr": 0.060583025217056274
+  },
+  "clean_share": {
+   "median": 0.013952604438124929,
+   "iqr": 0.03604745560794241
+  },
+  "minor_share": {
+   "median": 0.024131593519548578,
+   "iqr": 0.3102555598270177
+  },
+  "chord_rate": {
+   "median": 1.635387269876675,
+   "iqr": 0.7159161898527533
+  },
+  "repetitiveness": {
+   "median": 0.9120536148548126,
+   "iqr": 0.06735944747924805
+  },
+  "vocal_share": {
+   "median": 0.04526362195611,
+   "iqr": 0.016413375735282898
+  },
+  "vocal_voiced": {
+   "median": 0.11333333333333333,
+   "iqr": 0.11616432401101288
+  },
+  "song_length": {
+   "median": 282.553,
+   "iqr": 30.49074999999999
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "motorhead",
+ "name": "Motörhead",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 539605,
+  "deezer": 2996,
+  "spotify": "1DFr97A9HnbV3SKTJFu62M"
+ },
+ "metadata": {
+  "formed": 1975,
+  "split": 2015,
+  "country": "GB",
+  "status": "split-up",
+  "members": 3,
+  "past_members": 7,
+  "full_lengths": 23,
+  "genre": "Speed Metal, Heavy Metal/Hard Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 1119166,
+  "themes": "Rock 'n' Roll, Drugs, War, Life, Death, Sex, Humour, Addiction",
+  "release_year": 1997
+ },
+ "partial": false,
+ "clips": [
+  "motorhead/696585642-105",
+  "motorhead/192751993-105",
+  "motorhead/192926748-106",
+  "motorhead/213360833-106",
+  "motorhead/1444121236-106",
+  "motorhead/1444135145-106",
+  "motorhead/1444125443-106",
+  "motorhead/1444132114-105",
+  "motorhead/1444140555-105",
+  "motorhead/1444138350-106",
+  "motorhead/1436632997-106",
+  "motorhead/1444149640-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 99.38401442307692,
+   "iqr": 17.45815934806035
+  },
+  "onset_rate": {
+   "median": 4.649929706278061,
+   "iqr": 1.4756058917497912
+  },
+  "tempo_var": {
+   "median": 9.04868873019117,
+   "iqr": 8.82513093233973
+  },
+  "low_onset_rate": {
+   "median": 6.197970216455497,
+   "iqr": 1.4583112878112194
+  },
+  "lufs": {
+   "median": -11.201091484848073,
+   "iqr": 2.2540200711175267
+  },
+  "rms_dbfs": {
+   "median": -10.92245900857251,
+   "iqr": 1.9733405793086334
+  },
+  "crest": {
+   "median": 10.922459125518799,
+   "iqr": 1.9733397960662842
+  },
+  "centroid": {
+   "median": 2617.254160769621,
+   "iqr": 387.7885694287588
+  },
+  "flatness": {
+   "median": 0.03909621760249138,
+   "iqr": 0.02188516966998577
+  },
+  "sub100_share": {
+   "median": 0.11328693851828575,
+   "iqr": 0.13401376642286777
+  },
+  "lowest_pitch": {
+   "median": 69.98291015625,
+   "iqr": 36.3372802734375
+  },
+  "harmonic_share": {
+   "median": 0.6888589560985565,
+   "iqr": 0.13347984850406647
+  },
+  "clean_share": {
+   "median": 0.0030935808197989174,
+   "iqr": 0.07656612529002321
+  },
+  "minor_share": {
+   "median": -0.02375759944169764,
+   "iqr": 0.2111700216872699
+  },
+  "chord_rate": {
+   "median": 1.1329660625591143,
+   "iqr": 0.5510252046299018
+  },
+  "repetitiveness": {
+   "median": 0.8541536927223206,
+   "iqr": 0.09678980708122253
+  },
+  "vocal_share": {
+   "median": 0.18087540566921234,
+   "iqr": 0.10677605867385864
+  },
+  "vocal_voiced": {
+   "median": 0.5663855459250483,
+   "iqr": 0.509499620261869
+  },
+  "song_length": {
+   "median": 249.84699999999998,
+   "iqr": 53.25674999999998
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.5,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

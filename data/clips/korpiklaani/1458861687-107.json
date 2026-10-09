@@ -1,0 +1,32 @@
+{
+ "id": "korpiklaani/1458861687-107",
+ "band": "korpiklaani",
+ "title": "Kallon malja",
+ "source": "itunes",
+ "album": "Kulkija",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 1.1026069194588566,
+  "tempo_var": 19.35072275502563,
+  "low_onset_rate": 1.5703795519565533,
+  "lufs": -10.649507540206715,
+  "rms_dbfs": -9.61730447177008,
+  "crest": 9.617304801940918,
+  "centroid": 2126.4755119177626,
+  "flatness": 0.013893038965761662,
+  "sub100_share": 0.3235357701778412,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.8800632953643799,
+  "clean_share": 0.43366951124903025,
+  "minor_share": 0.03803298693150359,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.5100005269050598,
+  "vocal_share": 5.682760502168094e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 586.003
+ }
+}

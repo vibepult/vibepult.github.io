@@ -1,0 +1,127 @@
+{
+ "slug": "dagoba",
+ "name": "Dagoba",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 137021299,
+  "deezer": 11058,
+  "spotify": "1iZlQG09PwkMVMumsvgFj4"
+ },
+ "metadata": {
+  "formed": 1997,
+  "split": null,
+  "country": "FR",
+  "status": "active",
+  "members": 4,
+  "past_members": 7,
+  "full_lengths": 9,
+  "genre": "Groove/Industrial Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 44461,
+  "themes": "Life, Death, Psychology, Atheism",
+  "release_year": 2010
+ },
+ "partial": false,
+ "clips": [
+  "dagoba/1567252611-108",
+  "dagoba/583584426-106",
+  "dagoba/582707931-107",
+  "dagoba/704727577-105",
+  "dagoba/1648505444-106",
+  "dagoba/1590527101-105",
+  "dagoba/1891482222-106",
+  "dagoba/1567252611-109",
+  "dagoba/583584426-105",
+  "dagoba/582707931-105",
+  "dagoba/704727577-107",
+  "dagoba/1648505444-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.45703125,
+   "iqr": 65.7958984375
+  },
+  "onset_rate": {
+   "median": 5.5999123231346,
+   "iqr": 2.1304670459817867
+  },
+  "tempo_var": {
+   "median": 12.911653649923927,
+   "iqr": 10.47373012530101
+  },
+  "low_onset_rate": {
+   "median": 5.806197812526196,
+   "iqr": 3.7358415058429904
+  },
+  "lufs": {
+   "median": -7.723250617076007,
+   "iqr": 1.7949527402026568
+  },
+  "rms_dbfs": {
+   "median": -7.40917348287944,
+   "iqr": 1.4574363388201768
+  },
+  "crest": {
+   "median": 7.409173488616943,
+   "iqr": 1.4574360847473145
+  },
+  "centroid": {
+   "median": 2610.828482128334,
+   "iqr": 172.56332456272912
+  },
+  "flatness": {
+   "median": 0.03894655779004097,
+   "iqr": 0.00753619521856308
+  },
+  "sub100_share": {
+   "median": 0.4160822331905365,
+   "iqr": 0.08005252480506897
+  },
+  "lowest_pitch": {
+   "median": 53.8330078125,
+   "iqr": 39.0289306640625
+  },
+  "harmonic_share": {
+   "median": 0.7768633663654327,
+   "iqr": 0.0736684501171112
+  },
+  "clean_share": {
+   "median": 0.0,
+   "iqr": 0.00348387839995392
+  },
+  "minor_share": {
+   "median": -0.0015813310248610768,
+   "iqr": 0.08500824759568414
+  },
+  "chord_rate": {
+   "median": 1.85225143044174,
+   "iqr": 0.4549009741075949
+  },
+  "repetitiveness": {
+   "median": 0.8959750831127167,
+   "iqr": 0.08295731246471405
+  },
+  "vocal_share": {
+   "median": 0.15687686204910278,
+   "iqr": 0.055437127128243446
+  },
+  "vocal_voiced": {
+   "median": 0.34536114193586764,
+   "iqr": 0.2064251841896947
+  },
+  "song_length": {
+   "median": 279.5075,
+   "iqr": 71.44225000000003
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

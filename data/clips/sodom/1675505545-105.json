@@ -1,0 +1,32 @@
+{
+ "id": "sodom/1675505545-105",
+ "band": "sodom",
+ "title": "Cannibal",
+ "source": "itunes",
+ "album": "Epitome of Torture",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.9139825680065945,
+  "tempo_var": 3.0787143378084525,
+  "low_onset_rate": 8.01895941424623,
+  "lufs": -7.789764550994768,
+  "rms_dbfs": -7.3701375591774045,
+  "crest": 7.370137691497803,
+  "centroid": 2608.3660506184897,
+  "flatness": 0.04201940819621086,
+  "sub100_share": 0.2844749987125397,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6196147203445435,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.09864335925413736,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.9426698684692383,
+  "vocal_share": 0.17160913348197937,
+  "vocal_voiced": 0.08508977361436378,
+  "song_length": 259.0
+ }
+}

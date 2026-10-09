@@ -1,0 +1,32 @@
+{
+ "id": "alvenrad/1643172861-103",
+ "band": "alvenrad",
+ "title": "Roodwild",
+ "source": "itunes",
+ "album": "Veluws Ĳzer",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.9784373030112015,
+  "tempo_var": 3.300711841413595,
+  "low_onset_rate": 8.252845730495078,
+  "lufs": -11.400374962010853,
+  "rms_dbfs": -11.118110690851674,
+  "crest": 11.118110656738281,
+  "centroid": 2662.3703694291185,
+  "flatness": 0.03566230461001396,
+  "sub100_share": 0.3580135107040405,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8223406076431274,
+  "clean_share": 0.013188518231186967,
+  "minor_share": 0.30346868332667365,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.8886469006538391,
+  "vocal_share": 0.024803686887025833,
+  "vocal_voiced": 0.9784172661870504,
+  "song_length": 306.365
+ }
+}

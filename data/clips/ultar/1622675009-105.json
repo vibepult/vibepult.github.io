@@ -1,0 +1,32 @@
+{
+ "id": "ultar/1622675009-105",
+ "band": "ultar",
+ "title": "Au Seuil",
+ "source": "itunes",
+ "album": "Pantheon MMXIX",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.410427677835426,
+  "tempo_var": 3.341209929056535,
+  "low_onset_rate": 7.016589487465451,
+  "lufs": -7.490387654196058,
+  "rms_dbfs": -8.09946936907233,
+  "crest": 8.099469184875488,
+  "centroid": 2117.4006076147084,
+  "flatness": 0.007173900958150625,
+  "sub100_share": 0.07449797540903091,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.8997538089752197,
+  "clean_share": 0.33204034134988364,
+  "minor_share": -0.10918958719078309,
+  "chord_rate": 1.0023699267807789,
+  "repetitiveness": 0.7880837917327881,
+  "vocal_share": 9.113812780014996e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 334.222
+ }
+}

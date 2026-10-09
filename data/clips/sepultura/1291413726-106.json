@@ -1,0 +1,32 @@
+{
+ "id": "sepultura/1291413726-106",
+ "band": "sepultura",
+ "title": "Propaganda (Remastered)",
+ "source": "itunes",
+ "album": "Chaos A.D. (Remastered)",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.063161106898021,
+  "tempo_var": 18.600429199106717,
+  "low_onset_rate": 7.028467062865015,
+  "lufs": -8.977870368086418,
+  "rms_dbfs": -9.146505413001405,
+  "crest": 9.146505355834961,
+  "centroid": 2774.969006552148,
+  "flatness": 0.0505872406065464,
+  "sub100_share": 0.20576229691505432,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.6040185689926147,
+  "clean_share": 0.01082753286929621,
+  "minor_share": 0.12386777515946445,
+  "chord_rate": 2.5982010943292475,
+  "repetitiveness": 0.9212095141410828,
+  "vocal_share": 0.24225583672523499,
+  "vocal_voiced": 0.2258852258852259,
+  "song_length": 212.906
+ }
+}

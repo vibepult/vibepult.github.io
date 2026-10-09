@@ -1,0 +1,32 @@
+{
+ "id": "crystal-lake/1445223849-110",
+ "band": "crystal-lake",
+ "title": "Just Confusing",
+ "source": "itunes",
+ "album": "Helix",
+ "year": 2018,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 2.5333180147058822,
+  "tempo_var": 24.453974714769895,
+  "low_onset_rate": 2.4333186193885448,
+  "lufs": -8.895277610220266,
+  "rms_dbfs": -8.329837380277457,
+  "crest": 8.329837799072266,
+  "centroid": 2244.026557990144,
+  "flatness": 0.04185822978615761,
+  "sub100_share": 0.5353619456291199,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8283922672271729,
+  "clean_share": 0.4137664346481052,
+  "minor_share": -0.04201280386489126,
+  "chord_rate": 2.23331982875387,
+  "repetitiveness": 0.7381152510643005,
+  "vocal_share": 0.13111402094364166,
+  "vocal_voiced": 0.2018970189701897,
+  "song_length": 191.761
+ }
+}

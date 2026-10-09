@@ -1,0 +1,32 @@
+{
+ "id": "in-quest/585574854-101",
+ "band": "in-quest",
+ "title": "Ignition Sequence",
+ "source": "itunes",
+ "album": "Made Out of Negative Matter",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 6.983177156572759,
+  "tempo_var": 8.794215109495916,
+  "low_onset_rate": 6.515404524075062,
+  "lufs": -7.842226552130813,
+  "rms_dbfs": -7.289838291707486,
+  "crest": 7.2898383140563965,
+  "centroid": 2430.9734011886135,
+  "flatness": 0.0346810482442379,
+  "sub100_share": 0.33046096563339233,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.6525137424468994,
+  "clean_share": 0.0,
+  "minor_share": 0.12584006484220234,
+  "chord_rate": 2.205213838917713,
+  "repetitiveness": 0.9503190517425537,
+  "vocal_share": 0.2013489454984665,
+  "vocal_voiced": 0.10669693530079455,
+  "song_length": 280.693
+ }
+}

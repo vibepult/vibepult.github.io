@@ -1,0 +1,32 @@
+{
+ "id": "theatre-of-tragedy/1222140073-106",
+ "band": "theatre-of-tragedy",
+ "title": "Der Tanz der Schatten",
+ "source": "itunes",
+ "album": "Velvet Darkness They Fear",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 0.534597294283082,
+  "tempo_var": 10.019984259980502,
+  "low_onset_rate": 0.534597294283082,
+  "lufs": -21.735781645996795,
+  "rms_dbfs": -20.916254004231234,
+  "crest": 20.9162540435791,
+  "centroid": 1204.145300898373,
+  "flatness": 0.005718990229070187,
+  "sub100_share": 0.08254247158765793,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.9203662872314453,
+  "clean_share": 0.9317300232738557,
+  "minor_share": -0.2067461227016978,
+  "chord_rate": 0.6014219560684673,
+  "repetitiveness": 0.5342961549758911,
+  "vocal_share": 7.657777700842416e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 328.92
+ }
+}

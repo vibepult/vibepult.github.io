@@ -1,0 +1,32 @@
+{
+ "id": "trollfest/668050803-106",
+ "band": "trollfest",
+ "title": "Das MeerUngeheuer",
+ "source": "itunes",
+ "album": "Brakebein",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 1.6372042137419387,
+  "tempo_var": 4.192289285275393,
+  "low_onset_rate": 2.773223464093488,
+  "lufs": -10.387914547685162,
+  "rms_dbfs": -10.433701706580322,
+  "crest": 10.433701515197754,
+  "centroid": 3047.0529112576146,
+  "flatness": 0.04012615978717804,
+  "sub100_share": 0.2478698194026947,
+  "lowest_pitch": 102.28271484375,
+  "harmonic_share": 0.7820647954940796,
+  "clean_share": 0.015515903801396431,
+  "minor_share": -0.033646636319691725,
+  "chord_rate": 2.472512486059254,
+  "repetitiveness": 0.9337173700332642,
+  "vocal_share": 7.524153602389561e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 233.613
+ }
+}

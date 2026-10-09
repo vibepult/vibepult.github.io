@@ -1,0 +1,32 @@
+{
+ "id": "freedom-call/1466945099-106",
+ "band": "freedom-call",
+ "title": "Call of Fame",
+ "source": "itunes",
+ "album": "Crystal Empire",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 6.515404524075062,
+  "tempo_var": 0.0,
+  "low_onset_rate": 9.722988289773554,
+  "lufs": -9.917166798059986,
+  "rms_dbfs": -9.885080233138146,
+  "crest": 9.885080337524414,
+  "centroid": 2553.8725358764377,
+  "flatness": 0.03667701035737991,
+  "sub100_share": 0.2304832637310028,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6995237469673157,
+  "clean_share": 0.0,
+  "minor_share": -0.0033648324544078845,
+  "chord_rate": 1.336493235707705,
+  "repetitiveness": 0.9150134325027466,
+  "vocal_share": 0.15859174728393555,
+  "vocal_voiced": 0.7519280205655527,
+  "song_length": 255.467
+ }
+}

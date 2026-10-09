@@ -1,0 +1,127 @@
+{
+ "slug": "galneryus",
+ "name": "Galneryus",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 117491744,
+  "deezer": 13248389,
+  "spotify": "3BNDjSD67jJE4fhxX1b2OV"
+ },
+ "metadata": {
+  "formed": 2001,
+  "split": null,
+  "country": "JP",
+  "status": "active",
+  "members": 5,
+  "past_members": 10,
+  "full_lengths": 18,
+  "genre": "Neoclassical Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 7215,
+  "themes": "Romance, Medieval, Fantasy, Self-worth, Motivation",
+  "release_year": 2010
+ },
+ "partial": false,
+ "clips": [
+  "galneryus/475977376-106",
+  "galneryus/1605717940-107",
+  "galneryus/475980735-106",
+  "galneryus/1342065569-106",
+  "galneryus/1605732411-106",
+  "galneryus/470497498-106",
+  "galneryus/470500247-106",
+  "galneryus/569074665-105",
+  "galneryus/828806038-105",
+  "galneryus/922419185-107",
+  "galneryus/1063967133-105",
+  "galneryus/1279292207-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 143.5546875,
+   "iqr": 51.39881963315217
+  },
+  "onset_rate": {
+   "median": 1.921209026329826,
+   "iqr": 1.711055372986363
+  },
+  "tempo_var": {
+   "median": 15.333127032828912,
+   "iqr": 12.674456672751944
+  },
+  "low_onset_rate": {
+   "median": 2.6562803059690636,
+   "iqr": 1.9072724056292527
+  },
+  "lufs": {
+   "median": -9.233286498772392,
+   "iqr": 4.577563479043139
+  },
+  "rms_dbfs": {
+   "median": -8.690127248882064,
+   "iqr": 5.048775133726945
+  },
+  "crest": {
+   "median": 8.690126895904541,
+   "iqr": 5.04877495765686
+  },
+  "centroid": {
+   "median": 2544.902301659017,
+   "iqr": 700.9407103317458
+  },
+  "flatness": {
+   "median": 0.03376740403473377,
+   "iqr": 0.020103866700083017
+  },
+  "sub100_share": {
+   "median": 0.3635898530483246,
+   "iqr": 0.2712158299982548
+  },
+  "lowest_pitch": {
+   "median": 69.98291015625,
+   "iqr": 38.35601806640625
+  },
+  "harmonic_share": {
+   "median": 0.8688839375972748,
+   "iqr": 0.06093147397041321
+  },
+  "clean_share": {
+   "median": 0.11232590357939781,
+   "iqr": 0.5045731716463357
+  },
+  "minor_share": {
+   "median": 0.07620497606191609,
+   "iqr": 0.12287415541096333
+  },
+  "chord_rate": {
+   "median": 1.368361183755585,
+   "iqr": 0.8883343160833941
+  },
+  "repetitiveness": {
+   "median": 0.7758734226226807,
+   "iqr": 0.25839968025684357
+  },
+  "vocal_share": {
+   "median": 0.14323530346155167,
+   "iqr": 0.05590295698493719
+  },
+  "vocal_voiced": {
+   "median": 0.6827801034284444,
+   "iqr": 0.11283433171098356
+  },
+  "song_length": {
+   "median": 368.15999999999997,
+   "iqr": 106.99699999999996
+  },
+  "vocal_presence": {
+   "median": 0.3333333333333333,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

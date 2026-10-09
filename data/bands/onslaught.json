@@ -1,0 +1,127 @@
+{
+ "slug": "onslaught",
+ "name": "Onslaught",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 120301852,
+  "deezer": 399558,
+  "spotify": "71lhIVHJ24x9hEcwFSWuOf"
+ },
+ "metadata": {
+  "formed": 1982,
+  "split": null,
+  "country": "GB",
+  "status": "active",
+  "members": 5,
+  "past_members": 17,
+  "full_lengths": 8,
+  "genre": "Hardcore Punk (early); Thrash Metal (later)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 8476,
+  "themes": "Death, Violence, Satan, Metal, Insanity, Society",
+  "release_year": 1998
+ },
+ "partial": false,
+ "clips": [
+  "onslaught/1543022693-106",
+  "onslaught/1543074684-104",
+  "onslaught/1543076971-104",
+  "onslaught/1543075195-105",
+  "onslaught/1512039222-105",
+  "onslaught/1798774253-112",
+  "onslaught/1543022693-107",
+  "onslaught/1543074684-103",
+  "onslaught/1543076971-105",
+  "onslaught/1543075195-104",
+  "onslaught/1512039222-104",
+  "onslaught/1798774253-111"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 101.37169471153845,
+   "iqr": 18.876140039165648
+  },
+  "onset_rate": {
+   "median": 5.563153093633322,
+   "iqr": 4.623756697619164
+  },
+  "tempo_var": {
+   "median": 12.784105232813896,
+   "iqr": 10.206654792204535
+  },
+  "low_onset_rate": {
+   "median": 5.546446928186976,
+   "iqr": 1.4501175871599656
+  },
+  "lufs": {
+   "median": -9.179024362535099,
+   "iqr": 1.6908862394057529
+  },
+  "rms_dbfs": {
+   "median": -8.915387825854484,
+   "iqr": 2.786345711055141
+  },
+  "crest": {
+   "median": 8.915387630462646,
+   "iqr": 2.7863452434539795
+  },
+  "centroid": {
+   "median": 2741.319950044727,
+   "iqr": 216.1265869948911
+  },
+  "flatness": {
+   "median": 0.04221987538039684,
+   "iqr": 0.013604856096208096
+  },
+  "sub100_share": {
+   "median": 0.27129217982292175,
+   "iqr": 0.20159530267119408
+  },
+  "lowest_pitch": {
+   "median": 59.21630859375,
+   "iqr": 22.20611572265625
+  },
+  "harmonic_share": {
+   "median": 0.7177905738353729,
+   "iqr": 0.13572393357753754
+  },
+  "clean_share": {
+   "median": 0.013576415826221877,
+   "iqr": 0.0556633048875097
+  },
+  "minor_share": {
+   "median": -0.015985802785456193,
+   "iqr": 0.10394648273741461
+  },
+  "chord_rate": {
+   "median": 1.9880336881152112,
+   "iqr": 0.650217243288238
+  },
+  "repetitiveness": {
+   "median": 0.9207231402397156,
+   "iqr": 0.10597510635852814
+  },
+  "vocal_share": {
+   "median": 0.125813826918602,
+   "iqr": 0.029714517295360565
+  },
+  "vocal_voiced": {
+   "median": 0.16827852998065765,
+   "iqr": 0.26223781431133064
+  },
+  "song_length": {
+   "median": 247.7665,
+   "iqr": 118.56824999999998
+  },
+  "vocal_presence": {
+   "median": 0.5833333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "dagoba/582707931-105",
+ "band": "dagoba",
+ "title": "The World in Between",
+ "source": "itunes",
+ "album": "Face the Colossus",
+ "year": 2008,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 2.2720385007030983,
+  "tempo_var": 22.068465363468555,
+  "low_onset_rate": 3.4414700819473403,
+  "lufs": -11.40201154697761,
+  "rms_dbfs": -11.781895501982591,
+  "crest": 11.781896591186523,
+  "centroid": 2256.8229976360917,
+  "flatness": 0.013397947885096073,
+  "sub100_share": 0.2419750839471817,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.8374574780464172,
+  "clean_share": 0.16602017067494182,
+  "minor_share": 0.24940621583925549,
+  "chord_rate": 0.7016589487465451,
+  "repetitiveness": 0.7931795716285706,
+  "vocal_share": 0.1782066524028778,
+  "vocal_voiced": 0.6449704142011834,
+  "song_length": 369.173
+ }
+}

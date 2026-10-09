@@ -1,0 +1,32 @@
+{
+ "id": "deafheaven/652038965-105",
+ "band": "deafheaven",
+ "title": "Vertigo",
+ "source": "itunes",
+ "album": "Sunbather",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 2.766649937113003,
+  "tempo_var": 11.038626324552844,
+  "low_onset_rate": 5.933297455495356,
+  "lufs": -12.759636628949135,
+  "rms_dbfs": -11.913422707965465,
+  "crest": 11.913422584533691,
+  "centroid": 1766.947285814503,
+  "flatness": 0.008010905236005783,
+  "sub100_share": 0.5810324549674988,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.937030553817749,
+  "clean_share": 0.8352668213457076,
+  "minor_share": 0.19988999311898237,
+  "chord_rate": 1.5999903250773995,
+  "repetitiveness": 0.6962601542472839,
+  "vocal_share": 4.670096700465365e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 877.053
+ }
+}

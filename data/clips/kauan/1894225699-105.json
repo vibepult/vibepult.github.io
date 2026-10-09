@@ -1,0 +1,32 @@
+{
+ "id": "kauan/1894225699-105",
+ "band": "kauan",
+ "title": "Sumun Syleily",
+ "source": "itunes",
+ "album": "Muistumia",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 2.199966742755212,
+  "tempo_var": 15.906719317987859,
+  "low_onset_rate": 3.5666127496182978,
+  "lufs": -10.920514754975828,
+  "rms_dbfs": -9.65326346763156,
+  "crest": 9.653264045715332,
+  "centroid": 1620.9296933495636,
+  "flatness": 0.003923503216356039,
+  "sub100_share": 0.380156010389328,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.9274507164955139,
+  "clean_share": 0.7648878576952823,
+  "minor_share": 0.01951797579195169,
+  "chord_rate": 1.4999773246058261,
+  "repetitiveness": 0.5215708613395691,
+  "vocal_share": 0.011842308565974236,
+  "vocal_voiced": 0.7647058823529411,
+  "song_length": 362.0
+ }
+}

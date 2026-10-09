@@ -1,0 +1,32 @@
+{
+ "id": "briqueville/1526167897-106",
+ "band": "briqueville",
+ "title": "Akte XIII",
+ "source": "itunes",
+ "album": "Quelle",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 2.940285118556951,
+  "tempo_var": 2.1772882250526497,
+  "low_onset_rate": 5.513034597294284,
+  "lufs": -11.028003080475807,
+  "rms_dbfs": -9.360985169357043,
+  "crest": 9.360984802246094,
+  "centroid": 1959.350734457543,
+  "flatness": 0.011887600645422935,
+  "sub100_share": 0.3434481620788574,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.8888843059539795,
+  "clean_share": 0.34290147401086113,
+  "minor_share": 0.02749392280960994,
+  "chord_rate": 1.3030809048150125,
+  "repetitiveness": 0.8384382128715515,
+  "vocal_share": 1.7014124296110822e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 381.794
+ }
+}

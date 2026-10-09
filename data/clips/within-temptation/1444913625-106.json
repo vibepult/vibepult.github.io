@@ -1,0 +1,32 @@
+{
+ "id": "within-temptation/1444913625-106",
+ "band": "within-temptation",
+ "title": "In Vain",
+ "source": "itunes",
+ "album": "Resist (Extended Deluxe)",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.199936508896313,
+  "tempo_var": 22.888764644780792,
+  "low_onset_rate": 4.8999259270456985,
+  "lufs": -9.894537005245203,
+  "rms_dbfs": -9.581528053753125,
+  "crest": 9.581528663635254,
+  "centroid": 2507.981486532962,
+  "flatness": 0.04025625064969063,
+  "sub100_share": 0.236808642745018,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6862090826034546,
+  "clean_share": 0.04563031709203403,
+  "minor_share": -0.17941128179691546,
+  "chord_rate": 0.9333192241991807,
+  "repetitiveness": 0.8381090760231018,
+  "vocal_share": 0.2822386920452118,
+  "vocal_voiced": 0.6390625,
+  "song_length": 265.16
+ }
+}

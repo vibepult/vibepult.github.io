@@ -1,0 +1,32 @@
+{
+ "id": "king-diamond/1296831934-106",
+ "band": "king-diamond",
+ "title": "Father Picard",
+ "source": "itunes",
+ "album": "The Eye",
+ "year": 1990,
+ "itunes_year": 1990,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.233269338331998,
+  "tempo_var": 2.842170943040401e-14,
+  "low_onset_rate": 6.5665673988299496,
+  "lufs": -14.325206546819848,
+  "rms_dbfs": -14.705871549461438,
+  "crest": 14.70587158203125,
+  "centroid": 2843.369594807062,
+  "flatness": 0.04961126670241356,
+  "sub100_share": 0.15095031261444092,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7330769300460815,
+  "clean_share": 0.006187161639597835,
+  "minor_share": -0.06382884650154041,
+  "chord_rate": 1.4999773246058261,
+  "repetitiveness": 0.8152241706848145,
+  "vocal_share": 0.26079002022743225,
+  "vocal_voiced": 0.8008,
+  "song_length": 199.933
+ }
+}

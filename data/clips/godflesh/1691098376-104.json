@@ -1,0 +1,32 @@
+{
+ "id": "godflesh/1691098376-104",
+ "band": "godflesh",
+ "title": "Lazarus Leper",
+ "source": "itunes",
+ "album": "Purge",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.8758303835523447,
+  "tempo_var": 14.343697424099522,
+  "low_onset_rate": 7.551186781748533,
+  "lufs": -8.122729713575675,
+  "rms_dbfs": -7.161579448066863,
+  "crest": 7.161579132080078,
+  "centroid": 2978.492496254481,
+  "flatness": 0.04462646692991257,
+  "sub100_share": 0.589371383190155,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8796755075454712,
+  "clean_share": 0.14972847168347556,
+  "minor_share": -0.04954036698779718,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.863457202911377,
+  "vocal_share": 4.0339264728572743e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 369.6
+ }
+}

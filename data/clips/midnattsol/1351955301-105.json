@@ -1,0 +1,32 @@
+{
+ "id": "midnattsol/1351955301-105",
+ "band": "midnattsol",
+ "title": "Herr Mannelig",
+ "source": "itunes",
+ "album": "The Aftermath",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 69.83741554054055,
+  "onset_rate": 4.366666666666666,
+  "tempo_var": 3.7131054976363824,
+  "low_onset_rate": 8.4,
+  "lufs": -10.243981912870645,
+  "rms_dbfs": -9.113006821509902,
+  "crest": 9.113006591796875,
+  "centroid": 2331.991230583292,
+  "flatness": 0.019999247044324875,
+  "sub100_share": 0.4140583276748657,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.9031381011009216,
+  "clean_share": 0.05727554179566564,
+  "minor_share": 0.013297045474512048,
+  "chord_rate": 1.1,
+  "repetitiveness": 0.8885872960090637,
+  "vocal_share": 1.43824092901923e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 545.413
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "kreator/1742989204-104",
+ "band": "kreator",
+ "title": "As the World Burns",
+ "source": "itunes",
+ "album": "Terrible Certainty",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 198.76802884615384,
+  "onset_rate": 5.533249686323714,
+  "tempo_var": 15.673541363638957,
+  "low_onset_rate": 6.5665673988299496,
+  "lufs": -11.112608152978082,
+  "rms_dbfs": -11.030851759447257,
+  "crest": 11.030851364135742,
+  "centroid": 3087.8952554273264,
+  "flatness": 0.06098603457212448,
+  "sub100_share": 0.2516237795352936,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6062702536582947,
+  "clean_share": 0.0015467904098994587,
+  "minor_share": -0.05183120082047876,
+  "chord_rate": 2.9999546492116522,
+  "repetitiveness": 0.9053255319595337,
+  "vocal_share": 0.14207498729228973,
+  "vocal_voiced": 0.06430446194225722,
+  "song_length": 230.014
+ }
+}

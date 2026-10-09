@@ -1,0 +1,32 @@
+{
+ "id": "dark-the-suns/1702244317-103",
+ "band": "dark-the-suns",
+ "title": "Kun Aallot Kallioihin Murtuu",
+ "source": "itunes",
+ "album": "Raven and the Nightsky",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 1.9332982621630446,
+  "tempo_var": 2.679034501449781,
+  "low_onset_rate": 2.8666146645865833,
+  "lufs": -11.741994014407908,
+  "rms_dbfs": -11.41168948701914,
+  "crest": 11.411689758300781,
+  "centroid": 1923.6925888960354,
+  "flatness": 0.01434265822172165,
+  "sub100_share": 0.2065965235233307,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7508551478385925,
+  "clean_share": 0.042536736272235115,
+  "minor_share": 0.07464078610797564,
+  "chord_rate": 0.5999891158437035,
+  "repetitiveness": 0.8198946714401245,
+  "vocal_share": 0.18160998821258545,
+  "vocal_voiced": 0.4737417943107221,
+  "song_length": 277.35
+ }
+}

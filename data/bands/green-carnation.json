@@ -1,0 +1,127 @@
+{
+ "slug": "green-carnation",
+ "name": "Green Carnation",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 72866964,
+  "deezer": 8192,
+  "spotify": "1ZaJhNBAhJ3HjPsWiB9sDc"
+ },
+ "metadata": {
+  "formed": 1990,
+  "split": null,
+  "country": "NO",
+  "status": "active",
+  "members": 6,
+  "past_members": 11,
+  "full_lengths": 9,
+  "genre": "Death Metal (early); Gothic/Progressive Metal/Rock (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 4869,
+  "themes": "Life, Death, Sorrow, Introspection",
+  "release_year": 2004
+ },
+ "partial": false,
+ "clips": [
+  "green-carnation/1556136526-104",
+  "green-carnation/706409301-105",
+  "green-carnation/583584328-106",
+  "green-carnation/1820264980-103",
+  "green-carnation/1867255969-103",
+  "green-carnation/1556136526-103",
+  "green-carnation/706409301-104",
+  "green-carnation/583584328-105",
+  "green-carnation/1820264980-104",
+  "green-carnation/1867255969-104",
+  "green-carnation/1556136526-105",
+  "green-carnation/706409301-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.90049098320159,
+   "iqr": 35.974347749502655
+  },
+  "onset_rate": {
+   "median": 3.1035548901711683,
+   "iqr": 2.498381459212207
+  },
+  "tempo_var": {
+   "median": 9.362173003733268,
+   "iqr": 18.17030145532354
+  },
+  "low_onset_rate": {
+   "median": 5.579859259079669,
+   "iqr": 4.074307862176534
+  },
+  "lufs": {
+   "median": -12.54210690565058,
+   "iqr": 7.933376130847687
+  },
+  "rms_dbfs": {
+   "median": -11.741068635145368,
+   "iqr": 8.969411197060332
+  },
+  "crest": {
+   "median": 11.741068840026855,
+   "iqr": 6.004627466201782
+  },
+  "centroid": {
+   "median": 2055.927733527701,
+   "iqr": 514.1711242250863
+  },
+  "flatness": {
+   "median": 0.01799783669412136,
+   "iqr": 0.010137999430298805
+  },
+  "sub100_share": {
+   "median": 0.28095750510692596,
+   "iqr": 0.18272646144032478
+  },
+  "lowest_pitch": {
+   "median": 55.1788330078125,
+   "iqr": 45.08514404296875
+  },
+  "harmonic_share": {
+   "median": 0.8451220095157623,
+   "iqr": 0.08209246397018433
+  },
+  "clean_share": {
+   "median": 0.2482982944515032,
+   "iqr": 0.601885266376364
+  },
+  "minor_share": {
+   "median": 0.05285033153888363,
+   "iqr": 0.14512851779517302
+  },
+  "chord_rate": {
+   "median": 1.3849922820798786,
+   "iqr": 0.32802165664549277
+  },
+  "repetitiveness": {
+   "median": 0.7850303947925568,
+   "iqr": 0.15114837884902954
+  },
+  "vocal_share": {
+   "median": 0.14412428438663483,
+   "iqr": 0.06181718595325947
+  },
+  "vocal_voiced": {
+   "median": 0.8593787900733453,
+   "iqr": 0.1900076717974135
+  },
+  "song_length": {
+   "median": 382.1065,
+   "iqr": 146.49
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

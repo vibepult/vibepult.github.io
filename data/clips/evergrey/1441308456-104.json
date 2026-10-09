@@ -1,0 +1,32 @@
+{
+ "id": "evergrey/1441308456-104",
+ "band": "evergrey",
+ "title": "A Secret Atlantis",
+ "source": "itunes",
+ "album": "The Atlantic",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.338863162488484,
+  "tempo_var": 9.512729287324731,
+  "low_onset_rate": 6.047631891577365,
+  "lufs": -14.599047812137583,
+  "rms_dbfs": -13.970550818366645,
+  "crest": 13.970550537109375,
+  "centroid": 1369.016117194262,
+  "flatness": 0.00565863074734807,
+  "sub100_share": 0.16028372943401337,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.8115007877349854,
+  "clean_share": 0.7897595034910784,
+  "minor_share": -0.006227045162032874,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.9011053442955017,
+  "vocal_share": 0.0693403109908104,
+  "vocal_voiced": 0.8466257668711656,
+  "song_length": 330.8
+ }
+}

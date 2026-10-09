@@ -1,0 +1,127 @@
+{
+ "slug": "high-on-fire",
+ "name": "High on Fire",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 19111598,
+  "deezer": 60087,
+  "spotify": "1eiIIImNeUj3vpaocWqoOf"
+ },
+ "metadata": {
+  "formed": 1998,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 3,
+  "past_members": 6,
+  "full_lengths": 9,
+  "genre": "Stoner/Sludge/Doom Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 18326,
+  "themes": "Occultism, Mythology, Religion, War, Drugs, Lovecraftian",
+  "release_year": 2006
+ },
+ "partial": false,
+ "clips": [
+  "high-on-fire/1697565714-103",
+  "high-on-fire/74421361-104",
+  "high-on-fire/67965407-105",
+  "high-on-fire/264016936-105",
+  "high-on-fire/353008232-104",
+  "high-on-fire/508425705-105",
+  "high-on-fire/989238314-105",
+  "high-on-fire/1697565714-104",
+  "high-on-fire/74421361-105",
+  "high-on-fire/67965407-104",
+  "high-on-fire/264016936-107",
+  "high-on-fire/353008232-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.32652698863637,
+   "iqr": 31.207540760869563
+  },
+  "onset_rate": {
+   "median": 4.805687824273869,
+   "iqr": 0.6409919236086488
+  },
+  "tempo_var": {
+   "median": 3.854551707565082,
+   "iqr": 6.998226923189739
+  },
+  "low_onset_rate": {
+   "median": 6.96656135205817,
+   "iqr": 2.299401487237952
+  },
+  "lufs": {
+   "median": -8.142253382297286,
+   "iqr": 1.3679303881701426
+  },
+  "rms_dbfs": {
+   "median": -6.832037262185514,
+   "iqr": 1.198744474897099
+  },
+  "crest": {
+   "median": 6.8320372104644775,
+   "iqr": 1.198744535446167
+  },
+  "centroid": {
+   "median": 2115.4101135608435,
+   "iqr": 287.439447356923
+  },
+  "flatness": {
+   "median": 0.014808435924351215,
+   "iqr": 0.008500939002260566
+  },
+  "sub100_share": {
+   "median": 0.3626711517572403,
+   "iqr": 0.08359897136688232
+  },
+  "lowest_pitch": {
+   "median": 64.599609375,
+   "iqr": 23.55194091796875
+  },
+  "harmonic_share": {
+   "median": 0.8274456560611725,
+   "iqr": 0.061842381954193115
+  },
+  "clean_share": {
+   "median": 0.12645011600928074,
+   "iqr": 0.20842402170295396
+  },
+  "minor_share": {
+   "median": 0.0016629960833523527,
+   "iqr": 0.12504223749066978
+  },
+  "chord_rate": {
+   "median": 2.3166666666666664,
+   "iqr": 0.4500463019321188
+  },
+  "repetitiveness": {
+   "median": 0.8753387629985809,
+   "iqr": 0.09311388432979584
+  },
+  "vocal_share": {
+   "median": 0.032160352915525436,
+   "iqr": 0.07006551511585712
+  },
+  "vocal_voiced": {
+   "median": 0.2924281984334204,
+   "iqr": 0.19349343154943857
+  },
+  "song_length": {
+   "median": 309.06,
+   "iqr": 120.47625000000005
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

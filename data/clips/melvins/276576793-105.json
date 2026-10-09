@@ -1,0 +1,32 @@
+{
+ "id": "melvins/276576793-105",
+ "band": "melvins",
+ "title": "Creepy Smell",
+ "source": "itunes",
+ "album": "Ozma",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.2386261698104057,
+  "tempo_var": 6.49823395953254,
+  "low_onset_rate": 3.9092427144450372,
+  "lufs": -16.14498856677093,
+  "rms_dbfs": -15.20874448358349,
+  "crest": 15.208478927612305,
+  "centroid": 3001.3074738347786,
+  "flatness": 0.038243137300014496,
+  "sub100_share": 0.3167692720890045,
+  "lowest_pitch": 102.28271484375,
+  "harmonic_share": 0.7648434638977051,
+  "clean_share": 0.143522110162917,
+  "minor_share": -0.021847121585119922,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.8931626677513123,
+  "vocal_share": 0.015086749568581581,
+  "vocal_voiced": 0.524390243902439,
+  "song_length": 124.64
+ }
+}

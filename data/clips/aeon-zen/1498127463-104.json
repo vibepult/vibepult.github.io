@@ -1,0 +1,32 @@
+{
+ "id": "aeon-zen/1498127463-104",
+ "band": "aeon-zen",
+ "title": "The Last Alive",
+ "source": "itunes",
+ "album": "Inveritas",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.143129030693886,
+  "tempo_var": 14.4551450752742,
+  "low_onset_rate": 5.045261964796587,
+  "lufs": -12.574834826711864,
+  "rms_dbfs": -11.737442423508956,
+  "crest": 11.737442970275879,
+  "centroid": 2803.4792089370562,
+  "flatness": 0.035465508699417114,
+  "sub100_share": 0.39670488238334656,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7220824956893921,
+  "clean_share": 0.08223429014740109,
+  "minor_share": -0.1043445941955301,
+  "chord_rate": 3.30782075837657,
+  "repetitiveness": 0.920414924621582,
+  "vocal_share": 0.0342986062169075,
+  "vocal_voiced": 0.9235127478753541,
+  "song_length": 501.773
+ }
+}

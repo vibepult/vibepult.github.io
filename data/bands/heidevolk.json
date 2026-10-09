@@ -1,0 +1,127 @@
+{
+ "slug": "heidevolk",
+ "name": "Heidevolk",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 276240509,
+  "deezer": 98278,
+  "spotify": "0A2YaO4tUFeJVNn5Hvjfxa"
+ },
+ "metadata": {
+  "formed": 2002,
+  "split": null,
+  "country": "NL",
+  "status": "active",
+  "members": 6,
+  "past_members": 12,
+  "full_lengths": 7,
+  "genre": "Folk/Viking Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 22547,
+  "themes": "History/Culture of Gelderland, Germanic mythology",
+  "release_year": 2011
+ },
+ "partial": false,
+ "clips": [
+  "heidevolk/1184715463-106",
+  "heidevolk/1183624775-105",
+  "heidevolk/1183590050-106",
+  "heidevolk/1183998300-105",
+  "heidevolk/1183623438-108",
+  "heidevolk/1302408487-107",
+  "heidevolk/1650839139-107",
+  "heidevolk/1184715463-107",
+  "heidevolk/1183624775-106",
+  "heidevolk/1183590050-105",
+  "heidevolk/1183998300-104",
+  "heidevolk/1183623438-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.90049098320159,
+   "iqr": 63.626996208639696
+  },
+  "onset_rate": {
+   "median": 4.9,
+   "iqr": 0.9583333333333339
+  },
+  "tempo_var": {
+   "median": 14.861451408184912,
+   "iqr": 12.056329965694326
+  },
+  "low_onset_rate": {
+   "median": 7.583333333333333,
+   "iqr": 1.3916666666666666
+  },
+  "lufs": {
+   "median": -8.033207473477837,
+   "iqr": 1.4876840286507962
+  },
+  "rms_dbfs": {
+   "median": -7.417372105229948,
+   "iqr": 1.4087935287526863
+  },
+  "crest": {
+   "median": 7.417372226715088,
+   "iqr": 1.4087932109832764
+  },
+  "centroid": {
+   "median": 2482.6703616432715,
+   "iqr": 315.46409121706574
+  },
+  "flatness": {
+   "median": 0.02561411913484335,
+   "iqr": 0.012705175438895822
+  },
+  "sub100_share": {
+   "median": 0.3379337340593338,
+   "iqr": 0.10763737931847572
+  },
+  "lowest_pitch": {
+   "median": 59.21630859375,
+   "iqr": 14.13116455078125
+  },
+  "harmonic_share": {
+   "median": 0.81425341963768,
+   "iqr": 0.041483476758003235
+  },
+  "clean_share": {
+   "median": 0.027089783281733747,
+   "iqr": 0.12287151702786378
+  },
+  "minor_share": {
+   "median": 0.0655187159477505,
+   "iqr": 0.08986125801604283
+  },
+  "chord_rate": {
+   "median": 1.6666666666666665,
+   "iqr": 0.408333333333333
+  },
+  "repetitiveness": {
+   "median": 0.882840096950531,
+   "iqr": 0.060281962156295776
+  },
+  "vocal_share": {
+   "median": 0.13429024815559387,
+   "iqr": 0.06655247882008553
+  },
+  "vocal_voiced": {
+   "median": 0.6672794709233096,
+   "iqr": 0.345172350140846
+  },
+  "song_length": {
+   "median": 260.773,
+   "iqr": 53.99625000000003
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.5,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

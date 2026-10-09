@@ -1,0 +1,32 @@
+{
+ "id": "boris/1854900237-103",
+ "band": "boris",
+ "title": "Feedbacker, Pt. 3",
+ "source": "itunes",
+ "album": "Boris at Last - Feedbacker",
+ "year": 2003,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 0.03333313177244582,
+  "tempo_var": 5.487072076500339,
+  "low_onset_rate": 0.5999963719040248,
+  "lufs": -5.471499270775314,
+  "rms_dbfs": -5.776185123011576,
+  "crest": 5.776185035705566,
+  "centroid": 2601.4170801770842,
+  "flatness": 0.04348978400230408,
+  "sub100_share": 0.0951736718416214,
+  "lowest_pitch": 29.608154296875,
+  "harmonic_share": 0.7283669114112854,
+  "clean_share": 0.0007733952049497294,
+  "minor_share": -0.0912233518859713,
+  "chord_rate": 0.933327689628483,
+  "repetitiveness": 0.9516328573226929,
+  "vocal_share": 7.932288212941785e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 352.333
+ }
+}

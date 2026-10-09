@@ -1,0 +1,32 @@
+{
+ "id": "suotana/1490917725-104",
+ "band": "suotana",
+ "title": "Into the Ice",
+ "source": "itunes",
+ "album": "Land of the Ending Time",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.98080722979198,
+  "tempo_var": 9.078219497071677,
+  "low_onset_rate": 10.19076092227125,
+  "lufs": -12.486869166897772,
+  "rms_dbfs": -10.544757102196787,
+  "crest": 10.544756889343262,
+  "centroid": 2347.595667593527,
+  "flatness": 0.018987638875842094,
+  "sub100_share": 0.688451886177063,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.9084900617599487,
+  "clean_share": 0.03491078355314197,
+  "minor_share": -0.0387260818580919,
+  "chord_rate": 0.8687206032100082,
+  "repetitiveness": 0.9683882594108582,
+  "vocal_share": 3.2355913504034106e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 335.027
+ }
+}

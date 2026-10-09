@@ -1,0 +1,32 @@
+{
+ "id": "baroness/274013471-107",
+ "band": "baroness",
+ "title": "Aleph",
+ "source": "itunes",
+ "album": "Red Album",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 2.8333333333333335,
+  "tempo_var": 17.706504271018943,
+  "low_onset_rate": 1.8666666666666667,
+  "lufs": -13.550383317014361,
+  "rms_dbfs": -11.487426513130272,
+  "crest": 11.4874267578125,
+  "centroid": 1361.7383814780558,
+  "flatness": 0.0030488423071801662,
+  "sub100_share": 0.6086640357971191,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8816170692443848,
+  "clean_share": 0.8792569659442725,
+  "minor_share": 0.1487210203890117,
+  "chord_rate": 1.2666666666666666,
+  "repetitiveness": 0.6066855192184448,
+  "vocal_share": 1.785754051297772e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 261.667
+ }
+}

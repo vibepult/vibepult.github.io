@@ -1,0 +1,32 @@
+{
+ "id": "katatonia/1189425748-106",
+ "band": "katatonia",
+ "title": "The Promise of Deceit",
+ "source": "itunes",
+ "album": "Night Is the New Day",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.5082947437327254,
+  "tempo_var": 28.25089398527114,
+  "low_onset_rate": 3.7087687290888813,
+  "lufs": -12.185128458081278,
+  "rms_dbfs": -10.774792590387596,
+  "crest": 10.774792671203613,
+  "centroid": 1885.996162520429,
+  "flatness": 0.009335850365459919,
+  "sub100_share": 0.5427332520484924,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.8762279152870178,
+  "clean_share": 0.4546159813809154,
+  "minor_share": 0.12661328547642925,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.6485978364944458,
+  "vocal_share": 0.10821429640054703,
+  "vocal_voiced": 0.8940217391304348,
+  "song_length": 255.693
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "bell-witch/1703879954-102",
+ "band": "bell-witch",
+ "title": "The Clandestine Gate - Movement One",
+ "source": "itunes",
+ "album": "Future's Shadow Part 1: The Clandestine Gate",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 1.233314689120346,
+  "tempo_var": 11.833061744281066,
+  "low_onset_rate": 5.733246662937824,
+  "lufs": -18.527571758147207,
+  "rms_dbfs": -17.71451496010129,
+  "crest": 11.883737564086914,
+  "centroid": 646.5313367306806,
+  "flatness": 1.838257048802916e-05,
+  "sub100_share": 0.1856417953968048,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.9988187551498413,
+  "clean_share": 0.9992266047950503,
+  "minor_share": 0.08012131173596249,
+  "chord_rate": 0.43332678266390534,
+  "repetitiveness": 0.3670567572116852,
+  "vocal_share": 1.5910018191789277e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 1324.006
+ }
+}

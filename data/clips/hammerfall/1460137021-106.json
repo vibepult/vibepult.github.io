@@ -1,0 +1,32 @@
+{
+ "id": "hammerfall/1460137021-106",
+ "band": "hammerfall",
+ "title": "Second to One",
+ "source": "itunes",
+ "album": "Dominion",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.8666666666666667,
+  "tempo_var": 7.7383930911749,
+  "low_onset_rate": 6.8,
+  "lufs": -14.967831405138007,
+  "rms_dbfs": -14.800746683466222,
+  "crest": 14.398193359375,
+  "centroid": 1965.3783929300532,
+  "flatness": 0.013839988969266415,
+  "sub100_share": 0.11420828104019165,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.8765658140182495,
+  "clean_share": 0.5472136222910217,
+  "minor_share": 0.16636117818900764,
+  "chord_rate": 0.6,
+  "repetitiveness": 0.6583316922187805,
+  "vocal_share": 0.4666018486022949,
+  "vocal_voiced": 0.889273356401384,
+  "song_length": 250.677
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "dark-the-suns",
+ "name": "Dark the Suns",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 284757602,
+  "deezer": 194393,
+  "spotify": "7ldEIhfppQqruChWjVKgeE"
+ },
+ "metadata": {
+  "formed": 2005,
+  "split": null,
+  "country": "FI",
+  "status": "active",
+  "members": 3,
+  "past_members": 11,
+  "full_lengths": 5,
+  "genre": "Melodic Death/Gothic Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 2269,
+  "themes": "Reflections, Darkness, Evils",
+  "release_year": 2016
+ },
+ "partial": false,
+ "clips": [
+  "dark-the-suns/1166881045-105",
+  "dark-the-suns/1702244317-105",
+  "dark-the-suns/1166881045-106",
+  "dark-the-suns/1702244317-106",
+  "dark-the-suns/1166881045-104",
+  "dark-the-suns/1702244317-104",
+  "dark-the-suns/1166881045-107",
+  "dark-the-suns/1702244317-107",
+  "dark-the-suns/1166881045-103",
+  "dark-the-suns/1702244317-103",
+  "dark-the-suns/1166881045-108",
+  "dark-the-suns/1702244317-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 21.792844810277685
+  },
+  "onset_rate": {
+   "median": 4.9784373030112015,
+   "iqr": 2.477198714064527
+  },
+  "tempo_var": {
+   "median": 1.3395172507249118,
+   "iqr": 12.686647603944973
+  },
+  "low_onset_rate": {
+   "median": 3.775593390874267,
+   "iqr": 3.957186897966971
+  },
+  "lufs": {
+   "median": -9.625158020697736,
+   "iqr": 2.8489934179965433
+  },
+  "rms_dbfs": {
+   "median": -9.102875540027739,
+   "iqr": 2.5452127613430378
+  },
+  "crest": {
+   "median": 9.102875709533691,
+   "iqr": 2.5452131032943726
+  },
+  "centroid": {
+   "median": 2130.069816710541,
+   "iqr": 487.14363471126126
+  },
+  "flatness": {
+   "median": 0.019597402773797512,
+   "iqr": 0.018127912189811468
+  },
+  "sub100_share": {
+   "median": 0.27023032307624817,
+   "iqr": 0.07461384311318398
+  },
+  "lowest_pitch": {
+   "median": 48.44970703125,
+   "iqr": 11.43951416015625
+  },
+  "harmonic_share": {
+   "median": 0.747650533914566,
+   "iqr": 0.10389479994773865
+  },
+  "clean_share": {
+   "median": 0.042536736272235115,
+   "iqr": 0.06724983305103509
+  },
+  "minor_share": {
+   "median": 0.12974898772418675,
+   "iqr": 0.18432019029014252
+  },
+  "chord_rate": {
+   "median": 0.8676459730414354,
+   "iqr": 0.7581006708236753
+  },
+  "repetitiveness": {
+   "median": 0.851135641336441,
+   "iqr": 0.07246707379817963
+  },
+  "vocal_share": {
+   "median": 0.14965595304965973,
+   "iqr": 0.10045101307332516
+  },
+  "vocal_voiced": {
+   "median": 0.1360382648853703,
+   "iqr": 0.4111783577030522
+  },
+  "song_length": {
+   "median": 280.9235,
+   "iqr": 66.70224999999999
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

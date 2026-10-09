@@ -1,0 +1,32 @@
+{
+ "id": "falkenbach/1556106381-104",
+ "band": "falkenbach",
+ "title": "The Heathenish Foray",
+ "source": "itunes",
+ "album": "...Magni Blandinn Ok Megintíri...",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.009479707123115,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 7.150238811036222,
+  "lufs": -8.846969361364396,
+  "rms_dbfs": -9.045955404483738,
+  "crest": 9.045955657958984,
+  "centroid": 2915.8006691770547,
+  "flatness": 0.05477766692638397,
+  "sub100_share": 0.12593385577201843,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8116654753684998,
+  "clean_share": 0.0,
+  "minor_share": -0.0329167539306876,
+  "chord_rate": 0.6348342869611598,
+  "repetitiveness": 0.7764610648155212,
+  "vocal_share": 0.004023290239274502,
+  "vocal_voiced": 0.5042492917847026,
+  "song_length": 480.24
+ }
+}

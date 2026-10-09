@@ -1,0 +1,32 @@
+{
+ "id": "edge-of-sanity/299890067-104",
+ "band": "edge-of-sanity",
+ "title": "Crimson, Pt. 4",
+ "source": "itunes",
+ "album": "Crimson",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.575119405518111,
+  "tempo_var": 4.785415677000184,
+  "low_onset_rate": 5.880570237113902,
+  "lufs": -10.621128417483446,
+  "rms_dbfs": -10.361895687022379,
+  "crest": 10.361895561218262,
+  "centroid": 2938.238642367861,
+  "flatness": 0.03847004845738411,
+  "sub100_share": 0.26836344599723816,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8365473747253418,
+  "clean_share": 0.11326609775019394,
+  "minor_share": 0.043201026145609,
+  "chord_rate": 2.338863162488484,
+  "repetitiveness": 0.9084183573722839,
+  "vocal_share": 0.07187209278345108,
+  "vocal_voiced": 0.3333333333333333,
+  "song_length": 147.573
+ }
+}

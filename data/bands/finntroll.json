@@ -1,0 +1,127 @@
+{
+ "slug": "finntroll",
+ "name": "Finntroll",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 158078286,
+  "deezer": 8007,
+  "spotify": "4ZgkHVHmGPXuRy8zd26ZJX"
+ },
+ "metadata": {
+  "formed": 1997,
+  "split": null,
+  "country": "FI",
+  "status": "active",
+  "members": 7,
+  "past_members": 8,
+  "full_lengths": 7,
+  "genre": "Blackened Folk Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 56369,
+  "themes": "Trolls, Nature, Finnish myths, Anti-Christianity",
+  "release_year": 2005
+ },
+ "partial": false,
+ "clips": [
+  "finntroll/1660522569-104",
+  "finntroll/704667329-106",
+  "finntroll/1660534543-105",
+  "finntroll/705390049-106",
+  "finntroll/1045213506-107",
+  "finntroll/1516676154-105",
+  "finntroll/1660522569-106",
+  "finntroll/704667329-107",
+  "finntroll/1660534543-104",
+  "finntroll/705390049-105",
+  "finntroll/1045213506-108",
+  "finntroll/1516676154-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.19921875,
+   "iqr": 39.98292321189838
+  },
+  "onset_rate": {
+   "median": 4.755806320612908,
+   "iqr": 0.6014219560684673
+  },
+  "tempo_var": {
+   "median": 8.452664435327115,
+   "iqr": 11.93415141909991
+  },
+  "low_onset_rate": {
+   "median": 6.11445655336275,
+   "iqr": 2.2398712905493863
+  },
+  "lufs": {
+   "median": -9.501733871020823,
+   "iqr": 2.2089928105951877
+  },
+  "rms_dbfs": {
+   "median": -8.557190735022647,
+   "iqr": 2.4706729954701574
+  },
+  "crest": {
+   "median": 8.557190418243408,
+   "iqr": 2.470673441886902
+  },
+  "centroid": {
+   "median": 2426.0299948402608,
+   "iqr": 186.36744804248838
+  },
+  "flatness": {
+   "median": 0.03097045049071312,
+   "iqr": 0.009222317487001419
+  },
+  "sub100_share": {
+   "median": 0.4211188554763794,
+   "iqr": 0.09324724227190018
+  },
+  "lowest_pitch": {
+   "median": 53.8330078125,
+   "iqr": 18.841552734375
+  },
+  "harmonic_share": {
+   "median": 0.7838550209999084,
+   "iqr": 0.07681304216384888
+  },
+  "clean_share": {
+   "median": 0.018203265545326374,
+   "iqr": 0.09038013964313421
+  },
+  "minor_share": {
+   "median": 0.12011000929659771,
+   "iqr": 0.13488626961578049
+  },
+  "chord_rate": {
+   "median": 1.453436393832129,
+   "iqr": 0.27808090481501235
+  },
+  "repetitiveness": {
+   "median": 0.8728854656219482,
+   "iqr": 0.11271935701370239
+  },
+  "vocal_share": {
+   "median": 0.08643301203846931,
+   "iqr": 0.05361839756369591
+  },
+  "vocal_voiced": {
+   "median": 0.18867599395779255,
+   "iqr": 0.3575667100475863
+  },
+  "song_length": {
+   "median": 259.4205,
+   "iqr": 63.697
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.7,
+  "camp": 0.8
+ },
+ "sources_failed": []
+}

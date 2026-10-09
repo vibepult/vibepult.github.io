@@ -1,0 +1,32 @@
+{
+ "id": "lake-of-tears/1540550615-105",
+ "band": "lake-of-tears",
+ "title": "Ominous Too",
+ "source": "itunes",
+ "album": "Ominous",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.572749478737332,
+  "tempo_var": 2.795993865529124,
+  "low_onset_rate": 4.243366023371963,
+  "lufs": -19.84638504336148,
+  "rms_dbfs": -18.740662139022458,
+  "crest": 17.354326248168945,
+  "centroid": 2219.5956041263817,
+  "flatness": 0.021065911278128624,
+  "sub100_share": 0.3677971661090851,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7672358751296997,
+  "clean_share": 0.27773467804499613,
+  "minor_share": 0.2841024595275713,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.7146609425544739,
+  "vocal_share": 0.1261110156774521,
+  "vocal_voiced": 0.7733499377334994,
+  "song_length": 271.133
+ }
+}

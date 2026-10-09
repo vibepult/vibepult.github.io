@@ -1,0 +1,32 @@
+{
+ "id": "insomnium/1649798628-104",
+ "band": "insomnium",
+ "title": "Lilian",
+ "source": "itunes",
+ "album": "Anno 1696",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 5.030147193236634,
+  "tempo_var": 12.212884729888513,
+  "low_onset_rate": 7.59518913945664,
+  "lufs": -9.679323924992833,
+  "rms_dbfs": -8.565660371198344,
+  "crest": 8.56566047668457,
+  "centroid": 2219.510716789416,
+  "flatness": 0.019462106749415398,
+  "sub100_share": 0.45608893036842346,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.8488855361938477,
+  "clean_share": 0.005413766434648105,
+  "minor_share": -0.10797476039627896,
+  "chord_rate": 1.2325526235083144,
+  "repetitiveness": 0.865405797958374,
+  "vocal_share": 0.03840240091085434,
+  "vocal_voiced": 0.2375,
+  "song_length": 269.2
+ }
+}

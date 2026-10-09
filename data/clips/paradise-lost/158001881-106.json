@@ -1,0 +1,32 @@
+{
+ "id": "paradise-lost/158001881-106",
+ "band": "paradise-lost",
+ "title": "Frozen Illusion",
+ "source": "itunes",
+ "album": "Lost Paradise",
+ "year": 1990,
+ "itunes_year": 1990,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 2.67298647141541,
+  "tempo_var": 13.231038552921781,
+  "low_onset_rate": 4.4772523396208115,
+  "lufs": -11.94808418848123,
+  "rms_dbfs": -11.301964072889659,
+  "crest": 11.30196475982666,
+  "centroid": 2354.4095757581204,
+  "flatness": 0.024638449773192406,
+  "sub100_share": 0.2754147946834564,
+  "lowest_pitch": 131.890869140625,
+  "harmonic_share": 0.796110212802887,
+  "clean_share": 0.02094647013188518,
+  "minor_share": 0.18001967128387375,
+  "chord_rate": 2.1049768462396354,
+  "repetitiveness": 0.8400354981422424,
+  "vocal_share": 0.1041722521185875,
+  "vocal_voiced": 0.5880597014925373,
+  "song_length": 320.96
+ }
+}

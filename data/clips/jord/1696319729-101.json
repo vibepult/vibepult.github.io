@@ -1,0 +1,32 @@
+{
+ "id": "jord/1696319729-101",
+ "band": "jord",
+ "title": "Mara",
+ "source": "itunes",
+ "album": "Tundra",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 2.6,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 7.333333333333333,
+  "lufs": -11.653681164769477,
+  "rms_dbfs": -10.627750155540136,
+  "crest": 10.627750396728516,
+  "centroid": 2298.8591459866266,
+  "flatness": 0.02102752961218357,
+  "sub100_share": 0.49619820713996887,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.8757251501083374,
+  "clean_share": 0.015479876160990712,
+  "minor_share": -0.10896951450724457,
+  "chord_rate": 1.1333333333333333,
+  "repetitiveness": 0.7359042167663574,
+  "vocal_share": 6.041642564014182e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 324.64
+ }
+}

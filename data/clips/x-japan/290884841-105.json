@@ -1,0 +1,32 @@
+{
+ "id": "x-japan/290884841-105",
+ "band": "x-japan",
+ "title": "X",
+ "source": "itunes",
+ "album": "Blue Blood",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 5.929577486067026,
+  "tempo_var": 22.840360851826432,
+  "low_onset_rate": 5.4965184561857265,
+  "lufs": -8.632841057682075,
+  "rms_dbfs": -8.230890098703709,
+  "crest": 8.230890274047852,
+  "centroid": 2364.992276250967,
+  "flatness": 0.027601053938269615,
+  "sub100_share": 0.14062540233135223,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7008757591247559,
+  "clean_share": 0.0,
+  "minor_share": 0.10501569131588973,
+  "chord_rate": 2.231919615542083,
+  "repetitiveness": 0.8730990290641785,
+  "vocal_share": 0.17378327250480652,
+  "vocal_voiced": 0.8377682403433476,
+  "song_length": 361.533
+ }
+}

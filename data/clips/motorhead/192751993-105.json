@@ -1,0 +1,32 @@
+{
+ "id": "motorhead/192751993-105",
+ "band": "motorhead",
+ "title": "Nightmare / The Dreamtime",
+ "source": "itunes",
+ "album": "1916",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 4.064092434270658,
+  "tempo_var": 3.504127697020698,
+  "low_onset_rate": 8.361370500015862,
+  "lufs": -11.85201862420691,
+  "rms_dbfs": -12.051922715803464,
+  "crest": 12.051921844482422,
+  "centroid": 2060.790042246169,
+  "flatness": 0.014623209834098816,
+  "sub100_share": 0.08811336010694504,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7820383310317993,
+  "clean_share": 0.26450116009280744,
+  "minor_share": -0.008702316722257297,
+  "chord_rate": 1.1326159243049376,
+  "repetitiveness": 0.8342222571372986,
+  "vocal_share": 0.2904212176799774,
+  "vocal_voiced": 0.7163120567375887,
+  "song_length": 280.093
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "sonic-syndicate/1456956264-106",
+ "band": "sonic-syndicate",
+ "title": "Black and Blue",
+ "source": "itunes",
+ "album": "We Rule the Night",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 2.5333180147058822,
+  "tempo_var": 25.557400653092586,
+  "low_onset_rate": 1.5666571933049536,
+  "lufs": -7.269036539312583,
+  "rms_dbfs": -6.395395952707003,
+  "crest": 6.395395278930664,
+  "centroid": 2905.998752849474,
+  "flatness": 0.04283761605620384,
+  "sub100_share": 0.4479539692401886,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7846377491950989,
+  "clean_share": 0.0015467904098994587,
+  "minor_share": -0.00910417576279443,
+  "chord_rate": 2.1666535652089784,
+  "repetitiveness": 0.897281289100647,
+  "vocal_share": 0.2163688838481903,
+  "vocal_voiced": 0.7029449423815621,
+  "song_length": 209.871
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "annihilator/1671515888-105",
+ "band": "annihilator",
+ "title": "Smothered",
+ "source": "itunes",
+ "album": "Metal",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 6.61564151675314,
+  "tempo_var": 4.525367628051036,
+  "low_onset_rate": 6.548816854967755,
+  "lufs": -9.870665920619631,
+  "rms_dbfs": -8.52851063750983,
+  "crest": 8.528510093688965,
+  "centroid": 1992.147668390641,
+  "flatness": 0.012609939090907574,
+  "sub100_share": 0.48348268866539,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7160230875015259,
+  "clean_share": 0.273855702094647,
+  "minor_share": 0.02802366343390761,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.8992056846618652,
+  "vocal_share": 0.09961431473493576,
+  "vocal_voiced": 0.7183544303797469,
+  "song_length": 309.307
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "ulver/1526294296-104",
+ "band": "ulver",
+ "title": "Hour of the Wolf",
+ "source": "itunes",
+ "album": "Flowers of Evil",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 60.09265988372093,
+  "onset_rate": 2.966666666666667,
+  "tempo_var": 21.479810760571585,
+  "low_onset_rate": 3.6,
+  "lufs": -14.76984838294841,
+  "rms_dbfs": -11.962539644932432,
+  "crest": 11.962539672851562,
+  "centroid": 1182.3202233086806,
+  "flatness": 0.00400308333337307,
+  "sub100_share": 0.6345968246459961,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6407082080841064,
+  "clean_share": 0.8204334365325078,
+  "minor_share": 0.0900959764143408,
+  "chord_rate": 1.5333333333333334,
+  "repetitiveness": 0.8711234331130981,
+  "vocal_share": 0.022215930745005608,
+  "vocal_voiced": 0.8164983164983165,
+  "song_length": 266.002
+ }
+}

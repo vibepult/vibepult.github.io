@@ -1,0 +1,32 @@
+{
+ "id": "vreid/1750746685-104",
+ "band": "vreid",
+ "title": "Blücher",
+ "source": "itunes",
+ "album": "Milorg",
+ "year": 2009,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.133270850024943,
+  "tempo_var": 11.058748453158152,
+  "low_onset_rate": 7.999879064564406,
+  "lufs": -6.936215165786274,
+  "rms_dbfs": -6.165197872518949,
+  "crest": 6.16519832611084,
+  "centroid": 2221.2114399290426,
+  "flatness": 0.02271066978573799,
+  "sub100_share": 0.3423488438129425,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8646798133850098,
+  "clean_share": 0.18174787316318639,
+  "minor_share": -0.1645213106705934,
+  "chord_rate": 1.299980347991716,
+  "repetitiveness": 0.8314862847328186,
+  "vocal_share": 0.00033559504663571715,
+  "vocal_voiced": 0.5,
+  "song_length": 287.554
+ }
+}

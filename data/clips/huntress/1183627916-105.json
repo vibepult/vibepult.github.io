@@ -1,0 +1,32 @@
+{
+ "id": "huntress/1183627916-105",
+ "band": "huntress",
+ "title": "Mania",
+ "source": "itunes",
+ "album": "Static",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.466666666666667,
+  "tempo_var": 1.808608012188097,
+  "low_onset_rate": 5.033333333333333,
+  "lufs": -14.832604744133857,
+  "rms_dbfs": -15.091730282515062,
+  "crest": 13.168956756591797,
+  "centroid": 1790.7632889968404,
+  "flatness": 0.0022778098937124014,
+  "sub100_share": 0.027666406705975533,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.9590533375740051,
+  "clean_share": 0.9489164086687306,
+  "minor_share": 0.08241368571336105,
+  "chord_rate": 0.5333333333333333,
+  "repetitiveness": 0.6603545546531677,
+  "vocal_share": 0.2162935435771942,
+  "vocal_voiced": 0.9771573604060914,
+  "song_length": 523.72
+ }
+}

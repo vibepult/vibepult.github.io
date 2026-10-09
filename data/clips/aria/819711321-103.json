@@ -1,0 +1,32 @@
+{
+ "id": "aria/819711321-103",
+ "band": "aria",
+ "title": "Мёртвая зона",
+ "source": "itunes",
+ "album": "Герой асфальта",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 1.466657797987616,
+  "tempo_var": 17.85440399285521,
+  "low_onset_rate": 1.7999891157120742,
+  "lufs": -15.064938863320247,
+  "rms_dbfs": -14.76930946188542,
+  "crest": 14.769309997558594,
+  "centroid": 2403.5593114642925,
+  "flatness": 0.015583339147269726,
+  "sub100_share": 0.1753198355436325,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.7701933979988098,
+  "clean_share": 0.19721577726218098,
+  "minor_share": -0.015583322011624823,
+  "chord_rate": 2.266652960526316,
+  "repetitiveness": 0.7526224255561829,
+  "vocal_share": 5.022803293286415e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 403.24
+ }
+}

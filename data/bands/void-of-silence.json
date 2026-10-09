@@ -1,0 +1,127 @@
+{
+ "slug": "void-of-silence",
+ "name": "Void of Silence",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 155886695,
+  "deezer": 5183794,
+  "spotify": "2fT0dQpjzjaiAxk0JvbtMI"
+ },
+ "metadata": {
+  "formed": 1999,
+  "split": null,
+  "country": "IT",
+  "status": "active",
+  "members": 3,
+  "past_members": 3,
+  "full_lengths": 5,
+  "genre": "Funeral Doom Metal/Dark Ambient",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 217,
+  "themes": "Anti-War, Death",
+  "release_year": 2006
+ },
+ "partial": false,
+ "clips": [
+  "void-of-silence/1876659579-103",
+  "void-of-silence/164018933-105",
+  "void-of-silence/370162568-103",
+  "void-of-silence/1394905554-104",
+  "void-of-silence/1876659579-104",
+  "void-of-silence/164018933-106",
+  "void-of-silence/370162568-104",
+  "void-of-silence/1394905554-103",
+  "void-of-silence/1876659579-102",
+  "void-of-silence/164018933-104",
+  "void-of-silence/370162568-102",
+  "void-of-silence/1394905554-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 99.38401442307692,
+   "iqr": 22.227822580645153
+  },
+  "onset_rate": {
+   "median": 1.968276073977646,
+   "iqr": 0.6097750387916401
+  },
+  "tempo_var": {
+   "median": 9.023943571442231,
+   "iqr": 6.648791263721009
+  },
+  "low_onset_rate": {
+   "median": 6.739486185512781,
+   "iqr": 1.886944524971712
+  },
+  "lufs": {
+   "median": -9.552471940625091,
+   "iqr": 2.1166597434126775
+  },
+  "rms_dbfs": {
+   "median": -9.411579916336247,
+   "iqr": 2.3834650715118864
+  },
+  "crest": {
+   "median": 9.411579608917236,
+   "iqr": 2.383464813232422
+  },
+  "centroid": {
+   "median": 2024.2566860908366,
+   "iqr": 272.1834561227861
+  },
+  "flatness": {
+   "median": 0.01534748775884509,
+   "iqr": 0.009928235900588334
+  },
+  "sub100_share": {
+   "median": 0.1309749037027359,
+   "iqr": 0.1084600305184722
+  },
+  "lowest_pitch": {
+   "median": 47.1038818359375,
+   "iqr": 16.82281494140625
+  },
+  "harmonic_share": {
+   "median": 0.8699840009212494,
+   "iqr": 0.060242220759391785
+  },
+  "clean_share": {
+   "median": 0.11885056312650863,
+   "iqr": 0.4499612102404965
+  },
+  "minor_share": {
+   "median": 0.0398713689570081,
+   "iqr": 0.11348214567888308
+  },
+  "chord_rate": {
+   "median": 0.7673330643040938,
+   "iqr": 0.48447879794404314
+  },
+  "repetitiveness": {
+   "median": 0.8245491981506348,
+   "iqr": 0.07564568519592285
+  },
+  "vocal_share": {
+   "median": 0.0780894123017788,
+   "iqr": 0.054082383401691914
+  },
+  "vocal_voiced": {
+   "median": 0.773776998464027,
+   "iqr": 0.09206088401000045
+  },
+  "song_length": {
+   "median": 593.9285,
+   "iqr": 376.0892500000001
+  },
+  "vocal_presence": {
+   "median": 0.5,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "autopsy/673995374-106",
+ "band": "autopsy",
+ "title": "Dead",
+ "source": "itunes",
+ "album": "Mental Funeral",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 1.8999712778340465,
+  "tempo_var": 20.003206224642806,
+  "low_onset_rate": 3.999939532282203,
+  "lufs": -13.11933149985982,
+  "rms_dbfs": -12.91056858060726,
+  "crest": 12.910568237304688,
+  "centroid": 1860.3139371316745,
+  "flatness": 0.010202139616012573,
+  "sub100_share": 0.07103507220745087,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8107830882072449,
+  "clean_share": 0.45243619489559167,
+  "minor_share": 0.21398751647742842,
+  "chord_rate": 0.8999863947634957,
+  "repetitiveness": 0.6153396368026733,
+  "vocal_share": 0.0009718940709717572,
+  "vocal_voiced": 0.0,
+  "song_length": 198.6
+ }
+}

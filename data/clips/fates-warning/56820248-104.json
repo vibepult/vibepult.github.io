@@ -1,0 +1,32 @@
+{
+ "id": "fates-warning/56820248-104",
+ "band": "fates-warning",
+ "title": "Guardian",
+ "source": "itunes",
+ "album": "Awaken the Guardian (Reissue)",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 3.809005721766959,
+  "tempo_var": 24.556554191446768,
+  "low_onset_rate": 5.379385273723512,
+  "lufs": -11.690159172957081,
+  "rms_dbfs": -14.204232467355792,
+  "crest": 14.204233169555664,
+  "centroid": 2526.2218121122582,
+  "flatness": 0.018737729638814926,
+  "sub100_share": 0.12437242269515991,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7636814117431641,
+  "clean_share": 0.32195500387897596,
+  "minor_share": 0.2863035271397597,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.7257039546966553,
+  "vocal_share": 7.843391927053744e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 453.2
+ }
+}

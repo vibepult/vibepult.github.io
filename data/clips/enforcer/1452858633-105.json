@@ -1,0 +1,32 @@
+{
+ "id": "enforcer/1452858633-105",
+ "band": "enforcer",
+ "title": "The End of a Universe",
+ "source": "itunes",
+ "album": "Zenith",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.7398111332007953,
+  "tempo_var": 27.3182598991853,
+  "low_onset_rate": 2.9068727876642586,
+  "lufs": -13.521267977951211,
+  "rms_dbfs": -12.880366746137742,
+  "crest": 12.880367279052734,
+  "centroid": 2281.2470861097654,
+  "flatness": 0.026718828827142715,
+  "sub100_share": 0.33606597781181335,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6722421646118164,
+  "clean_share": 0.12490302560124127,
+  "minor_share": 0.22548854461463075,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.8126749396324158,
+  "vocal_share": 0.0013320468133315444,
+  "vocal_voiced": 0.9859154929577465,
+  "song_length": 259.11
+ }
+}

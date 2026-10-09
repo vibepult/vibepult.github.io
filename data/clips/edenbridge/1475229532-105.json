@@ -1,0 +1,32 @@
+{
+ "id": "edenbridge/1475229532-105",
+ "band": "edenbridge",
+ "title": "All Our Yesterdays",
+ "source": "itunes",
+ "album": "Dynamind",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.713508582650439,
+  "tempo_var": 2.721274939417889,
+  "low_onset_rate": 5.579859259079669,
+  "lufs": -12.229694377549897,
+  "rms_dbfs": -11.387064565084653,
+  "crest": 11.387063980102539,
+  "centroid": 2221.0220364502798,
+  "flatness": 0.019512731581926346,
+  "sub100_share": 0.28460830450057983,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7849511504173279,
+  "clean_share": 0.04499612102404965,
+  "minor_share": -0.03803398237447264,
+  "chord_rate": 0.9689575958880862,
+  "repetitiveness": 0.8854876160621643,
+  "vocal_share": 0.06410813331604004,
+  "vocal_voiced": 0.9587155963302753,
+  "song_length": 297.842
+ }
+}

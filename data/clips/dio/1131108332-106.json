@@ -1,0 +1,32 @@
+{
+ "id": "dio/1131108332-106",
+ "band": "dio",
+ "title": "Pain",
+ "source": "itunes",
+ "album": "Strange Highways (2016 Remaster)",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 2.071564515346943,
+  "tempo_var": 29.083334512154607,
+  "low_onset_rate": 2.7063988023081027,
+  "lufs": -9.578827839487971,
+  "rms_dbfs": -9.050053344163207,
+  "crest": 9.050053596496582,
+  "centroid": 2480.561033727017,
+  "flatness": 0.027454964816570282,
+  "sub100_share": 0.28100746870040894,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.7200350165367126,
+  "clean_share": 0.09775019394879751,
+  "minor_share": -0.006965108592741798,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.8402280211448669,
+  "vocal_share": 0.1416383981704712,
+  "vocal_voiced": 0.6802547770700637,
+  "song_length": 251.772
+ }
+}

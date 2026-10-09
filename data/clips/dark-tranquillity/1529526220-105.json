@@ -1,0 +1,32 @@
+{
+ "id": "dark-tranquillity/1529526220-105",
+ "band": "dark-tranquillity",
+ "title": "Remain in the Unknown",
+ "source": "itunes",
+ "album": "Moment",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.3412330892692625,
+  "tempo_var": 5.29533854772769,
+  "low_onset_rate": 4.811375648547738,
+  "lufs": -8.987319262620733,
+  "rms_dbfs": -8.345511165870873,
+  "crest": 8.345511436462402,
+  "centroid": 2120.2297545634624,
+  "flatness": 0.022038867697119713,
+  "sub100_share": 0.2857075333595276,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7846581339836121,
+  "clean_share": 0.12800620636152055,
+  "minor_share": -0.29171531920344573,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.7782199382781982,
+  "vocal_share": 0.10477674007415771,
+  "vocal_voiced": 0.4647058823529412,
+  "song_length": 280.707
+ }
+}

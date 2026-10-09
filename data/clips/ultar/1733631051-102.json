@@ -1,0 +1,32 @@
+{
+ "id": "ultar/1733631051-102",
+ "band": "ultar",
+ "title": "Evening Star",
+ "source": "itunes",
+ "album": "At the Gates of Dusk",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 7.799882087950296,
+  "tempo_var": 0.0,
+  "low_onset_rate": 8.499871506099682,
+  "lufs": -6.056766153006831,
+  "rms_dbfs": -6.390861939106189,
+  "crest": 6.390862464904785,
+  "centroid": 2506.1036304055074,
+  "flatness": 0.047400638461112976,
+  "sub100_share": 0.20625726878643036,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7258130311965942,
+  "clean_share": 0.0,
+  "minor_share": 0.2351462808578706,
+  "chord_rate": 1.5666429834771962,
+  "repetitiveness": 0.8863781690597534,
+  "vocal_share": 0.04603046923875809,
+  "vocal_voiced": 0.2649402390438247,
+  "song_length": 409.946
+ }
+}

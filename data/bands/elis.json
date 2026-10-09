@@ -1,0 +1,127 @@
+{
+ "slug": "elis",
+ "name": "Elis",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 72469327,
+  "deezer": 101997,
+  "spotify": "4dTr0gD3dQD5dOzyaqdSyk"
+ },
+ "metadata": {
+  "formed": 2003,
+  "split": 2012,
+  "country": "LI",
+  "status": "split-up",
+  "members": 5,
+  "past_members": 5,
+  "full_lengths": 4,
+  "genre": "Symphonic Gothic Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 4739,
+  "themes": "Childhood, Love, Death, Solitude",
+  "release_year": 2005
+ },
+ "partial": false,
+ "clips": [
+  "elis/1346172269-106",
+  "elis/1183986837-106",
+  "elis/1184000714-106",
+  "elis/1184129469-106",
+  "elis/1346172269-105",
+  "elis/1183986837-105",
+  "elis/1184000714-107",
+  "elis/1184129469-105",
+  "elis/1346172269-107",
+  "elis/1183986837-107",
+  "elis/1184000714-105",
+  "elis/1184129469-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 132.59919819078948,
+   "iqr": 30.586936257102266
+  },
+  "onset_rate": {
+   "median": 3.916666666666667,
+   "iqr": 1.6333333333333333
+  },
+  "tempo_var": {
+   "median": 4.579016478580606,
+   "iqr": 4.083666257106641
+  },
+  "low_onset_rate": {
+   "median": 5.616666666666667,
+   "iqr": 1.3833333333333329
+  },
+  "lufs": {
+   "median": -7.7082465078067575,
+   "iqr": 2.0084209635104786
+  },
+  "rms_dbfs": {
+   "median": -6.998150843316816,
+   "iqr": 1.8410758309094106
+  },
+  "crest": {
+   "median": 6.998150825500488,
+   "iqr": 1.8410756587982178
+  },
+  "centroid": {
+   "median": 2373.498560140312,
+   "iqr": 164.6895228249591
+  },
+  "flatness": {
+   "median": 0.02461632527410984,
+   "iqr": 0.005233443342149258
+  },
+  "sub100_share": {
+   "median": 0.30827081203460693,
+   "iqr": 0.1551293507218361
+  },
+  "lowest_pitch": {
+   "median": 43.06640625,
+   "iqr": 7.40203857421875
+  },
+  "harmonic_share": {
+   "median": 0.8344071209430695,
+   "iqr": 0.052062466740608215
+  },
+  "clean_share": {
+   "median": 0.03676470588235294,
+   "iqr": 0.06288699690402476
+  },
+  "minor_share": {
+   "median": 0.099107252395915,
+   "iqr": 0.15643719045140922
+  },
+  "chord_rate": {
+   "median": 1.35,
+   "iqr": 0.46666666666666656
+  },
+  "repetitiveness": {
+   "median": 0.7826603949069977,
+   "iqr": 0.04937443137168884
+  },
+  "vocal_share": {
+   "median": 0.21593622863292694,
+   "iqr": 0.1392119638621807
+  },
+  "vocal_voiced": {
+   "median": 0.8975480941275189,
+   "iqr": 0.1500184450616322
+  },
+  "song_length": {
+   "median": 260.453,
+   "iqr": 26.506500000000017
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

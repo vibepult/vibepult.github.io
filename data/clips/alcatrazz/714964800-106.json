@@ -1,0 +1,32 @@
+{
+ "id": "alcatrazz/714964800-106",
+ "band": "alcatrazz",
+ "title": "Stripper",
+ "source": "itunes",
+ "album": "Disturbing the Peace",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.610901663191583,
+  "tempo_var": 9.943960510296334,
+  "low_onset_rate": 4.777963317655045,
+  "lufs": -7.623475871039061,
+  "rms_dbfs": -8.129106535080428,
+  "crest": 8.129106521606445,
+  "centroid": 2828.0060498446564,
+  "flatness": 0.051965273916721344,
+  "sub100_share": 0.1447613686323166,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.5956801772117615,
+  "clean_share": 0.0062063615205585725,
+  "minor_share": 0.026867384357721513,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.8622735738754272,
+  "vocal_share": 0.25661417841911316,
+  "vocal_voiced": 0.7218430034129693,
+  "song_length": 232.973
+ }
+}

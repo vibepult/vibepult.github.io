@@ -1,0 +1,32 @@
+{
+ "id": "all-that-remains/1440927819-105",
+ "band": "all-that-remains",
+ "title": "Whispers (I Hear You)",
+ "source": "itunes",
+ "album": "The Fall of Ideals",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.4666142613112427,
+  "tempo_var": 20.16120672117012,
+  "low_onset_rate": 3.899941043975148,
+  "lufs": -7.347081891048217,
+  "rms_dbfs": -6.95587168518355,
+  "crest": 6.95587158203125,
+  "centroid": 2529.4201985558902,
+  "flatness": 0.03688845410943031,
+  "sub100_share": 0.366598516702652,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7318105697631836,
+  "clean_share": 0.010054137664346482,
+  "minor_share": 0.09613796770933614,
+  "chord_rate": 1.6333086423485663,
+  "repetitiveness": 0.9073207378387451,
+  "vocal_share": 0.22218619287014008,
+  "vocal_voiced": 0.4153094462540717,
+  "song_length": 219.893
+ }
+}

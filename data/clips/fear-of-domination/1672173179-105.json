@@ -1,0 +1,32 @@
+{
+ "id": "fear-of-domination/1672173179-105",
+ "band": "fear-of-domination",
+ "title": "Rust",
+ "source": "itunes",
+ "album": "VI Revelation",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 3.6753563981961888,
+  "tempo_var": 10.69463103246406,
+  "low_onset_rate": 7.684836105319304,
+  "lufs": -10.53868108990657,
+  "rms_dbfs": -11.717556115230641,
+  "crest": 11.717556953430176,
+  "centroid": 2229.141523043106,
+  "flatness": 0.028242409229278564,
+  "sub100_share": 0.32340171933174133,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7754974365234375,
+  "clean_share": 0.20248254460822343,
+  "minor_share": 0.13530201411395193,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.8603175282478333,
+  "vocal_share": 0.16182377934455872,
+  "vocal_voiced": 0.39328277356446373,
+  "song_length": 197.048
+ }
+}

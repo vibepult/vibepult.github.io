@@ -1,0 +1,32 @@
+{
+ "id": "mastodon/1195230194-106",
+ "band": "mastodon",
+ "title": "Word to the Wise",
+ "source": "itunes",
+ "album": "Emperor of Sand",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.899625420608215,
+  "tempo_var": 18.91013088450261,
+  "low_onset_rate": 5.599644467017967,
+  "lufs": -8.48218334977932,
+  "rms_dbfs": -8.257616831242533,
+  "crest": 8.257616996765137,
+  "centroid": 2857.5441805133855,
+  "flatness": 0.04916532710194588,
+  "sub100_share": 0.2342764437198639,
+  "lowest_pitch": 104.974365234375,
+  "harmonic_share": 0.8109190464019775,
+  "clean_share": 0.0,
+  "minor_share": -0.04562744607544694,
+  "chord_rate": 2.4998412799187353,
+  "repetitiveness": 0.8910762071609497,
+  "vocal_share": 0.13430280983448029,
+  "vocal_voiced": 0.7529200359389039,
+  "song_length": 240.298
+ }
+}

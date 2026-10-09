@@ -1,0 +1,32 @@
+{
+ "id": "satan/1032886773-105",
+ "band": "satan",
+ "title": "Atom by Atom",
+ "source": "itunes",
+ "album": "Atom by Atom",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 5.379385273723512,
+  "tempo_var": 5.946644035010285,
+  "low_onset_rate": 6.314930538718906,
+  "lufs": -8.726865391202884,
+  "rms_dbfs": -8.22545837793055,
+  "crest": 8.225458145141602,
+  "centroid": 2306.6364465252036,
+  "flatness": 0.022111937403678894,
+  "sub100_share": 0.2356029897928238,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7637492418289185,
+  "clean_share": 0.004654771140418929,
+  "minor_share": -0.04278778581598264,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.9414336681365967,
+  "vocal_share": 0.12753117084503174,
+  "vocal_voiced": 0.95,
+  "song_length": 239.621
+ }
+}

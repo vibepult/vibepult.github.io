@@ -1,0 +1,32 @@
+{
+ "id": "budgie/1681883802-104",
+ "band": "budgie",
+ "title": "Make Me Happy (2013 Remaster)",
+ "source": "itunes",
+ "album": "Squawk (2013 Remaster)",
+ "year": 1972,
+ "itunes_year": 1972,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 3.999939532282203,
+  "tempo_var": 23.155749937479364,
+  "low_onset_rate": 5.666581004066455,
+  "lufs": -22.335792555135217,
+  "rms_dbfs": -22.388642196874255,
+  "crest": 19.62066650390625,
+  "centroid": 2753.2460472803796,
+  "flatness": 0.012424403801560402,
+  "sub100_share": 0.02232358790934086,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.8750674724578857,
+  "clean_share": 0.42614075792730083,
+  "minor_share": -0.36594482051241617,
+  "chord_rate": 0.8333207358921256,
+  "repetitiveness": 0.8075576424598694,
+  "vocal_share": 0.3453875184059143,
+  "vocal_voiced": 0.9926739926739927,
+  "song_length": 157.107
+ }
+}

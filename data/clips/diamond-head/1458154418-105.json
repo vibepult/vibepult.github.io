@@ -1,0 +1,32 @@
+{
+ "id": "diamond-head/1458154418-105",
+ "band": "diamond-head",
+ "title": "Borrowed Time",
+ "source": "itunes",
+ "album": "Borrowed Time",
+ "year": 1982,
+ "itunes_year": 1982,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 71.77734375,
+  "onset_rate": 4.033272361717888,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.766594609302959,
+  "lufs": -8.91134435904688,
+  "rms_dbfs": -9.14733794964189,
+  "crest": 9.147337913513184,
+  "centroid": 2664.738665620094,
+  "flatness": 0.029010232537984848,
+  "sub100_share": 0.11576762050390244,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7892926931381226,
+  "clean_share": 0.018561484918793503,
+  "minor_share": -0.13785758436829287,
+  "chord_rate": 1.7999727895269915,
+  "repetitiveness": 0.8748711347579956,
+  "vocal_share": 0.28524500131607056,
+  "vocal_voiced": 0.8971848225214198,
+  "song_length": 459.333
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "ankor/1614714388-107",
+ "band": "ankor",
+ "title": "Winner Horse",
+ "source": "itunes",
+ "album": "Last Song For Venus",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.613271589972361,
+  "tempo_var": 5.8782954376653445,
+  "low_onset_rate": 6.047631891577365,
+  "lufs": -6.827982725033949,
+  "rms_dbfs": -6.33782046193571,
+  "crest": 6.337821006774902,
+  "centroid": 2464.6444260924686,
+  "flatness": 0.032109420746564865,
+  "sub100_share": 0.34066241979599,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7632097601890564,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": -0.1500117925066209,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.8320516347885132,
+  "vocal_share": 0.2865253984928131,
+  "vocal_voiced": 0.5412411626080126,
+  "song_length": 201.394
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "windhand/1410436187-103",
+ "band": "windhand",
+ "title": "Pilgrim's Rest",
+ "source": "itunes",
+ "album": "Eternal Return",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 2.4,
+  "tempo_var": 7.521942258273027,
+  "low_onset_rate": 3.566666666666667,
+  "lufs": -13.323509878905297,
+  "rms_dbfs": -11.654060175274335,
+  "crest": 11.654060363769531,
+  "centroid": 1415.7175910519277,
+  "flatness": 0.00374564784578979,
+  "sub100_share": 0.5779734253883362,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.9222947359085083,
+  "clean_share": 0.8637770897832817,
+  "minor_share": 0.19141220589049135,
+  "chord_rate": 1.0333333333333334,
+  "repetitiveness": 0.5628446936607361,
+  "vocal_share": 0.15052039921283722,
+  "vocal_voiced": 0.9092526690391459,
+  "song_length": 197.013
+ }
+}

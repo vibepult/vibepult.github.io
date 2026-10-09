@@ -1,0 +1,32 @@
+{
+ "id": "voyager/1399686749-107",
+ "band": "voyager",
+ "title": "The Meaning of I",
+ "source": "itunes",
+ "album": "The Meaning of I",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 5.680096251757746,
+  "tempo_var": 14.355355645048942,
+  "low_onset_rate": 3.842418052659652,
+  "lufs": -9.696562796984248,
+  "rms_dbfs": -8.745184885974048,
+  "crest": 8.745184898376465,
+  "centroid": 2449.415095523351,
+  "flatness": 0.025318270549178123,
+  "sub100_share": 0.4738171398639679,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8253081440925598,
+  "clean_share": 0.10705973622963538,
+  "minor_share": 0.13319067823231,
+  "chord_rate": 1.336493235707705,
+  "repetitiveness": 0.7338215112686157,
+  "vocal_share": 0.11766409128904343,
+  "vocal_voiced": 0.5303030303030303,
+  "song_length": 258.933
+ }
+}

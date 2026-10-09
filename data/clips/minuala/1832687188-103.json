@@ -1,0 +1,32 @@
+{
+ "id": "minuala/1832687188-103",
+ "band": "minuala",
+ "title": "Суо (feat. Лёдъ)",
+ "source": "itunes",
+ "album": "Край тысячи озёр",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 1.9666369367054164,
+  "tempo_var": 3.2535638231428687,
+  "low_onset_rate": 5.333252709709604,
+  "lufs": -6.0538349354218814,
+  "rms_dbfs": -5.314659217503097,
+  "crest": 5.314659118652344,
+  "centroid": 2589.647051254556,
+  "flatness": 0.039174143224954605,
+  "sub100_share": 0.2563611567020416,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8214688897132874,
+  "clean_share": 0.038669760247486466,
+  "minor_share": 0.0037426033832145267,
+  "chord_rate": 0.9999848830705508,
+  "repetitiveness": 0.8309863805770874,
+  "vocal_share": 0.13232733309268951,
+  "vocal_voiced": 0.8668805132317562,
+  "song_length": 225.231
+ }
+}

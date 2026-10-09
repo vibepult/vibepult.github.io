@@ -1,0 +1,32 @@
+{
+ "id": "pantera/1163811316-105",
+ "band": "pantera",
+ "title": "13 Steps to Nowhere",
+ "source": "itunes",
+ "album": "The Great Southern Trendkill (Remastered)",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 5.199386920363132,
+  "tempo_var": 31.647287387950104,
+  "low_onset_rate": 6.66588066713222,
+  "lufs": -10.36927842349854,
+  "rms_dbfs": -10.088485736320811,
+  "crest": 10.088485717773438,
+  "centroid": 2825.087714852901,
+  "flatness": 0.04874669015407562,
+  "sub100_share": 0.29094263911247253,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6408130526542664,
+  "clean_share": 0.014694508894044857,
+  "minor_share": 0.0722140869436475,
+  "chord_rate": 2.099752410146649,
+  "repetitiveness": 0.9283531904220581,
+  "vocal_share": 0.2540086507797241,
+  "vocal_voiced": 0.11121408711770157,
+  "song_length": 218.373
+ }
+}

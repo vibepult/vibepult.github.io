@@ -1,0 +1,32 @@
+{
+ "id": "gojira/291261388-107",
+ "band": "gojira",
+ "title": "Adoration for None",
+ "source": "itunes",
+ "album": "The Way of All Flesh",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 5.1,
+  "tempo_var": 12.630191014375605,
+  "low_onset_rate": 6.8,
+  "lufs": -7.6952437360591635,
+  "rms_dbfs": -7.539605505202376,
+  "crest": 7.539605617523193,
+  "centroid": 2714.040375349747,
+  "flatness": 0.05563483387231827,
+  "sub100_share": 0.31746727228164673,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.6466466188430786,
+  "clean_share": 0.0023219814241486067,
+  "minor_share": 0.07642329569052808,
+  "chord_rate": 2.066666666666667,
+  "repetitiveness": 0.9165675640106201,
+  "vocal_share": 0.22724080085754395,
+  "vocal_voiced": 0.06446140797285835,
+  "song_length": 379.8
+ }
+}

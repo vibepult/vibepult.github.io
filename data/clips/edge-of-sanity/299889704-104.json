@@ -1,0 +1,32 @@
+{
+ "id": "edge-of-sanity/299889704-104",
+ "band": "edge-of-sanity",
+ "title": "Demon I",
+ "source": "itunes",
+ "album": "Cryptic",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 2.1718015080250206,
+  "tempo_var": 22.007892827971652,
+  "low_onset_rate": 3.742181059981574,
+  "lufs": -9.156059931564947,
+  "rms_dbfs": -9.36788130766004,
+  "crest": 9.367881774902344,
+  "centroid": 2587.6406507238503,
+  "flatness": 0.04319107532501221,
+  "sub100_share": 0.2405136525630951,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.6561519503593445,
+  "clean_share": 0.0,
+  "minor_share": 0.018907509133694378,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.9404911994934082,
+  "vocal_share": 0.09109122306108475,
+  "vocal_voiced": 0.14042553191489363,
+  "song_length": 256.267
+ }
+}

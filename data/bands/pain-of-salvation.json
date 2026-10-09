@@ -1,0 +1,127 @@
+{
+ "slug": "pain-of-salvation",
+ "name": "Pain of Salvation",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 188155872,
+  "deezer": 3565,
+  "spotify": "1uRpg2s2jNaxbmoNiJDGfd"
+ },
+ "metadata": {
+  "formed": 1991,
+  "split": null,
+  "country": "SE",
+  "status": "active",
+  "members": 4,
+  "past_members": 8,
+  "full_lengths": 11,
+  "genre": "Progressive Rock/Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 32736,
+  "themes": "War, Humanity (early); Relationships, Life, The universe (later)",
+  "release_year": 2003
+ },
+ "partial": false,
+ "clips": [
+  "pain-of-salvation/1045505036-106",
+  "pain-of-salvation/1045593293-106",
+  "pain-of-salvation/1045566051-106",
+  "pain-of-salvation/1045605136-107",
+  "pain-of-salvation/1045690428-108",
+  "pain-of-salvation/1045601127-105",
+  "pain-of-salvation/1045618615-106",
+  "pain-of-salvation/1045629531-107",
+  "pain-of-salvation/1049126625-107",
+  "pain-of-salvation/1175466340-105",
+  "pain-of-salvation/1045505036-107",
+  "pain-of-salvation/1045593293-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 135.99917763157896,
+   "iqr": 53.31288213315217
+  },
+  "onset_rate": {
+   "median": 3.6920625636425353,
+   "iqr": 0.6014219560684673
+  },
+  "tempo_var": {
+   "median": 21.492466146615882,
+   "iqr": 13.27444747672863
+  },
+  "low_onset_rate": {
+   "median": 3.9259488798913833,
+   "iqr": 0.7100120314697178
+  },
+  "lufs": {
+   "median": -12.921364236457592,
+   "iqr": 1.9690280716761546
+  },
+  "rms_dbfs": {
+   "median": -12.556644927748223,
+   "iqr": 1.448960125897166
+  },
+  "crest": {
+   "median": 12.556645393371582,
+   "iqr": 1.4489612579345703
+  },
+  "centroid": {
+   "median": 2082.0992624960586,
+   "iqr": 691.1149104178489
+  },
+  "flatness": {
+   "median": 0.017946792766451836,
+   "iqr": 0.024534507072530687
+  },
+  "sub100_share": {
+   "median": 0.2077847570180893,
+   "iqr": 0.09160570427775383
+  },
+  "lowest_pitch": {
+   "median": 84.7869873046875,
+   "iqr": 37.68310546875
+  },
+  "harmonic_share": {
+   "median": 0.7454799115657806,
+   "iqr": 0.15365192294120789
+  },
+  "clean_share": {
+   "median": 0.39410395655546937,
+   "iqr": 0.46265188155833437
+  },
+  "minor_share": {
+   "median": 0.0814020935162933,
+   "iqr": 0.35069233993627563
+  },
+  "chord_rate": {
+   "median": 1.4033178974930904,
+   "iqr": 0.27022650851987606
+  },
+  "repetitiveness": {
+   "median": 0.8109109103679657,
+   "iqr": 0.18773794174194336
+  },
+  "vocal_share": {
+   "median": 0.19200433790683746,
+   "iqr": 0.1542513370513916
+  },
+  "vocal_voiced": {
+   "median": 0.6954139546971558,
+   "iqr": 0.3523291065617552
+  },
+  "song_length": {
+   "median": 327.46000000000004,
+   "iqr": 187.19275
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

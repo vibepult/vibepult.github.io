@@ -1,0 +1,32 @@
+{
+ "id": "toluca/1756920275-104",
+ "band": "toluca",
+ "title": "Haures",
+ "source": "itunes",
+ "album": "Darvo",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.497633897813395,
+  "tempo_var": 4.753088209421407,
+  "low_onset_rate": 4.830791964318091,
+  "lufs": -7.658876274787917,
+  "rms_dbfs": -7.5384351663038265,
+  "crest": 7.538434982299805,
+  "centroid": 2594.768089891393,
+  "flatness": 0.02956521138548851,
+  "sub100_share": 0.0905529260635376,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.8116661310195923,
+  "clean_share": 0.0015467904098994587,
+  "minor_share": 0.11398277618583136,
+  "chord_rate": 1.7324219458244188,
+  "repetitiveness": 0.7827649116516113,
+  "vocal_share": 0.1614183634519577,
+  "vocal_voiced": 0.353,
+  "song_length": 230.0
+ }
+}

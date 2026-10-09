@@ -1,0 +1,32 @@
+{
+ "id": "cathedral/46628580-107",
+ "band": "cathedral",
+ "title": "The Caravan",
+ "source": "itunes",
+ "album": "Caravan Beyond Redemption",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.8758303835523447,
+  "tempo_var": 17.40310785640561,
+  "low_onset_rate": 3.0739344421277215,
+  "lufs": -16.657315021399658,
+  "rms_dbfs": -14.909873893654026,
+  "crest": 14.909873008728027,
+  "centroid": 1266.61846228864,
+  "flatness": 0.005164888687431812,
+  "sub100_share": 0.3703337013721466,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.76025390625,
+  "clean_share": 0.7540729247478666,
+  "minor_share": -0.012823624196537153,
+  "chord_rate": 2.8734604567715656,
+  "repetitiveness": 0.7592820525169373,
+  "vocal_share": 1.0881916523430846e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 180.827
+ }
+}

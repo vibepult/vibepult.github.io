@@ -1,0 +1,32 @@
+{
+ "id": "delain/530146544-106",
+ "band": "delain",
+ "title": "I Want You",
+ "source": "itunes",
+ "album": "We Are the Others",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.174171434805799,
+  "tempo_var": 14.499253931279009,
+  "low_onset_rate": 1.2696685739223197,
+  "lufs": -14.935637469839596,
+  "rms_dbfs": -14.845839569607865,
+  "crest": 14.23393726348877,
+  "centroid": 1961.0798148737001,
+  "flatness": 0.011086661368608475,
+  "sub100_share": 0.0008595513645559549,
+  "lowest_pitch": 145.34912109375,
+  "harmonic_share": 0.9397904276847839,
+  "clean_share": 0.791311093871218,
+  "minor_share": -0.21887082201670127,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.5492441058158875,
+  "vocal_share": 0.7874712347984314,
+  "vocal_voiced": 0.9233419465977606,
+  "song_length": 292.253
+ }
+}

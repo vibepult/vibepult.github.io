@@ -1,0 +1,32 @@
+{
+ "id": "haemorrhage/356177849-112",
+ "band": "haemorrhage",
+ "title": "Surgical Extravaganza",
+ "source": "itunes",
+ "album": "Apology for Pathology",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.6753563981961888,
+  "tempo_var": 22.766569532730234,
+  "low_onset_rate": 3.6753563981961888,
+  "lufs": -5.79598822864173,
+  "rms_dbfs": -6.081239298910752,
+  "crest": 6.081239700317383,
+  "centroid": 3281.9157684190354,
+  "flatness": 0.07568824291229248,
+  "sub100_share": 0.2582181394100189,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7178331613540649,
+  "clean_share": 0.003878975950349108,
+  "minor_share": 0.11730464157066967,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.9132727384567261,
+  "vocal_share": 0.08137726783752441,
+  "vocal_voiced": 0.05198776758409786,
+  "song_length": 235.886
+ }
+}

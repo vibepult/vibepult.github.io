@@ -1,0 +1,32 @@
+{
+ "id": "graveworm/1460472023-104",
+ "band": "graveworm",
+ "title": "Thorns of Desolation",
+ "source": "itunes",
+ "album": "Engraved in Black",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 0.46777263249769674,
+  "tempo_var": 10.961425477603226,
+  "low_onset_rate": 0.6348342869611598,
+  "lufs": -17.753378007042727,
+  "rms_dbfs": -18.38166422712956,
+  "crest": 18.381399154663086,
+  "centroid": 2036.976210568996,
+  "flatness": 0.009191806428134441,
+  "sub100_share": 0.09644052386283875,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.9569410681724548,
+  "clean_share": 0.839410395655547,
+  "minor_share": -0.30482493020714707,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.7483402490615845,
+  "vocal_share": 3.976997504651081e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 249.853
+ }
+}

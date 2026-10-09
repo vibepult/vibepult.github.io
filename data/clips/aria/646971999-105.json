@@ -1,0 +1,32 @@
+{
+ "id": "aria/646971999-105",
+ "band": "aria",
+ "title": "Горящая стрела",
+ "source": "itunes",
+ "album": "Химера",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.533166041843028,
+  "tempo_var": 8.855643450710279,
+  "low_onset_rate": 6.666465110654251,
+  "lufs": -10.006089478372074,
+  "rms_dbfs": -9.785282428945267,
+  "crest": 9.785282135009766,
+  "centroid": 2164.902054231678,
+  "flatness": 0.019204840064048767,
+  "sub100_share": 0.24545392394065857,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.7630758285522461,
+  "clean_share": 0.17788089713843774,
+  "minor_share": 0.1674582750046546,
+  "chord_rate": 1.7332809287701052,
+  "repetitiveness": 0.8921513557434082,
+  "vocal_share": 0.33121514320373535,
+  "vocal_voiced": 0.8748495788206979,
+  "song_length": 250.547
+ }
+}

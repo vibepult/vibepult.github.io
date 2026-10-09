@@ -1,0 +1,32 @@
+{
+ "id": "aeternitas/1561166126-109",
+ "band": "aeternitas",
+ "title": "Abt",
+ "source": "itunes",
+ "album": "La Danse Macabre (Extended)",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 5.045261964796587,
+  "tempo_var": 26.059447356764696,
+  "low_onset_rate": 6.314930538718906,
+  "lufs": -8.38566287201538,
+  "rms_dbfs": -8.493370944369715,
+  "crest": 8.49337100982666,
+  "centroid": 2828.5563670289957,
+  "flatness": 0.04293999448418617,
+  "sub100_share": 0.1849527508020401,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.772343635559082,
+  "clean_share": 0.0,
+  "minor_share": -0.01845182063448869,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.9262827634811401,
+  "vocal_share": 0.3666110932826996,
+  "vocal_voiced": 0.6070763500931099,
+  "song_length": 220.613
+ }
+}

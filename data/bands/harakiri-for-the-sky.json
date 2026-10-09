@@ -1,0 +1,127 @@
+{
+ "slug": "harakiri-for-the-sky",
+ "name": "Harakiri for the Sky",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 871354011,
+  "deezer": 6518643,
+  "spotify": "58KBq6qkQnfWYRqCjffQQq"
+ },
+ "metadata": {
+  "formed": 2011,
+  "split": null,
+  "country": "AT",
+  "status": "active",
+  "members": 2,
+  "past_members": 0,
+  "full_lengths": 8,
+  "genre": "Post-Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 15813,
+  "themes": "Depression, Addiction, Death, Suicide, Relationships",
+  "release_year": 2017
+ },
+ "partial": false,
+ "clips": [
+  "harakiri-for-the-sky/1008660156-103",
+  "harakiri-for-the-sky/1032661166-105",
+  "harakiri-for-the-sky/1110679228-104",
+  "harakiri-for-the-sky/1295620621-104",
+  "harakiri-for-the-sky/1532389837-105",
+  "harakiri-for-the-sky/1646937064-110",
+  "harakiri-for-the-sky/1770315043-104",
+  "harakiri-for-the-sky/1008660156-102",
+  "harakiri-for-the-sky/1032661166-104",
+  "harakiri-for-the-sky/1110679228-105",
+  "harakiri-for-the-sky/1295620621-105",
+  "harakiri-for-the-sky/1532389837-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 101.37169471153845,
+   "iqr": 27.34375
+  },
+  "onset_rate": {
+   "median": 4.7278448213160065,
+   "iqr": 2.787536410577279
+  },
+  "tempo_var": {
+   "median": 2.968640222510947,
+   "iqr": 11.641997167017793
+  },
+  "low_onset_rate": {
+   "median": 6.390938954770628,
+   "iqr": 1.807589261504507
+  },
+  "lufs": {
+   "median": -8.690981123209376,
+   "iqr": 2.1843270880555705
+  },
+  "rms_dbfs": {
+   "median": -7.579576581324255,
+   "iqr": 1.6057985257691545
+  },
+  "crest": {
+   "median": 7.579576730728149,
+   "iqr": 1.605798363685608
+  },
+  "centroid": {
+   "median": 2363.682904579542,
+   "iqr": 349.0525587096663
+  },
+  "flatness": {
+   "median": 0.02228009980171919,
+   "iqr": 0.011919355019927025
+  },
+  "sub100_share": {
+   "median": 0.3633204400539398,
+   "iqr": 0.22655854374170303
+  },
+  "lowest_pitch": {
+   "median": 52.4871826171875,
+   "iqr": 25.5706787109375
+  },
+  "harmonic_share": {
+   "median": 0.7942680716514587,
+   "iqr": 0.05320858955383301
+  },
+  "clean_share": {
+   "median": 0.01820118715263965,
+   "iqr": 0.08921239688313932
+  },
+  "minor_share": {
+   "median": -1.8473128100077174e-05,
+   "iqr": 0.19146995437949715
+  },
+  "chord_rate": {
+   "median": 1.3197870702613588,
+   "iqr": 0.1867728042700778
+  },
+  "repetitiveness": {
+   "median": 0.8299311101436615,
+   "iqr": 0.10948283970355988
+  },
+  "vocal_share": {
+   "median": 0.06418726593255997,
+   "iqr": 0.06913499534130096
+  },
+  "vocal_voiced": {
+   "median": 0.25542168674698795,
+   "iqr": 0.28812407147211394
+  },
+  "song_length": {
+   "median": 485.205,
+   "iqr": 117.85149999999999
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

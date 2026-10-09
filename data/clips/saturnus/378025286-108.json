@@ -1,0 +1,32 @@
+{
+ "id": "saturnus/378025286-108",
+ "band": "saturnus",
+ "title": "Drown My Sorrow",
+ "source": "itunes",
+ "album": "Martyre",
+ "year": 2000,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.1049768462396354,
+  "tempo_var": 18.168393438126852,
+  "low_onset_rate": 1.6706165446346313,
+  "lufs": -10.093718485292866,
+  "rms_dbfs": -12.638155905322837,
+  "crest": 12.63815689086914,
+  "centroid": 1624.1366242250454,
+  "flatness": 0.015381940640509129,
+  "sub100_share": 0.19817116856575012,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.8106480240821838,
+  "clean_share": 0.525989138867339,
+  "minor_share": -0.018569681916139835,
+  "chord_rate": 0.7016589487465451,
+  "repetitiveness": 0.6861932277679443,
+  "vocal_share": 0.11916029453277588,
+  "vocal_voiced": 0.7009009009009008,
+  "song_length": 412.213
+ }
+}

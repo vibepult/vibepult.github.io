@@ -1,0 +1,32 @@
+{
+ "id": "ultra-vomit/291371325-122",
+ "band": "ultra-vomit",
+ "title": "Max et compagnie",
+ "source": "itunes",
+ "album": "M. Patate",
+ "year": 2004,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.143129030693886,
+  "tempo_var": 12.061703702337766,
+  "low_onset_rate": 5.713508582650439,
+  "lufs": -8.393857156117056,
+  "rms_dbfs": -8.281336000988361,
+  "crest": 8.281336784362793,
+  "centroid": 2976.325421979745,
+  "flatness": 0.042339589446783066,
+  "sub100_share": 0.2524193227291107,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.8091362118721008,
+  "clean_share": 0.0062063615205585725,
+  "minor_share": -0.39221382981318303,
+  "chord_rate": 2.138389177132328,
+  "repetitiveness": 0.7525312304496765,
+  "vocal_share": 0.17173901200294495,
+  "vocal_voiced": 0.83515625,
+  "song_length": 285.267
+ }
+}

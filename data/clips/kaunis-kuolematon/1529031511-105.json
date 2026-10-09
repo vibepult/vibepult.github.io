@@ -1,0 +1,32 @@
+{
+ "id": "kaunis-kuolematon/1529031511-105",
+ "band": "kaunis-kuolematon",
+ "title": "Kylmä maa",
+ "source": "itunes",
+ "album": "Syttyköön Toinen Aurinko",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 8.233134194788938,
+  "tempo_var": 0.0,
+  "low_onset_rate": 8.833119682668295,
+  "lufs": -8.3363868703594,
+  "rms_dbfs": -7.724816108576579,
+  "crest": 7.72481632232666,
+  "centroid": 2311.477625854746,
+  "flatness": 0.026189493015408516,
+  "sub100_share": 0.3879121243953705,
+  "lowest_pitch": 94.207763671875,
+  "harmonic_share": 0.737228512763977,
+  "clean_share": 0.0,
+  "minor_share": 0.1705680335863312,
+  "chord_rate": 1.1333059215498944,
+  "repetitiveness": 0.9390966892242432,
+  "vocal_share": 0.14813187718391418,
+  "vocal_voiced": 0.012626262626262626,
+  "song_length": 421.0
+ }
+}

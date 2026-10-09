@@ -1,0 +1,32 @@
+{
+ "id": "gorgoroth/1445786642-105",
+ "band": "gorgoroth",
+ "title": "New Breed",
+ "source": "itunes",
+ "album": "Quantos Possunt Ad Satanitatem Trahunt",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 5.5,
+  "tempo_var": 0.32728858537368555,
+  "low_onset_rate": 6.966666666666667,
+  "lufs": -8.415134079234655,
+  "rms_dbfs": -7.746848768930697,
+  "crest": 7.7468485832214355,
+  "centroid": 2529.38176553713,
+  "flatness": 0.0338401198387146,
+  "sub100_share": 0.2290440797805786,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7016013860702515,
+  "clean_share": 0.06346749226006192,
+  "minor_share": 0.08022212339596102,
+  "chord_rate": 1.6333333333333333,
+  "repetitiveness": 0.9218829274177551,
+  "vocal_share": 0.052534956485033035,
+  "vocal_voiced": 0.0671462829736211,
+  "song_length": 329.067
+ }
+}

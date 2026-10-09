@@ -1,0 +1,32 @@
+{
+ "id": "serenity/1183570940-107",
+ "band": "serenity",
+ "title": "State of Siege",
+ "source": "itunes",
+ "album": "Death & Legacy",
+ "year": 2011,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.0,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.866666666666666,
+  "lufs": -18.605175479051784,
+  "rms_dbfs": -16.436779788918074,
+  "crest": 15.02927303314209,
+  "centroid": 1606.4333766518355,
+  "flatness": 0.0062994877807796,
+  "sub100_share": 0.6061038970947266,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.912667453289032,
+  "clean_share": 0.6300309597523219,
+  "minor_share": -0.11049742168629156,
+  "chord_rate": 1.6,
+  "repetitiveness": 0.760954737663269,
+  "vocal_share": 8.81463108726166e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 408.387
+ }
+}

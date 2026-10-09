@@ -1,0 +1,32 @@
+{
+ "id": "pitchshifter/1640430977-106",
+ "band": "pitchshifter",
+ "title": "(A Higher Form of) Killing",
+ "source": "itunes",
+ "album": "Desensitized",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.8758303835523447,
+  "tempo_var": 12.590306199380553,
+  "low_onset_rate": 6.047631891577365,
+  "lufs": -15.040922783936635,
+  "rms_dbfs": -14.130290927069822,
+  "crest": 14.130290985107422,
+  "centroid": 2743.7625713729767,
+  "flatness": 0.037742242217063904,
+  "sub100_share": 0.3707253336906433,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7450013160705566,
+  "clean_share": 0.003878975950349108,
+  "minor_share": 0.08608942586364954,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.9465676546096802,
+  "vocal_share": 0.0012363613350316882,
+  "vocal_voiced": 0.6164383561643836,
+  "song_length": 284.667
+ }
+}

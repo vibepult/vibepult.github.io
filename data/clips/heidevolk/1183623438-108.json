@@ -1,0 +1,32 @@
+{
+ "id": "heidevolk/1183623438-108",
+ "band": "heidevolk",
+ "title": "Velua",
+ "source": "itunes",
+ "album": "Velua",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.766666666666667,
+  "tempo_var": 23.281673779839952,
+  "low_onset_rate": 7.733333333333333,
+  "lufs": -8.02894308168631,
+  "rms_dbfs": -7.153103137527129,
+  "crest": 7.153102874755859,
+  "centroid": 1870.8138852045302,
+  "flatness": 0.009354284964501858,
+  "sub100_share": 0.36482107639312744,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.893898069858551,
+  "clean_share": 0.2894736842105263,
+  "minor_share": 0.0619270768224196,
+  "chord_rate": 1.5,
+  "repetitiveness": 0.9017553329467773,
+  "vocal_share": 5.292912419463391e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 290.213
+ }
+}

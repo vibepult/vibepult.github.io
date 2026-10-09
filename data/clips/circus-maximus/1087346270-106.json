@@ -1,0 +1,32 @@
+{
+ "id": "circus-maximus/1087346270-106",
+ "band": "circus-maximus",
+ "title": "Zero",
+ "source": "itunes",
+ "album": "Isolate",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.6332674237202047,
+  "tempo_var": 5.829317142802503,
+  "low_onset_rate": 6.266552987700903,
+  "lufs": -15.071308389842523,
+  "rms_dbfs": -14.855342556360188,
+  "crest": 14.855341911315918,
+  "centroid": 1930.0637814310855,
+  "flatness": 0.010087579488754272,
+  "sub100_share": 0.10033836960792542,
+  "lowest_pitch": 196.490478515625,
+  "harmonic_share": 0.8815377950668335,
+  "clean_share": 0.5483372003093581,
+  "minor_share": 0.2189655899903198,
+  "chord_rate": 1.0333145883974895,
+  "repetitiveness": 0.6431654095649719,
+  "vocal_share": 0.5208756327629089,
+  "vocal_voiced": 0.9257142857142857,
+  "song_length": 289.52
+ }
+}

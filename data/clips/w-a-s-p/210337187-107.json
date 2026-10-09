@@ -1,0 +1,32 @@
+{
+ "id": "w-a-s-p/210337187-107",
+ "band": "w-a-s-p",
+ "title": "Hellion",
+ "source": "itunes",
+ "album": "W.A.S.P.",
+ "year": 1984,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 4.333333333333333,
+  "tempo_var": 4.370216677721157,
+  "low_onset_rate": 5.233333333333333,
+  "lufs": -10.779763208854588,
+  "rms_dbfs": -10.854508985114759,
+  "crest": 10.854509353637695,
+  "centroid": 2539.0996586615465,
+  "flatness": 0.030268684029579163,
+  "sub100_share": 0.2806149125099182,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7619269490242004,
+  "clean_share": 0.043343653250773995,
+  "minor_share": 0.07055937644461852,
+  "chord_rate": 1.8333333333333333,
+  "repetitiveness": 0.9148797392845154,
+  "vocal_share": 0.25792163610458374,
+  "vocal_voiced": 0.5312246553122466,
+  "song_length": 219.017
+ }
+}

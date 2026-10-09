@@ -1,0 +1,32 @@
+{
+ "id": "rammstein/1440734479-105",
+ "band": "rammstein",
+ "title": "Los",
+ "source": "itunes",
+ "album": "Reise, Reise",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "hand",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.898567873026235,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.931521753913528,
+  "lufs": -10.11022316671044,
+  "rms_dbfs": -8.300224001664036,
+  "crest": 8.300224304199219,
+  "centroid": 2391.6633657093103,
+  "flatness": 0.01651013456285,
+  "sub100_share": 0.527553915977478,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.6790568232536316,
+  "clean_share": 0.21655065738592422,
+  "minor_share": -0.03154055700396474,
+  "chord_rate": 1.832660111251649,
+  "repetitiveness": 0.9267008900642395,
+  "vocal_share": 0.07393090426921844,
+  "vocal_voiced": 0.1622198505869797,
+  "song_length": 263.52
+ }
+}

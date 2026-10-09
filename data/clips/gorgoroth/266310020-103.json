@@ -1,0 +1,32 @@
+{
+ "id": "gorgoroth/266310020-103",
+ "band": "gorgoroth",
+ "title": "Ritual",
+ "source": "itunes",
+ "album": "Pentagram",
+ "year": 1994,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 0.06682466178538525,
+  "tempo_var": 3.2982193728465745,
+  "low_onset_rate": 8.386495054065849,
+  "lufs": -7.6442807732390445,
+  "rms_dbfs": -7.238258658990253,
+  "crest": 7.238259315490723,
+  "centroid": 2419.063570070065,
+  "flatness": 0.02232016995549202,
+  "sub100_share": 0.23140402138233185,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8334840536117554,
+  "clean_share": 0.003878975950349108,
+  "minor_share": -0.04337312675621441,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.9186818599700928,
+  "vocal_share": 8.33488911666791e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 232.12
+ }
+}

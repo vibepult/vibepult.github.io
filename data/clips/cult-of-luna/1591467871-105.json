@@ -1,0 +1,32 @@
+{
+ "id": "cult-of-luna/1591467871-105",
+ "band": "cult-of-luna",
+ "title": "Into the Night",
+ "source": "itunes",
+ "album": "The Long Road North",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.0071097803423363,
+  "tempo_var": 4.149836872957026,
+  "low_onset_rate": 1.871090529990787,
+  "lufs": -13.601124705653676,
+  "rms_dbfs": -12.999806464663301,
+  "crest": 12.99980640411377,
+  "centroid": 1699.4221285294475,
+  "flatness": 0.005722215864807367,
+  "sub100_share": 0.1870635598897934,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.938778817653656,
+  "clean_share": 0.5833979829325058,
+  "minor_share": -0.11137227092204849,
+  "chord_rate": 0.9689575958880862,
+  "repetitiveness": 0.5157837271690369,
+  "vocal_share": 0.05647291988134384,
+  "vocal_voiced": 0.19169329073482427,
+  "song_length": 418.83
+ }
+}

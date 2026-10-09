@@ -1,0 +1,32 @@
+{
+ "id": "tarot/991154475-105",
+ "band": "tarot",
+ "title": "Never Forever",
+ "source": "itunes",
+ "album": "The Spell of Iron",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.9473948988992875,
+  "tempo_var": 2.382428753501775,
+  "low_onset_rate": 7.3507127963923775,
+  "lufs": -7.942668421245606,
+  "rms_dbfs": -7.590322982029819,
+  "crest": 7.590322494506836,
+  "centroid": 2539.0857757886747,
+  "flatness": 0.030653078109025955,
+  "sub100_share": 0.39380431175231934,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.7648745775222778,
+  "clean_share": 0.038789759503491075,
+  "minor_share": 0.002357302562959518,
+  "chord_rate": 2.0047398535615577,
+  "repetitiveness": 0.8504573106765747,
+  "vocal_share": 0.00028094681329093874,
+  "vocal_voiced": 0.6923076923076923,
+  "song_length": 195.107
+ }
+}

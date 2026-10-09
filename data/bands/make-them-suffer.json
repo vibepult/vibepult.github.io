@@ -1,0 +1,127 @@
+{
+ "slug": "make-them-suffer",
+ "name": "Make Them Suffer",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 421186855,
+  "deezer": 2148551,
+  "spotify": "0FZcPgWI3BsFQl4rOAGSHT"
+ },
+ "metadata": {
+  "formed": 2008,
+  "split": null,
+  "country": "AU",
+  "status": "active",
+  "members": 5,
+  "past_members": 9,
+  "full_lengths": 5,
+  "genre": "Symphonic Deathcore (early); Deathcore/Metalcore (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 27279,
+  "themes": "Fantasy (early); Death, Sadness, Mental illness, Relationships (later)",
+  "release_year": 2017
+ },
+ "partial": false,
+ "clips": [
+  "make-them-suffer/1691676788-106",
+  "make-them-suffer/1473804638-105",
+  "make-them-suffer/1499687818-106",
+  "make-them-suffer/1691676788-105",
+  "make-them-suffer/1473804638-104",
+  "make-them-suffer/1499687818-105",
+  "make-them-suffer/1691676788-107",
+  "make-them-suffer/1473804638-107",
+  "make-them-suffer/1499687818-107",
+  "make-them-suffer/1691676788-104",
+  "make-them-suffer/1473804638-103",
+  "make-them-suffer/1499687818-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 143.5546875,
+   "iqr": 28.73792146381578
+  },
+  "onset_rate": {
+   "median": 5.616666666666667,
+   "iqr": 2.266666666666667
+  },
+  "tempo_var": {
+   "median": 15.643515814333979,
+   "iqr": 4.94321903599155
+  },
+  "low_onset_rate": {
+   "median": 6.0,
+   "iqr": 3.6916666666666673
+  },
+  "lufs": {
+   "median": -7.6769172790520805,
+   "iqr": 2.062420791467373
+  },
+  "rms_dbfs": {
+   "median": -6.8755437203271565,
+   "iqr": 2.2037456699652456
+  },
+  "crest": {
+   "median": 6.8755433559417725,
+   "iqr": 2.2037452459335327
+  },
+  "centroid": {
+   "median": 2564.4727870140005,
+   "iqr": 136.73090001789387
+  },
+  "flatness": {
+   "median": 0.03775324486196041,
+   "iqr": 0.010901516769081354
+  },
+  "sub100_share": {
+   "median": 0.4465867727994919,
+   "iqr": 0.1465146839618683
+  },
+  "lowest_pitch": {
+   "median": 53.8330078125,
+   "iqr": 11.43951416015625
+  },
+  "harmonic_share": {
+   "median": 0.810800313949585,
+   "iqr": 0.05094446241855621
+  },
+  "clean_share": {
+   "median": 0.006578947368421052,
+   "iqr": 0.022058823529411763
+  },
+  "minor_share": {
+   "median": 0.039231965924541645,
+   "iqr": 0.1689704712825596
+  },
+  "chord_rate": {
+   "median": 1.7666666666666666,
+   "iqr": 0.8916666666666668
+  },
+  "repetitiveness": {
+   "median": 0.9185360670089722,
+   "iqr": 0.055505767464637756
+  },
+  "vocal_share": {
+   "median": 0.15022510290145874,
+   "iqr": 0.053765881806612015
+  },
+  "vocal_voiced": {
+   "median": 0.18449317934466763,
+   "iqr": 0.20096942954169236
+  },
+  "song_length": {
+   "median": 233.897,
+   "iqr": 60.50400000000002
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

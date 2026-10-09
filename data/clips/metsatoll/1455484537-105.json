@@ -1,0 +1,32 @@
+{
+ "id": "metsatoll/1455484537-105",
+ "band": "metsatoll",
+ "title": "Ballaad Punastest Paeltest",
+ "source": "itunes",
+ "album": "Katk Kutsariks",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.076304368908501,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.245735950152742,
+  "lufs": -12.899427341379907,
+  "rms_dbfs": -12.388118107199926,
+  "crest": 12.388118743896484,
+  "centroid": 2009.5880824263652,
+  "flatness": 0.014644467271864414,
+  "sub100_share": 0.3011893332004547,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.6553547978401184,
+  "clean_share": 0.3343677269200931,
+  "minor_share": 0.2508927343717572,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.7489925026893616,
+  "vocal_share": 0.14541874825954437,
+  "vocal_voiced": 0.6300236406619385,
+  "song_length": 267.184
+ }
+}

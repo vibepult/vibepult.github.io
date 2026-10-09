@@ -1,0 +1,32 @@
+{
+ "id": "grim-reaper/1835427124-106",
+ "band": "grim-reaper",
+ "title": "Run For Your Life",
+ "source": "itunes",
+ "album": "See You In Hell",
+ "year": 1983,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.966591585917069,
+  "tempo_var": 13.905417836580275,
+  "low_onset_rate": 6.799897204879745,
+  "lufs": -9.472805782347697,
+  "rms_dbfs": -9.24568925292721,
+  "crest": 9.245689392089844,
+  "centroid": 3023.9078194929543,
+  "flatness": 0.04545074701309204,
+  "sub100_share": 0.2485417127609253,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.6946563720703125,
+  "clean_share": 0.0,
+  "minor_share": -0.24801836881720185,
+  "chord_rate": 2.666626354854802,
+  "repetitiveness": 0.9514840245246887,
+  "vocal_share": 0.18446595966815948,
+  "vocal_voiced": 0.4829694323144105,
+  "song_length": 221.962
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "annotations-of-an-autopsy",
+ "name": "Annotations of an Autopsy",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 262104474,
+  "deezer": 154423,
+  "spotify": "0Bwt1B6EdOHjjOTxlHbtR1"
+ },
+ "metadata": {
+  "formed": 2006,
+  "split": null,
+  "country": "GB",
+  "status": "active",
+  "members": 5,
+  "past_members": 11,
+  "full_lengths": 2,
+  "genre": "Deathcore",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 6095,
+  "themes": "Mutilation, Necrophilia (early); Science fiction (mid); Depression, Hate, Revenge (later)",
+  "release_year": 2009
+ },
+ "partial": false,
+ "clips": [
+  "annotations-of-an-autopsy/335991153-106",
+  "annotations-of-an-autopsy/1456960883-106",
+  "annotations-of-an-autopsy/335991153-107",
+  "annotations-of-an-autopsy/1456960883-107",
+  "annotations-of-an-autopsy/335991153-104",
+  "annotations-of-an-autopsy/1456960883-105",
+  "annotations-of-an-autopsy/335991153-108",
+  "annotations-of-an-autopsy/1456960883-108",
+  "annotations-of-an-autopsy/335991153-103",
+  "annotations-of-an-autopsy/1456960883-104",
+  "annotations-of-an-autopsy/335991153-109",
+  "annotations-of-an-autopsy/1456960883-109"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 21.710891993447063
+  },
+  "onset_rate": {
+   "median": 2.3722754933811765,
+   "iqr": 2.7063988023081027
+  },
+  "tempo_var": {
+   "median": 9.578222695239958,
+   "iqr": 5.624136402530651
+  },
+  "low_onset_rate": {
+   "median": 2.522630982398293,
+   "iqr": 5.487975349124763
+  },
+  "lufs": {
+   "median": -8.478914444084673,
+   "iqr": 0.7928798008158715
+  },
+  "rms_dbfs": {
+   "median": -7.832546452451343,
+   "iqr": 1.4297955444177513
+  },
+  "crest": {
+   "median": 7.8325464725494385,
+   "iqr": 1.4297959804534912
+  },
+  "centroid": {
+   "median": 2379.8004029886624,
+   "iqr": 209.18655614286763
+  },
+  "flatness": {
+   "median": 0.026227031834423542,
+   "iqr": 0.005809593014419079
+  },
+  "sub100_share": {
+   "median": 0.32998040318489075,
+   "iqr": 0.12741351872682571
+  },
+  "lowest_pitch": {
+   "median": 43.06640625,
+   "iqr": 18.841552734375
+  },
+  "harmonic_share": {
+   "median": 0.785243421792984,
+   "iqr": 0.06756086647510529
+  },
+  "clean_share": {
+   "median": 0.07990690457719163,
+   "iqr": 0.0903801396431342
+  },
+  "minor_share": {
+   "median": 0.006535419663584924,
+   "iqr": 0.20958558334148775
+  },
+  "chord_rate": {
+   "median": 1.7040288755273238,
+   "iqr": 0.7434243623624108
+  },
+  "repetitiveness": {
+   "median": 0.8768278956413269,
+   "iqr": 0.09033878147602081
+  },
+  "vocal_share": {
+   "median": 0.07716681808233261,
+   "iqr": 0.06593488901853561
+  },
+  "vocal_voiced": {
+   "median": 0.3011093502377179,
+   "iqr": 0.20074933199086087
+  },
+  "song_length": {
+   "median": 213.3865,
+   "iqr": 61.96950000000001
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "lex-talion",
+ "name": "Lex Talion",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1157621889,
+  "deezer": 11070364,
+  "spotify": "1M93pwzoP57d6dTKoqFYnn"
+ },
+ "metadata": {
+  "formed": 2010,
+  "split": null,
+  "country": "AR",
+  "status": "active",
+  "members": 5,
+  "past_members": 2,
+  "full_lengths": 2,
+  "genre": "Viking/Folk/Heavy Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 40,
+  "themes": "Social concerns, Spirituality, Pagan themes",
+  "release_year": 2015
+ },
+ "partial": false,
+ "clips": [
+  "lex-talion/1157621878-106",
+  "lex-talion/1441911021-106",
+  "lex-talion/1157621878-105",
+  "lex-talion/1441911021-107",
+  "lex-talion/1157621878-107",
+  "lex-talion/1441911021-105",
+  "lex-talion/1157621878-104",
+  "lex-talion/1441911021-108",
+  "lex-talion/1157621878-110",
+  "lex-talion/1441911021-104",
+  "lex-talion/1157621878-103",
+  "lex-talion/1441911021-109"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 139.77693256578948,
+   "iqr": 25.73620801303474
+  },
+  "onset_rate": {
+   "median": 4.176541361586578,
+   "iqr": 2.029799101731077
+  },
+  "tempo_var": {
+   "median": 7.268464550207527,
+   "iqr": 14.66895933457306
+  },
+  "low_onset_rate": {
+   "median": 4.711138655869661,
+   "iqr": 3.775593390874267
+  },
+  "lufs": {
+   "median": -7.302859642758575,
+   "iqr": 2.3885370411236586
+  },
+  "rms_dbfs": {
+   "median": -7.139084881257784,
+   "iqr": 2.228858620479545
+  },
+  "crest": {
+   "median": 7.139085292816162,
+   "iqr": 2.2288588285446167
+  },
+  "centroid": {
+   "median": 2448.480894256918,
+   "iqr": 222.39012522768508
+  },
+  "flatness": {
+   "median": 0.03002368099987507,
+   "iqr": 0.01544280000962317
+  },
+  "sub100_share": {
+   "median": 0.3389439135789871,
+   "iqr": 0.15577901527285576
+  },
+  "lowest_pitch": {
+   "median": 60.5621337890625,
+   "iqr": 12.78533935546875
+  },
+  "harmonic_share": {
+   "median": 0.7588988542556763,
+   "iqr": 0.07193516194820404
+  },
+  "clean_share": {
+   "median": 0.028704422032583395,
+   "iqr": 0.11016291698991466
+  },
+  "minor_share": {
+   "median": -0.029755955915579113,
+   "iqr": 0.19768442264960373
+  },
+  "chord_rate": {
+   "median": 1.7040288755273238,
+   "iqr": 0.6181281215148136
+  },
+  "repetitiveness": {
+   "median": 0.8676177561283112,
+   "iqr": 0.10447563230991364
+  },
+  "vocal_share": {
+   "median": 0.22340357303619385,
+   "iqr": 0.04829757660627365
+  },
+  "vocal_voiced": {
+   "median": 0.16577354080432138,
+   "iqr": 0.2823882499746624
+  },
+  "song_length": {
+   "median": 232.82600000000002,
+   "iqr": 102.7525
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

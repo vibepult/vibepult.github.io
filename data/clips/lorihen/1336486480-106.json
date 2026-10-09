@@ -1,0 +1,32 @@
+{
+ "id": "lorihen/1336486480-106",
+ "band": "lorihen",
+ "title": "Ausencia",
+ "source": "itunes",
+ "album": "Paradigma",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 2.0047398535615577,
+  "tempo_var": 17.331266862134182,
+  "low_onset_rate": 2.3054508315957913,
+  "lufs": -13.863841588955163,
+  "rms_dbfs": -12.201138284410924,
+  "crest": 12.20113754272461,
+  "centroid": 2014.1028310582305,
+  "flatness": 0.010179460048675537,
+  "sub100_share": 0.7703856825828552,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.9089261293411255,
+  "clean_share": 0.6602017067494181,
+  "minor_share": 0.3684208556614285,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.5511795878410339,
+  "vocal_share": 0.09893544018268585,
+  "vocal_voiced": 0.8857758620689655,
+  "song_length": 322.689
+ }
+}

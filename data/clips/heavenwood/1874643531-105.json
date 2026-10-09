@@ -1,0 +1,32 @@
+{
+ "id": "heavenwood/1874643531-105",
+ "band": "heavenwood",
+ "title": "The Stars",
+ "source": "itunes",
+ "album": "The Tarot of the Bohemians, pt. II",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.4332295319869393,
+  "tempo_var": 2.652926986130747,
+  "low_onset_rate": 6.766462087314064,
+  "lufs": -7.780463350214319,
+  "rms_dbfs": -6.754768830864293,
+  "crest": 6.754768371582031,
+  "centroid": 2383.863753714243,
+  "flatness": 0.026732636615633965,
+  "sub100_share": 0.5428270101547241,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8289055228233337,
+  "clean_share": 0.009280742459396751,
+  "minor_share": -0.10479973017787836,
+  "chord_rate": 1.966607207643004,
+  "repetitiveness": 0.832658588886261,
+  "vocal_share": 0.09254652261734009,
+  "vocal_voiced": 0.591044776119403,
+  "song_length": 344.773
+ }
+}

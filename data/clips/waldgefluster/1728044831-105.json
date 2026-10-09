@@ -1,0 +1,32 @@
+{
+ "id": "waldgefluster/1728044831-105",
+ "band": "waldgefluster",
+ "title": "Klage V (Herbststürme)",
+ "source": "itunes",
+ "album": "Herbstklagen",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.299973998645511,
+  "tempo_var": 13.205740116263334,
+  "low_onset_rate": 4.999969765866873,
+  "lufs": -17.14588289344285,
+  "rms_dbfs": -16.197091843113153,
+  "crest": 14.71193790435791,
+  "centroid": 901.3008444360942,
+  "flatness": 0.001156043028458953,
+  "sub100_share": 0.013797826133668423,
+  "lowest_pitch": 104.974365234375,
+  "harmonic_share": 0.9714238047599792,
+  "clean_share": 0.9675174013921114,
+  "minor_share": 0.012925322729060218,
+  "chord_rate": 0.8999945578560371,
+  "repetitiveness": 0.524814784526825,
+  "vocal_share": 9.80929712568468e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 184.613
+ }
+}

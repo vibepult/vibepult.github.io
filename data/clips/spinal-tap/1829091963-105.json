@@ -1,0 +1,32 @@
+{
+ "id": "spinal-tap/1829091963-105",
+ "band": "spinal-tap",
+ "title": "The Devil’s Just Not Getting Old",
+ "source": "itunes",
+ "album": "The End Continues",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.7332768967967227,
+  "tempo_var": 10.368573644488126,
+  "low_onset_rate": 2.599960695983432,
+  "lufs": -10.191959668763634,
+  "rms_dbfs": -10.07000695949528,
+  "crest": 10.07000732421875,
+  "centroid": 2104.889037856849,
+  "flatness": 0.011410780251026154,
+  "sub100_share": 0.19613195955753326,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.6974033713340759,
+  "clean_share": 0.27300850734725446,
+  "minor_share": 0.021379992601445963,
+  "chord_rate": 1.0333177125062358,
+  "repetitiveness": 0.7145596146583557,
+  "vocal_share": 0.3149210810661316,
+  "vocal_voiced": 0.1892147587511826,
+  "song_length": 203.126
+ }
+}

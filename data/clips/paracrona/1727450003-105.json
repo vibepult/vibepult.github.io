@@ -1,0 +1,32 @@
+{
+ "id": "paracrona/1727450003-105",
+ "band": "paracrona",
+ "title": "Mendacious",
+ "source": "itunes",
+ "album": "Sun God",
+ "year": 2023,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.466666666666667,
+  "tempo_var": 19.12188841098549,
+  "low_onset_rate": 7.033333333333333,
+  "lufs": -11.926043982673127,
+  "rms_dbfs": -11.078906472472331,
+  "crest": 11.078906059265137,
+  "centroid": 1574.0277406803996,
+  "flatness": 0.009119842201471329,
+  "sub100_share": 0.4284326732158661,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.8767580389976501,
+  "clean_share": 0.5773993808049536,
+  "minor_share": 0.1837787999191316,
+  "chord_rate": 1.1,
+  "repetitiveness": 0.7790311574935913,
+  "vocal_share": 1.9118756426905748e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 361.236
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "alcatrazz/1575574416-107",
+ "band": "alcatrazz",
+ "title": "Return to Nevermore",
+ "source": "itunes",
+ "album": "V",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.9736974494496438,
+  "tempo_var": 0.0,
+  "low_onset_rate": 2.7063988023081027,
+  "lufs": -8.572573767831999,
+  "rms_dbfs": -8.778700754575436,
+  "crest": 8.778700828552246,
+  "centroid": 2463.7850260776218,
+  "flatness": 0.029854945838451385,
+  "sub100_share": 0.19442138075828552,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6487617492675781,
+  "clean_share": 0.04422032583397983,
+  "minor_share": -0.055616849807640145,
+  "chord_rate": 2.071564515346943,
+  "repetitiveness": 0.8681070804595947,
+  "vocal_share": 0.33100971579551697,
+  "vocal_voiced": 0.7805507745266781,
+  "song_length": 317.45
+ }
+}

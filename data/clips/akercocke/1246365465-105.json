@@ -1,0 +1,32 @@
+{
+ "id": "akercocke/1246365465-105",
+ "band": "akercocke",
+ "title": "Familiar Ghosts",
+ "source": "itunes",
+ "album": "Renaissance in Extremis",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 2.7063988023081027,
+  "tempo_var": 5.022538958844366,
+  "low_onset_rate": 2.205213838917713,
+  "lufs": -17.42812499137617,
+  "rms_dbfs": -16.742882206880537,
+  "crest": 16.742881774902344,
+  "centroid": 1936.5281999650715,
+  "flatness": 0.011368543840944767,
+  "sub100_share": 0.2950509488582611,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.7172800302505493,
+  "clean_share": 0.3110938712179985,
+  "minor_share": 0.1531082461775949,
+  "chord_rate": 1.3030809048150125,
+  "repetitiveness": 0.950853705406189,
+  "vocal_share": 0.0008480151882395148,
+  "vocal_voiced": 0.7794117647058824,
+  "song_length": 437.878
+ }
+}

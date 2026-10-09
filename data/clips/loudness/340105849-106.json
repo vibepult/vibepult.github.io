@@ -1,0 +1,32 @@
+{
+ "id": "loudness/340105849-106",
+ "band": "loudness",
+ "title": "Run for Your Life",
+ "source": "itunes",
+ "album": "Thunder In the East",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 2.7996698801955326,
+  "tempo_var": 8.477803225102777,
+  "low_onset_rate": 3.8662107869366875,
+  "lufs": -12.046051557698666,
+  "rms_dbfs": -12.015161369988856,
+  "crest": 12.015161514282227,
+  "centroid": 2703.954102353341,
+  "flatness": 0.03290681913495064,
+  "sub100_share": 0.22822929918766022,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7644600868225098,
+  "clean_share": 0.08816705336426914,
+  "minor_share": -0.10289656319593654,
+  "chord_rate": 1.666470166783055,
+  "repetitiveness": 0.7142994999885559,
+  "vocal_share": 0.26385554671287537,
+  "vocal_voiced": 0.8317677198975235,
+  "song_length": 236.72
+ }
+}

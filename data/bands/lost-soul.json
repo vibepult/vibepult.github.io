@@ -1,0 +1,127 @@
+{
+ "slug": "lost-soul",
+ "name": "Lost Soul",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1506511398,
+  "deezer": 525546,
+  "spotify": "62XGlCPVw4mRaVGtwzpe1z"
+ },
+ "metadata": {
+  "formed": 1991,
+  "split": null,
+  "country": "PL",
+  "status": "on hold",
+  "members": 3,
+  "past_members": 14,
+  "full_lengths": 5,
+  "genre": "Technical Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 1582,
+  "themes": "Satanism, Nihilism, Death, Darkness, Chaos",
+  "release_year": 2009
+ },
+ "partial": false,
+ "clips": [
+  "lost-soul/63619327-105",
+  "lost-soul/1313311215-104",
+  "lost-soul/1044209458-107",
+  "lost-soul/63619327-104",
+  "lost-soul/1313311215-105",
+  "lost-soul/1044209458-106",
+  "lost-soul/63619327-106",
+  "lost-soul/1313311215-103",
+  "lost-soul/1044209458-108",
+  "lost-soul/63619327-103",
+  "lost-soul/1313311215-106",
+  "lost-soul/1044209458-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 132.59919819078948,
+   "iqr": 48.7060546875
+  },
+  "onset_rate": {
+   "median": 5.897276402560248,
+   "iqr": 1.6037918828492455
+  },
+  "tempo_var": {
+   "median": 7.073014173715382,
+   "iqr": 13.821882002752208
+  },
+  "low_onset_rate": {
+   "median": 8.453319715851233,
+   "iqr": 1.3782586493235698
+  },
+  "lufs": {
+   "median": -7.816062476228625,
+   "iqr": 1.9015727613768814
+  },
+  "rms_dbfs": {
+   "median": -6.916959011881435,
+   "iqr": 2.215500316564601
+  },
+  "crest": {
+   "median": 6.916958808898926,
+   "iqr": 2.215499997138977
+  },
+  "centroid": {
+   "median": 2674.005928083979,
+   "iqr": 240.0873645435363
+  },
+  "flatness": {
+   "median": 0.0404631532728672,
+   "iqr": 0.006196567788720131
+  },
+  "sub100_share": {
+   "median": 0.3708964139223099,
+   "iqr": 0.08794471621513367
+  },
+  "lowest_pitch": {
+   "median": 45.758056640625,
+   "iqr": 6.05621337890625
+  },
+  "harmonic_share": {
+   "median": 0.7749551832675934,
+   "iqr": 0.10138823091983795
+  },
+  "clean_share": {
+   "median": 0.0038789759503491082,
+   "iqr": 0.01512800620636152
+  },
+  "minor_share": {
+   "median": -0.014550455509738686,
+   "iqr": 0.12979496947766578
+  },
+  "chord_rate": {
+   "median": 1.7040288755273238,
+   "iqr": 0.33412330892692643
+  },
+  "repetitiveness": {
+   "median": 0.9237588942050934,
+   "iqr": 0.034632608294487
+  },
+  "vocal_share": {
+   "median": 0.10410095006227493,
+   "iqr": 0.019382018595933914
+  },
+  "vocal_voiced": {
+   "median": 0.23502824858757063,
+   "iqr": 0.1310968128903532
+  },
+  "song_length": {
+   "median": 300.9,
+   "iqr": 97.16025000000002
+  },
+  "vocal_presence": {
+   "median": 0.5833333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

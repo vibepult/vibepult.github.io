@@ -1,0 +1,32 @@
+{
+ "id": "sentenced/1463870389-104",
+ "band": "sentenced",
+ "title": "Capture of Fire",
+ "source": "itunes",
+ "album": "North From Here",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.911612641225816,
+  "tempo_var": 3.895814316869792,
+  "low_onset_rate": 6.782703171216603,
+  "lufs": -11.586174782293964,
+  "rms_dbfs": -11.707581183846088,
+  "crest": 11.707581520080566,
+  "centroid": 2956.02420807113,
+  "flatness": 0.050536759197711945,
+  "sub100_share": 0.2857338786125183,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7313899397850037,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": -0.0145881376131613,
+  "chord_rate": 2.773223464093488,
+  "repetitiveness": 0.7866137027740479,
+  "vocal_share": 0.07842524349689484,
+  "vocal_voiced": 0.06545454545454546,
+  "song_length": 396.867
+ }
+}

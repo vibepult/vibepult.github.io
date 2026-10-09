@@ -1,0 +1,32 @@
+{
+ "id": "tristania/1184696317-104",
+ "band": "tristania",
+ "title": "Lost",
+ "source": "itunes",
+ "album": "World of Glass",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 6.3,
+  "tempo_var": 0.0,
+  "low_onset_rate": 8.233333333333333,
+  "lufs": -9.553565027976244,
+  "rms_dbfs": -8.81635061949481,
+  "crest": 8.816350936889648,
+  "centroid": 2428.2517818081533,
+  "flatness": 0.03069370985031128,
+  "sub100_share": 0.4819304645061493,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8008591532707214,
+  "clean_share": 0.013157894736842105,
+  "minor_share": 0.08569926009854378,
+  "chord_rate": 2.466666666666667,
+  "repetitiveness": 0.9138332605361938,
+  "vocal_share": 0.09042935073375702,
+  "vocal_voiced": 0.16389132340052587,
+  "song_length": 363.133
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "a-sound-of-thunder/1040418779-106",
+ "band": "a-sound-of-thunder",
+ "title": "Losing Control (The Unquiet Shadow)",
+ "source": "itunes",
+ "album": "Tales from the Deadside",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.207583765698492,
+  "tempo_var": 16.96895154796723,
+  "low_onset_rate": 4.811375648547738,
+  "lufs": -9.502299646747591,
+  "rms_dbfs": -8.469063018471736,
+  "crest": 8.469062805175781,
+  "centroid": 2019.9610535189418,
+  "flatness": 0.01394473947584629,
+  "sub100_share": 0.4167511761188507,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.9045430421829224,
+  "clean_share": 0.430566330488751,
+  "minor_share": 0.037806796096528816,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.5789095759391785,
+  "vocal_share": 0.05622875317931175,
+  "vocal_voiced": 0.8375,
+  "song_length": 369.613
+ }
+}

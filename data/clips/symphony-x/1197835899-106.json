@@ -1,0 +1,32 @@
+{
+ "id": "symphony-x/1197835899-106",
+ "band": "symphony-x",
+ "title": "Shades of Grey",
+ "source": "itunes",
+ "album": "Symphony X (Special Edition)",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.8066357949861804,
+  "tempo_var": 10.074282614683407,
+  "low_onset_rate": 2.3722754933811765,
+  "lufs": -16.612579445958147,
+  "rms_dbfs": -17.147637379127787,
+  "crest": 15.25985336303711,
+  "centroid": 2466.164397768909,
+  "flatness": 0.01726818084716797,
+  "sub100_share": 0.07859349995851517,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.89332115650177,
+  "clean_share": 0.45151280062063615,
+  "minor_share": -0.3022966584207245,
+  "chord_rate": 0.801895941424623,
+  "repetitiveness": 0.5952923893928528,
+  "vocal_share": 0.6183437705039978,
+  "vocal_voiced": 0.9096774193548387,
+  "song_length": 341.467
+ }
+}

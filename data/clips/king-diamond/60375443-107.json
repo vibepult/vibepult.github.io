@@ -1,0 +1,32 @@
+{
+ "id": "king-diamond/60375443-107",
+ "band": "king-diamond",
+ "title": "No More Me",
+ "source": "itunes",
+ "album": "The Puppet Master",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.7087687290888813,
+  "tempo_var": 9.575204561498925,
+  "low_onset_rate": 3.809005721766959,
+  "lufs": -9.917373992436094,
+  "rms_dbfs": -10.223046582071715,
+  "crest": 10.22304630279541,
+  "centroid": 2261.3277338603802,
+  "flatness": 0.016564354300498962,
+  "sub100_share": 0.09179209917783737,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.8666262626647949,
+  "clean_share": 0.13886733902249807,
+  "minor_share": -0.1269029355135851,
+  "chord_rate": 0.7016589487465451,
+  "repetitiveness": 0.5975773334503174,
+  "vocal_share": 0.2093985229730606,
+  "vocal_voiced": 0.5096308186195827,
+  "song_length": 196.253
+ }
+}

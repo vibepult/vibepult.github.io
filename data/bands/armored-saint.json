@@ -1,0 +1,127 @@
+{
+ "slug": "armored-saint",
+ "name": "Armored Saint",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 54261072,
+  "deezer": 242475,
+  "spotify": "4ug41UGuMZzlV2hJOrOqHN"
+ },
+ "metadata": {
+  "formed": 1982,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 5,
+  "full_lengths": 9,
+  "genre": "Heavy Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 8838,
+  "themes": "Life, Fantasy",
+  "release_year": 1995
+ },
+ "partial": false,
+ "clips": [
+  "armored-saint/715828677-105",
+  "armored-saint/716372910-106",
+  "armored-saint/54267761-107",
+  "armored-saint/54262413-106",
+  "armored-saint/356174240-105",
+  "armored-saint/982581432-105",
+  "armored-saint/1523551500-106",
+  "armored-saint/1872193859-106",
+  "armored-saint/715828677-106",
+  "armored-saint/716372910-105",
+  "armored-saint/54267761-108",
+  "armored-saint/54262413-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.69701086956522,
+   "iqr": 33.7353515625
+  },
+  "onset_rate": {
+   "median": 4.176541361586578,
+   "iqr": 1.2448532598611979
+  },
+  "tempo_var": {
+   "median": 3.668573021996276,
+   "iqr": 5.532005508077608
+  },
+  "low_onset_rate": {
+   "median": 4.610901663191582,
+   "iqr": 1.63517149685087
+  },
+  "lufs": {
+   "median": -10.584867928903911,
+   "iqr": 0.9169951564752363
+  },
+  "rms_dbfs": {
+   "median": -10.916960036126042,
+   "iqr": 1.1402935789406197
+  },
+  "crest": {
+   "median": 10.916959762573242,
+   "iqr": 1.1402943134307861
+  },
+  "centroid": {
+   "median": 2623.5787629858696,
+   "iqr": 377.19275545284063
+  },
+  "flatness": {
+   "median": 0.03315240330994129,
+   "iqr": 0.013642675243318081
+  },
+  "sub100_share": {
+   "median": 0.1441543847322464,
+   "iqr": 0.08837076649069786
+  },
+  "lowest_pitch": {
+   "median": 78.057861328125,
+   "iqr": 45.758056640625
+  },
+  "harmonic_share": {
+   "median": 0.690070629119873,
+   "iqr": 0.0758405476808548
+  },
+  "clean_share": {
+   "median": 0.015515903801396433,
+   "iqr": 0.03308064490000162
+  },
+  "minor_share": {
+   "median": -0.025715211935700505,
+   "iqr": 0.21974441476323966
+  },
+  "chord_rate": {
+   "median": 1.7040288755273238,
+   "iqr": 1.0961022456111102
+  },
+  "repetitiveness": {
+   "median": 0.8354241251945496,
+   "iqr": 0.05433395504951477
+  },
+  "vocal_share": {
+   "median": 0.24461129307746887,
+   "iqr": 0.08511420339345932
+  },
+  "vocal_voiced": {
+   "median": 0.6626297577854672,
+   "iqr": 0.21242118093833573
+  },
+  "song_length": {
+   "median": 280.45349999999996,
+   "iqr": 52.46800000000002
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

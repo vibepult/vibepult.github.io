@@ -1,0 +1,32 @@
+{
+ "id": "oceanhoarse/1564503784-103",
+ "band": "oceanhoarse",
+ "title": "Betrayed by Light",
+ "source": "itunes",
+ "album": "Dead Reckoning",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.412797604616205,
+  "tempo_var": 16.37539028023569,
+  "low_onset_rate": 6.949764825680066,
+  "lufs": -9.420554286209615,
+  "rms_dbfs": -8.454672136440319,
+  "crest": 8.454671859741211,
+  "centroid": 2719.6745659152366,
+  "flatness": 0.033578988164663315,
+  "sub100_share": 0.45631229877471924,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7659255266189575,
+  "clean_share": 0.010861132660977503,
+  "minor_share": 0.08834235128718004,
+  "chord_rate": 2.0047398535615577,
+  "repetitiveness": 0.8681032657623291,
+  "vocal_share": 0.13071860373020172,
+  "vocal_voiced": 0.7451701931922723,
+  "song_length": 263.852
+ }
+}

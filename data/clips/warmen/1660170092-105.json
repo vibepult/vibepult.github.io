@@ -1,0 +1,32 @@
+{
+ "id": "warmen/1660170092-105",
+ "band": "warmen",
+ "title": "They All Blame Me",
+ "source": "itunes",
+ "album": "Accept the Fact",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.94265504533773,
+  "tempo_var": 25.131448886549098,
+  "low_onset_rate": 3.94265504533773,
+  "lufs": -11.556003683241451,
+  "rms_dbfs": -10.525451508149164,
+  "crest": 10.52545166015625,
+  "centroid": 2352.2573932251375,
+  "flatness": 0.015985384583473206,
+  "sub100_share": 0.4065183401107788,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.84833824634552,
+  "clean_share": 0.2692009309542281,
+  "minor_share": -0.032084718430064774,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.5378895998001099,
+  "vocal_share": 0.17997464537620544,
+  "vocal_voiced": 0.7582159624413145,
+  "song_length": 327.56
+ }
+}

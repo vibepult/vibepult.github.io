@@ -1,0 +1,32 @@
+{
+ "id": "obscura/356117942-107",
+ "band": "obscura",
+ "title": "Hate Anthem",
+ "source": "itunes",
+ "album": "Retribution",
+ "year": 2006,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.746920913543131,
+  "tempo_var": 12.91282277400574,
+  "low_onset_rate": 7.217063472821607,
+  "lufs": -9.193398295947592,
+  "rms_dbfs": -8.610185597193063,
+  "crest": 8.610185623168945,
+  "centroid": 2442.2839600040093,
+  "flatness": 0.024645961821079254,
+  "sub100_share": 0.3955230116844177,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.74515300989151,
+  "clean_share": 0.015515903801396431,
+  "minor_share": -0.01728973573189052,
+  "chord_rate": 1.971327522668865,
+  "repetitiveness": 0.9304080009460449,
+  "vocal_share": 0.11842215061187744,
+  "vocal_voiced": 0.24935064935064935,
+  "song_length": 149.477
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "darzamat/1240815134-103",
+ "band": "darzamat",
+ "title": "Secret Garden",
+ "source": "itunes",
+ "album": "In the Flames of Black Art",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.076304368908501,
+  "tempo_var": 8.312994413835412,
+  "low_onset_rate": 4.878200310333123,
+  "lufs": -9.47362537665613,
+  "rms_dbfs": -9.623812238236747,
+  "crest": 9.623812675476074,
+  "centroid": 2961.691213907951,
+  "flatness": 0.02817424200475216,
+  "sub100_share": 0.20887920260429382,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7986622452735901,
+  "clean_share": 0.22110162916989914,
+  "minor_share": 0.25273369053757355,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.8564356565475464,
+  "vocal_share": 0.1772771179676056,
+  "vocal_voiced": 0.990990990990991,
+  "song_length": 291.973
+ }
+}

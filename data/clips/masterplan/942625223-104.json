@@ -1,0 +1,32 @@
+{
+ "id": "masterplan/942625223-104",
+ "band": "masterplan",
+ "title": "Crystal Night",
+ "source": "itunes",
+ "album": "Masterplan",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.379385273723512,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.448579862289677,
+  "lufs": -7.809339404968978,
+  "rms_dbfs": -7.560982354619943,
+  "crest": 7.5609822273254395,
+  "centroid": 2582.5193185970465,
+  "flatness": 0.044443726539611816,
+  "sub100_share": 0.2910252511501312,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7036537528038025,
+  "clean_share": 0.0,
+  "minor_share": 0.10512343538931213,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.8667643666267395,
+  "vocal_share": 0.16813737154006958,
+  "vocal_voiced": 0.19714765100671142,
+  "song_length": 316.613
+ }
+}

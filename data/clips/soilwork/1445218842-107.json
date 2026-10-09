@@ -1,0 +1,32 @@
+{
+ "id": "soilwork/1445218842-107",
+ "band": "soilwork",
+ "title": "Stålfågel",
+ "source": "itunes",
+ "album": "Verkligheten",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 6.533293827399381,
+  "tempo_var": 8.718520900572258,
+  "low_onset_rate": 7.533287780572755,
+  "lufs": -7.848432844842448,
+  "rms_dbfs": -7.064789826307322,
+  "crest": 7.06479024887085,
+  "centroid": 1598.930184481009,
+  "flatness": 0.011161720380187035,
+  "sub100_share": 0.5155366063117981,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.879754900932312,
+  "clean_share": 0.46558391337973704,
+  "minor_share": 0.02074525804691585,
+  "chord_rate": 0.6999957672213623,
+  "repetitiveness": 0.8619282841682434,
+  "vocal_share": 6.951805175958725e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 265.824
+ }
+}

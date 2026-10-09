@@ -1,0 +1,32 @@
+{
+ "id": "deafheaven/1485062651-103",
+ "band": "deafheaven",
+ "title": "Baby Blue",
+ "source": "itunes",
+ "album": "New Bermuda",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 2.466651751160991,
+  "tempo_var": 2.8817718800511605,
+  "low_onset_rate": 2.033321038119195,
+  "lufs": -12.051263077188063,
+  "rms_dbfs": -11.188252120981465,
+  "crest": 11.188251495361328,
+  "centroid": 2334.3674023236554,
+  "flatness": 0.026368234306573868,
+  "sub100_share": 0.4323531687259674,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.790294885635376,
+  "clean_share": 0.11910286156225831,
+  "minor_share": -0.12171351688481025,
+  "chord_rate": 1.0666602167182662,
+  "repetitiveness": 0.6486496329307556,
+  "vocal_share": 8.52082905566931e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 606.497
+ }
+}

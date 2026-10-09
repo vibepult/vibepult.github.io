@@ -1,0 +1,32 @@
+{
+ "id": "nailbomb/280151959-110",
+ "band": "nailbomb",
+ "title": "Exploitation",
+ "source": "itunes",
+ "album": "Point Blank",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.631834916182543,
+  "tempo_var": 17.394041092619922,
+  "low_onset_rate": 6.131701920577442,
+  "lufs": -11.322664439747152,
+  "rms_dbfs": -11.213746000211751,
+  "crest": 11.213746070861816,
+  "centroid": 2521.761978734396,
+  "flatness": 0.03367341682314873,
+  "sub100_share": 0.12013400346040726,
+  "lowest_pitch": 118.4326171875,
+  "harmonic_share": 0.7289239764213562,
+  "clean_share": 0.05645784996133024,
+  "minor_share": 0.06374132485750172,
+  "chord_rate": 2.299388220216541,
+  "repetitiveness": 0.9161288738250732,
+  "vocal_share": 0.047643668949604034,
+  "vocal_voiced": 0.13827993254637436,
+  "song_length": 148.027
+ }
+}

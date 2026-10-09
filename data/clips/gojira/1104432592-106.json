@@ -1,0 +1,32 @@
+{
+ "id": "gojira/1104432592-106",
+ "band": "gojira",
+ "title": "Magma",
+ "source": "itunes",
+ "album": "Magma",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 5.197454308093994,
+  "tempo_var": 2.842170943040401e-14,
+  "low_onset_rate": 7.096524151436031,
+  "lufs": -9.41221888578233,
+  "rms_dbfs": -8.423547958365202,
+  "crest": 8.423547744750977,
+  "centroid": 2286.239123241258,
+  "flatness": 0.024772334843873978,
+  "sub100_share": 0.40373992919921875,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8050459623336792,
+  "clean_share": 0.005413766434648105,
+  "minor_share": 0.07139285057959632,
+  "chord_rate": 1.532582680591819,
+  "repetitiveness": 0.866087794303894,
+  "vocal_share": 0.1924232840538025,
+  "vocal_voiced": 0.5159176029962547,
+  "song_length": 402.483
+ }
+}

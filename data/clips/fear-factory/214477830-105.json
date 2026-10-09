@@ -1,0 +1,32 @@
+{
+ "id": "fear-factory/214477830-105",
+ "band": "fear-factory",
+ "title": "New Breed",
+ "source": "itunes",
+ "album": "Demanufacture",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 5.166057517027471,
+  "tempo_var": 18.243214807014443,
+  "low_onset_rate": 8.432339043922259,
+  "lufs": -8.537148767034791,
+  "rms_dbfs": -8.214023954734701,
+  "crest": 8.21402359008789,
+  "centroid": 2848.9673159405525,
+  "flatness": 0.05364259332418442,
+  "sub100_share": 0.29959022998809814,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7149015069007874,
+  "clean_share": 0.005413766434648105,
+  "minor_share": 0.02977127090821835,
+  "chord_rate": 1.7664583767900384,
+  "repetitiveness": 0.972088634967804,
+  "vocal_share": 0.10029720515012741,
+  "vocal_voiced": 0.1504811898512686,
+  "song_length": 169.44
+ }
+}

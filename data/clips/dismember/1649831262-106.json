@@ -1,0 +1,32 @@
+{
+ "id": "dismember/1649831262-106",
+ "band": "dismember",
+ "title": "Trail of the Dead",
+ "source": "itunes",
+ "album": "The God That Never Was",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 2.338863162488484,
+  "tempo_var": 25.545331405418786,
+  "low_onset_rate": 2.5393371478446394,
+  "lufs": -10.314469512071467,
+  "rms_dbfs": -10.20361086539115,
+  "crest": 10.20361042022705,
+  "centroid": 2491.3826400416165,
+  "flatness": 0.036141786724328995,
+  "sub100_share": 0.3920555114746094,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.8038656115531921,
+  "clean_share": 0.07990690457719161,
+  "minor_share": -0.020367671665877107,
+  "chord_rate": 2.840048125878873,
+  "repetitiveness": 0.9019688367843628,
+  "vocal_share": 5.850948241459264e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 193.52
+ }
+}

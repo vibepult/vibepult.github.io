@@ -1,0 +1,127 @@
+{
+ "slug": "satan",
+ "name": "Satan",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 27051147,
+  "deezer": 12341,
+  "spotify": "1LNgvz72fQVLe7ZNIw6Ipo"
+ },
+ "metadata": {
+  "formed": 1979,
+  "split": null,
+  "country": "GB",
+  "status": "active",
+  "members": 5,
+  "past_members": 10,
+  "full_lengths": 7,
+  "genre": "NWOBHM, Heavy Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 3581,
+  "themes": "Society, Personal, History, Life, Death, Violence, Injustice, Supernatural",
+  "release_year": 2014
+ },
+ "partial": false,
+ "clips": [
+  "satan/1791521607-105",
+  "satan/1604443150-105",
+  "satan/616325692-105",
+  "satan/1032886773-105",
+  "satan/1395647354-105",
+  "satan/1606025334-105",
+  "satan/1755036672-105",
+  "satan/1791521607-106",
+  "satan/1604443150-104",
+  "satan/616325692-106",
+  "satan/1032886773-106",
+  "satan/1395647354-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 52.35523897058823
+  },
+  "onset_rate": {
+   "median": 5.055803479382612,
+   "iqr": 0.6794220023007949
+  },
+  "tempo_var": {
+   "median": 14.847927031049956,
+   "iqr": 12.024730517087729
+  },
+  "low_onset_rate": {
+   "median": 5.2290297847063965,
+   "iqr": 1.2219520179305432
+  },
+  "lufs": {
+   "median": -9.506479499766813,
+   "iqr": 7.137127781266006
+  },
+  "rms_dbfs": {
+   "median": -8.74076586658877,
+   "iqr": 7.60652483672972
+  },
+  "crest": {
+   "median": 8.740766048431396,
+   "iqr": 7.244925022125244
+  },
+  "centroid": {
+   "median": 2551.2585678403225,
+   "iqr": 242.999750468588
+  },
+  "flatness": {
+   "median": 0.030944325029850006,
+   "iqr": 0.010009010788053274
+  },
+  "sub100_share": {
+   "median": 0.2723599672317505,
+   "iqr": 0.17324426770210266
+  },
+  "lowest_pitch": {
+   "median": 53.8330078125,
+   "iqr": 12.78533935546875
+  },
+  "harmonic_share": {
+   "median": 0.7454547882080078,
+   "iqr": 0.07094864547252655
+  },
+  "clean_share": {
+   "median": 0.03491078355314197,
+   "iqr": 0.08767745639977031
+  },
+  "minor_share": {
+   "median": 0.04293291341912317,
+   "iqr": 0.09324470733828852
+  },
+  "chord_rate": {
+   "median": 1.921209026329826,
+   "iqr": 0.74869282740808
+  },
+  "repetitiveness": {
+   "median": 0.872212827205658,
+   "iqr": 0.055525749921798706
+  },
+  "vocal_share": {
+   "median": 0.12753117084503174,
+   "iqr": 0.08032342419028282
+  },
+  "vocal_voiced": {
+   "median": 0.8117647058823529,
+   "iqr": 0.11475336959978999
+  },
+  "song_length": {
+   "median": 287.4915,
+   "iqr": 58.14525000000003
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

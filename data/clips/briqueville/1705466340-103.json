@@ -1,0 +1,32 @@
+{
+ "id": "briqueville/1705466340-103",
+ "band": "briqueville",
+ "title": "AKTE XVIII",
+ "source": "itunes",
+ "album": "IIII",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 78.30255681818181,
+  "onset_rate": 3.2333333333333334,
+  "tempo_var": 16.82304907670983,
+  "low_onset_rate": 7.833333333333333,
+  "lufs": -13.550961830162096,
+  "rms_dbfs": -11.084747594891118,
+  "crest": 11.084747314453125,
+  "centroid": 1311.485099011866,
+  "flatness": 0.0017978048417717218,
+  "sub100_share": 0.5925321578979492,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.9628638625144958,
+  "clean_share": 0.9404024767801857,
+  "minor_share": -0.044009102889958185,
+  "chord_rate": 1.0333333333333334,
+  "repetitiveness": 0.9717318415641785,
+  "vocal_share": 2.9000673748669215e-05,
+  "vocal_voiced": 0.0,
+  "song_length": 495.848
+ }
+}

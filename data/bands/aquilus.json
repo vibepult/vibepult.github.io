@@ -1,0 +1,127 @@
+{
+ "slug": "aquilus",
+ "name": "Aquilus",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 383057189,
+  "deezer": 5829659,
+  "spotify": "1AKQ12On2ydAN0jykcB929"
+ },
+ "metadata": {
+  "formed": 2004,
+  "split": null,
+  "country": "AU",
+  "status": "active",
+  "members": 1,
+  "past_members": 0,
+  "full_lengths": 3,
+  "genre": "Atmospheric Black/Folk Metal/Neoclassical",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 1380,
+  "themes": "Nature",
+  "release_year": 2021
+ },
+ "partial": false,
+ "clips": [
+  "aquilus/1518918198-104",
+  "aquilus/1894229012-104",
+  "aquilus/1745640991-104",
+  "aquilus/1518918198-105",
+  "aquilus/1894229012-105",
+  "aquilus/1745640991-105",
+  "aquilus/1518918198-103",
+  "aquilus/1894229012-103",
+  "aquilus/1745640991-103",
+  "aquilus/1518918198-106",
+  "aquilus/1894229012-106",
+  "aquilus/1745640991-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 33.09536637931035
+  },
+  "onset_rate": {
+   "median": 3.5832791643361404,
+   "iqr": 2.9424714086246597
+  },
+  "tempo_var": {
+   "median": 4.388596280653643,
+   "iqr": 4.694040999590336
+  },
+  "low_onset_rate": {
+   "median": 6.916352494787374,
+   "iqr": 1.283313933273873
+  },
+  "lufs": {
+   "median": -15.68553626291098,
+   "iqr": 8.026022127702904
+  },
+  "rms_dbfs": {
+   "median": -14.930772632624642,
+   "iqr": 8.209550108735666
+  },
+  "crest": {
+   "median": 13.347504615783691,
+   "iqr": 5.311455488204956
+  },
+  "centroid": {
+   "median": 1563.690021676147,
+   "iqr": 1388.0353879813943
+  },
+  "flatness": {
+   "median": 0.005316702940035611,
+   "iqr": 0.03220092837000266
+  },
+  "sub100_share": {
+   "median": 0.25088847428560257,
+   "iqr": 0.28007646184414625
+  },
+  "lowest_pitch": {
+   "median": 72.674560546875,
+   "iqr": 26.91650390625
+  },
+  "harmonic_share": {
+   "median": 0.8957230746746063,
+   "iqr": 0.1532129943370819
+  },
+  "clean_share": {
+   "median": 0.7443928847641145,
+   "iqr": 0.9883990719257539
+  },
+  "minor_share": {
+   "median": 0.05142350478427288,
+   "iqr": 0.22883121114632413
+  },
+  "chord_rate": {
+   "median": 1.0343114807188307,
+   "iqr": 0.9283250780345786
+  },
+  "repetitiveness": {
+   "median": 0.7762696146965027,
+   "iqr": 0.13784903287887573
+  },
+  "vocal_share": {
+   "median": 0.02269231714308262,
+   "iqr": 0.0
+  },
+  "vocal_voiced": {
+   "median": 0.45121951219512196,
+   "iqr": 0.0
+  },
+  "song_length": {
+   "median": 465.025,
+   "iqr": 400.17325
+  },
+  "vocal_presence": {
+   "median": 0.08333333333333333,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

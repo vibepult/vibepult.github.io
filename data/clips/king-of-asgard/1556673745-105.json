@@ -1,0 +1,32 @@
+{
+ "id": "king-of-asgard/1556673745-105",
+ "band": "king-of-asgard",
+ "title": "Ammobiærg",
+ "source": "itunes",
+ "album": "Svartrviðr",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.410427677835426,
+  "tempo_var": 17.280510742065175,
+  "low_onset_rate": 6.181281215148136,
+  "lufs": -8.524690728940765,
+  "rms_dbfs": -8.605521652885662,
+  "crest": 8.605522155761719,
+  "centroid": 2308.7351260201995,
+  "flatness": 0.023954102769494057,
+  "sub100_share": 0.18766041100025177,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7900808453559875,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.02162796445057269,
+  "chord_rate": 0.801895941424623,
+  "repetitiveness": 0.8320180177688599,
+  "vocal_share": 0.06186637654900551,
+  "vocal_voiced": 0.48344370860927155,
+  "song_length": 483.44
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "paul-chain-violet-theatre/1201258900-104",
+ "band": "paul-chain-violet-theatre",
+ "title": "Crazy",
+ "source": "itunes",
+ "album": "In the Darkness",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.610901663191583,
+  "tempo_var": 2.913765209759299,
+  "low_onset_rate": 4.109716699801193,
+  "lufs": -14.391597909151011,
+  "rms_dbfs": -14.016229531695776,
+  "crest": 14.016229629516602,
+  "centroid": 2520.707829458557,
+  "flatness": 0.030965248122811317,
+  "sub100_share": 0.20806977152824402,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.557307243347168,
+  "clean_share": 0.055857253685027156,
+  "minor_share": -0.02891080477400998,
+  "chord_rate": 2.1049768462396354,
+  "repetitiveness": 0.8236892819404602,
+  "vocal_share": 0.21733257174491882,
+  "vocal_voiced": 0.8918495297805643,
+  "song_length": 271.76
+ }
+}

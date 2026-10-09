@@ -1,0 +1,32 @@
+{
+ "id": "symphony-x/1197816007-104",
+ "band": "symphony-x",
+ "title": "The Accolade",
+ "source": "itunes",
+ "album": "The Divine Wings of Tragedy (Special Edition)",
+ "year": 1996,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 3.866608214539463,
+  "tempo_var": 15.500286969697944,
+  "low_onset_rate": 3.799942555668093,
+  "lufs": -17.18453321243147,
+  "rms_dbfs": -16.30373556121566,
+  "crest": 16.303733825683594,
+  "centroid": 2603.919421250994,
+  "flatness": 0.018110718578100204,
+  "sub100_share": 0.3040204346179962,
+  "lowest_pitch": 164.190673828125,
+  "harmonic_share": 0.6810771822929382,
+  "clean_share": 0.20185614849187936,
+  "minor_share": -0.010860869269712192,
+  "chord_rate": 1.1333162008132909,
+  "repetitiveness": 0.7307220697402954,
+  "vocal_share": 4.576056198857259e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 591.307
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "cult-of-luna/1716088402-104",
+ "band": "cult-of-luna",
+ "title": "The Sweep",
+ "source": "itunes",
+ "album": "Vertikal",
+ "year": 2013,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 1.4999773246058261,
+  "tempo_var": 15.35888813557402,
+  "low_onset_rate": 5.299919880273919,
+  "lufs": -12.501076290142572,
+  "rms_dbfs": -11.53500582098994,
+  "crest": 11.535005569458008,
+  "centroid": 1053.1477098562113,
+  "flatness": 0.0016110048163682222,
+  "sub100_share": 0.19046248495578766,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.896714448928833,
+  "clean_share": 0.9110595514307811,
+  "minor_share": 0.006692133989156801,
+  "chord_rate": 1.0333177125062358,
+  "repetitiveness": 0.6781941056251526,
+  "vocal_share": 0.0001816660660551861,
+  "vocal_voiced": 0.84,
+  "song_length": 160.84
+ }
+}

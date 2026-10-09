@@ -1,0 +1,32 @@
+{
+ "id": "metallica/579146130-105",
+ "band": "metallica",
+ "title": "(Anesthesia)—Pulling Teeth",
+ "source": "itunes",
+ "album": "Kill 'Em All (Remastered)",
+ "year": 1983,
+ "itunes_year": 1983,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.966666666666667,
+  "tempo_var": 6.114334195149252,
+  "low_onset_rate": 5.033333333333333,
+  "lufs": -16.143005301212817,
+  "rms_dbfs": -16.0834890482928,
+  "crest": 13.427796363830566,
+  "centroid": 1906.9314624120657,
+  "flatness": 0.0025592597667127848,
+  "sub100_share": 0.013659491203725338,
+  "lowest_pitch": 148.040771484375,
+  "harmonic_share": 0.8888880610466003,
+  "clean_share": 0.8970588235294118,
+  "minor_share": 0.28769604811189764,
+  "chord_rate": 1.7666666666666666,
+  "repetitiveness": 0.6511889696121216,
+  "vocal_share": 1.0431112968944944e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 254.56
+ }
+}

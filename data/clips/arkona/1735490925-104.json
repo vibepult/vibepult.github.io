@@ -1,0 +1,32 @@
+{
+ "id": "arkona/1735490925-104",
+ "band": "arkona",
+ "title": "Зарницы нашей свободы",
+ "source": "itunes",
+ "album": "Лепта",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.7980019581535336,
+  "tempo_var": 6.477562848721394,
+  "low_onset_rate": 6.963003589948145,
+  "lufs": -9.12465501257667,
+  "rms_dbfs": -8.739885703465886,
+  "crest": 8.739886283874512,
+  "centroid": 2264.7078578704104,
+  "flatness": 0.028785865753889084,
+  "sub100_share": 0.25101402401924133,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.7053156495094299,
+  "clean_share": 0.08043310131477185,
+  "minor_share": 0.247140655589906,
+  "chord_rate": 1.7657377524748883,
+  "repetitiveness": 0.7790022492408752,
+  "vocal_share": 0.1981922835111618,
+  "vocal_voiced": 0.013409961685823755,
+  "song_length": 340.667
+ }
+}

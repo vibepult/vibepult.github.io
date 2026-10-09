@@ -1,0 +1,32 @@
+{
+ "id": "green-carnation/706409301-104",
+ "band": "green-carnation",
+ "title": "Into Deep",
+ "source": "itunes",
+ "album": "A Blessing in Disguise",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 1.5703795519565533,
+  "tempo_var": 11.574186024310192,
+  "low_onset_rate": 6.348342869611598,
+  "lufs": -9.581918714550753,
+  "rms_dbfs": -8.601212798944104,
+  "crest": 8.601213455200195,
+  "centroid": 1970.5874680333045,
+  "flatness": 0.019667934626340866,
+  "sub100_share": 0.3607134222984314,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8506290912628174,
+  "clean_share": 0.2009309542280838,
+  "minor_share": 0.12420139460831836,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.8691118359565735,
+  "vocal_share": 7.568400519630814e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 369.387
+ }
+}

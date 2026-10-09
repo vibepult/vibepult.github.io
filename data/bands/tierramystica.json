@@ -1,0 +1,127 @@
+{
+ "slug": "tierramystica",
+ "name": "Tierramystica",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 778621569,
+  "deezer": 7380374,
+  "spotify": "0wz6D0zCRzwOrQ1LgVkNdL"
+ },
+ "metadata": {
+  "formed": 2007,
+  "split": null,
+  "country": "BR",
+  "status": "active",
+  "members": 6,
+  "past_members": 11,
+  "full_lengths": 3,
+  "genre": "Power/Folk Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 1050,
+  "themes": "Life, Spiritual, Native American cultures",
+  "release_year": 2013
+ },
+ "partial": false,
+ "clips": [
+  "tierramystica/972711346-105",
+  "tierramystica/778621412-105",
+  "tierramystica/1836655581-106",
+  "tierramystica/972711346-104",
+  "tierramystica/778621412-106",
+  "tierramystica/1836655581-105",
+  "tierramystica/972711346-106",
+  "tierramystica/778621412-104",
+  "tierramystica/1836655581-107",
+  "tierramystica/972711346-103",
+  "tierramystica/778621412-107",
+  "tierramystica/1836655581-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 107.666015625,
+   "iqr": 52.61506645927601
+  },
+  "onset_rate": {
+   "median": 5.339534641743038,
+   "iqr": 0.8341233089269258
+  },
+  "tempo_var": {
+   "median": 14.920021684527303,
+   "iqr": 7.8518427789786305
+  },
+  "low_onset_rate": {
+   "median": 5.139495142963359,
+   "iqr": 3.0314589596566943
+  },
+  "lufs": {
+   "median": -8.692796919489986,
+   "iqr": 4.38840788359612
+  },
+  "rms_dbfs": {
+   "median": -8.176238952193046,
+   "iqr": 3.9046767055632774
+  },
+  "crest": {
+   "median": 8.176239490509033,
+   "iqr": 3.9046754837036133
+  },
+  "centroid": {
+   "median": 2551.474953953736,
+   "iqr": 270.06740213823014
+  },
+  "flatness": {
+   "median": 0.0331216175109148,
+   "iqr": 0.01487311813980341
+  },
+  "sub100_share": {
+   "median": 0.16074638813734055,
+   "iqr": 0.07669533230364323
+  },
+  "lowest_pitch": {
+   "median": 69.98291015625,
+   "iqr": 34.31854248046875
+  },
+  "harmonic_share": {
+   "median": 0.8025916218757629,
+   "iqr": 0.09972663223743439
+  },
+  "clean_share": {
+   "median": 0.0751431498245454,
+   "iqr": 0.15259161828955176
+  },
+  "minor_share": {
+   "median": 0.0392447618023237,
+   "iqr": 0.3032178229480925
+  },
+  "chord_rate": {
+   "median": 1.2195500775832808,
+   "iqr": 0.7257702262037531
+  },
+  "repetitiveness": {
+   "median": 0.8365822732448578,
+   "iqr": 0.059123292565345764
+  },
+  "vocal_share": {
+   "median": 0.21818450093269348,
+   "iqr": 0.04544620215892792
+  },
+  "vocal_voiced": {
+   "median": 0.7680776014109347,
+   "iqr": 0.025985761666767693
+  },
+  "song_length": {
+   "median": 357.4865,
+   "iqr": 98.61349999999993
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.5,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

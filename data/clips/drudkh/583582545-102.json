@@ -1,0 +1,32 @@
+{
+ "id": "drudkh/583582545-102",
+ "band": "drudkh",
+ "title": "Downfall of the Epoch",
+ "source": "itunes",
+ "album": "Пригорща Зірок",
+ "year": 2010,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.2720385007030983,
+  "tempo_var": 14.785635234487522,
+  "low_onset_rate": 2.405687824273869,
+  "lufs": -11.802410209896749,
+  "rms_dbfs": -11.57810733292578,
+  "crest": 11.578106880187988,
+  "centroid": 2270.253692999829,
+  "flatness": 0.015509912744164467,
+  "sub100_share": 0.3359263837337494,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.8423989415168762,
+  "clean_share": 0.06982156710628394,
+  "minor_share": 0.13657909349347985,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.7013730406761169,
+  "vocal_share": 3.4255421610396297e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 730.093
+ }
+}

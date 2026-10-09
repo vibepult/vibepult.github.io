@@ -1,0 +1,32 @@
+{
+ "id": "metal-church/309589774-105",
+ "band": "metal-church",
+ "title": "Hitman",
+ "source": "itunes",
+ "album": "Metal Church",
+ "year": 1984,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.266045727034454,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.7993161804050315,
+  "lufs": -15.80342737016869,
+  "rms_dbfs": -16.148582821871198,
+  "crest": 14.849801063537598,
+  "centroid": 3150.714054383273,
+  "flatness": 0.058931849896907806,
+  "sub100_share": 0.199137881398201,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7025082111358643,
+  "clean_share": 0.0,
+  "minor_share": -0.08970985505365858,
+  "chord_rate": 2.033093603475327,
+  "repetitiveness": 0.8371195793151855,
+  "vocal_share": 0.23676574230194092,
+  "vocal_voiced": 0.9120992761116856,
+  "song_length": 275.573
+ }
+}

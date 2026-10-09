@@ -1,0 +1,32 @@
+{
+ "id": "neaera/57944430-108",
+ "band": "neaera",
+ "title": "Hibernating Reason",
+ "source": "itunes",
+ "album": "The Rising Tide of Oblivion",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.045261964796587,
+  "tempo_var": 7.879199076039003,
+  "low_onset_rate": 5.011849633903894,
+  "lufs": -6.2131749348654095,
+  "rms_dbfs": -6.275812098403627,
+  "crest": 6.275811672210693,
+  "centroid": 3183.97069188038,
+  "flatness": 0.0847761332988739,
+  "sub100_share": 0.3413180708885193,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.6445175409317017,
+  "clean_share": 0.0,
+  "minor_share": 0.11127137358845107,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.9236690402030945,
+  "vocal_share": 0.1789962500333786,
+  "vocal_voiced": 0.01317027281279398,
+  "song_length": 211.933
+ }
+}

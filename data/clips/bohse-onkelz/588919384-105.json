@@ -1,0 +1,32 @@
+{
+ "id": "bohse-onkelz/588919384-105",
+ "band": "bohse-onkelz",
+ "title": "Tanz der Teufel",
+ "source": "itunes",
+ "album": "Kneipenterroristen",
+ "year": 1988,
+ "itunes_year": 1988,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.8734604567715656,
+  "tempo_var": 2.991407029720434,
+  "low_onset_rate": 5.379385273723512,
+  "lufs": -7.672738217011971,
+  "rms_dbfs": -7.602129773099934,
+  "crest": 7.602129936218262,
+  "centroid": 2262.252130739809,
+  "flatness": 0.021260695531964302,
+  "sub100_share": 0.16522450745105743,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7927041053771973,
+  "clean_share": 0.09387121799844841,
+  "minor_share": 0.034986393123058956,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.8267680406570435,
+  "vocal_share": 0.19361168146133423,
+  "vocal_voiced": 0.34196891191709844,
+  "song_length": 255.267
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "godflesh/598897588-107",
+ "band": "godflesh",
+ "title": "White Flag (Remastered)",
+ "source": "itunes",
+ "album": "Hymns (Special Edition) [Remastered]",
+ "year": 2001,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.3722754933811765,
+  "tempo_var": 2.559820839255572,
+  "low_onset_rate": 6.8829401638946806,
+  "lufs": -9.018442579041894,
+  "rms_dbfs": -8.041035004844787,
+  "crest": 8.041034698486328,
+  "centroid": 2578.743882661659,
+  "flatness": 0.02215510793030262,
+  "sub100_share": 0.505357563495636,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.9294353723526001,
+  "clean_share": 0.3281613653995345,
+  "minor_share": 0.03916095275927478,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.7908899188041687,
+  "vocal_share": 0.0698859840631485,
+  "vocal_voiced": 0.6059431524547804,
+  "song_length": 385.267
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "viikate/1536714928-102",
+ "band": "viikate",
+ "title": "Pohjoista Viljaa",
+ "source": "itunes",
+ "album": "Unholan Urut",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.6753563981961888,
+  "tempo_var": 13.37534150053884,
+  "low_onset_rate": 7.3841251272850705,
+  "lufs": -8.115155229221026,
+  "rms_dbfs": -7.329092772005277,
+  "crest": 7.329092502593994,
+  "centroid": 2330.7780899868035,
+  "flatness": 0.026613900437951088,
+  "sub100_share": 0.3675040006637573,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8077085018157959,
+  "clean_share": 0.047323506594259115,
+  "minor_share": -0.05765125649102909,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.6811177730560303,
+  "vocal_share": 0.22121953964233398,
+  "vocal_voiced": 0.7469654528478058,
+  "song_length": 240.373
+ }
+}

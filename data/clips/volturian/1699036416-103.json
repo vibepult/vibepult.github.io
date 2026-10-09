@@ -1,0 +1,32 @@
+{
+ "id": "volturian/1699036416-103",
+ "band": "volturian",
+ "title": "Haunting Symphony",
+ "source": "itunes",
+ "album": "Crimson",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.233175111863587,
+  "tempo_var": 9.49253384341973,
+  "low_onset_rate": 7.3331116217196755,
+  "lufs": -8.356255422895591,
+  "rms_dbfs": -7.575015816367747,
+  "crest": 7.575015544891357,
+  "centroid": 2269.773587477297,
+  "flatness": 0.022811487317085266,
+  "sub100_share": 0.3730206787586212,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8482834696769714,
+  "clean_share": 0.051817478731631866,
+  "minor_share": 0.02602908707452245,
+  "chord_rate": 1.06663441770468,
+  "repetitiveness": 0.832023024559021,
+  "vocal_share": 0.19538092613220215,
+  "vocal_voiced": 0.8930885529157667,
+  "song_length": 233.315
+ }
+}

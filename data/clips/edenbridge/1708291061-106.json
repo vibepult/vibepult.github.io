@@ -1,0 +1,32 @@
+{
+ "id": "edenbridge/1708291061-106",
+ "band": "edenbridge",
+ "title": "As Far as Eyes Can See",
+ "source": "itunes",
+ "album": "Aphelion",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.2332844552614475,
+  "tempo_var": 0.695920356969553,
+  "low_onset_rate": 2.7332920137261723,
+  "lufs": -8.82526278494789,
+  "rms_dbfs": -7.849233380585793,
+  "crest": 7.849233627319336,
+  "centroid": 2267.043416703014,
+  "flatness": 0.010784042999148369,
+  "sub100_share": 0.39111995697021484,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.8952414393424988,
+  "clean_share": 0.45784996133023975,
+  "minor_share": -0.023662428843132743,
+  "chord_rate": 1.299980347991716,
+  "repetitiveness": 0.607765257358551,
+  "vocal_share": 0.17378105223178864,
+  "vocal_voiced": 0.8674911660777385,
+  "song_length": 275.313
+ }
+}

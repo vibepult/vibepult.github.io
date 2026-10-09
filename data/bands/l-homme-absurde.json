@@ -1,0 +1,127 @@
+{
+ "slug": "l-homme-absurde",
+ "name": "L'Homme Absurde",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1166435443,
+  "deezer": 11217730,
+  "spotify": "2W8McKrGJk3OIuIyrIypJk"
+ },
+ "metadata": {
+  "formed": 2015,
+  "split": null,
+  "country": "RU",
+  "status": "active",
+  "members": 5,
+  "past_members": 5,
+  "full_lengths": 5,
+  "genre": "Post-Black Metal/Post-Rock",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 68,
+  "themes": "Relations, Religion, Identity crisis",
+  "release_year": 2019
+ },
+ "partial": false,
+ "clips": [
+  "l-homme-absurde/1166435345-104",
+  "l-homme-absurde/1364202144-104",
+  "l-homme-absurde/1784099436-104",
+  "l-homme-absurde/1683473730-104",
+  "l-homme-absurde/1837460225-104",
+  "l-homme-absurde/1166435345-105",
+  "l-homme-absurde/1364202144-103",
+  "l-homme-absurde/1784099436-105",
+  "l-homme-absurde/1683473730-103",
+  "l-homme-absurde/1837460225-101",
+  "l-homme-absurde/1166435345-103",
+  "l-homme-absurde/1364202144-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 22.713067166046912
+  },
+  "onset_rate": {
+   "median": 3.620320299949369,
+   "iqr": 2.141343895884431
+  },
+  "tempo_var": {
+   "median": 8.271374674936279,
+   "iqr": 16.949702317731788
+  },
+  "low_onset_rate": {
+   "median": 4.209953692479271,
+   "iqr": 3.4143493887896024
+  },
+  "lufs": {
+   "median": -11.470640967741982,
+   "iqr": 4.318849966940775
+  },
+  "rms_dbfs": {
+   "median": -10.241178622030422,
+   "iqr": 3.340296186250895
+  },
+  "crest": {
+   "median": 10.241178512573242,
+   "iqr": 3.340295672416687
+  },
+  "centroid": {
+   "median": 2258.128207959804,
+   "iqr": 208.87977630265914
+  },
+  "flatness": {
+   "median": 0.01253572665154934,
+   "iqr": 0.012875706190243363
+  },
+  "sub100_share": {
+   "median": 0.4569583535194397,
+   "iqr": 0.1332780122756958
+  },
+  "lowest_pitch": {
+   "median": 63.2537841796875,
+   "iqr": 41.04766845703125
+  },
+  "harmonic_share": {
+   "median": 0.7871463000774384,
+   "iqr": 0.07188524305820465
+  },
+  "clean_share": {
+   "median": 0.2910470955080079,
+   "iqr": 0.43228801981427717
+  },
+  "minor_share": {
+   "median": 0.04982477193765869,
+   "iqr": 0.20847567417045187
+  },
+  "chord_rate": {
+   "median": 1.284494479815691,
+   "iqr": 0.30906406075740667
+  },
+  "repetitiveness": {
+   "median": 0.7562659382820129,
+   "iqr": 0.0849909633398056
+  },
+  "vocal_share": {
+   "median": 0.15972808003425598,
+   "iqr": 0.12375512719154358
+  },
+  "vocal_voiced": {
+   "median": 0.2773279352226721,
+   "iqr": 0.20263611918491692
+  },
+  "song_length": {
+   "median": 326.9625,
+   "iqr": 74.00425000000001
+  },
+  "vocal_presence": {
+   "median": 0.4166666666666667,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

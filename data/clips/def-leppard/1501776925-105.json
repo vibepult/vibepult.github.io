@@ -1,0 +1,32 @@
+{
+ "id": "def-leppard/1501776925-105",
+ "band": "def-leppard",
+ "title": "Switch 625 (Remastered 2018)",
+ "source": "itunes",
+ "album": "High 'N' Dry (Remastered 2018)",
+ "year": 1981,
+ "itunes_year": 1981,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.933258756481384,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.999924415352754,
+  "lufs": -10.516472853632347,
+  "rms_dbfs": -10.71398037779941,
+  "crest": 10.713979721069336,
+  "centroid": 2359.816218494428,
+  "flatness": 0.0220864899456501,
+  "sub100_share": 0.15215949714183807,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8010396957397461,
+  "clean_share": 0.02397525135344161,
+  "minor_share": 0.03762121484214653,
+  "chord_rate": 1.1666490302489758,
+  "repetitiveness": 0.8696656823158264,
+  "vocal_share": 1.626976427360205e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 183.2
+ }
+}

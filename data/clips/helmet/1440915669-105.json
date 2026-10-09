@@ -1,0 +1,32 @@
+{
+ "id": "helmet/1440915669-105",
+ "band": "helmet",
+ "title": "Turned Out",
+ "source": "itunes",
+ "album": "Meantime",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 2.199966742755212,
+  "tempo_var": 6.065636433388362,
+  "low_onset_rate": 3.4666142613112427,
+  "lufs": -12.362079261951711,
+  "rms_dbfs": -11.858385994455748,
+  "crest": 11.858386039733887,
+  "centroid": 2584.2653681646625,
+  "flatness": 0.032001033425331116,
+  "sub100_share": 0.4420602023601532,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.6810436248779297,
+  "clean_share": 0.005413766434648105,
+  "minor_share": 0.05975639072030636,
+  "chord_rate": 2.499962207676377,
+  "repetitiveness": 0.9079704880714417,
+  "vocal_share": 0.12888696789741516,
+  "vocal_voiced": 0.6871961102106969,
+  "song_length": 253.493
+ }
+}

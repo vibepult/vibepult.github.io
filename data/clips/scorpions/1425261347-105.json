@@ -1,0 +1,32 @@
+{
+ "id": "scorpions/1425261347-105",
+ "band": "scorpions",
+ "title": "The Same Thrill",
+ "source": "itunes",
+ "album": "Love at First Sting",
+ "year": 1984,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.333252709709604,
+  "tempo_var": 1.5858376010542334,
+  "low_onset_rate": 5.566582515759399,
+  "lufs": -15.24201649526278,
+  "rms_dbfs": -15.31276245584908,
+  "crest": 15.160072326660156,
+  "centroid": 2826.67237109121,
+  "flatness": 0.049356263130903244,
+  "sub100_share": 0.2271890491247177,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7072322964668274,
+  "clean_share": 0.002320185614849188,
+  "minor_share": -0.2177048561117766,
+  "chord_rate": 0.7999879064564406,
+  "repetitiveness": 0.8740613460540771,
+  "vocal_share": 0.1512281596660614,
+  "vocal_voiced": 0.826865671641791,
+  "song_length": 211.8
+ }
+}

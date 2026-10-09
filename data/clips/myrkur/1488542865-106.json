@@ -1,0 +1,32 @@
+{
+ "id": "myrkur/1488542865-106",
+ "band": "myrkur",
+ "title": "Svea",
+ "source": "itunes",
+ "album": "Folkesange",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 2.7333333333333334,
+  "tempo_var": 2.3378690633861714,
+  "low_onset_rate": 2.1666666666666665,
+  "lufs": -14.846868715605444,
+  "rms_dbfs": -13.6416028310562,
+  "crest": 13.641603469848633,
+  "centroid": 1159.827204777003,
+  "flatness": 0.0008899416425265372,
+  "sub100_share": 0.28728073835372925,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.9599536061286926,
+  "clean_share": 0.9914860681114551,
+  "minor_share": -0.02916393987795618,
+  "chord_rate": 1.0,
+  "repetitiveness": 0.83811354637146,
+  "vocal_share": 0.03481459617614746,
+  "vocal_voiced": 0.9478114478114478,
+  "song_length": 206.318
+ }
+}

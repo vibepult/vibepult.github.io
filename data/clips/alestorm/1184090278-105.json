@@ -1,0 +1,32 @@
+{
+ "id": "alestorm/1184090278-105",
+ "band": "alestorm",
+ "title": "To the End of Our Days",
+ "source": "itunes",
+ "album": "Black Sails at Midnight",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 4.3,
+  "tempo_var": 7.314537582778612,
+  "low_onset_rate": 6.133333333333334,
+  "lufs": -8.45603632633456,
+  "rms_dbfs": -8.131156622802655,
+  "crest": 8.131156921386719,
+  "centroid": 2420.4728608405194,
+  "flatness": 0.024901950731873512,
+  "sub100_share": 0.20280279219150543,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.8050357103347778,
+  "clean_share": 0.08668730650154799,
+  "minor_share": -0.04896998136280273,
+  "chord_rate": 1.4333333333333333,
+  "repetitiveness": 0.7580158710479736,
+  "vocal_share": 0.12277668714523315,
+  "vocal_voiced": 0.3200663349917081,
+  "song_length": 382.773
+ }
+}

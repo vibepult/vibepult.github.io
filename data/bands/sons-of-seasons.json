@@ -1,0 +1,127 @@
+{
+ "slug": "sons-of-seasons",
+ "name": "Sons of Seasons",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 310909282,
+  "deezer": 299404,
+  "spotify": "0di3Zp5nbti1aNqC9O4kQQ"
+ },
+ "metadata": {
+  "formed": 2007,
+  "split": null,
+  "country": "DE",
+  "status": "unknown",
+  "members": 4,
+  "past_members": 4,
+  "full_lengths": 2,
+  "genre": "Progressive Symphonic Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 1094,
+  "themes": "N/A",
+  "release_year": 2010
+ },
+ "partial": false,
+ "clips": [
+  "sons-of-seasons/1184162075-107",
+  "sons-of-seasons/1184701870-107",
+  "sons-of-seasons/1184162075-106",
+  "sons-of-seasons/1184701870-108",
+  "sons-of-seasons/1184162075-108",
+  "sons-of-seasons/1184701870-105",
+  "sons-of-seasons/1184162075-105",
+  "sons-of-seasons/1184701870-109",
+  "sons-of-seasons/1184162075-109",
+  "sons-of-seasons/1184701870-104",
+  "sons-of-seasons/1184162075-104",
+  "sons-of-seasons/1184701870-110"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.52302631578948,
+   "iqr": 35.40835731907896
+  },
+  "onset_rate": {
+   "median": 5.050000000000001,
+   "iqr": 1.8833333333333333
+  },
+  "tempo_var": {
+   "median": 14.372599373314944,
+   "iqr": 15.338795507610582
+  },
+  "low_onset_rate": {
+   "median": 5.133333333333334,
+   "iqr": 1.208333333333333
+  },
+  "lufs": {
+   "median": -9.742420202181773,
+   "iqr": 2.6194074421601545
+  },
+  "rms_dbfs": {
+   "median": -8.97849216322167,
+   "iqr": 2.950849300082403
+  },
+  "crest": {
+   "median": 8.978492736816406,
+   "iqr": 2.950849771499634
+  },
+  "centroid": {
+   "median": 2413.173925391113,
+   "iqr": 655.7855472625715
+  },
+  "flatness": {
+   "median": 0.024095243774354458,
+   "iqr": 0.026545976055786014
+  },
+  "sub100_share": {
+   "median": 0.32763269543647766,
+   "iqr": 0.1438713539391756
+  },
+  "lowest_pitch": {
+   "median": 49.7955322265625,
+   "iqr": 65.9454345703125
+  },
+  "harmonic_share": {
+   "median": 0.7721089124679565,
+   "iqr": 0.13355378806591034
+  },
+  "clean_share": {
+   "median": 0.0565015479876161,
+   "iqr": 0.33455882352941174
+  },
+  "minor_share": {
+   "median": -0.02044536850181755,
+   "iqr": 0.18096435233296887
+  },
+  "chord_rate": {
+   "median": 1.4666666666666668,
+   "iqr": 0.7333333333333332
+  },
+  "repetitiveness": {
+   "median": 0.891336977481842,
+   "iqr": 0.14118026196956635
+  },
+  "vocal_share": {
+   "median": 0.15897952020168304,
+   "iqr": 0.17627442628145218
+  },
+  "vocal_voiced": {
+   "median": 0.7037037037037037,
+   "iqr": 0.20124551787322098
+  },
+  "song_length": {
+   "median": 343.45349999999996,
+   "iqr": 68.9665
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

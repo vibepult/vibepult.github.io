@@ -1,0 +1,32 @@
+{
+ "id": "anathema/76586681-105",
+ "band": "anathema",
+ "title": "Sleepless",
+ "source": "itunes",
+ "album": "Serenades",
+ "year": 1993,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.644313994084275,
+  "tempo_var": 8.592834652880876,
+  "low_onset_rate": 4.343603016050041,
+  "lufs": -13.661032603921543,
+  "rms_dbfs": -12.579050352469043,
+  "crest": 12.579050064086914,
+  "centroid": 2769.5667049450863,
+  "flatness": 0.024026937782764435,
+  "sub100_share": 0.4401029050350189,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.573643684387207,
+  "clean_share": 0.06749418153607448,
+  "minor_share": -0.1286884871974494,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.8256655335426331,
+  "vocal_share": 0.08682959526777267,
+  "vocal_voiced": 0.5315315315315315,
+  "song_length": 251.173
+ }
+}

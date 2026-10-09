@@ -1,0 +1,32 @@
+{
+ "id": "tnt/1365169578-107",
+ "band": "tnt",
+ "title": "Get Ready for Some Hard Rock",
+ "source": "itunes",
+ "album": "XIII",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.310190685157349,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.112086626581972,
+  "lufs": -10.679447072216314,
+  "rms_dbfs": -10.732545058525123,
+  "crest": 10.732544898986816,
+  "centroid": 2548.1394713532236,
+  "flatness": 0.033457934856414795,
+  "sub100_share": 0.23393331468105316,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.6450263261795044,
+  "clean_share": 0.019394879751745538,
+  "minor_share": -0.01653707689269268,
+  "chord_rate": 1.7374412064200164,
+  "repetitiveness": 0.7702855467796326,
+  "vocal_share": 0.45813581347465515,
+  "vocal_voiced": 0.7421686746987952,
+  "song_length": 175.551
+ }
+}

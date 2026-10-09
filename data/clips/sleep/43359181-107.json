@@ -1,0 +1,32 @@
+{
+ "id": "sleep/43359181-107",
+ "band": "sleep",
+ "title": "Inside the Sun",
+ "source": "itunes",
+ "album": "Sleep's Holy Mountain",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.733333333333333,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.466666666666667,
+  "lufs": -14.51818676480377,
+  "rms_dbfs": -14.151170370171279,
+  "crest": 14.15117073059082,
+  "centroid": 2649.7361576105423,
+  "flatness": 0.03695618361234665,
+  "sub100_share": 0.1856352835893631,
+  "lowest_pitch": 88.824462890625,
+  "harmonic_share": 0.6254405379295349,
+  "clean_share": 0.02089783281733746,
+  "minor_share": -0.19472932221342726,
+  "chord_rate": 2.6,
+  "repetitiveness": 0.9437784552574158,
+  "vocal_share": 0.09561046212911606,
+  "vocal_voiced": 0.35543278084714547,
+  "song_length": 344.707
+ }
+}

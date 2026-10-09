@@ -1,0 +1,127 @@
+{
+ "slug": "hooded-menace",
+ "name": "Hooded Menace",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 364200709,
+  "deezer": 3748981,
+  "spotify": "10mjw8SFRZjS0d8tecdEW8"
+ },
+ "metadata": {
+  "formed": 2007,
+  "split": null,
+  "country": "FI",
+  "status": "active",
+  "members": 3,
+  "past_members": 9,
+  "full_lengths": 7,
+  "genre": "Death/Doom Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 2940,
+  "themes": "Horror stories, Doom, Darkness, Evil",
+  "release_year": 2015
+ },
+ "partial": false,
+ "clips": [
+  "hooded-menace/547893894-105",
+  "hooded-menace/364200708-104",
+  "hooded-menace/540447824-104",
+  "hooded-menace/1301483675-104",
+  "hooded-menace/1566472581-105",
+  "hooded-menace/1825954571-104",
+  "hooded-menace/547893894-104",
+  "hooded-menace/364200708-105",
+  "hooded-menace/540447824-103",
+  "hooded-menace/1301483675-103",
+  "hooded-menace/1566472581-104",
+  "hooded-menace/1825954571-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 135.99917763157896,
+   "iqr": 48.24551286368535
+  },
+  "onset_rate": {
+   "median": 3.3913515856083016,
+   "iqr": 1.4844787979440426
+  },
+  "tempo_var": {
+   "median": 8.036784765838135,
+   "iqr": 11.679096285382668
+  },
+  "low_onset_rate": {
+   "median": 6.1572677754610545,
+   "iqr": 1.2446093257527995
+  },
+  "lufs": {
+   "median": -10.049202991173079,
+   "iqr": 2.736546575736856
+  },
+  "rms_dbfs": {
+   "median": -9.408663093144591,
+   "iqr": 2.207817795544308
+  },
+  "crest": {
+   "median": 9.408662796020508,
+   "iqr": 2.2078174352645874
+  },
+  "centroid": {
+   "median": 2397.5013416870297,
+   "iqr": 229.38651971729996
+  },
+  "flatness": {
+   "median": 0.02395119145512581,
+   "iqr": 0.005468319170176983
+  },
+  "sub100_share": {
+   "median": 0.382595419883728,
+   "iqr": 0.17275473847985268
+  },
+  "lowest_pitch": {
+   "median": 60.5621337890625,
+   "iqr": 17.4957275390625
+  },
+  "harmonic_share": {
+   "median": 0.8200745582580566,
+   "iqr": 0.04100790619850159
+  },
+  "clean_share": {
+   "median": 0.0717610550814585,
+   "iqr": 0.1116091265218676
+  },
+  "minor_share": {
+   "median": 0.07856595199623276,
+   "iqr": 0.09837874341635944
+  },
+  "chord_rate": {
+   "median": 1.8877966954371335,
+   "iqr": 0.8186021068709692
+  },
+  "repetitiveness": {
+   "median": 0.77689328789711,
+   "iqr": 0.09090772271156311
+  },
+  "vocal_share": {
+   "median": 0.09891774505376816,
+   "iqr": 0.07705071289092302
+  },
+  "vocal_voiced": {
+   "median": 0.39224849299905085,
+   "iqr": 0.24759864141871818
+  },
+  "song_length": {
+   "median": 418.202,
+   "iqr": 60.44725
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

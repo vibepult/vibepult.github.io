@@ -1,0 +1,32 @@
+{
+ "id": "tool/1474185335-109",
+ "band": "tool",
+ "title": "Jimmy",
+ "source": "itunes",
+ "album": "Ænima",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "hand",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.3978477729148127,
+  "tempo_var": 3.005792458279684,
+  "low_onset_rate": 4.263965832677412,
+  "lufs": -16.456040340610716,
+  "rms_dbfs": -15.231316716730818,
+  "crest": 15.231317520141602,
+  "centroid": 1617.5340396946228,
+  "flatness": 0.007340365555137396,
+  "sub100_share": 0.23107385635375977,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7908536195755005,
+  "clean_share": 0.6651198762567672,
+  "minor_share": 0.0071032486375489645,
+  "chord_rate": 1.6989238864574063,
+  "repetitiveness": 0.864888608455658,
+  "vocal_share": 0.12740947306156158,
+  "vocal_voiced": 0.9555084745762712,
+  "song_length": 324.413
+ }
+}

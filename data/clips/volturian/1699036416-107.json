@@ -1,0 +1,32 @@
+{
+ "id": "volturian/1699036416-107",
+ "band": "volturian",
+ "title": "Between The Sleepers",
+ "source": "itunes",
+ "album": "Crimson",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.833187205224331,
+  "tempo_var": 29.57210655882477,
+  "low_onset_rate": 6.233144878461724,
+  "lufs": -8.38541347164355,
+  "rms_dbfs": -7.771034094824425,
+  "crest": 7.771034240722656,
+  "centroid": 2451.712683434092,
+  "flatness": 0.029649963602423668,
+  "sub100_share": 0.3298913836479187,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8365888595581055,
+  "clean_share": 0.0,
+  "minor_share": -0.11902458644595415,
+  "chord_rate": 0.6999788366186963,
+  "repetitiveness": 0.7917454838752747,
+  "vocal_share": 0.266171395778656,
+  "vocal_voiced": 0.9053833605220228,
+  "song_length": 247.761
+ }
+}

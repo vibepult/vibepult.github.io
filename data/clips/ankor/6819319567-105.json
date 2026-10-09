@@ -1,0 +1,32 @@
+{
+ "id": "ankor/6819319567-105",
+ "band": "ankor",
+ "title": "No Matter What",
+ "source": "itunes",
+ "album": "My Own Angel",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 5.033333333333333,
+  "tempo_var": 24.33504887663151,
+  "low_onset_rate": 5.866666666666666,
+  "lufs": -5.4004879070468315,
+  "rms_dbfs": -5.167059037575909,
+  "crest": 5.167059421539307,
+  "centroid": 2443.491262526141,
+  "flatness": 0.028948545455932617,
+  "sub100_share": 0.26727306842803955,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7557550072669983,
+  "clean_share": 0.06424148606811146,
+  "minor_share": -0.28651704661009636,
+  "chord_rate": 1.9,
+  "repetitiveness": 0.8586902022361755,
+  "vocal_share": 0.11939086765050888,
+  "vocal_voiced": 0.8644939965694682,
+  "song_length": 258.821
+ }
+}

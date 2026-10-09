@@ -1,0 +1,32 @@
+{
+ "id": "neaera/396536985-106",
+ "band": "neaera",
+ "title": "Rubikon",
+ "source": "itunes",
+ "album": "Forging the Eclipse",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 6.515404524075062,
+  "tempo_var": 9.18242493993558,
+  "low_onset_rate": 4.9784373030112015,
+  "lufs": -7.667267585977864,
+  "rms_dbfs": -7.7534459052876725,
+  "crest": 7.753445625305176,
+  "centroid": 2982.298559970399,
+  "flatness": 0.060959406197071075,
+  "sub100_share": 0.37887898087501526,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7297751307487488,
+  "clean_share": 0.0,
+  "minor_share": -0.04322162678649877,
+  "chord_rate": 1.871090529990787,
+  "repetitiveness": 0.9320928454399109,
+  "vocal_share": 0.09433979541063309,
+  "vocal_voiced": 0.1220715166461159,
+  "song_length": 172.76
+ }
+}

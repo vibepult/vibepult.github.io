@@ -1,0 +1,32 @@
+{
+ "id": "elis/1184000714-105",
+ "band": "elis",
+ "title": "Seit Dem Anbegin Der Zeit",
+ "source": "itunes",
+ "album": "Griefshire",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.8,
+  "tempo_var": 6.965018017343097,
+  "low_onset_rate": 7.166666666666667,
+  "lufs": -6.797766067801078,
+  "rms_dbfs": -6.3231653137863075,
+  "crest": 6.323165416717529,
+  "centroid": 2387.0906042631195,
+  "flatness": 0.025162676349282265,
+  "sub100_share": 0.3525238335132599,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.8278507590293884,
+  "clean_share": 0.011609907120743035,
+  "minor_share": 0.21303995284810928,
+  "chord_rate": 1.2666666666666666,
+  "repetitiveness": 0.8071308732032776,
+  "vocal_share": 0.2788815498352051,
+  "vocal_voiced": 0.8441153546375681,
+  "song_length": 203.92
+ }
+}

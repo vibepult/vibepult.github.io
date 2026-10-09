@@ -1,0 +1,32 @@
+{
+ "id": "norther/1045597756-106",
+ "band": "norther",
+ "title": "Believe",
+ "source": "itunes",
+ "album": "Circle Regenerated",
+ "year": 2011,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 5.178911288367357,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.312560611938127,
+  "lufs": -11.062954851741496,
+  "rms_dbfs": -10.276123319190233,
+  "crest": 10.276123046875,
+  "centroid": 2560.8000781884484,
+  "flatness": 0.036932218819856644,
+  "sub100_share": 0.4298148453235626,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6712456941604614,
+  "clean_share": 0.0031031807602792862,
+  "minor_share": -0.17645834416072737,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.9166520833969116,
+  "vocal_share": 0.2062849998474121,
+  "vocal_voiced": 0.25407725321888414,
+  "song_length": 263.36
+ }
+}

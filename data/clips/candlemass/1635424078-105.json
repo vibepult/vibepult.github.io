@@ -1,0 +1,32 @@
+{
+ "id": "candlemass/1635424078-105",
+ "band": "candlemass",
+ "title": "When Death Sighs",
+ "source": "itunes",
+ "album": "Sweet Evil Sun",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.1333333333333333,
+  "tempo_var": 10.738863569671716,
+  "low_onset_rate": 4.1,
+  "lufs": -14.263075480201573,
+  "rms_dbfs": -13.977480724820312,
+  "crest": 13.9774808883667,
+  "centroid": 1903.8571228325625,
+  "flatness": 0.01634512096643448,
+  "sub100_share": 0.15610170364379883,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7735718488693237,
+  "clean_share": 0.5263157894736842,
+  "minor_share": 0.21545769696156225,
+  "chord_rate": 1.2666666666666666,
+  "repetitiveness": 0.7448601722717285,
+  "vocal_share": 0.32282549142837524,
+  "vocal_voiced": 0.5145914396887159,
+  "song_length": 359.133
+ }
+}

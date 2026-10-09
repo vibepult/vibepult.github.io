@@ -1,0 +1,32 @@
+{
+ "id": "suicidal-tendencies/193148411-108",
+ "band": "suicidal-tendencies",
+ "title": "Don't Give Me Your Nothin'",
+ "source": "itunes",
+ "album": "Still Cyco After All These Years",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.697024862558711,
+  "tempo_var": 0.0,
+  "low_onset_rate": 7.695125838660017,
+  "lufs": -12.248966195046453,
+  "rms_dbfs": -12.027501425200295,
+  "crest": 12.027502059936523,
+  "centroid": 2646.1211786043395,
+  "flatness": 0.034420814365148544,
+  "sub100_share": 0.2531687915325165,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.6666858196258545,
+  "clean_share": 0.018561484918793503,
+  "minor_share": 0.13932240469934198,
+  "chord_rate": 2.5317297131522136,
+  "repetitiveness": 0.9047417044639587,
+  "vocal_share": 0.16255563497543335,
+  "vocal_voiced": 0.5139263252470799,
+  "song_length": 242.44
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "akercocke/255446475-105",
+ "band": "akercocke",
+ "title": "My Apterous Angel",
+ "source": "itunes",
+ "album": "Antichrist",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.379385273723512,
+  "tempo_var": 33.871813005967866,
+  "low_onset_rate": 7.3173004654996845,
+  "lufs": -10.733084777757675,
+  "rms_dbfs": -9.530257379227725,
+  "crest": 9.530257225036621,
+  "centroid": 1827.0738029932875,
+  "flatness": 0.010892204008996487,
+  "sub100_share": 0.28255602717399597,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8026176691055298,
+  "clean_share": 0.39022498060512023,
+  "minor_share": -0.00891113630665119,
+  "chord_rate": 1.0357822576734714,
+  "repetitiveness": 0.8583895564079285,
+  "vocal_share": 0.09058421105146408,
+  "vocal_voiced": 0.9163090128755365,
+  "song_length": 409.813
+ }
+}

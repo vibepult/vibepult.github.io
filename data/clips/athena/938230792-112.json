@@ -1,0 +1,32 @@
+{
+ "id": "athena/938230792-112",
+ "band": "athena",
+ "title": "Adımız Miskindir Bizim (feat. Mazhar Alanson)",
+ "source": "itunes",
+ "album": "Altüst",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.6665558108598377,
+  "tempo_var": 0.6587955126263473,
+  "low_onset_rate": 3.1999032531140403,
+  "lufs": -12.719336781079084,
+  "rms_dbfs": -11.440665865841805,
+  "crest": 11.440666198730469,
+  "centroid": 1767.965448313098,
+  "flatness": 0.0061886366456747055,
+  "sub100_share": 0.4515751004219055,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.8703342080116272,
+  "clean_share": 0.6635730858468677,
+  "minor_share": 0.03581721532421711,
+  "chord_rate": 1.6332839521102913,
+  "repetitiveness": 0.657381534576416,
+  "vocal_share": 0.2723967730998993,
+  "vocal_voiced": 0.9014321819713563,
+  "song_length": 346.721
+ }
+}

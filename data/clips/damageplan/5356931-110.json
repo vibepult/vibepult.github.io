@@ -1,0 +1,32 @@
+{
+ "id": "damageplan/5356931-110",
+ "band": "damageplan",
+ "title": "Crawl",
+ "source": "itunes",
+ "album": "New Found Power",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 6.464985672659565,
+  "tempo_var": 17.921647650860287,
+  "low_onset_rate": 7.498050393548465,
+  "lufs": -9.29373178310701,
+  "rms_dbfs": -8.286085063850194,
+  "crest": 8.28608512878418,
+  "centroid": 2289.8461394926153,
+  "flatness": 0.0198682751506567,
+  "sub100_share": 0.3171980082988739,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7887251377105713,
+  "clean_share": 0.19876256767208042,
+  "minor_share": 0.016275227369656475,
+  "chord_rate": 1.332986736630838,
+  "repetitiveness": 0.9435219168663025,
+  "vocal_share": 0.12411987036466599,
+  "vocal_voiced": 0.2558139534883721,
+  "song_length": 329.493
+ }
+}

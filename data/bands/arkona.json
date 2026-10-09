@@ -1,0 +1,127 @@
+{
+ "slug": "arkona",
+ "name": "Arkona",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 283448581,
+  "deezer": 122901,
+  "spotify": "6AJ9HQ2Ptp1WWEfBFvR5fF"
+ },
+ "metadata": {
+  "formed": 2002,
+  "split": null,
+  "country": "RU",
+  "status": "active",
+  "members": 5,
+  "past_members": 7,
+  "full_lengths": 10,
+  "genre": "Pagan/Folk Metal (early); Pagan/Folk/Black Metal (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 37600,
+  "themes": "Slavic paganism and folktales, Legends, Mythology",
+  "release_year": 2007
+ },
+ "partial": false,
+ "clips": [
+  "arkona/1735490925-104",
+  "arkona/1735491333-106",
+  "arkona/1735339769-107",
+  "arkona/1183630535-108",
+  "arkona/1184127702-107",
+  "arkona/1184700136-105",
+  "arkona/1219468564-106",
+  "arkona/1306228692-104",
+  "arkona/1677388855-104",
+  "arkona/1735490925-105",
+  "arkona/1735491333-107",
+  "arkona/1735339769-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 107.666015625,
+   "iqr": 43.387017703290766
+  },
+  "onset_rate": {
+   "median": 4.516666666666667,
+   "iqr": 1.766075141120015
+  },
+  "tempo_var": {
+   "median": 7.529682779423079,
+   "iqr": 8.113822251521196
+  },
+  "low_onset_rate": {
+   "median": 6.798194751665035,
+   "iqr": 2.372101200702848
+  },
+  "lufs": {
+   "median": -8.82612565055522,
+   "iqr": 1.7414400762812612
+  },
+  "rms_dbfs": {
+   "median": -8.35327084781444,
+   "iqr": 2.8045366850258695
+  },
+  "crest": {
+   "median": 8.353271484375,
+   "iqr": 2.804537296295166
+  },
+  "centroid": {
+   "median": 2371.565411841246,
+   "iqr": 222.91060053181764
+  },
+  "flatness": {
+   "median": 0.026483924128115177,
+   "iqr": 0.012638267129659653
+  },
+  "sub100_share": {
+   "median": 0.32304757833480835,
+   "iqr": 0.12560099363327026
+  },
+  "lowest_pitch": {
+   "median": 45.758056640625,
+   "iqr": 20.86029052734375
+  },
+  "harmonic_share": {
+   "median": 0.8291582465171814,
+   "iqr": 0.09452243149280548
+  },
+  "clean_share": {
+   "median": 0.046038863707651825,
+   "iqr": 0.1831650660019778
+  },
+  "minor_share": {
+   "median": 0.09538021280739759,
+   "iqr": 0.24735761014052768
+  },
+  "chord_rate": {
+   "median": 1.5495968862941338,
+   "iqr": 0.674049177454642
+  },
+  "repetitiveness": {
+   "median": 0.8513445854187012,
+   "iqr": 0.13449466228485107
+  },
+  "vocal_share": {
+   "median": 0.18377912044525146,
+   "iqr": 0.12341324053704739
+  },
+  "vocal_voiced": {
+   "median": 0.572618876965924,
+   "iqr": 0.4799546132819203
+  },
+  "song_length": {
+   "median": 305.7665,
+   "iqr": 110.99975
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.7,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

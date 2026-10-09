@@ -1,0 +1,32 @@
+{
+ "id": "helloween/1747310393-104",
+ "band": "helloween",
+ "title": "Twilight of the Gods (2024 Remaster)",
+ "source": "itunes",
+ "album": "Keeper of the Seven Keys, Pt. 1 (2024 Remaster)",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.299919880273919,
+  "tempo_var": 16.112240761892323,
+  "low_onset_rate": 7.899880576257351,
+  "lufs": -10.727820090980162,
+  "rms_dbfs": -10.952485400624148,
+  "crest": 10.952484130859375,
+  "centroid": 2709.0699608189257,
+  "flatness": 0.038577474653720856,
+  "sub100_share": 0.15200747549533844,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.7579702734947205,
+  "clean_share": 0.005413766434648105,
+  "minor_share": -0.0796021334100731,
+  "chord_rate": 2.0333025955767865,
+  "repetitiveness": 0.8586726784706116,
+  "vocal_share": 0.28893229365348816,
+  "vocal_voiced": 0.5425709515859767,
+  "song_length": 270.733
+ }
+}

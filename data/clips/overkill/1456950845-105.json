@@ -1,0 +1,32 @@
+{
+ "id": "overkill/1456950845-105",
+ "band": "overkill",
+ "title": "Crystal Clear",
+ "source": "itunes",
+ "album": "Killbox 13",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 1.2696685739223197,
+  "tempo_var": 8.405893918222393,
+  "low_onset_rate": 2.5393371478446394,
+  "lufs": -9.328363020864535,
+  "rms_dbfs": -10.100888356332353,
+  "crest": 10.1008882522583,
+  "centroid": 3088.994852105626,
+  "flatness": 0.05084046721458435,
+  "sub100_share": 0.2272171974182129,
+  "lowest_pitch": 88.824462890625,
+  "harmonic_share": 0.7186681628227234,
+  "clean_share": 0.003878975950349108,
+  "minor_share": 0.008432004633071144,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.86269611120224,
+  "vocal_share": 6.38703625099879e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 303.707
+ }
+}

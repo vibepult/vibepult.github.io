@@ -1,0 +1,32 @@
+{
+ "id": "poisonblack/1045644098-106",
+ "band": "poisonblack",
+ "title": "Raivotar",
+ "source": "itunes",
+ "album": "Lust Stained Despair",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 66.25600961538461,
+  "onset_rate": 3.107346773020414,
+  "tempo_var": 4.080901078705866,
+  "low_onset_rate": 4.945024972118508,
+  "lufs": -8.315659415911759,
+  "rms_dbfs": -7.788005631061493,
+  "crest": 7.788005828857422,
+  "centroid": 2918.63853548407,
+  "flatness": 0.042160917073488235,
+  "sub100_share": 0.43931326270103455,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7802101373672485,
+  "clean_share": 0.0,
+  "minor_share": 0.005933430575044918,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.8144574165344238,
+  "vocal_share": 0.14647923409938812,
+  "vocal_voiced": 0.6050156739811913,
+  "song_length": 295.907
+ }
+}

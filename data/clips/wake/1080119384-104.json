@@ -1,0 +1,32 @@
+{
+ "id": "wake/1080119384-104",
+ "band": "wake",
+ "title": "Better Living Through Apathy",
+ "source": "itunes",
+ "album": "Sowing the Seeds of a Worthless Tomorrow",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 2.0047398535615577,
+  "tempo_var": 16.46088415636883,
+  "low_onset_rate": 4.410427677835426,
+  "lufs": -8.388658728618461,
+  "rms_dbfs": -7.317568157388684,
+  "crest": 7.317567825317383,
+  "centroid": 2312.463202687732,
+  "flatness": 0.03291589021682739,
+  "sub100_share": 0.3990411162376404,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.6713046431541443,
+  "clean_share": 0.005430566330488751,
+  "minor_share": -0.16900630131641553,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.9654748439788818,
+  "vocal_share": 0.10141623765230179,
+  "vocal_voiced": 0.33955223880597013,
+  "song_length": 174.258
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "nails/1536434743-115",
+ "band": "nails",
+ "title": "Lies",
+ "source": "itunes",
+ "album": "Unsilent Death (10th Anniversary Edition)",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.7666666666666666,
+  "tempo_var": 12.811227241358198,
+  "low_onset_rate": 7.533333333333333,
+  "lufs": -7.982779089493482,
+  "rms_dbfs": -7.984333922304749,
+  "crest": 7.984333515167236,
+  "centroid": 2725.098679244894,
+  "flatness": 0.04120205342769623,
+  "sub100_share": 0.40813717246055603,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7941464185714722,
+  "clean_share": 0.03715170278637771,
+  "minor_share": -0.03827317552805315,
+  "chord_rate": 1.9666666666666666,
+  "repetitiveness": 0.9050048589706421,
+  "vocal_share": 0.06760788708925247,
+  "vocal_voiced": 0.07281553398058252,
+  "song_length": 212.062
+ }
+}

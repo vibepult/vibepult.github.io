@@ -1,0 +1,32 @@
+{
+ "id": "emperor/1281113501-106",
+ "band": "emperor",
+ "title": "In the Wordless Chamber",
+ "source": "itunes",
+ "album": "Prometheus: The Discipline of Fire & Demise",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.813745575328517,
+  "tempo_var": 3.3347402434483127,
+  "low_onset_rate": 9.455689642632013,
+  "lufs": -7.036512514903412,
+  "rms_dbfs": -7.040707173326524,
+  "crest": 7.040707588195801,
+  "centroid": 3050.2609170771148,
+  "flatness": 0.061073604971170425,
+  "sub100_share": 0.4014706313610077,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8218188881874084,
+  "clean_share": 0.0,
+  "minor_share": 0.2528259224629355,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.9490880966186523,
+  "vocal_share": 0.03044131025671959,
+  "vocal_voiced": 0.4735472679965308,
+  "song_length": 312.56
+ }
+}

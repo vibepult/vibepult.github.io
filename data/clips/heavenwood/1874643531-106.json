@@ -1,0 +1,32 @@
+{
+ "id": "heavenwood/1874643531-106",
+ "band": "heavenwood",
+ "title": "The Moon",
+ "source": "itunes",
+ "album": "The Tarot of the Bohemians, pt. II",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.166540694158907,
+  "tempo_var": 0.0,
+  "low_onset_rate": 7.266446970613133,
+  "lufs": -7.8850221849092135,
+  "rms_dbfs": -6.570595608850588,
+  "crest": 6.570595741271973,
+  "centroid": 2494.9819771875377,
+  "flatness": 0.0277495626360178,
+  "sub100_share": 0.5731265544891357,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.822597861289978,
+  "clean_share": 0.007733952049497293,
+  "minor_share": 0.18186177593580222,
+  "chord_rate": 1.7332809287701052,
+  "repetitiveness": 0.8567779064178467,
+  "vocal_share": 0.0891253724694252,
+  "vocal_voiced": 0.31290849673202614,
+  "song_length": 296.813
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "after-the-burial",
+ "name": "After the Burial",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 210642079,
+  "deezer": 76537,
+  "spotify": "0uNj4RxFjG0iVPlZS753en"
+ },
+ "metadata": {
+  "formed": 2004,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 4,
+  "past_members": 6,
+  "full_lengths": 7,
+  "genre": "Progressive Metalcore/Deathcore/Djent",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 31897,
+  "themes": "Inner struggles, Mentality, Ancient stories, Conspiracy",
+  "release_year": 2009
+ },
+ "partial": false,
+ "clips": [
+  "after-the-burial/521235453-105",
+  "after-the-burial/1818468164-104",
+  "after-the-burial/1821200204-104",
+  "after-the-burial/1820374791-105",
+  "after-the-burial/1817267453-105",
+  "after-the-burial/521235453-104",
+  "after-the-burial/1818468164-105",
+  "after-the-burial/1821200204-105",
+  "after-the-burial/1820374791-104",
+  "after-the-burial/1817267453-104",
+  "after-the-burial/521235453-106",
+  "after-the-burial/1818468164-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 110.00658118206522,
+   "iqr": 16.48656031468532
+  },
+  "onset_rate": {
+   "median": 4.789223633296372,
+   "iqr": 2.091635047089235
+  },
+  "tempo_var": {
+   "median": 11.572511330751897,
+   "iqr": 7.906767847239158
+  },
+  "low_onset_rate": {
+   "median": 4.822556462732056,
+   "iqr": 2.4499629635228493
+  },
+  "lufs": {
+   "median": -8.177979918068406,
+   "iqr": 1.3907601001621082
+  },
+  "rms_dbfs": {
+   "median": -8.144302514603542,
+   "iqr": 1.1408739684449323
+  },
+  "crest": {
+   "median": 8.14430284500122,
+   "iqr": 1.1408737897872925
+  },
+  "centroid": {
+   "median": 2603.3984367898356,
+   "iqr": 429.46140715413367
+  },
+  "flatness": {
+   "median": 0.043919436633586884,
+   "iqr": 0.024444441311061382
+  },
+  "sub100_share": {
+   "median": 0.34203726053237915,
+   "iqr": 0.15923655778169632
+  },
+  "lowest_pitch": {
+   "median": 37.68310546875,
+   "iqr": 20.1873779296875
+  },
+  "harmonic_share": {
+   "median": 0.6711734235286713,
+   "iqr": 0.06656363606452942
+  },
+  "clean_share": {
+   "median": 0.006187161639597835,
+   "iqr": 0.01488425771760215
+  },
+  "minor_share": {
+   "median": 0.09500586392450253,
+   "iqr": 0.10696714569304742
+  },
+  "chord_rate": {
+   "median": 2.0359261436580374,
+   "iqr": 0.7123175737229386
+  },
+  "repetitiveness": {
+   "median": 0.9152112901210785,
+   "iqr": 0.06435109674930573
+  },
+  "vocal_share": {
+   "median": 0.24623854458332062,
+   "iqr": 0.052584417164325714
+  },
+  "vocal_voiced": {
+   "median": 0.17698076049083472,
+   "iqr": 0.29306140321158236
+  },
+  "song_length": {
+   "median": 275.56600000000003,
+   "iqr": 89.59324999999998
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

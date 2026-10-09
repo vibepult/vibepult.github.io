@@ -1,0 +1,32 @@
+{
+ "id": "annotations-of-an-autopsy/335991153-107",
+ "band": "annotations-of-an-autopsy",
+ "title": "Years of Disgust",
+ "source": "itunes",
+ "album": "Before the Throne of Infection",
+ "year": 2008,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 5.880570237113902,
+  "tempo_var": 10.183297243478625,
+  "low_onset_rate": 7.3841251272850705,
+  "lufs": -8.281800715517887,
+  "rms_dbfs": -8.211612417863845,
+  "crest": 8.2116117477417,
+  "centroid": 2300.6460110397315,
+  "flatness": 0.02701900713145733,
+  "sub100_share": 0.32155486941337585,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7691758275032043,
+  "clean_share": 0.11559348332040341,
+  "minor_share": 0.11744164251136702,
+  "chord_rate": 1.3030809048150125,
+  "repetitiveness": 0.8434171080589294,
+  "vocal_share": 0.13229991495609283,
+  "vocal_voiced": 0.15539858728557013,
+  "song_length": 347.979
+ }
+}

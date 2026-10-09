@@ -1,0 +1,32 @@
+{
+ "id": "superjoint/1435781868-104",
+ "band": "superjoint",
+ "title": "The Destruction of a Person",
+ "source": "itunes",
+ "album": "A Lethal Dose of American Hatred",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 2.566666666666667,
+  "tempo_var": 2.329803168278689,
+  "low_onset_rate": 3.7666666666666666,
+  "lufs": -11.827379834798874,
+  "rms_dbfs": -11.259522894850566,
+  "crest": 11.259523391723633,
+  "centroid": 2568.028911921291,
+  "flatness": 0.023276908323168755,
+  "sub100_share": 0.46880075335502625,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7931463718414307,
+  "clean_share": 0.0023219814241486067,
+  "minor_share": -0.05141758202524327,
+  "chord_rate": 1.7,
+  "repetitiveness": 0.7614895701408386,
+  "vocal_share": 0.0004810933896806091,
+  "vocal_voiced": 0.0,
+  "song_length": 265.293
+ }
+}

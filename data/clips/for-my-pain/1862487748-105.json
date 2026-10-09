@@ -1,0 +1,32 @@
+{
+ "id": "for-my-pain/1862487748-105",
+ "band": "for-my-pain",
+ "title": "Gone Tomorrow",
+ "source": "itunes",
+ "album": "Buried Blue",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.5666127496182978,
+  "tempo_var": 1.9876321369677377,
+  "low_onset_rate": 6.8998956931868,
+  "lufs": -8.767757283777563,
+  "rms_dbfs": -7.825479013572472,
+  "crest": 7.825479030609131,
+  "centroid": 2387.7449936822377,
+  "flatness": 0.027845634147524834,
+  "sub100_share": 0.2820132374763489,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.8213250041007996,
+  "clean_share": 0.04021655065738593,
+  "minor_share": 0.23554881284169638,
+  "chord_rate": 0.7999879064564406,
+  "repetitiveness": 0.7995207905769348,
+  "vocal_share": 0.11616799980401993,
+  "vocal_voiced": 0.8679727427597955,
+  "song_length": 285.56
+ }
+}

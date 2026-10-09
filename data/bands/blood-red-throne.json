@@ -1,0 +1,127 @@
+{
+ "slug": "blood-red-throne",
+ "name": "Blood Red Throne",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 62960709,
+  "deezer": 470801,
+  "spotify": "38shFuJO9k0kOEQSf854u4"
+ },
+ "metadata": {
+  "formed": 1998,
+  "split": null,
+  "country": "NO",
+  "status": "active",
+  "members": 5,
+  "past_members": 12,
+  "full_lengths": 12,
+  "genre": "Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 4214,
+  "themes": "Murder, Death, Gore",
+  "release_year": 2012
+ },
+ "partial": false,
+ "clips": [
+  "blood-red-throne/855564687-105",
+  "blood-red-throne/869075553-107",
+  "blood-red-throne/310623835-106",
+  "blood-red-throne/260147022-105",
+  "blood-red-throne/317354275-106",
+  "blood-red-throne/472867818-105",
+  "blood-red-throne/649450047-105",
+  "blood-red-throne/1660452072-106",
+  "blood-red-throne/1467242196-105",
+  "blood-red-throne/1570636185-105",
+  "blood-red-throne/1712933175-105",
+  "blood-red-throne/1840483860-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 119.67927631578948,
+   "iqr": 63.03523137019231
+  },
+  "onset_rate": {
+   "median": 6.598935351306793,
+   "iqr": 1.6309849743005387
+  },
+  "tempo_var": {
+   "median": 14.11134456643894,
+   "iqr": 7.47780468046161
+  },
+  "low_onset_rate": {
+   "median": 8.119196406924308,
+   "iqr": 1.3310621535017528
+  },
+  "lufs": {
+   "median": -8.406619420306448,
+   "iqr": 1.395603268187056
+  },
+  "rms_dbfs": {
+   "median": -7.671453080079368,
+   "iqr": 1.2099465039482187
+  },
+  "crest": {
+   "median": 7.67145299911499,
+   "iqr": 1.2099462747573853
+  },
+  "centroid": {
+   "median": 2686.5432947421186,
+   "iqr": 162.00183372613174
+  },
+  "flatness": {
+   "median": 0.0421545896679163,
+   "iqr": 0.008622810244560242
+  },
+  "sub100_share": {
+   "median": 0.41676338016986847,
+   "iqr": 0.13120393455028534
+  },
+  "lowest_pitch": {
+   "median": 41.7205810546875,
+   "iqr": 6.05621337890625
+  },
+  "harmonic_share": {
+   "median": 0.7753298878669739,
+   "iqr": 0.07434742152690887
+  },
+  "clean_share": {
+   "median": 0.0027152831652443752,
+   "iqr": 0.009116944519835617
+  },
+  "minor_share": {
+   "median": 0.07932958704733001,
+   "iqr": 0.2115121047924297
+  },
+  "chord_rate": {
+   "median": 2.4862167442499477,
+   "iqr": 0.8113352405889864
+  },
+  "repetitiveness": {
+   "median": 0.9321242868900299,
+   "iqr": 0.04555134475231171
+  },
+  "vocal_share": {
+   "median": 0.10017916187644005,
+   "iqr": 0.04929789714515209
+  },
+  "vocal_voiced": {
+   "median": 0.13152155487842693,
+   "iqr": 0.13622397464135183
+  },
+  "song_length": {
+   "median": 252.249,
+   "iqr": 40.75174999999996
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

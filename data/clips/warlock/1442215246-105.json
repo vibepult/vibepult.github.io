@@ -1,0 +1,32 @@
+{
+ "id": "warlock/1442215246-105",
+ "band": "warlock",
+ "title": "Midnite In China",
+ "source": "itunes",
+ "album": "True As Steel",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.011849633903894,
+  "tempo_var": 0.29738231030866136,
+  "low_onset_rate": 5.813745575328517,
+  "lufs": -20.006409020311292,
+  "rms_dbfs": -19.81289195505733,
+  "crest": 16.21586036682129,
+  "centroid": 2693.8524779190157,
+  "flatness": 0.04067700728774071,
+  "sub100_share": 0.25600770115852356,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.6784685850143433,
+  "clean_share": 0.011636927851047323,
+  "minor_share": 0.11580606579541741,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.8894529342651367,
+  "vocal_share": 0.16767892241477966,
+  "vocal_voiced": 0.8928987194412107,
+  "song_length": 271.2
+ }
+}

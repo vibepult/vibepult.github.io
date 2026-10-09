@@ -1,0 +1,32 @@
+{
+ "id": "venom/1552677155-105",
+ "band": "venom",
+ "title": "Faerie Tale",
+ "source": "itunes",
+ "album": "Temples of Ice",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.766609726232408,
+  "tempo_var": 12.444722863705,
+  "low_onset_rate": 6.03324212785899,
+  "lufs": -10.31588262619409,
+  "rms_dbfs": -10.70269833739314,
+  "crest": 10.70269775390625,
+  "centroid": 2756.304148176753,
+  "flatness": 0.045463427901268005,
+  "sub100_share": 0.13203981518745422,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7428446412086487,
+  "clean_share": 0.01082753286929621,
+  "minor_share": 0.05125551244054005,
+  "chord_rate": 2.1333010838838415,
+  "repetitiveness": 0.7844976186752319,
+  "vocal_share": 0.09738221764564514,
+  "vocal_voiced": 0.5363408521303258,
+  "song_length": 261.4
+ }
+}

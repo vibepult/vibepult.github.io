@@ -1,0 +1,32 @@
+{
+ "id": "i-spit-ashes/1222091860-111",
+ "band": "i-spit-ashes",
+ "title": "Moonray Guidance",
+ "source": "itunes",
+ "album": "Inhaling Blackness...Reflecting Light",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 1.169431581244242,
+  "tempo_var": 16.670770327198646,
+  "low_onset_rate": 3.374645420161955,
+  "lufs": -19.813004120346296,
+  "rms_dbfs": -19.05911963288594,
+  "crest": 14.449108123779297,
+  "centroid": 1083.2130398619136,
+  "flatness": 0.0009539044112898409,
+  "sub100_share": 0.11734764277935028,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.9177992343902588,
+  "clean_share": 0.9883630721489527,
+  "minor_share": 0.3106161830013934,
+  "chord_rate": 0.9689575958880862,
+  "repetitiveness": 0.7726092338562012,
+  "vocal_share": 0.04707161709666252,
+  "vocal_voiced": 0.6939313984168866,
+  "song_length": 322.933
+ }
+}

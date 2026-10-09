@@ -1,0 +1,32 @@
+{
+ "id": "caliban/1045211785-107",
+ "band": "caliban",
+ "title": "Your Song",
+ "source": "itunes",
+ "album": "Ghost Empire",
+ "year": 2014,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.0428920380158075,
+  "tempo_var": 8.072265588883178,
+  "low_onset_rate": 2.8066357949861804,
+  "lufs": -8.354445761139761,
+  "rms_dbfs": -7.873061860863321,
+  "crest": 7.873061180114746,
+  "centroid": 2817.8411632879365,
+  "flatness": 0.05491498485207558,
+  "sub100_share": 0.42044195532798767,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.6677401065826416,
+  "clean_share": 0.0,
+  "minor_share": 0.2007779064485844,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.886415421962738,
+  "vocal_share": 0.12237777560949326,
+  "vocal_voiced": 0.10264550264550265,
+  "song_length": 266.241
+ }
+}

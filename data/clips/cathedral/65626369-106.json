@@ -1,0 +1,32 @@
+{
+ "id": "cathedral/65626369-106",
+ "band": "cathedral",
+ "title": "Nightmare Castle",
+ "source": "itunes",
+ "album": "Supernatural Birth Machine",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 64.599609375,
+  "onset_rate": 1.971327522668865,
+  "tempo_var": 5.93485706909809,
+  "low_onset_rate": 4.677726324976968,
+  "lufs": -11.630833500621033,
+  "rms_dbfs": -10.854392471503783,
+  "crest": 10.854392051696777,
+  "centroid": 2176.1378049152327,
+  "flatness": 0.01774066500365734,
+  "sub100_share": 0.2382875233888626,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.778421938419342,
+  "clean_share": 0.3964313421256788,
+  "minor_share": -0.0235889396642322,
+  "chord_rate": 2.1049768462396354,
+  "repetitiveness": 0.8710795640945435,
+  "vocal_share": 0.0012385352747514844,
+  "vocal_voiced": 0.926829268292683,
+  "song_length": 391.227
+ }
+}

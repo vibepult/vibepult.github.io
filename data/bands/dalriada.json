@@ -1,0 +1,127 @@
+{
+ "slug": "dalriada",
+ "name": "Dalriada",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1474978685,
+  "deezer": 148086,
+  "spotify": "4mIdyUBqjS36BQHYFBbGjm"
+ },
+ "metadata": {
+  "formed": 2003,
+  "split": null,
+  "country": "HU",
+  "status": "active",
+  "members": 6,
+  "past_members": 8,
+  "full_lengths": 12,
+  "genre": "Folk Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 6572,
+  "themes": "Folk songs, Hungarian poems, Tales, Legends, Patriotism",
+  "release_year": 2011
+ },
+ "partial": false,
+ "clips": [
+  "dalriada/595710344-106",
+  "dalriada/382074862-105",
+  "dalriada/383576170-106",
+  "dalriada/386573025-107",
+  "dalriada/1483244486-105",
+  "dalriada/566304515-106",
+  "dalriada/1036209439-106",
+  "dalriada/1110460879-107",
+  "dalriada/1326916641-105",
+  "dalriada/1556108191-105",
+  "dalriada/1809930597-105",
+  "dalriada/595710344-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.32652698863637,
+   "iqr": 41.189152644230774
+  },
+  "onset_rate": {
+   "median": 5.312560611938128,
+   "iqr": 1.152725415797896
+  },
+  "tempo_var": {
+   "median": 11.428729599309312,
+   "iqr": 15.114115729079801
+  },
+  "low_onset_rate": {
+   "median": 6.832821667555642,
+   "iqr": 2.338863162488484
+  },
+  "lufs": {
+   "median": -8.325091173220997,
+   "iqr": 1.0092266365628166
+  },
+  "rms_dbfs": {
+   "median": -7.817214358496708,
+   "iqr": 1.0438373607740843
+  },
+  "crest": {
+   "median": 7.817214727401733,
+   "iqr": 1.043837547302246
+  },
+  "centroid": {
+   "median": 2548.6685120177235,
+   "iqr": 270.3508412315837
+  },
+  "flatness": {
+   "median": 0.03145031165331602,
+   "iqr": 0.016813845839351416
+  },
+  "sub100_share": {
+   "median": 0.35201217234134674,
+   "iqr": 0.11037006974220276
+  },
+  "lowest_pitch": {
+   "median": 44.4122314453125,
+   "iqr": 8.074951171875
+  },
+  "harmonic_share": {
+   "median": 0.8024751543998718,
+   "iqr": 0.051985010504722595
+  },
+  "clean_share": {
+   "median": 0.011249030256012413,
+   "iqr": 0.02697148277680678
+  },
+  "minor_share": {
+   "median": 0.0711266837929157,
+   "iqr": 0.16461089241913912
+  },
+  "chord_rate": {
+   "median": 1.5035548901711682,
+   "iqr": 0.45106646705135023
+  },
+  "repetitiveness": {
+   "median": 0.8153721392154694,
+   "iqr": 0.09419013559818268
+  },
+  "vocal_share": {
+   "median": 0.18316930532455444,
+   "iqr": 0.08202575147151947
+  },
+  "vocal_voiced": {
+   "median": 0.9198855507868383,
+   "iqr": 0.13829154904895224
+  },
+  "song_length": {
+   "median": 308.051,
+   "iqr": 60.26399999999995
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

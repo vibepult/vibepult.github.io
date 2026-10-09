@@ -1,0 +1,127 @@
+{
+ "slug": "within-temptation",
+ "name": "Within Temptation",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 2898551,
+  "deezer": 1073,
+  "spotify": "3hE8S8ohRErocpkY7uJW4a"
+ },
+ "metadata": {
+  "formed": 1996,
+  "split": null,
+  "country": "NL",
+  "status": "active",
+  "members": 7,
+  "past_members": 9,
+  "full_lengths": 9,
+  "genre": "Symphonic Metal (early); Symphonic/Alternative Rock (later)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 616155,
+  "themes": "Fantasy, Nature (early); Love, Inner struggles, Social and political problems",
+  "release_year": 2007
+ },
+ "partial": false,
+ "clips": [
+  "within-temptation/1550899956-106",
+  "within-temptation/1553280562-107",
+  "within-temptation/1553279262-107",
+  "within-temptation/1574152744-106",
+  "within-temptation/1444913625-105",
+  "within-temptation/1550899956-107",
+  "within-temptation/1553280562-106",
+  "within-temptation/1553279262-106",
+  "within-temptation/1574152744-105",
+  "within-temptation/1444913625-106",
+  "within-temptation/1550899956-105",
+  "within-temptation/1553280562-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 135.99917763157896,
+   "iqr": 38.06886071189838
+  },
+  "onset_rate": {
+   "median": 2.733316805340557,
+   "iqr": 1.43838297352394
+  },
+  "tempo_var": {
+   "median": 11.64931892957911,
+   "iqr": 7.642139405346544
+  },
+  "low_onset_rate": {
+   "median": 3.8333101538312695,
+   "iqr": 1.4774153430023578
+  },
+  "lufs": {
+   "median": -12.528669477851443,
+   "iqr": 9.246079008288474
+  },
+  "rms_dbfs": {
+   "median": -12.362532408649063,
+   "iqr": 8.468672070832595
+  },
+  "crest": {
+   "median": 12.362532138824463,
+   "iqr": 6.655374050140381
+  },
+  "centroid": {
+   "median": 2036.149084923877,
+   "iqr": 1120.2918790115377
+  },
+  "flatness": {
+   "median": 0.020484105683863163,
+   "iqr": 0.025664240354672074
+  },
+  "sub100_share": {
+   "median": 0.2576540857553482,
+   "iqr": 0.2271147146821022
+  },
+  "lowest_pitch": {
+   "median": 53.8330078125,
+   "iqr": 48.44970703125
+  },
+  "harmonic_share": {
+   "median": 0.8779474794864655,
+   "iqr": 0.12823772430419922
+  },
+  "clean_share": {
+   "median": 0.5962877030162412,
+   "iqr": 0.800832134840764
+  },
+  "minor_share": {
+   "median": 0.09951960508096025,
+   "iqr": 0.14000591538211285
+  },
+  "chord_rate": {
+   "median": 0.9666520536348657,
+   "iqr": 0.449502284426476
+  },
+  "repetitiveness": {
+   "median": 0.6869317591190338,
+   "iqr": 0.10620179772377014
+  },
+  "vocal_share": {
+   "median": 0.2822386920452118,
+   "iqr": 0.21500937640666962
+  },
+  "vocal_voiced": {
+   "median": 0.8859797297297297,
+   "iqr": 0.04446031683046092
+  },
+  "song_length": {
+   "median": 247.6465,
+   "iqr": 68.13325000000003
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

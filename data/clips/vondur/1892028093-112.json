@@ -1,0 +1,32 @@
+{
+ "id": "vondur/1892028093-112",
+ "band": "vondur",
+ "title": "Guð Er Dáinn",
+ "source": "itunes",
+ "album": "Striðsyfirlýsing",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.599930462124534,
+  "tempo_var": 29.305399973666344,
+  "low_onset_rate": 4.766594609302959,
+  "lufs": -10.458824488932034,
+  "rms_dbfs": -11.837059011613595,
+  "crest": 11.837059020996094,
+  "centroid": 3934.1968129261327,
+  "flatness": 0.05585287883877754,
+  "sub100_share": 0.1340322196483612,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.750542402267456,
+  "clean_share": 0.013921113689095127,
+  "minor_share": 0.21916223933381984,
+  "chord_rate": 0.9666520536348657,
+  "repetitiveness": 0.7182316184043884,
+  "vocal_share": 0.03291351720690727,
+  "vocal_voiced": 0.40720961281708945,
+  "song_length": 196.64
+ }
+}

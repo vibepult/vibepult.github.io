@@ -1,0 +1,127 @@
+{
+ "slug": "cyhra",
+ "name": "Cyhra",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1269835458,
+  "deezer": 13056831,
+  "spotify": "6tkhw6PSVw7b2M7h5fLBLE"
+ },
+ "metadata": {
+  "formed": 2016,
+  "split": null,
+  "country": "SE",
+  "status": "active",
+  "members": 5,
+  "past_members": 1,
+  "full_lengths": 4,
+  "genre": "Melodic Groove Metal/Hard Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 2934,
+  "themes": "Personal struggles",
+  "release_year": 2021
+ },
+ "partial": false,
+ "clips": [
+  "cyhra/1440915884-106",
+  "cyhra/1478665839-108",
+  "cyhra/1686897099-106",
+  "cyhra/1882050029-106",
+  "cyhra/1440915884-107",
+  "cyhra/1478665839-107",
+  "cyhra/1686897099-105",
+  "cyhra/1882050029-105",
+  "cyhra/1440915884-105",
+  "cyhra/1478665839-109",
+  "cyhra/1686897099-107",
+  "cyhra/1882050029-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 115.3564453125,
+   "iqr": 47.71399719427245
+  },
+  "onset_rate": {
+   "median": 3.8203795519565533,
+   "iqr": 3.371604014126623
+  },
+  "tempo_var": {
+   "median": 17.848275095416344,
+   "iqr": 11.236194759449534
+  },
+  "low_onset_rate": {
+   "median": 5.539613639302397,
+   "iqr": 3.253594388950848
+  },
+  "lufs": {
+   "median": -10.472809158577572,
+   "iqr": 2.3183346235050326
+  },
+  "rms_dbfs": {
+   "median": -10.02249179444394,
+   "iqr": 3.19646581644111
+  },
+  "crest": {
+   "median": 10.022491931915283,
+   "iqr": 3.1964006423950195
+  },
+  "centroid": {
+   "median": 2574.02542580944,
+   "iqr": 397.3677999632305
+  },
+  "flatness": {
+   "median": 0.0324007086455822,
+   "iqr": 0.017875814344733953
+  },
+  "sub100_share": {
+   "median": 0.38565899431705475,
+   "iqr": 0.12665323913097382
+  },
+  "lowest_pitch": {
+   "median": 44.4122314453125,
+   "iqr": 9.4207763671875
+  },
+  "harmonic_share": {
+   "median": 0.7676030397415161,
+   "iqr": 0.08156244456768036
+  },
+  "clean_share": {
+   "median": 0.10255417956656347,
+   "iqr": 0.2880139643134213
+  },
+  "minor_share": {
+   "median": 0.04771002214063655,
+   "iqr": 0.3152013022482284
+  },
+  "chord_rate": {
+   "median": 1.551895941424623,
+   "iqr": 0.9856637613344323
+  },
+  "repetitiveness": {
+   "median": 0.8476577997207642,
+   "iqr": 0.13672679662704468
+  },
+  "vocal_share": {
+   "median": 0.24641360342502594,
+   "iqr": 0.09519290551543236
+  },
+  "vocal_voiced": {
+   "median": 0.8278353526566394,
+   "iqr": 0.13393088504790418
+  },
+  "song_length": {
+   "median": 226.8135,
+   "iqr": 44.62375
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

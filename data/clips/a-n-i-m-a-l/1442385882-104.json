@@ -1,0 +1,32 @@
+{
+ "id": "a-n-i-m-a-l/1442385882-104",
+ "band": "a-n-i-m-a-l",
+ "title": "Naturaleza Audaz",
+ "source": "itunes",
+ "album": "Una Razón para Seguir",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 5.613271589972361,
+  "tempo_var": 11.449159195882617,
+  "low_onset_rate": 6.281518207826213,
+  "lufs": -7.599823166339152,
+  "rms_dbfs": -6.941419681374292,
+  "crest": 6.94141960144043,
+  "centroid": 2568.769764256183,
+  "flatness": 0.03678209334611893,
+  "sub100_share": 0.3559120297431946,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6635956168174744,
+  "clean_share": 0.0,
+  "minor_share": -0.16216660088343027,
+  "chord_rate": 1.7374412064200164,
+  "repetitiveness": 0.9163032174110413,
+  "vocal_share": 0.21287867426872253,
+  "vocal_voiced": 0.14516129032258066,
+  "song_length": 253.759
+ }
+}

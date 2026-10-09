@@ -1,0 +1,32 @@
+{
+ "id": "bathory/292056134-105",
+ "band": "bathory",
+ "title": "The Land",
+ "source": "itunes",
+ "album": "Nordland II",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.3412330892692625,
+  "tempo_var": 19.969603082417436,
+  "low_onset_rate": 9.42227731173932,
+  "lufs": -7.960282671493023,
+  "rms_dbfs": -7.968975952102358,
+  "crest": 7.9689764976501465,
+  "centroid": 3029.2406639356827,
+  "flatness": 0.05775840952992439,
+  "sub100_share": 0.29616424441337585,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8389966487884521,
+  "clean_share": 0.0062063615205585725,
+  "minor_share": 0.09974467178084878,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.8322246074676514,
+  "vocal_share": 0.11018867790699005,
+  "vocal_voiced": 0.6788990825688074,
+  "song_length": 373.413
+ }
+}

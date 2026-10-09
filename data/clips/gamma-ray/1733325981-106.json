@@ -1,0 +1,32 @@
+{
+ "id": "gamma-ray/1733325981-106",
+ "band": "gamma-ray",
+ "title": "Empire of the Undead",
+ "source": "itunes",
+ "album": "Empire of the Undead",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.833333333333333,
+  "tempo_var": 25.164570455853788,
+  "low_onset_rate": 4.933333333333334,
+  "lufs": -6.796494919712052,
+  "rms_dbfs": -6.279736486314695,
+  "crest": 6.279736042022705,
+  "centroid": 2466.3092935032582,
+  "flatness": 0.03599110618233681,
+  "sub100_share": 0.23633340001106262,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6711834073066711,
+  "clean_share": 0.0015479876160990713,
+  "minor_share": -0.0900967517902801,
+  "chord_rate": 2.4,
+  "repetitiveness": 0.8707003593444824,
+  "vocal_share": 0.2085527628660202,
+  "vocal_voiced": 0.6285971223021583,
+  "song_length": 265.189
+ }
+}

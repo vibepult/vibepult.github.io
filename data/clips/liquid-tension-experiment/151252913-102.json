@@ -1,0 +1,32 @@
+{
+ "id": "liquid-tension-experiment/151252913-102",
+ "band": "liquid-tension-experiment",
+ "title": "Osmosis",
+ "source": "itunes",
+ "album": "Liquid Tension Experiment",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 5.2,
+  "tempo_var": 18.855836633583237,
+  "low_onset_rate": 2.6,
+  "lufs": -12.650623107193978,
+  "rms_dbfs": -11.1741068564754,
+  "crest": 11.17410659790039,
+  "centroid": 1195.2314862794026,
+  "flatness": 0.0021120950113981962,
+  "sub100_share": 0.3115040063858032,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.9091687798500061,
+  "clean_share": 0.8978328173374613,
+  "minor_share": 0.2653500156605653,
+  "chord_rate": 1.9333333333333333,
+  "repetitiveness": 0.7576383352279663,
+  "vocal_share": 9.05591491573432e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 206.307
+ }
+}

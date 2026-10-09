@@ -1,0 +1,32 @@
+{
+ "id": "baron-rojo/273921274-105",
+ "band": "baron-rojo",
+ "title": "Los Domingos Son Muy Aburridos",
+ "source": "itunes",
+ "album": "No Va Mas",
+ "year": 1988,
+ "itunes_year": 1988,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.30782075837657,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.4462099355088975,
+  "lufs": -7.88214060279235,
+  "rms_dbfs": -8.459712335007962,
+  "crest": 8.459712028503418,
+  "centroid": 2933.842775738477,
+  "flatness": 0.03409693390130997,
+  "sub100_share": 0.04254292696714401,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.8569502830505371,
+  "clean_share": 0.003878975950349108,
+  "minor_share": 0.024328476189753923,
+  "chord_rate": 1.4367302283857828,
+  "repetitiveness": 0.8176347613334656,
+  "vocal_share": 6.230662256712094e-05,
+  "vocal_voiced": 0.0,
+  "song_length": 222.781
+ }
+}

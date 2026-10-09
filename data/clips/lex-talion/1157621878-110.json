@@ -1,0 +1,32 @@
+{
+ "id": "lex-talion/1157621878-110",
+ "band": "lex-talion",
+ "title": "The Legacy of Balder",
+ "source": "itunes",
+ "album": "Funeral in the Forest",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.474882412840033,
+  "tempo_var": 5.409489263201518,
+  "low_onset_rate": 2.840048125878873,
+  "lufs": -6.975958976703809,
+  "rms_dbfs": -6.727648322165592,
+  "crest": 6.72764778137207,
+  "centroid": 2409.9773869101014,
+  "flatness": 0.028957251459360123,
+  "sub100_share": 0.1754360944032669,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.728516161441803,
+  "clean_share": 0.0062063615205585725,
+  "minor_share": 0.09683795484686664,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.6991285085678101,
+  "vocal_share": 0.31160247325897217,
+  "vocal_voiced": 0.07103825136612021,
+  "song_length": 199.471
+ }
+}

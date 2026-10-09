@@ -1,0 +1,32 @@
+{
+ "id": "autopsy/684098840-106",
+ "band": "autopsy",
+ "title": "Seeds of the Doomed",
+ "source": "itunes",
+ "album": "Macabre Eternal",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.410427677835426,
+  "tempo_var": 4.994181366453802,
+  "low_onset_rate": 5.680096251757746,
+  "lufs": -8.116841644956281,
+  "rms_dbfs": -8.155606825591299,
+  "crest": 8.155607223510742,
+  "centroid": 2482.506522584696,
+  "flatness": 0.032404009252786636,
+  "sub100_share": 0.26089465618133545,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.682049036026001,
+  "clean_share": 0.03413498836307215,
+  "minor_share": -0.10748769283250753,
+  "chord_rate": 2.338863162488484,
+  "repetitiveness": 0.9027315378189087,
+  "vocal_share": 0.11159425973892212,
+  "vocal_voiced": 0.15299334811529933,
+  "song_length": 326.44
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "ancient/1410429638-105",
+ "band": "ancient",
+ "title": "Det Glemte Riket",
+ "source": "itunes",
+ "album": "Svartalvheim",
+ "year": 1994,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 215.33203125,
+  "onset_rate": 4.176541361586578,
+  "tempo_var": 5.857846426525757,
+  "low_onset_rate": 6.081044222470058,
+  "lufs": -21.839431217797028,
+  "rms_dbfs": -21.603949752949735,
+  "crest": 14.184568405151367,
+  "centroid": 1546.414256133355,
+  "flatness": 0.004906478337943554,
+  "sub100_share": 0.019251540303230286,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.896303653717041,
+  "clean_share": 0.7284716834755625,
+  "minor_share": 0.0790926972142203,
+  "chord_rate": 0.801895941424623,
+  "repetitiveness": 0.6263404488563538,
+  "vocal_share": 0.10097762197256088,
+  "vocal_voiced": 0.7379679144385026,
+  "song_length": 419.013
+ }
+}

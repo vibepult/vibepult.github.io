@@ -1,0 +1,127 @@
+{
+ "slug": "summoning",
+ "name": "Summoning",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 47705987,
+  "deezer": 13506,
+  "spotify": "5BViLZRXrRfhPDokkbYiMy"
+ },
+ "metadata": {
+  "formed": 1993,
+  "split": null,
+  "country": "AT",
+  "status": "active",
+  "members": 2,
+  "past_members": 1,
+  "full_lengths": 8,
+  "genre": "Epic/Atmospheric Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 24833,
+  "themes": "Occult (early); Fantasy (Tolkien, Moorcock), Medieval themes, Nature (later)",
+  "release_year": 2000
+ },
+ "partial": false,
+ "clips": [
+  "summoning/1184722489-106",
+  "summoning/1184689169-104",
+  "summoning/1184109653-105",
+  "summoning/1183627832-104",
+  "summoning/1184689207-104",
+  "summoning/1184690162-104",
+  "summoning/1326357738-104",
+  "summoning/1184722489-107",
+  "summoning/1184689169-105",
+  "summoning/1184109653-104",
+  "summoning/1183627832-105",
+  "summoning/1184689207-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.90049098320159,
+   "iqr": 54.990052098062776
+  },
+  "onset_rate": {
+   "median": 4.15,
+   "iqr": 2.1083333333333334
+  },
+  "tempo_var": {
+   "median": 14.048284525041684,
+   "iqr": 9.42988898130133
+  },
+  "low_onset_rate": {
+   "median": 6.633333333333333,
+   "iqr": 3.008333333333333
+  },
+  "lufs": {
+   "median": -11.24561423448906,
+   "iqr": 2.1479165133457894
+  },
+  "rms_dbfs": {
+   "median": -10.713873189937098,
+   "iqr": 2.5528513630864644
+  },
+  "crest": {
+   "median": 10.713873863220215,
+   "iqr": 2.552851915359497
+  },
+  "centroid": {
+   "median": 2300.3924383856875,
+   "iqr": 742.5266466138562
+  },
+  "flatness": {
+   "median": 0.02053426206111908,
+   "iqr": 0.024527069414034486
+  },
+  "sub100_share": {
+   "median": 0.12841089069843292,
+   "iqr": 0.08088714629411697
+  },
+  "lowest_pitch": {
+   "median": 82.0953369140625,
+   "iqr": 20.1873779296875
+  },
+  "harmonic_share": {
+   "median": 0.8414475619792938,
+   "iqr": 0.1893462985754013
+  },
+  "clean_share": {
+   "median": 0.17105263157894737,
+   "iqr": 0.42453560371517024
+  },
+  "minor_share": {
+   "median": 0.023333341837469296,
+   "iqr": 0.18445216789393704
+  },
+  "chord_rate": {
+   "median": 1.35,
+   "iqr": 0.5333333333333332
+  },
+  "repetitiveness": {
+   "median": 0.9077010452747345,
+   "iqr": 0.05025291442871094
+  },
+  "vocal_share": {
+   "median": 0.05602828413248062,
+   "iqr": 0.051451701670885086
+  },
+  "vocal_voiced": {
+   "median": 0.27710843373493976,
+   "iqr": 0.2821832547035753
+  },
+  "song_length": {
+   "median": 473.1535,
+   "iqr": 156.46999999999997
+  },
+  "vocal_presence": {
+   "median": 0.4166666666666667,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

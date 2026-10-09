@@ -1,0 +1,32 @@
+{
+ "id": "heathen-foray/1496106111-104",
+ "band": "heathen-foray",
+ "title": "Verfall",
+ "source": "itunes",
+ "album": "Weltenwandel",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.479622266401591,
+  "tempo_var": 9.024566631061006,
+  "low_onset_rate": 7.283888134606992,
+  "lufs": -7.309811862258678,
+  "rms_dbfs": -6.539313918150013,
+  "crest": 6.539313793182373,
+  "centroid": 2544.603130825715,
+  "flatness": 0.0374390073120594,
+  "sub100_share": 0.3750988841056824,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6777715682983398,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": -0.01273463859019519,
+  "chord_rate": 2.0047398535615577,
+  "repetitiveness": 0.9427282214164734,
+  "vocal_share": 0.13422782719135284,
+  "vocal_voiced": 0.04294975688816856,
+  "song_length": 352.32
+ }
+}

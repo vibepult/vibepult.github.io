@@ -1,0 +1,32 @@
+{
+ "id": "empyrium/1556081202-103",
+ "band": "empyrium",
+ "title": "In the Gutter of This Spring",
+ "source": "itunes",
+ "album": "The Turn of the Tides",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.176541361586578,
+  "tempo_var": 0.7979255967303293,
+  "low_onset_rate": 2.8734604567715656,
+  "lufs": -12.237716032792601,
+  "rms_dbfs": -11.637826488349802,
+  "crest": 11.637826919555664,
+  "centroid": 1578.1534922686483,
+  "flatness": 0.005774043034762144,
+  "sub100_share": 0.16051991283893585,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8420793414115906,
+  "clean_share": 0.7781225756400311,
+  "minor_share": 0.045709842255601596,
+  "chord_rate": 1.336493235707705,
+  "repetitiveness": 0.7619627118110657,
+  "vocal_share": 0.2481665164232254,
+  "vocal_voiced": 0.9265212399540758,
+  "song_length": 420.68
+ }
+}

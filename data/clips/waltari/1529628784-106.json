@@ -1,0 +1,32 @@
+{
+ "id": "waltari/1529628784-106",
+ "band": "waltari",
+ "title": "Number None",
+ "source": "itunes",
+ "album": "Radium Round",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.9784373030112015,
+  "tempo_var": 10.34952698750205,
+  "low_onset_rate": 5.479622266401591,
+  "lufs": -6.8335315437758934,
+  "rms_dbfs": -6.9495546889304425,
+  "crest": 6.949554443359375,
+  "centroid": 2709.5614398479547,
+  "flatness": 0.03909126669168472,
+  "sub100_share": 0.2579403519630432,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7885401248931885,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.016852988714640693,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.7542317509651184,
+  "vocal_share": 0.15605494379997253,
+  "vocal_voiced": 0.8281101614434948,
+  "song_length": 227.693
+ }
+}

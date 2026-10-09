@@ -1,0 +1,32 @@
+{
+ "id": "isis/1891480629-103",
+ "band": "isis",
+ "title": "Hand of the Host",
+ "source": "itunes",
+ "album": "Wavering Radiant",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 1.9666547745743035,
+  "tempo_var": 3.1002319666580034,
+  "low_onset_rate": 0.566663240131579,
+  "lufs": -14.476848943950392,
+  "rms_dbfs": -13.673942723492587,
+  "crest": 13.419766426086426,
+  "centroid": 927.2961485711195,
+  "flatness": 0.0020885129924863577,
+  "sub100_share": 0.0048270258121192455,
+  "lowest_pitch": 118.4326171875,
+  "harmonic_share": 0.9951269030570984,
+  "clean_share": 0.9582366589327146,
+  "minor_share": 0.35163453402239275,
+  "chord_rate": 0.2999981859520124,
+  "repetitiveness": 0.8289787173271179,
+  "vocal_share": 6.1097466641513165e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 642.653
+ }
+}

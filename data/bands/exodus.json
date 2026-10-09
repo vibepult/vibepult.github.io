@@ -1,0 +1,127 @@
+{
+ "slug": "exodus",
+ "name": "Exodus",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1448557080,
+  "deezer": 16737,
+  "spotify": "76S65NHJHrNy4JTrXHP2BH"
+ },
+ "metadata": {
+  "formed": 1979,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 14,
+  "full_lengths": 13,
+  "genre": "Thrash Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 213247,
+  "themes": "Anti-religion, Death, Violence, Metal, Politics, Humour",
+  "release_year": 2006
+ },
+ "partial": false,
+ "clips": [
+  "exodus/1004701980-105",
+  "exodus/1004702047-105",
+  "exodus/714894963-105",
+  "exodus/714065809-108",
+  "exodus/1456964766-105",
+  "exodus/1460469144-105",
+  "exodus/932631348-110",
+  "exodus/1460466743-107",
+  "exodus/1458697981-106",
+  "exodus/1577721794-106",
+  "exodus/1862225385-105",
+  "exodus/1004701980-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 112.34714673913044,
+   "iqr": 33.21276212993422
+  },
+  "onset_rate": {
+   "median": 4.854287101493952,
+   "iqr": 1.174528323869314
+  },
+  "tempo_var": {
+   "median": 9.813526563013827,
+   "iqr": 14.207468181192771
+  },
+  "low_onset_rate": {
+   "median": 5.571901482000091,
+   "iqr": 3.7192379638157917
+  },
+  "lufs": {
+   "median": -9.574125334212162,
+   "iqr": 1.2659922137834378
+  },
+  "rms_dbfs": {
+   "median": -8.812068301015255,
+   "iqr": 2.1401352812473036
+  },
+  "crest": {
+   "median": 8.812068462371826,
+   "iqr": 2.1401350498199463
+  },
+  "centroid": {
+   "median": 2671.200500189288,
+   "iqr": 181.99672005663706
+  },
+  "flatness": {
+   "median": 0.03447424806654453,
+   "iqr": 0.011966199614107609
+  },
+  "sub100_share": {
+   "median": 0.2916298359632492,
+   "iqr": 0.06626944243907928
+  },
+  "lowest_pitch": {
+   "median": 63.2537841796875,
+   "iqr": 18.16864013671875
+  },
+  "harmonic_share": {
+   "median": 0.7037031650543213,
+   "iqr": 0.16156691312789917
+  },
+  "clean_share": {
+   "median": 0.05342066879185349,
+   "iqr": 0.092143678709192
+  },
+  "minor_share": {
+   "median": -0.03335717482970853,
+   "iqr": 0.126211076226941
+  },
+  "chord_rate": {
+   "median": 2.5158677473951516,
+   "iqr": 0.8210168127858832
+  },
+  "repetitiveness": {
+   "median": 0.911169707775116,
+   "iqr": 0.042517051100730896
+  },
+  "vocal_share": {
+   "median": 0.1749381609261036,
+   "iqr": 0.1902964971959591
+  },
+  "vocal_voiced": {
+   "median": 0.22168954813696984,
+   "iqr": 0.391113005218523
+  },
+  "song_length": {
+   "median": 290.6545,
+   "iqr": 121.70975000000001
+  },
+  "vocal_presence": {
+   "median": 0.5,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

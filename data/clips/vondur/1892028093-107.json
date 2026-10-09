@@ -1,0 +1,32 @@
+{
+ "id": "vondur/1892028093-107",
+ "band": "vondur",
+ "title": "Vondur",
+ "source": "itunes",
+ "album": "Striðsyfirlýsing",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 3.0332874786473374,
+  "tempo_var": 20.782153603189215,
+  "low_onset_rate": 3.3999486024398724,
+  "lufs": -15.978147142169604,
+  "rms_dbfs": -16.057781038279742,
+  "crest": 16.057781219482422,
+  "centroid": 1737.982952435903,
+  "flatness": 0.008232544176280499,
+  "sub100_share": 0.0055040582083165646,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.8976573348045349,
+  "clean_share": 0.728538283062645,
+  "minor_share": -0.118766619051899,
+  "chord_rate": 0.8333207358921256,
+  "repetitiveness": 0.6869959831237793,
+  "vocal_share": 0.10170847922563553,
+  "vocal_voiced": 0.07692307692307693,
+  "song_length": 158.533
+ }
+}

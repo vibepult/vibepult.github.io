@@ -1,0 +1,32 @@
+{
+ "id": "viikate/1536714928-104",
+ "band": "viikate",
+ "title": "Ajakaa!",
+ "source": "itunes",
+ "album": "Unholan Urut",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.6753563981961888,
+  "tempo_var": 0.0,
+  "low_onset_rate": 8.386495054065849,
+  "lufs": -7.142416365538653,
+  "rms_dbfs": -6.336280549284093,
+  "crest": 6.33627986907959,
+  "centroid": 2174.7752683695676,
+  "flatness": 0.025466367602348328,
+  "sub100_share": 0.3222045302391052,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.790949821472168,
+  "clean_share": 0.05120248254460822,
+  "minor_share": 0.036674067175012204,
+  "chord_rate": 1.3030809048150125,
+  "repetitiveness": 0.8789449334144592,
+  "vocal_share": 0.11764315515756607,
+  "vocal_voiced": 0.4968789013732834,
+  "song_length": 207.453
+ }
+}

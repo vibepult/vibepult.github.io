@@ -1,0 +1,32 @@
+{
+ "id": "tristania/1183572661-106",
+ "band": "tristania",
+ "title": "Angellore",
+ "source": "itunes",
+ "album": "Widow's Weeds",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.933333333333333,
+  "tempo_var": 7.901325812722745,
+  "low_onset_rate": 5.033333333333333,
+  "lufs": -15.438858851739555,
+  "rms_dbfs": -15.0463177444658,
+  "crest": 15.046318054199219,
+  "centroid": 2670.330233635501,
+  "flatness": 0.026355398818850517,
+  "sub100_share": 0.39187392592430115,
+  "lowest_pitch": 104.974365234375,
+  "harmonic_share": 0.7811335325241089,
+  "clean_share": 0.19736842105263158,
+  "minor_share": 0.02092496761929341,
+  "chord_rate": 1.2,
+  "repetitiveness": 0.6475436091423035,
+  "vocal_share": 0.0020652669481933117,
+  "vocal_voiced": 0.6762589928057554,
+  "song_length": 436.64
+ }
+}

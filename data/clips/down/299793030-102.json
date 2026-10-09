@@ -1,0 +1,32 @@
+{
+ "id": "down/299793030-102",
+ "band": "down",
+ "title": "Lifer",
+ "source": "itunes",
+ "album": "Nola",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.4661400469785875,
+  "tempo_var": 16.040168572353416,
+  "low_onset_rate": 4.899422290342182,
+  "lufs": -10.667832944727751,
+  "rms_dbfs": -10.457437365917368,
+  "crest": 10.457437515258789,
+  "centroid": 3378.7805008510386,
+  "flatness": 0.06298159062862396,
+  "sub100_share": 0.44529232382774353,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7189136743545532,
+  "clean_share": 0.0,
+  "minor_share": -0.05374744173052126,
+  "chord_rate": 2.766340476859871,
+  "repetitiveness": 0.8693494200706482,
+  "vocal_share": 0.057858068495988846,
+  "vocal_voiced": 0.4207920792079208,
+  "song_length": 279.507
+ }
+}

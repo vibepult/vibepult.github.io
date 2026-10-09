@@ -1,0 +1,32 @@
+{
+ "id": "coldseed/1460470424-107",
+ "band": "coldseed",
+ "title": "On My Way",
+ "source": "itunes",
+ "album": "Completion Makes the Tragedy",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 3.7087687290888813,
+  "tempo_var": 38.16536922616055,
+  "low_onset_rate": 3.107346773020414,
+  "lufs": -8.558360462943385,
+  "rms_dbfs": -7.725711941898824,
+  "crest": 7.725711822509766,
+  "centroid": 2453.579828182308,
+  "flatness": 0.027305210009217262,
+  "sub100_share": 0.37708136439323425,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.779045581817627,
+  "clean_share": 0.06361520558572537,
+  "minor_share": 0.1643515990707462,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.9356496334075928,
+  "vocal_share": 0.06898382306098938,
+  "vocal_voiced": 0.6099476439790575,
+  "song_length": 164.023
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "briqueville/1526167897-102",
+ "band": "briqueville",
+ "title": "Akte IX",
+ "source": "itunes",
+ "album": "Quelle",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.2744084274838774,
+  "tempo_var": 1.064147570504223,
+  "low_onset_rate": 3.4080577510546477,
+  "lufs": -10.200602052117835,
+  "rms_dbfs": -8.29520215434194,
+  "crest": 8.295202255249023,
+  "centroid": 2034.6931101772436,
+  "flatness": 0.016426684334874153,
+  "sub100_share": 0.5844386219978333,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6841036081314087,
+  "clean_share": 0.495733126454616,
+  "minor_share": 0.002997001676673161,
+  "chord_rate": 1.871090529990787,
+  "repetitiveness": 0.9161247611045837,
+  "vocal_share": 4.719651371942746e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 334.616
+ }
+}

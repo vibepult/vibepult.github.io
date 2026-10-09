@@ -1,0 +1,32 @@
+{
+ "id": "alkonost/1456849303-104",
+ "band": "alkonost",
+ "title": "Нивушка-Нива",
+ "source": "itunes",
+ "album": "Путь непройденный",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 3.240996096591185,
+  "tempo_var": 29.382287631257935,
+  "low_onset_rate": 3.9092427144450372,
+  "lufs": -11.161693122595418,
+  "rms_dbfs": -10.936618517299392,
+  "crest": 10.93661880493164,
+  "centroid": 1907.0074326625618,
+  "flatness": 0.007526731584221125,
+  "sub100_share": 0.07531991600990295,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.9273627996444702,
+  "clean_share": 0.6780449961210241,
+  "minor_share": -0.0518628131205261,
+  "chord_rate": 1.0023699267807789,
+  "repetitiveness": 0.7065399289131165,
+  "vocal_share": 0.3026754856109619,
+  "vocal_voiced": 0.9861849096705633,
+  "song_length": 464.5
+ }
+}

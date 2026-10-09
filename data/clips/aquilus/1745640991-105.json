@@ -1,0 +1,32 @@
+{
+ "id": "aquilus/1745640991-105",
+ "band": "aquilus",
+ "title": "Sombre Loom",
+ "source": "itunes",
+ "album": "Bellum II",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.5666127496182978,
+  "tempo_var": 4.192758150147476,
+  "low_onset_rate": 2.766624843161857,
+  "lufs": -19.173709935202382,
+  "rms_dbfs": -17.606941550137726,
+  "crest": 17.60667610168457,
+  "centroid": 1832.093597793188,
+  "flatness": 0.009362858720123768,
+  "sub100_share": 0.5355221629142761,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.6032320857048035,
+  "clean_share": 0.5382830626450116,
+  "minor_share": 0.34449803880398877,
+  "chord_rate": 1.7666399600913063,
+  "repetitiveness": 0.6761112213134766,
+  "vocal_share": 7.386490779026644e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 333.56
+ }
+}

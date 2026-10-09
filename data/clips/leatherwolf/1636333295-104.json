@@ -1,0 +1,32 @@
+{
+ "id": "leatherwolf/1636333295-104",
+ "band": "leatherwolf",
+ "title": "Take A Chance",
+ "source": "itunes",
+ "album": "Street Ready",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 6.147868884255443,
+  "tempo_var": 3.0912721566921038,
+  "low_onset_rate": 6.014219560684673,
+  "lufs": -8.939759835538915,
+  "rms_dbfs": -9.573818795285069,
+  "crest": 9.57381820678711,
+  "centroid": 2958.6254015238787,
+  "flatness": 0.05053802207112312,
+  "sub100_share": 0.15703237056732178,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.7240100502967834,
+  "clean_share": 0.003878975950349108,
+  "minor_share": 0.07218940117088007,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.8864966034889221,
+  "vocal_share": 0.20062462985515594,
+  "vocal_voiced": 0.7473053892215569,
+  "song_length": 190.613
+ }
+}

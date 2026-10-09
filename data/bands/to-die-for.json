@@ -1,0 +1,127 @@
+{
+ "slug": "to-die-for",
+ "name": "To/Die/For",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 41273813,
+  "deezer": 6484,
+  "spotify": "6odEUy7osvwibc1yNvxt5u"
+ },
+ "metadata": {
+  "formed": 1999,
+  "split": null,
+  "country": "FI",
+  "status": "active",
+  "members": 5,
+  "past_members": 12,
+  "full_lengths": 7,
+  "genre": "Gothic Metal/Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 5884,
+  "themes": "Death, Despair, Love, Melancholy, Eternity",
+  "release_year": 2002
+ },
+ "partial": false,
+ "clips": [
+  "to-die-for/1669833632-106",
+  "to-die-for/1669866713-105",
+  "to-die-for/1669873911-105",
+  "to-die-for/1669939580-105",
+  "to-die-for/700339873-106",
+  "to-die-for/1669833632-105",
+  "to-die-for/1669866713-106",
+  "to-die-for/1669873911-104",
+  "to-die-for/1669939580-106",
+  "to-die-for/700339873-107",
+  "to-die-for/1669833632-107",
+  "to-die-for/1669866713-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.19921875,
+   "iqr": 31.35196767364674
+  },
+  "onset_rate": {
+   "median": 4.443840008728119,
+   "iqr": 1.0190760922271247
+  },
+  "tempo_var": {
+   "median": 3.5384254389281318,
+   "iqr": 17.88596994831466
+  },
+  "low_onset_rate": {
+   "median": 6.598935351306793,
+   "iqr": 1.4283771456626102
+  },
+  "lufs": {
+   "median": -9.075086136206547,
+   "iqr": 0.9027550717427903
+  },
+  "rms_dbfs": {
+   "median": -8.098200879109461,
+   "iqr": 1.2626618076114555
+  },
+  "crest": {
+   "median": 8.098201036453247,
+   "iqr": 1.2626619338989258
+  },
+  "centroid": {
+   "median": 2480.5442938886026,
+   "iqr": 352.94784968346903
+  },
+  "flatness": {
+   "median": 0.028636543080210686,
+   "iqr": 0.01101198187097907
+  },
+  "sub100_share": {
+   "median": 0.38368532061576843,
+   "iqr": 0.14483384788036346
+  },
+  "lowest_pitch": {
+   "median": 57.8704833984375,
+   "iqr": 25.5706787109375
+  },
+  "harmonic_share": {
+   "median": 0.841600775718689,
+   "iqr": 0.07857756316661835
+  },
+  "clean_share": {
+   "median": 0.08844065166795967,
+   "iqr": 0.07971295577967416
+  },
+  "minor_share": {
+   "median": 0.13277210087204389,
+   "iqr": 0.23415403229475792
+  },
+  "chord_rate": {
+   "median": 1.2863747393686662,
+   "iqr": 0.6097750387916403
+  },
+  "repetitiveness": {
+   "median": 0.8162968158721924,
+   "iqr": 0.0637422651052475
+  },
+  "vocal_share": {
+   "median": 0.15450872480869293,
+   "iqr": 0.08461081609129906
+  },
+  "vocal_voiced": {
+   "median": 0.8602825745682888,
+   "iqr": 0.06296401525673323
+  },
+  "song_length": {
+   "median": 247.7735,
+   "iqr": 62.163749999999965
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

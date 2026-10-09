@@ -1,0 +1,32 @@
+{
+ "id": "krokus/1824169383-107",
+ "band": "krokus",
+ "title": "Spirit of the Night",
+ "source": "itunes",
+ "album": "Hellraiser",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 6.931489127609283,
+  "tempo_var": 0.0,
+  "low_onset_rate": 8.164494405116704,
+  "lufs": -7.711220201455904,
+  "rms_dbfs": -7.262561615106722,
+  "crest": 7.262561798095703,
+  "centroid": 2374.1078180300487,
+  "flatness": 0.032124705612659454,
+  "sub100_share": 0.2921876013278961,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.6926068067550659,
+  "clean_share": 0.0007733952049497294,
+  "minor_share": 0.052281176347285574,
+  "chord_rate": 1.5995744140636807,
+  "repetitiveness": 0.9247511625289917,
+  "vocal_share": 0.13431623578071594,
+  "vocal_voiced": 0.3182359952324195,
+  "song_length": 241.4
+ }
+}

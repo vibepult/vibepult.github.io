@@ -1,0 +1,32 @@
+{
+ "id": "drudkh/583582545-104",
+ "band": "drudkh",
+ "title": "Twilight Aureole",
+ "source": "itunes",
+ "album": "Пригорща Зірок",
+ "year": 2010,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.412797604616205,
+  "tempo_var": 1.984632271593852,
+  "low_onset_rate": 8.353082723173156,
+  "lufs": -11.908456759908738,
+  "rms_dbfs": -11.378660997679294,
+  "crest": 11.378661155700684,
+  "centroid": 2350.759924371394,
+  "flatness": 0.018276691436767578,
+  "sub100_share": 0.343180775642395,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8474319577217102,
+  "clean_share": 0.005430566330488751,
+  "minor_share": -0.1316557888503807,
+  "chord_rate": 0.9021329341027009,
+  "repetitiveness": 0.8598447442054749,
+  "vocal_share": 3.368043905993545e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 539.733
+ }
+}

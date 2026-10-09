@@ -1,0 +1,32 @@
+{
+ "id": "angellore/1887748226-104",
+ "band": "angellore",
+ "title": "Weeping Ghost",
+ "source": "itunes",
+ "album": "Errances",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 0.3999939532282203,
+  "tempo_var": 3.240651880729791,
+  "low_onset_rate": 0.9999848830705508,
+  "lufs": -10.304553744147087,
+  "rms_dbfs": -10.083584852929341,
+  "crest": 10.083584785461426,
+  "centroid": 2275.965513261581,
+  "flatness": 0.023860901594161987,
+  "sub100_share": 0.3541469871997833,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7854383587837219,
+  "clean_share": 0.15390564578499613,
+  "minor_share": 0.014888241132417157,
+  "chord_rate": 0.6999894181493855,
+  "repetitiveness": 0.6585758328437805,
+  "vocal_share": 0.11955026537179947,
+  "vocal_voiced": 0.3581081081081081,
+  "song_length": 269.588
+ }
+}

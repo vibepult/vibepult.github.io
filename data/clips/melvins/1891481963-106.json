@@ -1,0 +1,32 @@
+{
+ "id": "melvins/1891481963-106",
+ "band": "melvins",
+ "title": "Spineless",
+ "source": "itunes",
+ "album": "The Crybaby",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.166647518382353,
+  "tempo_var": 2.023759485824393,
+  "low_onset_rate": 3.899976417376161,
+  "lufs": -8.975017357405527,
+  "rms_dbfs": -8.52963568919312,
+  "crest": 8.52963638305664,
+  "centroid": 2907.2706995778835,
+  "flatness": 0.044248081743717194,
+  "sub100_share": 0.397749125957489,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.7878053188323975,
+  "clean_share": 0.13302397525135345,
+  "minor_share": 0.020419752294674576,
+  "chord_rate": 2.8666493324303404,
+  "repetitiveness": 0.8342220187187195,
+  "vocal_share": 0.04465387016534805,
+  "vocal_voiced": 0.8891257995735607,
+  "song_length": 241.786
+ }
+}

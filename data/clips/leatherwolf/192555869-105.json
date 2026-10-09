@@ -1,0 +1,32 @@
+{
+ "id": "leatherwolf/192555869-105",
+ "band": "leatherwolf",
+ "title": "Disconnect",
+ "source": "itunes",
+ "album": "World Asylum",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 6.248105876933521,
+  "tempo_var": 0.4521480977658144,
+  "low_onset_rate": 5.579859259079669,
+  "lufs": -6.317303261474579,
+  "rms_dbfs": -5.925642029223827,
+  "crest": 5.9256415367126465,
+  "centroid": 2548.5468959892687,
+  "flatness": 0.03259030729532242,
+  "sub100_share": 0.4540942907333374,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8196223974227905,
+  "clean_share": 0.0069821567106283944,
+  "minor_share": 0.30314068238814923,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.8598639965057373,
+  "vocal_share": 0.19942907989025116,
+  "vocal_voiced": 0.5711864406779661,
+  "song_length": 260.84
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "accept/1895926941-111",
+ "band": "accept",
+ "title": "Starlight (feat. Joseph Michael, Phil Demmel, Michael Cartellone)",
+ "source": "itunes",
+ "album": "Teutonic Titans 1976-2026",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 3.3666463090170278,
+  "tempo_var": 14.523463621042104,
+  "low_onset_rate": 4.8666372387770895,
+  "lufs": -11.314936749500454,
+  "rms_dbfs": -11.152501601613391,
+  "crest": 11.152502059936523,
+  "centroid": 2330.7271784975987,
+  "flatness": 0.034166909754276276,
+  "sub100_share": 0.5059629678726196,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.743818461894989,
+  "clean_share": 0.24671307037896364,
+  "minor_share": -0.0370501820865794,
+  "chord_rate": 1.9333216428018576,
+  "repetitiveness": 0.9067838191986084,
+  "vocal_share": 0.021654615178704262,
+  "vocal_voiced": 0.8193103448275862,
+  "song_length": 228.373
+ }
+}

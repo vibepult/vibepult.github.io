@@ -1,0 +1,32 @@
+{
+ "id": "candlemass/1460470925-105",
+ "band": "candlemass",
+ "title": "The Man Who Fell from the Sky",
+ "source": "itunes",
+ "album": "Candlemass",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 58.72691761363637,
+  "onset_rate": 2.572749478737332,
+  "tempo_var": 0.829983080924205,
+  "low_onset_rate": 5.045261964796587,
+  "lufs": -10.146094801056838,
+  "rms_dbfs": -9.854314563825001,
+  "crest": 9.854314804077148,
+  "centroid": 2489.0659630186396,
+  "flatness": 0.04056378826498985,
+  "sub100_share": 0.5242553353309631,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.869152843952179,
+  "clean_share": 0.04344453064391001,
+  "minor_share": 0.06230154492264345,
+  "chord_rate": 2.0047398535615577,
+  "repetitiveness": 0.9295362830162048,
+  "vocal_share": 4.834761284655542e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 206.867
+ }
+}

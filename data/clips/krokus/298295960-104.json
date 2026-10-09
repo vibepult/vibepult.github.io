@@ -1,0 +1,32 @@
+{
+ "id": "krokus/298295960-104",
+ "band": "krokus",
+ "title": "Our Love",
+ "source": "itunes",
+ "album": "The Blitz",
+ "year": 1984,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.297911073711436,
+  "tempo_var": 0.0,
+  "low_onset_rate": 3.4977844721181897,
+  "lufs": -16.28010166464054,
+  "rms_dbfs": -16.425502106726363,
+  "crest": 16.043193817138672,
+  "centroid": 2832.0811848780368,
+  "flatness": 0.036478638648986816,
+  "sub100_share": 0.26001206040382385,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7037129402160645,
+  "clean_share": 0.008507347254447023,
+  "minor_share": -0.04778270035393373,
+  "chord_rate": 1.299177089643899,
+  "repetitiveness": 0.7746047973632812,
+  "vocal_share": 0.3113287091255188,
+  "vocal_voiced": 0.9024822695035462,
+  "song_length": 280.333
+ }
+}

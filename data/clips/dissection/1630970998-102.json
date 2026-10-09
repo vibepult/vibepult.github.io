@@ -1,0 +1,32 @@
+{
+ "id": "dissection/1630970998-102",
+ "band": "dissection",
+ "title": "Night's Blood",
+ "source": "itunes",
+ "album": "Storm of the Light's Bane",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 7.0,
+  "tempo_var": 3.676839821529702,
+  "low_onset_rate": 8.2,
+  "lufs": -10.402457423683616,
+  "rms_dbfs": -10.052803514062497,
+  "crest": 10.052803993225098,
+  "centroid": 2622.1981360368013,
+  "flatness": 0.037435196340084076,
+  "sub100_share": 0.27514514327049255,
+  "lowest_pitch": 166.88232421875,
+  "harmonic_share": 0.6885776519775391,
+  "clean_share": 0.0,
+  "minor_share": 0.12356258262246678,
+  "chord_rate": 2.0,
+  "repetitiveness": 0.9486678242683411,
+  "vocal_share": 0.037993237376213074,
+  "vocal_voiced": 0.0759493670886076,
+  "song_length": 401.763
+ }
+}

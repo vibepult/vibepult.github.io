@@ -1,0 +1,32 @@
+{
+ "id": "metal-church/1677526143-106",
+ "band": "metal-church",
+ "title": "Making Monsters",
+ "source": "itunes",
+ "album": "Congregation of Annihilation",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 5.245735950152742,
+  "tempo_var": 34.16867138697894,
+  "low_onset_rate": 6.214693546040828,
+  "lufs": -6.922754884623081,
+  "rms_dbfs": -6.050690570258733,
+  "crest": 6.050690650939941,
+  "centroid": 2213.9984877284883,
+  "flatness": 0.019220339134335518,
+  "sub100_share": 0.35834378004074097,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7456032633781433,
+  "clean_share": 0.1365399534522886,
+  "minor_share": 0.060459288209225415,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.9062964916229248,
+  "vocal_share": 0.13109910488128662,
+  "vocal_voiced": 0.22782608695652173,
+  "song_length": 329.758
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "poisonblack",
+ "name": "Poisonblack",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 19092810,
+  "deezer": 7095,
+  "spotify": "1mBXJUab9jbcHhYxMuWbxO"
+ },
+ "metadata": {
+  "formed": 1999,
+  "split": null,
+  "country": "FI",
+  "status": "active",
+  "members": 7,
+  "past_members": 2,
+  "full_lengths": 6,
+  "genre": "Groove/Gothic Metal/Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 8496,
+  "themes": "Love, Lust, Pain, Pleasure (early); Despair, The scourge of society (later)",
+  "release_year": 2007
+ },
+ "partial": false,
+ "clips": [
+  "poisonblack/1045654698-105",
+  "poisonblack/1045644098-106",
+  "poisonblack/1045726813-107",
+  "poisonblack/1204953569-105",
+  "poisonblack/1045654698-106",
+  "poisonblack/1045644098-105",
+  "poisonblack/1045726813-106",
+  "poisonblack/1204953569-104",
+  "poisonblack/1045654698-104",
+  "poisonblack/1045644098-107",
+  "poisonblack/1045726813-108",
+  "poisonblack/1204953569-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 107.85326086956522,
+   "iqr": 33.72978559128032
+  },
+  "onset_rate": {
+   "median": 3.458176247393687,
+   "iqr": 1.1777846639674148
+  },
+  "tempo_var": {
+   "median": 4.742156437247551,
+   "iqr": 9.037984176109553
+  },
+  "low_onset_rate": {
+   "median": 4.209953692479271,
+   "iqr": 2.1133299289628087
+  },
+  "lufs": {
+   "median": -9.036813767579535,
+   "iqr": 1.797501397042513
+  },
+  "rms_dbfs": {
+   "median": -8.648796509677538,
+   "iqr": 1.4542702097407059
+  },
+  "crest": {
+   "median": 8.648796558380127,
+   "iqr": 1.4542698860168457
+  },
+  "centroid": {
+   "median": 2570.937496123129,
+   "iqr": 679.2100223962452
+  },
+  "flatness": {
+   "median": 0.03396519459784031,
+   "iqr": 0.0257894704118371
+  },
+  "sub100_share": {
+   "median": 0.298606276512146,
+   "iqr": 0.18244938552379608
+  },
+  "lowest_pitch": {
+   "median": 83.441162109375,
+   "iqr": 32.97271728515625
+  },
+  "harmonic_share": {
+   "median": 0.7877945899963379,
+   "iqr": 0.06800635159015656
+  },
+  "clean_share": {
+   "median": 0.05740884406516679,
+   "iqr": 0.23778122575640032
+  },
+  "minor_share": {
+   "median": 0.032223085120861306,
+   "iqr": 0.0745453231728617
+  },
+  "chord_rate": {
+   "median": 1.3030809048150123,
+   "iqr": 0.43436030160500416
+  },
+  "repetitiveness": {
+   "median": 0.8286738991737366,
+   "iqr": 0.1060619056224823
+  },
+  "vocal_share": {
+   "median": 0.17472677677869797,
+   "iqr": 0.06805950403213501
+  },
+  "vocal_voiced": {
+   "median": 0.7602319481647891,
+   "iqr": 0.18138197070268458
+  },
+  "song_length": {
+   "median": 283.5865,
+   "iqr": 58.64999999999998
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "winterhorde/1680978242-106",
+ "band": "winterhorde",
+ "title": "I Am Sin",
+ "source": "itunes",
+ "album": "Nebula",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.312560611938127,
+  "tempo_var": 10.250316861294309,
+  "low_onset_rate": 7.3173004654996845,
+  "lufs": -7.432295994809842,
+  "rms_dbfs": -7.152786409905399,
+  "crest": 7.1527862548828125,
+  "centroid": 2603.962128633231,
+  "flatness": 0.044486675411462784,
+  "sub100_share": 0.2234080731868744,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7239595651626587,
+  "clean_share": 0.0062063615205585725,
+  "minor_share": 0.09895288498641508,
+  "chord_rate": 0.8353082723173156,
+  "repetitiveness": 0.8276609778404236,
+  "vocal_share": 0.21497070789337158,
+  "vocal_voiced": 0.1736842105263158,
+  "song_length": 325.813
+ }
+}

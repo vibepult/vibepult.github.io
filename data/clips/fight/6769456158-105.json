@@ -1,0 +1,32 @@
+{
+ "id": "fight/6769456158-105",
+ "band": "fight",
+ "title": "War of Words",
+ "source": "itunes",
+ "album": "War Of Words",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.030780201202866,
+  "tempo_var": 11.613720872353559,
+  "low_onset_rate": 3.8642190358639046,
+  "lufs": -10.746562291613225,
+  "rms_dbfs": -10.600733252213754,
+  "crest": 10.600733757019043,
+  "centroid": 3166.703531098547,
+  "flatness": 0.049783140420913696,
+  "sub100_share": 0.19097910821437836,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7485145926475525,
+  "clean_share": 0.013921113689095127,
+  "minor_share": 0.13505830273177827,
+  "chord_rate": 2.565041946220006,
+  "repetitiveness": 0.800683319568634,
+  "vocal_share": 0.07986284047365189,
+  "vocal_voiced": 0.643312101910828,
+  "song_length": 269.36
+ }
+}

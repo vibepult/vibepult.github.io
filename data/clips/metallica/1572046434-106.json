@@ -1,0 +1,32 @@
+{
+ "id": "metallica/1572046434-106",
+ "band": "metallica",
+ "title": "Don't Tread On Me",
+ "source": "itunes",
+ "album": "Metallica (Remastered)",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 2.466651751160991,
+  "tempo_var": 43.78584426292416,
+  "low_onset_rate": 1.5999903250773995,
+  "lufs": -14.103881941737209,
+  "rms_dbfs": -13.649569671454572,
+  "crest": 13.649569511413574,
+  "centroid": 2352.2031088536655,
+  "flatness": 0.02942204661667347,
+  "sub100_share": 0.2627106010913849,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.815588116645813,
+  "clean_share": 0.3905645784996133,
+  "minor_share": 0.06685938934764413,
+  "chord_rate": 1.299992139125387,
+  "repetitiveness": 0.8643419146537781,
+  "vocal_share": 1.0366234164393973e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 240.16
+ }
+}

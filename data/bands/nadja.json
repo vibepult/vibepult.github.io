@@ -1,0 +1,127 @@
+{
+ "slug": "nadja",
+ "name": "Nadja",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 33147939,
+  "deezer": 17162,
+  "spotify": "5ilW7mgqfRPZzRi28RNk8V"
+ },
+ "metadata": {
+  "formed": 2002,
+  "split": null,
+  "country": "CA",
+  "status": "active",
+  "members": 2,
+  "past_members": 0,
+  "full_lengths": 30,
+  "genre": "Ambient Drone/Doom Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 4737,
+  "themes": "Love, Death",
+  "release_year": 2009
+ },
+ "partial": false,
+ "clips": [
+  "nadja/330111059-103",
+  "nadja/387815063-103",
+  "nadja/387835291-105",
+  "nadja/1403573859-102",
+  "nadja/330111059-102",
+  "nadja/387815063-104",
+  "nadja/387835291-201",
+  "nadja/1403573859-103",
+  "nadja/330111059-104",
+  "nadja/387815063-102",
+  "nadja/387835291-104",
+  "nadja/1403573859-101"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 110.40660511363637,
+   "iqr": 33.09536637931035
+  },
+  "onset_rate": {
+   "median": 3.374645420161955,
+   "iqr": 1.887796695437133
+  },
+  "tempo_var": {
+   "median": 5.9990480468433205,
+   "iqr": 8.785890204038864
+  },
+  "low_onset_rate": {
+   "median": 7.885310090675459,
+   "iqr": 2.2052138389177136
+  },
+  "lufs": {
+   "median": -13.064064301148314,
+   "iqr": 5.405043640564861
+  },
+  "rms_dbfs": {
+   "median": -11.846085641642528,
+   "iqr": 5.34399307923673
+  },
+  "crest": {
+   "median": 11.846086025238037,
+   "iqr": 4.780475616455078
+  },
+  "centroid": {
+   "median": 1837.588866057693,
+   "iqr": 1129.5030272523531
+  },
+  "flatness": {
+   "median": 0.010188147891312838,
+   "iqr": 0.013092296218019328
+  },
+  "sub100_share": {
+   "median": 0.36872129142284393,
+   "iqr": 0.3608506992459297
+  },
+  "lowest_pitch": {
+   "median": 48.44970703125,
+   "iqr": 44.4122314453125
+  },
+  "harmonic_share": {
+   "median": 0.8595108091831207,
+   "iqr": 0.11134585738182068
+  },
+  "clean_share": {
+   "median": 0.2746314972847168,
+   "iqr": 0.9484096198603569
+  },
+  "minor_share": {
+   "median": 0.013912120942510126,
+   "iqr": 0.19609589781895348
+  },
+  "chord_rate": {
+   "median": 1.3197870702613588,
+   "iqr": 0.5011849633903893
+  },
+  "repetitiveness": {
+   "median": 0.8721694052219391,
+   "iqr": 0.06940692663192749
+  },
+  "vocal_share": {
+   "median": 0.0,
+   "iqr": 0.0
+  },
+  "vocal_voiced": {
+   "median": 0.0,
+   "iqr": 0.0
+  },
+  "song_length": {
+   "median": 702.7384999999999,
+   "iqr": 423.19775000000004
+  },
+  "vocal_presence": {
+   "median": 0.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

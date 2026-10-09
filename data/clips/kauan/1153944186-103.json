@@ -1,0 +1,32 @@
+{
+ "id": "kauan/1153944186-103",
+ "band": "kauan",
+ "title": "Lumikuuro",
+ "source": "itunes",
+ "album": "Lumikuuro",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 1.2028439121369345,
+  "tempo_var": 16.23270870681551,
+  "low_onset_rate": 0.7016589487465451,
+  "lufs": -17.167309740981683,
+  "rms_dbfs": -15.828777165662283,
+  "crest": 15.828777313232422,
+  "centroid": 1756.7970153944855,
+  "flatness": 0.015318353660404682,
+  "sub100_share": 0.39667510986328125,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.6048650145530701,
+  "clean_share": 0.6066718386346005,
+  "minor_share": -0.10754005583780046,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.6474537253379822,
+  "vocal_share": 0.009248076938092709,
+  "vocal_voiced": 0.978494623655914,
+  "song_length": 448.987
+ }
+}

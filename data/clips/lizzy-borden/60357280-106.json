@@ -1,0 +1,32 @@
+{
+ "id": "lizzy-borden/60357280-106",
+ "band": "lizzy-borden",
+ "title": "Ultra-Violence",
+ "source": "itunes",
+ "album": "Menace to Society",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 78.30255681818181,
+  "onset_rate": 5.245735950152742,
+  "tempo_var": 15.348802845987024,
+  "low_onset_rate": 6.147868884255443,
+  "lufs": -6.363643098305004,
+  "rms_dbfs": -6.723612295793364,
+  "crest": 6.7236127853393555,
+  "centroid": 2639.0708769526696,
+  "flatness": 0.038609828799963,
+  "sub100_share": 0.1191476583480835,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.6460599899291992,
+  "clean_share": 0.0,
+  "minor_share": 0.016098815979852965,
+  "chord_rate": 1.0357822576734714,
+  "repetitiveness": 0.8843830227851868,
+  "vocal_share": 0.3183158338069916,
+  "vocal_voiced": 0.6899563318777293,
+  "song_length": 248.973
+ }
+}

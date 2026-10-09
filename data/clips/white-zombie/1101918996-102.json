@@ -1,0 +1,32 @@
+{
+ "id": "white-zombie/1101918996-102",
+ "band": "white-zombie",
+ "title": "Disaster Blaster",
+ "source": "itunes",
+ "album": "Make Them Die Slowly",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 2.8333333333333335,
+  "tempo_var": 36.70605006996712,
+  "low_onset_rate": 4.066666666666666,
+  "lufs": -13.666945091400121,
+  "rms_dbfs": -13.890934348174808,
+  "crest": 13.890934944152832,
+  "centroid": 2606.0190632263266,
+  "flatness": 0.02814152091741562,
+  "sub100_share": 0.1687057912349701,
+  "lowest_pitch": 99.591064453125,
+  "harmonic_share": 0.7988305687904358,
+  "clean_share": 0.005417956656346749,
+  "minor_share": 0.04203552306734526,
+  "chord_rate": 0.9,
+  "repetitiveness": 0.8851583003997803,
+  "vocal_share": 0.040621787309646606,
+  "vocal_voiced": 0.831858407079646,
+  "song_length": 362.6
+ }
+}

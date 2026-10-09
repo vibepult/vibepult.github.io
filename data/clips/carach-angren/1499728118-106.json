@@ -1,0 +1,32 @@
+{
+ "id": "carach-angren/1499728118-106",
+ "band": "carach-angren",
+ "title": "Operation Compass",
+ "source": "itunes",
+ "album": "Franckensteina Strataemontanus",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.84478797944043,
+  "tempo_var": 15.71963470022765,
+  "low_onset_rate": 6.849527833001988,
+  "lufs": -10.644256102044588,
+  "rms_dbfs": -9.364455378958944,
+  "crest": 9.36445426940918,
+  "centroid": 2359.697711674441,
+  "flatness": 0.02778075635433197,
+  "sub100_share": 0.421485960483551,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8041418194770813,
+  "clean_share": 0.16602017067494182,
+  "minor_share": 0.11311531426483384,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.8642730712890625,
+  "vocal_share": 0.04290848597884178,
+  "vocal_voiced": 0.4504950495049505,
+  "song_length": 360.27
+ }
+}

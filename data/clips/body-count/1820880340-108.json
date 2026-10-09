@@ -1,0 +1,32 @@
+{
+ "id": "body-count/1820880340-108",
+ "band": "body-count",
+ "title": "Pop Bubble (feat. Jamey Jasta)",
+ "source": "itunes",
+ "album": "Manslaughter",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.4332814318755576,
+  "tempo_var": 2.649603144087022,
+  "low_onset_rate": 4.233269338331998,
+  "lufs": -6.15687096484593,
+  "rms_dbfs": -6.068390840231178,
+  "crest": 6.068390846252441,
+  "centroid": 2785.1722527984857,
+  "flatness": 0.05356558412313461,
+  "sub100_share": 0.2674049139022827,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.6448348164558411,
+  "clean_share": 0.0,
+  "minor_share": 0.0063987967489795294,
+  "chord_rate": 2.299965231062267,
+  "repetitiveness": 0.9387917518615723,
+  "vocal_share": 0.3442299962043762,
+  "vocal_voiced": 0.21511627906976744,
+  "song_length": 204.234
+ }
+}

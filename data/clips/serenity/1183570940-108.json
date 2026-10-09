@@ -1,0 +1,32 @@
+{
+ "id": "serenity/1183570940-108",
+ "band": "serenity",
+ "title": "Changing Fate",
+ "source": "itunes",
+ "album": "Death & Legacy",
+ "year": 2011,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.8,
+  "tempo_var": 5.940169810246707,
+  "low_onset_rate": 7.033333333333333,
+  "lufs": -12.686824012804115,
+  "rms_dbfs": -12.61216306009122,
+  "crest": 12.612162590026855,
+  "centroid": 2147.81958297715,
+  "flatness": 0.019278118386864662,
+  "sub100_share": 0.013855782337486744,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.7957898378372192,
+  "clean_share": 0.30727554179566563,
+  "minor_share": -0.16745725762352082,
+  "chord_rate": 1.3,
+  "repetitiveness": 0.751742959022522,
+  "vocal_share": 0.6345113515853882,
+  "vocal_voiced": 0.7326820603907638,
+  "song_length": 342.04
+ }
+}

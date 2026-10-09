@@ -1,0 +1,32 @@
+{
+ "id": "symphony-x/1197822920-105",
+ "band": "symphony-x",
+ "title": "Whispers",
+ "source": "itunes",
+ "album": "The Damnation Game (Special Edition)",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.3412330892692625,
+  "tempo_var": 3.0414946627330712,
+  "low_onset_rate": 3.842418052659652,
+  "lufs": -16.779388054278336,
+  "rms_dbfs": -16.757530593231106,
+  "crest": 16.3034610748291,
+  "centroid": 2615.427303712849,
+  "flatness": 0.02922968938946724,
+  "sub100_share": 0.08195474743843079,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.7476813197135925,
+  "clean_share": 0.03491078355314197,
+  "minor_share": 0.2151787862461929,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.7241588830947876,
+  "vocal_share": 0.3896336257457733,
+  "vocal_voiced": 0.8645224171539961,
+  "song_length": 288.507
+ }
+}

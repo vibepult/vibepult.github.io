@@ -1,0 +1,32 @@
+{
+ "id": "carcass/63616135-117",
+ "band": "carcass",
+ "title": "Burnt to a Crisp",
+ "source": "itunes",
+ "album": "Reek of Putrefaction",
+ "year": 1988,
+ "itunes_year": 1988,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 4.5106646705135045,
+  "tempo_var": 8.473825573292388,
+  "low_onset_rate": 6.11445655336275,
+  "lufs": -11.102718595336516,
+  "rms_dbfs": -9.762108491358992,
+  "crest": 9.76210880279541,
+  "centroid": 2219.6415093255946,
+  "flatness": 0.014466512948274612,
+  "sub100_share": 0.4637495279312134,
+  "lowest_pitch": 24.224853515625,
+  "harmonic_share": 0.7541464567184448,
+  "clean_share": 0.1256788207913111,
+  "minor_share": 0.1502055108904976,
+  "chord_rate": 2.472512486059254,
+  "repetitiveness": 0.9615008234977722,
+  "vocal_share": 0.13563448190689087,
+  "vocal_voiced": 0.1420996818663839,
+  "song_length": 163.333
+ }
+}

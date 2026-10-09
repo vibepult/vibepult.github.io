@@ -1,0 +1,32 @@
+{
+ "id": "beyond-the-black/1645556503-105",
+ "band": "beyond-the-black",
+ "title": "Into The Light",
+ "source": "itunes",
+ "album": "Beyond The Black",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 2.6999836735681115,
+  "tempo_var": 19.46937398272973,
+  "low_onset_rate": 3.7666438902863777,
+  "lufs": -11.207736061965573,
+  "rms_dbfs": -10.248303154552298,
+  "crest": 10.248303413391113,
+  "centroid": 1335.646550598147,
+  "flatness": 0.008513848297297955,
+  "sub100_share": 0.42258596420288086,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8739194273948669,
+  "clean_share": 0.6511987625676721,
+  "minor_share": -0.039927702589197756,
+  "chord_rate": 0.8333282943111455,
+  "repetitiveness": 0.8512494564056396,
+  "vocal_share": 9.146293109552062e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 252.76
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "alestorm/1242301305-105",
+ "band": "alestorm",
+ "title": "Bar Ünd Imbiss",
+ "source": "itunes",
+ "album": "No Grave but the Sea",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 5.199921391966864,
+  "tempo_var": 15.57051565113037,
+  "low_onset_rate": 5.966576468987619,
+  "lufs": -7.1997645087783315,
+  "rms_dbfs": -7.242769352895522,
+  "crest": 7.242769718170166,
+  "centroid": 2522.9359865913475,
+  "flatness": 0.03350766375660896,
+  "sub100_share": 0.33079561591148376,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7143771648406982,
+  "clean_share": 0.005413766434648105,
+  "minor_share": -0.11646576643030937,
+  "chord_rate": 1.299980347991716,
+  "repetitiveness": 0.8152795433998108,
+  "vocal_share": 0.2009103000164032,
+  "vocal_voiced": 0.12102473498233215,
+  "song_length": 251.133
+ }
+}

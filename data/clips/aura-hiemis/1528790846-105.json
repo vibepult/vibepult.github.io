@@ -1,0 +1,32 @@
+{
+ "id": "aura-hiemis/1528790846-105",
+ "band": "aura-hiemis",
+ "title": "Maeror Demens III",
+ "source": "itunes",
+ "album": "Silentium Manium",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.474882412840033,
+  "tempo_var": 6.789072257758184,
+  "low_onset_rate": 5.780333244435824,
+  "lufs": -13.245360460150973,
+  "rms_dbfs": -11.846571256096514,
+  "crest": 11.84657096862793,
+  "centroid": 779.4974241440227,
+  "flatness": 0.0003376428212504834,
+  "sub100_share": 0.2037896066904068,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.984359622001648,
+  "clean_share": 0.9883630721489527,
+  "minor_share": 0.1362714965991334,
+  "chord_rate": 0.7350712796392378,
+  "repetitiveness": 0.4212183356285095,
+  "vocal_share": 3.0978867471276317e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 132.0
+ }
+}

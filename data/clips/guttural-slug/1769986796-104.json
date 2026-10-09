@@ -1,0 +1,32 @@
+{
+ "id": "guttural-slug/1769986796-104",
+ "band": "guttural-slug",
+ "title": "Pandemic Apocalypse",
+ "source": "itunes",
+ "album": "Megalodon",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 6.133240616166045,
+  "tempo_var": 12.218015115474442,
+  "low_onset_rate": 3.1999516258257623,
+  "lufs": -7.1278509432911115,
+  "rms_dbfs": -5.824479053074002,
+  "crest": 5.824479579925537,
+  "centroid": 2380.750612788285,
+  "flatness": 0.02498634345829487,
+  "sub100_share": 0.5268760919570923,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.7755945324897766,
+  "clean_share": 0.07192575406032482,
+  "minor_share": 0.16857140615956678,
+  "chord_rate": 1.7333071306556214,
+  "repetitiveness": 0.8825878500938416,
+  "vocal_share": 0.08366251736879349,
+  "vocal_voiced": 0.2037691401648999,
+  "song_length": 153.24
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "jord/1818148533-107",
+ "band": "jord",
+ "title": "Den Brandgula Salen",
+ "source": "itunes",
+ "album": "Emellan Träden",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 2.8333333333333335,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.3,
+  "lufs": -12.912321123952028,
+  "rms_dbfs": -11.03134029377571,
+  "crest": 11.031340599060059,
+  "centroid": 1755.4626976575219,
+  "flatness": 0.012304484844207764,
+  "sub100_share": 0.5800663828849792,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8129052519798279,
+  "clean_share": 0.4729102167182663,
+  "minor_share": 0.22048633822714903,
+  "chord_rate": 1.0,
+  "repetitiveness": 0.6779755353927612,
+  "vocal_share": 0.08340124040842056,
+  "vocal_voiced": 0.5383228133453561,
+  "song_length": 309.403
+ }
+}

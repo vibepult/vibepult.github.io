@@ -1,0 +1,32 @@
+{
+ "id": "judas-priest/1709353665-106",
+ "band": "judas-priest",
+ "title": "Crown of Horns",
+ "source": "itunes",
+ "album": "Invincible Shield",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.2645988406436435,
+  "tempo_var": 13.109410622716082,
+  "low_onset_rate": 5.896265252999234,
+  "lufs": -12.568228676769376,
+  "rms_dbfs": -11.87626782354555,
+  "crest": 11.876267433166504,
+  "centroid": 2503.8656914480525,
+  "flatness": 0.025947004556655884,
+  "sub100_share": 0.2873774468898773,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7411105632781982,
+  "clean_share": 0.02397525135344161,
+  "minor_share": 0.21568807382076893,
+  "chord_rate": 1.0326792251015606,
+  "repetitiveness": 0.7127211689949036,
+  "vocal_share": 0.15915918350219727,
+  "vocal_voiced": 0.5962732919254659,
+  "song_length": 345.761
+ }
+}

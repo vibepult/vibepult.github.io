@@ -1,0 +1,32 @@
+{
+ "id": "nails/1747561948-104",
+ "band": "nails",
+ "title": "Give Me The Painkiller",
+ "source": "itunes",
+ "album": "Every Bridge Burning",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 0.3333313177244582,
+  "tempo_var": 4.429370547692143,
+  "low_onset_rate": 4.0333089444659445,
+  "lufs": -6.702080433866731,
+  "rms_dbfs": -6.338874611155178,
+  "crest": 6.3388752937316895,
+  "centroid": 2801.1137448254044,
+  "flatness": 0.05913901329040527,
+  "sub100_share": 0.3331625461578369,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6811331510543823,
+  "clean_share": 0.0,
+  "minor_share": -0.10108186935039709,
+  "chord_rate": 1.299992139125387,
+  "repetitiveness": 0.9551888108253479,
+  "vocal_share": 0.10741899162530899,
+  "vocal_voiced": 0.03459637561779242,
+  "song_length": 164.704
+ }
+}

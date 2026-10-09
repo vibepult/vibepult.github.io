@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en" data-cap="rect" data-led="round">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>vibepult</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=IBM+Plex+Mono:wght@500;700&family=Pirata+One&family=Eater&family=Cinzel:wght@600&family=MedievalSharp&family=Black+Ops+One&family=Cinzel+Decorative:wght@700&family=Orbitron:wght@600&family=Metal+Mania&display=swap">
+  <link rel="stylesheet" href="themes.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Layout from docs/designs/console (2026-10-07): two rows of three columns. -->
+  <main class="console" id="console" aria-busy="true">
+    <section class="row row--top">
+      <aside class="col panel" aria-label="Master and levers">
+        <div class="brand">
+          <h1 class="brand__name">vibepult</h1><span class="brand__sub">Desk 01</span>
+          <div class="search">
+            <input class="search__input lcd" id="search" type="text" role="combobox" aria-expanded="false" aria-controls="search-list" aria-autocomplete="list" placeholder="Find a band" aria-label="Find a band" autocomplete="off" spellcheck="false" enterkeyhint="search">
+            <ul class="search__list" id="search-list" role="listbox" aria-label="Bands" hidden></ul>
+          </div>
+        </div>
+        <div class="left-body">
+          <div class="master" id="master"></div>
+          <div class="levers" aria-label="Levers"></div>
+        </div>
+      </aside>
+
+      <section class="col output" id="result" aria-label="Output">
+        <div class="label">Output</div>
+        <div class="output__body">
+          <div class="band">
+            <p class="band__match" id="pool-count"></p>
+            <h2 class="band__name" id="band-name">Loading the pool</h2>
+            <p class="band__meta" id="subgenre"></p>
+            <p class="hint" id="hint" hidden>Drag a fader. The desk answers.</p>
+            <div class="message" id="message" role="status" hidden></div>
+            <p class="note">Apologies to any artist the desk mislabels. The faders are estimates, not verdicts.</p>
+          </div>
+          <div class="embed-slot" id="embed-slot">
+            <div class="embed-placeholder" id="embed-placeholder"></div>
+            <iframe id="embed" title="Spotify player" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" hidden></iframe>
+          </div>
+          <div class="output__foot">
+            <button class="next" id="next" type="button" hidden></button>
+            <a class="open-spotify" id="open-spotify" target="_blank" rel="noopener" hidden>Open in Spotify</a>
+          </div>
+          <div class="sr-only" id="announce" aria-live="polite"></div>
+        </div>
+      </section>
+
+      <aside class="col panel" aria-label="Filters">
+        <div class="donate">
+          <div class="donate__title">Keep the desk running</div>
+          <div class="donate__msg">Tips fund more bands and the GPU time to measure them.</div>
+          <div class="donate__links"><a class="donate__btn" href="https://ko-fi.com/X5V028GMC5" target="_blank" rel="noopener"><span id="donate-btn">Buy me a coffee</span><small>on Ko-fi</small></a><a class="donate__btn" href="https://patreon.com/vibepult" target="_blank" rel="noopener"><span>Support</span><small>on Patreon</small></a></div>
+        </div>
+        <div class="selects"></div>
+      </aside>
+    </section>
+
+    <section class="row row--bottom">
+      <section class="col strips" data-group="audio" aria-label="Audio faders"><div class="strips__inner"></div></section>
+      <section class="col panel bank" aria-label="Lyrics">
+        <div class="label" id="lyrics-label">Lyrics</div>
+        <div class="bank__grid" role="group" aria-labelledby="lyrics-label"></div>
+      </section>
+      <section class="col strips" data-group="character" aria-label="Character faders"><div class="strips__inner"></div></section>
+    </section>
+  </main>
+  <script type="module" src="console.js"></script>
+</body>
+</html>

@@ -1,0 +1,32 @@
+{
+ "id": "alvenrad/1555257422-106",
+ "band": "alvenrad",
+ "title": "O Patrones",
+ "source": "itunes",
+ "album": "Habitat",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 6.214693546040828,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 7.3507127963923775,
+  "lufs": -10.995455707846075,
+  "rms_dbfs": -10.818115427497847,
+  "crest": 10.818115234375,
+  "centroid": 2603.5385511028485,
+  "flatness": 0.03874539956450462,
+  "sub100_share": 0.25240010023117065,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7220168113708496,
+  "clean_share": 0.0,
+  "minor_share": 0.2592336287017437,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.8455010652542114,
+  "vocal_share": 0.13483984768390656,
+  "vocal_voiced": 0.2659846547314578,
+  "song_length": 338.507
+ }
+}

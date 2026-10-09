@@ -1,0 +1,32 @@
+{
+ "id": "arkangel/1622516768-105",
+ "band": "arkangel",
+ "title": "Behold the Face Death",
+ "source": "itunes",
+ "album": "Dead Man Walking",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.479622266401591,
+  "tempo_var": 6.53938297612802,
+  "low_onset_rate": 7.484362119963148,
+  "lufs": -9.676866096266115,
+  "rms_dbfs": -9.903454293520166,
+  "crest": 9.903454780578613,
+  "centroid": 2878.7905311397526,
+  "flatness": 0.05432060360908508,
+  "sub100_share": 0.24204802513122559,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.6641270518302917,
+  "clean_share": 0.0,
+  "minor_share": -0.07756423870030082,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.9285995364189148,
+  "vocal_share": 0.14197129011154175,
+  "vocal_voiced": 0.0875842155919153,
+  "song_length": 155.68
+ }
+}

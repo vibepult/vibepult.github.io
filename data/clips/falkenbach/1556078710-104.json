@@ -1,0 +1,32 @@
+{
+ "id": "falkenbach/1556078710-104",
+ "band": "falkenbach",
+ "title": "Bronzen Embrace",
+ "source": "itunes",
+ "album": "Asa",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.443840008728119,
+  "tempo_var": 18.198883392662452,
+  "low_onset_rate": 5.145498957474664,
+  "lufs": -10.407743183109169,
+  "rms_dbfs": -9.799439536746355,
+  "crest": 9.799439430236816,
+  "centroid": 2490.272688754043,
+  "flatness": 0.034258026629686356,
+  "sub100_share": 0.39627498388290405,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.6976344585418701,
+  "clean_share": 0.032583397982932506,
+  "minor_share": 0.1195140443390944,
+  "chord_rate": 1.3030809048150125,
+  "repetitiveness": 0.7254545092582703,
+  "vocal_share": 0.026673713698983192,
+  "vocal_voiced": 0.21024258760107817,
+  "song_length": 241.6
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "hanternoz/1552897585-105",
+ "band": "hanternoz",
+ "title": "Metal Kozh",
+ "source": "itunes",
+ "album": "Metal Kozh",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.276778354264656,
+  "tempo_var": 2.660579294705899,
+  "low_onset_rate": 6.48199219318237,
+  "lufs": -8.356365987069958,
+  "rms_dbfs": -7.581836877224353,
+  "crest": 7.581837177276611,
+  "centroid": 2211.1040304824246,
+  "flatness": 0.014834490604698658,
+  "sub100_share": 0.1397465616464615,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8516956567764282,
+  "clean_share": 0.08766485647788984,
+  "minor_share": -0.001700863391331131,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.6854628920555115,
+  "vocal_share": 0.027344051748514175,
+  "vocal_voiced": 0.0,
+  "song_length": 283.191
+ }
+}

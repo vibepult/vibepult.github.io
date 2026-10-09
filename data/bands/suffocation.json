@@ -1,0 +1,127 @@
+{
+ "slug": "suffocation",
+ "name": "Suffocation",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 73638605,
+  "deezer": 65989,
+  "spotify": "4ItRDIouodpnW6nm4TYDk1"
+ },
+ "metadata": {
+  "formed": 1989,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 4,
+  "past_members": 11,
+  "full_lengths": 9,
+  "genre": "Brutal/Technical Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 68919,
+  "themes": "Death, Anti-religion, Mankind, Society",
+  "release_year": 1999
+ },
+ "partial": false,
+ "clips": [
+  "suffocation/214401993-105",
+  "suffocation/214357061-104",
+  "suffocation/214357638-105",
+  "suffocation/73638817-104",
+  "suffocation/187064624-106",
+  "suffocation/1460467609-105",
+  "suffocation/1458641899-105",
+  "suffocation/1458762785-105",
+  "suffocation/1701842111-105",
+  "suffocation/214401993-104",
+  "suffocation/214357061-105",
+  "suffocation/214357638-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 30.403662307059733
+  },
+  "onset_rate": {
+   "median": 4.560783166852543,
+   "iqr": 3.7773763333504453
+  },
+  "tempo_var": {
+   "median": 9.036895060367701,
+   "iqr": 10.765732714534279
+  },
+  "low_onset_rate": {
+   "median": 5.372833996718022,
+   "iqr": 3.546173826587624
+  },
+  "lufs": {
+   "median": -9.416651039188412,
+   "iqr": 4.657173197437096
+  },
+  "rms_dbfs": {
+   "median": -8.672688327794365,
+   "iqr": 5.0343085482515635
+  },
+  "crest": {
+   "median": 8.672688007354736,
+   "iqr": 4.641172289848328
+  },
+  "centroid": {
+   "median": 2729.075771565651,
+   "iqr": 231.83244717060006
+  },
+  "flatness": {
+   "median": 0.02682617399841547,
+   "iqr": 0.012586153112351894
+  },
+  "sub100_share": {
+   "median": 0.3333662301301956,
+   "iqr": 0.18538860604166985
+  },
+  "lowest_pitch": {
+   "median": 71.3287353515625,
+   "iqr": 63.2537841796875
+  },
+  "harmonic_share": {
+   "median": 0.808251142501831,
+   "iqr": 0.06218084692955017
+  },
+  "clean_share": {
+   "median": 0.027885427110351916,
+   "iqr": 0.03997865213235678
+  },
+  "minor_share": {
+   "median": 0.026358351088746623,
+   "iqr": 0.10398834959201902
+  },
+  "chord_rate": {
+   "median": 2.7698179019228752,
+   "iqr": 0.39510157794158873
+  },
+  "repetitiveness": {
+   "median": 0.9287216663360596,
+   "iqr": 0.03119117021560669
+  },
+  "vocal_share": {
+   "median": 0.06502616964280605,
+   "iqr": 0.04837628360837698
+  },
+  "vocal_voiced": {
+   "median": 0.21532778056863122,
+   "iqr": 0.18211684599036057
+  },
+  "song_length": {
+   "median": 277.73,
+   "iqr": 62.620000000000005
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

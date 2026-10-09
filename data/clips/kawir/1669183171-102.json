@@ -1,0 +1,32 @@
+{
+ "id": "kawir/1669183171-102",
+ "band": "kawir",
+ "title": "Erebus",
+ "source": "itunes",
+ "album": "Epoptia",
+ "year": 1999,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.646683920865054,
+  "tempo_var": 4.384168836811054,
+  "low_onset_rate": 7.851897759782767,
+  "lufs": -8.6440631886448,
+  "rms_dbfs": -8.796870603136776,
+  "crest": 8.796871185302734,
+  "centroid": 3106.6065345774728,
+  "flatness": 0.07311662286520004,
+  "sub100_share": 0.3789561986923218,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7690883874893188,
+  "clean_share": 0.02017067494181536,
+  "minor_share": 0.09948179563564702,
+  "chord_rate": 1.7374412064200164,
+  "repetitiveness": 0.9402552247047424,
+  "vocal_share": 0.04744592681527138,
+  "vocal_voiced": 0.03689567430025445,
+  "song_length": 319.76
+ }
+}

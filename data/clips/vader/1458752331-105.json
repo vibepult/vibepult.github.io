@@ -1,0 +1,32 @@
+{
+ "id": "vader/1458752331-105",
+ "band": "vader",
+ "title": "No Gravity",
+ "source": "itunes",
+ "album": "The Empire",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.572749478737332,
+  "tempo_var": 1.9434749298908538,
+  "low_onset_rate": 3.174171434805799,
+  "lufs": -12.824402200640431,
+  "rms_dbfs": -12.20933755577333,
+  "crest": 12.209338188171387,
+  "centroid": 2661.6644850461344,
+  "flatness": 0.03945470601320267,
+  "sub100_share": 0.3802993595600128,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7451135516166687,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": -0.20946586407793055,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.9207945466041565,
+  "vocal_share": 0.061065543442964554,
+  "vocal_voiced": 0.0,
+  "song_length": 248.817
+ }
+}

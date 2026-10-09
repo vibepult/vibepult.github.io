@@ -1,0 +1,32 @@
+{
+ "id": "white-zombie/1101918996-103",
+ "band": "white-zombie",
+ "title": "Murderworld",
+ "source": "itunes",
+ "album": "Make Them Die Slowly",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.066666666666667,
+  "tempo_var": 9.14216269359346,
+  "low_onset_rate": 4.933333333333334,
+  "lufs": -11.671510121838239,
+  "rms_dbfs": -11.836542208232927,
+  "crest": 11.836542129516602,
+  "centroid": 2242.481424629629,
+  "flatness": 0.017751330509781837,
+  "sub100_share": 0.10390608757734299,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.7925006151199341,
+  "clean_share": 0.13003095975232198,
+  "minor_share": -0.10086174660570191,
+  "chord_rate": 2.533333333333333,
+  "repetitiveness": 0.8117386698722839,
+  "vocal_share": 0.42606794834136963,
+  "vocal_voiced": 0.7790368271954674,
+  "song_length": 369.84
+ }
+}

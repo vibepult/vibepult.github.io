@@ -1,0 +1,32 @@
+{
+ "id": "whitechapel/1440345266-105",
+ "band": "whitechapel",
+ "title": "Black Bear",
+ "source": "itunes",
+ "album": "The Valley",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 2.5332950371120617,
+  "tempo_var": 17.339075275107845,
+  "low_onset_rate": 5.099922903659809,
+  "lufs": -7.936691791295577,
+  "rms_dbfs": -7.674636618698441,
+  "crest": 7.6746368408203125,
+  "centroid": 2637.0740471005834,
+  "flatness": 0.048098064959049225,
+  "sub100_share": 0.32819226384162903,
+  "lowest_pitch": 99.591064453125,
+  "harmonic_share": 0.6228950023651123,
+  "clean_share": 0.02088167053364269,
+  "minor_share": 0.06014737123518432,
+  "chord_rate": 2.299965231062267,
+  "repetitiveness": 0.94049072265625,
+  "vocal_share": 0.20647543668746948,
+  "vocal_voiced": 0.2298483639265762,
+  "song_length": 188.538
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "motley-crue/1606699863-108",
+ "band": "motley-crue",
+ "title": "Til Death Do Us Part",
+ "source": "itunes",
+ "album": "Mötley Crüe (Bonus Track Version)",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 3.599945579053983,
+  "tempo_var": 25.069211251280066,
+  "low_onset_rate": 5.933243639551934,
+  "lufs": -10.077976922724346,
+  "rms_dbfs": -10.300512050120599,
+  "crest": 10.300512313842773,
+  "centroid": 3236.4574773161676,
+  "flatness": 0.062110114842653275,
+  "sub100_share": 0.4292672276496887,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7258635759353638,
+  "clean_share": 0.0038669760247486465,
+  "minor_share": 0.04881946141905258,
+  "chord_rate": 1.6666414717842513,
+  "repetitiveness": 0.9103066325187683,
+  "vocal_share": 0.16654863953590393,
+  "vocal_voiced": 0.6660447761194029,
+  "song_length": 363.627
+ }
+}

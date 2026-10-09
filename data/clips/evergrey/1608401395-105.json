@@ -1,0 +1,32 @@
+{
+ "id": "evergrey/1608401395-105",
+ "band": "evergrey",
+ "title": "The Orphean Testament",
+ "source": "itunes",
+ "album": "A Heartless Portrait (The Orphéan Testament)",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 7.366666666666666,
+  "tempo_var": 16.56243865192889,
+  "low_onset_rate": 9.133333333333333,
+  "lufs": -10.373807012889811,
+  "rms_dbfs": -9.347304971414319,
+  "crest": 9.347304344177246,
+  "centroid": 2344.6075889535705,
+  "flatness": 0.024097824469208717,
+  "sub100_share": 0.3936566710472107,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.8038138151168823,
+  "clean_share": 0.020123839009287926,
+  "minor_share": -0.16468970233282743,
+  "chord_rate": 1.7666666666666666,
+  "repetitiveness": 0.9626964926719666,
+  "vocal_share": 0.15878845751285553,
+  "vocal_voiced": 0.8149466192170819,
+  "song_length": 390.28
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "loudness/309954417-105",
+ "band": "loudness",
+ "title": "Revelation (English Version)",
+ "source": "itunes",
+ "album": "Disillusion (English Version)",
+ "year": 1984,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 5.379385273723512,
+  "tempo_var": 43.008189756512294,
+  "low_onset_rate": 4.5106646705135045,
+  "lufs": -19.607906140632988,
+  "rms_dbfs": -19.052511327955347,
+  "crest": 16.246171951293945,
+  "centroid": 2330.130118530403,
+  "flatness": 0.021579718217253685,
+  "sub100_share": 0.17490968108177185,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7686586380004883,
+  "clean_share": 0.0504266873545384,
+  "minor_share": 0.04903087025886038,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.8162513971328735,
+  "vocal_share": 0.2187747210264206,
+  "vocal_voiced": 0.9271844660194175,
+  "song_length": 259.907
+ }
+}

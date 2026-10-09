@@ -1,0 +1,32 @@
+{
+ "id": "hibria/1222190643-107",
+ "band": "hibria",
+ "title": "Ashamed",
+ "source": "itunes",
+ "album": "Hibria",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.374645420161955,
+  "tempo_var": 11.617488234004204,
+  "low_onset_rate": 3.8758303835523447,
+  "lufs": -8.706349128281978,
+  "rms_dbfs": -7.998622269089265,
+  "crest": 7.998621940612793,
+  "centroid": 2458.0033652365714,
+  "flatness": 0.025301197543740273,
+  "sub100_share": 0.306998074054718,
+  "lowest_pitch": 131.890869140625,
+  "harmonic_share": 0.7988158464431763,
+  "clean_share": 0.08068269976726145,
+  "minor_share": 0.13481661624400632,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.9378908276557922,
+  "vocal_share": 0.07904285192489624,
+  "vocal_voiced": 0.3641488162344983,
+  "song_length": 317.333
+ }
+}

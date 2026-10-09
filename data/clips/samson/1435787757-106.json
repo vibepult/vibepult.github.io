@@ -1,0 +1,32 @@
+{
+ "id": "samson/1435787757-106",
+ "band": "samson",
+ "title": "Bright Lights",
+ "source": "itunes",
+ "album": "Shock Tactics (Bonus Track Edition)",
+ "year": 1981,
+ "itunes_year": 1981,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 4.866666666666666,
+  "tempo_var": 7.505580869761479,
+  "low_onset_rate": 5.733333333333333,
+  "lufs": -10.011116059025756,
+  "rms_dbfs": -9.926336851008127,
+  "crest": 9.926337242126465,
+  "centroid": 2452.473911842585,
+  "flatness": 0.029849311336874962,
+  "sub100_share": 0.21653352677822113,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7049954533576965,
+  "clean_share": 0.0023219814241486067,
+  "minor_share": -0.14645134195616794,
+  "chord_rate": 1.2,
+  "repetitiveness": 0.8817658424377441,
+  "vocal_share": 0.16406561434268951,
+  "vocal_voiced": 0.4617676266137041,
+  "song_length": 187.227
+ }
+}

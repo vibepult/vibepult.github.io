@@ -1,0 +1,32 @@
+{
+ "id": "aria/819705886-104",
+ "band": "aria",
+ "title": "Бивни чёрных скал",
+ "source": "itunes",
+ "album": "Мания величия",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 2.23331982875387,
+  "tempo_var": 16.329179524850606,
+  "low_onset_rate": 2.599984278250774,
+  "lufs": -14.114689567417672,
+  "rms_dbfs": -13.906709777288704,
+  "crest": 13.906709671020508,
+  "centroid": 2186.2498648646556,
+  "flatness": 0.013790639117360115,
+  "sub100_share": 0.12672370672225952,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.8142801523208618,
+  "clean_share": 0.34416086620262953,
+  "minor_share": 0.2030808381616287,
+  "chord_rate": 1.4333246662151702,
+  "repetitiveness": 0.8246940970420837,
+  "vocal_share": 0.03889060392975807,
+  "vocal_voiced": 0.8125,
+  "song_length": 291.333
+ }
+}

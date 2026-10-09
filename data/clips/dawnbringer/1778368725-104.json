@@ -1,0 +1,32 @@
+{
+ "id": "dawnbringer/1778368725-104",
+ "band": "dawnbringer",
+ "title": "Xiphias",
+ "source": "itunes",
+ "album": "Night of the Hammer",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 3.599945579053983,
+  "tempo_var": 10.218398878583047,
+  "low_onset_rate": 6.066574957294675,
+  "lufs": -9.43415564242441,
+  "rms_dbfs": -8.374441848030928,
+  "crest": 8.374442100524902,
+  "centroid": 1722.34863941938,
+  "flatness": 0.007857120595872402,
+  "sub100_share": 0.353819876909256,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.8138332962989807,
+  "clean_share": 0.42846094354215003,
+  "minor_share": 0.23243139224744147,
+  "chord_rate": 1.4666444951701412,
+  "repetitiveness": 0.6719781160354614,
+  "vocal_share": 0.1000061109662056,
+  "vocal_voiced": 0.1580135440180587,
+  "song_length": 279.027
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "helloween/1438860190-109",
+ "band": "helloween",
+ "title": "Victim of Fate (Re-recorded Version)",
+ "source": "itunes",
+ "album": "Keeper of the Seven Keys, Pt. I (Expanded Edition)",
+ "year": 1987,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 6.366666666666666,
+  "tempo_var": 25.21175385390646,
+  "low_onset_rate": 8.5,
+  "lufs": -11.551146022886096,
+  "rms_dbfs": -11.018059179861442,
+  "crest": 11.018058776855469,
+  "centroid": 2590.1610253542894,
+  "flatness": 0.030274849385023117,
+  "sub100_share": 0.35777589678764343,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7970330119132996,
+  "clean_share": 0.0023219814241486067,
+  "minor_share": 0.10389473403097294,
+  "chord_rate": 2.433333333333333,
+  "repetitiveness": 0.9392649531364441,
+  "vocal_share": 0.2126093953847885,
+  "vocal_voiced": 0.6610597140454163,
+  "song_length": 419.173
+ }
+}

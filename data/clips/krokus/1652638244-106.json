@@ -1,0 +1,32 @@
+{
+ "id": "krokus/1652638244-106",
+ "band": "krokus",
+ "title": "Doggy Style",
+ "source": "itunes",
+ "album": "To Rock Or Not To Be",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.9092427144450372,
+  "tempo_var": 23.454184170760833,
+  "low_onset_rate": 6.348342869611598,
+  "lufs": -9.784809118094767,
+  "rms_dbfs": -9.71106402099238,
+  "crest": 9.711064338684082,
+  "centroid": 2467.743364005929,
+  "flatness": 0.03605707362294197,
+  "sub100_share": 0.16638511419296265,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.6441670656204224,
+  "clean_share": 0.022498060512024826,
+  "minor_share": -0.26809088374355106,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.8401477336883545,
+  "vocal_share": 0.30320125818252563,
+  "vocal_voiced": 0.3693230505569837,
+  "song_length": 242.933
+ }
+}

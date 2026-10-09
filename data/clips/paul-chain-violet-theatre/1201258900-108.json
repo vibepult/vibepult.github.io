@@ -1,0 +1,32 @@
+{
+ "id": "paul-chain-violet-theatre/1201258900-108",
+ "band": "paul-chain-violet-theatre",
+ "title": "In the Darkness",
+ "source": "itunes",
+ "album": "In the Darkness",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 287.109375,
+  "onset_rate": 0.9021329341027009,
+  "tempo_var": 7.673217534629151,
+  "low_onset_rate": 2.572749478737332,
+  "lufs": -20.887503969695768,
+  "rms_dbfs": -20.92483909672627,
+  "crest": 20.074186325073242,
+  "centroid": 919.6023938244338,
+  "flatness": 0.0004456686438061297,
+  "sub100_share": 0.13767144083976746,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.9558489918708801,
+  "clean_share": 0.9875872769588828,
+  "minor_share": 0.32223435428593517,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.6743438839912415,
+  "vocal_share": 0.0045879608951509,
+  "vocal_voiced": 1.0,
+  "song_length": 400.8
+ }
+}

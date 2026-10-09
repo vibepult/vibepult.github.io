@@ -1,0 +1,32 @@
+{
+ "id": "my-material-season/1493056751-105",
+ "band": "my-material-season",
+ "title": "Commit Suicide in the Paradise Lost",
+ "source": "itunes",
+ "album": "Mind of You Fragile in Vitroform",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.513034597294284,
+  "tempo_var": 16.22695139625064,
+  "low_onset_rate": 5.546446928186976,
+  "lufs": -8.933004246465211,
+  "rms_dbfs": -8.209874314252028,
+  "crest": 8.209874153137207,
+  "centroid": 2818.073130592953,
+  "flatness": 0.040300559252500534,
+  "sub100_share": 0.44416433572769165,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8238588571548462,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": -0.03996488585362734,
+  "chord_rate": 2.071564515346943,
+  "repetitiveness": 0.8722167015075684,
+  "vocal_share": 0.03276781365275383,
+  "vocal_voiced": 0.08847184986595175,
+  "song_length": 305.827
+ }
+}

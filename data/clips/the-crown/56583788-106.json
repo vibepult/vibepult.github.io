@@ -1,0 +1,32 @@
+{
+ "id": "the-crown/56583788-106",
+ "band": "the-crown",
+ "title": "The Speed of Darkness",
+ "source": "itunes",
+ "album": "Crowned In Terror",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 7.083414149250837,
+  "tempo_var": 15.73521774323058,
+  "low_onset_rate": 7.3507127963923775,
+  "lufs": -8.51135964508323,
+  "rms_dbfs": -8.806467445660799,
+  "crest": 8.806467056274414,
+  "centroid": 2372.8601921841723,
+  "flatness": 0.02637438103556633,
+  "sub100_share": 0.2381981760263443,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.6757233738899231,
+  "clean_share": 0.0,
+  "minor_share": 0.08222021708984095,
+  "chord_rate": 2.472512486059254,
+  "repetitiveness": 0.9157969951629639,
+  "vocal_share": 0.1254151463508606,
+  "vocal_voiced": 0.09694415173867228,
+  "song_length": 301.373
+ }
+}

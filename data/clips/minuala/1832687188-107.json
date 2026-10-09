@@ -1,0 +1,32 @@
+{
+ "id": "minuala/1832687188-107",
+ "band": "minuala",
+ "title": "Пазори",
+ "source": "itunes",
+ "album": "Край тысячи озёр",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 3.2666172846971326,
+  "tempo_var": 12.542876304198968,
+  "low_onset_rate": 5.799912321809194,
+  "lufs": -6.6278164095938354,
+  "rms_dbfs": -5.377029833739594,
+  "crest": 5.377029895782471,
+  "centroid": 2347.120953601445,
+  "flatness": 0.030482204630970955,
+  "sub100_share": 0.4031442701816559,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7733830213546753,
+  "clean_share": 0.1345707656612529,
+  "minor_share": -0.11663327126161416,
+  "chord_rate": 1.399978836298771,
+  "repetitiveness": 0.889914333820343,
+  "vocal_share": 0.07074835896492004,
+  "vocal_voiced": 0.17118997912317327,
+  "song_length": 208.765
+ }
+}

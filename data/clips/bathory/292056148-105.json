@@ -1,0 +1,32 @@
+{
+ "id": "bathory/292056148-105",
+ "band": "bathory",
+ "title": "Ring of Gold",
+ "source": "itunes",
+ "album": "Nordland I",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.1982014649358184,
+  "tempo_var": 2.8514273859010846,
+  "low_onset_rate": 4.897245993182972,
+  "lufs": -12.366285062949306,
+  "rms_dbfs": -12.514123464732222,
+  "crest": 12.51412296295166,
+  "centroid": 2199.812064109353,
+  "flatness": 0.011353781446814537,
+  "sub100_share": 0.04812594875693321,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.8003425002098083,
+  "clean_share": 0.4238205723124517,
+  "minor_share": 0.23308045271614386,
+  "chord_rate": 1.199325549350932,
+  "repetitiveness": 0.7129383087158203,
+  "vocal_share": 0.4931146502494812,
+  "vocal_voiced": 0.5526729559748428,
+  "song_length": 334.973
+ }
+}

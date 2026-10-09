@@ -1,0 +1,32 @@
+{
+ "id": "amebix/1220823490-105",
+ "band": "amebix",
+ "title": "Visitation",
+ "source": "itunes",
+ "album": "Sonic Mass",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.644313994084275,
+  "tempo_var": 20.497161436460456,
+  "low_onset_rate": 6.548816854967755,
+  "lufs": -10.186120123864912,
+  "rms_dbfs": -9.346484176157963,
+  "crest": 9.346484184265137,
+  "centroid": 1933.5131833653054,
+  "flatness": 0.0153906075283885,
+  "sub100_share": 0.2982465624809265,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.757577121257782,
+  "clean_share": 0.11559348332040341,
+  "minor_share": 0.13431279763433346,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.8609399199485779,
+  "vocal_share": 0.053306642919778824,
+  "vocal_voiced": 0.5296610169491526,
+  "song_length": 406.813
+ }
+}

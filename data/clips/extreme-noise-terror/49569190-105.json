@@ -1,0 +1,32 @@
+{
+ "id": "extreme-noise-terror/49569190-105",
+ "band": "extreme-noise-terror",
+ "title": "Cold World",
+ "source": "itunes",
+ "album": "Damage 381",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 6.983177156572759,
+  "tempo_var": 15.575350692057285,
+  "low_onset_rate": 7.551186781748533,
+  "lufs": -12.585623690266551,
+  "rms_dbfs": -12.558787817095753,
+  "crest": 12.558788299560547,
+  "centroid": 3287.5531427583014,
+  "flatness": 0.068240225315094,
+  "sub100_share": 0.272760808467865,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7402641177177429,
+  "clean_share": 0.0,
+  "minor_share": 0.07074736080831195,
+  "chord_rate": 3.240996096591185,
+  "repetitiveness": 0.9107077717781067,
+  "vocal_share": 0.11255250871181488,
+  "vocal_voiced": 0.10320284697508897,
+  "song_length": 221.0
+ }
+}

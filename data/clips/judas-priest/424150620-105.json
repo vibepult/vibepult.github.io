@@ -1,0 +1,32 @@
+{
+ "id": "judas-priest/424150620-105",
+ "band": "judas-priest",
+ "title": "Demonizer",
+ "source": "itunes",
+ "album": "Angel of Retribution",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 5.8629530199314415,
+  "tempo_var": 17.386088234088557,
+  "low_onset_rate": 10.160231085676646,
+  "lufs": -7.542598943289504,
+  "rms_dbfs": -7.370876587316464,
+  "crest": 7.370876789093018,
+  "centroid": 2729.732954282703,
+  "flatness": 0.03884207457304001,
+  "sub100_share": 0.2579132616519928,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7650293111801147,
+  "clean_share": 0.0,
+  "minor_share": 0.023508795600642507,
+  "chord_rate": 1.2325526235083144,
+  "repetitiveness": 0.8929432034492493,
+  "vocal_share": 0.19905824959278107,
+  "vocal_voiced": 0.37068239258635216,
+  "song_length": 277.933
+ }
+}

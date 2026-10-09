@@ -1,0 +1,36 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.coverage
+
+# Audio: previews are copyrighted and never committed, wherever they land
+data/audio/
+*.wav
+*.m4a
+*.mp3
+*.aac
+*.src
+
+# Secrets (none today; a Genius token or similar would live here)
+.env
+.env.*
+
+# Node
+node_modules/
+
+# gstack (never in git)
+.gstack/
+.claude/skills/gstack/
+
+# OS and editors
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.log

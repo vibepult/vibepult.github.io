@@ -1,0 +1,32 @@
+{
+ "id": "candlemass/269021426-105",
+ "band": "candlemass",
+ "title": "Bearer of Pain",
+ "source": "itunes",
+ "album": "Ancient Dreams",
+ "year": 1988,
+ "itunes_year": 1988,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 4.878200310333123,
+  "tempo_var": 21.4222591556362,
+  "low_onset_rate": 6.214693546040828,
+  "lufs": -7.380763642764925,
+  "rms_dbfs": -6.860491059644227,
+  "crest": 6.860491752624512,
+  "centroid": 3073.222852941742,
+  "flatness": 0.044435180723667145,
+  "sub100_share": 0.41172459721565247,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.8564082384109497,
+  "clean_share": 0.0062063615205585725,
+  "minor_share": -0.09171755933451553,
+  "chord_rate": 2.1049768462396354,
+  "repetitiveness": 0.7068657279014587,
+  "vocal_share": 0.10707280039787292,
+  "vocal_voiced": 0.8622994652406417,
+  "song_length": 442.867
+ }
+}

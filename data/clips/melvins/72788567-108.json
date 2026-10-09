@@ -1,0 +1,32 @@
+{
+ "id": "melvins/72788567-108",
+ "band": "melvins",
+ "title": "Goggles",
+ "source": "itunes",
+ "album": "Stag",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.3722754933811765,
+  "tempo_var": 6.28062084552395,
+  "low_onset_rate": 9.121566333705086,
+  "lufs": -8.011313566698933,
+  "rms_dbfs": -8.56398387547151,
+  "crest": 8.563983917236328,
+  "centroid": 2410.011767978238,
+  "flatness": 0.04271283373236656,
+  "sub100_share": 0.11695466935634613,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.6215746402740479,
+  "clean_share": 0.0721489526764934,
+  "minor_share": -0.034628771033308525,
+  "chord_rate": 2.773223464093488,
+  "repetitiveness": 0.8452706336975098,
+  "vocal_share": 0.15969370305538177,
+  "vocal_voiced": 0.39552238805970147,
+  "song_length": 388.333
+ }
+}

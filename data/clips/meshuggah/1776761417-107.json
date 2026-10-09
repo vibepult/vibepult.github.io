@@ -1,0 +1,32 @@
+{
+ "id": "meshuggah/1776761417-107",
+ "band": "meshuggah",
+ "title": "They Move Below",
+ "source": "itunes",
+ "album": "Immutable",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 3.7666666666666666,
+  "tempo_var": 9.002595372370358,
+  "low_onset_rate": 3.533333333333333,
+  "lufs": -20.936605834253537,
+  "rms_dbfs": -19.324446658888853,
+  "crest": 12.136127471923828,
+  "centroid": 502.18360166328773,
+  "flatness": 1.3944049896963406e-05,
+  "sub100_share": 0.4657282531261444,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.9876323938369751,
+  "clean_share": 1.0,
+  "minor_share": 0.16420208660739166,
+  "chord_rate": 0.7,
+  "repetitiveness": 0.607433021068573,
+  "vocal_share": 5.662221838065307e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 575.94
+ }
+}

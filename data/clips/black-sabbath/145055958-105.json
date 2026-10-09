@@ -1,0 +1,32 @@
+{
+ "id": "black-sabbath/145055958-105",
+ "band": "black-sabbath",
+ "title": "Born to Lose",
+ "source": "itunes",
+ "album": "The Eternal Idol",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.266163626964621,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.899304390412015,
+  "lufs": -16.78758133665777,
+  "rms_dbfs": -16.956336773348173,
+  "crest": 16.41666030883789,
+  "centroid": 3126.7381075629555,
+  "flatness": 0.060375235974788666,
+  "sub100_share": 0.12357219308614731,
+  "lowest_pitch": 102.28271484375,
+  "harmonic_share": 0.7353878021240234,
+  "clean_share": 0.0,
+  "minor_share": 0.22504825228706682,
+  "chord_rate": 2.1330818134823106,
+  "repetitiveness": 0.8712520599365234,
+  "vocal_share": 0.24136434495449066,
+  "vocal_voiced": 0.9154175588865097,
+  "song_length": 223.947
+ }
+}

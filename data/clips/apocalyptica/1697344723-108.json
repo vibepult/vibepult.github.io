@@ -1,0 +1,32 @@
+{
+ "id": "apocalyptica/1697344723-108",
+ "band": "apocalyptica",
+ "title": "On the Rooftop with Quasimodo",
+ "source": "itunes",
+ "album": "7th Symphony",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 2.933315595975232,
+  "tempo_var": 14.108183124071338,
+  "low_onset_rate": 1.7333228521671826,
+  "lufs": -15.992527879031305,
+  "rms_dbfs": -17.103581776953753,
+  "crest": 17.103317260742188,
+  "centroid": 1657.0718882667006,
+  "flatness": 0.013684986159205437,
+  "sub100_share": 0.2990460991859436,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8154261708259583,
+  "clean_share": 0.7331786542923434,
+  "minor_share": 0.12199426271038172,
+  "chord_rate": 1.099993348490712,
+  "repetitiveness": 0.7266106009483337,
+  "vocal_share": 0.013455905951559544,
+  "vocal_voiced": 0.4126984126984127,
+  "song_length": 299.48
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "devildriver/1444742993-106",
+ "band": "devildriver",
+ "title": "The Mountain",
+ "source": "itunes",
+ "album": "DevilDriver (Special Edition)",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 6.5,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 6.2,
+  "lufs": -9.482246405865787,
+  "rms_dbfs": -9.120427055933217,
+  "crest": 9.120427131652832,
+  "centroid": 2717.1273653828634,
+  "flatness": 0.05201338604092598,
+  "sub100_share": 0.3808877766132355,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.584136426448822,
+  "clean_share": 0.0015479876160990713,
+  "minor_share": -0.09925833839769505,
+  "chord_rate": 2.2333333333333334,
+  "repetitiveness": 0.9251100420951843,
+  "vocal_share": 0.22811894118785858,
+  "vocal_voiced": 0.06266094420600858,
+  "song_length": 245.627
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "crystal-lake/1526473518-107",
+ "band": "crystal-lake",
+ "title": "Innocence (Rerecorded)",
+ "source": "itunes",
+ "album": "The Voyages (Rerecorded Version)",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.546446928186976,
+  "tempo_var": 10.811735116273677,
+  "low_onset_rate": 9.622751297095476,
+  "lufs": -8.65870455484602,
+  "rms_dbfs": -7.396711293993676,
+  "crest": 7.396711349487305,
+  "centroid": 2225.867287163798,
+  "flatness": 0.021899502724409103,
+  "sub100_share": 0.571004331111908,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8560035824775696,
+  "clean_share": 0.1186966640806827,
+  "minor_share": -0.028860878686012614,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.8498073816299438,
+  "vocal_share": 0.06634821742773056,
+  "vocal_voiced": 0.45901639344262296,
+  "song_length": 270.39
+ }
+}

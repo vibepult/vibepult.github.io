@@ -1,0 +1,32 @@
+{
+ "id": "heathen-foray/1222012433-105",
+ "band": "heathen-foray",
+ "title": "Tir Na Nog",
+ "source": "itunes",
+ "album": "Into Battle",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 0.9689575958880862,
+  "tempo_var": 18.489101388117074,
+  "low_onset_rate": 0.46777263249769674,
+  "lufs": -8.011345312781685,
+  "rms_dbfs": -7.749048731674683,
+  "crest": 7.749048233032227,
+  "centroid": 2231.0096188487355,
+  "flatness": 0.009849189780652523,
+  "sub100_share": 0.25382983684539795,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8978530168533325,
+  "clean_share": 0.16446858029480219,
+  "minor_share": 0.054672860630749276,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.5948932766914368,
+  "vocal_share": 5.069738335805596e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 318.573
+ }
+}

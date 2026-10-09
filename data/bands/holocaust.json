@@ -1,0 +1,127 @@
+{
+ "slug": "holocaust",
+ "name": "Holocaust",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 6015417,
+  "deezer": 11874,
+  "spotify": "6NwP3xfmDDnxqeLsSUzaS4"
+ },
+ "metadata": {
+  "formed": 1977,
+  "split": null,
+  "country": "GB",
+  "status": "active",
+  "members": 5,
+  "past_members": 18,
+  "full_lengths": 8,
+  "genre": "NWOBHM/Heavy Metal (early); Progressive Metal (later)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 1061,
+  "themes": "Heavy Metal, War, History, Mythology, Theology, Dark fantasy, End of times",
+  "release_year": 1994
+ },
+ "partial": false,
+ "clips": [
+  "holocaust/1608456088-109",
+  "holocaust/1608574982-105",
+  "holocaust/1078345140-106",
+  "holocaust/1608450286-106",
+  "holocaust/1609093301-106",
+  "holocaust/1609093097-105",
+  "holocaust/1460297538-105",
+  "holocaust/1608456088-110",
+  "holocaust/1608574982-106",
+  "holocaust/1078345140-105",
+  "holocaust/1608450286-107",
+  "holocaust/1609093301-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 41.84498506433823
+  },
+  "onset_rate": {
+   "median": 3.591825570964457,
+   "iqr": 1.2472952427710164
+  },
+  "tempo_var": {
+   "median": 4.6467547679548336,
+   "iqr": 19.135760430230174
+  },
+  "low_onset_rate": {
+   "median": 5.522907473856051,
+   "iqr": 1.4225914836186133
+  },
+  "lufs": {
+   "median": -12.09780989772138,
+   "iqr": 4.479146951671632
+  },
+  "rms_dbfs": {
+   "median": -12.116794886318822,
+   "iqr": 4.230291050600815
+  },
+  "crest": {
+   "median": 12.116795063018799,
+   "iqr": 3.7321343421936035
+  },
+  "centroid": {
+   "median": 2486.763828604564,
+   "iqr": 535.4662923568621
+  },
+  "flatness": {
+   "median": 0.03222005162388086,
+   "iqr": 0.025417642667889595
+  },
+  "sub100_share": {
+   "median": 0.26929551362991333,
+   "iqr": 0.185662429779768
+  },
+  "lowest_pitch": {
+   "median": 49.7955322265625,
+   "iqr": 38.35601806640625
+  },
+  "harmonic_share": {
+   "median": 0.7039256989955902,
+   "iqr": 0.15814368426799774
+  },
+  "clean_share": {
+   "median": 0.03795361801574168,
+   "iqr": 0.14962894532685478
+  },
+  "minor_share": {
+   "median": 0.060373465052951714,
+   "iqr": 0.18754679516759784
+  },
+  "chord_rate": {
+   "median": 1.5369672210638607,
+   "iqr": 0.3447475714816792
+  },
+  "repetitiveness": {
+   "median": 0.8499849736690521,
+   "iqr": 0.07820241153240204
+  },
+  "vocal_share": {
+   "median": 0.1938645839691162,
+   "iqr": 0.11779561638832092
+  },
+  "vocal_voiced": {
+   "median": 0.8016326530612244,
+   "iqr": 0.2580454105668635
+  },
+  "song_length": {
+   "median": 277.92,
+   "iqr": 143.49
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "the-crown/1058951805-105",
+ "band": "the-crown",
+ "title": "I Crawl",
+ "source": "itunes",
+ "album": "The Burning",
+ "year": 2002,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.045261964796587,
+  "tempo_var": 4.938987206897906,
+  "low_onset_rate": 5.746920913543131,
+  "lufs": -12.45089632616662,
+  "rms_dbfs": -12.540887377209915,
+  "crest": 12.540887832641602,
+  "centroid": 3084.2656547243655,
+  "flatness": 0.03854895383119583,
+  "sub100_share": 0.31801894307136536,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7452910542488098,
+  "clean_share": 0.04654771140418929,
+  "minor_share": 0.035971882856628556,
+  "chord_rate": 2.071564515346943,
+  "repetitiveness": 0.8475916981697083,
+  "vocal_share": 7.742970069557487e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 316.133
+ }
+}

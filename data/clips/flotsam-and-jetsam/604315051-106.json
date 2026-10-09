@@ -1,0 +1,32 @@
+{
+ "id": "flotsam-and-jetsam/604315051-106",
+ "band": "flotsam-and-jetsam",
+ "title": "Play Your Part",
+ "source": "itunes",
+ "album": "Ugly Noise",
+ "year": 2012,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.5393371478446394,
+  "tempo_var": 3.0949682464930004,
+  "low_onset_rate": 4.076304368908501,
+  "lufs": -9.657191582291851,
+  "rms_dbfs": -9.16094141044754,
+  "crest": 9.160942077636719,
+  "centroid": 2316.4271344974113,
+  "flatness": 0.019531888887286186,
+  "sub100_share": 0.12699545919895172,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7784779667854309,
+  "clean_share": 0.06516679596586501,
+  "minor_share": -0.19974524069129984,
+  "chord_rate": 0.33412330892692627,
+  "repetitiveness": 0.9137739539146423,
+  "vocal_share": 0.12849946320056915,
+  "vocal_voiced": 0.7031963470319634,
+  "song_length": 328.667
+ }
+}

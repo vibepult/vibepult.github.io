@@ -1,0 +1,32 @@
+{
+ "id": "the-lonely/1777496278-106",
+ "band": "the-lonely",
+ "title": "Inside Of Me",
+ "source": "itunes",
+ "album": "Homicidal Tendencies",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 7.43322096415776,
+  "tempo_var": 2.428686282347568,
+  "low_onset_rate": 6.266571933908785,
+  "lufs": -13.935579126915624,
+  "rms_dbfs": -12.632237525788465,
+  "crest": 12.632237434387207,
+  "centroid": 1447.3182143449078,
+  "flatness": 0.0034699218813329935,
+  "sub100_share": 0.4020650088787079,
+  "lowest_pitch": 104.974365234375,
+  "harmonic_share": 0.8339254260063171,
+  "clean_share": 0.8051044083526682,
+  "minor_share": 0.11095589073765377,
+  "chord_rate": 2.4332965488050067,
+  "repetitiveness": 0.9105111360549927,
+  "vocal_share": 0.0425107404589653,
+  "vocal_voiced": 0.7171000788022065,
+  "song_length": 313.344
+ }
+}

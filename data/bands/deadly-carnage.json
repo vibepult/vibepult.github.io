@@ -1,0 +1,127 @@
+{
+ "slug": "deadly-carnage",
+ "name": "Deadly Carnage",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 461029599,
+  "deezer": 1425364,
+  "spotify": "6Smmabcnt0gxJ3PnXAFq1L"
+ },
+ "metadata": {
+  "formed": 2005,
+  "split": null,
+  "country": "IT",
+  "status": "active",
+  "members": 4,
+  "past_members": 3,
+  "full_lengths": 5,
+  "genre": "Black Metal (early); Post-Black Metal (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 984,
+  "themes": "Existentialism",
+  "release_year": 2016
+ },
+ "partial": false,
+ "clips": [
+  "deadly-carnage/461029593-103",
+  "deadly-carnage/827865668-104",
+  "deadly-carnage/1411635336-105",
+  "deadly-carnage/1689324098-104",
+  "deadly-carnage/461029593-104",
+  "deadly-carnage/827865668-103",
+  "deadly-carnage/1411635336-106",
+  "deadly-carnage/1689324098-105",
+  "deadly-carnage/461029593-102",
+  "deadly-carnage/827865668-105",
+  "deadly-carnage/1411635336-104",
+  "deadly-carnage/1689324098-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 31.51519404731782
+  },
+  "onset_rate": {
+   "median": 4.276778354264656,
+   "iqr": 2.9820505321728166
+  },
+  "tempo_var": {
+   "median": 5.253218089972814,
+   "iqr": 12.133695149585146
+  },
+  "low_onset_rate": {
+   "median": 5.98080722979198,
+   "iqr": 3.7087687290888818
+  },
+  "lufs": {
+   "median": -10.296600532053521,
+   "iqr": 2.3703454639882615
+  },
+  "rms_dbfs": {
+   "median": -9.718681298732282,
+   "iqr": 1.957605728581381
+  },
+  "crest": {
+   "median": 9.718681812286377,
+   "iqr": 1.957606315612793
+  },
+  "centroid": {
+   "median": 2371.5210652458127,
+   "iqr": 703.6983057133268
+  },
+  "flatness": {
+   "median": 0.02360905334353447,
+   "iqr": 0.030163305229507387
+  },
+  "sub100_share": {
+   "median": 0.2927192598581314,
+   "iqr": 0.15980314463377
+  },
+  "lowest_pitch": {
+   "median": 60.5621337890625,
+   "iqr": 21.533203125
+  },
+  "harmonic_share": {
+   "median": 0.8194699883460999,
+   "iqr": 0.10805727541446686
+  },
+  "clean_share": {
+   "median": 0.043056633048875095,
+   "iqr": 0.5880527540729247
+  },
+  "minor_share": {
+   "median": -0.0060882289118486255,
+   "iqr": 0.1268137405554389
+  },
+  "chord_rate": {
+   "median": 1.069194588566164,
+   "iqr": 0.7100120314697181
+  },
+  "repetitiveness": {
+   "median": 0.8880177736282349,
+   "iqr": 0.1019451767206192
+  },
+  "vocal_share": {
+   "median": 0.10827679932117462,
+   "iqr": 0.032964982092380524
+  },
+  "vocal_voiced": {
+   "median": 0.35766423357664234,
+   "iqr": 0.5171132971506106
+  },
+  "song_length": {
+   "median": 303.97799999999995,
+   "iqr": 83.6465
+  },
+  "vocal_presence": {
+   "median": 0.4166666666666667,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

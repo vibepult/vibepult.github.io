@@ -1,0 +1,32 @@
+{
+ "id": "green-carnation/583584328-106",
+ "band": "green-carnation",
+ "title": "Purple Door, Pitch Black",
+ "source": "itunes",
+ "album": "The Quiet Offspring",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.310190685157349,
+  "tempo_var": 7.150159983156343,
+  "low_onset_rate": 5.646683920865054,
+  "lufs": -7.894941634292629,
+  "rms_dbfs": -7.283606074232676,
+  "crest": 7.283605575561523,
+  "centroid": 2318.8227444277804,
+  "flatness": 0.01940879225730896,
+  "sub100_share": 0.2493181824684143,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8489879369735718,
+  "clean_share": 0.02948021722265322,
+  "minor_share": 0.238360130426435,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.7629978060722351,
+  "vocal_share": 0.18753011524677277,
+  "vocal_voiced": 0.8290322580645161,
+  "song_length": 245.453
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "darkwater/1456240171-104",
+ "band": "darkwater",
+ "title": "Habit",
+ "source": "itunes",
+ "album": "Calling the Earth to Witness",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.1049768462396354,
+  "tempo_var": 8.306164707804635,
+  "low_onset_rate": 2.3722754933811765,
+  "lufs": -10.82499715594833,
+  "rms_dbfs": -10.834081587324846,
+  "crest": 10.834081649780273,
+  "centroid": 2830.1582523782918,
+  "flatness": 0.03324113413691521,
+  "sub100_share": 0.2612146735191345,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7535980939865112,
+  "clean_share": 0.13110938712179984,
+  "minor_share": -0.07133634510001707,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.7116413116455078,
+  "vocal_share": 0.2985745072364807,
+  "vocal_voiced": 0.24202898550724639,
+  "song_length": 765.653
+ }
+}

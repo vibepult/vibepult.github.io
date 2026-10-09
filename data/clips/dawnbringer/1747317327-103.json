@@ -1,0 +1,32 @@
+{
+ "id": "dawnbringer/1747317327-103",
+ "band": "dawnbringer",
+ "title": "The Devil",
+ "source": "itunes",
+ "album": "Nucleus",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 2.766624843161857,
+  "tempo_var": 14.780114649276639,
+  "low_onset_rate": 4.266602167767683,
+  "lufs": -9.548118367428483,
+  "rms_dbfs": -8.605686884434864,
+  "crest": 8.605687141418457,
+  "centroid": 2072.415784725437,
+  "flatness": 0.011291339993476868,
+  "sub100_share": 0.2752138674259186,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.8540997505187988,
+  "clean_share": 0.3209590100541377,
+  "minor_share": -0.23382205975700643,
+  "chord_rate": 2.666626354854802,
+  "repetitiveness": 0.8848836421966553,
+  "vocal_share": 8.828147883832571e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 360.52
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "quiet-riot/1671500124-106",
+ "band": "quiet-riot",
+ "title": "Old Habits Die Hard",
+ "source": "itunes",
+ "album": "Rehab: Relapsed & Remastered 2023",
+ "year": 2006,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.3412330892692625,
+  "tempo_var": 6.020739661756621,
+  "low_onset_rate": 6.014219560684673,
+  "lufs": -9.925035907531608,
+  "rms_dbfs": -8.992559240575988,
+  "crest": 8.992559432983398,
+  "centroid": 2377.286200874739,
+  "flatness": 0.01938941888511181,
+  "sub100_share": 0.4369497001171112,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.8179498910903931,
+  "clean_share": 0.14895267649340574,
+  "minor_share": 0.04633433125697051,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.7348261475563049,
+  "vocal_share": 0.10729501396417618,
+  "vocal_voiced": 0.4935064935064935,
+  "song_length": 375.533
+ }
+}

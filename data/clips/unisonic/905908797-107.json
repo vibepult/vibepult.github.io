@@ -1,0 +1,32 @@
+{
+ "id": "unisonic/905908797-107",
+ "band": "unisonic",
+ "title": "Find Shelter",
+ "source": "itunes",
+ "album": "Light of Dawn",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 7.551186781748533,
+  "tempo_var": 0.0,
+  "low_onset_rate": 8.620381370314698,
+  "lufs": -7.995720040740564,
+  "rms_dbfs": -7.430845349014782,
+  "crest": 7.430844783782959,
+  "centroid": 2433.102794289076,
+  "flatness": 0.027425380423665047,
+  "sub100_share": 0.30613306164741516,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.799898624420166,
+  "clean_share": 0.0,
+  "minor_share": 0.04939593876034393,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.9027392864227295,
+  "vocal_share": 0.2108725905418396,
+  "vocal_voiced": 0.8921739130434783,
+  "song_length": 304.64
+ }
+}

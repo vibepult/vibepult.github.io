@@ -1,0 +1,32 @@
+{
+ "id": "saturnus/1166875909-103",
+ "band": "saturnus",
+ "title": "Descending",
+ "source": "itunes",
+ "album": "Veronica Decides to Die",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 1.4367302283857828,
+  "tempo_var": 4.580913584389603,
+  "low_onset_rate": 3.474882412840033,
+  "lufs": -10.176672311776297,
+  "rms_dbfs": -9.598258995768491,
+  "crest": 9.598258972167969,
+  "centroid": 1963.9469273309148,
+  "flatness": 0.006923343520611525,
+  "sub100_share": 0.1861531287431717,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.9510210156440735,
+  "clean_share": 0.6423584173778123,
+  "minor_share": -0.05101783577228991,
+  "chord_rate": 0.3675356398196189,
+  "repetitiveness": 0.5513745546340942,
+  "vocal_share": 1.0831956842594082e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 545.56
+ }
+}

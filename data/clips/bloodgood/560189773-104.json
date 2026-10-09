@@ -1,0 +1,32 @@
+{
+ "id": "bloodgood/560189773-104",
+ "band": "bloodgood",
+ "title": "What Have I Done",
+ "source": "itunes",
+ "album": "Rock in a Hard Place (Remastered)",
+ "year": 1988,
+ "itunes_year": 1988,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.0071097803423363,
+  "tempo_var": 1.2636399087099688,
+  "low_onset_rate": 4.009479707123115,
+  "lufs": -11.067643850937296,
+  "rms_dbfs": -10.236314200685129,
+  "crest": 10.23631477355957,
+  "centroid": 2739.366498899366,
+  "flatness": 0.024533674120903015,
+  "sub100_share": 0.4117399752140045,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.8328235149383545,
+  "clean_share": 0.11016291698991466,
+  "minor_share": 0.0951874811390776,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.6699038147926331,
+  "vocal_share": 0.12018896639347076,
+  "vocal_voiced": 0.8378787878787879,
+  "song_length": 220.813
+ }
+}

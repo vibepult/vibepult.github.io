@@ -1,0 +1,127 @@
+{
+ "slug": "aeternitas",
+ "name": "Aeternitas",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 62939865,
+  "deezer": 328684,
+  "spotify": "3TYuNFdUzcXvc9aSdg3Dy3"
+ },
+ "metadata": {
+  "formed": 1999,
+  "split": 2022,
+  "country": "DE",
+  "status": "split-up",
+  "members": 6,
+  "past_members": 13,
+  "full_lengths": 6,
+  "genre": "Symphonic Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 653,
+  "themes": "Medieval German and Latin texts (early); Famous English short stories and poems",
+  "release_year": 2010
+ },
+ "partial": false,
+ "clips": [
+  "aeternitas/1555748809-107",
+  "aeternitas/1561166126-108",
+  "aeternitas/1222072051-108",
+  "aeternitas/1382302189-106",
+  "aeternitas/1529643976-106",
+  "aeternitas/1555748809-106",
+  "aeternitas/1561166126-107",
+  "aeternitas/1222072051-109",
+  "aeternitas/1382302189-107",
+  "aeternitas/1529643976-105",
+  "aeternitas/1555748809-108",
+  "aeternitas/1561166126-109"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 34.085470282397395
+  },
+  "onset_rate": {
+   "median": 4.2600721888183095,
+   "iqr": 1.6121449655724192
+  },
+  "tempo_var": {
+   "median": 12.113010890828932,
+   "iqr": 23.401816825431563
+  },
+  "low_onset_rate": {
+   "median": 4.644313994084275,
+   "iqr": 2.3388631624884835
+  },
+  "lufs": {
+   "median": -9.9274093907969,
+   "iqr": 2.8926808261711194
+  },
+  "rms_dbfs": {
+   "median": -9.43613154341324,
+   "iqr": 2.139837982389688
+  },
+  "crest": {
+   "median": 9.436131477355957,
+   "iqr": 2.1398380994796753
+  },
+  "centroid": {
+   "median": 2717.67681979796,
+   "iqr": 570.9808846068877
+  },
+  "flatness": {
+   "median": 0.03272307384759188,
+   "iqr": 0.02154315961524844
+  },
+  "sub100_share": {
+   "median": 0.2525436729192734,
+   "iqr": 0.16625811159610748
+  },
+  "lowest_pitch": {
+   "median": 65.9454345703125,
+   "iqr": 43.06640625
+  },
+  "harmonic_share": {
+   "median": 0.8246497809886932,
+   "iqr": 0.1167551726102829
+  },
+  "clean_share": {
+   "median": 0.10007757951900698,
+   "iqr": 0.27928626842513576
+  },
+  "minor_share": {
+   "median": -0.021058977056578443,
+   "iqr": 0.1330231742675877
+  },
+  "chord_rate": {
+   "median": 1.0859007540125103,
+   "iqr": 0.7434243623624109
+  },
+  "repetitiveness": {
+   "median": 0.7648153603076935,
+   "iqr": 0.14084067940711975
+  },
+  "vocal_share": {
+   "median": 0.16864117980003357,
+   "iqr": 0.1511978730559349
+  },
+  "vocal_voiced": {
+   "median": 0.6070763500931099,
+   "iqr": 0.46744832637048994
+  },
+  "song_length": {
+   "median": 258.8,
+   "iqr": 60.23350000000005
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

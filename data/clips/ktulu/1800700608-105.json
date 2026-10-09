@@ -1,0 +1,32 @@
+{
+ "id": "ktulu/1800700608-105",
+ "band": "ktulu",
+ "title": "La Soga",
+ "source": "itunes",
+ "album": "Involución",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 7.066538475492508,
+  "tempo_var": 8.040358367942053,
+  "low_onset_rate": 7.133203932808475,
+  "lufs": -10.222248701237902,
+  "rms_dbfs": -9.313014653487805,
+  "crest": 9.313014030456543,
+  "centroid": 2932.5734313663233,
+  "flatness": 0.04870174080133438,
+  "sub100_share": 0.5622474551200867,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7376407384872437,
+  "clean_share": 0.016241299303944315,
+  "minor_share": 0.07284703295888084,
+  "chord_rate": 2.9332801219025506,
+  "repetitiveness": 0.951614499092102,
+  "vocal_share": 0.05402931198477745,
+  "vocal_voiced": 0.034990791896869246,
+  "song_length": 293.18
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "manowar/1440905659-105",
+ "band": "manowar",
+ "title": "Number 1",
+ "source": "itunes",
+ "album": "Louder Than Hell",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.066605191153573,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.099922903659809,
+  "lufs": -9.317169325909513,
+  "rms_dbfs": -8.843472112401532,
+  "crest": 8.84347152709961,
+  "centroid": 2580.2503977115102,
+  "flatness": 0.029622673988342285,
+  "sub100_share": 0.4605717360973358,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.7150117754936218,
+  "clean_share": 0.12915699922660479,
+  "minor_share": 0.142575968785841,
+  "chord_rate": 0.9999848830705508,
+  "repetitiveness": 0.7113280296325684,
+  "vocal_share": 0.12231162935495377,
+  "vocal_voiced": 0.4963325183374083,
+  "song_length": 311.533
+ }
+}

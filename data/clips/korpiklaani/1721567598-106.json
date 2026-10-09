@@ -1,0 +1,32 @@
+{
+ "id": "korpiklaani/1721567598-106",
+ "band": "korpiklaani",
+ "title": "Kalmisto",
+ "source": "itunes",
+ "album": "Rankarumpu",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 1.7666559839396285,
+  "tempo_var": 35.9258659880061,
+  "low_onset_rate": 1.8999885110294117,
+  "lufs": -12.984793036955644,
+  "rms_dbfs": -12.73531352625725,
+  "crest": 12.735313415527344,
+  "centroid": 2776.2067219286505,
+  "flatness": 0.04459312930703163,
+  "sub100_share": 0.3685479462146759,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.6692996025085449,
+  "clean_share": 0.040989945862335654,
+  "minor_share": 0.15442496928652383,
+  "chord_rate": 1.299992139125387,
+  "repetitiveness": 0.8405584692955017,
+  "vocal_share": 0.0793958455324173,
+  "vocal_voiced": 0.0,
+  "song_length": 262.639
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "suspyre/252443033-107",
+ "band": "suspyre",
+ "title": "April In the Fall",
+ "source": "itunes",
+ "album": "A Great Divide",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.009479707123115,
+  "tempo_var": 4.263256414560601e-14,
+  "low_onset_rate": 6.3817552005042915,
+  "lufs": -11.654652354821572,
+  "rms_dbfs": -11.57153943493056,
+  "crest": 11.571539878845215,
+  "centroid": 3017.237308410417,
+  "flatness": 0.05364586412906647,
+  "sub100_share": 0.28285476565361023,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.5891441702842712,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": -0.15729061010964918,
+  "chord_rate": 2.138389177132328,
+  "repetitiveness": 0.9317334890365601,
+  "vocal_share": 0.20177145302295685,
+  "vocal_voiced": 0.4746335963923337,
+  "song_length": 320.973
+ }
+}

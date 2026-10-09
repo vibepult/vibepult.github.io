@@ -1,0 +1,32 @@
+{
+ "id": "insomnium/1660162295-104",
+ "band": "insomnium",
+ "title": "Change of Heart",
+ "source": "itunes",
+ "album": "Above the Weeping World",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 1.7333333333333334,
+  "tempo_var": 14.38913359035313,
+  "low_onset_rate": 3.933333333333333,
+  "lufs": -7.262019736133259,
+  "rms_dbfs": -7.861125051433394,
+  "crest": 7.8611249923706055,
+  "centroid": 2633.0348111774015,
+  "flatness": 0.04255266860127449,
+  "sub100_share": 0.3337246775627136,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.725578248500824,
+  "clean_share": 0.17647058823529413,
+  "minor_share": 0.16487316959980536,
+  "chord_rate": 0.7,
+  "repetitiveness": 0.7980421185493469,
+  "vocal_share": 9.140862857748289e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 270.613
+ }
+}

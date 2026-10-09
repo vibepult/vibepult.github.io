@@ -1,0 +1,32 @@
+{
+ "id": "edge-of-sanity/290526259-105",
+ "band": "edge-of-sanity",
+ "title": "Damned By the Damned",
+ "source": "itunes",
+ "album": "Infernal",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.3412330892692625,
+  "tempo_var": 6.522369989986704,
+  "low_onset_rate": 6.74929084032391,
+  "lufs": -12.79610605897561,
+  "rms_dbfs": -13.182469841023165,
+  "crest": 13.182469367980957,
+  "centroid": 3218.3020105746327,
+  "flatness": 0.07557456195354462,
+  "sub100_share": 0.2723991274833679,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.6598738431930542,
+  "clean_share": 0.023273855702094646,
+  "minor_share": -0.061635863825169834,
+  "chord_rate": 1.971327522668865,
+  "repetitiveness": 0.9000930190086365,
+  "vocal_share": 0.11092925816774368,
+  "vocal_voiced": 0.10267857142857142,
+  "song_length": 331.4
+ }
+}

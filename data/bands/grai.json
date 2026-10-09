@@ -1,0 +1,127 @@
+{
+ "slug": "grai",
+ "name": "Grai",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 569705781,
+  "deezer": 4045336,
+  "spotify": "0rCnaw6G40B5yDq59zhCFC"
+ },
+ "metadata": {
+  "formed": 2007,
+  "split": null,
+  "country": "RU",
+  "status": "active",
+  "members": 6,
+  "past_members": 8,
+  "full_lengths": 4,
+  "genre": "Pagan/Folk Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 1989,
+  "themes": "Nature, Slavic folklore",
+  "release_year": 2012
+ },
+ "partial": false,
+ "clips": [
+  "grai/948913082-105",
+  "grai/819537535-106",
+  "grai/1062134832-106",
+  "grai/1318595797-106",
+  "grai/948913082-104",
+  "grai/819537535-105",
+  "grai/1062134832-105",
+  "grai/1318595797-105",
+  "grai/948913082-106",
+  "grai/819537535-107",
+  "grai/1062134832-107",
+  "grai/1318595797-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 135.99917763157896,
+   "iqr": 33.18858370885579
+  },
+  "onset_rate": {
+   "median": 5.16220512292101,
+   "iqr": 1.6121449655724192
+  },
+  "tempo_var": {
+   "median": 3.608714817842804,
+   "iqr": 11.906350183700003
+  },
+  "low_onset_rate": {
+   "median": 5.412797604616205,
+   "iqr": 1.3364932357077057
+  },
+  "lufs": {
+   "median": -8.704400621003334,
+   "iqr": 1.2168199353828015
+  },
+  "rms_dbfs": {
+   "median": -8.500786100645326,
+   "iqr": 1.143782777638373
+  },
+  "crest": {
+   "median": 8.500785827636719,
+   "iqr": 1.1437832117080688
+  },
+  "centroid": {
+   "median": 2436.3694853536663,
+   "iqr": 205.92692525341636
+  },
+  "flatness": {
+   "median": 0.02522624470293522,
+   "iqr": 0.009978304617106915
+  },
+  "sub100_share": {
+   "median": 0.39237120747566223,
+   "iqr": 0.13143323734402657
+  },
+  "lowest_pitch": {
+   "median": 57.8704833984375,
+   "iqr": 8.74786376953125
+  },
+  "harmonic_share": {
+   "median": 0.8331163823604584,
+   "iqr": 0.07167890667915344
+  },
+  "clean_share": {
+   "median": 0.08572536850271528,
+   "iqr": 0.18599689681923973
+  },
+  "minor_share": {
+   "median": 0.047008399814365,
+   "iqr": 0.25597681112867215
+  },
+  "chord_rate": {
+   "median": 1.7708535373127092,
+   "iqr": 0.5513034597294282
+  },
+  "repetitiveness": {
+   "median": 0.8280840516090393,
+   "iqr": 0.130605086684227
+  },
+  "vocal_share": {
+   "median": 0.14315223693847656,
+   "iqr": 0.14076388999819756
+  },
+  "vocal_voiced": {
+   "median": 0.7095282146160962,
+   "iqr": 0.48917467569895456
+  },
+  "song_length": {
+   "median": 299.3725,
+   "iqr": 70.06200000000001
+  },
+  "vocal_presence": {
+   "median": 0.5833333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

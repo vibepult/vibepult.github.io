@@ -1,0 +1,127 @@
+{
+ "slug": "alcest",
+ "name": "Alcest",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 260872620,
+  "deezer": 16329,
+  "spotify": "0d5ZwMtCer8dQdOPAgWhe7"
+ },
+ "metadata": {
+  "formed": 1999,
+  "split": null,
+  "country": "FR",
+  "status": "active",
+  "members": 2,
+  "past_members": 2,
+  "full_lengths": 7,
+  "genre": "Post-Black Metal, Shoegaze",
+  "vocals": "mixed",
+  "instrumental": false,
+  "fans": 49520,
+  "themes": "Nostalgia, Childhood, Beauty, Spirituality, Afterlife, Memories, Nature, Poetry",
+  "release_year": 2013
+ },
+ "partial": false,
+ "clips": [
+  "alcest/1556156328-103",
+  "alcest/1556058786-103",
+  "alcest/1556065979-104",
+  "alcest/1556076520-105",
+  "alcest/1556093973-103",
+  "alcest/1474788010-103",
+  "alcest/1737389873-104",
+  "alcest/1556156328-104",
+  "alcest/1556058786-102",
+  "alcest/1556065979-105",
+  "alcest/1556076520-106",
+  "alcest/1556093973-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 110.00658118206522,
+   "iqr": 21.2255859375
+  },
+  "onset_rate": {
+   "median": 4.109716699801193,
+   "iqr": 0.9253383436594191
+  },
+  "tempo_var": {
+   "median": 5.453643622103509,
+   "iqr": 9.569135144614126
+  },
+  "low_onset_rate": {
+   "median": 5.095380461135625,
+   "iqr": 1.9043185528678368
+  },
+  "lufs": {
+   "median": -10.284155387372646,
+   "iqr": 3.395930591468927
+  },
+  "rms_dbfs": {
+   "median": -10.721575203401938,
+   "iqr": 2.320976273718731
+  },
+  "crest": {
+   "median": 10.721575260162354,
+   "iqr": 2.320976734161377
+  },
+  "centroid": {
+   "median": 2112.0549732123454,
+   "iqr": 804.3674360273487
+  },
+  "flatness": {
+   "median": 0.014319344889372587,
+   "iqr": 0.02203678828664124
+  },
+  "sub100_share": {
+   "median": 0.21213658899068832,
+   "iqr": 0.22820068523287773
+  },
+  "lowest_pitch": {
+   "median": 65.9454345703125,
+   "iqr": 22.8790283203125
+  },
+  "harmonic_share": {
+   "median": 0.8521296083927155,
+   "iqr": 0.11113308370113373
+  },
+  "clean_share": {
+   "median": 0.10970541982639709,
+   "iqr": 0.7163730584870374
+  },
+  "minor_share": {
+   "median": 0.00866393624980133,
+   "iqr": 0.3979388459285685
+  },
+  "chord_rate": {
+   "median": 1.101334896146735,
+   "iqr": 0.5086866555709094
+  },
+  "repetitiveness": {
+   "median": 0.7616297006607056,
+   "iqr": 0.08477804064750671
+  },
+  "vocal_share": {
+   "median": 0.12743381783366203,
+   "iqr": 0.14720171689987183
+  },
+  "vocal_voiced": {
+   "median": 0.9490679536919424,
+   "iqr": 0.0752103458231792
+  },
+  "song_length": {
+   "median": 384.867,
+   "iqr": 118.1465
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

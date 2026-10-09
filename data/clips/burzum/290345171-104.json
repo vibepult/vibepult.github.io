@@ -1,0 +1,32 @@
+{
+ "id": "burzum/290345171-104",
+ "band": "burzum",
+ "title": "I Heimr Heljar",
+ "source": "itunes",
+ "album": "Daudi Baldrs",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 2.405687824273869,
+  "tempo_var": 18.718894874167706,
+  "low_onset_rate": 3.240996096591185,
+  "lufs": -15.627388940476383,
+  "rms_dbfs": -15.151435586761025,
+  "crest": 15.151434898376465,
+  "centroid": 1501.0120319872415,
+  "flatness": 0.0021945906337350607,
+  "sub100_share": 0.19935894012451172,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7315213680267334,
+  "clean_share": 0.9006982156710628,
+  "minor_share": 0.05151783811156574,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.8401978015899658,
+  "vocal_share": 5.286790837999433e-05,
+  "vocal_voiced": 0.0,
+  "song_length": 122.533
+ }
+}

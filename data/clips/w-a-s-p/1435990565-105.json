@@ -1,0 +1,32 @@
+{
+ "id": "w-a-s-p/1435990565-105",
+ "band": "w-a-s-p",
+ "title": "Hallowed Ground",
+ "source": "itunes",
+ "album": "Dying for the World",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 2.8333333333333335,
+  "tempo_var": 17.016304837183366,
+  "low_onset_rate": 2.3333333333333335,
+  "lufs": -19.73699136186719,
+  "rms_dbfs": -18.767267316758616,
+  "crest": 13.764533042907715,
+  "centroid": 1465.5257157308006,
+  "flatness": 0.002614125842228532,
+  "sub100_share": 0.3371312916278839,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.9657729864120483,
+  "clean_share": 0.9179566563467493,
+  "minor_share": 0.052055099137341077,
+  "chord_rate": 0.8,
+  "repetitiveness": 0.7936370968818665,
+  "vocal_share": 0.28230294585227966,
+  "vocal_voiced": 0.9072961373390558,
+  "song_length": 354.293
+ }
+}

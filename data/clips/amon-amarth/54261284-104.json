@@ -1,0 +1,32 @@
+{
+ "id": "amon-amarth/54261284-104",
+ "band": "amon-amarth",
+ "title": "Avenger",
+ "source": "itunes",
+ "album": "The Avenger",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 5.379385273723512,
+  "tempo_var": 0.0,
+  "low_onset_rate": 8.486732046743926,
+  "lufs": -9.274486477264114,
+  "rms_dbfs": -9.097152400737897,
+  "crest": 9.097152709960938,
+  "centroid": 2925.393200727699,
+  "flatness": 0.05531302094459534,
+  "sub100_share": 0.3380108177661896,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7497084140777588,
+  "clean_share": 0.008533747090768037,
+  "minor_share": -0.051028552592778276,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.9237857460975647,
+  "vocal_share": 0.02187829464673996,
+  "vocal_voiced": 0.0,
+  "song_length": 431.627
+ }
+}

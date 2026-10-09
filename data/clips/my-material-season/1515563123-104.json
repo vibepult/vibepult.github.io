@@ -1,0 +1,32 @@
+{
+ "id": "my-material-season/1515563123-104",
+ "band": "my-material-season",
+ "title": "Ruge",
+ "source": "itunes",
+ "album": "Bridal Aisles of Tragedy",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.0739344421277215,
+  "tempo_var": 13.761976074534147,
+  "low_onset_rate": 6.849527833001988,
+  "lufs": -5.953805369738101,
+  "rms_dbfs": -5.428944696545947,
+  "crest": 5.4289445877075195,
+  "centroid": 2769.3216798837216,
+  "flatness": 0.04676390439271927,
+  "sub100_share": 0.2952459156513214,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7954939007759094,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.20317885020364396,
+  "chord_rate": 1.9379151917761723,
+  "repetitiveness": 0.7825780510902405,
+  "vocal_share": 0.08683488517999649,
+  "vocal_voiced": 0.10820451843043995,
+  "song_length": 306.933
+ }
+}

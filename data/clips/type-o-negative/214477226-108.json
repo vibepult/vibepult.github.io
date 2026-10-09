@@ -1,0 +1,32 @@
+{
+ "id": "type-o-negative/214477226-108",
+ "band": "type-o-negative",
+ "title": "Life Is Killing Me",
+ "source": "itunes",
+ "album": "Life Is Killing Me",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.163922191873534,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.762868313552972,
+  "lufs": -9.457401131503259,
+  "rms_dbfs": -9.455795228707625,
+  "crest": 9.455794334411621,
+  "centroid": 2404.180583366306,
+  "flatness": 0.0318412221968174,
+  "sub100_share": 0.19541381299495697,
+  "lowest_pitch": 104.974365234375,
+  "harmonic_share": 0.6779218912124634,
+  "clean_share": 0.007733952049497293,
+  "minor_share": -0.03446086319380737,
+  "chord_rate": 1.2658323463295544,
+  "repetitiveness": 0.8073400855064392,
+  "vocal_share": 0.15453824400901794,
+  "vocal_voiced": 0.7444444444444445,
+  "song_length": 395.036
+ }
+}

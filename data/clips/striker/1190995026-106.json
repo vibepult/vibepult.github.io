@@ -1,0 +1,32 @@
+{
+ "id": "striker/1190995026-106",
+ "band": "striker",
+ "title": "Rock the Night",
+ "source": "itunes",
+ "album": "Striker",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.21232361926005,
+  "tempo_var": 9.757163068222356,
+  "low_onset_rate": 6.014219560684673,
+  "lufs": -8.323997765834179,
+  "rms_dbfs": -7.972474062755069,
+  "crest": 7.972473621368408,
+  "centroid": 2756.3755002864646,
+  "flatness": 0.04209902882575989,
+  "sub100_share": 0.3396970331668854,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6868507266044617,
+  "clean_share": 0.009309542280837859,
+  "minor_share": 0.06938075294714596,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.8920919299125671,
+  "vocal_share": 0.12496819347143173,
+  "vocal_voiced": 0.8340425531914893,
+  "song_length": 272.08
+ }
+}

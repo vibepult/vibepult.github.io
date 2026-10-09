@@ -1,0 +1,32 @@
+{
+ "id": "anathema/1189342856-106",
+ "band": "anathema",
+ "title": "Hope",
+ "source": "itunes",
+ "album": "Eternity",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.30782075837657,
+  "tempo_var": 18.41732479269905,
+  "low_onset_rate": 3.3412330892692625,
+  "lufs": -19.914071318781264,
+  "rms_dbfs": -20.543028403970148,
+  "crest": 17.58003044128418,
+  "centroid": 1659.9001582756287,
+  "flatness": 0.012367584742605686,
+  "sub100_share": 0.05169804394245148,
+  "lowest_pitch": 107.666015625,
+  "harmonic_share": 0.7681742310523987,
+  "clean_share": 0.7354538401861909,
+  "minor_share": 0.09302127062992321,
+  "chord_rate": 2.9068727876642586,
+  "repetitiveness": 0.697482705116272,
+  "vocal_share": 0.8674612641334534,
+  "vocal_voiced": 0.9169764560099133,
+  "song_length": 355.84
+ }
+}

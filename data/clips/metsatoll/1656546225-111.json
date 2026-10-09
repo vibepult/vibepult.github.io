@@ -1,0 +1,32 @@
+{
+ "id": "metsatoll/1656546225-111",
+ "band": "metsatoll",
+ "title": "Velekeseq Noorõkõsõq",
+ "source": "itunes",
+ "album": "Hiiekoda",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.374645420161955,
+  "tempo_var": 5.330648392608031,
+  "low_onset_rate": 6.147868884255443,
+  "lufs": -13.38283451842273,
+  "rms_dbfs": -13.324100630832756,
+  "crest": 13.324100494384766,
+  "centroid": 2032.4280795151587,
+  "flatness": 0.011357425712049007,
+  "sub100_share": 6.598942127311602e-05,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.8390597105026245,
+  "clean_share": 0.7556245151280062,
+  "minor_share": 0.047410121469009914,
+  "chord_rate": 2.2386261698104057,
+  "repetitiveness": 0.6697365641593933,
+  "vocal_share": 0.9995330572128296,
+  "vocal_voiced": 0.660977501939488,
+  "song_length": 177.067
+ }
+}

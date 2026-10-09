@@ -1,0 +1,32 @@
+{
+ "id": "pelican/1568361080-104",
+ "band": "pelican",
+ "title": "*",
+ "source": "itunes",
+ "album": "The Fire In Our Throats Will Beckon the Thaw",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 3.5082947437327254,
+  "tempo_var": 21.84848895624903,
+  "low_onset_rate": 5.713508582650439,
+  "lufs": -14.520032095030032,
+  "rms_dbfs": -13.592732079315901,
+  "crest": 13.592731475830078,
+  "centroid": 1407.7816541261302,
+  "flatness": 0.00431772880256176,
+  "sub100_share": 0.21585795283317566,
+  "lowest_pitch": 94.207763671875,
+  "harmonic_share": 0.9410349726676941,
+  "clean_share": 0.8153607447633825,
+  "minor_share": 0.12834637026036333,
+  "chord_rate": 1.3030809048150125,
+  "repetitiveness": 0.8837723135948181,
+  "vocal_share": 2.5640649710112484e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 283.52
+ }
+}

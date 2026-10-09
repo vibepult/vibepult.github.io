@@ -1,0 +1,32 @@
+{
+ "id": "trivium/214473004-107",
+ "band": "trivium",
+ "title": "Becoming the Dragon",
+ "source": "itunes",
+ "album": "The Crusade",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 6.132610213761643,
+  "tempo_var": 0.0,
+  "low_onset_rate": 7.232480523838459,
+  "lufs": -7.899200686956547,
+  "rms_dbfs": -7.627128882895321,
+  "crest": 7.627129077911377,
+  "centroid": 2656.13484783241,
+  "flatness": 0.044062502682209015,
+  "sub100_share": 0.24991577863693237,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.649254560470581,
+  "clean_share": 0.01082753286929621,
+  "minor_share": 0.21864608477247327,
+  "chord_rate": 1.4331643434334274,
+  "repetitiveness": 0.8624266982078552,
+  "vocal_share": 0.24620336294174194,
+  "vocal_voiced": 0.1320754716981132,
+  "song_length": 283.813
+ }
+}

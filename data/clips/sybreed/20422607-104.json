@@ -1,0 +1,32 @@
+{
+ "id": "sybreed/20422607-104",
+ "band": "sybreed",
+ "title": "Synthetic Breed",
+ "source": "itunes",
+ "album": "Slave Design",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 6.348342869611598,
+  "tempo_var": 9.317125304484481,
+  "low_onset_rate": 7.283888134606992,
+  "lufs": -8.177501466488177,
+  "rms_dbfs": -7.596882949832531,
+  "crest": 7.5968828201293945,
+  "centroid": 2843.9184321313696,
+  "flatness": 0.05024763196706772,
+  "sub100_share": 0.4311625063419342,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7863689064979553,
+  "clean_share": 0.0031031807602792862,
+  "minor_share": 0.03515952160994862,
+  "chord_rate": 2.7398111332007953,
+  "repetitiveness": 0.9375824928283691,
+  "vocal_share": 0.09510168433189392,
+  "vocal_voiced": 0.06623235613463627,
+  "song_length": 319.493
+ }
+}

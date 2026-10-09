@@ -1,0 +1,32 @@
+{
+ "id": "edenbridge/1183980108-106",
+ "band": "edenbridge",
+ "title": "Come Undone",
+ "source": "itunes",
+ "album": "Solitaire",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.366666666666666,
+  "tempo_var": 2.514937806416511,
+  "low_onset_rate": 5.766666666666667,
+  "lufs": -7.44942469816574,
+  "rms_dbfs": -6.891486899023769,
+  "crest": 6.891487121582031,
+  "centroid": 2557.8100245153787,
+  "flatness": 0.03306890279054642,
+  "sub100_share": 0.24735063314437866,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8142224550247192,
+  "clean_share": 0.07275541795665634,
+  "minor_share": 0.06512092075395648,
+  "chord_rate": 1.0666666666666667,
+  "repetitiveness": 0.8091524243354797,
+  "vocal_share": 0.22162136435508728,
+  "vocal_voiced": 0.8845500848896435,
+  "song_length": 254.52
+ }
+}

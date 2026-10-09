@@ -1,0 +1,32 @@
+{
+ "id": "krypteria/1791761121-109",
+ "band": "krypteria",
+ "title": "Higher",
+ "source": "itunes",
+ "album": "All Beauty Must Die",
+ "year": 2011,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.333267826639053,
+  "tempo_var": 2.7829976173443653,
+  "low_onset_rate": 4.599930462124534,
+  "lufs": -6.830185795266082,
+  "rms_dbfs": -5.996009949595641,
+  "crest": 5.996009826660156,
+  "centroid": 2233.163945351783,
+  "flatness": 0.024547509849071503,
+  "sub100_share": 0.3688707947731018,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.6729188561439514,
+  "clean_share": 0.04795050270688322,
+  "minor_share": 0.13942046778800876,
+  "chord_rate": 1.8999712778340465,
+  "repetitiveness": 0.8217192888259888,
+  "vocal_share": 0.27352356910705566,
+  "vocal_voiced": 0.84399375975039,
+  "song_length": 269.333
+ }
+}

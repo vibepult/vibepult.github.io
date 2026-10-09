@@ -1,0 +1,32 @@
+{
+ "id": "rammstein/1390562159-106",
+ "band": "rammstein",
+ "title": "Bück dich",
+ "source": "itunes",
+ "album": "Sehnsucht",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "hand",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.599916554801727,
+  "tempo_var": 20.852092453135313,
+  "low_onset_rate": 5.833227515147118,
+  "lufs": -9.608969168682895,
+  "rms_dbfs": -10.1308951299762,
+  "crest": 10.130895614624023,
+  "centroid": 2761.9737342147564,
+  "flatness": 0.05026993900537491,
+  "sub100_share": 0.21556271612644196,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.6012617349624634,
+  "clean_share": 0.03557617942768755,
+  "minor_share": 0.09243447226476931,
+  "chord_rate": 2.733283749954649,
+  "repetitiveness": 0.9498432278633118,
+  "vocal_share": 0.19418469071388245,
+  "vocal_voiced": 0.05798687089715536,
+  "song_length": 201.533
+ }
+}

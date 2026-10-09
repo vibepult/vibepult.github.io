@@ -1,0 +1,32 @@
+{
+ "id": "anvil/1710156716-105",
+ "band": "anvil",
+ "title": "Pow Wow",
+ "source": "itunes",
+ "album": "Worth the Weight",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.666596120995903,
+  "tempo_var": 3.3005563634310278,
+  "low_onset_rate": 5.433251198016659,
+  "lufs": -12.631725920826876,
+  "rms_dbfs": -12.601164653633575,
+  "crest": 12.601164817810059,
+  "centroid": 3252.300663442288,
+  "flatness": 0.053818315267562866,
+  "sub100_share": 0.45941269397735596,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7565892338752747,
+  "clean_share": 0.037122969837587005,
+  "minor_share": -0.12534219930136287,
+  "chord_rate": 1.7666399600913063,
+  "repetitiveness": 0.9030429720878601,
+  "vocal_share": 0.03879968076944351,
+  "vocal_voiced": 0.4918032786885246,
+  "song_length": 359.533
+ }
+}

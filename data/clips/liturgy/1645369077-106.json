@@ -1,0 +1,32 @@
+{
+ "id": "liturgy/1645369077-106",
+ "band": "liturgy",
+ "title": "Before I Knew the Truth",
+ "source": "itunes",
+ "album": "93696",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 6.181281215148136,
+  "tempo_var": 3.3722434839783073,
+  "low_onset_rate": 7.484362119963148,
+  "lufs": -7.659409304617014,
+  "rms_dbfs": -7.373994260579066,
+  "crest": 7.373994827270508,
+  "centroid": 2326.1565052436736,
+  "flatness": 0.02486472576856613,
+  "sub100_share": 0.3563234508037567,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7841631174087524,
+  "clean_share": 0.008533747090768037,
+  "minor_share": 0.2988900030642814,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.8942204117774963,
+  "vocal_share": 0.05271052569150925,
+  "vocal_voiced": 0.4031117397454031,
+  "song_length": 266.973
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "metsatoll/1656547728-107",
+ "band": "metsatoll",
+ "title": "Metsaviha 3",
+ "source": "itunes",
+ "album": "Iivakivi",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 2.606161809630025,
+  "tempo_var": 3.8913462547898567,
+  "low_onset_rate": 4.377015346942734,
+  "lufs": -21.748398365083982,
+  "rms_dbfs": -19.99345836176182,
+  "crest": 19.993459701538086,
+  "centroid": 1195.102710854902,
+  "flatness": 0.001563812023960054,
+  "sub100_share": 0.36168158054351807,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7221960425376892,
+  "clean_share": 0.9759503491078355,
+  "minor_share": -0.05464501993949311,
+  "chord_rate": 0.9021329341027009,
+  "repetitiveness": 0.8342708349227905,
+  "vocal_share": 0.19400164484977722,
+  "vocal_voiced": 0.6773308957952467,
+  "song_length": 292.093
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "tarot",
+ "name": "Tarot",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 14957062,
+  "deezer": 4823,
+  "spotify": "60WI98KvQgbplg7Soa95e4"
+ },
+ "metadata": {
+  "formed": 1985,
+  "split": null,
+  "country": "FI",
+  "status": "active",
+  "members": 5,
+  "past_members": 2,
+  "full_lengths": 9,
+  "genre": "Heavy/Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 9326,
+  "themes": "Pain, Corruption, Fantasy",
+  "release_year": 1996
+ },
+ "partial": false,
+ "clips": [
+  "tarot/991154475-105",
+  "tarot/990552174-105",
+  "tarot/990553737-105",
+  "tarot/990552191-105",
+  "tarot/1513375516-105",
+  "tarot/1515363939-105",
+  "tarot/1456966093-106",
+  "tarot/991154475-106",
+  "tarot/990552174-106",
+  "tarot/990553737-106",
+  "tarot/990552191-106",
+  "tarot/1513375516-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 27.821158590587046
+  },
+  "onset_rate": {
+   "median": 4.5440770014061975,
+   "iqr": 1.7374412064200162
+  },
+  "tempo_var": {
+   "median": 10.10964552750664,
+   "iqr": 17.574290252470252
+  },
+  "low_onset_rate": {
+   "median": 5.02855579935024,
+   "iqr": 2.664633388692237
+  },
+  "lufs": {
+   "median": -9.281009193075487,
+   "iqr": 1.16177474381643
+  },
+  "rms_dbfs": {
+   "median": -8.954830255865856,
+   "iqr": 0.700935543342629
+  },
+  "crest": {
+   "median": 8.954830646514893,
+   "iqr": 0.7009351253509521
+  },
+  "centroid": {
+   "median": 2454.418928095355,
+   "iqr": 418.1591594289016
+  },
+  "flatness": {
+   "median": 0.03172951005399227,
+   "iqr": 0.017571070231497288
+  },
+  "sub100_share": {
+   "median": 0.35651011765003204,
+   "iqr": 0.12502644956111908
+  },
+  "lowest_pitch": {
+   "median": 47.1038818359375,
+   "iqr": 24.89776611328125
+  },
+  "harmonic_share": {
+   "median": 0.7708720862865448,
+   "iqr": 0.05513305962085724
+  },
+  "clean_share": {
+   "median": 0.057408844065166796,
+   "iqr": 0.25659425911559347
+  },
+  "minor_share": {
+   "median": 0.08153350497036588,
+   "iqr": 0.09498965461871803
+  },
+  "chord_rate": {
+   "median": 1.7708535373127092,
+   "iqr": 0.4594195497745237
+  },
+  "repetitiveness": {
+   "median": 0.8593103587627411,
+   "iqr": 0.08693000674247742
+  },
+  "vocal_share": {
+   "median": 0.17792869359254837,
+   "iqr": 0.05863960459828377
+  },
+  "vocal_voiced": {
+   "median": 0.7377543228878574,
+   "iqr": 0.2339855742330148
+  },
+  "song_length": {
+   "median": 270.8135,
+   "iqr": 91.287
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

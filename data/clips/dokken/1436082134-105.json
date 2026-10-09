@@ -1,0 +1,32 @@
+{
+ "id": "dokken/1436082134-105",
+ "band": "dokken",
+ "title": "Goodbye My Friend",
+ "source": "itunes",
+ "album": "Long Way Home",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 2.7333333333333334,
+  "tempo_var": 27.3536327368874,
+  "low_onset_rate": 3.1666666666666665,
+  "lufs": -11.755742962921042,
+  "rms_dbfs": -10.474268922274362,
+  "crest": 10.474267959594727,
+  "centroid": 1440.226913624838,
+  "flatness": 0.004665969870984554,
+  "sub100_share": 0.3498511016368866,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.9153847694396973,
+  "clean_share": 0.8544891640866873,
+  "minor_share": 0.1356245212746625,
+  "chord_rate": 0.9666666666666667,
+  "repetitiveness": 0.539508044719696,
+  "vocal_share": 0.24019576609134674,
+  "vocal_voiced": 0.9266666666666666,
+  "song_length": 244.707
+ }
+}

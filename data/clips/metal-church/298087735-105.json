@@ -1,0 +1,32 @@
+{
+ "id": "metal-church/298087735-105",
+ "band": "metal-church",
+ "title": "Over My Dead Body",
+ "source": "itunes",
+ "album": "The Dark",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.366033937041437,
+  "tempo_var": 2.720721640629086,
+  "low_onset_rate": 7.832409783880359,
+  "lufs": -12.622391377820557,
+  "rms_dbfs": -12.683887981882616,
+  "crest": 12.68388843536377,
+  "centroid": 3040.498534275569,
+  "flatness": 0.06063530221581459,
+  "sub100_share": 0.31797537207603455,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6549513936042786,
+  "clean_share": 0.008507347254447023,
+  "minor_share": 0.1374036636213125,
+  "chord_rate": 2.5330346535102435,
+  "repetitiveness": 0.9431024193763733,
+  "vocal_share": 0.20034851133823395,
+  "vocal_voiced": 0.5676905574516496,
+  "song_length": 213.76
+ }
+}

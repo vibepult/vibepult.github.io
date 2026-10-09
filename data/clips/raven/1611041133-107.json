@@ -1,0 +1,32 @@
+{
+ "id": "raven/1611041133-107",
+ "band": "raven",
+ "title": "Lay Down the Law",
+ "source": "itunes",
+ "album": "Nothing Exceeds Like Excess",
+ "year": 1988,
+ "itunes_year": 1988,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 6.74929084032391,
+  "tempo_var": 1.4879543502407397,
+  "low_onset_rate": 6.983177156572759,
+  "lufs": -9.159704036390714,
+  "rms_dbfs": -9.087448746556882,
+  "crest": 9.087449073791504,
+  "centroid": 2805.927517149177,
+  "flatness": 0.044430337846279144,
+  "sub100_share": 0.2900197207927704,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.5913985967636108,
+  "clean_share": 0.0,
+  "minor_share": -0.2594141827478894,
+  "chord_rate": 1.7374412064200164,
+  "repetitiveness": 0.9342891573905945,
+  "vocal_share": 0.1934167593717575,
+  "vocal_voiced": 0.7934362934362934,
+  "song_length": 288.547
+ }
+}

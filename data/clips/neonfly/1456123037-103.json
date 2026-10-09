@@ -1,0 +1,32 @@
+{
+ "id": "neonfly/1456123037-103",
+ "band": "neonfly",
+ "title": "Better Angels",
+ "source": "itunes",
+ "album": "Strangers in Paradise",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.209953692479271,
+  "tempo_var": 11.624493399158093,
+  "low_onset_rate": 3.7755933908742665,
+  "lufs": -9.219451999438013,
+  "rms_dbfs": -8.421718464872153,
+  "crest": 8.42171859741211,
+  "centroid": 2783.063469104881,
+  "flatness": 0.03582461178302765,
+  "sub100_share": 0.3897227644920349,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6559655666351318,
+  "clean_share": 0.013188518231186967,
+  "minor_share": -0.3174666658609509,
+  "chord_rate": 1.7374412064200164,
+  "repetitiveness": 0.8506166338920593,
+  "vocal_share": 0.14694735407829285,
+  "vocal_voiced": 0.8709239130434783,
+  "song_length": 221.867
+ }
+}

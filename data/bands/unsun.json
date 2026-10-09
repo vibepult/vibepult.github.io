@@ -1,0 +1,126 @@
+{
+ "slug": "unsun",
+ "name": "UnSun",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 452518701,
+  "deezer": 615134,
+  "spotify": "6gOet6ki04ZkASl49nF37y"
+ },
+ "metadata": {
+  "formed": 2006,
+  "split": 2016,
+  "country": "PL",
+  "status": "split-up",
+  "members": 4,
+  "past_members": 2,
+  "full_lengths": 2,
+  "genre": "Symphonic Metal/Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 9037,
+  "themes": "Sadness, Life, Love",
+  "release_year": 2008
+ },
+ "partial": false,
+ "clips": [
+  "unsun/1045628709-106",
+  "unsun/1045628709-105",
+  "unsun/1045628709-107",
+  "unsun/1045628709-104",
+  "unsun/1045628709-108",
+  "unsun/1045628709-103",
+  "unsun/1045628709-109",
+  "unsun/1045628709-102",
+  "unsun/1045628709-110",
+  "unsun/1045628709-101",
+  "unsun/1045628709-111"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.19921875,
+   "iqr": 48.392869768099544
+  },
+  "onset_rate": {
+   "median": 5.34597294283082,
+   "iqr": 0.7183651141928911
+  },
+  "tempo_var": {
+   "median": 9.198154960008713,
+   "iqr": 10.72236172816569
+  },
+  "low_onset_rate": {
+   "median": 7.3507127963923775,
+   "iqr": 2.956991284003297
+  },
+  "lufs": {
+   "median": -6.398061787226496,
+   "iqr": 0.8310621704155956
+  },
+  "rms_dbfs": {
+   "median": -6.801124550955393,
+   "iqr": 0.42366291709620985
+  },
+  "crest": {
+   "median": 6.801124095916748,
+   "iqr": 0.4236626625061035
+  },
+  "centroid": {
+   "median": 2610.018832180616,
+   "iqr": 117.44607384545998
+  },
+  "flatness": {
+   "median": 0.03702520206570625,
+   "iqr": 0.010594354011118412
+  },
+  "sub100_share": {
+   "median": 0.14923842251300812,
+   "iqr": 0.05460323393344879
+  },
+  "lowest_pitch": {
+   "median": 56.524658203125,
+   "iqr": 16.14990234375
+  },
+  "harmonic_share": {
+   "median": 0.7777469754219055,
+   "iqr": 0.07494211196899414
+  },
+  "clean_share": {
+   "median": 0.004654771140418929,
+   "iqr": 0.011249030256012413
+  },
+  "minor_share": {
+   "median": 0.11035826831408058,
+   "iqr": 0.1900708136652291
+  },
+  "chord_rate": {
+   "median": 1.336493235707705,
+   "iqr": 0.6014219560684673
+  },
+  "repetitiveness": {
+   "median": 0.8979551792144775,
+   "iqr": 0.05232110619544983
+  },
+  "vocal_share": {
+   "median": 0.3009207248687744,
+   "iqr": 0.11798307299613953
+  },
+  "vocal_voiced": {
+   "median": 0.9262994569433669,
+   "iqr": 0.05243627832901998
+  },
+  "song_length": {
+   "median": 224.427,
+   "iqr": 25.45350000000002
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

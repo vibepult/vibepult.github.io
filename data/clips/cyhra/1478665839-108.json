@@ -1,0 +1,32 @@
+{
+ "id": "cyhra/1478665839-108",
+ "band": "cyhra",
+ "title": "Kings Tonight",
+ "source": "itunes",
+ "album": "No Halos in Hell",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 0.6014219560684673,
+  "tempo_var": 18.02166645502499,
+  "low_onset_rate": 3.240996096591185,
+  "lufs": -10.304133942565535,
+  "rms_dbfs": -9.728211612740074,
+  "crest": 9.728211402893066,
+  "centroid": 2679.7413826632796,
+  "flatness": 0.04284036159515381,
+  "sub100_share": 0.33973342180252075,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.709098219871521,
+  "clean_share": 0.0062063615205585725,
+  "minor_share": -0.05461768034420256,
+  "chord_rate": 1.971327522668865,
+  "repetitiveness": 0.9440834522247314,
+  "vocal_share": 0.13836559653282166,
+  "vocal_voiced": 0.843915343915344,
+  "song_length": 193.36
+ }
+}

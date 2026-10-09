@@ -1,0 +1,32 @@
+{
+ "id": "faith-no-more/184673815-108",
+ "band": "faith-no-more",
+ "title": "Ugly In the Morning",
+ "source": "itunes",
+ "album": "King for a Day, Fool for a Lifetime",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 5.865974987076354,
+  "tempo_var": 17.57086767081387,
+  "low_onset_rate": 7.199151120502798,
+  "lufs": -11.490711429257919,
+  "rms_dbfs": -10.795566184859647,
+  "crest": 10.795565605163574,
+  "centroid": 1930.201348220094,
+  "flatness": 0.012636003084480762,
+  "sub100_share": 0.35054972767829895,
+  "lowest_pitch": 166.88232421875,
+  "harmonic_share": 0.7900339961051941,
+  "clean_share": 0.2853828306264501,
+  "minor_share": 0.15481318901364033,
+  "chord_rate": 2.766340476859871,
+  "repetitiveness": 0.8698350787162781,
+  "vocal_share": 0.15591828525066376,
+  "vocal_voiced": 0.7817938420348058,
+  "song_length": 186.96
+ }
+}

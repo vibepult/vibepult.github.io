@@ -1,0 +1,32 @@
+{
+ "id": "athena/938230792-108",
+ "band": "athena",
+ "title": "Kalem",
+ "source": "itunes",
+ "album": "Altüst",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 5.699827669609384,
+  "tempo_var": 0.0,
+  "low_onset_rate": 2.599921393155158,
+  "lufs": -12.287945370679124,
+  "rms_dbfs": -12.566998044704832,
+  "crest": 12.566997528076172,
+  "centroid": 1758.2695807806258,
+  "flatness": 0.005902333650738001,
+  "sub100_share": 0.08224520832300186,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.8479797840118408,
+  "clean_share": 0.7648878576952823,
+  "minor_share": 0.2720895799103529,
+  "chord_rate": 0.9999697665981376,
+  "repetitiveness": 0.7013745307922363,
+  "vocal_share": 0.22609759867191315,
+  "vocal_voiced": 0.8571428571428571,
+  "song_length": 238.342
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "draconian/1184697256-105",
+ "band": "draconian",
+ "title": "Heaven Laid in Tears",
+ "source": "itunes",
+ "album": "Arcane Rain Fell",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.0,
+  "tempo_var": 0.5116967540846568,
+  "low_onset_rate": 4.1,
+  "lufs": -11.321369250394072,
+  "rms_dbfs": -10.869253789670923,
+  "crest": 10.869254112243652,
+  "centroid": 2110.4504644082185,
+  "flatness": 0.013810730539262295,
+  "sub100_share": 0.1799536496400833,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8170707821846008,
+  "clean_share": 0.33436532507739936,
+  "minor_share": 0.11541153937690896,
+  "chord_rate": 0.8,
+  "repetitiveness": 0.7785683870315552,
+  "vocal_share": 0.17035439610481262,
+  "vocal_voiced": 0.8539325842696629,
+  "song_length": 414.093
+ }
+}

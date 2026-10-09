@@ -1,0 +1,32 @@
+{
+ "id": "serenity/1698724541-106",
+ "band": "serenity",
+ "title": "Sun of Justice",
+ "source": "itunes",
+ "album": "Nemesis AD",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 5.19695175014504,
+  "tempo_var": 20.17730889266626,
+  "low_onset_rate": 6.362934514600657,
+  "lufs": -8.32671918643985,
+  "rms_dbfs": -7.048523144450131,
+  "crest": 7.048523426055908,
+  "centroid": 2480.993238659196,
+  "flatness": 0.03342822194099426,
+  "sub100_share": 0.5100207924842834,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.7589265704154968,
+  "clean_share": 0.013921113689095127,
+  "minor_share": -0.0898179523754879,
+  "chord_rate": 1.5324344904273834,
+  "repetitiveness": 0.9141207933425903,
+  "vocal_share": 0.16063405573368073,
+  "vocal_voiced": 0.4735987002437043,
+  "song_length": 250.64
+ }
+}

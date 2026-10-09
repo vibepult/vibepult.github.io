@@ -1,0 +1,32 @@
+{
+ "id": "on-thorns-i-lay/1695934971-103",
+ "band": "on-thorns-i-lay",
+ "title": "Crestfallen",
+ "source": "itunes",
+ "album": "On Thorns I Lay",
+ "year": 2023,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 2.6333333333333333,
+  "tempo_var": 24.039169610378313,
+  "low_onset_rate": 4.933333333333334,
+  "lufs": -12.916312089209075,
+  "rms_dbfs": -12.451440463080317,
+  "crest": 12.45143985748291,
+  "centroid": 1986.0665167871944,
+  "flatness": 0.012722449377179146,
+  "sub100_share": 0.19055084884166718,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8016810417175293,
+  "clean_share": 0.28792569659442724,
+  "minor_share": 0.2055753884687156,
+  "chord_rate": 0.6333333333333333,
+  "repetitiveness": 0.7629390954971313,
+  "vocal_share": 0.12789928913116455,
+  "vocal_voiced": 0.9813953488372092,
+  "song_length": 488.212
+ }
+}

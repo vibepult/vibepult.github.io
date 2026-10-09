@@ -1,0 +1,32 @@
+{
+ "id": "heidevolk/1183998300-104",
+ "band": "heidevolk",
+ "title": "Wapenbroeders",
+ "source": "itunes",
+ "album": "Batavi",
+ "year": 2012,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 73.828125,
+  "onset_rate": 5.4,
+  "tempo_var": 14.844964002306236,
+  "low_onset_rate": 8.233333333333333,
+  "lufs": -7.428110837604263,
+  "rms_dbfs": -7.008952444654319,
+  "crest": 7.008952617645264,
+  "centroid": 2425.4455025053967,
+  "flatness": 0.02606590837240219,
+  "sub100_share": 0.3557935953140259,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8211687803268433,
+  "clean_share": 0.023993808049535603,
+  "minor_share": 0.15879715492400287,
+  "chord_rate": 1.5333333333333334,
+  "repetitiveness": 0.8739455342292786,
+  "vocal_share": 0.12414079904556274,
+  "vocal_voiced": 0.3754556500607533,
+  "song_length": 240.133
+ }
+}

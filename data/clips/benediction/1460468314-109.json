@@ -1,0 +1,32 @@
+{
+ "id": "benediction/1460468314-109",
+ "band": "benediction",
+ "title": "Cold, Deathless, Unrepentant",
+ "source": "itunes",
+ "album": "Killing Music",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.011849633903894,
+  "tempo_var": 15.287785459651841,
+  "low_onset_rate": 4.811375648547738,
+  "lufs": -11.118122791816536,
+  "rms_dbfs": -10.249363706184589,
+  "crest": 10.249364852905273,
+  "centroid": 2836.6406966046875,
+  "flatness": 0.033460356295108795,
+  "sub100_share": 0.6213797926902771,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8336265087127686,
+  "clean_share": 0.16989914662529093,
+  "minor_share": 0.08374131552809594,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.9343287348747253,
+  "vocal_share": 0.015267976559698582,
+  "vocal_voiced": 0.4230769230769231,
+  "song_length": 186.307
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "arkona/1735491333-106",
+ "band": "arkona",
+ "title": "Русь",
+ "source": "itunes",
+ "album": "Возрождение (Primary Version)",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 75.99954044117646,
+  "onset_rate": 4.730844544366682,
+  "tempo_var": 23.26141538164893,
+  "low_onset_rate": 5.430476484026544,
+  "lufs": -10.039907243008878,
+  "rms_dbfs": -10.103183462263768,
+  "crest": 10.10318374633789,
+  "centroid": 2415.6636864408247,
+  "flatness": 0.02485288307070732,
+  "sub100_share": 0.16136184334754944,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.8569441437721252,
+  "clean_share": 0.0030935808197989174,
+  "minor_share": -0.048627950600287684,
+  "chord_rate": 0.9994741995140878,
+  "repetitiveness": 0.653479278087616,
+  "vocal_share": 1.0690819181036204e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 393.613
+ }
+}

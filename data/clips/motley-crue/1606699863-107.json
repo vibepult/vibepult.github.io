@@ -1,0 +1,32 @@
+{
+ "id": "motley-crue/1606699863-107",
+ "band": "motley-crue",
+ "title": "Hammered",
+ "source": "itunes",
+ "album": "Mötley Crüe (Bonus Track Version)",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.999939532282203,
+  "tempo_var": 4.158928228098169,
+  "low_onset_rate": 7.09989266980091,
+  "lufs": -9.560254573827592,
+  "rms_dbfs": -9.804175443299167,
+  "crest": 9.80417537689209,
+  "centroid": 2955.2204179764185,
+  "flatness": 0.0529300719499588,
+  "sub100_share": 0.35144248604774475,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7867611646652222,
+  "clean_share": 0.04176334106728538,
+  "minor_share": 0.30171945868857764,
+  "chord_rate": 1.9333041072697315,
+  "repetitiveness": 0.8055496215820312,
+  "vocal_share": 0.12261137366294861,
+  "vocal_voiced": 0.7213656387665198,
+  "song_length": 315.573
+ }
+}

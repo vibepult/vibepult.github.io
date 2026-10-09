@@ -1,0 +1,32 @@
+{
+ "id": "aeon-zen/1541479708-105",
+ "band": "aeon-zen",
+ "title": "Warning",
+ "source": "itunes",
+ "album": "Enigma",
+ "year": 2012,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.474882412840033,
+  "tempo_var": 2.7964988474299854,
+  "low_onset_rate": 3.641944067303496,
+  "lufs": -17.26479331848334,
+  "rms_dbfs": -16.37930442237003,
+  "crest": 15.48556900024414,
+  "centroid": 870.2845596007307,
+  "flatness": 0.0004503466479945928,
+  "sub100_share": 0.030596939846873283,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.9731996655464172,
+  "clean_share": 0.9984484096198604,
+  "minor_share": -0.18149922265612406,
+  "chord_rate": 0.7684836105319304,
+  "repetitiveness": 0.6732508540153503,
+  "vocal_share": 1.8696667893891572e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 413.533
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "dissection/1632020898-104",
+ "band": "dissection",
+ "title": "Xeper-I-Set",
+ "source": "itunes",
+ "album": "Reinkaos (Instrumental)",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 2.840048125878873,
+  "tempo_var": 15.286709905244878,
+  "low_onset_rate": 6.214693546040828,
+  "lufs": -14.031875074567303,
+  "rms_dbfs": -13.13401169019809,
+  "crest": 13.134012222290039,
+  "centroid": 2180.96909396826,
+  "flatness": 0.014539220370352268,
+  "sub100_share": 0.2762505114078522,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6477991938591003,
+  "clean_share": 0.13498836307214895,
+  "minor_share": 0.07284662921025342,
+  "chord_rate": 2.205213838917713,
+  "repetitiveness": 0.9576243162155151,
+  "vocal_share": 1.1948593510169303e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 185.051
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "theatres-des-vampires/1798547554-106",
+ "band": "theatres-des-vampires",
+ "title": "When the Wolves Cry",
+ "source": "itunes",
+ "album": "The Vampire Chronicles",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.866666666666666,
+  "tempo_var": 4.32167922659244,
+  "low_onset_rate": 5.233333333333333,
+  "lufs": -9.969348039055431,
+  "rms_dbfs": -9.67105461092032,
+  "crest": 9.67105484008789,
+  "centroid": 2807.7691188909803,
+  "flatness": 0.03863299638032913,
+  "sub100_share": 0.11143171042203903,
+  "lowest_pitch": 121.124267578125,
+  "harmonic_share": 0.7351020574569702,
+  "clean_share": 0.009287925696594427,
+  "minor_share": 0.10645655207367899,
+  "chord_rate": 1.2666666666666666,
+  "repetitiveness": 0.704413890838623,
+  "vocal_share": 0.14200671017169952,
+  "vocal_voiced": 0.3968253968253968,
+  "song_length": 297.36
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "the-crown/1758804550-106",
+ "band": "the-crown",
+ "title": "The Night Is Now",
+ "source": "itunes",
+ "album": "Crown of Thorns",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 5.566582515759399,
+  "tempo_var": 13.790399990733428,
+  "low_onset_rate": 6.866562863751115,
+  "lufs": -8.350353558082693,
+  "rms_dbfs": -7.2451415198841085,
+  "crest": 7.24514102935791,
+  "centroid": 2530.7313218733616,
+  "flatness": 0.036591142416000366,
+  "sub100_share": 0.48457860946655273,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.7289084196090698,
+  "clean_share": 0.0317092034029389,
+  "minor_share": 0.005759078862045852,
+  "chord_rate": 2.1666339133195267,
+  "repetitiveness": 0.8486829996109009,
+  "vocal_share": 0.12399972230195999,
+  "vocal_voiced": 0.076007326007326,
+  "song_length": 190.0
+ }
+}

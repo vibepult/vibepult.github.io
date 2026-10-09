@@ -1,0 +1,32 @@
+{
+ "id": "circus-maximus/1606385940-104",
+ "band": "circus-maximus",
+ "title": "Pages",
+ "source": "itunes",
+ "album": "Havoc",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.474882412840033,
+  "tempo_var": 6.221210458930124,
+  "low_onset_rate": 2.606161809630025,
+  "lufs": -11.50323040677192,
+  "rms_dbfs": -10.16837824084259,
+  "crest": 10.168378829956055,
+  "centroid": 2210.831508469071,
+  "flatness": 0.014713500626385212,
+  "sub100_share": 0.503417432308197,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8420326709747314,
+  "clean_share": 0.30799069045771915,
+  "minor_share": -0.035654137443188794,
+  "chord_rate": 0.8353082723173156,
+  "repetitiveness": 0.8861705660820007,
+  "vocal_share": 0.13108433783054352,
+  "vocal_voiced": 0.901840490797546,
+  "song_length": 300.427
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "einherjer/1750746093-107",
+ "band": "einherjer",
+ "title": "Slaget Ved Hafrsjord",
+ "source": "itunes",
+ "album": "Dragons of the North XX",
+ "year": 2016,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.866593097610013,
+  "tempo_var": 22.79964764027742,
+  "low_onset_rate": 6.133240616166045,
+  "lufs": -9.022155485941191,
+  "rms_dbfs": -8.447764264502469,
+  "crest": 8.447763442993164,
+  "centroid": 2036.6564047259062,
+  "flatness": 0.016158508136868477,
+  "sub100_share": 0.33471164107322693,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7180560827255249,
+  "clean_share": 0.12838360402165508,
+  "minor_share": 0.18733245797687625,
+  "chord_rate": 1.4999773246058261,
+  "repetitiveness": 0.8803712129592896,
+  "vocal_share": 0.06864512711763382,
+  "vocal_voiced": 0.13992537313432835,
+  "song_length": 372.162
+ }
+}

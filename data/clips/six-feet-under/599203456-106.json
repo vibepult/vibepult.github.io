@@ -1,0 +1,32 @@
+{
+ "id": "six-feet-under/599203456-106",
+ "band": "six-feet-under",
+ "title": "Fragment",
+ "source": "itunes",
+ "album": "Unborn",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.610901663191583,
+  "tempo_var": 11.084305490737476,
+  "low_onset_rate": 7.851897759782767,
+  "lufs": -7.70104436376674,
+  "rms_dbfs": -7.380513292684519,
+  "crest": 7.3805131912231445,
+  "centroid": 2515.514405727517,
+  "flatness": 0.03806516155600548,
+  "sub100_share": 0.23888157308101654,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7109395265579224,
+  "clean_share": 0.007757951900698216,
+  "minor_share": 0.06637767802368322,
+  "chord_rate": 1.3030809048150125,
+  "repetitiveness": 0.7882565259933472,
+  "vocal_share": 0.1889607161283493,
+  "vocal_voiced": 0.00887812752219532,
+  "song_length": 175.987
+ }
+}

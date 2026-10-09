@@ -1,0 +1,32 @@
+{
+ "id": "a-sound-of-thunder/634464279-105",
+ "band": "a-sound-of-thunder",
+ "title": "A Sound of Thunder",
+ "source": "itunes",
+ "album": "Out of the Darkness",
+ "year": 2012,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 5.4462099355088975,
+  "tempo_var": 24.493578296987874,
+  "low_onset_rate": 7.484362119963148,
+  "lufs": -8.068987755579258,
+  "rms_dbfs": -7.716742658920629,
+  "crest": 7.716742515563965,
+  "centroid": 2546.028305416158,
+  "flatness": 0.030457597225904465,
+  "sub100_share": 0.31930047273635864,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.7792688012123108,
+  "clean_share": 0.0,
+  "minor_share": 0.06606424243444531,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.8124374151229858,
+  "vocal_share": 0.23075616359710693,
+  "vocal_voiced": 0.7477876106194691,
+  "song_length": 285.867
+ }
+}

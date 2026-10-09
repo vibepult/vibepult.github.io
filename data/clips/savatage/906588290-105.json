@@ -1,0 +1,32 @@
+{
+ "id": "savatage/906588290-105",
+ "band": "savatage",
+ "title": "The Edge of Midnight",
+ "source": "itunes",
+ "album": "Fight For the Rock",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 2.0047398535615577,
+  "tempo_var": 24.168373810341315,
+  "low_onset_rate": 3.0739344421277215,
+  "lufs": -18.14839102639303,
+  "rms_dbfs": -18.879847525243456,
+  "crest": 18.607637405395508,
+  "centroid": 2285.0822466947693,
+  "flatness": 0.021160855889320374,
+  "sub100_share": 0.1659403145313263,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.6486517786979675,
+  "clean_share": 0.28316524437548485,
+  "minor_share": -0.1415441819984059,
+  "chord_rate": 1.336493235707705,
+  "repetitiveness": 0.8510698080062866,
+  "vocal_share": 0.10147448629140854,
+  "vocal_voiced": 0.04011461318051576,
+  "song_length": 285.707
+ }
+}

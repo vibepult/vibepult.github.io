@@ -1,0 +1,32 @@
+{
+ "id": "wake/466601020-106",
+ "band": "wake",
+ "title": "Dire",
+ "source": "itunes",
+ "album": "Leeches",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 4.5106646705135045,
+  "tempo_var": 12.224366300664066,
+  "low_onset_rate": 6.214693546040828,
+  "lufs": -9.804375092921031,
+  "rms_dbfs": -8.347886400244647,
+  "crest": 8.347886085510254,
+  "centroid": 2850.370575040814,
+  "flatness": 0.03734913468360901,
+  "sub100_share": 0.5158101916313171,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7643742561340332,
+  "clean_share": 0.004654771140418929,
+  "minor_share": 0.11828729080418653,
+  "chord_rate": 2.138389177132328,
+  "repetitiveness": 0.9327152371406555,
+  "vocal_share": 0.06662935763597488,
+  "vocal_voiced": 0.23814655172413793,
+  "song_length": 163.528
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "my-material-season/1493056751-103",
+ "band": "my-material-season",
+ "title": "My Material Season",
+ "source": "itunes",
+ "album": "Mind of You Fragile in Vitroform",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.2744084274838774,
+  "tempo_var": 21.717608394984104,
+  "low_onset_rate": 2.1718015080250206,
+  "lufs": -11.816129781344406,
+  "rms_dbfs": -11.41915729785541,
+  "crest": 11.419157028198242,
+  "centroid": 2325.190042127605,
+  "flatness": 0.028563544154167175,
+  "sub100_share": 0.26600658893585205,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8787319660186768,
+  "clean_share": 0.33669511249030254,
+  "minor_share": -0.008015035122318825,
+  "chord_rate": 1.336493235707705,
+  "repetitiveness": 0.8402786254882812,
+  "vocal_share": 6.38256835827633e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 335.2
+ }
+}

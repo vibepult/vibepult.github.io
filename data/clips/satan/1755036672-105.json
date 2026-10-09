@@ -1,0 +1,32 @@
+{
+ "id": "satan/1755036672-105",
+ "band": "satan",
+ "title": "Martyrdom",
+ "source": "itunes",
+ "album": "Songs in Crimson",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.733261779867274,
+  "tempo_var": 2.786196095505515,
+  "low_onset_rate": 5.866577980680565,
+  "lufs": -6.850888457100249,
+  "rms_dbfs": -6.449473873824925,
+  "crest": 6.4494733810424805,
+  "centroid": 2473.4551328404877,
+  "flatness": 0.030492931604385376,
+  "sub100_share": 0.31154558062553406,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7634470462799072,
+  "clean_share": 0.005413766434648105,
+  "minor_share": 0.2440971240439621,
+  "chord_rate": 1.6333086423485663,
+  "repetitiveness": 0.7961820363998413,
+  "vocal_share": 0.25838831067085266,
+  "vocal_voiced": 0.8718929254302104,
+  "song_length": 234.76
+ }
+}

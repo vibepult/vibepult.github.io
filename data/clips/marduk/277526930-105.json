@@ -1,0 +1,32 @@
+{
+ "id": "marduk/277526930-105",
+ "band": "marduk",
+ "title": "Beast of Prey",
+ "source": "itunes",
+ "album": "Panzer Division Marduk",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 0.8687206032100082,
+  "tempo_var": 5.579511483967746,
+  "low_onset_rate": 2.7063988023081027,
+  "lufs": -7.187499021052112,
+  "rms_dbfs": -8.240972179830488,
+  "crest": 8.240972518920898,
+  "centroid": 2632.090715495431,
+  "flatness": 0.08184448629617691,
+  "sub100_share": 0.21558986604213715,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6453666090965271,
+  "clean_share": 0.35531419705197825,
+  "minor_share": 0.1448459994446255,
+  "chord_rate": 2.7063988023081027,
+  "repetitiveness": 0.9793140292167664,
+  "vocal_share": 0.026916153728961945,
+  "vocal_voiced": 0.8299319727891157,
+  "song_length": 244.213
+ }
+}

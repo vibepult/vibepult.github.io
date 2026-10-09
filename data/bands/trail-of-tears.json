@@ -1,0 +1,127 @@
+{
+ "slug": "trail-of-tears",
+ "name": "Trail of Tears",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 47337927,
+  "deezer": 3220,
+  "spotify": "76xPyUXPsTtSfap214AjLd"
+ },
+ "metadata": {
+  "formed": 1997,
+  "split": null,
+  "country": "NO",
+  "status": "active",
+  "members": 6,
+  "past_members": 11,
+  "full_lengths": 7,
+  "genre": "Extreme Symphonic/Gothic Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 3027,
+  "themes": "Despair, Violence, Mental decline",
+  "release_year": 2006
+ },
+ "partial": false,
+ "clips": [
+  "trail-of-tears/1184712712-105",
+  "trail-of-tears/1183625196-105",
+  "trail-of-tears/1184704315-105",
+  "trail-of-tears/1183980037-105",
+  "trail-of-tears/1184090195-106",
+  "trail-of-tears/1222127203-106",
+  "trail-of-tears/1184712712-107",
+  "trail-of-tears/1183625196-106",
+  "trail-of-tears/1184704315-106",
+  "trail-of-tears/1183980037-106",
+  "trail-of-tears/1184090195-105",
+  "trail-of-tears/1222127203-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 136.376953125,
+   "iqr": 62.884471962950045
+  },
+  "onset_rate": {
+   "median": 4.566666666666666,
+   "iqr": 1.583333333333334
+  },
+  "tempo_var": {
+   "median": 16.11377145656147,
+   "iqr": 7.5096698382885005
+  },
+  "low_onset_rate": {
+   "median": 6.716666666666667,
+   "iqr": 2.3995646042444516
+  },
+  "lufs": {
+   "median": -9.59306781671576,
+   "iqr": 3.8425671846572182
+  },
+  "rms_dbfs": {
+   "median": -8.079915870358116,
+   "iqr": 3.9535161438486153
+  },
+  "crest": {
+   "median": 8.079915523529053,
+   "iqr": 3.9535166025161743
+  },
+  "centroid": {
+   "median": 2256.211980886812,
+   "iqr": 273.14173164529166
+  },
+  "flatness": {
+   "median": 0.01989046111702919,
+   "iqr": 0.012786301551386714
+  },
+  "sub100_share": {
+   "median": 0.42919260263442993,
+   "iqr": 0.08112332969903946
+  },
+  "lowest_pitch": {
+   "median": 52.4871826171875,
+   "iqr": 24.224853515625
+  },
+  "harmonic_share": {
+   "median": 0.8417219817638397,
+   "iqr": 0.05173540115356445
+  },
+  "clean_share": {
+   "median": 0.06548534035311891,
+   "iqr": 0.3105650154798762
+  },
+  "minor_share": {
+   "median": 0.04937400809670511,
+   "iqr": 0.17795749487340218
+  },
+  "chord_rate": {
+   "median": 1.267970126396095,
+   "iqr": 0.8083333333333333
+  },
+  "repetitiveness": {
+   "median": 0.8508856892585754,
+   "iqr": 0.10416224598884583
+  },
+  "vocal_share": {
+   "median": 0.09107386693358421,
+   "iqr": 0.06396464630961418
+  },
+  "vocal_voiced": {
+   "median": 0.1982114126998103,
+   "iqr": 0.5516890659569023
+  },
+  "song_length": {
+   "median": 273.0935,
+   "iqr": 52.17700000000002
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

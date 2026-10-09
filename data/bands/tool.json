@@ -1,0 +1,127 @@
+{
+ "slug": "tool",
+ "name": "Tool",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 140870416,
+  "deezer": 689,
+  "spotify": "2yEwvVSSSUkcLeSTNyHKh8"
+ },
+ "metadata": {
+  "formed": 1990,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 4,
+  "past_members": 1,
+  "full_lengths": 5,
+  "genre": "Progressive Metal/Rock, Alternative Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 540828,
+  "themes": "Philosophy, Psychology, Spirituality, Evolution, Transcendence, Sarcasm",
+  "release_year": 1998
+ },
+ "partial": false,
+ "clips": [
+  "tool/1474185287-105",
+  "tool/1474185335-109",
+  "tool/1474185412-108",
+  "tool/1474250650-105",
+  "tool/1475686696-105",
+  "tool/1474185287-106",
+  "tool/1474185335-107",
+  "tool/1474185412-107",
+  "tool/1474250650-107",
+  "tool/1475686696-106",
+  "tool/1474185287-104",
+  "tool/1474185335-110"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 135.99917763157896,
+   "iqr": 31.327191521139696
+  },
+  "onset_rate": {
+   "median": 3.3978477729148127,
+   "iqr": 1.2492087400422105
+  },
+  "tempo_var": {
+   "median": 7.750932146748554,
+   "iqr": 15.745146640143924
+  },
+  "low_onset_rate": {
+   "median": 5.063459426304426,
+   "iqr": 1.565674954186238
+  },
+  "lufs": {
+   "median": -13.058788165354255,
+   "iqr": 3.1431286355609984
+  },
+  "rms_dbfs": {
+   "median": -11.48588430313982,
+   "iqr": 2.6219332731616163
+  },
+  "crest": {
+   "median": 11.485883712768555,
+   "iqr": 2.3694205284118652
+  },
+  "centroid": {
+   "median": 2325.6749455404324,
+   "iqr": 842.4945404918913
+  },
+  "flatness": {
+   "median": 0.016679893247783184,
+   "iqr": 0.02580997277982533
+  },
+  "sub100_share": {
+   "median": 0.4531157910823822,
+   "iqr": 0.27748315036296844
+  },
+  "lowest_pitch": {
+   "median": 55.1788330078125,
+   "iqr": 33.6456298828125
+  },
+  "harmonic_share": {
+   "median": 0.8015542924404144,
+   "iqr": 0.10878346860408783
+  },
+  "clean_share": {
+   "median": 0.285769528228925,
+   "iqr": 0.5288089713843774
+  },
+  "minor_share": {
+   "median": 0.04488458320119143,
+   "iqr": 0.11786981628869893
+  },
+  "chord_rate": {
+   "median": 1.8987972848641599,
+   "iqr": 0.6579166030888974
+  },
+  "repetitiveness": {
+   "median": 0.8872545063495636,
+   "iqr": 0.05324959754943848
+  },
+  "vocal_share": {
+   "median": 0.0753750279545784,
+   "iqr": 0.06422198843210936
+  },
+  "vocal_voiced": {
+   "median": 0.9048263012381297,
+   "iqr": 0.2633356202106205
+  },
+  "song_length": {
+   "median": 331.14,
+   "iqr": 132.9755
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.5,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

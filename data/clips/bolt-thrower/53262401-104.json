@@ -1,0 +1,32 @@
+{
+ "id": "bolt-thrower/53262401-104",
+ "band": "bolt-thrower",
+ "title": "Mercenary",
+ "source": "itunes",
+ "album": "Mercenary",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 7.399888134722076,
+  "tempo_var": 19.752782676633213,
+  "low_onset_rate": 7.999879064564406,
+  "lufs": -9.654163565356079,
+  "rms_dbfs": -9.106919348291303,
+  "crest": 9.106919288635254,
+  "centroid": 2199.2178210805505,
+  "flatness": 0.009554630145430565,
+  "sub100_share": 0.3613094985485077,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8127845525741577,
+  "clean_share": 0.3031709203402939,
+  "minor_share": -0.05148397319515413,
+  "chord_rate": 1.4999773246058261,
+  "repetitiveness": 0.8843244910240173,
+  "vocal_share": 9.78435309662018e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 354.6
+ }
+}

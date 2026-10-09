@@ -1,0 +1,32 @@
+{
+ "id": "charon/1660642811-107",
+ "band": "charon",
+ "title": "Drive",
+ "source": "itunes",
+ "album": "The Dying Daylights",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 67.99958881578948,
+  "onset_rate": 2.606161809630025,
+  "tempo_var": 13.932981680002888,
+  "low_onset_rate": 3.842418052659652,
+  "lufs": -7.874640437260596,
+  "rms_dbfs": -7.635635681741628,
+  "crest": 7.6356353759765625,
+  "centroid": 2549.196423439575,
+  "flatness": 0.03341212868690491,
+  "sub100_share": 0.41040077805519104,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7994888424873352,
+  "clean_share": 0.07757951900698215,
+  "minor_share": 0.07332171855573444,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.8635141253471375,
+  "vocal_share": 0.17112617194652557,
+  "vocal_voiced": 0.42857142857142855,
+  "song_length": 216.373
+ }
+}

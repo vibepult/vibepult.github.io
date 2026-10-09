@@ -1,0 +1,32 @@
+{
+ "id": "tiamat/1045638604-108",
+ "band": "tiamat",
+ "title": "Light in Extension",
+ "source": "itunes",
+ "album": "Prey",
+ "year": 2003,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.7755933908742665,
+  "tempo_var": 3.711138998297782,
+  "low_onset_rate": 4.209953692479271,
+  "lufs": -9.584994816818131,
+  "rms_dbfs": -9.005668927567141,
+  "crest": 9.005669593811035,
+  "centroid": 2355.8002014182466,
+  "flatness": 0.025886891409754753,
+  "sub100_share": 0.22225183248519897,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7690691351890564,
+  "clean_share": 0.08688906128782002,
+  "minor_share": 0.15743361733131123,
+  "chord_rate": 0.801895941424623,
+  "repetitiveness": 0.6788800358772278,
+  "vocal_share": 0.1849183738231659,
+  "vocal_voiced": 0.6104265402843602,
+  "song_length": 286.947
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "arkona/1306228692-104",
+ "band": "arkona",
+ "title": "Rebionok bez imeni",
+ "source": "itunes",
+ "album": "Khram",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 5.666666666666667,
+  "tempo_var": 2.0406913777725166,
+  "low_onset_rate": 8.0,
+  "lufs": -11.609367286833404,
+  "rms_dbfs": -11.570417314787885,
+  "crest": 11.570417404174805,
+  "centroid": 1693.6872773221276,
+  "flatness": 0.003365275915712118,
+  "sub100_share": 0.00645610224455595,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.9330163598060608,
+  "clean_share": 0.6996904024767802,
+  "minor_share": -0.017334429429640696,
+  "chord_rate": 0.6,
+  "repetitiveness": 0.9311928749084473,
+  "vocal_share": 7.789562346260936e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 718.187
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "kawir/1669183171-104",
+ "band": "kawir",
+ "title": "Korivantes",
+ "source": "itunes",
+ "album": "Epoptia",
+ "year": 1999,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.3412330892692625,
+  "tempo_var": 6.080221147327843,
+  "low_onset_rate": 9.322040319061243,
+  "lufs": -13.044132338309579,
+  "rms_dbfs": -12.261691944490599,
+  "crest": 12.261691093444824,
+  "centroid": 799.5996105666884,
+  "flatness": 0.001082333386875689,
+  "sub100_share": 0.01677005924284458,
+  "lowest_pitch": 156.11572265625,
+  "harmonic_share": 0.9502776861190796,
+  "clean_share": 0.9371605896043445,
+  "minor_share": 0.3631126349576249,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.8106308579444885,
+  "vocal_share": 0.5207892060279846,
+  "vocal_voiced": 0.46831955922865015,
+  "song_length": 543.653
+ }
+}

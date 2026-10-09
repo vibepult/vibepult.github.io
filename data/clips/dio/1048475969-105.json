@@ -1,0 +1,32 @@
+{
+ "id": "dio/1048475969-105",
+ "band": "dio",
+ "title": "Don't Talk to Strangers",
+ "source": "itunes",
+ "album": "Holy Diver",
+ "year": 1983,
+ "itunes_year": 1983,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.663916965054616,
+  "tempo_var": 3.201793208251315,
+  "low_onset_rate": 5.496759280242941,
+  "lufs": -8.062734775260052,
+  "rms_dbfs": -9.085633096430819,
+  "crest": 9.08563232421875,
+  "centroid": 2807.914390358725,
+  "flatness": 0.055706556886434555,
+  "sub100_share": 0.07698517292737961,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.6016695499420166,
+  "clean_share": 0.0007733952049497294,
+  "minor_share": -0.0019650724619255655,
+  "chord_rate": 1.332547704301319,
+  "repetitiveness": 0.9090420007705688,
+  "vocal_share": 0.2704067528247833,
+  "vocal_voiced": 0.691358024691358,
+  "song_length": 294.733
+ }
+}

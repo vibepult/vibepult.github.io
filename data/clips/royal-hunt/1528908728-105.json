@@ -1,0 +1,32 @@
+{
+ "id": "royal-hunt/1528908728-105",
+ "band": "royal-hunt",
+ "title": "Until the Day",
+ "source": "itunes",
+ "album": "Devil's Dozen",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 2.8734604567715656,
+  "tempo_var": 4.854467339618056,
+  "low_onset_rate": 6.448579862289677,
+  "lufs": -10.981126083506533,
+  "rms_dbfs": -9.804469172142424,
+  "crest": 9.804469108581543,
+  "centroid": 1603.5877229331513,
+  "flatness": 0.0051866574212908745,
+  "sub100_share": 0.44179925322532654,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.9175822734832764,
+  "clean_share": 0.6408068269976727,
+  "minor_share": 0.2357197085277143,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.7384851574897766,
+  "vocal_share": 0.15269529819488525,
+  "vocal_voiced": 0.9148387096774193,
+  "song_length": 393.917
+ }
+}

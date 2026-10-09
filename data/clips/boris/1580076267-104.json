@@ -1,0 +1,32 @@
+{
+ "id": "boris/1580076267-104",
+ "band": "boris",
+ "title": "Heavy Rain",
+ "source": "itunes",
+ "album": "Noise",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 1.3030809048150125,
+  "tempo_var": 5.24028160030858,
+  "low_onset_rate": 1.5035548901711682,
+  "lufs": -6.80815883962976,
+  "rms_dbfs": -5.414398705995937,
+  "crest": 5.414399147033691,
+  "centroid": 1854.0537845473332,
+  "flatness": 0.009915545582771301,
+  "sub100_share": 0.4216788113117218,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.9063959121704102,
+  "clean_share": 0.4204809930178433,
+  "minor_share": -0.019934497714241606,
+  "chord_rate": 1.0023699267807789,
+  "repetitiveness": 0.6789671778678894,
+  "vocal_share": 0.031670670956373215,
+  "vocal_voiced": 0.8940677966101694,
+  "song_length": 372.2
+ }
+}

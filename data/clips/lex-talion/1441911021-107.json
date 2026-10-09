@@ -1,0 +1,32 @@
+{
+ "id": "lex-talion/1441911021-107",
+ "band": "lex-talion",
+ "title": "Flesh of Gods",
+ "source": "itunes",
+ "album": "Sons of Chaos",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.544077001406197,
+  "tempo_var": 21.905251568255878,
+  "low_onset_rate": 7.3507127963923775,
+  "lufs": -6.818300754699254,
+  "rms_dbfs": -6.628824029118777,
+  "crest": 6.628823757171631,
+  "centroid": 2475.9801029136115,
+  "flatness": 0.031090110540390015,
+  "sub100_share": 0.3608569800853729,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7811574339866638,
+  "clean_share": 0.055857253685027156,
+  "minor_share": -0.09761651279166861,
+  "chord_rate": 1.971327522668865,
+  "repetitiveness": 0.8431762456893921,
+  "vocal_share": 0.18669719994068146,
+  "vocal_voiced": 0.47433035714285715,
+  "song_length": 147.044
+ }
+}

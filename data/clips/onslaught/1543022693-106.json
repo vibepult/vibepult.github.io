@@ -1,0 +1,32 @@
+{
+ "id": "onslaught/1543022693-106",
+ "band": "onslaught",
+ "title": "Angels of Death",
+ "source": "itunes",
+ "album": "Power from Hell",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.312560611938127,
+  "tempo_var": 15.2371989832171,
+  "low_onset_rate": 7.484362119963148,
+  "lufs": -9.811706818771142,
+  "rms_dbfs": -10.348319116383536,
+  "crest": 10.348319053649902,
+  "centroid": 2742.6912243685492,
+  "flatness": 0.03583930432796478,
+  "sub100_share": 0.0606418214738369,
+  "lowest_pitch": 107.666015625,
+  "harmonic_share": 0.7519461512565613,
+  "clean_share": 0.0,
+  "minor_share": -0.20199152433503753,
+  "chord_rate": 2.138389177132328,
+  "repetitiveness": 0.9190351963043213,
+  "vocal_share": 0.04860808700323105,
+  "vocal_voiced": 0.16827852998065765,
+  "song_length": 201.4
+ }
+}

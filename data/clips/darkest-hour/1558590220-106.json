@@ -1,0 +1,32 @@
+{
+ "id": "darkest-hour/1558590220-106",
+ "band": "darkest-hour",
+ "title": "Blessed Infection",
+ "source": "itunes",
+ "album": "The Eternal Return",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 7.150238811036222,
+  "tempo_var": 8.183153885489421,
+  "low_onset_rate": 6.715878509431217,
+  "lufs": -9.539810760597735,
+  "rms_dbfs": -9.062660793491114,
+  "crest": 9.062661170959473,
+  "centroid": 2988.355607254217,
+  "flatness": 0.05617467686533928,
+  "sub100_share": 0.30280303955078125,
+  "lowest_pitch": 131.890869140625,
+  "harmonic_share": 0.5731452703475952,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.15348307059285443,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.8789263367652893,
+  "vocal_share": 0.15078222751617432,
+  "vocal_voiced": 0.236328125,
+  "song_length": 205.16
+ }
+}

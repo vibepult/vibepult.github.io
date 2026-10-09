@@ -1,0 +1,32 @@
+{
+ "id": "belphegor/1460470190-105",
+ "band": "belphegor",
+ "title": "Pest Teufel Apokalypse",
+ "source": "itunes",
+ "album": "Pestapokalypse VI",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 4.0428920380158075,
+  "tempo_var": 1.9100415581462407,
+  "low_onset_rate": 4.243366023371963,
+  "lufs": -6.169189936900104,
+  "rms_dbfs": -5.810691051134277,
+  "crest": 5.810690879821777,
+  "centroid": 3049.0731429908415,
+  "flatness": 0.067827969789505,
+  "sub100_share": 0.43514442443847656,
+  "lowest_pitch": 29.608154296875,
+  "harmonic_share": 0.7169904708862305,
+  "clean_share": 0.012412723041117145,
+  "minor_share": 0.06825318077171938,
+  "chord_rate": 2.6395741405227175,
+  "repetitiveness": 0.9395896196365356,
+  "vocal_share": 0.012609037570655346,
+  "vocal_voiced": 0.2857142857142857,
+  "song_length": 303.386
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "leatherwolf/1443815795-104",
+ "band": "leatherwolf",
+ "title": "Cry Out",
+ "source": "itunes",
+ "album": "Leatherwolf",
+ "year": 1984,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.2332844552614475,
+  "tempo_var": 10.885267949089155,
+  "low_onset_rate": 5.099922903659809,
+  "lufs": -20.810159747399734,
+  "rms_dbfs": -20.61067584799954,
+  "crest": 17.305086135864258,
+  "centroid": 2367.4398753413943,
+  "flatness": 0.01707078143954277,
+  "sub100_share": 0.01198782492429018,
+  "lowest_pitch": 145.34912109375,
+  "harmonic_share": 0.9187037348747253,
+  "clean_share": 0.2211910286156226,
+  "minor_share": -0.118342379827583,
+  "chord_rate": 1.2666475185560309,
+  "repetitiveness": 0.7127698659896851,
+  "vocal_share": 0.6229351162910461,
+  "vocal_voiced": 0.8288677614520311,
+  "song_length": 303.973
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "primal-fear/1776761349-107",
+ "band": "primal-fear",
+ "title": "Where Angels Die",
+ "source": "itunes",
+ "album": "Unbreakable",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.6666666666666665,
+  "tempo_var": 2.2061102973188818,
+  "low_onset_rate": 4.9,
+  "lufs": -8.799006541816244,
+  "rms_dbfs": -8.266053711629262,
+  "crest": 8.266053199768066,
+  "centroid": 2596.8342738582433,
+  "flatness": 0.02572214975953102,
+  "sub100_share": 0.48762744665145874,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8534055948257446,
+  "clean_share": 0.16718266253869968,
+  "minor_share": 0.05923403469837296,
+  "chord_rate": 1.2,
+  "repetitiveness": 0.698266863822937,
+  "vocal_share": 0.03373626247048378,
+  "vocal_voiced": 0.7111111111111111,
+  "song_length": 489.4
+ }
+}

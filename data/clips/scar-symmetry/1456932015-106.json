@@ -1,0 +1,32 @@
+{
+ "id": "scar-symmetry/1456932015-106",
+ "band": "scar-symmetry",
+ "title": "Dreaming 24/7",
+ "source": "itunes",
+ "album": "Pitch Black Progress",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 1.6706165446346313,
+  "tempo_var": 2.3678973619012407,
+  "low_onset_rate": 4.343603016050041,
+  "lufs": -8.350635172784997,
+  "rms_dbfs": -8.286555475933547,
+  "crest": 8.286555290222168,
+  "centroid": 2452.793139988749,
+  "flatness": 0.030959781259298325,
+  "sub100_share": 0.26690351963043213,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7572948336601257,
+  "clean_share": 0.10550814584949574,
+  "minor_share": 0.05411151090396049,
+  "chord_rate": 2.071564515346943,
+  "repetitiveness": 0.8908131718635559,
+  "vocal_share": 0.13718225061893463,
+  "vocal_voiced": 0.7836065573770492,
+  "song_length": 250.906
+ }
+}

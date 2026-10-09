@@ -1,0 +1,32 @@
+{
+ "id": "annotations-of-an-autopsy/1456960883-109",
+ "band": "annotations-of-an-autopsy",
+ "title": "Portrait of Souls",
+ "source": "itunes",
+ "album": "The Reign of Darkness",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 0.8353082723173156,
+  "tempo_var": 11.298700919612054,
+  "low_onset_rate": 0.06682466178538525,
+  "lufs": -7.75772280497505,
+  "rms_dbfs": -6.209480062116349,
+  "crest": 6.209479331970215,
+  "centroid": 2466.3400307045104,
+  "flatness": 0.029888806864619255,
+  "sub100_share": 0.5886295437812805,
+  "lowest_pitch": 26.91650390625,
+  "harmonic_share": 0.8102263808250427,
+  "clean_share": 0.05818463925523662,
+  "minor_share": -0.12523880515392016,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.9370129108428955,
+  "vocal_share": 0.07716681808233261,
+  "vocal_voiced": 0.25570228091236497,
+  "song_length": 214.093
+ }
+}

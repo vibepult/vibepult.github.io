@@ -1,0 +1,32 @@
+{
+ "id": "iron-savior/1436188900-106",
+ "band": "iron-savior",
+ "title": "Break It Up",
+ "source": "itunes",
+ "album": "Iron Savior",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.9736974494496438,
+  "tempo_var": 10.198429078087592,
+  "low_onset_rate": 2.67298647141541,
+  "lufs": -22.022978963894964,
+  "rms_dbfs": -21.655987128135248,
+  "crest": 17.80088233947754,
+  "centroid": 2180.0783137339995,
+  "flatness": 0.015345393680036068,
+  "sub100_share": 0.3098222613334656,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.8514813780784607,
+  "clean_share": 0.41039565554693563,
+  "minor_share": 0.3206436264479643,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.5684881806373596,
+  "vocal_share": 0.21296311914920807,
+  "vocal_voiced": 0.8254156769596199,
+  "song_length": 301.507
+ }
+}

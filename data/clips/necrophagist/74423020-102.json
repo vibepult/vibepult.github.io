@@ -1,0 +1,32 @@
+{
+ "id": "necrophagist/74423020-102",
+ "band": "necrophagist",
+ "title": "The Stillborn One",
+ "source": "itunes",
+ "album": "Epitaph",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 5.499916856888029,
+  "tempo_var": 2.302253177369712,
+  "low_onset_rate": 6.43323608108721,
+  "lufs": -11.523661310023524,
+  "rms_dbfs": -10.656397961690764,
+  "crest": 10.65639877319336,
+  "centroid": 2267.521279864952,
+  "flatness": 0.020256906747817993,
+  "sub100_share": 0.2984796166419983,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7818604707717896,
+  "clean_share": 0.1368909512761021,
+  "minor_share": -0.03566881642334929,
+  "chord_rate": 2.5332950371120617,
+  "repetitiveness": 0.9292744398117065,
+  "vocal_share": 0.09769152104854584,
+  "vocal_voiced": 0.31758530183727035,
+  "song_length": 264.347
+ }
+}

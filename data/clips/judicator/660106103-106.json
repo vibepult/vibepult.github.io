@@ -1,0 +1,32 @@
+{
+ "id": "judicator/660106103-106",
+ "band": "judicator",
+ "title": "Sapphire",
+ "source": "itunes",
+ "album": "Sleepy Plessow",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 4.945024972118508,
+  "tempo_var": 5.461545445086584,
+  "low_onset_rate": 5.780333244435824,
+  "lufs": -6.807175493497056,
+  "rms_dbfs": -6.820056584701656,
+  "crest": 6.820056438446045,
+  "centroid": 2720.5641705766734,
+  "flatness": 0.037355583161115646,
+  "sub100_share": 0.3258206844329834,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8085921406745911,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.05602461548571991,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.8578853607177734,
+  "vocal_share": 5.474196314025903e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 350.853
+ }
+}

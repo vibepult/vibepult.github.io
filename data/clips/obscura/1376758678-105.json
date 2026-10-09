@@ -1,0 +1,32 @@
+{
+ "id": "obscura/1376758678-105",
+ "band": "obscura",
+ "title": "Ethereal Skies",
+ "source": "itunes",
+ "album": "Diluvium",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 7.8,
+  "tempo_var": 12.37279873805473,
+  "low_onset_rate": 6.966666666666667,
+  "lufs": -9.482336325656027,
+  "rms_dbfs": -8.441175196752162,
+  "crest": 8.44117546081543,
+  "centroid": 2145.981874284674,
+  "flatness": 0.018906068056821823,
+  "sub100_share": 0.33747774362564087,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.7628704905509949,
+  "clean_share": 0.15557275541795665,
+  "minor_share": 0.02616721639046682,
+  "chord_rate": 1.8666666666666667,
+  "repetitiveness": 0.879507839679718,
+  "vocal_share": 0.028231274336576462,
+  "vocal_voiced": 0.16956521739130434,
+  "song_length": 318.304
+ }
+}

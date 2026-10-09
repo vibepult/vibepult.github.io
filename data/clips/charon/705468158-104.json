@@ -1,0 +1,32 @@
+{
+ "id": "charon/705468158-104",
+ "band": "charon",
+ "title": "Rain",
+ "source": "itunes",
+ "album": "Songs for the Sinners (Finnish version)",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 78.30255681818181,
+  "onset_rate": 3.7087687290888813,
+  "tempo_var": 17.764760490902624,
+  "low_onset_rate": 4.945024972118508,
+  "lufs": -6.998069721193698,
+  "rms_dbfs": -6.596168323119386,
+  "crest": 6.596168518066406,
+  "centroid": 2679.6667199554304,
+  "flatness": 0.04562617465853691,
+  "sub100_share": 0.3428792357444763,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7161592841148376,
+  "clean_share": 0.005430566330488751,
+  "minor_share": -0.08129467785908362,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.851362943649292,
+  "vocal_share": 0.17886798083782196,
+  "vocal_voiced": 0.456,
+  "song_length": 234.16
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "autopsy/1072769455-107",
+ "band": "autopsy",
+ "title": "Impending Dread",
+ "source": "itunes",
+ "album": "Severed Survival",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.842418052659652,
+  "tempo_var": 10.534795895433726,
+  "low_onset_rate": 4.410427677835426,
+  "lufs": -11.383606938187036,
+  "rms_dbfs": -9.90494073209531,
+  "crest": 9.904940605163574,
+  "centroid": 2208.065704806744,
+  "flatness": 0.017779963091015816,
+  "sub100_share": 0.4780365228652954,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8386053442955017,
+  "clean_share": 0.11559348332040341,
+  "minor_share": 0.06962875336541119,
+  "chord_rate": 1.871090529990787,
+  "repetitiveness": 0.7652374505996704,
+  "vocal_share": 6.546543590957299e-05,
+  "vocal_voiced": 0.0,
+  "song_length": 286.0
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "trouble",
+ "name": "Trouble",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 164986284,
+  "deezer": 10443928,
+  "spotify": "0eayuW5zGMgvXCEmcP7ivq"
+ },
+ "metadata": {
+  "formed": 1978,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 14,
+  "full_lengths": 8,
+  "genre": "Doom Metal (early); Psychedelic Doom/Stoner Metal (later)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 2480,
+  "themes": "Christianity, Society, Death, Misery, Drugs, Psychedelia, Politics",
+  "release_year": 1989
+ },
+ "partial": false,
+ "clips": [
+  "trouble/1443849744-105",
+  "trouble/1603072845-104",
+  "trouble/57939719-104",
+  "trouble/1443752921-106",
+  "trouble/1820958917-106",
+  "trouble/1820961732-106",
+  "trouble/1774324071-106",
+  "trouble/1443849744-106",
+  "trouble/1603072845-103",
+  "trouble/57939719-105",
+  "trouble/1443752921-105",
+  "trouble/1820958917-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.77318274456522,
+   "iqr": 44.50958307338931
+  },
+  "onset_rate": {
+   "median": 3.5999455790539825,
+   "iqr": 0.5825837656984922
+  },
+  "tempo_var": {
+   "median": 14.140021306822446,
+   "iqr": 16.219297146493606
+  },
+  "low_onset_rate": {
+   "median": 4.905881280326761,
+   "iqr": 0.989167255180142
+  },
+  "lufs": {
+   "median": -13.649335336331383,
+   "iqr": 4.909925685799397
+  },
+  "rms_dbfs": {
+   "median": -12.980395678880718,
+   "iqr": 4.277890939592812
+  },
+  "crest": {
+   "median": 12.980395793914795,
+   "iqr": 4.277625322341919
+  },
+  "centroid": {
+   "median": 2448.6725635787634,
+   "iqr": 273.3974522608005
+  },
+  "flatness": {
+   "median": 0.02394887525588274,
+   "iqr": 0.01212646858766675
+  },
+  "sub100_share": {
+   "median": 0.23625922948122025,
+   "iqr": 0.08675818890333176
+  },
+  "lowest_pitch": {
+   "median": 74.0203857421875,
+   "iqr": 16.14990234375
+  },
+  "harmonic_share": {
+   "median": 0.7150932550430298,
+   "iqr": 0.08555874228477478
+  },
+  "clean_share": {
+   "median": 0.04685040952746093,
+   "iqr": 0.15028286824621687
+  },
+  "minor_share": {
+   "median": -0.0012997275648525264,
+   "iqr": 0.09662560118721734
+  },
+  "chord_rate": {
+   "median": 1.5685510184453786,
+   "iqr": 0.8547754756793302
+  },
+  "repetitiveness": {
+   "median": 0.8228907287120819,
+   "iqr": 0.12899166345596313
+  },
+  "vocal_share": {
+   "median": 0.16203726083040237,
+   "iqr": 0.08378714509308338
+  },
+  "vocal_voiced": {
+   "median": 0.7367218332371457,
+   "iqr": 0.1757205657292219
+  },
+  "song_length": {
+   "median": 258.1835,
+   "iqr": 62.159749999999974
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

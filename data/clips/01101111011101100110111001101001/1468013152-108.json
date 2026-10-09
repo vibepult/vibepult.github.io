@@ -1,0 +1,32 @@
+{
+ "id": "01101111011101100110111001101001/1468013152-108",
+ "band": "01101111011101100110111001101001",
+ "title": "Ol874er",
+ "source": "itunes",
+ "album": "Sdss J0333+0651",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 7.3173004654996845,
+  "tempo_var": 5.4892134103316,
+  "low_onset_rate": 8.219433399602385,
+  "lufs": -6.188887352853766,
+  "rms_dbfs": -5.6754205037068655,
+  "crest": 5.675420761108398,
+  "centroid": 2607.6063892248294,
+  "flatness": 0.03929685801267624,
+  "sub100_share": 0.3639969527721405,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7818133234977722,
+  "clean_share": 0.011636927851047323,
+  "minor_share": -0.08155039856731477,
+  "chord_rate": 2.7398111332007953,
+  "repetitiveness": 0.954770028591156,
+  "vocal_share": 0.06071248650550842,
+  "vocal_voiced": 0.05177372962607862,
+  "song_length": 121.044
+ }
+}

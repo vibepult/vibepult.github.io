@@ -1,0 +1,32 @@
+{
+ "id": "beast-in-black/1458611195-107",
+ "band": "beast-in-black",
+ "title": "Crazy, Mad, Insane",
+ "source": "itunes",
+ "album": "Berserker",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.899976417376161,
+  "tempo_var": 12.059479095601786,
+  "low_onset_rate": 2.199986696981424,
+  "lufs": -14.073837447383125,
+  "rms_dbfs": -13.426032984620322,
+  "crest": 13.426032066345215,
+  "centroid": 1769.8180044168687,
+  "flatness": 0.011930253356695175,
+  "sub100_share": 0.2819155752658844,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7195430994033813,
+  "clean_share": 0.48105181747873166,
+  "minor_share": 0.037526144338950296,
+  "chord_rate": 0.7999951625386997,
+  "repetitiveness": 0.9219781160354614,
+  "vocal_share": 0.1543942093849182,
+  "vocal_voiced": 0.3411619283065513,
+  "song_length": 210.083
+ }
+}

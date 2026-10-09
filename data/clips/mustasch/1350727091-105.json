@@ -1,0 +1,32 @@
+{
+ "id": "mustasch/1350727091-105",
+ "band": "mustasch",
+ "title": "6:36",
+ "source": "itunes",
+ "album": "Ratsafari",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 3.94265504533773,
+  "tempo_var": 12.32753047799996,
+  "low_onset_rate": 7.250475803714299,
+  "lufs": -9.416246662563799,
+  "rms_dbfs": -8.179265076129738,
+  "crest": 8.179265022277832,
+  "centroid": 1825.1378257858232,
+  "flatness": 0.009756744839251041,
+  "sub100_share": 0.32874447107315063,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8685858249664307,
+  "clean_share": 0.4895267649340574,
+  "minor_share": 0.030848209958378225,
+  "chord_rate": 1.4367302283857828,
+  "repetitiveness": 0.8728799223899841,
+  "vocal_share": 0.12322365492582321,
+  "vocal_voiced": 0.906896551724138,
+  "song_length": 284.587
+ }
+}

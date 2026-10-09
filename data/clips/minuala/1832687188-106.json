@@ -1,0 +1,32 @@
+{
+ "id": "minuala/1832687188-106",
+ "band": "minuala",
+ "title": "Тлен",
+ "source": "itunes",
+ "album": "Край тысячи озёр",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.033257244788439,
+  "tempo_var": 9.514344540697659,
+  "low_onset_rate": 5.566582515759399,
+  "lufs": -5.998146393827565,
+  "rms_dbfs": -4.991516562803454,
+  "crest": 4.991516590118408,
+  "centroid": 2439.4997514277034,
+  "flatness": 0.036106694489717484,
+  "sub100_share": 0.34170135855674744,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6986560225486755,
+  "clean_share": 0.014694508894044857,
+  "minor_share": -0.09371704902577255,
+  "chord_rate": 1.6666414717842513,
+  "repetitiveness": 0.9401831030845642,
+  "vocal_share": 0.0913376435637474,
+  "vocal_voiced": 0.28034934497816594,
+  "song_length": 234.765
+ }
+}

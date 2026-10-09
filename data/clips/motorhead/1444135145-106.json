@@ -1,0 +1,32 @@
+{
+ "id": "motorhead/1444135145-106",
+ "band": "motorhead",
+ "title": "Love Can't Buy You Money",
+ "source": "itunes",
+ "album": "Overnight Sensation",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 5.599915345195084,
+  "tempo_var": 11.252444863069943,
+  "low_onset_rate": 7.1332254992365955,
+  "lufs": -11.204442360355745,
+  "rms_dbfs": -11.48529922325778,
+  "crest": 11.485299110412598,
+  "centroid": 2953.6427975811216,
+  "flatness": 0.06557199358940125,
+  "sub100_share": 0.2613753080368042,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.5875215530395508,
+  "clean_share": 0.0,
+  "minor_share": 0.04170718040326815,
+  "chord_rate": 2.3332980604979516,
+  "repetitiveness": 0.9141430258750916,
+  "vocal_share": 0.217512845993042,
+  "vocal_voiced": 0.1232876712328767,
+  "song_length": 186.827
+ }
+}

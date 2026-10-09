@@ -1,0 +1,32 @@
+{
+ "id": "behemoth/1553892551-108",
+ "band": "behemoth",
+ "title": "Libertheme",
+ "source": "itunes",
+ "album": "The Apostasy",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.174171434805799,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.4462099355088975,
+  "lufs": -10.132423162260487,
+  "rms_dbfs": -11.580504925473523,
+  "crest": 11.580504417419434,
+  "centroid": 2208.396819899045,
+  "flatness": 0.018889829516410828,
+  "sub100_share": 0.23848170042037964,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7743372917175293,
+  "clean_share": 0.30178432893716056,
+  "minor_share": -0.0166578799189524,
+  "chord_rate": 2.1718015080250206,
+  "repetitiveness": 0.8405081629753113,
+  "vocal_share": 5.169837095309049e-05,
+  "vocal_voiced": 1.0,
+  "song_length": 293.48
+ }
+}

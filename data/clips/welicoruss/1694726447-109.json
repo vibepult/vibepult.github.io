@@ -1,0 +1,32 @@
+{
+ "id": "welicoruss/1694726447-109",
+ "band": "welicoruss",
+ "title": "Hymn of Lost Souls",
+ "source": "itunes",
+ "album": "Siberian Heathen Horde",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.8666146645865833,
+  "tempo_var": 12.309686580884604,
+  "low_onset_rate": 5.899892972463085,
+  "lufs": -8.621128871825292,
+  "rms_dbfs": -8.235387171903715,
+  "crest": 8.235386848449707,
+  "centroid": 1717.9951301089875,
+  "flatness": 0.011027107015252113,
+  "sub100_share": 0.20096416771411896,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.8904007077217102,
+  "clean_share": 0.41221964423820573,
+  "minor_share": 0.01396673105652857,
+  "chord_rate": 0.9666491310815223,
+  "repetitiveness": 0.7537727355957031,
+  "vocal_share": 0.01180484239012003,
+  "vocal_voiced": 0.7777777777777778,
+  "song_length": 366.97
+ }
+}

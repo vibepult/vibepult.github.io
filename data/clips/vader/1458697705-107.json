@@ -1,0 +1,32 @@
+{
+ "id": "vader/1458697705-107",
+ "band": "vader",
+ "title": "Worms of Eden",
+ "source": "itunes",
+ "album": "Tibi Et Igni",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 0.26666505417956654,
+  "tempo_var": 8.80476198547706,
+  "low_onset_rate": 0.2999981859520124,
+  "lufs": -8.000795117663507,
+  "rms_dbfs": -7.966630842448773,
+  "crest": 7.966630935668945,
+  "centroid": 2462.1774376909134,
+  "flatness": 0.032874274998903275,
+  "sub100_share": 0.33076974749565125,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.8061361312866211,
+  "clean_share": 0.002320185614849188,
+  "minor_share": 0.06422955538638031,
+  "chord_rate": 0.7999951625386997,
+  "repetitiveness": 0.7485119104385376,
+  "vocal_share": 0.03016626462340355,
+  "vocal_voiced": 0.32577319587628867,
+  "song_length": 214.52
+ }
+}

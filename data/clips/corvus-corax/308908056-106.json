@@ -1,0 +1,32 @@
+{
+ "id": "corvus-corax/308908056-106",
+ "band": "corvus-corax",
+ "title": "Por Coi Bait Mes Maris",
+ "source": "itunes",
+ "album": "Inter Deum Et Diabolum Semper Musica Est",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.6,
+  "tempo_var": 17.231089100829063,
+  "low_onset_rate": 6.833333333333333,
+  "lufs": -24.238230403260303,
+  "rms_dbfs": -24.384039843574385,
+  "crest": 14.572139739990234,
+  "centroid": 2215.606281551508,
+  "flatness": 0.0041254544630646706,
+  "sub100_share": 0.0015224353410303593,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.9745082259178162,
+  "clean_share": 0.8273993808049536,
+  "minor_share": 0.017247556452289037,
+  "chord_rate": 1.7333333333333334,
+  "repetitiveness": 0.7307278513908386,
+  "vocal_share": 0.34419870376586914,
+  "vocal_voiced": 0.9981412639405205,
+  "song_length": 155.867
+ }
+}

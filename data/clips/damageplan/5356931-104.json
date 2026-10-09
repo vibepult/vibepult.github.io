@@ -1,0 +1,32 @@
+{
+ "id": "damageplan/5356931-104",
+ "band": "damageplan",
+ "title": "Pride",
+ "source": "itunes",
+ "album": "New Found Power",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 4.665594602600763,
+  "tempo_var": 12.76260291183552,
+  "low_onset_rate": 5.998621631915267,
+  "lufs": -7.788669464595805,
+  "rms_dbfs": -7.694963799391001,
+  "crest": 7.6949639320373535,
+  "centroid": 2359.574473495158,
+  "flatness": 0.02400706522166729,
+  "sub100_share": 0.2647416591644287,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.7857521772384644,
+  "clean_share": 0.04331013147718484,
+  "minor_share": 0.07593131086528404,
+  "chord_rate": 2.2328202741017935,
+  "repetitiveness": 0.8952951431274414,
+  "vocal_share": 0.16633963584899902,
+  "vocal_voiced": 0.7980935875216638,
+  "song_length": 257.267
+ }
+}

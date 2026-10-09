@@ -1,0 +1,127 @@
+{
+ "slug": "extreme-noise-terror",
+ "name": "Extreme Noise Terror",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 49569054,
+  "deezer": 156130,
+  "spotify": "43OKr8veKrM8ptgj3LcpOg"
+ },
+ "metadata": {
+  "formed": 1985,
+  "split": null,
+  "country": "GB",
+  "status": "active",
+  "members": 5,
+  "past_members": 25,
+  "full_lengths": 8,
+  "genre": "Crust/Grindcore (early); Hardcore Punk/Death Metal/Grindcore (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 5028,
+  "themes": "Anti-fascism, Animal rights (early); Social/Political, Hate, Humanity (later)",
+  "release_year": 1997
+ },
+ "partial": false,
+ "clips": [
+  "extreme-noise-terror/1281105641-107",
+  "extreme-noise-terror/63610479-107",
+  "extreme-noise-terror/49569190-107",
+  "extreme-noise-terror/1660201556-105",
+  "extreme-noise-terror/735142740-113",
+  "extreme-noise-terror/1645004053-112",
+  "extreme-noise-terror/1281105641-110",
+  "extreme-noise-terror/63610479-106",
+  "extreme-noise-terror/49569190-105",
+  "extreme-noise-terror/1660201556-106",
+  "extreme-noise-terror/735142740-106",
+  "extreme-noise-terror/1281105641-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 29.488622740351076
+  },
+  "onset_rate": {
+   "median": 5.964101064345634,
+   "iqr": 5.972454147068807
+  },
+  "tempo_var": {
+   "median": 10.07940057400536,
+   "iqr": 9.662939495381798
+  },
+  "low_onset_rate": {
+   "median": 7.2504758037143,
+   "iqr": 3.8424180526596516
+  },
+  "lufs": {
+   "median": -7.490642181315412,
+   "iqr": 4.5943213851992635
+  },
+  "rms_dbfs": {
+   "median": -7.083518145060065,
+   "iqr": 4.537439490811129
+  },
+  "crest": {
+   "median": 7.0835182666778564,
+   "iqr": 4.5374404191970825
+  },
+  "centroid": {
+   "median": 2586.4816490843423,
+   "iqr": 606.8381119334476
+  },
+  "flatness": {
+   "median": 0.03960777632892132,
+   "iqr": 0.025848771911114454
+  },
+  "sub100_share": {
+   "median": 0.2507474049925804,
+   "iqr": 0.14937718585133553
+  },
+  "lowest_pitch": {
+   "median": 71.3287353515625,
+   "iqr": 30.28106689453125
+  },
+  "harmonic_share": {
+   "median": 0.7126703262329102,
+   "iqr": 0.1075853556394577
+  },
+  "clean_share": {
+   "median": 0.00504266873545384,
+   "iqr": 0.2117920868890613
+  },
+  "minor_share": {
+   "median": 0.024143634396194186,
+   "iqr": 0.13551515376149145
+  },
+  "chord_rate": {
+   "median": 2.35556932793483,
+   "iqr": 0.4427133843281772
+  },
+  "repetitiveness": {
+   "median": 0.922301173210144,
+   "iqr": 0.047957152128219604
+  },
+  "vocal_share": {
+   "median": 0.11255250871181488,
+   "iqr": 0.08982406556606293
+  },
+  "vocal_voiced": {
+   "median": 0.31839622641509435,
+   "iqr": 0.19814420138369904
+  },
+  "song_length": {
+   "median": 152.8465,
+   "iqr": 53.24674999999999
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

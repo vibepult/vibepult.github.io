@@ -1,0 +1,32 @@
+{
+ "id": "aura-hiemis/1528462923-103",
+ "band": "aura-hiemis",
+ "title": "Whispers in the Dark",
+ "source": "itunes",
+ "album": "While the Rest of the World Sleep...",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.3412330892692625,
+  "tempo_var": 4.270610304509491,
+  "low_onset_rate": 7.484362119963148,
+  "lufs": -7.18703669691003,
+  "rms_dbfs": -6.896342672484258,
+  "crest": 6.896342754364014,
+  "centroid": 1830.9318279997642,
+  "flatness": 0.005573857109993696,
+  "sub100_share": 0.10501421242952347,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.9346275329589844,
+  "clean_share": 0.5539177657098526,
+  "minor_share": 0.11150883887849228,
+  "chord_rate": 0.33412330892692627,
+  "repetitiveness": 0.6996863484382629,
+  "vocal_share": 9.787177077669185e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 754.2
+ }
+}

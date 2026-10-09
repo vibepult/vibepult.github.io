@@ -1,0 +1,32 @@
+{
+ "id": "holocaust/1609093301-105",
+ "band": "holocaust",
+ "title": "When Penelope Dreams, Pt. 2",
+ "source": "itunes",
+ "album": "The Courage To Be",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.4080577510546477,
+  "tempo_var": 2.6548979376755293,
+  "low_onset_rate": 5.813745575328517,
+  "lufs": -10.561049424662698,
+  "rms_dbfs": -10.60906894343769,
+  "crest": 10.609068870544434,
+  "centroid": 2025.7361543956974,
+  "flatness": 0.019276274368166924,
+  "sub100_share": 0.2028682827949524,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.700189471244812,
+  "clean_share": 0.16058960434445307,
+  "minor_share": 0.11900028803843998,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.7968877553939819,
+  "vocal_share": 0.20211081206798553,
+  "vocal_voiced": 0.8613053613053613,
+  "song_length": 184.173
+ }
+}

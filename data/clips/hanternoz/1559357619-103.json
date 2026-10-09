@@ -1,0 +1,32 @@
+{
+ "id": "hanternoz/1559357619-103",
+ "band": "hanternoz",
+ "title": "Ce que le fleuve a pris",
+ "source": "itunes",
+ "album": "Au fleuve de loire",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 69.83741554054055,
+  "onset_rate": 4.644313994084275,
+  "tempo_var": 14.73387437213407,
+  "low_onset_rate": 5.9473948988992875,
+  "lufs": -10.226343545138532,
+  "rms_dbfs": -9.572141707892111,
+  "crest": 9.572141647338867,
+  "centroid": 2622.813888845472,
+  "flatness": 0.040632255375385284,
+  "sub100_share": 0.3066704273223877,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.694912314414978,
+  "clean_share": 0.028704422032583398,
+  "minor_share": 0.1508747778900742,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.932127058506012,
+  "vocal_share": 0.15901115536689758,
+  "vocal_voiced": 0.13411764705882354,
+  "song_length": 535.286
+ }
+}

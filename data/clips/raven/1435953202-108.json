@@ -1,0 +1,32 @@
+{
+ "id": "raven/1435953202-108",
+ "band": "raven",
+ "title": "Take It Away",
+ "source": "itunes",
+ "album": "All for One (Bonus Track Edition)",
+ "year": 1983,
+ "itunes_year": 1983,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.333333333333333,
+  "tempo_var": 11.707606504240873,
+  "low_onset_rate": 5.9,
+  "lufs": -12.690800077896945,
+  "rms_dbfs": -12.96471794172774,
+  "crest": 12.964717864990234,
+  "centroid": 2590.7147291669285,
+  "flatness": 0.040256720036268234,
+  "sub100_share": 0.19314919412136078,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.6354895830154419,
+  "clean_share": 0.014705882352941176,
+  "minor_share": -0.00562329781282056,
+  "chord_rate": 1.3666666666666667,
+  "repetitiveness": 0.9238189458847046,
+  "vocal_share": 0.15379217267036438,
+  "vocal_voiced": 0.6625129802699896,
+  "song_length": 204.133
+ }
+}

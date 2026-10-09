@@ -1,0 +1,32 @@
+{
+ "id": "tnt/1650582096-106",
+ "band": "tnt",
+ "title": "Atlantis",
+ "source": "itunes",
+ "album": "Atlantis",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.546446928186976,
+  "tempo_var": 0.0,
+  "low_onset_rate": 7.217063472821607,
+  "lufs": -8.525203913756293,
+  "rms_dbfs": -8.296134573232484,
+  "crest": 8.296134948730469,
+  "centroid": 2742.715211559977,
+  "flatness": 0.03560947999358177,
+  "sub100_share": 0.25705909729003906,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7778142690658569,
+  "clean_share": 0.0031031807602792862,
+  "minor_share": -0.06951959018943987,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.9326951503753662,
+  "vocal_share": 0.27741530537605286,
+  "vocal_voiced": 0.9264104660670482,
+  "song_length": 248.427
+ }
+}

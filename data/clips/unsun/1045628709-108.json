@@ -1,0 +1,32 @@
+{
+ "id": "unsun/1045628709-108",
+ "band": "unsun",
+ "title": "Bring Me to Heaven",
+ "source": "itunes",
+ "album": "The End of Life",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 5.513034597294284,
+  "tempo_var": 15.397000343904885,
+  "low_onset_rate": 7.551186781748533,
+  "lufs": -6.230267524082038,
+  "rms_dbfs": -6.768491816763326,
+  "crest": 6.768491744995117,
+  "centroid": 2548.995915729206,
+  "flatness": 0.03702520206570625,
+  "sub100_share": 0.14923842251300812,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7777469754219055,
+  "clean_share": 0.0,
+  "minor_share": -0.09198327865998979,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.9106326103210449,
+  "vocal_share": 0.27184194326400757,
+  "vocal_voiced": 0.9317300232738557,
+  "song_length": 285.72
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "armored-saint/1523551500-106",
+ "band": "armored-saint",
+ "title": "Lone Wolf",
+ "source": "itunes",
+ "album": "Punching the Sky",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.5332648032531635,
+  "tempo_var": 7.002900567735574,
+  "low_onset_rate": 4.099938020589258,
+  "lufs": -9.940310859540375,
+  "rms_dbfs": -9.683754134984051,
+  "crest": 9.683753967285156,
+  "centroid": 2481.534112925439,
+  "flatness": 0.032918982207775116,
+  "sub100_share": 0.1918106973171234,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6779114603996277,
+  "clean_share": 0.03789636504253674,
+  "minor_share": 0.22921075990120154,
+  "chord_rate": 1.0333177125062358,
+  "repetitiveness": 0.7738373875617981,
+  "vocal_share": 0.27349409461021423,
+  "vocal_voiced": 0.7175452399685287,
+  "song_length": 258.452
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "sear-bliss/334766539-104",
+ "band": "sear-bliss",
+ "title": "Unholy Dance",
+ "source": "itunes",
+ "album": "The Haunting",
+ "year": 1998,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 4.310190685157349,
+  "tempo_var": 13.12315916112199,
+  "low_onset_rate": 4.276778354264656,
+  "lufs": -13.764732078937426,
+  "rms_dbfs": -12.8075065253109,
+  "crest": 12.807506561279297,
+  "centroid": 2194.5129730705453,
+  "flatness": 0.017260948196053505,
+  "sub100_share": 0.4099530577659607,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.768059253692627,
+  "clean_share": 0.13498836307214895,
+  "minor_share": 0.10531300812977007,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.822465717792511,
+  "vocal_share": 0.0001342616742476821,
+  "vocal_voiced": 1.0,
+  "song_length": 509.823
+ }
+}

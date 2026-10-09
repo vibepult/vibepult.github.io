@@ -1,0 +1,127 @@
+{
+ "slug": "stille-volk",
+ "name": "Stille Volk",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 78422006,
+  "deezer": 76463,
+  "spotify": "51SooI3a4DtiguFh0Z6DKd"
+ },
+ "metadata": {
+  "formed": 1994,
+  "split": null,
+  "country": "FR",
+  "status": "active",
+  "members": 3,
+  "past_members": 2,
+  "full_lengths": 8,
+  "genre": "Medieval/Celtic Folk",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 1742,
+  "themes": "Paganism, Folklore",
+  "release_year": 2002
+ },
+ "partial": false,
+ "clips": [
+  "stille-volk/1555060945-109",
+  "stille-volk/1555059836-106",
+  "stille-volk/1555061362-105",
+  "stille-volk/1555062669-106",
+  "stille-volk/1555059456-104",
+  "stille-volk/1555060945-108",
+  "stille-volk/1555059836-105",
+  "stille-volk/1555061362-106",
+  "stille-volk/1555062669-105",
+  "stille-volk/1555059456-105",
+  "stille-volk/1555060945-110",
+  "stille-volk/1555059836-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 112.55992542613637,
+   "iqr": 28.96728515625
+  },
+  "onset_rate": {
+   "median": 4.627607828637929,
+   "iqr": 0.7267181969160639
+  },
+  "tempo_var": {
+   "median": 3.9330640723946617,
+   "iqr": 12.382625520040989
+  },
+  "low_onset_rate": {
+   "median": 6.264812042379868,
+   "iqr": 1.9880336881152116
+  },
+  "lufs": {
+   "median": -12.4814309516148,
+   "iqr": 5.451282704392762
+  },
+  "rms_dbfs": {
+   "median": -11.42108620495878,
+   "iqr": 5.405656569514814
+  },
+  "crest": {
+   "median": 11.421086311340332,
+   "iqr": 5.207389831542969
+  },
+  "centroid": {
+   "median": 2248.9107227703353,
+   "iqr": 745.7784094143274
+  },
+  "flatness": {
+   "median": 0.011737160384654999,
+   "iqr": 0.013982074800878763
+  },
+  "sub100_share": {
+   "median": 0.07668192312121391,
+   "iqr": 0.12230180762708187
+  },
+  "lowest_pitch": {
+   "median": 68.6370849609375,
+   "iqr": 26.24359130859375
+  },
+  "harmonic_share": {
+   "median": 0.851673036813736,
+   "iqr": 0.08528263866901398
+  },
+  "clean_share": {
+   "median": 0.34018619084561674,
+   "iqr": 0.571567106283941
+  },
+  "minor_share": {
+   "median": 0.04393373278228099,
+   "iqr": 0.09391169314770988
+  },
+  "chord_rate": {
+   "median": 1.236256243029627,
+   "iqr": 0.8186021068709693
+  },
+  "repetitiveness": {
+   "median": 0.8575614094734192,
+   "iqr": 0.09616866707801819
+  },
+  "vocal_share": {
+   "median": 0.24272098392248154,
+   "iqr": 0.08935967832803726
+  },
+  "vocal_voiced": {
+   "median": 0.7818705899704251,
+   "iqr": 0.1906081746521987
+  },
+  "song_length": {
+   "median": 275.5285,
+   "iqr": 83.56125
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.6,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

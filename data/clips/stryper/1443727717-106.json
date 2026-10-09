@@ -1,0 +1,32 @@
+{
+ "id": "stryper/1443727717-106",
+ "band": "stryper",
+ "title": "Shining Star",
+ "source": "itunes",
+ "album": "Against the Law",
+ "year": 1990,
+ "itunes_year": 1990,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.57748933229889,
+  "tempo_var": 8.101568728007406,
+  "low_onset_rate": 4.544077001406197,
+  "lufs": -11.943271623460706,
+  "rms_dbfs": -12.889135660503467,
+  "crest": 12.88913631439209,
+  "centroid": 2931.5347989089078,
+  "flatness": 0.048284709453582764,
+  "sub100_share": 0.13577382266521454,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6329050660133362,
+  "clean_share": 0.03801396431342126,
+  "minor_share": 0.022382741224208136,
+  "chord_rate": 1.9379151917761723,
+  "repetitiveness": 0.8714309930801392,
+  "vocal_share": 0.258244127035141,
+  "vocal_voiced": 0.6452665941240479,
+  "song_length": 262.867
+ }
+}

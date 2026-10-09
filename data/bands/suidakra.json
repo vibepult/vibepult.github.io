@@ -1,0 +1,127 @@
+{
+ "slug": "suidakra",
+ "name": "Suidakra",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 67732529,
+  "deezer": 161189,
+  "spotify": "77H7WLYHNHy0klUy1fGXIi"
+ },
+ "metadata": {
+  "formed": 1994,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 4,
+  "past_members": 12,
+  "full_lengths": 16,
+  "genre": "Melodic Death/Black/Folk Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 5203,
+  "themes": "Celtic mythology, Fantasy",
+  "release_year": 2018
+ },
+ "partial": false,
+ "clips": [
+  "suidakra/1539271563-107",
+  "suidakra/202971498-105",
+  "suidakra/1436580764-106",
+  "suidakra/1485349376-105",
+  "suidakra/1569356898-105",
+  "suidakra/1773882731-106",
+  "suidakra/1539271563-108",
+  "suidakra/202971498-106",
+  "suidakra/1436580764-105",
+  "suidakra/1485349376-106",
+  "suidakra/1569356898-104",
+  "suidakra/1773882731-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 139.77693256578948,
+   "iqr": 38.4521484375
+  },
+  "onset_rate": {
+   "median": 5.095380461135625,
+   "iqr": 2.4884977086551574
+  },
+  "tempo_var": {
+   "median": 10.519188553800308,
+   "iqr": 7.950271818575994
+  },
+  "low_onset_rate": {
+   "median": 5.262442115599089,
+   "iqr": 4.065918569294258
+  },
+  "lufs": {
+   "median": -8.875179206630873,
+   "iqr": 3.4335926736905824
+  },
+  "rms_dbfs": {
+   "median": -8.090552616518707,
+   "iqr": 2.741491553136666
+  },
+  "crest": {
+   "median": 8.090552568435669,
+   "iqr": 2.7414917945861816
+  },
+  "centroid": {
+   "median": 2403.155363827913,
+   "iqr": 980.1803395620755
+  },
+  "flatness": {
+   "median": 0.021137106232345104,
+   "iqr": 0.028365636826492846
+  },
+  "sub100_share": {
+   "median": 0.38694705069065094,
+   "iqr": 0.32498446479439735
+  },
+  "lowest_pitch": {
+   "median": 52.4871826171875,
+   "iqr": 32.2998046875
+  },
+  "harmonic_share": {
+   "median": 0.8849008977413177,
+   "iqr": 0.1398099660873413
+  },
+  "clean_share": {
+   "median": 0.1834755624515128,
+   "iqr": 0.7788097213797275
+  },
+  "minor_share": {
+   "median": 0.05642690748009793,
+   "iqr": 0.09634276745730355
+  },
+  "chord_rate": {
+   "median": 1.4701425592784756,
+   "iqr": 0.7423113419643046
+  },
+  "repetitiveness": {
+   "median": 0.7828493714332581,
+   "iqr": 0.19595222175121307
+  },
+  "vocal_share": {
+   "median": 0.06098008155822754,
+   "iqr": 0.02636915072798729
+  },
+  "vocal_voiced": {
+   "median": 0.43360433604336046,
+   "iqr": 0.37775725984276515
+  },
+  "song_length": {
+   "median": 318.86,
+   "iqr": 192.52649999999997
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

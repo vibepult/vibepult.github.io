@@ -1,0 +1,32 @@
+{
+ "id": "tuatha-de-danann/1545070123-106",
+ "band": "tuatha-de-danann",
+ "title": "The Wind That Shakes the Barley",
+ "source": "itunes",
+ "album": "In Nomine Éireann",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.9760673762304224,
+  "tempo_var": 8.676709259385605,
+  "low_onset_rate": 4.143129030693886,
+  "lufs": -9.96047882950017,
+  "rms_dbfs": -9.322907117416475,
+  "crest": 9.322907447814941,
+  "centroid": 2458.2244019905274,
+  "flatness": 0.026057954877614975,
+  "sub100_share": 0.22962571680545807,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8160049915313721,
+  "clean_share": 0.07525213343677269,
+  "minor_share": 0.021117670665964594,
+  "chord_rate": 1.3030809048150125,
+  "repetitiveness": 0.7500162720680237,
+  "vocal_share": 0.48519036173820496,
+  "vocal_voiced": 0.8348178137651822,
+  "song_length": 215.64
+ }
+}

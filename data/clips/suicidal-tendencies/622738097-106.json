@@ -1,0 +1,32 @@
+{
+ "id": "suicidal-tendencies/622738097-106",
+ "band": "suicidal-tendencies",
+ "title": "Who's Afraid?",
+ "source": "itunes",
+ "album": "13",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 4.811375648547738,
+  "tempo_var": 18.712166913932236,
+  "low_onset_rate": 6.548816854967755,
+  "lufs": -7.430533418128355,
+  "rms_dbfs": -7.04842116185206,
+  "crest": 7.048421382904053,
+  "centroid": 2246.057768707667,
+  "flatness": 0.02575073018670082,
+  "sub100_share": 0.198480024933815,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7798917293548584,
+  "clean_share": 0.22110162916989914,
+  "minor_share": 0.08897999356078956,
+  "chord_rate": 2.138389177132328,
+  "repetitiveness": 0.8539649248123169,
+  "vocal_share": 0.06174581125378609,
+  "vocal_voiced": 0.14736842105263157,
+  "song_length": 247.867
+ }
+}

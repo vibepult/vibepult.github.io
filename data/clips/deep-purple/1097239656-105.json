@@ -1,0 +1,32 @@
+{
+ "id": "deep-purple/1097239656-105",
+ "band": "deep-purple",
+ "title": "Lady Double Dealer",
+ "source": "itunes",
+ "album": "Stormbringer",
+ "year": 1974,
+ "itunes_year": 1974,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 5.562588276169399,
+  "tempo_var": 15.218763752695235,
+  "low_onset_rate": 5.062954598669154,
+  "lufs": -15.47564240141727,
+  "rms_dbfs": -15.93905655727424,
+  "crest": 15.667394638061523,
+  "centroid": 2379.8125657414153,
+  "flatness": 0.02235511690378189,
+  "sub100_share": 0.056881651282310486,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.6078120470046997,
+  "clean_share": 0.01160092807424594,
+  "minor_share": -0.11332921404718355,
+  "chord_rate": 1.3323564733339879,
+  "repetitiveness": 0.8199348449707031,
+  "vocal_share": 0.2768974006175995,
+  "vocal_voiced": 0.3832902670111972,
+  "song_length": 201.579
+ }
+}

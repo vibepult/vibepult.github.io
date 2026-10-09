@@ -1,0 +1,32 @@
+{
+ "id": "evile/452381647-105",
+ "band": "evile",
+ "title": "Xaraya",
+ "source": "itunes",
+ "album": "Five Serpent's Teeth",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.276778354264656,
+  "tempo_var": 22.02893421794953,
+  "low_onset_rate": 5.9139825680065945,
+  "lufs": -9.120025832094202,
+  "rms_dbfs": -8.472470507950664,
+  "crest": 8.4724702835083,
+  "centroid": 2628.738996754799,
+  "flatness": 0.03399796783924103,
+  "sub100_share": 0.26215842366218567,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7727878093719482,
+  "clean_share": 0.06749418153607448,
+  "minor_share": 0.17059742603831274,
+  "chord_rate": 1.7374412064200164,
+  "repetitiveness": 0.7530614733695984,
+  "vocal_share": 0.08498375862836838,
+  "vocal_voiced": 0.49803149606299213,
+  "song_length": 364.16
+ }
+}

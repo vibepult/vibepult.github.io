@@ -1,0 +1,32 @@
+{
+ "id": "moonspell/1045512582-107",
+ "band": "moonspell",
+ "title": "Subversion",
+ "source": "itunes",
+ "album": "Irreligious",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 5.39658175698235,
+  "tempo_var": 12.469854443354453,
+  "low_onset_rate": 9.160864093642877,
+  "lufs": -25.735815629676015,
+  "rms_dbfs": -24.45036855316152,
+  "crest": 15.807838439941406,
+  "centroid": 1038.1165803710207,
+  "flatness": 0.0010887009557336569,
+  "sub100_share": 0.22877098619937897,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.9350180625915527,
+  "clean_share": 0.9721577726218097,
+  "minor_share": 0.08820487814662992,
+  "chord_rate": 1.1326159243049376,
+  "repetitiveness": 0.8216528296470642,
+  "vocal_share": 0.004405418410897255,
+  "vocal_voiced": 1.0,
+  "song_length": 164.0
+ }
+}

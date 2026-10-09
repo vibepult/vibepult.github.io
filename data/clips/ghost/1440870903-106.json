@@ -1,0 +1,32 @@
+{
+ "id": "ghost/1440870903-106",
+ "band": "ghost",
+ "title": "Year Zero",
+ "source": "itunes",
+ "album": "Infestissumam",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.599984278250774,
+  "tempo_var": 10.400849872070276,
+  "low_onset_rate": 2.4999848829334366,
+  "lufs": -11.861183017711415,
+  "rms_dbfs": -11.980701164402667,
+  "crest": 11.980701446533203,
+  "centroid": 1794.603953258885,
+  "flatness": 0.01722269132733345,
+  "sub100_share": 0.2822047472000122,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.745899498462677,
+  "clean_share": 0.5088940448569219,
+  "minor_share": 0.028467507331417674,
+  "chord_rate": 0.7999951625386997,
+  "repetitiveness": 0.9266671538352966,
+  "vocal_share": 0.15291562676429749,
+  "vocal_voiced": 0.1634980988593156,
+  "song_length": 350.187
+ }
+}

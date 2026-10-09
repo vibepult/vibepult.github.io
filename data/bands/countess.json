@@ -1,0 +1,127 @@
+{
+ "slug": "countess",
+ "name": "Countess",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 390990094,
+  "deezer": 5364240,
+  "spotify": "6knDZcDZ3KR7XmO62z6Dup"
+ },
+ "metadata": {
+  "formed": 1992,
+  "split": null,
+  "country": "NL",
+  "status": "active",
+  "members": 4,
+  "past_members": 9,
+  "full_lengths": 17,
+  "genre": "Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 152,
+  "themes": "Satanism (early); Paganism (later); War, History, Anti-Christianity, Hate",
+  "release_year": 2001
+ },
+ "partial": false,
+ "clips": [
+  "countess/1249641054-104",
+  "countess/1063074270-105",
+  "countess/1064851896-104",
+  "countess/1086053054-106",
+  "countess/1132513844-103",
+  "countess/1250870219-106",
+  "countess/1250870923-106",
+  "countess/1063074220-105",
+  "countess/1064851948-106",
+  "countess/1086080259-106",
+  "countess/1088443832-105",
+  "countess/1249689369-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 132.59919819078948,
+   "iqr": 22.881174771979673
+  },
+  "onset_rate": {
+   "median": 3.775593390874267,
+   "iqr": 1.9462682744993458
+  },
+  "tempo_var": {
+   "median": 5.436181474532313,
+   "iqr": 9.49815492494832
+  },
+  "low_onset_rate": {
+   "median": 6.014219560684673,
+   "iqr": 2.848401208602046
+  },
+  "lufs": {
+   "median": -11.98779439816176,
+   "iqr": 4.496466674230064
+  },
+  "rms_dbfs": {
+   "median": -12.346802089770552,
+   "iqr": 4.6088140480627295
+  },
+  "crest": {
+   "median": 11.697257041931152,
+   "iqr": 4.088667154312134
+  },
+  "centroid": {
+   "median": 2402.01341123407,
+   "iqr": 1122.302820625162
+  },
+  "flatness": {
+   "median": 0.02176545187830925,
+   "iqr": 0.03264496149495244
+  },
+  "sub100_share": {
+   "median": 0.2356751784682274,
+   "iqr": 0.20857967901974916
+  },
+  "lowest_pitch": {
+   "median": 57.8704833984375,
+   "iqr": 37.01019287109375
+  },
+  "harmonic_share": {
+   "median": 0.8005491197109222,
+   "iqr": 0.08941298723220825
+  },
+  "clean_share": {
+   "median": 0.1505042668735454,
+   "iqr": 0.5372381691233513
+  },
+  "minor_share": {
+   "median": 0.03372580227364355,
+   "iqr": 0.17132913160135432
+  },
+  "chord_rate": {
+   "median": 1.3197870702613588,
+   "iqr": 0.41765413615865776
+  },
+  "repetitiveness": {
+   "median": 0.8642810881137848,
+   "iqr": 0.12449431419372559
+  },
+  "vocal_share": {
+   "median": 0.09041375666856766,
+   "iqr": 0.14790288545191288
+  },
+  "vocal_voiced": {
+   "median": 0.4104627766599598,
+   "iqr": 0.19698598679664103
+  },
+  "song_length": {
+   "median": 278.9335,
+   "iqr": 199.23999999999998
+  },
+  "vocal_presence": {
+   "median": 0.5833333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

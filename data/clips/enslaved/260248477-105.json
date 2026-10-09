@@ -1,0 +1,32 @@
+{
+ "id": "enslaved/260248477-105",
+ "band": "enslaved",
+ "title": "Yggdrasil",
+ "source": "itunes",
+ "album": "Frost",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 64.599609375,
+  "onset_rate": 2.606161809630025,
+  "tempo_var": 14.691237787381192,
+  "low_onset_rate": 4.71113865586966,
+  "lufs": -22.269853437546036,
+  "rms_dbfs": -21.709418294723683,
+  "crest": 15.89211654663086,
+  "centroid": 1814.5718689838618,
+  "flatness": 0.006136883050203323,
+  "sub100_share": 0.10661225020885468,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.9046123623847961,
+  "clean_share": 0.6927851047323507,
+  "minor_share": 0.24050381284174494,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.685537576675415,
+  "vocal_share": 0.21814987063407898,
+  "vocal_voiced": 0.7903645833333334,
+  "song_length": 323.467
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "superjoint/1610770939-111",
+ "band": "superjoint",
+ "title": "Ozena",
+ "source": "itunes",
+ "album": "Use Once and Destroy",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 5.066666666666666,
+  "tempo_var": 8.484784312972975,
+  "low_onset_rate": 4.9,
+  "lufs": -8.21722497951016,
+  "rms_dbfs": -7.916449821986379,
+  "crest": 7.916449546813965,
+  "centroid": 2517.046943888835,
+  "flatness": 0.036560989916324615,
+  "sub100_share": 0.2508944869041443,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7165834903717041,
+  "clean_share": 0.014705882352941176,
+  "minor_share": -0.03281105042916649,
+  "chord_rate": 2.6333333333333333,
+  "repetitiveness": 0.8403794169425964,
+  "vocal_share": 0.18980219960212708,
+  "vocal_voiced": 0.24369747899159663,
+  "song_length": 236.987
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "tool/1474185287-104",
+ "band": "tool",
+ "title": "Bottom",
+ "source": "itunes",
+ "album": "Undertow",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "hand",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.064092434270658,
+  "tempo_var": 17.880510756678042,
+  "low_onset_rate": 4.397214764948581,
+  "lufs": -11.731561346393423,
+  "rms_dbfs": -11.207799637407659,
+  "crest": 11.207799911499023,
+  "centroid": 2690.107991526704,
+  "flatness": 0.037272702902555466,
+  "sub100_share": 0.36788085103034973,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.664919376373291,
+  "clean_share": 0.05877803557617943,
+  "minor_share": 0.09852151714561003,
+  "chord_rate": 2.0653584502031213,
+  "repetitiveness": 0.8971728086471558,
+  "vocal_share": 0.12359880656003952,
+  "vocal_voiced": 0.8983050847457628,
+  "song_length": 433.813
+ }
+}

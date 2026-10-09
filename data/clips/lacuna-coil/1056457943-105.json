@@ -1,0 +1,32 @@
+{
+ "id": "lacuna-coil/1056457943-105",
+ "band": "lacuna-coil",
+ "title": "When a Dead Man Walks",
+ "source": "itunes",
+ "album": "Unleashed Memories (Bonus Tracks)",
+ "year": 2001,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.3312233067792283,
+  "tempo_var": 1.1287325515713271,
+  "low_onset_rate": 5.030147193236634,
+  "lufs": -9.013980145639428,
+  "rms_dbfs": -8.061263968225795,
+  "crest": 8.061264038085938,
+  "centroid": 2306.7195910107184,
+  "flatness": 0.020743370056152344,
+  "sub100_share": 0.34737709164619446,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7389682531356812,
+  "clean_share": 0.08662026295436968,
+  "minor_share": 0.30803340851653493,
+  "chord_rate": 0.6329324282880534,
+  "repetitiveness": 0.6377927660942078,
+  "vocal_share": 0.11588773131370544,
+  "vocal_voiced": 0.7706495589414595,
+  "song_length": 354.147
+ }
+}

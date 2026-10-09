@@ -1,0 +1,32 @@
+{
+ "id": "manowar/592776009-106",
+ "band": "manowar",
+ "title": "An American Trilogy (Remastered)",
+ "source": "itunes",
+ "album": "Warriors of the World (10th Anniversary Remastered Edition)",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 5.299919880273919,
+  "tempo_var": 27.82727011278418,
+  "low_onset_rate": 2.9332889903402823,
+  "lufs": -14.103211179027424,
+  "rms_dbfs": -14.024153464621529,
+  "crest": 14.024152755737305,
+  "centroid": 2177.7969133959486,
+  "flatness": 0.01555355079472065,
+  "sub100_share": 0.1003115251660347,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8767001628875732,
+  "clean_share": 0.2691415313225058,
+  "minor_share": -0.40742601111708565,
+  "chord_rate": 0.8666535653278107,
+  "repetitiveness": 0.6646782159805298,
+  "vocal_share": 0.4162258207798004,
+  "vocal_voiced": 0.7889447236180904,
+  "song_length": 256.0
+ }
+}

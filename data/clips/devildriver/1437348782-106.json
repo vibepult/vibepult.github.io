@@ -1,0 +1,32 @@
+{
+ "id": "devildriver/1437348782-106",
+ "band": "devildriver",
+ "title": "Ripped Apart",
+ "source": "itunes",
+ "album": "The Fury of Our Maker's Hand (Special Edition)",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 6.1,
+  "tempo_var": 11.20166940371367,
+  "low_onset_rate": 6.666666666666667,
+  "lufs": -8.736970343140396,
+  "rms_dbfs": -8.699577820194577,
+  "crest": 8.699578285217285,
+  "centroid": 2549.0975163469357,
+  "flatness": 0.04166572913527489,
+  "sub100_share": 0.15864475071430206,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.6243278384208679,
+  "clean_share": 0.010835913312693499,
+  "minor_share": 0.15091873035283876,
+  "chord_rate": 2.3666666666666667,
+  "repetitiveness": 0.9226611852645874,
+  "vocal_share": 0.24383769929409027,
+  "vocal_voiced": 0.15971606033717836,
+  "song_length": 251.573
+ }
+}

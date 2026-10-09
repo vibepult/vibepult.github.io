@@ -1,0 +1,127 @@
+{
+ "slug": "ultar",
+ "name": "Ultar",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1148007557,
+  "deezer": 10928610,
+  "spotify": "6qBmMTIQANnluSglXkcRV0"
+ },
+ "metadata": {
+  "formed": 2016,
+  "split": null,
+  "country": "RU",
+  "status": "active",
+  "members": 5,
+  "past_members": 2,
+  "full_lengths": 3,
+  "genre": "Post-Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 1294,
+  "themes": "H.P. Lovecraft, Cthulhu mythos",
+  "release_year": 2019
+ },
+ "partial": false,
+ "clips": [
+  "ultar/1622740565-103",
+  "ultar/1622675009-104",
+  "ultar/1733631051-104",
+  "ultar/1622740565-104",
+  "ultar/1622675009-103",
+  "ultar/1733631051-103",
+  "ultar/1622740565-102",
+  "ultar/1622675009-105",
+  "ultar/1733631051-105",
+  "ultar/1622740565-105",
+  "ultar/1622675009-102",
+  "ultar/1733631051-102"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 22.068957461124413
+  },
+  "onset_rate": {
+   "median": 4.7278448213160065,
+   "iqr": 2.210267611175071
+  },
+  "tempo_var": {
+   "median": 5.5188065857065185,
+   "iqr": 6.6820276698444685
+  },
+  "low_onset_rate": {
+   "median": 5.85678844199388,
+   "iqr": 2.2172890444933664
+  },
+  "lufs": {
+   "median": -8.05066469751842,
+   "iqr": 2.8749990758980246
+  },
+  "rms_dbfs": {
+   "median": -8.27950447143182,
+   "iqr": 2.6172088523108243
+  },
+  "crest": {
+   "median": 8.279504299163818,
+   "iqr": 2.6172088384628296
+  },
+  "centroid": {
+   "median": 2100.754311241898,
+   "iqr": 779.6000259768866
+  },
+  "flatness": {
+   "median": 0.015607385896146297,
+   "iqr": 0.02729236416053027
+  },
+  "sub100_share": {
+   "median": 0.2915988117456436,
+   "iqr": 0.20263352431356907
+  },
+  "lowest_pitch": {
+   "median": 53.8330078125,
+   "iqr": 8.074951171875
+  },
+  "harmonic_share": {
+   "median": 0.8425220549106598,
+   "iqr": 0.12413479387760162
+  },
+  "clean_share": {
+   "median": 0.20519782777346782,
+   "iqr": 0.7001496090724237
+  },
+  "minor_share": {
+   "median": 0.12197140589844618,
+   "iqr": 0.23633290863041123
+  },
+  "chord_rate": {
+   "median": 1.0023699267807789,
+   "iqr": 0.2845016966941847
+  },
+  "repetitiveness": {
+   "median": 0.8594490885734558,
+   "iqr": 0.1081998199224472
+  },
+  "vocal_share": {
+   "median": 0.08491767942905426,
+   "iqr": 0.07641490548849106
+  },
+  "vocal_voiced": {
+   "median": 0.2649402390438247,
+   "iqr": 0.14967010500882819
+  },
+  "song_length": {
+   "median": 375.03999999999996,
+   "iqr": 87.04300000000006
+  },
+  "vocal_presence": {
+   "median": 0.4166666666666667,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

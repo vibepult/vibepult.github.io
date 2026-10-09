@@ -1,0 +1,32 @@
+{
+ "id": "belphegor/1528488708-105",
+ "band": "belphegor",
+ "title": "S.B.S.R.",
+ "source": "itunes",
+ "album": "Necrodaemon Terrorsathan",
+ "year": 2000,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.0071097803423363,
+  "tempo_var": 9.30304821114536,
+  "low_onset_rate": 6.047631891577365,
+  "lufs": -16.18980156237153,
+  "rms_dbfs": -15.700316045748563,
+  "crest": 15.700315475463867,
+  "centroid": 1522.0095154035096,
+  "flatness": 0.02147507108747959,
+  "sub100_share": 0.37294039130210876,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.8281495571136475,
+  "clean_share": 0.7020946470131885,
+  "minor_share": 0.15330785004328662,
+  "chord_rate": 2.8734604567715656,
+  "repetitiveness": 0.9126807451248169,
+  "vocal_share": 0.03410441428422928,
+  "vocal_voiced": 0.9435897435897436,
+  "song_length": 240.093
+ }
+}

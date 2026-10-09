@@ -1,0 +1,32 @@
+{
+ "id": "nuclear-assault/980776238-105",
+ "band": "nuclear-assault",
+ "title": "Emergency",
+ "source": "itunes",
+ "album": "Handle With Care",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 6.649053847645832,
+  "tempo_var": 8.032951462070248,
+  "low_onset_rate": 7.116826480143529,
+  "lufs": -6.976935313293841,
+  "rms_dbfs": -8.327540673788732,
+  "crest": 8.327540397644043,
+  "centroid": 2622.3444260342562,
+  "flatness": 0.0492839552462101,
+  "sub100_share": 0.06204737350344658,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.5850263833999634,
+  "clean_share": 0.0,
+  "minor_share": -0.3323478123701012,
+  "chord_rate": 1.7374412064200164,
+  "repetitiveness": 0.9339439272880554,
+  "vocal_share": 0.18309742212295532,
+  "vocal_voiced": 0.2511737089201878,
+  "song_length": 200.333
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "stravaganzza/922088256-102",
+ "band": "stravaganzza",
+ "title": "Esperanza",
+ "source": "itunes",
+ "album": "Sentimientos",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 2.2720385007030983,
+  "tempo_var": 8.601131258702148,
+  "low_onset_rate": 5.245735950152742,
+  "lufs": -8.07570869529697,
+  "rms_dbfs": -7.0645393567563985,
+  "crest": 7.064538955688477,
+  "centroid": 2451.2223488512122,
+  "flatness": 0.028758807107806206,
+  "sub100_share": 0.50047367811203,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.800790548324585,
+  "clean_share": 0.02017067494181536,
+  "minor_share": 0.15651880314656125,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.8641895055770874,
+  "vocal_share": 1.8849300431611482e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 346.88
+ }
+}

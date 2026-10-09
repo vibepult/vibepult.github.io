@@ -1,0 +1,32 @@
+{
+ "id": "burzum/669033628-106",
+ "band": "burzum",
+ "title": "Solargudi (Sun-God)",
+ "source": "itunes",
+ "album": "Sol Austan, Mani Vestan",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 50.666360294117645,
+  "onset_rate": 1.169431581244242,
+  "tempo_var": 26.104756364488736,
+  "low_onset_rate": 1.069194588566164,
+  "lufs": -13.12964591151412,
+  "rms_dbfs": -11.722103219596958,
+  "crest": 11.722103118896484,
+  "centroid": 461.9880666376493,
+  "flatness": 0.0005594242247752845,
+  "sub100_share": 0.8840079307556152,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.975893497467041,
+  "clean_share": 0.978277734678045,
+  "minor_share": 0.0023485995796391768,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.49374744296073914,
+  "vocal_share": 1.692898194960435e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 431.893
+ }
+}

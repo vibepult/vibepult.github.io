@@ -1,0 +1,32 @@
+{
+ "id": "the-faceless/1817359798-105",
+ "band": "the-faceless",
+ "title": "The Spiraling Void",
+ "source": "itunes",
+ "album": "In Becoming A Ghost",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.4665840274523445,
+  "tempo_var": 17.44844735216108,
+  "low_onset_rate": 5.866577980680565,
+  "lufs": -6.16868007895879,
+  "rms_dbfs": -6.557558754122085,
+  "crest": 6.557559013366699,
+  "centroid": 3453.203943903131,
+  "flatness": 0.09915163367986679,
+  "sub100_share": 0.31503936648368835,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7236470580101013,
+  "clean_share": 0.006187161639597835,
+  "minor_share": 0.21637099122777198,
+  "chord_rate": 1.0333177125062358,
+  "repetitiveness": 0.7925229668617249,
+  "vocal_share": 0.2248252034187317,
+  "vocal_voiced": 0.25963302752293577,
+  "song_length": 327.63
+ }
+}

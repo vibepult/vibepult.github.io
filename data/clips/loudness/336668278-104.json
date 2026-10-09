@@ -1,0 +1,32 @@
+{
+ "id": "loudness/336668278-104",
+ "band": "loudness",
+ "title": "Face to Face",
+ "source": "itunes",
+ "album": "Lightning Strikes",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.9139825680065945,
+  "tempo_var": 1.4926449489467872,
+  "low_onset_rate": 6.48199219318237,
+  "lufs": -16.80168853900266,
+  "rms_dbfs": -17.489003268402815,
+  "crest": 15.522128105163574,
+  "centroid": 2982.2325097805406,
+  "flatness": 0.04873323813080788,
+  "sub100_share": 0.15755730867385864,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6597771644592285,
+  "clean_share": 0.0,
+  "minor_share": -0.04496013036245716,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.8460833430290222,
+  "vocal_share": 0.20106537640094757,
+  "vocal_voiced": 0.6673326673326674,
+  "song_length": 228.999
+ }
+}

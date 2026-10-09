@@ -1,0 +1,32 @@
+{
+ "id": "cyhra/1882050029-105",
+ "band": "cyhra",
+ "title": "In The Center Of A Miracle",
+ "source": "itunes",
+ "album": "Requiem For A Pipe Dream",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.5,
+  "tempo_var": 20.846141097049816,
+  "low_onset_rate": 5.766666666666667,
+  "lufs": -10.008335065577617,
+  "rms_dbfs": -8.727124138736892,
+  "crest": 8.727123260498047,
+  "centroid": 2592.0393500008954,
+  "flatness": 0.030033085495233536,
+  "sub100_share": 0.4913081228733063,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8356648683547974,
+  "clean_share": 0.07894736842105263,
+  "minor_share": -0.3806519073975817,
+  "chord_rate": 1.5,
+  "repetitiveness": 0.7550988793373108,
+  "vocal_share": 0.24452398717403412,
+  "vocal_voiced": 0.9265762170790104,
+  "song_length": 226.773
+ }
+}

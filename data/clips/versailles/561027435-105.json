@@ -1,0 +1,32 @@
+{
+ "id": "versailles/561027435-105",
+ "band": "versailles",
+ "title": "Illusion",
+ "source": "itunes",
+ "album": "Versailles",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 1.9379151917761723,
+  "tempo_var": 15.249498238525812,
+  "low_onset_rate": 3.374645420161955,
+  "lufs": -11.594385200084107,
+  "rms_dbfs": -11.631342684608956,
+  "crest": 11.631343841552734,
+  "centroid": 2245.1839295292157,
+  "flatness": 0.038134828209877014,
+  "sub100_share": 0.3925875127315521,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7222921252250671,
+  "clean_share": 0.06516679596586501,
+  "minor_share": -0.20657412626835003,
+  "chord_rate": 2.1718015080250206,
+  "repetitiveness": 0.9144221544265747,
+  "vocal_share": 5.024422080168733e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 307.493
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "all-that-remains",
+ "name": "All That Remains",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 57844144,
+  "deezer": 12054,
+  "spotify": "2zgG1GPDvjaBgxeQaVXI14"
+ },
+ "metadata": {
+  "formed": 1998,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 10,
+  "full_lengths": 10,
+  "genre": "Metalcore/Melodic Death Metal (early); Metalcore/Melodic Hard Rock (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 134724,
+  "themes": "Relationships, Personal struggles, Society, Hope",
+  "release_year": 2007
+ },
+ "partial": false,
+ "clips": [
+  "all-that-remains/1443505115-104",
+  "all-that-remains/1440908306-105",
+  "all-that-remains/1440927819-106",
+  "all-that-remains/1440933036-106",
+  "all-that-remains/1440931141-107",
+  "all-that-remains/1440920100-107",
+  "all-that-remains/1440933165-106",
+  "all-that-remains/1436892145-105",
+  "all-that-remains/1783642900-105",
+  "all-that-remains/1443505115-105",
+  "all-that-remains/1440908306-106",
+  "all-that-remains/1440927819-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 103.359375,
+   "iqr": 20.857039741847828
+  },
+  "onset_rate": {
+   "median": 5.0832564889419665,
+   "iqr": 1.4916441172469055
+  },
+  "tempo_var": {
+   "median": 8.288479522676244,
+   "iqr": 12.492047627752848
+  },
+  "low_onset_rate": {
+   "median": 5.066612144807662,
+   "iqr": 2.6249603180601957
+  },
+  "lufs": {
+   "median": -8.364924753660038,
+   "iqr": 2.1601907337408104
+  },
+  "rms_dbfs": {
+   "median": -7.82339609701014,
+   "iqr": 2.020665003145232
+  },
+  "crest": {
+   "median": 7.8233959674835205,
+   "iqr": 2.0206650495529175
+  },
+  "centroid": {
+   "median": 2510.4057936943263,
+   "iqr": 182.56806210898003
+  },
+  "flatness": {
+   "median": 0.03225880675017834,
+   "iqr": 0.009489594958722591
+  },
+  "sub100_share": {
+   "median": 0.32755959033966064,
+   "iqr": 0.1165558397769928
+  },
+  "lowest_pitch": {
+   "median": 41.7205810546875,
+   "iqr": 16.14990234375
+  },
+  "harmonic_share": {
+   "median": 0.7424972653388977,
+   "iqr": 0.08127331733703613
+  },
+  "clean_share": {
+   "median": 0.009667440061871617,
+   "iqr": 0.04524361948955916
+  },
+  "minor_share": {
+   "median": 0.13622824770114023,
+   "iqr": 0.25875050165828983
+  },
+  "chord_rate": {
+   "median": 1.4499780804522986,
+   "iqr": 0.2833329049970228
+  },
+  "repetitiveness": {
+   "median": 0.8549972176551819,
+   "iqr": 0.0853554904460907
+  },
+  "vocal_share": {
+   "median": 0.21578842401504517,
+   "iqr": 0.0782318264245987
+  },
+  "vocal_voiced": {
+   "median": 0.24726134585289514,
+   "iqr": 0.23763954334145032
+  },
+  "song_length": {
+   "median": 234.1335,
+   "iqr": 74.01875000000001
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

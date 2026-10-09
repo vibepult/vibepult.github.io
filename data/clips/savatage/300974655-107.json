@@ -1,0 +1,32 @@
+{
+ "id": "savatage/300974655-107",
+ "band": "savatage",
+ "title": "Exit Music",
+ "source": "itunes",
+ "album": "Edge of Thorns",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.1718015080250206,
+  "tempo_var": 11.934592837061247,
+  "low_onset_rate": 6.248105876933521,
+  "lufs": -28.71519240258409,
+  "rms_dbfs": -28.22705293031804,
+  "crest": 16.668413162231445,
+  "centroid": 905.1841927791613,
+  "flatness": 0.00010979279613820836,
+  "sub100_share": 0.13438895344734192,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.9700564742088318,
+  "clean_share": 1.0,
+  "minor_share": -0.2877191921968605,
+  "chord_rate": 0.6014219560684673,
+  "repetitiveness": 0.6717604398727417,
+  "vocal_share": 4.516045009950176e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 189.373
+ }
+}

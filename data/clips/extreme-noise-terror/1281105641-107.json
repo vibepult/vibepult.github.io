@@ -1,0 +1,32 @@
+{
+ "id": "extreme-noise-terror/1281105641-107",
+ "band": "extreme-noise-terror",
+ "title": "Use Your Mind",
+ "source": "itunes",
+ "album": "Holocaust in Your Head",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 0.4343603016050041,
+  "tempo_var": 19.48731705864423,
+  "low_onset_rate": 0.6348342869611598,
+  "lufs": -6.3168631098056895,
+  "rms_dbfs": -6.190224163704627,
+  "crest": 6.1902241706848145,
+  "centroid": 2260.785459973511,
+  "flatness": 0.020924394950270653,
+  "sub100_share": 0.3056953549385071,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.870969831943512,
+  "clean_share": 0.37470907680372384,
+  "minor_share": -0.14188082536033053,
+  "chord_rate": 0.7350712796392378,
+  "repetitiveness": 0.8538126349449158,
+  "vocal_share": 0.045932695269584656,
+  "vocal_voiced": 0.6428571428571429,
+  "song_length": 124.2
+ }
+}

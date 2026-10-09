@@ -1,0 +1,127 @@
+{
+ "slug": "heathen-foray",
+ "name": "Heathen Foray",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 309878302,
+  "deezer": 253803,
+  "spotify": "31Tfxkj0HCfFgEjluRPSMi"
+ },
+ "metadata": {
+  "formed": 2004,
+  "split": null,
+  "country": "AT",
+  "status": "active",
+  "members": 5,
+  "past_members": 6,
+  "full_lengths": 6,
+  "genre": "Melodic Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 2385,
+  "themes": "Norse/German mythology, Paganism, Fantasy, Battles",
+  "release_year": 2014
+ },
+ "partial": false,
+ "clips": [
+  "heathen-foray/1385616392-105",
+  "heathen-foray/1436714930-105",
+  "heathen-foray/1632121316-105",
+  "heathen-foray/1222012433-105",
+  "heathen-foray/1496106111-104",
+  "heathen-foray/1668338950-104",
+  "heathen-foray/1385616392-106",
+  "heathen-foray/1436714930-106",
+  "heathen-foray/1632121316-104",
+  "heathen-foray/1222012433-104",
+  "heathen-foray/1496106111-105",
+  "heathen-foray/1668338950-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 112.55992542613637,
+   "iqr": 30.53188981681035
+  },
+  "onset_rate": {
+   "median": 5.964101064345634,
+   "iqr": 2.405687824273869
+  },
+  "tempo_var": {
+   "median": 4.439227118378099,
+   "iqr": 7.121296527295364
+  },
+  "low_onset_rate": {
+   "median": 7.3173004654996845,
+   "iqr": 3.1407591039131075
+  },
+  "lufs": {
+   "median": -7.635454022977545,
+   "iqr": 1.7594435492068126
+  },
+  "rms_dbfs": {
+   "median": -6.785830931717646,
+   "iqr": 2.0325392849275445
+  },
+  "crest": {
+   "median": 6.785830736160278,
+   "iqr": 2.0325381755828857
+  },
+  "centroid": {
+   "median": 2601.4721363464396,
+   "iqr": 196.24875202608246
+  },
+  "flatness": {
+   "median": 0.04130175709724426,
+   "iqr": 0.010132561903446913
+  },
+  "sub100_share": {
+   "median": 0.38740235567092896,
+   "iqr": 0.09866208583116531
+  },
+  "lowest_pitch": {
+   "median": 45.758056640625,
+   "iqr": 20.1873779296875
+  },
+  "harmonic_share": {
+   "median": 0.7612820267677307,
+   "iqr": 0.07426522672176361
+  },
+  "clean_share": {
+   "median": 0.0,
+   "iqr": 0.024243599689681924
+  },
+  "minor_share": {
+   "median": -0.03467628310116877,
+   "iqr": 0.23311646366458336
+  },
+  "chord_rate": {
+   "median": 1.3197870702613588,
+   "iqr": 0.5095380461135623
+  },
+  "repetitiveness": {
+   "median": 0.8691481947898865,
+   "iqr": 0.07444310188293457
+  },
+  "vocal_share": {
+   "median": 0.10846874117851257,
+   "iqr": 0.05157291516661644
+  },
+  "vocal_voiced": {
+   "median": 0.06411110180068534,
+   "iqr": 0.08480745453754643
+  },
+  "song_length": {
+   "median": 298.249,
+   "iqr": 77.18374999999997
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

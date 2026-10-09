@@ -1,0 +1,32 @@
+{
+ "id": "alcatrazz/1504293899-106",
+ "band": "alcatrazz",
+ "title": "Dirty Like the City",
+ "source": "itunes",
+ "album": "Born Innocent",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.078674295689279,
+  "tempo_var": 2.4988894069782095,
+  "low_onset_rate": 5.112086626581972,
+  "lufs": -6.76272861224431,
+  "rms_dbfs": -6.835915947805936,
+  "crest": 6.835916042327881,
+  "centroid": 2429.940935108375,
+  "flatness": 0.030089659616351128,
+  "sub100_share": 0.15796706080436707,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7044654488563538,
+  "clean_share": 0.008533747090768037,
+  "minor_share": 0.13441362886787622,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.7763506174087524,
+  "vocal_share": 0.3119707703590393,
+  "vocal_voiced": 0.803639846743295,
+  "song_length": 228.405
+ }
+}

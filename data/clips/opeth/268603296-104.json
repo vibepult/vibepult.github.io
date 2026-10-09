@@ -1,0 +1,32 @@
+{
+ "id": "opeth/268603296-104",
+ "band": "opeth",
+ "title": "Closure",
+ "source": "itunes",
+ "album": "Damnation",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.3978477729148127,
+  "tempo_var": 20.380544046337437,
+  "low_onset_rate": 2.7649153446267594,
+  "lufs": -15.868870811501635,
+  "rms_dbfs": -16.11400419364599,
+  "crest": 16.114004135131836,
+  "centroid": 2003.371847251812,
+  "flatness": 0.014374463818967342,
+  "sub100_share": 0.12074346095323563,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.8895565867424011,
+  "clean_share": 0.5243619489559165,
+  "minor_share": -0.0029765572961107933,
+  "chord_rate": 1.532362721118445,
+  "repetitiveness": 0.7350004315376282,
+  "vocal_share": 0.35589638352394104,
+  "vocal_voiced": 0.8534704370179949,
+  "song_length": 315.587
+ }
+}

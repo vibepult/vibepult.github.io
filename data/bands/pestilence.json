@@ -1,0 +1,127 @@
+{
+ "slug": "pestilence",
+ "name": "Pestilence",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 89643611,
+  "deezer": 64114,
+  "spotify": "6JcFn4PlXFuXmhRXpOpsan"
+ },
+ "metadata": {
+  "formed": 1986,
+  "split": null,
+  "country": "NL",
+  "status": "active",
+  "members": 3,
+  "past_members": 26,
+  "full_lengths": 10,
+  "genre": "Death/Thrash Metal (early); Progressive Death Metal (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 14052,
+  "themes": "Death, Suffering, Anti-religion, Metaphysics, Science fiction, Horror",
+  "release_year": 2001
+ },
+ "partial": false,
+ "clips": [
+  "pestilence/216691048-105",
+  "pestilence/214361629-107",
+  "pestilence/329944544-105",
+  "pestilence/1600474504-107",
+  "pestilence/1600479461-106",
+  "pestilence/1660540321-105",
+  "pestilence/1771501066-106",
+  "pestilence/1731828448-103",
+  "pestilence/216691048-106",
+  "pestilence/214361629-109",
+  "pestilence/329944544-103",
+  "pestilence/1600474504-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 112.34714673913044,
+   "iqr": 13.878844491106719
+  },
+  "onset_rate": {
+   "median": 4.911612641225815,
+   "iqr": 1.9524282657712266
+  },
+  "tempo_var": {
+   "median": 6.331281461913942,
+   "iqr": 11.689684597427316
+  },
+  "low_onset_rate": {
+   "median": 6.832821667555642,
+   "iqr": 2.51427789967512
+  },
+  "lufs": {
+   "median": -9.659830462605044,
+   "iqr": 1.0757271647775983
+  },
+  "rms_dbfs": {
+   "median": -9.704625421359367,
+   "iqr": 1.6534856262866153
+  },
+  "crest": {
+   "median": 9.704625129699707,
+   "iqr": 1.6534857749938965
+  },
+  "centroid": {
+   "median": 2856.1095067198385,
+   "iqr": 340.8872725009037
+  },
+  "flatness": {
+   "median": 0.045297225937247276,
+   "iqr": 0.018677939660847187
+  },
+  "sub100_share": {
+   "median": 0.23098117113113403,
+   "iqr": 0.20218069851398468
+  },
+  "lowest_pitch": {
+   "median": 64.599609375,
+   "iqr": 27.58941650390625
+  },
+  "harmonic_share": {
+   "median": 0.6709541976451874,
+   "iqr": 0.17567020654678345
+  },
+  "clean_share": {
+   "median": 0.0027152831652443752,
+   "iqr": 0.0378200155159038
+  },
+  "minor_share": {
+   "median": 0.014701100098072323,
+   "iqr": 0.11423858164037376
+  },
+  "chord_rate": {
+   "median": 2.6395741405227175,
+   "iqr": 0.49283188066721584
+  },
+  "repetitiveness": {
+   "median": 0.9275015592575073,
+   "iqr": 0.0425272136926651
+  },
+  "vocal_share": {
+   "median": 0.10418866574764252,
+   "iqr": 0.03145727142691612
+  },
+  "vocal_voiced": {
+   "median": 0.2239657631954351,
+   "iqr": 0.30266424665143926
+  },
+  "song_length": {
+   "median": 228.26850000000002,
+   "iqr": 34.67950000000002
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

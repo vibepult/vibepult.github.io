@@ -1,0 +1,32 @@
+{
+ "id": "impellitteri/969731901-106",
+ "band": "impellitteri",
+ "title": "Dominoe Theory",
+ "source": "itunes",
+ "album": "Venom",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 6.849527833001988,
+  "tempo_var": 15.138583596228294,
+  "low_onset_rate": 8.954504679241623,
+  "lufs": -8.061197778394977,
+  "rms_dbfs": -7.673280741836276,
+  "crest": 7.673280239105225,
+  "centroid": 2892.650871103676,
+  "flatness": 0.05538353696465492,
+  "sub100_share": 0.36183232069015503,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7094171047210693,
+  "clean_share": 0.003878975950349108,
+  "minor_share": 0.1059254226478058,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.9488081932067871,
+  "vocal_share": 0.11643056571483612,
+  "vocal_voiced": 0.30198915009041594,
+  "song_length": 206.573
+ }
+}

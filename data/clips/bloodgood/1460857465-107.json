@@ -1,0 +1,32 @@
+{
+ "id": "bloodgood/1460857465-107",
+ "band": "bloodgood",
+ "title": "Holy Fire",
+ "source": "itunes",
+ "album": "Detonation (Special Edition)",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 73.828125,
+  "onset_rate": 4.644313994084275,
+  "tempo_var": 14.766587011364274,
+  "low_onset_rate": 5.112086626581972,
+  "lufs": -8.09400003603412,
+  "rms_dbfs": -8.186281465362843,
+  "crest": 8.186281204223633,
+  "centroid": 2504.5598833264935,
+  "flatness": 0.0320388600230217,
+  "sub100_share": 0.16898678243160248,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.7477844953536987,
+  "clean_share": 0.007757951900698216,
+  "minor_share": 0.11289489513129203,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.9103702902793884,
+  "vocal_share": 0.3663763105869293,
+  "vocal_voiced": 0.6966731898238747,
+  "song_length": 193.36
+ }
+}

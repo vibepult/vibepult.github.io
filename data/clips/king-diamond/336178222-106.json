@@ -1,0 +1,32 @@
+{
+ "id": "king-diamond/336178222-106",
+ "band": "king-diamond",
+ "title": "The Pact",
+ "source": "itunes",
+ "album": "House of God",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 6.61564151675314,
+  "tempo_var": 0.0,
+  "low_onset_rate": 7.718248436211996,
+  "lufs": -6.920551120523336,
+  "rms_dbfs": -7.394936573627827,
+  "crest": 7.394936561584473,
+  "centroid": 2720.6673790746563,
+  "flatness": 0.04068475961685181,
+  "sub100_share": 0.23046261072158813,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7351239323616028,
+  "clean_share": 0.0,
+  "minor_share": 0.06068675429169612,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.9083884358406067,
+  "vocal_share": 0.2227477878332138,
+  "vocal_voiced": 0.5753317720530835,
+  "song_length": 250.369
+ }
+}

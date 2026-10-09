@@ -1,0 +1,32 @@
+{
+ "id": "deep-purple/307428638-105",
+ "band": "deep-purple",
+ "title": "Clearly Quite Absurd",
+ "source": "itunes",
+ "album": "Rapture of the Deep",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.2744084274838774,
+  "tempo_var": 4.202585192036535,
+  "low_onset_rate": 3.641944067303496,
+  "lufs": -9.2653306262958,
+  "rms_dbfs": -8.056512522355,
+  "crest": 8.056512832641602,
+  "centroid": 1635.1853001922755,
+  "flatness": 0.0055983844213187695,
+  "sub100_share": 0.4320465624332428,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.8870872855186462,
+  "clean_share": 0.664856477889837,
+  "minor_share": 0.08757142110472127,
+  "chord_rate": 0.8687206032100082,
+  "repetitiveness": 0.5265536904335022,
+  "vocal_share": 0.0976872444152832,
+  "vocal_voiced": 0.837782340862423,
+  "song_length": 323.413
+ }
+}

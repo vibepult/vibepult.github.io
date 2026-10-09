@@ -1,0 +1,32 @@
+{
+ "id": "edenbridge/1184126193-106",
+ "band": "edenbridge",
+ "title": "Whale Rider",
+ "source": "itunes",
+ "album": "Myearthdream",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 2.6,
+  "tempo_var": 19.902084221521328,
+  "low_onset_rate": 4.8,
+  "lufs": -12.130399303590249,
+  "rms_dbfs": -11.659201361144634,
+  "crest": 11.659201622009277,
+  "centroid": 1518.1018585791805,
+  "flatness": 0.003119612345471978,
+  "sub100_share": 0.1627759337425232,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.9529266357421875,
+  "clean_share": 0.846749226006192,
+  "minor_share": 0.1830444317768679,
+  "chord_rate": 0.8333333333333334,
+  "repetitiveness": 0.6082771420478821,
+  "vocal_share": 0.004647810012102127,
+  "vocal_voiced": 0.9130434782608695,
+  "song_length": 253.773
+ }
+}

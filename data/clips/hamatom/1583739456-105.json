@@ -1,0 +1,32 @@
+{
+ "id": "hamatom/1583739456-105",
+ "band": "hamatom",
+ "title": "Ich hasse euch alle",
+ "source": "itunes",
+ "album": "Die Liebe ist tot",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 2.1997339701925696,
+  "tempo_var": 26.10503855235028,
+  "low_onset_rate": 3.132954442395478,
+  "lufs": -7.023525341230147,
+  "rms_dbfs": -6.882269430514834,
+  "crest": 6.882269382476807,
+  "centroid": 2567.802726634881,
+  "flatness": 0.040713440626859665,
+  "sub100_share": 0.2706948518753052,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6833409070968628,
+  "clean_share": 0.007733952049497293,
+  "minor_share": -0.1369575123925031,
+  "chord_rate": 1.366501405725687,
+  "repetitiveness": 0.8972651362419128,
+  "vocal_share": 0.2590430974960327,
+  "vocal_voiced": 0.2588774341351661,
+  "song_length": 187.729
+ }
+}

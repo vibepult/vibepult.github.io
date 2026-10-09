@@ -1,0 +1,32 @@
+{
+ "id": "priestess/303298433-108",
+ "band": "priestess",
+ "title": "The Shakes",
+ "source": "itunes",
+ "album": "Hello Master",
+ "year": 2005,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 2.4317930139488366,
+  "tempo_var": 13.887104637397433,
+  "low_onset_rate": 4.730337095626504,
+  "lufs": -6.524223852225931,
+  "rms_dbfs": -6.354592465279055,
+  "crest": 6.354592323303223,
+  "centroid": 2771.0040497081873,
+  "flatness": 0.04629315435886383,
+  "sub100_share": 0.24192167818546295,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7370010018348694,
+  "clean_share": 0.0,
+  "minor_share": -0.0405859543502986,
+  "chord_rate": 1.89879728486416,
+  "repetitiveness": 0.9256506562232971,
+  "vocal_share": 0.2662908434867859,
+  "vocal_voiced": 0.7797147385103012,
+  "song_length": 201.187
+ }
+}

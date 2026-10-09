@@ -1,0 +1,127 @@
+{
+ "slug": "toluca",
+ "name": "Toluca",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1109095869,
+  "deezer": 10278304,
+  "spotify": "134xkjXaJnY1KUDESQI0f0"
+ },
+ "metadata": {
+  "formed": 2012,
+  "split": 2020,
+  "country": "RU",
+  "status": "split-up",
+  "members": 5,
+  "past_members": 3,
+  "full_lengths": 3,
+  "genre": "Black Metal/Post-Hardcore",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 86,
+  "themes": "N/A",
+  "release_year": 2016
+ },
+ "partial": false,
+ "clips": [
+  "toluca/1435125975-104",
+  "toluca/1756920275-104",
+  "toluca/1563938182-105",
+  "toluca/1435125975-103",
+  "toluca/1756920275-105",
+  "toluca/1563938182-104",
+  "toluca/1435125975-105",
+  "toluca/1756920275-103",
+  "toluca/1563938182-106",
+  "toluca/1435125975-102",
+  "toluca/1756920275-106",
+  "toluca/1563938182-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.19921875,
+   "iqr": 14.722045365157584
+  },
+  "onset_rate": {
+   "median": 3.802538597538016,
+   "iqr": 2.3610545502227485
+  },
+  "tempo_var": {
+   "median": 3.5003254165774123,
+   "iqr": 10.236182262007755
+  },
+  "low_onset_rate": {
+   "median": 4.109716699801194,
+   "iqr": 1.7709537973258125
+  },
+  "lufs": {
+   "median": -10.430823500381944,
+   "iqr": 4.898464786773502
+  },
+  "rms_dbfs": {
+   "median": -10.692960150465314,
+   "iqr": 4.468814874180898
+  },
+  "crest": {
+   "median": 10.692959785461426,
+   "iqr": 4.468815088272095
+  },
+  "centroid": {
+   "median": 1991.4637483038641,
+   "iqr": 1045.525891049019
+  },
+  "flatness": {
+   "median": 0.01179406326264143,
+   "iqr": 0.0235095756361261
+  },
+  "sub100_share": {
+   "median": 0.2779538631439209,
+   "iqr": 0.14174909889698029
+  },
+  "lowest_pitch": {
+   "median": 102.28271484375,
+   "iqr": 32.2998046875
+  },
+  "harmonic_share": {
+   "median": 0.8496590852737427,
+   "iqr": 0.11390624940395355
+  },
+  "clean_share": {
+   "median": 0.5123761232680357,
+   "iqr": 0.7655171037939565
+  },
+  "minor_share": {
+   "median": 0.10007294385576182,
+   "iqr": 0.17731978803014173
+  },
+  "chord_rate": {
+   "median": 1.2863747393686662,
+   "iqr": 0.4823552646151361
+  },
+  "repetitiveness": {
+   "median": 0.7354089617729187,
+   "iqr": 0.1351265162229538
+  },
+  "vocal_share": {
+   "median": 0.04990393668413162,
+   "iqr": 0.06053870776668191
+  },
+  "vocal_voiced": {
+   "median": 0.3126109049597747,
+   "iqr": 0.4282331460674157
+  },
+  "song_length": {
+   "median": 270.7885,
+   "iqr": 90.26524999999995
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

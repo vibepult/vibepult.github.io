@@ -1,0 +1,127 @@
+{
+ "slug": "svartby",
+ "name": "Svartby",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 504566586,
+  "deezer": 1653660,
+  "spotify": "3pISjE1shNv8ovqz01HOhm"
+ },
+ "metadata": {
+  "formed": 2004,
+  "split": 2022,
+  "country": "RU",
+  "status": "split-up",
+  "members": 5,
+  "past_members": 8,
+  "full_lengths": 5,
+  "genre": "Blackened Folk Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 507,
+  "themes": "Magical creatures, Fairy tales",
+  "release_year": 2013
+ },
+ "partial": false,
+ "clips": [
+  "svartby/1244053933-107",
+  "svartby/1243422705-106",
+  "svartby/1241884703-105",
+  "svartby/1484563926-104",
+  "svartby/1244053933-108",
+  "svartby/1243422705-105",
+  "svartby/1241884703-106",
+  "svartby/1484563926-103",
+  "svartby/1244053933-106",
+  "svartby/1243422705-107",
+  "svartby/1241884703-104",
+  "svartby/1484563926-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 33.318639106457795
+  },
+  "onset_rate": {
+   "median": 5.204561522131101,
+   "iqr": 1.5229858038750717
+  },
+  "tempo_var": {
+   "median": 1.9498516972678122,
+   "iqr": 13.414050366827876
+  },
+  "low_onset_rate": {
+   "median": 5.180623589173312,
+   "iqr": 3.021152636002758
+  },
+  "lufs": {
+   "median": -8.85212267904197,
+   "iqr": 0.7904077316332749
+  },
+  "rms_dbfs": {
+   "median": -8.094572899175354,
+   "iqr": 1.4906356516183745
+  },
+  "crest": {
+   "median": 8.094573020935059,
+   "iqr": 1.490635633468628
+  },
+  "centroid": {
+   "median": 2537.4505119091327,
+   "iqr": 283.2329460320075
+  },
+  "flatness": {
+   "median": 0.031662825495004654,
+   "iqr": 0.009916174691170454
+  },
+  "sub100_share": {
+   "median": 0.3286140114068985,
+   "iqr": 0.15195751935243607
+  },
+  "lowest_pitch": {
+   "median": 53.8330078125,
+   "iqr": 18.16864013671875
+  },
+  "harmonic_share": {
+   "median": 0.8122226893901825,
+   "iqr": 0.23052199184894562
+  },
+  "clean_share": {
+   "median": 0.08107059736229635,
+   "iqr": 0.10433080314902049
+  },
+  "minor_share": {
+   "median": 0.07762145515170665,
+   "iqr": 0.13546967365991577
+  },
+  "chord_rate": {
+   "median": 1.6657953662936695,
+   "iqr": 0.7003572305944856
+  },
+  "repetitiveness": {
+   "median": 0.8977200090885162,
+   "iqr": 0.08128492534160614
+  },
+  "vocal_share": {
+   "median": 0.11218448355793953,
+   "iqr": 0.08774535357952118
+  },
+  "vocal_voiced": {
+   "median": 0.2073709262977576,
+   "iqr": 0.3862942612942613
+  },
+  "song_length": {
+   "median": 198.894,
+   "iqr": 60.78874999999999
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.7,
+  "camp": 0.5
+ },
+ "sources_failed": []
+}

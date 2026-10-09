@@ -1,0 +1,32 @@
+{
+ "id": "dimmu-borgir/1456962237-105",
+ "band": "dimmu-borgir",
+ "title": "The Sacrilegious Scorn",
+ "source": "itunes",
+ "album": "In Sorte Diaboli",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.5666511464783284,
+  "tempo_var": 9.34627330513735,
+  "low_onset_rate": 3.133314386609907,
+  "lufs": -7.9761266545125835,
+  "rms_dbfs": -8.515234567635186,
+  "crest": 8.51523494720459,
+  "centroid": 2633.88987030565,
+  "flatness": 0.0470014363527298,
+  "sub100_share": 0.35886579751968384,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7936492562294006,
+  "clean_share": 0.15931941221964424,
+  "minor_share": -0.051413849433137815,
+  "chord_rate": 1.7999891157120742,
+  "repetitiveness": 0.8602212071418762,
+  "vocal_share": 0.004259919747710228,
+  "vocal_voiced": 0.5363636363636364,
+  "song_length": 238.733
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "daniel-lioneye/1675486309-106",
+ "band": "daniel-lioneye",
+ "title": "Alright",
+ "source": "itunes",
+ "album": "Vol. III",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.680096251757746,
+  "tempo_var": 1.9018917751989437,
+  "low_onset_rate": 7.116826480143529,
+  "lufs": -5.514281164685565,
+  "rms_dbfs": -5.939112249177421,
+  "crest": 5.939112186431885,
+  "centroid": 2894.5492778470402,
+  "flatness": 0.05727249011397362,
+  "sub100_share": 0.22321848571300507,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7349880337715149,
+  "clean_share": 0.0,
+  "minor_share": 0.08298268778335782,
+  "chord_rate": 2.0047398535615577,
+  "repetitiveness": 0.9012556672096252,
+  "vocal_share": 0.13686639070510864,
+  "vocal_voiced": 0.5207193119624707,
+  "song_length": 190.467
+ }
+}

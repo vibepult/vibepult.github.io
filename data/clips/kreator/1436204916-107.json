@@ -1,0 +1,32 @@
+{
+ "id": "kreator/1436204916-107",
+ "band": "kreator",
+ "title": "Outcast",
+ "source": "itunes",
+ "album": "Outcast",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.5082947437327254,
+  "tempo_var": 3.7374546116662937,
+  "low_onset_rate": 3.6085317364108036,
+  "lufs": -11.071416505999649,
+  "rms_dbfs": -10.478372930206678,
+  "crest": 10.478372573852539,
+  "centroid": 2427.4459123296424,
+  "flatness": 0.02492486871778965,
+  "sub100_share": 0.24083273112773895,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6890295743942261,
+  "clean_share": 0.09231962761830877,
+  "minor_share": -0.0829568365677521,
+  "chord_rate": 0.9021329341027009,
+  "repetitiveness": 0.939096987247467,
+  "vocal_share": 0.1423603594303131,
+  "vocal_voiced": 0.1827814569536424,
+  "song_length": 292.8
+ }
+}

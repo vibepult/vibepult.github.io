@@ -1,0 +1,32 @@
+{
+ "id": "nuclear/943521761-104",
+ "band": "nuclear",
+ "title": "E-Faith",
+ "source": "itunes",
+ "album": "Ten Broken Codes",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 5.312560611938127,
+  "tempo_var": 15.411075511510932,
+  "low_onset_rate": 7.050001818358144,
+  "lufs": -6.508530494256376,
+  "rms_dbfs": -6.336684830465385,
+  "crest": 6.336684703826904,
+  "centroid": 2195.902284877662,
+  "flatness": 0.022505396977066994,
+  "sub100_share": 0.16501553356647491,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7415776252746582,
+  "clean_share": 0.0682699767261443,
+  "minor_share": -0.09054008285181547,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.9274137020111084,
+  "vocal_share": 0.16275089979171753,
+  "vocal_voiced": 0.7155049786628734,
+  "song_length": 240.587
+ }
+}

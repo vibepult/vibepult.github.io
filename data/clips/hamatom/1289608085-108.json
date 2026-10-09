@@ -1,0 +1,32 @@
+{
+ "id": "hamatom/1289608085-108",
+ "band": "hamatom",
+ "title": "Zur Hölle mit eurem Himmel",
+ "source": "itunes",
+ "album": "Bestie der Freiheit",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.009479707123115,
+  "tempo_var": 23.432576869460316,
+  "low_onset_rate": 4.777963317655045,
+  "lufs": -8.860579909361414,
+  "rms_dbfs": -8.371018303397364,
+  "crest": 8.371018409729004,
+  "centroid": 2564.917516767862,
+  "flatness": 0.03936818614602089,
+  "sub100_share": 0.31778189539909363,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.6412339806556702,
+  "clean_share": 0.02948021722265322,
+  "minor_share": 0.2681485315191494,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.8355041146278381,
+  "vocal_share": 0.2773686647415161,
+  "vocal_voiced": 0.19001751313485113,
+  "song_length": 209.294
+ }
+}

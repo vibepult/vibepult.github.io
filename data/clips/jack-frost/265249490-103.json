@@ -1,0 +1,32 @@
+{
+ "id": "jack-frost/265249490-103",
+ "band": "jack-frost",
+ "title": "Undying",
+ "source": "itunes",
+ "album": "Glow Dying Sun",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.240996096591185,
+  "tempo_var": 0.9559643978029873,
+  "low_onset_rate": 5.4462099355088975,
+  "lufs": -8.67017569721064,
+  "rms_dbfs": -8.945921648832705,
+  "crest": 8.945921897888184,
+  "centroid": 2696.627258941807,
+  "flatness": 0.024002915248274803,
+  "sub100_share": 0.23620173335075378,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7622953057289124,
+  "clean_share": 0.016291698991466253,
+  "minor_share": 0.3003498841935772,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.703903317451477,
+  "vocal_share": 0.06570717692375183,
+  "vocal_voiced": 0.4865350089766607,
+  "song_length": 328.133
+ }
+}

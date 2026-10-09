@@ -1,0 +1,32 @@
+{
+ "id": "rhapsody-of-fire/1061962382-106",
+ "band": "rhapsody-of-fire",
+ "title": "Valley of Shadows",
+ "source": "itunes",
+ "album": "Into the Legend",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 3.742181059981574,
+  "tempo_var": 25.045250324183897,
+  "low_onset_rate": 1.2028439121369345,
+  "lufs": -9.644764866691304,
+  "rms_dbfs": -9.498522580318271,
+  "crest": 9.498522758483887,
+  "centroid": 2459.1839762795516,
+  "flatness": 0.026206275448203087,
+  "sub100_share": 0.25323012471199036,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.7847856879234314,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.011332785170031334,
+  "chord_rate": 2.138389177132328,
+  "repetitiveness": 0.7493649125099182,
+  "vocal_share": 0.39063018560409546,
+  "vocal_voiced": 0.4780564263322884,
+  "song_length": 414.947
+ }
+}

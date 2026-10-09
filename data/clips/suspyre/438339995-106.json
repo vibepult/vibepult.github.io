@@ -1,0 +1,32 @@
+{
+ "id": "suspyre/438339995-106",
+ "band": "suspyre",
+ "title": "Reign",
+ "source": "itunes",
+ "album": "When Time Fades...",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 5.713508582650439,
+  "tempo_var": 12.835568282317501,
+  "low_onset_rate": 5.011849633903894,
+  "lufs": -9.053273371946995,
+  "rms_dbfs": -7.43754006586358,
+  "crest": 7.437540054321289,
+  "centroid": 2348.325410854293,
+  "flatness": 0.023401394486427307,
+  "sub100_share": 0.44315028190612793,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.7049714922904968,
+  "clean_share": 0.08844065166795965,
+  "minor_share": 0.24407781885718527,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.9589421153068542,
+  "vocal_share": 0.01286682765930891,
+  "vocal_voiced": 0.9156626506024096,
+  "song_length": 465.613
+ }
+}

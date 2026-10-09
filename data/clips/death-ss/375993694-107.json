@@ -1,0 +1,32 @@
+{
+ "id": "death-ss/375993694-107",
+ "band": "death-ss",
+ "title": "In The Darkness",
+ "source": "itunes",
+ "album": "Black Mass",
+ "year": 1989,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.338863162488484,
+  "tempo_var": 5.711994595422517,
+  "low_onset_rate": 8.820855355670853,
+  "lufs": -22.492668848710064,
+  "rms_dbfs": -22.955015230307588,
+  "crest": 17.669530868530273,
+  "centroid": 2531.2468756679277,
+  "flatness": 0.02072332426905632,
+  "sub100_share": 0.0004373909905552864,
+  "lowest_pitch": 164.190673828125,
+  "harmonic_share": 0.8966769576072693,
+  "clean_share": 0.3878975950349108,
+  "minor_share": 0.027043472848577332,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.746634840965271,
+  "vocal_share": 0.39791274070739746,
+  "vocal_voiced": 0.940279542566709,
+  "song_length": 306.644
+ }
+}

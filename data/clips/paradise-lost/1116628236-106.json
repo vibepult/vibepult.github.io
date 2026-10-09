@@ -1,0 +1,32 @@
+{
+ "id": "paradise-lost/1116628236-106",
+ "band": "paradise-lost",
+ "title": "Something Real",
+ "source": "itunes",
+ "album": "Believe in Nothing",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 2.2720385007030983,
+  "tempo_var": 17.00531099401778,
+  "low_onset_rate": 3.474882412840033,
+  "lufs": -9.459221074401093,
+  "rms_dbfs": -9.075138650935376,
+  "crest": 9.075138092041016,
+  "centroid": 2190.2822892754207,
+  "flatness": 0.018595175817608833,
+  "sub100_share": 0.28895601630210876,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.7639802098274231,
+  "clean_share": 0.22808378588052755,
+  "minor_share": 0.1184679198676265,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.8319165706634521,
+  "vocal_share": 0.07217563688755035,
+  "vocal_voiced": 0.9508599508599509,
+  "song_length": 215.267
+ }
+}

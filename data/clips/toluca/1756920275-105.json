@@ -1,0 +1,32 @@
+{
+ "id": "toluca/1756920275-105",
+ "band": "toluca",
+ "title": "Andras",
+ "source": "itunes",
+ "album": "Darvo",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.464318091162926,
+  "tempo_var": 6.081868964172382,
+  "low_onset_rate": 5.430476484026544,
+  "lufs": -8.322107590162304,
+  "rms_dbfs": -7.047336141150612,
+  "crest": 7.047335624694824,
+  "centroid": 1883.827524773948,
+  "flatness": 0.007573812734335661,
+  "sub100_share": 0.2926024794578552,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.9139729738235474,
+  "clean_share": 0.5235885537509667,
+  "minor_share": 0.36193816459301953,
+  "chord_rate": 1.4325796859701925,
+  "repetitiveness": 0.6375992894172668,
+  "vocal_share": 0.060647666454315186,
+  "vocal_voiced": 0.8384074941451991,
+  "song_length": 211.0
+ }
+}

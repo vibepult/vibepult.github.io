@@ -1,0 +1,32 @@
+{
+ "id": "aura-hiemis/1527219950-104",
+ "band": "aura-hiemis",
+ "title": "Be the Moon",
+ "source": "itunes",
+ "album": "Wenn der Regen fällt",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.374645420161955,
+  "tempo_var": 1.9274151749969015,
+  "low_onset_rate": 6.314930538718906,
+  "lufs": -13.594905122557714,
+  "rms_dbfs": -12.30428337333713,
+  "crest": 12.304283142089844,
+  "centroid": 940.5902139143834,
+  "flatness": 0.0005505458684638143,
+  "sub100_share": 0.23848995566368103,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.9488926529884338,
+  "clean_share": 0.9976726144297905,
+  "minor_share": 0.2176311319729618,
+  "chord_rate": 0.5011849633903894,
+  "repetitiveness": 0.7844391465187073,
+  "vocal_share": 0.06307575851678848,
+  "vocal_voiced": 0.9870609981515711,
+  "song_length": 858.242
+ }
+}

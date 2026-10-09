@@ -1,0 +1,32 @@
+{
+ "id": "idi-bihotz/975196400-106",
+ "band": "idi-bihotz",
+ "title": "Zelatan",
+ "source": "itunes",
+ "album": "Amaigabe berria",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 6.849527833001988,
+  "tempo_var": 29.88116140920976,
+  "low_onset_rate": 8.453319715851235,
+  "lufs": -8.108630978183381,
+  "rms_dbfs": -7.400874150745775,
+  "crest": 7.400874614715576,
+  "centroid": 2777.7205179113976,
+  "flatness": 0.04357258602976799,
+  "sub100_share": 0.3678268790245056,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.6775583028793335,
+  "clean_share": 0.0,
+  "minor_share": 0.10844300523611267,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.8705146312713623,
+  "vocal_share": 0.20579856634140015,
+  "vocal_voiced": 0.793265465935787,
+  "song_length": 186.72
+ }
+}

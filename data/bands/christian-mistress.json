@@ -1,0 +1,127 @@
+{
+ "slug": "christian-mistress",
+ "name": "Christian Mistress",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 385042629,
+  "deezer": 437761,
+  "spotify": "0fEyv0n8MBgXZQLOMcHbZO"
+ },
+ "metadata": {
+  "formed": 2008,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 4,
+  "past_members": 4,
+  "full_lengths": 4,
+  "genre": "Heavy Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 677,
+  "themes": "Hopes, Dreams, Fears, Occultism",
+  "release_year": 2015
+ },
+ "partial": false,
+ "clips": [
+  "christian-mistress/485445195-105",
+  "christian-mistress/1009385637-105",
+  "christian-mistress/1787123431-104",
+  "christian-mistress/485445195-106",
+  "christian-mistress/1009385637-104",
+  "christian-mistress/1787123431-105",
+  "christian-mistress/485445195-104",
+  "christian-mistress/1009385637-106",
+  "christian-mistress/1787123431-103",
+  "christian-mistress/485445195-107",
+  "christian-mistress/1009385637-103",
+  "christian-mistress/1787123431-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 124.1731621853547,
+   "iqr": 50.41098549424808
+  },
+  "onset_rate": {
+   "median": 3.775593390874267,
+   "iqr": 1.7273295188220272
+  },
+  "tempo_var": {
+   "median": 15.744830131943852,
+   "iqr": 28.049462667611714
+  },
+  "low_onset_rate": {
+   "median": 4.222077999482778,
+   "iqr": 2.003613229161615
+  },
+  "lufs": {
+   "median": -9.304050463353857,
+   "iqr": 2.010381945418745
+  },
+  "rms_dbfs": {
+   "median": -9.027310189996125,
+   "iqr": 1.2744639416958403
+  },
+  "crest": {
+   "median": 9.027310371398926,
+   "iqr": 1.2744636535644531
+  },
+  "centroid": {
+   "median": 2161.7203709100977,
+   "iqr": 425.6171328702883
+  },
+  "flatness": {
+   "median": 0.01952955685555935,
+   "iqr": 0.013004203094169497
+  },
+  "sub100_share": {
+   "median": 0.1703435704112053,
+   "iqr": 0.1588725708425045
+  },
+  "lowest_pitch": {
+   "median": 48.44970703125,
+   "iqr": 11.43951416015625
+  },
+  "harmonic_share": {
+   "median": 0.7672832608222961,
+   "iqr": 0.06533248722553253
+  },
+  "clean_share": {
+   "median": 0.08721391051214492,
+   "iqr": 0.47499681755843076
+  },
+  "minor_share": {
+   "median": 0.12811612200548292,
+   "iqr": 0.13664862669076494
+  },
+  "chord_rate": {
+   "median": 1.368404612972571,
+   "iqr": 0.780904158383035
+  },
+  "repetitiveness": {
+   "median": 0.8185744881629944,
+   "iqr": 0.07439112663269043
+  },
+  "vocal_share": {
+   "median": 0.14999429881572723,
+   "iqr": 0.07923634350299835
+  },
+  "vocal_voiced": {
+   "median": 0.933852140077821,
+   "iqr": 0.03766425459912881
+  },
+  "song_length": {
+   "median": 281.86,
+   "iqr": 41.854250000000036
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

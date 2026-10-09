@@ -1,0 +1,32 @@
+{
+ "id": "atheist/1653998187-106",
+ "band": "atheist",
+ "title": "Animal",
+ "source": "itunes",
+ "album": "Elements",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.606161809630025,
+  "tempo_var": 2.5804581195203733,
+  "low_onset_rate": 3.9760673762304224,
+  "lufs": -11.027813011746414,
+  "rms_dbfs": -10.549445670824944,
+  "crest": 10.549446105957031,
+  "centroid": 2561.093734709587,
+  "flatness": 0.02052752487361431,
+  "sub100_share": 0.4307303726673126,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7220413684844971,
+  "clean_share": 0.09464701318851823,
+  "minor_share": -0.04607764070788317,
+  "chord_rate": 2.67298647141541,
+  "repetitiveness": 0.9125227332115173,
+  "vocal_share": 0.07098043709993362,
+  "vocal_voiced": 0.2570194384449244,
+  "song_length": 251.413
+ }
+}

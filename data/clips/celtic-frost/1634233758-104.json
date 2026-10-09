@@ -1,0 +1,32 @@
+{
+ "id": "celtic-frost/1634233758-104",
+ "band": "celtic-frost",
+ "title": "Tristesses de la Lune",
+ "source": "itunes",
+ "album": "Into the Pandemonium",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.0071097803423363,
+  "tempo_var": 13.769378759369323,
+  "low_onset_rate": 8.085784076031615,
+  "lufs": -16.713971930901028,
+  "rms_dbfs": -16.62779706178482,
+  "crest": 15.768369674682617,
+  "centroid": 1931.1449395939562,
+  "flatness": 0.0066347671672701836,
+  "sub100_share": 0.009044849313795567,
+  "lowest_pitch": 164.190673828125,
+  "harmonic_share": 0.9358758926391602,
+  "clean_share": 0.7773467804499612,
+  "minor_share": -0.05580360417382568,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.6860567927360535,
+  "vocal_share": 0.2696279287338257,
+  "vocal_voiced": 0.8591954022988506,
+  "song_length": 179.947
+ }
+}

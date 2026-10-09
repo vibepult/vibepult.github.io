@@ -1,0 +1,127 @@
+{
+ "slug": "tuatha-de-danann",
+ "name": "Tuatha de Danann",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 275891977,
+  "deezer": 8853,
+  "spotify": "13LUK4MSLSmDpI6D3lJqEn"
+ },
+ "metadata": {
+  "formed": 1995,
+  "split": null,
+  "country": "BR",
+  "status": "active",
+  "members": 4,
+  "past_members": 10,
+  "full_lengths": 6,
+  "genre": "Celtic Folk Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 12574,
+  "themes": "Celtic folklore, Fantasy, Sociopolitical commentary",
+  "release_year": 2003
+ },
+ "partial": false,
+ "clips": [
+  "tuatha-de-danann/1481528473-105",
+  "tuatha-de-danann/1482371337-103",
+  "tuatha-de-danann/275891976-106",
+  "tuatha-de-danann/1545070123-106",
+  "tuatha-de-danann/1718081687-104",
+  "tuatha-de-danann/1481528473-104",
+  "tuatha-de-danann/1482371337-104",
+  "tuatha-de-danann/275891976-107",
+  "tuatha-de-danann/1545070123-105",
+  "tuatha-de-danann/1718081687-103",
+  "tuatha-de-danann/1481528473-106",
+  "tuatha-de-danann/1482371337-102"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 20.440939198369563
+  },
+  "onset_rate": {
+   "median": 4.838865120893365,
+   "iqr": 1.0771844849954277
+  },
+  "tempo_var": {
+   "median": 9.199040981319738,
+   "iqr": 8.984497757325236
+  },
+  "low_onset_rate": {
+   "median": 6.064338057023711,
+   "iqr": 1.8151033714600624
+  },
+  "lufs": {
+   "median": -10.905779414541701,
+   "iqr": 3.879596430860044
+  },
+  "rms_dbfs": {
+   "median": -10.14828147233964,
+   "iqr": 3.254189766666858
+  },
+  "crest": {
+   "median": 10.14828109741211,
+   "iqr": 3.254189610481262
+  },
+  "centroid": {
+   "median": 2280.913124054249,
+   "iqr": 565.4026080201361
+  },
+  "flatness": {
+   "median": 0.019209965132176876,
+   "iqr": 0.01825793646275997
+  },
+  "sub100_share": {
+   "median": 0.3305361419916153,
+   "iqr": 0.09568030014634132
+  },
+  "lowest_pitch": {
+   "median": 64.599609375,
+   "iqr": 57.8704833984375
+  },
+  "harmonic_share": {
+   "median": 0.8058061599731445,
+   "iqr": 0.056130245327949524
+  },
+  "clean_share": {
+   "median": 0.19123351435221103,
+   "iqr": 0.5789659604110454
+  },
+  "minor_share": {
+   "median": -0.01445008904786288,
+   "iqr": 0.22087336032418084
+  },
+  "chord_rate": {
+   "median": 1.3181970411212067,
+   "iqr": 0.6014219560684673
+  },
+  "repetitiveness": {
+   "median": 0.7811222672462463,
+   "iqr": 0.0877036303281784
+  },
+  "vocal_share": {
+   "median": 0.16771811246871948,
+   "iqr": 0.15199925377964973
+  },
+  "vocal_voiced": {
+   "median": 0.7011007620660458,
+   "iqr": 0.22173530891747628
+  },
+  "song_length": {
+   "median": 278.94000000000005,
+   "iqr": 118.22325000000004
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.5,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

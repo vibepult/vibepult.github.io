@@ -1,0 +1,32 @@
+{
+ "id": "meshuggah/1776756449-106",
+ "band": "meshuggah",
+ "title": "We'll Never See the Day",
+ "source": "itunes",
+ "album": "Contradictions Collapse (Reloaded)",
+ "year": 1991,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.0,
+  "tempo_var": 2.193085582740792,
+  "low_onset_rate": 7.5,
+  "lufs": -9.936303516211892,
+  "rms_dbfs": -10.022869512500119,
+  "crest": 10.022869110107422,
+  "centroid": 2862.2179055334923,
+  "flatness": 0.05210594832897186,
+  "sub100_share": 0.20583413541316986,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.6968520283699036,
+  "clean_share": 0.039473684210526314,
+  "minor_share": -0.03756081847578019,
+  "chord_rate": 2.8666666666666667,
+  "repetitiveness": 0.8815027475357056,
+  "vocal_share": 0.13621920347213745,
+  "vocal_voiced": 0.02050113895216401,
+  "song_length": 362.36
+ }
+}

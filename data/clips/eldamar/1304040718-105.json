@@ -1,0 +1,32 @@
+{
+ "id": "eldamar/1304040718-105",
+ "band": "eldamar",
+ "title": "Ancient Sorcery",
+ "source": "itunes",
+ "album": "A Dark Forgotten Past",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 6.782703171216603,
+  "tempo_var": 10.787984142975922,
+  "low_onset_rate": 6.949764825680066,
+  "lufs": -10.423722331057201,
+  "rms_dbfs": -10.256937061537903,
+  "crest": 10.256937026977539,
+  "centroid": 3005.1020165540995,
+  "flatness": 0.05728324130177498,
+  "sub100_share": 0.24071845412254333,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8892681002616882,
+  "clean_share": 0.0,
+  "minor_share": 0.020940155461304455,
+  "chord_rate": 0.7684836105319304,
+  "repetitiveness": 0.846846342086792,
+  "vocal_share": 0.03477950394153595,
+  "vocal_voiced": 0.9466357308584686,
+  "song_length": 512.821
+ }
+}

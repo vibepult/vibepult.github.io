@@ -1,0 +1,32 @@
+{
+ "id": "katatonia/786163307-106",
+ "band": "katatonia",
+ "title": "Leech",
+ "source": "itunes",
+ "album": "Dead End Kings",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.4080577510546477,
+  "tempo_var": 2.1294428177756033,
+  "low_onset_rate": 3.107346773020414,
+  "lufs": -12.79483392009143,
+  "rms_dbfs": -11.202476866771537,
+  "crest": 11.20247745513916,
+  "centroid": 2057.0918440504433,
+  "flatness": 0.009094193577766418,
+  "sub100_share": 0.6155649423599243,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.8636037707328796,
+  "clean_share": 0.5252133436772692,
+  "minor_share": 0.24068564092567024,
+  "chord_rate": 1.3030809048150125,
+  "repetitiveness": 0.6058884859085083,
+  "vocal_share": 0.052272338420152664,
+  "vocal_voiced": 0.8851224105461394,
+  "song_length": 263.213
+ }
+}

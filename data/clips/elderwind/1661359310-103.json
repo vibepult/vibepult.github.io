@@ -1,0 +1,32 @@
+{
+ "id": "elderwind/1661359310-103",
+ "band": "elderwind",
+ "title": "Call of the Urals",
+ "source": "itunes",
+ "album": "Fires",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.30782075837657,
+  "tempo_var": 8.449687953983759,
+  "low_onset_rate": 5.178911288367357,
+  "lufs": -13.242379318958138,
+  "rms_dbfs": -12.356410703950477,
+  "crest": 12.35641098022461,
+  "centroid": 2110.515333703029,
+  "flatness": 0.015329215675592422,
+  "sub100_share": 0.3729301691055298,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.8704093098640442,
+  "clean_share": 0.11326609775019394,
+  "minor_share": 0.09173813850475221,
+  "chord_rate": 0.4343603016050041,
+  "repetitiveness": 0.7503740191459656,
+  "vocal_share": 0.0016861723270267248,
+  "vocal_voiced": 0.5619469026548672,
+  "song_length": 519.273
+ }
+}

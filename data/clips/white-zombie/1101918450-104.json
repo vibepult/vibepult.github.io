@@ -1,0 +1,32 @@
+{
+ "id": "white-zombie/1101918450-104",
+ "band": "white-zombie",
+ "title": "Crow III",
+ "source": "itunes",
+ "album": "Soul-Crusher",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.6333333333333333,
+  "tempo_var": 1.1294768280506713,
+  "low_onset_rate": 4.9,
+  "lufs": -12.305916199521716,
+  "rms_dbfs": -11.910688686043873,
+  "crest": 11.910688400268555,
+  "centroid": 1676.5986336442074,
+  "flatness": 0.004153563175350428,
+  "sub100_share": 0.25815653800964355,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7336891889572144,
+  "clean_share": 0.7414860681114551,
+  "minor_share": -0.055176146552120664,
+  "chord_rate": 2.033333333333333,
+  "repetitiveness": 0.9440186023712158,
+  "vocal_share": 0.10062731802463531,
+  "vocal_voiced": 0.7252985884907709,
+  "song_length": 230.747
+ }
+}

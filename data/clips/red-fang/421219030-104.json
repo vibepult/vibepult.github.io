@@ -1,0 +1,32 @@
+{
+ "id": "red-fang/421219030-104",
+ "band": "red-fang",
+ "title": "Dirt Wizard",
+ "source": "itunes",
+ "album": "Murder the Mountains",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.811375648547738,
+  "tempo_var": 24.585164181325958,
+  "low_onset_rate": 6.147868884255443,
+  "lufs": -7.720514345871077,
+  "rms_dbfs": -6.798978173034055,
+  "crest": 6.798978328704834,
+  "centroid": 2059.290651147602,
+  "flatness": 0.01994900591671467,
+  "sub100_share": 0.35652783513069153,
+  "lowest_pitch": 26.91650390625,
+  "harmonic_share": 0.5974332690238953,
+  "clean_share": 0.048875096974398756,
+  "minor_share": 0.10869817035087181,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.8959701657295227,
+  "vocal_share": 0.07671910524368286,
+  "vocal_voiced": 0.1767515923566879,
+  "song_length": 177.733
+ }
+}

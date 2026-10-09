@@ -1,0 +1,32 @@
+{
+ "id": "coroner/1439100202-106",
+ "band": "coroner",
+ "title": "Status: Still Thinking",
+ "source": "itunes",
+ "album": "Grin",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.343603016050041,
+  "tempo_var": 10.517325457227875,
+  "low_onset_rate": 4.57748933229889,
+  "lufs": -12.958128804369876,
+  "rms_dbfs": -12.591431042220322,
+  "crest": 12.5914306640625,
+  "centroid": 2650.2734154896634,
+  "flatness": 0.032399073243141174,
+  "sub100_share": 0.27262645959854126,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.6645413041114807,
+  "clean_share": 0.010861132660977503,
+  "minor_share": 0.2567399734921821,
+  "chord_rate": 2.4391001551665616,
+  "repetitiveness": 0.8386209011077881,
+  "vocal_share": 0.038900021463632584,
+  "vocal_voiced": 0.0,
+  "song_length": 374.133
+ }
+}

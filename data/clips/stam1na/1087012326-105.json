@@ -1,0 +1,32 @@
+{
+ "id": "stam1na/1087012326-105",
+ "band": "stam1na",
+ "title": "Pienet vihreät miehet",
+ "source": "itunes",
+ "album": "Elokuutio",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.21232361926005,
+  "tempo_var": 17.216964095955504,
+  "low_onset_rate": 5.746920913543131,
+  "lufs": -7.8174886142896005,
+  "rms_dbfs": -7.535921135800129,
+  "crest": 7.535921096801758,
+  "centroid": 2504.70005480394,
+  "flatness": 0.03241874650120735,
+  "sub100_share": 0.3233647644519806,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.6914787292480469,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.04601676104688823,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.8551740646362305,
+  "vocal_share": 0.21629264950752258,
+  "vocal_voiced": 0.4741532976827095,
+  "song_length": 225.587
+ }
+}

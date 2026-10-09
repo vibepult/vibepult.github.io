@@ -1,0 +1,32 @@
+{
+ "id": "extreme-noise-terror/1281105641-110",
+ "band": "extreme-noise-terror",
+ "title": "Murder",
+ "source": "itunes",
+ "album": "Holocaust in Your Head",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 0.8353082723173156,
+  "tempo_var": 10.026728347657082,
+  "low_onset_rate": 1.871090529990787,
+  "lufs": -6.616566094797521,
+  "rms_dbfs": -6.893162813027462,
+  "crest": 6.893162727355957,
+  "centroid": 2332.754826280604,
+  "flatness": 0.03776352107524872,
+  "sub100_share": 0.05464436486363411,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.5996415019035339,
+  "clean_share": 0.26532195500387895,
+  "minor_share": 0.06760967111368066,
+  "chord_rate": 2.205213838917713,
+  "repetitiveness": 0.8478190302848816,
+  "vocal_share": 0.5818917751312256,
+  "vocal_voiced": 0.31839622641509435,
+  "song_length": 129.067
+ }
+}

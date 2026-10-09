@@ -1,0 +1,32 @@
+{
+ "id": "danzig/1440885708-105",
+ "band": "danzig",
+ "title": "I'm the One",
+ "source": "itunes",
+ "album": "Danzig II: Lucifuge",
+ "year": 1990,
+ "itunes_year": 1990,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.5332799201826126,
+  "tempo_var": 3.1402489169839924,
+  "low_onset_rate": 5.299919880273919,
+  "lufs": -12.697391945717044,
+  "rms_dbfs": -12.517416251904425,
+  "crest": 12.517416000366211,
+  "centroid": 1953.0282301456743,
+  "flatness": 0.013433440588414669,
+  "sub100_share": 0.04037392511963844,
+  "lowest_pitch": 94.207763671875,
+  "harmonic_share": 0.8445399403572083,
+  "clean_share": 0.5661252900232019,
+  "minor_share": 0.2480596207586805,
+  "chord_rate": 2.599960695983432,
+  "repetitiveness": 0.6815239191055298,
+  "vocal_share": 0.6109623908996582,
+  "vocal_voiced": 0.9366028708133971,
+  "song_length": 201.785
+ }
+}

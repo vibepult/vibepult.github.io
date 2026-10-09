@@ -1,0 +1,32 @@
+{
+ "id": "dream-theater/3631486-104",
+ "band": "dream-theater",
+ "title": "Honor Thy Father",
+ "source": "itunes",
+ "album": "Train of Thought",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 5.432692743712759,
+  "tempo_var": 25.089434036496854,
+  "low_onset_rate": 5.266045727034454,
+  "lufs": -11.544280588680497,
+  "rms_dbfs": -10.609896103284598,
+  "crest": 10.609895706176758,
+  "centroid": 2706.942817440997,
+  "flatness": 0.03289099410176277,
+  "sub100_share": 0.43372511863708496,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7522159218788147,
+  "clean_share": 0.03557617942768755,
+  "minor_share": 0.19138747376193543,
+  "chord_rate": 2.5330346535102435,
+  "repetitiveness": 0.9548658132553101,
+  "vocal_share": 4.257973671428772e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 612.667
+ }
+}

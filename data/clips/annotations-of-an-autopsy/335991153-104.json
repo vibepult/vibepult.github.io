@@ -1,0 +1,32 @@
+{
+ "id": "annotations-of-an-autopsy/335991153-104",
+ "band": "annotations-of-an-autopsy",
+ "title": "Welcome To Sludge City",
+ "source": "itunes",
+ "album": "Before the Throne of Infection",
+ "year": 2008,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.84478797944043,
+  "tempo_var": 5.951330619978932,
+  "low_onset_rate": 7.584599112641226,
+  "lufs": -8.439003135211465,
+  "rms_dbfs": -7.894264633282743,
+  "crest": 7.894264221191406,
+  "centroid": 2270.838691228983,
+  "flatness": 0.02378411963582039,
+  "sub100_share": 0.33698707818984985,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7651922702789307,
+  "clean_share": 0.027152831652443754,
+  "minor_share": 0.04930254411575119,
+  "chord_rate": 2.1049768462396354,
+  "repetitiveness": 0.8961693644523621,
+  "vocal_share": 0.20405404269695282,
+  "vocal_voiced": 0.4933569530558016,
+  "song_length": 164.953
+ }
+}

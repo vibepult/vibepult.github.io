@@ -1,0 +1,32 @@
+{
+ "id": "trivium/214471765-106",
+ "band": "trivium",
+ "title": "A Gunshot to the Head of Trepidation",
+ "source": "itunes",
+ "album": "Ascendancy",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.965963197083337,
+  "tempo_var": 0.0,
+  "low_onset_rate": 7.232480523838459,
+  "lufs": -8.377982007389555,
+  "rms_dbfs": -8.182199503042753,
+  "crest": 8.182199478149414,
+  "centroid": 2599.0300322270987,
+  "flatness": 0.038026127964258194,
+  "sub100_share": 0.327368825674057,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7202479243278503,
+  "clean_share": 0.0,
+  "minor_share": 0.0805623255073295,
+  "chord_rate": 2.299728830160616,
+  "repetitiveness": 0.8457376956939697,
+  "vocal_share": 0.18765954673290253,
+  "vocal_voiced": 0.17757009345794392,
+  "song_length": 355.547
+ }
+}

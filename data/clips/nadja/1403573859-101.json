@@ -1,0 +1,32 @@
+{
+ "id": "nadja/1403573859-101",
+ "band": "nadja",
+ "title": "Sonnborner/Aten",
+ "source": "itunes",
+ "album": "Sonnborner",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 1.1026069194588566,
+  "tempo_var": 2.9936355178521827,
+  "low_onset_rate": 2.2386261698104057,
+  "lufs": -25.00495290848989,
+  "rms_dbfs": -21.57055225384493,
+  "crest": 16.624217987060547,
+  "centroid": 425.89066255935,
+  "flatness": 7.505848770961165e-05,
+  "sub100_share": 0.8847687840461731,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.9781461954116821,
+  "clean_share": 0.9992242048099301,
+  "minor_share": 0.059696753965557736,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.9488430023193359,
+  "vocal_share": 1.4887396559970512e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 1800.029
+ }
+}

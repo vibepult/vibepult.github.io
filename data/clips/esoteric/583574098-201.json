@@ -1,0 +1,32 @@
+{
+ "id": "esoteric/583574098-201",
+ "band": "esoteric",
+ "title": "Silence",
+ "source": "itunes",
+ "album": "The Maniacal Vale",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 2.0381521844542503,
+  "tempo_var": 11.737466766161118,
+  "low_onset_rate": 1.2028439121369345,
+  "lufs": -11.661244929291401,
+  "rms_dbfs": -11.117068915706408,
+  "crest": 11.11706829071045,
+  "centroid": 1711.5685162762345,
+  "flatness": 0.020140662789344788,
+  "sub100_share": 0.2999945878982544,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.8982436656951904,
+  "clean_share": 0.73933281613654,
+  "minor_share": 0.22154194318297293,
+  "chord_rate": 0.801895941424623,
+  "repetitiveness": 0.683815062046051,
+  "vocal_share": 1.2116623793190229e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 944.693
+ }
+}

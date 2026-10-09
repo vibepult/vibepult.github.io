@@ -1,0 +1,32 @@
+{
+ "id": "nemesea/1184718162-107",
+ "band": "nemesea",
+ "title": "Light Up the Sky",
+ "source": "itunes",
+ "album": "Uprise",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.333333333333333,
+  "tempo_var": 2.256078020486633,
+  "low_onset_rate": 2.2,
+  "lufs": -12.336527684506539,
+  "rms_dbfs": -11.478122736130011,
+  "crest": 11.47812271118164,
+  "centroid": 1969.3086977064625,
+  "flatness": 0.007233591750264168,
+  "sub100_share": 0.24828247725963593,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.9391616582870483,
+  "clean_share": 0.6099071207430341,
+  "minor_share": -0.036739326867394895,
+  "chord_rate": 0.5,
+  "repetitiveness": 0.5162631869316101,
+  "vocal_share": 0.23368990421295166,
+  "vocal_voiced": 0.859086491739553,
+  "song_length": 224.52
+ }
+}

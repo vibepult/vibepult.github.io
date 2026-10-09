@@ -1,0 +1,32 @@
+{
+ "id": "body-count/862275493-110",
+ "band": "body-count",
+ "title": "Voodoo",
+ "source": "itunes",
+ "album": "Body Count",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 4.332822433635943,
+  "tempo_var": 17.442224841527956,
+  "low_onset_rate": 6.232598423768626,
+  "lufs": -12.656598242022891,
+  "rms_dbfs": -13.15026164030343,
+  "crest": 13.150261878967285,
+  "centroid": 2722.1388733532854,
+  "flatness": 0.05203334242105484,
+  "sub100_share": 0.22341063618659973,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.5341545939445496,
+  "clean_share": 0.0038669760247486465,
+  "minor_share": -0.04969369187243633,
+  "chord_rate": 1.366505536762105,
+  "repetitiveness": 0.9458022117614746,
+  "vocal_share": 0.3513962924480438,
+  "vocal_voiced": 0.5360738255033557,
+  "song_length": 300.733
+ }
+}

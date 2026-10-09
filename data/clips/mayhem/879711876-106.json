@@ -1,0 +1,32 @@
+{
+ "id": "mayhem/879711876-106",
+ "band": "mayhem",
+ "title": "Vi.Sec.",
+ "source": "itunes",
+ "album": "Esoteric Warfare",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 1.5369672210638607,
+  "tempo_var": 8.36166549232408,
+  "low_onset_rate": 3.6085317364108036,
+  "lufs": -11.815391058994763,
+  "rms_dbfs": -11.925476942876292,
+  "crest": 11.925477027893066,
+  "centroid": 2123.92889887114,
+  "flatness": 0.01563929207623005,
+  "sub100_share": 0.26381054520606995,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.8035671710968018,
+  "clean_share": 0.3235065942591156,
+  "minor_share": 0.07122399833823023,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.7361208200454712,
+  "vocal_share": 0.08330751210451126,
+  "vocal_voiced": 0.2556053811659193,
+  "song_length": 252.8
+ }
+}

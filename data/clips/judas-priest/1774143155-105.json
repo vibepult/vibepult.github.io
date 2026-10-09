@@ -1,0 +1,32 @@
+{
+ "id": "judas-priest/1774143155-105",
+ "band": "judas-priest",
+ "title": "Prelude",
+ "source": "itunes",
+ "album": "Sad Wings Of Destiny",
+ "year": 1976,
+ "itunes_year": 1976,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 1.4666444951701412,
+  "tempo_var": 21.389125906305367,
+  "low_onset_rate": 2.9999546492116522,
+  "lufs": -17.268602521607253,
+  "rms_dbfs": -15.543367719394471,
+  "crest": 13.908166885375977,
+  "centroid": 932.2315804462319,
+  "flatness": 0.00035589217441156507,
+  "sub100_share": 0.47680023312568665,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.9810017943382263,
+  "clean_share": 0.9891724671307038,
+  "minor_share": -0.08143400804204753,
+  "chord_rate": 0.9999848830705508,
+  "repetitiveness": 0.4140205681324005,
+  "vocal_share": 0.00026911881286650896,
+  "vocal_voiced": 1.0,
+  "song_length": 122.08
+ }
+}

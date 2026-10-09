@@ -1,0 +1,32 @@
+{
+ "id": "pantera/1163813169-107",
+ "band": "pantera",
+ "title": "Slaughtered",
+ "source": "itunes",
+ "album": "Far Beyond Driven",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.199284211544507,
+  "tempo_var": 33.13034057735305,
+  "low_onset_rate": 4.732274562909583,
+  "lufs": -8.828365842759515,
+  "rms_dbfs": -8.99169111523121,
+  "crest": 8.991690635681152,
+  "centroid": 3256.043332716117,
+  "flatness": 0.06734862178564072,
+  "sub100_share": 0.2782580554485321,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.6732279062271118,
+  "clean_share": 0.014694508894044857,
+  "minor_share": -0.0028999068418002483,
+  "chord_rate": 2.2661596498440257,
+  "repetitiveness": 0.9452053308486938,
+  "vocal_share": 0.08007282018661499,
+  "vocal_voiced": 0.09251101321585903,
+  "song_length": 236.846
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "akercocke/42365514-105",
+ "band": "akercocke",
+ "title": "Choronzon",
+ "source": "itunes",
+ "album": "Choronzon",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 0.267298647141541,
+  "tempo_var": 6.835859844533704,
+  "low_onset_rate": 8.887680017456239,
+  "lufs": -20.744363344758746,
+  "rms_dbfs": -18.55858028511438,
+  "crest": 15.138606071472168,
+  "centroid": 996.8926973866218,
+  "flatness": 0.0014661562163382769,
+  "sub100_share": 0.5059999823570251,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8965737223625183,
+  "clean_share": 0.8937160589604345,
+  "minor_share": -0.11571329360794436,
+  "chord_rate": 0.033412330892692625,
+  "repetitiveness": 0.845401406288147,
+  "vocal_share": 1.7220767176695517e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 127.08
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "krokus/1753747354-105",
+ "band": "krokus",
+ "title": "Blood Comes Easy",
+ "source": "itunes",
+ "album": "Round 13",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.166647518382353,
+  "tempo_var": 7.870765438063313,
+  "low_onset_rate": 2.066654169891641,
+  "lufs": -11.744494141880196,
+  "rms_dbfs": -11.410583975837202,
+  "crest": 11.410584449768066,
+  "centroid": 1868.41647481788,
+  "flatness": 0.022116053849458694,
+  "sub100_share": 0.2291370928287506,
+  "lowest_pitch": 24.224853515625,
+  "harmonic_share": 0.7106998562812805,
+  "clean_share": 0.3774168600154679,
+  "minor_share": 0.06274388248124585,
+  "chord_rate": 1.2333258755804954,
+  "repetitiveness": 0.9102248549461365,
+  "vocal_share": 0.001106482231989503,
+  "vocal_voiced": 0.1935483870967742,
+  "song_length": 291.133
+ }
+}

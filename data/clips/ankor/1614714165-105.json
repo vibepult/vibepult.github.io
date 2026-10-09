@@ -1,0 +1,32 @@
+{
+ "id": "ankor/1614714165-105",
+ "band": "ankor",
+ "title": "Walking Dead",
+ "source": "itunes",
+ "album": "White Dragon",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.078674295689279,
+  "tempo_var": 2.081114531047874,
+  "low_onset_rate": 2.572749478737332,
+  "lufs": -7.892808585820314,
+  "rms_dbfs": -7.57781866616703,
+  "crest": 7.577818870544434,
+  "centroid": 2573.157223725933,
+  "flatness": 0.023959359154105186,
+  "sub100_share": 0.420646071434021,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8021174073219299,
+  "clean_share": 0.0969743987587277,
+  "minor_share": 0.2288894591536561,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.7505393624305725,
+  "vocal_share": 0.19022426009178162,
+  "vocal_voiced": 0.9022491349480969,
+  "song_length": 208.576
+ }
+}

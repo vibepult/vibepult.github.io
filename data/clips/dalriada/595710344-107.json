@@ -1,0 +1,32 @@
+{
+ "id": "dalriada/595710344-107",
+ "band": "dalriada",
+ "title": "Igaz Hittel",
+ "source": "itunes",
+ "album": "Jégbontó",
+ "year": 2006,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.677726324976968,
+  "tempo_var": 3.7776173745078285,
+  "low_onset_rate": 4.945024972118508,
+  "lufs": -8.618413482607687,
+  "rms_dbfs": -8.451986687179092,
+  "crest": 8.451987266540527,
+  "centroid": 2785.161800111373,
+  "flatness": 0.042488064616918564,
+  "sub100_share": 0.27401143312454224,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8024591207504272,
+  "clean_share": 0.005430566330488751,
+  "minor_share": 0.1232026337839065,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.7948528528213501,
+  "vocal_share": 0.29275164008140564,
+  "vocal_voiced": 0.8416,
+  "song_length": 418.6
+ }
+}

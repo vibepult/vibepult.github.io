@@ -1,0 +1,32 @@
+{
+ "id": "stream-of-passion/1045520619-104",
+ "band": "stream-of-passion",
+ "title": "I'll Keep On Dreaming",
+ "source": "itunes",
+ "album": "Embrace the Storm",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.840048125878873,
+  "tempo_var": 3.032345247186984,
+  "low_onset_rate": 3.5082947437327254,
+  "lufs": -15.449845019817078,
+  "rms_dbfs": -14.386930340027444,
+  "crest": 14.386930465698242,
+  "centroid": 1773.930323074184,
+  "flatness": 0.00780454371124506,
+  "sub100_share": 0.25239816308021545,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.9049519300460815,
+  "clean_share": 0.7168347556245152,
+  "minor_share": 0.09125825952723332,
+  "chord_rate": 0.7684836105319304,
+  "repetitiveness": 0.559415876865387,
+  "vocal_share": 0.245749369263649,
+  "vocal_voiced": 0.920863309352518,
+  "song_length": 225.307
+ }
+}

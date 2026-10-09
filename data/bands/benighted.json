@@ -1,0 +1,127 @@
+{
+ "slug": "benighted",
+ "name": "Benighted",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 267088245,
+  "deezer": 10328,
+  "spotify": "0dUwIwaPc6UukkCZTaaf7J"
+ },
+ "metadata": {
+  "formed": 1998,
+  "split": null,
+  "country": "FR",
+  "status": "active",
+  "members": 3,
+  "past_members": 14,
+  "full_lengths": 10,
+  "genre": "Black/Death Metal (early); Brutal Death Metal/Grindcore (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 15120,
+  "themes": "Psychological disorders, Horror, Evil",
+  "release_year": 2009
+ },
+ "partial": false,
+ "clips": [
+  "benighted/304793093-105",
+  "benighted/282096971-106",
+  "benighted/267088239-107",
+  "benighted/597203213-107",
+  "benighted/794464624-106",
+  "benighted/1177743236-106",
+  "benighted/1491832565-106",
+  "benighted/1724477295-107",
+  "benighted/304793093-106",
+  "benighted/282096971-105",
+  "benighted/267088239-106",
+  "benighted/597203213-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 112.34714673913044,
+   "iqr": 19.22607421875
+  },
+  "onset_rate": {
+   "median": 5.412797604616205,
+   "iqr": 1.7708535373127088
+  },
+  "tempo_var": {
+   "median": 12.185710624881935,
+   "iqr": 10.384972332286356
+  },
+  "low_onset_rate": {
+   "median": 7.400831292731416,
+   "iqr": 2.99040361489599
+  },
+  "lufs": {
+   "median": -7.669980206985615,
+   "iqr": 1.243644039397001
+  },
+  "rms_dbfs": {
+   "median": -7.27372062364975,
+   "iqr": 1.1097373510916766
+  },
+  "crest": {
+   "median": 7.273720741271973,
+   "iqr": 1.1097371578216553
+  },
+  "centroid": {
+   "median": 2564.339688621825,
+   "iqr": 137.99481988790012
+  },
+  "flatness": {
+   "median": 0.033517392352223396,
+   "iqr": 0.009199194610118866
+  },
+  "sub100_share": {
+   "median": 0.3835929036140442,
+   "iqr": 0.05919733643531799
+  },
+  "lowest_pitch": {
+   "median": 44.4122314453125,
+   "iqr": 10.7666015625
+  },
+  "harmonic_share": {
+   "median": 0.7549363672733307,
+   "iqr": 0.0864042341709137
+  },
+  "clean_share": {
+   "median": 0.0003878975950349108,
+   "iqr": 0.024243599689681924
+  },
+  "minor_share": {
+   "median": -0.01395947494946459,
+   "iqr": 0.11080221774120257
+  },
+  "chord_rate": {
+   "median": 1.9880336881152112,
+   "iqr": 0.8018959414246232
+  },
+  "repetitiveness": {
+   "median": 0.9154421985149384,
+   "iqr": 0.0707952231168747
+  },
+  "vocal_share": {
+   "median": 0.16138601303100586,
+   "iqr": 0.11587799340486526
+  },
+  "vocal_voiced": {
+   "median": 0.14242115971515767,
+   "iqr": 0.09885416303489704
+  },
+  "song_length": {
+   "median": 227.614,
+   "iqr": 32.216499999999996
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

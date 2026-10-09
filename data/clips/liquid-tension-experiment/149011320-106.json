@@ -1,0 +1,32 @@
+{
+ "id": "liquid-tension-experiment/149011320-106",
+ "band": "liquid-tension-experiment",
+ "title": "Chewbacca",
+ "source": "itunes",
+ "album": "Liquid Tension Experiment 2",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 7.366666666666666,
+  "tempo_var": 11.053943926640011,
+  "low_onset_rate": 8.4,
+  "lufs": -19.883195640321386,
+  "rms_dbfs": -17.96144507717654,
+  "crest": 14.639939308166504,
+  "centroid": 1723.6649784762417,
+  "flatness": 0.004422835074365139,
+  "sub100_share": 0.7499703764915466,
+  "lowest_pitch": 29.608154296875,
+  "harmonic_share": 0.9385067820549011,
+  "clean_share": 0.728328173374613,
+  "minor_share": 0.06189906869222345,
+  "chord_rate": 1.7,
+  "repetitiveness": 0.8492581844329834,
+  "vocal_share": 1.3448069694277365e-05,
+  "vocal_voiced": 0.0,
+  "song_length": 815.533
+ }
+}

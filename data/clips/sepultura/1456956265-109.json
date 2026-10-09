@@ -1,0 +1,32 @@
+{
+ "id": "sepultura/1456956265-109",
+ "band": "sepultura",
+ "title": "Seethe",
+ "source": "itunes",
+ "album": "Kairos",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.2999800454721364,
+  "tempo_var": 0.9898024905679212,
+  "low_onset_rate": 4.0333089444659445,
+  "lufs": -11.305372418381033,
+  "rms_dbfs": -10.887225261504543,
+  "crest": 10.887226104736328,
+  "centroid": 2705.5610669953453,
+  "flatness": 0.04745261371135712,
+  "sub100_share": 0.4193985164165497,
+  "lowest_pitch": 29.608154296875,
+  "harmonic_share": 0.6708864569664001,
+  "clean_share": 0.010054137664346482,
+  "minor_share": 0.20353381728874514,
+  "chord_rate": 3.5666450996517027,
+  "repetitiveness": 0.9597606658935547,
+  "vocal_share": 0.09209834784269333,
+  "vocal_voiced": 0.015100671140939598,
+  "song_length": 144.387
+ }
+}

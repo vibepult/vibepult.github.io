@@ -1,0 +1,32 @@
+{
+ "id": "moonspell/1184697194-105",
+ "band": "moonspell",
+ "title": "En Nome Do Medo",
+ "source": "itunes",
+ "album": "Alpha Noir",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.133333333333334,
+  "tempo_var": 1.7805058389183854,
+  "low_onset_rate": 6.733333333333333,
+  "lufs": -8.037260793396664,
+  "rms_dbfs": -7.66564919447486,
+  "crest": 7.665648937225342,
+  "centroid": 2530.4421629369995,
+  "flatness": 0.03473840281367302,
+  "sub100_share": 0.3635561764240265,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7230448722839355,
+  "clean_share": 0.005417956656346749,
+  "minor_share": 0.08195925141879701,
+  "chord_rate": 1.9,
+  "repetitiveness": 0.9119721055030823,
+  "vocal_share": 0.07339470833539963,
+  "vocal_voiced": 0.18181818181818182,
+  "song_length": 267.48
+ }
+}

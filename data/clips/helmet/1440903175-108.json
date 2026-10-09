@@ -1,0 +1,32 @@
+{
+ "id": "helmet/1440903175-108",
+ "band": "helmet",
+ "title": "Clean",
+ "source": "itunes",
+ "album": "Betty",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.5666127496182978,
+  "tempo_var": 3.7150116211105058,
+  "low_onset_rate": 4.1666036794606285,
+  "lufs": -14.522853468128606,
+  "rms_dbfs": -13.291076969417738,
+  "crest": 13.29107666015625,
+  "centroid": 1988.751881697396,
+  "flatness": 0.016215460374951363,
+  "sub100_share": 0.34727585315704346,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.5553656220436096,
+  "clean_share": 0.39675174013921116,
+  "minor_share": -0.2765642439389093,
+  "chord_rate": 2.366630889933637,
+  "repetitiveness": 0.9052191972732544,
+  "vocal_share": 0.08193621039390564,
+  "vocal_voiced": 0.9103313840155945,
+  "song_length": 146.333
+ }
+}

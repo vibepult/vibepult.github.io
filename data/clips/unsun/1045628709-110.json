@@ -1,0 +1,32 @@
+{
+ "id": "unsun/1045628709-110",
+ "band": "unsun",
+ "title": "Closer to Death",
+ "source": "itunes",
+ "album": "The End of Life",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.34597294283082,
+  "tempo_var": 3.7212436289583932,
+  "low_onset_rate": 7.952134752460845,
+  "lufs": -7.016807627825949,
+  "rms_dbfs": -7.195373244124415,
+  "crest": 7.195372581481934,
+  "centroid": 2614.783599320928,
+  "flatness": 0.0379028283059597,
+  "sub100_share": 0.17514827847480774,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7636330723762512,
+  "clean_share": 0.01008533747090768,
+  "minor_share": 0.11035826831408058,
+  "chord_rate": 1.3030809048150125,
+  "repetitiveness": 0.8979551792144775,
+  "vocal_share": 0.3226352632045746,
+  "vocal_voiced": 0.9463869463869464,
+  "song_length": 224.427
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "neurosis/257523883-105",
+ "band": "neurosis",
+ "title": "The Web",
+ "source": "itunes",
+ "album": "Souls At Zero",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.878200310333123,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.949764825680066,
+  "lufs": -10.816065614731624,
+  "rms_dbfs": -9.935592421118054,
+  "crest": 9.935592651367188,
+  "centroid": 2046.2222967176663,
+  "flatness": 0.013808224350214005,
+  "sub100_share": 0.3611198961734772,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8334710001945496,
+  "clean_share": 0.21799844840961985,
+  "minor_share": -0.07419523582201754,
+  "chord_rate": 2.071564515346943,
+  "repetitiveness": 0.8421770334243774,
+  "vocal_share": 0.06037713959813118,
+  "vocal_voiced": 0.47227191413237923,
+  "song_length": 295.44
+ }
+}

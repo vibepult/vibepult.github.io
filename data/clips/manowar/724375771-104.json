@@ -1,0 +1,32 @@
+{
+ "id": "manowar/724375771-104",
+ "band": "manowar",
+ "title": "Shell Shock",
+ "source": "itunes",
+ "album": "Battle Hymns",
+ "year": 1982,
+ "itunes_year": 1982,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.8758303835523447,
+  "tempo_var": 10.823729424950209,
+  "low_onset_rate": 5.21232361926005,
+  "lufs": -14.276676381151207,
+  "rms_dbfs": -14.322025470550788,
+  "crest": 14.322025299072266,
+  "centroid": 2237.713519085176,
+  "flatness": 0.017388591542840004,
+  "sub100_share": 0.1835504025220871,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.6616314649581909,
+  "clean_share": 0.19317300232738557,
+  "minor_share": 0.09180808222722359,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.6932809352874756,
+  "vocal_share": 0.44566890597343445,
+  "vocal_voiced": 0.8401598401598401,
+  "song_length": 247.507
+ }
+}

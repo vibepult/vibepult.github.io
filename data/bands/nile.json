@@ -1,0 +1,127 @@
+{
+ "slug": "nile",
+ "name": "Nile",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 65885099,
+  "deezer": 6461,
+  "spotify": "3v3VSKylQE69ztn5TUVlFE"
+ },
+ "metadata": {
+  "formed": 1993,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 10,
+  "full_lengths": 10,
+  "genre": "Brutal/Technical Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 67224,
+  "themes": "Ancient Egyptian mythology/history, Death, Rituals, Lovecraft",
+  "release_year": 2006
+ },
+ "partial": false,
+ "clips": [
+  "nile/73640587-106",
+  "nile/73638138-107",
+  "nile/73638510-106",
+  "nile/65885380-105",
+  "nile/1479037127-105",
+  "nile/1479083377-105",
+  "nile/1479082570-106",
+  "nile/1479066038-105",
+  "nile/1478888374-105",
+  "nile/1744381441-107",
+  "nile/73640587-105",
+  "nile/73638138-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 28.533673614625513
+  },
+  "onset_rate": {
+   "median": 4.398879742775582,
+   "iqr": 4.905019450031561
+  },
+  "tempo_var": {
+   "median": 8.94621956354783,
+   "iqr": 10.713212264957663
+  },
+  "low_onset_rate": {
+   "median": 6.498226116265472,
+   "iqr": 5.775508960659987
+  },
+  "lufs": {
+   "median": -9.814130177380587,
+   "iqr": 1.569558718430308
+  },
+  "rms_dbfs": {
+   "median": -9.53315879745256,
+   "iqr": 1.8240875825657028
+  },
+  "crest": {
+   "median": 9.533158779144287,
+   "iqr": 1.8240876197814941
+  },
+  "centroid": {
+   "median": 2575.137673107947,
+   "iqr": 499.08796624985825
+  },
+  "flatness": {
+   "median": 0.02906513586640358,
+   "iqr": 0.024381788447499275
+  },
+  "sub100_share": {
+   "median": 0.3373387008905411,
+   "iqr": 0.0744871273636818
+  },
+  "lowest_pitch": {
+   "median": 41.7205810546875,
+   "iqr": 28.93524169921875
+  },
+  "harmonic_share": {
+   "median": 0.7643788456916809,
+   "iqr": 0.06425341963768005
+  },
+  "clean_share": {
+   "median": 0.04109434521505967,
+   "iqr": 0.32479568626674515
+  },
+  "minor_share": {
+   "median": 0.0680819742757208,
+   "iqr": 0.17487383549113195
+  },
+  "chord_rate": {
+   "median": 2.236091797962508,
+   "iqr": 0.404282496855219
+  },
+  "repetitiveness": {
+   "median": 0.8978650867938995,
+   "iqr": 0.06860795617103577
+  },
+  "vocal_share": {
+   "median": 0.09057218581438065,
+   "iqr": 0.08428966999053955
+  },
+  "vocal_voiced": {
+   "median": 0.4269293924466338,
+   "iqr": 0.24330961966316472
+  },
+  "song_length": {
+   "median": 285.48699999999997,
+   "iqr": 133.52674999999996
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "kawir/1508129487-105",
+ "band": "kawir",
+ "title": "Agamemnon",
+ "source": "itunes",
+ "album": "Εξιλασμός",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 7.016589487465451,
+  "tempo_var": 0.0,
+  "low_onset_rate": 9.42227731173932,
+  "lufs": -10.963220807900692,
+  "rms_dbfs": -9.946567811830974,
+  "crest": 9.94656753540039,
+  "centroid": 2006.8831293398032,
+  "flatness": 0.013646845705807209,
+  "sub100_share": 0.2670116424560547,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.8150771260261536,
+  "clean_share": 0.21334367726920092,
+  "minor_share": -0.19874246376858845,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.9626900553703308,
+  "vocal_share": 5.722956484532915e-05,
+  "vocal_voiced": 1.0,
+  "song_length": 464.469
+ }
+}

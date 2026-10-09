@@ -1,0 +1,127 @@
+{
+ "slug": "angellore",
+ "name": "Angellore",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 578473781,
+  "deezer": 4406922,
+  "spotify": "3mT1MRL1nkLJCm2vswBXDM"
+ },
+ "metadata": {
+  "formed": 2007,
+  "split": null,
+  "country": "FR",
+  "status": "active",
+  "members": 5,
+  "past_members": 0,
+  "full_lengths": 4,
+  "genre": "Gothic/Doom/Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 797,
+  "themes": "Sorrow, Death, Love, Loss, Beauty of Nature",
+  "release_year": 2017
+ },
+ "partial": false,
+ "clips": [
+  "angellore/1887748226-104",
+  "angellore/1887731401-103",
+  "angellore/1877516681-103",
+  "angellore/1887794635-103",
+  "angellore/1887748226-103",
+  "angellore/1887731401-102",
+  "angellore/1877516681-104",
+  "angellore/1887794635-102",
+  "angellore/1887748226-105",
+  "angellore/1887731401-104",
+  "angellore/1877516681-102",
+  "angellore/1887794635-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.19921875,
+   "iqr": 35.82191777711577
+  },
+  "onset_rate": {
+   "median": 3.0666203080830226,
+   "iqr": 1.5083105319647472
+  },
+  "tempo_var": {
+   "median": 4.74719960822722,
+   "iqr": 8.597380954127223
+  },
+  "low_onset_rate": {
+   "median": 5.116589318377652,
+   "iqr": 1.5666429834771964
+  },
+  "lufs": {
+   "median": -13.26066437050393,
+   "iqr": 3.5702963648818358
+  },
+  "rms_dbfs": {
+   "median": -12.302610637347186,
+   "iqr": 3.260906746250626
+  },
+  "crest": {
+   "median": 12.302611827850342,
+   "iqr": 2.5954430103302
+  },
+  "centroid": {
+   "median": 2039.5916144299194,
+   "iqr": 444.1827640300635
+  },
+  "flatness": {
+   "median": 0.013661514967679977,
+   "iqr": 0.014885774464346468
+  },
+  "sub100_share": {
+   "median": 0.28904932737350464,
+   "iqr": 0.308189082890749
+  },
+  "lowest_pitch": {
+   "median": 53.8330078125,
+   "iqr": 44.4122314453125
+  },
+  "harmonic_share": {
+   "median": 0.8941190242767334,
+   "iqr": 0.13062343001365662
+  },
+  "clean_share": {
+   "median": 0.29311678267594743,
+   "iqr": 0.6780742459396751
+  },
+  "minor_share": {
+   "median": 0.05161790100852984,
+   "iqr": 0.2553563970646954
+  },
+  "chord_rate": {
+   "median": 0.6666565887137005,
+   "iqr": 0.19166376925518902
+  },
+  "repetitiveness": {
+   "median": 0.7142634093761444,
+   "iqr": 0.1450178325176239
+  },
+  "vocal_share": {
+   "median": 0.12843912467360497,
+   "iqr": 0.1839933693408966
+  },
+  "vocal_voiced": {
+   "median": 0.7490040133021887,
+   "iqr": 0.20860122456056207
+  },
+  "song_length": {
+   "median": 443.82050000000004,
+   "iqr": 330.4000000000001
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "voivod/1799310469-105",
+ "band": "voivod",
+ "title": "Negatron",
+ "source": "itunes",
+ "album": "Negatron",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.8,
+  "tempo_var": 4.05029867380538,
+  "low_onset_rate": 4.7,
+  "lufs": -17.04317289287752,
+  "rms_dbfs": -16.446826255715774,
+  "crest": 16.446826934814453,
+  "centroid": 2506.5189645093483,
+  "flatness": 0.013535348698496819,
+  "sub100_share": 0.5210677981376648,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.802450954914093,
+  "clean_share": 0.21130030959752322,
+  "minor_share": 0.09007181335090664,
+  "chord_rate": 1.6333333333333333,
+  "repetitiveness": 0.9089886546134949,
+  "vocal_share": 0.011475984938442707,
+  "vocal_voiced": 0.6754966887417219,
+  "song_length": 428.04
+ }
+}

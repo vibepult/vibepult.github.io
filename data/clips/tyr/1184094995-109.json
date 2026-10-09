@@ -1,0 +1,32 @@
+{
+ "id": "tyr/1184094995-109",
+ "band": "tyr",
+ "title": "Wings of Time",
+ "source": "itunes",
+ "album": "Ragnarok",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 2.966666666666667,
+  "tempo_var": 37.56120741307555,
+  "low_onset_rate": 3.6,
+  "lufs": -7.6793233115712,
+  "rms_dbfs": -7.71724427610958,
+  "crest": 7.7172441482543945,
+  "centroid": 2433.427670928628,
+  "flatness": 0.0359460674226284,
+  "sub100_share": 0.2609890401363373,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7649099826812744,
+  "clean_share": 0.10681114551083591,
+  "minor_share": 0.14132328783250137,
+  "chord_rate": 1.7,
+  "repetitiveness": 0.8385298848152161,
+  "vocal_share": 0.2069520354270935,
+  "vocal_voiced": 0.9159817351598174,
+  "song_length": 385.573
+ }
+}

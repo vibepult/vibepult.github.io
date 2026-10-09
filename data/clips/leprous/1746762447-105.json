@@ -1,0 +1,32 @@
+{
+ "id": "leprous/1746762447-105",
+ "band": "leprous",
+ "title": "Like a Sunken Ship",
+ "source": "itunes",
+ "album": "Melodies Of Atonement",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 75.99954044117646,
+  "onset_rate": 3.697657870524943,
+  "tempo_var": 28.335649798866456,
+  "low_onset_rate": 3.7309701035927354,
+  "lufs": -15.605143692687177,
+  "rms_dbfs": -13.892063143652337,
+  "crest": 13.89206314086914,
+  "centroid": 1379.3909009543463,
+  "flatness": 0.0038035898469388485,
+  "sub100_share": 0.5062634944915771,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8077483177185059,
+  "clean_share": 0.8004640371229699,
+  "minor_share": 0.03756128489859245,
+  "chord_rate": 2.5317297131522136,
+  "repetitiveness": 0.808224081993103,
+  "vocal_share": 0.19797539710998535,
+  "vocal_voiced": 0.8598130841121495,
+  "song_length": 244.47
+ }
+}

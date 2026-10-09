@@ -1,0 +1,32 @@
+{
+ "id": "dr-sin/967567393-105",
+ "band": "dr-sin",
+ "title": "The Great Houdini",
+ "source": "itunes",
+ "album": "Intactus",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.040522111235029,
+  "tempo_var": 3.6587394302503067,
+  "low_onset_rate": 3.742181059981574,
+  "lufs": -12.060564624539422,
+  "rms_dbfs": -11.960848790061569,
+  "crest": 11.960848808288574,
+  "centroid": 2811.763109358402,
+  "flatness": 0.043255917727947235,
+  "sub100_share": 0.29027849435806274,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.717454731464386,
+  "clean_share": 0.06749418153607448,
+  "minor_share": -0.040538178379810774,
+  "chord_rate": 3.1407591039131066,
+  "repetitiveness": 0.7694523930549622,
+  "vocal_share": 0.16173014044761658,
+  "vocal_voiced": 0.24731182795698925,
+  "song_length": 229.04
+ }
+}

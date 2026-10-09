@@ -1,0 +1,32 @@
+{
+ "id": "diabulus-in-musica/1486896671-106",
+ "band": "diabulus-in-musica",
+ "title": "Otoi",
+ "source": "itunes",
+ "album": "Euphonic Entropy",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.6666666666666665,
+  "tempo_var": 0.0,
+  "low_onset_rate": 2.2,
+  "lufs": -10.585882882975785,
+  "rms_dbfs": -9.945340227445305,
+  "crest": 9.945340156555176,
+  "centroid": 2366.6680174788216,
+  "flatness": 0.025543414056301117,
+  "sub100_share": 0.315955251455307,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8110329508781433,
+  "clean_share": 0.04489164086687306,
+  "minor_share": -0.06235442990060558,
+  "chord_rate": 1.0666666666666667,
+  "repetitiveness": 0.8478543162345886,
+  "vocal_share": 0.16608190536499023,
+  "vocal_voiced": 0.7217391304347827,
+  "song_length": 343.733
+ }
+}

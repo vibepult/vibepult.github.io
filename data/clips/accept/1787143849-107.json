@@ -1,0 +1,32 @@
+{
+ "id": "accept/1787143849-107",
+ "band": "accept",
+ "title": "What Else",
+ "source": "itunes",
+ "album": "Death Row",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.6662343669227213,
+  "tempo_var": 0.7819239981864823,
+  "low_onset_rate": 6.065951407090321,
+  "lufs": -14.813288149094525,
+  "rms_dbfs": -14.361968492637542,
+  "crest": 14.361968040466309,
+  "centroid": 2549.2375729501873,
+  "flatness": 0.032696399837732315,
+  "sub100_share": 0.29716724157333374,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6484308242797852,
+  "clean_share": 0.04563031709203403,
+  "minor_share": -0.05027023468611502,
+  "chord_rate": 2.4330464435032604,
+  "repetitiveness": 0.8887857794761658,
+  "vocal_share": 0.06524353474378586,
+  "vocal_voiced": 0.12195121951219512,
+  "song_length": 278.827
+ }
+}

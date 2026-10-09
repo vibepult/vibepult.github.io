@@ -1,0 +1,32 @@
+{
+ "id": "huntress/1183627916-107",
+ "band": "huntress",
+ "title": "Static",
+ "source": "itunes",
+ "album": "Static",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 4.9,
+  "tempo_var": 15.288770314372282,
+  "low_onset_rate": 4.366666666666666,
+  "lufs": -8.644270991814423,
+  "rms_dbfs": -8.690256690092781,
+  "crest": 8.690256118774414,
+  "centroid": 2634.8827836930886,
+  "flatness": 0.030959557741880417,
+  "sub100_share": 0.10953767597675323,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.6929745078086853,
+  "clean_share": 0.020123839009287926,
+  "minor_share": 0.34025552720210916,
+  "chord_rate": 1.6333333333333333,
+  "repetitiveness": 0.7290191054344177,
+  "vocal_share": 0.4235723614692688,
+  "vocal_voiced": 0.7975567190226877,
+  "song_length": 227.162
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "pallbearer/1733291253-104",
+ "band": "pallbearer",
+ "title": "Endless Place",
+ "source": "itunes",
+ "album": "Mind Burns Alive",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 66.25600961538461,
+  "onset_rate": 1.3999915344427245,
+  "tempo_var": 19.774124608692443,
+  "low_onset_rate": 2.4333186193885448,
+  "lufs": -25.802883804709968,
+  "rms_dbfs": -25.082515541160294,
+  "crest": 15.83662223815918,
+  "centroid": 1062.219148596164,
+  "flatness": 0.0029324223287403584,
+  "sub100_share": 0.3710738718509674,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.9688202142715454,
+  "clean_share": 0.945862335653519,
+  "minor_share": 0.2010936196644495,
+  "chord_rate": 0.933327689628483,
+  "repetitiveness": 0.5981621146202087,
+  "vocal_share": 5.826758524563047e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 638.684
+ }
+}

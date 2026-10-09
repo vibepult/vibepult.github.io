@@ -1,0 +1,32 @@
+{
+ "id": "rhapsody-of-fire/579396730-106",
+ "band": "rhapsody-of-fire",
+ "title": "Il Canto Del Vento",
+ "source": "itunes",
+ "album": "Triumph or Agony",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 1.1360192503515492,
+  "tempo_var": 6.253011526738327,
+  "low_onset_rate": 4.209953692479271,
+  "lufs": -12.216642207823584,
+  "rms_dbfs": -12.936772242777732,
+  "crest": 12.936772346496582,
+  "centroid": 1690.6235508381405,
+  "flatness": 0.006778224371373653,
+  "sub100_share": 0.038394056260585785,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.9185323715209961,
+  "clean_share": 0.712955779674166,
+  "minor_share": 0.03219115828503938,
+  "chord_rate": 0.6682466178538525,
+  "repetitiveness": 0.649926483631134,
+  "vocal_share": 0.5394605398178101,
+  "vocal_voiced": 0.9171029668411868,
+  "song_length": 234.413
+ }
+}

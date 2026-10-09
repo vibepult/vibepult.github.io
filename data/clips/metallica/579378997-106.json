@@ -1,0 +1,32 @@
+{
+ "id": "metallica/579378997-106",
+ "band": "metallica",
+ "title": "My World",
+ "source": "itunes",
+ "album": "St. Anger",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.6,
+  "tempo_var": 14.97998531564768,
+  "low_onset_rate": 6.866666666666666,
+  "lufs": -7.503163901192533,
+  "rms_dbfs": -7.135464793806161,
+  "crest": 7.135464668273926,
+  "centroid": 2148.9542438376684,
+  "flatness": 0.022689232602715492,
+  "sub100_share": 0.25245681405067444,
+  "lowest_pitch": 88.824462890625,
+  "harmonic_share": 0.749260425567627,
+  "clean_share": 0.228328173374613,
+  "minor_share": -0.04420951202968304,
+  "chord_rate": 2.2333333333333334,
+  "repetitiveness": 0.9060736894607544,
+  "vocal_share": 0.26038673520088196,
+  "vocal_voiced": 0.4422535211267606,
+  "song_length": 345.533
+ }
+}

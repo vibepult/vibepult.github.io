@@ -1,0 +1,32 @@
+{
+ "id": "angel-witch/1475309041-104",
+ "band": "angel-witch",
+ "title": "The Night Is Calling",
+ "source": "itunes",
+ "album": "Angel of Light",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.2744084274838774,
+  "tempo_var": 1.510081459986765,
+  "low_onset_rate": 3.5417070746254184,
+  "lufs": -10.443449858818678,
+  "rms_dbfs": -9.903241387689192,
+  "crest": 9.903241157531738,
+  "centroid": 2001.6420551240228,
+  "flatness": 0.009998442605137825,
+  "sub100_share": 0.29831400513648987,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.8114532828330994,
+  "clean_share": 0.47013188518231186,
+  "minor_share": 0.17752332875627896,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.6202046275138855,
+  "vocal_share": 0.005343381781131029,
+  "vocal_voiced": 0.7758620689655172,
+  "song_length": 440.47
+ }
+}

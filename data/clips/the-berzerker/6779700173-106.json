@@ -1,0 +1,32 @@
+{
+ "id": "the-berzerker/6779700173-106",
+ "band": "the-berzerker",
+ "title": "Your Final Seconds",
+ "source": "itunes",
+ "album": "The Reawakening",
+ "year": 2008,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 78.30255681818181,
+  "onset_rate": 1.7,
+  "tempo_var": 19.172312246099295,
+  "low_onset_rate": 7.966666666666667,
+  "lufs": -6.155489810272792,
+  "rms_dbfs": -5.61420046116543,
+  "crest": 5.614200592041016,
+  "centroid": 2751.265250838841,
+  "flatness": 0.05001857504248619,
+  "sub100_share": 0.37523677945137024,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7408392429351807,
+  "clean_share": 0.008513931888544891,
+  "minor_share": -0.027858954921716916,
+  "chord_rate": 1.3333333333333333,
+  "repetitiveness": 0.9315106868743896,
+  "vocal_share": 0.13237088918685913,
+  "vocal_voiced": 0.09010989010989011,
+  "song_length": 179.213
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "wrath-passion",
+ "name": "Wrath Passion",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 322370903,
+  "deezer": 286119,
+  "spotify": "2gaGAVliJXfo2Mr8T72qD3"
+ },
+ "metadata": {
+  "formed": 2007,
+  "split": null,
+  "country": "NO",
+  "status": "active",
+  "members": 2,
+  "past_members": 2,
+  "full_lengths": 2,
+  "genre": "Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 3088,
+  "themes": "Satanism, Anti-Christianity, Occultism",
+  "release_year": 2008
+ },
+ "partial": false,
+ "clips": [
+  "wrath-passion/1453123066-104",
+  "wrath-passion/1503211860-104",
+  "wrath-passion/1453123066-103",
+  "wrath-passion/1503211860-103",
+  "wrath-passion/1453123066-105",
+  "wrath-passion/1503211860-105",
+  "wrath-passion/1453123066-102",
+  "wrath-passion/1503211860-101",
+  "wrath-passion/1453123066-106",
+  "wrath-passion/1503211860-106",
+  "wrath-passion/1453123066-101",
+  "wrath-passion/1453123066-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 110.00658118206522,
+   "iqr": 27.821158590587046
+  },
+  "onset_rate": {
+   "median": 4.5106646705135045,
+   "iqr": 1.653910379188285
+  },
+  "tempo_var": {
+   "median": 7.153249617925486,
+   "iqr": 12.111548128829906
+  },
+  "low_onset_rate": {
+   "median": 8.152608737817001,
+   "iqr": 1.7792066200358834
+  },
+  "lufs": {
+   "median": -8.204689193622482,
+   "iqr": 0.8028309964094849
+  },
+  "rms_dbfs": {
+   "median": -9.50166893168117,
+   "iqr": 0.5721421353119176
+  },
+  "crest": {
+   "median": 9.50166940689087,
+   "iqr": 0.5721433162689209
+  },
+  "centroid": {
+   "median": 3541.63224123696,
+   "iqr": 588.2243262886341
+  },
+  "flatness": {
+   "median": 0.08002088591456413,
+   "iqr": 0.019638629630208015
+  },
+  "sub100_share": {
+   "median": 0.16387367993593216,
+   "iqr": 0.05185246095061302
+  },
+  "lowest_pitch": {
+   "median": 56.524658203125,
+   "iqr": 28.93524169921875
+  },
+  "harmonic_share": {
+   "median": 0.6855801343917847,
+   "iqr": 0.05483430624008179
+  },
+  "clean_share": {
+   "median": 0.0,
+   "iqr": 0.0003878975950349108
+  },
+  "minor_share": {
+   "median": 0.04908289814290108,
+   "iqr": 0.18078058081622195
+  },
+  "chord_rate": {
+   "median": 1.8042658682054018,
+   "iqr": 0.9188390995490472
+  },
+  "repetitiveness": {
+   "median": 0.8860144913196564,
+   "iqr": 0.07475434243679047
+  },
+  "vocal_share": {
+   "median": 0.07707018405199051,
+   "iqr": 0.061986044049263
+  },
+  "vocal_voiced": {
+   "median": 0.2220472440944882,
+   "iqr": 0.24647266313932978
+  },
+  "song_length": {
+   "median": 290.56,
+   "iqr": 62.02199999999999
+  },
+  "vocal_presence": {
+   "median": 0.4166666666666667,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.5,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

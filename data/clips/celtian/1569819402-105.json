@@ -1,0 +1,32 @@
+{
+ "id": "celtian/1569819402-105",
+ "band": "celtian",
+ "title": "Sendas de Leyenda",
+ "source": "itunes",
+ "album": "Sendas de Leyenda",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.546446928186976,
+  "tempo_var": 10.518765993731213,
+  "low_onset_rate": 6.147868884255443,
+  "lufs": -9.293906248579626,
+  "rms_dbfs": -8.937291465519833,
+  "crest": 8.937291145324707,
+  "centroid": 2579.9356481821346,
+  "flatness": 0.02997124195098877,
+  "sub100_share": 0.2751287817955017,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8040081262588501,
+  "clean_share": 0.06749418153607448,
+  "minor_share": -0.1039043847473311,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.7519164681434631,
+  "vocal_share": 0.3284399211406708,
+  "vocal_voiced": 0.8339889850511408,
+  "song_length": 290.573
+ }
+}

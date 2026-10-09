@@ -1,0 +1,32 @@
+{
+ "id": "dark-moor/1462669760-106",
+ "band": "dark-moor",
+ "title": "Don't Look Back",
+ "source": "itunes",
+ "album": "Autumnal",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.811375648547738,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.4772523396208115,
+  "lufs": -7.578789227188374,
+  "rms_dbfs": -7.055578001090392,
+  "crest": 7.055577754974365,
+  "centroid": 2565.9717098756914,
+  "flatness": 0.04133877903223038,
+  "sub100_share": 0.3072216510772705,
+  "lowest_pitch": 88.824462890625,
+  "harmonic_share": 0.7356549501419067,
+  "clean_share": 0.004654771140418929,
+  "minor_share": -0.21726086633063857,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.8534833192825317,
+  "vocal_share": 0.26061174273490906,
+  "vocal_voiced": 0.7512038523274478,
+  "song_length": 277.587
+ }
+}

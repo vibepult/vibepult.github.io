@@ -1,0 +1,127 @@
+{
+ "slug": "heavenwood",
+ "name": "Heavenwood",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 417112322,
+  "deezer": 470089,
+  "spotify": "68jo4R3KEl2yfrMoYCiAVg"
+ },
+ "metadata": {
+  "formed": 1996,
+  "split": null,
+  "country": "PT",
+  "status": "active",
+  "members": 1,
+  "past_members": 13,
+  "full_lengths": 6,
+  "genre": "Gothic Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 869,
+  "themes": "Sorrow, Darkness, Love",
+  "release_year": 2018
+ },
+ "partial": false,
+ "clips": [
+  "heavenwood/1222065789-105",
+  "heavenwood/417112312-106",
+  "heavenwood/1222022550-107",
+  "heavenwood/1874643531-105",
+  "heavenwood/1222065789-106",
+  "heavenwood/417112312-107",
+  "heavenwood/1222022550-106",
+  "heavenwood/1874643531-106",
+  "heavenwood/1222065789-104",
+  "heavenwood/417112312-105",
+  "heavenwood/1222022550-108",
+  "heavenwood/1874643531-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 21.421342329545453
+  },
+  "onset_rate": {
+   "median": 2.6187877027658812,
+   "iqr": 2.513530375039112
+  },
+  "tempo_var": {
+   "median": 2.705135818023331,
+   "iqr": 12.110175353376999
+  },
+  "low_onset_rate": {
+   "median": 5.104766138024916,
+   "iqr": 4.861819217086596
+  },
+  "lufs": {
+   "median": -8.399873635707307,
+   "iqr": 1.1083852471715936
+  },
+  "rms_dbfs": {
+   "median": -7.6013008035202185,
+   "iqr": 1.765437709265207
+  },
+  "crest": {
+   "median": 7.601300954818726,
+   "iqr": 1.7654386758804321
+  },
+  "centroid": {
+   "median": 2477.091976460685,
+   "iqr": 149.15949744893896
+  },
+  "flatness": {
+   "median": 0.028481696732342243,
+   "iqr": 0.007442583795636892
+  },
+  "sub100_share": {
+   "median": 0.3382008224725723,
+   "iqr": 0.12737976759672165
+  },
+  "lowest_pitch": {
+   "median": 60.5621337890625,
+   "iqr": 10.7666015625
+  },
+  "harmonic_share": {
+   "median": 0.8212788105010986,
+   "iqr": 0.0422338992357254
+  },
+  "clean_share": {
+   "median": 0.014307811291569992,
+   "iqr": 0.023584353777006583
+  },
+  "minor_share": {
+   "median": -0.07457753760054472,
+   "iqr": 0.3078065857779433
+  },
+  "chord_rate": {
+   "median": 1.2696685739223197,
+   "iqr": 0.7399041274278704
+  },
+  "repetitiveness": {
+   "median": 0.8559690117835999,
+   "iqr": 0.03439129889011383
+  },
+  "vocal_share": {
+   "median": 0.09083594754338264,
+   "iqr": 0.030167294666171074
+  },
+  "vocal_voiced": {
+   "median": 0.4523020490766506,
+   "iqr": 0.5273552802285548
+  },
+  "song_length": {
+   "median": 313.733,
+   "iqr": 52.410000000000025
+  },
+  "vocal_presence": {
+   "median": 0.5,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

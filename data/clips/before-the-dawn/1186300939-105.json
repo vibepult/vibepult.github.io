@@ -1,0 +1,32 @@
+{
+ "id": "before-the-dawn/1186300939-105",
+ "band": "before-the-dawn",
+ "title": "Morning Sun",
+ "source": "itunes",
+ "album": "Deadlight",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.310190685157349,
+  "tempo_var": 18.133233632662687,
+  "low_onset_rate": 6.415167531396984,
+  "lufs": -8.911836167444555,
+  "rms_dbfs": -8.4441768868303,
+  "crest": 8.444177627563477,
+  "centroid": 2709.7741201987233,
+  "flatness": 0.04649721831083298,
+  "sub100_share": 0.36236950755119324,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7487148642539978,
+  "clean_share": 0.0504266873545384,
+  "minor_share": 0.1430198589308782,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.8682988286018372,
+  "vocal_share": 0.16542913019657135,
+  "vocal_voiced": 0.34587813620071683,
+  "song_length": 291.52
+ }
+}

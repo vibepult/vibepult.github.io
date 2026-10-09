@@ -1,0 +1,32 @@
+{
+ "id": "enforcer/546093858-104",
+ "band": "enforcer",
+ "title": "Speed Queen",
+ "source": "itunes",
+ "album": "Into the Night",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 6.61564151675314,
+  "tempo_var": 21.049004860532566,
+  "low_onset_rate": 6.61564151675314,
+  "lufs": -7.616296696062015,
+  "rms_dbfs": -7.5475424414054,
+  "crest": 7.547543048858643,
+  "centroid": 2692.4490252688042,
+  "flatness": 0.048827361315488815,
+  "sub100_share": 0.2312033474445343,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.6564198732376099,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": -0.09922054276286796,
+  "chord_rate": 1.971327522668865,
+  "repetitiveness": 0.9371642470359802,
+  "vocal_share": 0.18713033199310303,
+  "vocal_voiced": 0.7214484679665738,
+  "song_length": 202.653
+ }
+}

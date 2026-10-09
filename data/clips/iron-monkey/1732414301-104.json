@@ -1,0 +1,32 @@
+{
+ "id": "iron-monkey/1732414301-104",
+ "band": "iron-monkey",
+ "title": "I.R.M.S.",
+ "source": "itunes",
+ "album": "Our Problem",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 198.76802884615384,
+  "onset_rate": 4.466599144381793,
+  "tempo_var": 10.652941448410868,
+  "low_onset_rate": 6.799897204879745,
+  "lufs": -9.90910902478965,
+  "rms_dbfs": -9.359813278907442,
+  "crest": 9.359813690185547,
+  "centroid": 2649.8299178736484,
+  "flatness": 0.022491993382573128,
+  "sub100_share": 0.3078518509864807,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7500138282775879,
+  "clean_share": 0.026295436968290797,
+  "minor_share": -0.036027671472773026,
+  "chord_rate": 1.6333086423485663,
+  "repetitiveness": 0.8046506643295288,
+  "vocal_share": 0.03071022965013981,
+  "vocal_voiced": 0.5095057034220533,
+  "song_length": 389.027
+ }
+}

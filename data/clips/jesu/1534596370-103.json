@@ -1,0 +1,32 @@
+{
+ "id": "jesu/1534596370-103",
+ "band": "jesu",
+ "title": "Transfigure",
+ "source": "itunes",
+ "album": "Conqueror",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.30782075837657,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.916352494787374,
+  "lufs": -13.364276702128661,
+  "rms_dbfs": -12.723105864234352,
+  "crest": 12.723104476928711,
+  "centroid": 2566.659108867626,
+  "flatness": 0.01990765705704689,
+  "sub100_share": 0.2149929702281952,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.9391786456108093,
+  "clean_share": 0.12102404965089217,
+  "minor_share": -0.28965809913988827,
+  "chord_rate": 1.0357822576734714,
+  "repetitiveness": 0.8382400870323181,
+  "vocal_share": 0.02522280067205429,
+  "vocal_voiced": 0.9577922077922078,
+  "song_length": 358.507
+ }
+}

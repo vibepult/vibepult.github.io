@@ -1,0 +1,32 @@
+{
+ "id": "eluveitie/1786395224-106",
+ "band": "eluveitie",
+ "title": "Awen",
+ "source": "itunes",
+ "album": "Ànv",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.2666469136996903,
+  "tempo_var": 9.354969616333516,
+  "low_onset_rate": 3.8333101538312695,
+  "lufs": -8.399504000515703,
+  "rms_dbfs": -9.197400175010497,
+  "crest": 9.197400093078613,
+  "centroid": 2229.004099166244,
+  "flatness": 0.031173057854175568,
+  "sub100_share": 0.2659127116203308,
+  "lowest_pitch": 104.974365234375,
+  "harmonic_share": 0.7563191652297974,
+  "clean_share": 0.2900232018561485,
+  "minor_share": 0.020345999181172303,
+  "chord_rate": 1.83332224748452,
+  "repetitiveness": 0.8740580081939697,
+  "vocal_share": 0.0073343198746442795,
+  "vocal_voiced": 0.859375,
+  "song_length": 262.4
+ }
+}

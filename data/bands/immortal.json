@@ -1,0 +1,127 @@
+{
+ "slug": "immortal",
+ "name": "Immortal",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 15866288,
+  "deezer": 7702,
+  "spotify": "2mVTkiwfm4ic6DnHpmFq8K"
+ },
+ "metadata": {
+  "formed": 1991,
+  "split": null,
+  "country": "NO",
+  "status": "active",
+  "members": 1,
+  "past_members": 6,
+  "full_lengths": 10,
+  "genre": "Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 124508,
+  "themes": "Grimness, Winter, War, Winterdemons, Blashyrkh, Dark fantasy, Mysticism",
+  "release_year": 1998
+ },
+ "partial": false,
+ "clips": [
+  "immortal/264915388-104",
+  "immortal/264834634-105",
+  "immortal/260248290-105",
+  "immortal/264855268-103",
+  "immortal/264863273-104",
+  "immortal/1460472484-104",
+  "immortal/1456966754-104",
+  "immortal/1659854127-104",
+  "immortal/264915388-105",
+  "immortal/264834634-106",
+  "immortal/260248290-106",
+  "immortal/264855268-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.19921875,
+   "iqr": 34.545245655080194
+  },
+  "onset_rate": {
+   "median": 6.340798602692786,
+   "iqr": 4.888092027105658
+  },
+  "tempo_var": {
+   "median": 8.015772157940386,
+   "iqr": 12.04332151588751
+  },
+  "low_onset_rate": {
+   "median": 7.925988378671063,
+   "iqr": 1.9100120314697193
+  },
+  "lufs": {
+   "median": -9.356418711259959,
+   "iqr": 5.339233647096136
+  },
+  "rms_dbfs": {
+   "median": -10.098187880530393,
+   "iqr": 4.4880825079742
+  },
+  "crest": {
+   "median": 10.098187923431396,
+   "iqr": 4.488083124160767
+  },
+  "centroid": {
+   "median": 2976.829197642316,
+   "iqr": 456.0605826804076
+  },
+  "flatness": {
+   "median": 0.05080495402216911,
+   "iqr": 0.025286931544542313
+  },
+  "sub100_share": {
+   "median": 0.3803308606147766,
+   "iqr": 0.22504453361034393
+  },
+  "lowest_pitch": {
+   "median": 55.1788330078125,
+   "iqr": 24.89776611328125
+  },
+  "harmonic_share": {
+   "median": 0.7783940732479095,
+   "iqr": 0.18001756072044373
+  },
+  "clean_share": {
+   "median": 0.0,
+   "iqr": 0.004833720030935808
+  },
+  "minor_share": {
+   "median": 0.08286693054747246,
+   "iqr": 0.13063420431224315
+  },
+  "chord_rate": {
+   "median": 2.3499999999999996,
+   "iqr": 0.4586973851110332
+  },
+  "repetitiveness": {
+   "median": 0.9310123324394226,
+   "iqr": 0.04718649387359619
+  },
+  "vocal_share": {
+   "median": 0.07286478206515312,
+   "iqr": 0.07098399382084608
+  },
+  "vocal_voiced": {
+   "median": 0.2497171872350189,
+   "iqr": 0.1576739681603353
+  },
+  "song_length": {
+   "median": 275.68,
+   "iqr": 142.83650000000003
+  },
+  "vocal_presence": {
+   "median": 0.5,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.8,
+  "camp": 0.6
+ },
+ "sources_failed": []
+}

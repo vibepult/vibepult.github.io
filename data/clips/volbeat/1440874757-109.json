@@ -1,0 +1,32 @@
+{
+ "id": "volbeat/1440874757-109",
+ "band": "volbeat",
+ "title": "Lola Montez",
+ "source": "itunes",
+ "album": "Outlaw Gentlemen & Shady Ladies (Bonus Track Version)",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.033257244788439,
+  "tempo_var": 8.778019339878217,
+  "low_onset_rate": 5.233254221402549,
+  "lufs": -9.362581292030042,
+  "rms_dbfs": -8.673518858377967,
+  "crest": 8.673519134521484,
+  "centroid": 2450.385884901461,
+  "flatness": 0.023786475881934166,
+  "sub100_share": 0.35028889775276184,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7335277795791626,
+  "clean_share": 0.17865429234338748,
+  "minor_share": -0.2725030875169647,
+  "chord_rate": 1.4666444951701412,
+  "repetitiveness": 0.7309697270393372,
+  "vocal_share": 0.27790454030036926,
+  "vocal_voiced": 0.8246597277822257,
+  "song_length": 268.721
+ }
+}

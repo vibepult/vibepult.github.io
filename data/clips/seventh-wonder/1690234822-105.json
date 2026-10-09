@@ -1,0 +1,32 @@
+{
+ "id": "seventh-wonder/1690234822-105",
+ "band": "seventh-wonder",
+ "title": "Blinding My Eyes",
+ "source": "itunes",
+ "album": "Become",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.644313994084275,
+  "tempo_var": 21.043452585624287,
+  "low_onset_rate": 7.88531009067546,
+  "lufs": -8.497486466575827,
+  "rms_dbfs": -7.923863510728994,
+  "crest": 7.923864364624023,
+  "centroid": 2324.9593704029617,
+  "flatness": 0.020522231236100197,
+  "sub100_share": 0.18710117042064667,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.7780026793479919,
+  "clean_share": 0.048875096974398756,
+  "minor_share": 0.1270836016897695,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.8604148626327515,
+  "vocal_share": 0.22362369298934937,
+  "vocal_voiced": 0.6850733390854185,
+  "song_length": 230.56
+ }
+}

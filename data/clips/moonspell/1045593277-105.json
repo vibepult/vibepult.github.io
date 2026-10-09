@@ -1,0 +1,32 @@
+{
+ "id": "moonspell/1045593277-105",
+ "band": "moonspell",
+ "title": "Trebaruna",
+ "source": "itunes",
+ "album": "Wolfheart",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.597088163355335,
+  "tempo_var": 9.478385259023764,
+  "low_onset_rate": 7.095505643439756,
+  "lufs": -12.685520875635913,
+  "rms_dbfs": -11.514974813913907,
+  "crest": 11.514974594116211,
+  "centroid": 2368.362082008236,
+  "flatness": 0.017885277047753334,
+  "sub100_share": 0.5013740062713623,
+  "lowest_pitch": 29.608154296875,
+  "harmonic_share": 0.8133712410926819,
+  "clean_share": 0.06419180201082754,
+  "minor_share": 0.08783064244543154,
+  "chord_rate": 2.098670683270914,
+  "repetitiveness": 0.8954570889472961,
+  "vocal_share": 0.05933834984898567,
+  "vocal_voiced": 0.8849372384937239,
+  "song_length": 209.867
+ }
+}

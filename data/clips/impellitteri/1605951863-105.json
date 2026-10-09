@@ -1,0 +1,32 @@
+{
+ "id": "impellitteri/1605951863-105",
+ "band": "impellitteri",
+ "title": "Spanish Fire",
+ "source": "itunes",
+ "album": "Crunch",
+ "year": 2000,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 5.680096251757746,
+  "tempo_var": 14.58626620285051,
+  "low_onset_rate": 7.116826480143529,
+  "lufs": -6.584291276128082,
+  "rms_dbfs": -6.959450664943038,
+  "crest": 6.9594502449035645,
+  "centroid": 2805.1703148051233,
+  "flatness": 0.03462700918316841,
+  "sub100_share": 0.2349693924188614,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.777077853679657,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": 0.16644670947547308,
+  "chord_rate": 1.4367302283857828,
+  "repetitiveness": 0.9163532853126526,
+  "vocal_share": 0.0009132733102887869,
+  "vocal_voiced": 0.8518518518518519,
+  "song_length": 215.027
+ }
+}

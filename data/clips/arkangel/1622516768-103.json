@@ -1,0 +1,32 @@
+{
+ "id": "arkangel/1622516768-103",
+ "band": "arkangel",
+ "title": "Harbinger of Doom",
+ "source": "itunes",
+ "album": "Dead Man Walking",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.21232361926005,
+  "tempo_var": 25.878014103544324,
+  "low_onset_rate": 7.450949789070456,
+  "lufs": -10.183790582552158,
+  "rms_dbfs": -9.916214691875645,
+  "crest": 9.916214942932129,
+  "centroid": 2543.8163735745497,
+  "flatness": 0.03178933635354042,
+  "sub100_share": 0.2860133647918701,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7319020628929138,
+  "clean_share": 0.057408844065166796,
+  "minor_share": 0.006640776980680885,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.9376823306083679,
+  "vocal_share": 0.10996486246585846,
+  "vocal_voiced": 0.17495987158908508,
+  "song_length": 133.4
+ }
+}

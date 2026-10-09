@@ -1,0 +1,32 @@
+{
+ "id": "briqueville/1526167897-105",
+ "band": "briqueville",
+ "title": "Akte XII",
+ "source": "itunes",
+ "album": "Quelle",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.7755933908742665,
+  "tempo_var": 34.66056585834156,
+  "low_onset_rate": 3.30782075837657,
+  "lufs": -13.11702123342644,
+  "rms_dbfs": -11.8624282341412,
+  "crest": 11.862428665161133,
+  "centroid": 1911.1348091430295,
+  "flatness": 0.01617879793047905,
+  "sub100_share": 0.39641648530960083,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.7548500895500183,
+  "clean_share": 0.5337470907680373,
+  "minor_share": -0.1096784488268846,
+  "chord_rate": 0.3675356398196189,
+  "repetitiveness": 0.7376087307929993,
+  "vocal_share": 6.284211622187286e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 297.328
+ }
+}

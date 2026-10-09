@@ -1,0 +1,32 @@
+{
+ "id": "idi-bihotz/200790795-104",
+ "band": "idi-bihotz",
+ "title": "Euskaldunberri",
+ "source": "itunes",
+ "album": "Herriaren Taupada",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.84478797944043,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.415167531396984,
+  "lufs": -13.279475287735,
+  "rms_dbfs": -13.354128562979923,
+  "crest": 13.35412883758545,
+  "centroid": 2916.5699641763335,
+  "flatness": 0.04333662986755371,
+  "sub100_share": 0.2951306104660034,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.6596540212631226,
+  "clean_share": 0.0031031807602792862,
+  "minor_share": -0.05792359769439137,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.7938039898872375,
+  "vocal_share": 0.28711622953414917,
+  "vocal_voiced": 0.7590149516270889,
+  "song_length": 171.27
+ }
+}

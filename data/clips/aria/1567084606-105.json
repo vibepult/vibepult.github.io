@@ -1,0 +1,32 @@
+{
+ "id": "aria/1567084606-105",
+ "band": "aria",
+ "title": "Мессия",
+ "source": "itunes",
+ "album": "Армагеддон",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 6.014219560684673,
+  "tempo_var": 2.0738284155470117,
+  "low_onset_rate": 6.415167531396984,
+  "lufs": -7.927154380418903,
+  "rms_dbfs": -7.435242116254025,
+  "crest": 7.43524169921875,
+  "centroid": 2450.6835963793174,
+  "flatness": 0.023344162851572037,
+  "sub100_share": 0.30171528458595276,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7878705263137817,
+  "clean_share": 0.01008533747090768,
+  "minor_share": 0.1016443887842976,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.8165895938873291,
+  "vocal_share": 0.2085539847612381,
+  "vocal_voiced": 0.8080808080808081,
+  "song_length": 278.52
+ }
+}

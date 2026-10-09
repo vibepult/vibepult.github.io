@@ -1,0 +1,32 @@
+{
+ "id": "ulver/674016949-108",
+ "band": "ulver",
+ "title": "Street Song",
+ "source": "itunes",
+ "album": "Childhood's End",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.21232361926005,
+  "tempo_var": 22.886188174005543,
+  "low_onset_rate": 5.713508582650439,
+  "lufs": -10.211114656227144,
+  "rms_dbfs": -9.338928303993532,
+  "crest": 9.33892822265625,
+  "centroid": 2240.7176528831956,
+  "flatness": 0.02130104973912239,
+  "sub100_share": 0.32715165615081787,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7228072881698608,
+  "clean_share": 0.08223429014740109,
+  "minor_share": 0.10622751049988022,
+  "chord_rate": 1.9379151917761723,
+  "repetitiveness": 0.9259806275367737,
+  "vocal_share": 0.12457498162984848,
+  "vocal_voiced": 0.7550776583034647,
+  "song_length": 314.133
+ }
+}

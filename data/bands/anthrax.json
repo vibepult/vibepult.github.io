@@ -1,0 +1,127 @@
+{
+ "slug": "anthrax",
+ "name": "Anthrax",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 80417,
+  "deezer": 3580,
+  "spotify": "3JysSUOyfVs1UQ0UaESheP"
+ },
+ "metadata": {
+  "formed": 1981,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 17,
+  "full_lengths": 13,
+  "genre": "Thrash Metal, Groove Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 507854,
+  "themes": "Humour, Hardships, Social issues, Anti-fascism, Literature",
+  "release_year": 1994
+ },
+ "partial": false,
+ "clips": [
+  "anthrax/932619879-105",
+  "anthrax/1440847288-105",
+  "anthrax/1440824574-105",
+  "anthrax/1442459723-105",
+  "anthrax/1440849412-106",
+  "anthrax/932602233-108",
+  "anthrax/932599842-108",
+  "anthrax/1466892888-109",
+  "anthrax/1466891702-107",
+  "anthrax/1707434224-107",
+  "anthrax/1060774417-106",
+  "anthrax/1867327673-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 105.5126953125,
+   "iqr": 34.085470282397395
+  },
+  "onset_rate": {
+   "median": 3.883301839730314,
+   "iqr": 1.2582907289297678
+  },
+  "tempo_var": {
+   "median": 10.90064088410062,
+   "iqr": 23.813316281965943
+  },
+  "low_onset_rate": {
+   "median": 5.0999229036598095,
+   "iqr": 2.175002248447031
+  },
+  "lufs": {
+   "median": -12.792484337475965,
+   "iqr": 5.322753468828651
+  },
+  "rms_dbfs": {
+   "median": -13.406854094489187,
+   "iqr": 5.35234020272711
+  },
+  "crest": {
+   "median": 13.406854629516602,
+   "iqr": 5.241004705429077
+  },
+  "centroid": {
+   "median": 2542.283504448448,
+   "iqr": 402.42476229727663
+  },
+  "flatness": {
+   "median": 0.02696062531322241,
+   "iqr": 0.01845370512455702
+  },
+  "sub100_share": {
+   "median": 0.3257066309452057,
+   "iqr": 0.1262996383011341
+  },
+  "lowest_pitch": {
+   "median": 57.8704833984375,
+   "iqr": 23.55194091796875
+  },
+  "harmonic_share": {
+   "median": 0.7365553081035614,
+   "iqr": 0.17239613831043243
+  },
+  "clean_share": {
+   "median": 0.03830760537210366,
+   "iqr": 0.1519541578842211
+  },
+  "minor_share": {
+   "median": 0.02782847033280819,
+   "iqr": 0.23022025607989544
+  },
+  "chord_rate": {
+   "median": 1.466644495170141,
+   "iqr": 0.9452794949347134
+  },
+  "repetitiveness": {
+   "median": 0.8934407830238342,
+   "iqr": 0.10959330201148987
+  },
+  "vocal_share": {
+   "median": 0.10978009551763535,
+   "iqr": 0.06691012158989906
+  },
+  "vocal_voiced": {
+   "median": 0.6560975609756098,
+   "iqr": 0.19788775477412934
+  },
+  "song_length": {
+   "median": 320.899,
+   "iqr": 47.84249999999997
+  },
+  "vocal_presence": {
+   "median": 0.5833333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.5
+ },
+ "sources_failed": []
+}

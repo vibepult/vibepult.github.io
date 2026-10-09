@@ -1,0 +1,32 @@
+{
+ "id": "ajattara/1669935704-106",
+ "band": "ajattara",
+ "title": "Murhamiesi",
+ "source": "itunes",
+ "album": "Itse",
+ "year": 2001,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.0381521844542503,
+  "tempo_var": 19.417521923402802,
+  "low_onset_rate": 3.1407591039131066,
+  "lufs": -9.341024983919327,
+  "rms_dbfs": -8.790292717424268,
+  "crest": 8.790292739868164,
+  "centroid": 2202.7172580801525,
+  "flatness": 0.022849751636385918,
+  "sub100_share": 0.3583606779575348,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8098809123039246,
+  "clean_share": 0.32117920868890615,
+  "minor_share": 0.004635906664672951,
+  "chord_rate": 1.971327522668865,
+  "repetitiveness": 0.8523609042167664,
+  "vocal_share": 0.024896258488297462,
+  "vocal_voiced": 0.0,
+  "song_length": 239.107
+ }
+}

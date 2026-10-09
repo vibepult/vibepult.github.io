@@ -1,0 +1,32 @@
+{
+ "id": "crystal-lake/1526473518-103",
+ "band": "crystal-lake",
+ "title": "Open Water (Rerecorded)",
+ "source": "itunes",
+ "album": "The Voyages (Rerecorded Version)",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 6.8829401638946806,
+  "tempo_var": 20.361519230609154,
+  "low_onset_rate": 6.11445655336275,
+  "lufs": -8.35627706361844,
+  "rms_dbfs": -7.259934489858275,
+  "crest": 7.259934425354004,
+  "centroid": 2492.2783948992283,
+  "flatness": 0.038028109818696976,
+  "sub100_share": 0.5308363437652588,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8212445378303528,
+  "clean_share": 0.003878975950349108,
+  "minor_share": 0.16358465192191401,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.8200470805168152,
+  "vocal_share": 0.18626299500465393,
+  "vocal_voiced": 0.07531055900621118,
+  "song_length": 164.026
+ }
+}

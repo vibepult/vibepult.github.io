@@ -1,0 +1,32 @@
+{
+ "id": "macabre/1492335403-119",
+ "band": "macabre",
+ "title": "Funeral Home",
+ "source": "itunes",
+ "album": "Gloom",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 0.4009479707123115,
+  "tempo_var": 8.722752342863114,
+  "low_onset_rate": 2.4391001551665616,
+  "lufs": -8.167752298462142,
+  "rms_dbfs": -8.483661332957688,
+  "crest": 8.483661651611328,
+  "centroid": 2545.5799157159777,
+  "flatness": 0.03888239338994026,
+  "sub100_share": 0.3488674759864807,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7097532153129578,
+  "clean_share": 0.041117145073700546,
+  "minor_share": 0.09907110436212901,
+  "chord_rate": 2.505924816951947,
+  "repetitiveness": 0.9608510732650757,
+  "vocal_share": 0.13827629387378693,
+  "vocal_voiced": 0.0,
+  "song_length": 159.267
+ }
+}

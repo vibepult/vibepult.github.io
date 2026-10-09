@@ -1,0 +1,32 @@
+{
+ "id": "macabre/1492327968-107",
+ "band": "macabre",
+ "title": "Burke and Hare",
+ "source": "itunes",
+ "album": "Grim Scary Tales (Remastered)",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 2.472512486059254,
+  "tempo_var": 4.556028908570212,
+  "low_onset_rate": 1.1026069194588566,
+  "lufs": -8.670295624105641,
+  "rms_dbfs": -8.133611292137765,
+  "crest": 8.133610725402832,
+  "centroid": 2896.5740932063754,
+  "flatness": 0.03696436434984207,
+  "sub100_share": 0.46879011392593384,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8844178318977356,
+  "clean_share": 0.02482544608223429,
+  "minor_share": 0.07031543536300433,
+  "chord_rate": 3.040522111235029,
+  "repetitiveness": 0.8380358219146729,
+  "vocal_share": 5.033884349359141e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 257.84
+ }
+}

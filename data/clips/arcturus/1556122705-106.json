@@ -1,0 +1,32 @@
+{
+ "id": "arcturus/1556122705-106",
+ "band": "arcturus",
+ "title": "The Throne of Tragedy",
+ "source": "itunes",
+ "album": "La Masquerade Infernale",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.243366023371963,
+  "tempo_var": 10.592593648124918,
+  "low_onset_rate": 7.283888134606992,
+  "lufs": -10.935284815241145,
+  "rms_dbfs": -11.640458147145651,
+  "crest": 11.640458106994629,
+  "centroid": 2339.9404143839656,
+  "flatness": 0.022124679759144783,
+  "sub100_share": 0.3482670187950134,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.8119404911994934,
+  "clean_share": 0.16834755624515127,
+  "minor_share": 0.13132020616915968,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.825688898563385,
+  "vocal_share": 0.22643014788627625,
+  "vocal_voiced": 0.3630721489526765,
+  "song_length": 394.667
+ }
+}

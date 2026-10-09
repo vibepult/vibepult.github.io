@@ -1,0 +1,32 @@
+{
+ "id": "kamelot/1081700254-107",
+ "band": "kamelot",
+ "title": "This Pain",
+ "source": "itunes",
+ "album": "The Black Halo",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.8332905020332273,
+  "tempo_var": 12.283836698841814,
+  "low_onset_rate": 3.699944067361038,
+  "lufs": -10.685233386193664,
+  "rms_dbfs": -10.401313674270899,
+  "crest": 10.401314735412598,
+  "centroid": 2584.6122343856414,
+  "flatness": 0.036057647317647934,
+  "sub100_share": 0.3180151879787445,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.7072481513023376,
+  "clean_share": 0.05723124516627997,
+  "minor_share": 0.0026160082451621713,
+  "chord_rate": 2.399963719369322,
+  "repetitiveness": 0.8358975052833557,
+  "vocal_share": 0.12870348989963531,
+  "vocal_voiced": 0.7071428571428572,
+  "song_length": 239.173
+ }
+}

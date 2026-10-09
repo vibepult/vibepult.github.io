@@ -1,0 +1,32 @@
+{
+ "id": "delain/1485653436-106",
+ "band": "delain",
+ "title": "To Live Is to Die",
+ "source": "itunes",
+ "album": "Apocalypse & Chill",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.933333333333333,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 5.333333333333333,
+  "lufs": -9.112185018294415,
+  "rms_dbfs": -8.773317832173209,
+  "crest": 8.77331829071045,
+  "centroid": 2233.680678331387,
+  "flatness": 0.021559063345193863,
+  "sub100_share": 0.2590361535549164,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7957976460456848,
+  "clean_share": 0.047987616099071206,
+  "minor_share": 0.14216018971062516,
+  "chord_rate": 0.8666666666666667,
+  "repetitiveness": 0.8510199189186096,
+  "vocal_share": 0.17410816252231598,
+  "vocal_voiced": 0.6968698517298187,
+  "song_length": 227.267
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "nemesea/325099230-105",
+ "band": "nemesea",
+ "title": "Lost Inside",
+ "source": "itunes",
+ "album": "In Control",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.599945579053983,
+  "tempo_var": 13.401610312484351,
+  "low_onset_rate": 3.4666142613112427,
+  "lufs": -9.850186867073436,
+  "rms_dbfs": -8.7228322833075,
+  "crest": 8.722831726074219,
+  "centroid": 1908.6658089180075,
+  "flatness": 0.013658680021762848,
+  "sub100_share": 0.5085084438323975,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.8419350981712341,
+  "clean_share": 0.3750966744006187,
+  "minor_share": 0.07425457500427357,
+  "chord_rate": 1.0666505419419208,
+  "repetitiveness": 0.6770117878913879,
+  "vocal_share": 0.11759810149669647,
+  "vocal_voiced": 0.890748031496063,
+  "song_length": 203.768
+ }
+}

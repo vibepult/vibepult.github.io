@@ -1,0 +1,32 @@
+{
+ "id": "paracrona/1727450003-109",
+ "band": "paracrona",
+ "title": "Reasons",
+ "source": "itunes",
+ "album": "Sun God",
+ "year": 2023,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 1.6666666666666667,
+  "tempo_var": 18.182797051458603,
+  "low_onset_rate": 1.1666666666666667,
+  "lufs": -16.710072101552612,
+  "rms_dbfs": -15.340479521399295,
+  "crest": 15.340479850769043,
+  "centroid": 1049.1410919592677,
+  "flatness": 0.0031505944207310677,
+  "sub100_share": 0.6335013508796692,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.9558249711990356,
+  "clean_share": 0.8978328173374613,
+  "minor_share": -0.05668399884136521,
+  "chord_rate": 0.7333333333333333,
+  "repetitiveness": 0.502949059009552,
+  "vocal_share": 0.0047079166397452354,
+  "vocal_voiced": 0.06666666666666667,
+  "song_length": 545.373
+ }
+}

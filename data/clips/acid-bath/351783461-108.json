@@ -1,0 +1,32 @@
+{
+ "id": "acid-bath/351783461-108",
+ "band": "acid-bath",
+ "title": "Dope Fiend",
+ "source": "itunes",
+ "album": "When the Kite String Pops",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 1.2333258755804954,
+  "tempo_var": 10.255270628366079,
+  "low_onset_rate": 2.0999873016640866,
+  "lufs": -9.10991989584626,
+  "rms_dbfs": -8.894736476806045,
+  "crest": 8.894737243652344,
+  "centroid": 2748.0005326581486,
+  "flatness": 0.02319740504026413,
+  "sub100_share": 0.22858349978923798,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.784757137298584,
+  "clean_share": 0.07579273008507348,
+  "minor_share": -0.2870468749676138,
+  "chord_rate": 1.2666590073529411,
+  "repetitiveness": 0.7600871920585632,
+  "vocal_share": 1.0058452062366996e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 319.533
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "septicflesh/632120685-107",
+ "band": "septicflesh",
+ "title": "Dna",
+ "source": "itunes",
+ "album": "Revolution DNA",
+ "year": 1999,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.842418052659652,
+  "tempo_var": 25.827135893513393,
+  "low_onset_rate": 6.782703171216603,
+  "lufs": -8.831984272531612,
+  "rms_dbfs": -8.791703625759006,
+  "crest": 8.791703224182129,
+  "centroid": 2769.2789802565335,
+  "flatness": 0.034374259412288666,
+  "sub100_share": 0.41411641240119934,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7946229577064514,
+  "clean_share": 0.011636927851047323,
+  "minor_share": -0.06817235014087675,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.802821934223175,
+  "vocal_share": 0.014102171175181866,
+  "vocal_voiced": 0.3333333333333333,
+  "song_length": 198.76
+ }
+}

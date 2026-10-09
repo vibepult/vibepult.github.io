@@ -1,0 +1,32 @@
+{
+ "id": "judicator/1793607368-105",
+ "band": "judicator",
+ "title": "Weeping Willow",
+ "source": "itunes",
+ "album": "Concord",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.7332768967967227,
+  "tempo_var": 17.00687709602701,
+  "low_onset_rate": 2.966621819775967,
+  "lufs": -12.166070771315981,
+  "rms_dbfs": -11.4582329824418,
+  "crest": 11.458233833312988,
+  "centroid": 2520.0839605551273,
+  "flatness": 0.028570745140314102,
+  "sub100_share": 0.3336551785469055,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.6462507843971252,
+  "clean_share": 0.027842227378190254,
+  "minor_share": 0.05433518611930599,
+  "chord_rate": 1.8666384483983613,
+  "repetitiveness": 0.8514624238014221,
+  "vocal_share": 0.16067157685756683,
+  "vocal_voiced": 0.7294117647058823,
+  "song_length": 254.612
+ }
+}

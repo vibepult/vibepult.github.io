@@ -1,0 +1,32 @@
+{
+ "id": "hamlet/1786509868-106",
+ "band": "hamlet",
+ "title": "Sacrificar",
+ "source": "itunes",
+ "album": "Sanatorio de Muñecos",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.2666469136996903,
+  "tempo_var": 1.4247201163968521,
+  "low_onset_rate": 3.7666438902863777,
+  "lufs": -16.703917441946007,
+  "rms_dbfs": -15.756443116548812,
+  "crest": 15.75617790222168,
+  "centroid": 2446.8450111937614,
+  "flatness": 0.026126345619559288,
+  "sub100_share": 0.40561792254447937,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.6036127805709839,
+  "clean_share": 0.251353441608662,
+  "minor_share": 0.05155120168986571,
+  "chord_rate": 2.8999824642027865,
+  "repetitiveness": 0.9099208116531372,
+  "vocal_share": 0.01570078730583191,
+  "vocal_voiced": 0.0,
+  "song_length": 228.455
+ }
+}

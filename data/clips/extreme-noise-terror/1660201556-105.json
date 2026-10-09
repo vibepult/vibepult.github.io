@@ -1,0 +1,32 @@
+{
+ "id": "extreme-noise-terror/1660201556-105",
+ "band": "extreme-noise-terror",
+ "title": "Damage Limitation",
+ "source": "itunes",
+ "album": "Being and Nothing",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.174171434805799,
+  "tempo_var": 18.724353310147034,
+  "low_onset_rate": 8.186021068709692,
+  "lufs": -5.976968612437325,
+  "rms_dbfs": -6.239320165000678,
+  "crest": 6.239319801330566,
+  "centroid": 2573.3984859407,
+  "flatness": 0.038932546973228455,
+  "sub100_share": 0.12046070396900177,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.7640104293823242,
+  "clean_share": 0.1939487975174554,
+  "minor_share": 0.11169818411529642,
+  "chord_rate": 2.6395741405227175,
+  "repetitiveness": 0.9057971239089966,
+  "vocal_share": 0.05430154874920845,
+  "vocal_voiced": 0.0,
+  "song_length": 123.973
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "the-haunted/45445612-105",
+ "band": "the-haunted",
+ "title": "Hollow Ground",
+ "source": "itunes",
+ "album": "Made Me Do It",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 73.828125,
+  "onset_rate": 5.078674295689279,
+  "tempo_var": 1.9741258066755187,
+  "low_onset_rate": 5.713508582650439,
+  "lufs": -8.366604977373266,
+  "rms_dbfs": -8.202450153255201,
+  "crest": 8.202449798583984,
+  "centroid": 2787.7378031603457,
+  "flatness": 0.047529175877571106,
+  "sub100_share": 0.15096515417099,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.7645190358161926,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": -0.011983520765798561,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.905153214931488,
+  "vocal_share": 0.09695961326360703,
+  "vocal_voiced": 0.28620689655172415,
+  "song_length": 250.36
+ }
+}

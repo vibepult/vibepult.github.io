@@ -1,0 +1,32 @@
+{
+ "id": "cryptopsy/782177038-104",
+ "band": "cryptopsy",
+ "title": "Dead and Dripping",
+ "source": "itunes",
+ "album": "None So Vile",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 6.333237592780155,
+  "tempo_var": 6.500592447255496,
+  "low_onset_rate": 5.866577980680565,
+  "lufs": -11.225450101349752,
+  "rms_dbfs": -11.39989724228833,
+  "crest": 11.399897575378418,
+  "centroid": 2983.0823468185527,
+  "flatness": 0.04892966151237488,
+  "sub100_share": 0.3008629381656647,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7060660123825073,
+  "clean_share": 0.0,
+  "minor_share": 0.11203556858872749,
+  "chord_rate": 2.666626354854802,
+  "repetitiveness": 0.9434004426002502,
+  "vocal_share": 0.06524249911308289,
+  "vocal_voiced": 0.8831417624521073,
+  "song_length": 233.107
+ }
+}

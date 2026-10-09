@@ -1,0 +1,32 @@
+{
+ "id": "oceanhoarse/1564503784-113",
+ "band": "oceanhoarse",
+ "title": "The Damage",
+ "source": "itunes",
+ "album": "Dead Reckoning",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.777963317655045,
+  "tempo_var": 14.90145938435717,
+  "low_onset_rate": 6.8829401638946806,
+  "lufs": -9.5025222445384,
+  "rms_dbfs": -8.907150646026903,
+  "crest": 8.907150268554688,
+  "centroid": 2745.2813341053825,
+  "flatness": 0.03884720802307129,
+  "sub100_share": 0.41717785596847534,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7895064353942871,
+  "clean_share": 0.0,
+  "minor_share": -0.163087847343787,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.8680624961853027,
+  "vocal_share": 0.14239776134490967,
+  "vocal_voiced": 0.8238341968911918,
+  "song_length": 290.482
+ }
+}

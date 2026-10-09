@@ -1,0 +1,32 @@
+{
+ "id": "coffins/1716579574-104",
+ "band": "coffins",
+ "title": "Sinister Oath",
+ "source": "itunes",
+ "album": "Sinister Oath",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 1.5,
+  "tempo_var": 10.677385283267164,
+  "low_onset_rate": 4.233333333333333,
+  "lufs": -7.556567678465847,
+  "rms_dbfs": -7.243244330440906,
+  "crest": 7.243244647979736,
+  "centroid": 2744.650710312216,
+  "flatness": 0.027042726054787636,
+  "sub100_share": 0.5154851675033569,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8837785124778748,
+  "clean_share": 0.005417956656346749,
+  "minor_share": -0.08024164743802975,
+  "chord_rate": 0.9666666666666667,
+  "repetitiveness": 0.8583924174308777,
+  "vocal_share": 4.618321725047281e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 342.665
+ }
+}

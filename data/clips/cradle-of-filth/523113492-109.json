@@ -1,0 +1,32 @@
+{
+ "id": "cradle-of-filth/523113492-109",
+ "band": "cradle-of-filth",
+ "title": "The Mordant Liquor of Tears",
+ "source": "itunes",
+ "album": "Damnation and a Day",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 6.916352494787374,
+  "tempo_var": 4.059101541662658,
+  "low_onset_rate": 9.088154002812393,
+  "lufs": -14.334204814675333,
+  "rms_dbfs": -14.248147269349511,
+  "crest": 14.174142837524414,
+  "centroid": 1546.5923610052312,
+  "flatness": 0.001878949231468141,
+  "sub100_share": 0.05603190138936043,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.9715172648429871,
+  "clean_share": 0.9930178432893716,
+  "minor_share": 0.20546042731382752,
+  "chord_rate": 0.5011849633903894,
+  "repetitiveness": 0.6306012868881226,
+  "vocal_share": 0.3799459636211395,
+  "vocal_voiced": 0.9746588693957114,
+  "song_length": 155.173
+ }
+}

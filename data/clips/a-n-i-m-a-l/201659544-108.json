@@ -1,0 +1,32 @@
+{
+ "id": "a-n-i-m-a-l/201659544-108",
+ "band": "a-n-i-m-a-l",
+ "title": "Gracias Doy",
+ "source": "itunes",
+ "album": "Poder Latino",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 3.742181059981574,
+  "tempo_var": 22.735025660740806,
+  "low_onset_rate": 5.312560611938127,
+  "lufs": -10.987877736644537,
+  "rms_dbfs": -10.523339421640937,
+  "crest": 10.52333927154541,
+  "centroid": 2159.0250540192765,
+  "flatness": 0.017176246270537376,
+  "sub100_share": 0.2267417460680008,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8106861114501953,
+  "clean_share": 0.12412723041117145,
+  "minor_share": 0.13149202958086315,
+  "chord_rate": 2.3054508315957913,
+  "repetitiveness": 0.8196935057640076,
+  "vocal_share": 0.11855195462703705,
+  "vocal_voiced": 0.9527272727272728,
+  "song_length": 274.053
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "gamma-ray/1675500038-107",
+ "band": "gamma-ray",
+ "title": "Empress",
+ "source": "itunes",
+ "album": "Land of the Free II",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.366666666666666,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.6,
+  "lufs": -8.776466569471255,
+  "rms_dbfs": -8.304019733975425,
+  "crest": 8.304019927978516,
+  "centroid": 2657.439853997747,
+  "flatness": 0.03441868722438812,
+  "sub100_share": 0.1584789901971817,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7967231273651123,
+  "clean_share": 0.05727554179566564,
+  "minor_share": 0.09798122390721864,
+  "chord_rate": 1.1,
+  "repetitiveness": 0.7387387156486511,
+  "vocal_share": 0.17227470874786377,
+  "vocal_voiced": 0.8252299605781866,
+  "song_length": 382.24
+ }
+}

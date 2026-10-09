@@ -1,0 +1,32 @@
+{
+ "id": "mastodon/1217503029-106",
+ "band": "mastodon",
+ "title": "Bladecatcher",
+ "source": "itunes",
+ "album": "Blood Mountain",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 5.196920343500148,
+  "tempo_var": 16.11206703765784,
+  "low_onset_rate": 4.797157240153983,
+  "lufs": -6.470120237976107,
+  "rms_dbfs": -6.5013195586788655,
+  "crest": 6.501319408416748,
+  "centroid": 2568.492065901948,
+  "flatness": 0.03612133115530014,
+  "sub100_share": 0.2356625199317932,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7158510684967041,
+  "clean_share": 0.0030935808197989174,
+  "minor_share": 0.07554093287285313,
+  "chord_rate": 2.2986378442404503,
+  "repetitiveness": 0.8114417195320129,
+  "vocal_share": 0.015706561505794525,
+  "vocal_voiced": 0.14367816091954022,
+  "song_length": 200.532
+ }
+}

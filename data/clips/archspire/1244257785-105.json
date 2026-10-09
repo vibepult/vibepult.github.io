@@ -1,0 +1,32 @@
+{
+ "id": "archspire/1244257785-105",
+ "band": "archspire",
+ "title": "The Mimic Well",
+ "source": "itunes",
+ "album": "Relentless Mutation",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 6.2,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 6.666666666666667,
+  "lufs": -7.380254632485575,
+  "rms_dbfs": -7.085685368352617,
+  "crest": 7.085685729980469,
+  "centroid": 2680.5402077529625,
+  "flatness": 0.040914908051490784,
+  "sub100_share": 0.2845739722251892,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7646608948707581,
+  "clean_share": 0.00696594427244582,
+  "minor_share": -0.05444913960719433,
+  "chord_rate": 2.066666666666667,
+  "repetitiveness": 0.8974876999855042,
+  "vocal_share": 0.05616763234138489,
+  "vocal_voiced": 0.025490196078431372,
+  "song_length": 244.769
+ }
+}

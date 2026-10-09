@@ -1,0 +1,32 @@
+{
+ "id": "orange-goblin/1659149225-105",
+ "band": "orange-goblin",
+ "title": "Save Me From Myself",
+ "source": "itunes",
+ "album": "A Eulogy for the Damned",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 4.878200310333123,
+  "tempo_var": 8.502517179816898,
+  "low_onset_rate": 5.245735950152742,
+  "lufs": -12.243934173306611,
+  "rms_dbfs": -11.427617522559226,
+  "crest": 11.427617073059082,
+  "centroid": 2278.6629457196073,
+  "flatness": 0.018865762278437614,
+  "sub100_share": 0.4491463601589203,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7618615031242371,
+  "clean_share": 0.20636152055857254,
+  "minor_share": 0.1613402612799164,
+  "chord_rate": 1.336493235707705,
+  "repetitiveness": 0.9225884675979614,
+  "vocal_share": 0.0794190987944603,
+  "vocal_voiced": 0.6388888888888888,
+  "song_length": 358.6
+ }
+}

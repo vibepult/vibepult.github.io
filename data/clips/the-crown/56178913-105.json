@@ -1,0 +1,32 @@
+{
+ "id": "the-crown/56178913-105",
+ "band": "the-crown",
+ "title": "Electric Night",
+ "source": "itunes",
+ "album": "Hell Is Here",
+ "year": 1998,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 7.584599112641226,
+  "tempo_var": 3.0549918562534875,
+  "low_onset_rate": 7.484362119963148,
+  "lufs": -11.319955278608337,
+  "rms_dbfs": -11.05065386822057,
+  "crest": 11.050653457641602,
+  "centroid": 2616.321458023,
+  "flatness": 0.04395922273397446,
+  "sub100_share": 0.21789340674877167,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.6141590476036072,
+  "clean_share": 0.0,
+  "minor_share": -0.004145400596051618,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.9329991936683655,
+  "vocal_share": 0.233811154961586,
+  "vocal_voiced": 0.1500513874614594,
+  "song_length": 152.04
+ }
+}

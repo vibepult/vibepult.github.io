@@ -1,0 +1,32 @@
+{
+ "id": "enslaved/263402833-104",
+ "band": "enslaved",
+ "title": "Queen of Night",
+ "source": "itunes",
+ "album": "Below the Lights",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.066666666666666,
+  "tempo_var": 10.71756661079523,
+  "low_onset_rate": 8.0,
+  "lufs": -9.048752215833455,
+  "rms_dbfs": -9.333107268295972,
+  "crest": 9.333106994628906,
+  "centroid": 2772.6939649652736,
+  "flatness": 0.05147448554635048,
+  "sub100_share": 0.2335253208875656,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.7300175428390503,
+  "clean_share": 0.003869969040247678,
+  "minor_share": 0.08096166493599316,
+  "chord_rate": 2.1333333333333333,
+  "repetitiveness": 0.8229973316192627,
+  "vocal_share": 0.10673706978559494,
+  "vocal_voiced": 0.2507987220447284,
+  "song_length": 359.173
+ }
+}

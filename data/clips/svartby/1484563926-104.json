@@ -1,0 +1,32 @@
+{
+ "id": "svartby/1484563926-104",
+ "band": "svartby",
+ "title": "Deadly Tango",
+ "source": "itunes",
+ "album": "Big Boss",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.410427677835426,
+  "tempo_var": 1.9520821877770342,
+  "low_onset_rate": 2.840048125878873,
+  "lufs": -8.860396002912749,
+  "rms_dbfs": -8.917813968424543,
+  "crest": 8.917814254760742,
+  "centroid": 2530.174847961784,
+  "flatness": 0.026352833956480026,
+  "sub100_share": 0.2319110631942749,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.8861100673675537,
+  "clean_share": 0.10628394103956555,
+  "minor_share": 0.18752392226591996,
+  "chord_rate": 0.9021329341027009,
+  "repetitiveness": 0.6604374051094055,
+  "vocal_share": 0.015877563506364822,
+  "vocal_voiced": 0.0,
+  "song_length": 286.941
+ }
+}

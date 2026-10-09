@@ -1,0 +1,127 @@
+{
+ "slug": "sanatorium",
+ "name": "Sanatorium",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 34614325,
+  "deezer": 107301,
+  "spotify": "3xyo3CoJjc68Bj0nwtVvny"
+ },
+ "metadata": {
+  "formed": 1994,
+  "split": null,
+  "country": "SK",
+  "status": "active",
+  "members": 6,
+  "past_members": 14,
+  "full_lengths": 4,
+  "genre": "Brutal Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 485,
+  "themes": "Gore, Murder, Sickness, Death",
+  "release_year": 2002
+ },
+ "partial": false,
+ "clips": [
+  "sanatorium/34614820-106",
+  "sanatorium/283803355-105",
+  "sanatorium/34614820-107",
+  "sanatorium/283803355-104",
+  "sanatorium/34614820-105",
+  "sanatorium/283803355-106",
+  "sanatorium/34614820-108",
+  "sanatorium/283803355-103",
+  "sanatorium/34614820-104",
+  "sanatorium/283803355-107",
+  "sanatorium/34614820-109",
+  "sanatorium/283803355-102"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 19.722344509796912
+  },
+  "onset_rate": {
+   "median": 5.212323619260049,
+   "iqr": 1.6037918828492463
+  },
+  "tempo_var": {
+   "median": 7.386448670462674,
+   "iqr": 12.208012103311244
+  },
+  "low_onset_rate": {
+   "median": 6.415167531396984,
+   "iqr": 1.8794436127139607
+  },
+  "lufs": {
+   "median": -11.281297134992638,
+   "iqr": 5.548193172469935
+  },
+  "rms_dbfs": {
+   "median": -10.62266286166799,
+   "iqr": 6.910619802553245
+  },
+  "crest": {
+   "median": 10.622663021087646,
+   "iqr": 6.910620093345642
+  },
+  "centroid": {
+   "median": 2629.191672572228,
+   "iqr": 236.31192525939196
+  },
+  "flatness": {
+   "median": 0.02579768467694521,
+   "iqr": 0.018720471765846014
+  },
+  "sub100_share": {
+   "median": 0.2921270579099655,
+   "iqr": 0.18345801904797554
+  },
+  "lowest_pitch": {
+   "median": 55.1788330078125,
+   "iqr": 29.608154296875
+  },
+  "harmonic_share": {
+   "median": 0.7466131746768951,
+   "iqr": 0.11953313648700714
+  },
+  "clean_share": {
+   "median": 0.0360744763382467,
+   "iqr": 0.07214895267649342
+  },
+  "minor_share": {
+   "median": 0.0011766944225500564,
+   "iqr": 0.1832800036057956
+  },
+  "chord_rate": {
+   "median": 2.472512486059254,
+   "iqr": 0.5178911288367356
+  },
+  "repetitiveness": {
+   "median": 0.9054858088493347,
+   "iqr": 0.05001412332057953
+  },
+  "vocal_share": {
+   "median": 0.056362736970186234,
+   "iqr": 0.0856857867911458
+  },
+  "vocal_voiced": {
+   "median": 0.16549145299145301,
+   "iqr": 0.18166970739319233
+  },
+  "song_length": {
+   "median": 182.6715,
+   "iqr": 41.39775000000003
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

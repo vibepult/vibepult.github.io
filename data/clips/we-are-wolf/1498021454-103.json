@@ -1,0 +1,32 @@
+{
+ "id": "we-are-wolf/1498021454-103",
+ "band": "we-are-wolf",
+ "title": "Voice of the Undead",
+ "source": "itunes",
+ "album": "Oklahoma",
+ "year": 2015,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.4462099355088975,
+  "tempo_var": 17.997890182234904,
+  "low_onset_rate": 5.680096251757746,
+  "lufs": -7.195027581291247,
+  "rms_dbfs": -6.661606316093213,
+  "crest": 6.661606311798096,
+  "centroid": 2527.34935492828,
+  "flatness": 0.04312010854482651,
+  "sub100_share": 0.2813700735569,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6896514892578125,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.14833883222988775,
+  "chord_rate": 2.472512486059254,
+  "repetitiveness": 0.9010186195373535,
+  "vocal_share": 0.12040983885526657,
+  "vocal_voiced": 0.018356643356643356,
+  "song_length": 227.979
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "def-leppard/1501776897-106",
+ "band": "def-leppard",
+ "title": "When the Walls Came Tumbling Down",
+ "source": "itunes",
+ "album": "On Through the Night (Remastered)",
+ "year": 1980,
+ "itunes_year": 1980,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.466599144381793,
+  "tempo_var": 2.44318266061913,
+  "low_onset_rate": 4.733261779867274,
+  "lufs": -12.588991412845349,
+  "rms_dbfs": -12.679652728698143,
+  "crest": 12.679652214050293,
+  "centroid": 2173.8213498745777,
+  "flatness": 0.017257899045944214,
+  "sub100_share": 0.063629649579525,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.7477194666862488,
+  "clean_share": 0.2459396751740139,
+  "minor_share": -0.11681362202601087,
+  "chord_rate": 0.9333192241991807,
+  "repetitiveness": 0.8038905262947083,
+  "vocal_share": 0.15552949905395508,
+  "vocal_voiced": 0.8333333333333334,
+  "song_length": 284.933
+ }
+}

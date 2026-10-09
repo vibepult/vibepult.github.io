@@ -1,0 +1,32 @@
+{
+ "id": "morbific/1583776698-107",
+ "band": "morbific",
+ "title": "Sulfuric Funeral",
+ "source": "itunes",
+ "album": "Ominous Seep of Putridity",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.777963317655045,
+  "tempo_var": 3.4649504622816005,
+  "low_onset_rate": 7.217063472821607,
+  "lufs": -10.113495708301754,
+  "rms_dbfs": -8.438652581479937,
+  "crest": 8.438652038574219,
+  "centroid": 2220.4231520523554,
+  "flatness": 0.008095820434391499,
+  "sub100_share": 0.5509363412857056,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.9552246332168579,
+  "clean_share": 0.4321179208688906,
+  "minor_share": 0.19984488273424628,
+  "chord_rate": 2.2386261698104057,
+  "repetitiveness": 0.8557730317115784,
+  "vocal_share": 0.0037242446560412645,
+  "vocal_voiced": 0.9227799227799228,
+  "song_length": 172.714
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "trouble/1443752921-106",
+ "band": "trouble",
+ "title": "Tragedy Man",
+ "source": "itunes",
+ "album": "Manic Frustration",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.9092427144450372,
+  "tempo_var": 5.429293838593614,
+  "low_onset_rate": 6.61564151675314,
+  "lufs": -11.242739449270493,
+  "rms_dbfs": -12.076173228211346,
+  "crest": 12.076172828674316,
+  "centroid": 3019.558914169152,
+  "flatness": 0.06987512111663818,
+  "sub100_share": 0.12359847128391266,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.6682266592979431,
+  "clean_share": 0.0031031807602792862,
+  "minor_share": -0.10616547128033771,
+  "chord_rate": 2.0047398535615577,
+  "repetitiveness": 0.8204182386398315,
+  "vocal_share": 0.27657297253608704,
+  "vocal_voiced": 0.6553147574819401,
+  "song_length": 256.507
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "finntroll/705390049-106",
+ "band": "finntroll",
+ "title": "Slagbröder",
+ "source": "itunes",
+ "album": "Ur Jordens Djup",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 3.4414700819473403,
+  "tempo_var": 2.2479008848421573,
+  "low_onset_rate": 4.209953692479271,
+  "lufs": -6.862607958379744,
+  "rms_dbfs": -6.857229094136819,
+  "crest": 6.857228755950928,
+  "centroid": 2508.2906891763782,
+  "flatness": 0.035873621702194214,
+  "sub100_share": 0.25107356905937195,
+  "lowest_pitch": 115.740966796875,
+  "harmonic_share": 0.6211135387420654,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": -0.1937284036877731,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.9125850200653076,
+  "vocal_share": 0.09997940808534622,
+  "vocal_voiced": 0.1792717086834734,
+  "song_length": 271.133
+ }
+}

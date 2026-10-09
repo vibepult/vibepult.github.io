@@ -1,0 +1,32 @@
+{
+ "id": "bloodgood/167250108-106",
+ "band": "bloodgood",
+ "title": "Kingdom Come",
+ "source": "itunes",
+ "album": "All Stand Together",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.040522111235029,
+  "tempo_var": 4.584216385478768,
+  "low_onset_rate": 2.8734604567715656,
+  "lufs": -17.213580767898602,
+  "rms_dbfs": -17.222877474618436,
+  "crest": 17.222877502441406,
+  "centroid": 2819.692077476529,
+  "flatness": 0.053762782365083694,
+  "sub100_share": 0.22998104989528656,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.6012470722198486,
+  "clean_share": 0.01474010861132661,
+  "minor_share": 0.02946560871514925,
+  "chord_rate": 2.3054508315957913,
+  "repetitiveness": 0.7368602752685547,
+  "vocal_share": 0.46265706419944763,
+  "vocal_voiced": 0.7861842105263158,
+  "song_length": 252.853
+ }
+}

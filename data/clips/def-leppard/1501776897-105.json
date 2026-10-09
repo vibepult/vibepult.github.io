@@ -1,0 +1,32 @@
+{
+ "id": "def-leppard/1501776897-105",
+ "band": "def-leppard",
+ "title": "Satellite",
+ "source": "itunes",
+ "album": "On Through the Night (Remastered)",
+ "year": 1980,
+ "itunes_year": 1980,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.166588562531179,
+  "tempo_var": 23.245208750559858,
+  "low_onset_rate": 4.666596120995903,
+  "lufs": -10.746741751678023,
+  "rms_dbfs": -11.207851376449318,
+  "crest": 11.20785140991211,
+  "centroid": 2625.379412815373,
+  "flatness": 0.03528638184070587,
+  "sub100_share": 0.08050066232681274,
+  "lowest_pitch": 99.591064453125,
+  "harmonic_share": 0.6497488617897034,
+  "clean_share": 0.015467904098994586,
+  "minor_share": -0.014211378396781216,
+  "chord_rate": 1.399978836298771,
+  "repetitiveness": 0.7702337503433228,
+  "vocal_share": 0.22300848364830017,
+  "vocal_voiced": 0.6998813760379596,
+  "song_length": 268.267
+ }
+}

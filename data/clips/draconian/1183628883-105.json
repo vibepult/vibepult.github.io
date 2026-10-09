@@ -1,0 +1,32 @@
+{
+ "id": "draconian/1183628883-105",
+ "band": "draconian",
+ "title": "Deadlight",
+ "source": "itunes",
+ "album": "A Rose for the Apocalypse",
+ "year": 2011,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.1666666666666665,
+  "tempo_var": 2.33712775452592,
+  "low_onset_rate": 7.933333333333334,
+  "lufs": -11.267221959769229,
+  "rms_dbfs": -9.91473848171582,
+  "crest": 9.914737701416016,
+  "centroid": 1690.07328041309,
+  "flatness": 0.007889149710536003,
+  "sub100_share": 0.5122894644737244,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8892731070518494,
+  "clean_share": 0.48993808049535603,
+  "minor_share": 0.07484915699817096,
+  "chord_rate": 0.9333333333333333,
+  "repetitiveness": 0.8048850297927856,
+  "vocal_share": 4.858159741161217e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 392.827
+ }
+}

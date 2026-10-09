@@ -1,0 +1,127 @@
+{
+ "slug": "jag-panzer",
+ "name": "Jag Panzer",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 27907675,
+  "deezer": 159276,
+  "spotify": "2JR4c1UoM1JGxm4wIJ27v1"
+ },
+ "metadata": {
+  "formed": 1981,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 10,
+  "full_lengths": 12,
+  "genre": "Heavy/Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 3277,
+  "themes": "Destruction, Metal, Dark fantasy, Warfare, Literature, Shakespeare, Ninjas",
+  "release_year": 2000
+ },
+ "partial": false,
+ "clips": [
+  "jag-panzer/1045520165-105",
+  "jag-panzer/1045600283-106",
+  "jag-panzer/1045501337-109",
+  "jag-panzer/1045619885-105",
+  "jag-panzer/1045581746-110",
+  "jag-panzer/1045613495-106",
+  "jag-panzer/1675506883-105",
+  "jag-panzer/1349032971-105",
+  "jag-panzer/1776759474-105",
+  "jag-panzer/1045520165-106",
+  "jag-panzer/1045600283-107",
+  "jag-panzer/1045501337-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 110.40660511363637,
+   "iqr": 32.23187953720509
+  },
+  "onset_rate": {
+   "median": 4.493958505067159,
+   "iqr": 1.1684827013528585
+  },
+  "tempo_var": {
+   "median": 11.20577965439193,
+   "iqr": 14.317439305539427
+  },
+  "low_onset_rate": {
+   "median": 5.295854446491781,
+   "iqr": 1.369905566600397
+  },
+  "lufs": {
+   "median": -10.695694329595932,
+   "iqr": 1.129333878376384
+  },
+  "rms_dbfs": {
+   "median": -10.662056530002332,
+   "iqr": 0.7742682806373864
+  },
+  "crest": {
+   "median": 10.662056922912598,
+   "iqr": 0.7742681503295898
+  },
+  "centroid": {
+   "median": 2717.9575572194803,
+   "iqr": 270.5694805561452
+  },
+  "flatness": {
+   "median": 0.03335711546242237,
+   "iqr": 0.005901731085032225
+  },
+  "sub100_share": {
+   "median": 0.20412913709878922,
+   "iqr": 0.05316230282187462
+  },
+  "lowest_pitch": {
+   "median": 72.674560546875,
+   "iqr": 21.533203125
+  },
+  "harmonic_share": {
+   "median": 0.7190705835819244,
+   "iqr": 0.07414287328720093
+  },
+  "clean_share": {
+   "median": 0.023661753297129558,
+   "iqr": 0.02540729247478666
+  },
+  "minor_share": {
+   "median": 0.06482815330980302,
+   "iqr": 0.14686338345320502
+  },
+  "chord_rate": {
+   "median": 1.7708535373127092,
+   "iqr": 0.3842418052659651
+  },
+  "repetitiveness": {
+   "median": 0.8478280305862427,
+   "iqr": 0.10667531192302704
+  },
+  "vocal_share": {
+   "median": 0.19548547267913818,
+   "iqr": 0.07663322612643242
+  },
+  "vocal_voiced": {
+   "median": 0.6675366994066944,
+   "iqr": 0.13690918185154444
+  },
+  "song_length": {
+   "median": 270.4135,
+   "iqr": 54.90750000000003
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

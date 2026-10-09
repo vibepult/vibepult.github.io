@@ -1,0 +1,32 @@
+{
+ "id": "royal-hunt/1497562583-105",
+ "band": "royal-hunt",
+ "title": "Seven Days",
+ "source": "itunes",
+ "album": "Paper Blood",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.176541361586578,
+  "tempo_var": 11.382618936243087,
+  "low_onset_rate": 5.112086626581972,
+  "lufs": -7.429454119062764,
+  "rms_dbfs": -7.334759031713677,
+  "crest": 7.334758758544922,
+  "centroid": 2712.1365465284202,
+  "flatness": 0.03376874327659607,
+  "sub100_share": 0.21514035761356354,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.8481271862983704,
+  "clean_share": 0.011636927851047323,
+  "minor_share": 0.1530790147760377,
+  "chord_rate": 0.9689575958880862,
+  "repetitiveness": 0.7179312109947205,
+  "vocal_share": 0.040774475783109665,
+  "vocal_voiced": 0.8589743589743589,
+  "song_length": 381.987
+ }
+}

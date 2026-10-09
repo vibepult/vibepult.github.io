@@ -1,0 +1,32 @@
+{
+ "id": "celtian/1733673780-108",
+ "band": "celtian",
+ "title": "No Vuelvas a Llorar",
+ "source": "itunes",
+ "album": "Secretos de Amor y Muerte",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.933333333333333,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.933333333333334,
+  "lufs": -9.482820755239814,
+  "rms_dbfs": -8.801558596029613,
+  "crest": 8.801559448242188,
+  "centroid": 2429.6558667709596,
+  "flatness": 0.02239370532333851,
+  "sub100_share": 0.42114683985710144,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8072484731674194,
+  "clean_share": 0.015479876160990712,
+  "minor_share": 0.04364315085158876,
+  "chord_rate": 1.5,
+  "repetitiveness": 0.8300288319587708,
+  "vocal_share": 0.1303204894065857,
+  "vocal_voiced": 0.9130434782608695,
+  "song_length": 194.12
+ }
+}

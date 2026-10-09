@@ -1,0 +1,32 @@
+{
+ "id": "fantomas/1891406932-116",
+ "band": "fantomas",
+ "title": "Charade",
+ "source": "itunes",
+ "album": "The Director's Cut",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.333307130417957,
+  "tempo_var": 12.56227685396807,
+  "low_onset_rate": 4.266640866873065,
+  "lufs": -16.334978175382275,
+  "rms_dbfs": -15.501221334974208,
+  "crest": 15.501221656799316,
+  "centroid": 1470.2660962325874,
+  "flatness": 0.007930604740977287,
+  "sub100_share": 0.19928020238876343,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8013996481895447,
+  "clean_share": 0.662799690641918,
+  "minor_share": -0.08177981198330947,
+  "chord_rate": 1.6333234568498451,
+  "repetitiveness": 0.6769911050796509,
+  "vocal_share": 0.11678723245859146,
+  "vocal_voiced": 0.08614232209737828,
+  "song_length": 184.707
+ }
+}

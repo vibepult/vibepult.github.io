@@ -1,0 +1,32 @@
+{
+ "id": "anvil/1710215743-105",
+ "band": "anvil",
+ "title": "The Chainsaw",
+ "source": "itunes",
+ "album": "Back To Basics",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 6.133240616166045,
+  "tempo_var": 5.253945729684172,
+  "low_onset_rate": 7.333222475850706,
+  "lufs": -10.341543720332544,
+  "rms_dbfs": -9.933276994564705,
+  "crest": 9.933277130126953,
+  "centroid": 2496.994332637841,
+  "flatness": 0.02470109798014164,
+  "sub100_share": 0.24904891848564148,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.8074379563331604,
+  "clean_share": 0.01082753286929621,
+  "minor_share": 0.19918259896463408,
+  "chord_rate": 2.4332965488050067,
+  "repetitiveness": 0.8786314725875854,
+  "vocal_share": 0.08380180597305298,
+  "vocal_voiced": 0.6404040404040404,
+  "song_length": 339.973
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "mortician/77600649-113",
+ "band": "mortician",
+ "title": "Dr. Gore",
+ "source": "itunes",
+ "album": "Domain of Death",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 7.618011443533918,
+  "tempo_var": 0.7018684033244422,
+  "low_onset_rate": 8.987917010134316,
+  "lufs": -10.954984518664931,
+  "rms_dbfs": -8.809036388910513,
+  "crest": 8.809036254882812,
+  "centroid": 2458.2530237736514,
+  "flatness": 0.016755981370806694,
+  "sub100_share": 0.6380497813224792,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.8398952484130859,
+  "clean_share": 0.026377036462373934,
+  "minor_share": 0.11138229298408708,
+  "chord_rate": 3.374645420161955,
+  "repetitiveness": 0.9407796859741211,
+  "vocal_share": 0.0004002680943813175,
+  "vocal_voiced": 0.32941176470588235,
+  "song_length": 135.213
+ }
+}

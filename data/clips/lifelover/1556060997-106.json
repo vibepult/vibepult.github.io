@@ -1,0 +1,32 @@
+{
+ "id": "lifelover/1556060997-106",
+ "band": "lifelover",
+ "title": "Twitch",
+ "source": "itunes",
+ "album": "Konkurs",
+ "year": 2008,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.466599144381793,
+  "tempo_var": 1.016836042445712,
+  "low_onset_rate": 8.566537164971052,
+  "lufs": -7.292909632497074,
+  "rms_dbfs": -8.029756481882671,
+  "crest": 8.029757499694824,
+  "centroid": 2372.1399526745668,
+  "flatness": 0.021293530240654945,
+  "sub100_share": 0.25282204151153564,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8686917424201965,
+  "clean_share": 0.0,
+  "minor_share": 0.1345225215895468,
+  "chord_rate": 1.5999758129128812,
+  "repetitiveness": 0.913581907749176,
+  "vocal_share": 0.025766020640730858,
+  "vocal_voiced": 0.5503875968992248,
+  "song_length": 201.12
+ }
+}

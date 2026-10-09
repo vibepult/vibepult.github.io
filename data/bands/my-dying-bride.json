@@ -1,0 +1,127 @@
+{
+ "slug": "my-dying-bride",
+ "name": "My Dying Bride",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 73591048,
+  "deezer": 2019,
+  "spotify": "3G7qoMSLvu9Pmb0xGtf9fl"
+ },
+ "metadata": {
+  "formed": 1990,
+  "split": null,
+  "country": "GB",
+  "status": "active",
+  "members": 5,
+  "past_members": 11,
+  "full_lengths": 15,
+  "genre": "Doom/Death Metal (early); Gothic/Doom Metal (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 33489,
+  "themes": "Despair, Pain, Romance, Faithlessness, Tragedy",
+  "release_year": 2000
+ },
+ "partial": false,
+ "clips": [
+  "my-dying-bride/73595203-104",
+  "my-dying-bride/1189328847-105",
+  "my-dying-bride/1189343249-104",
+  "my-dying-bride/73591106-105",
+  "my-dying-bride/1189326941-104",
+  "my-dying-bride/73594927-105",
+  "my-dying-bride/119159615-104",
+  "my-dying-bride/158001287-104",
+  "my-dying-bride/199280328-105",
+  "my-dying-bride/306020783-105",
+  "my-dying-bride/1189436094-105",
+  "my-dying-bride/674007701-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.32652698863637,
+   "iqr": 45.09089543269231
+  },
+  "onset_rate": {
+   "median": 3.4414700819473403,
+   "iqr": 1.2267710455274057
+  },
+  "tempo_var": {
+   "median": 11.367333139703552,
+   "iqr": 11.654197505668915
+  },
+  "low_onset_rate": {
+   "median": 4.928318806672163,
+   "iqr": 1.6029633176550453
+  },
+  "lufs": {
+   "median": -12.450980538709974,
+   "iqr": 1.9498402283321106
+  },
+  "rms_dbfs": {
+   "median": -11.264757106350714,
+   "iqr": 1.10025925950948
+  },
+  "crest": {
+   "median": 11.26475715637207,
+   "iqr": 1.1002600193023682
+  },
+  "centroid": {
+   "median": 2279.1627154662992,
+   "iqr": 743.1125689470505
+  },
+  "flatness": {
+   "median": 0.015114056412130594,
+   "iqr": 0.01449355366639793
+  },
+  "sub100_share": {
+   "median": 0.2629813551902771,
+   "iqr": 0.2607667688280344
+  },
+  "lowest_pitch": {
+   "median": 69.98291015625,
+   "iqr": 17.4957275390625
+  },
+  "harmonic_share": {
+   "median": 0.8290582895278931,
+   "iqr": 0.0889129638671875
+  },
+  "clean_share": {
+   "median": 0.20636152055857254,
+   "iqr": 0.4235841737781226
+  },
+  "minor_share": {
+   "median": 0.04802450746654041,
+   "iqr": 0.14189477370846842
+  },
+  "chord_rate": {
+   "median": 1.3364932357077048,
+   "iqr": 0.5103251998547302
+  },
+  "repetitiveness": {
+   "median": 0.8080474734306335,
+   "iqr": 0.1743970662355423
+  },
+  "vocal_share": {
+   "median": 0.06752035766839981,
+   "iqr": 0.155303287319839
+  },
+  "vocal_voiced": {
+   "median": 0.72204508024053,
+   "iqr": 0.21042923799927582
+  },
+  "song_length": {
+   "median": 415.60699999999997,
+   "iqr": 167.38625000000002
+  },
+  "vocal_presence": {
+   "median": 0.5,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

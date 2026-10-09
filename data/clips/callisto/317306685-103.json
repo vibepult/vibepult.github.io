@@ -1,0 +1,32 @@
+{
+ "id": "callisto/317306685-103",
+ "band": "callisto",
+ "title": "Fugitive",
+ "source": "itunes",
+ "album": "Noir",
+ "year": 2006,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.3412330892692625,
+  "tempo_var": 16.152397098836246,
+  "low_onset_rate": 3.374645420161955,
+  "lufs": -8.526153146816332,
+  "rms_dbfs": -7.3880515928206325,
+  "crest": 7.388051986694336,
+  "centroid": 1078.295478149483,
+  "flatness": 0.0021107879001647234,
+  "sub100_share": 0.2622126340866089,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.9115682244300842,
+  "clean_share": 0.9084561675717611,
+  "minor_share": 0.029878926800060435,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.6618816256523132,
+  "vocal_share": 1.067885136762925e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 483.707
+ }
+}

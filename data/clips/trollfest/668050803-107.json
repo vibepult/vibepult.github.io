@@ -1,0 +1,32 @@
+{
+ "id": "trollfest/668050803-107",
+ "band": "trollfest",
+ "title": "Essenfest",
+ "source": "itunes",
+ "album": "Brakebein",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.742181059981574,
+  "tempo_var": 3.1783506060584776,
+  "low_onset_rate": 2.5393371478446394,
+  "lufs": -9.858189215981527,
+  "rms_dbfs": -9.584209612942304,
+  "crest": 9.584209442138672,
+  "centroid": 2919.5778971243803,
+  "flatness": 0.03075253777205944,
+  "sub100_share": 0.31569981575012207,
+  "lowest_pitch": 94.207763671875,
+  "harmonic_share": 0.7928808927536011,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.12694170034820917,
+  "chord_rate": 2.2386261698104057,
+  "repetitiveness": 0.8133875727653503,
+  "vocal_share": 9.184333862322092e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 209.707
+ }
+}

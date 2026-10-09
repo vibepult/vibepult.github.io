@@ -1,0 +1,32 @@
+{
+ "id": "dozer/1609082395-105",
+ "band": "dozer",
+ "title": "Grand Inquisitor",
+ "source": "itunes",
+ "album": "Beyond Colossal",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 78.30255681818181,
+  "onset_rate": 4.243366023371963,
+  "tempo_var": 21.747569683953422,
+  "low_onset_rate": 2.8066357949861804,
+  "lufs": -12.047394148325681,
+  "rms_dbfs": -10.991953203960582,
+  "crest": 10.99195384979248,
+  "centroid": 1345.2770112043722,
+  "flatness": 0.00620049424469471,
+  "sub100_share": 0.1351076066493988,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.7743678689002991,
+  "clean_share": 0.8192397207137315,
+  "minor_share": -0.17552424186407167,
+  "chord_rate": 2.5393371478446394,
+  "repetitiveness": 0.8851414322853088,
+  "vocal_share": 0.025123899802565575,
+  "vocal_voiced": 0.961864406779661,
+  "song_length": 252.253
+ }
+}

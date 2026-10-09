@@ -1,0 +1,32 @@
+{
+ "id": "aeon-zen/1498184874-108",
+ "band": "aeon-zen",
+ "title": "The Order of the Blind",
+ "source": "itunes",
+ "album": "Ephemera (Game of the Year Edition)",
+ "year": 2014,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.1407591039131066,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.279148281045435,
+  "lufs": -10.90061874288828,
+  "rms_dbfs": -10.263201487685036,
+  "crest": 10.263200759887695,
+  "centroid": 2595.3584894973474,
+  "flatness": 0.02169243060052395,
+  "sub100_share": 0.32416418194770813,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8843265175819397,
+  "clean_share": 0.0899922420480993,
+  "minor_share": 0.27537018482574227,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.7012338042259216,
+  "vocal_share": 0.140919029712677,
+  "vocal_voiced": 0.8838028169014085,
+  "song_length": 165.653
+ }
+}

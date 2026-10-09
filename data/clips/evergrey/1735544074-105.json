@@ -1,0 +1,32 @@
+{
+ "id": "evergrey/1735544074-105",
+ "band": "evergrey",
+ "title": "Ghost Of My Hero",
+ "source": "itunes",
+ "album": "Theories Of Emptiness",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 2.3983394716885362,
+  "tempo_var": 11.086889038962042,
+  "low_onset_rate": 3.1311654213711444,
+  "lufs": -8.86285722772608,
+  "rms_dbfs": -7.837576861137412,
+  "crest": 7.8375773429870605,
+  "centroid": 2445.626644955777,
+  "flatness": 0.02349426969885826,
+  "sub100_share": 0.5072188973426819,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.8965451121330261,
+  "clean_share": 0.01082753286929621,
+  "minor_share": 0.14297644853980418,
+  "chord_rate": 0.7328259496826083,
+  "repetitiveness": 0.5589035749435425,
+  "vocal_share": 0.12271440029144287,
+  "vocal_voiced": 0.8747126436781609,
+  "song_length": 350.776
+ }
+}

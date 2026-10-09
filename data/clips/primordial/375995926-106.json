@@ -1,0 +1,32 @@
+{
+ "id": "primordial/375995926-106",
+ "band": "primordial",
+ "title": "The Cruel Sea",
+ "source": "itunes",
+ "album": "Spirit The Earth Aflame",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 6.782703171216603,
+  "tempo_var": 5.846420848313712,
+  "low_onset_rate": 9.255215657275857,
+  "lufs": -8.74472522109632,
+  "rms_dbfs": -8.51944574586295,
+  "crest": 8.519445419311523,
+  "centroid": 2429.6263987507696,
+  "flatness": 0.01744314655661583,
+  "sub100_share": 0.37671855092048645,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.9425032734870911,
+  "clean_share": 0.0,
+  "minor_share": -0.14123880170691772,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.8336979150772095,
+  "vocal_share": 1.9012029497389449e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 243.322
+ }
+}

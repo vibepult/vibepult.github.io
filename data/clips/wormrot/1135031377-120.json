@@ -1,0 +1,32 @@
+{
+ "id": "wormrot/1135031377-120",
+ "band": "wormrot",
+ "title": "Outworn",
+ "source": "itunes",
+ "album": "Voices",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 0.8666535653278107,
+  "tempo_var": 18.40925726344353,
+  "low_onset_rate": 2.799957672597542,
+  "lufs": -8.534486145531039,
+  "rms_dbfs": -8.756338458915902,
+  "crest": 8.756338119506836,
+  "centroid": 2842.28613310129,
+  "flatness": 0.06731658428907394,
+  "sub100_share": 0.2408531755208969,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.6207169890403748,
+  "clean_share": 0.01237432327919567,
+  "minor_share": 0.2780889418006742,
+  "chord_rate": 1.0666505419419208,
+  "repetitiveness": 0.8916587233543396,
+  "vocal_share": 0.2154414802789688,
+  "vocal_voiced": 0.2839779005524862,
+  "song_length": 228.787
+ }
+}

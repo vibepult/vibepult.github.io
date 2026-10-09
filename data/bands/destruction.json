@@ -1,0 +1,127 @@
+{
+ "slug": "destruction",
+ "name": "Destruction",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 7024320,
+  "deezer": 66744,
+  "spotify": "5d6KI8frPEo3qGsIL8Sak2"
+ },
+ "metadata": {
+  "formed": 1983,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 4,
+  "past_members": 12,
+  "full_lengths": 18,
+  "genre": "Thrash Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 89079,
+  "themes": "Anti-religion, Death, Politics, Metal, Psychology, Social",
+  "release_year": 2006
+ },
+ "partial": false,
+ "clips": [
+  "destruction/1234092172-104",
+  "destruction/1238152406-104",
+  "destruction/1344460496-105",
+  "destruction/1450457015-107",
+  "destruction/1450508531-105",
+  "destruction/1477661440-106",
+  "destruction/1477662488-107",
+  "destruction/1477662685-105",
+  "destruction/1456965697-106",
+  "destruction/1456967955-109",
+  "destruction/1458646007-106",
+  "destruction/1458860915-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.77318274456522,
+   "iqr": 42.9901246599823
+  },
+  "onset_rate": {
+   "median": 4.911612641225816,
+   "iqr": 3.132406021189934
+  },
+  "tempo_var": {
+   "median": 16.35371680700169,
+   "iqr": 7.9319598691614495
+  },
+  "low_onset_rate": {
+   "median": 6.273248169778162,
+   "iqr": 4.93633016939175
+  },
+  "lufs": {
+   "median": -7.528635530545181,
+   "iqr": 2.2890757763448075
+  },
+  "rms_dbfs": {
+   "median": -7.3517533367659755,
+   "iqr": 2.157199708672376
+  },
+  "crest": {
+   "median": 7.3517537117004395,
+   "iqr": 2.1572002172470093
+  },
+  "centroid": {
+   "median": 2795.758539637737,
+   "iqr": 176.4529719935672
+  },
+  "flatness": {
+   "median": 0.049051087349653244,
+   "iqr": 0.01592496782541275
+  },
+  "sub100_share": {
+   "median": 0.30159832537174225,
+   "iqr": 0.11838455498218536
+  },
+  "lowest_pitch": {
+   "median": 49.7955322265625,
+   "iqr": 12.78533935546875
+  },
+  "harmonic_share": {
+   "median": 0.7154357433319092,
+   "iqr": 0.0859578400850296
+  },
+  "clean_share": {
+   "median": 0.0007757951900698216,
+   "iqr": 0.02482544608223429
+  },
+  "minor_share": {
+   "median": 0.020368806069847423,
+   "iqr": 0.1657099478181847
+  },
+  "chord_rate": {
+   "median": 2.288744666149445,
+   "iqr": 0.8520144377636618
+  },
+  "repetitiveness": {
+   "median": 0.9156296253204346,
+   "iqr": 0.03870441019535065
+  },
+  "vocal_share": {
+   "median": 0.08954330533742905,
+   "iqr": 0.06393526121973991
+  },
+  "vocal_voiced": {
+   "median": 0.11139240506329114,
+   "iqr": 0.18450533398882238
+  },
+  "song_length": {
+   "median": 258.3535,
+   "iqr": 41.89675
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.5,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

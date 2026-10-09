@@ -1,0 +1,127 @@
+{
+ "slug": "battle-beast",
+ "name": "Battle Beast",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 412807070,
+  "deezer": 400967,
+  "spotify": "7k5jeohQCF20a8foBD9ize"
+ },
+ "metadata": {
+  "formed": 2005,
+  "split": null,
+  "country": "FI",
+  "status": "active",
+  "members": 6,
+  "past_members": 7,
+  "full_lengths": 7,
+  "genre": "Heavy/Power Metal, Hard Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 67640,
+  "themes": "Berserk (manga), Science fiction (early); Metal, Fantasy, Freedom, Life, Love",
+  "release_year": 2016
+ },
+ "partial": false,
+ "clips": [
+  "battle-beast/1456972568-106",
+  "battle-beast/1460464649-107",
+  "battle-beast/1856526696-106",
+  "battle-beast/1460462882-107",
+  "battle-beast/1448932104-107",
+  "battle-beast/1612662064-106",
+  "battle-beast/1827942552-105",
+  "battle-beast/1456972568-107",
+  "battle-beast/1460464649-106",
+  "battle-beast/1856526696-107",
+  "battle-beast/1460462882-106",
+  "battle-beast/1448932104-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 136.376953125,
+   "iqr": 50.32215947690217
+  },
+  "onset_rate": {
+   "median": 1.8855791200702228,
+   "iqr": 2.4470152182655127
+  },
+  "tempo_var": {
+   "median": 16.64057123773255,
+   "iqr": 18.58294690440897
+  },
+  "low_onset_rate": {
+   "median": 2.6333174100232197,
+   "iqr": 2.5775014259521405
+  },
+  "lufs": {
+   "median": -10.96015967281603,
+   "iqr": 4.750743283038865
+  },
+  "rms_dbfs": {
+   "median": -10.244595766376047,
+   "iqr": 4.423244612261309
+  },
+  "crest": {
+   "median": 10.244596004486084,
+   "iqr": 4.423245191574097
+  },
+  "centroid": {
+   "median": 2371.9772244246233,
+   "iqr": 667.559320227544
+  },
+  "flatness": {
+   "median": 0.03122292459011078,
+   "iqr": 0.012756284791976213
+  },
+  "sub100_share": {
+   "median": 0.34012162685394287,
+   "iqr": 0.17149656265974045
+  },
+  "lowest_pitch": {
+   "median": 44.4122314453125,
+   "iqr": 24.224853515625
+  },
+  "harmonic_share": {
+   "median": 0.8159552216529846,
+   "iqr": 0.10363738238811493
+  },
+  "clean_share": {
+   "median": 0.15583913379737047,
+   "iqr": 0.2615523283755641
+  },
+  "minor_share": {
+   "median": 0.16872588139209838,
+   "iqr": 0.10806620189122965
+  },
+  "chord_rate": {
+   "median": 1.2833255732391642,
+   "iqr": 0.6333295036764707
+  },
+  "repetitiveness": {
+   "median": 0.8401179015636444,
+   "iqr": 0.11605869233608246
+  },
+  "vocal_share": {
+   "median": 0.0693562962114811,
+   "iqr": 0.052139122039079666
+  },
+  "vocal_voiced": {
+   "median": 0.7114222582972582,
+   "iqr": 0.13201498402391265
+  },
+  "song_length": {
+   "median": 249.0665,
+   "iqr": 53.57925000000003
+  },
+  "vocal_presence": {
+   "median": 0.5,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.5,
+  "camp": 0.6
+ },
+ "sources_failed": []
+}

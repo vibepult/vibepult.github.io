@@ -1,0 +1,32 @@
+{
+ "id": "mar-de-grises/583568123-104",
+ "band": "mar-de-grises",
+ "title": "Spectral Ocean",
+ "source": "itunes",
+ "album": "Streams Inwards",
+ "year": 2010,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 2.7063988023081027,
+  "tempo_var": 6.261045774084802,
+  "low_onset_rate": 3.7755933908742665,
+  "lufs": -15.301229809752668,
+  "rms_dbfs": -14.94376636510438,
+  "crest": 14.943766593933105,
+  "centroid": 2279.8917148748847,
+  "flatness": 0.01989922858774662,
+  "sub100_share": 0.25125768780708313,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.9067366123199463,
+  "clean_share": 0.2591155934833204,
+  "minor_share": 0.253340787124696,
+  "chord_rate": 0.46777263249769674,
+  "repetitiveness": 0.7308217287063599,
+  "vocal_share": 0.00013761987793259323,
+  "vocal_voiced": 1.0,
+  "song_length": 183.827
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "twisted-sister/1788379503-105",
+ "band": "twisted-sister",
+ "title": "Silver Bells",
+ "source": "itunes",
+ "album": "A Twisted Christmas",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 2.0999873016640866,
+  "tempo_var": 2.2086332965694724,
+  "low_onset_rate": 2.3666523558436534,
+  "lufs": -15.637189891705749,
+  "rms_dbfs": -15.743420673042536,
+  "crest": 15.74342155456543,
+  "centroid": 2888.734339931195,
+  "flatness": 0.04930227994918823,
+  "sub100_share": 0.10833698511123657,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.46043550968170166,
+  "clean_share": 0.0,
+  "minor_share": 0.14487294000495676,
+  "chord_rate": 2.6999836735681115,
+  "repetitiveness": 0.9114009737968445,
+  "vocal_share": 0.20804068446159363,
+  "vocal_voiced": 0.9635499207606973,
+  "song_length": 305.027
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "obscura/414335720-105",
+ "band": "obscura",
+ "title": "Prismal Dawn",
+ "source": "itunes",
+ "album": "Omnivium",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.076304368908501,
+  "tempo_var": 10.897348658294764,
+  "low_onset_rate": 4.878200310333123,
+  "lufs": -9.162827890432734,
+  "rms_dbfs": -8.875067841458469,
+  "crest": 8.875067710876465,
+  "centroid": 2485.436763408453,
+  "flatness": 0.03115038573741913,
+  "sub100_share": 0.2873713970184326,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7308444976806641,
+  "clean_share": 0.03335919317300233,
+  "minor_share": -0.04904133348010964,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.8277184963226318,
+  "vocal_share": 0.09387180209159851,
+  "vocal_voiced": 0.252387448840382,
+  "song_length": 379.8
+ }
+}

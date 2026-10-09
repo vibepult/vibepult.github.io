@@ -1,0 +1,127 @@
+{
+ "slug": "twisted-sister",
+ "name": "Twisted Sister",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 149786,
+  "deezer": 3004,
+  "spotify": "7b85ve82Sh36a3UAx74wut"
+ },
+ "metadata": {
+  "formed": 1973,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 3,
+  "past_members": 15,
+  "full_lengths": 7,
+  "genre": "Heavy Metal/Hard Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 375015,
+  "themes": "Rock 'n' Roll, Partying, Rebellion, Love, Fun, Sex",
+  "release_year": 1993
+ },
+ "partial": false,
+ "clips": [
+  "twisted-sister/1788378632-105",
+  "twisted-sister/1788378224-105",
+  "twisted-sister/1788377759-108",
+  "twisted-sister/1788379503-105",
+  "twisted-sister/1788378632-106",
+  "twisted-sister/1788378224-106",
+  "twisted-sister/1788377759-109",
+  "twisted-sister/1788379503-106",
+  "twisted-sister/1788378632-104",
+  "twisted-sister/1788378224-104",
+  "twisted-sister/1788377759-107",
+  "twisted-sister/1788379503-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 135.99917763157896,
+   "iqr": 39.07643037683823
+  },
+  "onset_rate": {
+   "median": 2.049987604005418,
+   "iqr": 0.7916618795955883
+  },
+  "tempo_var": {
+   "median": 12.965800991639963,
+   "iqr": 11.880993348485529
+  },
+  "low_onset_rate": {
+   "median": 2.7999830688854486,
+   "iqr": 0.7333288989938085
+  },
+  "lufs": {
+   "median": -13.023916280420671,
+   "iqr": 5.039127180872594
+  },
+  "rms_dbfs": {
+   "median": -12.836515496957059,
+   "iqr": 4.996075627356001
+  },
+  "crest": {
+   "median": 12.836514949798584,
+   "iqr": 4.865172386169434
+  },
+  "centroid": {
+   "median": 2272.1810072712906,
+   "iqr": 472.39509135883577
+  },
+  "flatness": {
+   "median": 0.020031584426760674,
+   "iqr": 0.008209826424717903
+  },
+  "sub100_share": {
+   "median": 0.2551039159297943,
+   "iqr": 0.16734451428055763
+  },
+  "lowest_pitch": {
+   "median": 52.4871826171875,
+   "iqr": 57.8704833984375
+  },
+  "harmonic_share": {
+   "median": 0.7707985043525696,
+   "iqr": 0.17194786667823792
+  },
+  "clean_share": {
+   "median": 0.17981438515081205,
+   "iqr": 0.2034029389017788
+  },
+  "minor_share": {
+   "median": -0.06935973198346629,
+   "iqr": 0.19250872690562126
+  },
+  "chord_rate": {
+   "median": 1.1999927438080495,
+   "iqr": 0.5499966742453559
+  },
+  "repetitiveness": {
+   "median": 0.8331016302108765,
+   "iqr": 0.06944915652275085
+  },
+  "vocal_share": {
+   "median": 0.06653082370758057,
+   "iqr": 0.055074455216526985
+  },
+  "vocal_voiced": {
+   "median": 0.8326279903603127,
+   "iqr": 0.34880308059527043
+  },
+  "song_length": {
+   "median": 230.0085,
+   "iqr": 39.516999999999996
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.8,
+  "camp": 0.8
+ },
+ "sources_failed": []
+}

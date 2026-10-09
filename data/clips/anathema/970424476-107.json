@@ -1,0 +1,32 @@
+{
+ "id": "anathema/970424476-107",
+ "band": "anathema",
+ "title": "Parisienne Moonlight (Remastered)",
+ "source": "itunes",
+ "album": "Judgement (Remastered)",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 3.2645988406436435,
+  "tempo_var": 3.5548089756515093,
+  "low_onset_rate": 4.563775930287543,
+  "lufs": -10.080047731561903,
+  "rms_dbfs": -9.741915165257385,
+  "crest": 9.741915702819824,
+  "centroid": 1962.5434049827659,
+  "flatness": 0.007910627871751785,
+  "sub100_share": 0.08048142492771149,
+  "lowest_pitch": 148.040771484375,
+  "harmonic_share": 0.9605864882469177,
+  "clean_share": 0.4593967517401392,
+  "minor_share": 0.20285517864513636,
+  "chord_rate": 0.3997467968135074,
+  "repetitiveness": 0.6709433794021606,
+  "vocal_share": 0.3192582130432129,
+  "vocal_voiced": 0.9425566343042071,
+  "song_length": 130.067
+ }
+}

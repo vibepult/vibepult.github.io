@@ -1,0 +1,32 @@
+{
+ "id": "seventh-wonder/1690226399-104",
+ "band": "seventh-wonder",
+ "title": "King Of Whitewater",
+ "source": "itunes",
+ "album": "The Great Escape",
+ "year": 2010,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.677726324976968,
+  "tempo_var": 25.599284669821177,
+  "low_onset_rate": 4.276778354264656,
+  "lufs": -9.147477906939498,
+  "rms_dbfs": -8.318699196411929,
+  "crest": 8.31869888305664,
+  "centroid": 2311.2637610628317,
+  "flatness": 0.02094629779458046,
+  "sub100_share": 0.32673919200897217,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7909663915634155,
+  "clean_share": 0.05430566330488751,
+  "minor_share": -0.07613961153160664,
+  "chord_rate": 2.472512486059254,
+  "repetitiveness": 0.8114370107650757,
+  "vocal_share": 0.03213388845324516,
+  "vocal_voiced": 0.8835616438356164,
+  "song_length": 459.52
+ }
+}

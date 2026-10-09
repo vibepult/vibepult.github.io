@@ -1,0 +1,32 @@
+{
+ "id": "norther/701056447-106",
+ "band": "norther",
+ "title": "Omen",
+ "source": "itunes",
+ "album": "Till Death Unites Us",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.84478797944043,
+  "tempo_var": 0.0,
+  "low_onset_rate": 7.3173004654996845,
+  "lufs": -7.755931954620269,
+  "rms_dbfs": -7.796860823357873,
+  "crest": 7.796860694885254,
+  "centroid": 2546.469824262707,
+  "flatness": 0.03845547139644623,
+  "sub100_share": 0.20736147463321686,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7156524062156677,
+  "clean_share": 0.0,
+  "minor_share": 0.10075101259887964,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.7995395660400391,
+  "vocal_share": 0.14734646677970886,
+  "vocal_voiced": 0.20616740088105726,
+  "song_length": 267.827
+ }
+}

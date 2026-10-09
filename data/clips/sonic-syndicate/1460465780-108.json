@@ -1,0 +1,32 @@
+{
+ "id": "sonic-syndicate/1460465780-108",
+ "band": "sonic-syndicate",
+ "title": "It Takes Me",
+ "source": "itunes",
+ "album": "Sonic Syndicate",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.045261964796587,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.21232361926005,
+  "lufs": -7.776997724051625,
+  "rms_dbfs": -7.413004586276417,
+  "crest": 7.413003921508789,
+  "centroid": 2881.800874418288,
+  "flatness": 0.05462230369448662,
+  "sub100_share": 0.25613582134246826,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.718571126461029,
+  "clean_share": 0.0031031807602792862,
+  "minor_share": 0.07770092081958724,
+  "chord_rate": 1.1026069194588566,
+  "repetitiveness": 0.8876090049743652,
+  "vocal_share": 0.012296315282583237,
+  "vocal_voiced": 0.09433962264150944,
+  "song_length": 226.681
+ }
+}

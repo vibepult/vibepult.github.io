@@ -1,0 +1,32 @@
+{
+ "id": "pain/1693551718-105",
+ "band": "pain",
+ "title": "Suicide Machine",
+ "source": "itunes",
+ "album": "Rebirth",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.0381521844542503,
+  "tempo_var": 1.4782669268928428,
+  "low_onset_rate": 2.472512486059254,
+  "lufs": -10.991115681214195,
+  "rms_dbfs": -10.85592533754248,
+  "crest": 10.855924606323242,
+  "centroid": 3199.4600588924973,
+  "flatness": 0.06417803466320038,
+  "sub100_share": 0.36395731568336487,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.5695773363113403,
+  "clean_share": 0.007757951900698216,
+  "minor_share": -0.09853841405877761,
+  "chord_rate": 1.9379151917761723,
+  "repetitiveness": 0.9198194146156311,
+  "vocal_share": 1.9730752683244646e-05,
+  "vocal_voiced": 1.0,
+  "song_length": 256.453
+ }
+}

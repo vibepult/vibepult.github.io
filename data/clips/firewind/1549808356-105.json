@@ -1,0 +1,32 @@
+{
+ "id": "firewind/1549808356-105",
+ "band": "firewind",
+ "title": "The Fire and the Fury",
+ "source": "itunes",
+ "album": "Burning Earth",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 5.813745575328517,
+  "tempo_var": 25.603793452285437,
+  "low_onset_rate": 8.520144377636619,
+  "lufs": -8.047409307708529,
+  "rms_dbfs": -7.220310005044271,
+  "crest": 7.220310211181641,
+  "centroid": 2571.6218865138376,
+  "flatness": 0.03339112550020218,
+  "sub100_share": 0.4318050146102905,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.856945276260376,
+  "clean_share": 0.0069821567106283944,
+  "minor_share": 0.00045267726157305344,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.9200707077980042,
+  "vocal_share": 0.0028851882088929415,
+  "vocal_voiced": 0.9914893617021276,
+  "song_length": 325.147
+ }
+}

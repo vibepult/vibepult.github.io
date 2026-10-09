@@ -1,0 +1,32 @@
+{
+ "id": "celtian/1465643833-105",
+ "band": "celtian",
+ "title": "El Solsticio de Driade",
+ "source": "itunes",
+ "album": "En Tierra de Hadas",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.544077001406197,
+  "tempo_var": 4.41252031535523,
+  "low_onset_rate": 6.11445655336275,
+  "lufs": -10.00736471291127,
+  "rms_dbfs": -10.581035160361687,
+  "crest": 10.581035614013672,
+  "centroid": 2359.6943177535177,
+  "flatness": 0.017725829035043716,
+  "sub100_share": 0.21396934986114502,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8587411046028137,
+  "clean_share": 0.23972071373157486,
+  "minor_share": 0.0021407259559118597,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.8291276097297668,
+  "vocal_share": 9.110939572565258e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 265.102
+ }
+}

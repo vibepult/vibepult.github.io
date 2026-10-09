@@ -1,0 +1,32 @@
+{
+ "id": "waltari/835846708-106",
+ "band": "waltari",
+ "title": "Sad Song",
+ "source": "itunes",
+ "album": "Monk Punk",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.811375648547738,
+  "tempo_var": 2.7521607153076166,
+  "low_onset_rate": 5.680096251757746,
+  "lufs": -10.392076315541658,
+  "rms_dbfs": -11.123161207547739,
+  "crest": 11.123161315917969,
+  "centroid": 3099.5640895784536,
+  "flatness": 0.0657331719994545,
+  "sub100_share": 0.12589645385742188,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.6778662204742432,
+  "clean_share": 0.027928626842513578,
+  "minor_share": 0.24309726445974889,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.8049501180648804,
+  "vocal_share": 0.16020306944847107,
+  "vocal_voiced": 0.8618357487922705,
+  "song_length": 306.267
+ }
+}

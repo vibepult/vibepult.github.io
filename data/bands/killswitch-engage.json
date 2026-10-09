@@ -1,0 +1,127 @@
+{
+ "slug": "killswitch-engage",
+ "name": "Killswitch Engage",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 14268438,
+  "deezer": 2124,
+  "spotify": "37394IP6uhnjIpsawpMu4l"
+ },
+ "metadata": {
+  "formed": 1999,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 3,
+  "full_lengths": 9,
+  "genre": "Metalcore",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 350334,
+  "themes": "Heartbreak, Romance, Suffering, Personal struggles, Positivity",
+  "release_year": 2014
+ },
+ "partial": false,
+ "clips": [
+  "killswitch-engage/214476864-105",
+  "killswitch-engage/214473161-106",
+  "killswitch-engage/596456098-106",
+  "killswitch-engage/1077873782-106",
+  "killswitch-engage/1466701470-106",
+  "killswitch-engage/1770188976-105",
+  "killswitch-engage/214476864-106",
+  "killswitch-engage/214473161-105",
+  "killswitch-engage/596456098-107",
+  "killswitch-engage/1077873782-107",
+  "killswitch-engage/1466701470-105",
+  "killswitch-engage/1770188976-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 110.40660511363637,
+   "iqr": 28.1982421875
+  },
+  "onset_rate": {
+   "median": 4.5663715100872695,
+   "iqr": 1.5422535919957108
+  },
+  "tempo_var": {
+   "median": 11.798553821611833,
+   "iqr": 14.012517228206487
+  },
+  "low_onset_rate": {
+   "median": 5.565558582689656,
+   "iqr": 1.6915777110105727
+  },
+  "lufs": {
+   "median": -8.525248334747069,
+   "iqr": 2.038636711163827
+  },
+  "rms_dbfs": {
+   "median": -8.146862760614686,
+   "iqr": 2.0637930452698514
+  },
+  "crest": {
+   "median": 8.146862268447876,
+   "iqr": 2.063793182373047
+  },
+  "centroid": {
+   "median": 2561.346166905071,
+   "iqr": 112.64787564095741
+  },
+  "flatness": {
+   "median": 0.03867645747959614,
+   "iqr": 0.007775898091495037
+  },
+  "sub100_share": {
+   "median": 0.266129806637764,
+   "iqr": 0.040052153170108795
+  },
+  "lowest_pitch": {
+   "median": 57.8704833984375,
+   "iqr": 19.51446533203125
+  },
+  "harmonic_share": {
+   "median": 0.7020890116691589,
+   "iqr": 0.07521076500415802
+  },
+  "clean_share": {
+   "median": 0.009280742459396751,
+   "iqr": 0.02300850734725445
+  },
+  "minor_share": {
+   "median": 0.10533859456715694,
+   "iqr": 0.24267454527317447
+  },
+  "chord_rate": {
+   "median": 1.5165632259731066,
+   "iqr": 0.3416495103656876
+  },
+  "repetitiveness": {
+   "median": 0.8660520017147064,
+   "iqr": 0.08224084973335266
+  },
+  "vocal_share": {
+   "median": 0.19617602229118347,
+   "iqr": 0.04821654409170151
+  },
+  "vocal_voiced": {
+   "median": 0.5400225479143179,
+   "iqr": 0.1498287613279381
+  },
+  "song_length": {
+   "median": 216.94,
+   "iqr": 47.78525000000002
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.0,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

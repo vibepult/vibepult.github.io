@@ -1,0 +1,32 @@
+{
+ "id": "impellitteri/1605947595-104",
+ "band": "impellitteri",
+ "title": "Power of Love",
+ "source": "itunes",
+ "album": "Grin and Bear It",
+ "year": 1992,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 71.77734375,
+  "onset_rate": 4.744550986762353,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.34597294283082,
+  "lufs": -10.77156836675806,
+  "rms_dbfs": -10.558790250327013,
+  "crest": 10.55879020690918,
+  "centroid": 2668.502342969029,
+  "flatness": 0.03249993547797203,
+  "sub100_share": 0.3313094675540924,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.8161686658859253,
+  "clean_share": 0.003878975950349108,
+  "minor_share": 0.2505993126947298,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.8602962493896484,
+  "vocal_share": 0.18180613219738007,
+  "vocal_voiced": 0.7297551789077212,
+  "song_length": 256.227
+ }
+}

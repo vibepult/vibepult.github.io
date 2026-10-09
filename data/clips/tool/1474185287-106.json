@@ -1,0 +1,32 @@
+{
+ "id": "tool/1474185287-106",
+ "band": "tool",
+ "title": "Swamp Song",
+ "source": "itunes",
+ "album": "Undertow",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "hand",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 3.2645988406436435,
+  "tempo_var": 20.949556632843983,
+  "low_onset_rate": 5.529830689253519,
+  "lufs": -13.894533017061681,
+  "rms_dbfs": -12.540239768776216,
+  "crest": 12.540239334106445,
+  "centroid": 2584.884499144226,
+  "flatness": 0.023932313546538353,
+  "sub100_share": 0.5568825602531433,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.774406373500824,
+  "clean_share": 0.17865429234338748,
+  "minor_share": 0.12206263663236294,
+  "chord_rate": 1.3658015557794836,
+  "repetitiveness": 0.9045690298080444,
+  "vocal_share": 0.08172908425331116,
+  "vocal_voiced": 0.9343629343629344,
+  "song_length": 331.853
+ }
+}

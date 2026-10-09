@@ -1,0 +1,127 @@
+{
+ "slug": "stam1na",
+ "name": "Stam1na",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 472322503,
+  "deezer": 405259,
+  "spotify": "41nB823nb3wxEI25UeGHqG"
+ },
+ "metadata": {
+  "formed": 1996,
+  "split": null,
+  "country": "FI",
+  "status": "active",
+  "members": 5,
+  "past_members": 4,
+  "full_lengths": 11,
+  "genre": "Progressive/Thrash/Heavy Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 9045,
+  "themes": "Emotions, Life, Society, Violence",
+  "release_year": 2013
+ },
+ "partial": false,
+ "clips": [
+  "stam1na/472763837-106",
+  "stam1na/472764426-106",
+  "stam1na/1374402259-106",
+  "stam1na/472713217-106",
+  "stam1na/495683323-105",
+  "stam1na/803578086-106",
+  "stam1na/1087012326-105",
+  "stam1na/1437397649-106",
+  "stam1na/1553482020-105",
+  "stam1na/1706841260-105",
+  "stam1na/1875008502-105",
+  "stam1na/472763837-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 105.86558058110367,
+   "iqr": 47.20199377828054
+  },
+  "onset_rate": {
+   "median": 5.078674295689279,
+   "iqr": 2.033777990270865
+  },
+  "tempo_var": {
+   "median": 13.666507559003332,
+   "iqr": 7.494867152658351
+  },
+  "low_onset_rate": {
+   "median": 5.4462099355088975,
+   "iqr": 2.358071773557338
+  },
+  "lufs": {
+   "median": -8.670960433824458,
+   "iqr": 2.501454837303643
+  },
+  "rms_dbfs": {
+   "median": -7.759780533845278,
+   "iqr": 2.4380633695726477
+  },
+  "crest": {
+   "median": 7.7597808837890625,
+   "iqr": 2.438063383102417
+  },
+  "centroid": {
+   "median": 2544.0417387709654,
+   "iqr": 178.68847477673808
+  },
+  "flatness": {
+   "median": 0.03156542778015137,
+   "iqr": 0.012679013889282942
+  },
+  "sub100_share": {
+   "median": 0.35759493708610535,
+   "iqr": 0.056855686008930206
+  },
+  "lowest_pitch": {
+   "median": 51.141357421875,
+   "iqr": 8.74786376953125
+  },
+  "harmonic_share": {
+   "median": 0.7329016923904419,
+   "iqr": 0.11131562292575836
+  },
+  "clean_share": {
+   "median": 0.010473235065942593,
+   "iqr": 0.02734678044996121
+  },
+  "minor_share": {
+   "median": 0.025959545356629532,
+   "iqr": 0.2585514878837126
+  },
+  "chord_rate": {
+   "median": 1.553673386510207,
+   "iqr": 0.24561770056240806
+  },
+  "repetitiveness": {
+   "median": 0.8272313475608826,
+   "iqr": 0.08509272336959839
+  },
+  "vocal_share": {
+   "median": 0.13787440955638885,
+   "iqr": 0.0326058566570282
+  },
+  "vocal_voiced": {
+   "median": 0.4741532976827095,
+   "iqr": 0.37021304970785135
+  },
+  "song_length": {
+   "median": 226.99349999999998,
+   "iqr": 65.66300000000001
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

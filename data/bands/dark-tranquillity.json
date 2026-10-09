@@ -1,0 +1,127 @@
+{
+ "slug": "dark-tranquillity",
+ "name": "Dark Tranquillity",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 18243687,
+  "deezer": 3561,
+  "spotify": "5EHvXKnNz78jkAVgTQLQ5O"
+ },
+ "metadata": {
+  "formed": 1991,
+  "split": null,
+  "country": "SE",
+  "status": "active",
+  "members": 6,
+  "past_members": 9,
+  "full_lengths": 13,
+  "genre": "Melodic Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 104997,
+  "themes": "Death, Memories, Despair, Chaos theory",
+  "release_year": 2001
+ },
+ "partial": false,
+ "clips": [
+  "dark-tranquillity/1840938221-105",
+  "dark-tranquillity/1545222351-106",
+  "dark-tranquillity/1545222333-106",
+  "dark-tranquillity/1045086087-105",
+  "dark-tranquillity/1045217379-106",
+  "dark-tranquillity/1045081591-106",
+  "dark-tranquillity/1045095949-106",
+  "dark-tranquillity/1045620646-106",
+  "dark-tranquillity/1045588466-106",
+  "dark-tranquillity/1529526220-105",
+  "dark-tranquillity/1750755054-106",
+  "dark-tranquillity/1840938221-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 39.07643037683823
+  },
+  "onset_rate": {
+   "median": 4.770906420999571,
+   "iqr": 2.60053130697938
+  },
+  "tempo_var": {
+   "median": 14.767312523740857,
+   "iqr": 15.253866332979026
+  },
+  "low_onset_rate": {
+   "median": 6.32227755753707,
+   "iqr": 1.8169248652201668
+  },
+  "lufs": {
+   "median": -8.950763071412402,
+   "iqr": 0.8822986943267512
+  },
+  "rms_dbfs": {
+   "median": -8.454306603392844,
+   "iqr": 1.3791718132864759
+  },
+  "crest": {
+   "median": 8.454306602478027,
+   "iqr": 1.3791720867156982
+  },
+  "centroid": {
+   "median": 2726.6846418179603,
+   "iqr": 534.6036031224003
+  },
+  "flatness": {
+   "median": 0.04227961786091328,
+   "iqr": 0.019228568766266108
+  },
+  "sub100_share": {
+   "median": 0.321797251701355,
+   "iqr": 0.08358236402273178
+  },
+  "lowest_pitch": {
+   "median": 61.907958984375,
+   "iqr": 18.16864013671875
+  },
+  "harmonic_share": {
+   "median": 0.7868479192256927,
+   "iqr": 0.09219768643379211
+  },
+  "clean_share": {
+   "median": 0.001549190395019551,
+   "iqr": 0.07849961330239752
+  },
+  "minor_share": {
+   "median": -0.15529559152396433,
+   "iqr": 0.27831545935416097
+  },
+  "chord_rate": {
+   "median": 1.5703795519565533,
+   "iqr": 0.5386262317353208
+  },
+  "repetitiveness": {
+   "median": 0.8165821433067322,
+   "iqr": 0.12049372494220734
+  },
+  "vocal_share": {
+   "median": 0.10477674007415771,
+   "iqr": 0.05073103308677673
+  },
+  "vocal_voiced": {
+   "median": 0.13768115942028986,
+   "iqr": 0.14227319202496913
+  },
+  "song_length": {
+   "median": 248.22,
+   "iqr": 53.474500000000035
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

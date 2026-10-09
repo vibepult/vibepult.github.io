@@ -1,0 +1,127 @@
+{
+ "slug": "myrath",
+ "name": "Myrath",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 317299570,
+  "deezer": 246392,
+  "spotify": "72500XOYPw5e7OgFWuW2Gl"
+ },
+ "metadata": {
+  "formed": 2006,
+  "split": null,
+  "country": "TN",
+  "status": "active",
+  "members": 5,
+  "past_members": 3,
+  "full_lengths": 7,
+  "genre": "Middle Eastern Folk/Progressive Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 27053,
+  "themes": "Hope, Optimism, Inner struggles",
+  "release_year": 2017
+ },
+ "partial": false,
+ "clips": [
+  "myrath/347711638-105",
+  "myrath/464009405-106",
+  "myrath/1067485638-107",
+  "myrath/1451882649-107",
+  "myrath/1707615046-106",
+  "myrath/1846884997-105",
+  "myrath/347711638-106",
+  "myrath/464009405-105",
+  "myrath/1067485638-106",
+  "myrath/1451882649-106",
+  "myrath/1707615046-105",
+  "myrath/1846884997-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 107.666015625,
+   "iqr": 32.435416403087046
+  },
+  "onset_rate": {
+   "median": 3.8591242181059986,
+   "iqr": 1.6931290306938847
+  },
+  "tempo_var": {
+   "median": 13.908018998560904,
+   "iqr": 8.874473509700515
+  },
+  "low_onset_rate": {
+   "median": 4.193247527032925,
+   "iqr": 1.3854662674360343
+  },
+  "lufs": {
+   "median": -10.233876412841468,
+   "iqr": 2.901436234984237
+  },
+  "rms_dbfs": {
+   "median": -9.630370853092048,
+   "iqr": 2.720564788700747
+  },
+  "crest": {
+   "median": 9.630370616912842,
+   "iqr": 2.7205649614334106
+  },
+  "centroid": {
+   "median": 2390.049537195842,
+   "iqr": 236.12697214675518
+  },
+  "flatness": {
+   "median": 0.02896928135305643,
+   "iqr": 0.006826349534094334
+  },
+  "sub100_share": {
+   "median": 0.3120187222957611,
+   "iqr": 0.12966201454401016
+  },
+  "lowest_pitch": {
+   "median": 45.758056640625,
+   "iqr": 13.458251953125
+  },
+  "harmonic_share": {
+   "median": 0.7261188626289368,
+   "iqr": 0.07801422476768494
+  },
+  "clean_share": {
+   "median": 0.053861022176213594,
+   "iqr": 0.08483668670604089
+  },
+  "minor_share": {
+   "median": 0.08207647328411471,
+   "iqr": 0.09740309105787134
+  },
+  "chord_rate": {
+   "median": 1.7000000000000002,
+   "iqr": 0.7647509758522038
+  },
+  "repetitiveness": {
+   "median": 0.8406873941421509,
+   "iqr": 0.04270434379577637
+  },
+  "vocal_share": {
+   "median": 0.2493988424539566,
+   "iqr": 0.10520283877849579
+  },
+  "vocal_voiced": {
+   "median": 0.8130536195520863,
+   "iqr": 0.11231753366864783
+  },
+  "song_length": {
+   "median": 287.6615,
+   "iqr": 26.895249999999976
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "ancient-rites",
+ "name": "Ancient Rites",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 156901262,
+  "deezer": 56228,
+  "spotify": "0okB1HEJFLD98VkNzLtTBJ"
+ },
+ "metadata": {
+  "formed": 1988,
+  "split": null,
+  "country": "BE",
+  "status": "active",
+  "members": 5,
+  "past_members": 14,
+  "full_lengths": 6,
+  "genre": "Black/Thrash Metal, Folk/Viking Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 1711,
+  "themes": "Satanism (early); Paganism, European history/heritage (later)",
+  "release_year": 1999
+ },
+ "partial": false,
+ "clips": [
+  "ancient-rites/1600477466-107",
+  "ancient-rites/1600462945-106",
+  "ancient-rites/269367910-106",
+  "ancient-rites/1601280359-105",
+  "ancient-rites/583580480-106",
+  "ancient-rites/1452144509-106",
+  "ancient-rites/1600477466-106",
+  "ancient-rites/1600462945-105",
+  "ancient-rites/269367910-105",
+  "ancient-rites/1601280359-106",
+  "ancient-rites/583580480-105",
+  "ancient-rites/1452144509-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 99.38401442307692,
+   "iqr": 22.706156405272367
+  },
+  "onset_rate": {
+   "median": 3.9760673762304224,
+   "iqr": 3.3913515856083016
+  },
+  "tempo_var": {
+   "median": 10.49962732611684,
+   "iqr": 6.8522145349217425
+  },
+  "low_onset_rate": {
+   "median": 6.515404524075062,
+   "iqr": 2.5393371478446394
+  },
+  "lufs": {
+   "median": -10.780610636801011,
+   "iqr": 1.5229589888975426
+  },
+  "rms_dbfs": {
+   "median": -10.519464912293289,
+   "iqr": 1.7629695263093854
+  },
+  "crest": {
+   "median": 10.51946496963501,
+   "iqr": 1.762969732284546
+  },
+  "centroid": {
+   "median": 2371.6210476838446,
+   "iqr": 646.5726184482392
+  },
+  "flatness": {
+   "median": 0.03035549819469452,
+   "iqr": 0.02332345675677061
+  },
+  "sub100_share": {
+   "median": 0.3191631883382797,
+   "iqr": 0.10065300017595291
+  },
+  "lowest_pitch": {
+   "median": 48.44970703125,
+   "iqr": 24.89776611328125
+  },
+  "harmonic_share": {
+   "median": 0.8107598423957825,
+   "iqr": 0.05026349425315857
+  },
+  "clean_share": {
+   "median": 0.022498060512024826,
+   "iqr": 0.2932505818463926
+  },
+  "minor_share": {
+   "median": 0.051000448425076866,
+   "iqr": 0.27451962547929
+  },
+  "chord_rate": {
+   "median": 1.7207350409736701,
+   "iqr": 0.9773106786112593
+  },
+  "repetitiveness": {
+   "median": 0.8235886991024017,
+   "iqr": 0.10920824110507965
+  },
+  "vocal_share": {
+   "median": 0.04428655095398426,
+   "iqr": 0.026077039539813995
+  },
+  "vocal_voiced": {
+   "median": 0.14825078272368397,
+   "iqr": 0.08832218105724263
+  },
+  "song_length": {
+   "median": 289.7,
+   "iqr": 75.82974999999996
+  },
+  "vocal_presence": {
+   "median": 0.5,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

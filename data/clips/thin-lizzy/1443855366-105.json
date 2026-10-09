@@ -1,0 +1,32 @@
+{
+ "id": "thin-lizzy/1443855366-105",
+ "band": "thin-lizzy",
+ "title": "Fools Gold",
+ "source": "itunes",
+ "album": "Johnny the Fox",
+ "year": 1976,
+ "itunes_year": 1976,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.564444820510651,
+  "tempo_var": 0.0,
+  "low_onset_rate": 3.931419626425232,
+  "lufs": -13.34788420154495,
+  "rms_dbfs": -12.470467052957005,
+  "crest": 12.470466613769531,
+  "centroid": 2142.298319706767,
+  "flatness": 0.015838364139199257,
+  "sub100_share": 0.23190909624099731,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7478962540626526,
+  "clean_share": 0.29698375870069604,
+  "minor_share": -0.2478954490256553,
+  "chord_rate": 1.565904427474457,
+  "repetitiveness": 0.7706553936004639,
+  "vocal_share": 0.27087730169296265,
+  "vocal_voiced": 0.9246778989098117,
+  "song_length": 231.107
+ }
+}

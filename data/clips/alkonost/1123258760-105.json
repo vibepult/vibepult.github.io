@@ -1,0 +1,32 @@
+{
+ "id": "alkonost/1123258760-105",
+ "band": "alkonost",
+ "title": "Подруга-ночь",
+ "source": "itunes",
+ "album": "Сказки Странствий",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.178911288367357,
+  "tempo_var": 4.101068317462338,
+  "low_onset_rate": 8.052371745138922,
+  "lufs": -9.49877383266901,
+  "rms_dbfs": -9.744602195276972,
+  "crest": 9.74460220336914,
+  "centroid": 2083.544013789787,
+  "flatness": 0.005443299189209938,
+  "sub100_share": 0.1120099350810051,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.9052746891975403,
+  "clean_share": 0.7470907680372382,
+  "minor_share": 0.20980503615294055,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.6325169801712036,
+  "vocal_share": 0.49770790338516235,
+  "vocal_voiced": 0.9332816136539953,
+  "song_length": 214.587
+ }
+}

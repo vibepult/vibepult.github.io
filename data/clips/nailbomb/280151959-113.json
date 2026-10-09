@@ -1,0 +1,32 @@
+{
+ "id": "nailbomb/280151959-113",
+ "band": "nailbomb",
+ "title": "Sick Life",
+ "source": "itunes",
+ "album": "Point Blank",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 4.963890189916449,
+  "tempo_var": 25.784543826490093,
+  "low_onset_rate": 6.063275265535528,
+  "lufs": -12.35077892822716,
+  "rms_dbfs": -12.197290076847565,
+  "crest": 12.197290420532227,
+  "centroid": 2721.415872160882,
+  "flatness": 0.0442228838801384,
+  "sub100_share": 0.22230441868305206,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.6195467114448547,
+  "clean_share": 0.0,
+  "minor_share": -0.056098857399828506,
+  "chord_rate": 2.1987701512381586,
+  "repetitiveness": 0.9537791013717651,
+  "vocal_share": 0.07477760314941406,
+  "vocal_voiced": 0.16041979010494753,
+  "song_length": 1070.693
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "unisonic",
+ "name": "Unisonic",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 319151092,
+  "deezer": 412111,
+  "spotify": "3DDcmHnwKjM4sQ8qm34JMU"
+ },
+ "metadata": {
+  "formed": 2009,
+  "split": 2017,
+  "country": "DE",
+  "status": "split-up",
+  "members": 4,
+  "past_members": 1,
+  "full_lengths": 2,
+  "genre": "Melodic Power Metal/Hard Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 7111,
+  "themes": "Life, Love, Positivity, Individuality",
+  "release_year": 2013
+ },
+ "partial": false,
+ "clips": [
+  "unisonic/1298872167-106",
+  "unisonic/905908797-107",
+  "unisonic/1298872167-105",
+  "unisonic/905908797-106",
+  "unisonic/1298872167-107",
+  "unisonic/905908797-108",
+  "unisonic/1298872167-104",
+  "unisonic/905908797-105",
+  "unisonic/1298872167-108",
+  "unisonic/905908797-109",
+  "unisonic/1298872167-103",
+  "unisonic/905908797-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 108.41892482517483,
+   "iqr": 36.9140625
+  },
+  "onset_rate": {
+   "median": 4.844787979440431,
+   "iqr": 1.4617894765553023
+  },
+  "tempo_var": {
+   "median": 12.002062306815343,
+   "iqr": 11.707275614829307
+  },
+  "low_onset_rate": {
+   "median": 5.112086626581972,
+   "iqr": 1.6873227100809771
+  },
+  "lufs": {
+   "median": -8.182692278212187,
+   "iqr": 0.8337873472562105
+  },
+  "rms_dbfs": {
+   "median": -7.822829809892301,
+   "iqr": 0.7234907663917465
+  },
+  "crest": {
+   "median": 7.822829723358154,
+   "iqr": 0.7234907150268555
+  },
+  "centroid": {
+   "median": 2439.8403984937186,
+   "iqr": 230.8487935600342
+  },
+  "flatness": {
+   "median": 0.027860681526362896,
+   "iqr": 0.01048763282597065
+  },
+  "sub100_share": {
+   "median": 0.21026777476072311,
+   "iqr": 0.10704681277275085
+  },
+  "lowest_pitch": {
+   "median": 49.7955322265625,
+   "iqr": 18.841552734375
+  },
+  "harmonic_share": {
+   "median": 0.770403116941452,
+   "iqr": 0.1265108436346054
+  },
+  "clean_share": {
+   "median": 0.02404965089216447,
+   "iqr": 0.038789759503491075
+  },
+  "minor_share": {
+   "median": -0.0597661613770738,
+   "iqr": 0.22703567598068594
+  },
+  "chord_rate": {
+   "median": 1.3699055666003976,
+   "iqr": 0.49283188066721606
+  },
+  "repetitiveness": {
+   "median": 0.8401140868663788,
+   "iqr": 0.09627671539783478
+  },
+  "vocal_share": {
+   "median": 0.25483274459838867,
+   "iqr": 0.10039370507001877
+  },
+  "vocal_voiced": {
+   "median": 0.8652568601647415,
+   "iqr": 0.07507170437025512
+  },
+  "song_length": {
+   "median": 282.24,
+   "iqr": 35.22000000000003
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

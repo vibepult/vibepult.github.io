@@ -1,0 +1,32 @@
+{
+ "id": "entwine/1669992929-105",
+ "band": "entwine",
+ "title": "Burden",
+ "source": "itunes",
+ "album": "Time of Despair",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.1407591039131066,
+  "tempo_var": 0.0,
+  "low_onset_rate": 3.9092427144450372,
+  "lufs": -12.261354505804865,
+  "rms_dbfs": -10.99006495071954,
+  "crest": 10.990065574645996,
+  "centroid": 2033.460202735685,
+  "flatness": 0.01251564733684063,
+  "sub100_share": 0.4253433644771576,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.9083144664764404,
+  "clean_share": 0.4615981380915438,
+  "minor_share": 0.11602419010527609,
+  "chord_rate": 0.9689575958880862,
+  "repetitiveness": 0.68001788854599,
+  "vocal_share": 0.16300354897975922,
+  "vocal_voiced": 0.873900293255132,
+  "song_length": 231.56
+ }
+}

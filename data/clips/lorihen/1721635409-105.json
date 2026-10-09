@@ -1,0 +1,32 @@
+{
+ "id": "lorihen/1721635409-105",
+ "band": "lorihen",
+ "title": "Golpe a Golpe",
+ "source": "itunes",
+ "album": "La Magia del Caos",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.833333333333333,
+  "tempo_var": 3.772206200287441,
+  "low_onset_rate": 5.133333333333334,
+  "lufs": -9.416810076828183,
+  "rms_dbfs": -8.640271240318672,
+  "crest": 8.640271186828613,
+  "centroid": 2202.724880516708,
+  "flatness": 0.017669683322310448,
+  "sub100_share": 0.20714478194713593,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6687731742858887,
+  "clean_share": 0.0804953560371517,
+  "minor_share": -0.24040783803717625,
+  "chord_rate": 1.1,
+  "repetitiveness": 0.8909520506858826,
+  "vocal_share": 0.31387239694595337,
+  "vocal_voiced": 0.487993803253292,
+  "song_length": 302.835
+ }
+}

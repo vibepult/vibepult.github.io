@@ -1,0 +1,32 @@
+{
+ "id": "versailles/381647190-105",
+ "band": "versailles",
+ "title": "Amorphous",
+ "source": "itunes",
+ "album": "JUBILEE",
+ "year": 2010,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.009479707123115,
+  "tempo_var": 9.180119717994831,
+  "low_onset_rate": 2.840048125878873,
+  "lufs": -8.843421959956782,
+  "rms_dbfs": -8.580260805212337,
+  "crest": 8.58026123046875,
+  "centroid": 2627.987692207258,
+  "flatness": 0.02557430975139141,
+  "sub100_share": 0.18495793640613556,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8368428349494934,
+  "clean_share": 0.11792086889061287,
+  "minor_share": 0.06795335059034024,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.6669323444366455,
+  "vocal_share": 0.3502192199230194,
+  "vocal_voiced": 0.9126034958601656,
+  "song_length": 310.436
+ }
+}

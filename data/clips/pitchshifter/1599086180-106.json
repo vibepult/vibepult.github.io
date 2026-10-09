@@ -1,0 +1,32 @@
+{
+ "id": "pitchshifter/1599086180-106",
+ "band": "pitchshifter",
+ "title": "Shutdown",
+ "source": "itunes",
+ "album": "Psi",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.813745575328517,
+  "tempo_var": 0.5588458158332364,
+  "low_onset_rate": 6.949764825680066,
+  "lufs": -8.336607381526596,
+  "rms_dbfs": -8.22035017349337,
+  "crest": 8.22035026550293,
+  "centroid": 2656.2055115794124,
+  "flatness": 0.04991712048649788,
+  "sub100_share": 0.25278937816619873,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.6186636090278625,
+  "clean_share": 0.0031031807602792862,
+  "minor_share": 0.22031769551424152,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.8754487633705139,
+  "vocal_share": 0.20974507927894592,
+  "vocal_voiced": 0.20791311093871218,
+  "song_length": 204.4
+ }
+}

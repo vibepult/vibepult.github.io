@@ -1,0 +1,32 @@
+{
+ "id": "the-ocean/1069341263-104",
+ "band": "the-ocean",
+ "title": "Fluxion",
+ "source": "itunes",
+ "album": "Fluxion",
+ "year": 2004,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 3.7087687290888813,
+  "tempo_var": 9.38221555937614,
+  "low_onset_rate": 4.209953692479271,
+  "lufs": -10.885918334931914,
+  "rms_dbfs": -9.642117311149134,
+  "crest": 9.64211654663086,
+  "centroid": 1977.6948338343084,
+  "flatness": 0.009867237880825996,
+  "sub100_share": 0.45472148060798645,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.9053022861480713,
+  "clean_share": 0.3413498836307215,
+  "minor_share": 0.07322246009782607,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.7866831421852112,
+  "vocal_share": 4.164488132119004e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 259.36
+ }
+}

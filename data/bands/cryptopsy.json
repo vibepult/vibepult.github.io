@@ -1,0 +1,127 @@
+{
+ "slug": "cryptopsy",
+ "name": "Cryptopsy",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 41977108,
+  "deezer": 10290,
+  "spotify": "29PgYwTelpNl6370XLqFtN"
+ },
+ "metadata": {
+  "formed": 1992,
+  "split": null,
+  "country": "CA",
+  "status": "active",
+  "members": 4,
+  "past_members": 15,
+  "full_lengths": 9,
+  "genre": "Brutal/Technical Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 28644,
+  "themes": "Horror, Blasphemy, Gore, Death, Mutilation, Insanity, Murder",
+  "release_year": 1999
+ },
+ "partial": false,
+ "clips": [
+  "cryptopsy/507939252-105",
+  "cryptopsy/782177038-104",
+  "cryptopsy/1045198706-104",
+  "cryptopsy/1045235186-105",
+  "cryptopsy/1045209871-106",
+  "cryptopsy/561907228-104",
+  "cryptopsy/1693451271-104",
+  "cryptopsy/1797811240-104",
+  "cryptopsy/507939252-106",
+  "cryptopsy/782177038-105",
+  "cryptopsy/1045198706-105",
+  "cryptopsy/1045235186-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 143.99912925696594,
+   "iqr": 40.8222169217551
+  },
+  "onset_rate": {
+   "median": 5.02855579935024,
+   "iqr": 2.1930844369866787
+  },
+  "tempo_var": {
+   "median": 13.915790554375654,
+   "iqr": 5.120719342895278
+  },
+  "low_onset_rate": {
+   "median": 6.097750387916404,
+   "iqr": 2.127125374403308
+  },
+  "lufs": {
+   "median": -9.159358227938098,
+   "iqr": 2.3267308616119884
+  },
+  "rms_dbfs": {
+   "median": -9.014792221290833,
+   "iqr": 2.4997904440613627
+  },
+  "crest": {
+   "median": 9.014792442321777,
+   "iqr": 2.4997899532318115
+  },
+  "centroid": {
+   "median": 2849.3530817851056,
+   "iqr": 253.37887007982363
+  },
+  "flatness": {
+   "median": 0.04616686329245567,
+   "iqr": 0.014895003288984299
+  },
+  "sub100_share": {
+   "median": 0.3571045398712158,
+   "iqr": 0.14985713735222816
+  },
+  "lowest_pitch": {
+   "median": 61.907958984375,
+   "iqr": 58.54339599609375
+  },
+  "harmonic_share": {
+   "median": 0.7522097527980804,
+   "iqr": 0.08759613335132599
+  },
+  "clean_share": {
+   "median": 0.0007757951900698216,
+   "iqr": 0.004643971207378514
+  },
+  "minor_share": {
+   "median": 0.031204912095355586,
+   "iqr": 0.15586040771844653
+  },
+  "chord_rate": {
+   "median": 2.6832927695726445,
+   "iqr": 0.7781006542048523
+  },
+  "repetitiveness": {
+   "median": 0.9527056813240051,
+   "iqr": 0.017637714743614197
+  },
+  "vocal_share": {
+   "median": 0.11586199328303337,
+   "iqr": 0.050173379480838776
+  },
+  "vocal_voiced": {
+   "median": 0.1370983900242793,
+   "iqr": 0.19441424427704287
+  },
+  "song_length": {
+   "median": 235.36,
+   "iqr": 45.48349999999999
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

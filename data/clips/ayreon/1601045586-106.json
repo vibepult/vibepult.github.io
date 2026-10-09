@@ -1,0 +1,32 @@
+{
+ "id": "ayreon/1601045586-106",
+ "band": "ayreon",
+ "title": "Farside of the World",
+ "source": "itunes",
+ "album": "Actual Fantasy Revisited",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.176541361586578,
+  "tempo_var": 4.599073734239371,
+  "low_onset_rate": 4.243366023371963,
+  "lufs": -24.53597897232435,
+  "rms_dbfs": -22.662743359756668,
+  "crest": 15.615778923034668,
+  "centroid": 1143.9698519107649,
+  "flatness": 0.0035087738651782274,
+  "sub100_share": 0.5740495324134827,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.9280686378479004,
+  "clean_share": 0.8541505042668736,
+  "minor_share": -0.11349239950955681,
+  "chord_rate": 0.033412330892692625,
+  "repetitiveness": 0.9798845648765564,
+  "vocal_share": 7.558359811810078e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 391.12
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "viikate/1536714928-107",
+ "band": "viikate",
+ "title": "Autuaat",
+ "source": "itunes",
+ "album": "Unholan Urut",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.777963317655045,
+  "tempo_var": 9.200788429083559,
+  "low_onset_rate": 8.620381370314698,
+  "lufs": -17.695142466737384,
+  "rms_dbfs": -17.39873038170876,
+  "crest": 13.057185173034668,
+  "centroid": 1520.9002662858568,
+  "flatness": 0.002135536167770624,
+  "sub100_share": 0.01804577186703682,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.9532601833343506,
+  "clean_share": 0.9806051202482544,
+  "minor_share": -0.09759627256709946,
+  "chord_rate": 0.6682466178538525,
+  "repetitiveness": 0.8098284602165222,
+  "vocal_share": 7.756771083222702e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 369.36
+ }
+}

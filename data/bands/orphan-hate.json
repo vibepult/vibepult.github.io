@@ -1,0 +1,127 @@
+{
+ "slug": "orphan-hate",
+ "name": "Orphan Hate",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 282450511,
+  "deezer": 1552189,
+  "spotify": "0NPorbSSrZE5Kup8enhzGW"
+ },
+ "metadata": {
+  "formed": 1996,
+  "split": 2013,
+  "country": "DE",
+  "status": "split-up",
+  "members": 5,
+  "past_members": 3,
+  "full_lengths": 4,
+  "genre": "Melodic Thrash/Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 311,
+  "themes": "Blasphemy, Death, Pain",
+  "release_year": 2012
+ },
+ "partial": false,
+ "clips": [
+  "orphan-hate/587756593-106",
+  "orphan-hate/587756593-107",
+  "orphan-hate/587756593-105",
+  "orphan-hate/587756593-108",
+  "orphan-hate/587756593-104",
+  "orphan-hate/587756593-109",
+  "orphan-hate/587756593-103",
+  "orphan-hate/587756593-110",
+  "orphan-hate/587756593-102",
+  "orphan-hate/587756593-111",
+  "orphan-hate/587756593-101",
+  "orphan-hate/587756593-112"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 32.533649427319006
+  },
+  "onset_rate": {
+   "median": 5.145498957474665,
+   "iqr": 0.9104860168258746
+  },
+  "tempo_var": {
+   "median": 13.73966487058792,
+   "iqr": 11.22778362808334
+  },
+  "low_onset_rate": {
+   "median": 5.095380461135625,
+   "iqr": 2.1467422598555013
+  },
+  "lufs": {
+   "median": -8.448085696212999,
+   "iqr": 0.8190713419084972
+  },
+  "rms_dbfs": {
+   "median": -7.299150714876628,
+   "iqr": 0.5928159073277257
+  },
+  "crest": {
+   "median": 7.299150466918945,
+   "iqr": 0.5928161144256592
+  },
+  "centroid": {
+   "median": 2391.4380313336133,
+   "iqr": 96.72724666709064
+  },
+  "flatness": {
+   "median": 0.023914208635687828,
+   "iqr": 0.006199563853442669
+  },
+  "sub100_share": {
+   "median": 0.5131698846817017,
+   "iqr": 0.09168284386396408
+  },
+  "lowest_pitch": {
+   "median": 40.374755859375,
+   "iqr": 2.691650390625
+  },
+  "harmonic_share": {
+   "median": 0.8047946095466614,
+   "iqr": 0.034856781363487244
+  },
+  "clean_share": {
+   "median": 0.060512024825446084,
+   "iqr": 0.09542280837858805
+  },
+  "minor_share": {
+   "median": -0.050748182131928,
+   "iqr": 0.18461857129113796
+  },
+  "chord_rate": {
+   "median": 1.2529624084759734,
+   "iqr": 0.5262442115599089
+  },
+  "repetitiveness": {
+   "median": 0.9093267321586609,
+   "iqr": 0.046609148383140564
+  },
+  "vocal_share": {
+   "median": 0.1401001289486885,
+   "iqr": 0.06968866474926472
+  },
+  "vocal_voiced": {
+   "median": 0.6131454950769581,
+   "iqr": 0.15544265102605448
+  },
+  "song_length": {
+   "median": 244.227,
+   "iqr": 37.566250000000025
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

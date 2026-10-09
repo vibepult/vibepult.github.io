@@ -1,0 +1,32 @@
+{
+ "id": "rainbow/1495873244-104",
+ "band": "rainbow",
+ "title": "Tite Squeeze",
+ "source": "itunes",
+ "album": "Straight Between the Eyes",
+ "year": 1982,
+ "itunes_year": 1982,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 3.699944067361038,
+  "tempo_var": 39.43283131003065,
+  "low_onset_rate": 4.433266314946108,
+  "lufs": -14.25429963230746,
+  "rms_dbfs": -13.981214753217841,
+  "crest": 13.98121452331543,
+  "centroid": 2207.354148609876,
+  "flatness": 0.018343724310398102,
+  "sub100_share": 0.1500592976808548,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7363587021827698,
+  "clean_share": 0.21732405259087392,
+  "minor_share": 0.04674341594565756,
+  "chord_rate": 1.5333101540415113,
+  "repetitiveness": 0.9022043943405151,
+  "vocal_share": 0.2974795699119568,
+  "vocal_voiced": 0.858281665190434,
+  "song_length": 194.76
+ }
+}

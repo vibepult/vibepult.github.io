@@ -1,0 +1,32 @@
+{
+ "id": "xandria/1648931542-107",
+ "band": "xandria",
+ "title": "My Curse is My Redemption",
+ "source": "itunes",
+ "album": "The Wonders Still Awaiting",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.566666666666667,
+  "tempo_var": 20.9642391933444,
+  "low_onset_rate": 4.766666666666667,
+  "lufs": -11.813773794059381,
+  "rms_dbfs": -11.44671487837031,
+  "crest": 11.446715354919434,
+  "centroid": 2379.509268335137,
+  "flatness": 0.024187542498111725,
+  "sub100_share": 0.251219779253006,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7472436428070068,
+  "clean_share": 0.17956656346749225,
+  "minor_share": 0.17885029627570181,
+  "chord_rate": 0.9,
+  "repetitiveness": 0.8142669200897217,
+  "vocal_share": 0.1621379405260086,
+  "vocal_voiced": 0.8567307692307692,
+  "song_length": 303.4
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "paracrona/1727450003-103",
+ "band": "paracrona",
+ "title": "Thriller",
+ "source": "itunes",
+ "album": "Sun God",
+ "year": 2023,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 8.333333333333334,
+  "tempo_var": 20.57414293323351,
+  "low_onset_rate": 10.1,
+  "lufs": -10.28090678805577,
+  "rms_dbfs": -8.36499711680727,
+  "crest": 8.364996910095215,
+  "centroid": 2406.8589476621078,
+  "flatness": 0.023954879492521286,
+  "sub100_share": 0.6040530800819397,
+  "lowest_pitch": 29.608154296875,
+  "harmonic_share": 0.8600226640701294,
+  "clean_share": 0.02476780185758514,
+  "minor_share": -0.043841870476375,
+  "chord_rate": 2.466666666666667,
+  "repetitiveness": 0.9494744539260864,
+  "vocal_share": 0.03155829757452011,
+  "vocal_voiced": 0.11156462585034013,
+  "song_length": 358.332
+ }
+}

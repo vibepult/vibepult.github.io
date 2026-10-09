@@ -1,0 +1,32 @@
+{
+ "id": "rammstein/1440785589-106",
+ "band": "rammstein",
+ "title": "Stirb nicht vor mir (Don't Die Before I Do)",
+ "source": "itunes",
+ "album": "Rosenrot",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "hand",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 3.2991222290063416,
+  "tempo_var": 25.263001749650243,
+  "low_onset_rate": 3.7323402994819217,
+  "lufs": -9.737843346431546,
+  "rms_dbfs": -8.588905799112773,
+  "crest": 8.588906288146973,
+  "centroid": 1942.613858423937,
+  "flatness": 0.011473662219941616,
+  "sub100_share": 0.40167737007141113,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.852196455001831,
+  "clean_share": 0.32869296210363497,
+  "minor_share": 0.12410365450168981,
+  "chord_rate": 0.8664361409511604,
+  "repetitiveness": 0.6892490386962891,
+  "vocal_share": 0.18592697381973267,
+  "vocal_voiced": 0.6912242686890574,
+  "song_length": 245.267
+ }
+}

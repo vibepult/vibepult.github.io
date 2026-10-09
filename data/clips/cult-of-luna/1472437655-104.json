@@ -1,0 +1,32 @@
+{
+ "id": "cult-of-luna/1472437655-104",
+ "band": "cult-of-luna",
+ "title": "Nightwalkers",
+ "source": "itunes",
+ "album": "A Dawn to Fear",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.842418052659652,
+  "tempo_var": 0.0,
+  "low_onset_rate": 3.7755933908742665,
+  "lufs": -12.508960001088349,
+  "rms_dbfs": -11.435977831398203,
+  "crest": 11.435977935791016,
+  "centroid": 1612.7710415598199,
+  "flatness": 0.004913522396236658,
+  "sub100_share": 0.5053570866584778,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8881467580795288,
+  "clean_share": 0.7137315748642359,
+  "minor_share": 0.009673555349678953,
+  "chord_rate": 1.0357822576734714,
+  "repetitiveness": 0.7770745754241943,
+  "vocal_share": 2.726855257151328e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 648.667
+ }
+}

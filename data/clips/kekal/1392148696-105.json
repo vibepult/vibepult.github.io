@@ -1,0 +1,32 @@
+{
+ "id": "kekal/1392148696-105",
+ "band": "kekal",
+ "title": "Broken",
+ "source": "itunes",
+ "album": "Acidity",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 2.9736974494496438,
+  "tempo_var": 5.367488665506974,
+  "low_onset_rate": 6.314930538718906,
+  "lufs": -9.010088215683668,
+  "rms_dbfs": -8.75181305922317,
+  "crest": 8.751812934875488,
+  "centroid": 2538.9475426640624,
+  "flatness": 0.02544342167675495,
+  "sub100_share": 0.3371484577655792,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8716238141059875,
+  "clean_share": 0.02017067494181536,
+  "minor_share": 0.08080390327041531,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.6689309477806091,
+  "vocal_share": 0.07637188583612442,
+  "vocal_voiced": 0.5181818181818182,
+  "song_length": 285.36
+ }
+}

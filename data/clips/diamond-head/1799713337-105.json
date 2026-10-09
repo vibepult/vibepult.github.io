@@ -1,0 +1,32 @@
+{
+ "id": "diamond-head/1799713337-105",
+ "band": "diamond-head",
+ "title": "Paradise",
+ "source": "itunes",
+ "album": "Death and Progress",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.166175416957637,
+  "tempo_var": 32.424485768005816,
+  "low_onset_rate": 5.232716323698793,
+  "lufs": -9.651826664903489,
+  "rms_dbfs": -9.53767657629409,
+  "crest": 9.537676811218262,
+  "centroid": 3159.9990874014075,
+  "flatness": 0.06449627876281738,
+  "sub100_share": 0.3506127893924713,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.5694636106491089,
+  "clean_share": 0.0030935808197989174,
+  "minor_share": -0.012270141549932001,
+  "chord_rate": 1.7331289734543773,
+  "repetitiveness": 0.8985128402709961,
+  "vocal_share": 0.16828852891921997,
+  "vocal_voiced": 0.6517273576097106,
+  "song_length": 217.815
+ }
+}

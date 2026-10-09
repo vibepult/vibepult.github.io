@@ -1,0 +1,127 @@
+{
+ "slug": "the-foreshadowing",
+ "name": "The Foreshadowing",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 262528171,
+  "deezer": 524197,
+  "spotify": "6E1AERKe6DMmO8bl35xkUF"
+ },
+ "metadata": {
+  "formed": 2005,
+  "split": null,
+  "country": "IT",
+  "status": "active",
+  "members": 5,
+  "past_members": 5,
+  "full_lengths": 6,
+  "genre": "Gothic/Doom Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 2129,
+  "themes": "Death, Armageddon, Nature, Misery",
+  "release_year": 2011
+ },
+ "partial": false,
+ "clips": [
+  "the-foreshadowing/1660336351-105",
+  "the-foreshadowing/1695870528-106",
+  "the-foreshadowing/1695469155-105",
+  "the-foreshadowing/1695641378-105",
+  "the-foreshadowing/1759040760-105",
+  "the-foreshadowing/1660336351-106",
+  "the-foreshadowing/1695870528-105",
+  "the-foreshadowing/1695469155-106",
+  "the-foreshadowing/1695641378-104",
+  "the-foreshadowing/1759040760-104",
+  "the-foreshadowing/1660336351-104",
+  "the-foreshadowing/1695870528-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.90049098320159,
+   "iqr": 19.6875
+  },
+  "onset_rate": {
+   "median": 3.1660343832622635,
+   "iqr": 0.856598450609162
+  },
+  "tempo_var": {
+   "median": 5.592073917237778,
+   "iqr": 7.32766288595586
+  },
+  "low_onset_rate": {
+   "median": 5.615908580592913,
+   "iqr": 2.0030703229643985
+  },
+  "lufs": {
+   "median": -9.335137695987946,
+   "iqr": 1.4351903254086533
+  },
+  "rms_dbfs": {
+   "median": -8.647710424567222,
+   "iqr": 1.6954214373181404
+  },
+  "crest": {
+   "median": 8.647710800170898,
+   "iqr": 1.695420742034912
+  },
+  "centroid": {
+   "median": 1967.077399968738,
+   "iqr": 664.0503102230768
+  },
+  "flatness": {
+   "median": 0.012095815036445856,
+   "iqr": 0.014981091255322099
+  },
+  "sub100_share": {
+   "median": 0.2825833112001419,
+   "iqr": 0.16558118164539337
+  },
+  "lowest_pitch": {
+   "median": 57.8704833984375,
+   "iqr": 17.4957275390625
+  },
+  "harmonic_share": {
+   "median": 0.8831947147846222,
+   "iqr": 0.08214949071407318
+  },
+  "clean_share": {
+   "median": 0.46055684454756385,
+   "iqr": 0.5881103357205625
+  },
+  "minor_share": {
+   "median": 0.11852517351372327,
+   "iqr": 0.24436636650999688
+  },
+  "chord_rate": {
+   "median": 1.0190760922271251,
+   "iqr": 0.5916471406327948
+  },
+  "repetitiveness": {
+   "median": 0.757952868938446,
+   "iqr": 0.12974102795124054
+  },
+  "vocal_share": {
+   "median": 0.1494080126285553,
+   "iqr": 0.1674308329820633
+  },
+  "vocal_voiced": {
+   "median": 0.8646616541353384,
+   "iqr": 0.09491978609625662
+  },
+  "song_length": {
+   "median": 285.9335,
+   "iqr": 127.34674999999999
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

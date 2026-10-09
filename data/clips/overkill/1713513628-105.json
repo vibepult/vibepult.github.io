@@ -1,0 +1,32 @@
+{
+ "id": "overkill/1713513628-105",
+ "band": "overkill",
+ "title": "Revelation",
+ "source": "itunes",
+ "album": "Necroshine",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.69991383350214,
+  "tempo_var": 24.079551370040424,
+  "low_onset_rate": 6.133240616166045,
+  "lufs": -9.76657710664529,
+  "rms_dbfs": -8.081506679515941,
+  "crest": 8.081506729125977,
+  "centroid": 2676.1425742239953,
+  "flatness": 0.03510696813464165,
+  "sub100_share": 0.509598970413208,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.7016506195068359,
+  "clean_share": 0.004640371229698376,
+  "minor_share": 0.11569320115831769,
+  "chord_rate": 2.3332980604979516,
+  "repetitiveness": 0.9149317741394043,
+  "vocal_share": 0.0897134318947792,
+  "vocal_voiced": 0.4353982300884956,
+  "song_length": 279.747
+ }
+}

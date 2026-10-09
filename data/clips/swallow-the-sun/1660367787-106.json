@@ -1,0 +1,32 @@
+{
+ "id": "swallow-the-sun/1660367787-106",
+ "band": "swallow-the-sun",
+ "title": "Silent Towers",
+ "source": "itunes",
+ "album": "Emerald Forest and the Blackbird",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 2.4391001551665616,
+  "tempo_var": 8.736956783998572,
+  "low_onset_rate": 3.94265504533773,
+  "lufs": -9.768092547034437,
+  "rms_dbfs": -9.159156403696365,
+  "crest": 9.15915584564209,
+  "centroid": 2149.3071260908773,
+  "flatness": 0.014963320456445217,
+  "sub100_share": 0.1664271354675293,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8470618724822998,
+  "clean_share": 0.2707525213343677,
+  "minor_share": 0.02096682575938824,
+  "chord_rate": 0.9689575958880862,
+  "repetitiveness": 0.7284767627716064,
+  "vocal_share": 0.14392141997814178,
+  "vocal_voiced": 0.8043143297380585,
+  "song_length": 241.307
+ }
+}

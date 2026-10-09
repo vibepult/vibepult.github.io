@@ -1,0 +1,32 @@
+{
+ "id": "saxon/1437338198-106",
+ "band": "saxon",
+ "title": "Just Let Me Rock",
+ "source": "itunes",
+ "album": "Crusader",
+ "year": 1984,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 4.0,
+  "tempo_var": 23.73682864549777,
+  "low_onset_rate": 3.6,
+  "lufs": -14.029530715302341,
+  "rms_dbfs": -13.584300203507816,
+  "crest": 13.58430004119873,
+  "centroid": 2433.900709934976,
+  "flatness": 0.02749985083937645,
+  "sub100_share": 0.23061759769916534,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.673711895942688,
+  "clean_share": 0.19736842105263158,
+  "minor_share": 0.05717107227850016,
+  "chord_rate": 0.8333333333333334,
+  "repetitiveness": 0.9510781168937683,
+  "vocal_share": 0.1996099352836609,
+  "vocal_voiced": 0.9196919691969196,
+  "song_length": 252.133
+ }
+}

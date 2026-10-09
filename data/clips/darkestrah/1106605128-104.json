@@ -1,0 +1,32 @@
+{
+ "id": "darkestrah/1106605128-104",
+ "band": "darkestrah",
+ "title": "Gleaming Madness",
+ "source": "itunes",
+ "album": "Turan",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 6.147868884255443,
+  "tempo_var": 2.327693487606046,
+  "low_onset_rate": 6.147868884255443,
+  "lufs": -10.563739776801379,
+  "rms_dbfs": -10.091690828569535,
+  "crest": 10.091691017150879,
+  "centroid": 2350.6444677960144,
+  "flatness": 0.0250511784106493,
+  "sub100_share": 0.25917959213256836,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.767417311668396,
+  "clean_share": 0.0,
+  "minor_share": -0.05794607098450255,
+  "chord_rate": 0.9689575958880862,
+  "repetitiveness": 0.8831731081008911,
+  "vocal_share": 0.09069408476352692,
+  "vocal_voiced": 0.24151696606786427,
+  "song_length": 419.253
+ }
+}

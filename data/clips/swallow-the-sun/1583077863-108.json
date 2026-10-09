@@ -1,0 +1,32 @@
+{
+ "id": "swallow-the-sun/1583077863-108",
+ "band": "swallow-the-sun",
+ "title": "This House Has No Home",
+ "source": "itunes",
+ "album": "Moonflowers (Deluxe Edition)",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 2.9314765099657207,
+  "tempo_var": 5.350795520017619,
+  "low_onset_rate": 6.395948749016118,
+  "lufs": -9.74061786361289,
+  "rms_dbfs": -8.997902563410058,
+  "crest": 8.997902870178223,
+  "centroid": 2257.722778210858,
+  "flatness": 0.02200835943222046,
+  "sub100_share": 0.3003838062286377,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8059282898902893,
+  "clean_share": 0.04717710750193349,
+  "minor_share": 0.10915623738062374,
+  "chord_rate": 1.5989871872540296,
+  "repetitiveness": 0.8198919296264648,
+  "vocal_share": 0.11221758276224136,
+  "vocal_voiced": 0.13448275862068965,
+  "song_length": 400.173
+ }
+}

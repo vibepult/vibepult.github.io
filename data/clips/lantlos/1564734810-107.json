@@ -1,0 +1,32 @@
+{
+ "id": "lantlos/1564734810-107",
+ "band": "lantlos",
+ "title": "Amber",
+ "source": "itunes",
+ "album": "Wildhund",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 2.405687824273869,
+  "tempo_var": 23.89651519414259,
+  "low_onset_rate": 3.6085317364108036,
+  "lufs": -9.85694491024194,
+  "rms_dbfs": -9.098501890138136,
+  "crest": 9.098502159118652,
+  "centroid": 2456.5568960978185,
+  "flatness": 0.02688521146774292,
+  "sub100_share": 0.5326637625694275,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8560101389884949,
+  "clean_share": 0.04422032583397983,
+  "minor_share": -0.26205142915252616,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.7774012684822083,
+  "vocal_share": 0.07094428688287735,
+  "vocal_voiced": 0.86875,
+  "song_length": 256.984
+ }
+}

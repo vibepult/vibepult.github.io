@@ -1,0 +1,127 @@
+{
+ "slug": "sybreed",
+ "name": "Sybreed",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 20422582,
+  "deezer": 58645,
+  "spotify": "5YKzmXqu3KxPoBSGIF7Yii"
+ },
+ "metadata": {
+  "formed": 2003,
+  "split": null,
+  "country": "CH",
+  "status": "active",
+  "members": 4,
+  "past_members": 3,
+  "full_lengths": 4,
+  "genre": "Industrial/Groove Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 8534,
+  "themes": "Abstract, Negativity, Pain, Nihilism, Future, Post-apocalypse",
+  "release_year": 2008
+ },
+ "partial": false,
+ "clips": [
+  "sybreed/20422607-105",
+  "sybreed/269013928-106",
+  "sybreed/335026920-106",
+  "sybreed/549110258-106",
+  "sybreed/20422607-106",
+  "sybreed/269013928-105",
+  "sybreed/335026920-107",
+  "sybreed/549110258-105",
+  "sybreed/20422607-104",
+  "sybreed/269013928-107",
+  "sybreed/335026920-105",
+  "sybreed/549110258-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 99.38401442307692,
+   "iqr": 41.79629898763612
+  },
+  "onset_rate": {
+   "median": 5.112086626581972,
+   "iqr": 1.002369926780779
+  },
+  "tempo_var": {
+   "median": 15.728604692522458,
+   "iqr": 3.0968239067029586
+  },
+  "low_onset_rate": {
+   "median": 6.365049035057945,
+   "iqr": 2.0297991017310766
+  },
+  "lufs": {
+   "median": -8.727302892794924,
+   "iqr": 0.7007959542343585
+  },
+  "rms_dbfs": {
+   "median": -7.864710183763389,
+   "iqr": 0.3489619402215114
+  },
+  "crest": {
+   "median": 7.864709854125977,
+   "iqr": 0.3489619493484497
+  },
+  "centroid": {
+   "median": 2682.5388651461353,
+   "iqr": 236.02750357362265
+  },
+  "flatness": {
+   "median": 0.0410957857966423,
+   "iqr": 0.017348560504615307
+  },
+  "sub100_share": {
+   "median": 0.47686436772346497,
+   "iqr": 0.11039623618125916
+  },
+  "lowest_pitch": {
+   "median": 37.68310546875,
+   "iqr": 14.8040771484375
+  },
+  "harmonic_share": {
+   "median": 0.7675065696239471,
+   "iqr": 0.04207386076450348
+  },
+  "clean_share": {
+   "median": 0.0069821567106283944,
+   "iqr": 0.028704422032583398
+  },
+  "minor_share": {
+   "median": 0.032215286149501365,
+   "iqr": 0.14969922746136516
+  },
+  "chord_rate": {
+   "median": 1.7040288755273238,
+   "iqr": 0.9021329341027009
+  },
+  "repetitiveness": {
+   "median": 0.9125577211380005,
+   "iqr": 0.06691747903823853
+  },
+  "vocal_share": {
+   "median": 0.09999394789338112,
+   "iqr": 0.03204774297773838
+  },
+  "vocal_voiced": {
+   "median": 0.23834752238181234,
+   "iqr": 0.5042234441421217
+  },
+  "song_length": {
+   "median": 296.2785,
+   "iqr": 64.15599999999995
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

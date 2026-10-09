@@ -1,0 +1,32 @@
+{
+ "id": "w-a-s-p/210337187-106",
+ "band": "w-a-s-p",
+ "title": "School Daze",
+ "source": "itunes",
+ "album": "W.A.S.P.",
+ "year": 1984,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.433333333333334,
+  "tempo_var": 2.1086589538451053,
+  "low_onset_rate": 5.966666666666667,
+  "lufs": -11.271920721461907,
+  "rms_dbfs": -10.833776122957815,
+  "crest": 10.833776473999023,
+  "centroid": 2544.1420290836445,
+  "flatness": 0.02766764722764492,
+  "sub100_share": 0.30533334612846375,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7114750146865845,
+  "clean_share": 0.04179566563467492,
+  "minor_share": 0.1505048906500177,
+  "chord_rate": 2.2333333333333334,
+  "repetitiveness": 0.8790424466133118,
+  "vocal_share": 0.16204659640789032,
+  "vocal_voiced": 0.5172004744958482,
+  "song_length": 214.944
+ }
+}

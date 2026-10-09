@@ -1,0 +1,32 @@
+{
+ "id": "lantlos/1564734810-106",
+ "band": "lantlos",
+ "title": "The Bubble",
+ "source": "itunes",
+ "album": "Wildhund",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.374645420161955,
+  "tempo_var": 11.05602368904759,
+  "low_onset_rate": 3.4080577510546477,
+  "lufs": -10.223919760681603,
+  "rms_dbfs": -9.488606467391813,
+  "crest": 9.488606452941895,
+  "centroid": 2610.453804283742,
+  "flatness": 0.030283251777291298,
+  "sub100_share": 0.3574942946434021,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8257933259010315,
+  "clean_share": 0.0,
+  "minor_share": 0.005303125558694388,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.7706200480461121,
+  "vocal_share": 0.11971982568502426,
+  "vocal_voiced": 0.900709219858156,
+  "song_length": 259.472
+ }
+}

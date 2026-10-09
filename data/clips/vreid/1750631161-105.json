@@ -1,0 +1,32 @@
+{
+ "id": "vreid/1750631161-105",
+ "band": "vreid",
+ "title": "Fire on the Mountain",
+ "source": "itunes",
+ "album": "V",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.89991081011625,
+  "tempo_var": 26.316968604672077,
+  "low_onset_rate": 7.699883599643241,
+  "lufs": -7.959914212815108,
+  "rms_dbfs": -7.466284358530007,
+  "crest": 7.466283798217773,
+  "centroid": 2845.399224814797,
+  "flatness": 0.05123196914792061,
+  "sub100_share": 0.4791744351387024,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.807025671005249,
+  "clean_share": 0.038669760247486466,
+  "minor_share": -0.11830076229179598,
+  "chord_rate": 1.9333041072697315,
+  "repetitiveness": 0.9158766865730286,
+  "vocal_share": 6.685844709863886e-05,
+  "vocal_voiced": 0.8333333333333334,
+  "song_length": 307.935
+ }
+}

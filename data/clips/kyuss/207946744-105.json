@@ -1,0 +1,32 @@
+{
+ "id": "kyuss/207946744-105",
+ "band": "kyuss",
+ "title": "Katzenjammer",
+ "source": "itunes",
+ "album": "Wretch",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.399933485510424,
+  "tempo_var": 0.8995809504171904,
+  "low_onset_rate": 6.2332391044731,
+  "lufs": -15.202418165415384,
+  "rms_dbfs": -14.136103384280919,
+  "crest": 14.135838508605957,
+  "centroid": 2340.699520353897,
+  "flatness": 0.021524256095290184,
+  "sub100_share": 0.2995222508907318,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7614962458610535,
+  "clean_share": 0.0038669760247486465,
+  "minor_share": -0.12175110754436536,
+  "chord_rate": 1.6999743012199362,
+  "repetitiveness": 0.9167117476463318,
+  "vocal_share": 0.03879180923104286,
+  "vocal_voiced": 0.9182058047493403,
+  "song_length": 143.6
+ }
+}

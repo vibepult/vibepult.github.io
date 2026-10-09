@@ -1,0 +1,32 @@
+{
+ "id": "dragonforce/1216344143-107",
+ "band": "dragonforce",
+ "title": "Midnight Madness",
+ "source": "itunes",
+ "album": "Reaching Into Infinity (Deluxe Edition)",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.69991383350214,
+  "tempo_var": 16.72570959042052,
+  "low_onset_rate": 6.83323003431543,
+  "lufs": -8.275584751873865,
+  "rms_dbfs": -7.797882277883775,
+  "crest": 7.797882080078125,
+  "centroid": 2632.7102245487376,
+  "flatness": 0.03448595479130745,
+  "sub100_share": 0.37486979365348816,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7903205752372742,
+  "clean_share": 0.0,
+  "minor_share": -0.13094898318911607,
+  "chord_rate": 1.0333177125062358,
+  "repetitiveness": 0.679295003414154,
+  "vocal_share": 0.25070807337760925,
+  "vocal_voiced": 0.4859437751004016,
+  "song_length": 381.227
+ }
+}

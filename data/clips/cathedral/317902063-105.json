@@ -1,0 +1,32 @@
+{
+ "id": "cathedral/317902063-105",
+ "band": "cathedral",
+ "title": "The Empty Mirror",
+ "source": "itunes",
+ "album": "The VIIth Coming",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 58.72691761363637,
+  "onset_rate": 3.0739344421277215,
+  "tempo_var": 2.2697355419761664,
+  "low_onset_rate": 6.48199219318237,
+  "lufs": -9.018660802632041,
+  "rms_dbfs": -8.831358923070459,
+  "crest": 8.831358909606934,
+  "centroid": 2895.223402587454,
+  "flatness": 0.047139476984739304,
+  "sub100_share": 0.2243160903453827,
+  "lowest_pitch": 131.890869140625,
+  "harmonic_share": 0.8147386312484741,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.21009639449072154,
+  "chord_rate": 2.606161809630025,
+  "repetitiveness": 0.8371196389198303,
+  "vocal_share": 0.10702486336231232,
+  "vocal_voiced": 0.724824355971897,
+  "song_length": 518.372
+ }
+}

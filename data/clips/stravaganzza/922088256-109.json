@@ -1,0 +1,32 @@
+{
+ "id": "stravaganzza/922088256-109",
+ "band": "stravaganzza",
+ "title": "Soledad",
+ "source": "itunes",
+ "album": "Sentimientos",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.0071097803423363,
+  "tempo_var": 6.344964878057686,
+  "low_onset_rate": 5.713508582650439,
+  "lufs": -9.606552687063168,
+  "rms_dbfs": -8.57140287794937,
+  "crest": 8.571402549743652,
+  "centroid": 2427.3438871292055,
+  "flatness": 0.019821835681796074,
+  "sub100_share": 0.400849312543869,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.7586239576339722,
+  "clean_share": 0.1373157486423584,
+  "minor_share": -0.02647435730964154,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.9113212823867798,
+  "vocal_share": 7.254951697177603e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 357.893
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "kalmah/705459000-105",
+ "band": "kalmah",
+ "title": "Better not to Tell (US Edition)",
+ "source": "itunes",
+ "album": "12 Gauge (US Edition)",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.4462099355088975,
+  "tempo_var": 3.213533974342742,
+  "low_onset_rate": 8.553556708529312,
+  "lufs": -6.741579751736454,
+  "rms_dbfs": -6.680480454858943,
+  "crest": 6.68048095703125,
+  "centroid": 2656.032252579628,
+  "flatness": 0.04531419277191162,
+  "sub100_share": 0.3007790148258209,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7925784587860107,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": -0.20789430051476698,
+  "chord_rate": 1.7374412064200164,
+  "repetitiveness": 0.8328052759170532,
+  "vocal_share": 0.04256688803434372,
+  "vocal_voiced": 0.20597014925373133,
+  "song_length": 238.667
+ }
+}

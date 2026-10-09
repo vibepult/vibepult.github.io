@@ -1,0 +1,32 @@
+{
+ "id": "pestilence/1600479461-106",
+ "band": "pestilence",
+ "title": "Absolution",
+ "source": "itunes",
+ "album": "Doctrine",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 2.7398111332007953,
+  "tempo_var": 26.780819964820832,
+  "low_onset_rate": 1.8376781990980944,
+  "lufs": -9.927215287205177,
+  "rms_dbfs": -9.591088550172655,
+  "crest": 9.591089248657227,
+  "centroid": 2804.6893380420006,
+  "flatness": 0.06063024699687958,
+  "sub100_share": 0.3099677264690399,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.6287405490875244,
+  "clean_share": 0.03646237393328161,
+  "minor_share": 0.03312721239609645,
+  "chord_rate": 2.606161809630025,
+  "repetitiveness": 0.8778563737869263,
+  "vocal_share": 0.09678518772125244,
+  "vocal_voiced": 0.4375,
+  "song_length": 217.573
+ }
+}

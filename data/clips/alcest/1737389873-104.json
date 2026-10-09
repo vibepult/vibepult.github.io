@@ -1,0 +1,32 @@
+{
+ "id": "alcest/1737389873-104",
+ "band": "alcest",
+ "title": "Flamme Jumelle",
+ "source": "itunes",
+ "album": "Les Chants de l'Aurore",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 5.166635424729102,
+  "tempo_var": 14.882649980897387,
+  "low_onset_rate": 5.766631796633127,
+  "lufs": -13.03231852727044,
+  "rms_dbfs": -13.336834344163515,
+  "crest": 13.336834907531738,
+  "centroid": 1748.7986505518438,
+  "flatness": 0.010446259751915932,
+  "sub100_share": 0.3531244397163391,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8244341611862183,
+  "clean_share": 0.5197215777262181,
+  "minor_share": -0.2947960205460608,
+  "chord_rate": 1.5333240615325077,
+  "repetitiveness": 0.7581024765968323,
+  "vocal_share": 0.18821795284748077,
+  "vocal_voiced": 0.9232673267326733,
+  "song_length": 317.947
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "def-leppard/1440902935-105",
+ "band": "def-leppard",
+ "title": "Die Hard the Hunter",
+ "source": "itunes",
+ "album": "Pyromania",
+ "year": 1983,
+ "itunes_year": 1983,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.131309834638817,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.3640393820713665,
+  "lufs": -12.028689108169836,
+  "rms_dbfs": -11.763901822690862,
+  "crest": 11.763901710510254,
+  "centroid": 2849.2067174180993,
+  "flatness": 0.035594478249549866,
+  "sub100_share": 0.31325238943099976,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.7488207221031189,
+  "clean_share": 0.03634957463263728,
+  "minor_share": -0.009567862810212602,
+  "chord_rate": 2.3988250652741514,
+  "repetitiveness": 0.9416725635528564,
+  "vocal_share": 0.08035807311534882,
+  "vocal_voiced": 0.5589430894308943,
+  "song_length": 375.867
+ }
+}

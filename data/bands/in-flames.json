@@ -1,0 +1,127 @@
+{
+ "slug": "in-flames",
+ "name": "In Flames",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 15866128,
+  "deezer": 120,
+  "spotify": "57ylwQTnFnIhJh4nu4rxCs"
+ },
+ "metadata": {
+  "formed": 1990,
+  "split": null,
+  "country": "SE",
+  "status": "active",
+  "members": 5,
+  "past_members": 11,
+  "full_lengths": 14,
+  "genre": "Melodic Death Metal (early); Melodic Groove Metal/Metalcore/Alternative Rock (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 289977,
+  "themes": "Dystopia, Astronomy, Dark fantasy (early); Inner struggles, Angst (later)",
+  "release_year": 2007
+ },
+ "partial": false,
+ "clips": [
+  "in-flames/1497720092-105",
+  "in-flames/1497664119-107",
+  "in-flames/1497661581-106",
+  "in-flames/1497661496-107",
+  "in-flames/1497661695-107",
+  "in-flames/287374504-107",
+  "in-flames/1497540697-108",
+  "in-flames/1638701796-107",
+  "in-flames/1720032651-107",
+  "in-flames/1242656640-107",
+  "in-flames/1445445076-106",
+  "in-flames/1641291670-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 135.99917763157896,
+   "iqr": 28.211950618315498
+  },
+  "onset_rate": {
+   "median": 2.7999830688854486,
+   "iqr": 1.6249901739067336
+  },
+  "tempo_var": {
+   "median": 8.31405570479596,
+   "iqr": 5.555416929873399
+  },
+  "low_onset_rate": {
+   "median": 2.383318921729876,
+   "iqr": 1.1499930461493806
+  },
+  "lufs": {
+   "median": -11.798941253195217,
+   "iqr": 4.14763584349847
+  },
+  "rms_dbfs": {
+   "median": -11.52246133930717,
+   "iqr": 4.873119272189355
+  },
+  "crest": {
+   "median": 11.5224609375,
+   "iqr": 4.873119354248047
+  },
+  "centroid": {
+   "median": 2403.111826464381,
+   "iqr": 679.126246539322
+  },
+  "flatness": {
+   "median": 0.029899857006967068,
+   "iqr": 0.025624348782002926
+  },
+  "sub100_share": {
+   "median": 0.30458521842956543,
+   "iqr": 0.15171660110354424
+  },
+  "lowest_pitch": {
+   "median": 86.1328125,
+   "iqr": 59.21630859375
+  },
+  "harmonic_share": {
+   "median": 0.828279584646225,
+   "iqr": 0.15758654475212097
+  },
+  "clean_share": {
+   "median": 0.08507347254447023,
+   "iqr": 0.49342614075792735
+  },
+  "minor_share": {
+   "median": 0.03724594010645099,
+   "iqr": 0.09525937123244926
+  },
+  "chord_rate": {
+   "median": 1.83332224748452,
+   "iqr": 0.9583275384578174
+  },
+  "repetitiveness": {
+   "median": 0.824760764837265,
+   "iqr": 0.1932189166545868
+  },
+  "vocal_share": {
+   "median": 0.1472596973180771,
+   "iqr": 0.044783491641283035
+  },
+  "vocal_voiced": {
+   "median": 0.0642123287671233,
+   "iqr": 0.16170310853530034
+  },
+  "song_length": {
+   "median": 264.61350000000004,
+   "iqr": 45.517499999999984
+  },
+  "vocal_presence": {
+   "median": 0.3333333333333333,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "trouble/1820958917-106",
+ "band": "trouble",
+ "title": "Hear the Earth",
+ "source": "itunes",
+ "album": "Plastic Green Head",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 3.5,
+  "tempo_var": 24.897690208837602,
+  "low_onset_rate": 5.033333333333333,
+  "lufs": -11.207440010522815,
+  "rms_dbfs": -11.662234998418075,
+  "crest": 11.662235260009766,
+  "centroid": 2463.2666084165057,
+  "flatness": 0.022274738177657127,
+  "sub100_share": 0.17932970821857452,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7380415201187134,
+  "clean_share": 0.007739938080495356,
+  "minor_share": -0.14642910609065551,
+  "chord_rate": 1.1333333333333333,
+  "repetitiveness": 0.8409567475318909,
+  "vocal_share": 0.08190150558948517,
+  "vocal_voiced": 0.8403225806451613,
+  "song_length": 239.213
+ }
+}

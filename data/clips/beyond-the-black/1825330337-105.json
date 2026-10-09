@@ -1,0 +1,32 @@
+{
+ "id": "beyond-the-black/1825330337-105",
+ "band": "beyond-the-black",
+ "title": "Ravens",
+ "source": "itunes",
+ "album": "Break The Silence",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.0999062764542265,
+  "tempo_var": 12.086085309755205,
+  "low_onset_rate": 2.199933486515903,
+  "lufs": -10.174845051582974,
+  "rms_dbfs": -9.437700229207362,
+  "crest": 9.437700271606445,
+  "centroid": 2201.0093822940485,
+  "flatness": 0.016538966447114944,
+  "sub100_share": 0.210835263133049,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8559318780899048,
+  "clean_share": 0.24129930394431554,
+  "minor_share": 0.2809090809948723,
+  "chord_rate": 1.166631394364494,
+  "repetitiveness": 0.6474456787109375,
+  "vocal_share": 0.34487152099609375,
+  "vocal_voiced": 0.8987447698744769,
+  "song_length": 223.633
+ }
+}

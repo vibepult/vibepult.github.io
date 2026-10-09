@@ -1,0 +1,32 @@
+{
+ "id": "turisas/1045281090-102",
+ "band": "turisas",
+ "title": "A Portage to the Unknown",
+ "source": "itunes",
+ "album": "The Varangian Way",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 3.431160005982605,
+  "tempo_var": 15.45913579276416,
+  "low_onset_rate": 1.0326792251015606,
+  "lufs": -11.301427585461916,
+  "rms_dbfs": -11.092354357521565,
+  "crest": 11.092353820800781,
+  "centroid": 2670.86654943568,
+  "flatness": 0.0260368250310421,
+  "sub100_share": 0.22302527725696564,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.7071723937988281,
+  "clean_share": 0.1368909512761021,
+  "minor_share": 0.017446516459729278,
+  "chord_rate": 1.532362721118445,
+  "repetitiveness": 0.699562668800354,
+  "vocal_share": 0.3682282567024231,
+  "vocal_voiced": 0.7152485256950295,
+  "song_length": 290.413
+ }
+}

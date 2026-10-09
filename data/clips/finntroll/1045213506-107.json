@@ -1,0 +1,32 @@
+{
+ "id": "finntroll/1045213506-107",
+ "band": "finntroll",
+ "title": "Galgasång",
+ "source": "itunes",
+ "album": "Nifelvind",
+ "year": 2010,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.4772523396208115,
+  "tempo_var": 8.310723138263223,
+  "low_onset_rate": 4.143129030693886,
+  "lufs": -14.513425763595011,
+  "rms_dbfs": -12.699967740212458,
+  "crest": 12.312116622924805,
+  "centroid": 1284.3087691936987,
+  "flatness": 0.002274672035127878,
+  "sub100_share": 0.47280848026275635,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8616983294487,
+  "clean_share": 0.9053529868114818,
+  "minor_share": 0.24599640246790433,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.6469770669937134,
+  "vocal_share": 0.16501985490322113,
+  "vocal_voiced": 0.6395563770794824,
+  "song_length": 224.933
+ }
+}

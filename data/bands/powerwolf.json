@@ -1,0 +1,127 @@
+{
+ "slug": "powerwolf",
+ "name": "Powerwolf",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 272130237,
+  "deezer": 428405,
+  "spotify": "5HFkc3t0HYETL4JeEbDB1v"
+ },
+ "metadata": {
+  "formed": 2004,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 5,
+  "past_members": 2,
+  "full_lengths": 12,
+  "genre": "Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 252876,
+  "themes": "Werewolves, Dark myths, Horror, Religion, Sex, Humour",
+  "release_year": 2015
+ },
+ "partial": false,
+ "clips": [
+  "powerwolf/527423378-105",
+  "powerwolf/272130233-106",
+  "powerwolf/318500916-107",
+  "powerwolf/1184700533-106",
+  "powerwolf/1382853473-106",
+  "powerwolf/1441712658-105",
+  "powerwolf/1503785809-104",
+  "powerwolf/1565394613-106",
+  "powerwolf/1712287633-108",
+  "powerwolf/1745102891-106",
+  "powerwolf/527423378-104",
+  "powerwolf/272130233-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 44.22047334558823
+  },
+  "onset_rate": {
+   "median": 3.887836194216813,
+   "iqr": 1.5583377172826367
+  },
+  "tempo_var": {
+   "median": 13.523274506957462,
+   "iqr": 15.213857014928767
+  },
+  "low_onset_rate": {
+   "median": 6.199287843156221,
+   "iqr": 1.5541850522878988
+  },
+  "lufs": {
+   "median": -8.716112715109535,
+   "iqr": 2.479814219819536
+  },
+  "rms_dbfs": {
+   "median": -8.539385854637482,
+   "iqr": 2.8477205606918963
+  },
+  "crest": {
+   "median": 8.539385795593262,
+   "iqr": 2.847720503807068
+  },
+  "centroid": {
+   "median": 2439.7697802327466,
+   "iqr": 319.13883798341703
+  },
+  "flatness": {
+   "median": 0.024561586789786816,
+   "iqr": 0.010060915257781744
+  },
+  "sub100_share": {
+   "median": 0.3016500473022461,
+   "iqr": 0.07959575951099396
+  },
+  "lowest_pitch": {
+   "median": 49.7955322265625,
+   "iqr": 23.55194091796875
+  },
+  "harmonic_share": {
+   "median": 0.8204488158226013,
+   "iqr": 0.05211707949638367
+  },
+  "clean_share": {
+   "median": 0.062327913566935886,
+   "iqr": 0.31656346749226005
+  },
+  "minor_share": {
+   "median": 0.10528745967372816,
+   "iqr": 0.09252267556139132
+  },
+  "chord_rate": {
+   "median": 1.1833333333333333,
+   "iqr": 0.36082654097791456
+  },
+  "repetitiveness": {
+   "median": 0.7957060039043427,
+   "iqr": 0.11342556774616241
+  },
+  "vocal_share": {
+   "median": 0.13966048508882523,
+   "iqr": 0.06186156906187534
+  },
+  "vocal_voiced": {
+   "median": 0.7281099359666163,
+   "iqr": 0.28324112875304774
+  },
+  "song_length": {
+   "median": 230.4735,
+   "iqr": 30.246999999999986
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.9,
+  "camp": 0.9
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "mustasch/258881803-106",
+ "band": "mustasch",
+ "title": "Scyphozoa",
+ "source": "itunes",
+ "album": "Latest Version of the Truth",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 1.7040288755273238,
+  "tempo_var": 2.3344718158764763,
+  "low_onset_rate": 3.040522111235029,
+  "lufs": -22.673104595566766,
+  "rms_dbfs": -23.07600950440525,
+  "crest": 16.33734130859375,
+  "centroid": 1935.5337444460865,
+  "flatness": 0.010238365270197392,
+  "sub100_share": 0.01899941824376583,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.9745412468910217,
+  "clean_share": 0.78277734678045,
+  "minor_share": -0.003167104960369538,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.7295981645584106,
+  "vocal_share": 0.00022183952387422323,
+  "vocal_voiced": 1.0,
+  "song_length": 133.827
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "borknagar/1690642589-105",
+ "band": "borknagar",
+ "title": "Abrasion Tide (Remastered 2023)",
+ "source": "itunes",
+ "album": "Universal (Remastered 2023)",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.34597294283082,
+  "tempo_var": 22.683614152032593,
+  "low_onset_rate": 8.78744302477816,
+  "lufs": -10.652971153115855,
+  "rms_dbfs": -10.098011012865069,
+  "crest": 10.098011016845703,
+  "centroid": 2742.5552174028608,
+  "flatness": 0.04493856802582741,
+  "sub100_share": 0.41085028648376465,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7849648594856262,
+  "clean_share": 0.017067494181536073,
+  "minor_share": -0.23697393176272885,
+  "chord_rate": 0.5680096251757746,
+  "repetitiveness": 0.8885257244110107,
+  "vocal_share": 0.05793258920311928,
+  "vocal_voiced": 0.03626943005181347,
+  "song_length": 432.8
+ }
+}

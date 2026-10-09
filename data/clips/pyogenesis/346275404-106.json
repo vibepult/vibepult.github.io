@@ -1,0 +1,32 @@
+{
+ "id": "pyogenesis/346275404-106",
+ "band": "pyogenesis",
+ "title": "Skykiss",
+ "source": "itunes",
+ "album": "Sweet X-rated Nothings",
+ "year": 1994,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.310190685157349,
+  "tempo_var": 12.77833231346483,
+  "low_onset_rate": 4.009479707123115,
+  "lufs": -11.771113185509298,
+  "rms_dbfs": -11.998430884189862,
+  "crest": 11.998430252075195,
+  "centroid": 2669.561998715577,
+  "flatness": 0.03200386464595795,
+  "sub100_share": 0.16008515655994415,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7559183835983276,
+  "clean_share": 0.14197051978277736,
+  "minor_share": 0.12366251094134517,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.7387946844100952,
+  "vocal_share": 0.020168062299489975,
+  "vocal_voiced": 0.4186046511627907,
+  "song_length": 261.866
+ }
+}

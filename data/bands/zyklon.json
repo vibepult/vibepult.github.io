@@ -1,0 +1,127 @@
+{
+ "slug": "zyklon",
+ "name": "Zyklon",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 78941907,
+  "deezer": 1061749,
+  "spotify": "5WQdsYRdeVnsyXeCCSoKLC"
+ },
+ "metadata": {
+  "formed": 1998,
+  "split": 2010,
+  "country": "NO",
+  "status": "split-up",
+  "members": 4,
+  "past_members": 1,
+  "full_lengths": 3,
+  "genre": "Industrial Death/Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 2664,
+  "themes": "Anti-religion, Misanthropy, Philosophy",
+  "release_year": 2003
+ },
+ "partial": false,
+ "clips": [
+  "zyklon/1660523006-104",
+  "zyklon/1660171753-105",
+  "zyklon/1660354283-105",
+  "zyklon/1660523006-105",
+  "zyklon/1660171753-104",
+  "zyklon/1660354283-106",
+  "zyklon/1660523006-103",
+  "zyklon/1660171753-106",
+  "zyklon/1660354283-104",
+  "zyklon/1660523006-106",
+  "zyklon/1660171753-103",
+  "zyklon/1660354283-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 15.334250710227266
+  },
+  "onset_rate": {
+   "median": 6.866233998448335,
+   "iqr": 0.9773106786112589
+  },
+  "tempo_var": {
+   "median": 3.0895668534836425,
+   "iqr": 6.444852445065773
+  },
+  "low_onset_rate": {
+   "median": 8.520144377636619,
+   "iqr": 1.219550077583282
+  },
+  "lufs": {
+   "median": -7.274050644237599,
+   "iqr": 1.3658531945087065
+  },
+  "rms_dbfs": {
+   "median": -7.7839855429775975,
+   "iqr": 1.1428133122377861
+  },
+  "crest": {
+   "median": 7.78398585319519,
+   "iqr": 1.1428122520446777
+  },
+  "centroid": {
+   "median": 2776.948622499183,
+   "iqr": 148.221309327962
+  },
+  "flatness": {
+   "median": 0.04888497665524483,
+   "iqr": 0.02810473833233118
+  },
+  "sub100_share": {
+   "median": 0.2641581892967224,
+   "iqr": 0.07190312072634697
+  },
+  "lowest_pitch": {
+   "median": 37.68310546875,
+   "iqr": 8.074951171875
+  },
+  "harmonic_share": {
+   "median": 0.728268951177597,
+   "iqr": 0.07310907542705536
+  },
+  "clean_share": {
+   "median": 0.0,
+   "iqr": 0.00252133436772692
+  },
+  "minor_share": {
+   "median": -0.015910234634513576,
+   "iqr": 0.09132242915902743
+  },
+  "chord_rate": {
+   "median": 2.3054508315957913,
+   "iqr": 0.5345972942830821
+  },
+  "repetitiveness": {
+   "median": 0.9439891874790192,
+   "iqr": 0.03129012882709503
+  },
+  "vocal_share": {
+   "median": 0.07016502320766449,
+   "iqr": 0.050424883142113686
+  },
+  "vocal_voiced": {
+   "median": 0.19264448336252188,
+   "iqr": 0.19922757505518954
+  },
+  "song_length": {
+   "median": 268.7065,
+   "iqr": 91.67000000000002
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

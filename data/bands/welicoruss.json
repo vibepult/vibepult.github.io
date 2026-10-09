@@ -1,0 +1,123 @@
+{
+ "slug": "welicoruss",
+ "name": "Welicoruss",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 314020560,
+  "deezer": 7511606,
+  "spotify": "5u2CVxsCcq5rfB8J7ClAAL"
+ },
+ "metadata": {
+  "formed": 2002,
+  "split": null,
+  "country": "RU",
+  "status": "active",
+  "members": 2,
+  "past_members": 18,
+  "full_lengths": 3,
+  "genre": "Symphonic/Pagan Black Metal (early); Symphonic Black Metal (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 836,
+  "themes": "Philosophy, Esoteric, Astral, Mystery, Theosophy, Siberia",
+  "release_year": 2020
+ },
+ "partial": false,
+ "clips": [
+  "welicoruss/1694726447-104",
+  "welicoruss/1694726447-105",
+  "welicoruss/1694726447-103",
+  "welicoruss/1694726447-106",
+  "welicoruss/1694726447-102",
+  "welicoruss/1694726447-108",
+  "welicoruss/1694726447-101",
+  "welicoruss/1694726447-109"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 22.618910845588232
+  },
+  "onset_rate": {
+   "median": 5.3999020425933315,
+   "iqr": 1.4249741501287954
+  },
+  "tempo_var": {
+   "median": 3.0529092296164455,
+   "iqr": 11.821510784071409
+  },
+  "low_onset_rate": {
+   "median": 6.79987664622864,
+   "iqr": 0.6333218445016877
+  },
+  "lufs": {
+   "median": -8.073497424450267,
+   "iqr": 0.7091079197978889
+  },
+  "rms_dbfs": {
+   "median": -7.6310827033487625,
+   "iqr": 0.7743249332369464
+  },
+  "crest": {
+   "median": 7.631082773208618,
+   "iqr": 0.7743245363235474
+  },
+  "centroid": {
+   "median": 2208.7254083977678,
+   "iqr": 259.62194201794637
+  },
+  "flatness": {
+   "median": 0.0203702449798584,
+   "iqr": 0.008113647811114788
+  },
+  "sub100_share": {
+   "median": 0.2752044051885605,
+   "iqr": 0.06454147398471832
+  },
+  "lowest_pitch": {
+   "median": 61.907958984375,
+   "iqr": 0.67291259765625
+  },
+  "harmonic_share": {
+   "median": 0.8045376539230347,
+   "iqr": 0.05568934977054596
+  },
+  "clean_share": {
+   "median": 0.0328692962103635,
+   "iqr": 0.14211136890951276
+  },
+  "minor_share": {
+   "median": 0.09851287917471663,
+   "iqr": 0.17377583295148022
+  },
+  "chord_rate": {
+   "median": 1.3833082393063165,
+   "iqr": 0.7833191234626129
+  },
+  "repetitiveness": {
+   "median": 0.8443745076656342,
+   "iqr": 0.06523065268993378
+  },
+  "vocal_share": {
+   "median": 0.06289029866456985,
+   "iqr": 0.15267001185566187
+  },
+  "vocal_voiced": {
+   "median": 0.5941644562334217,
+   "iqr": 0.1887248413807996
+  },
+  "song_length": {
+   "median": 330.11199999999997,
+   "iqr": 61.878750000000025
+  },
+  "vocal_presence": {
+   "median": 0.875,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

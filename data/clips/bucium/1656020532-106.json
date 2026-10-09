@@ -1,0 +1,32 @@
+{
+ "id": "bucium/1656020532-106",
+ "band": "bucium",
+ "title": "Vânător (Orion) / Hunter",
+ "source": "itunes",
+ "album": "Zimbrul Alb / White Wisent",
+ "year": 2022,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.21232361926005,
+  "tempo_var": 11.414071966608745,
+  "low_onset_rate": 6.649053847645832,
+  "lufs": -7.963452936673006,
+  "rms_dbfs": -6.793557391126413,
+  "crest": 6.793558120727539,
+  "centroid": 2265.7523042212633,
+  "flatness": 0.019807519391179085,
+  "sub100_share": 0.4510676860809326,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8704537749290466,
+  "clean_share": 0.03646237393328161,
+  "minor_share": -0.09052088230357613,
+  "chord_rate": 0.6682466178538525,
+  "repetitiveness": 0.7879145741462708,
+  "vocal_share": 0.13836155831813812,
+  "vocal_voiced": 0.8075855689176689,
+  "song_length": 396.0
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "coldseed/1460470424-112",
+ "band": "coldseed",
+ "title": "At Last",
+ "source": "itunes",
+ "album": "Completion Makes the Tragedy",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 1.169431581244242,
+  "tempo_var": 4.4045811211935755,
+  "low_onset_rate": 0.20047398535615574,
+  "lufs": -7.263953203979946,
+  "rms_dbfs": -6.5057139801412855,
+  "crest": 6.505713939666748,
+  "centroid": 2505.2386454548587,
+  "flatness": 0.036206286400556564,
+  "sub100_share": 0.3638978898525238,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7953664660453796,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": 0.1237109369940595,
+  "chord_rate": 2.205213838917713,
+  "repetitiveness": 0.9348915219306946,
+  "vocal_share": 0.12489745020866394,
+  "vocal_voiced": 0.022696929238985315,
+  "song_length": 183.406
+ }
+}

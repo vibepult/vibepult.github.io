@@ -1,0 +1,32 @@
+{
+ "id": "deafheaven/1808545829-104",
+ "band": "deafheaven",
+ "title": "Neptune Raining Diamonds",
+ "source": "itunes",
+ "album": "Infinite Granite",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 0.1333313177427401,
+  "tempo_var": 4.524103691475961,
+  "low_onset_rate": 10.466508442805099,
+  "lufs": -15.636382964421264,
+  "rms_dbfs": -14.598075705850116,
+  "crest": 13.874822616577148,
+  "centroid": 867.3806167956689,
+  "flatness": 0.00047603287384845316,
+  "sub100_share": 0.23998433351516724,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.9419510960578918,
+  "clean_share": 0.9737045630317092,
+  "minor_share": -0.2948224211135628,
+  "chord_rate": 0.43332678266390534,
+  "repetitiveness": 0.8414883017539978,
+  "vocal_share": 6.021119588695001e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 185.64
+ }
+}

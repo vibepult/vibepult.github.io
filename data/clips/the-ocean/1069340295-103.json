@@ -1,0 +1,32 @@
+{
+ "id": "the-ocean/1069340295-103",
+ "band": "the-ocean",
+ "title": "The Melancholy Epidemic",
+ "source": "itunes",
+ "album": "Fogdiver",
+ "year": 2003,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 2.138389177132328,
+  "tempo_var": 27.279574335937713,
+  "low_onset_rate": 2.071564515346943,
+  "lufs": -12.398391212151662,
+  "rms_dbfs": -11.430017355836682,
+  "crest": 11.43001651763916,
+  "centroid": 1521.790822992333,
+  "flatness": 0.0034796250984072685,
+  "sub100_share": 0.6468660235404968,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.9159901142120361,
+  "clean_share": 0.8471683475562451,
+  "minor_share": -0.059202282536395257,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.6285598278045654,
+  "vocal_share": 0.025938283652067184,
+  "vocal_voiced": 0.2635897435897436,
+  "song_length": 523.067
+ }
+}

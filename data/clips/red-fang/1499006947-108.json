@@ -1,0 +1,32 @@
+{
+ "id": "red-fang/1499006947-108",
+ "band": "red-fang",
+ "title": "Fonzi Scheme",
+ "source": "itunes",
+ "album": "Arrows",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.7666666666666666,
+  "tempo_var": 3.1148130223930575,
+  "low_onset_rate": 4.333333333333333,
+  "lufs": -11.914356333629849,
+  "rms_dbfs": -11.283296815759948,
+  "crest": 11.283297538757324,
+  "centroid": 1630.1484492213967,
+  "flatness": 0.006007521413266659,
+  "sub100_share": 0.15019145607948303,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.6598957180976868,
+  "clean_share": 0.46439628482972134,
+  "minor_share": 0.1881075439655518,
+  "chord_rate": 1.7666666666666666,
+  "repetitiveness": 0.8675583004951477,
+  "vocal_share": 0.10353785753250122,
+  "vocal_voiced": 0.6594360086767896,
+  "song_length": 254.54
+ }
+}

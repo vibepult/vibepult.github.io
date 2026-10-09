@@ -1,0 +1,32 @@
+{
+ "id": "queensryche/1025978564-106",
+ "band": "queensryche",
+ "title": "Eye9",
+ "source": "itunes",
+ "album": "Condition Hüman",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.71113865586966,
+  "tempo_var": 25.634965268925956,
+  "low_onset_rate": 5.21232361926005,
+  "lufs": -9.01118176771481,
+  "rms_dbfs": -8.777483243907266,
+  "crest": 8.777482986450195,
+  "centroid": 2804.7428944135318,
+  "flatness": 0.03960401937365532,
+  "sub100_share": 0.23688027262687683,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.7368039488792419,
+  "clean_share": 0.018619084561675717,
+  "minor_share": 0.043133344890334824,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.8821596503257751,
+  "vocal_share": 0.26425760984420776,
+  "vocal_voiced": 0.717391304347826,
+  "song_length": 200.653
+ }
+}

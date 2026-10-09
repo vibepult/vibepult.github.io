@@ -1,0 +1,32 @@
+{
+ "id": "violet-cold/1712171764-103",
+ "band": "violet-cold",
+ "title": "Synergy",
+ "source": "itunes",
+ "album": "Noir Kid",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 5.69991383350214,
+  "tempo_var": 2.708970556543561,
+  "low_onset_rate": 8.366540188356941,
+  "lufs": -7.178490942893126,
+  "rms_dbfs": -6.642409933606185,
+  "crest": 6.6424102783203125,
+  "centroid": 2068.9787302162094,
+  "flatness": 0.019716842100024223,
+  "sub100_share": 0.22810757160186768,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.8443175554275513,
+  "clean_share": 0.0,
+  "minor_share": -0.1843757657977736,
+  "chord_rate": 1.1666490302489758,
+  "repetitiveness": 0.8384633660316467,
+  "vocal_share": 0.07202678918838501,
+  "vocal_voiced": 0.9097472924187726,
+  "song_length": 429.667
+ }
+}

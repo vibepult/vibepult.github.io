@@ -1,0 +1,127 @@
+{
+ "slug": "epidemia",
+ "name": "Epidemia",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 424022271,
+  "deezer": 4661935,
+  "spotify": "7GQkGMp7NcATMCru95ES3N"
+ },
+ "metadata": {
+  "formed": 1993,
+  "split": null,
+  "country": "RU",
+  "status": "active",
+  "members": 5,
+  "past_members": 19,
+  "full_lengths": 12,
+  "genre": "Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 10225,
+  "themes": "Fantasy, Tolkien, Elves",
+  "release_year": 2006
+ },
+ "partial": false,
+ "clips": [
+  "epidemia/1626071704-105",
+  "epidemia/1625910043-107",
+  "epidemia/1625888930-107",
+  "epidemia/1625910805-107",
+  "epidemia/1625892488-107",
+  "epidemia/1563281179-109",
+  "epidemia/1739568287-108",
+  "epidemia/1590543823-105",
+  "epidemia/1841377839-106",
+  "epidemia/1626071704-104",
+  "epidemia/1625910043-106",
+  "epidemia/1625888930-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 132.17311381074168,
+   "iqr": 61.825138972355774
+  },
+  "onset_rate": {
+   "median": 5.479622266401591,
+   "iqr": 1.3263507187325247
+  },
+  "tempo_var": {
+   "median": 20.339400888037545,
+   "iqr": 8.27461009432202
+  },
+  "low_onset_rate": {
+   "median": 5.847157906221209,
+   "iqr": 2.408659680493108
+  },
+  "lufs": {
+   "median": -10.457222875469823,
+   "iqr": 2.4339310110723424
+  },
+  "rms_dbfs": {
+   "median": -10.065010954778955,
+   "iqr": 2.8943642838187973
+  },
+  "crest": {
+   "median": 10.06501054763794,
+   "iqr": 2.894364595413208
+  },
+  "centroid": {
+   "median": 2458.1248303882994,
+   "iqr": 407.08136145314666
+  },
+  "flatness": {
+   "median": 0.023158173076808453,
+   "iqr": 0.012470092857256532
+  },
+  "sub100_share": {
+   "median": 0.298153281211853,
+   "iqr": 0.12808743864297867
+  },
+  "lowest_pitch": {
+   "median": 61.907958984375,
+   "iqr": 41.04766845703125
+  },
+  "harmonic_share": {
+   "median": 0.8025757372379303,
+   "iqr": 0.10515059530735016
+  },
+  "clean_share": {
+   "median": 0.08456167571761056,
+   "iqr": 0.2521394367354922
+  },
+  "minor_share": {
+   "median": -0.005570957903693885,
+   "iqr": 0.19447331389384906
+  },
+  "chord_rate": {
+   "median": 1.334514488742133,
+   "iqr": 0.7935428587014499
+  },
+  "repetitiveness": {
+   "median": 0.8273950219154358,
+   "iqr": 0.1379215568304062
+  },
+  "vocal_share": {
+   "median": 0.1632816046476364,
+   "iqr": 0.11281219124794006
+  },
+  "vocal_voiced": {
+   "median": 0.5227021040974529,
+   "iqr": 0.3525985774120797
+  },
+  "song_length": {
+   "median": 332.0865,
+   "iqr": 81.07499999999999
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

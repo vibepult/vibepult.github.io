@@ -1,0 +1,32 @@
+{
+ "id": "rainbow/1440924592-105",
+ "band": "rainbow",
+ "title": "Snake Charmer",
+ "source": "itunes",
+ "album": "Ritchie Blackmore's Rainbow",
+ "year": 1975,
+ "itunes_year": 1975,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.733261779867274,
+  "tempo_var": 1.589549896943388,
+  "low_onset_rate": 4.966591585917069,
+  "lufs": -10.434183931862192,
+  "rms_dbfs": -10.261664273329794,
+  "crest": 10.261664390563965,
+  "centroid": 1872.3287035964916,
+  "flatness": 0.011999388225376606,
+  "sub100_share": 0.07405102998018265,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7286577224731445,
+  "clean_share": 0.251353441608662,
+  "minor_share": 0.07122819243319234,
+  "chord_rate": 0.7999879064564406,
+  "repetitiveness": 0.8593019843101501,
+  "vocal_share": 0.26875242590904236,
+  "vocal_voiced": 0.7857713828936851,
+  "song_length": 270.427
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "riverside/1148788808-104",
+ "band": "riverside",
+ "title": "We Got Used To Us",
+ "source": "itunes",
+ "album": "Shrine of New Generation Slaves",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.06472544223689,
+  "tempo_var": 12.876957921636631,
+  "low_onset_rate": 3.3312233067792283,
+  "lufs": -12.653138510220279,
+  "rms_dbfs": -11.420044111318603,
+  "crest": 11.420044898986816,
+  "centroid": 1488.3913501218342,
+  "flatness": 0.005117081105709076,
+  "sub100_share": 0.2968285083770752,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.8677197694778442,
+  "clean_share": 0.7432327919566899,
+  "minor_share": 0.3172235265356643,
+  "chord_rate": 1.1992403904405222,
+  "repetitiveness": 0.6455553770065308,
+  "vocal_share": 0.1928362250328064,
+  "vocal_voiced": 0.8650990099009901,
+  "song_length": 250.88
+ }
+}

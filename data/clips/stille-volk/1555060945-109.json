@@ -1,0 +1,32 @@
+{
+ "id": "stille-volk/1555060945-109",
+ "band": "stille-volk",
+ "title": "Hantaoma",
+ "source": "itunes",
+ "album": "Hantaoma",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 4.410427677835426,
+  "tempo_var": 16.37746759854423,
+  "low_onset_rate": 7.751660767104689,
+  "lufs": -20.271919847425327,
+  "rms_dbfs": -19.985480277777725,
+  "crest": 19.98548126220703,
+  "centroid": 2216.3531471452793,
+  "flatness": 0.012482648715376854,
+  "sub100_share": 0.04369158297777176,
+  "lowest_pitch": 102.28271484375,
+  "harmonic_share": 0.8298648595809937,
+  "clean_share": 0.360744763382467,
+  "minor_share": -0.08844696069379465,
+  "chord_rate": 0.7016589487465451,
+  "repetitiveness": 0.7557987570762634,
+  "vocal_share": 0.0019759051501750946,
+  "vocal_voiced": 0.0,
+  "song_length": 120.47
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "corvus-corax/308910107-103",
+ "band": "corvus-corax",
+ "title": "Der Schweineprinz",
+ "source": "itunes",
+ "album": "Märchen aus alter Zeit",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.2665892682218916,
+  "tempo_var": 16.481948429082284,
+  "low_onset_rate": 4.733247469433661,
+  "lufs": -16.367860824558125,
+  "rms_dbfs": -18.08520524039621,
+  "crest": 18.08493995666504,
+  "centroid": 3843.6249846573833,
+  "flatness": 0.08669061213731766,
+  "sub100_share": 0.007068283390253782,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.41307976841926575,
+  "clean_share": 0.13225058004640372,
+  "minor_share": 0.1350290956131795,
+  "chord_rate": 3.333272865798353,
+  "repetitiveness": 0.7710601091384888,
+  "vocal_share": 0.9781166315078735,
+  "vocal_voiced": 0.7493975903614458,
+  "song_length": 699.533
+ }
+}

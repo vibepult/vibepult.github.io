@@ -1,0 +1,32 @@
+{
+ "id": "tankard/942639745-105",
+ "band": "tankard",
+ "title": "Echoes of Fear",
+ "source": "itunes",
+ "album": "Thirst",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 5.713508582650439,
+  "tempo_var": 28.7188512579802,
+  "low_onset_rate": 5.880570237113902,
+  "lufs": -5.685947054492775,
+  "rms_dbfs": -5.744135362895408,
+  "crest": 5.74413537979126,
+  "centroid": 3147.794374225273,
+  "flatness": 0.07601689547300339,
+  "sub100_share": 0.31539857387542725,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.6358965635299683,
+  "clean_share": 0.0,
+  "minor_share": -0.07494456710140451,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.841971218585968,
+  "vocal_share": 0.09234828501939774,
+  "vocal_voiced": 0.1864864864864865,
+  "song_length": 239.413
+ }
+}

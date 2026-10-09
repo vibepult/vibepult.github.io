@@ -1,0 +1,32 @@
+{
+ "id": "sonic-syndicate/1456966849-106",
+ "band": "sonic-syndicate",
+ "title": "Power Shift",
+ "source": "itunes",
+ "album": "Love and Other Disasters",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 0.26666505417956654,
+  "tempo_var": 2.704477228091333,
+  "low_onset_rate": 0.13333252708978327,
+  "lufs": -8.93610816441203,
+  "rms_dbfs": -8.893717357167843,
+  "crest": 8.893717765808105,
+  "centroid": 2824.74745307982,
+  "flatness": 0.05424558371305466,
+  "sub100_share": 0.2457273006439209,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6848923563957214,
+  "clean_share": 0.0,
+  "minor_share": -0.005992872286391893,
+  "chord_rate": 1.5666571933049536,
+  "repetitiveness": 0.8149750232696533,
+  "vocal_share": 0.17634592950344086,
+  "vocal_voiced": 0.054817275747508304,
+  "song_length": 212.4
+ }
+}

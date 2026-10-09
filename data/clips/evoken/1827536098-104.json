@@ -1,0 +1,32 @@
+{
+ "id": "evoken/1827536098-104",
+ "band": "evoken",
+ "title": "Terce",
+ "source": "itunes",
+ "album": "Mendacium",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 1.9666369367054164,
+  "tempo_var": 14.273010189422132,
+  "low_onset_rate": 7.166558328672281,
+  "lufs": -8.825394125749822,
+  "rms_dbfs": -7.701110757180767,
+  "crest": 7.70111083984375,
+  "centroid": 2271.6984781152155,
+  "flatness": 0.016997378319501877,
+  "sub100_share": 0.40339475870132446,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8843356370925903,
+  "clean_share": 0.13070378963650425,
+  "minor_share": 0.052683914667203124,
+  "chord_rate": 1.299980347991716,
+  "repetitiveness": 0.775905191898346,
+  "vocal_share": 0.006894533988088369,
+  "vocal_voiced": 0.4065040650406504,
+  "song_length": 540.4
+ }
+}

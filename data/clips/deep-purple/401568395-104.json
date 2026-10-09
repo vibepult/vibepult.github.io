@@ -1,0 +1,32 @@
+{
+ "id": "deep-purple/401568395-104",
+ "band": "deep-purple",
+ "title": "Smooth Dancer",
+ "source": "itunes",
+ "album": "Who Do We Think We Are",
+ "year": 1973,
+ "itunes_year": 1973,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.699445870328216,
+  "tempo_var": 1.7636400494485838,
+  "low_onset_rate": 4.399481240307265,
+  "lufs": -15.621142619108516,
+  "rms_dbfs": -15.307673179726027,
+  "crest": 15.26915168762207,
+  "centroid": 2723.7297341449744,
+  "flatness": 0.03459549695253372,
+  "sub100_share": 0.22832521796226501,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.6758935451507568,
+  "clean_share": 0.026295436968290797,
+  "minor_share": -0.10672755105879211,
+  "chord_rate": 2.099752410146649,
+  "repetitiveness": 0.8320128917694092,
+  "vocal_share": 0.1093817800283432,
+  "vocal_voiced": 0.8331503841931943,
+  "song_length": 248.96
+ }
+}

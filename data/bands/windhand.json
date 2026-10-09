@@ -1,0 +1,127 @@
+{
+ "slug": "windhand",
+ "name": "Windhand",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 529673181,
+  "deezer": 2502971,
+  "spotify": "6wE3e84Zg41JF04Z39i5wv"
+ },
+ "metadata": {
+  "formed": 2008,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 4,
+  "full_lengths": 4,
+  "genre": "Stoner/Doom Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 9423,
+  "themes": "Occultism, Horror, Love, Death",
+  "release_year": 2015
+ },
+ "partial": false,
+ "clips": [
+  "windhand/676466174-103",
+  "windhand/1009392659-105",
+  "windhand/1410436187-105",
+  "windhand/676466174-104",
+  "windhand/1009392659-104",
+  "windhand/1410436187-104",
+  "windhand/676466174-102",
+  "windhand/1009392659-106",
+  "windhand/1410436187-106",
+  "windhand/676466174-105",
+  "windhand/1009392659-103",
+  "windhand/1410436187-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 32.435416403087046
+  },
+  "onset_rate": {
+   "median": 2.8832897461867546,
+   "iqr": 0.8166665406922546
+  },
+  "tempo_var": {
+   "median": 7.592486064467018,
+   "iqr": 6.324267070579718
+  },
+  "low_onset_rate": {
+   "median": 5.283333333333333,
+   "iqr": 2.2832988163444234
+  },
+  "lufs": {
+   "median": -10.357414086389916,
+   "iqr": 3.0070656708155976
+  },
+  "rms_dbfs": {
+   "median": -9.29946357228313,
+   "iqr": 3.300892697023235
+  },
+  "crest": {
+   "median": 9.299464225769043,
+   "iqr": 3.3008921146392822
+  },
+  "centroid": {
+   "median": 1811.799602040965,
+   "iqr": 187.08448448238414
+  },
+  "flatness": {
+   "median": 0.009904279373586178,
+   "iqr": 0.0054393456084653735
+  },
+  "sub100_share": {
+   "median": 0.323191836476326,
+   "iqr": 0.10070684552192688
+  },
+  "lowest_pitch": {
+   "median": 69.98291015625,
+   "iqr": 30.28106689453125
+  },
+  "harmonic_share": {
+   "median": 0.8635275959968567,
+   "iqr": 0.053095340728759766
+  },
+  "clean_share": {
+   "median": 0.26424196495059127,
+   "iqr": 0.49044330151159254
+  },
+  "minor_share": {
+   "median": 0.030333328691774464,
+   "iqr": 0.18329168222130096
+  },
+  "chord_rate": {
+   "median": 1.433311665734456,
+   "iqr": 0.5583372385401077
+  },
+  "repetitiveness": {
+   "median": 0.7261612713336945,
+   "iqr": 0.10906237363815308
+  },
+  "vocal_share": {
+   "median": 0.09761996567249298,
+   "iqr": 0.05967658758163452
+  },
+  "vocal_voiced": {
+   "median": 0.9092526690391459,
+   "iqr": 0.05473437980917206
+  },
+  "song_length": {
+   "median": 337.6935,
+   "iqr": 159.95624999999995
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "bell-witch/571352228-102",
+ "band": "bell-witch",
+ "title": "Rows (of Endless Waves)",
+ "source": "itunes",
+ "album": "Longing",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 1.971327522668865,
+  "tempo_var": 4.162723475410787,
+  "low_onset_rate": 7.584599112641226,
+  "lufs": -10.245303023986645,
+  "rms_dbfs": -9.368541993080113,
+  "crest": 9.368541717529297,
+  "centroid": 1922.8984600763008,
+  "flatness": 0.014151248149573803,
+  "sub100_share": 0.34023410081863403,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8504847288131714,
+  "clean_share": 0.22032583397982933,
+  "minor_share": 0.007127814276003064,
+  "chord_rate": 0.5680096251757746,
+  "repetitiveness": 0.8890030980110168,
+  "vocal_share": 0.04639901593327522,
+  "vocal_voiced": 0.522633744855967,
+  "song_length": 781.973
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "kawir/1669355142-106",
+ "band": "kawir",
+ "title": "The Curse of the Old Witch",
+ "source": "itunes",
+ "album": "Arai",
+ "year": 2005,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.205213838917713,
+  "tempo_var": 13.672339947643426,
+  "low_onset_rate": 6.181281215148136,
+  "lufs": -13.005139014603888,
+  "rms_dbfs": -11.472660853130126,
+  "crest": 11.472660064697266,
+  "centroid": 1363.7316937336575,
+  "flatness": 0.0077462028712034225,
+  "sub100_share": 0.4854930639266968,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.8606290221214294,
+  "clean_share": 0.5919317300232738,
+  "minor_share": 0.11591098971242109,
+  "chord_rate": 2.606161809630025,
+  "repetitiveness": 0.9086097478866577,
+  "vocal_share": 0.1626964658498764,
+  "vocal_voiced": 0.5960637300843487,
+  "song_length": 287.413
+ }
+}

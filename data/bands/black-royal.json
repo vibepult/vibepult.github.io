@@ -1,0 +1,127 @@
+{
+ "slug": "black-royal",
+ "name": "Black Royal",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 275242693,
+  "deezer": 5945648,
+  "spotify": "33lkAv8r2X0dsr8AWzZ6MY"
+ },
+ "metadata": {
+  "formed": 2013,
+  "split": null,
+  "country": "FI",
+  "status": "active",
+  "members": 4,
+  "past_members": 2,
+  "full_lengths": 4,
+  "genre": "Heavy/Stoner/Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 291,
+  "themes": "Scandinavian mythology",
+  "release_year": 2019
+ },
+ "partial": false,
+ "clips": [
+  "black-royal/1354970984-105",
+  "black-royal/1496780460-104",
+  "black-royal/1354970984-106",
+  "black-royal/1496780460-106",
+  "black-royal/1354970984-104",
+  "black-royal/1496780460-103",
+  "black-royal/1354970984-107",
+  "black-royal/1496780460-107",
+  "black-royal/1354970984-103",
+  "black-royal/1496780460-102",
+  "black-royal/1354970984-108",
+  "black-royal/1496780460-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 103.359375,
+   "iqr": 45.84488407258064
+  },
+  "onset_rate": {
+   "median": 3.1240529384667606,
+   "iqr": 1.9713275226688651
+  },
+  "tempo_var": {
+   "median": 10.759899031912276,
+   "iqr": 9.906408929668663
+  },
+  "low_onset_rate": {
+   "median": 7.3507127963923775,
+   "iqr": 2.8651073740483914
+  },
+  "lufs": {
+   "median": -7.648215296627249,
+   "iqr": 1.2075724196815552
+  },
+  "rms_dbfs": {
+   "median": -6.457935328161834,
+   "iqr": 1.09678086432395
+  },
+  "crest": {
+   "median": 6.457935094833374,
+   "iqr": 1.0967812538146973
+  },
+  "centroid": {
+   "median": 2186.3097823100543,
+   "iqr": 475.26273467561987
+  },
+  "flatness": {
+   "median": 0.019222164526581764,
+   "iqr": 0.011692276922985911
+  },
+  "sub100_share": {
+   "median": 0.5173515677452087,
+   "iqr": 0.15401870757341385
+  },
+  "lowest_pitch": {
+   "median": 57.8704833984375,
+   "iqr": 10.7666015625
+  },
+  "harmonic_share": {
+   "median": 0.8662326335906982,
+   "iqr": 0.08382119238376617
+  },
+  "clean_share": {
+   "median": 0.08766485647788984,
+   "iqr": 0.6400310318076028
+  },
+  "minor_share": {
+   "median": 0.03172933154791202,
+   "iqr": 0.13125545709170008
+  },
+  "chord_rate": {
+   "median": 1.8877966954371335,
+   "iqr": 0.6849527833001989
+  },
+  "repetitiveness": {
+   "median": 0.8386749923229218,
+   "iqr": 0.08002045750617981
+  },
+  "vocal_share": {
+   "median": 0.07478566840291023,
+   "iqr": 0.03830996714532375
+  },
+  "vocal_voiced": {
+   "median": 0.1371172032193159,
+   "iqr": 0.08528543985484166
+  },
+  "song_length": {
+   "median": 283.02,
+   "iqr": 64.50674999999995
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

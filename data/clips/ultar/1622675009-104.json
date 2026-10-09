@@ -1,0 +1,32 @@
+{
+ "id": "ultar/1622675009-104",
+ "band": "ultar",
+ "title": "Worms",
+ "source": "itunes",
+ "album": "Pantheon MMXIX",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.379385273723512,
+  "tempo_var": 1.6883167798457919,
+  "low_onset_rate": 5.112086626581972,
+  "lufs": -7.374180577954407,
+  "rms_dbfs": -6.84624059632497,
+  "crest": 6.846240997314453,
+  "centroid": 2388.055646246532,
+  "flatness": 0.028118906542658806,
+  "sub100_share": 0.3748469650745392,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.772412121295929,
+  "clean_share": 0.0,
+  "minor_share": 0.23425579027609478,
+  "chord_rate": 1.0023699267807789,
+  "repetitiveness": 0.8521276712417603,
+  "vocal_share": 8.394613928430772e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 368.0
+ }
+}

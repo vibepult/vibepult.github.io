@@ -1,0 +1,32 @@
+{
+ "id": "soundgarden/1440890539-107",
+ "band": "soundgarden",
+ "title": "Searching With My Good Eye Closed (Remastered 2016)",
+ "source": "itunes",
+ "album": "Badmotorfinger (25th Anniversary / Remastered 2016)",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.766609726232408,
+  "tempo_var": 10.086584597316657,
+  "low_onset_rate": 5.633248174630769,
+  "lufs": -20.449239257109323,
+  "rms_dbfs": -22.223941046635606,
+  "crest": 22.223939895629883,
+  "centroid": 2439.1404302892515,
+  "flatness": 0.01165003888309002,
+  "sub100_share": 0.0020569053012877703,
+  "lowest_pitch": 145.34912109375,
+  "harmonic_share": 0.7222086787223816,
+  "clean_share": 0.23511214230471772,
+  "minor_share": -0.04658247382402392,
+  "chord_rate": 0.5999909298423305,
+  "repetitiveness": 0.9178951978683472,
+  "vocal_share": 0.2991901636123657,
+  "vocal_voiced": 0.3767857142857143,
+  "song_length": 391.655
+ }
+}

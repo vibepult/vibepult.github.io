@@ -1,0 +1,127 @@
+{
+ "slug": "napalm-death",
+ "name": "Napalm Death",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 18870024,
+  "deezer": 5110,
+  "spotify": "3UqRgrDIQ208yNGiWKRMNt"
+ },
+ "metadata": {
+  "formed": 1981,
+  "split": null,
+  "country": "GB",
+  "status": "active",
+  "members": 4,
+  "past_members": 18,
+  "full_lengths": 17,
+  "genre": "Hardcore Punk (early); Grindcore/Death Metal (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 105512,
+  "themes": "Political unrest, Hate, Anti-fascism, Social issues",
+  "release_year": 1999
+ },
+ "partial": false,
+ "clips": [
+  "napalm-death/41227320-106",
+  "napalm-death/42365129-108",
+  "napalm-death/48609330-106",
+  "napalm-death/45445444-106",
+  "napalm-death/310688917-107",
+  "napalm-death/63613639-106",
+  "napalm-death/317911652-108",
+  "napalm-death/275636738-106",
+  "napalm-death/1045506326-108",
+  "napalm-death/1045605068-108",
+  "napalm-death/1070074077-107",
+  "napalm-death/1045550127-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 112.55992542613637,
+   "iqr": 22.780881228146853
+  },
+  "onset_rate": {
+   "median": 6.021666677327737,
+   "iqr": 1.1539279304482672
+  },
+  "tempo_var": {
+   "median": 10.065135013946179,
+   "iqr": 3.970450694397961
+  },
+  "low_onset_rate": {
+   "median": 7.400831292731416,
+   "iqr": 0.7045329972300003
+  },
+  "lufs": {
+   "median": -8.75216894390914,
+   "iqr": 2.360521938199513
+  },
+  "rms_dbfs": {
+   "median": -8.965621459018276,
+   "iqr": 2.0778470107982603
+  },
+  "crest": {
+   "median": 8.96562147140503,
+   "iqr": 2.0778467655181885
+  },
+  "centroid": {
+   "median": 2713.999952601849,
+   "iqr": 181.1750933546
+  },
+  "flatness": {
+   "median": 0.04613189399242401,
+   "iqr": 0.015862670727074146
+  },
+  "sub100_share": {
+   "median": 0.26628099381923676,
+   "iqr": 0.12031801044940948
+  },
+  "lowest_pitch": {
+   "median": 45.758056640625,
+   "iqr": 17.4957275390625
+  },
+  "harmonic_share": {
+   "median": 0.689363420009613,
+   "iqr": 0.045029982924461365
+  },
+  "clean_share": {
+   "median": 0.0007733952049497294,
+   "iqr": 0.003878975950349108
+  },
+  "minor_share": {
+   "median": 0.04576029375944689,
+   "iqr": 0.06600463681619387
+  },
+  "chord_rate": {
+   "median": 2.4694315812442422,
+   "iqr": 0.5524445541007781
+  },
+  "repetitiveness": {
+   "median": 0.9490668475627899,
+   "iqr": 0.017445996403694153
+  },
+  "vocal_share": {
+   "median": 0.11115553975105286,
+   "iqr": 0.03099801018834114
+  },
+  "vocal_voiced": {
+   "median": 0.1265377855887522,
+   "iqr": 0.22735389715472093
+  },
+  "song_length": {
+   "median": 190.92000000000002,
+   "iqr": 32.893249999999995
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.0,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

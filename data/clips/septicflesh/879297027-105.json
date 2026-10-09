@@ -1,0 +1,32 @@
+{
+ "id": "septicflesh/879297027-105",
+ "band": "septicflesh",
+ "title": "Dogma",
+ "source": "itunes",
+ "album": "Titan",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.4414700819473403,
+  "tempo_var": 1.6799098708224744,
+  "low_onset_rate": 7.450949789070456,
+  "lufs": -9.565353479378075,
+  "rms_dbfs": -8.671318430696184,
+  "crest": 8.671318054199219,
+  "centroid": 2338.4722872990033,
+  "flatness": 0.027518372982740402,
+  "sub100_share": 0.36805081367492676,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7863491177558899,
+  "clean_share": 0.07292474786656322,
+  "minor_share": -0.07414601559167544,
+  "chord_rate": 1.871090529990787,
+  "repetitiveness": 0.8121553659439087,
+  "vocal_share": 0.054956693202257156,
+  "vocal_voiced": 0.19444444444444445,
+  "song_length": 243.107
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "obscura/414335720-104",
+ "band": "obscura",
+ "title": "Euclidean Elements",
+ "source": "itunes",
+ "album": "Omnivium",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 7.417537458177763,
+  "tempo_var": 2.43117898965705,
+  "low_onset_rate": 7.3841251272850705,
+  "lufs": -7.203939881871546,
+  "rms_dbfs": -6.659471845665056,
+  "crest": 6.6594719886779785,
+  "centroid": 2591.8706205747117,
+  "flatness": 0.045914389193058014,
+  "sub100_share": 0.3265489339828491,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.6739002466201782,
+  "clean_share": 0.0,
+  "minor_share": -0.1335804111497792,
+  "chord_rate": 2.8734604567715656,
+  "repetitiveness": 0.9600672721862793,
+  "vocal_share": 0.2457253485918045,
+  "vocal_voiced": 0.28453267162944584,
+  "song_length": 290.893
+ }
+}

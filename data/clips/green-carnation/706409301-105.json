@@ -1,0 +1,32 @@
+{
+ "id": "green-carnation/706409301-105",
+ "band": "green-carnation",
+ "title": "The Boy in the Attic",
+ "source": "itunes",
+ "album": "A Blessing in Disguise",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 1.5035548901711682,
+  "tempo_var": 3.903884772888654,
+  "low_onset_rate": 9.054741671919702,
+  "lufs": -21.021646548491116,
+  "rms_dbfs": -20.080942689684207,
+  "crest": 14.83094596862793,
+  "centroid": 526.827230848113,
+  "flatness": 1.8025741155724972e-05,
+  "sub100_share": 0.2169729322195053,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.9844986796379089,
+  "clean_share": 1.0,
+  "minor_share": -0.020948163148146737,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.6984965205192566,
+  "vocal_share": 1.091560648092127e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 433.747
+ }
+}

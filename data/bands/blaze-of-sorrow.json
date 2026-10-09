@@ -1,0 +1,127 @@
+{
+ "slug": "blaze-of-sorrow",
+ "name": "Blaze of Sorrow",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1246628076,
+  "deezer": 12591264,
+  "spotify": "3WdAbe7LcgPuckuALu2co5"
+ },
+ "metadata": {
+  "formed": 2007,
+  "split": null,
+  "country": "IT",
+  "status": "active",
+  "members": 4,
+  "past_members": 1,
+  "full_lengths": 7,
+  "genre": "Atmospheric Black/Folk Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 162,
+  "themes": "Nature, Inner-self",
+  "release_year": 2013
+ },
+ "partial": false,
+ "clips": [
+  "blaze-of-sorrow/1734446576-104",
+  "blaze-of-sorrow/1734451651-103",
+  "blaze-of-sorrow/1732104444-104",
+  "blaze-of-sorrow/1732034318-104",
+  "blaze-of-sorrow/1731340586-104",
+  "blaze-of-sorrow/1731342131-104",
+  "blaze-of-sorrow/1665661516-104",
+  "blaze-of-sorrow/1734446576-102",
+  "blaze-of-sorrow/1734451651-104",
+  "blaze-of-sorrow/1732104444-105",
+  "blaze-of-sorrow/1732034318-103",
+  "blaze-of-sorrow/1731340586-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 132.59919819078948,
+   "iqr": 41.626058214882946
+  },
+  "onset_rate": {
+   "median": 4.866578384065595,
+   "iqr": 1.474973243115771
+  },
+  "tempo_var": {
+   "median": 10.008960573692727,
+   "iqr": 9.715024296332246
+  },
+  "low_onset_rate": {
+   "median": 6.14988843739796,
+   "iqr": 0.9549726550592439
+  },
+  "lufs": {
+   "median": -10.484497587238241,
+   "iqr": 5.552532012878622
+  },
+  "rms_dbfs": {
+   "median": -9.650705386550527,
+   "iqr": 5.819239311410765
+  },
+  "crest": {
+   "median": 9.650705337524414,
+   "iqr": 5.752659320831299
+  },
+  "centroid": {
+   "median": 1936.761316068774,
+   "iqr": 376.08467782081743
+  },
+  "flatness": {
+   "median": 0.016812285874038935,
+   "iqr": 0.014907804783433676
+  },
+  "sub100_share": {
+   "median": 0.1695055216550827,
+   "iqr": 0.17394228279590607
+  },
+  "lowest_pitch": {
+   "median": 79.4036865234375,
+   "iqr": 14.13116455078125
+  },
+  "harmonic_share": {
+   "median": 0.8187209367752075,
+   "iqr": 0.19404196739196777
+  },
+  "clean_share": {
+   "median": 0.35924207269914926,
+   "iqr": 0.5589713843774169
+  },
+  "minor_share": {
+   "median": 0.05330337390656442,
+   "iqr": 0.21517972255821394
+  },
+  "chord_rate": {
+   "median": 1.0999800457134565,
+   "iqr": 0.5583232050212241
+  },
+  "repetitiveness": {
+   "median": 0.80563884973526,
+   "iqr": 0.1154600977897644
+  },
+  "vocal_share": {
+   "median": 0.10184819996356964,
+   "iqr": 0.08430500328540802
+  },
+  "vocal_voiced": {
+   "median": 0.42678227360308285,
+   "iqr": 0.4728748521112751
+  },
+  "song_length": {
+   "median": 427.8065,
+   "iqr": 116.11200000000002
+  },
+  "vocal_presence": {
+   "median": 0.4166666666666667,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "pitchshifter/1443756091-106",
+ "band": "pitchshifter",
+ "title": "W.Y.S.I.W.Y.G.",
+ "source": "itunes",
+ "album": "Www.Pitchshifter.Com",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 4.833260268174329,
+  "tempo_var": 19.35695688538965,
+  "low_onset_rate": 5.933243639551934,
+  "lufs": -8.068234239640859,
+  "rms_dbfs": -8.105375027993214,
+  "crest": 8.105374336242676,
+  "centroid": 3378.12733110477,
+  "flatness": 0.08976023644208908,
+  "sub100_share": 0.3179274797439575,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.6620639562606812,
+  "clean_share": 0.0030935808197989174,
+  "minor_share": 0.11021414749359654,
+  "chord_rate": 2.0999682544481564,
+  "repetitiveness": 0.9660460352897644,
+  "vocal_share": 0.10577449947595596,
+  "vocal_voiced": 0.4615993665874901,
+  "song_length": 223.84
+ }
+}

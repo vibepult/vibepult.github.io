@@ -1,0 +1,32 @@
+{
+ "id": "stille-volk/1555060945-110",
+ "band": "stille-volk",
+ "title": "Dans Les Confins S'en Retourna",
+ "source": "itunes",
+ "album": "Hantaoma",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 2.940285118556951,
+  "tempo_var": 9.83659331263978,
+  "low_onset_rate": 6.348342869611598,
+  "lufs": -15.780629875360596,
+  "rms_dbfs": -14.951165074141187,
+  "crest": 14.951164245605469,
+  "centroid": 2504.7406349607804,
+  "flatness": 0.010991672053933144,
+  "sub100_share": 0.05022512748837471,
+  "lowest_pitch": 102.28271484375,
+  "harmonic_share": 0.9519540071487427,
+  "clean_share": 0.31962761830876646,
+  "minor_share": 0.25531016776647475,
+  "chord_rate": 2.138389177132328,
+  "repetitiveness": 0.6589616537094116,
+  "vocal_share": 1.0656106496753637e-05,
+  "vocal_voiced": 0.0,
+  "song_length": 215.683
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "leatherwolf/1636333295-105",
+ "band": "leatherwolf",
+ "title": "Black Knight",
+ "source": "itunes",
+ "album": "Street Ready",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 5.513034597294284,
+  "tempo_var": 11.735869920452073,
+  "low_onset_rate": 6.081044222470058,
+  "lufs": -11.596655841873043,
+  "rms_dbfs": -11.571466845850566,
+  "crest": 11.571466445922852,
+  "centroid": 2859.521170653358,
+  "flatness": 0.043691862374544144,
+  "sub100_share": 0.25216108560562134,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.7898510694503784,
+  "clean_share": 0.01474010861132661,
+  "minor_share": 0.1642598369352981,
+  "chord_rate": 2.138389177132328,
+  "repetitiveness": 0.9216700792312622,
+  "vocal_share": 8.469488648188417e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 179.907
+ }
+}

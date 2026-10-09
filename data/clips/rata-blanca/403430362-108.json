@@ -1,0 +1,32 @@
+{
+ "id": "rata-blanca/403430362-108",
+ "band": "rata-blanca",
+ "title": "La Caja",
+ "source": "itunes",
+ "album": "Rata Blanca VII",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 3.1,
+  "tempo_var": 31.306173779624064,
+  "low_onset_rate": 3.3,
+  "lufs": -9.285384750137487,
+  "rms_dbfs": -9.122054661394744,
+  "crest": 9.122055053710938,
+  "centroid": 2471.899837438317,
+  "flatness": 0.02740270271897316,
+  "sub100_share": 0.14574389159679413,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7638803720474243,
+  "clean_share": 0.008513931888544891,
+  "minor_share": 0.08783780902659322,
+  "chord_rate": 1.5333333333333334,
+  "repetitiveness": 0.802168607711792,
+  "vocal_share": 0.2364097386598587,
+  "vocal_voiced": 0.8577405857740585,
+  "song_length": 297.224
+ }
+}

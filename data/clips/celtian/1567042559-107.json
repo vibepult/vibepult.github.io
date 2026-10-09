@@ -1,0 +1,32 @@
+{
+ "id": "celtian/1567042559-107",
+ "band": "celtian",
+ "title": "Lisnagun",
+ "source": "itunes",
+ "album": "The Druid's Awaiting",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.610901663191583,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 3.207583765698492,
+  "lufs": -12.152654349795172,
+  "rms_dbfs": -11.729267467011429,
+  "crest": 11.729268074035645,
+  "centroid": 2261.6119497382474,
+  "flatness": 0.009496726095676422,
+  "sub100_share": 0.15464472770690918,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7995030283927917,
+  "clean_share": 0.32660977501939487,
+  "minor_share": -0.3130545841001884,
+  "chord_rate": 0.9689575958880862,
+  "repetitiveness": 0.7341824173927307,
+  "vocal_share": 0.0011213496327400208,
+  "vocal_voiced": 0.9595375722543352,
+  "song_length": 204.771
+ }
+}

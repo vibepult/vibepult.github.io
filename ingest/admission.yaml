@@ -1,0 +1,2250 @@
+# Written by python -m ingest admit: one decision per candidate, never retried.
+behemoth:
+  corner: war-blackened
+  status: admitted
+zyklon:
+  corner: war-blackened
+  status: admitted
+akercocke:
+  corner: war-blackened
+  status: admitted
+panzerchrist:
+  corner: war-blackened
+  status: admitted
+aeternus:
+  corner: war-blackened
+  status: rejected
+  reason: 'deezer: no artist of that name'
+teitanblood:
+  corner: war-blackened
+  status: admitted
+revenge:
+  corner: war-blackened
+  status: admitted
+diocletian:
+  corner: war-blackened
+  status: admitted
+impiety:
+  corner: war-blackened
+  status: admitted
+begerith:
+  corner: war-blackened
+  status: admitted
+the-deviant:
+  corner: war-blackened
+  status: admitted
+black-witchery:
+  corner: war-blackened
+  status: admitted
+lifelover:
+  corner: post-black
+  status: admitted
+wolves-in-the-throne-room:
+  corner: post-black
+  status: admitted
+harakiri-for-the-sky:
+  corner: post-black
+  status: admitted
+liturgy:
+  corner: post-black
+  status: admitted
+urfaust:
+  corner: post-black
+  status: admitted
+ghost-bath:
+  corner: post-black
+  status: admitted
+lantlos:
+  corner: post-black
+  status: admitted
+feminazgul:
+  corner: post-black
+  status: admitted
+myrkur:
+  corner: post-black
+  status: admitted
+amesoeurs:
+  corner: post-black
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+ueldes:
+  corner: post-black
+  status: rejected
+  reason: 'coverage: 5 clips, need 8'
+ultar:
+  corner: post-black
+  status: admitted
+an-autumn-for-crippled-children:
+  corner: post-black
+  status: admitted
+aquilus:
+  corner: post-black
+  status: admitted
+blaze-of-sorrow:
+  corner: post-black
+  status: admitted
+corridore:
+  corner: post-black
+  status: rejected
+  reason: 'coverage: 5 clips, need 8'
+deadly-carnage:
+  corner: post-black
+  status: admitted
+eldamar:
+  corner: post-black
+  status: admitted
+jord:
+  corner: post-black
+  status: admitted
+l-homme-absurde:
+  corner: post-black
+  status: admitted
+violet-cold:
+  corner: post-black
+  status: admitted
+toluca:
+  corner: post-black
+  status: admitted
+shattered-dreams:
+  corner: post-black
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+asphodele:
+  corner: post-black
+  status: admitted
+irritert:
+  corner: post-black
+  status: admitted
+totalselfhatred:
+  corner: post-black
+  status: rejected
+  reason: 'coverage: 7 clips, need 8'
+minuala:
+  corner: post-black
+  status: admitted
+acrosome:
+  corner: post-black
+  status: admitted
+gherzen:
+  corner: post-black
+  status: rejected
+  reason: 'coverage: 6 clips, need 8'
+leia:
+  corner: post-black
+  status: rejected
+  reason: 'deezer: no artist of that name'
+moor:
+  corner: post-black
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+the-lonely:
+  corner: post-black
+  status: admitted
+vision-lunar:
+  corner: post-black
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+dimmu-borgir:
+  corner: symphonic-black
+  status: admitted
+nokturnal-mortum:
+  corner: symphonic-black
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+chthonic:
+  corner: symphonic-black
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+carach-angren:
+  corner: symphonic-black
+  status: admitted
+anorexia-nervosa:
+  corner: symphonic-black
+  status: admitted
+graveworm:
+  corner: symphonic-black
+  status: admitted
+agathodaimon:
+  corner: symphonic-black
+  status: admitted
+troll:
+  corner: symphonic-black
+  status: admitted
+welicoruss:
+  corner: symphonic-black
+  status: admitted
+enslavement-of-beauty:
+  corner: symphonic-black
+  status: admitted
+shade-empire:
+  corner: symphonic-black
+  status: admitted
+obtained-enslavement:
+  corner: symphonic-black
+  status: admitted
+saille:
+  corner: symphonic-black
+  status: admitted
+paracrona:
+  corner: symphonic-black
+  status: admitted
+hellrune:
+  corner: symphonic-black
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+dark-fortress:
+  corner: symphonic-black
+  status: admitted
+darzamat:
+  corner: symphonic-black
+  status: admitted
+dragonlord:
+  corner: symphonic-black
+  status: rejected
+  reason: 'coverage: 7 clips, need 8'
+sear-bliss:
+  corner: symphonic-black
+  status: admitted
+dissection:
+  corner: melodic-black
+  status: admitted
+vreid:
+  corner: melodic-black
+  status: admitted
+woods-of-ypres:
+  corner: melodic-black
+  status: admitted
+suotana:
+  corner: melodic-black
+  status: admitted
+winterhorde:
+  corner: melodic-black
+  status: admitted
+blasphemy:
+  corner: war-blackened
+  status: admitted
+caturix:
+  corner: war-blackened
+  status: rejected
+  reason: 'coverage: 6 clips, need 8'
+last-human-666:
+  corner: war-blackened
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+burzum:
+  corner: black
+  status: admitted
+venom:
+  corner: black
+  status: admitted
+bathory:
+  corner: black
+  status: admitted
+darkthrone:
+  corner: black
+  status: admitted
+immortal:
+  corner: black
+  status: admitted
+celtic-frost:
+  corner: black
+  status: admitted
+emperor:
+  corner: black
+  status: admitted
+marduk:
+  corner: black
+  status: admitted
+arkona:
+  corner: black
+  status: admitted
+satyricon:
+  corner: black
+  status: admitted
+enslaved:
+  corner: black
+  status: admitted
+rotting-christ:
+  corner: black
+  status: admitted
+moonsorrow:
+  corner: black
+  status: admitted
+dark-funeral:
+  corner: black
+  status: admitted
+ulver:
+  corner: black
+  status: admitted
+carpathian-forest:
+  corner: black
+  status: admitted
+taake:
+  corner: black
+  status: admitted
+down:
+  corner: black
+  status: admitted
+'1349':
+  corner: black
+  status: admitted
+arcturus:
+  corner: black
+  status: admitted
+belphegor:
+  corner: black
+  status: admitted
+septicflesh:
+  corner: black
+  status: admitted
+shining:
+  corner: black
+  status: admitted
+summoning:
+  corner: black
+  status: admitted
+the-kovenant:
+  corner: black
+  status: admitted
+hellhammer:
+  corner: black
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+impaled-nazarene:
+  corner: black
+  status: admitted
+countess:
+  corner: black
+  status: admitted
+wrath-passion:
+  corner: black
+  status: admitted
+goat-semen:
+  corner: black
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+nara:
+  corner: black
+  status: rejected
+  reason: 'coverage: 5 clips, need 8'
+abyssos:
+  corner: black
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+impaired-cognition:
+  corner: black
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+vondur:
+  corner: black
+  status: admitted
+hanternoz:
+  corner: black
+  status: admitted
+hresis:
+  corner: black
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+batushka:
+  corner: black
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+melechesh:
+  corner: black
+  status: admitted
+manegarm:
+  corner: black
+  status: admitted
+solstafir:
+  corner: black
+  status: admitted
+ancient:
+  corner: black
+  status: admitted
+drudkh:
+  corner: black
+  status: admitted
+falkenbach:
+  corner: black
+  status: admitted
+keep-of-kalessin:
+  corner: black
+  status: admitted
+mga:
+  corner: black
+  status: admitted
+primordial:
+  corner: black
+  status: admitted
+sarcofago:
+  corner: black
+  status: admitted
+anathema:
+  corner: funeral-doom
+  status: admitted
+my-dying-bride:
+  corner: funeral-doom
+  status: admitted
+amorphis:
+  corner: funeral-doom
+  status: admitted
+paradise-lost:
+  corner: funeral-doom
+  status: admitted
+draconian:
+  corner: funeral-doom
+  status: admitted
+thergothon:
+  corner: funeral-doom
+  status: rejected
+  reason: 'coverage: 6 clips, need 8'
+saturnus:
+  corner: funeral-doom
+  status: admitted
+novembers-doom:
+  corner: funeral-doom
+  status: admitted
+evoken:
+  corner: funeral-doom
+  status: admitted
+october-tide:
+  corner: funeral-doom
+  status: admitted
+on-thorns-i-lay:
+  corner: funeral-doom
+  status: admitted
+esoteric:
+  corner: funeral-doom
+  status: admitted
+mar-de-grises:
+  corner: funeral-doom
+  status: admitted
+angellore:
+  corner: funeral-doom
+  status: admitted
+comatose-vigil:
+  corner: funeral-doom
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+ophis:
+  corner: funeral-doom
+  status: admitted
+aura-hiemis:
+  corner: funeral-doom
+  status: admitted
+the-fall-of-every-season:
+  corner: funeral-doom
+  status: admitted
+shores-of-null:
+  corner: funeral-doom
+  status: admitted
+coffins:
+  corner: funeral-doom
+  status: admitted
+dark-the-suns:
+  corner: funeral-doom
+  status: admitted
+hooded-menace:
+  corner: funeral-doom
+  status: admitted
+type-o-negative:
+  corner: doom
+  status: admitted
+theatre-of-tragedy:
+  corner: doom
+  status: admitted
+katatonia:
+  corner: doom
+  status: admitted
+sunn-o:
+  corner: doom
+  status: admitted
+electric-wizard:
+  corner: doom
+  status: admitted
+cathedral:
+  corner: doom
+  status: admitted
+trouble:
+  corner: doom
+  status: admitted
+saint-vitus:
+  corner: doom
+  status: admitted
+sleep:
+  corner: doom
+  status: admitted
+swallow-the-sun:
+  corner: doom
+  status: admitted
+lacrimas-profundere:
+  corner: doom
+  status: admitted
+reverend-bizarre:
+  corner: doom
+  status: rejected
+  reason: 'coverage: 7 clips, need 8'
+witchfinder-general:
+  corner: doom
+  status: admitted
+shape-of-despair:
+  corner: doom
+  status: admitted
+skepticism:
+  corner: doom
+  status: admitted
+green-carnation:
+  corner: doom
+  status: admitted
+kypck:
+  corner: doom
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+windhand:
+  corner: doom
+  status: admitted
+kaunis-kuolematon:
+  corner: doom
+  status: admitted
+trees-of-eternity:
+  corner: doom
+  status: admitted
+paul-chain-violet-theatre:
+  corner: doom
+  status: admitted
+forest-of-shadows:
+  corner: doom
+  status: admitted
+void-of-silence:
+  corner: doom
+  status: admitted
+pentagram:
+  corner: doom
+  status: admitted
+church-of-misery:
+  corner: doom
+  status: admitted
+soundgarden:
+  corner: sludge-stoner
+  status: admitted
+kyuss:
+  corner: sludge-stoner
+  status: admitted
+melvins:
+  corner: sludge-stoner
+  status: admitted
+boris:
+  corner: sludge-stoner
+  status: admitted
+corrosion-of-conformity:
+  corner: sludge-stoner
+  status: admitted
+godflesh:
+  corner: sludge-stoner
+  status: admitted
+acid-bath:
+  corner: sludge-stoner
+  status: admitted
+neurosis:
+  corner: sludge-stoner
+  status: admitted
+eyehategod:
+  corner: sludge-stoner
+  status: admitted
+red-fang:
+  corner: sludge-stoner
+  status: admitted
+high-on-fire:
+  corner: sludge-stoner
+  status: admitted
+jesu:
+  corner: sludge-stoner
+  status: admitted
+spiritual-beggars:
+  corner: sludge-stoner
+  status: admitted
+orange-goblin:
+  corner: sludge-stoner
+  status: admitted
+daniel-lioneye:
+  corner: sludge-stoner
+  status: admitted
+iron-monkey:
+  corner: sludge-stoner
+  status: admitted
+mustasch:
+  corner: sludge-stoner
+  status: admitted
+nadja:
+  corner: sludge-stoner
+  status: admitted
+mantar:
+  corner: sludge-stoner
+  status: admitted
+priestess:
+  corner: sludge-stoner
+  status: admitted
+dozer:
+  corner: sludge-stoner
+  status: admitted
+fudge-tunnel:
+  corner: sludge-stoner
+  status: admitted
+black-moth:
+  corner: sludge-stoner
+  status: admitted
+reka:
+  corner: sludge-stoner
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+dark-buddha-rising:
+  corner: sludge-stoner
+  status: rejected
+  reason: 'coverage: 6 clips, need 8'
+pharaoh-overlord:
+  corner: sludge-stoner
+  status: admitted
+dying-hydra:
+  corner: sludge-stoner
+  status: rejected
+  reason: 'coverage: 6 clips, need 8'
+black-royal:
+  corner: sludge-stoner
+  status: admitted
+high-fighter:
+  corner: sludge-stoner
+  status: admitted
+baroness:
+  corner: sludge-stoner
+  status: admitted
+earth:
+  corner: sludge-stoner
+  status: admitted
+superjoint:
+  corner: sludge-stoner
+  status: admitted
+isis:
+  corner: post-metal
+  status: admitted
+cult-of-luna:
+  corner: post-metal
+  status: admitted
+pelican:
+  corner: post-metal
+  status: admitted
+russian-circles:
+  corner: post-metal
+  status: admitted
+the-ocean:
+  corner: post-metal
+  status: admitted
+callisto:
+  corner: post-metal
+  status: admitted
+year-of-no-light:
+  corner: post-metal
+  status: admitted
+panopticon:
+  corner: post-metal
+  status: admitted
+steak-number-eight:
+  corner: post-metal
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+hypothermia:
+  corner: post-metal
+  status: rejected
+  reason: 'coverage: 5 clips, need 8'
+briqueville:
+  corner: post-metal
+  status: admitted
+psoty:
+  corner: post-metal
+  status: admitted
+hillsphere:
+  corner: post-metal
+  status: rejected
+  reason: 'coverage: 6 clips, need 8'
+zatokrev:
+  corner: post-metal
+  status: admitted
+auerwelt:
+  corner: post-metal
+  status: rejected
+  reason: 'deezer: no artist of that name'
+ira-funesta:
+  corner: post-metal
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+carcass:
+  corner: grind-crust
+  status: admitted
+cavalera-conspiracy:
+  corner: grind-crust
+  status: admitted
+cattle-decapitation:
+  corner: grind-crust
+  status: admitted
+brujeria:
+  corner: grind-crust
+  status: admitted
+extreme-noise-terror:
+  corner: grind-crust
+  status: admitted
+the-berzerker:
+  corner: grind-crust
+  status: admitted
+amebix:
+  corner: grind-crust
+  status: admitted
+brutal-truth:
+  corner: grind-crust
+  status: admitted
+macabre:
+  corner: grind-crust
+  status: admitted
+repulsion:
+  corner: grind-crust
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+terrorizer:
+  corner: grind-crust
+  status: admitted
+agoraphobic-nosebleed:
+  corner: grind-crust
+  status: admitted
+gut:
+  corner: grind-crust
+  status: admitted
+mortician:
+  corner: grind-crust
+  status: admitted
+haemorrhage:
+  corner: grind-crust
+  status: admitted
+agathocles:
+  corner: grind-crust
+  status: admitted
+gutalax:
+  corner: grind-crust
+  status: admitted
+carnage:
+  corner: grind-crust
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+wormrot:
+  corner: grind-crust
+  status: admitted
+dickless-tracy:
+  corner: grind-crust
+  status: admitted
+ultra-vomit:
+  corner: grind-crust
+  status: admitted
+beaten-to-death:
+  corner: grind-crust
+  status: admitted
+wake:
+  corner: grind-crust
+  status: admitted
+holocausto-canibal:
+  corner: grind-crust
+  status: admitted
+nails:
+  corner: grind-crust
+  status: admitted
+pig-destroyer:
+  corner: grind-crust
+  status: admitted
+opeth:
+  corner: tech-death
+  status: admitted
+gojira:
+  corner: tech-death
+  status: admitted
+nile:
+  corner: tech-death
+  status: admitted
+decapitated:
+  corner: tech-death
+  status: admitted
+atheist:
+  corner: tech-death
+  status: admitted
+cryptopsy:
+  corner: tech-death
+  status: admitted
+fleshgod-apocalypse:
+  corner: tech-death
+  status: admitted
+necrophagist:
+  corner: tech-death
+  status: admitted
+pestilence:
+  corner: tech-death
+  status: admitted
+the-faceless:
+  corner: tech-death
+  status: admitted
+gorguts:
+  corner: tech-death
+  status: admitted
+spawn-of-possession:
+  corner: tech-death
+  status: admitted
+anata:
+  corner: tech-death
+  status: admitted
+archspire:
+  corner: tech-death
+  status: admitted
+rings-of-saturn:
+  corner: tech-death
+  status: admitted
+barren-earth:
+  corner: tech-death
+  status: admitted
+lost-soul:
+  corner: tech-death
+  status: admitted
+deadsquad:
+  corner: tech-death
+  status: admitted
+hour-of-penance:
+  corner: tech-death
+  status: admitted
+in-quest:
+  corner: tech-death
+  status: admitted
+ulcerate:
+  corner: tech-death
+  status: admitted
+aborted:
+  corner: brutal-death
+  status: admitted
+blood-red-throne:
+  corner: brutal-death
+  status: admitted
+beneath-the-massacre:
+  corner: brutal-death
+  status: admitted
+benighted:
+  corner: brutal-death
+  status: admitted
+severe-torture:
+  corner: brutal-death
+  status: admitted
+defeated-sanity:
+  corner: brutal-death
+  status: admitted
+epicardiectomy:
+  corner: brutal-death
+  status: admitted
+guttural-slug:
+  corner: brutal-death
+  status: admitted
+'01101111011101100110111001101001':
+  corner: brutal-death
+  status: admitted
+viscerotomy:
+  corner: brutal-death
+  status: rejected
+  reason: 'coverage: 7 clips, need 8'
+arch-enemy:
+  corner: melodic-death
+  status: admitted
+in-flames:
+  corner: melodic-death
+  status: admitted
+dark-tranquillity:
+  corner: melodic-death
+  status: admitted
+amon-amarth:
+  corner: melodic-death
+  status: admitted
+eluveitie:
+  corner: melodic-death
+  status: admitted
+ensiferum:
+  corner: melodic-death
+  status: admitted
+soilwork:
+  corner: melodic-death
+  status: admitted
+at-the-gates:
+  corner: melodic-death
+  status: admitted
+heaven-shall-burn:
+  corner: melodic-death
+  status: admitted
+all-that-remains:
+  corner: melodic-death
+  status: admitted
+insomnium:
+  corner: melodic-death
+  status: admitted
+the-black-dahlia-murder:
+  corner: melodic-death
+  status: admitted
+wintersun:
+  corner: melodic-death
+  status: admitted
+norther:
+  corner: melodic-death
+  status: admitted
+devildriver:
+  corner: melodic-death
+  status: admitted
+hypocrisy:
+  corner: melodic-death
+  status: admitted
+avatar:
+  corner: melodic-death
+  status: admitted
+scar-symmetry:
+  corner: melodic-death
+  status: admitted
+the-agonist:
+  corner: melodic-death
+  status: admitted
+mercenary:
+  corner: melodic-death
+  status: admitted
+shadows-fall:
+  corner: melodic-death
+  status: admitted
+darkest-hour:
+  corner: melodic-death
+  status: admitted
+i-spit-ashes:
+  corner: melodic-death
+  status: admitted
+crimson-shadows:
+  corner: melodic-death
+  status: admitted
+horresco-referens:
+  corner: melodic-death
+  status: rejected
+  reason: 'coverage: 0 clips, need 8'
+my-material-season:
+  corner: melodic-death
+  status: admitted
+entoria:
+  corner: melodic-death
+  status: admitted
+orphan-hate:
+  corner: melodic-death
+  status: admitted
+gandalf:
+  corner: melodic-death
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+sonic-syndicate:
+  corner: melodic-death
+  status: admitted
+kalmah:
+  corner: melodic-death
+  status: admitted
+killswitch-engage:
+  corner: core
+  status: admitted
+trivium:
+  corner: core
+  status: admitted
+as-i-lay-dying:
+  corner: core
+  status: admitted
+underoath:
+  corner: core
+  status: admitted
+stormtroopers-of-death:
+  corner: core
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+whitechapel:
+  corner: core
+  status: admitted
+despised-icon:
+  corner: core
+  status: admitted
+caliban:
+  corner: core
+  status: admitted
+crossfaith:
+  corner: core
+  status: admitted
+all-shall-perish:
+  corner: core
+  status: admitted
+dirty-rotten-imbeciles:
+  corner: core
+  status: admitted
+thy-art-is-murder:
+  corner: core
+  status: admitted
+crystal-lake:
+  corner: core
+  status: admitted
+make-them-suffer:
+  corner: core
+  status: admitted
+bleed-from-within:
+  corner: core
+  status: admitted
+neaera:
+  corner: core
+  status: admitted
+the-raven-age:
+  corner: core
+  status: admitted
+dreamshade:
+  corner: core
+  status: admitted
+annotations-of-an-autopsy:
+  corner: core
+  status: admitted
+arkangel:
+  corner: core
+  status: admitted
+we-are-wolf:
+  corner: core
+  status: admitted
+into-the-fray:
+  corner: core
+  status: admitted
+oceanhoarse:
+  corner: core
+  status: admitted
+gutrectomy:
+  corner: core
+  status: admitted
+after-the-burial:
+  corner: core
+  status: admitted
+sepultura:
+  corner: death
+  status: admitted
+death:
+  corner: death
+  status: admitted
+vader:
+  corner: death
+  status: admitted
+obituary:
+  corner: death
+  status: admitted
+deicide:
+  corner: death
+  status: admitted
+fear-factory:
+  corner: death
+  status: admitted
+six-feet-under:
+  corner: death
+  status: admitted
+entombed:
+  corner: death
+  status: admitted
+haggard:
+  corner: death
+  status: rejected
+  reason: 'coverage: 6 clips, need 8'
+orphaned-land:
+  corner: death
+  status: admitted
+kataklysm:
+  corner: death
+  status: admitted
+strapping-young-lad:
+  corner: death
+  status: admitted
+bloodbath:
+  corner: death
+  status: admitted
+suffocation:
+  corner: death
+  status: admitted
+bolt-thrower:
+  corner: death
+  status: admitted
+immolation:
+  corner: death
+  status: admitted
+unleashed:
+  corner: death
+  status: admitted
+autopsy:
+  corner: death
+  status: admitted
+benediction:
+  corner: death
+  status: admitted
+krisiun:
+  corner: death
+  status: admitted
+dismember:
+  corner: death
+  status: admitted
+edge-of-sanity:
+  corner: death
+  status: admitted
+nervosa:
+  corner: death
+  status: admitted
+vital-remains:
+  corner: death
+  status: admitted
+before-the-dawn:
+  corner: death
+  status: admitted
+hate-eternal:
+  corner: death
+  status: admitted
+nirvana-2002:
+  corner: death
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+gangs-of-old-ladies:
+  corner: death
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+vita-imana:
+  corner: death
+  status: admitted
+dellamorte:
+  corner: death
+  status: rejected
+  reason: 'coverage: 0 clips, need 8'
+morbific:
+  corner: death
+  status: admitted
+burning-inside:
+  corner: death
+  status: admitted
+saphath:
+  corner: death
+  status: admitted
+necronomicon:
+  corner: death
+  status: admitted
+malevolent-creation:
+  corner: death
+  status: admitted
+mortification:
+  corner: death
+  status: admitted
+necrophagia:
+  corner: death
+  status: admitted
+angelcorpse:
+  corner: death
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+incantation:
+  corner: death
+  status: admitted
+the-crown:
+  corner: death
+  status: admitted
+asesino:
+  corner: death
+  status: admitted
+anthrax:
+  corner: thrash
+  status: admitted
+kreator:
+  corner: thrash
+  status: admitted
+testament:
+  corner: thrash
+  status: admitted
+machine-head:
+  corner: thrash
+  status: admitted
+sodom:
+  corner: thrash
+  status: admitted
+soulfly:
+  corner: thrash
+  status: admitted
+iced-earth:
+  corner: thrash
+  status: admitted
+exodus:
+  corner: thrash
+  status: admitted
+destruction:
+  corner: thrash
+  status: admitted
+overkill:
+  corner: thrash
+  status: admitted
+suicidal-tendencies:
+  corner: thrash
+  status: admitted
+annihilator:
+  corner: thrash
+  status: admitted
+nevermore:
+  corner: thrash
+  status: admitted
+ministry:
+  corner: thrash
+  status: admitted
+tankard:
+  corner: thrash
+  status: admitted
+death-angel:
+  corner: thrash
+  status: admitted
+metal-church:
+  corner: thrash
+  status: admitted
+voivod:
+  corner: thrash
+  status: admitted
+body-count:
+  corner: thrash
+  status: admitted
+gwar:
+  corner: thrash
+  status: admitted
+skyclad:
+  corner: thrash
+  status: admitted
+stam1na:
+  corner: thrash
+  status: admitted
+athena:
+  corner: thrash
+  status: admitted
+coroner:
+  corner: thrash
+  status: admitted
+the-haunted:
+  corner: thrash
+  status: admitted
+evile:
+  corner: thrash
+  status: admitted
+holy-moses:
+  corner: thrash
+  status: admitted
+nailbomb:
+  corner: thrash
+  status: admitted
+exciter:
+  corner: thrash
+  status: admitted
+onslaught:
+  corner: thrash
+  status: admitted
+grim-reaper:
+  corner: thrash
+  status: admitted
+wolf-spider:
+  corner: thrash
+  status: admitted
+nekromantheon:
+  corner: thrash
+  status: admitted
+traitor:
+  corner: thrash
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+kuwalda:
+  corner: thrash
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+hobbs-angel-of-death:
+  corner: thrash
+  status: admitted
+ktulu:
+  corner: thrash
+  status: admitted
+sweeping-death:
+  corner: thrash
+  status: admitted
+hexodeth:
+  corner: thrash
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+sanatorium:
+  corner: thrash
+  status: admitted
+nuclear:
+  corner: thrash
+  status: admitted
+flotsam-and-jetsam:
+  corner: thrash
+  status: admitted
+municipal-waste:
+  corner: thrash
+  status: admitted
+nuclear-assault:
+  corner: thrash
+  status: admitted
+absu:
+  corner: thrash
+  status: admitted
+dark-angel:
+  corner: thrash
+  status: admitted
+prong:
+  corner: thrash
+  status: admitted
+cro-mags:
+  corner: thrash
+  status: admitted
+havok:
+  corner: thrash
+  status: admitted
+sacred-reich:
+  corner: thrash
+  status: admitted
+sabaton:
+  corner: power
+  status: admitted
+manowar:
+  corner: power
+  status: admitted
+helloween:
+  corner: power
+  status: admitted
+sonata-arctica:
+  corner: power
+  status: admitted
+stratovarius:
+  corner: power
+  status: admitted
+blind-guardian:
+  corner: power
+  status: admitted
+dragonforce:
+  corner: power
+  status: admitted
+rainbow:
+  corner: power
+  status: admitted
+hammerfall:
+  corner: power
+  status: admitted
+kamelot:
+  corner: power
+  status: admitted
+gamma-ray:
+  corner: power
+  status: admitted
+powerwolf:
+  corner: power
+  status: admitted
+symphony-x:
+  corner: power
+  status: admitted
+after-forever:
+  corner: power
+  status: rejected
+  reason: 'coverage: 0 clips, need 8'
+edguy:
+  corner: power
+  status: admitted
+primal-fear:
+  corner: power
+  status: admitted
+voyager:
+  corner: power
+  status: admitted
+grave-digger:
+  corner: power
+  status: admitted
+rage:
+  corner: power
+  status: admitted
+alestorm:
+  corner: power
+  status: admitted
+running-wild:
+  corner: power
+  status: admitted
+savatage:
+  corner: power
+  status: admitted
+van-canto:
+  corner: power
+  status: admitted
+galneryus:
+  corner: power
+  status: admitted
+versailles:
+  corner: power
+  status: admitted
+battle-beast:
+  corner: power
+  status: admitted
+freedom-call:
+  corner: power
+  status: admitted
+nanowar-of-steel:
+  corner: power
+  status: admitted
+judicator:
+  corner: power
+  status: admitted
+neonfly:
+  corner: power
+  status: admitted
+magistr:
+  corner: power
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+manimal:
+  corner: power
+  status: rejected
+  reason: 'coverage: 0 clips, need 8'
+hibria:
+  corner: power
+  status: admitted
+warlord:
+  corner: power
+  status: admitted
+lords-of-black:
+  corner: power
+  status: admitted
+leatherwolf:
+  corner: power
+  status: admitted
+balance-of-power:
+  corner: power
+  status: admitted
+epidemia:
+  corner: power
+  status: admitted
+gloryhammer:
+  corner: power
+  status: admitted
+krypteria:
+  corner: power
+  status: admitted
+firewind:
+  corner: power
+  status: admitted
+iron-savior:
+  corner: power
+  status: admitted
+masterplan:
+  corner: power
+  status: admitted
+warmen:
+  corner: power
+  status: admitted
+3-inches-of-blood:
+  corner: power
+  status: admitted
+apocalyptica:
+  corner: symphonic-gothic
+  status: admitted
+cradle-of-filth:
+  corner: symphonic-gothic
+  status: admitted
+therion:
+  corner: symphonic-gothic
+  status: admitted
+tristania:
+  corner: symphonic-gothic
+  status: admitted
+delain:
+  corner: symphonic-gothic
+  status: admitted
+leaves-eyes:
+  corner: symphonic-gothic
+  status: admitted
+moonspell:
+  corner: symphonic-gothic
+  status: admitted
+tiamat:
+  corner: symphonic-gothic
+  status: admitted
+sentenced:
+  corner: symphonic-gothic
+  status: admitted
+sirenia:
+  corner: symphonic-gothic
+  status: admitted
+xandria:
+  corner: symphonic-gothic
+  status: admitted
+the-gathering:
+  corner: symphonic-gothic
+  status: admitted
+turisas:
+  corner: symphonic-gothic
+  status: admitted
+edenbridge:
+  corner: symphonic-gothic
+  status: admitted
+dark-moor:
+  corner: symphonic-gothic
+  status: admitted
+theatres-des-vampires:
+  corner: symphonic-gothic
+  status: admitted
+trail-of-tears:
+  corner: symphonic-gothic
+  status: admitted
+entwine:
+  corner: symphonic-gothic
+  status: admitted
+poisonblack:
+  corner: symphonic-gothic
+  status: admitted
+ajattara:
+  corner: symphonic-gothic
+  status: admitted
+battlelore:
+  corner: symphonic-gothic
+  status: admitted
+beyond-the-black:
+  corner: symphonic-gothic
+  status: admitted
+charon:
+  corner: symphonic-gothic
+  status: admitted
+unsun:
+  corner: symphonic-gothic
+  status: admitted
+artrosis:
+  corner: symphonic-gothic
+  status: admitted
+elis:
+  corner: symphonic-gothic
+  status: admitted
+for-my-pain:
+  corner: symphonic-gothic
+  status: admitted
+midnattsol:
+  corner: symphonic-gothic
+  status: admitted
+the-sins-of-thy-beloved:
+  corner: symphonic-gothic
+  status: admitted
+dying-phoenix:
+  corner: symphonic-gothic
+  status: admitted
+volturian:
+  corner: symphonic-gothic
+  status: admitted
+lorien:
+  corner: symphonic-gothic
+  status: rejected
+  reason: 'metal archives: HTTPError HTTP 404 for https://www.metal-archives.com/band/discography/id/21224/tab/all'
+aeternitas:
+  corner: symphonic-gothic
+  status: admitted
+jack-frost:
+  corner: symphonic-gothic
+  status: admitted
+tears-of-martyr:
+  corner: symphonic-gothic
+  status: admitted
+the-foreshadowing:
+  corner: symphonic-gothic
+  status: admitted
+stravaganzza:
+  corner: symphonic-gothic
+  status: admitted
+how-like-a-winter:
+  corner: symphonic-gothic
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+heavenwood:
+  corner: symphonic-gothic
+  status: admitted
+crematory:
+  corner: symphonic-gothic
+  status: admitted
+diabulus-in-musica:
+  corner: symphonic-gothic
+  status: admitted
+lake-of-tears:
+  corner: symphonic-gothic
+  status: admitted
+nemesea:
+  corner: symphonic-gothic
+  status: admitted
+korpiklaani:
+  corner: folk-pagan
+  status: admitted
+finntroll:
+  corner: folk-pagan
+  status: admitted
+mago-de-oz:
+  corner: folk-pagan
+  status: admitted
+tyr:
+  corner: folk-pagan
+  status: admitted
+metsatoll:
+  corner: folk-pagan
+  status: admitted
+skyforger:
+  corner: folk-pagan
+  status: admitted
+heidevolk:
+  corner: folk-pagan
+  status: admitted
+cruachan:
+  corner: folk-pagan
+  status: admitted
+einherjer:
+  corner: folk-pagan
+  status: admitted
+corvus-corax:
+  corner: folk-pagan
+  status: admitted
+trollfest:
+  corner: folk-pagan
+  status: admitted
+suidakra:
+  corner: folk-pagan
+  status: admitted
+ancient-rites:
+  corner: folk-pagan
+  status: admitted
+dalriada:
+  corner: folk-pagan
+  status: admitted
+empyrium:
+  corner: folk-pagan
+  status: admitted
+darkestrah:
+  corner: folk-pagan
+  status: admitted
+kauan:
+  corner: folk-pagan
+  status: admitted
+alkonost:
+  corner: folk-pagan
+  status: admitted
+subway-to-sally:
+  corner: folk-pagan
+  status: rejected
+  reason: 'metal archives: HTTPError HTTP 404 for https://www.metal-archives.com/band/discography/id/486/tab/all'
+salem:
+  corner: folk-pagan
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+tuatha-de-danann:
+  corner: folk-pagan
+  status: admitted
+furor-gallico:
+  corner: folk-pagan
+  status: admitted
+stille-volk:
+  corner: folk-pagan
+  status: admitted
+bucovina:
+  corner: folk-pagan
+  status: admitted
+celtian:
+  corner: folk-pagan
+  status: admitted
+ithilien:
+  corner: folk-pagan
+  status: admitted
+alvenrad:
+  corner: folk-pagan
+  status: admitted
+kawir:
+  corner: folk-pagan
+  status: admitted
+boyanov-gimn:
+  corner: folk-pagan
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+bucium:
+  corner: folk-pagan
+  status: admitted
+tersivel:
+  corner: folk-pagan
+  status: admitted
+tierramystica:
+  corner: folk-pagan
+  status: admitted
+grai:
+  corner: folk-pagan
+  status: admitted
+lex-talion:
+  corner: folk-pagan
+  status: admitted
+svartby:
+  corner: folk-pagan
+  status: admitted
+boisson-divine:
+  corner: folk-pagan
+  status: admitted
+waldgefluster:
+  corner: folk-pagan
+  status: admitted
+king-of-asgard:
+  corner: folk-pagan
+  status: admitted
+catuvolcus:
+  corner: folk-pagan
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+svarga:
+  corner: folk-pagan
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+haspyd:
+  corner: folk-pagan
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+hantaoma:
+  corner: folk-pagan
+  status: rejected
+  reason: 'coverage: 0 clips, need 8'
+drautran:
+  corner: folk-pagan
+  status: admitted
+heathen-foray:
+  corner: folk-pagan
+  status: admitted
+dream-theater:
+  corner: prog-avant
+  status: admitted
+x-japan:
+  corner: prog-avant
+  status: admitted
+queensryche:
+  corner: prog-avant
+  status: admitted
+liquid-tension-experiment:
+  corner: prog-avant
+  status: admitted
+pain-of-salvation:
+  corner: prog-avant
+  status: admitted
+ayreon:
+  corner: prog-avant
+  status: admitted
+evergrey:
+  corner: prog-avant
+  status: admitted
+angra:
+  corner: prog-avant
+  status: admitted
+borknagar:
+  corner: prog-avant
+  status: admitted
+loudness:
+  corner: prog-avant
+  status: admitted
+myrath:
+  corner: prog-avant
+  status: admitted
+riverside:
+  corner: prog-avant
+  status: admitted
+fates-warning:
+  corner: prog-avant
+  status: admitted
+fantomas:
+  corner: prog-avant
+  status: admitted
+leprous:
+  corner: prog-avant
+  status: admitted
+serenity:
+  corner: prog-avant
+  status: admitted
+stream-of-passion:
+  corner: prog-avant
+  status: admitted
+avalanch:
+  corner: prog-avant
+  status: admitted
+obscura:
+  corner: prog-avant
+  status: admitted
+waltari:
+  corner: prog-avant
+  status: admitted
+pagan-s-mind:
+  corner: prog-avant
+  status: admitted
+royal-hunt:
+  corner: prog-avant
+  status: admitted
+andromeda:
+  corner: prog-avant
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+kekal:
+  corner: prog-avant
+  status: admitted
+sons-of-apollo:
+  corner: prog-avant
+  status: admitted
+ved-buens-ende:
+  corner: prog-avant
+  status: admitted
+crimson-glory:
+  corner: prog-avant
+  status: admitted
+ne-obliviscaris:
+  corner: prog-avant
+  status: admitted
+star-one:
+  corner: prog-avant
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+threshold:
+  corner: prog-avant
+  status: admitted
+sons-of-seasons:
+  corner: prog-avant
+  status: admitted
+suspyre:
+  corner: prog-avant
+  status: admitted
+dark-suns:
+  corner: prog-avant
+  status: admitted
+sebastien:
+  corner: prog-avant
+  status: rejected
+  reason: 'coverage: 0 clips, need 8'
+aeon-zen:
+  corner: prog-avant
+  status: admitted
+bad-salad:
+  corner: prog-avant
+  status: rejected
+  reason: 'coverage: 7 clips, need 8'
+darkwater:
+  corner: prog-avant
+  status: admitted
+acute-mind:
+  corner: prog-avant
+  status: admitted
+anthropia:
+  corner: prog-avant
+  status: admitted
+ankhara:
+  corner: prog-avant
+  status: admitted
+circus-maximus:
+  corner: prog-avant
+  status: admitted
+communic:
+  corner: prog-avant
+  status: admitted
+nocturnus:
+  corner: prog-avant
+  status: admitted
+seventh-wonder:
+  corner: prog-avant
+  status: admitted
+shadow-gallery:
+  corner: prog-avant
+  status: admitted
+pain:
+  corner: industrial
+  status: admitted
+samael:
+  corner: industrial
+  status: admitted
+white-zombie:
+  corner: industrial
+  status: admitted
+pitchshifter:
+  corner: industrial
+  status: admitted
+hanzel-und-gretyl:
+  corner: industrial
+  status: admitted
+sybreed:
+  corner: industrial
+  status: admitted
+meathook-seed:
+  corner: industrial
+  status: admitted
+seigmen:
+  corner: industrial
+  status: admitted
+fear-of-domination:
+  corner: industrial
+  status: admitted
+dawn-of-ashes:
+  corner: industrial
+  status: admitted
+ewigkeit:
+  corner: industrial
+  status: admitted
+a-dark-halo:
+  corner: industrial
+  status: admitted
+elyose:
+  corner: industrial
+  status: admitted
+neurotech:
+  corner: industrial
+  status: admitted
+lacuna-coil:
+  corner: groove-alt
+  status: admitted
+alice-in-chains:
+  corner: groove-alt
+  status: admitted
+pantera:
+  corner: groove-alt
+  status: admitted
+faith-no-more:
+  corner: groove-alt
+  status: admitted
+black-label-society:
+  corner: groove-alt
+  status: admitted
+damageplan:
+  corner: groove-alt
+  status: admitted
+helmet:
+  corner: groove-alt
+  status: admitted
+hellyeah:
+  corner: groove-alt
+  status: admitted
+fight:
+  corner: groove-alt
+  status: admitted
+life-of-agony:
+  corner: groove-alt
+  status: admitted
+nonpoint:
+  corner: groove-alt
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+dagoba:
+  corner: groove-alt
+  status: admitted
+pyogenesis:
+  corner: groove-alt
+  status: admitted
+a-n-i-m-a-l:
+  corner: groove-alt
+  status: admitted
+hamatom:
+  corner: groove-alt
+  status: admitted
+ankor:
+  corner: groove-alt
+  status: admitted
+cyhra:
+  corner: groove-alt
+  status: admitted
+hamlet:
+  corner: groove-alt
+  status: admitted
+coldseed:
+  corner: groove-alt
+  status: admitted
+confess:
+  corner: groove-alt
+  status: admitted
+adrenaline-mob:
+  corner: groove-alt
+  status: admitted
+lordi:
+  corner: heavy-speed
+  status: admitted
+motorhead:
+  corner: heavy-speed
+  status: admitted
+deep-purple:
+  corner: heavy-speed
+  status: admitted
+judas-priest:
+  corner: heavy-speed
+  status: admitted
+scorpions:
+  corner: heavy-speed
+  status: admitted
+motley-crue:
+  corner: heavy-speed
+  status: admitted
+accept:
+  corner: heavy-speed
+  status: admitted
+thin-lizzy:
+  corner: heavy-speed
+  status: admitted
+dio:
+  corner: heavy-speed
+  status: admitted
+twisted-sister:
+  corner: heavy-speed
+  status: admitted
+aria:
+  corner: heavy-speed
+  status: admitted
+skid-row:
+  corner: heavy-speed
+  status: admitted
+mercyful-fate:
+  corner: heavy-speed
+  status: admitted
+saxon:
+  corner: heavy-speed
+  status: admitted
+w-a-s-p:
+  corner: heavy-speed
+  status: admitted
+heaven-hell:
+  corner: heavy-speed
+  status: admitted
+volbeat:
+  corner: heavy-speed
+  status: admitted
+dokken:
+  corner: heavy-speed
+  status: admitted
+quiet-riot:
+  corner: heavy-speed
+  status: admitted
+diamond-head:
+  corner: heavy-speed
+  status: admitted
+girlschool:
+  corner: heavy-speed
+  status: admitted
+krokus:
+  corner: heavy-speed
+  status: admitted
+u-d-o:
+  corner: heavy-speed
+  status: admitted
+stryper:
+  corner: heavy-speed
+  status: admitted
+budgie:
+  corner: heavy-speed
+  status: admitted
+danzig:
+  corner: heavy-speed
+  status: admitted
+anvil:
+  corner: heavy-speed
+  status: admitted
+angel-witch:
+  corner: heavy-speed
+  status: admitted
+fozzy:
+  corner: heavy-speed
+  status: admitted
+alcatrazz:
+  corner: heavy-speed
+  status: admitted
+rata-blanca:
+  corner: heavy-speed
+  status: admitted
+raven:
+  corner: heavy-speed
+  status: admitted
+warlock:
+  corner: heavy-speed
+  status: admitted
+holocaust:
+  corner: heavy-speed
+  status: admitted
+tarot:
+  corner: heavy-speed
+  status: admitted
+tygers-of-pan-tang:
+  corner: heavy-speed
+  status: admitted
+high-power:
+  corner: heavy-speed
+  status: rejected
+  reason: 'coverage: 0 clips, need 8'
+voodoo-circle:
+  corner: heavy-speed
+  status: rejected
+  reason: 'metal archives: HTTPError HTTP 404 for https://www.metal-archives.com/band/discography/id/3540269067/tab/all'
+dawnbringer:
+  corner: heavy-speed
+  status: admitted
+cobrakill:
+  corner: heavy-speed
+  status: admitted
+ram:
+  corner: heavy-speed
+  status: admitted
+a-sound-of-thunder:
+  corner: heavy-speed
+  status: admitted
+agony:
+  corner: heavy-speed
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+striker:
+  corner: heavy-speed
+  status: admitted
+karakedi:
+  corner: heavy-speed
+  status: rejected
+  reason: 'coverage: 0 clips, need 8'
+christian-mistress:
+  corner: heavy-speed
+  status: admitted
+lorihen:
+  corner: heavy-speed
+  status: admitted
+idi-bihotz:
+  corner: heavy-speed
+  status: admitted
+kotiteollisuus:
+  corner: heavy-speed
+  status: rejected
+  reason: 'metal archives: HTTPError HTTP 404 for https://www.metal-archives.com/band/discography/id/109795/tab/all'
+spinal-tap:
+  corner: heavy-speed
+  status: admitted
+armored-saint:
+  corner: heavy-speed
+  status: admitted
+diablo-swing-orchestra:
+  corner: heavy-speed
+  status: admitted
+tnt:
+  corner: heavy-speed
+  status: admitted
+the-sword:
+  corner: heavy-speed
+  status: admitted
+chrome-division:
+  corner: heavy-speed
+  status: admitted
+lizzy-borden:
+  corner: heavy-speed
+  status: admitted
+impellitteri:
+  corner: heavy-speed
+  status: admitted
+king-diamond:
+  corner: heavy-speed
+  status: admitted
+racer-x:
+  corner: heavy-speed
+  status: admitted
+unisonic:
+  corner: heavy-speed
+  status: admitted
+viikate:
+  corner: heavy-speed
+  status: admitted
+wolfsbane:
+  corner: heavy-speed
+  status: admitted
+def-leppard:
+  corner: glam-hard
+  status: admitted
+rush:
+  corner: glam-hard
+  status: admitted
+bohse-onkelz:
+  corner: glam-hard
+  status: admitted
+samson:
+  corner: glam-hard
+  status: admitted
+the-poodles:
+  corner: glam-hard
+  status: rejected
+  reason: 'metal archives: HTTPError HTTP 404 for https://www.metal-archives.com/band/discography/id/67826/tab/all'
+trust:
+  corner: glam-hard
+  status: admitted
+baron-rojo:
+  corner: glam-hard
+  status: admitted
+audrey-horne:
+  corner: glam-hard
+  status: rejected
+  reason: 'metal archives: HTTPError HTTP 404 for https://www.metal-archives.com/band/discography/id/108870/tab/all'
+doro:
+  corner: glam-hard
+  status: admitted
+heavy-bones:
+  corner: glam-hard
+  status: rejected
+  reason: 'metal archives: HTTPError HTTP 404 for https://www.metal-archives.com/band/discography/id/15079/tab/all'
+the-night-flight-orchestra:
+  corner: glam-hard
+  status: admitted
+dr-sin:
+  corner: glam-hard
+  status: admitted
+black-rain:
+  corner: glam-hard
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+bloodgood:
+  corner: glam-hard
+  status: admitted
+bonfire:
+  corner: heavy-speed
+  status: admitted
+huntress:
+  corner: heavy-speed
+  status: admitted
+pink-cream-69:
+  corner: heavy-speed
+  status: admitted
+heathen:
+  corner: thrash
+  status: admitted
+bloodbound:
+  corner: heavy-speed
+  status: admitted
+vio-lence:
+  corner: thrash
+  status: rejected
+  reason: 'coverage: 0 clips, need 8'
+beast-in-black:
+  corner: power
+  status: admitted
+jag-panzer:
+  corner: thrash
+  status: admitted
+death-ss:
+  corner: heavy-speed
+  status: admitted
+demons-wizards:
+  corner: power
+  status: admitted
+satan:
+  corner: thrash
+  status: admitted
+to-die-for:
+  corner: symphonic-gothic
+  status: admitted
+enforcer:
+  corner: heavy-speed
+  status: admitted
+enthroned:
+  corner: black
+  status: admitted
+pallbearer:
+  corner: doom
+  status: admitted
+ildjarn:
+  corner: black
+  status: rejected
+  reason: 'itunes: no artist whose albums match the Metal Archives full-lengths'
+deafheaven:
+  corner: post-black
+  status: admitted
+bell-witch:
+  corner: doom
+  status: admitted

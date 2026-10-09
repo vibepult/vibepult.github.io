@@ -1,0 +1,127 @@
+{
+ "slug": "venom",
+ "name": "Venom",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 3222127,
+  "deezer": 15775,
+  "spotify": "5fwaejlOHVBAw1KhIPPaQe"
+ },
+ "metadata": {
+  "formed": 1979,
+  "split": null,
+  "country": "GB",
+  "status": "active",
+  "members": 2,
+  "past_members": 13,
+  "full_lengths": 16,
+  "genre": "NWOBHM/Heavy Metal, Speed/Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 100943,
+  "themes": "Satan, Hell, Death, Women, Metal",
+  "release_year": 1990
+ },
+ "partial": false,
+ "clips": [
+  "venom/1435991510-110",
+  "venom/1436231855-110",
+  "venom/1436233908-107",
+  "venom/1436231610-108",
+  "venom/1552673594-105",
+  "venom/1552677155-105",
+  "venom/1552675606-105",
+  "venom/1660489203-108",
+  "venom/1661270415-107",
+  "venom/1660434840-107",
+  "venom/1872651243-107",
+  "venom/1435991510-109"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 105.5126953125,
+   "iqr": 23.1396484375
+  },
+  "onset_rate": {
+   "median": 5.033333333333333,
+   "iqr": 1.709686130684239
+  },
+  "tempo_var": {
+   "median": 6.3782814439530675,
+   "iqr": 8.711946446404001
+  },
+  "low_onset_rate": {
+   "median": 6.266571933908785,
+   "iqr": 1.815631608674435
+  },
+  "lufs": {
+   "median": -12.6866377728653,
+   "iqr": 5.047253677268147
+  },
+  "rms_dbfs": {
+   "median": -12.431677899379451,
+   "iqr": 5.80544662016009
+  },
+  "crest": {
+   "median": 12.431678295135498,
+   "iqr": 5.8054468631744385
+  },
+  "centroid": {
+   "median": 2413.4818958204683,
+   "iqr": 395.0732759262951
+  },
+  "flatness": {
+   "median": 0.026842951774597168,
+   "iqr": 0.011646052356809378
+  },
+  "sub100_share": {
+   "median": 0.2332717329263687,
+   "iqr": 0.22272930294275284
+  },
+  "lowest_pitch": {
+   "median": 56.524658203125,
+   "iqr": 37.01019287109375
+  },
+  "harmonic_share": {
+   "median": 0.735436886548996,
+   "iqr": 0.05151887238025665
+  },
+  "clean_share": {
+   "median": 0.02634821435004936,
+   "iqr": 0.09532095901005415
+  },
+  "minor_share": {
+   "median": 0.015635845083132177,
+   "iqr": 0.08875584357123478
+  },
+  "chord_rate": {
+   "median": 1.9021973186302592,
+   "iqr": 0.4416407159377791
+  },
+  "repetitiveness": {
+   "median": 0.937302976846695,
+   "iqr": 0.057038843631744385
+  },
+  "vocal_share": {
+   "median": 0.10241435468196869,
+   "iqr": 0.05224243924021721
+  },
+  "vocal_voiced": {
+   "median": 0.16255380044132747,
+   "iqr": 0.2317109900468968
+  },
+  "song_length": {
+   "median": 205.587,
+   "iqr": 62.84974999999997
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.7,
+  "camp": 0.6
+ },
+ "sources_failed": []
+}

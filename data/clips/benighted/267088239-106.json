@@ -1,0 +1,32 @@
+{
+ "id": "benighted/267088239-106",
+ "band": "benighted",
+ "title": "Smile Then Bleed",
+ "source": "itunes",
+ "album": "Icon",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 3.2744084274838774,
+  "tempo_var": 18.67037786152882,
+  "low_onset_rate": 5.680096251757746,
+  "lufs": -8.365933958701941,
+  "rms_dbfs": -7.80586684706205,
+  "crest": 7.805866718292236,
+  "centroid": 2633.0144583150477,
+  "flatness": 0.03370998054742813,
+  "sub100_share": 0.43746304512023926,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.8360555171966553,
+  "clean_share": 0.02404965089216447,
+  "minor_share": 0.009861461442538355,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.9065127372741699,
+  "vocal_share": 0.06871681660413742,
+  "vocal_voiced": 0.10018214936247723,
+  "song_length": 218.72
+ }
+}

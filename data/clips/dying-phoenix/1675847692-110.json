@@ -1,0 +1,32 @@
+{
+ "id": "dying-phoenix/1675847692-110",
+ "band": "dying-phoenix",
+ "title": "Deep Down Below",
+ "source": "itunes",
+ "album": "Winter Is Coming",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 3.809005721766959,
+  "tempo_var": 23.963525187396797,
+  "low_onset_rate": 5.9473948988992875,
+  "lufs": -8.963570076745443,
+  "rms_dbfs": -7.992195580910005,
+  "crest": 7.9921956062316895,
+  "centroid": 2205.4688058747,
+  "flatness": 0.020401595160365105,
+  "sub100_share": 0.4315556585788727,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.7938821911811829,
+  "clean_share": 0.0791311093871218,
+  "minor_share": 0.08630435822301663,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.7766616940498352,
+  "vocal_share": 0.1127660796046257,
+  "vocal_voiced": 0.8496993987975952,
+  "song_length": 252.375
+ }
+}

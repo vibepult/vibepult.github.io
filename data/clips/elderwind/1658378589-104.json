@@ -1,0 +1,32 @@
+{
+ "id": "elderwind/1658378589-104",
+ "band": "elderwind",
+ "title": "With Autumn Magic",
+ "source": "itunes",
+ "album": "The Colder the Night",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.742181059981574,
+  "tempo_var": 2.778769878498611,
+  "low_onset_rate": 3.6085317364108036,
+  "lufs": -11.099777913306307,
+  "rms_dbfs": -11.222414521506241,
+  "crest": 11.22241497039795,
+  "centroid": 2954.833241662565,
+  "flatness": 0.059975042939186096,
+  "sub100_share": 0.11153716593980789,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7184619307518005,
+  "clean_share": 0.0,
+  "minor_share": -0.0816189344591508,
+  "chord_rate": 0.4009479707123115,
+  "repetitiveness": 0.7194053530693054,
+  "vocal_share": 0.15273737907409668,
+  "vocal_voiced": 0.12035398230088495,
+  "song_length": 453.76
+ }
+}

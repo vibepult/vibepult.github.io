@@ -1,0 +1,32 @@
+{
+ "id": "delain/1183562444-106",
+ "band": "delain",
+ "title": "Fire with Fire",
+ "source": "itunes",
+ "album": "Moonbathers",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.8,
+  "tempo_var": 0.0,
+  "low_onset_rate": 7.366666666666666,
+  "lufs": -8.916685145114261,
+  "rms_dbfs": -8.200525568257381,
+  "crest": 8.200525283813477,
+  "centroid": 2494.740763763924,
+  "flatness": 0.029556209221482277,
+  "sub100_share": 0.3358210325241089,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7383216023445129,
+  "clean_share": 0.0,
+  "minor_share": 0.12535826472238065,
+  "chord_rate": 1.2666666666666666,
+  "repetitiveness": 0.8663641810417175,
+  "vocal_share": 0.16275127232074738,
+  "vocal_voiced": 0.8632478632478633,
+  "song_length": 249.017
+ }
+}

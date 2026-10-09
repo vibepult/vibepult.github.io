@@ -1,0 +1,127 @@
+{
+ "slug": "mastodon",
+ "name": "Mastodon",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 65922937,
+  "deezer": 9267,
+  "spotify": "1Dvfqq39HxvCJ3GvfeIFuT"
+ },
+ "metadata": {
+  "formed": 2000,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 2,
+  "full_lengths": 9,
+  "genre": "Progressive/Sludge Metal (early); Progressive Metal/Rock (later)",
+  "vocals": "mixed",
+  "instrumental": false,
+  "fans": 209260,
+  "themes": "Life, Hardships, Heroism, Mythical beasts, Literature, Spirituality",
+  "release_year": 2007
+ },
+ "partial": false,
+ "clips": [
+  "mastodon/68289404-106",
+  "mastodon/65923490-105",
+  "mastodon/1217503029-106",
+  "mastodon/1218344932-104",
+  "mastodon/1217498224-107",
+  "mastodon/866402572-106",
+  "mastodon/1195230194-106",
+  "mastodon/1584124422-108",
+  "mastodon/6781040477-106",
+  "mastodon/68289404-105",
+  "mastodon/65923490-106",
+  "mastodon/1217503029-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 22.068957461124413
+  },
+  "onset_rate": {
+   "median": 5.7152765398250365,
+   "iqr": 1.6430173520068303
+  },
+  "tempo_var": {
+   "median": 10.100420375337533,
+   "iqr": 12.453487346322744
+  },
+  "low_onset_rate": {
+   "median": 6.295609931028638,
+   "iqr": 1.3144493804355362
+  },
+  "lufs": {
+   "median": -8.28318838049083,
+   "iqr": 0.44033559882150186
+  },
+  "rms_dbfs": {
+   "median": -7.959522148148446,
+   "iqr": 0.9529880010468519
+  },
+  "crest": {
+   "median": 7.959522247314453,
+   "iqr": 0.9529873132705688
+  },
+  "centroid": {
+   "median": 2566.2649414974585,
+   "iqr": 313.1620150870044
+  },
+  "flatness": {
+   "median": 0.030598804354667664,
+   "iqr": 0.01987582491710782
+  },
+  "sub100_share": {
+   "median": 0.27100132405757904,
+   "iqr": 0.1687873750925064
+  },
+  "lowest_pitch": {
+   "median": 64.599609375,
+   "iqr": 19.51446533203125
+  },
+  "harmonic_share": {
+   "median": 0.8050501048564911,
+   "iqr": 0.0808025598526001
+  },
+  "clean_share": {
+   "median": 0.0030935808197989174,
+   "iqr": 0.007540603248259861
+  },
+  "minor_share": {
+   "median": 0.04283402703092387,
+   "iqr": 0.0785343403937357
+  },
+  "chord_rate": {
+   "median": 2.0164149205221493,
+   "iqr": 0.8748698366326069
+  },
+  "repetitiveness": {
+   "median": 0.8552782237529755,
+   "iqr": 0.0862707793712616
+  },
+  "vocal_share": {
+   "median": 0.14516697824001312,
+   "iqr": 0.07596723735332489
+  },
+  "vocal_voiced": {
+   "median": 0.6957323842999292,
+   "iqr": 0.23629602297935293
+  },
+  "song_length": {
+   "median": 261.2935,
+   "iqr": 136.67925000000002
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

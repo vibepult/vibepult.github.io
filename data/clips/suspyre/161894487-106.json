@@ -1,0 +1,32 @@
+{
+ "id": "suspyre/161894487-106",
+ "band": "suspyre",
+ "title": "Last of the Survivors",
+ "source": "itunes",
+ "album": "The Silvery Image",
+ "year": 2005,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.9139825680065945,
+  "tempo_var": 25.46872648765722,
+  "low_onset_rate": 6.014219560684673,
+  "lufs": -8.04404850250873,
+  "rms_dbfs": -7.667820548472416,
+  "crest": 7.667820453643799,
+  "centroid": 2585.3375524565904,
+  "flatness": 0.032645709812641144,
+  "sub100_share": 0.29554039239883423,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.6973633170127869,
+  "clean_share": 0.0,
+  "minor_share": 0.06991425305296367,
+  "chord_rate": 1.871090529990787,
+  "repetitiveness": 0.8026736378669739,
+  "vocal_share": 0.2268679291009903,
+  "vocal_voiced": 0.6666666666666666,
+  "song_length": 297.44
+ }
+}

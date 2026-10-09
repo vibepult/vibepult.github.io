@@ -1,0 +1,127 @@
+{
+ "slug": "pyogenesis",
+ "name": "Pyogenesis",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 128690995,
+  "deezer": 3860,
+  "spotify": "6bGNUCfRbd1JkMqRsYTURk"
+ },
+ "metadata": {
+  "formed": 1991,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 4,
+  "past_members": 15,
+  "full_lengths": 8,
+  "genre": "Doom/Death Metal (early); Gothic Metal, Alternative Rock/Punk (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 2545,
+  "themes": "Sorrow, Death (early); Inner struggles, Love, Life, Angst (later)",
+  "release_year": 1997
+ },
+ "partial": false,
+ "clips": [
+  "pyogenesis/346275404-106",
+  "pyogenesis/346436374-108",
+  "pyogenesis/346436532-107",
+  "pyogenesis/302348043-107",
+  "pyogenesis/1486784997-104",
+  "pyogenesis/346275404-107",
+  "pyogenesis/346436374-107",
+  "pyogenesis/346436532-106",
+  "pyogenesis/302348043-108",
+  "pyogenesis/1486784997-105",
+  "pyogenesis/346275404-105",
+  "pyogenesis/346436374-109"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 23.957834928229673
+  },
+  "onset_rate": {
+   "median": 4.360309181496388,
+   "iqr": 0.7902479612127271
+  },
+  "tempo_var": {
+   "median": 13.73991841092817,
+   "iqr": 13.152076324767883
+  },
+  "low_onset_rate": {
+   "median": 4.310190685157348,
+   "iqr": 0.7207933799641175
+  },
+  "lufs": {
+   "median": -10.581746127843953,
+   "iqr": 2.433419372661394
+  },
+  "rms_dbfs": {
+   "median": -10.174851942521075,
+   "iqr": 2.163375127516831
+  },
+  "crest": {
+   "median": 10.174851894378662,
+   "iqr": 2.16337513923645
+  },
+  "centroid": {
+   "median": 2511.9547731637567,
+   "iqr": 332.5306951094981
+  },
+  "flatness": {
+   "median": 0.029233925975859165,
+   "iqr": 0.009323425125330687
+  },
+  "sub100_share": {
+   "median": 0.3164626955986023,
+   "iqr": 0.11334439739584923
+  },
+  "lowest_pitch": {
+   "median": 56.524658203125,
+   "iqr": 45.08514404296875
+  },
+  "harmonic_share": {
+   "median": 0.7683929800987244,
+   "iqr": 0.07108047604560852
+  },
+  "clean_share": {
+   "median": 0.10813696267776639,
+   "iqr": 0.13407396874139377
+  },
+  "minor_share": {
+   "median": 0.060496065901677915,
+   "iqr": 0.3350748800490103
+  },
+  "chord_rate": {
+   "median": 1.5349024186375944,
+   "iqr": 0.3683453648030517
+  },
+  "repetitiveness": {
+   "median": 0.77522411942482,
+   "iqr": 0.0385674387216568
+  },
+  "vocal_share": {
+   "median": 0.16476385295391083,
+   "iqr": 0.11861640401184559
+  },
+  "vocal_voiced": {
+   "median": 0.7944707143774767,
+   "iqr": 0.23148552344916362
+  },
+  "song_length": {
+   "median": 157.5,
+   "iqr": 89.60174999999998
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

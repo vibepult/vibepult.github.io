@@ -1,0 +1,32 @@
+{
+ "id": "acid-bath/351783461-105",
+ "band": "acid-bath",
+ "title": "Jezebel",
+ "source": "itunes",
+ "album": "When the Kite String Pops",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 3.133314386609907,
+  "tempo_var": 15.765361394067321,
+  "low_onset_rate": 1.0333270849458205,
+  "lufs": -8.722222463609441,
+  "rms_dbfs": -8.467164904489596,
+  "crest": 8.467164993286133,
+  "centroid": 2779.598823687771,
+  "flatness": 0.04330911487340927,
+  "sub100_share": 0.31524038314819336,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.657413125038147,
+  "clean_share": 0.019334880123743233,
+  "minor_share": 0.07314658921203582,
+  "chord_rate": 2.8333162006578947,
+  "repetitiveness": 0.9019407629966736,
+  "vocal_share": 0.03207384794950485,
+  "vocal_voiced": 0.16258351893095768,
+  "song_length": 293.0
+ }
+}

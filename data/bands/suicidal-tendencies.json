@@ -1,0 +1,127 @@
+{
+ "slug": "suicidal-tendencies",
+ "name": "Suicidal Tendencies",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 484609,
+  "deezer": 1776,
+  "spotify": "3WPKDlucMsXH6FC1XaclZC"
+ },
+ "metadata": {
+  "formed": 1981,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 34,
+  "full_lengths": 14,
+  "genre": "Thrash Metal/Crossover, Hardcore Punk",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 117968,
+  "themes": "Life, Politics, Society, Angst, Comedy, Humour, Street life, Struggles",
+  "release_year": 1992
+ },
+ "partial": false,
+ "clips": [
+  "suicidal-tendencies/498742982-108",
+  "suicidal-tendencies/6771506316-107",
+  "suicidal-tendencies/202731371-106",
+  "suicidal-tendencies/198155074-105",
+  "suicidal-tendencies/193867034-105",
+  "suicidal-tendencies/181482314-106",
+  "suicidal-tendencies/193148411-108",
+  "suicidal-tendencies/178830607-107",
+  "suicidal-tendencies/171699992-108",
+  "suicidal-tendencies/711845486-108",
+  "suicidal-tendencies/622738097-106",
+  "suicidal-tendencies/1131835640-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 112.55992542613637,
+   "iqr": 26.833683894230774
+  },
+  "onset_rate": {
+   "median": 4.603844766536108,
+   "iqr": 2.5559042490010935
+  },
+  "tempo_var": {
+   "median": 15.89349959532275,
+   "iqr": 11.339196593760146
+  },
+  "low_onset_rate": {
+   "median": 5.740048125878873,
+   "iqr": 1.2783356426511396
+  },
+  "lufs": {
+   "median": -10.872197053446044,
+   "iqr": 6.37368915317977
+  },
+  "rms_dbfs": {
+   "median": -10.885776006764175,
+   "iqr": 7.380536700611987
+  },
+  "crest": {
+   "median": 10.885776042938232,
+   "iqr": 7.335911750793457
+  },
+  "centroid": {
+   "median": 2549.2601192735924,
+   "iqr": 385.99906819117723
+  },
+  "flatness": {
+   "median": 0.030197634361684322,
+   "iqr": 0.01644811872392893
+  },
+  "sub100_share": {
+   "median": 0.1886458322405815,
+   "iqr": 0.12457337975502014
+  },
+  "lowest_pitch": {
+   "median": 64.599609375,
+   "iqr": 51.141357421875
+  },
+  "harmonic_share": {
+   "median": 0.6934368312358856,
+   "iqr": 0.04143798351287842
+  },
+  "clean_share": {
+   "median": 0.008120649651972157,
+   "iqr": 0.1140631928082046
+  },
+  "minor_share": {
+   "median": 0.09363027005130464,
+   "iqr": 0.124181443693166
+  },
+  "chord_rate": {
+   "median": 1.9546213572225186,
+   "iqr": 0.3796431178490145
+  },
+  "repetitiveness": {
+   "median": 0.8872987926006317,
+   "iqr": 0.09297028183937073
+  },
+  "vocal_share": {
+   "median": 0.1454482227563858,
+   "iqr": 0.1166243888437748
+  },
+  "vocal_voiced": {
+   "median": 0.7194148936170213,
+   "iqr": 0.3503488586103556
+  },
+  "song_length": {
+   "median": 254.42000000000002,
+   "iqr": 68.01674999999997
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

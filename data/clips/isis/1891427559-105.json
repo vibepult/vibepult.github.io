@@ -1,0 +1,32 @@
+{
+ "id": "isis/1891427559-105",
+ "band": "isis",
+ "title": "1,000 Shards",
+ "source": "itunes",
+ "album": "In the Absence of Truth",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.133314386609907,
+  "tempo_var": 12.552374912716825,
+  "low_onset_rate": 3.5666450996517027,
+  "lufs": -11.03897218712791,
+  "rms_dbfs": -9.941459306152593,
+  "crest": 9.941459655761719,
+  "centroid": 1597.6839591199748,
+  "flatness": 0.005580705590546131,
+  "sub100_share": 0.2400416135787964,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7217100858688354,
+  "clean_share": 0.6566125290023201,
+  "minor_share": -0.06924678835991482,
+  "chord_rate": 1.4333246662151702,
+  "repetitiveness": 0.8979880213737488,
+  "vocal_share": 1.9177596186636947e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 377.56
+ }
+}

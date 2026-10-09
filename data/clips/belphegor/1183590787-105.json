@@ -1,0 +1,32 @@
+{
+ "id": "belphegor/1183590787-105",
+ "band": "belphegor",
+ "title": "Paradise Regained",
+ "source": "itunes",
+ "album": "Lucifer Incestus",
+ "year": 2003,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 2.3666666666666667,
+  "tempo_var": 4.898531502479367,
+  "low_onset_rate": 7.666666666666667,
+  "lufs": -7.194707100293817,
+  "rms_dbfs": -6.515538725547812,
+  "crest": 6.515538692474365,
+  "centroid": 2401.208184448679,
+  "flatness": 0.030287060886621475,
+  "sub100_share": 0.4980022609233856,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8093084692955017,
+  "clean_share": 0.17647058823529413,
+  "minor_share": 0.09768050669101835,
+  "chord_rate": 1.6333333333333333,
+  "repetitiveness": 0.9206122159957886,
+  "vocal_share": 0.05789962410926819,
+  "vocal_voiced": 0.516245487364621,
+  "song_length": 250.093
+ }
+}

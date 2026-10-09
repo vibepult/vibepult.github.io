@@ -1,0 +1,32 @@
+{
+ "id": "ministry/302068445-105",
+ "band": "ministry",
+ "title": "Breathe",
+ "source": "itunes",
+ "album": "The Mind Is a Terrible Thing to Taste",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.5999782314241484,
+  "tempo_var": 0.9826855691037365,
+  "low_onset_rate": 0.9999939531733746,
+  "lufs": -37.42332084911579,
+  "rms_dbfs": -39.35310511486819,
+  "crest": 20.732994079589844,
+  "centroid": 3438.1384312381533,
+  "flatness": 0.13297316431999207,
+  "sub100_share": 0.0008536598179489374,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.24423684179782867,
+  "clean_share": 0.0,
+  "minor_share": 0.1523720738732136,
+  "chord_rate": 0.733328898993808,
+  "repetitiveness": 0.9581084847450256,
+  "vocal_share": 0.04018311947584152,
+  "vocal_voiced": 0.0,
+  "song_length": 340.067
+ }
+}

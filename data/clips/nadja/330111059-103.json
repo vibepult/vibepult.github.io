@@ -1,0 +1,32 @@
+{
+ "id": "nadja/330111059-103",
+ "band": "nadja",
+ "title": "Affective Fields",
+ "source": "itunes",
+ "album": "Desire In Uneasiness",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 71.77734375,
+  "onset_rate": 2.840048125878873,
+  "tempo_var": 35.10293407368303,
+  "low_onset_rate": 6.983177156572759,
+  "lufs": -14.538512964612853,
+  "rms_dbfs": -11.663798315023469,
+  "crest": 11.663798332214355,
+  "centroid": 750.595315105894,
+  "flatness": 0.0009601761703379452,
+  "sub100_share": 0.6659657955169678,
+  "lowest_pitch": 24.224853515625,
+  "harmonic_share": 0.8049067258834839,
+  "clean_share": 0.9472459270752521,
+  "minor_share": 0.18511364186879076,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.8378011584281921,
+  "vocal_share": 4.4856111344415694e-05,
+  "vocal_voiced": 0.0,
+  "song_length": 463.53
+ }
+}

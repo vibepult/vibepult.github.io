@@ -1,0 +1,32 @@
+{
+ "id": "twisted-sister/1788377759-107",
+ "band": "twisted-sister",
+ "title": "Don't Let Me Down",
+ "source": "itunes",
+ "album": "Still Hungry",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 1.4333246662151702,
+  "tempo_var": 12.570095102474006,
+  "low_onset_rate": 2.4999848829334366,
+  "lufs": -8.45027798273787,
+  "rms_dbfs": -7.302880813786677,
+  "crest": 7.302880764007568,
+  "centroid": 1940.7773049975524,
+  "flatness": 0.020453661680221558,
+  "sub100_share": 0.31591227650642395,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.8080392479896545,
+  "clean_share": 0.27532869296210366,
+  "minor_share": -7.799558179744093e-05,
+  "chord_rate": 1.133326480263158,
+  "repetitiveness": 0.8396281599998474,
+  "vocal_share": 0.033539872616529465,
+  "vocal_voiced": 0.9427312775330396,
+  "song_length": 285.907
+ }
+}

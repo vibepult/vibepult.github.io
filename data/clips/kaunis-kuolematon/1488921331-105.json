@@ -1,0 +1,32 @@
+{
+ "id": "kaunis-kuolematon/1488921331-105",
+ "band": "kaunis-kuolematon",
+ "title": "En ole mitään",
+ "source": "itunes",
+ "album": "Kylmä kaunis maailma",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 0.7016589487465451,
+  "tempo_var": 7.213154470632522,
+  "low_onset_rate": 1.6706165446346313,
+  "lufs": -9.788354561749701,
+  "rms_dbfs": -9.599343124687097,
+  "crest": 9.599343299865723,
+  "centroid": 2786.471972157169,
+  "flatness": 0.04963173717260361,
+  "sub100_share": 0.35222700238227844,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7858183979988098,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": -0.20812589203530496,
+  "chord_rate": 1.0023699267807789,
+  "repetitiveness": 0.7700479626655579,
+  "vocal_share": 4.3212378386670025e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 308.413
+ }
+}

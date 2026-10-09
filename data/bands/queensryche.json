@@ -1,0 +1,127 @@
+{
+ "slug": "queensryche",
+ "name": "Queensrÿche",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 165176,
+  "deezer": 6016,
+  "spotify": "2OgUPVlWYgGBGMefZgGvCO"
+ },
+ "metadata": {
+  "formed": 1982,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 5,
+  "full_lengths": 16,
+  "genre": "Progressive Heavy/Power Metal (early/later); Hard Rock (mid)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 105431,
+  "themes": "Fantasy, Technology (early); Love, Politics, Humanity (later)",
+  "release_year": 2001
+ },
+ "partial": false,
+ "clips": [
+  "queensryche/724508406-105",
+  "queensryche/724347774-108",
+  "queensryche/1440839313-107",
+  "queensryche/723572494-107",
+  "queensryche/724569741-109",
+  "queensryche/182640336-107",
+  "queensryche/1451850207-105",
+  "queensryche/135141613-110",
+  "queensryche/267536487-105",
+  "queensryche/306557954-106",
+  "queensryche/437990091-106",
+  "queensryche/1025978564-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 110.40660511363637,
+   "iqr": 45.09089543269231
+  },
+  "onset_rate": {
+   "median": 3.8332753851037777,
+   "iqr": 0.968957595888086
+  },
+  "tempo_var": {
+   "median": 11.775944207014707,
+   "iqr": 10.633820356842811
+  },
+  "low_onset_rate": {
+   "median": 4.243366023371964,
+   "iqr": 1.1946885180752709
+  },
+  "lufs": {
+   "median": -10.361088429975961,
+   "iqr": 2.5093005309915632
+  },
+  "rms_dbfs": {
+   "median": -9.731011114042886,
+   "iqr": 2.0645475663701376
+  },
+  "crest": {
+   "median": 9.731010913848877,
+   "iqr": 2.064547538757324
+  },
+  "centroid": {
+   "median": 2442.949451444512,
+   "iqr": 183.24420305631838
+  },
+  "flatness": {
+   "median": 0.028406781144440174,
+   "iqr": 0.009104689583182335
+  },
+  "sub100_share": {
+   "median": 0.1365271732211113,
+   "iqr": 0.10732209868729115
+  },
+  "lowest_pitch": {
+   "median": 65.9454345703125,
+   "iqr": 23.55194091796875
+  },
+  "harmonic_share": {
+   "median": 0.7274667918682098,
+   "iqr": 0.1118287742137909
+  },
+  "clean_share": {
+   "median": 0.06041002545784216,
+   "iqr": 0.14802088227052992
+  },
+  "minor_share": {
+   "median": 0.02228983348600999,
+   "iqr": 0.3269552325039823
+  },
+  "chord_rate": {
+   "median": 1.3849024507210805,
+   "iqr": 0.5057379194946485
+  },
+  "repetitiveness": {
+   "median": 0.8088595867156982,
+   "iqr": 0.08926054835319519
+  },
+  "vocal_share": {
+   "median": 0.2652738243341446,
+   "iqr": 0.050716105848550797
+  },
+  "vocal_voiced": {
+   "median": 0.7005684436933477,
+   "iqr": 0.148127173265153
+  },
+  "song_length": {
+   "median": 281.74649999999997,
+   "iqr": 56.79999999999998
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

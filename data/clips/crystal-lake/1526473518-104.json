@@ -1,0 +1,32 @@
+{
+ "id": "crystal-lake/1526473518-104",
+ "band": "crystal-lake",
+ "title": "The Passage (Rerecorded)",
+ "source": "itunes",
+ "album": "The Voyages (Rerecorded Version)",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.5106646705135045,
+  "tempo_var": 16.10877472273963,
+  "low_onset_rate": 7.584599112641226,
+  "lufs": -8.952331567391829,
+  "rms_dbfs": -7.898270021130232,
+  "crest": 7.8982696533203125,
+  "centroid": 2391.07157081184,
+  "flatness": 0.0304607804864645,
+  "sub100_share": 0.5645158290863037,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8493930697441101,
+  "clean_share": 0.009309542280837859,
+  "minor_share": 0.00588183742554671,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.8062719106674194,
+  "vocal_share": 0.10122093558311462,
+  "vocal_voiced": 0.13604060913705585,
+  "song_length": 316.364
+ }
+}

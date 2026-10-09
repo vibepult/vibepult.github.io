@@ -1,0 +1,32 @@
+{
+ "id": "pitchshifter/1632167991-109",
+ "band": "pitchshifter",
+ "title": "BloodSweatSaliva",
+ "source": "itunes",
+ "album": "Infotainment?",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.842418052659652,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 4.009479707123115,
+  "lufs": -9.084106738762966,
+  "rms_dbfs": -8.569980087479884,
+  "crest": 8.569979667663574,
+  "centroid": 2703.7422577935768,
+  "flatness": 0.0499216690659523,
+  "sub100_share": 0.39249926805496216,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7732284069061279,
+  "clean_share": 0.0969743987587277,
+  "minor_share": -0.1575134529166528,
+  "chord_rate": 2.338863162488484,
+  "repetitiveness": 0.932669997215271,
+  "vocal_share": 0.10945230722427368,
+  "vocal_voiced": 0.4176182707993475,
+  "song_length": 208.373
+ }
+}

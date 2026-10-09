@@ -1,0 +1,125 @@
+{
+ "slug": "artrosis",
+ "name": "Artrosis",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1511802550,
+  "deezer": 137082902,
+  "spotify": "5DHE6xWVz99NWtnKnH9A4h"
+ },
+ "metadata": {
+  "formed": 1995,
+  "split": null,
+  "country": "PL",
+  "status": "active",
+  "members": 5,
+  "past_members": 12,
+  "full_lengths": 10,
+  "genre": "Gothic Metal/Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 150,
+  "themes": "Darkness, Cosmic, Rituals",
+  "release_year": 2011
+ },
+ "partial": false,
+ "clips": [
+  "artrosis/510043877-106",
+  "artrosis/510043877-107",
+  "artrosis/510043877-105",
+  "artrosis/510043877-108",
+  "artrosis/510043877-104",
+  "artrosis/510043877-109",
+  "artrosis/510043877-103",
+  "artrosis/510043877-110",
+  "artrosis/510043877-102",
+  "artrosis/510043877-111"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.19921875,
+   "iqr": 21.113725142045453
+  },
+  "onset_rate": {
+   "median": 3.6252379018571497,
+   "iqr": 1.6622634619114587
+  },
+  "tempo_var": {
+   "median": 9.732342011045358,
+   "iqr": 9.456117515444348
+  },
+  "low_onset_rate": {
+   "median": 3.525000909179072,
+   "iqr": 2.088270680793289
+  },
+  "lufs": {
+   "median": -10.729926522554454,
+   "iqr": 1.5746423374332608
+  },
+  "rms_dbfs": {
+   "median": -9.360618431861187,
+   "iqr": 1.8852660293490953
+  },
+  "crest": {
+   "median": 9.360618114471436,
+   "iqr": 1.8852663040161133
+  },
+  "centroid": {
+   "median": 1969.326398708035,
+   "iqr": 349.1993933852086
+  },
+  "flatness": {
+   "median": 0.011961845681071281,
+   "iqr": 0.007331651751883328
+  },
+  "sub100_share": {
+   "median": 0.3843918591737747,
+   "iqr": 0.1777343600988388
+  },
+  "lowest_pitch": {
+   "median": 41.7205810546875,
+   "iqr": 21.533203125
+  },
+  "harmonic_share": {
+   "median": 0.7844651639461517,
+   "iqr": 0.09946772456169128
+  },
+  "clean_share": {
+   "median": 0.3324282389449185,
+   "iqr": 0.4111714507370054
+  },
+  "minor_share": {
+   "median": 0.06766614795345308,
+   "iqr": 0.1755891968514121
+  },
+  "chord_rate": {
+   "median": 0.9355452649953935,
+   "iqr": 0.8353082723173155
+  },
+  "repetitiveness": {
+   "median": 0.7539806365966797,
+   "iqr": 0.08955265581607819
+  },
+  "vocal_share": {
+   "median": 0.1403340995311737,
+   "iqr": 0.11217016726732254
+  },
+  "vocal_voiced": {
+   "median": 0.8238944918541505,
+   "iqr": 0.10655193295696508
+  },
+  "song_length": {
+   "median": 338.5665,
+   "iqr": 76.89999999999998
+  },
+  "vocal_presence": {
+   "median": 0.9,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.5,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

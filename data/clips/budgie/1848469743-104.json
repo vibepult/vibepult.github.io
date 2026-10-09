@@ -1,0 +1,32 @@
+{
+ "id": "budgie/1848469743-104",
+ "band": "budgie",
+ "title": "You're The Biggest Thing Since Powdered Milk",
+ "source": "itunes",
+ "album": "Never Turn Your Back On A Friend",
+ "year": 1973,
+ "itunes_year": 1973,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 4.899866670294686,
+  "tempo_var": 33.769118651378726,
+  "low_onset_rate": 4.79986939130908,
+  "lufs": -15.943893177036351,
+  "rms_dbfs": -14.920464794338969,
+  "crest": 14.920464515686035,
+  "centroid": 2257.1338326016194,
+  "flatness": 0.019934020936489105,
+  "sub100_share": 0.2865404784679413,
+  "lowest_pitch": 137.274169921875,
+  "harmonic_share": 0.6632465124130249,
+  "clean_share": 0.2536736272235112,
+  "minor_share": -0.24543260593647187,
+  "chord_rate": 1.9666131533835816,
+  "repetitiveness": 0.7674560546875,
+  "vocal_share": 0.041941795498132706,
+  "vocal_voiced": 0.8626865671641791,
+  "song_length": 526.72
+ }
+}

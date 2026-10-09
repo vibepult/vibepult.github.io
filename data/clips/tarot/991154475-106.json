@@ -1,0 +1,32 @@
+{
+ "id": "tarot/991154475-106",
+ "band": "tarot",
+ "title": "Spell of Iron",
+ "source": "itunes",
+ "album": "The Spell of Iron",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 4.343603016050041,
+  "tempo_var": 19.33483629089108,
+  "low_onset_rate": 4.5106646705135045,
+  "lufs": -9.248905232727127,
+  "rms_dbfs": -8.763140566508444,
+  "crest": 8.763140678405762,
+  "centroid": 2670.5384249405,
+  "flatness": 0.03718143329024315,
+  "sub100_share": 0.3032279908657074,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7591118812561035,
+  "clean_share": 0.02560124127230411,
+  "minor_share": 0.11981949891232208,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.8917446732521057,
+  "vocal_share": 0.19730135798454285,
+  "vocal_voiced": 0.734229576008273,
+  "song_length": 212.24
+ }
+}

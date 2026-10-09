@@ -1,0 +1,32 @@
+{
+ "id": "meathook-seed/567237242-110",
+ "band": "meathook-seed",
+ "title": "Visible Shallow Self",
+ "source": "itunes",
+ "album": "Embedded",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.579859259079669,
+  "tempo_var": 0.0,
+  "low_onset_rate": 7.88531009067546,
+  "lufs": -13.925704595171279,
+  "rms_dbfs": -13.634320560587728,
+  "crest": 13.634320259094238,
+  "centroid": 2986.231689856647,
+  "flatness": 0.061327073723077774,
+  "sub100_share": 0.3551643490791321,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7390982508659363,
+  "clean_share": 0.021722265321955005,
+  "minor_share": -0.3829143358122834,
+  "chord_rate": 2.338863162488484,
+  "repetitiveness": 0.9256594777107239,
+  "vocal_share": 0.027317294850945473,
+  "vocal_voiced": 0.20248447204968945,
+  "song_length": 147.333
+ }
+}

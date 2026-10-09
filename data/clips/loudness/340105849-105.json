@@ -1,0 +1,32 @@
+{
+ "id": "loudness/340105849-105",
+ "band": "loudness",
+ "title": "We Could Be Together",
+ "source": "itunes",
+ "album": "Thunder In the East",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.032857803614993,
+  "tempo_var": 1.5412580152648858,
+  "low_onset_rate": 4.332822433635943,
+  "lufs": -9.409926530253303,
+  "rms_dbfs": -9.6401717376267,
+  "crest": 9.640172004699707,
+  "centroid": 2713.621343853853,
+  "flatness": 0.040763843804597855,
+  "sub100_share": 0.17061203718185425,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7055988311767578,
+  "clean_share": 0.02165506573859242,
+  "minor_share": 0.0616880052611416,
+  "chord_rate": 1.699799570118716,
+  "repetitiveness": 0.7964029312133789,
+  "vocal_share": 0.20080828666687012,
+  "vocal_voiced": 0.8574660633484162,
+  "song_length": 292.773
+ }
+}

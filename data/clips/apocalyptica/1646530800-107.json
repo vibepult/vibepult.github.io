@@ -1,0 +1,32 @@
+{
+ "id": "apocalyptica/1646530800-107",
+ "band": "apocalyptica",
+ "title": "Beyond Time",
+ "source": "itunes",
+ "album": "Cult",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 1.9999879063467492,
+  "tempo_var": 12.122895193385366,
+  "low_onset_rate": 3.5666450996517027,
+  "lufs": -18.245648002173564,
+  "rms_dbfs": -19.77215128256384,
+  "crest": 17.571104049682617,
+  "centroid": 1132.5781967638231,
+  "flatness": 0.0016013744752854109,
+  "sub100_share": 0.19730496406555176,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.9602926969528198,
+  "clean_share": 0.9976798143851509,
+  "minor_share": -0.030844585837831007,
+  "chord_rate": 1.7666559839396285,
+  "repetitiveness": 0.7330753207206726,
+  "vocal_share": 0.015208777971565723,
+  "vocal_voiced": 0.3613636363636364,
+  "song_length": 237.707
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "coroner/1439100202-104",
+ "band": "coroner",
+ "title": "Caveat (To the Coming)",
+ "source": "itunes",
+ "album": "Grin",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 2.7063988023081027,
+  "tempo_var": 10.042454378304635,
+  "low_onset_rate": 4.343603016050041,
+  "lufs": -14.363274463109233,
+  "rms_dbfs": -13.813661827650098,
+  "crest": 13.8136625289917,
+  "centroid": 2411.788786854165,
+  "flatness": 0.023031188175082207,
+  "sub100_share": 0.21687352657318115,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7592400312423706,
+  "clean_share": 0.02404965089216447,
+  "minor_share": -0.021675890168961764,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.7886466979980469,
+  "vocal_share": 0.02593955770134926,
+  "vocal_voiced": 0.2777777777777778,
+  "song_length": 399.627
+ }
+}

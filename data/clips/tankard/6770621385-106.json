@@ -1,0 +1,32 @@
+{
+ "id": "tankard/6770621385-106",
+ "band": "tankard",
+ "title": "Mr.Superlover",
+ "source": "itunes",
+ "album": "Disco Destroyer",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.7982275776945515,
+  "tempo_var": 3.928902214452506,
+  "low_onset_rate": 4.563775930287543,
+  "lufs": -9.903560505318387,
+  "rms_dbfs": -10.134336216060223,
+  "crest": 10.1343355178833,
+  "centroid": 2650.207388994195,
+  "flatness": 0.03245239332318306,
+  "sub100_share": 0.24712690711021423,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.6663788557052612,
+  "clean_share": 0.010054137664346482,
+  "minor_share": -0.03599634798239526,
+  "chord_rate": 1.6656116533896141,
+  "repetitiveness": 0.8024969696998596,
+  "vocal_share": 0.32217520475387573,
+  "vocal_voiced": 0.4293193717277487,
+  "song_length": 233.36
+ }
+}

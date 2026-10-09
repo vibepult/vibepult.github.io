@@ -1,0 +1,127 @@
+{
+ "slug": "violet-cold",
+ "name": "Violet Cold",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 780116048,
+  "deezer": 5415281,
+  "spotify": "5eh1n96NC6g34nPqpIItIo"
+ },
+ "metadata": {
+  "formed": 2013,
+  "split": 2026,
+  "country": "AZ",
+  "status": "split-up",
+  "members": 1,
+  "past_members": 0,
+  "full_lengths": 12,
+  "genre": "Experimental/Post-Black Metal, Various",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 3018,
+  "themes": "Dreams, Space, Melancholy, Astral themes, Anti-fascism",
+  "release_year": 2018
+ },
+ "partial": false,
+ "clips": [
+  "violet-cold/1543748923-105",
+  "violet-cold/1712317562-103",
+  "violet-cold/1712171764-104",
+  "violet-cold/1712143694-104",
+  "violet-cold/1712109963-104",
+  "violet-cold/1543748923-104",
+  "violet-cold/1712317562-104",
+  "violet-cold/1712171764-103",
+  "violet-cold/1712143694-105",
+  "violet-cold/1712109963-105",
+  "violet-cold/1543748923-106",
+  "violet-cold/1712317562-102"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 112.34714673913044,
+   "iqr": 40.5029296875
+  },
+  "onset_rate": {
+   "median": 4.566597632688849,
+   "iqr": 2.064826766865549
+  },
+  "tempo_var": {
+   "median": 2.368946563878053,
+   "iqr": 7.315784192279012
+  },
+  "low_onset_rate": {
+   "median": 6.107500175874586,
+   "iqr": 2.0416358029357085
+  },
+  "lufs": {
+   "median": -9.061138962561287,
+   "iqr": 4.456365334045955
+  },
+  "rms_dbfs": {
+   "median": -8.79813279885813,
+   "iqr": 4.3536733111575225
+  },
+  "crest": {
+   "median": 8.79813289642334,
+   "iqr": 4.353673815727234
+  },
+  "centroid": {
+   "median": 2137.1773209470907,
+   "iqr": 807.4120618889253
+  },
+  "flatness": {
+   "median": 0.01920147519558668,
+   "iqr": 0.018678698339499533
+  },
+  "sub100_share": {
+   "median": 0.28063882887363434,
+   "iqr": 0.10207530483603477
+  },
+  "lowest_pitch": {
+   "median": 65.9454345703125,
+   "iqr": 38.35601806640625
+  },
+  "harmonic_share": {
+   "median": 0.803864449262619,
+   "iqr": 0.07113082706928253
+  },
+  "clean_share": {
+   "median": 0.0011636927851047323,
+   "iqr": 0.6484282797446655
+  },
+  "minor_share": {
+   "median": 0.05232209149150463,
+   "iqr": 0.28971610857030494
+  },
+  "chord_rate": {
+   "median": 0.9833184683527083,
+   "iqr": 0.34834505384178516
+  },
+  "repetitiveness": {
+   "median": 0.8028546869754791,
+   "iqr": 0.17271634936332703
+  },
+  "vocal_share": {
+   "median": 0.04694240354001522,
+   "iqr": 0.02499429788440466
+  },
+  "vocal_voiced": {
+   "median": 0.9176611969536352,
+   "iqr": 0.18663792423046588
+  },
+  "song_length": {
+   "median": 342.4585,
+   "iqr": 134.79299999999995
+  },
+  "vocal_presence": {
+   "median": 0.5,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

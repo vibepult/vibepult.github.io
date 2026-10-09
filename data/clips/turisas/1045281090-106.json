@@ -1,0 +1,32 @@
+{
+ "id": "turisas/1045281090-106",
+ "band": "turisas",
+ "title": "Five Hundred and One",
+ "source": "itunes",
+ "album": "The Varangian Way",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.664345637457151,
+  "tempo_var": 1.9223584499499382,
+  "low_onset_rate": 2.7982275776945515,
+  "lufs": -7.96469461923613,
+  "rms_dbfs": -7.326881098046663,
+  "crest": 7.32688045501709,
+  "centroid": 2617.0204575718976,
+  "flatness": 0.035272739827632904,
+  "sub100_share": 0.40827512741088867,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.7394382357597351,
+  "clean_share": 0.054137664346481054,
+  "minor_share": 0.1365085957717187,
+  "chord_rate": 1.5989871872540296,
+  "repetitiveness": 0.7991628646850586,
+  "vocal_share": 0.12624652683734894,
+  "vocal_voiced": 0.28437132784958874,
+  "song_length": 378.307
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "morbific/1583776698-105",
+ "band": "morbific",
+ "title": "Deformed in Phantasmal Fog",
+ "source": "itunes",
+ "album": "Ominous Seep of Putridity",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 7.283888134606992,
+  "tempo_var": 17.354500766987005,
+  "low_onset_rate": 6.816115502109295,
+  "lufs": -10.278350203365832,
+  "rms_dbfs": -8.74927090556141,
+  "crest": 8.74927043914795,
+  "centroid": 2599.928368235456,
+  "flatness": 0.01598476991057396,
+  "sub100_share": 0.5834172964096069,
+  "lowest_pitch": 107.666015625,
+  "harmonic_share": 0.948859691619873,
+  "clean_share": 0.07525213343677269,
+  "minor_share": 0.08760283566083976,
+  "chord_rate": 2.9736974494496438,
+  "repetitiveness": 0.9053500294685364,
+  "vocal_share": 0.001839097822085023,
+  "vocal_voiced": 0.3546099290780142,
+  "song_length": 166.109
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "heathen-foray/1436714930-106",
+ "band": "heathen-foray",
+ "title": "Endless Sorrow",
+ "source": "itunes",
+ "album": "Armored Bards",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 4.076304368908501,
+  "tempo_var": 2.3193894429650115,
+  "low_onset_rate": 4.276778354264656,
+  "lufs": -10.795421283515116,
+  "rms_dbfs": -10.551042523918284,
+  "crest": 10.551042556762695,
+  "centroid": 2894.464452480195,
+  "flatness": 0.047160565853118896,
+  "sub100_share": 0.395102858543396,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7218834161758423,
+  "clean_share": 0.015515903801396431,
+  "minor_share": -0.23138021896946998,
+  "chord_rate": 0.8687206032100082,
+  "repetitiveness": 0.8453028202056885,
+  "vocal_share": 0.1438954919576645,
+  "vocal_voiced": 0.2814538676607642,
+  "song_length": 279.0
+ }
+}

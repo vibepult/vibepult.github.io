@@ -1,0 +1,32 @@
+{
+ "id": "x-japan/290880497-108",
+ "band": "x-japan",
+ "title": "Love Replica",
+ "source": "itunes",
+ "album": "Jealousy",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.9974679681350738,
+  "tempo_var": 0.7804130403014575,
+  "low_onset_rate": 3.297911073711436,
+  "lufs": -12.714212909651376,
+  "rms_dbfs": -10.469427199520782,
+  "crest": 10.469427108764648,
+  "centroid": 1801.9183637554752,
+  "flatness": 0.008609447628259659,
+  "sub100_share": 0.6415318846702576,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.8391434550285339,
+  "clean_share": 0.605568445475638,
+  "minor_share": 0.13952084948266175,
+  "chord_rate": 0.3331223306779228,
+  "repetitiveness": 0.983096182346344,
+  "vocal_share": 0.03840896859765053,
+  "vocal_voiced": 0.8376550169109357,
+  "song_length": 275.147
+ }
+}

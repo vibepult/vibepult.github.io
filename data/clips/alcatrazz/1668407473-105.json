@@ -1,0 +1,32 @@
+{
+ "id": "alcatrazz/1668407473-105",
+ "band": "alcatrazz",
+ "title": "Gates of Destiny",
+ "source": "itunes",
+ "album": "Take No Prisoners",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.94265504533773,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.813745575328517,
+  "lufs": -6.905993114967947,
+  "rms_dbfs": -6.674174656026971,
+  "crest": 6.6741743087768555,
+  "centroid": 2265.058915251155,
+  "flatness": 0.024743156507611275,
+  "sub100_share": 0.09450122714042664,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7610399723052979,
+  "clean_share": 0.0721489526764934,
+  "minor_share": 0.03496830654865146,
+  "chord_rate": 0.9021329341027009,
+  "repetitiveness": 0.7313245534896851,
+  "vocal_share": 0.24974581599235535,
+  "vocal_voiced": 0.5531914893617021,
+  "song_length": 302.083
+ }
+}

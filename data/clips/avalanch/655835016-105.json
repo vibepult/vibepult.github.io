@@ -1,0 +1,32 @@
+{
+ "id": "avalanch/655835016-105",
+ "band": "avalanch",
+ "title": "Tu Fuego en Mí",
+ "source": "itunes",
+ "album": "El Hijo Pródigo",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 3.575119405518111,
+  "tempo_var": 14.275039613849463,
+  "low_onset_rate": 5.746920913543131,
+  "lufs": -9.173403900433692,
+  "rms_dbfs": -8.025494370329088,
+  "crest": 8.025494575500488,
+  "centroid": 2190.3961114148306,
+  "flatness": 0.017981335520744324,
+  "sub100_share": 0.4006628394126892,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8357629179954529,
+  "clean_share": 0.24903025601241272,
+  "minor_share": 0.23679295623257524,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.9422973394393921,
+  "vocal_share": 0.22275057435035706,
+  "vocal_voiced": 0.8650137741046832,
+  "song_length": 223.376
+ }
+}

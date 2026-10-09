@@ -1,0 +1,32 @@
+{
+ "id": "tool/1474185412-107",
+ "band": "tool",
+ "title": "Parabola",
+ "source": "itunes",
+ "album": "Lateralus",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "hand",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 2.63166641235559,
+  "tempo_var": 16.379673251842362,
+  "low_onset_rate": 4.96352272710105,
+  "lufs": -11.010161627035151,
+  "rms_dbfs": -10.763328550733428,
+  "crest": 10.763328552246094,
+  "centroid": 2655.498751178149,
+  "flatness": 0.03591964393854141,
+  "sub100_share": 0.3210052251815796,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.8339743614196777,
+  "clean_share": 0.013921113689095127,
+  "minor_share": 0.1914431161640212,
+  "chord_rate": 2.098670683270914,
+  "repetitiveness": 0.8771252036094666,
+  "vocal_share": 0.12992043793201447,
+  "vocal_voiced": 0.9113475177304965,
+  "song_length": 363.857
+ }
+}

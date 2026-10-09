@@ -1,0 +1,32 @@
+{
+ "id": "vreid/1750777894-105",
+ "band": "vreid",
+ "title": "Svart",
+ "source": "itunes",
+ "album": "I Krig",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.966591585917069,
+  "tempo_var": 24.035924484613076,
+  "low_onset_rate": 7.333222475850706,
+  "lufs": -7.98583844019609,
+  "rms_dbfs": -7.010504963780297,
+  "crest": 7.010504722595215,
+  "centroid": 2111.760784667168,
+  "flatness": 0.019199306145310402,
+  "sub100_share": 0.3525678217411041,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.7723495960235596,
+  "clean_share": 0.02088167053364269,
+  "minor_share": -0.03371902247791836,
+  "chord_rate": 1.2666475185560309,
+  "repetitiveness": 0.8625432848930359,
+  "vocal_share": 0.10965508222579956,
+  "vocal_voiced": 0.7212230215827338,
+  "song_length": 233.827
+ }
+}

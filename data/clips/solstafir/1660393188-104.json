@@ -1,0 +1,32 @@
+{
+ "id": "solstafir/1660393188-104",
+ "band": "solstafir",
+ "title": "She Destroys Again",
+ "source": "itunes",
+ "album": "Köld",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.9068727876642586,
+  "tempo_var": 3.903836692759498,
+  "low_onset_rate": 7.7850730979973815,
+  "lufs": -18.3156407822072,
+  "rms_dbfs": -18.78820759705554,
+  "crest": 15.454649925231934,
+  "centroid": 1614.0080667686434,
+  "flatness": 0.00272537162527442,
+  "sub100_share": 0.00020917529764119536,
+  "lowest_pitch": 172.265625,
+  "harmonic_share": 0.8593786358833313,
+  "clean_share": 0.8882854926299457,
+  "minor_share": 0.24088840396413702,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.8120307922363281,
+  "vocal_share": 0.052260998636484146,
+  "vocal_voiced": 0.9529411764705882,
+  "song_length": 432.547
+ }
+}

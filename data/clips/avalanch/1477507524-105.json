@@ -1,0 +1,32 @@
+{
+ "id": "avalanch/1477507524-105",
+ "band": "avalanch",
+ "title": "Pilgrim",
+ "source": "itunes",
+ "album": "The Secret",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.6753563981961888,
+  "tempo_var": 2.1904916579800195,
+  "low_onset_rate": 4.544077001406197,
+  "lufs": -8.875596401769577,
+  "rms_dbfs": -8.853492197063396,
+  "crest": 8.853492736816406,
+  "centroid": 2606.5714860393814,
+  "flatness": 0.0346924364566803,
+  "sub100_share": 0.1625809222459793,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.7031652927398682,
+  "clean_share": 0.02404965089216447,
+  "minor_share": 0.11746979712344385,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.8509812355041504,
+  "vocal_share": 0.28576019406318665,
+  "vocal_voiced": 0.7811607992388202,
+  "song_length": 235.133
+ }
+}

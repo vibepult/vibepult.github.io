@@ -1,0 +1,32 @@
+{
+ "id": "the-night-flight-orchestra/1458861595-105",
+ "band": "the-night-flight-orchestra",
+ "title": "Jennie",
+ "source": "itunes",
+ "album": "Amber Galactic",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 3.1407591039131066,
+  "tempo_var": 35.18894000341728,
+  "low_onset_rate": 2.773223464093488,
+  "lufs": -13.202741326745683,
+  "rms_dbfs": -12.762780651925992,
+  "crest": 12.76278018951416,
+  "centroid": 1908.3577934508053,
+  "flatness": 0.01335415244102478,
+  "sub100_share": 0.1592310070991516,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.7605363130569458,
+  "clean_share": 0.5446082234290147,
+  "minor_share": 0.05013884854611228,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.7280046343803406,
+  "vocal_share": 0.06827450543642044,
+  "vocal_voiced": 0.815,
+  "song_length": 272.28
+ }
+}

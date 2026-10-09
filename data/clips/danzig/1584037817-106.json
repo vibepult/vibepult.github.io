@@ -1,0 +1,32 @@
+{
+ "id": "danzig/1584037817-106",
+ "band": "danzig",
+ "title": "Serpentia",
+ "source": "itunes",
+ "album": "Danzig 5: Blackacidevil",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.2,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.7,
+  "lufs": -10.352768193438209,
+  "rms_dbfs": -10.355222002434264,
+  "crest": 10.355222702026367,
+  "centroid": 2539.576814273111,
+  "flatness": 0.037322334945201874,
+  "sub100_share": 0.3330092430114746,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.5927072763442993,
+  "clean_share": 0.013157894736842105,
+  "minor_share": -0.07806944114918396,
+  "chord_rate": 2.4,
+  "repetitiveness": 0.9591684341430664,
+  "vocal_share": 0.18347302079200745,
+  "vocal_voiced": 0.5741127348643006,
+  "song_length": 400.8
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "theatre-of-tragedy/1222122974-105",
+ "band": "theatre-of-tragedy",
+ "title": "Siren",
+ "source": "itunes",
+ "album": "Aégis",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.266652960526316,
+  "tempo_var": 2.697515118449642,
+  "low_onset_rate": 0.3333313177244582,
+  "lufs": -13.953642802966494,
+  "rms_dbfs": -11.26016168807745,
+  "crest": 11.260161399841309,
+  "centroid": 1611.5292043840802,
+  "flatness": 0.009670858271420002,
+  "sub100_share": 0.8274977207183838,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.9798575639724731,
+  "clean_share": 0.974477958236659,
+  "minor_share": 0.08303339164298473,
+  "chord_rate": 0.8333282943111455,
+  "repetitiveness": 0.48197442293167114,
+  "vocal_share": 1.8820021523424657e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 450.96
+ }
+}

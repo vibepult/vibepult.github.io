@@ -1,0 +1,32 @@
+{
+ "id": "morbific/1583776698-104",
+ "band": "morbific",
+ "title": "Cadaveric Maggot Farm",
+ "source": "itunes",
+ "album": "Ominous Seep of Putridity",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.84478797944043,
+  "tempo_var": 9.567155751260236,
+  "low_onset_rate": 7.250475803714299,
+  "lufs": -10.08398454511494,
+  "rms_dbfs": -8.463319167255882,
+  "crest": 8.463319778442383,
+  "centroid": 2568.7505687088346,
+  "flatness": 0.019326413050293922,
+  "sub100_share": 0.6038604974746704,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.9531166553497314,
+  "clean_share": 0.23118696664080682,
+  "minor_share": 0.11661532570811561,
+  "chord_rate": 2.7398111332007953,
+  "repetitiveness": 0.9080780148506165,
+  "vocal_share": 0.006740857847034931,
+  "vocal_voiced": 0.19881305637982197,
+  "song_length": 199.5
+ }
+}

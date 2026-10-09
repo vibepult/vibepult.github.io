@@ -1,0 +1,32 @@
+{
+ "id": "arcturus/1556117661-103",
+ "band": "arcturus",
+ "title": "Whence & Whither Goest the Wind",
+ "source": "itunes",
+ "album": "Aspera Hiems Symfonia",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 5.9139825680065945,
+  "tempo_var": 30.098983168471964,
+  "low_onset_rate": 7.651423774426611,
+  "lufs": -15.976008406458641,
+  "rms_dbfs": -15.622372071717665,
+  "crest": 15.622371673583984,
+  "centroid": 2887.4047138167152,
+  "flatness": 0.04636231064796448,
+  "sub100_share": 0.3633103370666504,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.835769772529602,
+  "clean_share": 0.0,
+  "minor_share": 0.11109245235752613,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.7900379300117493,
+  "vocal_share": 0.05120433121919632,
+  "vocal_voiced": 0.0,
+  "song_length": 315.133
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "darkthrone/674002052-103",
+ "band": "darkthrone",
+ "title": "Sin Origin",
+ "source": "itunes",
+ "album": "Plagueweilder",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.744550986762353,
+  "tempo_var": 3.3670370149795947,
+  "low_onset_rate": 5.780333244435824,
+  "lufs": -9.756149346247357,
+  "rms_dbfs": -11.334308388209575,
+  "crest": 11.334308624267578,
+  "centroid": 3050.3283543472166,
+  "flatness": 0.05481249839067459,
+  "sub100_share": 0.09933429211378098,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.6146134734153748,
+  "clean_share": 0.0,
+  "minor_share": -0.2555683559054308,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.8759845495223999,
+  "vocal_share": 0.055904321372509,
+  "vocal_voiced": 0.28205128205128205,
+  "song_length": 404.773
+ }
+}

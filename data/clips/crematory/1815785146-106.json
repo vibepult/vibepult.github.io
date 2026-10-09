@@ -1,0 +1,32 @@
+{
+ "id": "crematory/1815785146-106",
+ "band": "crematory",
+ "title": "Crematory",
+ "source": "itunes",
+ "album": "Awake",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.6,
+  "tempo_var": 26.894694376721652,
+  "low_onset_rate": 6.233333333333333,
+  "lufs": -17.585807011751804,
+  "rms_dbfs": -17.08680577339106,
+  "crest": 13.443528175354004,
+  "centroid": 2972.982925718052,
+  "flatness": 0.04881180450320244,
+  "sub100_share": 0.28683844208717346,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.7003594040870667,
+  "clean_share": 0.039473684210526314,
+  "minor_share": -0.08512276084610226,
+  "chord_rate": 1.5,
+  "repetitiveness": 0.8617002367973328,
+  "vocal_share": 0.14045560359954834,
+  "vocal_voiced": 0.01804123711340206,
+  "song_length": 297.4
+ }
+}

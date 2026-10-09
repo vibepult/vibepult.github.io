@@ -1,0 +1,32 @@
+{
+ "id": "wolfsbane/1626121019-107",
+ "band": "wolfsbane",
+ "title": "Good Time",
+ "source": "itunes",
+ "album": "Genius (Wolfgenius)",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 6.147868884255443,
+  "tempo_var": 10.81848022620119,
+  "low_onset_rate": 6.047631891577365,
+  "lufs": -6.3760473647119165,
+  "rms_dbfs": -5.98509387247778,
+  "crest": 5.985093593597412,
+  "centroid": 2365.993382244272,
+  "flatness": 0.028328953310847282,
+  "sub100_share": 0.2509927749633789,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7684972286224365,
+  "clean_share": 0.005430566330488751,
+  "minor_share": 0.041635614321748504,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.8849992156028748,
+  "vocal_share": 0.2571799159049988,
+  "vocal_voiced": 0.7951807228915663,
+  "song_length": 141.298
+ }
+}

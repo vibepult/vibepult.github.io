@@ -1,0 +1,32 @@
+{
+ "id": "stream-of-passion/1184111666-110",
+ "band": "stream-of-passion",
+ "title": "Closer",
+ "source": "itunes",
+ "album": "Darker Days",
+ "year": 2011,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.6,
+  "tempo_var": 4.629064826397539,
+  "low_onset_rate": 2.8,
+  "lufs": -11.521929528146986,
+  "rms_dbfs": -10.614172774932316,
+  "crest": 10.614173889160156,
+  "centroid": 2054.7458558519215,
+  "flatness": 0.012855780310928822,
+  "sub100_share": 0.38357794284820557,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8780999183654785,
+  "clean_share": 0.5681114551083591,
+  "minor_share": 0.06413326276741516,
+  "chord_rate": 0.9666666666666667,
+  "repetitiveness": 0.7973087430000305,
+  "vocal_share": 0.2943669557571411,
+  "vocal_voiced": 0.9033856317093312,
+  "song_length": 277.16
+ }
+}

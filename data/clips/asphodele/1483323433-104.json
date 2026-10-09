@@ -1,0 +1,32 @@
+{
+ "id": "asphodele/1483323433-104",
+ "band": "asphodele",
+ "title": "Gueules crasses",
+ "source": "itunes",
+ "album": "Jours Pâles",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.544077001406197,
+  "tempo_var": 20.14768721836416,
+  "low_onset_rate": 5.880570237113902,
+  "lufs": -8.625458800946392,
+  "rms_dbfs": -7.98395942597807,
+  "crest": 7.983960151672363,
+  "centroid": 2309.547401163779,
+  "flatness": 0.02842182293534279,
+  "sub100_share": 0.29947522282600403,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.728097140789032,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.17729440250905665,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.8816397190093994,
+  "vocal_share": 0.09238428622484207,
+  "vocal_voiced": 0.7832647462277091,
+  "song_length": 288.306
+ }
+}

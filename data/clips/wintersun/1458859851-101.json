@@ -1,0 +1,32 @@
+{
+ "id": "wintersun/1458859851-101",
+ "band": "wintersun",
+ "title": "Awaken from the Dark Slumber (Spring)",
+ "source": "itunes",
+ "album": "The Forest Seasons",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.8758303835523447,
+  "tempo_var": 6.049672255665739,
+  "low_onset_rate": 3.575119405518111,
+  "lufs": -26.05057690669622,
+  "rms_dbfs": -25.83455850811241,
+  "crest": 14.858717918395996,
+  "centroid": 650.7043537416102,
+  "flatness": 7.96333551988937e-05,
+  "sub100_share": 0.16406667232513428,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.9727355241775513,
+  "clean_share": 0.9968968192397207,
+  "minor_share": 0.22424403910425372,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.7129404544830322,
+  "vocal_share": 0.016596075147390366,
+  "vocal_voiced": 0.9506172839506173,
+  "song_length": 880.931
+ }
+}

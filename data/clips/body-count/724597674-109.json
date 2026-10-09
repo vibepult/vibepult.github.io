@@ -1,0 +1,32 @@
+{
+ "id": "body-count/724597674-109",
+ "band": "body-count",
+ "title": "I Used to Love Her",
+ "source": "itunes",
+ "album": "Violent Demise the Last Days",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 4.544077001406197,
+  "tempo_var": 18.108208735714147,
+  "low_onset_rate": 5.078674295689279,
+  "lufs": -9.54055548553905,
+  "rms_dbfs": -9.679892859368534,
+  "crest": 9.679892539978027,
+  "centroid": 2586.437305344268,
+  "flatness": 0.036083538085222244,
+  "sub100_share": 0.2392682582139969,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.600405216217041,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": 0.1163773388012368,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.8920915722846985,
+  "vocal_share": 0.1825016736984253,
+  "vocal_voiced": 0.5380434782608695,
+  "song_length": 195.907
+ }
+}

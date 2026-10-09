@@ -1,0 +1,32 @@
+{
+ "id": "dreamshade/1185181234-105",
+ "band": "dreamshade",
+ "title": "Dreamers Don't Sleep",
+ "source": "itunes",
+ "album": "Vibrant",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.045261964796587,
+  "tempo_var": 16.292282988553456,
+  "low_onset_rate": 5.412797604616205,
+  "lufs": -7.168326069832482,
+  "rms_dbfs": -6.582076782500012,
+  "crest": 6.582076549530029,
+  "centroid": 2488.8439906264143,
+  "flatness": 0.03435366600751877,
+  "sub100_share": 0.44377562403678894,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7117457985877991,
+  "clean_share": 0.05663304887509697,
+  "minor_share": -0.2769288667069202,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.9136234521865845,
+  "vocal_share": 0.19671043753623962,
+  "vocal_voiced": 0.38756388415672915,
+  "song_length": 216.178
+ }
+}

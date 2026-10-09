@@ -1,0 +1,32 @@
+{
+ "id": "threshold/1794134646-106",
+ "band": "threshold",
+ "title": "Babylon Rising",
+ "source": "itunes",
+ "album": "Psychedelicatessen (2024 Remix)",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.199980650154799,
+  "tempo_var": 19.01131099414174,
+  "low_onset_rate": 2.933315595975232,
+  "lufs": -12.572289500869946,
+  "rms_dbfs": -11.489190907626224,
+  "crest": 11.489191055297852,
+  "centroid": 2379.998332705959,
+  "flatness": 0.021971598267555237,
+  "sub100_share": 0.3776434361934662,
+  "lowest_pitch": 107.666015625,
+  "harmonic_share": 0.8025671243667603,
+  "clean_share": 0.39211136890951276,
+  "minor_share": 0.00013339571201664846,
+  "chord_rate": 2.199986696981424,
+  "repetitiveness": 0.8530685901641846,
+  "vocal_share": 0.03440195322036743,
+  "vocal_voiced": 0.8735632183908046,
+  "song_length": 283.293
+ }
+}

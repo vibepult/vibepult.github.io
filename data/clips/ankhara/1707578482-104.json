@@ -1,0 +1,32 @@
+{
+ "id": "ankhara/1707578482-104",
+ "band": "ankhara",
+ "title": "Levantar Mi Alma",
+ "source": "itunes",
+ "album": "Premonición",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.299839762970129,
+  "tempo_var": 6.8044920986184945,
+  "low_onset_rate": 5.466501390736486,
+  "lufs": -8.6212850170019,
+  "rms_dbfs": -7.540272755279322,
+  "crest": 7.540273189544678,
+  "centroid": 2420.809029851897,
+  "flatness": 0.025006335228681564,
+  "sub100_share": 0.3380798101425171,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.5972629189491272,
+  "clean_share": 0.06264501160092807,
+  "minor_share": 0.2538474357055634,
+  "chord_rate": 1.166631394364494,
+  "repetitiveness": 0.8346313238143921,
+  "vocal_share": 0.1726873815059662,
+  "vocal_voiced": 0.7884436160298229,
+  "song_length": 274.144
+ }
+}

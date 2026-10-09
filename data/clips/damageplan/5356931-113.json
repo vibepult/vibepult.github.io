@@ -1,0 +1,32 @@
+{
+ "id": "damageplan/5356931-113",
+ "band": "damageplan",
+ "title": "Moment of Truth",
+ "source": "itunes",
+ "album": "New Found Power",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.2330362703072004,
+  "tempo_var": 4.071633190934726,
+  "low_onset_rate": 4.666045937955344,
+  "lufs": -9.12217683814941,
+  "rms_dbfs": -8.830451668982985,
+  "crest": 8.830451965332031,
+  "centroid": 2537.7665597062487,
+  "flatness": 0.022928312420845032,
+  "sub100_share": 0.24272771179676056,
+  "lowest_pitch": 88.824462890625,
+  "harmonic_share": 0.8693353533744812,
+  "clean_share": 0.05955143078112916,
+  "minor_share": -0.1295070899991969,
+  "chord_rate": 1.6664449778411943,
+  "repetitiveness": 0.8214123249053955,
+  "vocal_share": 0.0016943387454375625,
+  "vocal_voiced": 0.0,
+  "song_length": 410.533
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "stryper/1677443951-106",
+ "band": "stryper",
+ "title": "Love You Like I Do",
+ "source": "itunes",
+ "album": "Fallen",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.7087687290888813,
+  "tempo_var": 0.5998260650678919,
+  "low_onset_rate": 4.610901663191583,
+  "lufs": -7.394642669370504,
+  "rms_dbfs": -7.232167489363581,
+  "crest": 7.232167720794678,
+  "centroid": 3011.6320166744176,
+  "flatness": 0.042703475803136826,
+  "sub100_share": 0.19837705790996552,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7133782505989075,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": -0.01813915449561232,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.7808019518852234,
+  "vocal_share": 0.3283334970474243,
+  "vocal_voiced": 0.8095611285266457,
+  "song_length": 233.365
+ }
+}

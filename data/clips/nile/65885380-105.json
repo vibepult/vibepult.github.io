@@ -1,0 +1,32 @@
+{
+ "id": "nile/65885380-105",
+ "band": "nile",
+ "title": "The Burning Pits of the Duat",
+ "source": "itunes",
+ "album": "Annihilation of the Wicked",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 6.866562863751115,
+  "tempo_var": 1.8050430097014813,
+  "low_onset_rate": 8.466538676663996,
+  "lufs": -8.278582384703164,
+  "rms_dbfs": -8.220908413989362,
+  "crest": 8.220908164978027,
+  "centroid": 2908.250427348616,
+  "flatness": 0.041833098977804184,
+  "sub100_share": 0.3037903904914856,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7950596809387207,
+  "clean_share": 0.0,
+  "minor_share": 0.19411026998787018,
+  "chord_rate": 2.499962207676377,
+  "repetitiveness": 0.9017096757888794,
+  "vocal_share": 0.08911550045013428,
+  "vocal_voiced": 0.24549549549549549,
+  "song_length": 232.68
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "svartby/1243422705-105",
+ "band": "svartby",
+ "title": "Mushroom Rings",
+ "source": "itunes",
+ "album": "Elemental Tales",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 6.030179225983083,
+  "tempo_var": 17.164873869082907,
+  "low_onset_rate": 6.663181465174678,
+  "lufs": -8.427278841921915,
+  "rms_dbfs": -7.431202221627673,
+  "crest": 7.431202411651611,
+  "centroid": 2204.8479481281397,
+  "flatness": 0.02329930104315281,
+  "sub100_share": 0.4339011013507843,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8145084381103516,
+  "clean_share": 0.1453982985305491,
+  "minor_share": -0.07759489974457867,
+  "chord_rate": 1.4992158296643026,
+  "repetitiveness": 0.9360529780387878,
+  "vocal_share": 0.00015134022396523505,
+  "vocal_voiced": 0.0,
+  "song_length": 192.04
+ }
+}

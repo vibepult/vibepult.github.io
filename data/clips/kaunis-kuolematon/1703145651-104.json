@@ -1,0 +1,32 @@
+{
+ "id": "kaunis-kuolematon/1703145651-104",
+ "band": "kaunis-kuolematon",
+ "title": "Mielenvalta",
+ "source": "itunes",
+ "album": "Mielenvalta",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.933189824584741,
+  "tempo_var": 3.366018757266266,
+  "low_onset_rate": 6.299847622733237,
+  "lufs": -8.644545544454065,
+  "rms_dbfs": -7.4038896907651655,
+  "crest": 7.403889179229736,
+  "centroid": 2281.467166236806,
+  "flatness": 0.02221231907606125,
+  "sub100_share": 0.5188815593719482,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.860008716583252,
+  "clean_share": 0.002320185614849188,
+  "minor_share": 0.09060865130008633,
+  "chord_rate": 1.5999613010116158,
+  "repetitiveness": 0.8111802935600281,
+  "vocal_share": 0.07444707304239273,
+  "vocal_voiced": 0.8848413631022327,
+  "song_length": 362.917
+ }
+}

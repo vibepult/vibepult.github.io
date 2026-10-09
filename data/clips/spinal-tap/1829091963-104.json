@@ -1,0 +1,32 @@
+{
+ "id": "spinal-tap/1829091963-104",
+ "band": "spinal-tap",
+ "title": "Brighton Rock",
+ "source": "itunes",
+ "album": "The End Continues",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.8330204337060922,
+  "tempo_var": 1.5206176148611381,
+  "low_onset_rate": 4.166326558376187,
+  "lufs": -9.936572887053606,
+  "rms_dbfs": -9.78820099846129,
+  "crest": 9.788200378417969,
+  "centroid": 2173.9215782788738,
+  "flatness": 0.01995362900197506,
+  "sub100_share": 0.16116447746753693,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.6644584536552429,
+  "clean_share": 0.20185614849187936,
+  "minor_share": 0.07583580134417323,
+  "chord_rate": 1.6665306233504749,
+  "repetitiveness": 0.8355814814567566,
+  "vocal_share": 0.29884257912635803,
+  "vocal_voiced": 0.7472150814053128,
+  "song_length": 183.204
+ }
+}

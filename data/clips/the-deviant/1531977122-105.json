@@ -1,0 +1,32 @@
+{
+ "id": "the-deviant/1531977122-105",
+ "band": "the-deviant",
+ "title": "Night of the Mortars",
+ "source": "itunes",
+ "album": "Lightning Bolts",
+ "year": 2017,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 2.840048125878873,
+  "tempo_var": 5.622941129306775,
+  "low_onset_rate": 5.178911288367357,
+  "lufs": -11.822053058602096,
+  "rms_dbfs": -11.373356204003812,
+  "crest": 11.373356819152832,
+  "centroid": 2224.542242884298,
+  "flatness": 0.02082913927733898,
+  "sub100_share": 0.2873092293739319,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7899184823036194,
+  "clean_share": 0.4072924747866563,
+  "minor_share": 0.10732673811378599,
+  "chord_rate": 2.572749478737332,
+  "repetitiveness": 0.8663420081138611,
+  "vocal_share": 0.1358405500650406,
+  "vocal_voiced": 0.16666666666666666,
+  "song_length": 221.459
+ }
+}

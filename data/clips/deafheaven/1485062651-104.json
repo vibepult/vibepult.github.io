@@ -1,0 +1,32 @@
+{
+ "id": "deafheaven/1485062651-104",
+ "band": "deafheaven",
+ "title": "Come Back",
+ "source": "itunes",
+ "album": "New Bermuda",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 2.4333186193885448,
+  "tempo_var": 12.810803102474003,
+  "low_onset_rate": 0.2999981859520124,
+  "lufs": -26.729481329965896,
+  "rms_dbfs": -25.93832449348617,
+  "crest": 13.829000473022461,
+  "centroid": 585.2592370208318,
+  "flatness": 0.0008222685428336263,
+  "sub100_share": 0.001622117473743856,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.9951767325401306,
+  "clean_share": 0.9984532095901005,
+  "minor_share": 0.2514397685419395,
+  "chord_rate": 0.566663240131579,
+  "repetitiveness": 0.6612639427185059,
+  "vocal_share": 1.3477967968356097e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 556.945
+ }
+}

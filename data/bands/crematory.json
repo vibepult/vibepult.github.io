@@ -1,0 +1,127 @@
+{
+ "slug": "crematory",
+ "name": "Crematory",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 16252318,
+  "deezer": 7094,
+  "spotify": "4q2uhIfBHCNlwXYvQdnzvS"
+ },
+ "metadata": {
+  "formed": 1991,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 5,
+  "past_members": 9,
+  "full_lengths": 17,
+  "genre": "Gothic/Death Metal (early); Industrial/Gothic Metal (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 13284,
+  "themes": "Life, Agony, Feelings",
+  "release_year": 2005
+ },
+ "partial": false,
+ "clips": [
+  "crematory/1812926088-106",
+  "crematory/1812924919-105",
+  "crematory/1815785146-106",
+  "crematory/1825660039-106",
+  "crematory/1825659131-106",
+  "crematory/1825660045-106",
+  "crematory/1841682832-107",
+  "crematory/1841682506-105",
+  "crematory/1841679380-105",
+  "crematory/1849695670-106",
+  "crematory/1349402639-106",
+  "crematory/1340461144-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.77318274456522,
+   "iqr": 32.533649427319006
+  },
+  "onset_rate": {
+   "median": 4.483333333333333,
+   "iqr": 0.9947278220918401
+  },
+  "tempo_var": {
+   "median": 9.14714660135285,
+   "iqr": 19.206312306124214
+  },
+  "low_onset_rate": {
+   "median": 6.2,
+   "iqr": 1.5916666666666668
+  },
+  "lufs": {
+   "median": -16.7048157118273,
+   "iqr": 2.0694432483582084
+  },
+  "rms_dbfs": {
+   "median": -16.167644303696495,
+   "iqr": 1.7940450432360233
+  },
+  "crest": {
+   "median": 12.184354305267334,
+   "iqr": 1.505028247833252
+  },
+  "centroid": {
+   "median": 2542.5284662499316,
+   "iqr": 488.99461309657454
+  },
+  "flatness": {
+   "median": 0.03715040534734726,
+   "iqr": 0.01518021896481514
+  },
+  "sub100_share": {
+   "median": 0.23634114861488342,
+   "iqr": 0.10980207100510597
+  },
+  "lowest_pitch": {
+   "median": 57.8704833984375,
+   "iqr": 26.91650390625
+  },
+  "harmonic_share": {
+   "median": 0.7252374887466431,
+   "iqr": 0.05824314057826996
+  },
+  "clean_share": {
+   "median": 0.010843118840774643,
+   "iqr": 0.08184984520123839
+  },
+  "minor_share": {
+   "median": 0.04031177372013395,
+   "iqr": 0.14731635915419955
+  },
+  "chord_rate": {
+   "median": 1.3333333333333333,
+   "iqr": 0.4577408516381385
+  },
+  "repetitiveness": {
+   "median": 0.8724029958248138,
+   "iqr": 0.11064907908439636
+  },
+  "vocal_share": {
+   "median": 0.15183715522289276,
+   "iqr": 0.11084981635212898
+  },
+  "vocal_voiced": {
+   "median": 0.07848837209302326,
+   "iqr": 0.32645646212275553
+  },
+  "song_length": {
+   "median": 279.9605,
+   "iqr": 62.23025000000001
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

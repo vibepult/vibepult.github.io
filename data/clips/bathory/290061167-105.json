@@ -1,0 +1,32 @@
+{
+ "id": "bathory/290061167-105",
+ "band": "bathory",
+ "title": "Equimanthorn",
+ "source": "itunes",
+ "album": "Under the Sign of the Black Mark",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 5.533333333333333,
+  "tempo_var": 1.2467611376112155,
+  "low_onset_rate": 8.766666666666667,
+  "lufs": -9.355133876137783,
+  "rms_dbfs": -9.94951423410676,
+  "crest": 9.949514389038086,
+  "centroid": 3135.649802578082,
+  "flatness": 0.06166767701506615,
+  "sub100_share": 0.2186943143606186,
+  "lowest_pitch": 172.265625,
+  "harmonic_share": 0.65585857629776,
+  "clean_share": 0.0,
+  "minor_share": 0.11978906885835011,
+  "chord_rate": 2.433333333333333,
+  "repetitiveness": 0.9643369317054749,
+  "vocal_share": 0.11170066148042679,
+  "vocal_voiced": 0.17103882476390347,
+  "song_length": 220.453
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "ulver/1626836466-104",
+ "band": "ulver",
+ "title": "Southern Gothic",
+ "source": "itunes",
+ "album": "The Assassination of Julius Caesar (Five-Year Anniversary Edition)",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 6.933333333333334,
+  "tempo_var": 12.955363996249867,
+  "low_onset_rate": 3.3,
+  "lufs": -11.520011833525766,
+  "rms_dbfs": -9.140063001805718,
+  "crest": 9.140063285827637,
+  "centroid": 1873.6985562501343,
+  "flatness": 0.015132283791899681,
+  "sub100_share": 0.5910086631774902,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7959425449371338,
+  "clean_share": 0.47678018575851394,
+  "minor_share": -0.1273509095012988,
+  "chord_rate": 1.0333333333333334,
+  "repetitiveness": 0.7560331225395203,
+  "vocal_share": 0.04077623784542084,
+  "vocal_voiced": 0.83991683991684,
+  "song_length": 220.075
+ }
+}

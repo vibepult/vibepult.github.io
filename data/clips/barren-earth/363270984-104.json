@@ -1,0 +1,32 @@
+{
+ "id": "barren-earth/363270984-104",
+ "band": "barren-earth",
+ "title": "Flicker",
+ "source": "itunes",
+ "album": "Curse of the Red River",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.6085317364108036,
+  "tempo_var": 3.680507526223666,
+  "low_onset_rate": 4.544077001406197,
+  "lufs": -8.271651334344625,
+  "rms_dbfs": -7.168090412999469,
+  "crest": 7.168090343475342,
+  "centroid": 2043.3179650777688,
+  "flatness": 0.012675801292061806,
+  "sub100_share": 0.3882943093776703,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.9064068794250488,
+  "clean_share": 0.3118696664080683,
+  "minor_share": 0.027079090227134284,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.5941511988639832,
+  "vocal_share": 0.1465809941291809,
+  "vocal_voiced": 0.7158962795941376,
+  "song_length": 401.494
+ }
+}

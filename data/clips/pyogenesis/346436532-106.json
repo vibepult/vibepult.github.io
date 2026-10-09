@@ -1,0 +1,32 @@
+{
+ "id": "pyogenesis/346436532-106",
+ "band": "pyogenesis",
+ "title": "I Thought",
+ "source": "itunes",
+ "album": "Mono...or Will It Ever Be the Way It Used to Be",
+ "year": 1998,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.94265504533773,
+  "tempo_var": 15.975698074635963,
+  "low_onset_rate": 4.009479707123115,
+  "lufs": -8.944318463701036,
+  "rms_dbfs": -8.949577332295453,
+  "crest": 8.949577331542969,
+  "centroid": 3034.44581361036,
+  "flatness": 0.04265943169593811,
+  "sub100_share": 0.2825695276260376,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7935521006584167,
+  "clean_share": 0.012412723041117145,
+  "minor_share": -0.04881338940621105,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.7308546304702759,
+  "vocal_share": 0.2257322072982788,
+  "vocal_voiced": 0.8756260434056762,
+  "song_length": 149.624
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "corvus-corax/308801993-106",
+ "band": "corvus-corax",
+ "title": "Bibit aleum",
+ "source": "itunes",
+ "album": "Venus vina musica",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 5.533232957225266,
+  "tempo_var": 14.868344839621228,
+  "low_onset_rate": 5.999891158437035,
+  "lufs": -13.545024471922618,
+  "rms_dbfs": -12.819969944762422,
+  "crest": 12.819969177246094,
+  "centroid": 1706.1675215013893,
+  "flatness": 0.004301341716200113,
+  "sub100_share": 0.40811851620674133,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8074851036071777,
+  "clean_share": 0.7053364269141531,
+  "minor_share": 0.05436143404200411,
+  "chord_rate": 1.9666309908210282,
+  "repetitiveness": 0.9528691172599792,
+  "vocal_share": 1.1773232699852088e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 365.12
+ }
+}

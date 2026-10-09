@@ -1,0 +1,32 @@
+{
+ "id": "stam1na/1553482020-105",
+ "band": "stam1na",
+ "title": "Metropolio",
+ "source": "itunes",
+ "album": "Novus Ordo Mundi",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 6.248105876933521,
+  "tempo_var": 4.263256414560601e-14,
+  "low_onset_rate": 7.618011443533918,
+  "lufs": -8.778349939997321,
+  "rms_dbfs": -7.088135025957465,
+  "crest": 7.088134765625,
+  "centroid": 2174.696222407146,
+  "flatness": 0.018126055598258972,
+  "sub100_share": 0.648592472076416,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.8369410037994385,
+  "clean_share": 0.10007757951900698,
+  "minor_share": -0.04859063717177586,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.9652158617973328,
+  "vocal_share": 0.1339881718158722,
+  "vocal_voiced": 0.04418828049951969,
+  "song_length": 348.48
+ }
+}

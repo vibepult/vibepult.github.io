@@ -1,0 +1,127 @@
+{
+ "slug": "orange-goblin",
+ "name": "Orange Goblin",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 29438650,
+  "deezer": 5509,
+  "spotify": "3nutnJ57QnbWEdCWn2EyWo"
+ },
+ "metadata": {
+  "formed": 1995,
+  "split": 2025,
+  "country": "GB",
+  "status": "split-up",
+  "members": 4,
+  "past_members": 3,
+  "full_lengths": 10,
+  "genre": "Stoner Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 21213,
+  "themes": "Drugs, Space travel, Relationships",
+  "release_year": 2001
+ },
+ "partial": false,
+ "clips": [
+  "orange-goblin/965384114-105",
+  "orange-goblin/1376782296-106",
+  "orange-goblin/1372996410-107",
+  "orange-goblin/965384075-108",
+  "orange-goblin/965388802-107",
+  "orange-goblin/1659149225-105",
+  "orange-goblin/1659163035-106",
+  "orange-goblin/1659203832-105",
+  "orange-goblin/1734983298-105",
+  "orange-goblin/965384114-104",
+  "orange-goblin/1376782296-105",
+  "orange-goblin/1372996410-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 35.52252024291499
+  },
+  "onset_rate": {
+   "median": 4.388705167369765,
+   "iqr": 1.5110183411724778
+  },
+  "tempo_var": {
+   "median": 6.6962950411673985,
+   "iqr": 12.814928912656685
+  },
+  "low_onset_rate": {
+   "median": 6.106864164218525,
+   "iqr": 1.8681281215148138
+  },
+  "lufs": {
+   "median": -9.726023893634522,
+   "iqr": 3.6358285671421893
+  },
+  "rms_dbfs": {
+   "median": -8.375185341439405,
+   "iqr": 3.5608504020500042
+  },
+  "crest": {
+   "median": 8.375185489654541,
+   "iqr": 3.560850501060486
+  },
+  "centroid": {
+   "median": 2214.275416258183,
+   "iqr": 742.6329033428517
+  },
+  "flatness": {
+   "median": 0.01882088929414749,
+   "iqr": 0.0188918897183612
+  },
+  "sub100_share": {
+   "median": 0.43114081025123596,
+   "iqr": 0.23015108332037926
+  },
+  "lowest_pitch": {
+   "median": 68.6370849609375,
+   "iqr": 35.66436767578125
+  },
+  "harmonic_share": {
+   "median": 0.7934400141239166,
+   "iqr": 0.1114446222782135
+  },
+  "clean_share": {
+   "median": 0.1264546159813809,
+   "iqr": 0.5489267319483796
+  },
+  "minor_share": {
+   "median": -0.08066175229849915,
+   "iqr": 0.2805656250983046
+  },
+  "chord_rate": {
+   "median": 1.8877966954371335,
+   "iqr": 0.9976348602468799
+  },
+  "repetitiveness": {
+   "median": 0.848419576883316,
+   "iqr": 0.2187025099992752
+  },
+  "vocal_share": {
+   "median": 0.08997050300240517,
+   "iqr": 0.03638473246246576
+  },
+  "vocal_voiced": {
+   "median": 0.7549985219571478,
+   "iqr": 0.13225360126831776
+  },
+  "song_length": {
+   "median": 313.17999999999995,
+   "iqr": 141.29725000000002
+  },
+  "vocal_presence": {
+   "median": 0.3333333333333333,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

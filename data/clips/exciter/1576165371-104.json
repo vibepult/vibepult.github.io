@@ -1,0 +1,32 @@
+{
+ "id": "exciter/1576165371-104",
+ "band": "exciter",
+ "title": "Smashin 'Em Down",
+ "source": "itunes",
+ "album": "Kill After Kill",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 75.99954044117646,
+  "onset_rate": 6.682466178538525,
+  "tempo_var": 19.254218453632298,
+  "low_onset_rate": 5.847157906221209,
+  "lufs": -16.73121729773595,
+  "rms_dbfs": -18.952285591024204,
+  "crest": 18.85150718688965,
+  "centroid": 3873.380569743978,
+  "flatness": 0.11163961887359619,
+  "sub100_share": 0.06528756767511368,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.5595983862876892,
+  "clean_share": 0.0,
+  "minor_share": 0.14101812062579455,
+  "chord_rate": 2.1049768462396354,
+  "repetitiveness": 0.9470953941345215,
+  "vocal_share": 0.15293598175048828,
+  "vocal_voiced": 0.06562054208273894,
+  "song_length": 189.733
+ }
+}

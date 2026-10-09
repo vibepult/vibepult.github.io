@@ -1,0 +1,32 @@
+{
+ "id": "swallow-the-sun/1660494935-105",
+ "band": "swallow-the-sun",
+ "title": "Fragile",
+ "source": "itunes",
+ "album": "Ghosts of Loss",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.009479707123115,
+  "tempo_var": 1.7279292366178767,
+  "low_onset_rate": 4.176541361586578,
+  "lufs": -11.414522856685965,
+  "rms_dbfs": -10.151783704603686,
+  "crest": 10.151782989501953,
+  "centroid": 2038.4340053646326,
+  "flatness": 0.01362462155520916,
+  "sub100_share": 0.3853776156902313,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8151481747627258,
+  "clean_share": 0.41505042668735453,
+  "minor_share": -0.04608317111693816,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.8586962819099426,
+  "vocal_share": 0.11161023378372192,
+  "vocal_voiced": 0.868231046931408,
+  "song_length": 432.253
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "judas-priest/207346308-105",
+ "band": "judas-priest",
+ "title": "Invader",
+ "source": "itunes",
+ "album": "Stained Class (Bonus Track Version)",
+ "year": 1978,
+ "itunes_year": 1978,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.863586027897673,
+  "tempo_var": 9.272835238101083,
+  "low_onset_rate": 5.196708358575596,
+  "lufs": -9.122845090616979,
+  "rms_dbfs": -8.867904494043877,
+  "crest": 8.867904663085938,
+  "centroid": 2429.838561872548,
+  "flatness": 0.021210748702287674,
+  "sub100_share": 0.16568623483181,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.7430671453475952,
+  "clean_share": 0.13302397525135345,
+  "minor_share": -0.08578341782639987,
+  "chord_rate": 1.4657382549828604,
+  "repetitiveness": 0.7604057192802429,
+  "vocal_share": 0.28214725852012634,
+  "vocal_voiced": 0.8212835093419983,
+  "song_length": 249.8
+ }
+}

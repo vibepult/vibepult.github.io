@@ -1,0 +1,32 @@
+{
+ "id": "guttural-slug/1769986796-103",
+ "band": "guttural-slug",
+ "title": "Hacksaw Surgery",
+ "source": "itunes",
+ "album": "Megalodon",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 3.933273873410833,
+  "tempo_var": 34.336588814902406,
+  "low_onset_rate": 7.03322701092954,
+  "lufs": -8.8666726311955,
+  "rms_dbfs": -7.819652297084421,
+  "crest": 7.819652557373047,
+  "centroid": 2167.9269468332095,
+  "flatness": 0.016403507441282272,
+  "sub100_share": 0.4059174954891205,
+  "lowest_pitch": 29.608154296875,
+  "harmonic_share": 0.7855656147003174,
+  "clean_share": 0.08662026295436968,
+  "minor_share": 0.16848463893859836,
+  "chord_rate": 1.8333056189626764,
+  "repetitiveness": 0.8321094512939453,
+  "vocal_share": 0.08467436581850052,
+  "vocal_voiced": 0.6132665832290363,
+  "song_length": 184.555
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "falkenbach/1556110990-103",
+ "band": "falkenbach",
+ "title": "Laeknishendr",
+ "source": "itunes",
+ "album": "...En Their Medh Riki Fara...",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.312560611938127,
+  "tempo_var": 24.892869719029353,
+  "low_onset_rate": 9.722988289773554,
+  "lufs": -13.246236331532254,
+  "rms_dbfs": -13.21463020874793,
+  "crest": 13.214630126953125,
+  "centroid": 2823.934933517443,
+  "flatness": 0.04456076771020889,
+  "sub100_share": 0.35491743683815,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8166805505752563,
+  "clean_share": 0.0,
+  "minor_share": 0.1377521940765004,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.9430108070373535,
+  "vocal_share": 0.01711924746632576,
+  "vocal_voiced": 0.0,
+  "song_length": 377.507
+ }
+}

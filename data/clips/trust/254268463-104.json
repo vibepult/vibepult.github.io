@@ -1,0 +1,32 @@
+{
+ "id": "trust/254268463-104",
+ "band": "trust",
+ "title": "Les notables",
+ "source": "itunes",
+ "album": "Rock'n'roll",
+ "year": 1984,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 4.677726324976968,
+  "tempo_var": 13.082527409761555,
+  "low_onset_rate": 5.479622266401591,
+  "lufs": -13.450392918829607,
+  "rms_dbfs": -12.875361538060975,
+  "crest": 12.875361442565918,
+  "centroid": 2067.046721104498,
+  "flatness": 0.016544602811336517,
+  "sub100_share": 0.12140015512704849,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.7240080237388611,
+  "clean_share": 0.1908456167571761,
+  "minor_share": 0.19752692040390885,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.8118417263031006,
+  "vocal_share": 0.2333562970161438,
+  "vocal_voiced": 0.7478684531059683,
+  "song_length": 245.093
+ }
+}

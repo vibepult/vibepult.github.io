@@ -1,0 +1,32 @@
+{
+ "id": "ancient/54261256-107",
+ "band": "ancient",
+ "title": "The Heritage",
+ "source": "itunes",
+ "album": "The Halls of Eternity",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 0.16706165446346313,
+  "tempo_var": 16.432148711378666,
+  "low_onset_rate": 0.3675356398196189,
+  "lufs": -18.576610142532402,
+  "rms_dbfs": -18.675810048840837,
+  "crest": 18.675809860229492,
+  "centroid": 1149.1551405281352,
+  "flatness": 0.0019900852348655462,
+  "sub100_share": 0.09599240124225616,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.7258319854736328,
+  "clean_share": 0.930178432893716,
+  "minor_share": 0.0837126899321401,
+  "chord_rate": 1.0357822576734714,
+  "repetitiveness": 0.6563112139701843,
+  "vocal_share": 0.3561754822731018,
+  "vocal_voiced": 0.21232876712328766,
+  "song_length": 492.267
+ }
+}

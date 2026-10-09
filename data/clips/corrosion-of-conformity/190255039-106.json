@@ -1,0 +1,32 @@
+{
+ "id": "corrosion-of-conformity/190255039-106",
+ "band": "corrosion-of-conformity",
+ "title": "Senor Limpio",
+ "source": "itunes",
+ "album": "Deliverance",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.663079621524688,
+  "tempo_var": 13.921664411114392,
+  "low_onset_rate": 5.429893990050142,
+  "lufs": -9.91120374468678,
+  "rms_dbfs": -9.448338831694196,
+  "crest": 9.448338508605957,
+  "centroid": 2487.508702211173,
+  "flatness": 0.02838166058063507,
+  "sub100_share": 0.2757122814655304,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.5765945315361023,
+  "clean_share": 0.06883217324052592,
+  "minor_share": 0.06227474286402035,
+  "chord_rate": 1.9987339840675369,
+  "repetitiveness": 0.9138805270195007,
+  "vocal_share": 0.14899206161499023,
+  "vocal_voiced": 0.48256467941507314,
+  "song_length": 232.0
+ }
+}

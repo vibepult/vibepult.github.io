@@ -1,0 +1,32 @@
+{
+ "id": "heathen/1515868490-109",
+ "band": "heathen",
+ "title": "Devour",
+ "source": "itunes",
+ "album": "Empire of the Blind",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.575119405518111,
+  "tempo_var": 8.151218005868941,
+  "low_onset_rate": 2.6395741405227175,
+  "lufs": -8.952884159028539,
+  "rms_dbfs": -8.090501449354575,
+  "crest": 8.09050178527832,
+  "centroid": 2423.6174744274285,
+  "flatness": 0.015676729381084442,
+  "sub100_share": 0.3591134250164032,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7905375361442566,
+  "clean_share": 0.317300232738557,
+  "minor_share": 0.0299325459911593,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.7832368016242981,
+  "vocal_share": 0.015652820467948914,
+  "vocal_voiced": 0.71875,
+  "song_length": 214.72
+ }
+}

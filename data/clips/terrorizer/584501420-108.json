@@ -1,0 +1,32 @@
+{
+ "id": "terrorizer/584501420-108",
+ "band": "terrorizer",
+ "title": "Generation Chaos",
+ "source": "itunes",
+ "album": "Hordes of Zombies",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 6.782703171216603,
+  "tempo_var": 11.820684686990138,
+  "low_onset_rate": 6.74929084032391,
+  "lufs": -7.565665446313541,
+  "rms_dbfs": -7.658351292013455,
+  "crest": 7.658350944519043,
+  "centroid": 3007.596948492059,
+  "flatness": 0.06806296110153198,
+  "sub100_share": 0.3286908268928528,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7169819474220276,
+  "clean_share": 0.0,
+  "minor_share": -0.00870822201222099,
+  "chord_rate": 2.338863162488484,
+  "repetitiveness": 0.8675312399864197,
+  "vocal_share": 0.07181480526924133,
+  "vocal_voiced": 0.0,
+  "song_length": 129.467
+ }
+}

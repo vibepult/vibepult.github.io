@@ -1,0 +1,32 @@
+{
+ "id": "paradise-lost/963659929-106",
+ "band": "paradise-lost",
+ "title": "Another Day",
+ "source": "itunes",
+ "album": "One Second",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.67298647141541,
+  "tempo_var": 1.5202354070737003,
+  "low_onset_rate": 5.145498957474664,
+  "lufs": -9.354248493887884,
+  "rms_dbfs": -9.147754247888324,
+  "crest": 9.147754669189453,
+  "centroid": 2186.1162548584766,
+  "flatness": 0.021083595231175423,
+  "sub100_share": 0.2585171163082123,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8167963624000549,
+  "clean_share": 0.21411947245927077,
+  "minor_share": 0.06255861635867821,
+  "chord_rate": 1.1026069194588566,
+  "repetitiveness": 0.5981787443161011,
+  "vocal_share": 0.15553171932697296,
+  "vocal_voiced": 0.7685631629701061,
+  "song_length": 284.307
+ }
+}

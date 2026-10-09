@@ -1,0 +1,32 @@
+{
+ "id": "void-of-silence/370162568-103",
+ "band": "void-of-silence",
+ "title": "Apt Epitaph",
+ "source": "itunes",
+ "album": "The Grave of Civilization",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 1.7708535373127092,
+  "tempo_var": 10.506265623061939,
+  "low_onset_rate": 10.123936260485866,
+  "lufs": -9.366726165718513,
+  "rms_dbfs": -9.10709809177471,
+  "crest": 9.107097625732422,
+  "centroid": 1708.8140986356345,
+  "flatness": 0.005739393178373575,
+  "sub100_share": 0.1810430884361267,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.9188438653945923,
+  "clean_share": 0.6811481768813034,
+  "minor_share": 0.06560493823108926,
+  "chord_rate": 0.534597294283082,
+  "repetitiveness": 0.9097638726234436,
+  "vocal_share": 2.6445884486747673e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 747.758
+ }
+}

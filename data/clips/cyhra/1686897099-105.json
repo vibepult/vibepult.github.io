@@ -1,0 +1,32 @@
+{
+ "id": "cyhra/1686897099-105",
+ "band": "cyhra",
+ "title": "Buried Alive",
+ "source": "itunes",
+ "album": "The Vertigo Trigger",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 1.3030809048150125,
+  "tempo_var": 18.14009913448302,
+  "low_onset_rate": 2.3722754933811765,
+  "lufs": -11.149747491551421,
+  "rms_dbfs": -10.316771976147805,
+  "crest": 10.3167724609375,
+  "centroid": 2836.9940054476783,
+  "flatness": 0.041934747248888016,
+  "sub100_share": 0.4384446442127228,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7428423762321472,
+  "clean_share": 0.03180760279286268,
+  "minor_share": -0.05639438206453162,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.8514519929885864,
+  "vocal_share": 0.10692595690488815,
+  "vocal_voiced": 0.73558648111332,
+  "song_length": 226.787
+ }
+}

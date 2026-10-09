@@ -1,0 +1,127 @@
+{
+ "slug": "obtained-enslavement",
+ "name": "Obtained Enslavement",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 35943427,
+  "deezer": 107195,
+  "spotify": "1WivcWZchSUgoMru4LP3h9"
+ },
+ "metadata": {
+  "formed": 1989,
+  "split": 2000,
+  "country": "NO",
+  "status": "split-up",
+  "members": 4,
+  "past_members": 3,
+  "full_lengths": 4,
+  "genre": "Death Metal (early); Symphonic Black Metal (mid); Melodic Black Metal (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 759,
+  "themes": "Witchcraft, Ancient times, Magic",
+  "release_year": 1998
+ },
+ "partial": false,
+ "clips": [
+  "obtained-enslavement/675876987-105",
+  "obtained-enslavement/1184690089-104",
+  "obtained-enslavement/1214420481-104",
+  "obtained-enslavement/675876987-104",
+  "obtained-enslavement/1184690089-103",
+  "obtained-enslavement/1214420481-103",
+  "obtained-enslavement/675876987-106",
+  "obtained-enslavement/1184690089-105",
+  "obtained-enslavement/1214420481-105",
+  "obtained-enslavement/675876987-103",
+  "obtained-enslavement/1184690089-102",
+  "obtained-enslavement/1214420481-102"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 53.8330078125
+  },
+  "onset_rate": {
+   "median": 6.32413193602612,
+   "iqr": 3.455115091968514
+  },
+  "tempo_var": {
+   "median": 7.550469545762626,
+   "iqr": 6.006042741124125
+  },
+  "low_onset_rate": {
+   "median": 8.216666666666667,
+   "iqr": 1.6220582500929392
+  },
+  "lufs": {
+   "median": -9.887689872683728,
+   "iqr": 3.6683786790274118
+  },
+  "rms_dbfs": {
+   "median": -9.871895572165872,
+   "iqr": 2.8594268739599737
+  },
+  "crest": {
+   "median": 9.87189531326294,
+   "iqr": 2.8594260215759277
+  },
+  "centroid": {
+   "median": 2584.9907546251115,
+   "iqr": 216.60657940504188
+  },
+  "flatness": {
+   "median": 0.03309166431427002,
+   "iqr": 0.018518586177378893
+  },
+  "sub100_share": {
+   "median": 0.2124369740486145,
+   "iqr": 0.18760281801223755
+  },
+  "lowest_pitch": {
+   "median": 53.8330078125,
+   "iqr": 17.4957275390625
+  },
+  "harmonic_share": {
+   "median": 0.7639177441596985,
+   "iqr": 0.06745675206184387
+  },
+  "clean_share": {
+   "median": 0.0007739938080495357,
+   "iqr": 0.027107346756431533
+  },
+  "minor_share": {
+   "median": 0.07556136913266709,
+   "iqr": 0.08601679089400069
+  },
+  "chord_rate": {
+   "median": 1.9690365934474454,
+   "iqr": 0.7491902750165671
+  },
+  "repetitiveness": {
+   "median": 0.9369376301765442,
+   "iqr": 0.06423069536685944
+  },
+  "vocal_share": {
+   "median": 0.03745792806148529,
+   "iqr": 0.03598919976502657
+  },
+  "vocal_voiced": {
+   "median": 0.23310344827586207,
+   "iqr": 0.1366252450333325
+  },
+  "song_length": {
+   "median": 369.12,
+   "iqr": 50.99025
+  },
+  "vocal_presence": {
+   "median": 0.5833333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.5,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

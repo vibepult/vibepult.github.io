@@ -1,0 +1,32 @@
+{
+ "id": "bonfire/981073850-108",
+ "band": "bonfire",
+ "title": "Shooting Star",
+ "source": "itunes",
+ "album": "Glörious",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 3.4414700819473403,
+  "tempo_var": 37.477335683206995,
+  "low_onset_rate": 3.9760673762304224,
+  "lufs": -8.723914501695274,
+  "rms_dbfs": -8.851399900961711,
+  "crest": 8.851400375366211,
+  "centroid": 2531.280073193053,
+  "flatness": 0.03444720059633255,
+  "sub100_share": 0.11663299798965454,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.6684669256210327,
+  "clean_share": 0.008533747090768037,
+  "minor_share": 0.02816036670817179,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.7790594696998596,
+  "vocal_share": 0.36106035113334656,
+  "vocal_voiced": 0.7873376623376623,
+  "song_length": 398.294
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "baroness/1031376313-104",
+ "band": "baroness",
+ "title": "Kerosene",
+ "source": "itunes",
+ "album": "Purple",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 4.69749325001171,
+  "tempo_var": 2.5210484968906783,
+  "low_onset_rate": 4.930702134764064,
+  "lufs": -6.842469307969992,
+  "rms_dbfs": -6.974041926528082,
+  "crest": 6.974041938781738,
+  "centroid": 2574.793996388916,
+  "flatness": 0.038579441606998444,
+  "sub100_share": 0.2063562273979187,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.716690182685852,
+  "clean_share": 0.0015467904098994587,
+  "minor_share": 0.00043911405549523774,
+  "chord_rate": 1.7657244131249688,
+  "repetitiveness": 0.8105633854866028,
+  "vocal_share": 0.23250214755535126,
+  "vocal_voiced": 0.5305555555555556,
+  "song_length": 310.653
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "bathory/292516695-105",
+ "band": "bathory",
+ "title": "The Stallion",
+ "source": "itunes",
+ "album": "Blood On Ice",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 3.7755933908742665,
+  "tempo_var": 15.78229747448491,
+  "low_onset_rate": 4.9784373030112015,
+  "lufs": -10.437483140268698,
+  "rms_dbfs": -10.46048722008088,
+  "crest": 10.460487365722656,
+  "centroid": 2766.3571092376956,
+  "flatness": 0.029826458543539047,
+  "sub100_share": 0.30200135707855225,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7744366526603699,
+  "clean_share": 0.0,
+  "minor_share": 0.06719133705438007,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.8661816716194153,
+  "vocal_share": 0.006856921128928661,
+  "vocal_voiced": 0.9736842105263158,
+  "song_length": 314.973
+ }
+}

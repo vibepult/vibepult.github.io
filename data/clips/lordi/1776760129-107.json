@@ -1,0 +1,32 @@
+{
+ "id": "lordi/1776760129-107",
+ "band": "lordi",
+ "title": "The Bride",
+ "source": "itunes",
+ "album": "Screem Writers Guild",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 2.7333333333333334,
+  "tempo_var": 8.349645311386032,
+  "low_onset_rate": 2.433333333333333,
+  "lufs": -13.066818670710717,
+  "rms_dbfs": -12.543597876453047,
+  "crest": 12.543598175048828,
+  "centroid": 2135.355447576224,
+  "flatness": 0.014268479309976101,
+  "sub100_share": 0.26064926385879517,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7978298664093018,
+  "clean_share": 0.23993808049535603,
+  "minor_share": -0.31138800671273614,
+  "chord_rate": 0.8,
+  "repetitiveness": 0.6604823470115662,
+  "vocal_share": 0.4421784579753876,
+  "vocal_voiced": 0.8841059602649006,
+  "song_length": 248.853
+ }
+}

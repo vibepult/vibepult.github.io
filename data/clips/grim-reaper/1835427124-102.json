@@ -1,0 +1,32 @@
+{
+ "id": "grim-reaper/1835427124-102",
+ "band": "grim-reaper",
+ "title": "Dead On Arrival",
+ "source": "itunes",
+ "album": "See You In Hell",
+ "year": 1983,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 5.333252709709604,
+  "tempo_var": 10.6374936844628,
+  "low_onset_rate": 6.09990778673036,
+  "lufs": -8.862632339077381,
+  "rms_dbfs": -9.248944017034818,
+  "crest": 9.248944282531738,
+  "centroid": 3515.5672737689624,
+  "flatness": 0.061709724366664886,
+  "sub100_share": 0.1371030956506729,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7684003114700317,
+  "clean_share": 0.0,
+  "minor_share": 0.07156944471258875,
+  "chord_rate": 2.2332995721908966,
+  "repetitiveness": 0.9149917960166931,
+  "vocal_share": 0.3131202459335327,
+  "vocal_voiced": 0.7875734676742233,
+  "song_length": 273.685
+ }
+}

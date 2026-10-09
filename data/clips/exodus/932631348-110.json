@@ -1,0 +1,32 @@
+{
+ "id": "exodus/932631348-110",
+ "band": "exodus",
+ "title": "Hell's Breath",
+ "source": "itunes",
+ "album": "Let There Be Blood",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 6.3817552005042915,
+  "tempo_var": 2.912580570860948,
+  "low_onset_rate": 6.849527833001988,
+  "lufs": -7.621707444649102,
+  "rms_dbfs": -7.124837224529552,
+  "crest": 7.124837875366211,
+  "centroid": 2867.567646321738,
+  "flatness": 0.043405890464782715,
+  "sub100_share": 0.31600987911224365,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7268447875976562,
+  "clean_share": 0.003878975950349108,
+  "minor_share": 0.024652243535585205,
+  "chord_rate": 2.5393371478446394,
+  "repetitiveness": 0.8846265077590942,
+  "vocal_share": 0.10333984345197678,
+  "vocal_voiced": 0.0,
+  "song_length": 169.88
+ }
+}

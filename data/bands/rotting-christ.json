@@ -1,0 +1,127 @@
+{
+ "slug": "rotting-christ",
+ "name": "Rotting Christ",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 28441629,
+  "deezer": 5602,
+  "spotify": "7FhkwcO8Jd7BRWdllBpXBJ"
+ },
+ "metadata": {
+  "formed": 1987,
+  "split": null,
+  "country": "GR",
+  "status": "active",
+  "members": 2,
+  "past_members": 6,
+  "full_lengths": 15,
+  "genre": "Melodic Black Metal, Gothic Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 56259,
+  "themes": "Anti-Christianity, Occultism, Death, Mythology, Satanism",
+  "release_year": 2001
+ },
+ "partial": false,
+ "clips": [
+  "rotting-christ/1045646029-105",
+  "rotting-christ/215762824-104",
+  "rotting-christ/1045525699-105",
+  "rotting-christ/1045624930-105",
+  "rotting-christ/1449986604-105",
+  "rotting-christ/1045614177-106",
+  "rotting-christ/1045610070-105",
+  "rotting-christ/1045597728-105",
+  "rotting-christ/583574507-105",
+  "rotting-christ/583596264-105",
+  "rotting-christ/1070144810-106",
+  "rotting-christ/1551664403-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 45.60289884868422
+  },
+  "onset_rate": {
+   "median": 5.011849633903894,
+   "iqr": 2.0297991017310775
+  },
+  "tempo_var": {
+   "median": 15.601416484951232,
+   "iqr": 15.429814016508606
+  },
+  "low_onset_rate": {
+   "median": 6.314930538718906,
+   "iqr": 1.3615524838772242
+  },
+  "lufs": {
+   "median": -9.273222898246358,
+   "iqr": 1.4210534693272052
+  },
+  "rms_dbfs": {
+   "median": -8.880022621716591,
+   "iqr": 1.4947209062693947
+  },
+  "crest": {
+   "median": 8.880022525787354,
+   "iqr": 1.4947201013565063
+  },
+  "centroid": {
+   "median": 2422.9160886429327,
+   "iqr": 429.8967928460952
+  },
+  "flatness": {
+   "median": 0.0273685771971941,
+   "iqr": 0.013450253289192915
+  },
+  "sub100_share": {
+   "median": 0.3330906331539154,
+   "iqr": 0.2115168161690235
+  },
+  "lowest_pitch": {
+   "median": 41.7205810546875,
+   "iqr": 8.074951171875
+  },
+  "harmonic_share": {
+   "median": 0.7680233716964722,
+   "iqr": 0.08370441198348999
+  },
+  "clean_share": {
+   "median": 0.044220325833979834,
+   "iqr": 0.19879751745539176
+  },
+  "minor_share": {
+   "median": 0.036839522050161166,
+   "iqr": 0.18250281599063542
+  },
+  "chord_rate": {
+   "median": 1.453436393832129,
+   "iqr": 0.3745374019066374
+  },
+  "repetitiveness": {
+   "median": 0.8782750368118286,
+   "iqr": 0.12124380469322205
+  },
+  "vocal_share": {
+   "median": 0.07979462668299675,
+   "iqr": 0.03751218132674694
+  },
+  "vocal_voiced": {
+   "median": 0.16143208836946116,
+   "iqr": 0.24914181941497066
+  },
+  "song_length": {
+   "median": 287.48,
+   "iqr": 47.90674999999999
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "edge-of-sanity/298244085-107",
+ "band": "edge-of-sanity",
+ "title": "Jesus Cries",
+ "source": "itunes",
+ "album": "The Spectral Sorrows",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 6.548816854967755,
+  "tempo_var": 14.037795534946843,
+  "low_onset_rate": 5.579859259079669,
+  "lufs": -11.78782358406442,
+  "rms_dbfs": -11.808638050442003,
+  "crest": 11.808638572692871,
+  "centroid": 2776.8293432851124,
+  "flatness": 0.051656220108270645,
+  "sub100_share": 0.25865641236305237,
+  "lowest_pitch": 94.207763671875,
+  "harmonic_share": 0.6297059059143066,
+  "clean_share": 0.004654771140418929,
+  "minor_share": 0.15283044954868308,
+  "chord_rate": 2.338863162488484,
+  "repetitiveness": 0.8888741731643677,
+  "vocal_share": 0.21082603931427002,
+  "vocal_voiced": 0.024705882352941175,
+  "song_length": 288.827
+ }
+}

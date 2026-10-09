@@ -1,0 +1,127 @@
+{
+ "slug": "church-of-misery",
+ "name": "Church of Misery",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 111009790,
+  "deezer": 386299,
+  "spotify": "48oiffaUrQHZXzfvr5aO1L"
+ },
+ "metadata": {
+  "formed": 1995,
+  "split": null,
+  "country": "JP",
+  "status": "active",
+  "members": 4,
+  "past_members": 18,
+  "full_lengths": 7,
+  "genre": "Doom/Stoner Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 3844,
+  "themes": "Serial killers, Mass murderers",
+  "release_year": 2008
+ },
+ "partial": false,
+ "clips": [
+  "church-of-misery/1456706270-103",
+  "church-of-misery/1456640101-104",
+  "church-of-misery/967290343-104",
+  "church-of-misery/1076004316-103",
+  "church-of-misery/1682085600-104",
+  "church-of-misery/1456706270-104",
+  "church-of-misery/1456640101-103",
+  "church-of-misery/967290343-103",
+  "church-of-misery/1076004316-104",
+  "church-of-misery/1682085600-103",
+  "church-of-misery/1456706270-102",
+  "church-of-misery/1456640101-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.32652698863637,
+   "iqr": 40.8222169217551
+  },
+  "onset_rate": {
+   "median": 3.199990224296956,
+   "iqr": 1.357345863841342
+  },
+  "tempo_var": {
+   "median": 6.941067175775428,
+   "iqr": 11.129328532991824
+  },
+  "low_onset_rate": {
+   "median": 5.773223464093488,
+   "iqr": 2.331138937468487
+  },
+  "lufs": {
+   "median": -8.384503848514786,
+   "iqr": 3.5400751257082126
+  },
+  "rms_dbfs": {
+   "median": -8.200164860719738,
+   "iqr": 2.882934223366531
+  },
+  "crest": {
+   "median": 8.200164794921875,
+   "iqr": 2.6270142793655396
+  },
+  "centroid": {
+   "median": 2263.9433047450957,
+   "iqr": 447.12887964850506
+  },
+  "flatness": {
+   "median": 0.02787048928439617,
+   "iqr": 0.01935930922627449
+  },
+  "sub100_share": {
+   "median": 0.23014139384031296,
+   "iqr": 0.10388724878430367
+  },
+  "lowest_pitch": {
+   "median": 68.6370849609375,
+   "iqr": 6.7291259765625
+  },
+  "harmonic_share": {
+   "median": 0.7085936069488525,
+   "iqr": 0.12308049201965332
+  },
+  "clean_share": {
+   "median": 0.14932004673893,
+   "iqr": 0.21922625453561193
+  },
+  "minor_share": {
+   "median": 0.08450768875007494,
+   "iqr": 0.14392511279669645
+  },
+  "chord_rate": {
+   "median": 2.45,
+   "iqr": 0.8718790442679456
+  },
+  "repetitiveness": {
+   "median": 0.8098728358745575,
+   "iqr": 0.09818649291992188
+  },
+  "vocal_share": {
+   "median": 0.1126507893204689,
+   "iqr": 0.11422114633023739
+  },
+  "vocal_voiced": {
+   "median": 0.15806451612903225,
+   "iqr": 0.285422261568531
+  },
+  "song_length": {
+   "median": 372.4925,
+   "iqr": 108.16050000000001
+  },
+  "vocal_presence": {
+   "median": 0.5833333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

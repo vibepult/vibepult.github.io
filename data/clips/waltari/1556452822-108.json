@@ -1,0 +1,32 @@
+{
+ "id": "waltari/1556452822-108",
+ "band": "waltari",
+ "title": "To Give",
+ "source": "itunes",
+ "album": "So Fine!",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.30782075837657,
+  "tempo_var": 16.352484322578537,
+  "low_onset_rate": 4.9784373030112015,
+  "lufs": -10.6415289721414,
+  "rms_dbfs": -10.150098675691703,
+  "crest": 10.15009880065918,
+  "centroid": 2293.3344716995334,
+  "flatness": 0.045601893216371536,
+  "sub100_share": 0.41458162665367126,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7630091309547424,
+  "clean_share": 0.2583397982932506,
+  "minor_share": -0.030151238678694292,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.930219292640686,
+  "vocal_share": 0.06214481219649315,
+  "vocal_voiced": 0.6247334754797441,
+  "song_length": 269.24
+ }
+}

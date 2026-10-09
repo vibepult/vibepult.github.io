@@ -1,0 +1,32 @@
+{
+ "id": "drautran/1555711075-105",
+ "band": "drautran",
+ "title": "Sævar Niðr",
+ "source": "itunes",
+ "album": "Throne of the Depths",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 1.0023699267807789,
+  "tempo_var": 4.595825397220702,
+  "low_onset_rate": 9.489101973524706,
+  "lufs": -18.73804386415552,
+  "rms_dbfs": -15.591289238366352,
+  "crest": 14.689618110656738,
+  "centroid": 570.1079888618824,
+  "flatness": 7.980594091350213e-05,
+  "sub100_share": 0.7259312868118286,
+  "lowest_pitch": 24.224853515625,
+  "harmonic_share": 0.943636417388916,
+  "clean_share": 1.0,
+  "minor_share": -0.014232557044332572,
+  "chord_rate": 2.1718015080250206,
+  "repetitiveness": 0.961033284664154,
+  "vocal_share": 0.15439549088478088,
+  "vocal_voiced": 0.9766627771295215,
+  "song_length": 300.307
+ }
+}

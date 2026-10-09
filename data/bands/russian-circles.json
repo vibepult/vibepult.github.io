@@ -1,0 +1,127 @@
+{
+ "slug": "russian-circles",
+ "name": "Russian Circles",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 145624352,
+  "deezer": 13606,
+  "spotify": "0AZ3VR0YbFcS0Kgei7L2QF"
+ },
+ "metadata": {
+  "formed": 2004,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 3,
+  "past_members": 1,
+  "full_lengths": 9,
+  "genre": "Post-Metal/Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 38049,
+  "themes": "Mostly instrumental, Introspection",
+  "release_year": 2010
+ },
+ "partial": false,
+ "clips": [
+  "russian-circles/605912955-103",
+  "russian-circles/316392113-104",
+  "russian-circles/333020661-104",
+  "russian-circles/1808581920-103",
+  "russian-circles/1808568217-105",
+  "russian-circles/1808571092-104",
+  "russian-circles/1808575807-104",
+  "russian-circles/1808561454-103",
+  "russian-circles/6769518236-103",
+  "russian-circles/605912955-104",
+  "russian-circles/316392113-103",
+  "russian-circles/333020661-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 17.183061079545453
+  },
+  "onset_rate": {
+   "median": 3.71661048207888,
+   "iqr": 3.051208843543928
+  },
+  "tempo_var": {
+   "median": 5.575911694283407,
+   "iqr": 9.371207047061636
+  },
+  "low_onset_rate": {
+   "median": 5.1152951948122585,
+   "iqr": 1.3583204839433014
+  },
+  "lufs": {
+   "median": -12.453587502405666,
+   "iqr": 8.991180034984522
+  },
+  "rms_dbfs": {
+   "median": -10.786011700732018,
+   "iqr": 8.073877416985557
+  },
+  "crest": {
+   "median": 10.71263313293457,
+   "iqr": 3.667064666748047
+  },
+  "centroid": {
+   "median": 1428.2263048609893,
+   "iqr": 802.5655697854386
+  },
+  "flatness": {
+   "median": 0.0037450140807777643,
+   "iqr": 0.011085478587119724
+  },
+  "sub100_share": {
+   "median": 0.5294674038887024,
+   "iqr": 0.17895770072937012
+  },
+  "lowest_pitch": {
+   "median": 65.9454345703125,
+   "iqr": 47.1038818359375
+  },
+  "harmonic_share": {
+   "median": 0.8633807897567749,
+   "iqr": 0.1423015147447586
+  },
+  "clean_share": {
+   "median": 0.8015651675250635,
+   "iqr": 0.6749688427086551
+  },
+  "minor_share": {
+   "median": -0.0476429811903169,
+   "iqr": 0.10988963527243231
+  },
+  "chord_rate": {
+   "median": 0.8499929454329237,
+   "iqr": 0.6083284203312622
+  },
+  "repetitiveness": {
+   "median": 0.8084111213684082,
+   "iqr": 0.2345121055841446
+  },
+  "vocal_share": {
+   "median": 0.0,
+   "iqr": 0.0
+  },
+  "vocal_voiced": {
+   "median": 0.0,
+   "iqr": 0.0
+  },
+  "song_length": {
+   "median": 449.095,
+   "iqr": 113.09625
+  },
+  "vocal_presence": {
+   "median": 0.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.0,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

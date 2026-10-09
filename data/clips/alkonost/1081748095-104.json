@@ -1,0 +1,32 @@
+{
+ "id": "alkonost/1081748095-104",
+ "band": "alkonost",
+ "title": "Время Ярости",
+ "source": "itunes",
+ "album": "Каменного сердца кровь",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 73.828125,
+  "onset_rate": 4.176541361586578,
+  "tempo_var": 12.071705988662902,
+  "low_onset_rate": 5.646683920865054,
+  "lufs": -8.033982191697836,
+  "rms_dbfs": -7.320841132942909,
+  "crest": 7.3208417892456055,
+  "centroid": 2143.3228254900237,
+  "flatness": 0.018564840778708458,
+  "sub100_share": 0.19751442968845367,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8179849982261658,
+  "clean_share": 0.09775019394879751,
+  "minor_share": -0.16113935921258138,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.7629801034927368,
+  "vocal_share": 0.12046662718057632,
+  "vocal_voiced": 0.13463035019455252,
+  "song_length": 346.88
+ }
+}

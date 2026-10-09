@@ -1,0 +1,32 @@
+{
+ "id": "arkona/1677388855-104",
+ "band": "arkona",
+ "title": "Ugasaya",
+ "source": "itunes",
+ "album": "Kob'",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 1.1666596120356036,
+  "tempo_var": 9.432680305385107,
+  "low_onset_rate": 4.133308339783282,
+  "lufs": -21.995914629720556,
+  "rms_dbfs": -21.63105223333372,
+  "crest": 17.6874942779541,
+  "centroid": 1791.9000941824474,
+  "flatness": 0.015329133719205856,
+  "sub100_share": 0.11459476500749588,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.9168251156806946,
+  "clean_share": 0.4748646558391338,
+  "minor_share": 0.08638938508574334,
+  "chord_rate": 1.6333234568498451,
+  "repetitiveness": 0.9215270280838013,
+  "vocal_share": 0.20267650485038757,
+  "vocal_voiced": 0.23634945397815912,
+  "song_length": 547.139
+ }
+}

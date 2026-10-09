@@ -1,0 +1,32 @@
+{
+ "id": "theatres-des-vampires/399448856-106",
+ "band": "theatres-des-vampires",
+ "title": "Figlio Della Luna",
+ "source": "itunes",
+ "album": "Moonlight Waltz",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 2.8734604567715656,
+  "tempo_var": 33.38586012083659,
+  "low_onset_rate": 3.174171434805799,
+  "lufs": -10.63294657643576,
+  "rms_dbfs": -10.277030925596488,
+  "crest": 10.277030944824219,
+  "centroid": 2267.6709141507663,
+  "flatness": 0.01770683005452156,
+  "sub100_share": 0.027408119291067123,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.8131281733512878,
+  "clean_share": 0.15050426687354537,
+  "minor_share": 0.17835304283483833,
+  "chord_rate": 1.4367302283857828,
+  "repetitiveness": 0.7072225213050842,
+  "vocal_share": 0.5182272791862488,
+  "vocal_voiced": 0.6035714285714285,
+  "song_length": 262.933
+ }
+}

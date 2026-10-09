@@ -1,0 +1,32 @@
+{
+ "id": "slayer/1440872056-110",
+ "band": "slayer",
+ "title": "Mr. Freeze",
+ "source": "itunes",
+ "album": "Undisputed Attitude",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 5.599915345195084,
+  "tempo_var": 4.4646442883216855,
+  "low_onset_rate": 5.733246662937824,
+  "lufs": -9.307034387123089,
+  "rms_dbfs": -9.219962832530886,
+  "crest": 9.219962120056152,
+  "centroid": 2631.234243259882,
+  "flatness": 0.04099727421998978,
+  "sub100_share": 0.15553800761699677,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.6616312265396118,
+  "clean_share": 0.005413766434648105,
+  "minor_share": -0.1598879465340377,
+  "chord_rate": 2.866623331468912,
+  "repetitiveness": 0.8955355882644653,
+  "vocal_share": 0.15059177577495575,
+  "vocal_voiced": 0.5749704840613932,
+  "song_length": 143.867
+ }
+}

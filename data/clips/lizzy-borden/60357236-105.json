@@ -1,0 +1,32 @@
+{
+ "id": "lizzy-borden/60357236-105",
+ "band": "lizzy-borden",
+ "title": "American Metal",
+ "source": "itunes",
+ "album": "Love You to Pieces",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.777963317655045,
+  "tempo_var": 13.760536777792572,
+  "low_onset_rate": 5.412797604616205,
+  "lufs": -7.2087763659641215,
+  "rms_dbfs": -7.16558679943113,
+  "crest": 7.165586948394775,
+  "centroid": 2225.1873453636417,
+  "flatness": 0.01783153973519802,
+  "sub100_share": 0.11004991829395294,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7672388553619385,
+  "clean_share": 0.1466252909231963,
+  "minor_share": 0.239601233883867,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.9079142212867737,
+  "vocal_share": 0.12636923789978027,
+  "vocal_voiced": 0.6618464961067854,
+  "song_length": 354.373
+ }
+}

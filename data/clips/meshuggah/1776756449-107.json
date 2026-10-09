@@ -1,0 +1,32 @@
+{
+ "id": "meshuggah/1776756449-107",
+ "band": "meshuggah",
+ "title": "Greed",
+ "source": "itunes",
+ "album": "Contradictions Collapse (Reloaded)",
+ "year": 1991,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 5.133333333333334,
+  "tempo_var": 16.85799152908731,
+  "low_onset_rate": 6.6,
+  "lufs": -10.416026903289918,
+  "rms_dbfs": -9.970931642142956,
+  "crest": 9.970931053161621,
+  "centroid": 2507.0396508980816,
+  "flatness": 0.032533060759305954,
+  "sub100_share": 0.3580811619758606,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7778658866882324,
+  "clean_share": 0.18653250773993807,
+  "minor_share": -0.008644574951980233,
+  "chord_rate": 2.7666666666666666,
+  "repetitiveness": 0.9006252288818359,
+  "vocal_share": 0.0005287631065584719,
+  "vocal_voiced": 1.0,
+  "song_length": 425.48
+ }
+}

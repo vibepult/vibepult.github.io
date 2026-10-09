@@ -1,0 +1,32 @@
+{
+ "id": "kauan/1807902856-104",
+ "band": "kauan",
+ "title": "leave / let go",
+ "source": "itunes",
+ "album": "Wayhome",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.566639052825077,
+  "tempo_var": 23.697694304485644,
+  "low_onset_rate": 2.066654169891641,
+  "lufs": -23.467728284721044,
+  "rms_dbfs": -22.513345733418927,
+  "crest": 18.661958694458008,
+  "centroid": 783.5113912705255,
+  "flatness": 0.0012782936682924628,
+  "sub100_share": 0.054042600095272064,
+  "lowest_pitch": 99.591064453125,
+  "harmonic_share": 0.9386959075927734,
+  "clean_share": 0.9822119102861562,
+  "minor_share": 0.23385452218142744,
+  "chord_rate": 1.5333240615325077,
+  "repetitiveness": 0.8686205148696899,
+  "vocal_share": 7.796070917720499e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 403.872
+ }
+}

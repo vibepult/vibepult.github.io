@@ -1,0 +1,32 @@
+{
+ "id": "taake/1624634281-103",
+ "band": "taake",
+ "title": "Det Fins En Prins",
+ "source": "itunes",
+ "album": "Stridens Hus",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 0.3675356398196189,
+  "tempo_var": 15.297061103039756,
+  "low_onset_rate": 5.279148281045435,
+  "lufs": -9.876990860392134,
+  "rms_dbfs": -11.637530946124171,
+  "crest": 11.637531280517578,
+  "centroid": 3106.613235687027,
+  "flatness": 0.03747210279107094,
+  "sub100_share": 0.07679290324449539,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.6179242730140686,
+  "clean_share": 0.037238169123351435,
+  "minor_share": 0.04218566592075862,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.8505411744117737,
+  "vocal_share": 0.09765715897083282,
+  "vocal_voiced": 0.17682926829268292,
+  "song_length": 487.227
+ }
+}

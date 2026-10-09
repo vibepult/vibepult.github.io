@@ -1,0 +1,32 @@
+{
+ "id": "tuatha-de-danann/1545070123-105",
+ "band": "tuatha-de-danann",
+ "title": "The Calling",
+ "source": "itunes",
+ "album": "In Nomine Éireann",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.9784373030112015,
+  "tempo_var": 2.1910286108550254,
+  "low_onset_rate": 5.078674295689279,
+  "lufs": -10.242915188638186,
+  "rms_dbfs": -9.414516610849619,
+  "crest": 9.41451644897461,
+  "centroid": 2261.2889427512155,
+  "flatness": 0.018796784803271294,
+  "sub100_share": 0.34184011816978455,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.731369137763977,
+  "clean_share": 0.2513576415826222,
+  "minor_share": -0.2107587025794504,
+  "chord_rate": 2.1049768462396354,
+  "repetitiveness": 0.8271229267120361,
+  "vocal_share": 0.30317023396492004,
+  "vocal_voiced": 0.59375,
+  "song_length": 217.427
+ }
+}

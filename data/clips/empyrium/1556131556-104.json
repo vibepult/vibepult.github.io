@@ -1,0 +1,32 @@
+{
+ "id": "empyrium/1556131556-104",
+ "band": "empyrium",
+ "title": "The Yearning",
+ "source": "itunes",
+ "album": "A Wintersunset...",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 2.6395741405227175,
+  "tempo_var": 9.22745396425069,
+  "low_onset_rate": 2.338863162488484,
+  "lufs": -15.264763337065219,
+  "rms_dbfs": -15.251135601502483,
+  "crest": 14.818822860717773,
+  "centroid": 2203.2335400133693,
+  "flatness": 0.01156807504594326,
+  "sub100_share": 0.03516087308526039,
+  "lowest_pitch": 131.890869140625,
+  "harmonic_share": 0.90282142162323,
+  "clean_share": 0.3297129557796742,
+  "minor_share": -0.23748440974292623,
+  "chord_rate": 0.30071097803423363,
+  "repetitiveness": 0.6939299702644348,
+  "vocal_share": 5.825478410770302e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 521.24
+ }
+}

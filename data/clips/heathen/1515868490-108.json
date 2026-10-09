@@ -1,0 +1,32 @@
+{
+ "id": "heathen/1515868490-108",
+ "band": "heathen",
+ "title": "Shrine of Apathy",
+ "source": "itunes",
+ "album": "Empire of the Blind",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 2.9736974494496438,
+  "tempo_var": 19.277351811103447,
+  "low_onset_rate": 4.4772523396208115,
+  "lufs": -14.281571532273535,
+  "rms_dbfs": -14.142774981101125,
+  "crest": 14.142775535583496,
+  "centroid": 1697.298987624044,
+  "flatness": 0.0037899597082287073,
+  "sub100_share": 0.1210920512676239,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.902353048324585,
+  "clean_share": 0.8983708301008534,
+  "minor_share": -0.1877962678409395,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.6944853663444519,
+  "vocal_share": 0.1579665243625641,
+  "vocal_voiced": 0.9626865671641791,
+  "song_length": 298.547
+ }
+}

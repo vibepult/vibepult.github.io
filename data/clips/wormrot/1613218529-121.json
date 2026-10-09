@@ -1,0 +1,32 @@
+{
+ "id": "wormrot/1613218529-121",
+ "band": "wormrot",
+ "title": "Glass Shards",
+ "source": "itunes",
+ "album": "Hiss",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.379385273723512,
+  "tempo_var": 10.194511169175984,
+  "low_onset_rate": 6.849527833001988,
+  "lufs": -8.055227256400526,
+  "rms_dbfs": -7.403825945694729,
+  "crest": 7.403825759887695,
+  "centroid": 2256.109011612782,
+  "flatness": 0.026573795825242996,
+  "sub100_share": 0.4134049415588379,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.729586124420166,
+  "clean_share": 0.04809930178432894,
+  "minor_share": 0.1290259593052286,
+  "chord_rate": 2.1049768462396354,
+  "repetitiveness": 0.931377112865448,
+  "vocal_share": 0.035957369953393936,
+  "vocal_voiced": 0.19626168224299065,
+  "song_length": 268.547
+ }
+}

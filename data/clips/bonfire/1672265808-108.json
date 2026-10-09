@@ -1,0 +1,32 @@
+{
+ "id": "bonfire/1672265808-108",
+ "band": "bonfire",
+ "title": "The Price of Loving You (MMXXIII Version)",
+ "source": "itunes",
+ "album": "Point Blank (MMXXIII Version)",
+ "year": 1989,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.0071097803423363,
+  "tempo_var": 2.0179995407953464,
+  "low_onset_rate": 5.078674295689279,
+  "lufs": -8.73556382985184,
+  "rms_dbfs": -7.605048254141255,
+  "crest": 7.605048179626465,
+  "centroid": 2359.4162773898274,
+  "flatness": 0.019055111333727837,
+  "sub100_share": 0.3967950642108917,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7999574542045593,
+  "clean_share": 0.07680372381691233,
+  "minor_share": -0.10891719504614406,
+  "chord_rate": 1.971327522668865,
+  "repetitiveness": 0.7328323125839233,
+  "vocal_share": 0.13642625510692596,
+  "vocal_voiced": 0.6920583468395461,
+  "song_length": 205.627
+ }
+}

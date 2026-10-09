@@ -1,0 +1,32 @@
+{
+ "id": "jack-frost/296640771-108",
+ "band": "jack-frost",
+ "title": "Leaving On a Jetplane",
+ "source": "itunes",
+ "album": "My Own Private Hell",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.6753563981961888,
+  "tempo_var": 4.478311009303414,
+  "low_onset_rate": 5.579859259079669,
+  "lufs": -12.255318246336332,
+  "rms_dbfs": -10.892941572986954,
+  "crest": 10.892942428588867,
+  "centroid": 903.8855319557053,
+  "flatness": 0.0010371655225753784,
+  "sub100_share": 0.35367435216903687,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.9106904864311218,
+  "clean_share": 0.9581070597362297,
+  "minor_share": -0.2946225300336016,
+  "chord_rate": 0.534597294283082,
+  "repetitiveness": 0.5735849142074585,
+  "vocal_share": 0.336025208234787,
+  "vocal_voiced": 0.7992633517495396,
+  "song_length": 384.12
+ }
+}

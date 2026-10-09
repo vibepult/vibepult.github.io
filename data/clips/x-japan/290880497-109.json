@@ -1,0 +1,32 @@
+{
+ "id": "x-japan/290880497-109",
+ "band": "x-japan",
+ "title": "Joker",
+ "source": "itunes",
+ "album": "Jealousy",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.730337095626504,
+  "tempo_var": 17.584253921936483,
+  "low_onset_rate": 5.2966450577789725,
+  "lufs": -10.049261945794257,
+  "rms_dbfs": -10.114578515705935,
+  "crest": 10.114578247070312,
+  "centroid": 2705.5097382170015,
+  "flatness": 0.03818012773990631,
+  "sub100_share": 0.21645617485046387,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7102218866348267,
+  "clean_share": 0.010054137664346482,
+  "minor_share": -0.2944259123191819,
+  "chord_rate": 1.7322361195251987,
+  "repetitiveness": 0.8496716022491455,
+  "vocal_share": 0.15840904414653778,
+  "vocal_voiced": 0.8175559380378657,
+  "song_length": 331.307
+ }
+}

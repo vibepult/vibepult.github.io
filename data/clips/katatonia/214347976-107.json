@@ -1,0 +1,32 @@
+{
+ "id": "katatonia/214347976-107",
+ "band": "katatonia",
+ "title": "Last Resort",
+ "source": "itunes",
+ "album": "Discouraged Ones",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 2.8333333333333335,
+  "tempo_var": 36.86265552058859,
+  "low_onset_rate": 2.4,
+  "lufs": -12.32524669691075,
+  "rms_dbfs": -12.382708465020311,
+  "crest": 12.382708549499512,
+  "centroid": 2970.241538910036,
+  "flatness": 0.04633287712931633,
+  "sub100_share": 0.3013558089733124,
+  "lowest_pitch": 139.9658203125,
+  "harmonic_share": 0.752765953540802,
+  "clean_share": 0.0,
+  "minor_share": 0.05713194475584793,
+  "chord_rate": 1.3666666666666667,
+  "repetitiveness": 0.6845885515213013,
+  "vocal_share": 0.17860528826713562,
+  "vocal_voiced": 0.6578125,
+  "song_length": 277.133
+ }
+}

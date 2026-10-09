@@ -1,0 +1,32 @@
+{
+ "id": "mago-de-oz/369870300-108",
+ "band": "mago-de-oz",
+ "title": "Domingo de Gramos",
+ "source": "itunes",
+ "album": "Jesús de Chamberí",
+ "year": 1996,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.333333333333333,
+  "tempo_var": 12.511528235468473,
+  "low_onset_rate": 6.166666666666667,
+  "lufs": -17.860005323860495,
+  "rms_dbfs": -17.45648213626441,
+  "crest": 16.346485137939453,
+  "centroid": 2269.7152225667123,
+  "flatness": 0.0184993427246809,
+  "sub100_share": 0.32397013902664185,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.771405816078186,
+  "clean_share": 0.2530959752321981,
+  "minor_share": -0.31141667452892696,
+  "chord_rate": 1.4,
+  "repetitiveness": 0.7632707953453064,
+  "vocal_share": 0.1662980169057846,
+  "vocal_voiced": 0.9597523219814241,
+  "song_length": 254.932
+ }
+}

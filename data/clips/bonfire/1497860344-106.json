@@ -1,0 +1,32 @@
+{
+ "id": "bonfire/1497860344-106",
+ "band": "bonfire",
+ "title": "Rock'n'roll Survivors",
+ "source": "itunes",
+ "album": "Fistful of Fire",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.310190685157349,
+  "tempo_var": 2.2540982121123134,
+  "low_onset_rate": 3.94265504533773,
+  "lufs": -8.479039729013637,
+  "rms_dbfs": -8.16886381566833,
+  "crest": 8.168863296508789,
+  "centroid": 2431.683096956448,
+  "flatness": 0.02796722948551178,
+  "sub100_share": 0.31618282198905945,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.6893861889839172,
+  "clean_share": 0.005430566330488751,
+  "minor_share": -0.08143800364370424,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.7985720038414001,
+  "vocal_share": 0.24290825426578522,
+  "vocal_voiced": 0.648360655737705,
+  "song_length": 233.293
+ }
+}

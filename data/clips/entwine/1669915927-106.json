@@ -1,0 +1,32 @@
+{
+ "id": "entwine/1669915927-106",
+ "band": "entwine",
+ "title": "Frozen by the Sun",
+ "source": "itunes",
+ "album": "Dieversity",
+ "year": 2004,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.6395741405227175,
+  "tempo_var": 2.0607798423021486,
+  "low_onset_rate": 1.9379151917761723,
+  "lufs": -8.096342664927818,
+  "rms_dbfs": -8.041297637536337,
+  "crest": 8.041297912597656,
+  "centroid": 2673.8629802337714,
+  "flatness": 0.03385290130972862,
+  "sub100_share": 0.3538319766521454,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8708134293556213,
+  "clean_share": 0.017067494181536073,
+  "minor_share": -0.035553359898115255,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.8042555451393127,
+  "vocal_share": 0.19991444051265717,
+  "vocal_voiced": 0.8105451295799821,
+  "song_length": 193.307
+ }
+}

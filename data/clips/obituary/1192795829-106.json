@@ -1,0 +1,32 @@
+{
+ "id": "obituary/1192795829-106",
+ "band": "obituary",
+ "title": "It Lives",
+ "source": "itunes",
+ "album": "Obituary",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 7.3173004654996845,
+  "tempo_var": 3.8248073138155725,
+  "low_onset_rate": 8.921092348348932,
+  "lufs": -9.541397209318594,
+  "rms_dbfs": -8.602492964728356,
+  "crest": 8.602493286132812,
+  "centroid": 2408.1622318154646,
+  "flatness": 0.024529745802283287,
+  "sub100_share": 0.35124075412750244,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8131183981895447,
+  "clean_share": 0.0,
+  "minor_share": 0.05731025789028288,
+  "chord_rate": 2.138389177132328,
+  "repetitiveness": 0.9099093079566956,
+  "vocal_share": 0.2018841952085495,
+  "vocal_voiced": 0.7792321116928447,
+  "song_length": 204.096
+ }
+}

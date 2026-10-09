@@ -1,0 +1,127 @@
+{
+ "slug": "symphony-x",
+ "name": "Symphony X",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 181601973,
+  "deezer": 3797,
+  "spotify": "4MnZkh4dpNmTMPxkl4Ev5L"
+ },
+ "metadata": {
+  "formed": 1994,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 3,
+  "full_lengths": 9,
+  "genre": "Progressive Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 97576,
+  "themes": "Mythology, Fantasy, Religion, Philosophy, Dystopia",
+  "release_year": 1997
+ },
+ "partial": false,
+ "clips": [
+  "symphony-x/1197835899-106",
+  "symphony-x/1197822920-105",
+  "symphony-x/1197816007-105",
+  "symphony-x/1197862960-105",
+  "symphony-x/1322043946-107",
+  "symphony-x/1321144280-105",
+  "symphony-x/1474749603-105",
+  "symphony-x/1456972106-106",
+  "symphony-x/1472543041-106",
+  "symphony-x/1197835899-105",
+  "symphony-x/1197822920-104",
+  "symphony-x/1197816007-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 27.75390625
+  },
+  "onset_rate": {
+   "median": 4.1666036794606285,
+   "iqr": 1.4106752344904043
+  },
+  "tempo_var": {
+   "median": 8.992785042347426,
+   "iqr": 11.93179664228059
+  },
+  "low_onset_rate": {
+   "median": 3.8211803041638728,
+   "iqr": 1.503050454201392
+  },
+  "lufs": {
+   "median": -12.612554845748289,
+   "iqr": 5.134417473391451
+  },
+  "rms_dbfs": {
+   "median": -12.259966434330615,
+   "iqr": 5.987468565784837
+  },
+  "crest": {
+   "median": 12.259966850280762,
+   "iqr": 5.450091361999512
+  },
+  "centroid": {
+   "median": 2450.746656996628,
+   "iqr": 255.71588384754978
+  },
+  "flatness": {
+   "median": 0.021813780069351196,
+   "iqr": 0.0177616560831666
+  },
+  "sub100_share": {
+   "median": 0.24267491698265076,
+   "iqr": 0.12884023785591125
+  },
+  "lowest_pitch": {
+   "median": 72.674560546875,
+   "iqr": 23.55194091796875
+  },
+  "harmonic_share": {
+   "median": 0.7710423171520233,
+   "iqr": 0.08460783958435059
+  },
+  "clean_share": {
+   "median": 0.08159319412219644,
+   "iqr": 0.16596602101066973
+  },
+  "minor_share": {
+   "median": -0.0028960306226888666,
+   "iqr": 0.25407950900989834
+  },
+  "chord_rate": {
+   "median": 1.683315596089494,
+   "iqr": 0.7679072249686254
+  },
+  "repetitiveness": {
+   "median": 0.815837562084198,
+   "iqr": 0.10772790014743805
+  },
+  "vocal_share": {
+   "median": 0.30444225668907166,
+   "iqr": 0.10694938898086548
+  },
+  "vocal_voiced": {
+   "median": 0.8991049633848658,
+   "iqr": 0.044960341466693476
+  },
+  "song_length": {
+   "median": 373.3465,
+   "iqr": 84.64049999999997
+  },
+  "vocal_presence": {
+   "median": 0.4166666666666667,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

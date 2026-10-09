@@ -1,0 +1,32 @@
+{
+ "id": "down/299793030-110",
+ "band": "down",
+ "title": "Stone the Crow",
+ "source": "itunes",
+ "album": "Nola",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.4662579469087547,
+  "tempo_var": 2.6646167750897303,
+  "low_onset_rate": 3.299610930230449,
+  "lufs": -10.24567825345976,
+  "rms_dbfs": -10.063961096106965,
+  "crest": 10.063961029052734,
+  "centroid": 2495.77787186668,
+  "flatness": 0.029577041044831276,
+  "sub100_share": 0.17940612137317657,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.6910101175308228,
+  "clean_share": 0.006187161639597835,
+  "minor_share": 0.14285900522451545,
+  "chord_rate": 1.999764200139666,
+  "repetitiveness": 0.8313890695571899,
+  "vocal_share": 0.2356511950492859,
+  "vocal_voiced": 0.8484455958549223,
+  "song_length": 282.507
+ }
+}

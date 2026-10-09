@@ -1,0 +1,32 @@
+{
+ "id": "macabre/1492335403-113",
+ "band": "macabre",
+ "title": "Rat Man",
+ "source": "itunes",
+ "album": "Gloom",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.109716699801193,
+  "tempo_var": 11.13876106281178,
+  "low_onset_rate": 4.777963317655045,
+  "lufs": -8.180916619952027,
+  "rms_dbfs": -8.46654875854618,
+  "crest": 8.466547966003418,
+  "centroid": 2621.281246444774,
+  "flatness": 0.042586445808410645,
+  "sub100_share": 0.2668401598930359,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.6500036716461182,
+  "clean_share": 0.003878975950349108,
+  "minor_share": 0.10452889381186886,
+  "chord_rate": 2.7063988023081027,
+  "repetitiveness": 0.9559109210968018,
+  "vocal_share": 0.2242467701435089,
+  "vocal_voiced": 0.2044917257683215,
+  "song_length": 130.733
+ }
+}

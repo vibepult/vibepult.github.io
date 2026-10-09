@@ -1,0 +1,32 @@
+{
+ "id": "riverside/1148788808-103",
+ "band": "riverside",
+ "title": "Celebrity Touch",
+ "source": "itunes",
+ "album": "Shrine of New Generation Slaves",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 3.9641557350672816,
+  "tempo_var": 29.574432437237036,
+  "low_onset_rate": 3.764282336660528,
+  "lufs": -9.42389968833914,
+  "rms_dbfs": -8.798633293898625,
+  "crest": 8.798633575439453,
+  "centroid": 2068.5291008522386,
+  "flatness": 0.01596582680940628,
+  "sub100_share": 0.25096559524536133,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7920783162117004,
+  "clean_share": 0.1500386697602475,
+  "minor_share": -0.08645450894606155,
+  "chord_rate": 1.3324893227116912,
+  "repetitiveness": 0.7773259878158569,
+  "vocal_share": 0.20448991656303406,
+  "vocal_voiced": 0.8337028824833703,
+  "song_length": 407.347
+ }
+}

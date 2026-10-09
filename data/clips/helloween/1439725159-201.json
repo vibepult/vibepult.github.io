@@ -1,0 +1,32 @@
+{
+ "id": "helloween/1439725159-201",
+ "band": "helloween",
+ "title": "Savage",
+ "source": "itunes",
+ "album": "Keeper of the Seven Keys, Pt. II (Expanded Edition)",
+ "year": 1988,
+ "itunes_year": 1988,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 4.533333333333333,
+  "tempo_var": 29.998151040770203,
+  "low_onset_rate": 8.533333333333333,
+  "lufs": -10.82226370074527,
+  "rms_dbfs": -10.86828124120048,
+  "crest": 10.868281364440918,
+  "centroid": 3003.0153013169,
+  "flatness": 0.04756404086947441,
+  "sub100_share": 0.28467103838920593,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.7515287399291992,
+  "clean_share": 0.0030959752321981426,
+  "minor_share": -0.017801640501785843,
+  "chord_rate": 2.1666666666666665,
+  "repetitiveness": 0.907097339630127,
+  "vocal_share": 0.2751321494579315,
+  "vocal_voiced": 0.6411609498680739,
+  "song_length": 202.933
+ }
+}

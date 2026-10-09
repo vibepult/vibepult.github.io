@@ -1,0 +1,32 @@
+{
+ "id": "arkona/1184700136-105",
+ "band": "arkona",
+ "title": "Gorod Snov",
+ "source": "itunes",
+ "album": "Yav",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 66.25600961538461,
+  "onset_rate": 4.6,
+  "tempo_var": 9.480197305312426,
+  "low_onset_rate": 3.7333333333333334,
+  "lufs": -8.860029648822907,
+  "rms_dbfs": -8.590631655013846,
+  "crest": 8.590632438659668,
+  "centroid": 2534.5352152814526,
+  "flatness": 0.03373244032263756,
+  "sub100_share": 0.3046565353870392,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7443305253982544,
+  "clean_share": 0.021671826625386997,
+  "minor_share": 0.22587585364578888,
+  "chord_rate": 1.0333333333333334,
+  "repetitiveness": 0.8641223907470703,
+  "vocal_share": 0.16936595737934113,
+  "vocal_voiced": 0.8243978243978244,
+  "song_length": 288.747
+ }
+}

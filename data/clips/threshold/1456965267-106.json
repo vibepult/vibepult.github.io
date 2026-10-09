@@ -1,0 +1,32 @@
+{
+ "id": "threshold/1456965267-106",
+ "band": "threshold",
+ "title": "The Hours",
+ "source": "itunes",
+ "album": "March of Progress",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.742181059981574,
+  "tempo_var": 15.844210370342918,
+  "low_onset_rate": 6.3817552005042915,
+  "lufs": -12.650934706341054,
+  "rms_dbfs": -11.040405284628186,
+  "crest": 11.0404052734375,
+  "centroid": 1229.9232767489823,
+  "flatness": 0.01601000688970089,
+  "sub100_share": 0.5472791790962219,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.8914483189582825,
+  "clean_share": 0.8851823118696664,
+  "minor_share": -0.07948536567723352,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.901201069355011,
+  "vocal_share": 8.750286042413791e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 495.213
+ }
+}

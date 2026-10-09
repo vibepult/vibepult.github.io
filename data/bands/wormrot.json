@@ -1,0 +1,124 @@
+{
+ "slug": "wormrot",
+ "name": "Wormrot",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 363581845,
+  "deezer": 396971,
+  "spotify": "3vMnvW7u5207ATyxTQIxNz"
+ },
+ "metadata": {
+  "formed": 2007,
+  "split": null,
+  "country": "SG",
+  "status": "active",
+  "members": 3,
+  "past_members": 4,
+  "full_lengths": 4,
+  "genre": "Grindcore",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 5231,
+  "themes": "Social politics, Life experiences",
+  "release_year": 2022
+ },
+ "partial": false,
+ "clips": [
+  "wormrot/1775726325-123",
+  "wormrot/1135031377-117",
+  "wormrot/1613218529-113",
+  "wormrot/1135031377-116",
+  "wormrot/1613218529-111",
+  "wormrot/1135031377-120",
+  "wormrot/1613218529-116",
+  "wormrot/1613218529-110",
+  "wormrot/1613218529-121"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 28.33316200657896
+  },
+  "onset_rate": {
+   "median": 6.582229185860447,
+   "iqr": 2.255263693274495
+  },
+  "tempo_var": {
+   "median": 10.114008176877942,
+   "iqr": 10.31167269547715
+  },
+  "low_onset_rate": {
+   "median": 6.849527833001988,
+   "iqr": 0.7503355593846974
+  },
+  "lufs": {
+   "median": -8.055227256400526,
+   "iqr": 0.992589758660869
+  },
+  "rms_dbfs": {
+   "median": -7.403825945694729,
+   "iqr": 0.5836147855350884
+  },
+  "crest": {
+   "median": 7.403825759887695,
+   "iqr": 0.5836143493652344
+  },
+  "centroid": {
+   "median": 2457.4362047574537,
+   "iqr": 329.7511417683422
+  },
+  "flatness": {
+   "median": 0.03665662556886673,
+   "iqr": 0.024387596175074577
+  },
+  "sub100_share": {
+   "median": 0.352481484413147,
+   "iqr": 0.11248916387557983
+  },
+  "lowest_pitch": {
+   "median": 48.44970703125,
+   "iqr": 24.224853515625
+  },
+  "harmonic_share": {
+   "median": 0.7108414173126221,
+   "iqr": 0.0926581621170044
+  },
+  "clean_share": {
+   "median": 0.01237432327919567,
+   "iqr": 0.05955143078112916
+  },
+  "minor_share": {
+   "median": 0.21514087759680955,
+   "iqr": 0.10044044910472644
+  },
+  "chord_rate": {
+   "median": 1.6372042137419387,
+   "iqr": 0.8333207358921257
+  },
+  "repetitiveness": {
+   "median": 0.9058502912521362,
+   "iqr": 0.06056666374206543
+  },
+  "vocal_share": {
+   "median": 0.13113611936569214,
+   "iqr": 0.11351605132222176
+  },
+  "vocal_voiced": {
+   "median": 0.23666092943201378,
+   "iqr": 0.14073824051763772
+  },
+  "song_length": {
+   "median": 164.853,
+   "iqr": 32.34700000000001
+  },
+  "vocal_presence": {
+   "median": 0.7777777777777778,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.0,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

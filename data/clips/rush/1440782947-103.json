@@ -1,0 +1,32 @@
+{
+ "id": "rush/1440782947-103",
+ "band": "rush",
+ "title": "Jacob's Ladder",
+ "source": "itunes",
+ "album": "Permanent Waves (Remastered)",
+ "year": 1980,
+ "itunes_year": 1980,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.3664427460607307,
+  "tempo_var": 1.8267889445869139,
+  "low_onset_rate": 3.1664560482749446,
+  "lufs": -12.402650391540128,
+  "rms_dbfs": -12.32301939747526,
+  "crest": 12.323019027709961,
+  "centroid": 2161.8436495265446,
+  "flatness": 0.018029604107141495,
+  "sub100_share": 0.1843937188386917,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.6606583595275879,
+  "clean_share": 0.07424593967517401,
+  "minor_share": -0.047709356467912356,
+  "chord_rate": 1.7332180474768117,
+  "repetitiveness": 0.7736377716064453,
+  "vocal_share": 0.07100978493690491,
+  "vocal_voiced": 0.9447236180904522,
+  "song_length": 449.296
+ }
+}

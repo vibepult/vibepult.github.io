@@ -1,0 +1,32 @@
+{
+ "id": "primordial/306937472-104",
+ "band": "primordial",
+ "title": "The Darkest Flame",
+ "source": "itunes",
+ "album": "Imrama",
+ "year": 1995,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.109716699801193,
+  "tempo_var": 14.155885301450983,
+  "low_onset_rate": 6.314930538718906,
+  "lufs": -7.649492447610791,
+  "rms_dbfs": -7.223433552225861,
+  "crest": 7.223433494567871,
+  "centroid": 3062.6175656183786,
+  "flatness": 0.04338226467370987,
+  "sub100_share": 0.3945557773113251,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8326500654220581,
+  "clean_share": 0.0,
+  "minor_share": 0.16685848434904504,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.7266358137130737,
+  "vocal_share": 0.07989449054002762,
+  "vocal_voiced": 0.7672090112640801,
+  "song_length": 318.653
+ }
+}

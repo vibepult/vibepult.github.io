@@ -1,0 +1,127 @@
+{
+ "slug": "burning-inside",
+ "name": "Burning Inside",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 34704981,
+  "deezer": 62631,
+  "spotify": "63T8Yt5ibQtSzBuSI72y0v"
+ },
+ "metadata": {
+  "formed": 1995,
+  "split": 2007,
+  "country": "US",
+  "status": "split-up",
+  "members": 4,
+  "past_members": 0,
+  "full_lengths": 2,
+  "genre": "Technical Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 275,
+  "themes": "Death, Desolation, Evil",
+  "release_year": 2000
+ },
+ "partial": false,
+ "clips": [
+  "burning-inside/35962342-105",
+  "burning-inside/34705229-105",
+  "burning-inside/35962342-106",
+  "burning-inside/34705229-106",
+  "burning-inside/35962342-104",
+  "burning-inside/34705229-103",
+  "burning-inside/35962342-108",
+  "burning-inside/34705229-107",
+  "burning-inside/35962342-103",
+  "burning-inside/34705229-102",
+  "burning-inside/35962342-109",
+  "burning-inside/34705229-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 135.99917763157896,
+   "iqr": 54.96985394021739
+  },
+  "onset_rate": {
+   "median": 6.365049035057945,
+   "iqr": 2.1300360944091556
+  },
+  "tempo_var": {
+   "median": 12.43487680746077,
+   "iqr": 6.732313473421929
+  },
+  "low_onset_rate": {
+   "median": 6.632347682199486,
+   "iqr": 1.1610784985210687
+  },
+  "lufs": {
+   "median": -8.520284251704986,
+   "iqr": 1.1321759322408207
+  },
+  "rms_dbfs": {
+   "median": -7.835257222428245,
+   "iqr": 1.2150963785476012
+  },
+  "crest": {
+   "median": 7.835257053375244,
+   "iqr": 1.2150958776474
+  },
+  "centroid": {
+   "median": 2405.226440415051,
+   "iqr": 351.1687630847041
+  },
+  "flatness": {
+   "median": 0.027674769051373005,
+   "iqr": 0.023988523986190557
+  },
+  "sub100_share": {
+   "median": 0.2149924337863922,
+   "iqr": 0.07798581197857857
+  },
+  "lowest_pitch": {
+   "median": 94.207763671875,
+   "iqr": 45.08514404296875
+  },
+  "harmonic_share": {
+   "median": 0.747219979763031,
+   "iqr": 0.10896322131156921
+  },
+  "clean_share": {
+   "median": 0.02404965089216447,
+   "iqr": 0.06923972071373158
+  },
+  "minor_share": {
+   "median": 0.006024115137927388,
+   "iqr": 0.19387254332731796
+  },
+  "chord_rate": {
+   "median": 2.2386261698104057,
+   "iqr": 0.46777263249769696
+  },
+  "repetitiveness": {
+   "median": 0.909007728099823,
+   "iqr": 0.13951155543327332
+  },
+  "vocal_share": {
+   "median": 0.09968604147434235,
+   "iqr": 0.0345456525683403
+  },
+  "vocal_voiced": {
+   "median": 0.1864406779661017,
+   "iqr": 0.14493244295009497
+  },
+  "song_length": {
+   "median": 287.7205,
+   "iqr": 209.57300000000004
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

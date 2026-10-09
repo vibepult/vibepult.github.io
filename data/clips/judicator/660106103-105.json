@@ -1,0 +1,32 @@
+{
+ "id": "judicator/660106103-105",
+ "band": "judicator",
+ "title": "Release Me",
+ "source": "itunes",
+ "album": "Sleepy Plessow",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.613271589972361,
+  "tempo_var": 2.987367403588359,
+  "low_onset_rate": 7.150238811036222,
+  "lufs": -6.175450933894088,
+  "rms_dbfs": -5.858881995192885,
+  "crest": 5.858881950378418,
+  "centroid": 2587.1027965561952,
+  "flatness": 0.037290334701538086,
+  "sub100_share": 0.324694961309433,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7868154048919678,
+  "clean_share": 0.0,
+  "minor_share": 0.20061008658614404,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.8923816084861755,
+  "vocal_share": 0.33411720395088196,
+  "vocal_voiced": 0.6556862745098039,
+  "song_length": 295.234
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "saturnus/1673921447-104",
+ "band": "saturnus",
+ "title": "Even Tide",
+ "source": "itunes",
+ "album": "The Storm Within",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 2.6395741405227175,
+  "tempo_var": 36.58584530794997,
+  "low_onset_rate": 5.9139825680065945,
+  "lufs": -25.94992577099849,
+  "rms_dbfs": -25.227527710170683,
+  "crest": 14.566667556762695,
+  "centroid": 573.3250206852673,
+  "flatness": 1.5193696526694112e-05,
+  "sub100_share": 4.550011726678349e-05,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.9859240055084229,
+  "clean_share": 0.9992242048099301,
+  "minor_share": 0.2442801452699579,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.6651689410209656,
+  "vocal_share": 8.110529961413704e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 451.1
+ }
+}

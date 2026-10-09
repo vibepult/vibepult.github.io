@@ -1,0 +1,32 @@
+{
+ "id": "falkenbach/1556078710-105",
+ "band": "falkenbach",
+ "title": "Eweroun",
+ "source": "itunes",
+ "album": "Asa",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 2.840048125878873,
+  "tempo_var": 3.6463605477557084,
+  "low_onset_rate": 4.777963317655045,
+  "lufs": -10.491764737769842,
+  "rms_dbfs": -9.822314011209208,
+  "crest": 9.822314262390137,
+  "centroid": 2377.4922520377695,
+  "flatness": 0.023124374449253082,
+  "sub100_share": 0.31461572647094727,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8105087280273438,
+  "clean_share": 0.0,
+  "minor_share": 0.2855000016197978,
+  "chord_rate": 0.9689575958880862,
+  "repetitiveness": 0.6267542839050293,
+  "vocal_share": 0.08041717112064362,
+  "vocal_voiced": 0.8950338600451467,
+  "song_length": 349.76
+ }
+}

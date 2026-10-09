@@ -1,0 +1,32 @@
+{
+ "id": "firewind/1549808356-104",
+ "band": "firewind",
+ "title": "Burning Earth",
+ "source": "itunes",
+ "album": "Burning Earth",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 6.74929084032391,
+  "tempo_var": 13.243649944038186,
+  "low_onset_rate": 7.217063472821607,
+  "lufs": -7.454343707025652,
+  "rms_dbfs": -7.004664733247402,
+  "crest": 7.004664421081543,
+  "centroid": 2523.32085651548,
+  "flatness": 0.03379346430301666,
+  "sub100_share": 0.3872796893119812,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8094617128372192,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.17307354770964023,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.9027480483055115,
+  "vocal_share": 0.22607776522636414,
+  "vocal_voiced": 0.6137096774193549,
+  "song_length": 241.8
+ }
+}

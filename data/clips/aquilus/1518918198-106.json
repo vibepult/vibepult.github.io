@@ -1,0 +1,32 @@
+{
+ "id": "aquilus/1518918198-106",
+ "band": "aquilus",
+ "title": "Arboreal Sleep",
+ "source": "itunes",
+ "album": "Griseus",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 4.109716699801193,
+  "tempo_var": 2.0889196097653246,
+  "low_onset_rate": 6.949764825680066,
+  "lufs": -9.091104411719257,
+  "rms_dbfs": -8.52572904072288,
+  "crest": 8.525728225708008,
+  "centroid": 2603.1825029950924,
+  "flatness": 0.03293541446328163,
+  "sub100_share": 0.3890497386455536,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8622528314590454,
+  "clean_share": 0.0,
+  "minor_share": 0.3014346039388077,
+  "chord_rate": 0.8353082723173156,
+  "repetitiveness": 0.7496572136878967,
+  "vocal_share": 0.0075099230743944645,
+  "vocal_voiced": 0.7669172932330827,
+  "song_length": 510.025
+ }
+}

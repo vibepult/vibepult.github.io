@@ -1,0 +1,32 @@
+{
+ "id": "obituary/214395266-105",
+ "band": "obituary",
+ "title": "Sickness",
+ "source": "itunes",
+ "album": "The End Complete",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 6.649053847645832,
+  "tempo_var": 17.702930977416454,
+  "low_onset_rate": 6.715878509431217,
+  "lufs": -9.172097448049994,
+  "rms_dbfs": -9.226162276797863,
+  "crest": 9.22616195678711,
+  "centroid": 2949.7877750174616,
+  "flatness": 0.052972592413425446,
+  "sub100_share": 0.2376556396484375,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.6400725841522217,
+  "clean_share": 0.0031031807602792862,
+  "minor_share": 0.07089879325087461,
+  "chord_rate": 2.5393371478446394,
+  "repetitiveness": 0.9002670645713806,
+  "vocal_share": 0.20506028831005096,
+  "vocal_voiced": 0.5744186046511628,
+  "song_length": 246.453
+ }
+}

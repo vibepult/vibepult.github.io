@@ -1,0 +1,32 @@
+{
+ "id": "dream-theater/65615441-104",
+ "band": "dream-theater",
+ "title": "I Walk Beside You",
+ "source": "itunes",
+ "album": "Octavarium",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.5662461569157378,
+  "tempo_var": 2.7371856110422383,
+  "low_onset_rate": 5.066069307020487,
+  "lufs": -9.116690848911508,
+  "rms_dbfs": -8.80806866442226,
+  "crest": 8.808069229125977,
+  "centroid": 2448.9226270114445,
+  "flatness": 0.026067493483424187,
+  "sub100_share": 0.2508999705314636,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7284467220306396,
+  "clean_share": 0.06805877803557618,
+  "minor_share": -0.1358669863774694,
+  "chord_rate": 0.999882100069833,
+  "repetitiveness": 0.7774711847305298,
+  "vocal_share": 0.2631489634513855,
+  "vocal_voiced": 0.8683565004088307,
+  "song_length": 269.333
+ }
+}

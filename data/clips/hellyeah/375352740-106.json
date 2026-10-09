@@ -1,0 +1,32 @@
+{
+ "id": "hellyeah/375352740-106",
+ "band": "hellyeah",
+ "title": "It's On!",
+ "source": "itunes",
+ "album": "Stampede",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.7309701035927354,
+  "tempo_var": 2.842170943040401e-14,
+  "low_onset_rate": 2.63166641235559,
+  "lufs": -7.344001955864683,
+  "rms_dbfs": -7.425261532665447,
+  "crest": 7.425261497497559,
+  "centroid": 2669.4721025698204,
+  "flatness": 0.04869837686419487,
+  "sub100_share": 0.16184084117412567,
+  "lowest_pitch": 115.740966796875,
+  "harmonic_share": 0.5577630400657654,
+  "clean_share": 0.013147718484145398,
+  "minor_share": 0.042538105001102444,
+  "chord_rate": 2.1652951494064983,
+  "repetitiveness": 0.9174466133117676,
+  "vocal_share": 0.24242691695690155,
+  "vocal_voiced": 0.24066390041493776,
+  "song_length": 224.028
+ }
+}

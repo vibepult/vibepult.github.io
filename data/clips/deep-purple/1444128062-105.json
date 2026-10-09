@@ -1,0 +1,32 @@
+{
+ "id": "deep-purple/1444128062-105",
+ "band": "deep-purple",
+ "title": "Black & White",
+ "source": "itunes",
+ "album": "The House of Blue Light",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.544077001406197,
+  "tempo_var": 0.9580370401200128,
+  "low_onset_rate": 4.4772523396208115,
+  "lufs": -13.274860621039748,
+  "rms_dbfs": -13.812077217343855,
+  "crest": 13.812076568603516,
+  "centroid": 2747.434696686502,
+  "flatness": 0.04392561689019203,
+  "sub100_share": 0.046614207327365875,
+  "lowest_pitch": 107.666015625,
+  "harmonic_share": 0.6349190473556519,
+  "clean_share": 0.004654771140418929,
+  "minor_share": -0.1260627193451932,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.9407254457473755,
+  "vocal_share": 0.22517256438732147,
+  "vocal_voiced": 0.3655555555555556,
+  "song_length": 222.773
+ }
+}

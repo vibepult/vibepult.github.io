@@ -1,0 +1,32 @@
+{
+ "id": "fight/6769456158-107",
+ "band": "fight",
+ "title": "For All Eternity",
+ "source": "itunes",
+ "album": "War Of Words",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 2.731603111558967,
+  "tempo_var": 10.661629294181978,
+  "low_onset_rate": 3.297911073711436,
+  "lufs": -13.81467993363138,
+  "rms_dbfs": -13.767404473912979,
+  "crest": 13.767404556274414,
+  "centroid": 2776.861293793381,
+  "flatness": 0.02983809821307659,
+  "sub100_share": 0.32276642322540283,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8283960819244385,
+  "clean_share": 0.24748646558391338,
+  "minor_share": 0.0703363385002338,
+  "chord_rate": 1.4990504880506528,
+  "repetitiveness": 0.6330313086509705,
+  "vocal_share": 0.3083953261375427,
+  "vocal_voiced": 0.8993536472760849,
+  "song_length": 282.667
+ }
+}

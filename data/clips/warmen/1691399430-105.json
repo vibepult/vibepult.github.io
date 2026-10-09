@@ -1,0 +1,32 @@
+{
+ "id": "warmen/1691399430-105",
+ "band": "warmen",
+ "title": "Night Terrors",
+ "source": "itunes",
+ "album": "Here For None",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 6.299257230439948,
+  "tempo_var": 20.759740119871225,
+  "low_onset_rate": 8.099045010565648,
+  "lufs": -8.58672939866524,
+  "rms_dbfs": -7.595212703588543,
+  "crest": 7.595212936401367,
+  "centroid": 2536.038091890354,
+  "flatness": 0.03772127255797386,
+  "sub100_share": 0.3898901343345642,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7148537039756775,
+  "clean_share": 0.0007733952049497294,
+  "minor_share": 0.002917027776100367,
+  "chord_rate": 2.033093603475327,
+  "repetitiveness": 0.8803573250770569,
+  "vocal_share": 0.08700530230998993,
+  "vocal_voiced": 0.2139689578713969,
+  "song_length": 211.333
+ }
+}

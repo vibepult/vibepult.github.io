@@ -1,0 +1,32 @@
+{
+ "id": "girlschool/1436248100-107",
+ "band": "girlschool",
+ "title": "Midnight Ride",
+ "source": "itunes",
+ "album": "Demolition",
+ "year": 1980,
+ "itunes_year": 1980,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.766666666666667,
+  "tempo_var": 2.9756192064327234,
+  "low_onset_rate": 5.233333333333333,
+  "lufs": -10.569602203481194,
+  "rms_dbfs": -11.046732125931072,
+  "crest": 11.046731948852539,
+  "centroid": 3286.5562719664385,
+  "flatness": 0.06002213433384895,
+  "sub100_share": 0.0936090275645256,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7246230244636536,
+  "clean_share": 0.0007739938080495357,
+  "minor_share": 0.22835329531339388,
+  "chord_rate": 1.7,
+  "repetitiveness": 0.798943042755127,
+  "vocal_share": 0.16996537148952484,
+  "vocal_voiced": 0.8982412060301508,
+  "song_length": 196.947
+ }
+}

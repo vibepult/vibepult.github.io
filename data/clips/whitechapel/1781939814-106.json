@@ -1,0 +1,32 @@
+{
+ "id": "whitechapel/1781939814-106",
+ "band": "whitechapel",
+ "title": "Hate Cult Ritual",
+ "source": "itunes",
+ "album": "Hymns in Dissonance",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 6.966561352058171,
+  "tempo_var": 2.4222376829889476,
+  "low_onset_rate": 8.799866971020847,
+  "lufs": -7.112713114619109,
+  "rms_dbfs": -6.170960290549835,
+  "crest": 6.170959949493408,
+  "centroid": 2463.57840468588,
+  "flatness": 0.034284450113773346,
+  "sub100_share": 0.4189359247684479,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.8155089020729065,
+  "clean_share": 0.002320185614849188,
+  "minor_share": 0.06642282254315413,
+  "chord_rate": 2.0999682544481564,
+  "repetitiveness": 0.9236094355583191,
+  "vocal_share": 0.10453455150127411,
+  "vocal_voiced": 0.02091254752851711,
+  "song_length": 247.685
+ }
+}

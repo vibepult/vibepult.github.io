@@ -1,0 +1,32 @@
+{
+ "id": "dio/1131107858-104",
+ "band": "dio",
+ "title": "All the Fools Sailed Away",
+ "source": "itunes",
+ "album": "Dream Evil (Remastered)",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.2663901468658736,
+  "tempo_var": 3.080747404693044,
+  "low_onset_rate": 4.066322427730985,
+  "lufs": -9.648066725322252,
+  "rms_dbfs": -9.66131677580702,
+  "crest": 9.661316871643066,
+  "centroid": 2356.74260679579,
+  "flatness": 0.026083648204803467,
+  "sub100_share": 0.26367542147636414,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.727047860622406,
+  "clean_share": 0.12606341840680588,
+  "minor_share": 0.11682715324531034,
+  "chord_rate": 1.7331866085410759,
+  "repetitiveness": 0.6990712285041809,
+  "vocal_share": 0.24452006816864014,
+  "vocal_voiced": 0.8677685950413223,
+  "song_length": 431.385
+ }
+}

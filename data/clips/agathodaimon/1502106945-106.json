@@ -1,0 +1,32 @@
+{
+ "id": "agathodaimon/1502106945-106",
+ "band": "agathodaimon",
+ "title": "Solitude",
+ "source": "itunes",
+ "album": "Serpent's Embrace",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 2.8066357949861804,
+  "tempo_var": 21.868254930857837,
+  "low_onset_rate": 2.205213838917713,
+  "lufs": -18.975713154707673,
+  "rms_dbfs": -17.975298533059682,
+  "crest": 17.975297927856445,
+  "centroid": 1090.4760699522326,
+  "flatness": 0.007124361582100391,
+  "sub100_share": 0.18145285546779633,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7892685532569885,
+  "clean_share": 0.8719937936384794,
+  "minor_share": 0.0991395019008865,
+  "chord_rate": 1.0357822576734714,
+  "repetitiveness": 0.6639301776885986,
+  "vocal_share": 0.25554347038269043,
+  "vocal_voiced": 0.9641025641025641,
+  "song_length": 342.32
+ }
+}

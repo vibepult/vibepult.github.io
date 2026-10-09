@@ -1,0 +1,127 @@
+{
+ "slug": "enslaved",
+ "name": "Enslaved",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 251500660,
+  "deezer": 3266,
+  "spotify": "2HmtB6wVRRi3z0JwZHtkiD"
+ },
+ "metadata": {
+  "formed": 1991,
+  "split": null,
+  "country": "NO",
+  "status": "active",
+  "members": 5,
+  "past_members": 7,
+  "full_lengths": 17,
+  "genre": "Progressive Black/Viking Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 38801,
+  "themes": "Norse mythology, Vikings, Nature, Spirituality, Mysticism",
+  "release_year": 2005
+ },
+ "partial": false,
+ "clips": [
+  "enslaved/260248477-105",
+  "enslaved/1451404081-103",
+  "enslaved/260248076-104",
+  "enslaved/280923015-105",
+  "enslaved/263402833-104",
+  "enslaved/317395447-105",
+  "enslaved/317404932-104",
+  "enslaved/1456938119-104",
+  "enslaved/1456965111-105",
+  "enslaved/1456962619-104",
+  "enslaved/1472516134-103",
+  "enslaved/1458861111-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.19921875,
+   "iqr": 15.268998579545453
+  },
+  "onset_rate": {
+   "median": 3.336414238148346,
+   "iqr": 2.4140409069970423
+  },
+  "tempo_var": {
+   "median": 6.910837679849143,
+   "iqr": 6.9290562785406
+  },
+  "low_onset_rate": {
+   "median": 7.88531009067546,
+   "iqr": 2.441586759928236
+  },
+  "lufs": {
+   "median": -9.116241128643036,
+   "iqr": 6.54961378669027
+  },
+  "rms_dbfs": {
+   "median": -9.211420058521508,
+   "iqr": 6.9246633139003215
+  },
+  "crest": {
+   "median": 9.211420059204102,
+   "iqr": 6.9246625900268555
+  },
+  "centroid": {
+   "median": 2421.018065918957,
+   "iqr": 524.225737034822
+  },
+  "flatness": {
+   "median": 0.033139534294605255,
+   "iqr": 0.027276305947452784
+  },
+  "sub100_share": {
+   "median": 0.21555816382169724,
+   "iqr": 0.1333778128027916
+  },
+  "lowest_pitch": {
+   "median": 67.291259765625,
+   "iqr": 37.01019287109375
+  },
+  "harmonic_share": {
+   "median": 0.7611313462257385,
+   "iqr": 0.08551326394081116
+  },
+  "clean_share": {
+   "median": 0.008917141230752233,
+   "iqr": 0.014934057408844065
+  },
+  "minor_share": {
+   "median": 0.057365543169913324,
+   "iqr": 0.1754516849457353
+  },
+  "chord_rate": {
+   "median": 1.603791882849246,
+   "iqr": 0.7229263140668187
+  },
+  "repetitiveness": {
+   "median": 0.867310643196106,
+   "iqr": 0.13504187762737274
+  },
+  "vocal_share": {
+   "median": 0.10673706978559494,
+   "iqr": 0.050487667322158813
+  },
+  "vocal_voiced": {
+   "median": 0.2507987220447284,
+   "iqr": 0.2995989961474628
+  },
+  "song_length": {
+   "median": 403.98,
+   "iqr": 159.14950000000005
+  },
+  "vocal_presence": {
+   "median": 0.5833333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

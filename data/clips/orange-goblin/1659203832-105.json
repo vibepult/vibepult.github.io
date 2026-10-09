@@ -1,0 +1,32 @@
+{
+ "id": "orange-goblin/1659203832-105",
+ "band": "orange-goblin",
+ "title": "Ghosts of the Primitives",
+ "source": "itunes",
+ "album": "The Wolf Bites Back",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.544077001406197,
+  "tempo_var": 17.48888006044365,
+  "low_onset_rate": 5.680096251757746,
+  "lufs": -12.161544336189586,
+  "rms_dbfs": -11.352155021308839,
+  "crest": 11.352155685424805,
+  "centroid": 2462.9830066811846,
+  "flatness": 0.02572357840836048,
+  "sub100_share": 0.43131980299949646,
+  "lowest_pitch": 88.824462890625,
+  "harmonic_share": 0.69197016954422,
+  "clean_share": 0.04034134988363072,
+  "minor_share": 0.07588219296328225,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.9184967875480652,
+  "vocal_share": 5.531435363081982e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 320.023
+ }
+}

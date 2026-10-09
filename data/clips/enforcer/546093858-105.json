@@ -1,0 +1,32 @@
+{
+ "id": "enforcer/546093858-105",
+ "band": "enforcer",
+ "title": "On the Loose",
+ "source": "itunes",
+ "album": "Into the Night",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 6.014219560684673,
+  "tempo_var": 15.844652673819834,
+  "low_onset_rate": 6.047631891577365,
+  "lufs": -7.553235422244924,
+  "rms_dbfs": -7.406209115301751,
+  "crest": 7.406209945678711,
+  "centroid": 2761.565328981792,
+  "flatness": 0.046278636902570724,
+  "sub100_share": 0.2537803649902344,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6831333637237549,
+  "clean_share": 0.0,
+  "minor_share": 0.26511870284335676,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.9268707633018494,
+  "vocal_share": 0.13128435611724854,
+  "vocal_voiced": 0.6640522875816993,
+  "song_length": 264.187
+ }
+}

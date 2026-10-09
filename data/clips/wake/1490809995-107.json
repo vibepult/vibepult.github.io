@@ -1,0 +1,32 @@
+{
+ "id": "wake/1490809995-107",
+ "band": "wake",
+ "title": "Torchbearer",
+ "source": "itunes",
+ "album": "Devouring Ruin",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.474882412840033,
+  "tempo_var": 5.210108870897171,
+  "low_onset_rate": 6.314930538718906,
+  "lufs": -9.286180813503854,
+  "rms_dbfs": -8.51479783169233,
+  "crest": 8.514798164367676,
+  "centroid": 2383.7415394228656,
+  "flatness": 0.02589142508804798,
+  "sub100_share": 0.33206531405448914,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8755065202713013,
+  "clean_share": 0.01008533747090768,
+  "minor_share": -0.018577886911638086,
+  "chord_rate": 0.9021329341027009,
+  "repetitiveness": 0.6639888882637024,
+  "vocal_share": 4.6890886551409494e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 638.959
+ }
+}

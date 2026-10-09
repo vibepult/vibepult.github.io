@@ -1,0 +1,32 @@
+{
+ "id": "deep-purple/952365090-105",
+ "band": "deep-purple",
+ "title": "Time to Kill",
+ "source": "itunes",
+ "album": "The Battle Rages On...",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.6085317364108036,
+  "tempo_var": 0.896859131681853,
+  "low_onset_rate": 4.0428920380158075,
+  "lufs": -11.814819760956837,
+  "rms_dbfs": -12.16528886058601,
+  "crest": 12.165288925170898,
+  "centroid": 2575.0900143002377,
+  "flatness": 0.03559926897287369,
+  "sub100_share": 0.20742204785346985,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7233862280845642,
+  "clean_share": 0.0031031807602792862,
+  "minor_share": -0.02493278195725701,
+  "chord_rate": 1.1026069194588566,
+  "repetitiveness": 0.902454674243927,
+  "vocal_share": 0.14992323517799377,
+  "vocal_voiced": 0.8649350649350649,
+  "song_length": 348.613
+ }
+}

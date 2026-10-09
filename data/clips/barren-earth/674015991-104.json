@@ -1,0 +1,32 @@
+{
+ "id": "barren-earth/674015991-104",
+ "band": "barren-earth",
+ "title": "As It Is Written",
+ "source": "itunes",
+ "album": "The Devil's Resolve",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.240996096591185,
+  "tempo_var": 4.660818403005242,
+  "low_onset_rate": 5.379385273723512,
+  "lufs": -9.250161389970417,
+  "rms_dbfs": -9.205665299956552,
+  "crest": 9.20566463470459,
+  "centroid": 2505.33244130769,
+  "flatness": 0.03155525401234627,
+  "sub100_share": 0.1711401343345642,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8281714916229248,
+  "clean_share": 0.018619084561675717,
+  "minor_share": -0.13969265458191094,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.6971325278282166,
+  "vocal_share": 0.07908489555120468,
+  "vocal_voiced": 0.7424242424242424,
+  "song_length": 449.707
+ }
+}

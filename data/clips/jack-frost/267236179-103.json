@@ -1,0 +1,32 @@
+{
+ "id": "jack-frost/267236179-103",
+ "band": "jack-frost",
+ "title": "Shadowplay",
+ "source": "itunes",
+ "album": "Elsewhere",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 67.99958881578948,
+  "onset_rate": 1.8042658682054018,
+  "tempo_var": 12.777268489314267,
+  "low_onset_rate": 3.742181059981574,
+  "lufs": -13.156822173394264,
+  "rms_dbfs": -12.361134142353219,
+  "crest": 12.36113452911377,
+  "centroid": 2026.1464824439313,
+  "flatness": 0.01042081881314516,
+  "sub100_share": 0.24613766372203827,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.869062066078186,
+  "clean_share": 0.5011636927851048,
+  "minor_share": -0.04506975780060685,
+  "chord_rate": 1.0023699267807789,
+  "repetitiveness": 0.6994701623916626,
+  "vocal_share": 0.07090210914611816,
+  "vocal_voiced": 0.881104033970276,
+  "song_length": 577.52
+ }
+}

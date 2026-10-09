@@ -1,0 +1,32 @@
+{
+ "id": "nile/73638510-106",
+ "band": "nile",
+ "title": "Churning the Maelstrom",
+ "source": "itunes",
+ "album": "In Their Darkened Shrines",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 6.066574957294675,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.8998956931868,
+  "lufs": -8.061180781246083,
+  "rms_dbfs": -7.84310398262519,
+  "crest": 7.843104362487793,
+  "centroid": 3357.2319874567766,
+  "flatness": 0.06040333956480026,
+  "sub100_share": 0.33531656861305237,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.6970219016075134,
+  "clean_share": 0.0,
+  "minor_share": 0.1950832393742325,
+  "chord_rate": 2.9332889903402823,
+  "repetitiveness": 0.9519298076629639,
+  "vocal_share": 0.09202887117862701,
+  "vocal_voiced": 0.25984251968503935,
+  "song_length": 187.147
+ }
+}

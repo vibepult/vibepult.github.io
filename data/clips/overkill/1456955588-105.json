@@ -1,0 +1,32 @@
+{
+ "id": "overkill/1456955588-105",
+ "band": "overkill",
+ "title": "A Pound of Flesh",
+ "source": "itunes",
+ "album": "Reli XIV",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 1.1026069194588566,
+  "tempo_var": 15.890911031084343,
+  "low_onset_rate": 2.7063988023081027,
+  "lufs": -9.483839368594925,
+  "rms_dbfs": -9.167375531386275,
+  "crest": 9.167375564575195,
+  "centroid": 2587.440696704957,
+  "flatness": 0.03100878931581974,
+  "sub100_share": 0.3059826195240021,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6479099988937378,
+  "clean_share": 0.012412723041117145,
+  "minor_share": -0.04788850935321043,
+  "chord_rate": 2.505924816951947,
+  "repetitiveness": 0.9601535797119141,
+  "vocal_share": 0.12062910944223404,
+  "vocal_voiced": 0.27386934673366836,
+  "song_length": 217.707
+ }
+}

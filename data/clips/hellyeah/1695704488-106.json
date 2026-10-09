@@ -1,0 +1,32 @@
+{
+ "id": "hellyeah/1695704488-106",
+ "band": "hellyeah",
+ "title": "Between You and Nowhere",
+ "source": "itunes",
+ "album": "Band of Brothers",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 2.066654169891641,
+  "tempo_var": 22.389310753917496,
+  "low_onset_rate": 0.9666608214009288,
+  "lufs": -19.906373674881767,
+  "rms_dbfs": -19.217606137994363,
+  "crest": 19.217607498168945,
+  "centroid": 1778.9492924511858,
+  "flatness": 0.011078868992626667,
+  "sub100_share": 0.2062666416168213,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8448529839515686,
+  "clean_share": 0.7169373549883991,
+  "minor_share": 0.17357949895865998,
+  "chord_rate": 1.1999927438080495,
+  "repetitiveness": 0.7733221650123596,
+  "vocal_share": 0.26936429738998413,
+  "vocal_voiced": 0.9575221238938053,
+  "song_length": 255.987
+ }
+}

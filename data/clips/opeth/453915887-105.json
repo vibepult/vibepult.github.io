@@ -1,0 +1,32 @@
+{
+ "id": "opeth/453915887-105",
+ "band": "opeth",
+ "title": "Nepenthe",
+ "source": "itunes",
+ "album": "Heritage",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.009479707123115,
+  "tempo_var": 11.67992306312763,
+  "low_onset_rate": 2.840048125878873,
+  "lufs": -21.40595764706465,
+  "rms_dbfs": -20.199063634596072,
+  "crest": 19.353378295898438,
+  "centroid": 1282.082813288022,
+  "flatness": 0.003026854246854782,
+  "sub100_share": 0.3448370695114136,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8010562062263489,
+  "clean_share": 0.9100077579519007,
+  "minor_share": 0.030206591893690904,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.6726529002189636,
+  "vocal_share": 0.20931608974933624,
+  "vocal_voiced": 0.9791666666666666,
+  "song_length": 337.213
+ }
+}

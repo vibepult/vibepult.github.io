@@ -1,0 +1,32 @@
+{
+ "id": "isis/368094228-104",
+ "band": "isis",
+ "title": "Swarm Reigns (Down)",
+ "source": "itunes",
+ "album": "Celestial",
+ "year": 2000,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.379385273723512,
+  "tempo_var": 3.3081865315664545,
+  "low_onset_rate": 4.377015346942734,
+  "lufs": -10.512402720961461,
+  "rms_dbfs": -9.40361667343993,
+  "crest": 9.403616905212402,
+  "centroid": 2370.7177505502,
+  "flatness": 0.029295099899172783,
+  "sub100_share": 0.5019580721855164,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.5333669781684875,
+  "clean_share": 0.062063615205585725,
+  "minor_share": 0.3109869486576782,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.8110969066619873,
+  "vocal_share": 0.04492359608411789,
+  "vocal_voiced": 0.3791348600508906,
+  "song_length": 361.831
+ }
+}

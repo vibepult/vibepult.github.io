@@ -1,0 +1,32 @@
+{
+ "id": "grai/1318595797-106",
+ "band": "grai",
+ "title": "Поступь зимы",
+ "source": "itunes",
+ "album": "Пепел",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 6.081044222470058,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 5.579859259079669,
+  "lufs": -8.381634852725979,
+  "rms_dbfs": -7.744641786589876,
+  "crest": 7.744641304016113,
+  "centroid": 2407.6681551973397,
+  "flatness": 0.026123590767383575,
+  "sub100_share": 0.43553978204727173,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8203064799308777,
+  "clean_share": 0.0,
+  "minor_share": -0.10149849972826941,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.916633129119873,
+  "vocal_share": 0.12990310788154602,
+  "vocal_voiced": 0.7095282146160962,
+  "song_length": 285.6
+ }
+}

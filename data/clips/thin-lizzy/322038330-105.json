@@ -1,0 +1,32 @@
+{
+ "id": "thin-lizzy/322038330-105",
+ "band": "thin-lizzy",
+ "title": "Cold Sweat",
+ "source": "itunes",
+ "album": "Thunder and Lightning",
+ "year": 1983,
+ "itunes_year": 1983,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.343603016050041,
+  "tempo_var": 26.312166694467376,
+  "low_onset_rate": 6.181281215148136,
+  "lufs": -18.743272379878924,
+  "rms_dbfs": -18.88098814185539,
+  "crest": 15.316381454467773,
+  "centroid": 2814.352774986267,
+  "flatness": 0.03471524640917778,
+  "sub100_share": 0.2706597149372101,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.6778219938278198,
+  "clean_share": 0.027152831652443754,
+  "minor_share": -0.023651222152935136,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.910472571849823,
+  "vocal_share": 0.16503237187862396,
+  "vocal_voiced": 0.43993993993993996,
+  "song_length": 186.551
+ }
+}

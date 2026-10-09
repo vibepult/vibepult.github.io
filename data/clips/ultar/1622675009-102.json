@@ -1,0 +1,32 @@
+{
+ "id": "ultar/1622675009-102",
+ "band": "ultar",
+ "title": "Shub-Niggurath",
+ "source": "itunes",
+ "album": "Pantheon MMXIX",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.641944067303496,
+  "tempo_var": 11.488884808713738,
+  "low_onset_rate": 7.183651141928914,
+  "lufs": -7.2072621437467275,
+  "rms_dbfs": -6.585693386908794,
+  "crest": 6.585693359375,
+  "centroid": 2084.108014869088,
+  "flatness": 0.016280772164463997,
+  "sub100_share": 0.4260530173778534,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8654253482818604,
+  "clean_share": 0.060512024825446084,
+  "minor_share": 0.05983787608126845,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.7996196150779724,
+  "vocal_share": 0.08491767942905426,
+  "vocal_voiced": 0.8607734806629834,
+  "song_length": 323.0
+ }
+}

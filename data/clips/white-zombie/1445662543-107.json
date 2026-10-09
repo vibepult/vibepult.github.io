@@ -1,0 +1,32 @@
+{
+ "id": "white-zombie/1445662543-107",
+ "band": "white-zombie",
+ "title": "I, Zombie",
+ "source": "itunes",
+ "album": "Astro Creep: 2000 Songs of Love, Destruction and Other Synthetic Delusions of the Electric Head",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.133270850024943,
+  "tempo_var": 24.139919005594116,
+  "low_onset_rate": 5.033257244788439,
+  "lufs": -9.296276596260606,
+  "rms_dbfs": -9.648702662074248,
+  "crest": 9.648702621459961,
+  "centroid": 2681.016865536596,
+  "flatness": 0.04513123631477356,
+  "sub100_share": 0.23251526057720184,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.5765061378479004,
+  "clean_share": 0.0,
+  "minor_share": -0.05272199971816682,
+  "chord_rate": 1.9333041072697315,
+  "repetitiveness": 0.9760635495185852,
+  "vocal_share": 0.11804944276809692,
+  "vocal_voiced": 0.3125763125763126,
+  "song_length": 211.667
+ }
+}

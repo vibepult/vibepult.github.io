@@ -1,0 +1,32 @@
+{
+ "id": "kauan/1153912071-102",
+ "band": "kauan",
+ "title": "Valveuni",
+ "source": "itunes",
+ "album": "Aava Tuulen Maa",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 69.83741554054055,
+  "onset_rate": 2.3054508315957913,
+  "tempo_var": 26.782390471863554,
+  "low_onset_rate": 4.443840008728119,
+  "lufs": -11.81270645703256,
+  "rms_dbfs": -9.900782420246362,
+  "crest": 9.900781631469727,
+  "centroid": 1580.1794461644558,
+  "flatness": 0.00457292515784502,
+  "sub100_share": 0.4718747138977051,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.873850405216217,
+  "clean_share": 0.8076027928626842,
+  "minor_share": -0.3550049400396152,
+  "chord_rate": 0.534597294283082,
+  "repetitiveness": 0.7547297477722168,
+  "vocal_share": 7.112299158507085e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 639.307
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "turisas/1045404642-103",
+ "band": "turisas",
+ "title": "Piece by Piece",
+ "source": "itunes",
+ "album": "Turisas2013",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.71113865586966,
+  "tempo_var": 11.997180667890103,
+  "low_onset_rate": 6.181281215148136,
+  "lufs": -10.419892081542274,
+  "rms_dbfs": -9.527912608139037,
+  "crest": 9.527913093566895,
+  "centroid": 2229.2007396298927,
+  "flatness": 0.019496295601129532,
+  "sub100_share": 0.3855934739112854,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7113634347915649,
+  "clean_share": 0.2940263770364624,
+  "minor_share": 0.05805546428443936,
+  "chord_rate": 1.9379151917761723,
+  "repetitiveness": 0.8995707035064697,
+  "vocal_share": 0.3138045072555542,
+  "vocal_voiced": 0.7292993630573248,
+  "song_length": 338.907
+ }
+}

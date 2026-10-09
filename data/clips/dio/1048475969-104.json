@@ -1,0 +1,32 @@
+{
+ "id": "dio/1048475969-104",
+ "band": "dio",
+ "title": "Caught In the Middle",
+ "source": "itunes",
+ "album": "Holy Diver",
+ "year": 1983,
+ "itunes_year": 1983,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.231260879025239,
+  "tempo_var": 5.646082504289246,
+  "low_onset_rate": 4.6310650565709315,
+  "lufs": -7.5080801702972115,
+  "rms_dbfs": -8.659427364566636,
+  "crest": 8.659427642822266,
+  "centroid": 3018.6749636650775,
+  "flatness": 0.06744847446680069,
+  "sub100_share": 0.11864355951547623,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.6118441224098206,
+  "clean_share": 0.002320185614849188,
+  "minor_share": 0.1181272142858637,
+  "chord_rate": 1.2993635770234986,
+  "repetitiveness": 0.8319187760353088,
+  "vocal_share": 0.3580789864063263,
+  "vocal_voiced": 0.5357483317445186,
+  "song_length": 257.6
+ }
+}

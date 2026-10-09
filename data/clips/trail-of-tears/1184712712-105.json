@@ -1,0 +1,32 @@
+{
+ "id": "trail-of-tears/1184712712-105",
+ "band": "trail-of-tears",
+ "title": "Sign of the Shameless",
+ "source": "itunes",
+ "album": "Profoundemonium",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.166666666666667,
+  "tempo_var": 19.277337987344858,
+  "low_onset_rate": 4.9,
+  "lufs": -10.862498748795952,
+  "rms_dbfs": -10.136236878392747,
+  "crest": 10.136237144470215,
+  "centroid": 2160.7611582745203,
+  "flatness": 0.020801106467843056,
+  "sub100_share": 0.35757285356521606,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7731291651725769,
+  "clean_share": 0.05959752321981424,
+  "minor_share": 0.260915373159729,
+  "chord_rate": 1.1,
+  "repetitiveness": 0.794752836227417,
+  "vocal_share": 0.2122509479522705,
+  "vocal_voiced": 0.22668112798264642,
+  "song_length": 248.4
+ }
+}

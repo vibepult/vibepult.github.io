@@ -1,0 +1,32 @@
+{
+ "id": "bathory/6815395461-106",
+ "band": "bathory",
+ "title": "Century",
+ "source": "itunes",
+ "album": "Octagon",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 64.599609375,
+  "onset_rate": 3.8,
+  "tempo_var": 1.6195725884586578,
+  "low_onset_rate": 5.466666666666667,
+  "lufs": -10.746108269487555,
+  "rms_dbfs": -10.391032226265613,
+  "crest": 10.391033172607422,
+  "centroid": 2839.892213763552,
+  "flatness": 0.03220959007740021,
+  "sub100_share": 0.19561415910720825,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8037314414978027,
+  "clean_share": 0.1021671826625387,
+  "minor_share": -0.11666802707000912,
+  "chord_rate": 2.4,
+  "repetitiveness": 0.9640434384346008,
+  "vocal_share": 0.03319810330867767,
+  "vocal_voiced": 0.7302798982188295,
+  "song_length": 248.79
+ }
+}

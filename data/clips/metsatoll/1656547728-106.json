@@ -1,0 +1,32 @@
+{
+ "id": "metsatoll/1656547728-106",
+ "band": "metsatoll",
+ "title": "Isasüda",
+ "source": "itunes",
+ "album": "Iivakivi",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.6085317364108036,
+  "tempo_var": 1.33580183517252,
+  "low_onset_rate": 4.176541361586578,
+  "lufs": -9.956216325330859,
+  "rms_dbfs": -9.622221871387017,
+  "crest": 9.622221946716309,
+  "centroid": 2408.944349572044,
+  "flatness": 0.024791179224848747,
+  "sub100_share": 0.2369343340396881,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.6934353709220886,
+  "clean_share": 0.10395655546935609,
+  "minor_share": 0.3754649749001461,
+  "chord_rate": 2.2386261698104057,
+  "repetitiveness": 0.7816095948219299,
+  "vocal_share": 0.20468634366989136,
+  "vocal_voiced": 0.656350053361793,
+  "song_length": 320.987
+ }
+}

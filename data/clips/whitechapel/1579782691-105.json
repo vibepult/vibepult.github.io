@@ -1,0 +1,32 @@
+{
+ "id": "whitechapel/1579782691-105",
+ "band": "whitechapel",
+ "title": "The Ones That Made Us",
+ "source": "itunes",
+ "album": "Kin",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.766594609302959,
+  "tempo_var": 15.923814594415365,
+  "low_onset_rate": 6.333237592780155,
+  "lufs": -8.213961373008905,
+  "rms_dbfs": -7.5279707893772585,
+  "crest": 7.527970790863037,
+  "centroid": 2800.2632249985195,
+  "flatness": 0.05364915356040001,
+  "sub100_share": 0.4912980794906616,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7701989412307739,
+  "clean_share": 0.0,
+  "minor_share": -0.017011607522426808,
+  "chord_rate": 2.499962207676377,
+  "repetitiveness": 0.9530856013298035,
+  "vocal_share": 0.13737753033638,
+  "vocal_voiced": 0.12702265372168284,
+  "song_length": 250.476
+ }
+}

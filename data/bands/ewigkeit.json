@@ -1,0 +1,127 @@
+{
+ "slug": "ewigkeit",
+ "name": "Ewigkeit",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 42407874,
+  "deezer": 196721,
+  "spotify": "1WrL7rHaEUsybSJi6Qsjb1"
+ },
+ "metadata": {
+  "formed": 1994,
+  "split": null,
+  "country": "GB",
+  "status": "active",
+  "members": 1,
+  "past_members": 0,
+  "full_lengths": 11,
+  "genre": "Experimental/Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 143,
+  "themes": "Politics, Fantasy, Space, New Age, Personal thoughts",
+  "release_year": 2011
+ },
+ "partial": false,
+ "clips": [
+  "ewigkeit/301642154-105",
+  "ewigkeit/42408041-105",
+  "ewigkeit/79670165-106",
+  "ewigkeit/1506449136-105",
+  "ewigkeit/1495709548-105",
+  "ewigkeit/1446930524-104",
+  "ewigkeit/1470331921-106",
+  "ewigkeit/301642154-104",
+  "ewigkeit/42408041-104",
+  "ewigkeit/79670165-105",
+  "ewigkeit/1506449136-106",
+  "ewigkeit/1495709548-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.90049098320159,
+   "iqr": 30.422551081730774
+  },
+  "onset_rate": {
+   "median": 4.4772523396208115,
+   "iqr": 1.6288511310187657
+  },
+  "tempo_var": {
+   "median": 11.048240928583347,
+   "iqr": 11.984416212830169
+  },
+  "low_onset_rate": {
+   "median": 6.365049035057945,
+   "iqr": 2.0381521844542494
+  },
+  "lufs": {
+   "median": -10.159421159985861,
+   "iqr": 3.031486517318438
+  },
+  "rms_dbfs": {
+   "median": -9.389805443523919,
+   "iqr": 2.4350442975675417
+  },
+  "crest": {
+   "median": 9.389805316925049,
+   "iqr": 2.4350435733795166
+  },
+  "centroid": {
+   "median": 2220.853330047492,
+   "iqr": 552.0252741685508
+  },
+  "flatness": {
+   "median": 0.01647272054105997,
+   "iqr": 0.019754086388275027
+  },
+  "sub100_share": {
+   "median": 0.3273017555475235,
+   "iqr": 0.18861884251236916
+  },
+  "lowest_pitch": {
+   "median": 56.524658203125,
+   "iqr": 31.62689208984375
+  },
+  "harmonic_share": {
+   "median": 0.7551237940788269,
+   "iqr": 0.11122038960456848
+  },
+  "clean_share": {
+   "median": 0.1761055081458495,
+   "iqr": 0.3266097750193949
+  },
+  "minor_share": {
+   "median": -0.012225906494704564,
+   "iqr": 0.11952318300133699
+  },
+  "chord_rate": {
+   "median": 1.169431581244242,
+   "iqr": 0.5513034597294282
+  },
+  "repetitiveness": {
+   "median": 0.8165136873722076,
+   "iqr": 0.11859956383705139
+  },
+  "vocal_share": {
+   "median": 0.07786648720502853,
+   "iqr": 0.08051551133394241
+  },
+  "vocal_voiced": {
+   "median": 0.44549763033175355,
+   "iqr": 0.3522788737506233
+  },
+  "song_length": {
+   "median": 318.98699999999997,
+   "iqr": 160.60375
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

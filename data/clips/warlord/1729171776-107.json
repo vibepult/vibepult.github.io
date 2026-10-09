@@ -1,0 +1,32 @@
+{
+ "id": "warlord/1729171776-107",
+ "band": "warlord",
+ "title": "The Bell Tolls",
+ "source": "itunes",
+ "album": "Free Spirit Soar",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.733190228564518,
+  "tempo_var": 12.340735762425467,
+  "low_onset_rate": 4.766522554117789,
+  "lufs": -11.682399727218245,
+  "rms_dbfs": -11.069298493907835,
+  "crest": 11.06929874420166,
+  "centroid": 2676.798452841833,
+  "flatness": 0.03231039643287659,
+  "sub100_share": 0.4198707342147827,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7382944226264954,
+  "clean_share": 0.02320185614849188,
+  "minor_share": 0.15343536478880615,
+  "chord_rate": 2.1666011609626317,
+  "repetitiveness": 0.7921640276908875,
+  "vocal_share": 0.15064924955368042,
+  "vocal_voiced": 0.7028885832187071,
+  "song_length": 277.253
+ }
+}

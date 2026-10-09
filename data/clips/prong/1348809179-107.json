@@ -1,0 +1,32 @@
+{
+ "id": "prong/1348809179-107",
+ "band": "prong",
+ "title": "Blood out of Stone",
+ "source": "itunes",
+ "album": "Zero Days",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.276778354264656,
+  "tempo_var": 3.3357915354822754,
+  "low_onset_rate": 4.377015346942734,
+  "lufs": -8.797940230270452,
+  "rms_dbfs": -8.117152930568885,
+  "crest": 8.117152214050293,
+  "centroid": 2422.6232341287273,
+  "flatness": 0.028268655762076378,
+  "sub100_share": 0.4024873673915863,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8170192241668701,
+  "clean_share": 0.0643910007757952,
+  "minor_share": 0.3374357754420983,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.851070761680603,
+  "vocal_share": 0.20477716624736786,
+  "vocal_voiced": 0.8053166536356529,
+  "song_length": 252.208
+ }
+}

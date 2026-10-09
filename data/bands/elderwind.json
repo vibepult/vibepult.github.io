@@ -1,0 +1,127 @@
+{
+ "slug": "elderwind",
+ "name": "Elderwind",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1375371194,
+  "deezer": 14619269,
+  "spotify": "3Yr3yzpgJUMfM8LVvBezXj"
+ },
+ "metadata": {
+  "formed": 2009,
+  "split": null,
+  "country": "RU",
+  "status": "active",
+  "members": 4,
+  "past_members": 1,
+  "full_lengths": 4,
+  "genre": "Atmospheric Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 2317,
+  "themes": "Nature",
+  "release_year": 2019
+ },
+ "partial": false,
+ "clips": [
+  "elderwind/1656310480-104",
+  "elderwind/1658378589-104",
+  "elderwind/1661359310-103",
+  "elderwind/1788504071-104",
+  "elderwind/1656310480-105",
+  "elderwind/1658378589-105",
+  "elderwind/1661359310-104",
+  "elderwind/1788504071-105",
+  "elderwind/1656310480-103",
+  "elderwind/1658378589-103",
+  "elderwind/1661359310-102",
+  "elderwind/1788504071-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.32652698863637,
+   "iqr": 72.39611395474138
+  },
+  "onset_rate": {
+   "median": 4.071335527845525,
+   "iqr": 2.0632114326237696
+  },
+  "tempo_var": {
+   "median": 11.777198163283247,
+   "iqr": 9.319672388628629
+  },
+  "low_onset_rate": {
+   "median": 5.606990974868761,
+   "iqr": 2.0966237635164626
+  },
+  "lufs": {
+   "median": -9.723596229943592,
+   "iqr": 2.1461065416438565
+  },
+  "rms_dbfs": {
+   "median": -9.616410980372187,
+   "iqr": 2.518471700540122
+  },
+  "crest": {
+   "median": 9.616411209106445,
+   "iqr": 2.5184719562530518
+  },
+  "centroid": {
+   "median": 2418.9555901915714,
+   "iqr": 167.8271279290102
+  },
+  "flatness": {
+   "median": 0.028573843650519848,
+   "iqr": 0.010886607225984335
+  },
+  "sub100_share": {
+   "median": 0.21505572646856308,
+   "iqr": 0.22649239003658295
+  },
+  "lowest_pitch": {
+   "median": 39.0289306640625,
+   "iqr": 24.89776611328125
+  },
+  "harmonic_share": {
+   "median": 0.8144547939300537,
+   "iqr": 0.098259836435318
+  },
+  "clean_share": {
+   "median": 0.001550390387579597,
+   "iqr": 0.029868114817688134
+  },
+  "minor_share": {
+   "median": 0.1869884055744464,
+   "iqr": 0.06640575014359612
+  },
+  "chord_rate": {
+   "median": 0.4672161222986435,
+   "iqr": 0.534597294283082
+  },
+  "repetitiveness": {
+   "median": 0.776264876127243,
+   "iqr": 0.10042400658130646
+  },
+  "vocal_share": {
+   "median": 0.07161914184689522,
+   "iqr": 0.08059913571923971
+  },
+  "vocal_voiced": {
+   "median": 0.24407529623518823,
+   "iqr": 0.27566621848448947
+  },
+  "song_length": {
+   "median": 447.755,
+   "iqr": 93.03450000000004
+  },
+  "vocal_presence": {
+   "median": 0.5,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

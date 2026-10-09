@@ -1,0 +1,32 @@
+{
+ "id": "thin-lizzy/1443482007-105",
+ "band": "thin-lizzy",
+ "title": "Brought Down",
+ "source": "itunes",
+ "album": "Shades of a Blue Orphanage",
+ "year": 1972,
+ "itunes_year": 1972,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.531839847185659,
+  "tempo_var": 1.6206660140072682,
+  "low_onset_rate": 4.298583384462868,
+  "lufs": -18.50922121893366,
+  "rms_dbfs": -17.527504163133116,
+  "crest": 17.527238845825195,
+  "centroid": 1438.261163507753,
+  "flatness": 0.00427528191357851,
+  "sub100_share": 0.09067630767822266,
+  "lowest_pitch": 164.190673828125,
+  "harmonic_share": 0.60114586353302,
+  "clean_share": 0.7540603248259861,
+  "minor_share": 0.002410794311576203,
+  "chord_rate": 1.3328940727016645,
+  "repetitiveness": 0.7322353720664978,
+  "vocal_share": 0.23637206852436066,
+  "vocal_voiced": 0.9650507328072153,
+  "song_length": 259.493
+ }
+}

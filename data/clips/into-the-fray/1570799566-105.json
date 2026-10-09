@@ -1,0 +1,32 @@
+{
+ "id": "into-the-fray/1570799566-105",
+ "band": "into-the-fray",
+ "title": "Greyzone",
+ "source": "itunes",
+ "album": "Into the Fray",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.412797604616205,
+  "tempo_var": 1.926254013450287,
+  "low_onset_rate": 6.8829401638946806,
+  "lufs": -7.673624918606596,
+  "rms_dbfs": -6.561456626543995,
+  "crest": 6.561456203460693,
+  "centroid": 2477.867384525221,
+  "flatness": 0.03075464628636837,
+  "sub100_share": 0.4615752100944519,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.6946896910667419,
+  "clean_share": 0.060512024825446084,
+  "minor_share": -0.07223955892900902,
+  "chord_rate": 2.8734604567715656,
+  "repetitiveness": 0.8981896638870239,
+  "vocal_share": 0.1333005726337433,
+  "vocal_voiced": 0.0,
+  "song_length": 366.125
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "neaera/261652941-106",
+ "band": "neaera",
+ "title": "In Loss",
+ "source": "itunes",
+ "album": "Armamentarium",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 6.415167531396984,
+  "tempo_var": 3.7356597220248164,
+  "low_onset_rate": 7.718248436211996,
+  "lufs": -6.482947887595812,
+  "rms_dbfs": -6.308971559783519,
+  "crest": 6.308972358703613,
+  "centroid": 2732.7942152574415,
+  "flatness": 0.048678211867809296,
+  "sub100_share": 0.3642861247062683,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7299037575721741,
+  "clean_share": 0.0,
+  "minor_share": 0.028949642039731716,
+  "chord_rate": 2.1049768462396354,
+  "repetitiveness": 0.9608042240142822,
+  "vocal_share": 0.11387254297733307,
+  "vocal_voiced": 0.07058823529411765,
+  "song_length": 212.373
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "borknagar/1045193907-106",
+ "band": "borknagar",
+ "title": "Resonance",
+ "source": "itunes",
+ "album": "Epic",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 7.517774450855841,
+  "tempo_var": 25.148925135513107,
+  "low_onset_rate": 8.219433399602385,
+  "lufs": -8.801071931019168,
+  "rms_dbfs": -8.738614154046966,
+  "crest": 8.738614082336426,
+  "centroid": 2443.4748210757875,
+  "flatness": 0.030357537791132927,
+  "sub100_share": 0.1427920162677765,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7792555689811707,
+  "clean_share": 0.0,
+  "minor_share": -0.053320687489855856,
+  "chord_rate": 2.1049768462396354,
+  "repetitiveness": 0.9014302492141724,
+  "vocal_share": 0.08676718175411224,
+  "vocal_voiced": 0.5116279069767442,
+  "song_length": 268.88
+ }
+}

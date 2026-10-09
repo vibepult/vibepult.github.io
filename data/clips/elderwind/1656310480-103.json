@@ -1,0 +1,32 @@
+{
+ "id": "elderwind/1656310480-103",
+ "band": "elderwind",
+ "title": "Shining Stars",
+ "source": "itunes",
+ "album": "The Magic of Nature",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 1.8376781990980944,
+  "tempo_var": 4.95083162032107,
+  "low_onset_rate": 3.0739344421277215,
+  "lufs": -9.888280915322502,
+  "rms_dbfs": -9.786556287096085,
+  "crest": 9.786556243896484,
+  "centroid": 2339.5843726861403,
+  "flatness": 0.0275596734136343,
+  "sub100_share": 0.19341444969177246,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8324795365333557,
+  "clean_share": 0.10318076027928627,
+  "minor_share": 0.24903153394967237,
+  "chord_rate": 0.46777263249769674,
+  "repetitiveness": 0.7920881509780884,
+  "vocal_share": 4.834510605178366e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 364.587
+ }
+}

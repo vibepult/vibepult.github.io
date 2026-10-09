@@ -1,0 +1,32 @@
+{
+ "id": "alvenrad/1555270377-108",
+ "band": "alvenrad",
+ "title": "Minneschemering",
+ "source": "itunes",
+ "album": "Heer",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 4.84478797944043,
+  "tempo_var": 13.38782846131602,
+  "low_onset_rate": 5.780333244435824,
+  "lufs": -10.649182421878528,
+  "rms_dbfs": -10.060584866548144,
+  "crest": 10.060585021972656,
+  "centroid": 2986.7010920363923,
+  "flatness": 0.054151348769664764,
+  "sub100_share": 0.361116886138916,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.640143632888794,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": -0.10730459343434051,
+  "chord_rate": 2.773223464093488,
+  "repetitiveness": 0.8341121673583984,
+  "vocal_share": 0.160582035779953,
+  "vocal_voiced": 0.38373305526590196,
+  "song_length": 253.267
+ }
+}

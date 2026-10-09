@@ -1,0 +1,32 @@
+{
+ "id": "dokken/169976602-106",
+ "band": "dokken",
+ "title": "Shadows of Life",
+ "source": "itunes",
+ "album": "Dysfunctional",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.297911073711436,
+  "tempo_var": 2.877625248317683,
+  "low_onset_rate": 5.763016320728065,
+  "lufs": -10.274010888245106,
+  "rms_dbfs": -9.763850547607511,
+  "crest": 9.763850212097168,
+  "centroid": 2651.298686211738,
+  "flatness": 0.036732714623212814,
+  "sub100_share": 0.2930063009262085,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7511399984359741,
+  "clean_share": 0.09126063418406806,
+  "minor_share": -0.017368921531637382,
+  "chord_rate": 2.1986073824742904,
+  "repetitiveness": 0.8391352295875549,
+  "vocal_share": 0.16257143020629883,
+  "vocal_voiced": 0.7084367245657568,
+  "song_length": 276.4
+ }
+}

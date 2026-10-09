@@ -1,0 +1,32 @@
+{
+ "id": "archspire/1855056093-104",
+ "band": "archspire",
+ "title": "Anomalous Descent",
+ "source": "itunes",
+ "album": "Too Fast to Die",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.366585539145289,
+  "tempo_var": 24.686790014891066,
+  "low_onset_rate": 6.866562863751115,
+  "lufs": -6.6805274214303125,
+  "rms_dbfs": -5.847823141248956,
+  "crest": 5.847823619842529,
+  "centroid": 2885.9657808954003,
+  "flatness": 0.05763087794184685,
+  "sub100_share": 0.5060298442840576,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8193119168281555,
+  "clean_share": 0.005413766434648105,
+  "minor_share": 0.04986370784703764,
+  "chord_rate": 2.466629378240692,
+  "repetitiveness": 0.9276570081710815,
+  "vocal_share": 0.01714637689292431,
+  "vocal_voiced": 0.4700854700854701,
+  "song_length": 253.613
+ }
+}

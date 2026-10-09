@@ -1,0 +1,127 @@
+{
+ "slug": "arcturus",
+ "name": "Arcturus",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 78495012,
+  "deezer": 8337,
+  "spotify": "0UGvFl1tJ49Co99gaXZH9Z"
+ },
+ "metadata": {
+  "formed": 1990,
+  "split": null,
+  "country": "NO",
+  "status": "active",
+  "members": 5,
+  "past_members": 6,
+  "full_lengths": 5,
+  "genre": "Symphonic Black Metal (early); Avant-garde Progressive Metal (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 11277,
+  "themes": "Astronomy, Madness, Supernatural, Literature",
+  "release_year": 1999
+ },
+ "partial": false,
+ "clips": [
+  "arcturus/1556117661-104",
+  "arcturus/1556122705-105",
+  "arcturus/1556142969-104",
+  "arcturus/583593862-105",
+  "arcturus/1556086650-105",
+  "arcturus/1556117661-105",
+  "arcturus/1556122705-103",
+  "arcturus/1556142969-103",
+  "arcturus/583593862-104",
+  "arcturus/1556086650-106",
+  "arcturus/1556117661-103",
+  "arcturus/1556122705-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 49.57697941706731
+  },
+  "onset_rate": {
+   "median": 4.7278448213160065,
+   "iqr": 1.0608415058429914
+  },
+  "tempo_var": {
+   "median": 10.57634691531915,
+   "iqr": 10.525363781499875
+  },
+  "low_onset_rate": {
+   "median": 6.782703171216603,
+   "iqr": 1.904502860883479
+  },
+  "lufs": {
+   "median": -10.89644849092042,
+   "iqr": 5.026384608289039
+  },
+  "rms_dbfs": {
+   "median": -10.581021439146186,
+   "iqr": 5.360364425223356
+  },
+  "crest": {
+   "median": 10.581021785736084,
+   "iqr": 5.265442728996277
+  },
+  "centroid": {
+   "median": 2635.0596555629313,
+   "iqr": 489.00731097451717
+  },
+  "flatness": {
+   "median": 0.03300767205655575,
+   "iqr": 0.017629988491535187
+  },
+  "sub100_share": {
+   "median": 0.3557886779308319,
+   "iqr": 0.08644399046897888
+  },
+  "lowest_pitch": {
+   "median": 41.7205810546875,
+   "iqr": 6.7291259765625
+  },
+  "harmonic_share": {
+   "median": 0.8337981700897217,
+   "iqr": 0.04740642011165619
+  },
+  "clean_share": {
+   "median": 0.004266873545384018,
+   "iqr": 0.16931730023273855
+  },
+  "minor_share": {
+   "median": 0.0862199858242606,
+   "iqr": 0.03892157378760451
+  },
+  "chord_rate": {
+   "median": 1.4868487247248217,
+   "iqr": 0.45106646705135045
+  },
+  "repetitiveness": {
+   "median": 0.810484766960144,
+   "iqr": 0.0634247213602066
+  },
+  "vocal_share": {
+   "median": 0.14402685686945915,
+   "iqr": 0.16449940111488104
+  },
+  "vocal_voiced": {
+   "median": 0.6902810304449649,
+   "iqr": 0.4275283197130162
+  },
+  "song_length": {
+   "median": 324.9735,
+   "iqr": 81.53999999999996
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

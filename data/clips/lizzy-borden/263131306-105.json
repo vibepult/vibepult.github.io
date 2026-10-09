@@ -1,0 +1,32 @@
+{
+ "id": "lizzy-borden/263131306-105",
+ "band": "lizzy-borden",
+ "title": "The Death of Love",
+ "source": "itunes",
+ "album": "Appointment With Death",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.4462099355088975,
+  "tempo_var": 11.340428237853068,
+  "low_onset_rate": 5.613271589972361,
+  "lufs": -7.137419350483502,
+  "rms_dbfs": -7.269748912008146,
+  "crest": 7.269748687744141,
+  "centroid": 2633.1422311320543,
+  "flatness": 0.038368627429008484,
+  "sub100_share": 0.30605384707450867,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7686600685119629,
+  "clean_share": 0.0,
+  "minor_share": -0.06682642496348945,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.7776795029640198,
+  "vocal_share": 0.2570899724960327,
+  "vocal_voiced": 0.5194585448392555,
+  "song_length": 317.56
+ }
+}

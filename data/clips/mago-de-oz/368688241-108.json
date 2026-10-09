@@ -1,0 +1,32 @@
+{
+ "id": "mago-de-oz/368688241-108",
+ "band": "mago-de-oz",
+ "title": "El Bálsamo De Fierabras",
+ "source": "itunes",
+ "album": "La Leyenda De La Mancha",
+ "year": 1998,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.8333333333333335,
+  "tempo_var": 3.376368186790329,
+  "low_onset_rate": 5.266666666666667,
+  "lufs": -8.74291012108065,
+  "rms_dbfs": -8.497015881546005,
+  "crest": 8.497015953063965,
+  "centroid": 3286.496502142339,
+  "flatness": 0.04831959679722786,
+  "sub100_share": 0.32238197326660156,
+  "lowest_pitch": 123.81591796875,
+  "harmonic_share": 0.8077733516693115,
+  "clean_share": 0.01393188854489164,
+  "minor_share": -0.16946353013136395,
+  "chord_rate": 1.8333333333333333,
+  "repetitiveness": 0.724578320980072,
+  "vocal_share": 0.21609120070934296,
+  "vocal_voiced": 0.8691499522445081,
+  "song_length": 220.148
+ }
+}

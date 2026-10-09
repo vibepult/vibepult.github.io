@@ -1,0 +1,32 @@
+{
+ "id": "entwine/1669912133-105",
+ "band": "entwine",
+ "title": "As We Arise",
+ "source": "itunes",
+ "album": "Chaotic Nation",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 5.479622266401591,
+  "tempo_var": 33.631961660289754,
+  "low_onset_rate": 5.178911288367357,
+  "lufs": -8.875047155756072,
+  "rms_dbfs": -8.063548965608252,
+  "crest": 8.063549041748047,
+  "centroid": 2036.724196110722,
+  "flatness": 0.01423871424049139,
+  "sub100_share": 0.31107231974601746,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8182088732719421,
+  "clean_share": 0.19705197827773469,
+  "minor_share": -0.2548435961123916,
+  "chord_rate": 0.801895941424623,
+  "repetitiveness": 0.7779284119606018,
+  "vocal_share": 0.22004586458206177,
+  "vocal_voiced": 0.9029126213592233,
+  "song_length": 264.667
+ }
+}

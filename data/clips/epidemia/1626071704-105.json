@@ -1,0 +1,32 @@
+{
+ "id": "epidemia/1626071704-105",
+ "band": "epidemia",
+ "title": "Загадка волшебной страны",
+ "source": "itunes",
+ "album": "Загадка волшебной страны",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 6.448579862289677,
+  "tempo_var": 25.648297470643215,
+  "low_onset_rate": 6.582229185860447,
+  "lufs": -12.69139599778554,
+  "rms_dbfs": -12.318289909974304,
+  "crest": 12.318290710449219,
+  "centroid": 2715.509181616462,
+  "flatness": 0.017793018370866776,
+  "sub100_share": 0.5110159516334534,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8685463666915894,
+  "clean_share": 0.09775019394879751,
+  "minor_share": -0.2468290947245645,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.6873593926429749,
+  "vocal_share": 0.012201427482068539,
+  "vocal_voiced": 0.8780487804878049,
+  "song_length": 346.16
+ }
+}

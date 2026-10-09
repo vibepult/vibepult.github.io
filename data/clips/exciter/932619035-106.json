@@ -1,0 +1,32 @@
+{
+ "id": "exciter/932619035-106",
+ "band": "exciter",
+ "title": "Swords of Darkness",
+ "source": "itunes",
+ "album": "Violence & Force",
+ "year": 1984,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 1.971327522668865,
+  "tempo_var": 13.290691623896612,
+  "low_onset_rate": 6.582229185860447,
+  "lufs": -16.62587449723138,
+  "rms_dbfs": -17.109588955211287,
+  "crest": 16.243135452270508,
+  "centroid": 2570.780282376884,
+  "flatness": 0.03413841128349304,
+  "sub100_share": 0.28875213861465454,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.6647273898124695,
+  "clean_share": 0.2342901474010861,
+  "minor_share": 0.20196689576327354,
+  "chord_rate": 2.505924816951947,
+  "repetitiveness": 0.9272814989089966,
+  "vocal_share": 0.1183592826128006,
+  "vocal_voiced": 0.41150442477876104,
+  "song_length": 237.267
+ }
+}

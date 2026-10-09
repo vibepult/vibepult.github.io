@@ -1,0 +1,32 @@
+{
+ "id": "seventh-wonder/1690226399-103",
+ "band": "seventh-wonder",
+ "title": "The Angelmaker",
+ "source": "itunes",
+ "album": "The Great Escape",
+ "year": 2010,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.644313994084275,
+  "tempo_var": 10.394869061801744,
+  "low_onset_rate": 3.5417070746254184,
+  "lufs": -11.17564534862971,
+  "rms_dbfs": -11.400254056470185,
+  "crest": 11.400253295898438,
+  "centroid": 1890.6315374237593,
+  "flatness": 0.011602392420172691,
+  "sub100_share": 0.18190784752368927,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.8343390226364136,
+  "clean_share": 0.474010861132661,
+  "minor_share": -0.038903535815224655,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.637374997138977,
+  "vocal_share": 1.3978852848595125e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 512.48
+ }
+}

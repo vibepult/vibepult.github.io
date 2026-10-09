@@ -1,0 +1,32 @@
+{
+ "id": "body-count/862275493-111",
+ "band": "body-count",
+ "title": "The Winner Loses",
+ "source": "itunes",
+ "album": "Body Count",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.132846013621976,
+  "tempo_var": 22.646162221865776,
+  "low_onset_rate": 3.7995519802653654,
+  "lufs": -12.06447330978846,
+  "rms_dbfs": -11.721333726519926,
+  "crest": 11.721333503723145,
+  "centroid": 2487.976170063634,
+  "flatness": 0.024337230250239372,
+  "sub100_share": 0.2579331398010254,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7931032776832581,
+  "clean_share": 0.12993039443155452,
+  "minor_share": -0.008643606821500782,
+  "chord_rate": 1.4664937467690884,
+  "repetitiveness": 0.7653816938400269,
+  "vocal_share": 0.23155632615089417,
+  "vocal_voiced": 0.7467391304347826,
+  "song_length": 392.093
+ }
+}

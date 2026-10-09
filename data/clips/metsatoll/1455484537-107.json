@@ -1,0 +1,32 @@
+{
+ "id": "metsatoll/1455484537-107",
+ "band": "metsatoll",
+ "title": "Kurjajuur",
+ "source": "itunes",
+ "album": "Katk Kutsariks",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.209953692479271,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.744550986762353,
+  "lufs": -11.676066475841221,
+  "rms_dbfs": -11.30481932647994,
+  "crest": 11.304819107055664,
+  "centroid": 2230.252666333726,
+  "flatness": 0.021346984431147575,
+  "sub100_share": 0.2783374786376953,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.6461248993873596,
+  "clean_share": 0.11714507370054306,
+  "minor_share": 0.12364154497233126,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.8353529572486877,
+  "vocal_share": 0.15003947913646698,
+  "vocal_voiced": 0.8187919463087249,
+  "song_length": 213.36
+ }
+}

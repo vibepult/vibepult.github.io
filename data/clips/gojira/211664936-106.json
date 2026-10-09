@@ -1,0 +1,32 @@
+{
+ "id": "gojira/211664936-106",
+ "band": "gojira",
+ "title": "Indians",
+ "source": "itunes",
+ "album": "The Link",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.4,
+  "tempo_var": 2.642900972797727,
+  "low_onset_rate": 5.1,
+  "lufs": -8.834326344583632,
+  "rms_dbfs": -7.598442384494622,
+  "crest": 7.598442077636719,
+  "centroid": 2672.6787950051503,
+  "flatness": 0.029968414455652237,
+  "sub100_share": 0.4281129837036133,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6604350209236145,
+  "clean_share": 0.0046439628482972135,
+  "minor_share": 0.01986857146948634,
+  "chord_rate": 1.6,
+  "repetitiveness": 0.9059009552001953,
+  "vocal_share": 0.13834376633167267,
+  "vocal_voiced": 0.11533586818757921,
+  "song_length": 238.147
+ }
+}

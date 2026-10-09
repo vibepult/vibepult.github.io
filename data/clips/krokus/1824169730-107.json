@@ -1,0 +1,32 @@
+{
+ "id": "krokus/1824169730-107",
+ "band": "krokus",
+ "title": "Go My Way",
+ "source": "itunes",
+ "album": "Rock the Block",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.1991488281273615,
+  "tempo_var": 2.675009689773139,
+  "low_onset_rate": 5.465212581384242,
+  "lufs": -9.58350044025871,
+  "rms_dbfs": -9.160346119717616,
+  "crest": 9.160346031188965,
+  "centroid": 2288.90040249781,
+  "flatness": 0.021769452840089798,
+  "sub100_share": 0.28636354207992554,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.6845495700836182,
+  "clean_share": 0.07347254447022429,
+  "minor_share": -0.18831224122964185,
+  "chord_rate": 0.4332180704755802,
+  "repetitiveness": 0.9295348525047302,
+  "vocal_share": 0.1822473555803299,
+  "vocal_voiced": 0.606425702811245,
+  "song_length": 254.507
+ }
+}

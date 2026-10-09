@@ -1,0 +1,127 @@
+{
+ "slug": "bell-witch",
+ "name": "Bell Witch",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 571352531,
+  "deezer": 4521392,
+  "spotify": "6lZ0xXnt7D1JXxv03XLX0K"
+ },
+ "metadata": {
+  "formed": 2010,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 2,
+  "past_members": 1,
+  "full_lengths": 4,
+  "genre": "Funeral Doom Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 4132,
+  "themes": "Suffering, Pain, Death, Ghosts",
+  "release_year": 2017
+ },
+ "partial": false,
+ "clips": [
+  "bell-witch/571352228-103",
+  "bell-witch/1703880165-103",
+  "bell-witch/1703879954-103",
+  "bell-witch/571352228-104",
+  "bell-witch/1703880165-102",
+  "bell-witch/1703879954-102",
+  "bell-witch/571352228-102",
+  "bell-witch/1703880165-104",
+  "bell-witch/1703879954-104",
+  "bell-witch/571352228-105",
+  "bell-witch/1703880165-101",
+  "bell-witch/1703879954-101"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 115.3564453125,
+   "iqr": 57.94600976166328
+  },
+  "onset_rate": {
+   "median": 0.6674118525552727,
+   "iqr": 0.6675112293765321
+  },
+  "tempo_var": {
+   "median": 14.477025316607902,
+   "iqr": 9.600612206145495
+  },
+  "low_onset_rate": {
+   "median": 6.149907030883886,
+   "iqr": 1.37892898197076
+  },
+  "lufs": {
+   "median": -18.434970424078443,
+   "iqr": 9.400657836138164
+  },
+  "rms_dbfs": {
+   "median": -17.618572674715907,
+   "iqr": 9.875208188563176
+  },
+  "crest": {
+   "median": 12.015814781188965,
+   "iqr": 2.5521914958953857
+  },
+  "centroid": {
+   "median": 638.370099770965,
+   "iqr": 694.7387370675733
+  },
+  "flatness": {
+   "median": 0.00011840727893286385,
+   "iqr": 0.0017811877437452495
+  },
+  "sub100_share": {
+   "median": 0.3231744170188904,
+   "iqr": 0.27464623376727104
+  },
+  "lowest_pitch": {
+   "median": 67.291259765625,
+   "iqr": 26.24359130859375
+  },
+  "harmonic_share": {
+   "median": 0.9899086058139801,
+   "iqr": 0.04882204532623291
+  },
+  "clean_share": {
+   "median": 0.9988387072000153,
+   "iqr": 0.11201660549704595
+  },
+  "minor_share": {
+   "median": 0.0924539802659019,
+   "iqr": 0.2054162780354073
+  },
+  "chord_rate": {
+   "median": 0.649990173995858,
+   "iqr": 0.41644173893929193
+  },
+  "repetitiveness": {
+   "median": 0.5095663219690323,
+   "iqr": 0.12327937036752701
+  },
+  "vocal_share": {
+   "median": 0.04639901593327522,
+   "iqr": 0.0
+  },
+  "vocal_voiced": {
+   "median": 0.522633744855967,
+   "iqr": 0.0
+  },
+  "song_length": {
+   "median": 1206.5405,
+   "iqr": 557.6860000000001
+  },
+  "vocal_presence": {
+   "median": 0.08333333333333333,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

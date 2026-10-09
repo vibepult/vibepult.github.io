@@ -1,0 +1,32 @@
+{
+ "id": "daniel-lioneye/255722381-104",
+ "band": "daniel-lioneye",
+ "title": "Never Been In Love",
+ "source": "itunes",
+ "album": "The King of Rock 'N' Roll",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 6.081044222470058,
+  "tempo_var": 1.9725283008544137,
+  "low_onset_rate": 6.782703171216603,
+  "lufs": -4.703231816765053,
+  "rms_dbfs": -4.717787785390615,
+  "crest": 4.717787742614746,
+  "centroid": 2744.7272955882786,
+  "flatness": 0.05040371045470238,
+  "sub100_share": 0.27070143818855286,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.731401264667511,
+  "clean_share": 0.0,
+  "minor_share": 0.2773889470549046,
+  "chord_rate": 2.2720385007030983,
+  "repetitiveness": 0.8579217791557312,
+  "vocal_share": 0.14777381718158722,
+  "vocal_voiced": 0.568824065633546,
+  "song_length": 156.82
+ }
+}

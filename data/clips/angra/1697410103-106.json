@@ -1,0 +1,32 @@
+{
+ "id": "angra/1697410103-106",
+ "band": "angra",
+ "title": "The Shaman",
+ "source": "itunes",
+ "album": "Holy Land",
+ "year": 1996,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.0999812548374615,
+  "tempo_var": 12.4164356801943,
+  "low_onset_rate": 3.333313177244582,
+  "lufs": -13.501172010214008,
+  "rms_dbfs": -13.572112617898629,
+  "crest": 13.572112083435059,
+  "centroid": 2593.8527381769477,
+  "flatness": 0.029613034799695015,
+  "sub100_share": 0.3715302348136902,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.6380459070205688,
+  "clean_share": 0.04021655065738593,
+  "minor_share": 0.16104310338504124,
+  "chord_rate": 2.2999860922987616,
+  "repetitiveness": 0.8124958872795105,
+  "vocal_share": 4.750158666411153e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 323.733
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "sleep",
+ "name": "Sleep",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 2930043,
+  "deezer": 376714021,
+  "spotify": "4Mt6w4tDGiPgV5q6JWPlrI"
+ },
+ "metadata": {
+  "formed": 1990,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 3,
+  "past_members": 4,
+  "full_lengths": 6,
+  "genre": "Stoner/Doom Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 2258,
+  "themes": "Darkness (early); Cannabis, Spirituality, Religion, Fantasy, Science fiction (later)",
+  "release_year": 1992
+ },
+ "partial": false,
+ "clips": [
+  "sleep/272772755-105",
+  "sleep/43359181-105",
+  "sleep/6792864184-103",
+  "sleep/272772755-104",
+  "sleep/43359181-106",
+  "sleep/6792864184-102",
+  "sleep/272772755-106",
+  "sleep/43359181-103",
+  "sleep/6792864184-104",
+  "sleep/272772755-103",
+  "sleep/43359181-107",
+  "sleep/6792864184-101"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.90049098320159,
+   "iqr": 32.435416403087046
+  },
+  "onset_rate": {
+   "median": 3.1166575964267285,
+   "iqr": 1.6344304340624496
+  },
+  "tempo_var": {
+   "median": 15.502503620087172,
+   "iqr": 20.66197607043348
+  },
+  "low_onset_rate": {
+   "median": 4.922393989720215,
+   "iqr": 2.5360425327891356
+  },
+  "lufs": {
+   "median": -13.877286592179189,
+   "iqr": 1.908639487506223
+  },
+  "rms_dbfs": {
+   "median": -12.954151457477753,
+   "iqr": 2.9438849044813384
+  },
+  "crest": {
+   "median": 12.954150676727295,
+   "iqr": 2.9438862800598145
+  },
+  "centroid": {
+   "median": 2114.6856167270353,
+   "iqr": 232.02923722348123
+  },
+  "flatness": {
+   "median": 0.01779344491660595,
+   "iqr": 0.007730395765975118
+  },
+  "sub100_share": {
+   "median": 0.27294181287288666,
+   "iqr": 0.247275672852993
+  },
+  "lowest_pitch": {
+   "median": 61.907958984375,
+   "iqr": 19.51446533203125
+  },
+  "harmonic_share": {
+   "median": 0.7698134183883667,
+   "iqr": 0.12599708139896393
+  },
+  "clean_share": {
+   "median": 0.1943366951124903,
+   "iqr": 0.2967507524440965
+  },
+  "minor_share": {
+   "median": -0.0535917829942357,
+   "iqr": 0.14238450328883778
+  },
+  "chord_rate": {
+   "median": 1.8690365934474455,
+   "iqr": 0.6971485293297841
+  },
+  "repetitiveness": {
+   "median": 0.8792110979557037,
+   "iqr": 0.0980391800403595
+  },
+  "vocal_share": {
+   "median": 0.1222514733672142,
+   "iqr": 0.0398385189473629
+  },
+  "vocal_voiced": {
+   "median": 0.42224549830629343,
+   "iqr": 0.0800143650072942
+  },
+  "song_length": {
+   "median": 354.41999999999996,
+   "iqr": 125.93024999999994
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "arcturus/1556117661-105",
+ "band": "arcturus",
+ "title": "The Bodkin & the Quietus (...To Reach the Stars)",
+ "source": "itunes",
+ "album": "Aspera Hiems Symfonia",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.94265504533773,
+  "tempo_var": 3.6161306303981076,
+  "low_onset_rate": 5.4462099355088975,
+  "lufs": -14.513762738570973,
+  "rms_dbfs": -14.740927473900229,
+  "crest": 14.740926742553711,
+  "centroid": 2624.7214568697555,
+  "flatness": 0.03277243301272392,
+  "sub100_share": 0.2328878939151764,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8015636205673218,
+  "clean_share": 0.0,
+  "minor_share": 0.05430342901108842,
+  "chord_rate": 1.7374412064200164,
+  "repetitiveness": 0.5573938488960266,
+  "vocal_share": 0.12490541487932205,
+  "vocal_voiced": 0.12749615975422426,
+  "song_length": 276.133
+ }
+}

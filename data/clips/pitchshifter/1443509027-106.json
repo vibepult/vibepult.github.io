@@ -1,0 +1,32 @@
+{
+ "id": "pitchshifter/1443509027-106",
+ "band": "pitchshifter",
+ "title": "Scene This",
+ "source": "itunes",
+ "album": "Deviant",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 4.143129030693886,
+  "tempo_var": 16.656073007705253,
+  "low_onset_rate": 7.283888134606992,
+  "lufs": -8.21173903928696,
+  "rms_dbfs": -8.375266035104858,
+  "crest": 8.375266075134277,
+  "centroid": 2692.1563634770005,
+  "flatness": 0.04845951870083809,
+  "sub100_share": 0.17169682681560516,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.641558051109314,
+  "clean_share": 0.0,
+  "minor_share": -0.19946226832140446,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.8088644742965698,
+  "vocal_share": 0.20729704201221466,
+  "vocal_voiced": 0.401,
+  "song_length": 232.093
+ }
+}

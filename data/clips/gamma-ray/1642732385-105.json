@@ -1,0 +1,32 @@
+{
+ "id": "gamma-ray/1642732385-105",
+ "band": "gamma-ray",
+ "title": "The Guardians of Mankind",
+ "source": "itunes",
+ "album": "Somewhere out in Space",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 6.916352494787374,
+  "tempo_var": 0.0,
+  "low_onset_rate": 8.887680017456239,
+  "lufs": -9.775327856443436,
+  "rms_dbfs": -9.59169770638045,
+  "crest": 9.591697692871094,
+  "centroid": 2694.3223027438066,
+  "flatness": 0.040549103170633316,
+  "sub100_share": 0.39134252071380615,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.754223644733429,
+  "clean_share": 0.0,
+  "minor_share": -0.28166390357168947,
+  "chord_rate": 2.3054508315957913,
+  "repetitiveness": 0.9155685901641846,
+  "vocal_share": 0.18379025161266327,
+  "vocal_voiced": 0.5461598138091543,
+  "song_length": 301.533
+ }
+}

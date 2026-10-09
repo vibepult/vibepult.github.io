@@ -1,0 +1,32 @@
+{
+ "id": "arcturus/1556117661-104",
+ "band": "arcturus",
+ "title": "Raudt Og Svart",
+ "source": "itunes",
+ "album": "Aspera Hiems Symfonia",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.945024972118508,
+  "tempo_var": 21.86136409089229,
+  "low_onset_rate": 6.649053847645832,
+  "lufs": -13.50110730010742,
+  "rms_dbfs": -14.077772166900786,
+  "crest": 13.951210021972656,
+  "centroid": 2706.638802207949,
+  "flatness": 0.042319077998399734,
+  "sub100_share": 0.12433522939682007,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8069919943809509,
+  "clean_share": 0.0,
+  "minor_share": 0.09907014979543138,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.7831466197967529,
+  "vocal_share": 0.2215101569890976,
+  "vocal_voiced": 0.8987341772151899,
+  "song_length": 349.933
+ }
+}

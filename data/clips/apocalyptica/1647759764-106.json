@@ -1,0 +1,32 @@
+{
+ "id": "apocalyptica/1647759764-106",
+ "band": "apocalyptica",
+ "title": "Fisheye",
+ "source": "itunes",
+ "album": "Apocalyptica",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.3333192240712073,
+  "tempo_var": 6.171443262826808,
+  "low_onset_rate": 4.233307735100619,
+  "lufs": -11.547460395433614,
+  "rms_dbfs": -10.721361640832734,
+  "crest": 10.72136116027832,
+  "centroid": 2392.8173016593896,
+  "flatness": 0.027412986382842064,
+  "sub100_share": 0.33650967478752136,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8026464581489563,
+  "clean_share": 0.040989945862335654,
+  "minor_share": -0.09296131124339452,
+  "chord_rate": 2.3666523558436534,
+  "repetitiveness": 0.8759561777114868,
+  "vocal_share": 5.896204584132647e-06,
+  "vocal_voiced": 1.0,
+  "song_length": 249.533
+ }
+}

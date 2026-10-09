@@ -1,0 +1,127 @@
+{
+ "slug": "sonic-syndicate",
+ "name": "Sonic Syndicate",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 80083126,
+  "deezer": 14973,
+  "spotify": "384RPjoLeqSOcy5qS9oQgX"
+ },
+ "metadata": {
+  "formed": 2005,
+  "split": null,
+  "country": "SE",
+  "status": "unknown",
+  "members": 3,
+  "past_members": 7,
+  "full_lengths": 6,
+  "genre": "Melodic Groove Metal (early); Alternative Rock/Metalcore (later)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 22084,
+  "themes": "Fantasy (early); Love, Life, Relationships (later)",
+  "release_year": 2007
+ },
+ "partial": false,
+ "clips": [
+  "sonic-syndicate/80083147-105",
+  "sonic-syndicate/1460469657-106",
+  "sonic-syndicate/1456966849-106",
+  "sonic-syndicate/1456956264-107",
+  "sonic-syndicate/1460465780-107",
+  "sonic-syndicate/80083147-106",
+  "sonic-syndicate/1460469657-107",
+  "sonic-syndicate/1456966849-107",
+  "sonic-syndicate/1456956264-106",
+  "sonic-syndicate/1460465780-108",
+  "sonic-syndicate/80083147-104",
+  "sonic-syndicate/1460469657-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 105.5126953125,
+   "iqr": 27.821158590587046
+  },
+  "onset_rate": {
+   "median": 3.5877072167116233,
+   "iqr": 1.777979033672057
+  },
+  "tempo_var": {
+   "median": 6.9237457243552605,
+   "iqr": 12.036256587013815
+  },
+  "low_onset_rate": {
+   "median": 3.7372707145262725,
+   "iqr": 2.4530739509643933
+  },
+  "lufs": {
+   "median": -8.091098794066188,
+   "iqr": 4.963609677681716
+  },
+  "rms_dbfs": {
+   "median": -7.469068654626488,
+   "iqr": 4.185345425774999
+  },
+  "crest": {
+   "median": 7.469068765640259,
+   "iqr": 4.185345530509949
+  },
+  "centroid": {
+   "median": 2487.8908916180476,
+   "iqr": 403.208935352714
+  },
+  "flatness": {
+   "median": 0.03728810325264931,
+   "iqr": 0.020045372657477856
+  },
+  "sub100_share": {
+   "median": 0.2616238296031952,
+   "iqr": 0.12632925808429718
+  },
+  "lowest_pitch": {
+   "median": 44.4122314453125,
+   "iqr": 22.8790283203125
+  },
+  "harmonic_share": {
+   "median": 0.766397088766098,
+   "iqr": 0.07302574813365936
+  },
+  "clean_share": {
+   "median": 0.015094406414680229,
+   "iqr": 0.26197082578088016
+  },
+  "minor_share": {
+   "median": 0.05614487221491016,
+   "iqr": 0.14336721357170232
+  },
+  "chord_rate": {
+   "median": 1.6333234568498454,
+   "iqr": 0.9743011120418805
+  },
+  "repetitiveness": {
+   "median": 0.8780043721199036,
+   "iqr": 0.09101369976997375
+  },
+  "vocal_share": {
+   "median": 0.18037889897823334,
+   "iqr": 0.11198293045163155
+  },
+  "vocal_voiced": {
+   "median": 0.25410195005131714,
+   "iqr": 0.7253694482656848
+  },
+  "song_length": {
+   "median": 227.8745,
+   "iqr": 19.85624999999999
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

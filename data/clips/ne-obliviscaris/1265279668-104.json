@@ -1,0 +1,32 @@
+{
+ "id": "ne-obliviscaris/1265279668-104",
+ "band": "ne-obliviscaris",
+ "title": "Eyrie",
+ "source": "itunes",
+ "album": "Urn",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 1.6372042137419387,
+  "tempo_var": 3.529014112671735,
+  "low_onset_rate": 4.71113865586966,
+  "lufs": -21.81603435977833,
+  "rms_dbfs": -20.74700152686793,
+  "crest": 11.873435020446777,
+  "centroid": 931.8638088735657,
+  "flatness": 0.00015531636017840356,
+  "sub100_share": 0.004142810590565205,
+  "lowest_pitch": 123.81591796875,
+  "harmonic_share": 0.9879624843597412,
+  "clean_share": 1.0,
+  "minor_share": -0.218543571119168,
+  "chord_rate": 0.801895941424623,
+  "repetitiveness": 0.7265615463256836,
+  "vocal_share": 0.002156705828383565,
+  "vocal_voiced": 0.2857142857142857,
+  "song_length": 711.083
+ }
+}

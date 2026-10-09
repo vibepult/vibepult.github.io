@@ -1,0 +1,32 @@
+{
+ "id": "seigmen/1750949561-106",
+ "band": "seigmen",
+ "title": "Kollaps",
+ "source": "itunes",
+ "album": "Resonans",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.9999546492116522,
+  "tempo_var": 2.352649750613418,
+  "low_onset_rate": 3.899941043975148,
+  "lufs": -9.40224666147373,
+  "rms_dbfs": -8.03001029156528,
+  "crest": 8.030010223388672,
+  "centroid": 2033.0158804069947,
+  "flatness": 0.014667673036456108,
+  "sub100_share": 0.42559218406677246,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8232195973396301,
+  "clean_share": 0.4300077339520495,
+  "minor_share": 0.02549420711028605,
+  "chord_rate": 1.1666490302489758,
+  "repetitiveness": 0.7289859652519226,
+  "vocal_share": 0.12001543492078781,
+  "vocal_voiced": 0.893644617380026,
+  "song_length": 235.827
+ }
+}

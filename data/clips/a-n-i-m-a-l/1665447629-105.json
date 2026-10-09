@@ -1,0 +1,32 @@
+{
+ "id": "a-n-i-m-a-l/1665447629-105",
+ "band": "a-n-i-m-a-l",
+ "title": "Hijos Del Sol",
+ "source": "itunes",
+ "album": "Fin De Un Mundo Enfermo",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 1.8042658682054018,
+  "tempo_var": 24.15251861203467,
+  "low_onset_rate": 2.0047398535615577,
+  "lufs": -13.181144479475321,
+  "rms_dbfs": -14.684512507407256,
+  "crest": 14.684513092041016,
+  "centroid": 2261.5491010319474,
+  "flatness": 0.02957276999950409,
+  "sub100_share": 0.2272842675447464,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.6560388803482056,
+  "clean_share": 0.287044220325834,
+  "minor_share": 0.07778565709991919,
+  "chord_rate": 2.472512486059254,
+  "repetitiveness": 0.9214029908180237,
+  "vocal_share": 0.012687647715210915,
+  "vocal_voiced": 0.8071428571428572,
+  "song_length": 268.373
+ }
+}

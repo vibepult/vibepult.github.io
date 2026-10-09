@@ -1,0 +1,32 @@
+{
+ "id": "van-canto/1184694895-105",
+ "band": "van-canto",
+ "title": "The Bard's Song - In the Forest",
+ "source": "itunes",
+ "album": "Hero",
+ "year": 2008,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.1,
+  "tempo_var": 23.26955373573423,
+  "low_onset_rate": 6.0,
+  "lufs": -11.114899061458232,
+  "rms_dbfs": -11.120991817075787,
+  "crest": 11.120991706848145,
+  "centroid": 2379.024431028888,
+  "flatness": 0.015011974610388279,
+  "sub100_share": 0.07300198823213577,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.8505972027778625,
+  "clean_share": 0.16640866873065016,
+  "minor_share": -0.010337439512758562,
+  "chord_rate": 1.2666666666666666,
+  "repetitiveness": 0.5824704766273499,
+  "vocal_share": 0.7550008296966553,
+  "vocal_voiced": 0.7120743034055728,
+  "song_length": 188.76
+ }
+}

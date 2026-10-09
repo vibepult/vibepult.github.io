@@ -1,0 +1,127 @@
+{
+ "slug": "royal-hunt",
+ "name": "Royal Hunt",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 72774929,
+  "deezer": 7646,
+  "spotify": "2CzAMm46coQpauDZj4a4ic"
+ },
+ "metadata": {
+  "formed": 1989,
+  "split": null,
+  "country": "DK",
+  "status": "active",
+  "members": 5,
+  "past_members": 11,
+  "full_lengths": 16,
+  "genre": "Neoclassical Power/Progressive Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 4168,
+  "themes": "Science fiction, Human issues, Religion",
+  "release_year": 2002
+ },
+ "partial": false,
+ "clips": [
+  "royal-hunt/1422882433-107",
+  "royal-hunt/1446168590-107",
+  "royal-hunt/1493079864-106",
+  "royal-hunt/1453673037-105",
+  "royal-hunt/1494585802-104",
+  "royal-hunt/1497562385-109",
+  "royal-hunt/1493190125-106",
+  "royal-hunt/1497562583-105",
+  "royal-hunt/1494595441-106",
+  "royal-hunt/1450333949-104",
+  "royal-hunt/1528908728-105",
+  "royal-hunt/1497343096-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 107.85326086956522,
+   "iqr": 43.71402138157896
+  },
+  "onset_rate": {
+   "median": 4.961731137564854,
+   "iqr": 1.7315172986471419
+  },
+  "tempo_var": {
+   "median": 10.702611521997104,
+   "iqr": 10.854267640605594
+  },
+  "low_onset_rate": {
+   "median": 5.923973940907402,
+   "iqr": 1.7708535373127097
+  },
+  "lufs": {
+   "median": -9.359948063842834,
+   "iqr": 2.9863530559176032
+  },
+  "rms_dbfs": {
+   "median": -8.987490379782471,
+   "iqr": 2.440290802714646
+  },
+  "crest": {
+   "median": 8.987490177154541,
+   "iqr": 2.4402905702590942
+  },
+  "centroid": {
+   "median": 2587.67578712986,
+   "iqr": 541.9312316516716
+  },
+  "flatness": {
+   "median": 0.03024877980351448,
+   "iqr": 0.025730969617143273
+  },
+  "sub100_share": {
+   "median": 0.2277211844921112,
+   "iqr": 0.15538552403450012
+  },
+  "lowest_pitch": {
+   "median": 64.599609375,
+   "iqr": 15.47698974609375
+  },
+  "harmonic_share": {
+   "median": 0.8501676917076111,
+   "iqr": 0.07817089557647705
+  },
+  "clean_share": {
+   "median": 0.01551590380139643,
+   "iqr": 0.10865395931758845
+  },
+  "minor_share": {
+   "median": 0.014256086322669004,
+   "iqr": 0.24561392791316805
+  },
+  "chord_rate": {
+   "median": 1.2195500775832808,
+   "iqr": 0.8269551895941423
+  },
+  "repetitiveness": {
+   "median": 0.7969565689563751,
+   "iqr": 0.11090758442878723
+  },
+  "vocal_share": {
+   "median": 0.2098194658756256,
+   "iqr": 0.1069583147764206
+  },
+  "vocal_voiced": {
+   "median": 0.8589743589743589,
+   "iqr": 0.05811859745627723
+  },
+  "song_length": {
+   "median": 342.787,
+   "iqr": 156.57625000000004
+  },
+  "vocal_presence": {
+   "median": 0.5833333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "ithilien/1175067135-102",
+ "band": "ithilien",
+ "title": "Lies After Lies",
+ "source": "itunes",
+ "album": "Shaping the Soul",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.9092427144450372,
+  "tempo_var": 13.191183140675179,
+  "low_onset_rate": 2.1049768462396354,
+  "lufs": -8.852799567667764,
+  "rms_dbfs": -8.631446332803838,
+  "crest": 8.631446838378906,
+  "centroid": 2050.6123246617176,
+  "flatness": 0.015672942623496056,
+  "sub100_share": 0.20753829181194305,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8079773783683777,
+  "clean_share": 0.3591931730023274,
+  "minor_share": 0.07431079235325189,
+  "chord_rate": 1.4367302283857828,
+  "repetitiveness": 0.7413231134414673,
+  "vocal_share": 0.04998356103897095,
+  "vocal_voiced": 0.25,
+  "song_length": 276.0
+ }
+}

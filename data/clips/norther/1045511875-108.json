@@ -1,0 +1,32 @@
+{
+ "id": "norther/1045511875-108",
+ "band": "norther",
+ "title": "Always & Never",
+ "source": "itunes",
+ "album": "N",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 7.183651141928914,
+  "tempo_var": 11.743142431503617,
+  "low_onset_rate": 7.150238811036222,
+  "lufs": -7.98623880704132,
+  "rms_dbfs": -7.398252186057599,
+  "crest": 7.398252487182617,
+  "centroid": 2548.1888615909193,
+  "flatness": 0.03368613123893738,
+  "sub100_share": 0.4143766462802887,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.7853317856788635,
+  "clean_share": 0.007757951900698216,
+  "minor_share": 0.24478365965632076,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.8907902836799622,
+  "vocal_share": 0.10769659280776978,
+  "vocal_voiced": 0.22919937205651492,
+  "song_length": 274.16
+ }
+}

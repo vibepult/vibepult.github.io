@@ -1,0 +1,32 @@
+{
+ "id": "orphaned-land/1315545322-107",
+ "band": "orphaned-land",
+ "title": "Like Orpheus",
+ "source": "itunes",
+ "album": "Unsung Prophets and Dead Messiahs",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.513034597294284,
+  "tempo_var": 16.15208325083109,
+  "low_onset_rate": 5.579859259079669,
+  "lufs": -9.22792037377561,
+  "rms_dbfs": -8.737116994564717,
+  "crest": 8.737116813659668,
+  "centroid": 2412.478913215236,
+  "flatness": 0.027094151824712753,
+  "sub100_share": 0.18868009746074677,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8007057905197144,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.09912945182871286,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.8361729383468628,
+  "vocal_share": 0.3612455427646637,
+  "vocal_voiced": 0.89921875,
+  "song_length": 274.5
+ }
+}

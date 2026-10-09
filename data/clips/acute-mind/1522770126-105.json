@@ -1,0 +1,32 @@
+{
+ "id": "acute-mind/1522770126-105",
+ "band": "acute-mind",
+ "title": "Under the Empty Sky",
+ "source": "itunes",
+ "album": "Under the Empty Sky",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.0739344421277215,
+  "tempo_var": 5.783088608134573,
+  "low_onset_rate": 3.240996096591185,
+  "lufs": -12.225960896992698,
+  "rms_dbfs": -12.237193473133459,
+  "crest": 12.237194061279297,
+  "centroid": 2487.7830668095585,
+  "flatness": 0.029037723317742348,
+  "sub100_share": 0.15399515628814697,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.6851202845573425,
+  "clean_share": 0.17532971295577968,
+  "minor_share": -0.08585094980653929,
+  "chord_rate": 0.7016589487465451,
+  "repetitiveness": 0.7352342009544373,
+  "vocal_share": 0.35306623578071594,
+  "vocal_voiced": 0.7965686274509803,
+  "song_length": 207.595
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "van-canto/1184698876-105",
+ "band": "van-canto",
+ "title": "Black Wings of Hate",
+ "source": "itunes",
+ "album": "Break the Silence",
+ "year": 2011,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 4.133333333333334,
+  "tempo_var": 24.789246471741574,
+  "low_onset_rate": 5.1,
+  "lufs": -10.142757446633192,
+  "rms_dbfs": -9.524754680896079,
+  "crest": 9.524754524230957,
+  "centroid": 2803.4225713016326,
+  "flatness": 0.03428727388381958,
+  "sub100_share": 0.2668241858482361,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7205258011817932,
+  "clean_share": 0.03018575851393189,
+  "minor_share": 0.19064555099546276,
+  "chord_rate": 2.2333333333333334,
+  "repetitiveness": 0.8048317432403564,
+  "vocal_share": 0.21959295868873596,
+  "vocal_voiced": 0.5224586288416075,
+  "song_length": 281.147
+ }
+}

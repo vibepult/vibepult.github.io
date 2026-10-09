@@ -1,0 +1,32 @@
+{
+ "id": "violet-cold/1712143694-105",
+ "band": "violet-cold",
+ "title": "Shegnificant",
+ "source": "itunes",
+ "album": "Empire of Love",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 5.066590074224123,
+  "tempo_var": 0.9566001718065082,
+  "low_onset_rate": 7.43322096415776,
+  "lufs": -9.006605700922098,
+  "rms_dbfs": -8.728118947471305,
+  "crest": 8.728118896484375,
+  "centroid": 2323.048898660303,
+  "flatness": 0.028738437220454216,
+  "sub100_share": 0.27419790625572205,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7835585474967957,
+  "clean_share": 0.0,
+  "minor_share": 0.07327068379640811,
+  "chord_rate": 0.9666520536348657,
+  "repetitiveness": 0.8738480806350708,
+  "vocal_share": 0.046630341559648514,
+  "vocal_voiced": 0.925575101488498,
+  "song_length": 308.901
+ }
+}

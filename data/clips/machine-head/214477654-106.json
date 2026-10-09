@@ -1,0 +1,32 @@
+{
+ "id": "machine-head/214477654-106",
+ "band": "machine-head",
+ "title": "Death Church",
+ "source": "itunes",
+ "album": "Burn My Eyes",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.599575560251399,
+  "tempo_var": 3.2880749457321046,
+  "low_onset_rate": 3.4995873502444157,
+  "lufs": -15.22040274335941,
+  "rms_dbfs": -15.353798910741045,
+  "crest": 15.353798866271973,
+  "centroid": 3277.6896956820055,
+  "flatness": 0.019495587795972824,
+  "sub100_share": 0.4691260755062103,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.9290173053741455,
+  "clean_share": 0.1925754060324826,
+  "minor_share": 0.08893592147770424,
+  "chord_rate": 1.5664819567760717,
+  "repetitiveness": 0.6675262451171875,
+  "vocal_share": 4.4803400101045554e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 393.027
+ }
+}

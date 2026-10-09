@@ -1,0 +1,127 @@
+{
+ "slug": "primal-fear",
+ "name": "Primal Fear",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1450453039,
+  "deezer": 4807,
+  "spotify": "1yfiDL3YUEJlQCgb5Pun6g"
+ },
+ "metadata": {
+  "formed": 1997,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 5,
+  "past_members": 9,
+  "full_lengths": 15,
+  "genre": "Speed/Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 39787,
+  "themes": "Science fiction, Fantasy, Metal",
+  "release_year": 2006
+ },
+ "partial": false,
+ "clips": [
+  "primal-fear/1776755368-107",
+  "primal-fear/1776761168-107",
+  "primal-fear/1776761374-106",
+  "primal-fear/1776761605-107",
+  "primal-fear/1776754889-106",
+  "primal-fear/1776755816-105",
+  "primal-fear/1776756825-108",
+  "primal-fear/1776760695-108",
+  "primal-fear/1776761349-107",
+  "primal-fear/1776755069-106",
+  "primal-fear/1776755243-107",
+  "primal-fear/1776759340-109"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 30.735426682692307
+  },
+  "onset_rate": {
+   "median": 5.033333333333333,
+   "iqr": 2.333333333333333
+  },
+  "tempo_var": {
+   "median": 7.03100229859563,
+   "iqr": 10.951471811212826
+  },
+  "low_onset_rate": {
+   "median": 6.216666666666667,
+   "iqr": 1.8083333333333327
+  },
+  "lufs": {
+   "median": -8.444134918770061,
+   "iqr": 0.9357800824377751
+  },
+  "rms_dbfs": {
+   "median": -7.817377994297662,
+   "iqr": 0.8110343028093521
+  },
+  "crest": {
+   "median": 7.817378044128418,
+   "iqr": 0.8110337257385254
+  },
+  "centroid": {
+   "median": 2615.7052860161807,
+   "iqr": 186.84674564667876
+  },
+  "flatness": {
+   "median": 0.034113988280296326,
+   "iqr": 0.010629890486598015
+  },
+  "sub100_share": {
+   "median": 0.3697972148656845,
+   "iqr": 0.07187912613153458
+  },
+  "lowest_pitch": {
+   "median": 43.06640625,
+   "iqr": 20.1873779296875
+  },
+  "harmonic_share": {
+   "median": 0.7394812703132629,
+   "iqr": 0.1774173527956009
+  },
+  "clean_share": {
+   "median": 0.011222910216718266,
+   "iqr": 0.03386222910216718
+  },
+  "minor_share": {
+   "median": 0.006273256808048966,
+   "iqr": 0.10362116029935795
+  },
+  "chord_rate": {
+   "median": 1.45,
+   "iqr": 0.30833333333333357
+  },
+  "repetitiveness": {
+   "median": 0.8650288283824921,
+   "iqr": 0.10578440129756927
+  },
+  "vocal_share": {
+   "median": 0.19033579528331757,
+   "iqr": 0.10365465469658375
+  },
+  "vocal_voiced": {
+   "median": 0.4246201508641534,
+   "iqr": 0.22799044328726792
+  },
+  "song_length": {
+   "median": 244.739,
+   "iqr": 23.470000000000027
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

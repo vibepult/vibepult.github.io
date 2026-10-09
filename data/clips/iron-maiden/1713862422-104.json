@@ -1,0 +1,32 @@
+{
+ "id": "iron-maiden/1713862422-104",
+ "band": "iron-maiden",
+ "title": "22 Acacia Avenue (2015 Remaster)",
+ "source": "itunes",
+ "album": "The Number of the Beast (2015 Remaster)",
+ "year": 1982,
+ "itunes_year": 1982,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 5.399918368580974,
+  "tempo_var": 17.182111705292204,
+  "low_onset_rate": 5.666581004066455,
+  "lufs": -11.256107762738518,
+  "rms_dbfs": -10.735610217242018,
+  "crest": 10.73560905456543,
+  "centroid": 2066.748404129691,
+  "flatness": 0.01348278671503067,
+  "sub100_share": 0.07853278517723083,
+  "lowest_pitch": 148.040771484375,
+  "harmonic_share": 0.8109244108200073,
+  "clean_share": 0.34493426140757927,
+  "minor_share": 0.09769236371334589,
+  "chord_rate": 1.433311665734456,
+  "repetitiveness": 0.7237451076507568,
+  "vocal_share": 0.09958682209253311,
+  "vocal_voiced": 0.7404795486600846,
+  "song_length": 396.763
+ }
+}

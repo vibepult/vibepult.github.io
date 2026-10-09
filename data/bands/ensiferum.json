@@ -1,0 +1,127 @@
+{
+ "slug": "ensiferum",
+ "name": "Ensiferum",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 71457774,
+  "deezer": 3435,
+  "spotify": "0krXCIkthz13P8o0v2tksH"
+ },
+ "metadata": {
+  "formed": 1995,
+  "split": null,
+  "country": "FI",
+  "status": "active",
+  "members": 5,
+  "past_members": 8,
+  "full_lengths": 9,
+  "genre": "Epic Folk Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 113291,
+  "themes": "Legends, Fantasy, Battles, Sorrow, Heathenism",
+  "release_year": 2009
+ },
+ "partial": false,
+ "clips": [
+  "ensiferum/700734035-107",
+  "ensiferum/1679779197-106",
+  "ensiferum/705088830-105",
+  "ensiferum/1679699224-106",
+  "ensiferum/956849251-109",
+  "ensiferum/1254577131-107",
+  "ensiferum/1508273669-105",
+  "ensiferum/1743849495-105",
+  "ensiferum/700734035-106",
+  "ensiferum/1679779197-107",
+  "ensiferum/705088830-104",
+  "ensiferum/1679699224-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.69701086956522,
+   "iqr": 32.533649427319006
+  },
+  "onset_rate": {
+   "median": 4.9784373030112015,
+   "iqr": 2.2849285962130796
+  },
+  "tempo_var": {
+   "median": 7.399050049730204,
+   "iqr": 14.29683838710599
+  },
+  "low_onset_rate": {
+   "median": 6.524120793092145,
+   "iqr": 1.5855155636269993
+  },
+  "lufs": {
+   "median": -8.73151449306027,
+   "iqr": 1.4171799747665528
+  },
+  "rms_dbfs": {
+   "median": -8.250963621416101,
+   "iqr": 1.3542430104972034
+  },
+  "crest": {
+   "median": 8.25096321105957,
+   "iqr": 1.3542426824569702
+  },
+  "centroid": {
+   "median": 2667.1217322220327,
+   "iqr": 172.1887749282787
+  },
+  "flatness": {
+   "median": 0.03987973369657993,
+   "iqr": 0.015655400697141886
+  },
+  "sub100_share": {
+   "median": 0.36638642847537994,
+   "iqr": 0.13863878697156906
+  },
+  "lowest_pitch": {
+   "median": 52.4871826171875,
+   "iqr": 33.6456298828125
+  },
+  "harmonic_share": {
+   "median": 0.7667726576328278,
+   "iqr": 0.09840291738510132
+  },
+  "clean_share": {
+   "median": 0.0007757951900698216,
+   "iqr": 0.017823489494365137
+  },
+  "minor_share": {
+   "median": 0.14010322670994857,
+   "iqr": 0.20375753413133643
+  },
+  "chord_rate": {
+   "median": 1.5166437393236687,
+   "iqr": 0.3894943311658421
+  },
+  "repetitiveness": {
+   "median": 0.8528017699718475,
+   "iqr": 0.12446066737174988
+  },
+  "vocal_share": {
+   "median": 0.1538442224264145,
+   "iqr": 0.09272677078843117
+  },
+  "vocal_voiced": {
+   "median": 0.3785926660059465,
+   "iqr": 0.5560632129116858
+  },
+  "song_length": {
+   "median": 269.10699999999997,
+   "iqr": 69.32375000000002
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

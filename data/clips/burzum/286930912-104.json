@@ -1,0 +1,32 @@
+{
+ "id": "burzum/286930912-104",
+ "band": "burzum",
+ "title": "Gebrechlichkeit I",
+ "source": "itunes",
+ "album": "Filosofem",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.8,
+  "tempo_var": 3.5509410604871583,
+  "low_onset_rate": 9.433333333333334,
+  "lufs": -12.879919306018122,
+  "rms_dbfs": -13.633043805850738,
+  "crest": 12.343798637390137,
+  "centroid": 3192.629323986742,
+  "flatness": 0.08037040382623672,
+  "sub100_share": 0.24676749110221863,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.7673563361167908,
+  "clean_share": 0.0,
+  "minor_share": -0.21812514505824265,
+  "chord_rate": 1.2,
+  "repetitiveness": 0.9562012553215027,
+  "vocal_share": 0.06781699508428574,
+  "vocal_voiced": 0.27197518097207857,
+  "song_length": 473.0
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "turisas/1045404642-102",
+ "band": "turisas",
+ "title": "Ten More Miles",
+ "source": "itunes",
+ "album": "Turisas2013",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.276778354264656,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.744550986762353,
+  "lufs": -10.655780488273814,
+  "rms_dbfs": -9.823991177315584,
+  "crest": 9.823990821838379,
+  "centroid": 2317.9758833052665,
+  "flatness": 0.027229338884353638,
+  "sub100_share": 0.3337661921977997,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6921050548553467,
+  "clean_share": 0.16679596586501164,
+  "minor_share": 0.11372641674569484,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.9387108683586121,
+  "vocal_share": 0.2276795655488968,
+  "vocal_voiced": 0.802407221664995,
+  "song_length": 256.32
+ }
+}

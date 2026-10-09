@@ -1,0 +1,32 @@
+{
+ "id": "benediction/1460473507-108",
+ "band": "benediction",
+ "title": "Shadow World",
+ "source": "itunes",
+ "album": "Grind Bastard",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.176541361586578,
+  "tempo_var": 2.568260355046252,
+  "low_onset_rate": 6.314930538718906,
+  "lufs": -10.723724190116306,
+  "rms_dbfs": -10.563882084587972,
+  "crest": 10.563880920410156,
+  "centroid": 2693.9056804808724,
+  "flatness": 0.05376701429486275,
+  "sub100_share": 0.29120224714279175,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.733718991279602,
+  "clean_share": 0.03646237393328161,
+  "minor_share": -0.0339158117915897,
+  "chord_rate": 2.940285118556951,
+  "repetitiveness": 0.8743630647659302,
+  "vocal_share": 0.11371560394763947,
+  "vocal_voiced": 0.20701357466063347,
+  "song_length": 194.707
+ }
+}

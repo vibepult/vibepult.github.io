@@ -1,0 +1,32 @@
+{
+ "id": "einherjer/1539917083-104",
+ "band": "einherjer",
+ "title": "Ascension",
+ "source": "itunes",
+ "album": "North Star",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.766666666666667,
+  "tempo_var": 0.9338804235145024,
+  "low_onset_rate": 7.1,
+  "lufs": -11.203573828620128,
+  "rms_dbfs": -10.19528009571297,
+  "crest": 10.195280075073242,
+  "centroid": 2225.1226763078193,
+  "flatness": 0.013626666739583015,
+  "sub100_share": 0.565843403339386,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8336538076400757,
+  "clean_share": 0.23839009287925697,
+  "minor_share": 0.0804353140442488,
+  "chord_rate": 1.8,
+  "repetitiveness": 0.9305031895637512,
+  "vocal_share": 4.885485509475984e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 459.773
+ }
+}

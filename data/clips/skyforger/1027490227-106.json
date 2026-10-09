@@ -1,0 +1,32 @@
+{
+ "id": "skyforger/1027490227-106",
+ "band": "skyforger",
+ "title": "Romove",
+ "source": "itunes",
+ "album": "Senprusija",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.4080577510546477,
+  "tempo_var": 20.62080379682557,
+  "low_onset_rate": 5.813745575328517,
+  "lufs": -8.312938684338572,
+  "rms_dbfs": -8.67586181650169,
+  "crest": 8.675862312316895,
+  "centroid": 2580.7784902171716,
+  "flatness": 0.03145859017968178,
+  "sub100_share": 0.19567659497261047,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7621729373931885,
+  "clean_share": 0.017843289371605897,
+  "minor_share": 0.14607658349892494,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.7645178437232971,
+  "vocal_share": 6.234683951333864e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 404.507
+ }
+}

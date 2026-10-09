@@ -1,0 +1,32 @@
+{
+ "id": "malevolent-creation/1564299803-107",
+ "band": "malevolent-creation",
+ "title": "In Cold Blood",
+ "source": "itunes",
+ "album": "In Cold Blood",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.644313994084275,
+  "tempo_var": 3.719757393827582,
+  "low_onset_rate": 7.684836105319304,
+  "lufs": -7.871300994892339,
+  "rms_dbfs": -7.586145849923929,
+  "crest": 7.586145877838135,
+  "centroid": 3019.939697475585,
+  "flatness": 0.039634499698877335,
+  "sub100_share": 0.25753799080848694,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.8643360137939453,
+  "clean_share": 0.0,
+  "minor_share": -0.09656618488291036,
+  "chord_rate": 2.840048125878873,
+  "repetitiveness": 0.8924195170402527,
+  "vocal_share": 0.04772786423563957,
+  "vocal_voiced": 0.2097560975609756,
+  "song_length": 334.107
+ }
+}

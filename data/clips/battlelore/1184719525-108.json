@@ -1,0 +1,32 @@
+{
+ "id": "battlelore/1184719525-108",
+ "band": "battlelore",
+ "title": "Thousand Caves",
+ "source": "itunes",
+ "album": "Third Age of the Sun",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 5.433333333333334,
+  "tempo_var": 13.475084660637027,
+  "low_onset_rate": 7.366666666666666,
+  "lufs": -8.441852195290632,
+  "rms_dbfs": -7.444982867080646,
+  "crest": 7.444983005523682,
+  "centroid": 2373.4995385229754,
+  "flatness": 0.018233921378850937,
+  "sub100_share": 0.2293013483285904,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8937789797782898,
+  "clean_share": 0.006191950464396285,
+  "minor_share": 0.002997624991155745,
+  "chord_rate": 0.9,
+  "repetitiveness": 0.728010356426239,
+  "vocal_share": 0.12157142907381058,
+  "vocal_voiced": 0.9181286549707602,
+  "song_length": 245.973
+ }
+}

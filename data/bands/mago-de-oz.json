@@ -1,0 +1,127 @@
+{
+ "slug": "mago-de-oz",
+ "name": "Mägo de Oz",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 165478235,
+  "deezer": 4162,
+  "spotify": "5ZNxiPcbKgaNcBrERMpqeu"
+ },
+ "metadata": {
+  "formed": 1989,
+  "split": null,
+  "country": "ES",
+  "status": "active",
+  "members": 10,
+  "past_members": 24,
+  "full_lengths": 18,
+  "genre": "Heavy Metal/Hard Rock (early); Celtic Folk/Power Metal/Hard Rock (later)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 858860,
+  "themes": "Literature, Paganism, Mythology, Social satires, Love, Humour, Witchcraft",
+  "release_year": 2007
+ },
+ "partial": false,
+ "clips": [
+  "mago-de-oz/1524290692-106",
+  "mago-de-oz/369870300-108",
+  "mago-de-oz/368688241-108",
+  "mago-de-oz/369875050-106",
+  "mago-de-oz/369873916-107",
+  "mago-de-oz/365033564-108",
+  "mago-de-oz/577099044-109",
+  "mago-de-oz/929073124-107",
+  "mago-de-oz/1052550858-110",
+  "mago-de-oz/1467056298-108",
+  "mago-de-oz/1724023771-105",
+  "mago-de-oz/1524290692-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.32652698863637,
+   "iqr": 25.83984375
+  },
+  "onset_rate": {
+   "median": 4.1212813567115845,
+   "iqr": 0.8414308583413597
+  },
+  "tempo_var": {
+   "median": 3.887930836005143,
+   "iqr": 11.452515326085512
+  },
+  "low_onset_rate": {
+   "median": 5.499351550384082,
+   "iqr": 1.2428318806672163
+  },
+  "lufs": {
+   "median": -11.262580455527889,
+   "iqr": 4.218723084593501
+  },
+  "rms_dbfs": {
+   "median": -10.9371834425562,
+   "iqr": 4.065089859091367
+  },
+  "crest": {
+   "median": 10.937183380126953,
+   "iqr": 3.898085832595825
+  },
+  "centroid": {
+   "median": 2560.3002120318,
+   "iqr": 600.3509352362662
+  },
+  "flatness": {
+   "median": 0.02882542833685875,
+   "iqr": 0.022251960588619113
+  },
+  "sub100_share": {
+   "median": 0.21217235922813416,
+   "iqr": 0.22529543563723564
+  },
+  "lowest_pitch": {
+   "median": 76.7120361328125,
+   "iqr": 57.8704833984375
+  },
+  "harmonic_share": {
+   "median": 0.7824117541313171,
+   "iqr": 0.14024649560451508
+  },
+  "clean_share": {
+   "median": 0.22071373157486424,
+   "iqr": 0.41549325494027134
+  },
+  "minor_share": {
+   "median": -0.008038299712186586,
+   "iqr": 0.3484477167140831
+  },
+  "chord_rate": {
+   "median": 1.4666666666666668,
+   "iqr": 0.5642904587988333
+  },
+  "repetitiveness": {
+   "median": 0.763235330581665,
+   "iqr": 0.11104768514633179
+  },
+  "vocal_share": {
+   "median": 0.25284068286418915,
+   "iqr": 0.2598927356302738
+  },
+  "vocal_voiced": {
+   "median": 0.8648257598213136,
+   "iqr": 0.24143789060816379
+  },
+  "song_length": {
+   "median": 293.9225,
+   "iqr": 79.91149999999999
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.5,
+  "camp": 0.5
+ },
+ "sources_failed": []
+}

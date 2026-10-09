@@ -1,0 +1,32 @@
+{
+ "id": "lizzy-borden/60375335-104",
+ "band": "lizzy-borden",
+ "title": "Den of Thieves",
+ "source": "itunes",
+ "album": "Visual Lies (Remastered)",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.4462099355088975,
+  "tempo_var": 2.040690858451995,
+  "low_onset_rate": 8.119196406924308,
+  "lufs": -12.340427493759963,
+  "rms_dbfs": -12.708241013437911,
+  "crest": 12.708240509033203,
+  "centroid": 3051.722294604983,
+  "flatness": 0.058958955109119415,
+  "sub100_share": 0.1430824100971222,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.66429603099823,
+  "clean_share": 0.0,
+  "minor_share": -0.09030464887825468,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.8972270488739014,
+  "vocal_share": 0.19476602971553802,
+  "vocal_voiced": 0.6616915422885572,
+  "song_length": 227.933
+ }
+}

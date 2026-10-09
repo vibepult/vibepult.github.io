@@ -1,0 +1,127 @@
+{
+ "slug": "ministry",
+ "name": "Ministry",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 609022,
+  "deezer": 677,
+  "spotify": "1DXylZlWbVvlckNqwvjTEt"
+ },
+ "metadata": {
+  "formed": 1981,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 6,
+  "past_members": 40,
+  "full_lengths": 18,
+  "genre": "New Wave, Industrial/Electronic (early); Industrial Rock/Metal (later)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 73786,
+  "themes": "Love (early); Politics, Drugs, Religion, Humour, Anti-fascism (later)",
+  "release_year": 2001
+ },
+ "partial": false,
+ "clips": [
+  "ministry/298489787-105",
+  "ministry/302136278-105",
+  "ministry/59390461-106",
+  "ministry/302068445-105",
+  "ministry/366365935-105",
+  "ministry/396450120-105",
+  "ministry/1436282175-105",
+  "ministry/1436285703-106",
+  "ministry/135114659-105",
+  "ministry/262311649-106",
+  "ministry/948656369-105",
+  "ministry/942889834-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 110.40660511363637,
+   "iqr": 34.86328125
+  },
+  "onset_rate": {
+   "median": 5.195617453813703,
+   "iqr": 2.616129819620349
+  },
+  "tempo_var": {
+   "median": 15.839880407558725,
+   "iqr": 14.76836705042214
+  },
+  "low_onset_rate": {
+   "median": 5.489196661943225,
+   "iqr": 1.7417570123744612
+  },
+  "lufs": {
+   "median": -9.193396297920742,
+   "iqr": 6.015435794958352
+  },
+  "rms_dbfs": {
+   "median": -9.780611347700617,
+   "iqr": 5.869893445619617
+  },
+  "crest": {
+   "median": 9.780611515045166,
+   "iqr": 5.869694471359253
+  },
+  "centroid": {
+   "median": 3058.661066513332,
+   "iqr": 469.8136572585254
+  },
+  "flatness": {
+   "median": 0.06129107065498829,
+   "iqr": 0.02937466837465763
+  },
+  "sub100_share": {
+   "median": 0.30524758994579315,
+   "iqr": 0.22926394268870354
+  },
+  "lowest_pitch": {
+   "median": 53.8330078125,
+   "iqr": 26.24359130859375
+  },
+  "harmonic_share": {
+   "median": 0.7067067325115204,
+   "iqr": 0.08359989523887634
+  },
+  "clean_share": {
+   "median": 0.008513347217247252,
+   "iqr": 0.042615335784918135
+  },
+  "minor_share": {
+   "median": 0.07213750255912185,
+   "iqr": 0.13770420905614997
+  },
+  "chord_rate": {
+   "median": 2.2498460734079018,
+   "iqr": 1.5122036383762887
+  },
+  "repetitiveness": {
+   "median": 0.9238787591457367,
+   "iqr": 0.07578963041305542
+  },
+  "vocal_share": {
+   "median": 0.12631409615278244,
+   "iqr": 0.06389433518052101
+  },
+  "vocal_voiced": {
+   "median": 0.2913498474643275,
+   "iqr": 0.3748915377767289
+  },
+  "song_length": {
+   "median": 278.72,
+   "iqr": 79.35674999999998
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

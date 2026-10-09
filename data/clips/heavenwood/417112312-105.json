@@ -1,0 +1,32 @@
+{
+ "id": "heavenwood/417112312-105",
+ "band": "heavenwood",
+ "title": "Fading Sun",
+ "source": "itunes",
+ "album": "Abyss Masterpiece",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 5.733159995162656,
+  "tempo_var": 30.451245959755536,
+  "low_onset_rate": 6.999788366186963,
+  "lufs": -9.417083969524873,
+  "rms_dbfs": -8.930966855189004,
+  "crest": 8.930967330932617,
+  "centroid": 2481.439649527796,
+  "flatness": 0.02857343666255474,
+  "sub100_share": 0.37041229009628296,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7702363729476929,
+  "clean_share": 0.02165506573859242,
+  "minor_share": 0.2523446326969914,
+  "chord_rate": 1.6999486032168338,
+  "repetitiveness": 0.855160117149353,
+  "vocal_share": 0.05626053363084793,
+  "vocal_voiced": 0.9317180616740088,
+  "song_length": 325.813
+ }
+}

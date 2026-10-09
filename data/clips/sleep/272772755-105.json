@@ -1,0 +1,32 @@
+{
+ "id": "sleep/272772755-105",
+ "band": "sleep",
+ "title": "Catatonic",
+ "source": "itunes",
+ "album": "Volume One",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 2.1049768462396354,
+  "tempo_var": 3.891685040251914,
+  "low_onset_rate": 4.84478797944043,
+  "lufs": -13.361910671793723,
+  "rms_dbfs": -12.6397820037613,
+  "crest": 12.63978099822998,
+  "centroid": 2163.0837869727548,
+  "flatness": 0.016397790983319283,
+  "sub100_share": 0.22318050265312195,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7880985140800476,
+  "clean_share": 0.17222653219550038,
+  "minor_share": -0.09740110253109835,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.8511735200881958,
+  "vocal_share": 9.225806252288749e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 364.133
+ }
+}

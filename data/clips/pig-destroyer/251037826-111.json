@@ -1,0 +1,32 @@
+{
+ "id": "pig-destroyer/251037826-111",
+ "band": "pig-destroyer",
+ "title": "Alexandria",
+ "source": "itunes",
+ "album": "Phantom Limb",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 7.966666666666667,
+  "tempo_var": 14.022672432775618,
+  "low_onset_rate": 7.1,
+  "lufs": -6.649469379294767,
+  "rms_dbfs": -6.7169738898843,
+  "crest": 6.716973781585693,
+  "centroid": 2826.4211495096583,
+  "flatness": 0.06036823242902756,
+  "sub100_share": 0.28876250982284546,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.5985375642776489,
+  "clean_share": 0.0,
+  "minor_share": 0.1416241509329585,
+  "chord_rate": 2.566666666666667,
+  "repetitiveness": 0.9697716236114502,
+  "vocal_share": 0.11857601255178452,
+  "vocal_voiced": 0.10101010101010101,
+  "song_length": 183.547
+ }
+}

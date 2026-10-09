@@ -1,0 +1,32 @@
+{
+ "id": "saille/916473938-104",
+ "band": "saille",
+ "title": "Aklo",
+ "source": "itunes",
+ "album": "Eldritch",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 69.83741554054055,
+  "onset_rate": 10.224173253163944,
+  "tempo_var": 18.48621733275737,
+  "low_onset_rate": 9.823225282451633,
+  "lufs": -9.225036353259878,
+  "rms_dbfs": -8.171547354581786,
+  "crest": 8.171546936035156,
+  "centroid": 2392.924447147134,
+  "flatness": 0.0252081211656332,
+  "sub100_share": 0.537326991558075,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.9014918804168701,
+  "clean_share": 0.0,
+  "minor_share": -0.1816739987122294,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.9028418660163879,
+  "vocal_share": 9.453533493797295e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 431.0
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "metal-church/1838829429-105",
+ "band": "metal-church",
+ "title": "Monster (Remastered, 2025)",
+ "source": "itunes",
+ "album": "This Present Wasteland (Remastered, 2025)",
+ "year": 2008,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 6.399245440446931,
+  "tempo_var": 4.018239043809368,
+  "low_onset_rate": 5.899304390412015,
+  "lufs": -7.655826638660378,
+  "rms_dbfs": -6.752154569123446,
+  "crest": 6.752154350280762,
+  "centroid": 2470.4766768510444,
+  "flatness": 0.024199938401579857,
+  "sub100_share": 0.46703994274139404,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7215563654899597,
+  "clean_share": 0.006187161639597835,
+  "minor_share": -0.05020759310929601,
+  "chord_rate": 1.0665409067411553,
+  "repetitiveness": 0.9245668649673462,
+  "vocal_share": 0.12420552968978882,
+  "vocal_voiced": 0.7252964426877471,
+  "song_length": 384.0
+ }
+}

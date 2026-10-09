@@ -1,0 +1,32 @@
+{
+ "id": "hamatom/1646593555-105",
+ "band": "hamatom",
+ "title": "Strassenbande 666",
+ "source": "itunes",
+ "album": "Lang lebe der Hass",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.6299457388698215,
+  "tempo_var": 2.3847900841119927,
+  "low_onset_rate": 5.362742906172959,
+  "lufs": -7.688301222803289,
+  "rms_dbfs": -7.612789026949891,
+  "crest": 7.612789154052734,
+  "centroid": 3029.805548025175,
+  "flatness": 0.06910811364650726,
+  "sub100_share": 0.30916890501976013,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.5756555199623108,
+  "clean_share": 0.0,
+  "minor_share": -0.06871098985780821,
+  "chord_rate": 1.9319198047082708,
+  "repetitiveness": 0.9660148620605469,
+  "vocal_share": 0.23809488117694855,
+  "vocal_voiced": 0.011312217194570135,
+  "song_length": 182.526
+ }
+}

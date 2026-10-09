@@ -1,0 +1,32 @@
+{
+ "id": "sonata-arctica/1660698602-105",
+ "band": "sonata-arctica",
+ "title": "The Misery",
+ "source": "itunes",
+ "album": "Winterheart's Guild",
+ "year": 2003,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.276778354264656,
+  "tempo_var": 3.3160313434409905,
+  "low_onset_rate": 3.0739344421277215,
+  "lufs": -13.249181105721211,
+  "rms_dbfs": -12.62903277355405,
+  "crest": 12.629032135009766,
+  "centroid": 1721.3775690842454,
+  "flatness": 0.005917882546782494,
+  "sub100_share": 0.19458866119384766,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.9164610505104065,
+  "clean_share": 0.6966640806826998,
+  "minor_share": -0.04539568741180622,
+  "chord_rate": 0.46777263249769674,
+  "repetitiveness": 0.6176187992095947,
+  "vocal_share": 0.25784724950790405,
+  "vocal_voiced": 0.8896734333627537,
+  "song_length": 308.693
+ }
+}

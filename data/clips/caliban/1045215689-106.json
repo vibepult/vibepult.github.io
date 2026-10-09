@@ -1,0 +1,32 @@
+{
+ "id": "caliban/1045215689-106",
+ "band": "caliban",
+ "title": "No One Is Safe",
+ "source": "itunes",
+ "album": "Say Hello to Tragedy",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.0071097803423363,
+  "tempo_var": 11.553709031545102,
+  "low_onset_rate": 4.109716699801193,
+  "lufs": -8.762050679200994,
+  "rms_dbfs": -8.350937939274106,
+  "crest": 8.350936889648438,
+  "centroid": 2771.04954003396,
+  "flatness": 0.049847088754177094,
+  "sub100_share": 0.36639127135276794,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.6696709990501404,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": -0.025426809987920185,
+  "chord_rate": 2.472512486059254,
+  "repetitiveness": 0.90476393699646,
+  "vocal_share": 0.24577637016773224,
+  "vocal_voiced": 0.21008403361344538,
+  "song_length": 223.04
+ }
+}

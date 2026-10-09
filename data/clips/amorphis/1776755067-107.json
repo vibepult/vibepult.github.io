@@ -1,0 +1,32 @@
+{
+ "id": "amorphis/1776755067-107",
+ "band": "amorphis",
+ "title": "Reformation",
+ "source": "itunes",
+ "album": "The Beginning of Times (Deluxe Edition)",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 6.033333333333333,
+  "tempo_var": 0.0,
+  "low_onset_rate": 7.033333333333333,
+  "lufs": -8.142651985998596,
+  "rms_dbfs": -7.323594417447938,
+  "crest": 7.323594570159912,
+  "centroid": 2288.0701870086486,
+  "flatness": 0.01837846077978611,
+  "sub100_share": 0.42677363753318787,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.876531720161438,
+  "clean_share": 0.0673374613003096,
+  "minor_share": 0.2478934832344023,
+  "chord_rate": 0.9,
+  "repetitiveness": 0.7856422066688538,
+  "vocal_share": 0.04636422172188759,
+  "vocal_voiced": 0.9813084112149533,
+  "song_length": 273.467
+ }
+}

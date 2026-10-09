@@ -1,0 +1,32 @@
+{
+ "id": "boris/1579781981-105",
+ "band": "boris",
+ "title": "Spoon",
+ "source": "itunes",
+ "album": "New Album",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 6.415167531396984,
+  "tempo_var": 4.740027277353977,
+  "low_onset_rate": 6.047631891577365,
+  "lufs": -6.658360346517408,
+  "rms_dbfs": -6.058603285229836,
+  "crest": 6.058602809906006,
+  "centroid": 2771.0640869092354,
+  "flatness": 0.03639918565750122,
+  "sub100_share": 0.380722314119339,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8829492330551147,
+  "clean_share": 0.0,
+  "minor_share": -0.10812648337898356,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.8468735218048096,
+  "vocal_share": 0.07590147852897644,
+  "vocal_voiced": 0.9157549234135668,
+  "song_length": 269.32
+ }
+}

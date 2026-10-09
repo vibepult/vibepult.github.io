@@ -1,0 +1,32 @@
+{
+ "id": "deep-purple/1099334597-104",
+ "band": "deep-purple",
+ "title": "Never Before",
+ "source": "itunes",
+ "album": "Machine Head",
+ "year": 1972,
+ "itunes_year": 1972,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.098005203816132,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.131322319294312,
+  "lufs": -11.268248411666244,
+  "rms_dbfs": -10.566484604638902,
+  "crest": 10.566484451293945,
+  "centroid": 1949.0995658860165,
+  "flatness": 0.012125733308494091,
+  "sub100_share": 0.12548810243606567,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.7548602223396301,
+  "clean_share": 0.3248259860788863,
+  "minor_share": -0.23168745851330885,
+  "chord_rate": 1.532587311996277,
+  "repetitiveness": 0.6982097029685974,
+  "vocal_share": 0.2572949230670929,
+  "vocal_voiced": 0.926829268292683,
+  "song_length": 238.355
+ }
+}

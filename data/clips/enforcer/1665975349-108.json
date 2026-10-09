@@ -1,0 +1,32 @@
+{
+ "id": "enforcer/1665975349-108",
+ "band": "enforcer",
+ "title": "No Tomorrow",
+ "source": "itunes",
+ "album": "Nostalgia",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 1.2028439121369345,
+  "tempo_var": 11.395223669767795,
+  "low_onset_rate": 3.0071097803423363,
+  "lufs": -11.12901623867405,
+  "rms_dbfs": -10.633380061210385,
+  "crest": 10.633380889892578,
+  "centroid": 2314.4636660130077,
+  "flatness": 0.026329195126891136,
+  "sub100_share": 0.25052472949028015,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.6541155576705933,
+  "clean_share": 0.17843289371605897,
+  "minor_share": 0.07498187731791361,
+  "chord_rate": 2.405687824273869,
+  "repetitiveness": 0.885346531867981,
+  "vocal_share": 0.07876314222812653,
+  "vocal_voiced": 0.7806122448979592,
+  "song_length": 189.048
+ }
+}

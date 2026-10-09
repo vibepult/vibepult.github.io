@@ -1,0 +1,32 @@
+{
+ "id": "earth/495456261-103",
+ "band": "earth",
+ "title": "A Multiplicity of Doors",
+ "source": "itunes",
+ "album": "Angels of Darkness, Demons of Light 2",
+ "year": 2011,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 66.25600961538461,
+  "onset_rate": 1.3030809048150125,
+  "tempo_var": 41.063693718480074,
+  "low_onset_rate": 1.336493235707705,
+  "lufs": -12.486391499966278,
+  "rms_dbfs": -10.772014181322218,
+  "crest": 10.772013664245605,
+  "centroid": 1235.457415373032,
+  "flatness": 0.003158746985718608,
+  "sub100_share": 0.402315229177475,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.9561468958854675,
+  "clean_share": 0.9169899146625291,
+  "minor_share": 0.13908457230303833,
+  "chord_rate": 1.7374412064200164,
+  "repetitiveness": 0.3293808102607727,
+  "vocal_share": 2.9038957904958806e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 786.12
+ }
+}

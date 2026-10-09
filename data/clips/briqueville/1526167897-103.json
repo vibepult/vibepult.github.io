@@ -1,0 +1,32 @@
+{
+ "id": "briqueville/1526167897-103",
+ "band": "briqueville",
+ "title": "Akte X",
+ "source": "itunes",
+ "album": "Quelle",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.0071097803423363,
+  "tempo_var": 4.646139961324459,
+  "low_onset_rate": 9.088154002812393,
+  "lufs": -10.149442252155968,
+  "rms_dbfs": -6.681542946477295,
+  "crest": 6.681542873382568,
+  "centroid": 1538.6556131972222,
+  "flatness": 0.004186990205198526,
+  "sub100_share": 0.9756404161453247,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.994339644908905,
+  "clean_share": 0.7982932505818464,
+  "minor_share": 0.08101561475633814,
+  "chord_rate": 2.5393371478446394,
+  "repetitiveness": 0.8808951377868652,
+  "vocal_share": 4.1814055862232635e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 872.041
+ }
+}

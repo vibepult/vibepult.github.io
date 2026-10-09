@@ -1,0 +1,32 @@
+{
+ "id": "countess/1250870219-106",
+ "band": "countess",
+ "title": "Masturbo Ergo Sum - Act I",
+ "source": "itunes",
+ "album": "The Revenge of the Horned One, Pt. I",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 1.4701425592784756,
+  "tempo_var": 11.443990523060686,
+  "low_onset_rate": 5.112086626581972,
+  "lufs": -10.450661154748586,
+  "rms_dbfs": -10.024515260784392,
+  "crest": 10.024515151977539,
+  "centroid": 1087.2368779849064,
+  "flatness": 0.0005630867090076208,
+  "sub100_share": 0.03986440226435661,
+  "lowest_pitch": 131.890869140625,
+  "harmonic_share": 0.9711452722549438,
+  "clean_share": 0.9868114817688131,
+  "minor_share": 0.12193148979172796,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.7667202353477478,
+  "vocal_share": 8.645201319268381e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 162.947
+ }
+}

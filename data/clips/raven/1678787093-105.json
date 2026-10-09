@@ -1,0 +1,32 @@
+{
+ "id": "raven/1678787093-105",
+ "band": "raven",
+ "title": "The Far Side",
+ "source": "itunes",
+ "album": "All Hell's Breaking Loose",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 6.081044222470058,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.147868884255443,
+  "lufs": -8.760024561118096,
+  "rms_dbfs": -8.233859388656748,
+  "crest": 8.23386001586914,
+  "centroid": 2564.855072388871,
+  "flatness": 0.03000418283045292,
+  "sub100_share": 0.356328547000885,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7640774250030518,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": -0.1269677923987702,
+  "chord_rate": 2.4391001551665616,
+  "repetitiveness": 0.8501595854759216,
+  "vocal_share": 0.16243179142475128,
+  "vocal_voiced": 0.7281191806331471,
+  "song_length": 253.139
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "make-them-suffer/1499687818-105",
+ "band": "make-them-suffer",
+ "title": "Erase Me",
+ "source": "itunes",
+ "album": "How To Survive a Funeral",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 6.666666666666667,
+  "tempo_var": 3.828369731018407,
+  "low_onset_rate": 5.7,
+  "lufs": -7.8894085639554214,
+  "rms_dbfs": -6.862824392948427,
+  "crest": 6.862823963165283,
+  "centroid": 2564.2324212233525,
+  "flatness": 0.03428152576088905,
+  "sub100_share": 0.5502254962921143,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8230677843093872,
+  "clean_share": 0.007739938080495356,
+  "minor_share": 0.0897939233986893,
+  "chord_rate": 1.8333333333333333,
+  "repetitiveness": 0.8686310648918152,
+  "vocal_share": 0.16125988960266113,
+  "vocal_voiced": 0.09688289806234204,
+  "song_length": 224.611
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "ankhara/1707583853-104",
+ "band": "ankhara",
+ "title": "Libertad",
+ "source": "itunes",
+ "album": "Sinergia",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.766492320715927,
+  "tempo_var": 0.0,
+  "low_onset_rate": 8.399746039424356,
+  "lufs": -6.388693781184448,
+  "rms_dbfs": -5.6995851897084835,
+  "crest": 5.6995849609375,
+  "centroid": 2573.702409755912,
+  "flatness": 0.033963900059461594,
+  "sub100_share": 0.3889240026473999,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7844923138618469,
+  "clean_share": 0.009280742459396751,
+  "minor_share": -0.0756055126671889,
+  "chord_rate": 1.299960696577579,
+  "repetitiveness": 0.8738076686859131,
+  "vocal_share": 0.10560597479343414,
+  "vocal_voiced": 0.32661870503597124,
+  "song_length": 289.4
+ }
+}

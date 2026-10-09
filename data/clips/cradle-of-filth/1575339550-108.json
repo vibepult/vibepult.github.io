@@ -1,0 +1,32 @@
+{
+ "id": "cradle-of-filth/1575339550-108",
+ "band": "cradle-of-filth",
+ "title": "The Dying of the Embers",
+ "source": "itunes",
+ "album": "Existence Is Futile",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.133314386609907,
+  "tempo_var": 11.107064311197709,
+  "low_onset_rate": 2.5333180147058822,
+  "lufs": -11.39543448553963,
+  "rms_dbfs": -12.134756758704409,
+  "crest": 12.134757041931152,
+  "centroid": 2110.8572406471717,
+  "flatness": 0.0332854725420475,
+  "sub100_share": 0.4074799716472626,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.8145288825035095,
+  "clean_share": 0.41299303944315546,
+  "minor_share": 0.0949309979655023,
+  "chord_rate": 1.666656588622291,
+  "repetitiveness": 0.8228376507759094,
+  "vocal_share": 0.2714768052101135,
+  "vocal_voiced": 0.5483271375464684,
+  "song_length": 368.97
+ }
+}

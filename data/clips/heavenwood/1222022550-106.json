@@ -1,0 +1,32 @@
+{
+ "id": "heavenwood/1222022550-106",
+ "band": "heavenwood",
+ "title": "The Lovers",
+ "source": "itunes",
+ "album": "The Tarot of the Bohemians, Pt. 1",
+ "year": 2026,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 1.3030809048150125,
+  "tempo_var": 2.757344649915915,
+  "low_onset_rate": 2.138389177132328,
+  "lufs": -8.761261480180499,
+  "rms_dbfs": -8.67713616193959,
+  "crest": 8.677136421203613,
+  "centroid": 3093.248848655673,
+  "flatness": 0.05264841020107269,
+  "sub100_share": 0.26665905117988586,
+  "lowest_pitch": 99.591064453125,
+  "harmonic_share": 0.8159195780754089,
+  "clean_share": 0.0,
+  "minor_share": -0.09015003074603456,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.8645008206367493,
+  "vocal_share": 6.00427256358671e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 291.107
+ }
+}

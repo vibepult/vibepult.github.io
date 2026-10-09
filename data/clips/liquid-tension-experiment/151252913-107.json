@@ -1,0 +1,32 @@
+{
+ "id": "liquid-tension-experiment/151252913-107",
+ "band": "liquid-tension-experiment",
+ "title": "State of Grace",
+ "source": "itunes",
+ "album": "Liquid Tension Experiment",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.3333333333333335,
+  "tempo_var": 5.083446291788627,
+  "low_onset_rate": 4.8,
+  "lufs": -16.95100657075928,
+  "rms_dbfs": -16.4224905659939,
+  "crest": 13.989557266235352,
+  "centroid": 958.8746666155832,
+  "flatness": 0.00010858480527531356,
+  "sub100_share": 0.04460100829601288,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.9829882383346558,
+  "clean_share": 1.0,
+  "minor_share": -0.01929815314484251,
+  "chord_rate": 0.7,
+  "repetitiveness": 0.551630973815918,
+  "vocal_share": 0.00021252910664770752,
+  "vocal_voiced": 1.0,
+  "song_length": 301.973
+ }
+}

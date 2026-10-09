@@ -1,0 +1,32 @@
+{
+ "id": "alice-in-chains/157316517-107",
+ "band": "alice-in-chains",
+ "title": "Junkhead",
+ "source": "itunes",
+ "album": "Dirt (Remastered)",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.164662141440267,
+  "tempo_var": 3.769193675407951,
+  "low_onset_rate": 4.09740466733845,
+  "lufs": -10.61972115245601,
+  "rms_dbfs": -10.15910233788621,
+  "crest": 10.159102439880371,
+  "centroid": 2188.863170060537,
+  "flatness": 0.01772540993988514,
+  "sub100_share": 0.3464507460594177,
+  "lowest_pitch": 123.81591796875,
+  "harmonic_share": 0.6941431164741516,
+  "clean_share": 0.19412219644238204,
+  "minor_share": -0.08845486502974603,
+  "chord_rate": 1.5656749541862371,
+  "repetitiveness": 0.7392383217811584,
+  "vocal_share": 0.2922949194908142,
+  "vocal_voiced": 0.716160787530763,
+  "song_length": 309.984
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "suidakra/202971498-106",
+ "band": "suidakra",
+ "title": "Ramble",
+ "source": "itunes",
+ "album": "Caledonia",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.178911288367357,
+  "tempo_var": 21.10622500081358,
+  "low_onset_rate": 6.281518207826213,
+  "lufs": -15.716811018702598,
+  "rms_dbfs": -15.58965793483721,
+  "crest": 15.5896577835083,
+  "centroid": 1770.7029001003687,
+  "flatness": 0.0064093261025846004,
+  "sub100_share": 0.061473358422517776,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.9234116077423096,
+  "clean_share": 0.7362296353762606,
+  "minor_share": -0.0003002234642387469,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.6147515177726746,
+  "vocal_share": 1.0274487749484251e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 176.227
+ }
+}

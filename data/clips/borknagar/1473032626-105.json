@@ -1,0 +1,32 @@
+{
+ "id": "borknagar/1473032626-105",
+ "band": "borknagar",
+ "title": "Wild Father's Heart",
+ "source": "itunes",
+ "album": "True North",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 2.7982275776945515,
+  "tempo_var": 6.349780716122165,
+  "low_onset_rate": 3.431160005982605,
+  "lufs": -10.506488368381609,
+  "rms_dbfs": -10.019572387649486,
+  "crest": 10.019571304321289,
+  "centroid": 1787.7269119533132,
+  "flatness": 0.008135526441037655,
+  "sub100_share": 0.1413385272026062,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8741456270217896,
+  "clean_share": 0.5537509667440061,
+  "minor_share": 0.10115181148984276,
+  "chord_rate": 0.7994935936270148,
+  "repetitiveness": 0.5896148681640625,
+  "vocal_share": 0.33862414956092834,
+  "vocal_voiced": 0.9486607142857143,
+  "song_length": 342.013
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "arcturus/1556142969-104",
+ "band": "arcturus",
+ "title": "Collapse Generation",
+ "source": "itunes",
+ "album": "The Sham Mirrors",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 6.61564151675314,
+  "tempo_var": 9.916720834536353,
+  "low_onset_rate": 9.622751297095476,
+  "lufs": -6.566731307222015,
+  "rms_dbfs": -6.929494705953213,
+  "crest": 6.929494857788086,
+  "centroid": 2645.397854256107,
+  "flatness": 0.03476807102560997,
+  "sub100_share": 0.3476162850856781,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8006654381752014,
+  "clean_share": 0.0,
+  "minor_share": 0.0902734407317331,
+  "chord_rate": 1.9379151917761723,
+  "repetitiveness": 0.9634191393852234,
+  "vocal_share": 6.034642296981474e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 253.36
+ }
+}

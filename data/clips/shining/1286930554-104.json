@@ -1,0 +1,32 @@
+{
+ "id": "shining/1286930554-104",
+ "band": "shining",
+ "title": "Han som lurar inom",
+ "source": "itunes",
+ "album": "X - Varg utan flock",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 7.7850730979973815,
+  "tempo_var": 0.0,
+  "low_onset_rate": 8.620381370314698,
+  "lufs": -16.216211359387597,
+  "rms_dbfs": -15.368819923656094,
+  "crest": 15.368819236755371,
+  "centroid": 2321.063113839507,
+  "flatness": 0.008624997921288013,
+  "sub100_share": 0.5707172751426697,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.9410632848739624,
+  "clean_share": 0.17222653219550038,
+  "minor_share": 0.059924107883630784,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.8547958731651306,
+  "vocal_share": 0.0006632583681493998,
+  "vocal_voiced": 1.0,
+  "song_length": 483.411
+ }
+}

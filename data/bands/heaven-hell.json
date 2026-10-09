@@ -1,0 +1,125 @@
+{
+ "slug": "heaven-hell",
+ "name": "Heaven & Hell",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 262114058,
+  "deezer": 249308,
+  "spotify": "4UjiBRkTw9VmvDZiJZKPJ7"
+ },
+ "metadata": {
+  "formed": 2006,
+  "split": 2010,
+  "country": "XX",
+  "status": "split-up",
+  "members": 4,
+  "past_members": 0,
+  "full_lengths": 1,
+  "genre": "Heavy/Doom Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 21899,
+  "themes": "Sorcery, Mysticism, Fantasy, Depression",
+  "release_year": 2009
+ },
+ "partial": false,
+ "clips": [
+  "heaven-hell/312358549-105",
+  "heaven-hell/312358549-106",
+  "heaven-hell/312358549-104",
+  "heaven-hell/312358549-107",
+  "heaven-hell/312358549-103",
+  "heaven-hell/312358549-108",
+  "heaven-hell/312358549-102",
+  "heaven-hell/312358549-109",
+  "heaven-hell/312358549-101",
+  "heaven-hell/312358549-110"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 37.45983492943549
+  },
+  "onset_rate": {
+   "median": 3.8758303835523447,
+   "iqr": 1.3281401529845325
+  },
+  "tempo_var": {
+   "median": 7.88404035040055,
+   "iqr": 14.498158697056132
+  },
+  "low_onset_rate": {
+   "median": 5.078674295689279,
+   "iqr": 1.144372333074723
+  },
+  "lufs": {
+   "median": -8.377342146237119,
+   "iqr": 0.781553654545764
+  },
+  "rms_dbfs": {
+   "median": -7.657552479893519,
+   "iqr": 0.4328774983890238
+  },
+  "crest": {
+   "median": 7.657552719116211,
+   "iqr": 0.432877779006958
+  },
+  "centroid": {
+   "median": 2114.7680013412146,
+   "iqr": 184.0991975632753
+  },
+  "flatness": {
+   "median": 0.01751519041135907,
+   "iqr": 0.007100330665707588
+  },
+  "sub100_share": {
+   "median": 0.23441170156002045,
+   "iqr": 0.05363621935248375
+  },
+  "lowest_pitch": {
+   "median": 71.3287353515625,
+   "iqr": 44.4122314453125
+  },
+  "harmonic_share": {
+   "median": 0.7713661789894104,
+   "iqr": 0.056705549359321594
+  },
+  "clean_share": {
+   "median": 0.16989914662529093,
+   "iqr": 0.13285492629945692
+  },
+  "minor_share": {
+   "median": 0.005895542275686394,
+   "iqr": 0.09776358866184601
+  },
+  "chord_rate": {
+   "median": 1.7040288755273238,
+   "iqr": 0.4928318806672165
+  },
+  "repetitiveness": {
+   "median": 0.8231475055217743,
+   "iqr": 0.12275974452495575
+  },
+  "vocal_share": {
+   "median": 0.2159193754196167,
+   "iqr": 0.04423744976520538
+  },
+  "vocal_voiced": {
+   "median": 0.8391061452513966,
+   "iqr": 0.053428659286592795
+  },
+  "song_length": {
+   "median": 319.4335,
+   "iqr": 78.08699999999999
+  },
+  "vocal_presence": {
+   "median": 0.9,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

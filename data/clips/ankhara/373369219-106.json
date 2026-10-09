@@ -1,0 +1,32 @@
+{
+ "id": "ankhara/373369219-106",
+ "band": "ankhara",
+ "title": "Lagrimas Del Nilo",
+ "source": "itunes",
+ "album": "Sombras del Pasado",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.276778354264656,
+  "tempo_var": 2.2954648546331384,
+  "low_onset_rate": 4.009479707123115,
+  "lufs": -13.520505583297236,
+  "rms_dbfs": -12.54176811442527,
+  "crest": 12.541769027709961,
+  "centroid": 2187.481122611504,
+  "flatness": 0.009256835095584393,
+  "sub100_share": 0.2602196931838989,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8780161738395691,
+  "clean_share": 0.23506594259115593,
+  "minor_share": -0.13820412135712712,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.8607356548309326,
+  "vocal_share": 0.00677782017737627,
+  "vocal_voiced": 0.35802469135802467,
+  "song_length": 398.0
+ }
+}

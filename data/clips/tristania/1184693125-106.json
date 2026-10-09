@@ -1,0 +1,32 @@
+{
+ "id": "tristania/1184693125-106",
+ "band": "tristania",
+ "title": "Scarling",
+ "source": "itunes",
+ "album": "Darkest White",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.7,
+  "tempo_var": 11.7154732632501,
+  "low_onset_rate": 6.9,
+  "lufs": -9.486357277879797,
+  "rms_dbfs": -8.759737782360075,
+  "crest": 8.759737968444824,
+  "centroid": 2000.269410101507,
+  "flatness": 0.015061711892485619,
+  "sub100_share": 0.2733822166919708,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8390344977378845,
+  "clean_share": 0.17879256965944273,
+  "minor_share": -0.03251389706561714,
+  "chord_rate": 1.6666666666666667,
+  "repetitiveness": 0.8612843751907349,
+  "vocal_share": 0.07263624668121338,
+  "vocal_voiced": 0.23900789177001128,
+  "song_length": 318.2
+ }
+}

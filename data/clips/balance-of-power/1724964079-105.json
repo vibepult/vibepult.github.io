@@ -1,0 +1,32 @@
+{
+ "id": "balance-of-power/1724964079-105",
+ "band": "balance-of-power",
+ "title": "Abyss",
+ "source": "itunes",
+ "album": "Fresh From The Abyss",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 5.564622519618643,
+  "tempo_var": 14.928656269108027,
+  "low_onset_rate": 7.530567002597685,
+  "lufs": -10.144960610194559,
+  "rms_dbfs": -10.191098458954604,
+  "crest": 10.1910982131958,
+  "centroid": 2962.86777290582,
+  "flatness": 0.05398344621062279,
+  "sub100_share": 0.2478751242160797,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.6719177961349487,
+  "clean_share": 0.0,
+  "minor_share": 0.0345757645990552,
+  "chord_rate": 1.3661648102057748,
+  "repetitiveness": 0.8619982600212097,
+  "vocal_share": 0.3527446687221527,
+  "vocal_voiced": 0.5992578849721707,
+  "song_length": 261.093
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "opeth",
+ "name": "Opeth",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 3196120,
+  "deezer": 2814,
+  "spotify": "0ybFZ2Ab08V8hueghSXm6E"
+ },
+ "metadata": {
+  "formed": 1990,
+  "split": null,
+  "country": "SE",
+  "status": "active",
+  "members": 5,
+  "past_members": 16,
+  "full_lengths": 14,
+  "genre": "Progressive Death Metal, Progressive Rock",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 268064,
+  "themes": "Nature, Death, Love, Heartbreak, Sorrow, Seasons, Occultism",
+  "release_year": 2002
+ },
+ "partial": false,
+ "clips": [
+  "opeth/1681886146-104",
+  "opeth/1679083624-103",
+  "opeth/1678618889-106",
+  "opeth/276901909-104",
+  "opeth/268633375-104",
+  "opeth/1046805594-103",
+  "opeth/268603296-104",
+  "opeth/214473104-104",
+  "opeth/277847323-104",
+  "opeth/453915887-105",
+  "opeth/881685468-104",
+  "opeth/1776756303-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 30.88284612946154
+  },
+  "onset_rate": {
+   "median": 3.553308251001847,
+   "iqr": 1.6115938470910849
+  },
+  "tempo_var": {
+   "median": 13.612688230312873,
+   "iqr": 11.915362325410143
+  },
+  "low_onset_rate": {
+   "median": 4.856003814511306,
+   "iqr": 2.586208566946691
+  },
+  "lufs": {
+   "median": -13.8702337550784,
+   "iqr": 4.759769487963027
+  },
+  "rms_dbfs": {
+   "median": -13.803146709414701,
+   "iqr": 4.701120430242328
+  },
+  "crest": {
+   "median": 13.111269474029541,
+   "iqr": 3.9651644229888916
+  },
+  "centroid": {
+   "median": 2120.4803737923735,
+   "iqr": 1158.4680828591868
+  },
+  "flatness": {
+   "median": 0.016502550337463617,
+   "iqr": 0.021079105616081506
+  },
+  "sub100_share": {
+   "median": 0.1823066845536232,
+   "iqr": 0.151011036708951
+  },
+  "lowest_pitch": {
+   "median": 83.441162109375,
+   "iqr": 57.8704833984375
+  },
+  "harmonic_share": {
+   "median": 0.8430341482162476,
+   "iqr": 0.08571968972682953
+  },
+  "clean_share": {
+   "median": 0.30303982115310885,
+   "iqr": 0.814214606397304
+  },
+  "minor_share": {
+   "median": 0.013615017298790055,
+   "iqr": 0.14981243314235723
+  },
+  "chord_rate": {
+   "median": 1.334715790622121,
+   "iqr": 0.658048479748529
+  },
+  "repetitiveness": {
+   "median": 0.7120962142944336,
+   "iqr": 0.14908109605312347
+  },
+  "vocal_share": {
+   "median": 0.22836387157440186,
+   "iqr": 0.13098686933517456
+  },
+  "vocal_voiced": {
+   "median": 0.8628944504896626,
+   "iqr": 0.12569622964867178
+  },
+  "song_length": {
+   "median": 427.5265,
+   "iqr": 251.53274999999996
+  },
+  "vocal_presence": {
+   "median": 0.4166666666666667,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

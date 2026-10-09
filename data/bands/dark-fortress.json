@@ -1,0 +1,127 @@
+{
+ "slug": "dark-fortress",
+ "name": "Dark Fortress",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 262657794,
+  "deezer": 11167,
+  "spotify": "0hiccXRDVXl9sOZ4R7aNry"
+ },
+ "metadata": {
+  "formed": 1994,
+  "split": 2023,
+  "country": "DE",
+  "status": "split-up",
+  "members": 4,
+  "past_members": 9,
+  "full_lengths": 8,
+  "genre": "Melodic Black Metal (early); Progressive/Melodic Black Metal (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 5897,
+  "themes": "Death, Dark fantasy, Anti-Christianity (early); Occultism, Transcendence, Space",
+  "release_year": 2005
+ },
+ "partial": false,
+ "clips": [
+  "dark-fortress/277072913-106",
+  "dark-fortress/304762671-106",
+  "dark-fortress/1480842075-105",
+  "dark-fortress/1045217766-105",
+  "dark-fortress/1045199586-105",
+  "dark-fortress/1056429675-106",
+  "dark-fortress/1056488818-105",
+  "dark-fortress/1490164531-107",
+  "dark-fortress/277072913-107",
+  "dark-fortress/304762671-105",
+  "dark-fortress/1480842075-106",
+  "dark-fortress/1045217766-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 143.5546875,
+   "iqr": 41.8988770780051
+  },
+  "onset_rate": {
+   "median": 5.721856579717606,
+   "iqr": 2.1801545907481934
+  },
+  "tempo_var": {
+   "median": 13.49748226888551,
+   "iqr": 7.107664591423921
+  },
+  "low_onset_rate": {
+   "median": 6.248105876933521,
+   "iqr": 1.328140152984532
+  },
+  "lufs": {
+   "median": -10.969542746820935,
+   "iqr": 1.7060455764538887
+  },
+  "rms_dbfs": {
+   "median": -10.644212382267213,
+   "iqr": 1.756734859286734
+  },
+  "crest": {
+   "median": 10.644212245941162,
+   "iqr": 1.7567346096038818
+  },
+  "centroid": {
+   "median": 2598.7161293202503,
+   "iqr": 254.3263332823176
+  },
+  "flatness": {
+   "median": 0.038576455786824226,
+   "iqr": 0.011012164875864983
+  },
+  "sub100_share": {
+   "median": 0.35594797134399414,
+   "iqr": 0.13507182151079178
+  },
+  "lowest_pitch": {
+   "median": 60.5621337890625,
+   "iqr": 28.93524169921875
+  },
+  "harmonic_share": {
+   "median": 0.7396579682826996,
+   "iqr": 0.08825136721134186
+  },
+  "clean_share": {
+   "median": 0.0,
+   "iqr": 0.0069821567106283944
+  },
+  "minor_share": {
+   "median": 0.10936179740711507,
+   "iqr": 0.21492579192287609
+  },
+  "chord_rate": {
+   "median": 1.9045028608834795,
+   "iqr": 0.39259488798913833
+  },
+  "repetitiveness": {
+   "median": 0.871476799249649,
+   "iqr": 0.07997047901153564
+  },
+  "vocal_share": {
+   "median": 0.08987928554415703,
+   "iqr": 0.0971997519955039
+  },
+  "vocal_voiced": {
+   "median": 0.3439506643779007,
+   "iqr": 0.18566176358747927
+  },
+  "song_length": {
+   "median": 363.053,
+   "iqr": 106.98374999999999
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

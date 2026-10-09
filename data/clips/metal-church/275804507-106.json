@@ -1,0 +1,32 @@
+{
+ "id": "metal-church/275804507-106",
+ "band": "metal-church",
+ "title": "Conductor",
+ "source": "itunes",
+ "album": "Hanging In the Balance",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.546446928186976,
+  "tempo_var": 14.618774278845178,
+  "low_onset_rate": 5.34597294283082,
+  "lufs": -11.272527753035279,
+  "rms_dbfs": -11.414713027529078,
+  "crest": 11.414712905883789,
+  "centroid": 2621.883960759348,
+  "flatness": 0.036855220794677734,
+  "sub100_share": 0.16795362532138824,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.4569143056869507,
+  "clean_share": 0.007757951900698216,
+  "minor_share": 0.16618775978615863,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.8634467124938965,
+  "vocal_share": 0.3575247526168823,
+  "vocal_voiced": 0.3796376186367558,
+  "song_length": 249.733
+ }
+}

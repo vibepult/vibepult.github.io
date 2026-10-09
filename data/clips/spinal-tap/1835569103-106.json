@@ -1,0 +1,32 @@
+{
+ "id": "spinal-tap/1835569103-106",
+ "band": "spinal-tap",
+ "title": "The Sun Never Sweats (2025 Remaster)",
+ "source": "itunes",
+ "album": "Break Like The Wind (2025 Remaster)",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.564931356165253,
+  "tempo_var": 3.135977796952154,
+  "low_onset_rate": 5.19747001459607,
+  "lufs": -9.053751875568189,
+  "rms_dbfs": -8.88431812207474,
+  "crest": 8.884317398071289,
+  "centroid": 2551.5921474757083,
+  "flatness": 0.03649261221289635,
+  "sub100_share": 0.30389901995658875,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.6612384915351868,
+  "clean_share": 0.07192575406032482,
+  "minor_share": 0.017459713158478607,
+  "chord_rate": 1.8990755822562562,
+  "repetitiveness": 0.8227286338806152,
+  "vocal_share": 0.14574870467185974,
+  "vocal_voiced": 0.8367071524966262,
+  "song_length": 263.935
+ }
+}

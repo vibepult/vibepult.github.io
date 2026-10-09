@@ -1,0 +1,32 @@
+{
+ "id": "trivium/1499575032-105",
+ "band": "trivium",
+ "title": "Bleed into Me",
+ "source": "itunes",
+ "album": "What the Dead Men Say",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 3.963934158765839,
+  "tempo_var": 17.209325051018528,
+  "low_onset_rate": 4.563520838243025,
+  "lufs": -7.661253360419668,
+  "rms_dbfs": -7.360299720704184,
+  "crest": 7.360300064086914,
+  "centroid": 2576.18778697478,
+  "flatness": 0.04074012488126755,
+  "sub100_share": 0.28495773673057556,
+  "lowest_pitch": 26.91650390625,
+  "harmonic_share": 0.6647058129310608,
+  "clean_share": 0.030162412993039442,
+  "minor_share": 0.22190260235002157,
+  "chord_rate": 1.4323459565288328,
+  "repetitiveness": 0.8833299875259399,
+  "vocal_share": 0.28939390182495117,
+  "vocal_voiced": 0.676818950930626,
+  "song_length": 228.926
+ }
+}

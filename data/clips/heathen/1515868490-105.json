@@ -1,0 +1,32 @@
+{
+ "id": "heathen/1515868490-105",
+ "band": "heathen",
+ "title": "Sun in My Hand",
+ "source": "itunes",
+ "album": "Empire of the Blind",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.207583765698492,
+  "tempo_var": 30.84921096643105,
+  "low_onset_rate": 4.0428920380158075,
+  "lufs": -10.015683562149484,
+  "rms_dbfs": -9.498240562623463,
+  "crest": 9.49824047088623,
+  "centroid": 2524.9664749079916,
+  "flatness": 0.019840870052576065,
+  "sub100_share": 0.3122307062149048,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.7518535256385803,
+  "clean_share": 0.33979829325058186,
+  "minor_share": 0.2381597746445726,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.7548103928565979,
+  "vocal_share": 9.406967365066521e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 294.44
+ }
+}

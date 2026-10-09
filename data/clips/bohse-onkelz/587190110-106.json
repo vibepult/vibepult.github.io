@@ -1,0 +1,32 @@
+{
+ "id": "bohse-onkelz/587190110-106",
+ "band": "bohse-onkelz",
+ "title": "Knast",
+ "source": "itunes",
+ "album": "Ein böses Märchen aus tausend finsteren Nächten",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.040522111235029,
+  "tempo_var": 3.329551831507986,
+  "low_onset_rate": 4.076304368908501,
+  "lufs": -7.931305858307561,
+  "rms_dbfs": -7.437942315268603,
+  "crest": 7.4379425048828125,
+  "centroid": 2854.001857390779,
+  "flatness": 0.03935322165489197,
+  "sub100_share": 0.41121983528137207,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.811665952205658,
+  "clean_share": 0.03801396431342126,
+  "minor_share": 0.028336600636618692,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.7125645875930786,
+  "vocal_share": 0.1720217615365982,
+  "vocal_voiced": 0.6792668957617412,
+  "song_length": 344.907
+ }
+}

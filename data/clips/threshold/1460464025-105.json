@@ -1,0 +1,32 @@
+{
+ "id": "threshold/1460464025-105",
+ "band": "threshold",
+ "title": "Oceanbound",
+ "source": "itunes",
+ "album": "Hypothetical (Definitive Edition)",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 2.8066357949861804,
+  "tempo_var": 15.090910920199985,
+  "low_onset_rate": 9.856637613344324,
+  "lufs": -15.736776490516556,
+  "rms_dbfs": -13.944679351428853,
+  "crest": 13.944414138793945,
+  "centroid": 1565.4129196813,
+  "flatness": 0.017069151625037193,
+  "sub100_share": 0.4675692617893219,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8670664429664612,
+  "clean_share": 0.49495733126454616,
+  "minor_share": -0.19667749677573226,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.8527976870536804,
+  "vocal_share": 0.0028336544055491686,
+  "vocal_voiced": 1.0,
+  "song_length": 402.64
+ }
+}

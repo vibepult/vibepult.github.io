@@ -1,0 +1,32 @@
+{
+ "id": "earth/455070521-104",
+ "band": "earth",
+ "title": "Engine of Ruin",
+ "source": "itunes",
+ "album": "The Bees Made Honey In the Lion's Skull",
+ "year": 2008,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 1.5666666666666667,
+  "tempo_var": 25.02479700656277,
+  "low_onset_rate": 2.466666666666667,
+  "lufs": -10.379407829842615,
+  "rms_dbfs": -9.029982663316943,
+  "crest": 9.029983520507812,
+  "centroid": 916.1382077351332,
+  "flatness": 0.0011322018690407276,
+  "sub100_share": 0.2952691316604614,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.9523589015007019,
+  "clean_share": 0.9527863777089783,
+  "minor_share": 0.007146167898043565,
+  "chord_rate": 1.2,
+  "repetitiveness": 0.6445643901824951,
+  "vocal_share": 9.370578482048586e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 388.227
+ }
+}

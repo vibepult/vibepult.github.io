@@ -1,0 +1,32 @@
+{
+ "id": "mastodon/1217498224-107",
+ "band": "mastodon",
+ "title": "The Hunter",
+ "source": "itunes",
+ "album": "The Hunter",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.298999174795286,
+  "tempo_var": 4.263035607188383,
+  "low_onset_rate": 5.798650049723874,
+  "lufs": -8.488961302673925,
+  "rms_dbfs": -7.525962790097531,
+  "crest": 7.525963306427002,
+  "centroid": 2382.3147256798065,
+  "flatness": 0.017096906900405884,
+  "sub100_share": 0.5148043036460876,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.91580730676651,
+  "clean_share": 0.02088167053364269,
+  "minor_share": 0.024730557686923893,
+  "chord_rate": 0.8664649499587398,
+  "repetitiveness": 0.8260695338249207,
+  "vocal_share": 0.15603114664554596,
+  "vocal_voiced": 0.882903981264637,
+  "song_length": 317.723
+ }
+}

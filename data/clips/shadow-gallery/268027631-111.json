@@ -1,0 +1,32 @@
+{
+ "id": "shadow-gallery/268027631-111",
+ "band": "shadow-gallery",
+ "title": "Alaska",
+ "source": "itunes",
+ "album": "Carved In Stone",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.641944067303496,
+  "tempo_var": 21.041808474083155,
+  "low_onset_rate": 4.84478797944043,
+  "lufs": -16.304614973741835,
+  "rms_dbfs": -16.750118287228958,
+  "crest": 16.750118255615234,
+  "centroid": 2298.459401504261,
+  "flatness": 0.018207531422376633,
+  "sub100_share": 0.005248438101261854,
+  "lowest_pitch": 99.591064453125,
+  "harmonic_share": 0.8261172771453857,
+  "clean_share": 0.18619084561675717,
+  "minor_share": -0.12698974814888842,
+  "chord_rate": 0.8353082723173156,
+  "repetitiveness": 0.709563136100769,
+  "vocal_share": 0.48826664686203003,
+  "vocal_voiced": 0.8676867686768677,
+  "song_length": 318.493
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "nightwish/1460465899-107",
+ "band": "nightwish",
+ "title": "Sahara",
+ "source": "itunes",
+ "album": "Dark Passion Play",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 3.2999800454721364,
+  "tempo_var": 12.834235518024249,
+  "low_onset_rate": 4.766637843459752,
+  "lufs": -7.801343400823787,
+  "rms_dbfs": -8.394342616020474,
+  "crest": 8.394342422485352,
+  "centroid": 2560.1043511752823,
+  "flatness": 0.02865634486079216,
+  "sub100_share": 0.4185660779476166,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.7736191749572754,
+  "clean_share": 0.1925754060324826,
+  "minor_share": 0.2955486545621435,
+  "chord_rate": 1.866655379256966,
+  "repetitiveness": 0.819721519947052,
+  "vocal_share": 7.5649182917914e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 347.402
+ }
+}

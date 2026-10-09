@@ -1,0 +1,32 @@
+{
+ "id": "manowar/587479081-108",
+ "band": "manowar",
+ "title": "Battle Hymn",
+ "source": "itunes",
+ "album": "Battle Hymns MMXI",
+ "year": 2010,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 1.5703795519565533,
+  "tempo_var": 23.04836019451879,
+  "low_onset_rate": 0.8687206032100082,
+  "lufs": -12.879595025271575,
+  "rms_dbfs": -13.811406892307312,
+  "crest": 13.811407089233398,
+  "centroid": 1505.1861833155951,
+  "flatness": 0.007623417302966118,
+  "sub100_share": 0.47748953104019165,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8326664566993713,
+  "clean_share": 0.7874321179208689,
+  "minor_share": 0.04064796952568617,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.6714589595794678,
+  "vocal_share": 1.4203865248418879e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 569.853
+ }
+}

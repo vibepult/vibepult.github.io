@@ -1,0 +1,32 @@
+{
+ "id": "lordi/1484821067-108",
+ "band": "lordi",
+ "title": "I Dug a Hole in the Yard for You",
+ "source": "itunes",
+ "album": "Killection",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.57748933229889,
+  "tempo_var": 11.768797464989634,
+  "low_onset_rate": 5.579859259079669,
+  "lufs": -9.766595095940362,
+  "rms_dbfs": -9.33177161945626,
+  "crest": 9.331771850585938,
+  "centroid": 2630.9947971290503,
+  "flatness": 0.04115188121795654,
+  "sub100_share": 0.26860031485557556,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.6768925189971924,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.0505641763410814,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.7767377495765686,
+  "vocal_share": 0.22031831741333008,
+  "vocal_voiced": 0.39466666666666667,
+  "song_length": 251.227
+ }
+}

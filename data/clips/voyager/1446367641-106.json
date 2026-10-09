@@ -1,0 +1,32 @@
+{
+ "id": "voyager/1446367641-106",
+ "band": "voyager",
+ "title": "Total Existence Failure",
+ "source": "itunes",
+ "album": "I Am the Revolution",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 4.377015346942734,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.479622266401591,
+  "lufs": -9.436488094350818,
+  "rms_dbfs": -8.808118618062,
+  "crest": 8.80811882019043,
+  "centroid": 2599.3565818879224,
+  "flatness": 0.03512153401970863,
+  "sub100_share": 0.38319894671440125,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.6826369166374207,
+  "clean_share": 0.017067494181536073,
+  "minor_share": 0.1687166942976025,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.8725835680961609,
+  "vocal_share": 0.044382140040397644,
+  "vocal_voiced": 0.8303249097472925,
+  "song_length": 279.72
+ }
+}

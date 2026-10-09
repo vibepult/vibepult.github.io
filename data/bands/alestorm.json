@@ -1,0 +1,127 @@
+{
+ "slug": "alestorm",
+ "name": "Alestorm",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 272280214,
+  "deezer": 125436,
+  "spotify": "3OpqU68JpZlzvjAJj3B2Da"
+ },
+ "metadata": {
+  "formed": 2007,
+  "split": null,
+  "country": "GB",
+  "status": "active",
+  "members": 5,
+  "past_members": 4,
+  "full_lengths": 8,
+  "genre": "Folk/Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 151993,
+  "themes": "Pirates, Drinking, Adventure, Humour",
+  "release_year": 2014
+ },
+ "partial": false,
+ "clips": [
+  "alestorm/1184712464-105",
+  "alestorm/1184090278-105",
+  "alestorm/1184704320-105",
+  "alestorm/1242301305-105",
+  "alestorm/1502472629-105",
+  "alestorm/1613606249-106",
+  "alestorm/1805626042-104",
+  "alestorm/1184712464-106",
+  "alestorm/1184090278-106",
+  "alestorm/1184704320-106",
+  "alestorm/1242301305-106",
+  "alestorm/1502472629-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 110.40660511363637,
+   "iqr": 44.29602844427245
+  },
+  "onset_rate": {
+   "median": 5.0,
+   "iqr": 2.4736555234116957
+  },
+  "tempo_var": {
+   "median": 3.151929938946761,
+   "iqr": 7.510780157037154
+  },
+  "low_onset_rate": {
+   "median": 6.0499549011604765,
+   "iqr": 2.2166726127128475
+  },
+  "lufs": {
+   "median": -8.439896996924894,
+   "iqr": 1.683674136176009
+  },
+  "rms_dbfs": {
+   "median": -8.222378608431445,
+   "iqr": 1.5286523375566468
+  },
+  "crest": {
+   "median": 8.222378730773926,
+   "iqr": 1.5286521911621094
+  },
+  "centroid": {
+   "median": 2683.8524382872583,
+   "iqr": 282.0631848124326
+  },
+  "flatness": {
+   "median": 0.04013516195118427,
+   "iqr": 0.016086881048977375
+  },
+  "sub100_share": {
+   "median": 0.33300524950027466,
+   "iqr": 0.052463844418525696
+  },
+  "lowest_pitch": {
+   "median": 53.8330078125,
+   "iqr": 25.5706787109375
+  },
+  "harmonic_share": {
+   "median": 0.6799311637878418,
+   "iqr": 0.10048745572566986
+  },
+  "clean_share": {
+   "median": 0.005802858449522195,
+   "iqr": 0.019347750090389068
+  },
+  "minor_share": {
+   "median": -0.04049091116623929,
+   "iqr": 0.19326754359413584
+  },
+  "chord_rate": {
+   "median": 1.683316351931396,
+   "iqr": 0.8750015872474266
+  },
+  "repetitiveness": {
+   "median": 0.8700392246246338,
+   "iqr": 0.12647654116153717
+  },
+  "vocal_share": {
+   "median": 0.15933646261692047,
+   "iqr": 0.0666176825761795
+  },
+  "vocal_voiced": {
+   "median": 0.11574492563070096,
+   "iqr": 0.10847602757791282
+  },
+  "song_length": {
+   "median": 244.885,
+   "iqr": 75.85525000000001
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.8,
+  "camp": 1.0
+ },
+ "sources_failed": []
+}

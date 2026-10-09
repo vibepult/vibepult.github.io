@@ -1,0 +1,127 @@
+{
+ "slug": "balance-of-power",
+ "name": "Balance of Power",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 112524185,
+  "deezer": 101775,
+  "spotify": "0UNAFOShoComAV8MzAxzGU"
+ },
+ "metadata": {
+  "formed": 1995,
+  "split": null,
+  "country": "GB",
+  "status": "active",
+  "members": 5,
+  "past_members": 10,
+  "full_lengths": 6,
+  "genre": "AOR (early); Power/Progressive Metal (later)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 661,
+  "themes": "Life, Inner struggles",
+  "release_year": 2002
+ },
+ "partial": false,
+ "clips": [
+  "balance-of-power/1221998796-105",
+  "balance-of-power/1221992944-105",
+  "balance-of-power/1222087298-105",
+  "balance-of-power/1724964079-104",
+  "balance-of-power/1221998796-104",
+  "balance-of-power/1221992944-104",
+  "balance-of-power/1222087298-106",
+  "balance-of-power/1724964079-105",
+  "balance-of-power/1221998796-106",
+  "balance-of-power/1221992944-106",
+  "balance-of-power/1222087298-104",
+  "balance-of-power/1724964079-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.90049098320159,
+   "iqr": 19.6875
+  },
+  "onset_rate": {
+   "median": 2.8233419604325265,
+   "iqr": 1.0960499513041335
+  },
+  "tempo_var": {
+   "median": 7.946838014138113,
+   "iqr": 18.080368443659932
+  },
+  "low_onset_rate": {
+   "median": 2.4558063206129077,
+   "iqr": 2.9195681615932827
+  },
+  "lufs": {
+   "median": -11.116502005069533,
+   "iqr": 2.6546453178735536
+  },
+  "rms_dbfs": {
+   "median": -10.825895318263152,
+   "iqr": 2.7035841585022826
+  },
+  "crest": {
+   "median": 10.825895309448242,
+   "iqr": 2.703583240509033
+  },
+  "centroid": {
+   "median": 2494.173570528771,
+   "iqr": 739.3982516058036
+  },
+  "flatness": {
+   "median": 0.02584548480808735,
+   "iqr": 0.01796965254470706
+  },
+  "sub100_share": {
+   "median": 0.27092765271663666,
+   "iqr": 0.2642324222251773
+  },
+  "lowest_pitch": {
+   "median": 52.4871826171875,
+   "iqr": 80.07659912109375
+  },
+  "harmonic_share": {
+   "median": 0.8379800319671631,
+   "iqr": 0.09760519862174988
+  },
+  "clean_share": {
+   "median": 0.12839410395655546,
+   "iqr": 0.5398279030670009
+  },
+  "minor_share": {
+   "median": 0.054836337620082665,
+   "iqr": 0.11115989151408437
+  },
+  "chord_rate": {
+   "median": 1.2845043611713547,
+   "iqr": 0.6002953292377589
+  },
+  "repetitiveness": {
+   "median": 0.830986738204956,
+   "iqr": 0.1503916233778
+  },
+  "vocal_share": {
+   "median": 0.25389421731233597,
+   "iqr": 0.24783826805651188
+  },
+  "vocal_voiced": {
+   "median": 0.725466263060248,
+   "iqr": 0.2924551278214341
+  },
+  "song_length": {
+   "median": 322.0535,
+   "iqr": 67.94299999999998
+  },
+  "vocal_presence": {
+   "median": 0.5,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

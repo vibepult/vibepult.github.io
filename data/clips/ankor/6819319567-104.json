@@ -1,0 +1,32 @@
+{
+ "id": "ankor/6819319567-104",
+ "band": "ankor",
+ "title": "Awaiting Your Awakening",
+ "source": "itunes",
+ "album": "My Own Angel",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.133333333333334,
+  "tempo_var": 14.63497379454132,
+  "low_onset_rate": 6.5,
+  "lufs": -5.208512516871958,
+  "rms_dbfs": -5.151752934461569,
+  "crest": 5.151752948760986,
+  "centroid": 2355.1409881446675,
+  "flatness": 0.026379570364952087,
+  "sub100_share": 0.16745686531066895,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7462481260299683,
+  "clean_share": 0.01780185758513932,
+  "minor_share": 0.07244983503643487,
+  "chord_rate": 1.7333333333333334,
+  "repetitiveness": 0.7608614563941956,
+  "vocal_share": 0.3638724982738495,
+  "vocal_voiced": 0.7495575221238938,
+  "song_length": 284.255
+ }
+}

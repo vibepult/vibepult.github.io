@@ -1,0 +1,32 @@
+{
+ "id": "in-flames/287374504-107",
+ "band": "in-flames",
+ "title": "Vacuum",
+ "source": "itunes",
+ "album": "Come Clarity",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 5.032739903684826,
+  "tempo_var": 6.800280620561673,
+  "low_onset_rate": 5.066069307020487,
+  "lufs": -7.077028916412,
+  "rms_dbfs": -7.289581247870168,
+  "crest": 7.289581298828125,
+  "centroid": 2809.4562297131674,
+  "flatness": 0.04584915563464165,
+  "sub100_share": 0.3190360367298126,
+  "lowest_pitch": 88.824462890625,
+  "harmonic_share": 0.7076748609542847,
+  "clean_share": 0.0,
+  "minor_share": -0.0037095189625336866,
+  "chord_rate": 1.999764200139666,
+  "repetitiveness": 0.9034690856933594,
+  "vocal_share": 0.15881386399269104,
+  "vocal_voiced": 0.26153846153846155,
+  "song_length": 219.44
+ }
+}

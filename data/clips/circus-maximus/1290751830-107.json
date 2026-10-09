@@ -1,0 +1,32 @@
+{
+ "id": "circus-maximus/1290751830-107",
+ "band": "circus-maximus",
+ "title": "Used",
+ "source": "itunes",
+ "album": "Nine",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 1.5703795519565533,
+  "tempo_var": 18.733446887719353,
+  "low_onset_rate": 1.8042658682054018,
+  "lufs": -10.396542404930367,
+  "rms_dbfs": -9.30635312636544,
+  "crest": 9.306352615356445,
+  "centroid": 2579.0335622033135,
+  "flatness": 0.028999337926506996,
+  "sub100_share": 0.38630205392837524,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7988770604133606,
+  "clean_share": 0.009309542280837859,
+  "minor_share": 0.01990448005289991,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.9263142943382263,
+  "vocal_share": 9.002969250104798e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 291.667
+ }
+}

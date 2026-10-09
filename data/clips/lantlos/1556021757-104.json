@@ -1,0 +1,32 @@
+{
+ "id": "lantlos/1556021757-104",
+ "band": "lantlos",
+ "title": "Kalte Tage",
+ "source": "itunes",
+ "album": "Lantlôs",
+ "year": 2008,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.112086626581972,
+  "tempo_var": 3.8425079297219327,
+  "low_onset_rate": 7.417537458177763,
+  "lufs": -9.793359957836826,
+  "rms_dbfs": -9.235489987167014,
+  "crest": 9.235490798950195,
+  "centroid": 2566.574189045587,
+  "flatness": 0.02825561724603176,
+  "sub100_share": 0.23038457334041595,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.8357627391815186,
+  "clean_share": 0.0,
+  "minor_share": 0.1701626182430831,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.8934780955314636,
+  "vocal_share": 0.03696100786328316,
+  "vocal_voiced": 0.5616438356164384,
+  "song_length": 398.093
+ }
+}

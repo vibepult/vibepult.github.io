@@ -1,0 +1,32 @@
+{
+ "id": "boisson-divine/1875389904-107",
+ "band": "boisson-divine",
+ "title": "Maria",
+ "source": "itunes",
+ "album": "Eretatge",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.833187205224331,
+  "tempo_var": 8.15963011971957,
+  "low_onset_rate": 5.566498367396299,
+  "lufs": -9.097574171087619,
+  "rms_dbfs": -8.737494976436759,
+  "crest": 8.737495422363281,
+  "centroid": 2631.7879583438275,
+  "flatness": 0.03223222866654396,
+  "sub100_share": 0.28335532546043396,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8154866695404053,
+  "clean_share": 0.017788089713843776,
+  "minor_share": 0.20079364610804973,
+  "chord_rate": 1.033302092151409,
+  "repetitiveness": 0.726094126701355,
+  "vocal_share": 0.2530496120452881,
+  "vocal_voiced": 0.7023255813953488,
+  "song_length": 267.84
+ }
+}

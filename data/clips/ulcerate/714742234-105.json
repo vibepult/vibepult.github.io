@@ -1,0 +1,32 @@
+{
+ "id": "ulcerate/714742234-105",
+ "band": "ulcerate",
+ "title": "Tyranny",
+ "source": "itunes",
+ "album": "Everything Is Fire",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.207583765698492,
+  "tempo_var": 9.393760450246242,
+  "low_onset_rate": 4.343603016050041,
+  "lufs": -11.899749472219,
+  "rms_dbfs": -12.060754337806728,
+  "crest": 12.060754776000977,
+  "centroid": 2411.9849247908296,
+  "flatness": 0.024224519729614258,
+  "sub100_share": 0.2573322355747223,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.6774166822433472,
+  "clean_share": 0.10318076027928627,
+  "minor_share": -0.07895481556033146,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.8386858105659485,
+  "vocal_share": 9.564636229697498e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 322.76
+ }
+}

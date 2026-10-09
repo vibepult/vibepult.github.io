@@ -1,0 +1,32 @@
+{
+ "id": "hibria/1603521743-106",
+ "band": "hibria",
+ "title": "Raging Machine",
+ "source": "itunes",
+ "album": "Me7amorphosis",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.343603016050041,
+  "tempo_var": 18.811162929628587,
+  "low_onset_rate": 4.644313994084275,
+  "lufs": -9.479060615888853,
+  "rms_dbfs": -8.418631726963387,
+  "crest": 8.418632507324219,
+  "centroid": 2385.6539153277886,
+  "flatness": 0.02494494989514351,
+  "sub100_share": 0.4454171061515808,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8086997866630554,
+  "clean_share": 0.05896043444530644,
+  "minor_share": -0.301058784889707,
+  "chord_rate": 1.1026069194588566,
+  "repetitiveness": 0.8739262223243713,
+  "vocal_share": 4.1062568811867095e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 299.208
+ }
+}

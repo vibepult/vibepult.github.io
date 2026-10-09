@@ -1,0 +1,127 @@
+{
+ "slug": "crimson-glory",
+ "name": "Crimson Glory",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 204113272,
+  "deezer": 66001,
+  "spotify": "2B73nUiRlcSwjTyVaIAwhR"
+ },
+ "metadata": {
+  "formed": 1983,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 6,
+  "full_lengths": 5,
+  "genre": "Progressive Heavy/Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 5506,
+  "themes": "Fantasy, Feelings, Science fiction",
+  "release_year": 1991
+ },
+ "partial": false,
+ "clips": [
+  "crimson-glory/390839942-105",
+  "crimson-glory/409841804-105",
+  "crimson-glory/443015498-105",
+  "crimson-glory/390839942-104",
+  "crimson-glory/409841804-106",
+  "crimson-glory/443015498-106",
+  "crimson-glory/390839942-106",
+  "crimson-glory/409841804-104",
+  "crimson-glory/443015498-104",
+  "crimson-glory/390839942-103",
+  "crimson-glory/409841804-107",
+  "crimson-glory/443015498-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 101.37169471153845,
+   "iqr": 18.294075618440786
+  },
+  "onset_rate": {
+   "median": 3.7755933908742665,
+   "iqr": 1.077547671289337
+  },
+  "tempo_var": {
+   "median": 7.969194306284745,
+   "iqr": 9.249016918463017
+  },
+  "low_onset_rate": {
+   "median": 4.961731137564855,
+   "iqr": 1.2446093257528004
+  },
+  "lufs": {
+   "median": -9.525962207990657,
+   "iqr": 6.1294427453936
+  },
+  "rms_dbfs": {
+   "median": -9.461716861912628,
+   "iqr": 6.576810873911074
+  },
+  "crest": {
+   "median": 9.461716651916504,
+   "iqr": 6.57681131362915
+  },
+  "centroid": {
+   "median": 2521.3368423155657,
+   "iqr": 293.16925826486477
+  },
+  "flatness": {
+   "median": 0.02368315774947405,
+   "iqr": 0.013295960612595081
+  },
+  "sub100_share": {
+   "median": 0.18387801200151443,
+   "iqr": 0.03136996179819107
+  },
+  "lowest_pitch": {
+   "median": 68.6370849609375,
+   "iqr": 7.40203857421875
+  },
+  "harmonic_share": {
+   "median": 0.8010412752628326,
+   "iqr": 0.08123098313808441
+  },
+  "clean_share": {
+   "median": 0.025989138867339022,
+   "iqr": 0.06671838634600466
+  },
+  "minor_share": {
+   "median": -0.004280121143253157,
+   "iqr": 0.1736331732080425
+  },
+  "chord_rate": {
+   "median": 1.336493235707705,
+   "iqr": 0.8436613550404888
+  },
+  "repetitiveness": {
+   "median": 0.8486234843730927,
+   "iqr": 0.17024579644203186
+  },
+  "vocal_share": {
+   "median": 0.2397775873541832,
+   "iqr": 0.1643623523414135
+  },
+  "vocal_voiced": {
+   "median": 0.7622599148976186,
+   "iqr": 0.2819991742996162
+  },
+  "song_length": {
+   "median": 307.24649999999997,
+   "iqr": 65.41375
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.8,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

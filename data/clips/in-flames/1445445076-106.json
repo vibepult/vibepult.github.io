@@ -1,0 +1,32 @@
+{
+ "id": "in-flames/1445445076-106",
+ "band": "in-flames",
+ "title": "(This Is Our) House",
+ "source": "itunes",
+ "album": "I, The Mask",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.633305316369969,
+  "tempo_var": 3.183243386915554,
+  "low_onset_rate": 7.099957067530959,
+  "lufs": -11.902696091002122,
+  "rms_dbfs": -11.725397540270077,
+  "crest": 11.725397109985352,
+  "centroid": 2734.921945574508,
+  "flatness": 0.06271526962518692,
+  "sub100_share": 0.33359578251838684,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.6389480233192444,
+  "clean_share": 0.030935808197989172,
+  "minor_share": 0.08553035141568732,
+  "chord_rate": 2.3333192240712073,
+  "repetitiveness": 0.9235425591468811,
+  "vocal_share": 0.13570553064346313,
+  "vocal_voiced": 0.0,
+  "song_length": 258.773
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "spinal-tap/1829091963-110",
+ "band": "spinal-tap",
+ "title": "Rockin’ In The Urn",
+ "source": "itunes",
+ "album": "The End Continues",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.097855150931026,
+  "tempo_var": 2.6519391010242344,
+  "low_onset_rate": 3.5308886666525674,
+  "lufs": -10.293876231223678,
+  "rms_dbfs": -9.924782635706936,
+  "crest": 9.924782752990723,
+  "centroid": 2274.9484523270935,
+  "flatness": 0.020269950851798058,
+  "sub100_share": 0.2451048195362091,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7358101606369019,
+  "clean_share": 0.16241299303944315,
+  "minor_share": 0.08296547555893463,
+  "chord_rate": 1.0659286540837938,
+  "repetitiveness": 0.681897759437561,
+  "vocal_share": 0.26069626212120056,
+  "vocal_voiced": 0.23214285714285715,
+  "song_length": 202.944
+ }
+}

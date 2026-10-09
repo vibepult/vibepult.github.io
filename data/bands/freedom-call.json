@@ -1,0 +1,127 @@
+{
+ "slug": "freedom-call",
+ "name": "Freedom Call",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 188115824,
+  "deezer": 4868,
+  "spotify": "55RDuy7cQW2Dqrcz3Jjl6F"
+ },
+ "metadata": {
+  "formed": 1998,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 4,
+  "past_members": 9,
+  "full_lengths": 11,
+  "genre": "Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 19250,
+  "themes": "Fantasy, Adventure, Battles, Optimism, Glory, Unity, Hope, Faith, Happiness",
+  "release_year": 2006
+ },
+ "partial": false,
+ "clips": [
+  "freedom-call/1466942011-105",
+  "freedom-call/1466945099-106",
+  "freedom-call/1466942394-107",
+  "freedom-call/1466942642-106",
+  "freedom-call/1675513734-107",
+  "freedom-call/1349658223-107",
+  "freedom-call/1348986369-107",
+  "freedom-call/1466942011-106",
+  "freedom-call/1466945099-107",
+  "freedom-call/1466942394-105",
+  "freedom-call/1466942642-107",
+  "freedom-call/1675513734-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 143.5546875,
+   "iqr": 61.94663002549808
+  },
+  "onset_rate": {
+   "median": 4.349968506396981,
+   "iqr": 1.5864352601199632
+  },
+  "tempo_var": {
+   "median": 10.253282522776571,
+   "iqr": 14.451003516027889
+  },
+  "low_onset_rate": {
+   "median": 6.074127595710396,
+   "iqr": 2.806635794986181
+  },
+  "lufs": {
+   "median": -9.346085996661667,
+   "iqr": 1.2411122834594792
+  },
+  "rms_dbfs": {
+   "median": -9.157513730123258,
+   "iqr": 1.3864574916953138
+  },
+  "crest": {
+   "median": 9.157514095306396,
+   "iqr": 1.3864569664001465
+  },
+  "centroid": {
+   "median": 2708.770986719765,
+   "iqr": 321.7284447583097
+  },
+  "flatness": {
+   "median": 0.04187660850584507,
+   "iqr": 0.017532994970679283
+  },
+  "sub100_share": {
+   "median": 0.23184487223625183,
+   "iqr": 0.1062680184841156
+  },
+  "lowest_pitch": {
+   "median": 43.06640625,
+   "iqr": 11.43951416015625
+  },
+  "harmonic_share": {
+   "median": 0.7292420268058777,
+   "iqr": 0.06725417077541351
+  },
+  "clean_share": {
+   "median": 0.008136249555252759,
+   "iqr": 0.06508039650154168
+  },
+  "minor_share": {
+   "median": 0.10108323045430717,
+   "iqr": 0.18926955252566557
+  },
+  "chord_rate": {
+   "median": 1.2515009536278265,
+   "iqr": 0.18651062017657183
+  },
+  "repetitiveness": {
+   "median": 0.88082355260849,
+   "iqr": 0.13783535361289978
+  },
+  "vocal_share": {
+   "median": 0.19282718002796173,
+   "iqr": 0.07519549503922462
+  },
+  "vocal_voiced": {
+   "median": 0.6519431706138871,
+   "iqr": 0.2458546345406607
+  },
+  "song_length": {
+   "median": 248.9135,
+   "iqr": 62.85949999999997
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.6
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "dark-moor/1549085295-108",
+ "band": "dark-moor",
+ "title": "Imperial Earth",
+ "source": "itunes",
+ "album": "Project X",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 5.513034597294284,
+  "tempo_var": 13.266423712018224,
+  "low_onset_rate": 6.715878509431217,
+  "lufs": -14.46680710361784,
+  "rms_dbfs": -14.461955031680343,
+  "crest": 14.461955070495605,
+  "centroid": 2159.6240288097447,
+  "flatness": 0.009593975730240345,
+  "sub100_share": 0.08924320340156555,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.9134060740470886,
+  "clean_share": 0.18929402637703646,
+  "minor_share": -0.03646397962545356,
+  "chord_rate": 0.7016589487465451,
+  "repetitiveness": 0.7274588346481323,
+  "vocal_share": 0.38281920552253723,
+  "vocal_voiced": 0.669672131147541,
+  "song_length": 270.16
+ }
+}

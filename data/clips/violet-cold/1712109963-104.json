@@ -1,0 +1,32 @@
+{
+ "id": "violet-cold/1712109963-104",
+ "band": "violet-cold",
+ "title": "Stardust",
+ "source": "itunes",
+ "album": "Multiverse",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.299919880273919,
+  "tempo_var": 2.930506191243984,
+  "low_onset_rate": 5.8332451512448795,
+  "lufs": -7.738570385436725,
+  "rms_dbfs": -7.307516460994493,
+  "crest": 7.307517051696777,
+  "centroid": 2200.4040685365853,
+  "flatness": 0.022738225758075714,
+  "sub100_share": 0.3740202486515045,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7695795893669128,
+  "clean_share": 0.0,
+  "minor_share": 0.2303102645053382,
+  "chord_rate": 1.5333101540415113,
+  "repetitiveness": 0.8604147434234619,
+  "vocal_share": 0.038909099996089935,
+  "vocal_voiced": 0.41075794621026895,
+  "song_length": 331.071
+ }
+}

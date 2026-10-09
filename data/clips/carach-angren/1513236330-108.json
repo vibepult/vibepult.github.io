@@ -1,0 +1,32 @@
+{
+ "id": "carach-angren/1513236330-108",
+ "band": "carach-angren",
+ "title": "The Course of a Spectral Ship",
+ "source": "itunes",
+ "album": "Death Came Through a Phantom Ship",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.813745575328517,
+  "tempo_var": 24.05321453484114,
+  "low_onset_rate": 7.217063472821607,
+  "lufs": -11.63612718453106,
+  "rms_dbfs": -10.896860730093444,
+  "crest": 10.896860122680664,
+  "centroid": 2679.075456505406,
+  "flatness": 0.03923754766583443,
+  "sub100_share": 0.4650332033634186,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6888876557350159,
+  "clean_share": 0.007757951900698216,
+  "minor_share": 0.1471474247230704,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.9092774987220764,
+  "vocal_share": 0.13331787288188934,
+  "vocal_voiced": 0.092560553633218,
+  "song_length": 307.347
+ }
+}

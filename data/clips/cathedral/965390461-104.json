@@ -1,0 +1,32 @@
+{
+ "id": "cathedral/965390461-104",
+ "band": "cathedral",
+ "title": "Tower of Silence",
+ "source": "itunes",
+ "album": "The Last Spire",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 1.7040288755273238,
+  "tempo_var": 23.895946370600512,
+  "low_onset_rate": 6.248105876933521,
+  "lufs": -9.759725054601862,
+  "rms_dbfs": -9.664003397025738,
+  "crest": 9.664003372192383,
+  "centroid": 2310.9059084214277,
+  "flatness": 0.01607404462993145,
+  "sub100_share": 0.22317509353160858,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.8012223243713379,
+  "clean_share": 0.28549262994569435,
+  "minor_share": -0.008391302695334502,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.8075595498085022,
+  "vocal_share": 8.388111609747284e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 413.347
+ }
+}

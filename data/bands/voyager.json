@@ -1,0 +1,127 @@
+{
+ "slug": "voyager",
+ "name": "Voyager",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1436762874,
+  "deezer": 134060,
+  "spotify": "16fltNcwTM5V9rnxIlcha4"
+ },
+ "metadata": {
+  "formed": 1999,
+  "split": null,
+  "country": "AU",
+  "status": "active",
+  "members": 5,
+  "past_members": 9,
+  "full_lengths": 8,
+  "genre": "Melodic Progressive Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 4012,
+  "themes": "Life, Depression, Humanity",
+  "release_year": 2010
+ },
+ "partial": false,
+ "clips": [
+  "voyager/1446371711-106",
+  "voyager/1459152421-106",
+  "voyager/1446367641-106",
+  "voyager/1399686749-106",
+  "voyager/1398647317-107",
+  "voyager/1453073153-105",
+  "voyager/1473359674-105",
+  "voyager/1682534363-106",
+  "voyager/1446371711-107",
+  "voyager/1459152421-107",
+  "voyager/1446367641-105",
+  "voyager/1399686749-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 101.37169471153845,
+   "iqr": 53.535288815045234
+  },
+  "onset_rate": {
+   "median": 4.5440770014061975,
+   "iqr": 2.2052138389177136
+  },
+  "tempo_var": {
+   "median": 15.541011968470059,
+   "iqr": 4.221879923591386
+  },
+  "low_onset_rate": {
+   "median": 4.443840008728119,
+   "iqr": 1.6956757928041504
+  },
+  "lufs": {
+   "median": -9.988894514293605,
+   "iqr": 1.667444852613439
+  },
+  "rms_dbfs": {
+   "median": -9.22707218869527,
+   "iqr": 1.237437356240843
+  },
+  "crest": {
+   "median": 9.227072715759277,
+   "iqr": 1.2374374866485596
+  },
+  "centroid": {
+   "median": 2364.1636408132454,
+   "iqr": 312.12547985551464
+  },
+  "flatness": {
+   "median": 0.02282892633229494,
+   "iqr": 0.007486645597964525
+  },
+  "sub100_share": {
+   "median": 0.36559341847896576,
+   "iqr": 0.1673419326543808
+  },
+  "lowest_pitch": {
+   "median": 64.599609375,
+   "iqr": 16.82281494140625
+  },
+  "harmonic_share": {
+   "median": 0.8027989268302917,
+   "iqr": 0.11947716772556305
+  },
+  "clean_share": {
+   "median": 0.11947245927075252,
+   "iqr": 0.2234468784451431
+  },
+  "minor_share": {
+   "median": 0.03526793003827794,
+   "iqr": 0.16203350301039107
+  },
+  "chord_rate": {
+   "median": 1.2696685739223197,
+   "iqr": 0.5345972942830819
+  },
+  "repetitiveness": {
+   "median": 0.7640301287174225,
+   "iqr": 0.11561544239521027
+  },
+  "vocal_share": {
+   "median": 0.13082772493362427,
+   "iqr": 0.13090917840600014
+  },
+  "vocal_voiced": {
+   "median": 0.8167597765363128,
+   "iqr": 0.19811197474354092
+  },
+  "song_length": {
+   "median": 284.5055,
+   "iqr": 42.52375000000001
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "pyogenesis/346436374-108",
+ "band": "pyogenesis",
+ "title": "Cheapo Speakers",
+ "source": "itunes",
+ "album": "Unpop",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.532127506513762,
+  "tempo_var": 24.053431084752333,
+  "low_onset_rate": 3.7656647664415814,
+  "lufs": -11.100185759700366,
+  "rms_dbfs": -10.46733732892335,
+  "crest": 10.467337608337402,
+  "centroid": 2338.5359511029983,
+  "flatness": 0.02138848789036274,
+  "sub100_share": 0.3055005967617035,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.6084187030792236,
+  "clean_share": 0.17865429234338748,
+  "minor_share": 0.07187250346654539,
+  "chord_rate": 1.5662499471040205,
+  "repetitiveness": 0.7772308588027954,
+  "vocal_share": 0.23077483475208282,
+  "vocal_voiced": 0.6656441717791411,
+  "song_length": 160.333
+ }
+}

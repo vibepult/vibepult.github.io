@@ -1,0 +1,32 @@
+{
+ "id": "kekal/1404150396-105",
+ "band": "kekal",
+ "title": "Between Us",
+ "source": "itunes",
+ "album": "Audible Minority",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.410427677835426,
+  "tempo_var": 4.869489320798533,
+  "low_onset_rate": 5.412797604616205,
+  "lufs": -8.561362856049172,
+  "rms_dbfs": -7.116118872594871,
+  "crest": 7.116118431091309,
+  "centroid": 1498.551082300919,
+  "flatness": 0.002429336542263627,
+  "sub100_share": 0.3612860441207886,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.9305785894393921,
+  "clean_share": 0.95655546935609,
+  "minor_share": 0.024316463528551047,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.887519359588623,
+  "vocal_share": 0.015601198188960552,
+  "vocal_voiced": 0.9386281588447654,
+  "song_length": 384.72
+ }
+}

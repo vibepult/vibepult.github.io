@@ -1,0 +1,32 @@
+{
+ "id": "tnt/1650648468-107",
+ "band": "tnt",
+ "title": "Wild Life",
+ "source": "itunes",
+ "album": "The New Territory",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 69.83741554054055,
+  "onset_rate": 3.7087687290888813,
+  "tempo_var": 23.71211476156016,
+  "low_onset_rate": 5.145498957474664,
+  "lufs": -8.470054237350851,
+  "rms_dbfs": -8.611505457059774,
+  "crest": 8.611505508422852,
+  "centroid": 2350.6247426831874,
+  "flatness": 0.0204805638641119,
+  "sub100_share": 0.19753606617450714,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.8209158778190613,
+  "clean_share": 0.08068269976726145,
+  "minor_share": -0.008162243243467704,
+  "chord_rate": 1.4367302283857828,
+  "repetitiveness": 0.8013519644737244,
+  "vocal_share": 0.19950363039970398,
+  "vocal_voiced": 0.797951582867784,
+  "song_length": 186.773
+ }
+}

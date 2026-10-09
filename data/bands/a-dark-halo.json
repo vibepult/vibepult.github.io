@@ -1,0 +1,127 @@
+{
+ "slug": "a-dark-halo",
+ "name": "A Dark Halo",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 203201046,
+  "deezer": 1318255,
+  "spotify": "4xwgLgwJuLOc5OrTPpIff9"
+ },
+ "metadata": {
+  "formed": 2004,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 2,
+  "full_lengths": 2,
+  "genre": "Industrial/Thrash/Groove Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 217,
+  "themes": "Personal issues/struggles",
+  "release_year": 2014
+ },
+ "partial": false,
+ "clips": [
+  "a-dark-halo/1344674483-106",
+  "a-dark-halo/1686540496-104",
+  "a-dark-halo/1344674483-104",
+  "a-dark-halo/1686540496-105",
+  "a-dark-halo/1344674483-107",
+  "a-dark-halo/1686540496-103",
+  "a-dark-halo/1344674483-103",
+  "a-dark-halo/1686540496-106",
+  "a-dark-halo/1344674483-108",
+  "a-dark-halo/1686540496-102",
+  "a-dark-halo/1344674483-102",
+  "a-dark-halo/1686540496-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 34.32429387019231
+  },
+  "onset_rate": {
+   "median": 4.360309181496388,
+   "iqr": 1.779206620035882
+  },
+  "tempo_var": {
+   "median": 10.646078086471336,
+   "iqr": 7.7678242828779025
+  },
+  "low_onset_rate": {
+   "median": 5.229029784706396,
+   "iqr": 2.0381521844542503
+  },
+  "lufs": {
+   "median": -9.92946961153952,
+   "iqr": 1.4929952505483044
+  },
+  "rms_dbfs": {
+   "median": -9.059489045647041,
+   "iqr": 1.8239884655890108
+  },
+  "crest": {
+   "median": 9.059489250183105,
+   "iqr": 1.823988676071167
+  },
+  "centroid": {
+   "median": 2509.4887583579293,
+   "iqr": 1008.9752767317652
+  },
+  "flatness": {
+   "median": 0.0267945546656847,
+   "iqr": 0.0302180340513587
+  },
+  "sub100_share": {
+   "median": 0.43724048137664795,
+   "iqr": 0.18652664124965668
+  },
+  "lowest_pitch": {
+   "median": 49.7955322265625,
+   "iqr": 18.841552734375
+  },
+  "harmonic_share": {
+   "median": 0.7959839999675751,
+   "iqr": 0.142055943608284
+  },
+  "clean_share": {
+   "median": 0.06633048875096974,
+   "iqr": 0.3132273079906905
+  },
+  "minor_share": {
+   "median": 0.01358783721937229,
+   "iqr": 0.2647115805264061
+  },
+  "chord_rate": {
+   "median": 1.1360192503515494,
+   "iqr": 0.5429503770062553
+  },
+  "repetitiveness": {
+   "median": 0.8682198822498322,
+   "iqr": 0.05851595103740692
+  },
+  "vocal_share": {
+   "median": 0.09664729982614517,
+   "iqr": 0.15620405785739422
+  },
+  "vocal_voiced": {
+   "median": 0.31595291612445286,
+   "iqr": 0.352270501592565
+  },
+  "song_length": {
+   "median": 260.5465,
+   "iqr": 38.93725000000006
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

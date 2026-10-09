@@ -1,0 +1,32 @@
+{
+ "id": "septicflesh/1608871550-105",
+ "band": "septicflesh",
+ "title": "Coming Storm",
+ "source": "itunes",
+ "album": "Modern Primitive",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.240996096591185,
+  "tempo_var": 16.768297498685627,
+  "low_onset_rate": 4.57748933229889,
+  "lufs": -9.73167324704572,
+  "rms_dbfs": -10.676260824463226,
+  "crest": 10.676260948181152,
+  "centroid": 1987.361699939525,
+  "flatness": 0.028863532468676567,
+  "sub100_share": 0.3761740028858185,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7071619629859924,
+  "clean_share": 0.36229635376260666,
+  "minor_share": -0.15782976537631338,
+  "chord_rate": 2.8734604567715656,
+  "repetitiveness": 0.8584237098693848,
+  "vocal_share": 0.007762474939227104,
+  "vocal_voiced": 0.48872180451127817,
+  "song_length": 290.147
+ }
+}

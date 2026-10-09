@@ -1,0 +1,32 @@
+{
+ "id": "behemoth/1618282780-105",
+ "band": "behemoth",
+ "title": "Neo-Spartacvs",
+ "source": "itunes",
+ "album": "Opvs Contra Natvram",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.4999848829334366,
+  "tempo_var": 6.071109207400166,
+  "low_onset_rate": 3.499978836106811,
+  "lufs": -7.353205365040984,
+  "rms_dbfs": -7.022201285634786,
+  "crest": 7.022200584411621,
+  "centroid": 2222.709167486266,
+  "flatness": 0.034648600965738297,
+  "sub100_share": 0.22105640172958374,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.7408198118209839,
+  "clean_share": 0.17633410672853828,
+  "minor_share": 0.0855533054181109,
+  "chord_rate": 2.23331982875387,
+  "repetitiveness": 0.8944879174232483,
+  "vocal_share": 0.1721039116382599,
+  "vocal_voiced": 0.17735042735042736,
+  "song_length": 258.16
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "bucium/1656020532-108",
+ "band": "bucium",
+ "title": "Nirwana",
+ "source": "itunes",
+ "album": "Zimbrul Alb / White Wisent",
+ "year": 2022,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.544077001406197,
+  "tempo_var": 15.788601010101107,
+  "low_onset_rate": 6.682466178538525,
+  "lufs": -9.164075471252412,
+  "rms_dbfs": -8.242985989102657,
+  "crest": 8.242985725402832,
+  "centroid": 2556.8096926942562,
+  "flatness": 0.032402247190475464,
+  "sub100_share": 0.45838919281959534,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7971441149711609,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": -0.017818252167045634,
+  "chord_rate": 2.3054508315957913,
+  "repetitiveness": 0.8555538058280945,
+  "vocal_share": 0.12901310622692108,
+  "vocal_voiced": 0.3054989816700611,
+  "song_length": 473.693
+ }
+}

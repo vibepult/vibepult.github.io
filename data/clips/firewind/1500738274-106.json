@@ -1,0 +1,32 @@
+{
+ "id": "firewind/1500738274-106",
+ "band": "firewind",
+ "title": "Longing to Know You",
+ "source": "itunes",
+ "album": "Firewind",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 2.606161809630025,
+  "tempo_var": 9.787782874248228,
+  "low_onset_rate": 5.847157906221209,
+  "lufs": -10.606204908375874,
+  "rms_dbfs": -10.979653901510424,
+  "crest": 10.979653358459473,
+  "centroid": 3049.2188238788985,
+  "flatness": 0.035207998007535934,
+  "sub100_share": 0.0848289504647255,
+  "lowest_pitch": 148.040771484375,
+  "harmonic_share": 0.8449894785881042,
+  "clean_share": 0.05663304887509697,
+  "minor_share": 0.16855409061607318,
+  "chord_rate": 1.1026069194588566,
+  "repetitiveness": 0.5951090455055237,
+  "vocal_share": 0.5480703711509705,
+  "vocal_voiced": 0.7056514913657771,
+  "song_length": 268.36
+ }
+}

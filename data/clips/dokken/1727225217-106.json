@@ -1,0 +1,32 @@
+{
+ "id": "dokken/1727225217-106",
+ "band": "dokken",
+ "title": "Mr. Scary",
+ "source": "itunes",
+ "album": "Back for the Attack",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.7666438902863777,
+  "tempo_var": 18.137736279135506,
+  "low_onset_rate": 4.699971579914861,
+  "lufs": -13.744619110478494,
+  "rms_dbfs": -13.90275168676271,
+  "crest": 13.902751922607422,
+  "centroid": 2640.2111471918884,
+  "flatness": 0.033300869166851044,
+  "sub100_share": 0.27752190828323364,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.6984675526618958,
+  "clean_share": 0.02320185614849188,
+  "minor_share": 0.05911266286998301,
+  "chord_rate": 2.1666535652089784,
+  "repetitiveness": 0.9174812436103821,
+  "vocal_share": 1.1268472007941455e-05,
+  "vocal_voiced": 0.0,
+  "song_length": 268.867
+ }
+}

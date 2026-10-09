@@ -1,0 +1,32 @@
+{
+ "id": "ankhara/1707578482-105",
+ "band": "ankhara",
+ "title": "Tu Revolución",
+ "source": "itunes",
+ "album": "Premonición",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 7.43310859837949,
+  "tempo_var": 13.670636016387771,
+  "low_onset_rate": 8.066422783891642,
+  "lufs": -7.5150063270055,
+  "rms_dbfs": -5.575943280902102,
+  "crest": 5.5759429931640625,
+  "centroid": 2339.1967112569696,
+  "flatness": 0.019473187625408173,
+  "sub100_share": 0.5867368578910828,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8264207243919373,
+  "clean_share": 0.10054137664346481,
+  "minor_share": 0.13903022260570264,
+  "chord_rate": 1.6332839521102913,
+  "repetitiveness": 0.9525664448738098,
+  "vocal_share": 0.09509538859128952,
+  "vocal_voiced": 0.738933030646992,
+  "song_length": 252.565
+ }
+}

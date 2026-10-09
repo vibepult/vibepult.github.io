@@ -1,0 +1,32 @@
+{
+ "id": "amorphis/1776756675-106",
+ "band": "amorphis",
+ "title": "Heart of the Giant",
+ "source": "itunes",
+ "album": "Queen of Time (Deluxe Edition)",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 71.77734375,
+  "onset_rate": 1.7666666666666666,
+  "tempo_var": 24.103503158741052,
+  "low_onset_rate": 3.9,
+  "lufs": -9.667296346105461,
+  "rms_dbfs": -9.689245578682339,
+  "crest": 9.68924617767334,
+  "centroid": 2008.277568933623,
+  "flatness": 0.01600317470729351,
+  "sub100_share": 0.29750388860702515,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.8241721391677856,
+  "clean_share": 0.2453560371517028,
+  "minor_share": -0.030298577537868354,
+  "chord_rate": 1.5333333333333334,
+  "repetitiveness": 0.827221691608429,
+  "vocal_share": 5.598508323600981e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 392.902
+ }
+}

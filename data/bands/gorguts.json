@@ -1,0 +1,127 @@
+{
+ "slug": "gorguts",
+ "name": "Gorguts",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 109309091,
+  "deezer": 64114,
+  "spotify": "0Q4ioaeWOOlKFVPNdFvp9q"
+ },
+ "metadata": {
+  "formed": 1989,
+  "split": null,
+  "country": "CA",
+  "status": "active",
+  "members": 4,
+  "past_members": 12,
+  "full_lengths": 5,
+  "genre": "Death Metal (early); Technical/Avant-garde Death Metal (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 14052,
+  "themes": "Death, Illness (early); Mysticism, Legends, History, Politics (later)",
+  "release_year": 1995
+ },
+ "partial": false,
+ "clips": [
+  "gorguts/214481095-106",
+  "gorguts/214469431-104",
+  "gorguts/1056456326-106",
+  "gorguts/1045382747-104",
+  "gorguts/680558618-105",
+  "gorguts/214481095-105",
+  "gorguts/214469431-105",
+  "gorguts/1056456326-107",
+  "gorguts/1045382747-105",
+  "gorguts/680558618-104",
+  "gorguts/214481095-107",
+  "gorguts/214469431-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 44.33306525735293
+  },
+  "onset_rate": {
+   "median": 4.911612641225816,
+   "iqr": 3.1966839208650537
+  },
+  "tempo_var": {
+   "median": 9.261821989662643,
+   "iqr": 9.711405686475668
+  },
+  "low_onset_rate": {
+   "median": 7.3507127963923775,
+   "iqr": 1.5286141383406884
+  },
+  "lufs": {
+   "median": -10.179582097701752,
+   "iqr": 1.9796925500197329
+  },
+  "rms_dbfs": {
+   "median": -9.728003043926709,
+   "iqr": 2.897947734014169
+  },
+  "crest": {
+   "median": 9.1830472946167,
+   "iqr": 2.1460187435150146
+  },
+  "centroid": {
+   "median": 2490.2212177985084,
+   "iqr": 692.5772045064609
+  },
+  "flatness": {
+   "median": 0.023896589875221252,
+   "iqr": 0.024731688346946612
+  },
+  "sub100_share": {
+   "median": 0.2888605147600174,
+   "iqr": 0.12858827970921993
+  },
+  "lowest_pitch": {
+   "median": 84.7869873046875,
+   "iqr": 71.533203125
+  },
+  "harmonic_share": {
+   "median": 0.8153126239776611,
+   "iqr": 0.07587143778800964
+  },
+  "clean_share": {
+   "median": 0.06788207913110939,
+   "iqr": 0.6076884185547152
+  },
+  "minor_share": {
+   "median": 0.07169816261813078,
+   "iqr": 0.1427465507529716
+  },
+  "chord_rate": {
+   "median": 2.472512486059254,
+   "iqr": 1.3731049677544487
+  },
+  "repetitiveness": {
+   "median": 0.9229587614536285,
+   "iqr": 0.18946416676044464
+  },
+  "vocal_share": {
+   "median": 0.1188964992761612,
+   "iqr": 0.08558720536530018
+  },
+  "vocal_voiced": {
+   "median": 0.2134935304990758,
+   "iqr": 0.17274753052979197
+  },
+  "song_length": {
+   "median": 289.8755,
+   "iqr": 72.19224999999994
+  },
+  "vocal_presence": {
+   "median": 0.5833333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

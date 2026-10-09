@@ -1,0 +1,32 @@
+{
+ "id": "church-of-misery/1456706270-104",
+ "band": "church-of-misery",
+ "title": "Green River",
+ "source": "itunes",
+ "album": "Master of Brutality",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 2.966666666666667,
+  "tempo_var": 0.7471099729843006,
+  "low_onset_rate": 7.9,
+  "lufs": -12.248199718815036,
+  "rms_dbfs": -11.093937230582267,
+  "crest": 10.070257186889648,
+  "centroid": 1211.5931371141844,
+  "flatness": 0.0028895882423967123,
+  "sub100_share": 0.24255774915218353,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7877670526504517,
+  "clean_share": 0.8668730650154799,
+  "minor_share": 0.152782769574127,
+  "chord_rate": 1.7,
+  "repetitiveness": 0.8278884887695312,
+  "vocal_share": 0.07433094829320908,
+  "vocal_voiced": 0.15806451612903225,
+  "song_length": 270.04
+ }
+}

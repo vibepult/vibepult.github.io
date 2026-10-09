@@ -1,0 +1,127 @@
+{
+ "slug": "myrkur",
+ "name": "Myrkur",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 293296859,
+  "deezer": 1697739,
+  "spotify": "3544ImlskUwZqWJTmqWUsa"
+ },
+ "metadata": {
+  "formed": 2013,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 1,
+  "past_members": 0,
+  "full_lengths": 4,
+  "genre": "Atmospheric Black/Post-Metal/Folk",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 36321,
+  "themes": "Death, Darkness, Folk songs, Paganism",
+  "release_year": 2018
+ },
+ "partial": false,
+ "clips": [
+  "myrkur/992506564-106",
+  "myrkur/1247992721-108",
+  "myrkur/1488542865-106",
+  "myrkur/1696872351-105",
+  "myrkur/992506564-107",
+  "myrkur/1247992721-107",
+  "myrkur/1488542865-107",
+  "myrkur/1696872351-104",
+  "myrkur/992506564-105",
+  "myrkur/1247992721-109",
+  "myrkur/1488542865-105",
+  "myrkur/1696872351-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 24.82231367098113
+  },
+  "onset_rate": {
+   "median": 2.719866067820718,
+   "iqr": 1.6499572946743055
+  },
+  "tempo_var": {
+   "median": 5.860896644436789,
+   "iqr": 13.606661682908811
+  },
+  "low_onset_rate": {
+   "median": 5.516583271605872,
+   "iqr": 1.602132934102701
+  },
+  "lufs": {
+   "median": -11.767362973743996,
+   "iqr": 4.891229846853804
+  },
+  "rms_dbfs": {
+   "median": -10.878633381644182,
+   "iqr": 5.077891885546474
+  },
+  "crest": {
+   "median": 10.878633975982666,
+   "iqr": 5.077892065048218
+  },
+  "centroid": {
+   "median": 1822.7848189772894,
+   "iqr": 1159.8093650462672
+  },
+  "flatness": {
+   "median": 0.011444213218055665,
+   "iqr": 0.02604324382264167
+  },
+  "sub100_share": {
+   "median": 0.23047583550214767,
+   "iqr": 0.1941020553931594
+  },
+  "lowest_pitch": {
+   "median": 61.907958984375,
+   "iqr": 53.16009521484375
+  },
+  "harmonic_share": {
+   "median": 0.8838259279727936,
+   "iqr": 0.11701725423336029
+  },
+  "clean_share": {
+   "median": 0.4865685954264111,
+   "iqr": 0.9152219734952813
+  },
+  "minor_share": {
+   "median": 0.08183956291472894,
+   "iqr": 0.2021873430573292
+  },
+  "chord_rate": {
+   "median": 1.0333333333333332,
+   "iqr": 0.18535873087084598
+  },
+  "repetitiveness": {
+   "median": 0.7136780023574829,
+   "iqr": 0.14734043180942535
+  },
+  "vocal_share": {
+   "median": 0.23496948927640915,
+   "iqr": 0.2596542611718178
+  },
+  "vocal_voiced": {
+   "median": 0.9144234070182247,
+   "iqr": 0.12022205368034844
+  },
+  "song_length": {
+   "median": 221.716,
+   "iqr": 48.9785
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.6,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

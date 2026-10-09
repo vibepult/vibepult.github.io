@@ -1,0 +1,32 @@
+{
+ "id": "death/413554238-109",
+ "band": "death",
+ "title": "Painkiller",
+ "source": "itunes",
+ "album": "The Sound of Perseverance (Reissue)",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.299919880273919,
+  "tempo_var": 1.0116541561757468,
+  "low_onset_rate": 8.533204335535366,
+  "lufs": -6.295335223980553,
+  "rms_dbfs": -6.207544298009076,
+  "crest": 6.207544326782227,
+  "centroid": 2578.5705040196485,
+  "flatness": 0.040110912173986435,
+  "sub100_share": 0.2613835036754608,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.6471955180168152,
+  "clean_share": 0.0,
+  "minor_share": -0.1963409699496208,
+  "chord_rate": 1.3666460068630861,
+  "repetitiveness": 0.9341818690299988,
+  "vocal_share": 0.2237774133682251,
+  "vocal_voiced": 0.0688550840672538,
+  "song_length": 362.347
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "dream-theater",
+ "name": "Dream Theater",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 730091,
+  "deezer": 828,
+  "spotify": "2aaLAng2L2aWD2FClzwiep"
+ },
+ "metadata": {
+  "formed": 1988,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 4,
+  "full_lengths": 16,
+  "genre": "Progressive Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 592896,
+  "themes": "Introspection, Disorders, Philosophy, Emotions, Addiction, Spirituality",
+  "release_year": 2002
+ },
+ "partial": false,
+ "clips": [
+  "dream-theater/1443459891-104",
+  "dream-theater/282703578-104",
+  "dream-theater/282819302-106",
+  "dream-theater/219377752-106",
+  "dream-theater/282694467-107",
+  "dream-theater/282703295-107",
+  "dream-theater/3631486-104",
+  "dream-theater/65615441-104",
+  "dream-theater/1069556666-104",
+  "dream-theater/1069558259-103",
+  "dream-theater/541528608-105",
+  "dream-theater/676891642-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 110.00658118206522,
+   "iqr": 33.49609375
+  },
+  "onset_rate": {
+   "median": 3.3997653060885926,
+   "iqr": 2.4997911514777464
+  },
+  "tempo_var": {
+   "median": 13.964972960690735,
+   "iqr": 17.38582606140052
+  },
+  "low_onset_rate": {
+   "median": 4.388331221182032,
+   "iqr": 1.3321654259003322
+  },
+  "lufs": {
+   "median": -13.454338724945032,
+   "iqr": 6.396822563502111
+  },
+  "rms_dbfs": {
+   "median": -12.772029647575984,
+   "iqr": 6.979399308583579
+  },
+  "crest": {
+   "median": 12.772029399871826,
+   "iqr": 6.197568416595459
+  },
+  "centroid": {
+   "median": 2354.754775910541,
+   "iqr": 403.45576798654656
+  },
+  "flatness": {
+   "median": 0.023381846956908703,
+   "iqr": 0.013241533422842622
+  },
+  "sub100_share": {
+   "median": 0.2392783686518669,
+   "iqr": 0.1310631949454546
+  },
+  "lowest_pitch": {
+   "median": 60.5621337890625,
+   "iqr": 22.8790283203125
+  },
+  "harmonic_share": {
+   "median": 0.8397151231765747,
+   "iqr": 0.13203056156635284
+  },
+  "clean_share": {
+   "median": 0.18406805877803556,
+   "iqr": 0.3316713436376694
+  },
+  "minor_share": {
+   "median": -0.0837803999690212,
+   "iqr": 0.2468253154723408
+  },
+  "chord_rate": {
+   "median": 1.0499275965736836,
+   "iqr": 0.7653210333299746
+  },
+  "repetitiveness": {
+   "median": 0.7428993284702301,
+   "iqr": 0.18265235424041748
+  },
+  "vocal_share": {
+   "median": 0.2621515691280365,
+   "iqr": 0.15462608635425568
+  },
+  "vocal_voiced": {
+   "median": 0.8683565004088307,
+   "iqr": 0.09982305468041952
+  },
+  "song_length": {
+   "median": 340.5335,
+   "iqr": 211.79975000000002
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.0,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

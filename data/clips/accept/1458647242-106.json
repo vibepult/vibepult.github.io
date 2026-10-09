@@ -1,0 +1,32 @@
+{
+ "id": "accept/1458647242-106",
+ "band": "accept",
+ "title": "Wanna Be Free",
+ "source": "itunes",
+ "album": "Blind Rage",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 78.30255681818181,
+  "onset_rate": 3.1407591039131066,
+  "tempo_var": 21.958840276146034,
+  "low_onset_rate": 4.310190685157349,
+  "lufs": -25.191132066058625,
+  "rms_dbfs": -24.672879871002156,
+  "crest": 21.363021850585938,
+  "centroid": 1278.2367379588773,
+  "flatness": 0.0015067245112732053,
+  "sub100_share": 0.02768164686858654,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.9346802234649658,
+  "clean_share": 0.9208688906128782,
+  "minor_share": 0.18589586458724694,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.7121665477752686,
+  "vocal_share": 1.1095505669800332e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 337.24
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "caliban/1045282259-106",
+ "band": "caliban",
+ "title": "Davy Jones",
+ "source": "itunes",
+ "album": "I Am Nemesis",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.06472544223689,
+  "tempo_var": 21.143568395638543,
+  "low_onset_rate": 1.6989238864574063,
+  "lufs": -7.305868884640364,
+  "rms_dbfs": -7.115899219933396,
+  "crest": 7.115898609161377,
+  "centroid": 2889.2646208983792,
+  "flatness": 0.057213034480810165,
+  "sub100_share": 0.3918754756450653,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7935441136360168,
+  "clean_share": 0.0,
+  "minor_share": 0.24283627856277457,
+  "chord_rate": 1.3324893227116912,
+  "repetitiveness": 0.8431467413902283,
+  "vocal_share": 0.14464616775512695,
+  "vocal_voiced": 0.40825035561877665,
+  "song_length": 245.573
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "insomnium/1660171797-104",
+ "band": "insomnium",
+ "title": "The Harrowing Years",
+ "source": "itunes",
+ "album": "Across the Dark",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.8333333333333335,
+  "tempo_var": 2.193085582740792,
+  "low_onset_rate": 4.066666666666666,
+  "lufs": -8.42725557575901,
+  "rms_dbfs": -8.316865350946076,
+  "crest": 8.316865921020508,
+  "centroid": 2536.508009376539,
+  "flatness": 0.029499957337975502,
+  "sub100_share": 0.2579061985015869,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8017871379852295,
+  "clean_share": 0.03637770897832817,
+  "minor_share": -0.1257415775416556,
+  "chord_rate": 0.7333333333333333,
+  "repetitiveness": 0.7523824572563171,
+  "vocal_share": 0.01898282766342163,
+  "vocal_voiced": 0.0,
+  "song_length": 399.733
+ }
+}

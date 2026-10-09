@@ -1,0 +1,32 @@
+{
+ "id": "alestorm/1502472629-106",
+ "band": "alestorm",
+ "title": "Call of the Waves",
+ "source": "itunes",
+ "album": "Curse of the Crystal Coconut",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 2.4999848829334366,
+  "tempo_var": 3.751047685892343,
+  "low_onset_rate": 3.2666469136996903,
+  "lufs": -10.194721940582259,
+  "rms_dbfs": -9.217790855179564,
+  "crest": 9.217790603637695,
+  "centroid": 2505.486925483685,
+  "flatness": 0.029094118624925613,
+  "sub100_share": 0.48233211040496826,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8356080055236816,
+  "clean_share": 0.0,
+  "minor_share": 0.10975847901676661,
+  "chord_rate": 1.866655379256966,
+  "repetitiveness": 0.8560786843299866,
+  "vocal_share": 0.007780010346323252,
+  "vocal_voiced": 0.3333333333333333,
+  "song_length": 305.215
+ }
+}

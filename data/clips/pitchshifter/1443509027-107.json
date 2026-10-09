@@ -1,0 +1,32 @@
+{
+ "id": "pitchshifter/1443509027-107",
+ "band": "pitchshifter",
+ "title": "Dead Battery",
+ "source": "itunes",
+ "album": "Deviant",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.677726324976968,
+  "tempo_var": 27.678498109822492,
+  "low_onset_rate": 3.4414700819473403,
+  "lufs": -8.706364425437028,
+  "rms_dbfs": -8.141921250151041,
+  "crest": 8.141921043395996,
+  "centroid": 2479.6601814218893,
+  "flatness": 0.03749069198966026,
+  "sub100_share": 0.3243190050125122,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.6389904022216797,
+  "clean_share": 0.027928626842513578,
+  "minor_share": 0.039815855470986594,
+  "chord_rate": 2.572749478737332,
+  "repetitiveness": 0.9218029975891113,
+  "vocal_share": 0.1828322857618332,
+  "vocal_voiced": 0.6788321167883211,
+  "song_length": 224.733
+ }
+}

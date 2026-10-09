@@ -1,0 +1,32 @@
+{
+ "id": "edenbridge/1708331466-106",
+ "band": "edenbridge",
+ "title": "Color My Sky",
+ "source": "itunes",
+ "album": "Arcana (The Definitive Edition)",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 7.533219452464816,
+  "tempo_var": 4.905712030540426,
+  "low_onset_rate": 8.433205847228312,
+  "lufs": -10.219852371967008,
+  "rms_dbfs": -9.712091051319407,
+  "crest": 9.712091445922852,
+  "centroid": 2577.1632748173115,
+  "flatness": 0.030120737850666046,
+  "sub100_share": 0.41887587308883667,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8472622036933899,
+  "clean_share": 0.03634957463263728,
+  "minor_share": 0.024680807414600603,
+  "chord_rate": 1.8666384483983613,
+  "repetitiveness": 0.9121280312538147,
+  "vocal_share": 0.17014765739440918,
+  "vocal_voiced": 0.8792650918635171,
+  "song_length": 274.25
+ }
+}

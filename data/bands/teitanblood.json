@@ -1,0 +1,127 @@
+{
+ "slug": "teitanblood",
+ "name": "Teitanblood",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 370399200,
+  "deezer": 6298864,
+  "spotify": "7LPrGEbf01106GJ14w6yhW"
+ },
+ "metadata": {
+  "formed": 2003,
+  "split": null,
+  "country": "ES",
+  "status": "active",
+  "members": 2,
+  "past_members": 4,
+  "full_lengths": 4,
+  "genre": "Death/Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 1026,
+  "themes": "Darkness, Evil, Occultism, Abominations",
+  "release_year": 2016
+ },
+ "partial": false,
+ "clips": [
+  "teitanblood/1434610858-106",
+  "teitanblood/1434450308-104",
+  "teitanblood/1482838282-105",
+  "teitanblood/1800275345-103",
+  "teitanblood/1434610858-107",
+  "teitanblood/1434450308-103",
+  "teitanblood/1482838282-104",
+  "teitanblood/1800275345-105",
+  "teitanblood/1434610858-108",
+  "teitanblood/1434450308-105",
+  "teitanblood/1482838282-108",
+  "teitanblood/1800275345-102"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 25.540908359553782
+  },
+  "onset_rate": {
+   "median": 6.131162718809097,
+   "iqr": 3.1025654870165864
+  },
+  "tempo_var": {
+   "median": 8.50796885260154,
+   "iqr": 2.9096214005465963
+  },
+  "low_onset_rate": {
+   "median": 7.985547083353537,
+   "iqr": 1.7502122131695454
+  },
+  "lufs": {
+   "median": -9.725016746017173,
+   "iqr": 0.835109444871609
+  },
+  "rms_dbfs": {
+   "median": -9.916810984384345,
+   "iqr": 1.6380985111040527
+  },
+  "crest": {
+   "median": 9.916810989379883,
+   "iqr": 1.6380982398986816
+  },
+  "centroid": {
+   "median": 2529.393182246324,
+   "iqr": 360.54781905596155
+  },
+  "flatness": {
+   "median": 0.027929690666496754,
+   "iqr": 0.018961158581078053
+  },
+  "sub100_share": {
+   "median": 0.19737280160188675,
+   "iqr": 0.13338184542953968
+  },
+  "lowest_pitch": {
+   "median": 88.824462890625,
+   "iqr": 60.5621337890625
+  },
+  "harmonic_share": {
+   "median": 0.8029606640338898,
+   "iqr": 0.13364432752132416
+  },
+  "clean_share": {
+   "median": 0.0023273855702094647,
+   "iqr": 0.03277734678044996
+  },
+  "minor_share": {
+   "median": -0.0269096426417835,
+   "iqr": 0.08638296995047434
+  },
+  "chord_rate": {
+   "median": 1.8999655335050614,
+   "iqr": 1.3538561195904015
+  },
+  "repetitiveness": {
+   "median": 0.9457859694957733,
+   "iqr": 0.05838300287723541
+  },
+  "vocal_share": {
+   "median": 0.05817319080233574,
+   "iqr": 0.03319129254668951
+  },
+  "vocal_voiced": {
+   "median": 0.405203748165933,
+   "iqr": 0.23314455340023577
+  },
+  "song_length": {
+   "median": 366.4065,
+   "iqr": 228.12974999999994
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.6,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

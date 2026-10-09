@@ -1,0 +1,127 @@
+{
+ "slug": "crystal-lake",
+ "name": "Crystal Lake",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1186055175,
+  "deezer": 373651,
+  "spotify": "0A7d0PJxaLO7CGI94ht6PX"
+ },
+ "metadata": {
+  "formed": 2002,
+  "split": null,
+  "country": "JP",
+  "status": "active",
+  "members": 5,
+  "past_members": 8,
+  "full_lengths": 7,
+  "genre": "Metalcore",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 18656,
+  "themes": "Personal struggles, Society, Hate (early); Life, Rebellion, Science fiction (later)",
+  "release_year": 2019
+ },
+ "partial": false,
+ "clips": [
+  "crystal-lake/1445223849-106",
+  "crystal-lake/1526473518-105",
+  "crystal-lake/1445223849-108",
+  "crystal-lake/1526473518-104",
+  "crystal-lake/1445223849-105",
+  "crystal-lake/1526473518-106",
+  "crystal-lake/1445223849-109",
+  "crystal-lake/1526473518-103",
+  "crystal-lake/1445223849-104",
+  "crystal-lake/1526473518-107",
+  "crystal-lake/1445223849-110",
+  "crystal-lake/1526473518-102"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 143.99912925696594,
+   "iqr": 54.90966796875
+  },
+  "onset_rate": {
+   "median": 4.627607828637929,
+   "iqr": 3.595189109112082
+  },
+  "tempo_var": {
+   "median": 14.055948575130795,
+   "iqr": 12.328111243742025
+  },
+  "low_onset_rate": {
+   "median": 5.4730883389812295,
+   "iqr": 4.717830981530515
+  },
+  "lufs": {
+   "median": -8.700750056773852,
+   "iqr": 0.7327440487622479
+  },
+  "rms_dbfs": {
+   "median": -7.933632705244273,
+   "iqr": 1.006348332776021
+  },
+  "crest": {
+   "median": 7.9336326122283936,
+   "iqr": 1.0063490867614746
+  },
+  "centroid": {
+   "median": 2366.0743726685832,
+   "iqr": 256.24552929285846
+  },
+  "flatness": {
+   "median": 0.02962911408394575,
+   "iqr": 0.020467011723667383
+  },
+  "sub100_share": {
+   "median": 0.5330991446971893,
+   "iqr": 0.07513502240180969
+  },
+  "lowest_pitch": {
+   "median": 56.524658203125,
+   "iqr": 12.1124267578125
+  },
+  "harmonic_share": {
+   "median": 0.8306633532047272,
+   "iqr": 0.06444719433784485
+  },
+  "clean_share": {
+   "median": 0.04809930178432893,
+   "iqr": 0.19856201891548272
+  },
+  "minor_share": {
+   "median": 0.01861014878827491,
+   "iqr": 0.1776540609410857
+  },
+  "chord_rate": {
+   "median": 1.71863626428713,
+   "iqr": 1.0318025018810695
+  },
+  "repetitiveness": {
+   "median": 0.8845968544483185,
+   "iqr": 0.14085854589939117
+  },
+  "vocal_share": {
+   "median": 0.10122093558311462,
+   "iqr": 0.07778286561369896
+  },
+  "vocal_voiced": {
+   "median": 0.2018970189701897,
+   "iqr": 0.36894566553000496
+  },
+  "song_length": {
+   "median": 223.5355,
+   "iqr": 75.31825000000003
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

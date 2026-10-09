@@ -1,0 +1,127 @@
+{
+ "slug": "shade-empire",
+ "name": "Shade Empire",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 219098445,
+  "deezer": 112844,
+  "spotify": "7vdH23uIvKDe36XYLQZTeH"
+ },
+ "metadata": {
+  "formed": 1999,
+  "split": null,
+  "country": "FI",
+  "status": "active",
+  "members": 5,
+  "past_members": 5,
+  "full_lengths": 6,
+  "genre": "Symphonic Industrial Death/Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 4714,
+  "themes": "Anti-religion, Death, Destruction, Hatred, Pain, Post-apocalyptic",
+  "release_year": 2007
+ },
+ "partial": false,
+ "clips": [
+  "shade-empire/1740134751-105",
+  "shade-empire/1166856427-105",
+  "shade-empire/1166864664-105",
+  "shade-empire/1660558759-106",
+  "shade-empire/1660574365-104",
+  "shade-empire/1740134751-104",
+  "shade-empire/1166856427-104",
+  "shade-empire/1166864664-104",
+  "shade-empire/1660558759-105",
+  "shade-empire/1660574365-103",
+  "shade-empire/1740134751-106",
+  "shade-empire/1166856427-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 112.55992542613637,
+   "iqr": 23.148970170454547
+  },
+  "onset_rate": {
+   "median": 6.181281215148136,
+   "iqr": 3.067957333011953
+  },
+  "tempo_var": {
+   "median": 12.789385055043432,
+   "iqr": 7.729432961231914
+  },
+  "low_onset_rate": {
+   "median": 6.541134540303815,
+   "iqr": 2.022893827415272
+  },
+  "lufs": {
+   "median": -8.391094282608062,
+   "iqr": 1.1454394279886362
+  },
+  "rms_dbfs": {
+   "median": -8.238690317299685,
+   "iqr": 0.7227727157226305
+  },
+  "crest": {
+   "median": 8.23868989944458,
+   "iqr": 0.7227729558944702
+  },
+  "centroid": {
+   "median": 2531.53297762448,
+   "iqr": 497.0263655648823
+  },
+  "flatness": {
+   "median": 0.03717467561364174,
+   "iqr": 0.024373259861022234
+  },
+  "sub100_share": {
+   "median": 0.3840724974870682,
+   "iqr": 0.05284678190946579
+  },
+  "lowest_pitch": {
+   "median": 44.4122314453125,
+   "iqr": 11.43951416015625
+  },
+  "harmonic_share": {
+   "median": 0.7918224036693573,
+   "iqr": 0.0783756673336029
+  },
+  "clean_share": {
+   "median": 0.0065942591155934835,
+   "iqr": 0.09369781907352175
+  },
+  "minor_share": {
+   "median": 0.15259221922860072,
+   "iqr": 0.21861924044591297
+  },
+  "chord_rate": {
+   "median": 1.2028439121369345,
+   "iqr": 0.8322195066276902
+  },
+  "repetitiveness": {
+   "median": 0.8804084658622742,
+   "iqr": 0.11658866703510284
+  },
+  "vocal_share": {
+   "median": 0.07940085977315903,
+   "iqr": 0.046139903366565704
+  },
+  "vocal_voiced": {
+   "median": 0.14123581336696092,
+   "iqr": 0.19769511179999424
+  },
+  "song_length": {
+   "median": 283.64700000000005,
+   "iqr": 87.35975000000002
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

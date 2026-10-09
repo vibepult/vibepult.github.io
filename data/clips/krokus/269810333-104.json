@@ -1,0 +1,32 @@
+{
+ "id": "krokus/269810333-104",
+ "band": "krokus",
+ "title": "Ready to Burn",
+ "source": "itunes",
+ "album": "Head Hunter",
+ "year": 1983,
+ "itunes_year": 1983,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 3.8309068027961124,
+  "tempo_var": 25.51646361644198,
+  "low_onset_rate": 5.629767388456895,
+  "lufs": -16.753451967455195,
+  "rms_dbfs": -17.07248257659561,
+  "crest": 15.88776683807373,
+  "centroid": 2375.0205393244237,
+  "flatness": 0.024417957291007042,
+  "sub100_share": 0.17050790786743164,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.6512265801429749,
+  "clean_share": 0.026295436968290797,
+  "minor_share": -0.10743609930814735,
+  "chord_rate": 1.065991458169353,
+  "repetitiveness": 0.9159640669822693,
+  "vocal_share": 0.23542019724845886,
+  "vocal_voiced": 0.5514450867052023,
+  "song_length": 234.077
+ }
+}

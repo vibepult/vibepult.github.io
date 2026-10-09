@@ -1,0 +1,32 @@
+{
+ "id": "viikate/1536714928-109",
+ "band": "viikate",
+ "title": "He eivät hengitä",
+ "source": "itunes",
+ "album": "Unholan Urut",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.3412330892692625,
+  "tempo_var": 1.516566920708188,
+  "low_onset_rate": 7.3173004654996845,
+  "lufs": -8.9170936432783,
+  "rms_dbfs": -8.260616714409599,
+  "crest": 8.26061725616455,
+  "centroid": 2090.6322733219445,
+  "flatness": 0.014981751330196857,
+  "sub100_share": 0.27428165078163147,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8906435370445251,
+  "clean_share": 0.06361520558572537,
+  "minor_share": 0.1073984733997817,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.7347390651702881,
+  "vocal_share": 5.443607165034337e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 336.333
+ }
+}

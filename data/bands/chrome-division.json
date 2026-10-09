@@ -1,0 +1,127 @@
+{
+ "slug": "chrome-division",
+ "name": "Chrome Division",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1450536432,
+  "deezer": 65418,
+  "spotify": "6TAx6kjVHAO3dkPPQwlQoP"
+ },
+ "metadata": {
+  "formed": 2004,
+  "split": null,
+  "country": "NO",
+  "status": "active",
+  "members": 4,
+  "past_members": 6,
+  "full_lengths": 5,
+  "genre": "Heavy Metal/Hard Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 8073,
+  "themes": "Beer, Women, Harleys",
+  "release_year": 2009
+ },
+ "partial": false,
+ "clips": [
+  "chrome-division/1460470486-107",
+  "chrome-division/1456963491-107",
+  "chrome-division/1456944391-105",
+  "chrome-division/1458639696-107",
+  "chrome-division/1458865116-107",
+  "chrome-division/1460470486-106",
+  "chrome-division/1456963491-108",
+  "chrome-division/1456944391-106",
+  "chrome-division/1458639696-108",
+  "chrome-division/1458865116-106",
+  "chrome-division/1460470486-108",
+  "chrome-division/1456963491-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 136.376953125,
+   "iqr": 25.293842910805623
+  },
+  "onset_rate": {
+   "median": 2.6061618096300245,
+   "iqr": 2.7982827122630076
+  },
+  "tempo_var": {
+   "median": 13.497235957542943,
+   "iqr": 7.758308799301026
+  },
+  "low_onset_rate": {
+   "median": 2.7899296295398344,
+   "iqr": 1.9629744399456914
+  },
+  "lufs": {
+   "median": -10.60298530511503,
+   "iqr": 2.1867608755420953
+  },
+  "rms_dbfs": {
+   "median": -9.741248162597099,
+   "iqr": 1.8853625898958288
+  },
+  "crest": {
+   "median": 9.741248607635498,
+   "iqr": 1.8853628635406494
+  },
+  "centroid": {
+   "median": 2378.71705358881,
+   "iqr": 427.32825983861994
+  },
+  "flatness": {
+   "median": 0.02975599095225334,
+   "iqr": 0.024981492199003696
+  },
+  "sub100_share": {
+   "median": 0.3612779527902603,
+   "iqr": 0.17561816424131393
+  },
+  "lowest_pitch": {
+   "median": 45.758056640625,
+   "iqr": 49.7955322265625
+  },
+  "harmonic_share": {
+   "median": 0.7540210485458374,
+   "iqr": 0.09008908271789551
+  },
+  "clean_share": {
+   "median": 0.221877424359969,
+   "iqr": 0.3345616757176106
+  },
+  "minor_share": {
+   "median": 0.027111503560774797,
+   "iqr": 0.24019133761208736
+  },
+  "chord_rate": {
+   "median": 1.937915191776172,
+   "iqr": 0.9856637613344323
+  },
+  "repetitiveness": {
+   "median": 0.8655566573143005,
+   "iqr": 0.06588838994503021
+  },
+  "vocal_share": {
+   "median": 0.068604476749897,
+   "iqr": 0.07497339975088835
+  },
+  "vocal_voiced": {
+   "median": 0.4398976982097187,
+   "iqr": 0.23620169992757512
+  },
+  "song_length": {
+   "median": 237.8535,
+   "iqr": 54.199749999999995
+  },
+  "vocal_presence": {
+   "median": 0.5833333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.6,
+  "camp": 0.6
+ },
+ "sources_failed": []
+}

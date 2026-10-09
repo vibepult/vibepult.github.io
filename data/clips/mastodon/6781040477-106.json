@@ -1,0 +1,32 @@
+{
+ "id": "mastodon/6781040477-106",
+ "band": "mastodon",
+ "title": "In the Ruins",
+ "source": "itunes",
+ "album": "Marrow Deep",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 5.96527792471594,
+  "tempo_var": 2.842170943040401e-14,
+  "low_onset_rate": 7.998137999619137,
+  "lufs": -8.60448623265889,
+  "rms_dbfs": -7.939326520282112,
+  "crest": 7.939326286315918,
+  "centroid": 2715.180981666137,
+  "flatness": 0.044237278401851654,
+  "sub100_share": 0.40824052691459656,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7655977606773376,
+  "clean_share": 0.0007733952049497294,
+  "minor_share": 0.00039314928441680497,
+  "chord_rate": 2.0328600749031973,
+  "repetitiveness": 0.895071804523468,
+  "vocal_share": 0.1725500077009201,
+  "vocal_voiced": 0.8480565371024735,
+  "song_length": 337.504
+ }
+}

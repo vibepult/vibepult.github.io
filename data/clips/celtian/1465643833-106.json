@@ -1,0 +1,32 @@
+{
+ "id": "celtian/1465643833-106",
+ "band": "celtian",
+ "title": "Mirada de Fuego",
+ "source": "itunes",
+ "album": "En Tierra de Hadas",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.076304368908501,
+  "tempo_var": 11.933081047079202,
+  "low_onset_rate": 3.7755933908742665,
+  "lufs": -8.008311120660753,
+  "rms_dbfs": -7.58080457836237,
+  "crest": 7.580804824829102,
+  "centroid": 2592.146243924409,
+  "flatness": 0.024150587618350983,
+  "sub100_share": 0.24980804324150085,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8243302702903748,
+  "clean_share": 0.12490302560124127,
+  "minor_share": 0.002139874026107713,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.7594082355499268,
+  "vocal_share": 0.20465627312660217,
+  "vocal_voiced": 0.8845401174168297,
+  "song_length": 230.341
+ }
+}

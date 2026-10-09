@@ -1,0 +1,32 @@
+{
+ "id": "anvil/282833091-105",
+ "band": "anvil",
+ "title": "Bedroom Game",
+ "source": "itunes",
+ "album": "Hard'N'Heavy",
+ "year": 1981,
+ "itunes_year": 1981,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.746920913543131,
+  "tempo_var": 16.696950827488298,
+  "low_onset_rate": 5.513034597294284,
+  "lufs": -8.740420415181763,
+  "rms_dbfs": -8.207838863524918,
+  "crest": 8.20783805847168,
+  "centroid": 2788.8040741863374,
+  "flatness": 0.04714900255203247,
+  "sub100_share": 0.29969194531440735,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7007447481155396,
+  "clean_share": 0.05818463925523662,
+  "minor_share": 0.159205317811634,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.8945721387863159,
+  "vocal_share": 0.047495175153017044,
+  "vocal_voiced": 0.37574850299401197,
+  "song_length": 240.387
+ }
+}

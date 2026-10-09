@@ -1,0 +1,32 @@
+{
+ "id": "gamma-ray/1643988439-107",
+ "band": "gamma-ray",
+ "title": "Solid",
+ "source": "itunes",
+ "album": "No World Order",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 6.599880274280738,
+  "tempo_var": 3.5857216898828823,
+  "low_onset_rate": 7.133203932808475,
+  "lufs": -6.985195253024876,
+  "rms_dbfs": -6.6807530480947355,
+  "crest": 6.680753231048584,
+  "centroid": 2563.781699663006,
+  "flatness": 0.041920412331819534,
+  "sub100_share": 0.22889108955860138,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7956710457801819,
+  "clean_share": 0.0,
+  "minor_share": 0.28677979733913095,
+  "chord_rate": 0.8666509451075718,
+  "repetitiveness": 0.8866097927093506,
+  "vocal_share": 0.2611965835094452,
+  "vocal_voiced": 0.7950617283950617,
+  "song_length": 263.947
+ }
+}

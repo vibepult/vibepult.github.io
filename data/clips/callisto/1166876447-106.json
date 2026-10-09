@@ -1,0 +1,32 @@
+{
+ "id": "callisto/1166876447-106",
+ "band": "callisto",
+ "title": "Caverns of Khafka",
+ "source": "itunes",
+ "album": "True Nature Unfolds",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 1.971327522668865,
+  "tempo_var": 14.956249213261803,
+  "low_onset_rate": 5.078674295689279,
+  "lufs": -9.335273293643521,
+  "rms_dbfs": -8.223678804717766,
+  "crest": 8.223678588867188,
+  "centroid": 2273.7461771985836,
+  "flatness": 0.017295172438025475,
+  "sub100_share": 0.5360490679740906,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.9034204483032227,
+  "clean_share": 0.06361520558572537,
+  "minor_share": 0.2349498922023554,
+  "chord_rate": 0.7684836105319304,
+  "repetitiveness": 0.6734050512313843,
+  "vocal_share": 0.004324228037148714,
+  "vocal_voiced": 1.0,
+  "song_length": 272.947
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "the-gathering/1045619491-104",
+ "band": "the-gathering",
+ "title": "Leaves",
+ "source": "itunes",
+ "album": "Mandylion",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.365168547813252,
+  "tempo_var": 3.040258305345405,
+  "low_onset_rate": 4.630400396423127,
+  "lufs": -9.21089008977532,
+  "rms_dbfs": -9.236009486670433,
+  "crest": 9.23600959777832,
+  "centroid": 2243.2412947943826,
+  "flatness": 0.017279425635933876,
+  "sub100_share": 0.16608041524887085,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8498876094818115,
+  "clean_share": 0.07037896365042537,
+  "minor_share": 0.12683893780104738,
+  "chord_rate": 1.532362721118445,
+  "repetitiveness": 0.8047084212303162,
+  "vocal_share": 0.3019544184207916,
+  "vocal_voiced": 0.9759336099585062,
+  "song_length": 361.173
+ }
+}

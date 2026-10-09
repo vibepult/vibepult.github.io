@@ -1,0 +1,32 @@
+{
+ "id": "dragonforce/1679680511-104",
+ "band": "dragonforce",
+ "title": "Dawn Over a New World",
+ "source": "itunes",
+ "album": "Sonic Firestorm",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.176541361586578,
+  "tempo_var": 25.893490961080573,
+  "low_onset_rate": 4.377015346942734,
+  "lufs": -11.166827427398342,
+  "rms_dbfs": -10.667753467027453,
+  "crest": 10.667753219604492,
+  "centroid": 2546.2168923450017,
+  "flatness": 0.01761993207037449,
+  "sub100_share": 0.1888657659292221,
+  "lowest_pitch": 115.740966796875,
+  "harmonic_share": 0.8683760762214661,
+  "clean_share": 0.13033359193173003,
+  "minor_share": -0.35600973828797233,
+  "chord_rate": 0.46777263249769674,
+  "repetitiveness": 0.6500599980354309,
+  "vocal_share": 0.25578153133392334,
+  "vocal_voiced": 0.9562899786780383,
+  "song_length": 312.6
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "anata/705762192-105",
+ "band": "anata",
+ "title": "Dreamon",
+ "source": "itunes",
+ "album": "Dreams of Death & Dismay",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 8.586969039422005,
+  "tempo_var": 6.693802024394132,
+  "low_onset_rate": 8.252845730495078,
+  "lufs": -6.951226611483599,
+  "rms_dbfs": -6.870035393267565,
+  "crest": 6.870035648345947,
+  "centroid": 2664.7685233181164,
+  "flatness": 0.037990469485521317,
+  "sub100_share": 0.353092223405838,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.7938650250434875,
+  "clean_share": 0.01008533747090768,
+  "minor_share": 0.09664383853023498,
+  "chord_rate": 2.7398111332007953,
+  "repetitiveness": 0.9332056045532227,
+  "vocal_share": 0.039427973330020905,
+  "vocal_voiced": 0.3264367816091954,
+  "song_length": 145.881
+ }
+}

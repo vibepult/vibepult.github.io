@@ -1,0 +1,32 @@
+{
+ "id": "nocturnus/564098882-105",
+ "band": "nocturnus",
+ "title": "Aquatica",
+ "source": "itunes",
+ "album": "Thresholds",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 6.047631891577365,
+  "tempo_var": 11.870390098306098,
+  "low_onset_rate": 5.813745575328517,
+  "lufs": -15.701994501380698,
+  "rms_dbfs": -16.02727155497355,
+  "crest": 16.027006149291992,
+  "centroid": 1852.3760721292917,
+  "flatness": 0.010953831486403942,
+  "sub100_share": 0.2041531652212143,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.8295285701751709,
+  "clean_share": 0.3770364623739333,
+  "minor_share": 0.008548229557829523,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.9296713471412659,
+  "vocal_share": 0.00016648064774926752,
+  "vocal_voiced": 1.0,
+  "song_length": 437.867
+ }
+}

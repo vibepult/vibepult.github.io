@@ -1,0 +1,32 @@
+{
+ "id": "fates-warning/56820449-104",
+ "band": "fates-warning",
+ "title": "In a Word",
+ "source": "itunes",
+ "album": "No Exit",
+ "year": 1988,
+ "itunes_year": 1988,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 2.840048125878873,
+  "tempo_var": 26.978124615950463,
+  "low_onset_rate": 4.4772523396208115,
+  "lufs": -20.463125744103987,
+  "rms_dbfs": -19.534179356305643,
+  "crest": 18.336389541625977,
+  "centroid": 2591.0576296593863,
+  "flatness": 0.02375638112425804,
+  "sub100_share": 0.310535728931427,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7877512574195862,
+  "clean_share": 0.1768813033359193,
+  "minor_share": 0.2647518928241468,
+  "chord_rate": 2.1718015080250206,
+  "repetitiveness": 0.7852408289909363,
+  "vocal_share": 0.1990152895450592,
+  "vocal_voiced": 0.8562271062271062,
+  "song_length": 265.36
+ }
+}

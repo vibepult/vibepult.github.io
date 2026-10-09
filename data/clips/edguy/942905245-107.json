@@ -1,0 +1,32 @@
+{
+ "id": "edguy/942905245-107",
+ "band": "edguy",
+ "title": "Fairytale",
+ "source": "itunes",
+ "album": "Vain Glory Opera",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 6.066556615753002,
+  "tempo_var": 0.0,
+  "low_onset_rate": 9.233165838261437,
+  "lufs": -8.598615998861495,
+  "rms_dbfs": -7.811221756532555,
+  "crest": 7.811222076416016,
+  "centroid": 2589.0452928066948,
+  "flatness": 0.04115104675292969,
+  "sub100_share": 0.3865872323513031,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8088899850845337,
+  "clean_share": 0.002320185614849188,
+  "minor_share": 0.14677652494867405,
+  "chord_rate": 1.9666309908210282,
+  "repetitiveness": 0.9019891619682312,
+  "vocal_share": 0.11361656337976456,
+  "vocal_voiced": 0.5022371364653244,
+  "song_length": 311.16
+ }
+}

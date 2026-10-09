@@ -1,0 +1,127 @@
+{
+ "slug": "lorihen",
+ "name": "Lörihen",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 721828804,
+  "deezer": 11098,
+  "spotify": "4HgUPVt7LhvdpUbZhmotgx"
+ },
+ "metadata": {
+  "formed": 1996,
+  "split": null,
+  "country": "AR",
+  "status": "active",
+  "members": 4,
+  "past_members": 14,
+  "full_lengths": 9,
+  "genre": "Heavy/Power Metal (early); Melodic Hard Rock/Heavy Metal (later)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 1851,
+  "themes": "Politics, Goodness, Social",
+  "release_year": 2011
+ },
+ "partial": false,
+ "clips": [
+  "lorihen/1336620532-105",
+  "lorihen/1336486480-106",
+  "lorihen/1434442529-106",
+  "lorihen/1434534550-106",
+  "lorihen/1382980020-106",
+  "lorihen/1721635409-105",
+  "lorihen/1744075900-104",
+  "lorihen/1336620532-106",
+  "lorihen/1336486480-107",
+  "lorihen/1434442529-105",
+  "lorihen/1434534550-105",
+  "lorihen/1382980020-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.32652698863637,
+   "iqr": 21.710891993447063
+  },
+  "onset_rate": {
+   "median": 4.321169527550146,
+   "iqr": 1.892634386768818
+  },
+  "tempo_var": {
+   "median": 3.18791172180711,
+   "iqr": 6.8322523915158415
+  },
+  "low_onset_rate": {
+   "median": 5.4401271234382325,
+   "iqr": 2.4767172877369923
+  },
+  "lufs": {
+   "median": -9.196460279621643,
+   "iqr": 1.3493598028061928
+  },
+  "rms_dbfs": {
+   "median": -8.525227853474401,
+   "iqr": 1.1975914379227337
+  },
+  "crest": {
+   "median": 8.525228023529053,
+   "iqr": 1.1975919008255005
+  },
+  "centroid": {
+   "median": 2395.2788712303445,
+   "iqr": 347.10075276779935
+  },
+  "flatness": {
+   "median": 0.021059694699943066,
+   "iqr": 0.010964633896946907
+  },
+  "sub100_share": {
+   "median": 0.3307390660047531,
+   "iqr": 0.21003003045916557
+  },
+  "lowest_pitch": {
+   "median": 51.141357421875,
+   "iqr": 8.074951171875
+  },
+  "harmonic_share": {
+   "median": 0.8190520703792572,
+   "iqr": 0.11747916042804718
+  },
+  "clean_share": {
+   "median": 0.08369040728046558,
+   "iqr": 0.23273855702094648
+  },
+  "minor_share": {
+   "median": 0.06016539145243721,
+   "iqr": 0.21304794048753212
+  },
+  "chord_rate": {
+   "median": 1.1848342869611599,
+   "iqr": 0.6088665668590085
+  },
+  "repetitiveness": {
+   "median": 0.8290075957775116,
+   "iqr": 0.14537665247917175
+  },
+  "vocal_share": {
+   "median": 0.19483181834220886,
+   "iqr": 0.14338688552379608
+  },
+  "vocal_voiced": {
+   "median": 0.6752,
+   "iqr": 0.08312048348642509
+  },
+  "song_length": {
+   "median": 270.72950000000003,
+   "iqr": 66.35199999999998
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

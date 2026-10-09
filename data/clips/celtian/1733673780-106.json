@@ -1,0 +1,32 @@
+{
+ "id": "celtian/1733673780-106",
+ "band": "celtian",
+ "title": "Hasta el Final",
+ "source": "itunes",
+ "album": "Secretos de Amor y Muerte",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 5.366666666666666,
+  "tempo_var": 22.812588676030952,
+  "low_onset_rate": 5.133333333333334,
+  "lufs": -10.728683466855603,
+  "rms_dbfs": -9.586938834273905,
+  "crest": 9.586938858032227,
+  "centroid": 2127.4252918573284,
+  "flatness": 0.012640231288969517,
+  "sub100_share": 0.43513575196266174,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.8117856383323669,
+  "clean_share": 0.20123839009287925,
+  "minor_share": -0.049193666372476796,
+  "chord_rate": 1.7666666666666666,
+  "repetitiveness": 0.8540083765983582,
+  "vocal_share": 0.0886538028717041,
+  "vocal_voiced": 0.6783555018137848,
+  "song_length": 243.04
+ }
+}

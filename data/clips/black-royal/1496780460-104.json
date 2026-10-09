@@ -1,0 +1,32 @@
+{
+ "id": "black-royal/1496780460-104",
+ "band": "black-royal",
+ "title": "All Them Witches",
+ "source": "itunes",
+ "album": "Firebride",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.878200310333123,
+  "tempo_var": 4.414070542808012,
+  "low_onset_rate": 8.052371745138922,
+  "lufs": -7.354290445100283,
+  "rms_dbfs": -6.352774704261591,
+  "crest": 6.352774620056152,
+  "centroid": 2258.6862706321895,
+  "flatness": 0.024964837357401848,
+  "sub100_share": 0.44229555130004883,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8159633874893188,
+  "clean_share": 0.027928626842513578,
+  "minor_share": 0.10520405717968606,
+  "chord_rate": 2.0047398535615577,
+  "repetitiveness": 0.8429973721504211,
+  "vocal_share": 0.06796739250421524,
+  "vocal_voiced": 0.1623686723973257,
+  "song_length": 281.293
+ }
+}

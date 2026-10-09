@@ -1,0 +1,32 @@
+{
+ "id": "kalmah/1785260201-105",
+ "band": "kalmah",
+ "title": "Serve the Untrue",
+ "source": "itunes",
+ "album": "Kalmah",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 6.1,
+  "tempo_var": 14.635091531872401,
+  "low_onset_rate": 8.1,
+  "lufs": -8.183659278114886,
+  "rms_dbfs": -7.887399889274755,
+  "crest": 7.8874006271362305,
+  "centroid": 2697.4317198114422,
+  "flatness": 0.04429207742214203,
+  "sub100_share": 0.28891924023628235,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.7380889654159546,
+  "clean_share": 0.0,
+  "minor_share": -0.12092195864740729,
+  "chord_rate": 1.3333333333333333,
+  "repetitiveness": 0.8646754622459412,
+  "vocal_share": 0.05898026376962662,
+  "vocal_voiced": 0.23838630806845965,
+  "song_length": 293.677
+ }
+}

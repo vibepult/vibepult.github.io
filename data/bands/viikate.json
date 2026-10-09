@@ -1,0 +1,124 @@
+{
+ "slug": "viikate",
+ "name": "Viikate",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 134743740,
+  "deezer": 186150,
+  "spotify": "7q12xW42JkVKEMFNQACZ3l"
+ },
+ "metadata": {
+  "formed": 1996,
+  "split": null,
+  "country": "FI",
+  "status": "active",
+  "members": 3,
+  "past_members": 1,
+  "full_lengths": 15,
+  "genre": "Melodic Heavy Metal with Schlager influences",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 6362,
+  "themes": "Finnish melancholy",
+  "release_year": 2005
+ },
+ "partial": false,
+ "clips": [
+  "viikate/1536714928-105",
+  "viikate/1536714928-104",
+  "viikate/1536714928-106",
+  "viikate/1536714928-103",
+  "viikate/1536714928-107",
+  "viikate/1536714928-102",
+  "viikate/1536714928-108",
+  "viikate/1536714928-101",
+  "viikate/1536714928-109"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 103.359375,
+   "iqr": 11.962890625
+  },
+  "onset_rate": {
+   "median": 4.276778354264656,
+   "iqr": 1.1026069194588564
+  },
+  "tempo_var": {
+   "median": 13.104811042126775,
+   "iqr": 6.7752071796317725
+  },
+  "low_onset_rate": {
+   "median": 7.3841251272850705,
+   "iqr": 1.436730228385783
+  },
+  "lufs": {
+   "median": -8.267191444300177,
+   "iqr": 0.8019384140572736
+  },
+  "rms_dbfs": {
+   "median": -7.4597629815847775,
+   "iqr": 0.9292683577281089
+  },
+  "crest": {
+   "median": 7.4597625732421875,
+   "iqr": 0.9292693138122559
+  },
+  "centroid": {
+   "median": 2136.463735442669,
+   "iqr": 220.1535113762029
+  },
+  "flatness": {
+   "median": 0.021525993943214417,
+   "iqr": 0.010109598748385906
+  },
+  "sub100_share": {
+   "median": 0.3222045302391052,
+   "iqr": 0.07062986493110657
+  },
+  "lowest_pitch": {
+   "median": 53.8330078125,
+   "iqr": 2.691650390625
+  },
+  "harmonic_share": {
+   "median": 0.8027715086936951,
+   "iqr": 0.09746450185775757
+  },
+  "clean_share": {
+   "median": 0.057408844065166796,
+   "iqr": 0.042668735453840194
+  },
+  "minor_share": {
+   "median": -0.04090191545527544,
+   "iqr": 0.18892596532546124
+  },
+  "chord_rate": {
+   "median": 1.5035548901711682,
+   "iqr": 0.3341233089269262
+  },
+  "repetitiveness": {
+   "median": 0.7821967005729675,
+   "iqr": 0.07107168436050415
+  },
+  "vocal_share": {
+   "median": 0.1980929970741272,
+   "iqr": 0.0707584023475647
+  },
+  "vocal_voiced": {
+   "median": 0.7469654528478058,
+   "iqr": 0.15877129840240134
+  },
+  "song_length": {
+   "median": 259.48,
+   "iqr": 26.027000000000015
+  },
+  "vocal_presence": {
+   "median": 0.7777777777777778,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

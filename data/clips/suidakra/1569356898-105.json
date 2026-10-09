@@ -1,0 +1,32 @@
+{
+ "id": "suidakra/1569356898-105",
+ "band": "suidakra",
+ "title": "Crossing Over",
+ "source": "itunes",
+ "album": "Wolfbite",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 7.484362119963148,
+  "tempo_var": 12.929984156407782,
+  "low_onset_rate": 8.520144377636619,
+  "lufs": -7.608554340387923,
+  "rms_dbfs": -6.544625574004408,
+  "crest": 6.544625759124756,
+  "centroid": 2472.1616043996937,
+  "flatness": 0.02654705010354519,
+  "sub100_share": 0.5499569773674011,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8638085722923279,
+  "clean_share": 0.0031031807602792862,
+  "minor_share": 0.045712350461742934,
+  "chord_rate": 1.871090529990787,
+  "repetitiveness": 0.9245917201042175,
+  "vocal_share": 3.581396299523476e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 392.96
+ }
+}

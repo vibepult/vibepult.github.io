@@ -1,0 +1,32 @@
+{
+ "id": "lex-talion/1157621878-104",
+ "band": "lex-talion",
+ "title": "The Battle of the Souls",
+ "source": "itunes",
+ "album": "Funeral in the Forest",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.57748933229889,
+  "tempo_var": 8.349432313364472,
+  "low_onset_rate": 4.744550986762353,
+  "lufs": -9.106890636733675,
+  "rms_dbfs": -9.135524438935366,
+  "crest": 9.13552474975586,
+  "centroid": 2304.848034921658,
+  "flatness": 0.022306330502033234,
+  "sub100_share": 0.07192502170801163,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.7721695899963379,
+  "clean_share": 0.1830876648564779,
+  "minor_share": -0.028889487748127052,
+  "chord_rate": 1.1026069194588566,
+  "repetitiveness": 0.8125534653663635,
+  "vocal_share": 0.2413695901632309,
+  "vocal_voiced": 0.047856430707876374,
+  "song_length": 293.541
+ }
+}

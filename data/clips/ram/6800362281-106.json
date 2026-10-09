@@ -1,0 +1,32 @@
+{
+ "id": "ram/6800362281-106",
+ "band": "ram",
+ "title": "Forced Entry",
+ "source": "itunes",
+ "album": "Forced Entry",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.233269338331998,
+  "tempo_var": 11.79059885119496,
+  "low_onset_rate": 8.866532629892216,
+  "lufs": -8.19132215005557,
+  "rms_dbfs": -8.073494950780272,
+  "crest": 8.073494911193848,
+  "centroid": 2680.303533890807,
+  "flatness": 0.03877910226583481,
+  "sub100_share": 0.30088868737220764,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7894271016120911,
+  "clean_share": 0.03402938901778809,
+  "minor_share": -0.14307095116275348,
+  "chord_rate": 1.333313177427401,
+  "repetitiveness": 0.8799532651901245,
+  "vocal_share": 0.056292418390512466,
+  "vocal_voiced": 0.20279720279720279,
+  "song_length": 356.275
+ }
+}

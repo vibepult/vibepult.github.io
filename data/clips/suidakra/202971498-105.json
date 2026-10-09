@@ -1,0 +1,32 @@
+{
+ "id": "suidakra/202971498-105",
+ "band": "suidakra",
+ "title": "Forth-Clyde",
+ "source": "itunes",
+ "album": "Caledonia",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.011849633903894,
+  "tempo_var": 1.7182212986254533,
+  "low_onset_rate": 3.742181059981574,
+  "lufs": -9.218318520444884,
+  "rms_dbfs": -8.773375404895486,
+  "crest": 8.773375511169434,
+  "centroid": 2488.629114728848,
+  "flatness": 0.029786966741085052,
+  "sub100_share": 0.2255249321460724,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7918392419815063,
+  "clean_share": 0.041117145073700546,
+  "minor_share": 0.2439382516811076,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.7546875476837158,
+  "vocal_share": 0.08280128985643387,
+  "vocal_voiced": 0.43360433604336046,
+  "song_length": 331.16
+ }
+}

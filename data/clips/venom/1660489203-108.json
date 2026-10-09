@@ -1,0 +1,32 @@
+{
+ "id": "venom/1660489203-108",
+ "band": "venom",
+ "title": "Sin",
+ "source": "itunes",
+ "album": "Fallen Angels (Special Edition)",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 73.828125,
+  "onset_rate": 3.207583765698492,
+  "tempo_var": 4.666498200670137,
+  "low_onset_rate": 5.279148281045435,
+  "lufs": -9.805156543304129,
+  "rms_dbfs": -9.016664476893,
+  "crest": 9.016664505004883,
+  "centroid": 2601.3795158062103,
+  "flatness": 0.029659096151590347,
+  "sub100_share": 0.553252100944519,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.8310494422912598,
+  "clean_share": 0.027928626842513578,
+  "minor_share": 0.14921079933312587,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.7975499033927917,
+  "vocal_share": 0.027551820501685143,
+  "vocal_voiced": 0.1552511415525114,
+  "song_length": 332.92
+ }
+}

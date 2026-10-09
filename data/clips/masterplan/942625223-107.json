@@ -1,0 +1,32 @@
+{
+ "id": "masterplan/942625223-107",
+ "band": "masterplan",
+ "title": "Sail On",
+ "source": "itunes",
+ "album": "Masterplan",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 6.74929084032391,
+  "tempo_var": 10.058122547029503,
+  "low_onset_rate": 7.684836105319304,
+  "lufs": -7.759673925129073,
+  "rms_dbfs": -7.177693303284109,
+  "crest": 7.177693843841553,
+  "centroid": 2634.406828959871,
+  "flatness": 0.03698739409446716,
+  "sub100_share": 0.4198688268661499,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8164029717445374,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": -0.07359444093864698,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.8845481276512146,
+  "vocal_share": 0.14673446118831635,
+  "vocal_voiced": 0.5597643097643098,
+  "song_length": 277.933
+ }
+}

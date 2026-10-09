@@ -1,0 +1,32 @@
+{
+ "id": "pig-destroyer/556953439-110",
+ "band": "pig-destroyer",
+ "title": "Baltimore Strangler",
+ "source": "itunes",
+ "album": "Book Burner",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 4.610901663191583,
+  "tempo_var": 23.75558297567264,
+  "low_onset_rate": 5.412797604616205,
+  "lufs": -10.381506715154616,
+  "rms_dbfs": -10.062163574891208,
+  "crest": 10.062164306640625,
+  "centroid": 2914.8440935095887,
+  "flatness": 0.05846207216382027,
+  "sub100_share": 0.326121062040329,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.5759463906288147,
+  "clean_share": 0.017843289371605897,
+  "minor_share": 0.1167207363515759,
+  "chord_rate": 2.6395741405227175,
+  "repetitiveness": 0.9681926369667053,
+  "vocal_share": 0.0474000945687294,
+  "vocal_voiced": 0.0,
+  "song_length": 198.48
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "iron-maiden/1716093955-104",
+ "band": "iron-maiden",
+ "title": "The Evil That Men Do (2015 Remaster)",
+ "source": "itunes",
+ "album": "Seventh Son of a Seventh Son (2015 Remaster)",
+ "year": 1988,
+ "itunes_year": 1988,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 5.566582515759399,
+  "tempo_var": 25.14760226674659,
+  "low_onset_rate": 5.633248174630769,
+  "lufs": -10.671707604925995,
+  "rms_dbfs": -10.166155125638621,
+  "crest": 10.166154861450195,
+  "centroid": 2746.846978477646,
+  "flatness": 0.03911575675010681,
+  "sub100_share": 0.16232411563396454,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6553714871406555,
+  "clean_share": 0.002320185614849188,
+  "minor_share": 0.156394763692977,
+  "chord_rate": 1.5333101540415113,
+  "repetitiveness": 0.8412291407585144,
+  "vocal_share": 0.10888876765966415,
+  "vocal_voiced": 0.5470085470085471,
+  "song_length": 274.21
+ }
+}

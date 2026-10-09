@@ -1,0 +1,32 @@
+{
+ "id": "summoning/1326357738-104",
+ "band": "summoning",
+ "title": "Herumor",
+ "source": "itunes",
+ "album": "With Doom We Come",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.333333333333333,
+  "tempo_var": 10.500368132457707,
+  "low_onset_rate": 6.6,
+  "lufs": -11.613082866407169,
+  "rms_dbfs": -11.101083709363653,
+  "crest": 11.101083755493164,
+  "centroid": 2036.549910723281,
+  "flatness": 0.018967894837260246,
+  "sub100_share": 0.15547005832195282,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8150035738945007,
+  "clean_share": 0.07275541795665634,
+  "minor_share": 0.02673004224298664,
+  "chord_rate": 1.1,
+  "repetitiveness": 0.9243943691253662,
+  "vocal_share": 0.1839512586593628,
+  "vocal_voiced": 0.025541795665634675,
+  "song_length": 428.813
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "suotana/1813853025-102",
+ "band": "suotana",
+ "title": "Foreverland",
+ "source": "itunes",
+ "album": "Ounas II",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.133314386609907,
+  "tempo_var": 26.449899479303912,
+  "low_onset_rate": 4.133308339783282,
+  "lufs": -10.834023921359172,
+  "rms_dbfs": -9.750556200379313,
+  "crest": 9.750555992126465,
+  "centroid": 2346.1372778255554,
+  "flatness": 0.04942411556839943,
+  "sub100_share": 0.45755892992019653,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.757095992565155,
+  "clean_share": 0.02474864655839134,
+  "minor_share": 0.3071533888902014,
+  "chord_rate": 1.7999891157120742,
+  "repetitiveness": 0.8659354448318481,
+  "vocal_share": 0.042115096002817154,
+  "vocal_voiced": 0.07142857142857142,
+  "song_length": 277.833
+ }
+}

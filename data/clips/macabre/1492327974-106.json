@@ -1,0 +1,32 @@
+{
+ "id": "macabre/1492327974-106",
+ "band": "macabre",
+ "title": "The Iceman",
+ "source": "itunes",
+ "album": "Murder Metal (Remastered)",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 1.6706165446346313,
+  "tempo_var": 17.76351661673491,
+  "low_onset_rate": 0.23388631624884837,
+  "lufs": -7.257777718248973,
+  "rms_dbfs": -7.709448881818171,
+  "crest": 7.709448337554932,
+  "centroid": 2863.5069902109553,
+  "flatness": 0.054109156131744385,
+  "sub100_share": 0.263277143239975,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.729784369468689,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.0033728277879874202,
+  "chord_rate": 2.840048125878873,
+  "repetitiveness": 0.9178476929664612,
+  "vocal_share": 0.16272035241127014,
+  "vocal_voiced": 0.39267886855241263,
+  "song_length": 165.36
+ }
+}

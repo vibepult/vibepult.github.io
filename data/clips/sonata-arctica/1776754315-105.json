@@ -1,0 +1,32 @@
+{
+ "id": "sonata-arctica/1776754315-105",
+ "band": "sonata-arctica",
+ "title": "Blood",
+ "source": "itunes",
+ "album": "Pariah's Child",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.4,
+  "tempo_var": 9.660208977600586,
+  "low_onset_rate": 1.4666666666666666,
+  "lufs": -9.041057257057068,
+  "rms_dbfs": -9.198661574536132,
+  "crest": 9.198661804199219,
+  "centroid": 1960.4782637739684,
+  "flatness": 0.01092922780662775,
+  "sub100_share": 0.26634058356285095,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7671443223953247,
+  "clean_share": 0.6044891640866873,
+  "minor_share": -0.0004869596447710789,
+  "chord_rate": 0.7666666666666667,
+  "repetitiveness": 0.5096628069877625,
+  "vocal_share": 0.3719809949398041,
+  "vocal_voiced": 0.5953038674033149,
+  "song_length": 354.04
+ }
+}

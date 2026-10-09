@@ -1,0 +1,32 @@
+{
+ "id": "bonfire/1497860344-107",
+ "band": "bonfire",
+ "title": "Fire and Ice",
+ "source": "itunes",
+ "album": "Fistful of Fire",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.7087687290888813,
+  "tempo_var": 17.851365390359174,
+  "low_onset_rate": 2.9068727876642586,
+  "lufs": -8.81178752608118,
+  "rms_dbfs": -8.24015328403649,
+  "crest": 8.240153312683105,
+  "centroid": 2492.732819462962,
+  "flatness": 0.026408258825540543,
+  "sub100_share": 0.3361532986164093,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.6910088062286377,
+  "clean_share": 0.0504266873545384,
+  "minor_share": -0.0908694527618003,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.7952102422714233,
+  "vocal_share": 0.22056369483470917,
+  "vocal_voiced": 0.7507246376811594,
+  "song_length": 240.693
+ }
+}

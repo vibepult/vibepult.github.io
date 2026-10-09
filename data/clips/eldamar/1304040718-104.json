@@ -1,0 +1,32 @@
+{
+ "id": "eldamar/1304040718-104",
+ "band": "eldamar",
+ "title": "A Secret by the Branches",
+ "source": "itunes",
+ "album": "A Dark Forgotten Past",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 2.1718015080250206,
+  "tempo_var": 2.336600261680223,
+  "low_onset_rate": 3.0739344421277215,
+  "lufs": -14.32289796954056,
+  "rms_dbfs": -12.419088350629458,
+  "crest": 12.419088363647461,
+  "centroid": 754.851049053109,
+  "flatness": 0.000405295955715701,
+  "sub100_share": 0.49853408336639404,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.9098523855209351,
+  "clean_share": 1.0,
+  "minor_share": 0.06664100517144755,
+  "chord_rate": 0.4009479707123115,
+  "repetitiveness": 0.5359474420547485,
+  "vocal_share": 5.05076343415567e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 315.05
+ }
+}

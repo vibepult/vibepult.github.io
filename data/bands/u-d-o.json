@@ -1,0 +1,127 @@
+{
+ "slug": "u-d-o",
+ "name": "U.D.O.",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 530051897,
+  "deezer": 6748,
+  "spotify": "2aWjaq32aRQo58dw0w8NM6"
+ },
+ "metadata": {
+  "formed": 1987,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 5,
+  "past_members": 19,
+  "full_lengths": 19,
+  "genre": "Heavy Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 36988,
+  "themes": "Social struggles, Life, War",
+  "release_year": 2008
+ },
+ "partial": false,
+ "clips": [
+  "u-d-o/942989664-106",
+  "u-d-o/943001778-106",
+  "u-d-o/942657122-106",
+  "u-d-o/942961587-105",
+  "u-d-o/1395889193-108",
+  "u-d-o/1566507957-108",
+  "u-d-o/942989664-105",
+  "u-d-o/943001778-105",
+  "u-d-o/942657122-107",
+  "u-d-o/942961587-106",
+  "u-d-o/1395889193-107",
+  "u-d-o/1566507957-109"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 43.06640625
+  },
+  "onset_rate": {
+   "median": 3.8925365489986907,
+   "iqr": 1.8460312818212676
+  },
+  "tempo_var": {
+   "median": 2.7980122698608256,
+   "iqr": 6.063686950207923
+  },
+  "low_onset_rate": {
+   "median": 6.1645750497017895,
+   "iqr": 2.8484012086020467
+  },
+  "lufs": {
+   "median": -9.441829159317573,
+   "iqr": 2.807653836509564
+  },
+  "rms_dbfs": {
+   "median": -9.302531984928104,
+   "iqr": 2.417152825036265
+  },
+  "crest": {
+   "median": 9.302531719207764,
+   "iqr": 2.417152523994446
+  },
+  "centroid": {
+   "median": 2445.8486784916604,
+   "iqr": 188.23321519257024
+  },
+  "flatness": {
+   "median": 0.03479239158332348,
+   "iqr": 0.015483501832932234
+  },
+  "sub100_share": {
+   "median": 0.23610875755548477,
+   "iqr": 0.17407261580228806
+  },
+  "lowest_pitch": {
+   "median": 47.1038818359375,
+   "iqr": 30.9539794921875
+  },
+  "harmonic_share": {
+   "median": 0.7435519397258759,
+   "iqr": 0.10282155871391296
+  },
+  "clean_share": {
+   "median": 0.022110162916989914,
+   "iqr": 0.09938773379605045
+  },
+  "minor_share": {
+   "median": -0.033597683347408536,
+   "iqr": 0.18850211156473065
+  },
+  "chord_rate": {
+   "median": 1.436730228385783,
+   "iqr": 0.47725430268438696
+  },
+  "repetitiveness": {
+   "median": 0.8629805445671082,
+   "iqr": 0.08182491362094879
+  },
+  "vocal_share": {
+   "median": 0.23048199713230133,
+   "iqr": 0.11058572679758072
+  },
+  "vocal_voiced": {
+   "median": 0.17140238313473877,
+   "iqr": 0.40276432418551084
+  },
+  "song_length": {
+   "median": 267.5455,
+   "iqr": 50.716499999999996
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "violet-cold/1543748923-104",
+ "band": "violet-cold",
+ "title": "For Amelie (Polish Lullaby)",
+ "source": "itunes",
+ "album": "Magic Night",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.040522111235029,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.3817552005042915,
+  "lufs": -17.44403338247782,
+  "rms_dbfs": -16.685344766649735,
+  "crest": 14.172067642211914,
+  "centroid": 567.4609596835892,
+  "flatness": 3.1550246148981387e-06,
+  "sub100_share": 0.02873622253537178,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.979915201663971,
+  "clean_share": 1.0,
+  "minor_share": 0.03137349918660115,
+  "chord_rate": 0.6682466178538525,
+  "repetitiveness": 0.627250611782074,
+  "vocal_share": 6.598543222935405e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 130.066
+ }
+}

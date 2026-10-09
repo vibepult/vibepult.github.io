@@ -1,0 +1,32 @@
+{
+ "id": "lacuna-coil/1045596670-106",
+ "band": "lacuna-coil",
+ "title": "Underdog",
+ "source": "itunes",
+ "album": "Shallow Life",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.8975312689316968,
+  "tempo_var": 3.688760892741025,
+  "low_onset_rate": 4.297278065745204,
+  "lufs": -6.850283001637594,
+  "rms_dbfs": -6.358571994531164,
+  "crest": 6.358571529388428,
+  "centroid": 2488.803570769076,
+  "flatness": 0.03149788826704025,
+  "sub100_share": 0.29474690556526184,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7749395370483398,
+  "clean_share": 0.006187161639597835,
+  "minor_share": 0.17538784633900328,
+  "chord_rate": 1.4657382549828604,
+  "repetitiveness": 0.7670658826828003,
+  "vocal_share": 0.15927796065807343,
+  "vocal_voiced": 0.8984238178633975,
+  "song_length": 220.627
+ }
+}

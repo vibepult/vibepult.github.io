@@ -1,0 +1,32 @@
+{
+ "id": "apocalyptica/1481088672-105",
+ "band": "apocalyptica",
+ "title": "Call My Name",
+ "source": "itunes",
+ "album": "Cell-0",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.232952123559127,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 5.066069307020487,
+  "lufs": -11.09051702735433,
+  "rms_dbfs": -9.585291989596092,
+  "crest": 9.585291862487793,
+  "centroid": 1549.2887807843672,
+  "flatness": 0.0063279904425144196,
+  "sub100_share": 0.45446130633354187,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8542601466178894,
+  "clean_share": 0.6860015467904099,
+  "minor_share": 0.19019308572352578,
+  "chord_rate": 1.0998703100768163,
+  "repetitiveness": 0.7952855229377747,
+  "vocal_share": 8.806823075246939e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 235.509
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "rings-of-saturn/1629398802-103",
+ "band": "rings-of-saturn",
+ "title": "Ascending",
+ "source": "itunes",
+ "album": "Rings of Saturn",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.176541361586578,
+  "tempo_var": 17.52486533992789,
+  "low_onset_rate": 1.3030809048150125,
+  "lufs": -7.729652665942986,
+  "rms_dbfs": -5.136021116839419,
+  "crest": 5.136020660400391,
+  "centroid": 1772.7360465777579,
+  "flatness": 0.011925292201340199,
+  "sub100_share": 0.682999849319458,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8826076984405518,
+  "clean_share": 0.48719937936384794,
+  "minor_share": 0.04319247454451919,
+  "chord_rate": 2.1718015080250206,
+  "repetitiveness": 0.6976311802864075,
+  "vocal_share": 9.96576432044094e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 335.266
+ }
+}

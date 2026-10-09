@@ -1,0 +1,32 @@
+{
+ "id": "alvenrad/1643172861-102",
+ "band": "alvenrad",
+ "title": "De Vliegden",
+ "source": "itunes",
+ "album": "Veluws Ĳzer",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 6.548816854967755,
+  "tempo_var": 0.0,
+  "low_onset_rate": 9.188390995490472,
+  "lufs": -11.149265940447394,
+  "rms_dbfs": -10.515924665862446,
+  "crest": 10.515924453735352,
+  "centroid": 2753.0545246547254,
+  "flatness": 0.03583263233304024,
+  "sub100_share": 0.5106955766677856,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8446957468986511,
+  "clean_share": 0.0,
+  "minor_share": 0.04617871443304933,
+  "chord_rate": 2.071564515346943,
+  "repetitiveness": 0.9471738338470459,
+  "vocal_share": 4.1902450220732135e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 350.82
+ }
+}

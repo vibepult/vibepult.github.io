@@ -1,0 +1,32 @@
+{
+ "id": "einherjer/1542118252-105",
+ "band": "einherjer",
+ "title": "Fimbul Winter (Remastered)",
+ "source": "itunes",
+ "album": "Dragons of the North (Remastered)",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.766666666666667,
+  "tempo_var": 8.303956520160424,
+  "low_onset_rate": 6.5,
+  "lufs": -9.968451017085103,
+  "rms_dbfs": -10.958794206710483,
+  "crest": 10.958794593811035,
+  "centroid": 2857.111590847164,
+  "flatness": 0.04218790680170059,
+  "sub100_share": 0.2047058641910553,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7121926546096802,
+  "clean_share": 0.009287925696594427,
+  "minor_share": 0.048433411862571996,
+  "chord_rate": 2.4,
+  "repetitiveness": 0.8973711729049683,
+  "vocal_share": 0.14946390688419342,
+  "vocal_voiced": 0.09496753246753246,
+  "song_length": 284.68
+ }
+}

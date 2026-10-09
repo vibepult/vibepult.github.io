@@ -1,0 +1,32 @@
+{
+ "id": "alcest/1556156328-104",
+ "band": "alcest",
+ "title": "Ciel Errant",
+ "source": "itunes",
+ "album": "Souvenirs D'un Autre Monde",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 4.677726324976968,
+  "tempo_var": 12.53287611771385,
+  "low_onset_rate": 6.415167531396984,
+  "lufs": -10.04465827801023,
+  "rms_dbfs": -10.791739085950294,
+  "crest": 10.791739463806152,
+  "centroid": 2694.03566544082,
+  "flatness": 0.035298753529787064,
+  "sub100_share": 0.06284260749816895,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8132981657981873,
+  "clean_share": 0.0,
+  "minor_share": -0.16074113594724793,
+  "chord_rate": 0.6348342869611598,
+  "repetitiveness": 0.8437194228172302,
+  "vocal_share": 0.03781644254922867,
+  "vocal_voiced": 0.9884393063583815,
+  "song_length": 432.84
+ }
+}

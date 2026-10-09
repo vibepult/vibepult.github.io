@@ -1,0 +1,32 @@
+{
+ "id": "swallow-the-sun/1660649659-105",
+ "band": "swallow-the-sun",
+ "title": "Silence of the Womb",
+ "source": "itunes",
+ "album": "The Morning Never Came",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 3.374645420161955,
+  "tempo_var": 5.173525512621475,
+  "low_onset_rate": 5.9473948988992875,
+  "lufs": -9.004537810738825,
+  "rms_dbfs": -8.57020991242185,
+  "crest": 8.570209503173828,
+  "centroid": 2439.3787774134125,
+  "flatness": 0.03306586295366287,
+  "sub100_share": 0.21633894741535187,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.6817275881767273,
+  "clean_share": 0.10007757951900698,
+  "minor_share": 0.05188149352708504,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.7727147936820984,
+  "vocal_share": 0.2253778874874115,
+  "vocal_voiced": 0.4266666666666667,
+  "song_length": 412.733
+ }
+}

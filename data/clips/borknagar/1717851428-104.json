@@ -1,0 +1,32 @@
+{
+ "id": "borknagar/1717851428-104",
+ "band": "borknagar",
+ "title": "Moon",
+ "source": "itunes",
+ "album": "Fall",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 6.029514185270403,
+  "tempo_var": 20.329109444349697,
+  "low_onset_rate": 7.461940207185471,
+  "lufs": -8.998887752685894,
+  "rms_dbfs": -8.608683907561211,
+  "crest": 8.608683586120605,
+  "centroid": 2423.345310875084,
+  "flatness": 0.026782676577568054,
+  "sub100_share": 0.35617053508758545,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8061899542808533,
+  "clean_share": 0.018561484918793503,
+  "minor_share": 0.2523507730541622,
+  "chord_rate": 1.1659281573727298,
+  "repetitiveness": 0.8201595544815063,
+  "vocal_share": 0.0660712942481041,
+  "vocal_voiced": 0.9485861182519281,
+  "song_length": 351.693
+ }
+}

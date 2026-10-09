@@ -1,0 +1,32 @@
+{
+ "id": "the-crown/56178913-106",
+ "band": "the-crown",
+ "title": "Black Lightning",
+ "source": "itunes",
+ "album": "Hell Is Here",
+ "year": 1998,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 6.348342869611598,
+  "tempo_var": 12.694971028376873,
+  "low_onset_rate": 6.983177156572759,
+  "lufs": -12.060621586775099,
+  "rms_dbfs": -11.60446119529539,
+  "crest": 11.604460716247559,
+  "centroid": 2552.9128010142654,
+  "flatness": 0.0389031246304512,
+  "sub100_share": 0.261868953704834,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.6058012843132019,
+  "clean_share": 0.01008533747090768,
+  "minor_share": 0.022334358489190964,
+  "chord_rate": 2.138389177132328,
+  "repetitiveness": 0.9310107827186584,
+  "vocal_share": 0.18005993962287903,
+  "vocal_voiced": 0.07128099173553719,
+  "song_length": 205.4
+ }
+}

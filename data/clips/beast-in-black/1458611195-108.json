@@ -1,0 +1,32 @@
+{
+ "id": "beast-in-black/1458611195-108",
+ "band": "beast-in-black",
+ "title": "Hell for All Eternity",
+ "source": "itunes",
+ "album": "Berserker",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.866643285603715,
+  "tempo_var": 20.08595786060627,
+  "low_onset_rate": 1.6333234568498451,
+  "lufs": -11.747075236125701,
+  "rms_dbfs": -10.627602327265144,
+  "crest": 10.627602577209473,
+  "centroid": 1976.3697589145424,
+  "flatness": 0.014123757369816303,
+  "sub100_share": 0.41663020849227905,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8502287268638611,
+  "clean_share": 0.3882443928847641,
+  "minor_share": 0.11857715938177216,
+  "chord_rate": 1.7666559839396285,
+  "repetitiveness": 0.790894627571106,
+  "vocal_share": 0.05446862801909447,
+  "vocal_voiced": 0.453125,
+  "song_length": 288.346
+ }
+}

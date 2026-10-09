@@ -1,0 +1,32 @@
+{
+ "id": "masterplan/1875417494-104",
+ "band": "masterplan",
+ "title": "Bound To Fall",
+ "source": "itunes",
+ "album": "Metalmorphosis",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.133333333333334,
+  "tempo_var": 23.239297981921574,
+  "low_onset_rate": 6.733333333333333,
+  "lufs": -10.719076346277571,
+  "rms_dbfs": -10.014975078450352,
+  "crest": 10.014974594116211,
+  "centroid": 2547.551520966789,
+  "flatness": 0.025699833407998085,
+  "sub100_share": 0.42761266231536865,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8715868592262268,
+  "clean_share": 0.08746130030959752,
+  "minor_share": 0.17822601052964382,
+  "chord_rate": 1.3666666666666667,
+  "repetitiveness": 0.7518081068992615,
+  "vocal_share": 0.09424708038568497,
+  "vocal_voiced": 0.546975546975547,
+  "song_length": 261.693
+ }
+}

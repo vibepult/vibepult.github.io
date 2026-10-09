@@ -1,0 +1,32 @@
+{
+ "id": "mayhem/1476732106-106",
+ "band": "mayhem",
+ "title": "Aeon Daemonium",
+ "source": "itunes",
+ "album": "Daemon (Bonus Tracks Version)",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 3.5977211713215667,
+  "tempo_var": 17.094152688593073,
+  "low_onset_rate": 8.061560402405732,
+  "lufs": -12.081823538952035,
+  "rms_dbfs": -11.407353954541799,
+  "crest": 11.407354354858398,
+  "centroid": 2672.501404503251,
+  "flatness": 0.0389871671795845,
+  "sub100_share": 0.3412128984928131,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.792001485824585,
+  "clean_share": 0.0,
+  "minor_share": -0.1415613756100711,
+  "chord_rate": 1.299177089643899,
+  "repetitiveness": 0.9279831051826477,
+  "vocal_share": 0.0332927405834198,
+  "vocal_voiced": 0.1726027397260274,
+  "song_length": 363.76
+ }
+}

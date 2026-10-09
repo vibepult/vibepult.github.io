@@ -1,0 +1,32 @@
+{
+ "id": "sacred-reich/1465301070-103",
+ "band": "sacred-reich",
+ "title": "Salvation",
+ "source": "itunes",
+ "album": "Awakening",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 6.63323305770132,
+  "tempo_var": 0.0,
+  "low_onset_rate": 7.333222475850706,
+  "lufs": -10.426866704746509,
+  "rms_dbfs": -9.058996879905216,
+  "crest": 9.05899715423584,
+  "centroid": 2200.8446380584987,
+  "flatness": 0.015823202207684517,
+  "sub100_share": 0.3983790874481201,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7044405937194824,
+  "clean_share": 0.12064965197215777,
+  "minor_share": 0.025681320074629144,
+  "chord_rate": 1.8666384483983613,
+  "repetitiveness": 0.9236803650856018,
+  "vocal_share": 0.11603497713804245,
+  "vocal_voiced": 0.8022249690976514,
+  "song_length": 239.988
+ }
+}

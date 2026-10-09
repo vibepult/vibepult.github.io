@@ -1,0 +1,127 @@
+{
+ "slug": "agathocles",
+ "name": "Agathocles",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 21479352,
+  "deezer": 190213,
+  "spotify": "2JWxRGdcsFqn5j9gYKjNF0"
+ },
+ "metadata": {
+  "formed": 1987,
+  "split": null,
+  "country": "BE",
+  "status": "active",
+  "members": 3,
+  "past_members": 16,
+  "full_lengths": 16,
+  "genre": "Grindcore",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 1659,
+  "themes": "Anti-fascism, Animal liberation, Ecology, Politics, Anarchy",
+  "release_year": 1999
+ },
+ "partial": false,
+ "clips": [
+  "agathocles/297089054-105",
+  "agathocles/297097775-109",
+  "agathocles/297089054-104",
+  "agathocles/297097775-107",
+  "agathocles/297089054-106",
+  "agathocles/297097775-110",
+  "agathocles/297089054-103",
+  "agathocles/297097775-105",
+  "agathocles/297089054-107",
+  "agathocles/297097775-114",
+  "agathocles/297089054-102",
+  "agathocles/297097775-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.90049098320159,
+   "iqr": 32.533649427319006
+  },
+  "onset_rate": {
+   "median": 5.4462099355088975,
+   "iqr": 0.9606045131649132
+  },
+  "tempo_var": {
+   "median": 14.373073772391152,
+   "iqr": 5.785757566676802
+  },
+  "low_onset_rate": {
+   "median": 6.966470991126412,
+   "iqr": 0.7100120314697183
+  },
+  "lufs": {
+   "median": -9.913453399360046,
+   "iqr": 1.829802065449444
+  },
+  "rms_dbfs": {
+   "median": -9.891567724266315,
+   "iqr": 1.8786760262813225
+  },
+  "crest": {
+   "median": 9.891568183898926,
+   "iqr": 1.878676414489746
+  },
+  "centroid": {
+   "median": 3251.9372515262967,
+   "iqr": 538.7910262275182
+  },
+  "flatness": {
+   "median": 0.06491370126605034,
+   "iqr": 0.051495689898729324
+  },
+  "sub100_share": {
+   "median": 0.3138270527124405,
+   "iqr": 0.07891839742660522
+  },
+  "lowest_pitch": {
+   "median": 43.06640625,
+   "iqr": 13.458251953125
+  },
+  "harmonic_share": {
+   "median": 0.6972781419754028,
+   "iqr": 0.0943174660205841
+  },
+  "clean_share": {
+   "median": 0.0003878975950349108,
+   "iqr": 0.0058184639255236615
+  },
+  "minor_share": {
+   "median": 0.03908954501113475,
+   "iqr": 0.1619205254533337
+  },
+  "chord_rate": {
+   "median": 2.4391001551665616,
+   "iqr": 0.6598935351306796
+  },
+  "repetitiveness": {
+   "median": 0.8936527371406555,
+   "iqr": 0.05597791075706482
+  },
+  "vocal_share": {
+   "median": 0.04825623892247677,
+   "iqr": 0.039440576918423176
+  },
+  "vocal_voiced": {
+   "median": 0.17077545096413022,
+   "iqr": 0.28226794895901774
+  },
+  "song_length": {
+   "median": 171.24650000000003,
+   "iqr": 62.923249999999996
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

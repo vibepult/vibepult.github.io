@@ -1,0 +1,32 @@
+{
+ "id": "apocalyptica/1648318363-106",
+ "band": "apocalyptica",
+ "title": "Stroke",
+ "source": "itunes",
+ "album": "Worlds Collide",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 6.766625749806502,
+  "tempo_var": 3.1820262320133983,
+  "low_onset_rate": 5.2666348200464395,
+  "lufs": -17.255492547708577,
+  "rms_dbfs": -16.13908853497605,
+  "crest": 16.139087677001953,
+  "centroid": 1101.9038378855078,
+  "flatness": 0.0077505456283688545,
+  "sub100_share": 0.35963717103004456,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8415675759315491,
+  "clean_share": 0.851508120649652,
+  "minor_share": 0.04570454716704414,
+  "chord_rate": 0.39999758126934987,
+  "repetitiveness": 0.9642659425735474,
+  "vocal_share": 1.3674861065737787e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 272.667
+ }
+}

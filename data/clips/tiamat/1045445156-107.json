@@ -1,0 +1,32 @@
+{
+ "id": "tiamat/1045445156-107",
+ "band": "tiamat",
+ "title": "Four Leary Biscuits",
+ "source": "itunes",
+ "album": "A Deeper Kind of Slumber",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.34597294283082,
+  "tempo_var": 2.795239589383955,
+  "low_onset_rate": 6.11445655336275,
+  "lufs": -10.517039196713858,
+  "rms_dbfs": -8.815545638294843,
+  "crest": 8.815545082092285,
+  "centroid": 1875.188780519177,
+  "flatness": 0.006249719299376011,
+  "sub100_share": 0.6473163366317749,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.9115892648696899,
+  "clean_share": 0.6594259115593484,
+  "minor_share": -0.08753428122695939,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.9271379113197327,
+  "vocal_share": 4.077388950918248e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 243.227
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "stam1na/1875008502-105",
+ "band": "stam1na",
+ "title": "Käärmeennyrkki",
+ "source": "itunes",
+ "album": "Apnea",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 3.79759456972832,
+  "tempo_var": 12.676344767152136,
+  "low_onset_rate": 3.3312233067792283,
+  "lufs": -10.078211204042116,
+  "rms_dbfs": -9.430007130308326,
+  "crest": 9.430006980895996,
+  "centroid": 2521.6960779902533,
+  "flatness": 0.030688967555761337,
+  "sub100_share": 0.31200075149536133,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7152789831161499,
+  "clean_share": 0.060324825986078884,
+  "minor_share": 0.040353446600704834,
+  "chord_rate": 1.4990504880506528,
+  "repetitiveness": 0.7605710625648499,
+  "vocal_share": 0.1377965211868286,
+  "vocal_voiced": 0.843400447427293,
+  "song_length": 224.426
+ }
+}

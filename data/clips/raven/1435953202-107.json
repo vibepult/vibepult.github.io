@@ -1,0 +1,32 @@
+{
+ "id": "raven/1435953202-107",
+ "band": "raven",
+ "title": "Break the Chain",
+ "source": "itunes",
+ "album": "All for One (Bonus Track Edition)",
+ "year": 1983,
+ "itunes_year": 1983,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.966666666666667,
+  "tempo_var": 14.913126218718096,
+  "low_onset_rate": 5.866666666666666,
+  "lufs": -15.317793690390618,
+  "rms_dbfs": -15.495215981868906,
+  "crest": 15.49521541595459,
+  "centroid": 2519.8640571658316,
+  "flatness": 0.037802744656801224,
+  "sub100_share": 0.1609082967042923,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.6178785562515259,
+  "clean_share": 0.06578947368421052,
+  "minor_share": 0.1819034707834733,
+  "chord_rate": 2.3,
+  "repetitiveness": 0.9037845134735107,
+  "vocal_share": 0.2590252161026001,
+  "vocal_voiced": 0.5472597299444003,
+  "song_length": 224.84
+ }
+}

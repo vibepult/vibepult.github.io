@@ -1,0 +1,32 @@
+{
+ "id": "pallbearer/1733291253-103",
+ "band": "pallbearer",
+ "title": "Signals",
+ "source": "itunes",
+ "album": "Mind Burns Alive",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 1.6333234568498451,
+  "tempo_var": 11.649304158734013,
+  "low_onset_rate": 0.9666608214009288,
+  "lufs": -20.337957806574476,
+  "rms_dbfs": -18.126410085889045,
+  "crest": 18.044382095336914,
+  "centroid": 1380.858883411133,
+  "flatness": 0.007522540166974068,
+  "sub100_share": 0.5869721174240112,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.8907776474952698,
+  "clean_share": 0.8561484918793504,
+  "minor_share": 0.018996563667992183,
+  "chord_rate": 1.0333270849458205,
+  "repetitiveness": 0.5454113483428955,
+  "vocal_share": 0.2813791036605835,
+  "vocal_voiced": 0.902046783625731,
+  "song_length": 473.472
+ }
+}

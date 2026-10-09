@@ -1,0 +1,32 @@
+{
+ "id": "cro-mags/1474115345-104",
+ "band": "cro-mags",
+ "title": "Malfunction",
+ "source": "itunes",
+ "album": "The Age of Quarrel",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.733261779867274,
+  "tempo_var": 26.486852086630236,
+  "low_onset_rate": 6.166573445601729,
+  "lufs": -8.877610176458266,
+  "rms_dbfs": -8.392346472556202,
+  "crest": 8.392346382141113,
+  "centroid": 2284.1144672101113,
+  "flatness": 0.02291448786854744,
+  "sub100_share": 0.3312360346317291,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.7374601364135742,
+  "clean_share": 0.21655065738592422,
+  "minor_share": 0.11732847325091256,
+  "chord_rate": 2.3332980604979516,
+  "repetitiveness": 0.9107804298400879,
+  "vocal_share": 0.08667443692684174,
+  "vocal_voiced": 0.6,
+  "song_length": 218.36
+ }
+}

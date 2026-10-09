@@ -1,0 +1,32 @@
+{
+ "id": "tnt/1439277723-105",
+ "band": "tnt",
+ "title": "Come",
+ "source": "itunes",
+ "album": "Engine",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.644313994084275,
+  "tempo_var": 19.31871168610776,
+  "low_onset_rate": 6.214693546040828,
+  "lufs": -7.190795792490541,
+  "rms_dbfs": -7.382960327254883,
+  "crest": 7.382960319519043,
+  "centroid": 3153.5772225478318,
+  "flatness": 0.06712717562913895,
+  "sub100_share": 0.2264198362827301,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.7075748443603516,
+  "clean_share": 0.0,
+  "minor_share": -0.03462153346165109,
+  "chord_rate": 2.2386261698104057,
+  "repetitiveness": 0.8334505558013916,
+  "vocal_share": 0.2965186536312103,
+  "vocal_voiced": 0.5395622895622896,
+  "song_length": 221.506
+ }
+}

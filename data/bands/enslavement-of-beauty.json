@@ -1,0 +1,127 @@
+{
+ "slug": "enslavement-of-beauty",
+ "name": "Enslavement of Beauty",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 303391833,
+  "deezer": 1169231,
+  "spotify": "776kaEvP1Qw3d7vnBHHRJx"
+ },
+ "metadata": {
+  "formed": 1995,
+  "split": null,
+  "country": "NO",
+  "status": "on hold",
+  "members": 2,
+  "past_members": 0,
+  "full_lengths": 3,
+  "genre": "Melodic Black/Gothic Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 565,
+  "themes": "Misery, Death, Sex, Depression",
+  "release_year": 2001
+ },
+ "partial": false,
+ "clips": [
+  "enslavement-of-beauty/1451408798-106",
+  "enslavement-of-beauty/1451405141-107",
+  "enslavement-of-beauty/303391832-105",
+  "enslavement-of-beauty/1451408798-105",
+  "enslavement-of-beauty/1451405141-108",
+  "enslavement-of-beauty/303391832-106",
+  "enslavement-of-beauty/1451408798-107",
+  "enslavement-of-beauty/1451405141-106",
+  "enslavement-of-beauty/303391832-104",
+  "enslavement-of-beauty/1451408798-104",
+  "enslavement-of-beauty/1451405141-109",
+  "enslavement-of-beauty/303391832-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 100.40408495234604,
+   "iqr": 63.992668600643384
+  },
+  "onset_rate": {
+   "median": 4.176541361586578,
+   "iqr": 2.063211432623769
+  },
+  "tempo_var": {
+   "median": 13.24379088332686,
+   "iqr": 14.24760427436233
+  },
+  "low_onset_rate": {
+   "median": 5.830451740774864,
+   "iqr": 2.0381521844542494
+  },
+  "lufs": {
+   "median": -8.643775133755693,
+   "iqr": 2.10044299435193
+  },
+  "rms_dbfs": {
+   "median": -9.214659322432208,
+   "iqr": 1.7439390925615204
+  },
+  "crest": {
+   "median": 9.214659214019775,
+   "iqr": 1.7439393997192383
+  },
+  "centroid": {
+   "median": 2589.811409661825,
+   "iqr": 372.1498373448758
+  },
+  "flatness": {
+   "median": 0.044756731018424034,
+   "iqr": 0.019541411194950342
+  },
+  "sub100_share": {
+   "median": 0.21762480586767197,
+   "iqr": 0.1430451162159443
+  },
+  "lowest_pitch": {
+   "median": 59.21630859375,
+   "iqr": 22.20611572265625
+  },
+  "harmonic_share": {
+   "median": 0.6749279201030731,
+   "iqr": 0.10376161336898804
+  },
+  "clean_share": {
+   "median": 0.01047323506594259,
+   "iqr": 0.13750969743987587
+  },
+  "minor_share": {
+   "median": 0.08373827205216916,
+   "iqr": 0.15477129544396012
+  },
+  "chord_rate": {
+   "median": 1.336493235707705,
+   "iqr": 0.484478797944043
+  },
+  "repetitiveness": {
+   "median": 0.8144780099391937,
+   "iqr": 0.13791902363300323
+  },
+  "vocal_share": {
+   "median": 0.09568073600530624,
+   "iqr": 0.04986593499779701
+  },
+  "vocal_voiced": {
+   "median": 0.15433727577194967,
+   "iqr": 0.17066853699304468
+  },
+  "song_length": {
+   "median": 246.595,
+   "iqr": 56.14349999999999
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

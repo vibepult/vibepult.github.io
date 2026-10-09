@@ -1,0 +1,32 @@
+{
+ "id": "avatar/1841409771-108",
+ "band": "avatar",
+ "title": "One More Hill",
+ "source": "itunes",
+ "album": "Feathers & Flesh",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 6.197358042376493,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.0307623960760495,
+  "lufs": -10.3818029245403,
+  "rms_dbfs": -9.30803711578005,
+  "crest": 9.308036804199219,
+  "centroid": 2519.246416397924,
+  "flatness": 0.03246988356113434,
+  "sub100_share": 0.28259822726249695,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.5568031668663025,
+  "clean_share": 0.029389017788089715,
+  "minor_share": -0.3398407431386222,
+  "chord_rate": 2.6655303408070936,
+  "repetitiveness": 0.9208012223243713,
+  "vocal_share": 0.09612704813480377,
+  "vocal_voiced": 0.03531598513011153,
+  "song_length": 253.183
+ }
+}

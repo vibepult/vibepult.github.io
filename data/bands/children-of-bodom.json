@@ -1,0 +1,127 @@
+{
+ "slug": "children-of-bodom",
+ "name": "Children of Bodom",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 13550318,
+  "deezer": 530,
+  "spotify": "1xUhNgw4eJDZfvumIpcz1B"
+ },
+ "metadata": {
+  "formed": 1997,
+  "split": null,
+  "country": "FI",
+  "status": "active",
+  "members": 4,
+  "past_members": 3,
+  "full_lengths": 10,
+  "genre": "Melodic Death/Power Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 352327,
+  "themes": "Death, Hate, Lake Bodom, Anger, Antagonism",
+  "release_year": 2001
+ },
+ "partial": false,
+ "clips": [
+  "children-of-bodom/1679681780-104",
+  "children-of-bodom/1679603779-106",
+  "children-of-bodom/1679654554-106",
+  "children-of-bodom/1679659668-105",
+  "children-of-bodom/1679633036-105",
+  "children-of-bodom/1679669783-105",
+  "children-of-bodom/1458642550-106",
+  "children-of-bodom/1445221024-106",
+  "children-of-bodom/1679681780-103",
+  "children-of-bodom/1679603779-105",
+  "children-of-bodom/1679654554-105",
+  "children-of-bodom/1679659668-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 99.38401442307692,
+   "iqr": 15.264337713068187
+  },
+  "onset_rate": {
+   "median": 4.377015346942734,
+   "iqr": 2.2604070192665144
+  },
+  "tempo_var": {
+   "median": 11.443311750923336,
+   "iqr": 8.823315904323422
+  },
+  "low_onset_rate": {
+   "median": 5.6633900863114,
+   "iqr": 2.1702008982689236
+  },
+  "lufs": {
+   "median": -7.470911589513346,
+   "iqr": 0.47249404318791655
+  },
+  "rms_dbfs": {
+   "median": -7.187477005732497,
+   "iqr": 1.1554156569951761
+  },
+  "crest": {
+   "median": 7.187476873397827,
+   "iqr": 1.155415415763855
+  },
+  "centroid": {
+   "median": 2772.021987486998,
+   "iqr": 277.87369028541616
+  },
+  "flatness": {
+   "median": 0.044920098036527634,
+   "iqr": 0.02217342797666788
+  },
+  "sub100_share": {
+   "median": 0.32989244163036346,
+   "iqr": 0.20757653936743736
+  },
+  "lowest_pitch": {
+   "median": 56.524658203125,
+   "iqr": 18.16864013671875
+  },
+  "harmonic_share": {
+   "median": 0.7773965299129486,
+   "iqr": 0.0620083212852478
+  },
+  "clean_share": {
+   "median": 0.0023273855702094647,
+   "iqr": 0.005617759945430134
+  },
+  "minor_share": {
+   "median": 0.12338025974732703,
+   "iqr": 0.1578087029177721
+  },
+  "chord_rate": {
+   "median": 1.9189180971084063,
+   "iqr": 0.3586493235707704
+  },
+  "repetitiveness": {
+   "median": 0.8708362579345703,
+   "iqr": 0.07981078326702118
+  },
+  "vocal_share": {
+   "median": 0.0887501984834671,
+   "iqr": 0.07467129454016685
+  },
+  "vocal_voiced": {
+   "median": 0.1564102564102564,
+   "iqr": 0.11636703316896879
+  },
+  "song_length": {
+   "median": 254.793,
+   "iqr": 40.44674999999998
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

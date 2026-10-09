@@ -1,0 +1,32 @@
+{
+ "id": "def-leppard/1440876405-106",
+ "band": "def-leppard",
+ "title": "Cruise Control",
+ "source": "itunes",
+ "album": "Songs from the Sparkle Lounge",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 2.7398111332007953,
+  "tempo_var": 24.212917882835118,
+  "low_onset_rate": 4.243366023371963,
+  "lufs": -9.90960228996527,
+  "rms_dbfs": -9.612130731819473,
+  "crest": 9.612130165100098,
+  "centroid": 2483.986737406277,
+  "flatness": 0.03348598629236221,
+  "sub100_share": 0.3333762288093567,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7158337831497192,
+  "clean_share": 0.04965089216446858,
+  "minor_share": -0.045287400567225966,
+  "chord_rate": 2.2386261698104057,
+  "repetitiveness": 0.8713690042495728,
+  "vocal_share": 0.12916691601276398,
+  "vocal_voiced": 0.4895027624309392,
+  "song_length": 183.903
+ }
+}

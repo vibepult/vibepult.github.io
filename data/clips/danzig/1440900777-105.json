@@ -1,0 +1,32 @@
+{
+ "id": "danzig/1440900777-105",
+ "band": "danzig",
+ "title": "Dirty Black Summer",
+ "source": "itunes",
+ "album": "Danzig III: How the Gods Kill",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.599945579053983,
+  "tempo_var": 1.9603463608269902,
+  "low_onset_rate": 3.3999486024398724,
+  "lufs": -11.46982150821445,
+  "rms_dbfs": -11.477771442447013,
+  "crest": 11.477771759033203,
+  "centroid": 2254.2925244850144,
+  "flatness": 0.017984287813305855,
+  "sub100_share": 0.14479751884937286,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7226372361183167,
+  "clean_share": 0.37819025522041766,
+  "minor_share": -0.07201150042685467,
+  "chord_rate": 1.8333056189626764,
+  "repetitiveness": 0.9256513714790344,
+  "vocal_share": 5.62504965273547e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 313.774
+ }
+}

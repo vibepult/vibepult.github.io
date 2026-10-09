@@ -1,0 +1,32 @@
+{
+ "id": "electric-wizard/965391185-104",
+ "band": "electric-wizard",
+ "title": "Patterns of Evil",
+ "source": "itunes",
+ "album": "Black Masses",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 5.866577980680565,
+  "tempo_var": 13.264768078992905,
+  "low_onset_rate": 7.199891158107966,
+  "lufs": -7.788809581605969,
+  "rms_dbfs": -7.926629721441599,
+  "crest": 7.926630020141602,
+  "centroid": 2315.2729031747494,
+  "flatness": 0.024426724761724472,
+  "sub100_share": 0.19252827763557434,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7438335418701172,
+  "clean_share": 0.004640371229698376,
+  "minor_share": 0.11071561347849002,
+  "chord_rate": 2.0999682544481564,
+  "repetitiveness": 0.8682470917701721,
+  "vocal_share": 0.13060635328292847,
+  "vocal_voiced": 0.346031746031746,
+  "song_length": 389.72
+ }
+}

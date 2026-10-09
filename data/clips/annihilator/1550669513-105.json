@@ -1,0 +1,32 @@
+{
+ "id": "annihilator/1550669513-105",
+ "band": "annihilator",
+ "title": "Bled",
+ "source": "itunes",
+ "album": "All for You",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 6.248105876933521,
+  "tempo_var": 3.5960081480934467,
+  "low_onset_rate": 6.548816854967755,
+  "lufs": -11.69793136336538,
+  "rms_dbfs": -11.042474339522832,
+  "crest": 11.042474746704102,
+  "centroid": 2303.4226829271993,
+  "flatness": 0.020809141919016838,
+  "sub100_share": 0.3673897087574005,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7080556154251099,
+  "clean_share": 0.1761055081458495,
+  "minor_share": 0.08079669428817648,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.8854554891586304,
+  "vocal_share": 0.1350252777338028,
+  "vocal_voiced": 0.6984126984126984,
+  "song_length": 379.747
+ }
+}

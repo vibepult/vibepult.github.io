@@ -1,0 +1,32 @@
+{
+ "id": "daniel-lioneye/255722381-106",
+ "band": "daniel-lioneye",
+ "title": "Lonely Road",
+ "source": "itunes",
+ "album": "The King of Rock 'N' Roll",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.513034597294284,
+  "tempo_var": 6.795097530407746,
+  "low_onset_rate": 5.9473948988992875,
+  "lufs": -5.017391559226566,
+  "rms_dbfs": -4.74348480861471,
+  "crest": 4.743484973907471,
+  "centroid": 2673.8961112390703,
+  "flatness": 0.04112497717142105,
+  "sub100_share": 0.1773761659860611,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7834832072257996,
+  "clean_share": 0.0,
+  "minor_share": 0.31279882771391343,
+  "chord_rate": 2.1049768462396354,
+  "repetitiveness": 0.7632542252540588,
+  "vocal_share": 0.1293046772480011,
+  "vocal_voiced": 0.7218543046357616,
+  "song_length": 218.909
+ }
+}

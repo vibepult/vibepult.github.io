@@ -1,0 +1,32 @@
+{
+ "id": "helloween/1713881063-106",
+ "band": "helloween",
+ "title": "Before the War",
+ "source": "itunes",
+ "album": "The Time of the Oath",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 7.09989266980091,
+  "tempo_var": 18.486720463281177,
+  "low_onset_rate": 8.433205847228312,
+  "lufs": -9.888433159243341,
+  "rms_dbfs": -9.510200740896552,
+  "crest": 9.510200500488281,
+  "centroid": 2500.9057493385485,
+  "flatness": 0.035795196890830994,
+  "sub100_share": 0.36425504088401794,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.7649445533752441,
+  "clean_share": 0.0007733952049497294,
+  "minor_share": -0.08670670006484932,
+  "chord_rate": 1.7999727895269915,
+  "repetitiveness": 0.9318057894706726,
+  "vocal_share": 0.1744450479745865,
+  "vocal_voiced": 0.6573643410852713,
+  "song_length": 273.76
+ }
+}

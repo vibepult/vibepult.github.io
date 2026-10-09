@@ -1,0 +1,32 @@
+{
+ "id": "hamlet/1863523465-106",
+ "band": "hamlet",
+ "title": "La Sombra Del Pasado",
+ "source": "itunes",
+ "album": "Amnesia",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 69.83741554054055,
+  "onset_rate": 1.0333270849458205,
+  "tempo_var": 14.068447949477173,
+  "low_onset_rate": 0.43333071304179566,
+  "lufs": -7.357165979096154,
+  "rms_dbfs": -6.94825381992807,
+  "crest": 6.948253631591797,
+  "centroid": 2488.7677226582246,
+  "flatness": 0.03688082471489906,
+  "sub100_share": 0.30635693669319153,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7358936667442322,
+  "clean_share": 0.0030935808197989174,
+  "minor_share": -0.2883267122438308,
+  "chord_rate": 2.23331982875387,
+  "repetitiveness": 0.9417336583137512,
+  "vocal_share": 0.13238251209259033,
+  "vocal_voiced": 0.15151515151515152,
+  "song_length": 287.787
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "budgie/1681893488-105",
+ "band": "budgie",
+ "title": "Rape of the Locks (2013 Remaster)",
+ "source": "itunes",
+ "album": "Budgie (2013 Remaster)",
+ "year": 1971,
+ "itunes_year": 1971,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.842418052659652,
+  "tempo_var": 5.364296989658502,
+  "low_onset_rate": 5.078674295689279,
+  "lufs": -19.467758902206064,
+  "rms_dbfs": -18.61514737170969,
+  "crest": 17.846548080444336,
+  "centroid": 1805.2697541633866,
+  "flatness": 0.011172722093760967,
+  "sub100_share": 0.32809755206108093,
+  "lowest_pitch": 102.28271484375,
+  "harmonic_share": 0.6700905561447144,
+  "clean_share": 0.5484871993793639,
+  "minor_share": -0.03926368589615703,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.8792219758033752,
+  "vocal_share": 0.0945897176861763,
+  "vocal_voiced": 0.9473684210526315,
+  "song_length": 372.8
+ }
+}

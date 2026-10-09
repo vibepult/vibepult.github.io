@@ -1,0 +1,127 @@
+{
+ "slug": "dark-suns",
+ "name": "Dark Suns",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 78506710,
+  "deezer": 1681113,
+  "spotify": "725TVcN9QYnaZiG9VFBT7P"
+ },
+ "metadata": {
+  "formed": 1997,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 5,
+  "past_members": 9,
+  "full_lengths": 5,
+  "genre": "Doom Metal (early); Progressive Metal (later)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 373,
+  "themes": "Dreams, Individuality, Loss, Solitude",
+  "release_year": 2006
+ },
+ "partial": false,
+ "clips": [
+  "dark-suns/1556151504-104",
+  "dark-suns/1556150079-106",
+  "dark-suns/1556158377-105",
+  "dark-suns/1556064772-105",
+  "dark-suns/1556088393-106",
+  "dark-suns/1556151504-103",
+  "dark-suns/1556150079-105",
+  "dark-suns/1556158377-104",
+  "dark-suns/1556064772-106",
+  "dark-suns/1556088393-105",
+  "dark-suns/1556151504-105",
+  "dark-suns/1556150079-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.90049098320159,
+   "iqr": 23.47550068379202
+  },
+  "onset_rate": {
+   "median": 3.7087687290888813,
+   "iqr": 0.6014219560684677
+  },
+  "tempo_var": {
+   "median": 6.325363938425474,
+   "iqr": 7.854690001029454
+  },
+  "low_onset_rate": {
+   "median": 4.076304368908501,
+   "iqr": 4.001126624399942
+  },
+  "lufs": {
+   "median": -13.047141795435678,
+   "iqr": 8.450036361045527
+  },
+  "rms_dbfs": {
+   "median": -11.758966212332872,
+   "iqr": 8.42571691495828
+  },
+  "crest": {
+   "median": 11.758965969085693,
+   "iqr": 3.9566845893859863
+  },
+  "centroid": {
+   "median": 1747.2363369252175,
+   "iqr": 694.9000448194902
+  },
+  "flatness": {
+   "median": 0.00761447474360466,
+   "iqr": 0.014965107809985057
+  },
+  "sub100_share": {
+   "median": 0.25364819914102554,
+   "iqr": 0.3347914102487266
+  },
+  "lowest_pitch": {
+   "median": 71.3287353515625,
+   "iqr": 32.2998046875
+  },
+  "harmonic_share": {
+   "median": 0.8659115731716156,
+   "iqr": 0.2570123076438904
+  },
+  "clean_share": {
+   "median": 0.6198603568657874,
+   "iqr": 0.7189681923972071
+  },
+  "minor_share": {
+   "median": 0.04152984580078062,
+   "iqr": 0.07534391915343844
+  },
+  "chord_rate": {
+   "median": 1.4367302283857828,
+   "iqr": 1.1443723330747226
+  },
+  "repetitiveness": {
+   "median": 0.7931744754314423,
+   "iqr": 0.1403704285621643
+  },
+  "vocal_share": {
+   "median": 0.1297256201505661,
+   "iqr": 0.03257829695940018
+  },
+  "vocal_voiced": {
+   "median": 0.8712753277711561,
+   "iqr": 0.0997852680895368
+  },
+  "song_length": {
+   "median": 386.18,
+   "iqr": 142.33299999999997
+  },
+  "vocal_presence": {
+   "median": 0.4166666666666667,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

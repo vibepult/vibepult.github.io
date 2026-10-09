@@ -1,0 +1,32 @@
+{
+ "id": "opeth/1681886146-104",
+ "band": "opeth",
+ "title": "Forest of October (2023 Abbey Road Remaster)",
+ "source": "itunes",
+ "album": "Orchid (2023 Abbey Road Remaster)",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.7087687290888813,
+  "tempo_var": 15.716775534213157,
+  "low_onset_rate": 5.078674295689279,
+  "lufs": -12.17347573248238,
+  "rms_dbfs": -12.930890687024913,
+  "crest": 12.403053283691406,
+  "centroid": 2691.231331102226,
+  "flatness": 0.023785967379808426,
+  "sub100_share": 0.14891527593135834,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.842149555683136,
+  "clean_share": 0.04266873545384019,
+  "minor_share": 0.030898012760065208,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.6867535710334778,
+  "vocal_share": 8.673773663758766e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 787.955
+ }
+}

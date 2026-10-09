@@ -1,0 +1,32 @@
+{
+ "id": "strapping-young-lad/1045652093-104",
+ "band": "strapping-young-lad",
+ "title": "Monument",
+ "source": "itunes",
+ "album": "The New Black",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 5.112086626581972,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.214693546040828,
+  "lufs": -9.057794534758601,
+  "rms_dbfs": -8.173950445449439,
+  "crest": 8.173951148986816,
+  "centroid": 2653.417959202173,
+  "flatness": 0.03337988629937172,
+  "sub100_share": 0.3766842484474182,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.8182881474494934,
+  "clean_share": 0.015515903801396431,
+  "minor_share": 0.013266598021776432,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.926570475101471,
+  "vocal_share": 0.07878855615854263,
+  "vocal_voiced": 0.5368782161234992,
+  "song_length": 251.8
+ }
+}

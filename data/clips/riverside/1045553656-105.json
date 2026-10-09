@@ -1,0 +1,32 @@
+{
+ "id": "riverside/1045553656-105",
+ "band": "riverside",
+ "title": "Parasomnia",
+ "source": "itunes",
+ "album": "Rapid Eye Movement",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 5.546446928186976,
+  "tempo_var": 17.251720731717903,
+  "low_onset_rate": 6.715878509431217,
+  "lufs": -9.262522281631094,
+  "rms_dbfs": -8.949730380966713,
+  "crest": 8.949729919433594,
+  "centroid": 1876.9623053377709,
+  "flatness": 0.013780862092971802,
+  "sub100_share": 0.07534106075763702,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8112810254096985,
+  "clean_share": 0.4778898370830101,
+  "minor_share": 0.26007775591997445,
+  "chord_rate": 1.336493235707705,
+  "repetitiveness": 0.8820532560348511,
+  "vocal_share": 0.29691100120544434,
+  "vocal_voiced": 0.7712177121771218,
+  "song_length": 490.44
+ }
+}

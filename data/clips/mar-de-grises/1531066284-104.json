@@ -1,0 +1,32 @@
+{
+ "id": "mar-de-grises/1531066284-104",
+ "band": "mar-de-grises",
+ "title": "Fantasía",
+ "source": "itunes",
+ "album": "Draining the Waterheart (Remastered 2020)",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.9092427144450372,
+  "tempo_var": 7.00036464441869,
+  "low_onset_rate": 8.386495054065849,
+  "lufs": -14.90444147113854,
+  "rms_dbfs": -13.09070676914585,
+  "crest": 12.90937328338623,
+  "centroid": 832.4637006365059,
+  "flatness": 0.0002450835600029677,
+  "sub100_share": 0.6078143119812012,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.9476706981658936,
+  "clean_share": 0.9984484096198604,
+  "minor_share": 0.19488927948195345,
+  "chord_rate": 0.6014219560684673,
+  "repetitiveness": 0.8518238067626953,
+  "vocal_share": 0.002830487908795476,
+  "vocal_voiced": 0.39325842696629215,
+  "song_length": 190.2
+ }
+}

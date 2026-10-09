@@ -1,0 +1,32 @@
+{
+ "id": "judas-priest/282428225-112",
+ "band": "judas-priest",
+ "title": "Lost Love",
+ "source": "itunes",
+ "album": "Nostradamus",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.809005721766959,
+  "tempo_var": 7.169896594019743,
+  "low_onset_rate": 8.586969039422005,
+  "lufs": -14.533899168981739,
+  "rms_dbfs": -13.762432476431382,
+  "crest": 13.159626960754395,
+  "centroid": 1828.2210258227492,
+  "flatness": 0.007662252057343721,
+  "sub100_share": 0.10644080489873886,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.9141430854797363,
+  "clean_share": 0.6470131885182312,
+  "minor_share": -0.28717098844402167,
+  "chord_rate": 1.336493235707705,
+  "repetitiveness": 0.6137529611587524,
+  "vocal_share": 0.5675163269042969,
+  "vocal_voiced": 0.8757861635220126,
+  "song_length": 268.333
+ }
+}

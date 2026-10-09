@@ -1,0 +1,32 @@
+{
+ "id": "finntroll/1516676154-105",
+ "band": "finntroll",
+ "title": "Forsen",
+ "source": "itunes",
+ "album": "Vredesvävd",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.011849633903894,
+  "tempo_var": 2.383250640297917,
+  "low_onset_rate": 6.3817552005042915,
+  "lufs": -10.041788652881005,
+  "rms_dbfs": -9.829142607064941,
+  "crest": 9.829142570495605,
+  "centroid": 2412.5673561166163,
+  "flatness": 0.03001178242266178,
+  "sub100_share": 0.40582600235939026,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7528135180473328,
+  "clean_share": 0.02404965089216447,
+  "minor_share": -0.14011077155538798,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.8724108338356018,
+  "vocal_share": 0.11844099313020706,
+  "vocal_voiced": 0.1980802792321117,
+  "song_length": 247.708
+ }
+}

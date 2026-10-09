@@ -1,0 +1,32 @@
+{
+ "id": "dissection/1630970998-104",
+ "band": "dissection",
+ "title": "Where Dead Angels Lie",
+ "source": "itunes",
+ "album": "Storm of the Light's Bane",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 4.233333333333333,
+  "tempo_var": 5.010433650726776,
+  "low_onset_rate": 5.4,
+  "lufs": -12.09151686917267,
+  "rms_dbfs": -12.105751233726771,
+  "crest": 12.105751037597656,
+  "centroid": 2536.3442592673887,
+  "flatness": 0.023145265877246857,
+  "sub100_share": 0.2899787127971649,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.6395809054374695,
+  "clean_share": 0.010835913312693499,
+  "minor_share": 0.17207788996074103,
+  "chord_rate": 1.7333333333333334,
+  "repetitiveness": 0.9316490292549133,
+  "vocal_share": 8.157768434102763e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 353.593
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "as-i-lay-dying/6809840586-105",
+ "band": "as-i-lay-dying",
+ "title": "Polarized",
+ "source": "itunes",
+ "album": "As I Lay Dying",
+ "year": 2027,
+ "itunes_year": 2027,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 1.83332224748452,
+  "tempo_var": 22.83138479130179,
+  "low_onset_rate": 3.866643285603715,
+  "lufs": -7.201400966270997,
+  "rms_dbfs": -6.741407807404912,
+  "crest": 6.74140739440918,
+  "centroid": 2770.205147377921,
+  "flatness": 0.04659636318683624,
+  "sub100_share": 0.4641433358192444,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8191518783569336,
+  "clean_share": 0.004640371229698376,
+  "minor_share": 0.023800983146324173,
+  "chord_rate": 0.5333301083591331,
+  "repetitiveness": 0.8748441338539124,
+  "vocal_share": 0.07088712602853775,
+  "vocal_voiced": 0.40813648293963256,
+  "song_length": 222.589
+ }
+}

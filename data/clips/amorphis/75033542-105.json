@@ -1,0 +1,32 @@
+{
+ "id": "amorphis/75033542-105",
+ "band": "amorphis",
+ "title": "My Kantele",
+ "source": "itunes",
+ "album": "Elegy",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.633263291560218,
+  "tempo_var": 2.720721640629086,
+  "low_onset_rate": 4.8999259270456985,
+  "lufs": -8.805081977839748,
+  "rms_dbfs": -8.53863789344562,
+  "crest": 8.5386381149292,
+  "centroid": 2441.656887106155,
+  "flatness": 0.028746720403432846,
+  "sub100_share": 0.24322126805782318,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7960812449455261,
+  "clean_share": 0.010054137664346482,
+  "minor_share": -0.1644969471182458,
+  "chord_rate": 1.7666399600913063,
+  "repetitiveness": 0.7693313360214233,
+  "vocal_share": 0.0682806745171547,
+  "vocal_voiced": 0.12732615083251714,
+  "song_length": 302.067
+ }
+}

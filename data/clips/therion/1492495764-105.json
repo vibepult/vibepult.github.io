@@ -1,0 +1,32 @@
+{
+ "id": "therion/1492495764-105",
+ "band": "therion",
+ "title": "The Wild Hunt",
+ "source": "itunes",
+ "album": "Vovin",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 6.466666666666667,
+  "tempo_var": 21.633399527733232,
+  "low_onset_rate": 8.666666666666666,
+  "lufs": -9.215698515222028,
+  "rms_dbfs": -9.165868059389599,
+  "crest": 9.165867805480957,
+  "centroid": 2871.034630051432,
+  "flatness": 0.055324405431747437,
+  "sub100_share": 0.2722807228565216,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.6836687922477722,
+  "clean_share": 0.0,
+  "minor_share": 0.035193120538723255,
+  "chord_rate": 1.9333333333333333,
+  "repetitiveness": 0.9299092292785645,
+  "vocal_share": 0.15881258249282837,
+  "vocal_voiced": 0.6252821670428894,
+  "song_length": 229.333
+ }
+}

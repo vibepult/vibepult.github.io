@@ -1,0 +1,127 @@
+{
+ "slug": "tnt",
+ "name": "TNT",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1554900682,
+  "deezer": 72409632,
+  "spotify": "363VbwpX9anvrThJ2qDwBy"
+ },
+ "metadata": {
+  "formed": 1982,
+  "split": null,
+  "country": "NO",
+  "status": "active",
+  "members": 4,
+  "past_members": 12,
+  "full_lengths": 13,
+  "genre": "Heavy Metal/Hard Rock, Glam Metal/AOR",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 4856,
+  "themes": "Love, Social themes, Rock 'n' roll",
+  "release_year": 2007
+ },
+ "partial": false,
+ "clips": [
+  "tnt/1444106542-105",
+  "tnt/1687633896-107",
+  "tnt/1650648468-107",
+  "tnt/1650582096-106",
+  "tnt/1439277723-105",
+  "tnt/1365169578-106",
+  "tnt/1444106542-107",
+  "tnt/1687633896-106",
+  "tnt/1650648468-106",
+  "tnt/1650582096-105",
+  "tnt/1439277723-106",
+  "tnt/1365169578-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 136.376953125,
+   "iqr": 38.19690341590254
+  },
+  "onset_rate": {
+   "median": 3.6920625636425353,
+   "iqr": 1.0524884231198182
+  },
+  "tempo_var": {
+   "median": 14.283831017513325,
+   "iqr": 17.22752719742541
+  },
+  "low_onset_rate": {
+   "median": 4.844787979440431,
+   "iqr": 1.219550077583281
+  },
+  "lufs": {
+   "median": -9.505104601953894,
+   "iqr": 7.102131626085606
+  },
+  "rms_dbfs": {
+   "median": -9.537508417702288,
+   "iqr": 6.623051707951678
+  },
+  "crest": {
+   "median": 9.537508010864258,
+   "iqr": 6.5152907371521
+  },
+  "centroid": {
+   "median": 2560.428639920832,
+   "iqr": 454.51678048493795
+  },
+  "flatness": {
+   "median": 0.03327452950179577,
+   "iqr": 0.02469187183305621
+  },
+  "sub100_share": {
+   "median": 0.18790501356124878,
+   "iqr": 0.08689459785819054
+  },
+  "lowest_pitch": {
+   "median": 67.291259765625,
+   "iqr": 39.70184326171875
+  },
+  "harmonic_share": {
+   "median": 0.7364423871040344,
+   "iqr": 0.1243823915719986
+  },
+  "clean_share": {
+   "median": 0.02055857253685027,
+   "iqr": 0.1274243599689682
+  },
+  "minor_share": {
+   "median": -0.05207056182554548,
+   "iqr": 0.17169223387856336
+  },
+  "chord_rate": {
+   "median": 1.453436393832129,
+   "iqr": 0.6515404524075064
+  },
+  "repetitiveness": {
+   "median": 0.7858187556266785,
+   "iqr": 0.12636783719062805
+  },
+  "vocal_share": {
+   "median": 0.335070863366127,
+   "iqr": 0.1457195058465004
+  },
+  "vocal_voiced": {
+   "median": 0.8279749360018989,
+   "iqr": 0.16880681049701018
+  },
+  "song_length": {
+   "median": 218.953,
+   "iqr": 58.139999999999986
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

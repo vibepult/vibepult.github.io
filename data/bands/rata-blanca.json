@@ -1,0 +1,127 @@
+{
+ "slug": "rata-blanca",
+ "name": "Rata Blanca",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 220147921,
+  "deezer": 12029,
+  "spotify": "632M26jlmnCrL8CqD5i7Kd"
+ },
+ "metadata": {
+  "formed": 1985,
+  "split": null,
+  "country": "AR",
+  "status": "active",
+  "members": 5,
+  "past_members": 15,
+  "full_lengths": 10,
+  "genre": "Heavy/Power Metal, Hard Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 504800,
+  "themes": "Fantasy tales, Society, Rock 'n' Roll, Love",
+  "release_year": 1999
+ },
+ "partial": false,
+ "clips": [
+  "rata-blanca/446292994-104",
+  "rata-blanca/477001908-106",
+  "rata-blanca/403430362-107",
+  "rata-blanca/404594349-105",
+  "rata-blanca/280159766-106",
+  "rata-blanca/403439678-107",
+  "rata-blanca/1517788919-105",
+  "rata-blanca/446292994-105",
+  "rata-blanca/477001908-105",
+  "rata-blanca/403430362-108",
+  "rata-blanca/404594349-106",
+  "rata-blanca/280159766-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 101.37169471153845,
+   "iqr": 40.5080623435762
+  },
+  "onset_rate": {
+   "median": 2.9199055666003977,
+   "iqr": 2.4371638057831873
+  },
+  "tempo_var": {
+   "median": 5.168421695436524,
+   "iqr": 13.329990386242663
+  },
+  "low_onset_rate": {
+   "median": 3.3666666666666663,
+   "iqr": 2.815323708157558
+  },
+  "lufs": {
+   "median": -10.08198307209025,
+   "iqr": 6.204407554587057
+  },
+  "rms_dbfs": {
+   "median": -9.42964856078742,
+   "iqr": 6.484494582668497
+  },
+  "crest": {
+   "median": 9.429648876190186,
+   "iqr": 6.006120204925537
+  },
+  "centroid": {
+   "median": 2355.8378250153137,
+   "iqr": 711.7875954736755
+  },
+  "flatness": {
+   "median": 0.023043103516101837,
+   "iqr": 0.023549032397568226
+  },
+  "sub100_share": {
+   "median": 0.32127027213573456,
+   "iqr": 0.15544389188289642
+  },
+  "lowest_pitch": {
+   "median": 48.44970703125,
+   "iqr": 8.74786376953125
+  },
+  "harmonic_share": {
+   "median": 0.8038450479507446,
+   "iqr": 0.1268157809972763
+  },
+  "clean_share": {
+   "median": 0.03559383821913183,
+   "iqr": 0.432139087107629
+  },
+  "minor_share": {
+   "median": 0.014394753548336026,
+   "iqr": 0.13532162457940766
+  },
+  "chord_rate": {
+   "median": 1.2333333333333334,
+   "iqr": 0.9262092791530114
+  },
+  "repetitiveness": {
+   "median": 0.7774707674980164,
+   "iqr": 0.12371325492858887
+  },
+  "vocal_share": {
+   "median": 0.2218027263879776,
+   "iqr": 0.0949045866727829
+  },
+  "vocal_voiced": {
+   "median": 0.7928436911487758,
+   "iqr": 0.24273992877754658
+  },
+  "song_length": {
+   "median": 288.81100000000004,
+   "iqr": 136.66525000000001
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "sabaton/1463539531-106",
+ "band": "sabaton",
+ "title": "Angels Calling",
+ "source": "itunes",
+ "album": "Attero Dominatus",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.466651751160991,
+  "tempo_var": 2.297760724844771,
+  "low_onset_rate": 0.43333071304179566,
+  "lufs": -18.104624076809905,
+  "rms_dbfs": -16.421672691102437,
+  "crest": 13.928197860717773,
+  "centroid": 1440.7112371209867,
+  "flatness": 0.003513616742566228,
+  "sub100_share": 0.5141891837120056,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.9782204627990723,
+  "clean_share": 0.8778035576179428,
+  "minor_share": 0.2512365669854458,
+  "chord_rate": 0.4999969765866873,
+  "repetitiveness": 0.5186903476715088,
+  "vocal_share": 0.017819466069340706,
+  "vocal_voiced": 1.0,
+  "song_length": 357.013
+ }
+}

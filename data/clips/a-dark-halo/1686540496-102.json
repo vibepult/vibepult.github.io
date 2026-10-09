@@ -1,0 +1,32 @@
+{
+ "id": "a-dark-halo/1686540496-102",
+ "band": "a-dark-halo",
+ "title": "Starfall (feat. Kathleen Cylkowski)",
+ "source": "itunes",
+ "album": "Omnibus One",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 3.4080577510546477,
+  "tempo_var": 13.188690476299273,
+  "low_onset_rate": 5.312560611938127,
+  "lufs": -8.613691964772977,
+  "rms_dbfs": -8.154575522244471,
+  "crest": 8.15457534790039,
+  "centroid": 2025.2132744740534,
+  "flatness": 0.016653133556246758,
+  "sub100_share": 0.6499674916267395,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8952077627182007,
+  "clean_share": 0.28238944918541503,
+  "minor_share": 0.044908583809178504,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.8669325709342957,
+  "vocal_share": 0.0080883102491498,
+  "vocal_voiced": 0.781578947368421,
+  "song_length": 273.666
+ }
+}

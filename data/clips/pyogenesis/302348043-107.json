@@ -1,0 +1,32 @@
+{
+ "id": "pyogenesis/302348043-107",
+ "band": "pyogenesis",
+ "title": "She Cries",
+ "source": "itunes",
+ "album": "She Makes Me Wish I Had a Gun",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.1333333333333333,
+  "tempo_var": 13.722827204001284,
+  "low_onset_rate": 4.6,
+  "lufs": -7.237581887021209,
+  "rms_dbfs": -6.379096977458271,
+  "crest": 6.379097938537598,
+  "centroid": 2323.7383566515623,
+  "flatness": 0.027619963511824608,
+  "sub100_share": 0.30648696422576904,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7505404353141785,
+  "clean_share": 0.1803405572755418,
+  "minor_share": -0.10433430496976304,
+  "chord_rate": 1.3666666666666667,
+  "repetitiveness": 0.7546505331993103,
+  "vocal_share": 0.19875386357307434,
+  "vocal_voiced": 0.5804794520547946,
+  "song_length": 132.467
+ }
+}

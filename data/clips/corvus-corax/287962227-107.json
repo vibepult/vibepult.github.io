@@ -1,0 +1,32 @@
+{
+ "id": "corvus-corax/287962227-107",
+ "band": "corvus-corax",
+ "title": "Quid Agam",
+ "source": "itunes",
+ "album": "Cantus Buranus II",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.566583826143743,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.499900228567282,
+  "lufs": -11.662784063460489,
+  "rms_dbfs": -10.69364901986621,
+  "crest": 10.693649291992188,
+  "centroid": 1662.9369569347616,
+  "flatness": 0.006766962353140116,
+  "sub100_share": 0.36958736181259155,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7795018553733826,
+  "clean_share": 0.4547563805104408,
+  "minor_share": 0.03967216791525707,
+  "chord_rate": 1.199978231687407,
+  "repetitiveness": 0.9014517068862915,
+  "vocal_share": 0.1143682599067688,
+  "vocal_voiced": 0.48748510131108463,
+  "song_length": 349.707
+ }
+}

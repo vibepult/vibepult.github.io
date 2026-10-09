@@ -1,0 +1,32 @@
+{
+ "id": "angellore/1887748226-103",
+ "band": "angellore",
+ "title": "I Am the Agony",
+ "source": "itunes",
+ "album": "Errances",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 2.1333010838838415,
+  "tempo_var": 5.837927706395346,
+  "low_onset_rate": 4.466599144381793,
+  "lufs": -10.909019944531133,
+  "rms_dbfs": -10.248939133037693,
+  "crest": 10.24893856048584,
+  "centroid": 1924.1819240369216,
+  "flatness": 0.010585847310721874,
+  "sub100_share": 0.31206268072128296,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.9228891134262085,
+  "clean_share": 0.4593967517401392,
+  "minor_share": 0.049044955473610985,
+  "chord_rate": 0.8666535653278107,
+  "repetitiveness": 0.7169962525367737,
+  "vocal_share": 0.020401664078235626,
+  "vocal_voiced": 0.7009966777408638,
+  "song_length": 409.308
+ }
+}

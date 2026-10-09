@@ -1,0 +1,32 @@
+{
+ "id": "hibria/453667049-105",
+ "band": "hibria",
+ "title": "Blinded By Faith",
+ "source": "itunes",
+ "album": "Blind Ride",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.377015346942734,
+  "tempo_var": 5.448777324910559,
+  "low_onset_rate": 4.544077001406197,
+  "lufs": -8.222440334037652,
+  "rms_dbfs": -8.069750762194445,
+  "crest": 8.069751739501953,
+  "centroid": 2610.120134735006,
+  "flatness": 0.034055840224027634,
+  "sub100_share": 0.22181542217731476,
+  "lowest_pitch": 99.591064453125,
+  "harmonic_share": 0.7890515327453613,
+  "clean_share": 0.06904577191621412,
+  "minor_share": 0.12918146432356103,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.7795597910881042,
+  "vocal_share": 0.25345081090927124,
+  "vocal_voiced": 0.4046242774566474,
+  "song_length": 273.733
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "carcass/57664464-106",
+ "band": "carcass",
+ "title": "This Mortal Coil",
+ "source": "itunes",
+ "album": "Heartwork",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 5.5,
+  "tempo_var": 14.034930665832768,
+  "low_onset_rate": 5.866666666666666,
+  "lufs": -9.35022483492492,
+  "rms_dbfs": -9.070198458637366,
+  "crest": 9.070198059082031,
+  "centroid": 3079.875274165897,
+  "flatness": 0.05531713739037514,
+  "sub100_share": 0.3547663986682892,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7372773289680481,
+  "clean_share": 0.0,
+  "minor_share": 0.09706067222796089,
+  "chord_rate": 2.1666666666666665,
+  "repetitiveness": 0.8878096342086792,
+  "vocal_share": 0.04072575643658638,
+  "vocal_voiced": 0.0,
+  "song_length": 229.773
+ }
+}

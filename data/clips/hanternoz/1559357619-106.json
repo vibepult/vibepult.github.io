@@ -1,0 +1,32 @@
+{
+ "id": "hanternoz/1559357619-106",
+ "band": "hanternoz",
+ "title": "Bateliers de loire",
+ "source": "itunes",
+ "album": "Au fleuve de loire",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 3.207583765698492,
+  "tempo_var": 5.16575171079714,
+  "low_onset_rate": 5.4462099355088975,
+  "lufs": -9.379927894353369,
+  "rms_dbfs": -9.13010691591247,
+  "crest": 9.130106925964355,
+  "centroid": 2604.173772167548,
+  "flatness": 0.0390913225710392,
+  "sub100_share": 0.1780661940574646,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7530685663223267,
+  "clean_share": 0.02017067494181536,
+  "minor_share": -0.011950373073064124,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.8132915496826172,
+  "vocal_share": 0.1963912844657898,
+  "vocal_voiced": 0.19457735247208932,
+  "song_length": 366.75
+ }
+}

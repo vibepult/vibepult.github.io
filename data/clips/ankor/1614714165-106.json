@@ -1,0 +1,32 @@
+{
+ "id": "ankor/1614714165-106",
+ "band": "ankor",
+ "title": "Fences",
+ "source": "itunes",
+ "album": "White Dragon",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.076304368908501,
+  "tempo_var": 26.26759481891546,
+  "low_onset_rate": 3.8758303835523447,
+  "lufs": -8.735392868989239,
+  "rms_dbfs": -7.931718987671084,
+  "crest": 7.931718826293945,
+  "centroid": 2470.16004466908,
+  "flatness": 0.01750810444355011,
+  "sub100_share": 0.47354546189308167,
+  "lowest_pitch": 164.190673828125,
+  "harmonic_share": 0.8665106296539307,
+  "clean_share": 0.2583397982932506,
+  "minor_share": 0.32090794142181434,
+  "chord_rate": 1.0023699267807789,
+  "repetitiveness": 0.711781919002533,
+  "vocal_share": 0.1874348372220993,
+  "vocal_voiced": 0.8491859468723222,
+  "song_length": 215.316
+ }
+}

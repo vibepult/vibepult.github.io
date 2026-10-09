@@ -1,0 +1,127 @@
+{
+ "slug": "girlschool",
+ "name": "Girlschool",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 5085924,
+  "deezer": 9921,
+  "spotify": "2TRtXTjjmyzK5oUGec1Gv8"
+ },
+ "metadata": {
+  "formed": 1978,
+  "split": null,
+  "country": "GB",
+  "status": "active",
+  "members": 4,
+  "past_members": 7,
+  "full_lengths": 14,
+  "genre": "Heavy Metal, NWOBHM",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 9960,
+  "themes": "Rebellion, Life, Love",
+  "release_year": 1992
+ },
+ "partial": false,
+ "clips": [
+  "girlschool/1436248100-107",
+  "girlschool/1436282905-107",
+  "girlschool/1471135014-106",
+  "girlschool/1504285961-106",
+  "girlschool/1504690370-108",
+  "girlschool/1505573437-108",
+  "girlschool/1680760898-106",
+  "girlschool/1436248100-106",
+  "girlschool/1436282905-108",
+  "girlschool/1471135014-105",
+  "girlschool/1504285961-107",
+  "girlschool/1504690370-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.72650642942585,
+   "iqr": 48.7060546875
+  },
+  "onset_rate": {
+   "median": 4.483333333333333,
+   "iqr": 1.0627760368682218
+  },
+  "tempo_var": {
+   "median": 4.913561725744719,
+   "iqr": 6.373349354971811
+  },
+  "low_onset_rate": {
+   "median": 5.095380461135625,
+   "iqr": 0.6342427144450369
+  },
+  "lufs": {
+   "median": -9.041420885331604,
+   "iqr": 1.4720760794207646
+  },
+  "rms_dbfs": {
+   "median": -9.277043323410798,
+   "iqr": 1.3715106104846218
+  },
+  "crest": {
+   "median": 9.277043342590332,
+   "iqr": 1.3715102672576904
+  },
+  "centroid": {
+   "median": 2623.8086602025687,
+   "iqr": 142.01598585325473
+  },
+  "flatness": {
+   "median": 0.03805310279130936,
+   "iqr": 0.01068949792534113
+  },
+  "sub100_share": {
+   "median": 0.17774561047554016,
+   "iqr": 0.10671656765043736
+  },
+  "lowest_pitch": {
+   "median": 64.599609375,
+   "iqr": 27.58941650390625
+  },
+  "harmonic_share": {
+   "median": 0.6900009214878082,
+   "iqr": 0.047276854515075684
+  },
+  "clean_share": {
+   "median": 0.006584351514481911,
+   "iqr": 0.06255809457015422
+  },
+  "minor_share": {
+   "median": 0.013331789014633777,
+   "iqr": 0.23808434374898074
+  },
+  "chord_rate": {
+   "median": 1.2681676202944931,
+   "iqr": 0.5926738855484976
+  },
+  "repetitiveness": {
+   "median": 0.8273859322071075,
+   "iqr": 0.022005707025527954
+  },
+  "vocal_share": {
+   "median": 0.16483242064714432,
+   "iqr": 0.05630650371313095
+  },
+  "vocal_voiced": {
+   "median": 0.7529814557810461,
+   "iqr": 0.3136927133236077
+  },
+  "song_length": {
+   "median": 192.92700000000002,
+   "iqr": 15.336250000000007
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

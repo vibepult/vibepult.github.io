@@ -1,0 +1,32 @@
+{
+ "id": "dark-moor/1447225147-106",
+ "band": "dark-moor",
+ "title": "And for Ever",
+ "source": "itunes",
+ "album": "Origins",
+ "year": 2018,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 3.742181059981574,
+  "tempo_var": 38.40044882227771,
+  "low_onset_rate": 6.014219560684673,
+  "lufs": -11.044870859650446,
+  "rms_dbfs": -11.20362672278768,
+  "crest": 11.20362663269043,
+  "centroid": 1771.2675598778458,
+  "flatness": 0.00913962535560131,
+  "sub100_share": 0.14642180502414703,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.8444026708602905,
+  "clean_share": 0.534522885958107,
+  "minor_share": 0.057738385935122816,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.6777944564819336,
+  "vocal_share": 0.44298744201660156,
+  "vocal_voiced": 0.7212205270457698,
+  "song_length": 265.816
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "exodus/1458697981-106",
+ "band": "exodus",
+ "title": "BTK",
+ "source": "itunes",
+ "album": "Blood In Blood Out",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.299967951818886,
+  "tempo_var": 0.0,
+  "low_onset_rate": 2.799983068885449,
+  "lufs": -9.77364606439702,
+  "rms_dbfs": -8.81857524119332,
+  "crest": 8.818575859069824,
+  "centroid": 2243.7905715183006,
+  "flatness": 0.016066551208496094,
+  "sub100_share": 0.3370260000228882,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.6805615425109863,
+  "clean_share": 0.19489559164733178,
+  "minor_share": 0.09083616114447018,
+  "chord_rate": 2.5333180147058822,
+  "repetitiveness": 0.9133500456809998,
+  "vocal_share": 6.194829325067985e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 416.053
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "stille-volk/1555059836-105",
+ "band": "stille-volk",
+ "title": "Le Réveil De Pan",
+ "source": "itunes",
+ "album": "Satyre Cornu",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.412797604616205,
+  "tempo_var": 2.267434287168876,
+  "low_onset_rate": 5.513034597294284,
+  "lufs": -14.81537393319771,
+  "rms_dbfs": -15.375953697551692,
+  "crest": 15.375953674316406,
+  "centroid": 3019.904682388128,
+  "flatness": 0.028850991278886795,
+  "sub100_share": 0.05586589500308037,
+  "lowest_pitch": 145.34912109375,
+  "harmonic_share": 0.8059131503105164,
+  "clean_share": 0.0069821567106283944,
+  "minor_share": -0.030617563268006687,
+  "chord_rate": 0.9021329341027009,
+  "repetitiveness": 0.9107001423835754,
+  "vocal_share": 0.23451320827007294,
+  "vocal_voiced": 0.8390022675736961,
+  "song_length": 279.52
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "dozer/338594196-105",
+ "band": "dozer",
+ "title": "Riding the Machine",
+ "source": "itunes",
+ "album": "In the Tail of a Comet",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 5.299903856619381,
+  "tempo_var": 2.842170943040401e-14,
+  "low_onset_rate": 7.233202118782426,
+  "lufs": -8.52503035938487,
+  "rms_dbfs": -7.921352056839797,
+  "crest": 7.921351909637451,
+  "centroid": 2346.5182875810715,
+  "flatness": 0.022837812080979347,
+  "sub100_share": 0.16992829740047455,
+  "lowest_pitch": 99.591064453125,
+  "harmonic_share": 0.840889573097229,
+  "clean_share": 0.10904872389791183,
+  "minor_share": 0.1654601981810796,
+  "chord_rate": 0.8999836737655552,
+  "repetitiveness": 0.7762489914894104,
+  "vocal_share": 0.06680592894554138,
+  "vocal_voiced": 0.8151382823871907,
+  "song_length": 229.093
+ }
+}

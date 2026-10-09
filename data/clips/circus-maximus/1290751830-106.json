@@ -1,0 +1,32 @@
+{
+ "id": "circus-maximus/1290751830-106",
+ "band": "circus-maximus",
+ "title": "I Am",
+ "source": "itunes",
+ "album": "Nine",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.209953692479271,
+  "tempo_var": 0.0,
+  "low_onset_rate": 3.7087687290888813,
+  "lufs": -11.43068630702426,
+  "rms_dbfs": -10.631202837260219,
+  "crest": 10.631202697753906,
+  "centroid": 2233.4446373046244,
+  "flatness": 0.015315959230065346,
+  "sub100_share": 0.37532752752304077,
+  "lowest_pitch": 164.190673828125,
+  "harmonic_share": 0.8284604549407959,
+  "clean_share": 0.12335143522110163,
+  "minor_share": -0.03091504517344612,
+  "chord_rate": 1.1026069194588566,
+  "repetitiveness": 0.7243234515190125,
+  "vocal_share": 4.327065994402801e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 260.213
+ }
+}

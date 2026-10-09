@@ -1,0 +1,32 @@
+{
+ "id": "kreator/1837718517-105",
+ "band": "kreator",
+ "title": "Barbarian",
+ "source": "itunes",
+ "album": "Krushers Of The World",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.0665739509009553,
+  "tempo_var": 4.955111059094462,
+  "low_onset_rate": 5.266507437416858,
+  "lufs": -8.5804830765284,
+  "rms_dbfs": -8.00907212842678,
+  "crest": 8.009072303771973,
+  "centroid": 2411.8421125579557,
+  "flatness": 0.036433055996894836,
+  "sub100_share": 0.3131668269634247,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7402617335319519,
+  "clean_share": 0.23588553750966745,
+  "minor_share": -0.008639312924648479,
+  "chord_rate": 1.5999516265570202,
+  "repetitiveness": 0.9178804159164429,
+  "vocal_share": 0.09427742660045624,
+  "vocal_voiced": 0.1317365269461078,
+  "song_length": 280.24
+ }
+}

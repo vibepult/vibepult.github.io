@@ -1,0 +1,32 @@
+{
+ "id": "helloween/1776757493-108",
+ "band": "helloween",
+ "title": "The Departed",
+ "source": "itunes",
+ "album": "The Dark Ride (Special Edition)",
+ "year": 2000,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 4.966666666666667,
+  "tempo_var": 15.39932793605279,
+  "low_onset_rate": 5.933333333333334,
+  "lufs": -8.542148583891795,
+  "rms_dbfs": -7.949119558447957,
+  "crest": 7.949119567871094,
+  "centroid": 2436.570396072482,
+  "flatness": 0.028005948290228844,
+  "sub100_share": 0.3265819251537323,
+  "lowest_pitch": 94.207763671875,
+  "harmonic_share": 0.8185386657714844,
+  "clean_share": 0.01393188854489164,
+  "minor_share": -0.03307716927014859,
+  "chord_rate": 0.7,
+  "repetitiveness": 0.9716799259185791,
+  "vocal_share": 0.09564074128866196,
+  "vocal_voiced": 0.6609392898052692,
+  "song_length": 276.64
+ }
+}

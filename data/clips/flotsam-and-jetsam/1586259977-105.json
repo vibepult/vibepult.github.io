@@ -1,0 +1,32 @@
+{
+ "id": "flotsam-and-jetsam/1586259977-105",
+ "band": "flotsam-and-jetsam",
+ "title": "Missing",
+ "source": "itunes",
+ "album": "Drift",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.030981165940963,
+  "tempo_var": 14.787403234753786,
+  "low_onset_rate": 5.630048074743989,
+  "lufs": -12.643053762710458,
+  "rms_dbfs": -11.728676130476751,
+  "crest": 11.728676795959473,
+  "centroid": 2643.0016947171393,
+  "flatness": 0.024013701826334,
+  "sub100_share": 0.3392476439476013,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.7695169448852539,
+  "clean_share": 0.22815158546017014,
+  "minor_share": 0.35500722450427624,
+  "chord_rate": 1.8655780602701975,
+  "repetitiveness": 0.7854974865913391,
+  "vocal_share": 0.1169290691614151,
+  "vocal_voiced": 0.6975308641975309,
+  "song_length": 356.507
+ }
+}

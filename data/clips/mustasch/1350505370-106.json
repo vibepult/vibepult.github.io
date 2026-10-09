@@ -1,0 +1,32 @@
+{
+ "id": "mustasch/1350505370-106",
+ "band": "mustasch",
+ "title": "Life on Earth",
+ "source": "itunes",
+ "album": "Powerhouse",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 73.828125,
+  "onset_rate": 3.575119405518111,
+  "tempo_var": 12.628510503201538,
+  "low_onset_rate": 3.474882412840033,
+  "lufs": -8.311864801667895,
+  "rms_dbfs": -7.495711851946738,
+  "crest": 7.4957122802734375,
+  "centroid": 1710.5645037701165,
+  "flatness": 0.006204637698829174,
+  "sub100_share": 0.3631848990917206,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.904670774936676,
+  "clean_share": 0.6501163692785105,
+  "minor_share": 0.23592200920797624,
+  "chord_rate": 2.205213838917713,
+  "repetitiveness": 0.7995897531509399,
+  "vocal_share": 0.10509264469146729,
+  "vocal_voiced": 0.9577039274924471,
+  "song_length": 336.307
+ }
+}

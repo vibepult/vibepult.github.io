@@ -1,0 +1,32 @@
+{
+ "id": "tygers-of-pan-tang/277664819-105",
+ "band": "tygers-of-pan-tang",
+ "title": "Maria",
+ "source": "itunes",
+ "album": "Burning In the Shade",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 1.7040288755273238,
+  "tempo_var": 8.742592831351079,
+  "low_onset_rate": 3.9092427144450372,
+  "lufs": -14.45209536411996,
+  "rms_dbfs": -13.939063761565713,
+  "crest": 13.939064025878906,
+  "centroid": 1960.1192695783968,
+  "flatness": 0.007209002505987883,
+  "sub100_share": 0.1343856304883957,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.9491381049156189,
+  "clean_share": 0.44530643910007756,
+  "minor_share": 0.15523125382989877,
+  "chord_rate": 0.46777263249769674,
+  "repetitiveness": 0.6282865405082703,
+  "vocal_share": 0.3283802568912506,
+  "vocal_voiced": 0.9094616639477977,
+  "song_length": 240.107
+ }
+}

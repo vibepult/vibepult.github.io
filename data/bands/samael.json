@@ -1,0 +1,127 @@
+{
+ "slug": "samael",
+ "name": "Samael",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 73170022,
+  "deezer": 3263,
+  "spotify": "1WXagRGw8AveVrRxDfUjli"
+ },
+ "metadata": {
+  "formed": 1987,
+  "split": null,
+  "country": "CH",
+  "status": "active",
+  "members": 4,
+  "past_members": 6,
+  "full_lengths": 11,
+  "genre": "Black Metal (early); Electronic/Industrial Metal (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 31179,
+  "themes": "Satanism (early); Space, Discovery, Spirituality, Politics",
+  "release_year": 1997
+ },
+ "partial": false,
+ "clips": [
+  "samael/1060452608-105",
+  "samael/1045591414-106",
+  "samael/1045642800-105",
+  "samael/1045619530-106",
+  "samael/1045654697-108",
+  "samael/1456954500-106",
+  "samael/1045603481-105",
+  "samael/1455657456-106",
+  "samael/1455679888-108",
+  "samael/1266862417-107",
+  "samael/1060452608-104",
+  "samael/1045591414-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 143.5546875,
+   "iqr": 32.02837775735293
+  },
+  "onset_rate": {
+   "median": 4.689021157607202,
+   "iqr": 1.5448147290065268
+  },
+  "tempo_var": {
+   "median": 12.060694325283013,
+   "iqr": 9.230762557635936
+  },
+  "low_onset_rate": {
+   "median": 5.488220508031009,
+   "iqr": 1.6934807073441043
+  },
+  "lufs": {
+   "median": -9.48303544220727,
+   "iqr": 0.908937578876019
+  },
+  "rms_dbfs": {
+   "median": -9.399238860175055,
+   "iqr": 1.5357129315005604
+  },
+  "crest": {
+   "median": 9.399238586425781,
+   "iqr": 1.5357134342193604
+  },
+  "centroid": {
+   "median": 2688.4454664516043,
+   "iqr": 408.537748602962
+  },
+  "flatness": {
+   "median": 0.050720181316137314,
+   "iqr": 0.023529401049017906
+  },
+  "sub100_share": {
+   "median": 0.3392862230539322,
+   "iqr": 0.16106927394866943
+  },
+  "lowest_pitch": {
+   "median": 45.758056640625,
+   "iqr": 11.43951416015625
+  },
+  "harmonic_share": {
+   "median": 0.7302377820014954,
+   "iqr": 0.16193047165870667
+  },
+  "clean_share": {
+   "median": 0.022815158546017015,
+   "iqr": 0.07025041444743042
+  },
+  "minor_share": {
+   "median": 0.10888121699038422,
+   "iqr": 0.20769997144540317
+  },
+  "chord_rate": {
+   "median": 1.4847466704019145,
+   "iqr": 0.6511246570262106
+  },
+  "repetitiveness": {
+   "median": 0.8285230994224548,
+   "iqr": 0.1327413022518158
+  },
+  "vocal_share": {
+   "median": 0.10136476904153824,
+   "iqr": 0.044295668601989746
+  },
+  "vocal_voiced": {
+   "median": 0.1271043771043771,
+   "iqr": 0.27916526939414266
+  },
+  "song_length": {
+   "median": 231.7335,
+   "iqr": 52.03299999999999
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

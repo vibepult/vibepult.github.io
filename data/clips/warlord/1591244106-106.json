@@ -1,0 +1,32 @@
+{
+ "id": "warlord/1591244106-106",
+ "band": "warlord",
+ "title": "My Name Is Man",
+ "source": "itunes",
+ "album": "Rising Out of the Ashes",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 2.505924816951947,
+  "tempo_var": 21.927146227415143,
+  "low_onset_rate": 6.014219560684673,
+  "lufs": -18.987963702073465,
+  "rms_dbfs": -18.894947079605405,
+  "crest": 16.774465560913086,
+  "centroid": 1852.739448859658,
+  "flatness": 0.006844823714345694,
+  "sub100_share": 0.19147038459777832,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.9299404621124268,
+  "clean_share": 0.6446858029480217,
+  "minor_share": 0.17898004844095772,
+  "chord_rate": 0.8687206032100082,
+  "repetitiveness": 0.6650986075401306,
+  "vocal_share": 0.2928430736064911,
+  "vocal_voiced": 0.7124824684431977,
+  "song_length": 376.253
+ }
+}

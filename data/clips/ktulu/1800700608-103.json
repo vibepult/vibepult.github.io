@@ -1,0 +1,32 @@
+{
+ "id": "ktulu/1800700608-103",
+ "band": "ktulu",
+ "title": "Basta",
+ "source": "itunes",
+ "album": "Involución",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 5.299903856619381,
+  "tempo_var": 10.386059455753582,
+  "low_onset_rate": 6.766543917570656,
+  "lufs": -10.188586536702152,
+  "rms_dbfs": -9.71206095926681,
+  "crest": 9.712060928344727,
+  "centroid": 3280.886932271833,
+  "flatness": 0.07661475241184235,
+  "sub100_share": 0.49762922525405884,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.621817946434021,
+  "clean_share": 0.002320185614849188,
+  "minor_share": 0.07539146877887726,
+  "chord_rate": 2.3332910060588468,
+  "repetitiveness": 0.9556736350059509,
+  "vocal_share": 0.08923270553350449,
+  "vocal_voiced": 0.06655433866891322,
+  "song_length": 230.156
+ }
+}

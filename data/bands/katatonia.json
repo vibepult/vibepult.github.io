@@ -1,0 +1,127 @@
+{
+ "slug": "katatonia",
+ "name": "Katatonia",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 73592787,
+  "deezer": 4019,
+  "spotify": "2CWWgbxApjbyByxBBCvGTm"
+ },
+ "metadata": {
+  "formed": 1991,
+  "split": null,
+  "country": "SE",
+  "status": "active",
+  "members": 5,
+  "past_members": 8,
+  "full_lengths": 14,
+  "genre": "Doom/Death Metal (early); Gothic/Alternative/Progressive Rock/Metal (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 95167,
+  "themes": "Introspection, Loss, Love, Crime, Depression, Bereavement, Allegory",
+  "release_year": 2004
+ },
+ "partial": false,
+ "clips": [
+  "katatonia/1189437668-107",
+  "katatonia/208202368-105",
+  "katatonia/214347976-107",
+  "katatonia/206254473-107",
+  "katatonia/73594722-106",
+  "katatonia/73592814-107",
+  "katatonia/117332670-106",
+  "katatonia/1189425748-106",
+  "katatonia/786163307-106",
+  "katatonia/1091661698-107",
+  "katatonia/1494960292-106",
+  "katatonia/1647368479-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.90049098320159,
+   "iqr": 28.99380387931035
+  },
+  "onset_rate": {
+   "median": 3.458176247393687,
+   "iqr": 0.7023501773909389
+  },
+  "tempo_var": {
+   "median": 11.620217950165843,
+   "iqr": 20.118197376115074
+  },
+  "low_onset_rate": {
+   "median": 4.2934845197110025,
+   "iqr": 1.8979667220255698
+  },
+  "lufs": {
+   "median": -12.255187577496013,
+   "iqr": 2.889280862254026
+  },
+  "rms_dbfs": {
+   "median": -11.078258099405412,
+   "iqr": 2.283938963495295
+  },
+  "crest": {
+   "median": 11.078258037567139,
+   "iqr": 2.2839391231536865
+  },
+  "centroid": {
+   "median": 2089.8666664454413,
+   "iqr": 403.6801511976803
+  },
+  "flatness": {
+   "median": 0.016779410652816296,
+   "iqr": 0.017402718774974346
+  },
+  "sub100_share": {
+   "median": 0.3721517473459244,
+   "iqr": 0.24543973058462143
+  },
+  "lowest_pitch": {
+   "median": 55.1788330078125,
+   "iqr": 17.4957275390625
+  },
+  "harmonic_share": {
+   "median": 0.8391082584857941,
+   "iqr": 0.11819599568843842
+  },
+  "clean_share": {
+   "median": 0.41718266253869973,
+   "iqr": 0.42911516715624226
+  },
+  "minor_share": {
+   "median": 0.054779374395731995,
+   "iqr": 0.12608679604171252
+  },
+  "chord_rate": {
+   "median": 1.4,
+   "iqr": 0.32814015298453203
+  },
+  "repetitiveness": {
+   "median": 0.7864965200424194,
+   "iqr": 0.1529170423746109
+  },
+  "vocal_share": {
+   "median": 0.10608665645122528,
+   "iqr": 0.0594632625579834
+  },
+  "vocal_voiced": {
+   "median": 0.8385214007782101,
+   "iqr": 0.052064803741737053
+  },
+  "song_length": {
+   "median": 270.6785,
+   "iqr": 71.04649999999998
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

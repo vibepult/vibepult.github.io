@@ -1,0 +1,32 @@
+{
+ "id": "accept/192963837-105",
+ "band": "accept",
+ "title": "Losing More Than You've Ever Had",
+ "source": "itunes",
+ "album": "Balls to the Wall",
+ "year": 1983,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.463839231084166,
+  "tempo_var": 2.6266442529206184,
+  "low_onset_rate": 4.497151464151958,
+  "lufs": -10.68435769140216,
+  "rms_dbfs": -10.512052077797039,
+  "crest": 10.512052536010742,
+  "centroid": 2692.502981094658,
+  "flatness": 0.03958645462989807,
+  "sub100_share": 0.2472042590379715,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7186933755874634,
+  "clean_share": 0.0038669760247486465,
+  "minor_share": 0.075107452621542,
+  "chord_rate": 1.9321095179319523,
+  "repetitiveness": 0.8540172576904297,
+  "vocal_share": 0.18177160620689392,
+  "vocal_voiced": 0.5733333333333334,
+  "song_length": 308.909
+ }
+}

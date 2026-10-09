@@ -1,0 +1,32 @@
+{
+ "id": "dark-angel/1005187416-103",
+ "band": "dark-angel",
+ "title": "No One Answers",
+ "source": "itunes",
+ "album": "Leave Scars",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 1.2696685739223197,
+  "tempo_var": 4.0148263716601615,
+  "low_onset_rate": 3.174171434805799,
+  "lufs": -7.594378947239794,
+  "rms_dbfs": -7.452126806503971,
+  "crest": 7.452126502990723,
+  "centroid": 2506.2160743334402,
+  "flatness": 0.03142329305410385,
+  "sub100_share": 0.29076847434043884,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7845771312713623,
+  "clean_share": 0.005430566330488751,
+  "minor_share": -0.01230156838148272,
+  "chord_rate": 2.940285118556951,
+  "repetitiveness": 0.9239078164100647,
+  "vocal_share": 6.398478262781282e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 467.387
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "sirenia/1672674361-106",
+ "band": "sirenia",
+ "title": "Fading to the Deepest Black",
+ "source": "itunes",
+ "album": "1977",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 6.16440219239191,
+  "tempo_var": 17.75846909676282,
+  "low_onset_rate": 6.630897493437785,
+  "lufs": -8.346866308500406,
+  "rms_dbfs": -7.494056651584767,
+  "crest": 7.494056701660156,
+  "centroid": 2530.5420458459976,
+  "flatness": 0.03168897703289986,
+  "sub100_share": 0.42355722188949585,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.7624362111091614,
+  "clean_share": 0.01237432327919567,
+  "minor_share": 0.11555782901825229,
+  "chord_rate": 1.4994491819331675,
+  "repetitiveness": 0.8995439410209656,
+  "vocal_share": 0.1355593502521515,
+  "vocal_voiced": 0.8097982708933718,
+  "song_length": 214.947
+ }
+}

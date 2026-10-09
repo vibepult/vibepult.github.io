@@ -1,0 +1,32 @@
+{
+ "id": "motley-crue/1606692937-106",
+ "band": "motley-crue",
+ "title": "Helter Skelter",
+ "source": "itunes",
+ "album": "Shout at the Devil",
+ "year": 1983,
+ "itunes_year": 1983,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 3.2332844552614475,
+  "tempo_var": 16.174931103049314,
+  "low_onset_rate": 4.433266314946108,
+  "lufs": -9.271284494739303,
+  "rms_dbfs": -9.300064483702716,
+  "crest": 9.300064086914062,
+  "centroid": 2528.954902911637,
+  "flatness": 0.030052831396460533,
+  "sub100_share": 0.10797126591205597,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7447980642318726,
+  "clean_share": 0.01082753286929621,
+  "minor_share": 0.14704996476483134,
+  "chord_rate": 1.2666475185560309,
+  "repetitiveness": 0.8603620529174805,
+  "vocal_share": 0.22901782393455505,
+  "vocal_voiced": 0.7879146919431279,
+  "song_length": 192.0
+ }
+}

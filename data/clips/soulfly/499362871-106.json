@@ -1,0 +1,32 @@
+{
+ "id": "soulfly/499362871-106",
+ "band": "soulfly",
+ "title": "American Steel",
+ "source": "itunes",
+ "album": "Enslaved",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 6.916352494787374,
+  "tempo_var": 11.638182600708722,
+  "low_onset_rate": 8.987917010134316,
+  "lufs": -8.304766225310802,
+  "rms_dbfs": -7.5605038980391805,
+  "crest": 7.5605034828186035,
+  "centroid": 2584.722497600188,
+  "flatness": 0.03695017099380493,
+  "sub100_share": 0.33536475896835327,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.6945458650588989,
+  "clean_share": 0.004654771140418929,
+  "minor_share": 0.22049296452099165,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.9145983457565308,
+  "vocal_share": 0.06745388358831406,
+  "vocal_voiced": 0.038109756097560975,
+  "song_length": 254.507
+ }
+}

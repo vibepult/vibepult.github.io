@@ -1,0 +1,32 @@
+{
+ "id": "rush/1878526980-104",
+ "band": "rush",
+ "title": "The Enemy Within (2026 Remaster)",
+ "source": "itunes",
+ "album": "Grace Under Pressure (2026 Remaster)",
+ "year": 1984,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.8991853206571845,
+  "tempo_var": 20.51888552008307,
+  "low_onset_rate": 5.232463233627061,
+  "lufs": -14.51768604133068,
+  "rms_dbfs": -13.828447037015902,
+  "crest": 13.828447341918945,
+  "centroid": 2149.709437921405,
+  "flatness": 0.016193978488445282,
+  "sub100_share": 0.1840542107820511,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7520003914833069,
+  "clean_share": 0.23047177107501934,
+  "minor_share": 0.27195317122620793,
+  "chord_rate": 1.8996841039282961,
+  "repetitiveness": 0.7841052412986755,
+  "vocal_share": 0.18825386464595795,
+  "vocal_voiced": 0.811046511627907,
+  "song_length": 275.907
+ }
+}

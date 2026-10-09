@@ -1,0 +1,32 @@
+{
+ "id": "angra/1704078587-106",
+ "band": "angra",
+ "title": "Spirit of the Air",
+ "source": "itunes",
+ "album": "Aqua",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.099975208010836,
+  "tempo_var": 27.94945929924885,
+  "low_onset_rate": 0.733328898993808,
+  "lufs": -14.350630635205421,
+  "rms_dbfs": -13.386521014049766,
+  "crest": 13.386521339416504,
+  "centroid": 1505.103800551893,
+  "flatness": 0.014296076260507107,
+  "sub100_share": 0.14181239902973175,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.9362260103225708,
+  "clean_share": 0.7749419953596288,
+  "minor_share": 0.16791212630952346,
+  "chord_rate": 1.4333246662151702,
+  "repetitiveness": 0.6651737689971924,
+  "vocal_share": 0.22234712541103363,
+  "vocal_voiced": 0.8855218855218855,
+  "song_length": 322.987
+ }
+}

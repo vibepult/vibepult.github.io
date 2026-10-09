@@ -1,0 +1,32 @@
+{
+ "id": "aeternitas/1382302189-106",
+ "band": "aeternitas",
+ "title": "Eldorado",
+ "source": "itunes",
+ "album": "Tales of the Grotesque",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 3.7087687290888813,
+  "tempo_var": 26.555737481618298,
+  "low_onset_rate": 4.811375648547738,
+  "lufs": -15.529811106179336,
+  "rms_dbfs": -15.065225700182847,
+  "crest": 14.019747734069824,
+  "centroid": 2007.8717777676504,
+  "flatness": 0.0036992726381868124,
+  "sub100_share": 0.00660339929163456,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.9693291783332825,
+  "clean_share": 0.8712179984484096,
+  "minor_share": 0.19486966356477042,
+  "chord_rate": 0.7684836105319304,
+  "repetitiveness": 0.5412943959236145,
+  "vocal_share": 0.5735531449317932,
+  "vocal_voiced": 0.9519615692554043,
+  "song_length": 267.24
+ }
+}

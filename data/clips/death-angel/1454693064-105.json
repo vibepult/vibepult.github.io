@@ -1,0 +1,32 @@
+{
+ "id": "death-angel/1454693064-105",
+ "band": "death-angel",
+ "title": "Immortal Behated",
+ "source": "itunes",
+ "album": "Humanicide",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.399985487616099,
+  "tempo_var": 24.962858881661617,
+  "low_onset_rate": 3.733310758513932,
+  "lufs": -18.659206035437613,
+  "rms_dbfs": -18.584564536616426,
+  "crest": 13.66489028930664,
+  "centroid": 1250.8470874163968,
+  "flatness": 0.007802128326147795,
+  "sub100_share": 0.000193186744581908,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.9778980612754822,
+  "clean_share": 0.9907192575406032,
+  "minor_share": 0.32169043616842563,
+  "chord_rate": 1.466657797987616,
+  "repetitiveness": 0.7992686629295349,
+  "vocal_share": 3.01924956147559e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 368.465
+ }
+}

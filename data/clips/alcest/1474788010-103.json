@@ -1,0 +1,32 @@
+{
+ "id": "alcest/1474788010-103",
+ "band": "alcest",
+ "title": "Sapphire",
+ "source": "itunes",
+ "album": "Spiritual Instinct",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 1.9666547745743035,
+  "tempo_var": 6.15884955917419,
+  "low_onset_rate": 1.5666571933049536,
+  "lufs": -17.939480789702664,
+  "rms_dbfs": -16.952451071759977,
+  "crest": 16.952449798583984,
+  "centroid": 2091.690509164317,
+  "flatness": 0.007469174452126026,
+  "sub100_share": 0.4381234049797058,
+  "lowest_pitch": 104.974365234375,
+  "harmonic_share": 0.7139622569084167,
+  "clean_share": 0.6983758700696056,
+  "minor_share": 0.32564232862711817,
+  "chord_rate": 1.4333246662151702,
+  "repetitiveness": 0.7089378833770752,
+  "vocal_share": 4.807701543541043e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 300.503
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "theatre-of-tragedy",
+ "name": "Theatre of Tragedy",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 74280998,
+  "deezer": 891,
+  "spotify": "31eXqCx5cAlItdGdoHMEOu"
+ },
+ "metadata": {
+  "formed": 1993,
+  "split": 2010,
+  "country": "NO",
+  "status": "split-up",
+  "members": 6,
+  "past_members": 6,
+  "full_lengths": 7,
+  "genre": "Gothic/Doom/Death Metal (early); Industrial/Gothic Metal/Rock (mid); Gothic Metal/Rock (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 57975,
+  "themes": "Beauty, Darkness, Love, Life",
+  "release_year": 1997
+ },
+ "partial": false,
+ "clips": [
+  "theatre-of-tragedy/1222135445-105",
+  "theatre-of-tragedy/1222140073-105",
+  "theatre-of-tragedy/1222122974-104",
+  "theatre-of-tragedy/1487915493-106",
+  "theatre-of-tragedy/1471334017-106",
+  "theatre-of-tragedy/1222135445-104",
+  "theatre-of-tragedy/1222140073-106",
+  "theatre-of-tragedy/1222122974-105",
+  "theatre-of-tragedy/1487915493-107",
+  "theatre-of-tragedy/1471334017-107",
+  "theatre-of-tragedy/1222135445-106",
+  "theatre-of-tragedy/1222140073-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 11.745383522727266
+  },
+  "onset_rate": {
+   "median": 2.6698977057257847,
+   "iqr": 1.6172929083884613
+  },
+  "tempo_var": {
+   "median": 6.358749689215072,
+   "iqr": 13.323022650183344
+  },
+  "low_onset_rate": {
+   "median": 2.2386261698104057,
+   "iqr": 1.991120029341972
+  },
+  "lufs": {
+   "median": -13.246452896821292,
+   "iqr": 5.386418653390864
+  },
+  "rms_dbfs": {
+   "median": -12.274575318752293,
+   "iqr": 7.532699833131705
+  },
+  "crest": {
+   "median": 12.274575233459473,
+   "iqr": 6.507747411727905
+  },
+  "centroid": {
+   "median": 2330.7361812657973,
+   "iqr": 969.8351585252824
+  },
+  "flatness": {
+   "median": 0.030192026868462563,
+   "iqr": 0.018206132343038917
+  },
+  "sub100_share": {
+   "median": 0.2879694253206253,
+   "iqr": 0.382438687607646
+  },
+  "lowest_pitch": {
+   "median": 56.524658203125,
+   "iqr": 33.6456298828125
+  },
+  "harmonic_share": {
+   "median": 0.8525623381137848,
+   "iqr": 0.15685640275478363
+  },
+  "clean_share": {
+   "median": 0.18589684743954588,
+   "iqr": 0.6294695972884968
+  },
+  "minor_share": {
+   "median": 0.09415893514852769,
+   "iqr": 0.11209010793944878
+  },
+  "chord_rate": {
+   "median": 1.4016943155280308,
+   "iqr": 0.6437813630861842
+  },
+  "repetitiveness": {
+   "median": 0.7333220839500427,
+   "iqr": 0.20076720416545868
+  },
+  "vocal_share": {
+   "median": 0.1134319081902504,
+   "iqr": 0.07756708562374115
+  },
+  "vocal_voiced": {
+   "median": 0.7935064935064935,
+   "iqr": 0.04531490015360984
+  },
+  "song_length": {
+   "median": 306.74,
+   "iqr": 151.33675000000005
+  },
+  "vocal_presence": {
+   "median": 0.4166666666666667,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

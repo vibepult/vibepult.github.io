@@ -1,0 +1,32 @@
+{
+ "id": "the-berzerker/42257249-106",
+ "band": "the-berzerker",
+ "title": "Massacre",
+ "source": "itunes",
+ "album": "The Berzerker",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.176541361586578,
+  "tempo_var": 6.6611809977725205,
+  "low_onset_rate": 3.842418052659652,
+  "lufs": -10.644759763341266,
+  "rms_dbfs": -10.243409783950344,
+  "crest": 10.243410110473633,
+  "centroid": 2168.8089085885244,
+  "flatness": 0.02783062309026718,
+  "sub100_share": 0.2181779444217682,
+  "lowest_pitch": 104.974365234375,
+  "harmonic_share": 0.6171049475669861,
+  "clean_share": 0.13886733902249807,
+  "minor_share": 0.2130720639276948,
+  "chord_rate": 3.174171434805799,
+  "repetitiveness": 0.9290928840637207,
+  "vocal_share": 0.13269290328025818,
+  "vocal_voiced": 0.31906614785992216,
+  "song_length": 209.027
+ }
+}

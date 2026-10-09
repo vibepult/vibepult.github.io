@@ -1,0 +1,32 @@
+{
+ "id": "nocturnus/564098882-106",
+ "band": "nocturnus",
+ "title": "Subterranean Infiltrator",
+ "source": "itunes",
+ "album": "Thresholds",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 6.61564151675314,
+  "tempo_var": 2.165485780180213,
+  "low_onset_rate": 8.252845730495078,
+  "lufs": -14.607106949593213,
+  "rms_dbfs": -14.150586883935063,
+  "crest": 14.150321960449219,
+  "centroid": 1926.4723825827696,
+  "flatness": 0.010055829770863056,
+  "sub100_share": 0.26142749190330505,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.8421198725700378,
+  "clean_share": 0.2017067494181536,
+  "minor_share": 0.0207467068598704,
+  "chord_rate": 2.5393371478446394,
+  "repetitiveness": 0.9263578057289124,
+  "vocal_share": 8.35151513456367e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 335.933
+ }
+}

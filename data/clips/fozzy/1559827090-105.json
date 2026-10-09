@@ -1,0 +1,32 @@
+{
+ "id": "fozzy/1559827090-105",
+ "band": "fozzy",
+ "title": "The Test",
+ "source": "itunes",
+ "album": "All That Remains",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 1.3333333333333333,
+  "tempo_var": 14.304042451801589,
+  "low_onset_rate": 4.233333333333333,
+  "lufs": -6.536623858867467,
+  "rms_dbfs": -6.193062774479442,
+  "crest": 6.193063259124756,
+  "centroid": 2743.271328863846,
+  "flatness": 0.03939582034945488,
+  "sub100_share": 0.207783043384552,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7566177845001221,
+  "clean_share": 0.0030959752321981426,
+  "minor_share": -0.10809116499951832,
+  "chord_rate": 1.3666666666666667,
+  "repetitiveness": 0.8317711353302002,
+  "vocal_share": 0.18871040642261505,
+  "vocal_voiced": 0.8777484608619174,
+  "song_length": 186.36
+ }
+}

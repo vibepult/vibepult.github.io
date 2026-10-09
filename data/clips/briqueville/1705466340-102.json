@@ -1,0 +1,32 @@
+{
+ "id": "briqueville/1705466340-102",
+ "band": "briqueville",
+ "title": "AKTE XVII",
+ "source": "itunes",
+ "album": "IIII",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 4.333333333333333,
+  "tempo_var": 11.402425041584305,
+  "low_onset_rate": 3.8,
+  "lufs": -11.720963664130837,
+  "rms_dbfs": -9.206598411251253,
+  "crest": 9.206598281860352,
+  "centroid": 1028.5216341136033,
+  "flatness": 0.0008678083540871739,
+  "sub100_share": 0.8772984743118286,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.9758089780807495,
+  "clean_share": 0.9659442724458205,
+  "minor_share": -0.042209262697368244,
+  "chord_rate": 2.033333333333333,
+  "repetitiveness": 0.8381292819976807,
+  "vocal_share": 5.230841111369955e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 403.207
+ }
+}

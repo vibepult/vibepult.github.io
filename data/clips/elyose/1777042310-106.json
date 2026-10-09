@@ -1,0 +1,32 @@
+{
+ "id": "elyose/1777042310-106",
+ "band": "elyose",
+ "title": "Ascension tracée",
+ "source": "itunes",
+ "album": "Évidence",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 2.799957672597542,
+  "tempo_var": 1.274131228045217,
+  "low_onset_rate": 7.466553793593445,
+  "lufs": -10.276718883103378,
+  "rms_dbfs": -9.647445716167022,
+  "crest": 9.647445678710938,
+  "centroid": 2739.693682140601,
+  "flatness": 0.03812026605010033,
+  "sub100_share": 0.33508217334747314,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8055891394615173,
+  "clean_share": 0.0069605568445475635,
+  "minor_share": 0.11947884979261858,
+  "chord_rate": 1.1333162008132909,
+  "repetitiveness": 0.8626464009284973,
+  "vocal_share": 0.268405020236969,
+  "vocal_voiced": 0.7285491419656787,
+  "song_length": 213.086
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "trust/297440295-105",
+ "band": "trust",
+ "title": "Mindless (Les brutes) [Version Anglaise]",
+ "source": "itunes",
+ "album": "Marche ou crève (Version anglaise)",
+ "year": 1981,
+ "itunes_year": 1981,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.397214764948581,
+  "tempo_var": 22.82498997793974,
+  "low_onset_rate": 5.463206223117934,
+  "lufs": -9.565326191348822,
+  "rms_dbfs": -9.70867468559502,
+  "crest": 9.708674430847168,
+  "centroid": 2245.2948601710664,
+  "flatness": 0.028378574177622795,
+  "sub100_share": 0.08786974102258682,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.602953314781189,
+  "clean_share": 0.07192575406032482,
+  "minor_share": -0.30659327918815454,
+  "chord_rate": 1.7988605856607833,
+  "repetitiveness": 0.8205491900444031,
+  "vocal_share": 0.32397904992103577,
+  "vocal_voiced": 0.5087396504139834,
+  "song_length": 342.133
+ }
+}

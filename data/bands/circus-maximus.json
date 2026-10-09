@@ -1,0 +1,127 @@
+{
+ "slug": "circus-maximus",
+ "name": "Circus Maximus",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 169934198,
+  "deezer": 7728,
+  "spotify": "1pxKRI6EFLtWmAiya9Pj1S"
+ },
+ "metadata": {
+  "formed": 2000,
+  "split": null,
+  "country": "NO",
+  "status": "active",
+  "members": 5,
+  "past_members": 2,
+  "full_lengths": 4,
+  "genre": "Power/Progressive Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 10156,
+  "themes": "Morality, Humanity, Spiritual conflict",
+  "release_year": 2009
+ },
+ "partial": false,
+ "clips": [
+  "circus-maximus/1087337657-104",
+  "circus-maximus/1087346270-105",
+  "circus-maximus/1290751830-106",
+  "circus-maximus/1606385940-105",
+  "circus-maximus/1087337657-105",
+  "circus-maximus/1087346270-104",
+  "circus-maximus/1290751830-105",
+  "circus-maximus/1606385940-106",
+  "circus-maximus/1087337657-103",
+  "circus-maximus/1087346270-106",
+  "circus-maximus/1290751830-107",
+  "circus-maximus/1606385940-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 23.652030892448522
+  },
+  "onset_rate": {
+   "median": 3.6543119109581967,
+   "iqr": 1.603791882849246
+  },
+  "tempo_var": {
+   "median": 6.40099591984471,
+   "iqr": 11.552930270297693
+  },
+  "low_onset_rate": {
+   "median": 4.7612571522086995,
+   "iqr": 3.1733901610961035
+  },
+  "lufs": {
+   "median": -11.46695835689809,
+   "iqr": 5.1369221513135095
+  },
+  "rms_dbfs": {
+   "median": -10.399790539051404,
+   "iqr": 4.9810732225862075
+  },
+  "crest": {
+   "median": 10.39979076385498,
+   "iqr": 4.842114567756653
+  },
+  "centroid": {
+   "median": 2143.469390725074,
+   "iqr": 813.2854015954622
+  },
+  "flatness": {
+   "median": 0.013618294149637222,
+   "iqr": 0.01525663468055427
+  },
+  "sub100_share": {
+   "median": 0.3594725430011749,
+   "iqr": 0.20802247524261475
+  },
+  "lowest_pitch": {
+   "median": 59.21630859375,
+   "iqr": 55.1788330078125
+  },
+  "harmonic_share": {
+   "median": 0.8308329582214355,
+   "iqr": 0.0669720470905304
+  },
+  "clean_share": {
+   "median": 0.29635376260667184,
+   "iqr": 0.5516814295751367
+  },
+  "minor_share": {
+   "median": -0.005505282560273106,
+   "iqr": 0.21869199774569778
+  },
+  "chord_rate": {
+   "median": 1.1193130849052029,
+   "iqr": 0.8256417527214425
+  },
+  "repetitiveness": {
+   "median": 0.7907807528972626,
+   "iqr": 0.1757218986749649
+  },
+  "vocal_share": {
+   "median": 0.1762380450963974,
+   "iqr": 0.09863065183162689
+  },
+  "vocal_voiced": {
+   "median": 0.9076923076923077,
+   "iqr": 0.023873794916739688
+  },
+  "song_length": {
+   "median": 290.59349999999995,
+   "iqr": 56.40025000000003
+  },
+  "vocal_presence": {
+   "median": 0.4166666666666667,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

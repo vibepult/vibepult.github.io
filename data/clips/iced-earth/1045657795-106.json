@@ -1,0 +1,32 @@
+{
+ "id": "iced-earth/1045657795-106",
+ "band": "iced-earth",
+ "title": "Jeckyl & Hyde (Remixed & Remastered)",
+ "source": "itunes",
+ "album": "Horror Show",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 7.517774450855841,
+  "tempo_var": 13.756519995748796,
+  "low_onset_rate": 8.78744302477816,
+  "lufs": -10.525637993541682,
+  "rms_dbfs": -10.295134400681778,
+  "crest": 10.295134544372559,
+  "centroid": 2631.1241523854146,
+  "flatness": 0.03607269003987312,
+  "sub100_share": 0.3316889703273773,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7312338948249817,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.13478797180136048,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.9353662729263306,
+  "vocal_share": 0.18508942425251007,
+  "vocal_voiced": 0.31116389548693585,
+  "song_length": 279.627
+ }
+}

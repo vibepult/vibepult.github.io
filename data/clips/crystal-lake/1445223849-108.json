@@ -1,0 +1,32 @@
+{
+ "id": "crystal-lake/1445223849-108",
+ "band": "crystal-lake",
+ "title": "Hail to the Fire",
+ "source": "itunes",
+ "album": "Helix",
+ "year": 2018,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 1.5666571933049536,
+  "tempo_var": 13.55894241380909,
+  "low_onset_rate": 5.4999667424535605,
+  "lufs": -7.846691695727655,
+  "rms_dbfs": -7.997001013650725,
+  "crest": 7.997000694274902,
+  "centroid": 2714.0349603916898,
+  "flatness": 0.04715105518698692,
+  "sub100_share": 0.5171108245849609,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7708501815795898,
+  "clean_share": 0.0,
+  "minor_share": 0.009284567628057405,
+  "chord_rate": 2.599984278250774,
+  "repetitiveness": 0.9636417627334595,
+  "vocal_share": 0.09884879738092422,
+  "vocal_voiced": 0.0,
+  "song_length": 189.23
+ }
+}

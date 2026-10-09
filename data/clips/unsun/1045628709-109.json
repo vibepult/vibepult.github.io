@@ -1,0 +1,32 @@
+{
+ "id": "unsun/1045628709-109",
+ "band": "unsun",
+ "title": "On the Edge",
+ "source": "itunes",
+ "album": "The End of Life",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.777963317655045,
+  "tempo_var": 14.690539513046897,
+  "low_onset_rate": 4.9784373030112015,
+  "lufs": -6.324009904970732,
+  "rms_dbfs": -6.531875804505617,
+  "crest": 6.5318756103515625,
+  "centroid": 2610.018832180616,
+  "flatness": 0.036176007241010666,
+  "sub100_share": 0.24536511301994324,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7862030863761902,
+  "clean_share": 0.004654771140418929,
+  "minor_share": 0.3018406836609794,
+  "chord_rate": 2.405687824273869,
+  "repetitiveness": 0.9290320873260498,
+  "vocal_share": 0.16807769238948822,
+  "vocal_voiced": 0.8885281385281385,
+  "song_length": 214.493
+ }
+}

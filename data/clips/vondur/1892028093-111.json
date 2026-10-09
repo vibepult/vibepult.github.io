@@ -1,0 +1,32 @@
+{
+ "id": "vondur/1892028093-111",
+ "band": "vondur",
+ "title": "Sigurskrift",
+ "source": "itunes",
+ "album": "Striðsyfirlýsing",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 1.6333086423485663,
+  "tempo_var": 17.67185199156138,
+  "low_onset_rate": 7.23322398754365,
+  "lufs": -8.658635490245617,
+  "rms_dbfs": -11.112424807833843,
+  "crest": 11.112424850463867,
+  "centroid": 3960.3166742615426,
+  "flatness": 0.07701737433671951,
+  "sub100_share": 0.08180468529462814,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.5125497579574585,
+  "clean_share": 0.0,
+  "minor_share": -0.026700918553079434,
+  "chord_rate": 1.9999697661411016,
+  "repetitiveness": 0.968751847743988,
+  "vocal_share": 0.07923931628465652,
+  "vocal_voiced": 0.13535911602209943,
+  "song_length": 149.4
+ }
+}

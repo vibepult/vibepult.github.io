@@ -1,0 +1,32 @@
+{
+ "id": "carach-angren/1218443321-105",
+ "band": "carach-angren",
+ "title": "Song for the Dead",
+ "source": "itunes",
+ "album": "Dance and Laugh Amongst the Rotten",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 1.603791882849246,
+  "tempo_var": 20.125064499429723,
+  "low_onset_rate": 4.544077001406197,
+  "lufs": -15.158384417769609,
+  "rms_dbfs": -14.86679600614369,
+  "crest": 14.866795539855957,
+  "centroid": 1941.265970299042,
+  "flatness": 0.021584441885352135,
+  "sub100_share": 0.22594647109508514,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7354557514190674,
+  "clean_share": 0.3995345228859581,
+  "minor_share": 0.27044840029823114,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.7569013833999634,
+  "vocal_share": 0.20612454414367676,
+  "vocal_voiced": 0.4642857142857143,
+  "song_length": 256.053
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "cryptopsy/1045235186-104",
+ "band": "cryptopsy",
+ "title": "My Prodigal Son",
+ "source": "itunes",
+ "album": "And Then You'll Beg",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.945024972118508,
+  "tempo_var": 14.127976893427448,
+  "low_onset_rate": 4.276778354264656,
+  "lufs": -9.365915400287141,
+  "rms_dbfs": -9.065040556952791,
+  "crest": 9.065040588378906,
+  "centroid": 2815.983172755001,
+  "flatness": 0.04340406507253647,
+  "sub100_share": 0.29097142815589905,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.705237627029419,
+  "clean_share": 0.0,
+  "minor_share": 0.04833187098605951,
+  "chord_rate": 2.6395741405227175,
+  "repetitiveness": 0.9633880257606506,
+  "vocal_share": 0.12309678643941879,
+  "vocal_voiced": 0.0,
+  "song_length": 135.467
+ }
+}

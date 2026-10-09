@@ -1,0 +1,32 @@
+{
+ "id": "tarot/990553737-106",
+ "band": "tarot",
+ "title": "Race the Light",
+ "source": "itunes",
+ "album": "Stigmata",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.644313994084275,
+  "tempo_var": 9.489319938451793,
+  "low_onset_rate": 7.3841251272850705,
+  "lufs": -8.887803887622475,
+  "rms_dbfs": -8.811835974903158,
+  "crest": 8.811836242675781,
+  "centroid": 2790.3695025296006,
+  "flatness": 0.04478705674409866,
+  "sub100_share": 0.29178568720817566,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7786438465118408,
+  "clean_share": 0.0031031807602792862,
+  "minor_share": 0.21619380194280136,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.7675328254699707,
+  "vocal_share": 0.17462413012981415,
+  "vocal_voiced": 0.588748787584869,
+  "song_length": 269.227
+ }
+}

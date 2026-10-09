@@ -1,0 +1,127 @@
+{
+ "slug": "dimmu-borgir",
+ "name": "Dimmu Borgir",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 15621683,
+  "deezer": 123,
+  "spotify": "6e8ISIsI7UQZPyEorefAhK"
+ },
+ "metadata": {
+  "formed": 1993,
+  "split": null,
+  "country": "NO",
+  "status": "active",
+  "members": 2,
+  "past_members": 12,
+  "full_lengths": 11,
+  "genre": "Symphonic Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 202323,
+  "themes": "Satanism, Anti-Christianity, Death, Misanthropy, Occultism",
+  "release_year": 2000
+ },
+ "partial": false,
+ "clips": [
+  "dimmu-borgir/1450458875-106",
+  "dimmu-borgir/1450454126-105",
+  "dimmu-borgir/1460472565-105",
+  "dimmu-borgir/1450464971-106",
+  "dimmu-borgir/1460472024-106",
+  "dimmu-borgir/1456962237-105",
+  "dimmu-borgir/1460466658-106",
+  "dimmu-borgir/1458755647-105",
+  "dimmu-borgir/1883121436-107",
+  "dimmu-borgir/1450458875-105",
+  "dimmu-borgir/1450454126-106",
+  "dimmu-borgir/1460472565-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 133.30078125,
+   "iqr": 31.863608379137844
+  },
+  "onset_rate": {
+   "median": 1.5850661398366062,
+   "iqr": 2.9665810053370145
+  },
+  "tempo_var": {
+   "median": 9.081047715009053,
+   "iqr": 4.764292741470782
+  },
+  "low_onset_rate": {
+   "median": 3.533311967879257,
+   "iqr": 3.7989672332756768
+  },
+  "lufs": {
+   "median": -9.512236217595747,
+   "iqr": 5.5680438141311726
+  },
+  "rms_dbfs": {
+   "median": -9.710897708995919,
+   "iqr": 5.2484176302584995
+  },
+  "crest": {
+   "median": 9.71089792251587,
+   "iqr": 5.248417615890503
+  },
+  "centroid": {
+   "median": 2627.433527469108,
+   "iqr": 884.9845416217017
+  },
+  "flatness": {
+   "median": 0.04578065127134323,
+   "iqr": 0.03317972389049828
+  },
+  "sub100_share": {
+   "median": 0.31132641434669495,
+   "iqr": 0.09988449513912201
+  },
+  "lowest_pitch": {
+   "median": 53.8330078125,
+   "iqr": 15.47698974609375
+  },
+  "harmonic_share": {
+   "median": 0.8014668524265289,
+   "iqr": 0.1017920970916748
+  },
+  "clean_share": {
+   "median": 0.11562258313998452,
+   "iqr": 0.454369682907966
+  },
+  "minor_share": {
+   "median": 0.10100553687221353,
+   "iqr": 0.11969245276338551
+  },
+  "chord_rate": {
+   "median": 1.5833237591911766,
+   "iqr": 0.6500220701310733
+  },
+  "repetitiveness": {
+   "median": 0.9058257937431335,
+   "iqr": 0.06760343909263611
+  },
+  "vocal_share": {
+   "median": 0.09232059121131897,
+   "iqr": 0.08899834379553795
+  },
+  "vocal_voiced": {
+   "median": 0.21940298507462686,
+   "iqr": 0.2460476647463099
+  },
+  "song_length": {
+   "median": 298.585,
+   "iqr": 73.95925000000005
+  },
+  "vocal_presence": {
+   "median": 0.5833333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.7,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

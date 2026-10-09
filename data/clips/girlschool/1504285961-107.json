@@ -1,0 +1,32 @@
+{
+ "id": "girlschool/1504285961-107",
+ "band": "girlschool",
+ "title": "I Told You So",
+ "source": "itunes",
+ "album": "21st Anniversary: Not That Innocent",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 3.374645420161955,
+  "tempo_var": 8.888766163767391,
+  "low_onset_rate": 5.112086626581972,
+  "lufs": -10.084022418347258,
+  "rms_dbfs": -9.996453848393662,
+  "crest": 9.996454238891602,
+  "centroid": 2616.885474461868,
+  "flatness": 0.02878066524863243,
+  "sub100_share": 0.2386588454246521,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7830566763877869,
+  "clean_share": 0.10550814584949574,
+  "minor_share": -0.3694129684055871,
+  "chord_rate": 1.1026069194588566,
+  "repetitiveness": 0.7082704305648804,
+  "vocal_share": 0.12577959895133972,
+  "vocal_voiced": 0.8731034482758621,
+  "song_length": 155.933
+ }
+}

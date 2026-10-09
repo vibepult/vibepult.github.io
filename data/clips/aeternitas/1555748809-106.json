@@ -1,0 +1,32 @@
+{
+ "id": "aeternitas/1555748809-106",
+ "band": "aeternitas",
+ "title": "Mors Stupebit",
+ "source": "itunes",
+ "album": "Requiem",
+ "year": 2000,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.4414700819473403,
+  "tempo_var": 2.75045332850167,
+  "low_onset_rate": 3.207583765698492,
+  "lufs": -10.793629603526218,
+  "rms_dbfs": -9.477724983481524,
+  "crest": 9.4777250289917,
+  "centroid": 1880.6998504500798,
+  "flatness": 0.006974854506552219,
+  "sub100_share": 0.28586411476135254,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.9491176009178162,
+  "clean_share": 0.6462373933281613,
+  "minor_share": -0.0036497053948233438,
+  "chord_rate": 0.8353082723173156,
+  "repetitiveness": 0.6920850872993469,
+  "vocal_share": 2.2682909275317797e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 354.76
+ }
+}

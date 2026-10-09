@@ -1,0 +1,32 @@
+{
+ "id": "earth/3257737-105",
+ "band": "earth",
+ "title": "Charioteer (Temple Song)",
+ "source": "itunes",
+ "album": "Pentastar - In the Style of Demons",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 1.871090529990787,
+  "tempo_var": 26.00076374236822,
+  "low_onset_rate": 7.083414149250837,
+  "lufs": -14.070857258524642,
+  "rms_dbfs": -13.382798399127765,
+  "crest": 12.019752502441406,
+  "centroid": 965.3176905026402,
+  "flatness": 0.00017701215983834118,
+  "sub100_share": 0.0009518470615148544,
+  "lowest_pitch": 148.040771484375,
+  "harmonic_share": 0.9716191291809082,
+  "clean_share": 0.9992242048099301,
+  "minor_share": -0.026850448286967588,
+  "chord_rate": 0.9021329341027009,
+  "repetitiveness": 0.9114953875541687,
+  "vocal_share": 2.6933703338727355e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 257.0
+ }
+}

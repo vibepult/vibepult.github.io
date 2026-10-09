@@ -1,0 +1,32 @@
+{
+ "id": "unisonic/905908797-106",
+ "band": "unisonic",
+ "title": "Night of the Long Knives",
+ "source": "itunes",
+ "album": "Light of Dawn",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.777963317655045,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.646683920865054,
+  "lufs": -7.952656572742571,
+  "rms_dbfs": -7.834059924524446,
+  "crest": 7.834060192108154,
+  "centroid": 2519.1777179915784,
+  "flatness": 0.03213866800069809,
+  "sub100_share": 0.1998043805360794,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7638012766838074,
+  "clean_share": 0.005430566330488751,
+  "minor_share": 0.21232312813185117,
+  "chord_rate": 2.505924816951947,
+  "repetitiveness": 0.8547067642211914,
+  "vocal_share": 0.22250622510910034,
+  "vocal_voiced": 0.834717607973422,
+  "song_length": 302.773
+ }
+}

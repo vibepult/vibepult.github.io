@@ -1,0 +1,32 @@
+{
+ "id": "carcass/1568277293-105",
+ "band": "carcass",
+ "title": "The Devil Rides Out",
+ "source": "itunes",
+ "album": "Torn Arteries",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 1.6372042137419387,
+  "tempo_var": 9.64253144090625,
+  "low_onset_rate": 2.1049768462396354,
+  "lufs": -12.07753731685555,
+  "rms_dbfs": -11.041112140907721,
+  "crest": 11.041111946105957,
+  "centroid": 1956.1419109867404,
+  "flatness": 0.019774869084358215,
+  "sub100_share": 0.3833766579627991,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8543280363082886,
+  "clean_share": 0.5213343677269201,
+  "minor_share": -0.1333649953909367,
+  "chord_rate": 0.9021329341027009,
+  "repetitiveness": 0.824089765548706,
+  "vocal_share": 0.00012958304432686418,
+  "vocal_voiced": 1.0,
+  "song_length": 322.4
+ }
+}

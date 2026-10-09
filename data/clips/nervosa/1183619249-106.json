@@ -1,0 +1,32 @@
+{
+ "id": "nervosa/1183619249-106",
+ "band": "nervosa",
+ "title": "Failed System",
+ "source": "itunes",
+ "album": "Agony",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.9,
+  "tempo_var": 14.794587115604507,
+  "low_onset_rate": 7.933333333333334,
+  "lufs": -6.0287376068911875,
+  "rms_dbfs": -6.097363860350575,
+  "crest": 6.0973639488220215,
+  "centroid": 3121.8823533063337,
+  "flatness": 0.0692063421010971,
+  "sub100_share": 0.3382401466369629,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7293080687522888,
+  "clean_share": 0.0,
+  "minor_share": 0.09911689755236072,
+  "chord_rate": 2.1,
+  "repetitiveness": 0.9024962186813354,
+  "vocal_share": 0.14242909848690033,
+  "vocal_voiced": 0.13704994192799072,
+  "song_length": 222.493
+ }
+}

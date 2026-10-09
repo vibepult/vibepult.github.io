@@ -1,0 +1,32 @@
+{
+ "id": "firewind/1045282719-108",
+ "band": "firewind",
+ "title": "Cold As Ice",
+ "source": "itunes",
+ "album": "Days of Defiance",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.940285118556951,
+  "tempo_var": 2.068512295625987,
+  "low_onset_rate": 4.4772523396208115,
+  "lufs": -8.63135268284002,
+  "rms_dbfs": -8.285366726554745,
+  "crest": 8.285367012023926,
+  "centroid": 2487.6957124644323,
+  "flatness": 0.029036451131105423,
+  "sub100_share": 0.2926802933216095,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.6879751086235046,
+  "clean_share": 0.018619084561675717,
+  "minor_share": 0.18523758899313625,
+  "chord_rate": 2.2720385007030983,
+  "repetitiveness": 0.773490309715271,
+  "vocal_share": 0.24951714277267456,
+  "vocal_voiced": 0.39409282700421944,
+  "song_length": 277.947
+ }
+}

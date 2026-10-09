@@ -1,0 +1,32 @@
+{
+ "id": "the-night-flight-orchestra/1458861595-106",
+ "band": "the-night-flight-orchestra",
+ "title": "Domino",
+ "source": "itunes",
+ "album": "Amber Galactic",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.641944067303496,
+  "tempo_var": 16.63076147362194,
+  "low_onset_rate": 1.7708535373127092,
+  "lufs": -15.924513069001755,
+  "rms_dbfs": -15.357254242677838,
+  "crest": 15.357254981994629,
+  "centroid": 2117.6128932597153,
+  "flatness": 0.015012389048933983,
+  "sub100_share": 0.32434189319610596,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.6472535729408264,
+  "clean_share": 0.5950349107835532,
+  "minor_share": 0.29289953797370527,
+  "chord_rate": 2.2386261698104057,
+  "repetitiveness": 0.8059000968933105,
+  "vocal_share": 0.003853006288409233,
+  "vocal_voiced": 0.9450867052023122,
+  "song_length": 300.773
+ }
+}

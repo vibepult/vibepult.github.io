@@ -1,0 +1,32 @@
+{
+ "id": "warlock/1442215246-106",
+ "band": "warlock",
+ "title": "Vorwärts All Right",
+ "source": "itunes",
+ "album": "True As Steel",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.312560611938127,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.112086626581972,
+  "lufs": -18.51162985097777,
+  "rms_dbfs": -18.51272787201262,
+  "crest": 14.960498809814453,
+  "centroid": 2359.9473960371233,
+  "flatness": 0.025186369195580482,
+  "sub100_share": 0.16363927721977234,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.6893836259841919,
+  "clean_share": 0.017843289371605897,
+  "minor_share": -0.11104408062308474,
+  "chord_rate": 1.871090529990787,
+  "repetitiveness": 0.8435258865356445,
+  "vocal_share": 0.22924698889255524,
+  "vocal_voiced": 0.4978723404255319,
+  "song_length": 247.733
+ }
+}

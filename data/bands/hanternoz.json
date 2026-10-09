@@ -1,0 +1,127 @@
+{
+ "slug": "hanternoz",
+ "name": "Hanternoz",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1552790441,
+  "deezer": 122809992,
+  "spotify": "5iXcXAZzVfABJLdYDiz5UV"
+ },
+ "metadata": {
+  "formed": 2006,
+  "split": null,
+  "country": "FR",
+  "status": "active",
+  "members": 2,
+  "past_members": 6,
+  "full_lengths": 3,
+  "genre": "Folk/Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 177,
+  "themes": "Britton/French folklore, Legends",
+  "release_year": 2021
+ },
+ "partial": false,
+ "clips": [
+  "hanternoz/1552897585-107",
+  "hanternoz/1559357619-105",
+  "hanternoz/6805456220-104",
+  "hanternoz/1552897585-106",
+  "hanternoz/1559357619-104",
+  "hanternoz/6805456220-103",
+  "hanternoz/1552897585-108",
+  "hanternoz/1559357619-106",
+  "hanternoz/6805456220-105",
+  "hanternoz/1552897585-105",
+  "hanternoz/1559357619-103",
+  "hanternoz/6805456220-102"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.90049098320159,
+   "iqr": 29.093449990203766
+  },
+  "onset_rate": {
+   "median": 3.641944067303496,
+   "iqr": 1.9361065336292498
+  },
+  "tempo_var": {
+   "median": 3.9344826711899876,
+   "iqr": 9.737289556536414
+  },
+  "low_onset_rate": {
+   "median": 5.9473948988992875,
+   "iqr": 1.2329822376654391
+  },
+  "lufs": {
+   "median": -9.69046719289478,
+   "iqr": 1.1582615430147172
+  },
+  "rms_dbfs": {
+   "median": -9.668547032696672,
+   "iqr": 0.9831817687125675
+  },
+  "crest": {
+   "median": 9.516640663146973,
+   "iqr": 1.0464580059051514
+  },
+  "centroid": {
+   "median": 2557.479089167448,
+   "iqr": 247.8402331113416
+  },
+  "flatness": {
+   "median": 0.03193181660026312,
+   "iqr": 0.017724112374708056
+  },
+  "sub100_share": {
+   "median": 0.20630189776420593,
+   "iqr": 0.07469788566231728
+  },
+  "lowest_pitch": {
+   "median": 68.6370849609375,
+   "iqr": 59.88922119140625
+  },
+  "harmonic_share": {
+   "median": 0.7484051585197449,
+   "iqr": 0.10713359713554382
+  },
+  "clean_share": {
+   "median": 0.02443754848719938,
+   "iqr": 0.10589664344081068
+  },
+  "minor_share": {
+   "median": 0.06379013808942507,
+   "iqr": 0.15902110371903155
+  },
+  "chord_rate": {
+   "median": 1.603791882849246,
+   "iqr": 0.9494887548107256
+  },
+  "repetitiveness": {
+   "median": 0.8545807600021362,
+   "iqr": 0.1512507200241089
+  },
+  "vocal_share": {
+   "median": 0.1758585423231125,
+   "iqr": 0.20022393390536308
+  },
+  "vocal_voiced": {
+   "median": 0.13411764705882354,
+   "iqr": 0.13568809991025116
+  },
+  "song_length": {
+   "median": 389.375,
+   "iqr": 155.29099999999994
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

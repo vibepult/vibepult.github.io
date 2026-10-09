@@ -1,0 +1,32 @@
+{
+ "id": "barren-earth/1343401575-104",
+ "band": "barren-earth",
+ "title": "Zeal",
+ "source": "itunes",
+ "album": "A Complex of Cages",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.5082947437327254,
+  "tempo_var": 1.333565535825193,
+  "low_onset_rate": 7.517774450855841,
+  "lufs": -16.710901923081703,
+  "rms_dbfs": -16.217823363999376,
+  "crest": 15.6187105178833,
+  "centroid": 1449.3496748608331,
+  "flatness": 0.0059133186005055904,
+  "sub100_share": 0.020095670595765114,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8960782885551453,
+  "clean_share": 0.843289371605896,
+  "minor_share": -0.052793863044418465,
+  "chord_rate": 0.3675356398196189,
+  "repetitiveness": 0.7217898368835449,
+  "vocal_share": 0.539702832698822,
+  "vocal_voiced": 0.47964796479647964,
+  "song_length": 464.2
+ }
+}

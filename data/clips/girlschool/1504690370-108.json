@@ -1,0 +1,32 @@
+{
+ "id": "girlschool/1504690370-108",
+ "band": "girlschool",
+ "title": "Never Say Never",
+ "source": "itunes",
+ "album": "Believe",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.677726324976968,
+  "tempo_var": 3.6196538523394617,
+  "low_onset_rate": 5.078674295689279,
+  "lufs": -8.744023924390833,
+  "rms_dbfs": -8.82085903579302,
+  "crest": 8.8208589553833,
+  "centroid": 2535.2265216842434,
+  "flatness": 0.03683089464902878,
+  "sub100_share": 0.29901692271232605,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.6926805377006531,
+  "clean_share": 0.0,
+  "minor_share": 0.20842787748559966,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.8349097967147827,
+  "vocal_share": 0.2671491205692291,
+  "vocal_voiced": 0.5225505443234837,
+  "song_length": 204.893
+ }
+}

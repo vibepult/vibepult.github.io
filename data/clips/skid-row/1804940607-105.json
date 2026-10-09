@@ -1,0 +1,32 @@
+{
+ "id": "skid-row/1804940607-105",
+ "band": "skid-row",
+ "title": "Shut up Baby, I Love You",
+ "source": "itunes",
+ "album": "Revolutions Per Minute",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.766666666666667,
+  "tempo_var": 7.7789308750980135,
+  "low_onset_rate": 6.433333333333334,
+  "lufs": -8.494086893969296,
+  "rms_dbfs": -8.327418460911534,
+  "crest": 8.327418327331543,
+  "centroid": 2350.4887305601687,
+  "flatness": 0.031097352504730225,
+  "sub100_share": 0.33168041706085205,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.6291432976722717,
+  "clean_share": 0.047987616099071206,
+  "minor_share": 0.029028693175983666,
+  "chord_rate": 1.4666666666666666,
+  "repetitiveness": 0.9331237077713013,
+  "vocal_share": 0.11384938657283783,
+  "vocal_voiced": 0.30642201834862387,
+  "song_length": 197.922
+ }
+}

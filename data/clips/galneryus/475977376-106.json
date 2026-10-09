@@ -1,0 +1,32 @@
+{
+ "id": "galneryus/475977376-106",
+ "band": "galneryus",
+ "title": "Requiem",
+ "source": "itunes",
+ "album": "The Flag Of Punishment",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 2.338863162488484,
+  "tempo_var": 4.63539227597267,
+  "low_onset_rate": 3.374645420161955,
+  "lufs": -14.745256666359248,
+  "rms_dbfs": -14.567081801287214,
+  "crest": 14.567081451416016,
+  "centroid": 1372.1696846898192,
+  "flatness": 0.0004320414154790342,
+  "sub100_share": 0.01356586441397667,
+  "lowest_pitch": 156.11572265625,
+  "harmonic_share": 0.9583958983421326,
+  "clean_share": 0.9953452288595811,
+  "minor_share": 0.01447445157172178,
+  "chord_rate": 0.8353082723173156,
+  "repetitiveness": 0.5965897440910339,
+  "vocal_share": 1.4550452078765375e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 315.72
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "voivod/1436222063-105",
+ "band": "voivod",
+ "title": "Forgotten In Space",
+ "source": "itunes",
+ "album": "Killing Technology",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 6.833333333333333,
+  "tempo_var": 23.872146739509002,
+  "low_onset_rate": 9.4,
+  "lufs": -15.693189038416866,
+  "rms_dbfs": -16.70506289172034,
+  "crest": 16.254623413085938,
+  "centroid": 2966.0120389123085,
+  "flatness": 0.04795411601662636,
+  "sub100_share": 0.20861025154590607,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7008207440376282,
+  "clean_share": 0.0,
+  "minor_share": 0.17572916091717705,
+  "chord_rate": 2.3666666666666667,
+  "repetitiveness": 0.9358139634132385,
+  "vocal_share": 0.04954882711172104,
+  "vocal_voiced": 0.20526315789473684,
+  "song_length": 371.973
+ }
+}

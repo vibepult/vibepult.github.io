@@ -1,0 +1,32 @@
+{
+ "id": "callisto/313241977-106",
+ "band": "callisto",
+ "title": "Stasis",
+ "source": "itunes",
+ "album": "Providence",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.840048125878873,
+  "tempo_var": 12.58218408366118,
+  "low_onset_rate": 6.582229185860447,
+  "lufs": -10.757589871354988,
+  "rms_dbfs": -9.7126493569946,
+  "crest": 9.71264934539795,
+  "centroid": 1151.7339538028257,
+  "flatness": 0.0018088094657287002,
+  "sub100_share": 0.28807884454727173,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.8572562336921692,
+  "clean_share": 0.9224204809930179,
+  "minor_share": -0.10332359580660899,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.7726690173149109,
+  "vocal_share": 0.12186272442340851,
+  "vocal_voiced": 0.941812136325852,
+  "song_length": 458.653
+ }
+}

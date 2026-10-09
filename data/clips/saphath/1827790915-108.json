@@ -1,0 +1,32 @@
+{
+ "id": "saphath/1827790915-108",
+ "band": "saphath",
+ "title": "The Raven",
+ "source": "itunes",
+ "album": "Ascension of the Dark Prophet",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 6.09990778673036,
+  "tempo_var": 2.842170943040401e-14,
+  "low_onset_rate": 7.6665507702075555,
+  "lufs": -7.375343378374619,
+  "rms_dbfs": -6.777102369854141,
+  "crest": 6.777102470397949,
+  "centroid": 2673.817422885052,
+  "flatness": 0.04864293709397316,
+  "sub100_share": 0.3679708242416382,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7554201483726501,
+  "clean_share": 0.0007733952049497294,
+  "minor_share": 0.0419799715257686,
+  "chord_rate": 1.5999758129128812,
+  "repetitiveness": 0.9400710463523865,
+  "vocal_share": 0.1182408258318901,
+  "vocal_voiced": 0.17346938775510204,
+  "song_length": 312.248
+ }
+}

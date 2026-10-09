@@ -1,0 +1,32 @@
+{
+ "id": "entombed/1888507992-107",
+ "band": "entombed",
+ "title": "Time Out (2023 Remaster)",
+ "source": "itunes",
+ "album": "Uprising (2023 Remaster)",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.766666666666667,
+  "tempo_var": 4.7887763632747165,
+  "low_onset_rate": 7.266666666666667,
+  "lufs": -7.798089674969053,
+  "rms_dbfs": -7.1135438823959,
+  "crest": 7.113543510437012,
+  "centroid": 2191.823962841751,
+  "flatness": 0.02501450479030609,
+  "sub100_share": 0.29706162214279175,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.68332439661026,
+  "clean_share": 0.03869969040247678,
+  "minor_share": 0.14711544390766657,
+  "chord_rate": 2.9,
+  "repetitiveness": 0.9201774001121521,
+  "vocal_share": 0.20381270349025726,
+  "vocal_voiced": 0.47706422018348627,
+  "song_length": 240.093
+ }
+}

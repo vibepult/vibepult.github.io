@@ -1,0 +1,32 @@
+{
+ "id": "fight/6769456158-108",
+ "band": "fight",
+ "title": "Little Crazy",
+ "source": "itunes",
+ "album": "War Of Words",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.7309701035927354,
+  "tempo_var": 0.99588979447885,
+  "low_onset_rate": 2.498417480084421,
+  "lufs": -10.088222476960599,
+  "rms_dbfs": -9.621413082851868,
+  "crest": 9.621413230895996,
+  "centroid": 2887.545888209377,
+  "flatness": 0.03777037560939789,
+  "sub100_share": 0.3311159014701843,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.7496923804283142,
+  "clean_share": 0.014694508894044857,
+  "minor_share": 0.10303138265253109,
+  "chord_rate": 2.6649786454233824,
+  "repetitiveness": 0.8457134962081909,
+  "vocal_share": 0.12029299885034561,
+  "vocal_voiced": 0.7356656948493683,
+  "song_length": 229.933
+ }
+}

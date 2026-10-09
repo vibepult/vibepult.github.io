@@ -1,0 +1,32 @@
+{
+ "id": "avalanch/65457550-107",
+ "band": "avalanch",
+ "title": "El Viejo Torreón",
+ "source": "itunes",
+ "album": "Las Ruinas del Edén",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.209953692479271,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.644313994084275,
+  "lufs": -10.861308222104848,
+  "rms_dbfs": -10.135536761030735,
+  "crest": 10.135537147521973,
+  "centroid": 2663.5925104493444,
+  "flatness": 0.03242618218064308,
+  "sub100_share": 0.4079424738883972,
+  "lowest_pitch": 88.824462890625,
+  "harmonic_share": 0.7110211849212646,
+  "clean_share": 0.026377036462373934,
+  "minor_share": -0.2016362477466741,
+  "chord_rate": 1.0357822576734714,
+  "repetitiveness": 0.8006645441055298,
+  "vocal_share": 0.1538863629102707,
+  "vocal_voiced": 0.7090576395242452,
+  "song_length": 326.733
+ }
+}

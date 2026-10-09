@@ -1,0 +1,32 @@
+{
+ "id": "serenity/1184695144-106",
+ "band": "serenity",
+ "title": "The Heartblood Symphony",
+ "source": "itunes",
+ "album": "Fallen Sanctuary",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.6333333333333333,
+  "tempo_var": 9.876450624770575,
+  "low_onset_rate": 5.3,
+  "lufs": -9.403195740200289,
+  "rms_dbfs": -9.239059642907467,
+  "crest": 9.239059448242188,
+  "centroid": 2051.877894774485,
+  "flatness": 0.016581645235419273,
+  "sub100_share": 0.15538239479064941,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.835277259349823,
+  "clean_share": 0.41099071207430343,
+  "minor_share": -0.14292492939313417,
+  "chord_rate": 0.9333333333333333,
+  "repetitiveness": 0.7068558931350708,
+  "vocal_share": 0.2343209981918335,
+  "vocal_voiced": 0.6424974823766365,
+  "song_length": 327.053
+ }
+}

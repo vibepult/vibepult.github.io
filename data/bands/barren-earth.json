@@ -1,0 +1,127 @@
+{
+ "slug": "barren-earth",
+ "name": "Barren Earth",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 427917856,
+  "deezer": 305348,
+  "spotify": "4o8YZJFsViA32OE9WnG8Gt"
+ },
+ "metadata": {
+  "formed": 2007,
+  "split": null,
+  "country": "FI",
+  "status": "on hold",
+  "members": 6,
+  "past_members": 2,
+  "full_lengths": 4,
+  "genre": "Progressive Melodic Death/Doom Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 2468,
+  "themes": "Darkness, Loss, Despair, Death",
+  "release_year": 2013
+ },
+ "partial": false,
+ "clips": [
+  "barren-earth/363270984-105",
+  "barren-earth/674015991-104",
+  "barren-earth/1056456284-105",
+  "barren-earth/1343401575-105",
+  "barren-earth/363270984-104",
+  "barren-earth/674015991-105",
+  "barren-earth/1056456284-104",
+  "barren-earth/1343401575-104",
+  "barren-earth/363270984-106",
+  "barren-earth/674015991-103",
+  "barren-earth/1056456284-106",
+  "barren-earth/1343401575-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 107.85326086956522,
+   "iqr": 34.93196770334929
+  },
+  "onset_rate": {
+   "median": 3.5584132400717645,
+   "iqr": 2.330510079765311
+  },
+  "tempo_var": {
+   "median": 6.270044044438599,
+   "iqr": 11.642564989178599
+  },
+  "low_onset_rate": {
+   "median": 5.713508582650439,
+   "iqr": 2.2052138389177127
+  },
+  "lufs": {
+   "median": -9.181435853117236,
+   "iqr": 4.116382648288662
+  },
+  "rms_dbfs": {
+   "median": -8.773042298102844,
+   "iqr": 4.725996298067356
+  },
+  "crest": {
+   "median": 8.773042678833008,
+   "iqr": 4.725996255874634
+  },
+  "centroid": {
+   "median": 2144.162673441354,
+   "iqr": 708.8403535038899
+  },
+  "flatness": {
+   "median": 0.0188183281570673,
+   "iqr": 0.020698139793239534
+  },
+  "sub100_share": {
+   "median": 0.23093512654304504,
+   "iqr": 0.09214871004223824
+  },
+  "lowest_pitch": {
+   "median": 63.2537841796875,
+   "iqr": 24.224853515625
+  },
+  "harmonic_share": {
+   "median": 0.8393480777740479,
+   "iqr": 0.0903327465057373
+  },
+  "clean_share": {
+   "median": 0.14817688130333592,
+   "iqr": 0.7150892164468581
+  },
+  "minor_share": {
+   "median": -0.014172103098758604,
+   "iqr": 0.17254706419075994
+  },
+  "chord_rate": {
+   "median": 1.169431581244242,
+   "iqr": 0.6598935351306795
+  },
+  "repetitiveness": {
+   "median": 0.772623747587204,
+   "iqr": 0.12882475554943085
+  },
+  "vocal_share": {
+   "median": 0.08190320432186127,
+   "iqr": 0.06968536227941513
+  },
+  "vocal_voiced": {
+   "median": 0.7158962795941376,
+   "iqr": 0.2736515275893071
+  },
+  "song_length": {
+   "median": 424.16700000000003,
+   "iqr": 84.23000000000002
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

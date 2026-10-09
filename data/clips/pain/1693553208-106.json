@@ -1,0 +1,32 @@
+{
+ "id": "pain/1693553208-106",
+ "band": "pain",
+ "title": "Dancing With The Dead",
+ "source": "itunes",
+ "album": "Dancing With The Dead",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 0.9689575958880862,
+  "tempo_var": 0.870237148262246,
+  "low_onset_rate": 1.603791882849246,
+  "lufs": -9.961820946025908,
+  "rms_dbfs": -9.95601600956969,
+  "crest": 9.956015586853027,
+  "centroid": 2776.1380485986606,
+  "flatness": 0.032639432698488235,
+  "sub100_share": 0.3324446678161621,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7674357891082764,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": -0.16355658012704222,
+  "chord_rate": 1.7374412064200164,
+  "repetitiveness": 0.906510591506958,
+  "vocal_share": 4.215930005102564e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 253.533
+ }
+}

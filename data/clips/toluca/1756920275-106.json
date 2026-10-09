@@ -1,0 +1,32 @@
+{
+ "id": "toluca/1756920275-106",
+ "band": "toluca",
+ "title": "Paimon",
+ "source": "itunes",
+ "album": "Darvo",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 5.163950030822787,
+  "tempo_var": 16.116492606423282,
+  "low_onset_rate": 4.764160351017152,
+  "lufs": -7.0404648889103845,
+  "rms_dbfs": -6.994051707389355,
+  "crest": 6.994051933288574,
+  "centroid": 2575.5129203696843,
+  "flatness": 0.03501152992248535,
+  "sub100_share": 0.2147715836763382,
+  "lowest_pitch": 104.974365234375,
+  "harmonic_share": 0.7572052478790283,
+  "clean_share": 0.0,
+  "minor_share": 0.0520353080272542,
+  "chord_rate": 1.3326322660187837,
+  "repetitiveness": 0.8732649087905884,
+  "vocal_share": 0.14810489118099213,
+  "vocal_voiced": 0.33394664213431463,
+  "song_length": 258.0
+ }
+}

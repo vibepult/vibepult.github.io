@@ -1,0 +1,32 @@
+{
+ "id": "minuala/1832687188-104",
+ "band": "minuala",
+ "title": "Пепел и ветер",
+ "source": "itunes",
+ "album": "Край тысячи озёр",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.4332814318755576,
+  "tempo_var": 8.435359760665703,
+  "low_onset_rate": 5.033257244788439,
+  "lufs": -5.576724433192812,
+  "rms_dbfs": -5.036791366254462,
+  "crest": 5.036791801452637,
+  "centroid": 2652.046324790882,
+  "flatness": 0.047317568212747574,
+  "sub100_share": 0.3263619840145111,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7264829874038696,
+  "clean_share": 0.0,
+  "minor_share": 0.07175155850244874,
+  "chord_rate": 1.1333162008132909,
+  "repetitiveness": 0.80342698097229,
+  "vocal_share": 0.17778350412845612,
+  "vocal_voiced": 0.10595514307811292,
+  "song_length": 194.182
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "coldseed",
+ "name": "Coldseed",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 159326823,
+  "deezer": 65416,
+  "spotify": "1L2OM6TeAzvcfqPLjLa9gi"
+ },
+ "metadata": {
+  "formed": 2004,
+  "split": 2006,
+  "country": "XX",
+  "status": "split-up",
+  "members": 5,
+  "past_members": 1,
+  "full_lengths": 1,
+  "genre": "Gothic/Groove/Industrial Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 166,
+  "themes": "N/A",
+  "release_year": 2006
+ },
+ "partial": false,
+ "clips": [
+  "coldseed/1460470424-106",
+  "coldseed/1460470424-107",
+  "coldseed/1460470424-105",
+  "coldseed/1460470424-108",
+  "coldseed/1460470424-104",
+  "coldseed/1460470424-109",
+  "coldseed/1460470424-103",
+  "coldseed/1460470424-110",
+  "coldseed/1460470424-102",
+  "coldseed/1460470424-111",
+  "coldseed/1460470424-101",
+  "coldseed/1460470424-112"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 47.79474204763426
+  },
+  "onset_rate": {
+   "median": 2.7398111332007953,
+   "iqr": 1.7207350409736701
+  },
+  "tempo_var": {
+   "median": 11.781750520151116,
+   "iqr": 9.206005854978656
+  },
+  "low_onset_rate": {
+   "median": 1.820972033651748,
+   "iqr": 2.5894556441836785
+  },
+  "lufs": {
+   "median": -8.864144250613602,
+   "iqr": 1.7492072739757365
+  },
+  "rms_dbfs": {
+   "median": -7.950868197149424,
+   "iqr": 1.2778703197158379
+  },
+  "crest": {
+   "median": 7.950868368148804,
+   "iqr": 1.2778708934783936
+  },
+  "centroid": {
+   "median": 2250.775199247964,
+   "iqr": 339.47687589337056
+  },
+  "flatness": {
+   "median": 0.020048723556101322,
+   "iqr": 0.013823175569996238
+  },
+  "sub100_share": {
+   "median": 0.4541409760713577,
+   "iqr": 0.14534924179315567
+  },
+  "lowest_pitch": {
+   "median": 51.141357421875,
+   "iqr": 17.4957275390625
+  },
+  "harmonic_share": {
+   "median": 0.8090687990188599,
+   "iqr": 0.07231219112873077
+  },
+  "clean_share": {
+   "median": 0.24359968968192397,
+   "iqr": 0.3091543832428239
+  },
+  "minor_share": {
+   "median": 0.06666026999807412,
+   "iqr": 0.11106087877815209
+  },
+  "chord_rate": {
+   "median": 2.155095342578674,
+   "iqr": 0.359182557096446
+  },
+  "repetitiveness": {
+   "median": 0.9121833443641663,
+   "iqr": 0.09601405262947083
+  },
+  "vocal_share": {
+   "median": 0.06794062629342079,
+   "iqr": 0.043015954084694386
+  },
+  "vocal_voiced": {
+   "median": 0.19415061952190227,
+   "iqr": 0.5719810912751557
+  },
+  "song_length": {
+   "median": 240.235,
+   "iqr": 60.21875
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

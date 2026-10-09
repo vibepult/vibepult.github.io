@@ -1,0 +1,32 @@
+{
+ "id": "korpiklaani/1456968877-107",
+ "band": "korpiklaani",
+ "title": "Kultanainen",
+ "source": "itunes",
+ "album": "Karkelo",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 2.6395741405227175,
+  "tempo_var": 3.546173392718799,
+  "low_onset_rate": 3.6085317364108036,
+  "lufs": -9.624380638612799,
+  "rms_dbfs": -8.70879678677843,
+  "crest": 8.708796501159668,
+  "centroid": 2494.613899177241,
+  "flatness": 0.026604097336530685,
+  "sub100_share": 0.37076693773269653,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.8081137537956238,
+  "clean_share": 0.027152831652443754,
+  "minor_share": -0.07205237311645185,
+  "chord_rate": 0.9689575958880862,
+  "repetitiveness": 0.9524253606796265,
+  "vocal_share": 0.005486536305397749,
+  "vocal_voiced": 0.8566978193146417,
+  "song_length": 376.12
+ }
+}

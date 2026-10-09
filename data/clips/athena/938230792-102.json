@@ -1,0 +1,32 @@
+{
+ "id": "athena/938230792-102",
+ "band": "athena",
+ "title": "Kafama Göre",
+ "source": "itunes",
+ "album": "Altüst",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.399866973031806,
+  "tempo_var": 15.874371870743113,
+  "low_onset_rate": 4.566528600798161,
+  "lufs": -9.029472644881645,
+  "rms_dbfs": -8.719194490387666,
+  "crest": 8.719194412231445,
+  "centroid": 1996.4464695022095,
+  "flatness": 0.010757711715996265,
+  "sub100_share": 0.12986691296100616,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.8349151015281677,
+  "clean_share": 0.30781129156999226,
+  "minor_share": -0.15325517514141207,
+  "chord_rate": 1.199963719917765,
+  "repetitiveness": 0.7903043031692505,
+  "vocal_share": 0.2982470393180847,
+  "vocal_voiced": 0.8090614886731392,
+  "song_length": 193.793
+ }
+}

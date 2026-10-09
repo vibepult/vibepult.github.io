@@ -1,0 +1,32 @@
+{
+ "id": "agathocles/297097775-104",
+ "band": "agathocles",
+ "title": "Empty Frame",
+ "source": "itunes",
+ "album": "Mincer",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 3.30782075837657,
+  "tempo_var": 24.37420174933634,
+  "low_onset_rate": 6.081044222470058,
+  "lufs": -9.025899514004344,
+  "rms_dbfs": -9.131628192676075,
+  "crest": 9.131628036499023,
+  "centroid": 3596.5587837125254,
+  "flatness": 0.09602342545986176,
+  "sub100_share": 0.34766414761543274,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6062595844268799,
+  "clean_share": 0.0,
+  "minor_share": -0.03687132599372278,
+  "chord_rate": 2.205213838917713,
+  "repetitiveness": 0.9725426435470581,
+  "vocal_share": 0.04097779467701912,
+  "vocal_voiced": 0.08901098901098901,
+  "song_length": 179.427
+ }
+}

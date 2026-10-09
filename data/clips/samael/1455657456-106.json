@@ -1,0 +1,32 @@
+{
+ "id": "samael/1455657456-106",
+ "band": "samael",
+ "title": "Alliance",
+ "source": "itunes",
+ "album": "Solar Soul (Deluxe Edition)",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 0.9999939531733746,
+  "tempo_var": 1.8073186456893708,
+  "low_onset_rate": 3.933309549148607,
+  "lufs": -7.853306736787944,
+  "rms_dbfs": -7.371658622550533,
+  "crest": 7.371658802032471,
+  "centroid": 2779.4766812827775,
+  "flatness": 0.052459485828876495,
+  "sub100_share": 0.3774803876876831,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.70792156457901,
+  "clean_share": 0.017014694508894045,
+  "minor_share": 0.2073681919598262,
+  "chord_rate": 1.9666547745743035,
+  "repetitiveness": 0.8187422752380371,
+  "vocal_share": 0.10149241238832474,
+  "vocal_voiced": 0.04327666151468315,
+  "song_length": 220.133
+ }
+}

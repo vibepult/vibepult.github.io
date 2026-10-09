@@ -1,0 +1,32 @@
+{
+ "id": "iron-maiden/1713861903-105",
+ "band": "iron-maiden",
+ "title": "The Trooper (2015 Remaster)",
+ "source": "itunes",
+ "album": "Piece of Mind (2015 Remaster)",
+ "year": 1983,
+ "itunes_year": 1983,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.333267826639053,
+  "tempo_var": 25.827626854364414,
+  "low_onset_rate": 6.133240616166045,
+  "lufs": -8.837879133218424,
+  "rms_dbfs": -8.231835673336626,
+  "crest": 8.231836318969727,
+  "centroid": 2142.743112792742,
+  "flatness": 0.01834884099662304,
+  "sub100_share": 0.1523188054561615,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7763078808784485,
+  "clean_share": 0.10595514307811292,
+  "minor_share": 0.18735560731403367,
+  "chord_rate": 1.7666399600913063,
+  "repetitiveness": 0.8516526818275452,
+  "vocal_share": 0.2091301828622818,
+  "vocal_voiced": 0.8073770491803278,
+  "song_length": 252.737
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "queensryche/182640336-107",
+ "band": "queensryche",
+ "title": "Liquid Sky",
+ "source": "itunes",
+ "album": "Q2K (Remastered)",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.5417070746254184,
+  "tempo_var": 9.419724673168446,
+  "low_onset_rate": 5.178911288367357,
+  "lufs": -8.624528341132908,
+  "rms_dbfs": -8.68900787067042,
+  "crest": 8.689007759094238,
+  "centroid": 2487.4379895075635,
+  "flatness": 0.03310910612344742,
+  "sub100_share": 0.16723760962486267,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7917292714118958,
+  "clean_share": 0.045771916214119475,
+  "minor_share": 0.13742719410838722,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.7252091765403748,
+  "vocal_share": 0.2605285346508026,
+  "vocal_voiced": 0.7980852915578764,
+  "song_length": 291.88
+ }
+}

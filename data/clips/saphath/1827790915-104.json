@@ -1,0 +1,32 @@
+{
+ "id": "saphath/1827790915-104",
+ "band": "saphath",
+ "title": "Broken Mirror",
+ "source": "itunes",
+ "album": "Ascension of the Dark Prophet",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 1.299980347991716,
+  "tempo_var": 5.961145232151638,
+  "low_onset_rate": 3.999939532282203,
+  "lufs": -7.031020922144238,
+  "rms_dbfs": -6.685326404845501,
+  "crest": 6.68532657623291,
+  "centroid": 2593.8140753777293,
+  "flatness": 0.04276314750313759,
+  "sub100_share": 0.3540666401386261,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7813013195991516,
+  "clean_share": 0.0030935808197989174,
+  "minor_share": -0.08783891341992567,
+  "chord_rate": 1.4666444951701412,
+  "repetitiveness": 0.7762454152107239,
+  "vocal_share": 0.0997418463230133,
+  "vocal_voiced": 0.13996478873239437,
+  "song_length": 273.585
+ }
+}

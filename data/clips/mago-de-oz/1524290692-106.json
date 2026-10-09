@@ -1,0 +1,32 @@
+{
+ "id": "mago-de-oz/1524290692-106",
+ "band": "mago-de-oz",
+ "title": "Yankees Go Home",
+ "source": "itunes",
+ "album": "Mägo De Oz",
+ "year": 1994,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.646683920865054,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.448579862289677,
+  "lufs": -7.079109587262561,
+  "rms_dbfs": -7.1799152324574536,
+  "crest": 7.179915428161621,
+  "centroid": 2776.2893849960574,
+  "flatness": 0.0336175262928009,
+  "sub100_share": 0.05337780714035034,
+  "lowest_pitch": 104.974365234375,
+  "harmonic_share": 0.7934176921844482,
+  "clean_share": 0.0031031807602792862,
+  "minor_share": 0.19290398366693606,
+  "chord_rate": 1.2696685739223197,
+  "repetitiveness": 0.9661214351654053,
+  "vocal_share": 0.11484931409358978,
+  "vocal_voiced": 0.2401685393258427,
+  "song_length": 290.56
+ }
+}

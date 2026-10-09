@@ -1,0 +1,32 @@
+{
+ "id": "suicidal-tendencies/202731371-106",
+ "band": "suicidal-tendencies",
+ "title": "Suicyco Mania",
+ "source": "itunes",
+ "album": "How Will I Laugh Tomorrow When I Can't Even Smile Today",
+ "year": 1988,
+ "itunes_year": 1988,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 6.529197681287287,
+  "tempo_var": 16.687235457473832,
+  "low_onset_rate": 5.26333282471118,
+  "lufs": -16.789072315016316,
+  "rms_dbfs": -17.14047045452475,
+  "crest": 17.140470504760742,
+  "centroid": 3000.0789264178857,
+  "flatness": 0.059363652020692825,
+  "sub100_share": 0.12074130773544312,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.6868813037872314,
+  "clean_share": 0.0007733952049497294,
+  "minor_share": 0.14851570893374944,
+  "chord_rate": 1.9987339840675369,
+  "repetitiveness": 0.913103461265564,
+  "vocal_share": 0.05831347778439522,
+  "vocal_voiced": 0.8772241992882562,
+  "song_length": 353.227
+ }
+}

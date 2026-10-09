@@ -1,0 +1,32 @@
+{
+ "id": "dark-suns/1556150079-106",
+ "band": "dark-suns",
+ "title": "Anemone",
+ "source": "itunes",
+ "album": "Existence",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.84478797944043,
+  "tempo_var": 4.204347444604722,
+  "low_onset_rate": 4.176541361586578,
+  "lufs": -12.043790492114915,
+  "rms_dbfs": -11.306993258369358,
+  "crest": 11.306992530822754,
+  "centroid": 2380.6296405532144,
+  "flatness": 0.02701149322092533,
+  "sub100_share": 0.34662505984306335,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.6253525614738464,
+  "clean_share": 0.21101629169899147,
+  "minor_share": 0.021153516131609873,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.838495135307312,
+  "vocal_share": 0.1739572435617447,
+  "vocal_voiced": 0.5720761559383499,
+  "song_length": 385.053
+ }
+}

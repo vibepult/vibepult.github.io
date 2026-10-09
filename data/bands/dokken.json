@@ -1,0 +1,127 @@
+{
+ "slug": "dokken",
+ "name": "Dokken",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 578830,
+  "deezer": 5294,
+  "spotify": "09hNSPPOxDop4FRdr6UEnq"
+ },
+ "metadata": {
+  "formed": 1977,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 4,
+  "past_members": 16,
+  "full_lengths": 15,
+  "genre": "Heavy Metal, Hard Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 70942,
+  "themes": "Love, Personal issues",
+  "release_year": 1996
+ },
+ "partial": false,
+ "clips": [
+  "dokken/1727314316-105",
+  "dokken/1727225217-107",
+  "dokken/169976602-106",
+  "dokken/1451522881-107",
+  "dokken/1436082134-105",
+  "dokken/1435852407-106",
+  "dokken/1576248397-106",
+  "dokken/1695228489-105",
+  "dokken/1727314316-106",
+  "dokken/1727225217-106",
+  "dokken/169976602-105",
+  "dokken/1451522881-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 112.34714673913044,
+   "iqr": 28.1982421875
+  },
+  "onset_rate": {
+   "median": 3.566655883159185,
+   "iqr": 0.6953818150586915
+  },
+  "tempo_var": {
+   "median": 2.923738670119283,
+   "iqr": 19.237970274047086
+  },
+  "low_onset_rate": {
+   "median": 4.266640866873065,
+   "iqr": 2.0450048714191733
+  },
+  "lufs": {
+   "median": -12.379544697513442,
+   "iqr": 7.13685908073303
+  },
+  "rms_dbfs": {
+   "median": -11.718874493022694,
+   "iqr": 7.500269276473443
+  },
+  "crest": {
+   "median": 11.718873977661133,
+   "iqr": 6.935102939605713
+  },
+  "centroid": {
+   "median": 2477.3181013746134,
+   "iqr": 511.88390346661754
+  },
+  "flatness": {
+   "median": 0.027440525591373444,
+   "iqr": 0.02121904748491943
+  },
+  "sub100_share": {
+   "median": 0.2683323174715042,
+   "iqr": 0.09692533314228058
+  },
+  "lowest_pitch": {
+   "median": 72.674560546875,
+   "iqr": 20.86029052734375
+  },
+  "harmonic_share": {
+   "median": 0.7589667737483978,
+   "iqr": 0.11598224937915802
+  },
+  "clean_share": {
+   "median": 0.1017014694508894,
+   "iqr": 0.41141976084608955
+  },
+  "minor_share": {
+   "median": 0.048767545445924126,
+   "iqr": 0.1276575156668071
+  },
+  "chord_rate": {
+   "median": 1.5499141944646437,
+   "iqr": 0.7619331943560645
+  },
+  "repetitiveness": {
+   "median": 0.7696815133094788,
+   "iqr": 0.1333370804786682
+  },
+  "vocal_share": {
+   "median": 0.2466428205370903,
+   "iqr": 0.21395467594265938
+  },
+  "vocal_voiced": {
+   "median": 0.8222346593334591,
+   "iqr": 0.12429858680642225
+  },
+  "song_length": {
+   "median": 268.78700000000003,
+   "iqr": 12.266500000000008
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

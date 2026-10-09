@@ -1,0 +1,32 @@
+{
+ "id": "havok/1659209643-105",
+ "band": "havok",
+ "title": "Covering Fire",
+ "source": "itunes",
+ "album": "Time Is Up",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 6.2,
+  "tempo_var": 18.223487416633496,
+  "low_onset_rate": 7.8,
+  "lufs": -8.689095527404136,
+  "rms_dbfs": -8.411661769297785,
+  "crest": 8.411661148071289,
+  "centroid": 2876.407029574375,
+  "flatness": 0.05265243723988533,
+  "sub100_share": 0.3685435950756073,
+  "lowest_pitch": 121.124267578125,
+  "harmonic_share": 0.7334332466125488,
+  "clean_share": 0.0015479876160990713,
+  "minor_share": 0.05043512520992466,
+  "chord_rate": 2.6666666666666665,
+  "repetitiveness": 0.9620178937911987,
+  "vocal_share": 0.08994357287883759,
+  "vocal_voiced": 0.01568627450980392,
+  "song_length": 255.027
+ }
+}

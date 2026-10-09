@@ -1,0 +1,32 @@
+{
+ "id": "wake/1080119384-105",
+ "band": "wake",
+ "title": "Low",
+ "source": "itunes",
+ "album": "Sowing the Seeds of a Worthless Tomorrow",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.21232361926005,
+  "tempo_var": 8.67983822504905,
+  "low_onset_rate": 7.250475803714299,
+  "lufs": -9.253472655490349,
+  "rms_dbfs": -7.814633344683269,
+  "crest": 7.814633846282959,
+  "centroid": 2174.107872634983,
+  "flatness": 0.018282044678926468,
+  "sub100_share": 0.4994746446609497,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8494701385498047,
+  "clean_share": 0.16291698991466252,
+  "minor_share": 0.09952334009012015,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.7871114611625671,
+  "vocal_share": 5.020808089284401e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 209.001
+ }
+}

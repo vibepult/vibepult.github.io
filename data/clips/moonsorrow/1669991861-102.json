@@ -1,0 +1,32 @@
+{
+ "id": "moonsorrow/1669991861-102",
+ "band": "moonsorrow",
+ "title": "Haaska",
+ "source": "itunes",
+ "album": "Verisäkeet",
+ "year": 2005,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.610901663191583,
+  "tempo_var": 15.240908139192173,
+  "low_onset_rate": 6.682466178538525,
+  "lufs": -10.716678306169621,
+  "rms_dbfs": -10.454225562008578,
+  "crest": 10.454225540161133,
+  "centroid": 2358.0242894947764,
+  "flatness": 0.028340063989162445,
+  "sub100_share": 0.33711302280426025,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8266150951385498,
+  "clean_share": 0.29712955779674166,
+  "minor_share": -0.09634663116790732,
+  "chord_rate": 0.9021329341027009,
+  "repetitiveness": 0.9334240555763245,
+  "vocal_share": 0.03946245461702347,
+  "vocal_voiced": 0.4275618374558304,
+  "song_length": 882.28
+ }
+}

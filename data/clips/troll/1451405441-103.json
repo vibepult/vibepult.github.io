@@ -1,0 +1,32 @@
+{
+ "id": "troll/1451405441-103",
+ "band": "troll",
+ "title": "Trollberg",
+ "source": "itunes",
+ "album": "Drep De Kristne",
+ "year": 1996,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.145498957474664,
+  "tempo_var": 2.232030639006874,
+  "low_onset_rate": 6.782703171216603,
+  "lufs": -12.508529540072752,
+  "rms_dbfs": -11.741875907046875,
+  "crest": 11.741875648498535,
+  "centroid": 1864.7305450220942,
+  "flatness": 0.013005062006413937,
+  "sub100_share": 0.24561791121959686,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.871874988079071,
+  "clean_share": 0.3405740884406517,
+  "minor_share": 0.059645924408471496,
+  "chord_rate": 1.871090529990787,
+  "repetitiveness": 0.773235559463501,
+  "vocal_share": 0.002457817317917943,
+  "vocal_voiced": 0.6304347826086957,
+  "song_length": 260.187
+ }
+}

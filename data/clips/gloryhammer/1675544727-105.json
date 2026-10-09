@@ -1,0 +1,32 @@
+{
+ "id": "gloryhammer/1675544727-105",
+ "band": "gloryhammer",
+ "title": "Brothers of Crail",
+ "source": "itunes",
+ "album": "Return to the Kingdom of Fife",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 7.096920912619921,
+  "tempo_var": 10.135357857475986,
+  "low_onset_rate": 7.5967040754804795,
+  "lufs": -9.481182022562226,
+  "rms_dbfs": -9.057000635073859,
+  "crest": 9.057001113891602,
+  "centroid": 2634.512135472336,
+  "flatness": 0.043442245572805405,
+  "sub100_share": 0.33835354447364807,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7595431208610535,
+  "clean_share": 0.0,
+  "minor_share": 0.0007206551740188694,
+  "chord_rate": 0.9995663257211157,
+  "repetitiveness": 0.904556393623352,
+  "vocal_share": 0.22203469276428223,
+  "vocal_voiced": 0.34210526315789475,
+  "song_length": 256.64
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "saturnus/1673921447-105",
+ "band": "saturnus",
+ "title": "Closing the Circle",
+ "source": "itunes",
+ "album": "The Storm Within",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 1.4701425592784756,
+  "tempo_var": 10.44147845168,
+  "low_onset_rate": 1.7708535373127092,
+  "lufs": -17.568228619970444,
+  "rms_dbfs": -16.722261638607247,
+  "crest": 16.722261428833008,
+  "centroid": 1474.8506416391692,
+  "flatness": 0.005041912198066711,
+  "sub100_share": 0.2863093316555023,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.8918069005012512,
+  "clean_share": 0.7587276958882855,
+  "minor_share": 0.07280065185742024,
+  "chord_rate": 0.46777263249769674,
+  "repetitiveness": 0.8482801914215088,
+  "vocal_share": 0.10885398089885712,
+  "vocal_voiced": 0.7046413502109705,
+  "song_length": 559.7
+ }
+}

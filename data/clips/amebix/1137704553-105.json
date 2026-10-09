@@ -1,0 +1,32 @@
+{
+ "id": "amebix/1137704553-105",
+ "band": "amebix",
+ "title": "Drink and Be Merry (Remastered 2014)",
+ "source": "itunes",
+ "album": "Arise!",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.30782075837657,
+  "tempo_var": 11.486626824802382,
+  "low_onset_rate": 2.138389177132328,
+  "lufs": -13.689956017935302,
+  "rms_dbfs": -13.054053114981006,
+  "crest": 13.054052352905273,
+  "centroid": 2460.3750430635127,
+  "flatness": 0.02018284797668457,
+  "sub100_share": 0.17635725438594818,
+  "lowest_pitch": 88.824462890625,
+  "harmonic_share": 0.804463803768158,
+  "clean_share": 0.22110162916989914,
+  "minor_share": 0.06214658903545767,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.7553911805152893,
+  "vocal_share": 8.328524359058065e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 367.656
+ }
+}

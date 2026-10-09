@@ -1,0 +1,32 @@
+{
+ "id": "electric-wizard/965383984-104",
+ "band": "electric-wizard",
+ "title": "Behemoth",
+ "source": "itunes",
+ "album": "Electric Wizard",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.9332889903402823,
+  "tempo_var": 5.2846184229764495,
+  "low_onset_rate": 5.8332451512448795,
+  "lufs": -5.765211701195575,
+  "rms_dbfs": -4.196604755417418,
+  "crest": 4.1966047286987305,
+  "centroid": 1905.800724038327,
+  "flatness": 0.007819187827408314,
+  "sub100_share": 0.5044026970863342,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.9246246218681335,
+  "clean_share": 0.5367362722351121,
+  "minor_share": -0.06080423556061432,
+  "chord_rate": 1.3666460068630861,
+  "repetitiveness": 0.692210853099823,
+  "vocal_share": 1.1864111684189993e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 536.773
+ }
+}

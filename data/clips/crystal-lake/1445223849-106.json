@@ -1,0 +1,32 @@
+{
+ "id": "crystal-lake/1445223849-106",
+ "band": "crystal-lake",
+ "title": "Outgrow",
+ "source": "itunes",
+ "album": "Helix",
+ "year": 2018,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 67.99958881578948,
+  "onset_rate": 1.8999885110294117,
+  "tempo_var": 14.5529547364525,
+  "low_onset_rate": 3.0999812548374615,
+  "lufs": -13.526312998031859,
+  "rms_dbfs": -14.631275202518356,
+  "crest": 14.631275177001953,
+  "centroid": 1929.6130980541627,
+  "flatness": 0.008740507066249847,
+  "sub100_share": 0.05280844494700432,
+  "lowest_pitch": 174.957275390625,
+  "harmonic_share": 0.8329344391822815,
+  "clean_share": 0.6867749419953596,
+  "minor_share": 0.1968490411336261,
+  "chord_rate": 1.0333270849458205,
+  "repetitiveness": 0.7941448092460632,
+  "vocal_share": 0.33484023809432983,
+  "vocal_voiced": 0.512280701754386,
+  "song_length": 242.331
+ }
+}

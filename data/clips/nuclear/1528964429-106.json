@@ -1,0 +1,32 @@
+{
+ "id": "nuclear/1528964429-106",
+ "band": "nuclear",
+ "title": "Abusados",
+ "source": "itunes",
+ "album": "Murder of Crows",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.443840008728119,
+  "tempo_var": 6.8892752051512955,
+  "low_onset_rate": 5.713508582650439,
+  "lufs": -8.335389742239895,
+  "rms_dbfs": -7.7838249639238875,
+  "crest": 7.783824920654297,
+  "centroid": 2463.5307374501194,
+  "flatness": 0.0323282927274704,
+  "sub100_share": 0.3259592652320862,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7518638968467712,
+  "clean_share": 0.012412723041117145,
+  "minor_share": 0.023066057384313554,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.8650596737861633,
+  "vocal_share": 0.10009191185235977,
+  "vocal_voiced": 0.030120481927710843,
+  "song_length": 297.56
+ }
+}

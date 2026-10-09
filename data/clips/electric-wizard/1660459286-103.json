@@ -1,0 +1,32 @@
+{
+ "id": "electric-wizard/1660459286-103",
+ "band": "electric-wizard",
+ "title": "Hear the Sirens Scream",
+ "source": "itunes",
+ "album": "Wizard Bloody Wizard",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.5082947437327254,
+  "tempo_var": 3.672849668872617,
+  "low_onset_rate": 7.083414149250837,
+  "lufs": -8.70549494243988,
+  "rms_dbfs": -7.67419570064397,
+  "crest": 7.674195289611816,
+  "centroid": 2327.7316346384887,
+  "flatness": 0.01779727265238762,
+  "sub100_share": 0.4482669532299042,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.898659348487854,
+  "clean_share": 0.08611326609775019,
+  "minor_share": 0.01824330571680044,
+  "chord_rate": 1.9379151917761723,
+  "repetitiveness": 0.7939425110816956,
+  "vocal_share": 0.006659724283963442,
+  "vocal_voiced": 0.0,
+  "song_length": 524.213
+ }
+}

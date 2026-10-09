@@ -1,0 +1,32 @@
+{
+ "id": "the-lonely/1777496278-105",
+ "band": "the-lonely",
+ "title": "Lost In Darkness",
+ "source": "itunes",
+ "album": "Homicidal Tendencies",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 2.966621819775967,
+  "tempo_var": 7.174308119518311,
+  "low_onset_rate": 4.966591585917069,
+  "lufs": -8.467166345014702,
+  "rms_dbfs": -6.965043538174412,
+  "crest": 6.965043544769287,
+  "centroid": 1776.7664372795693,
+  "flatness": 0.007402442861348391,
+  "sub100_share": 0.32758814096450806,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.889394223690033,
+  "clean_share": 0.2459396751740139,
+  "minor_share": 0.21100387581986751,
+  "chord_rate": 0.9999848830705508,
+  "repetitiveness": 0.8406698107719421,
+  "vocal_share": 0.024735063314437866,
+  "vocal_voiced": 0.9955357142857143,
+  "song_length": 377.208
+ }
+}

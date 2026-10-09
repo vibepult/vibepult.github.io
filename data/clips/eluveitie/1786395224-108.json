@@ -1,0 +1,32 @@
+{
+ "id": "eluveitie/1786395224-108",
+ "band": "eluveitie",
+ "title": "The Harvest",
+ "source": "itunes",
+ "album": "Ànv",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 2.399985487616099,
+  "tempo_var": 11.315105453705467,
+  "low_onset_rate": 5.666632401315789,
+  "lufs": -8.569640656661388,
+  "rms_dbfs": -8.420210787690257,
+  "crest": 8.420210838317871,
+  "centroid": 2401.4834753023833,
+  "flatness": 0.037641722708940506,
+  "sub100_share": 0.23409761488437653,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.670048713684082,
+  "clean_share": 0.2451662799690642,
+  "minor_share": -0.04162453732841387,
+  "chord_rate": 2.1666535652089784,
+  "repetitiveness": 0.9226791858673096,
+  "vocal_share": 0.18141305446624756,
+  "vocal_voiced": 0.034782608695652174,
+  "song_length": 218.013
+ }
+}

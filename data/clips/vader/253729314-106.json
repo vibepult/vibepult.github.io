@@ -1,0 +1,32 @@
+{
+ "id": "vader/253729314-106",
+ "band": "vader",
+ "title": "Predator",
+ "source": "itunes",
+ "album": "Impressions In Blood",
+ "year": 2006,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 2.67298647141541,
+  "tempo_var": 14.631991088275663,
+  "low_onset_rate": 2.773223464093488,
+  "lufs": -9.520610654904873,
+  "rms_dbfs": -9.34083183115955,
+  "crest": 9.340831756591797,
+  "centroid": 2186.842565904713,
+  "flatness": 0.021422209218144417,
+  "sub100_share": 0.25809744000434875,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8707411289215088,
+  "clean_share": 0.34290147401086113,
+  "minor_share": -0.09659060583456747,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.7035582065582275,
+  "vocal_share": 5.478320872498443e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 312.52
+ }
+}

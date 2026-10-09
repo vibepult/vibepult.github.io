@@ -1,0 +1,32 @@
+{
+ "id": "cyhra/1440915884-106",
+ "band": "cyhra",
+ "title": "Letter to Myself",
+ "source": "itunes",
+ "album": "Letters to Myself",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.847157906221209,
+  "tempo_var": 0.0,
+  "low_onset_rate": 7.283888134606992,
+  "lufs": -8.504886864050707,
+  "rms_dbfs": -8.196808706228241,
+  "crest": 8.196808815002441,
+  "centroid": 2533.214870624531,
+  "flatness": 0.03707364201545715,
+  "sub100_share": 0.28700926899909973,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7589109539985657,
+  "clean_share": 0.0,
+  "minor_share": 0.267455856927697,
+  "chord_rate": 0.9021329341027009,
+  "repetitiveness": 0.8438636064529419,
+  "vocal_share": 0.2651267945766449,
+  "vocal_voiced": 0.7118380062305296,
+  "song_length": 226.84
+ }
+}

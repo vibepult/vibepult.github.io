@@ -1,0 +1,32 @@
+{
+ "id": "epidemia/1625910043-107",
+ "band": "epidemia",
+ "title": "Вечный воитель",
+ "source": "itunes",
+ "album": "Эльфийская рукопись",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 3.9760673762304224,
+  "tempo_var": 30.06629327723415,
+  "low_onset_rate": 4.610901663191583,
+  "lufs": -12.695608692760112,
+  "rms_dbfs": -12.594131430260756,
+  "crest": 12.594131469726562,
+  "centroid": 2043.168535765371,
+  "flatness": 0.014515227638185024,
+  "sub100_share": 0.23141725361347198,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.7864583134651184,
+  "clean_share": 0.39255236617532974,
+  "minor_share": -0.06977751841504576,
+  "chord_rate": 2.505924816951947,
+  "repetitiveness": 0.8226427435874939,
+  "vocal_share": 0.07247805595397949,
+  "vocal_voiced": 0.14783821478382148,
+  "song_length": 299.733
+ }
+}

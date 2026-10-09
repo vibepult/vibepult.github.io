@@ -1,0 +1,32 @@
+{
+ "id": "cro-mags/1045140770-104",
+ "band": "cro-mags",
+ "title": "Death In the Womb",
+ "source": "itunes",
+ "album": "Near Death Experience",
+ "year": 1993,
+ "itunes_year": 1993,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 6.081044222470058,
+  "tempo_var": 2.880152058378404,
+  "low_onset_rate": 7.283888134606992,
+  "lufs": -11.874855703761211,
+  "rms_dbfs": -11.428697220741448,
+  "crest": 11.42869758605957,
+  "centroid": 2744.680197163514,
+  "flatness": 0.03132830187678337,
+  "sub100_share": 0.28162339329719543,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7080411314964294,
+  "clean_share": 0.01008533747090768,
+  "minor_share": -0.030520473675755055,
+  "chord_rate": 2.0381521844542503,
+  "repetitiveness": 0.9192541837692261,
+  "vocal_share": 0.16630728542804718,
+  "vocal_voiced": 0.8058608058608059,
+  "song_length": 136.267
+ }
+}

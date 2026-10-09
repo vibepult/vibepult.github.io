@@ -1,0 +1,32 @@
+{
+ "id": "anthropia/303351976-107",
+ "band": "anthropia",
+ "title": "The Altar of Trust",
+ "source": "itunes",
+ "album": "The Chain Reaction",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 5.613271589972361,
+  "tempo_var": 27.48210615732197,
+  "low_onset_rate": 4.777963317655045,
+  "lufs": -8.904740285807572,
+  "rms_dbfs": -8.55600136761248,
+  "crest": 8.556001663208008,
+  "centroid": 2823.5687588068304,
+  "flatness": 0.04969559237360954,
+  "sub100_share": 0.3482849895954132,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.6746034026145935,
+  "clean_share": 0.0031031807602792862,
+  "minor_share": 0.18173807243409223,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.8884543776512146,
+  "vocal_share": 0.18727907538414001,
+  "vocal_voiced": 0.5806451612903226,
+  "song_length": 406.413
+ }
+}

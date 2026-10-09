@@ -1,0 +1,32 @@
+{
+ "id": "nemesea/1184718162-106",
+ "band": "nemesea",
+ "title": "Can't Believe It",
+ "source": "itunes",
+ "album": "Uprise",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.7,
+  "tempo_var": 3.41836185338521,
+  "low_onset_rate": 5.4,
+  "lufs": -8.512091983287315,
+  "rms_dbfs": -7.667131538454527,
+  "crest": 7.6671319007873535,
+  "centroid": 2467.130185629499,
+  "flatness": 0.02315054088830948,
+  "sub100_share": 0.40046384930610657,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.8194783329963684,
+  "clean_share": 0.08668730650154799,
+  "minor_share": 0.11102925722686702,
+  "chord_rate": 1.2666666666666666,
+  "repetitiveness": 0.699394166469574,
+  "vocal_share": 0.15662147104740143,
+  "vocal_voiced": 0.9215509467989179,
+  "song_length": 250.16
+ }
+}

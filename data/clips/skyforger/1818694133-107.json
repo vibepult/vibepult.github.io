@@ -1,0 +1,32 @@
+{
+ "id": "skyforger/1818694133-107",
+ "band": "skyforger",
+ "title": "Svētbirzs",
+ "source": "itunes",
+ "album": "Teikas",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 2.1666666666666665,
+  "tempo_var": 14.515682769147714,
+  "low_onset_rate": 4.933333333333334,
+  "lufs": -10.790999604848475,
+  "rms_dbfs": -10.081494882039724,
+  "crest": 10.08149528503418,
+  "centroid": 2372.3234078186697,
+  "flatness": 0.021976536139845848,
+  "sub100_share": 0.44601064920425415,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8806087970733643,
+  "clean_share": 0.21130030959752322,
+  "minor_share": 0.31839475882030455,
+  "chord_rate": 1.1,
+  "repetitiveness": 0.6957671046257019,
+  "vocal_share": 5.176153763386537e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 305.0
+ }
+}

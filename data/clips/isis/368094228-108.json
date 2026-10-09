@@ -1,0 +1,32 @@
+{
+ "id": "isis/368094228-108",
+ "band": "isis",
+ "title": "Collapse and Crush",
+ "source": "itunes",
+ "album": "Celestial",
+ "year": 2000,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.94265504533773,
+  "tempo_var": 12.218581636267297,
+  "low_onset_rate": 5.21232361926005,
+  "lufs": -9.984915307628139,
+  "rms_dbfs": -8.784217960299136,
+  "crest": 8.784218788146973,
+  "centroid": 2193.0955422998372,
+  "flatness": 0.014330186881124973,
+  "sub100_share": 0.4334215819835663,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7548379898071289,
+  "clean_share": 0.15205585725368503,
+  "minor_share": 0.01265743742243397,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.8089278936386108,
+  "vocal_share": 0.029250262305140495,
+  "vocal_voiced": 0.37366003062787134,
+  "song_length": 355.12
+ }
+}

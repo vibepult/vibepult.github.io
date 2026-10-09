@@ -1,0 +1,32 @@
+{
+ "id": "grim-reaper/1835427124-103",
+ "band": "grim-reaper",
+ "title": "Liar",
+ "source": "itunes",
+ "album": "See You In Hell",
+ "year": 1983,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.799942555668093,
+  "tempo_var": 4.85618271473668,
+  "low_onset_rate": 5.9999092984233044,
+  "lufs": -9.976888222480824,
+  "rms_dbfs": -10.136485508469104,
+  "crest": 10.13648509979248,
+  "centroid": 2957.676793418795,
+  "flatness": 0.04575716704130173,
+  "sub100_share": 0.19989877939224243,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.693910539150238,
+  "clean_share": 0.0030935808197989174,
+  "minor_share": 0.014903995414811355,
+  "chord_rate": 2.4332965488050067,
+  "repetitiveness": 0.8749979734420776,
+  "vocal_share": 0.18979483842849731,
+  "vocal_voiced": 0.4489528795811518,
+  "song_length": 168.699
+ }
+}

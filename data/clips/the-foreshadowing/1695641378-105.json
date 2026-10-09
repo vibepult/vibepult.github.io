@@ -1,0 +1,32 @@
+{
+ "id": "the-foreshadowing/1695641378-105",
+ "band": "the-foreshadowing",
+ "title": "Lost Soldiers",
+ "source": "itunes",
+ "album": "Seven Heads Ten Horns",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 2.7332920137261723,
+  "tempo_var": 43.43448348695187,
+  "low_onset_rate": 3.4666142613112427,
+  "lufs": -9.961921432582963,
+  "rms_dbfs": -8.788071054832278,
+  "crest": 8.788071632385254,
+  "centroid": 1908.8904539837151,
+  "flatness": 0.009311801753938198,
+  "sub100_share": 0.3379859924316406,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8554086685180664,
+  "clean_share": 0.4586233565351895,
+  "minor_share": 0.2826112606000031,
+  "chord_rate": 1.9666369367054164,
+  "repetitiveness": 0.6543394327163696,
+  "vocal_share": 0.2610437870025635,
+  "vocal_voiced": 0.9222846441947565,
+  "song_length": 285.667
+ }
+}

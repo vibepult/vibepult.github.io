@@ -1,0 +1,32 @@
+{
+ "id": "paul-chain-violet-theatre/1201258900-101",
+ "band": "paul-chain-violet-theatre",
+ "title": "Welcome to My Hell",
+ "source": "itunes",
+ "album": "In the Darkness",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 3.7755933908742665,
+  "tempo_var": 6.629687492966755,
+  "low_onset_rate": 4.9784373030112015,
+  "lufs": -15.237954775574526,
+  "rms_dbfs": -13.856839251911735,
+  "crest": 13.856839179992676,
+  "centroid": 1907.5635222417066,
+  "flatness": 0.010208116844296455,
+  "sub100_share": 0.3405899703502655,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.6694076061248779,
+  "clean_share": 0.4018619084561676,
+  "minor_share": 0.026791677562372718,
+  "chord_rate": 1.7040288755273238,
+  "repetitiveness": 0.8138871788978577,
+  "vocal_share": 0.2645248472690582,
+  "vocal_voiced": 0.9668649107901445,
+  "song_length": 246.227
+ }
+}

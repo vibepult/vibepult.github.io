@@ -1,0 +1,32 @@
+{
+ "id": "dio/1434313088-107",
+ "band": "dio",
+ "title": "Eriel",
+ "source": "itunes",
+ "album": "Magica",
+ "year": 2000,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 1.7999727895269915,
+  "tempo_var": 25.98437816825625,
+  "low_onset_rate": 2.633293525419117,
+  "lufs": -12.140208084583493,
+  "rms_dbfs": -11.373637139664005,
+  "crest": 11.373636245727539,
+  "centroid": 1805.4311894799791,
+  "flatness": 0.009331254288554192,
+  "sub100_share": 0.23141346871852875,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8403198719024658,
+  "clean_share": 0.4833720030935808,
+  "minor_share": -0.10478098637681132,
+  "chord_rate": 1.0666505419419208,
+  "repetitiveness": 0.739642322063446,
+  "vocal_share": 2.5425713374715997e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 442.96
+ }
+}

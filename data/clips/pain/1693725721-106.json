@@ -1,0 +1,32 @@
+{
+ "id": "pain/1693725721-106",
+ "band": "pain",
+ "title": "Eleanor Rigby",
+ "source": "itunes",
+ "album": "Nothing Remains The Same",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 1.7666559839396285,
+  "tempo_var": 6.397170046526143,
+  "low_onset_rate": 6.066629982585139,
+  "lufs": -10.180604125961366,
+  "rms_dbfs": -9.99892859513929,
+  "crest": 9.998929023742676,
+  "centroid": 2351.341071480822,
+  "flatness": 0.03471100702881813,
+  "sub100_share": 0.27176371216773987,
+  "lowest_pitch": 129.19921875,
+  "harmonic_share": 0.7573974132537842,
+  "clean_share": 0.22351121423047177,
+  "minor_share": 0.26433581784348725,
+  "chord_rate": 0.6999957672213623,
+  "repetitiveness": 0.8954371213912964,
+  "vocal_share": 0.03488362580537796,
+  "vocal_voiced": 0.33260393873085337,
+  "song_length": 231.413
+ }
+}

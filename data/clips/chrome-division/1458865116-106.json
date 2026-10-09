@@ -1,0 +1,32 @@
+{
+ "id": "chrome-division/1458865116-106",
+ "band": "chrome-division",
+ "title": "The Call",
+ "source": "itunes",
+ "album": "One Last Ride",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.572749478737332,
+  "tempo_var": 2.186819681528812,
+  "low_onset_rate": 2.472512486059254,
+  "lufs": -10.794935127942287,
+  "rms_dbfs": -9.6270354072618,
+  "crest": 9.627036094665527,
+  "centroid": 2473.4511592914096,
+  "flatness": 0.05227518081665039,
+  "sub100_share": 0.4590756893157959,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.7422096133232117,
+  "clean_share": 0.0504266873545384,
+  "minor_share": -0.14148168797112193,
+  "chord_rate": 2.9736974494496438,
+  "repetitiveness": 0.8717496395111084,
+  "vocal_share": 0.068604476749897,
+  "vocal_voiced": 0.3391304347826087,
+  "song_length": 264.52
+ }
+}

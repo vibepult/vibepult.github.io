@@ -1,0 +1,32 @@
+{
+ "id": "empyrium/1556132381-104",
+ "band": "empyrium",
+ "title": "The Sad Song of the Wind",
+ "source": "itunes",
+ "album": "Where at Night the Wood Grouse Plays",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.7063988023081027,
+  "tempo_var": 26.89508065389655,
+  "low_onset_rate": 2.7398111332007953,
+  "lufs": -11.872831775919488,
+  "rms_dbfs": -11.447668334928732,
+  "crest": 11.447668075561523,
+  "centroid": 740.8358929422698,
+  "flatness": 0.0008906493312679231,
+  "sub100_share": 0.003642543451860547,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.9637834429740906,
+  "clean_share": 0.9720713731574864,
+  "minor_share": 0.21674433057772424,
+  "chord_rate": 0.4009479707123115,
+  "repetitiveness": 0.6649672389030457,
+  "vocal_share": 0.0003248896391596645,
+  "vocal_voiced": 0.5888888888888889,
+  "song_length": 172.213
+ }
+}

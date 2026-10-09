@@ -1,0 +1,32 @@
+{
+ "id": "windhand/1009392659-105",
+ "band": "windhand",
+ "title": "Sparrow",
+ "source": "itunes",
+ "album": "Grief's Infernal Flower",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 2.2332995721908966,
+  "tempo_var": 25.105639908450787,
+  "low_onset_rate": 3.0666203080830226,
+  "lufs": -18.756653095352714,
+  "rms_dbfs": -18.109605763501126,
+  "crest": 17.14832878112793,
+  "centroid": 1803.1795178884029,
+  "flatness": 0.005437689367681742,
+  "sub100_share": 0.194966122508049,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.9380221366882324,
+  "clean_share": 0.7347254447022429,
+  "minor_share": -0.02750707482086967,
+  "chord_rate": 0.9666520536348657,
+  "repetitiveness": 0.5881114602088928,
+  "vocal_share": 0.4448886513710022,
+  "vocal_voiced": 0.9066523605150214,
+  "song_length": 286.107
+ }
+}

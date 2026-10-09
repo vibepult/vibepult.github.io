@@ -1,0 +1,32 @@
+{
+ "id": "black-sabbath/787645011-103",
+ "band": "black-sabbath",
+ "title": "Wasp / Behind the Wall of Sleep / Bassically / N.I.B.",
+ "source": "itunes",
+ "album": "Black Sabbath",
+ "year": 1970,
+ "itunes_year": 1970,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.8996109231731984,
+  "tempo_var": 2.0925554355899534,
+  "low_onset_rate": 5.5327813098012895,
+  "lufs": -13.619937693947598,
+  "rms_dbfs": -13.149202301865673,
+  "crest": 13.148937225341797,
+  "centroid": 2265.0927925099127,
+  "flatness": 0.018346775323152542,
+  "sub100_share": 0.11279256641864777,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.7666194438934326,
+  "clean_share": 0.12064965197215777,
+  "minor_share": 0.03651850076112162,
+  "chord_rate": 2.6997306391199065,
+  "repetitiveness": 0.8465370535850525,
+  "vocal_share": 0.1598440706729889,
+  "vocal_voiced": 0.9128686327077749,
+  "song_length": 583.8
+ }
+}

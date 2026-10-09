@@ -1,0 +1,32 @@
+{
+ "id": "huntress/1184713735-104",
+ "band": "huntress",
+ "title": "Snow Witch",
+ "source": "itunes",
+ "album": "Spell Eater",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 4.5,
+  "tempo_var": 11.78786508694868,
+  "low_onset_rate": 6.3,
+  "lufs": -9.194510465922798,
+  "rms_dbfs": -8.944859533766603,
+  "crest": 8.94485855102539,
+  "centroid": 2214.1881090833417,
+  "flatness": 0.0202688816934824,
+  "sub100_share": 0.1390080749988556,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7665819525718689,
+  "clean_share": 0.16176470588235295,
+  "minor_share": 0.030575317238942135,
+  "chord_rate": 1.3,
+  "repetitiveness": 0.894243061542511,
+  "vocal_share": 0.1956196278333664,
+  "vocal_voiced": 0.5040871934604905,
+  "song_length": 304.187
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "nevermore/1045434955-105",
+ "band": "nevermore",
+ "title": "I, Voyager",
+ "source": "itunes",
+ "album": "Enemies of Reality",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 78.30255681818181,
+  "onset_rate": 4.109716699801193,
+  "tempo_var": 31.098476351180988,
+  "low_onset_rate": 6.515404524075062,
+  "lufs": -8.56108159116798,
+  "rms_dbfs": -7.930521055247443,
+  "crest": 7.930521011352539,
+  "centroid": 2830.733953767082,
+  "flatness": 0.040366239845752716,
+  "sub100_share": 0.39557552337646484,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7099569439888,
+  "clean_share": 0.026377036462373934,
+  "minor_share": 0.21957450527178496,
+  "chord_rate": 2.1049768462396354,
+  "repetitiveness": 0.9757902026176453,
+  "vocal_share": 0.0700153186917305,
+  "vocal_voiced": 0.37630662020905925,
+  "song_length": 348.893
+ }
+}

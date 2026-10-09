@@ -1,0 +1,32 @@
+{
+ "id": "anthropia/962266862-107",
+ "band": "anthropia",
+ "title": "When the Stars Come Right",
+ "source": "itunes",
+ "album": "Non-Euclidean Spaces",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.945024972118508,
+  "tempo_var": 17.11171502322519,
+  "low_onset_rate": 4.610901663191583,
+  "lufs": -11.906458039201155,
+  "rms_dbfs": -11.458598010745602,
+  "crest": 11.458598136901855,
+  "centroid": 1540.503601862503,
+  "flatness": 0.002656922908499837,
+  "sub100_share": 0.03400630131363869,
+  "lowest_pitch": 131.890869140625,
+  "harmonic_share": 0.9697213172912598,
+  "clean_share": 0.9061287820015516,
+  "minor_share": 0.20228797787700414,
+  "chord_rate": 0.9021329341027009,
+  "repetitiveness": 0.5268508791923523,
+  "vocal_share": 0.2120620757341385,
+  "vocal_voiced": 0.9382183908045977,
+  "song_length": 455.06
+ }
+}

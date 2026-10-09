@@ -1,0 +1,32 @@
+{
+ "id": "coldseed/1460470424-101",
+ "band": "coldseed",
+ "title": "My Affliction",
+ "source": "itunes",
+ "album": "Completion Makes the Tragedy",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.6753563981961888,
+  "tempo_var": 12.246580633277045,
+  "low_onset_rate": 4.076304368908501,
+  "lufs": -8.465821124430633,
+  "rms_dbfs": -7.898057947556722,
+  "crest": 7.8980584144592285,
+  "centroid": 2426.525988362631,
+  "flatness": 0.029935628175735474,
+  "sub100_share": 0.48712024092674255,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7664844393730164,
+  "clean_share": 0.22575640031031807,
+  "minor_share": 0.06716366027226128,
+  "chord_rate": 2.1718015080250206,
+  "repetitiveness": 0.8153339624404907,
+  "vocal_share": 0.0668974295258522,
+  "vocal_voiced": 0.7194244604316546,
+  "song_length": 260.676
+ }
+}

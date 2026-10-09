@@ -1,0 +1,32 @@
+{
+ "id": "aura-hiemis/1527219950-103",
+ "band": "aura-hiemis",
+ "title": "Between the Mist I Find You",
+ "source": "itunes",
+ "album": "Wenn der Regen fällt",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 5.98080722979198,
+  "tempo_var": 30.430718604216562,
+  "low_onset_rate": 7.985547083353538,
+  "lufs": -18.557588068879856,
+  "rms_dbfs": -17.23064813155701,
+  "crest": 13.231820106506348,
+  "centroid": 1204.8973746560466,
+  "flatness": 0.0010072526056319475,
+  "sub100_share": 0.2136983424425125,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.9507043361663818,
+  "clean_share": 0.9984484096198604,
+  "minor_share": -0.1430005860863912,
+  "chord_rate": 0.8353082723173156,
+  "repetitiveness": 0.7826911807060242,
+  "vocal_share": 1.7813899830798618e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 556.069
+ }
+}

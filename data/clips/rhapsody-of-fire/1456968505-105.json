@@ -1,0 +1,32 @@
+{
+ "id": "rhapsody-of-fire/1456968505-105",
+ "band": "rhapsody-of-fire",
+ "title": "Anima Perduta",
+ "source": "itunes",
+ "album": "From Chaos to Eternity",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.0666481230650153,
+  "tempo_var": 12.880503854048559,
+  "low_onset_rate": 7.3666221217105265,
+  "lufs": -18.021329436374785,
+  "rms_dbfs": -21.9805347944034,
+  "crest": 18.64152717590332,
+  "centroid": 1029.6847900127555,
+  "flatness": 0.01923089288175106,
+  "sub100_share": 0.10680065304040909,
+  "lowest_pitch": 24.224853515625,
+  "harmonic_share": 0.9818059206008911,
+  "clean_share": 0.9435421500386698,
+  "minor_share": 0.11175330522924648,
+  "chord_rate": 1.299992139125387,
+  "repetitiveness": 0.7423340082168579,
+  "vocal_share": 0.021893134340643883,
+  "vocal_voiced": 0.6708333333333333,
+  "song_length": 285.0
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "aura-hiemis/1365982945-104",
+ "band": "aura-hiemis",
+ "title": "In Noctem",
+ "source": "itunes",
+ "album": "Five",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 83.35433467741936,
+  "onset_rate": 3.474882412840033,
+  "tempo_var": 24.348903525710107,
+  "low_onset_rate": 5.112086626581972,
+  "lufs": -9.537627635609809,
+  "rms_dbfs": -9.448752908089537,
+  "crest": 9.448753356933594,
+  "centroid": 2471.446069173808,
+  "flatness": 0.027618352323770523,
+  "sub100_share": 0.15106867253780365,
+  "lowest_pitch": 88.824462890625,
+  "harmonic_share": 0.8417827486991882,
+  "clean_share": 0.03180760279286268,
+  "minor_share": 0.018864871578362363,
+  "chord_rate": 1.0023699267807789,
+  "repetitiveness": 0.7034398317337036,
+  "vocal_share": 0.0750642865896225,
+  "vocal_voiced": 0.8934782608695652,
+  "song_length": 369.573
+ }
+}

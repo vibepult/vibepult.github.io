@@ -1,0 +1,127 @@
+{
+ "slug": "sabaton",
+ "name": "Sabaton",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 184065032,
+  "deezer": 12022,
+  "spotify": "3o2dn2O0FCVsWDFSh8qxgG"
+ },
+ "metadata": {
+  "formed": 1999,
+  "split": null,
+  "country": "SE",
+  "status": "active",
+  "members": 5,
+  "past_members": 6,
+  "full_lengths": 13,
+  "genre": "Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 413077,
+  "themes": "Military history, War, Metal",
+  "release_year": 2012
+ },
+ "partial": false,
+ "clips": [
+  "sabaton/1463539373-106",
+  "sabaton/1463539531-106",
+  "sabaton/1463623890-109",
+  "sabaton/1463549401-108",
+  "sabaton/1459267126-105",
+  "sabaton/1586765145-105",
+  "sabaton/1614847525-101",
+  "sabaton/1820529729-106",
+  "sabaton/1463539373-105",
+  "sabaton/1463539531-107",
+  "sabaton/1463623890-108",
+  "sabaton/1463549401-110"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 32.37782353940217
+  },
+  "onset_rate": {
+   "median": 3.766643890286378,
+   "iqr": 1.9937954241131655
+  },
+  "tempo_var": {
+   "median": 14.115355303004732,
+   "iqr": 8.342225009626832
+  },
+  "low_onset_rate": {
+   "median": 5.923560812630729,
+   "iqr": 2.6416506929663313
+  },
+  "lufs": {
+   "median": -10.825947644107181,
+   "iqr": 3.791073893055586
+  },
+  "rms_dbfs": {
+   "median": -9.872611626694187,
+   "iqr": 3.164332906709493
+  },
+  "crest": {
+   "median": 9.872611999511719,
+   "iqr": 3.164332628250122
+  },
+  "centroid": {
+   "median": 2564.203426456206,
+   "iqr": 1149.64080990309
+  },
+  "flatness": {
+   "median": 0.041729845106601715,
+   "iqr": 0.034029977512545884
+  },
+  "sub100_share": {
+   "median": 0.47085024416446686,
+   "iqr": 0.18455971777439117
+  },
+  "lowest_pitch": {
+   "median": 45.758056640625,
+   "iqr": 11.43951416015625
+  },
+  "harmonic_share": {
+   "median": 0.8159700334072113,
+   "iqr": 0.1829054057598114
+  },
+  "clean_share": {
+   "median": 0.0873936581593194,
+   "iqr": 0.8087772855808293
+  },
+  "minor_share": {
+   "median": 0.1362164505582802,
+   "iqr": 0.17128199823652085
+  },
+  "chord_rate": {
+   "median": 1.8999885110294117,
+   "iqr": 0.5249968254160216
+  },
+  "repetitiveness": {
+   "median": 0.8778663277626038,
+   "iqr": 0.04677364230155945
+  },
+  "vocal_share": {
+   "median": 0.20334480702877045,
+   "iqr": 0.3298084996640682
+  },
+  "vocal_voiced": {
+   "median": 0.5397258510730212,
+   "iqr": 0.24777027503819526
+  },
+  "song_length": {
+   "median": 209.16649999999998,
+   "iqr": 96.27674999999999
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.6,
+  "camp": 0.6
+ },
+ "sources_failed": []
+}

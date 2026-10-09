@@ -1,0 +1,32 @@
+{
+ "id": "evergrey/1441308456-106",
+ "band": "evergrey",
+ "title": "End of Silence",
+ "source": "itunes",
+ "album": "The Atlantic",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.143129030693886,
+  "tempo_var": 19.552256869206357,
+  "low_onset_rate": 3.107346773020414,
+  "lufs": -10.711626009605164,
+  "rms_dbfs": -10.019938308402894,
+  "crest": 10.019937515258789,
+  "centroid": 2176.4529020716673,
+  "flatness": 0.01996118575334549,
+  "sub100_share": 0.368804931640625,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8400447368621826,
+  "clean_share": 0.2195500387897595,
+  "minor_share": 0.11667771754465928,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.8143966794013977,
+  "vocal_share": 0.11932864040136337,
+  "vocal_voiced": 0.775766016713092,
+  "song_length": 288.067
+ }
+}

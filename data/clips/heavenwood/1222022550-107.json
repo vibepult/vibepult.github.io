@@ -1,0 +1,32 @@
+{
+ "id": "heavenwood/1222022550-107",
+ "band": "heavenwood",
+ "title": "The Chariot",
+ "source": "itunes",
+ "album": "The Tarot of the Bohemians, Pt. 1",
+ "year": 2026,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 1.1360192503515492,
+  "tempo_var": 17.39099103084701,
+  "low_onset_rate": 1.8376781990980944,
+  "lufs": -8.351168035303694,
+  "rms_dbfs": -7.39903426302128,
+  "crest": 7.399034023284912,
+  "centroid": 2620.7724775685524,
+  "flatness": 0.028389956802129745,
+  "sub100_share": 0.3971843123435974,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.888937771320343,
+  "clean_share": 0.019394879751745538,
+  "minor_share": -0.09886671869069874,
+  "chord_rate": 2.3722754933811765,
+  "repetitiveness": 0.9511387348175049,
+  "vocal_share": 5.807140723845805e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 304.04
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "mago-de-oz/1524290692-105",
+ "band": "mago-de-oz",
+ "title": "Lo Que el Viento Se Dejo",
+ "source": "itunes",
+ "album": "Mägo De Oz",
+ "year": 1994,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.377015346942734,
+  "tempo_var": 3.277571095094572,
+  "low_onset_rate": 4.209953692479271,
+  "lufs": -11.181401924495601,
+  "rms_dbfs": -11.398862467880402,
+  "crest": 11.398862838745117,
+  "centroid": 2567.3835912836453,
+  "flatness": 0.03489859774708748,
+  "sub100_share": 0.14310871064662933,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.4541425108909607,
+  "clean_share": 0.23816912335143522,
+  "minor_share": -0.07313267969121873,
+  "chord_rate": 2.0047398535615577,
+  "repetitiveness": 0.8080744743347168,
+  "vocal_share": 0.35970279574394226,
+  "vocal_voiced": 0.4391657010428737,
+  "song_length": 379.467
+ }
+}

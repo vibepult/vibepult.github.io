@@ -1,0 +1,32 @@
+{
+ "id": "bucovina/744998562-104",
+ "band": "bucovina",
+ "title": "Zi Dupa Zi, Noapte De Noapte",
+ "source": "itunes",
+ "album": "Sub Stele",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 5.112086626581972,
+  "tempo_var": 8.146710275705631,
+  "low_onset_rate": 5.4462099355088975,
+  "lufs": -9.772312614523694,
+  "rms_dbfs": -8.882352260770567,
+  "crest": 8.882351875305176,
+  "centroid": 2317.9535656758944,
+  "flatness": 0.022916436195373535,
+  "sub100_share": 0.45895496010780334,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.8273609280586243,
+  "clean_share": 0.03491078355314197,
+  "minor_share": 0.2400994714250373,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.8224661946296692,
+  "vocal_share": 0.07507942616939545,
+  "vocal_voiced": 0.6926229508196722,
+  "song_length": 318.186
+ }
+}

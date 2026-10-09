@@ -1,0 +1,32 @@
+{
+ "id": "ram/1467918269-104",
+ "band": "ram",
+ "title": "Violence (Is Golden)",
+ "source": "itunes",
+ "album": "The Throne Within",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.613271589972361,
+  "tempo_var": 4.018009922488695,
+  "low_onset_rate": 6.782703171216603,
+  "lufs": -7.726961344586704,
+  "rms_dbfs": -7.505307551498831,
+  "crest": 7.505307674407959,
+  "centroid": 2554.8942016926853,
+  "flatness": 0.040492791682481766,
+  "sub100_share": 0.226575568318367,
+  "lowest_pitch": 121.124267578125,
+  "harmonic_share": 0.6446102857589722,
+  "clean_share": 0.007757951900698216,
+  "minor_share": -0.1143358537125741,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.9293604493141174,
+  "vocal_share": 0.13054265081882477,
+  "vocal_voiced": 0.21847930702598653,
+  "song_length": 233.493
+ }
+}

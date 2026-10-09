@@ -1,0 +1,32 @@
+{
+ "id": "kamelot/1659093511-107",
+ "band": "kamelot",
+ "title": "Bloodmoon",
+ "source": "itunes",
+ "album": "The Awakening",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.5650714117341296,
+  "tempo_var": 7.955371336405048,
+  "low_onset_rate": 6.7969585793809575,
+  "lufs": -9.275718066057431,
+  "rms_dbfs": -8.674659337632418,
+  "crest": 8.674659729003906,
+  "centroid": 2523.014161409143,
+  "flatness": 0.03218179941177368,
+  "sub100_share": 0.3722835183143616,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7822899222373962,
+  "clean_share": 0.0069605568445475635,
+  "minor_share": 0.28450356794855414,
+  "chord_rate": 0.9662343078531753,
+  "repetitiveness": 0.9134826064109802,
+  "vocal_share": 0.17560219764709473,
+  "vocal_voiced": 0.7113071371291099,
+  "song_length": 290.947
+ }
+}

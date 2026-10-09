@@ -1,0 +1,32 @@
+{
+ "id": "autopsy/1703033029-106",
+ "band": "autopsy",
+ "title": "Bones To The Wolves",
+ "source": "itunes",
+ "album": "Ashes, Organs, Blood and Crypts",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.3666666666666667,
+  "tempo_var": 9.490064907415343,
+  "low_onset_rate": 7.5,
+  "lufs": -8.037862488597646,
+  "rms_dbfs": -7.570879456989724,
+  "crest": 7.5708794593811035,
+  "centroid": 2184.5994463495244,
+  "flatness": 0.0236920565366745,
+  "sub100_share": 0.11959429830312729,
+  "lowest_pitch": 26.91650390625,
+  "harmonic_share": 0.7697827816009521,
+  "clean_share": 0.0456656346749226,
+  "minor_share": -0.10650126661521642,
+  "chord_rate": 1.1666666666666667,
+  "repetitiveness": 0.7747117280960083,
+  "vocal_share": 0.037873998284339905,
+  "vocal_voiced": 0.07945205479452055,
+  "song_length": 256.08
+ }
+}

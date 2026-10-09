@@ -1,0 +1,32 @@
+{
+ "id": "candlemass/1460467750-105",
+ "band": "candlemass",
+ "title": "House of 1000 Voices",
+ "source": "itunes",
+ "album": "Death Magic Doom",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 1.0357822576734714,
+  "tempo_var": 6.591644461161725,
+  "low_onset_rate": 1.9379151917761723,
+  "lufs": -8.729138884499095,
+  "rms_dbfs": -8.306911070030672,
+  "crest": 8.30691146850586,
+  "centroid": 2203.1627467541834,
+  "flatness": 0.016929151490330696,
+  "sub100_share": 0.336983859539032,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8608710765838623,
+  "clean_share": 0.32893716058960437,
+  "minor_share": 0.09345628843748499,
+  "chord_rate": 1.9379151917761723,
+  "repetitiveness": 0.7789667844772339,
+  "vocal_share": 6.077042939978128e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 469.813
+ }
+}

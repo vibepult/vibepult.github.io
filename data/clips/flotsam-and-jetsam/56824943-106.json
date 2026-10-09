@@ -1,0 +1,32 @@
+{
+ "id": "flotsam-and-jetsam/56824943-106",
+ "band": "flotsam-and-jetsam",
+ "title": "Monster",
+ "source": "itunes",
+ "album": "High",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.209953692479271,
+  "tempo_var": 2.9598105795760863,
+  "low_onset_rate": 4.377015346942734,
+  "lufs": -9.583019535089527,
+  "rms_dbfs": -9.790331838020393,
+  "crest": 9.790331840515137,
+  "centroid": 2730.755155454011,
+  "flatness": 0.03465138375759125,
+  "sub100_share": 0.17767435312271118,
+  "lowest_pitch": 196.490478515625,
+  "harmonic_share": 0.6983770728111267,
+  "clean_share": 0.04654771140418929,
+  "minor_share": 0.017727371387321722,
+  "chord_rate": 2.2386261698104057,
+  "repetitiveness": 0.8717705011367798,
+  "vocal_share": 0.06550677120685577,
+  "vocal_voiced": 0.7462039045553145,
+  "song_length": 221.773
+ }
+}

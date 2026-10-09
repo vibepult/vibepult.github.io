@@ -1,0 +1,32 @@
+{
+ "id": "amebix/304405531-106",
+ "band": "amebix",
+ "title": "I.C.B.M",
+ "source": "itunes",
+ "album": "Monolith",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.107346773020414,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 3.174171434805799,
+  "lufs": -19.44946718643139,
+  "rms_dbfs": -18.082990453435123,
+  "crest": 15.243267059326172,
+  "centroid": 2455.47726234242,
+  "flatness": 0.016006778925657272,
+  "sub100_share": 0.5732741355895996,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.9067143201828003,
+  "clean_share": 0.04189294026377036,
+  "minor_share": -0.020250835146693125,
+  "chord_rate": 0.5680096251757746,
+  "repetitiveness": 0.9516801834106445,
+  "vocal_share": 3.014445974258706e-05,
+  "vocal_voiced": 0.0,
+  "song_length": 365.16
+ }
+}

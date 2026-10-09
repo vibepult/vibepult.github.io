@@ -1,0 +1,32 @@
+{
+ "id": "dr-sin/967567393-104",
+ "band": "dr-sin",
+ "title": "Soul Survivor",
+ "source": "itunes",
+ "album": "Intactus",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 61.5234375,
+  "onset_rate": 3.474882412840033,
+  "tempo_var": 9.908032603758588,
+  "low_onset_rate": 4.71113865586966,
+  "lufs": -14.130784313339921,
+  "rms_dbfs": -13.9134546835255,
+  "crest": 13.91345500946045,
+  "centroid": 2630.965772374659,
+  "flatness": 0.033103179186582565,
+  "sub100_share": 0.27445608377456665,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7236235737800598,
+  "clean_share": 0.017067494181536073,
+  "minor_share": 0.20998550788950476,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.7442532181739807,
+  "vocal_share": 0.2757522463798523,
+  "vocal_voiced": 0.5596508244422891,
+  "song_length": 285.147
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "ministry/942889834-106",
+ "band": "ministry",
+ "title": "The Horror",
+ "source": "itunes",
+ "album": "From Beer to Eternity",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 6.48199219318237,
+  "tempo_var": 16.30231106431169,
+  "low_onset_rate": 4.945024972118508,
+  "lufs": -8.8144149384388,
+  "rms_dbfs": -6.817058867248999,
+  "crest": 6.81705904006958,
+  "centroid": 2460.474338469114,
+  "flatness": 0.040434304624795914,
+  "sub100_share": 0.6480883359909058,
+  "lowest_pitch": 29.608154296875,
+  "harmonic_share": 0.739629328250885,
+  "clean_share": 0.10162916989914662,
+  "minor_share": 0.033728014096030046,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.9881256222724915,
+  "vocal_share": 0.11695346236228943,
+  "vocal_voiced": 0.10522213561964147,
+  "song_length": 213.027
+ }
+}

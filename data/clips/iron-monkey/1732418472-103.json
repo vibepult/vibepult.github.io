@@ -1,0 +1,32 @@
+{
+ "id": "iron-monkey/1732418472-103",
+ "band": "iron-monkey",
+ "title": "Big Loader",
+ "source": "itunes",
+ "album": "Iron Monkey",
+ "year": 1996,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 2.3332980604979516,
+  "tempo_var": 10.987474885989736,
+  "low_onset_rate": 7.166558328672281,
+  "lufs": -12.523065497228611,
+  "rms_dbfs": -11.098068913367076,
+  "crest": 11.098069190979004,
+  "centroid": 1997.4230526037582,
+  "flatness": 0.011101577430963516,
+  "sub100_share": 0.5824906826019287,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8484837412834167,
+  "clean_share": 0.2962103634957463,
+  "minor_share": -0.11481091589110637,
+  "chord_rate": 1.8666384483983613,
+  "repetitiveness": 0.6999792456626892,
+  "vocal_share": 0.07137781381607056,
+  "vocal_voiced": 0.22104144527098832,
+  "song_length": 299.773
+ }
+}

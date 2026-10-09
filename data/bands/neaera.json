@@ -1,0 +1,127 @@
+{
+ "slug": "neaera",
+ "name": "Neaera",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 57943852,
+  "deezer": 393199,
+  "spotify": "66Xc7Y6aW9W5RS2r8HY6P2"
+ },
+ "metadata": {
+  "formed": 2004,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 4,
+  "past_members": 1,
+  "full_lengths": 8,
+  "genre": "Melodic Death Metal/Metalcore",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 4213,
+  "themes": "Life, Society, Social issues, Inner struggles, Spirituality",
+  "release_year": 2008
+ },
+ "partial": false,
+ "clips": [
+  "neaera/57944430-107",
+  "neaera/150357906-106",
+  "neaera/261652941-106",
+  "neaera/396536985-107",
+  "neaera/590883126-107",
+  "neaera/1490335994-106",
+  "neaera/1734279802-105",
+  "neaera/57944430-108",
+  "neaera/150357906-105",
+  "neaera/261652941-105",
+  "neaera/396536985-106",
+  "neaera/590883126-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 110.00658118206522,
+   "iqr": 55.910274453832
+  },
+  "onset_rate": {
+   "median": 5.429503770062552,
+   "iqr": 2.021446019007903
+  },
+  "tempo_var": {
+   "median": 15.709364272585816,
+   "iqr": 9.73780565215528
+  },
+  "low_onset_rate": {
+   "median": 6.415167531396984,
+   "iqr": 2.9736974494496433
+  },
+  "lufs": {
+   "median": -7.26731307695617,
+   "iqr": 1.6406691377819929
+  },
+  "rms_dbfs": {
+   "median": -7.3338911842899535,
+   "iqr": 1.427307430557649
+  },
+  "crest": {
+   "median": 7.33389139175415,
+   "iqr": 1.42730712890625
+  },
+  "centroid": {
+   "median": 2763.4287236358423,
+   "iqr": 257.9262888673252
+  },
+  "flatness": {
+   "median": 0.049373239278793335,
+   "iqr": 0.021509910933673382
+  },
+  "sub100_share": {
+   "median": 0.3528020977973938,
+   "iqr": 0.09277462214231491
+  },
+  "lowest_pitch": {
+   "median": 49.7955322265625,
+   "iqr": 11.43951416015625
+  },
+  "harmonic_share": {
+   "median": 0.7298394441604614,
+   "iqr": 0.0930016040802002
+  },
+  "clean_share": {
+   "median": 0.0,
+   "iqr": 0.0001939487975174554
+  },
+  "minor_share": {
+   "median": 0.025338000748238748,
+   "iqr": 0.1528339444181924
+  },
+  "chord_rate": {
+   "median": 1.8376781990980944,
+   "iqr": 0.6515404524075061
+  },
+  "repetitiveness": {
+   "median": 0.9278809428215027,
+   "iqr": 0.062341198325157166
+  },
+  "vocal_share": {
+   "median": 0.10682405531406403,
+   "iqr": 0.041562531143426895
+  },
+  "vocal_voiced": {
+   "median": 0.03021978021978022,
+   "iqr": 0.08125501659678502
+  },
+  "song_length": {
+   "median": 226.364,
+   "iqr": 63.613500000000045
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

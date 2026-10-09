@@ -1,0 +1,32 @@
+{
+ "id": "alice-in-chains/157316517-106",
+ "band": "alice-in-chains",
+ "title": "Rooster",
+ "source": "itunes",
+ "album": "Dirt (Remastered)",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 2.498417480084421,
+  "tempo_var": 3.5873310638428473,
+  "low_onset_rate": 1.6656116533896141,
+  "lufs": -16.21226633260159,
+  "rms_dbfs": -15.40478468073524,
+  "crest": 13.933772087097168,
+  "centroid": 1466.9491729928502,
+  "flatness": 0.0032455746550112963,
+  "sub100_share": 0.28847038745880127,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.9310799241065979,
+  "clean_share": 0.843000773395205,
+  "minor_share": 0.29796870100853123,
+  "chord_rate": 0.9660547589659761,
+  "repetitiveness": 0.6032369136810303,
+  "vocal_share": 0.20119240880012512,
+  "vocal_voiced": 0.8377358490566038,
+  "song_length": 374.333
+ }
+}

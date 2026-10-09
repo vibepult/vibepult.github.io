@@ -1,0 +1,32 @@
+{
+ "id": "xandria/976556322-107",
+ "band": "xandria",
+ "title": "Firestorm",
+ "source": "itunes",
+ "album": "Salomé - The Seventh Veil",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 78.30255681818181,
+  "onset_rate": 4.233333333333333,
+  "tempo_var": 21.106322098602018,
+  "low_onset_rate": 4.666666666666667,
+  "lufs": -8.584902289793753,
+  "rms_dbfs": -7.787730241457414,
+  "crest": 7.787730693817139,
+  "centroid": 2983.043073234036,
+  "flatness": 0.048999764025211334,
+  "sub100_share": 0.4290636479854584,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6724662780761719,
+  "clean_share": 0.017027863777089782,
+  "minor_share": 0.017226176269186322,
+  "chord_rate": 1.6333333333333333,
+  "repetitiveness": 0.8267244100570679,
+  "vocal_share": 0.19630353152751923,
+  "vocal_voiced": 0.8225419664268585,
+  "song_length": 290.24
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "adrenaline-mob/1045370901-103",
+ "band": "adrenaline-mob",
+ "title": "Dearly Departed",
+ "source": "itunes",
+ "album": "Men of Honor",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.744550986762353,
+  "tempo_var": 15.832999084017366,
+  "low_onset_rate": 5.847157906221209,
+  "lufs": -8.383926359496042,
+  "rms_dbfs": -8.554828536383697,
+  "crest": 8.554828643798828,
+  "centroid": 2549.2821655509065,
+  "flatness": 0.03422278165817261,
+  "sub100_share": 0.10075750946998596,
+  "lowest_pitch": 137.274169921875,
+  "harmonic_share": 0.6647478342056274,
+  "clean_share": 0.1590380139643134,
+  "minor_share": 0.08245704007871324,
+  "chord_rate": 1.9379151917761723,
+  "repetitiveness": 0.795530378818512,
+  "vocal_share": 0.37483495473861694,
+  "vocal_voiced": 0.6464746772591857,
+  "song_length": 297.467
+ }
+}

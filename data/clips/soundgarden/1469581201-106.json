@@ -1,0 +1,32 @@
+{
+ "id": "soundgarden/1469581201-106",
+ "band": "soundgarden",
+ "title": "Bones of Birds",
+ "source": "itunes",
+ "album": "King Animal",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.866608214539463,
+  "tempo_var": 2.9882059149349187,
+  "low_onset_rate": 3.966606702846518,
+  "lufs": -8.998786468295016,
+  "rms_dbfs": -8.071372543136683,
+  "crest": 8.071372985839844,
+  "centroid": 2195.5268528132397,
+  "flatness": 0.01643666811287403,
+  "sub100_share": 0.29344338178634644,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.7998974919319153,
+  "clean_share": 0.23665893271461716,
+  "minor_share": 0.11434410816310359,
+  "chord_rate": 1.333313177427401,
+  "repetitiveness": 0.6848424673080444,
+  "vocal_share": 0.14697176218032837,
+  "vocal_voiced": 0.9056451612903226,
+  "song_length": 262.723
+ }
+}

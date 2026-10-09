@@ -1,0 +1,32 @@
+{
+ "id": "sarcofago/900436572-103",
+ "band": "sarcofago",
+ "title": "Midnight Queen",
+ "source": "itunes",
+ "album": "The Laws of Scourge",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 73.828125,
+  "onset_rate": 2.840048125878873,
+  "tempo_var": 19.92059925194691,
+  "low_onset_rate": 3.1407591039131066,
+  "lufs": -15.586504983755864,
+  "rms_dbfs": -15.602953334068726,
+  "crest": 15.60295295715332,
+  "centroid": 2115.654849140535,
+  "flatness": 0.011723569594323635,
+  "sub100_share": 0.3081420958042145,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.7325262427330017,
+  "clean_share": 0.647788983708301,
+  "minor_share": 0.01221116165952757,
+  "chord_rate": 1.336493235707705,
+  "repetitiveness": 0.7561975717544556,
+  "vocal_share": 7.140589150367305e-05,
+  "vocal_voiced": 0.0,
+  "song_length": 375.667
+ }
+}

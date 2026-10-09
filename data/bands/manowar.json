@@ -1,0 +1,127 @@
+{
+ "slug": "manowar",
+ "name": "Manowar",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 157798,
+  "deezer": 5530,
+  "spotify": "4CzUzn54Cp9TQr6a7JIlMZ"
+ },
+ "metadata": {
+  "formed": 1980,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 4,
+  "past_members": 9,
+  "full_lengths": 13,
+  "genre": "Heavy/Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 266799,
+  "themes": "Inner strength, Revenge, Dark fantasy, War, Honour, Norse mythology, Heavy Metal",
+  "release_year": 1994
+ },
+ "partial": false,
+ "clips": [
+  "manowar/724375771-104",
+  "manowar/570724734-104",
+  "manowar/570730791-104",
+  "manowar/724147263-104",
+  "manowar/498133088-104",
+  "manowar/327822488-104",
+  "manowar/1440905659-105",
+  "manowar/592776009-106",
+  "manowar/566964722-109",
+  "manowar/587479081-108",
+  "manowar/573935559-105",
+  "manowar/815994497-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 129.19921875,
+   "iqr": 48.05648596578054
+  },
+  "onset_rate": {
+   "median": 4.116604435307101,
+   "iqr": 1.024644510982883
+  },
+  "tempo_var": {
+   "median": 11.745879832623478,
+   "iqr": 9.433340136582727
+  },
+  "low_onset_rate": {
+   "median": 5.156123261459929,
+   "iqr": 2.516663315584142
+  },
+  "lufs": {
+   "median": -14.189943780089315,
+   "iqr": 5.041858861634857
+  },
+  "rms_dbfs": {
+   "median": -14.17308946758616,
+   "iqr": 4.944262158107692
+  },
+  "crest": {
+   "median": 14.173089027404785,
+   "iqr": 3.1990694999694824
+  },
+  "centroid": {
+   "median": 2165.3912949657915,
+   "iqr": 712.073351655391
+  },
+  "flatness": {
+   "median": 0.014759744983166456,
+   "iqr": 0.013254027115181088
+  },
+  "sub100_share": {
+   "median": 0.2518232986330986,
+   "iqr": 0.26006773486733437
+  },
+  "lowest_pitch": {
+   "median": 72.674560546875,
+   "iqr": 30.9539794921875
+  },
+  "harmonic_share": {
+   "median": 0.7981936037540436,
+   "iqr": 0.150249645113945
+  },
+  "clean_share": {
+   "median": 0.2866266229149379,
+   "iqr": 0.6121676545605417
+  },
+  "minor_share": {
+   "median": -0.04113008981733696,
+   "iqr": 0.22731224850303497
+  },
+  "chord_rate": {
+   "median": 1.1846762918424414,
+   "iqr": 1.028323566341634
+  },
+  "repetitiveness": {
+   "median": 0.702304482460022,
+   "iqr": 0.17571663856506348
+  },
+  "vocal_share": {
+   "median": 0.27645015716552734,
+   "iqr": 0.34010544791817665
+  },
+  "vocal_voiced": {
+   "median": 0.7889447236180904,
+   "iqr": 0.4984905237150179
+  },
+  "song_length": {
+   "median": 287.8665,
+   "iqr": 193.62675000000002
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.8,
+  "camp": 0.8
+ },
+ "sources_failed": []
+}

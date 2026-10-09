@@ -1,0 +1,32 @@
+{
+ "id": "damageplan/5356931-111",
+ "band": "damageplan",
+ "title": "Blink of an Eye",
+ "source": "itunes",
+ "album": "New Found Power",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 3.6654420820859546,
+  "tempo_var": 3.3463366811238817,
+  "low_onset_rate": 4.798396907457977,
+  "lufs": -7.794849111800564,
+  "rms_dbfs": -8.105638955185427,
+  "crest": 8.10563850402832,
+  "centroid": 2513.366191999749,
+  "flatness": 0.029697244986891747,
+  "sub100_share": 0.2630360424518585,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.769054651260376,
+  "clean_share": 0.006187161639597835,
+  "minor_share": 0.10342957261326147,
+  "chord_rate": 1.7660766395505054,
+  "repetitiveness": 0.7643575072288513,
+  "vocal_share": 0.1581791788339615,
+  "vocal_voiced": 0.595514950166113,
+  "song_length": 258.6
+ }
+}

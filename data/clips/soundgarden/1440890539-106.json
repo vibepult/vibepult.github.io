@@ -1,0 +1,32 @@
+{
+ "id": "soundgarden/1440890539-106",
+ "band": "soundgarden",
+ "title": "Somewhere (Remastered 2016)",
+ "source": "itunes",
+ "album": "Badmotorfinger (25th Anniversary / Remastered 2016)",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 3.4999470907469274,
+  "tempo_var": 23.353429524040116,
+  "low_onset_rate": 5.69991383350214,
+  "lufs": -9.094285087696058,
+  "rms_dbfs": -9.297791599491434,
+  "crest": 9.297791481018066,
+  "centroid": 2697.5909337930384,
+  "flatness": 0.033429138362407684,
+  "sub100_share": 0.24947969615459442,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7918914556503296,
+  "clean_share": 0.020108275328692964,
+  "minor_share": 0.09189310862806865,
+  "chord_rate": 2.0999682544481564,
+  "repetitiveness": 0.7536351680755615,
+  "vocal_share": 0.21890558302402496,
+  "vocal_voiced": 0.9119047619047619,
+  "song_length": 261.029
+ }
+}

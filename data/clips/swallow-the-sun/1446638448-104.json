@@ -1,0 +1,32 @@
+{
+ "id": "swallow-the-sun/1446638448-104",
+ "band": "swallow-the-sun",
+ "title": "Upon the Water",
+ "source": "itunes",
+ "album": "When a Shadow Is Forced Into the Light",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.040522111235029,
+  "tempo_var": 2.5682110521498145,
+  "low_onset_rate": 4.5106646705135045,
+  "lufs": -13.287153377701214,
+  "rms_dbfs": -12.405222942533133,
+  "crest": 12.40522289276123,
+  "centroid": 1814.5566406161556,
+  "flatness": 0.005648745223879814,
+  "sub100_share": 0.396873414516449,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8768261671066284,
+  "clean_share": 0.6004654771140419,
+  "minor_share": 0.3036952808178589,
+  "chord_rate": 0.8687206032100082,
+  "repetitiveness": 0.640557050704956,
+  "vocal_share": 0.006029837764799595,
+  "vocal_voiced": 0.9232876712328767,
+  "song_length": 376.256
+ }
+}

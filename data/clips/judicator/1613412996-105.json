@@ -1,0 +1,32 @@
+{
+ "id": "judicator/1613412996-105",
+ "band": "judicator",
+ "title": "Ursa Minor",
+ "source": "itunes",
+ "album": "The Majesty of Decay",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 6.515404524075062,
+  "tempo_var": 7.135172353856927,
+  "low_onset_rate": 6.916352494787374,
+  "lufs": -10.758610953460655,
+  "rms_dbfs": -10.116203571973122,
+  "crest": 10.116204261779785,
+  "centroid": 2528.2210850300185,
+  "flatness": 0.031178509816527367,
+  "sub100_share": 0.3819946050643921,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7780452966690063,
+  "clean_share": 0.0062063615205585725,
+  "minor_share": 0.043278093842657905,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.8956548571586609,
+  "vocal_share": 0.19871322810649872,
+  "vocal_voiced": 0.5495145631067961,
+  "song_length": 296.648
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "amorphis/1776755337-107",
+ "band": "amorphis",
+ "title": "The Castaway",
+ "source": "itunes",
+ "album": "Magic and Mayhem - Tales from the Early Years",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.433333333333334,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.533333333333333,
+  "lufs": -8.228649105863528,
+  "rms_dbfs": -7.251948108659082,
+  "crest": 7.251948356628418,
+  "centroid": 2517.1264483895334,
+  "flatness": 0.023954084143042564,
+  "sub100_share": 0.4246627688407898,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8438406586647034,
+  "clean_share": 0.02321981424148607,
+  "minor_share": -0.013808758466054893,
+  "chord_rate": 1.9,
+  "repetitiveness": 0.7445261478424072,
+  "vocal_share": 3.710833595960139e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 356.306
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "all-that-remains/1783642900-105",
+ "band": "all-that-remains",
+ "title": "Antifragile",
+ "source": "itunes",
+ "album": "Antifragile",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 6.099963114357585,
+  "tempo_var": 16.850689452211622,
+  "low_onset_rate": 4.8666372387770895,
+  "lufs": -8.343456403687968,
+  "rms_dbfs": -7.934372186512729,
+  "crest": 7.934372425079346,
+  "centroid": 2826.9369595988687,
+  "flatness": 0.06717321276664734,
+  "sub100_share": 0.3996914029121399,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6572239995002747,
+  "clean_share": 0.08275328692962104,
+  "minor_share": -0.04625115600936924,
+  "chord_rate": 1.699989720394737,
+  "repetitiveness": 0.9280697107315063,
+  "vocal_share": 0.13413333892822266,
+  "vocal_voiced": 0.02763819095477387,
+  "song_length": 270.579
+ }
+}

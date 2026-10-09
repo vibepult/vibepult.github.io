@@ -1,0 +1,32 @@
+{
+ "id": "down/299793030-106",
+ "band": "down",
+ "title": "Underneath Everything",
+ "source": "itunes",
+ "album": "Nola",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.799434080335199,
+  "tempo_var": 3.332487766269631,
+  "low_onset_rate": 6.165939617097304,
+  "lufs": -10.048905025661593,
+  "rms_dbfs": -9.8560599159315,
+  "crest": 9.856060028076172,
+  "centroid": 2596.624347920981,
+  "flatness": 0.03518453612923622,
+  "sub100_share": 0.25960132479667664,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.6709147691726685,
+  "clean_share": 0.04640371229698376,
+  "minor_share": 0.290977254625702,
+  "chord_rate": 2.033093603475327,
+  "repetitiveness": 0.9021005034446716,
+  "vocal_share": 0.13579823076725006,
+  "vocal_voiced": 0.25818521983161835,
+  "song_length": 286.267
+ }
+}

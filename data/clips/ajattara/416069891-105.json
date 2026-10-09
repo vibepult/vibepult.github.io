@@ -1,0 +1,32 @@
+{
+ "id": "ajattara/416069891-105",
+ "band": "ajattara",
+ "title": "Sokea Liha",
+ "source": "itunes",
+ "album": "Murhat",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 69.83741554054055,
+  "onset_rate": 0.10023699267807787,
+  "tempo_var": 15.87713188721677,
+  "low_onset_rate": 4.009479707123115,
+  "lufs": -20.899577416751587,
+  "rms_dbfs": -19.65050269390733,
+  "crest": 19.650501251220703,
+  "centroid": 526.0267073065953,
+  "flatness": 0.0009410836501047015,
+  "sub100_share": 0.11763429641723633,
+  "lowest_pitch": 169.573974609375,
+  "harmonic_share": 0.8509074449539185,
+  "clean_share": 0.9813809154383243,
+  "minor_share": 0.24609343659726618,
+  "chord_rate": 1.603791882849246,
+  "repetitiveness": 0.9127230048179626,
+  "vocal_share": 0.0003069061494898051,
+  "vocal_voiced": 1.0,
+  "song_length": 199.753
+ }
+}

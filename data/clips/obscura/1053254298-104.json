@@ -1,0 +1,32 @@
+{
+ "id": "obscura/1053254298-104",
+ "band": "obscura",
+ "title": "Ten Sepiroth",
+ "source": "itunes",
+ "album": "Akróasis",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 7.23322398754365,
+  "tempo_var": 13.677322561067076,
+  "low_onset_rate": 7.199891158107966,
+  "lufs": -9.32808370457781,
+  "rms_dbfs": -8.026309580382692,
+  "crest": 8.026309967041016,
+  "centroid": 2307.348226107152,
+  "flatness": 0.02645263262093067,
+  "sub100_share": 0.4349747598171234,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6638458967208862,
+  "clean_share": 0.010054137664346482,
+  "minor_share": 0.10528577837625103,
+  "chord_rate": 2.2332995721908966,
+  "repetitiveness": 0.9552266001701355,
+  "vocal_share": 0.14699628949165344,
+  "vocal_voiced": 0.48366701791359323,
+  "song_length": 308.732
+ }
+}

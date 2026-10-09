@@ -1,0 +1,32 @@
+{
+ "id": "nemesea/1468373465-107",
+ "band": "nemesea",
+ "title": "Ratata",
+ "source": "itunes",
+ "album": "White Flag",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 66.25600961538461,
+  "onset_rate": 2.1333204334365323,
+  "tempo_var": 25.513285959414144,
+  "low_onset_rate": 3.2666469136996903,
+  "lufs": -14.518510676730237,
+  "rms_dbfs": -12.147752285324454,
+  "crest": 12.147751808166504,
+  "centroid": 1187.192042771151,
+  "flatness": 0.009631481021642685,
+  "sub100_share": 0.6980419754981995,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.9276874661445618,
+  "clean_share": 0.8584686774941995,
+  "minor_share": 0.14606706132028002,
+  "chord_rate": 1.7666559839396285,
+  "repetitiveness": 0.9564080834388733,
+  "vocal_share": 0.11086972057819366,
+  "vocal_voiced": 0.835742444152431,
+  "song_length": 203.025
+ }
+}

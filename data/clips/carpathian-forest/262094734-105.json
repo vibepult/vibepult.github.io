@@ -1,0 +1,32 @@
+{
+ "id": "carpathian-forest/262094734-105",
+ "band": "carpathian-forest",
+ "title": "Knokkelmann",
+ "source": "itunes",
+ "album": "Morbid Fascination of Death",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.544077001406197,
+  "tempo_var": 3.927263982794788,
+  "low_onset_rate": 7.016589487465451,
+  "lufs": -11.990419626918593,
+  "rms_dbfs": -11.654835615939136,
+  "crest": 11.65483570098877,
+  "centroid": 2647.5301132053773,
+  "flatness": 0.03481188416481018,
+  "sub100_share": 0.2995653748512268,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7279070615768433,
+  "clean_share": 0.0069821567106283944,
+  "minor_share": 0.05047596782725394,
+  "chord_rate": 1.9379151917761723,
+  "repetitiveness": 0.8423554301261902,
+  "vocal_share": 0.039388660341501236,
+  "vocal_voiced": 0.2949852507374631,
+  "song_length": 222.4
+ }
+}

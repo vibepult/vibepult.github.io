@@ -1,0 +1,32 @@
+{
+ "id": "esoteric/583574098-103",
+ "band": "esoteric",
+ "title": "Quickening",
+ "source": "itunes",
+ "album": "The Maniacal Vale",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.076304368908501,
+  "tempo_var": 16.013955025789734,
+  "low_onset_rate": 8.085784076031615,
+  "lufs": -32.096196970026185,
+  "rms_dbfs": -31.254594410469785,
+  "crest": 19.168746948242188,
+  "centroid": 734.7061235361454,
+  "flatness": 0.0024550266098231077,
+  "sub100_share": 0.0366840623319149,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.9173876643180847,
+  "clean_share": 0.9813809154383243,
+  "minor_share": -0.046126860463061026,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.9061782360076904,
+  "vocal_share": 0.11128752678632736,
+  "vocal_voiced": 0.9694323144104804,
+  "song_length": 738.72
+ }
+}

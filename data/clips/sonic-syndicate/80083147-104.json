@@ -1,0 +1,32 @@
+{
+ "id": "sonic-syndicate/80083147-104",
+ "band": "sonic-syndicate",
+ "title": "Zion Must Fall",
+ "source": "itunes",
+ "album": "Eden Fire",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 5.813745575328517,
+  "tempo_var": 15.890543507451941,
+  "low_onset_rate": 5.011849633903894,
+  "lufs": -7.199950269867649,
+  "rms_dbfs": -6.919054029650632,
+  "crest": 6.9190545082092285,
+  "centroid": 2569.2595698861237,
+  "flatness": 0.04380160570144653,
+  "sub100_share": 0.3711240887641907,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7498480677604675,
+  "clean_share": 0.0062063615205585725,
+  "minor_share": 0.03458882361023308,
+  "chord_rate": 2.3722754933811765,
+  "repetitiveness": 0.9397361278533936,
+  "vocal_share": 0.1369098424911499,
+  "vocal_voiced": 0.18162162162162163,
+  "song_length": 271.4
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "iron-monkey",
+ "name": "Iron Monkey",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 43954349,
+  "deezer": 2913561,
+  "spotify": "5Qfqa9FeOchAWt6kfuvZbY"
+ },
+ "metadata": {
+  "formed": 1994,
+  "split": null,
+  "country": "GB",
+  "status": "active",
+  "members": 2,
+  "past_members": 8,
+  "full_lengths": 4,
+  "genre": "Sludge/Doom Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 1390,
+  "themes": "Sickness, Drugs, Humour",
+  "release_year": 2007
+ },
+ "partial": false,
+ "clips": [
+  "iron-monkey/1732418472-103",
+  "iron-monkey/1732414301-104",
+  "iron-monkey/1260737417-105",
+  "iron-monkey/1728347500-105",
+  "iron-monkey/1732418472-104",
+  "iron-monkey/1732414301-105",
+  "iron-monkey/1260737417-104",
+  "iron-monkey/1728347500-104",
+  "iron-monkey/1732418472-102",
+  "iron-monkey/1732414301-103",
+  "iron-monkey/1260737417-106",
+  "iron-monkey/1728347500-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 112.55992542613637,
+   "iqr": 15.500815359599287
+  },
+  "onset_rate": {
+   "median": 4.1499372647427855,
+   "iqr": 1.5922732160655015
+  },
+  "tempo_var": {
+   "median": 10.639428523891517,
+   "iqr": 6.1369181283384835
+  },
+  "low_onset_rate": {
+   "median": 6.833281935773206,
+   "iqr": 1.2961898210334777
+  },
+  "lufs": {
+   "median": -8.68044298215974,
+   "iqr": 3.132043763216288
+  },
+  "rms_dbfs": {
+   "median": -8.02797573996714,
+   "iqr": 3.011017878862458
+  },
+  "crest": {
+   "median": 8.027975797653198,
+   "iqr": 3.011017918586731
+  },
+  "centroid": {
+   "median": 2277.7413989617826,
+   "iqr": 313.2674244064792
+  },
+  "flatness": {
+   "median": 0.021423169411718845,
+   "iqr": 0.012218365911394358
+  },
+  "sub100_share": {
+   "median": 0.3219926953315735,
+   "iqr": 0.09630075842142105
+  },
+  "lowest_pitch": {
+   "median": 61.907958984375,
+   "iqr": 18.16864013671875
+  },
+  "harmonic_share": {
+   "median": 0.7419779300689697,
+   "iqr": 0.0854923278093338
+  },
+  "clean_share": {
+   "median": 0.04331013147718484,
+   "iqr": 0.19771381086167916
+  },
+  "minor_share": {
+   "median": -0.033237061395003514,
+   "iqr": 0.14963913303796855
+  },
+  "chord_rate": {
+   "median": 1.8333056189626764,
+   "iqr": 1.0750102039273786
+  },
+  "repetitiveness": {
+   "median": 0.859997034072876,
+   "iqr": 0.09114508330821991
+  },
+  "vocal_share": {
+   "median": 0.08633462712168694,
+   "iqr": 0.015444628894329071
+  },
+  "vocal_voiced": {
+   "median": 0.24463886648308436,
+   "iqr": 0.11296555530891905
+  },
+  "song_length": {
+   "median": 318.57349999999997,
+   "iqr": 95.13324999999998
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

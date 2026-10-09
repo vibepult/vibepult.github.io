@@ -1,0 +1,32 @@
+{
+ "id": "dissection/1630970998-105",
+ "band": "dissection",
+ "title": "Retribution - Storm of the Light's Bane",
+ "source": "itunes",
+ "album": "Storm of the Light's Bane",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 6.766666666666667,
+  "tempo_var": 4.99060189834293,
+  "low_onset_rate": 6.9,
+  "lufs": -11.210843124549022,
+  "rms_dbfs": -10.554488400997199,
+  "crest": 10.554489135742188,
+  "centroid": 2509.2361808544565,
+  "flatness": 0.030472133308649063,
+  "sub100_share": 0.2720284163951874,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.733641505241394,
+  "clean_share": 0.005417956656346749,
+  "minor_share": 0.04347253275032825,
+  "chord_rate": 1.7,
+  "repetitiveness": 0.9263752102851868,
+  "vocal_share": 0.023120809346437454,
+  "vocal_voiced": 0.0,
+  "song_length": 291.213
+ }
+}

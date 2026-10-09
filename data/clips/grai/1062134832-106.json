@@ -1,0 +1,32 @@
+{
+ "id": "grai/1062134832-106",
+ "band": "grai",
+ "title": "Вернись",
+ "source": "itunes",
+ "album": "Млада",
+ "year": 2014,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 5.312560611938127,
+  "tempo_var": 27.837878386231612,
+  "low_onset_rate": 5.546446928186976,
+  "lufs": -8.465657518774655,
+  "rms_dbfs": -8.396944278083007,
+  "crest": 8.396944046020508,
+  "centroid": 2652.689252986387,
+  "flatness": 0.03502875193953514,
+  "sub100_share": 0.3026045858860016,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8089277744293213,
+  "clean_share": 0.13964313421256788,
+  "minor_share": -0.0323647251860415,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.9203616380691528,
+  "vocal_share": 5.913753398090194e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 241.342
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "begerith/1448527393-102",
+ "band": "begerith",
+ "title": "A.D.A.M.: I. —",
+ "source": "itunes",
+ "album": "A.D.A.M.",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.544077001406197,
+  "tempo_var": 2.800868787435217,
+  "low_onset_rate": 5.178911288367357,
+  "lufs": -8.386920786527911,
+  "rms_dbfs": -7.562333178546693,
+  "crest": 7.562333106994629,
+  "centroid": 2579.818772392512,
+  "flatness": 0.03091995231807232,
+  "sub100_share": 0.4946707785129547,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.8328469395637512,
+  "clean_share": 0.0643910007757952,
+  "minor_share": -0.02573826735797491,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.7661899328231812,
+  "vocal_share": 0.037235211580991745,
+  "vocal_voiced": 0.0,
+  "song_length": 347.347
+ }
+}

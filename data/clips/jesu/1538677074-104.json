@@ -1,0 +1,32 @@
+{
+ "id": "jesu/1538677074-104",
+ "band": "jesu",
+ "title": "Sleeping In",
+ "source": "itunes",
+ "album": "Terminus",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 48.75442216981132,
+  "onset_rate": 1.2696685739223197,
+  "tempo_var": 11.90853473652978,
+  "low_onset_rate": 5.4462099355088975,
+  "lufs": -8.61828099024714,
+  "rms_dbfs": -6.885303468273392,
+  "crest": 6.885303497314453,
+  "centroid": 1393.4128619249418,
+  "flatness": 0.004010711796581745,
+  "sub100_share": 0.36760440468788147,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.9384756088256836,
+  "clean_share": 0.7688130333591932,
+  "minor_share": -0.1954003560488513,
+  "chord_rate": 0.5680096251757746,
+  "repetitiveness": 0.5904499292373657,
+  "vocal_share": 4.45827936346177e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 519.3
+ }
+}

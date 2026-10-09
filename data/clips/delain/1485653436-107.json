@@ -1,0 +1,32 @@
+{
+ "id": "delain/1485653436-107",
+ "band": "delain",
+ "title": "Let's Dance",
+ "source": "itunes",
+ "album": "Apocalypse & Chill",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.8,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.066666666666666,
+  "lufs": -9.543271092121214,
+  "rms_dbfs": -8.864418049453953,
+  "crest": 8.864418029785156,
+  "centroid": 2474.2735938573624,
+  "flatness": 0.02923288755118847,
+  "sub100_share": 0.34538814425468445,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7902756929397583,
+  "clean_share": 0.04256965944272446,
+  "minor_share": 0.09305951257257095,
+  "chord_rate": 1.1666666666666667,
+  "repetitiveness": 0.8467724919319153,
+  "vocal_share": 0.14895950257778168,
+  "vocal_voiced": 0.5309503051438536,
+  "song_length": 247.333
+ }
+}

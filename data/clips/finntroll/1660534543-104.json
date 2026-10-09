@@ -1,0 +1,32 @@
+{
+ "id": "finntroll/1660534543-104",
+ "band": "finntroll",
+ "title": "Trollhammaren",
+ "source": "itunes",
+ "album": "Nattfödd",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.6,
+  "tempo_var": 15.302672521118593,
+  "low_onset_rate": 5.4,
+  "lufs": -9.437821442687737,
+  "rms_dbfs": -8.412361990816148,
+  "crest": 8.412362098693848,
+  "centroid": 2432.8790526220587,
+  "flatness": 0.025050753727555275,
+  "sub100_share": 0.4330582916736603,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8458406925201416,
+  "clean_share": 0.023993808049535603,
+  "minor_share": 0.19903602254991587,
+  "chord_rate": 2.2666666666666666,
+  "repetitiveness": 0.8735255599021912,
+  "vocal_share": 0.04031920060515404,
+  "vocal_voiced": 0.1740041928721174,
+  "song_length": 212.24
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "body-count/724597674-110",
+ "band": "body-count",
+ "title": "Root of All Evil",
+ "source": "itunes",
+ "album": "Violent Demise the Last Days",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.1407591039131066,
+  "tempo_var": 2.066948496967173,
+  "low_onset_rate": 2.7063988023081027,
+  "lufs": -13.375505532965315,
+  "rms_dbfs": -13.610836678249452,
+  "crest": 13.610836029052734,
+  "centroid": 2675.861252499761,
+  "flatness": 0.030089884996414185,
+  "sub100_share": 0.23302064836025238,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.6637120246887207,
+  "clean_share": 0.14197051978277736,
+  "minor_share": 0.1927299466370973,
+  "chord_rate": 1.9379151917761723,
+  "repetitiveness": 0.7524687647819519,
+  "vocal_share": 0.27717125415802,
+  "vocal_voiced": 0.44337979094076657,
+  "song_length": 263.627
+ }
+}

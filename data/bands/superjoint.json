@@ -1,0 +1,127 @@
+{
+ "slug": "superjoint",
+ "name": "Superjoint",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1149777068,
+  "deezer": 10950984,
+  "spotify": "2K5ouPQEC1lbHfUTbbjh0a"
+ },
+ "metadata": {
+  "formed": 1993,
+  "split": null,
+  "country": "US",
+  "status": "changed name",
+  "members": 5,
+  "past_members": 3,
+  "full_lengths": 2,
+  "genre": "Sludge Metal/Crossover",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 1039,
+  "themes": "Marijuana, Violence, Personal struggles, Alcohol",
+  "release_year": 2002
+ },
+ "partial": false,
+ "clips": [
+  "superjoint/1610770939-108",
+  "superjoint/1435781868-107",
+  "superjoint/1610770939-109",
+  "superjoint/1435781868-106",
+  "superjoint/1610770939-107",
+  "superjoint/1435781868-108",
+  "superjoint/1610770939-110",
+  "superjoint/1435781868-105",
+  "superjoint/1610770939-105",
+  "superjoint/1435781868-109",
+  "superjoint/1610770939-111",
+  "superjoint/1435781868-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.72650642942585,
+   "iqr": 32.29253977416499
+  },
+  "onset_rate": {
+   "median": 4.566666666666666,
+   "iqr": 1.4666666666666668
+  },
+  "tempo_var": {
+   "median": 12.786902265159473,
+   "iqr": 6.492862295038272
+  },
+  "low_onset_rate": {
+   "median": 5.216666666666667,
+   "iqr": 1.4666666666666668
+  },
+  "lufs": {
+   "median": -9.12200882724811,
+   "iqr": 1.8383280449570574
+  },
+  "rms_dbfs": {
+   "median": -9.056437454589815,
+   "iqr": 1.5947048600912197
+  },
+  "crest": {
+   "median": 9.056437492370605,
+   "iqr": 1.5947058200836182
+  },
+  "centroid": {
+   "median": 2564.7942148234815,
+   "iqr": 135.34341128834512
+  },
+  "flatness": {
+   "median": 0.038342321291565895,
+   "iqr": 0.00839779619127512
+  },
+  "sub100_share": {
+   "median": 0.2794829457998276,
+   "iqr": 0.16599087417125702
+  },
+  "lowest_pitch": {
+   "median": 64.599609375,
+   "iqr": 39.70184326171875
+  },
+  "harmonic_share": {
+   "median": 0.6822731792926788,
+   "iqr": 0.048916369676589966
+  },
+  "clean_share": {
+   "median": 0.03289473684210526,
+   "iqr": 0.04295665634674922
+  },
+  "minor_share": {
+   "median": -0.0213562382907809,
+   "iqr": 0.07305308906059983
+  },
+  "chord_rate": {
+   "median": 2.283333333333333,
+   "iqr": 0.9166666666666667
+  },
+  "repetitiveness": {
+   "median": 0.8552726805210114,
+   "iqr": 0.07631106674671173
+  },
+  "vocal_share": {
+   "median": 0.17407329380512238,
+   "iqr": 0.06936396658420563
+  },
+  "vocal_voiced": {
+   "median": 0.24369747899159663,
+   "iqr": 0.10305292532039279
+  },
+  "song_length": {
+   "median": 205.55349999999999,
+   "iqr": 108.203
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

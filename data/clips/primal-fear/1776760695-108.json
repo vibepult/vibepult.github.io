@@ -1,0 +1,32 @@
+{
+ "id": "primal-fear/1776760695-108",
+ "band": "primal-fear",
+ "title": "Killbound",
+ "source": "itunes",
+ "album": "16.6 (Before the Devil Knows You're Dead)",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.6333333333333333,
+  "tempo_var": 3.0368189640544556,
+  "low_onset_rate": 4.933333333333334,
+  "lufs": -7.929880779594474,
+  "rms_dbfs": -7.447463388288929,
+  "crest": 7.447463035583496,
+  "centroid": 2475.0617427890224,
+  "flatness": 0.02834346331655979,
+  "sub100_share": 0.34454119205474854,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7351824045181274,
+  "clean_share": 0.05572755417956656,
+  "minor_share": -0.13959965382030826,
+  "chord_rate": 0.9666666666666667,
+  "repetitiveness": 0.7552108764648438,
+  "vocal_share": 0.21124014258384705,
+  "vocal_voiced": 0.34958382877526756,
+  "song_length": 255.387
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "ayreon/1600456714-201",
+ "band": "ayreon",
+ "title": "Aquatic Race",
+ "source": "itunes",
+ "album": "The Source",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 2.1718015080250206,
+  "tempo_var": 1.1502012159887467,
+  "low_onset_rate": 4.343603016050041,
+  "lufs": -15.101931849528615,
+  "rms_dbfs": -14.64661122482539,
+  "crest": 14.646611213684082,
+  "centroid": 2870.1783846868893,
+  "flatness": 0.05293064936995506,
+  "sub100_share": 0.3398301601409912,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.6477006077766418,
+  "clean_share": 0.06671838634600466,
+  "minor_share": 0.12289731033944629,
+  "chord_rate": 1.871090529990787,
+  "repetitiveness": 0.8263693451881409,
+  "vocal_share": 0.20261360704898834,
+  "vocal_voiced": 0.0,
+  "song_length": 404.371
+ }
+}

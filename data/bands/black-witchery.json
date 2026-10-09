@@ -1,0 +1,127 @@
+{
+ "slug": "black-witchery",
+ "name": "Black Witchery",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 166971288,
+  "deezer": 62639,
+  "spotify": "3RXj9fwr1K643YKUUaW0MP"
+ },
+ "metadata": {
+  "formed": 1996,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 3,
+  "past_members": 3,
+  "full_lengths": 3,
+  "genre": "Black/Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 1880,
+  "themes": "Satanism, Occultism, Death, Desecration",
+  "release_year": 2005
+ },
+ "partial": false,
+ "clips": [
+  "black-witchery/1743254579-107",
+  "black-witchery/402096653-105",
+  "black-witchery/1743254579-105",
+  "black-witchery/402096653-103",
+  "black-witchery/1743254579-108",
+  "black-witchery/402096653-106",
+  "black-witchery/1743254579-104",
+  "black-witchery/402096653-102",
+  "black-witchery/1743254579-109",
+  "black-witchery/402096653-107",
+  "black-witchery/1743254579-102",
+  "black-witchery/402096653-101"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 21.710891993447063
+  },
+  "onset_rate": {
+   "median": 5.766579492373509,
+   "iqr": 0.7727513841087141
+  },
+  "tempo_var": {
+   "median": 4.989938591312219,
+   "iqr": 4.33850315555714
+  },
+  "low_onset_rate": {
+   "median": 8.049878308717933,
+   "iqr": 1.2958697337437002
+  },
+  "lufs": {
+   "median": -8.524716579575465,
+   "iqr": 2.2426309095917825
+  },
+  "rms_dbfs": {
+   "median": -7.604691438072513,
+   "iqr": 3.9260315881971826
+  },
+  "crest": {
+   "median": 7.467414379119873,
+   "iqr": 3.857615351676941
+  },
+  "centroid": {
+   "median": 2368.7376308971384,
+   "iqr": 769.6374388925565
+  },
+  "flatness": {
+   "median": 0.03158583678305149,
+   "iqr": 0.052516044583171606
+  },
+  "sub100_share": {
+   "median": 0.40931926667690277,
+   "iqr": 0.07434052228927612
+  },
+  "lowest_pitch": {
+   "median": 55.1788330078125,
+   "iqr": 22.20611572265625
+  },
+  "harmonic_share": {
+   "median": 0.824727475643158,
+   "iqr": 0.03440369665622711
+  },
+  "clean_share": {
+   "median": 0.007733952049497294,
+   "iqr": 0.02958236658932715
+  },
+  "minor_share": {
+   "median": 0.022569530190447357,
+   "iqr": 0.16681247397693094
+  },
+  "chord_rate": {
+   "median": 2.4892186515056007,
+   "iqr": 0.33601689826823167
+  },
+  "repetitiveness": {
+   "median": 0.9620063900947571,
+   "iqr": 0.011324971914291382
+  },
+  "vocal_share": {
+   "median": 0.06594987213611603,
+   "iqr": 0.043853145092725754
+  },
+  "vocal_voiced": {
+   "median": 0.20992761116856257,
+   "iqr": 0.09333472870244708
+  },
+  "song_length": {
+   "median": 173.973,
+   "iqr": 68.41675000000001
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.5,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

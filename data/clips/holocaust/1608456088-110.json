@@ -1,0 +1,32 @@
+{
+ "id": "holocaust/1608456088-110",
+ "band": "holocaust",
+ "title": "Heavy Metal Mania (12\" Single Version)",
+ "source": "itunes",
+ "album": "The Nightcomers",
+ "year": 1981,
+ "itunes_year": 1981,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.6,
+  "tempo_var": 5.576096201526867,
+  "low_onset_rate": 6.633333333333334,
+  "lufs": -13.489149213426854,
+  "rms_dbfs": -13.479454972580228,
+  "crest": 13.479454040527344,
+  "centroid": 2311.085899071579,
+  "flatness": 0.017796162515878677,
+  "sub100_share": 0.11914348602294922,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7763617634773254,
+  "clean_share": 0.17105263157894737,
+  "minor_share": 0.1528509024672634,
+  "chord_rate": 1.2333333333333334,
+  "repetitiveness": 0.728563666343689,
+  "vocal_share": 0.1938645839691162,
+  "vocal_voiced": 0.8259668508287292,
+  "song_length": 245.573
+ }
+}

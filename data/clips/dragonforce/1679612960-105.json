@@ -1,0 +1,32 @@
+{
+ "id": "dragonforce/1679612960-105",
+ "band": "dragonforce",
+ "title": "Body Breakdown",
+ "source": "itunes",
+ "album": "Inhuman Rampage",
+ "year": 2006,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 7.4,
+  "tempo_var": 18.18706936776002,
+  "low_onset_rate": 6.3,
+  "lufs": -9.547179820579512,
+  "rms_dbfs": -9.66424202050809,
+  "crest": 9.664241790771484,
+  "centroid": 3008.46461986209,
+  "flatness": 0.05071202293038368,
+  "sub100_share": 0.2829762399196625,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7391414046287537,
+  "clean_share": 0.0,
+  "minor_share": 0.32255516042171717,
+  "chord_rate": 1.1666666666666667,
+  "repetitiveness": 0.8842421174049377,
+  "vocal_share": 0.29055842757225037,
+  "vocal_voiced": 0.8346111719605696,
+  "song_length": 417.227
+ }
+}

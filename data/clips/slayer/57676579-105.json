@@ -1,0 +1,32 @@
+{
+ "id": "slayer/57676579-105",
+ "band": "slayer",
+ "title": "Metal Storm / Face the Slayer",
+ "source": "itunes",
+ "album": "Show No Mercy",
+ "year": 1983,
+ "itunes_year": 1983,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 6.29990476334447,
+  "tempo_var": 4.7262261244375585,
+  "low_onset_rate": 5.066590074224123,
+  "lufs": -10.340067939761656,
+  "rms_dbfs": -11.56958366553476,
+  "crest": 11.569583892822266,
+  "centroid": 2472.9514048025626,
+  "flatness": 0.013641941361129284,
+  "sub100_share": 0.15626665949821472,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.7670721411705017,
+  "clean_share": 0.006187161639597835,
+  "minor_share": 0.1408653513783632,
+  "chord_rate": 1.1666490302489758,
+  "repetitiveness": 0.6611261963844299,
+  "vocal_share": 4.776064201905683e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 293.133
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "katatonia/1091661698-107",
+ "band": "katatonia",
+ "title": "Serac",
+ "source": "itunes",
+ "album": "The Fall of Hearts",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.3333333333333335,
+  "tempo_var": 9.38386295312666,
+  "low_onset_rate": 4.733333333333333,
+  "lufs": -9.118520414660235,
+  "rms_dbfs": -8.310324260162062,
+  "crest": 8.310323715209961,
+  "centroid": 2524.5149781302057,
+  "flatness": 0.028508519753813744,
+  "sub100_share": 0.45716437697410583,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8318153023719788,
+  "clean_share": 0.043343653250773995,
+  "minor_share": -0.14264281295427383,
+  "chord_rate": 1.4,
+  "repetitiveness": 0.802849292755127,
+  "vocal_share": 0.023059653118252754,
+  "vocal_voiced": 0.8611111111111112,
+  "song_length": 445.267
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "dissection/1630970998-107",
+ "band": "dissection",
+ "title": "Soulreaper",
+ "source": "itunes",
+ "album": "Storm of the Light's Bane",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 7.9,
+  "tempo_var": 8.094332965533667,
+  "low_onset_rate": 6.0,
+  "lufs": -9.257881518174523,
+  "rms_dbfs": -9.037559421884426,
+  "crest": 9.037559509277344,
+  "centroid": 2789.7269363919218,
+  "flatness": 0.0538918636739254,
+  "sub100_share": 0.24814146757125854,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.5499533414840698,
+  "clean_share": 0.0,
+  "minor_share": 0.09015984487543383,
+  "chord_rate": 1.3333333333333333,
+  "repetitiveness": 0.9601377844810486,
+  "vocal_share": 0.13656385242938995,
+  "vocal_voiced": 0.3451492537313433,
+  "song_length": 416.287
+ }
+}

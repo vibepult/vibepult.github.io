@@ -1,0 +1,32 @@
+{
+ "id": "lex-talion/1157621878-103",
+ "band": "lex-talion",
+ "title": "Blood & Mead",
+ "source": "itunes",
+ "album": "Funeral in the Forest",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.94265504533773,
+  "tempo_var": 3.8177245374410296,
+  "low_onset_rate": 4.677726324976968,
+  "lufs": -7.387139999513395,
+  "rms_dbfs": -7.213670106563299,
+  "crest": 7.21367073059082,
+  "centroid": 2486.364664842105,
+  "flatness": 0.03417305648326874,
+  "sub100_share": 0.18931545317173004,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.6064483523368835,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.05346891513097951,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.851453959941864,
+  "vocal_share": 0.22579987347126007,
+  "vocal_voiced": 0.0,
+  "song_length": 149.216
+ }
+}

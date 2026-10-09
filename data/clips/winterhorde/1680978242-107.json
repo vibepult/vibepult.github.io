@@ -1,0 +1,32 @@
+{
+ "id": "winterhorde/1680978242-107",
+ "band": "winterhorde",
+ "title": "An Ode To Man",
+ "source": "itunes",
+ "album": "Nebula",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 6.548816854967755,
+  "tempo_var": 2.0477020420150827,
+  "low_onset_rate": 9.088154002812393,
+  "lufs": -6.512666418833352,
+  "rms_dbfs": -6.581224638723038,
+  "crest": 6.58122444152832,
+  "centroid": 2659.5627076470787,
+  "flatness": 0.03848539665341377,
+  "sub100_share": 0.1793777197599411,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.800311267375946,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": 0.11588728707752571,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.8048244118690491,
+  "vocal_share": 0.10174836218357086,
+  "vocal_voiced": 0.3202614379084967,
+  "song_length": 471.92
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "communic/1460465311-106",
+ "band": "communic",
+ "title": "My Fallen",
+ "source": "itunes",
+ "album": "The Bottom Deep",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 2.9068727876642586,
+  "tempo_var": 26.069693242505075,
+  "low_onset_rate": 2.205213838917713,
+  "lufs": -13.211925817861069,
+  "rms_dbfs": -11.900646503999244,
+  "crest": 11.900646209716797,
+  "centroid": 1499.6788224140591,
+  "flatness": 0.020491093397140503,
+  "sub100_share": 0.3565535545349121,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7620652318000793,
+  "clean_share": 0.6951124903025602,
+  "minor_share": 0.17447843562925525,
+  "chord_rate": 0.9689575958880862,
+  "repetitiveness": 0.6571990847587585,
+  "vocal_share": 0.14940457046031952,
+  "vocal_voiced": 0.8543046357615894,
+  "song_length": 413.747
+ }
+}

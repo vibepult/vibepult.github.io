@@ -1,0 +1,127 @@
+{
+ "slug": "a-n-i-m-a-l",
+ "name": "A.N.I.M.A.L.",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1563972,
+  "deezer": 67638,
+  "spotify": "6eoz7BtTcC5Q303xQtSgj9"
+ },
+ "metadata": {
+  "formed": 1991,
+  "split": null,
+  "country": "AR",
+  "status": "active",
+  "members": 3,
+  "past_members": 9,
+  "full_lengths": 10,
+  "genre": "Heavy/Thrash Metal (early); Groove/Nu-Metal (later)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 10850,
+  "themes": "Natives, Political/social issues, Latin American pride, Personal struggles",
+  "release_year": 1997
+ },
+ "partial": false,
+ "clips": [
+  "a-n-i-m-a-l/1665447629-106",
+  "a-n-i-m-a-l/298701932-106",
+  "a-n-i-m-a-l/201659544-107",
+  "a-n-i-m-a-l/1442385882-105",
+  "a-n-i-m-a-l/1647813043-108",
+  "a-n-i-m-a-l/1665447629-105",
+  "a-n-i-m-a-l/298701932-107",
+  "a-n-i-m-a-l/201659544-108",
+  "a-n-i-m-a-l/1442385882-104",
+  "a-n-i-m-a-l/1647813043-107",
+  "a-n-i-m-a-l/1665447629-107",
+  "a-n-i-m-a-l/298701932-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 110.00658118206522,
+   "iqr": 49.6335460265837
+  },
+  "onset_rate": {
+   "median": 3.94265504533773,
+   "iqr": 2.196860756194541
+  },
+  "tempo_var": {
+   "median": 16.48875572337542,
+   "iqr": 11.013079147390368
+  },
+  "low_onset_rate": {
+   "median": 5.646683920865053,
+   "iqr": 2.998756697619163
+  },
+  "lufs": {
+   "median": -10.795107532177205,
+   "iqr": 2.7678087011090806
+  },
+  "rms_dbfs": {
+   "median": -10.133083429998335,
+   "iqr": 2.7843400002563374
+  },
+  "crest": {
+   "median": 9.9101881980896,
+   "iqr": 2.1810004711151123
+  },
+  "centroid": {
+   "median": 2292.2951103341134,
+   "iqr": 211.91898495008672
+  },
+  "flatness": {
+   "median": 0.026653452776372433,
+   "iqr": 0.010043462738394737
+  },
+  "sub100_share": {
+   "median": 0.23515634983778,
+   "iqr": 0.038990139961242676
+  },
+  "lowest_pitch": {
+   "median": 63.2537841796875,
+   "iqr": 18.16864013671875
+  },
+  "harmonic_share": {
+   "median": 0.7152270674705505,
+   "iqr": 0.09607239067554474
+  },
+  "clean_share": {
+   "median": 0.09852598913886734,
+   "iqr": 0.2835531419705198
+  },
+  "minor_share": {
+   "median": -0.026482250410642005,
+   "iqr": 0.2247652952136182
+  },
+  "chord_rate": {
+   "median": 2.188507673471367,
+   "iqr": 0.5095380461135628
+  },
+  "repetitiveness": {
+   "median": 0.907796710729599,
+   "iqr": 0.06511092185974121
+  },
+  "vocal_share": {
+   "median": 0.2259996458888054,
+   "iqr": 0.0720641054213047
+  },
+  "vocal_voiced": {
+   "median": 0.4545996743878653,
+   "iqr": 0.4223963453907947
+  },
+  "song_length": {
+   "median": 253.51299999999998,
+   "iqr": 49.69274999999996
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

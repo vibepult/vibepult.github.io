@@ -1,0 +1,127 @@
+{
+ "slug": "gojira",
+ "name": "Gojira",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 65158676,
+  "deezer": 2993,
+  "spotify": "0GDGKpJFhVpcjIGF8N6Ewt"
+ },
+ "metadata": {
+  "formed": 1996,
+  "split": null,
+  "country": "FR",
+  "status": "active",
+  "members": 4,
+  "past_members": 1,
+  "full_lengths": 7,
+  "genre": "Progressive/Groove/Death Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 516762,
+  "themes": "Life, Death, Spirituality, Mankind, Ecology, Nature",
+  "release_year": 2006
+ },
+ "partial": false,
+ "clips": [
+  "gojira/1141870792-108",
+  "gojira/211664936-107",
+  "gojira/213374112-106",
+  "gojira/291261388-106",
+  "gojira/1104432592-106",
+  "gojira/1553446829-106",
+  "gojira/1141870792-107",
+  "gojira/211664936-106",
+  "gojira/213374112-107",
+  "gojira/291261388-107",
+  "gojira/1104432592-104",
+  "gojira/1553446829-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 112.55992542613637,
+   "iqr": 29.45389597039474
+  },
+  "onset_rate": {
+   "median": 4.7159485853694365,
+   "iqr": 1.4898564121282618
+  },
+  "tempo_var": {
+   "median": 7.342601770937041,
+   "iqr": 9.616214416309862
+  },
+  "low_onset_rate": {
+   "median": 5.68136145596347,
+   "iqr": 1.8746158747967225
+  },
+  "lufs": {
+   "median": -8.5281313902424,
+   "iqr": 1.772398033866911
+  },
+  "rms_dbfs": {
+   "median": -7.556985295167167,
+   "iqr": 1.4416769529377653
+  },
+  "crest": {
+   "median": 7.556985378265381,
+   "iqr": 1.441676378250122
+  },
+  "centroid": {
+   "median": 2480.05965915882,
+   "iqr": 459.92873828860365
+  },
+  "flatness": {
+   "median": 0.03164556808769703,
+   "iqr": 0.017099238466471434
+  },
+  "sub100_share": {
+   "median": 0.42025570571422577,
+   "iqr": 0.16456519067287445
+  },
+  "lowest_pitch": {
+   "median": 37.68310546875,
+   "iqr": 8.074951171875
+  },
+  "harmonic_share": {
+   "median": 0.7913559377193451,
+   "iqr": 0.07986533641815186
+  },
+  "clean_share": {
+   "median": 0.011993312406168964,
+   "iqr": 0.13168849173568561
+  },
+  "minor_share": {
+   "median": 0.0739080731350622,
+   "iqr": 0.10941856344672996
+  },
+  "chord_rate": {
+   "median": 1.7333081388317813,
+   "iqr": 0.3408037407341977
+  },
+  "repetitiveness": {
+   "median": 0.8900929093360901,
+   "iqr": 0.07851158082485199
+  },
+  "vocal_share": {
+   "median": 0.10639171674847603,
+   "iqr": 0.08407491259276867
+  },
+  "vocal_voiced": {
+   "median": 0.2805523202678063,
+   "iqr": 0.4423628577685219
+  },
+  "song_length": {
+   "median": 287.2215,
+   "iqr": 145.93850000000003
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

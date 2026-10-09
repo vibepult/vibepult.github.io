@@ -1,0 +1,32 @@
+{
+ "id": "kyuss/207914986-105",
+ "band": "kyuss",
+ "title": "Phototropic",
+ "source": "itunes",
+ "album": "...And the Circus Leaves Town",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 3.2666172846971326,
+  "tempo_var": 0.0,
+  "low_onset_rate": 4.366600656074739,
+  "lufs": -11.364691123856822,
+  "rms_dbfs": -9.82421819311588,
+  "crest": 9.824217796325684,
+  "centroid": 1038.522113277043,
+  "flatness": 0.0011646492639556527,
+  "sub100_share": 0.23026496171951294,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8653774857521057,
+  "clean_share": 0.9358081979891725,
+  "minor_share": -0.017199019384972147,
+  "chord_rate": 1.6333086423485663,
+  "repetitiveness": 0.6779446005821228,
+  "vocal_share": 3.248070186145924e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 313.427
+ }
+}

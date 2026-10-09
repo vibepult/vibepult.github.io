@@ -1,0 +1,32 @@
+{
+ "id": "pharaoh-overlord/1457865793-104",
+ "band": "pharaoh-overlord",
+ "title": "Transatlantic",
+ "source": "itunes",
+ "album": "#1",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.443840008728119,
+  "tempo_var": 2.3592218647233407,
+  "low_onset_rate": 5.112086626581972,
+  "lufs": -9.367875120272856,
+  "rms_dbfs": -8.029615552202166,
+  "crest": 8.02961540222168,
+  "centroid": 1098.138081578684,
+  "flatness": 0.00165805802680552,
+  "sub100_share": 0.15175549685955048,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8111597299575806,
+  "clean_share": 0.9076803723816912,
+  "minor_share": 0.0045979414430207255,
+  "chord_rate": 1.8042658682054018,
+  "repetitiveness": 0.9129067659378052,
+  "vocal_share": 0.0705198347568512,
+  "vocal_voiced": 0.8864321608040201,
+  "song_length": 435.147
+ }
+}

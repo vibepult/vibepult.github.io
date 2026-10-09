@@ -1,0 +1,32 @@
+{
+ "id": "fudge-tunnel/310687547-105",
+ "band": "fudge-tunnel",
+ "title": "Hate Song (Version)",
+ "source": "itunes",
+ "album": "Hate Songs In E Minor",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 1.7040288755273238,
+  "tempo_var": 1.814279956622403,
+  "low_onset_rate": 7.484362119963148,
+  "lufs": -21.58836227640673,
+  "rms_dbfs": -20.41057945997433,
+  "crest": 19.11087417602539,
+  "centroid": 2562.32979584989,
+  "flatness": 0.019367532804608345,
+  "sub100_share": 0.47922006249427795,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.9059721827507019,
+  "clean_share": 0.32040341349883633,
+  "minor_share": -0.1542768314888886,
+  "chord_rate": 2.2386261698104057,
+  "repetitiveness": 0.7547979950904846,
+  "vocal_share": 5.558146654038865e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 196.307
+ }
+}

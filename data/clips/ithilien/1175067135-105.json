@@ -1,0 +1,32 @@
+{
+ "id": "ithilien/1175067135-105",
+ "band": "ithilien",
+ "title": "If Only",
+ "source": "itunes",
+ "album": "Shaping the Soul",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.4080577510546477,
+  "tempo_var": 2.338276022757977,
+  "low_onset_rate": 3.3412330892692625,
+  "lufs": -10.403220580836054,
+  "rms_dbfs": -10.237004822906371,
+  "crest": 10.237005233764648,
+  "centroid": 2186.8045247586942,
+  "flatness": 0.02330164983868599,
+  "sub100_share": 0.21448200941085815,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.6053499579429626,
+  "clean_share": 0.35065942591155935,
+  "minor_share": 0.15613344018898567,
+  "chord_rate": 1.871090529990787,
+  "repetitiveness": 0.7343334555625916,
+  "vocal_share": 0.1577829271554947,
+  "vocal_voiced": 0.09422492401215805,
+  "song_length": 268.56
+ }
+}

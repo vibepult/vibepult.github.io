@@ -1,0 +1,32 @@
+{
+ "id": "white-zombie/1101918450-106",
+ "band": "white-zombie",
+ "title": "Skin",
+ "source": "itunes",
+ "album": "Soul-Crusher",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.133333333333334,
+  "tempo_var": 1.7812679915181422,
+  "low_onset_rate": 4.933333333333334,
+  "lufs": -11.189953978198368,
+  "rms_dbfs": -10.794635937974244,
+  "crest": 10.794635772705078,
+  "centroid": 2055.2141769433506,
+  "flatness": 0.012787945568561554,
+  "sub100_share": 0.2825849652290344,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.6851848363876343,
+  "clean_share": 0.23219814241486067,
+  "minor_share": 0.026832772421061857,
+  "chord_rate": 2.5,
+  "repetitiveness": 0.9388324022293091,
+  "vocal_share": 0.1425386518239975,
+  "vocal_voiced": 0.8372469635627531,
+  "song_length": 217.04
+ }
+}

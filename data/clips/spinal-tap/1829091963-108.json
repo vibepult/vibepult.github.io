@@ -1,0 +1,32 @@
+{
+ "id": "spinal-tap/1829091963-108",
+ "band": "spinal-tap",
+ "title": "Angels",
+ "source": "itunes",
+ "album": "The End Continues",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 1.5660653354569825,
+  "tempo_var": 25.800648985398162,
+  "low_onset_rate": 2.5990020460775454,
+  "lufs": -15.300709690240966,
+  "rms_dbfs": -14.82418961773069,
+  "crest": 14.824190139770508,
+  "centroid": 1308.9103198982548,
+  "flatness": 0.002977971453219652,
+  "sub100_share": 0.11373031884431839,
+  "lowest_pitch": 174.957275390625,
+  "harmonic_share": 0.9082566499710083,
+  "clean_share": 0.8708430007733952,
+  "minor_share": -0.291486170009013,
+  "chord_rate": 1.3328215620910489,
+  "repetitiveness": 0.6099042296409607,
+  "vocal_share": 0.16373656690120697,
+  "vocal_voiced": 0.9555555555555556,
+  "song_length": 152.14
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "white-zombie/1101918450-105",
+ "band": "white-zombie",
+ "title": "Die Zombie Die",
+ "source": "itunes",
+ "album": "Soul-Crusher",
+ "year": 1987,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.933333333333333,
+  "tempo_var": 4.679888691936531,
+  "low_onset_rate": 4.233333333333333,
+  "lufs": -12.556354954352207,
+  "rms_dbfs": -12.042888273510856,
+  "crest": 12.042888641357422,
+  "centroid": 2031.118953633987,
+  "flatness": 0.010472385212779045,
+  "sub100_share": 0.359499990940094,
+  "lowest_pitch": 142.657470703125,
+  "harmonic_share": 0.7595440745353699,
+  "clean_share": 0.5046439628482973,
+  "minor_share": 0.005621004561918275,
+  "chord_rate": 2.7,
+  "repetitiveness": 0.7910892367362976,
+  "vocal_share": 0.17083491384983063,
+  "vocal_voiced": 0.6136363636363636,
+  "song_length": 245.92
+ }
+}

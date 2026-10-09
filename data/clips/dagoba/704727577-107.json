@@ -1,0 +1,32 @@
+{
+ "id": "dagoba/704727577-107",
+ "band": "dagoba",
+ "title": "The Great Wonder",
+ "source": "itunes",
+ "album": "Post Mortem Nihil Est",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.178911288367357,
+  "tempo_var": 25.890200356282538,
+  "low_onset_rate": 5.813745575328517,
+  "lufs": -8.664289504070444,
+  "rms_dbfs": -8.057610138645817,
+  "crest": 8.057609558105469,
+  "centroid": 2923.620819654433,
+  "flatness": 0.04836921766400337,
+  "sub100_share": 0.36766496300697327,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.7717866897583008,
+  "clean_share": 0.0,
+  "minor_share": -0.036961590397904476,
+  "chord_rate": 2.773223464093488,
+  "repetitiveness": 0.8356594443321228,
+  "vocal_share": 0.1936664581298828,
+  "vocal_voiced": 0.28931875525651807,
+  "song_length": 285.613
+ }
+}

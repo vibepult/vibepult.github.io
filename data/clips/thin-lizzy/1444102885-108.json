@@ -1,0 +1,32 @@
+{
+ "id": "thin-lizzy/1444102885-108",
+ "band": "thin-lizzy",
+ "title": "Clifton Grange Hotel",
+ "source": "itunes",
+ "album": "Thin Lizzy",
+ "year": 1971,
+ "itunes_year": 1971,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.165747242483141,
+  "tempo_var": 1.2309591245485392,
+  "low_onset_rate": 4.665636911581117,
+  "lufs": -12.834355765385839,
+  "rms_dbfs": -11.87982035589068,
+  "crest": 11.879820823669434,
+  "centroid": 1323.6894778880585,
+  "flatness": 0.003360871458426118,
+  "sub100_share": 0.14722903072834015,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.8664900660514832,
+  "clean_share": 0.8414539829853055,
+  "minor_share": -0.06595266548264833,
+  "chord_rate": 1.566320963173661,
+  "repetitiveness": 0.7236983180046082,
+  "vocal_share": 0.16496682167053223,
+  "vocal_voiced": 0.8372513562386981,
+  "song_length": 148.6
+ }
+}

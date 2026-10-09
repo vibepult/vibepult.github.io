@@ -1,0 +1,124 @@
+{
+ "slug": "ithilien",
+ "name": "Ithilien",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 745177324,
+  "deezer": 5340776,
+  "spotify": "59iRMFTuawaKRgDPAKDo1y"
+ },
+ "metadata": {
+  "formed": 2005,
+  "split": 2017,
+  "country": "BE",
+  "status": "split-up",
+  "members": 7,
+  "past_members": 16,
+  "full_lengths": 2,
+  "genre": "Melodic Folk Metal (early); Folk Metal/Metalcore (later)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 955,
+  "themes": "Battles, Drinking, History, Mythology, Grief",
+  "release_year": 2017
+ },
+ "partial": false,
+ "clips": [
+  "ithilien/1175067135-105",
+  "ithilien/1175067135-104",
+  "ithilien/1175067135-107",
+  "ithilien/1175067135-103",
+  "ithilien/1175067135-108",
+  "ithilien/1175067135-102",
+  "ithilien/1175067135-109",
+  "ithilien/1175067135-101",
+  "ithilien/1175067135-110"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 29.81520432692308
+  },
+  "onset_rate": {
+   "median": 4.443840008728119,
+   "iqr": 0.968957595888086
+  },
+  "tempo_var": {
+   "median": 13.191183140675179,
+   "iqr": 11.6358995245299
+  },
+  "low_onset_rate": {
+   "median": 4.310190685157349,
+   "iqr": 2.071564515346943
+  },
+  "lufs": {
+   "median": -8.852799567667764,
+   "iqr": 0.7777621287579866
+  },
+  "rms_dbfs": {
+   "median": -8.434241134008543,
+   "iqr": 0.9169601007256416
+  },
+  "crest": {
+   "median": 8.43424129486084,
+   "iqr": 0.9169607162475586
+  },
+  "centroid": {
+   "median": 2392.436024808962,
+   "iqr": 318.2964217704398
+  },
+  "flatness": {
+   "median": 0.02330164983868599,
+   "iqr": 0.0055045317858457565
+  },
+  "sub100_share": {
+   "median": 0.2848474383354187,
+   "iqr": 0.12063048779964447
+  },
+  "lowest_pitch": {
+   "median": 59.21630859375,
+   "iqr": 16.14990234375
+  },
+  "harmonic_share": {
+   "median": 0.8100768327713013,
+   "iqr": 0.07806527614593506
+  },
+  "clean_share": {
+   "median": 0.24359968968192397,
+   "iqr": 0.17377812257564004
+  },
+  "minor_share": {
+   "median": 0.07431079235325189,
+   "iqr": 0.05889879524431185
+  },
+  "chord_rate": {
+   "median": 1.3030809048150125,
+   "iqr": 0.4677726324976966
+  },
+  "repetitiveness": {
+   "median": 0.7495138645172119,
+   "iqr": 0.13638275861740112
+  },
+  "vocal_share": {
+   "median": 0.08739112690091133,
+   "iqr": 0.055949438363313675
+  },
+  "vocal_voiced": {
+   "median": 0.11891073709937233,
+   "iqr": 0.12600338942158745
+  },
+  "song_length": {
+   "median": 279.293,
+   "iqr": 101.83999999999997
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

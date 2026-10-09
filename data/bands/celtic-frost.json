@@ -1,0 +1,127 @@
+{
+ "slug": "celtic-frost",
+ "name": "Celtic Frost",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 20068200,
+  "deezer": 4810,
+  "spotify": "4ZISAmHmQUDCpv8xydqeKG"
+ },
+ "metadata": {
+  "formed": 1984,
+  "split": 2008,
+  "country": "CH",
+  "status": "split-up",
+  "members": 2,
+  "past_members": 9,
+  "full_lengths": 5,
+  "genre": "Thrash/Death/Black Metal (early); Gothic/Doom Metal (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 33691,
+  "themes": "Occultism, Death, History, Literature",
+  "release_year": 1988
+ },
+ "partial": false,
+ "clips": [
+  "celtic-frost/1433690866-106",
+  "celtic-frost/1634233758-105",
+  "celtic-frost/1640294040-105",
+  "celtic-frost/1045077926-106",
+  "celtic-frost/1433690866-107",
+  "celtic-frost/1634233758-106",
+  "celtic-frost/1640294040-106",
+  "celtic-frost/1045077926-105",
+  "celtic-frost/1433690866-105",
+  "celtic-frost/1634233758-104",
+  "celtic-frost/1640294040-104",
+  "celtic-frost/1045077926-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 110.00658118206522,
+   "iqr": 21.6015625
+  },
+  "onset_rate": {
+   "median": 4.427133843281773,
+   "iqr": 2.121683011685982
+  },
+  "tempo_var": {
+   "median": 2.4334170738577896,
+   "iqr": 2.6129760674028097
+  },
+  "low_onset_rate": {
+   "median": 6.665760013092179,
+   "iqr": 2.0799175980701152
+  },
+  "lufs": {
+   "median": -11.491649806638264,
+   "iqr": 1.4960201262383812
+  },
+  "rms_dbfs": {
+   "median": -10.43774981248195,
+   "iqr": 1.559368779488576
+  },
+  "crest": {
+   "median": 10.437750339508057,
+   "iqr": 1.5593693256378174
+  },
+  "centroid": {
+   "median": 2605.001333128066,
+   "iqr": 419.85321001222155
+  },
+  "flatness": {
+   "median": 0.031710672192275524,
+   "iqr": 0.020295923110097647
+  },
+  "sub100_share": {
+   "median": 0.3011656403541565,
+   "iqr": 0.18992600217461586
+  },
+  "lowest_pitch": {
+   "median": 57.8704833984375,
+   "iqr": 33.6456298828125
+  },
+  "harmonic_share": {
+   "median": 0.7631213963031769,
+   "iqr": 0.08660982549190521
+  },
+  "clean_share": {
+   "median": 0.012800620636152057,
+   "iqr": 0.13363072148952676
+  },
+  "minor_share": {
+   "median": 0.07290866423074166,
+   "iqr": 0.12293359490011124
+  },
+  "chord_rate": {
+   "median": 1.6706165446346313,
+   "iqr": 1.0107230095039519
+  },
+  "repetitiveness": {
+   "median": 0.8428416848182678,
+   "iqr": 0.06594914197921753
+  },
+  "vocal_share": {
+   "median": 0.09458950906991959,
+   "iqr": 0.0869445689022541
+  },
+  "vocal_voiced": {
+   "median": 0.18446601941747573,
+   "iqr": 0.5230405031274857
+  },
+  "song_length": {
+   "median": 277.68,
+   "iqr": 54.750249999999994
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

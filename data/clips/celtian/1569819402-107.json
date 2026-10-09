@@ -1,0 +1,32 @@
+{
+ "id": "celtian/1569819402-107",
+ "band": "celtian",
+ "title": "Lágrimas de Cera",
+ "source": "itunes",
+ "album": "Sendas de Leyenda",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.379385273723512,
+  "tempo_var": 2.2300428866517756,
+  "low_onset_rate": 5.479622266401591,
+  "lufs": -7.771520768040038,
+  "rms_dbfs": -7.579036447482491,
+  "crest": 7.579036235809326,
+  "centroid": 2866.1961697645575,
+  "flatness": 0.03949303179979324,
+  "sub100_share": 0.31273168325424194,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7208501696586609,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": 0.0004237512021111334,
+  "chord_rate": 0.8687206032100082,
+  "repetitiveness": 0.861974835395813,
+  "vocal_share": 0.2728428840637207,
+  "vocal_voiced": 0.8559870550161812,
+  "song_length": 252.72
+ }
+}

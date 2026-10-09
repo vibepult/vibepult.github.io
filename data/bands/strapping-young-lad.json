@@ -1,0 +1,127 @@
+{
+ "slug": "strapping-young-lad",
+ "name": "Strapping Young Lad",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 18096503,
+  "deezer": 1990,
+  "spotify": "457qPvtiBTIl6LR4dZiKZy"
+ },
+ "metadata": {
+  "formed": 1994,
+  "split": 2007,
+  "country": "CA",
+  "status": "split-up",
+  "members": 4,
+  "past_members": 0,
+  "full_lengths": 5,
+  "genre": "Death/Thrash Metal with Industrial influences",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 19501,
+  "themes": "Anger, Emotions, Violence, Humour",
+  "release_year": 2001
+ },
+ "partial": false,
+ "clips": [
+  "strapping-young-lad/1464748550-105",
+  "strapping-young-lad/1045623722-105",
+  "strapping-young-lad/1045616207-106",
+  "strapping-young-lad/1045652093-105",
+  "strapping-young-lad/1464748550-106",
+  "strapping-young-lad/1045623722-106",
+  "strapping-young-lad/1045616207-105",
+  "strapping-young-lad/1045652093-106",
+  "strapping-young-lad/1464748550-104",
+  "strapping-young-lad/1045623722-104",
+  "strapping-young-lad/1045616207-107",
+  "strapping-young-lad/1045652093-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 114.90049098320159,
+   "iqr": 26.90093623481782
+  },
+  "onset_rate": {
+   "median": 5.938486192483157,
+   "iqr": 1.3312130754442117
+  },
+  "tempo_var": {
+   "median": 3.7003730817084266,
+   "iqr": 8.715915321673343
+  },
+  "low_onset_rate": {
+   "median": 7.495252440253264,
+   "iqr": 1.8460312818212685
+  },
+  "lufs": {
+   "median": -9.187342593571913,
+   "iqr": 1.5001542818145523
+  },
+  "rms_dbfs": {
+   "median": -8.97980936607,
+   "iqr": 1.3476996495563203
+  },
+  "crest": {
+   "median": 8.979809761047363,
+   "iqr": 1.3476996421813965
+  },
+  "centroid": {
+   "median": 2695.855714587932,
+   "iqr": 222.6574672982465
+  },
+  "flatness": {
+   "median": 0.04919685423374176,
+   "iqr": 0.021232878789305687
+  },
+  "sub100_share": {
+   "median": 0.3347969502210617,
+   "iqr": 0.13802830502390862
+  },
+  "lowest_pitch": {
+   "median": 59.21630859375,
+   "iqr": 25.5706787109375
+  },
+  "harmonic_share": {
+   "median": 0.7452172040939331,
+   "iqr": 0.09811501204967499
+  },
+  "clean_share": {
+   "median": 0.0023273855702094647,
+   "iqr": 0.007935700798655049
+  },
+  "minor_share": {
+   "median": 0.0829494144467415,
+   "iqr": 0.12361847321066255
+  },
+  "chord_rate": {
+   "median": 2.0350992007947895,
+   "iqr": 0.37588872254279204
+  },
+  "repetitiveness": {
+   "median": 0.9384469091892242,
+   "iqr": 0.023897066712379456
+  },
+  "vocal_share": {
+   "median": 0.15621564537286758,
+   "iqr": 0.11260819248855114
+  },
+  "vocal_voiced": {
+   "median": 0.4193494326995524,
+   "iqr": 0.28658660884114856
+  },
+  "song_length": {
+   "median": 252.2535,
+   "iqr": 103.05274999999997
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.7
+ },
+ "sources_failed": []
+}

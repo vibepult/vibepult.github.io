@@ -1,0 +1,32 @@
+{
+ "id": "anvil/1710192852-105",
+ "band": "anvil",
+ "title": "Killer Hill",
+ "source": "itunes",
+ "album": "Plugged In Permanent",
+ "year": 1996,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.966591585917069,
+  "tempo_var": 8.10300668755251,
+  "low_onset_rate": 4.666596120995903,
+  "lufs": -9.56132187165579,
+  "rms_dbfs": -9.704753261895744,
+  "crest": 9.704753875732422,
+  "centroid": 3188.8840152354664,
+  "flatness": 0.0644959956407547,
+  "sub100_share": 0.26187530159950256,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.6505951881408691,
+  "clean_share": 0.027068832173240527,
+  "minor_share": 0.03269624582806391,
+  "chord_rate": 2.4332965488050067,
+  "repetitiveness": 0.929661214351654,
+  "vocal_share": 0.09337319433689117,
+  "vocal_voiced": 0.5263803680981595,
+  "song_length": 207.027
+ }
+}

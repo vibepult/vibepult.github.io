@@ -1,0 +1,125 @@
+{
+ "slug": "bloodbound",
+ "name": "Bloodbound",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 257746289,
+  "deezer": 1436484,
+  "spotify": "6nf7iwR6AoROxfUKZWd1r6"
+ },
+ "metadata": {
+  "formed": 2004,
+  "split": null,
+  "country": "SE",
+  "status": "active",
+  "members": 6,
+  "past_members": 8,
+  "full_lengths": 11,
+  "genre": "Heavy/Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 12207,
+  "themes": "Fantasy, Agony, Purgatory, Dark themes",
+  "release_year": 2009
+ },
+ "partial": false,
+ "clips": [
+  "bloodbound/307341717-105",
+  "bloodbound/307341717-106",
+  "bloodbound/307341717-104",
+  "bloodbound/307341717-107",
+  "bloodbound/307341717-103",
+  "bloodbound/307341717-108",
+  "bloodbound/307341717-102",
+  "bloodbound/307341717-109",
+  "bloodbound/307341717-101",
+  "bloodbound/307341717-110"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 120.25035511363637,
+   "iqr": 32.575871394230774
+  },
+  "onset_rate": {
+   "median": 3.2242899311448383,
+   "iqr": 1.1443723330747226
+  },
+  "tempo_var": {
+   "median": 15.955224998322311,
+   "iqr": 5.9553146287646275
+  },
+  "low_onset_rate": {
+   "median": 2.6395741405227175,
+   "iqr": 2.054858349900597
+  },
+  "lufs": {
+   "median": -9.219901601054353,
+   "iqr": 1.373133961341253
+  },
+  "rms_dbfs": {
+   "median": -9.159025361534615,
+   "iqr": 2.4960706045675476
+  },
+  "crest": {
+   "median": 9.159025192260742,
+   "iqr": 2.496070623397827
+  },
+  "centroid": {
+   "median": 2647.301644174434,
+   "iqr": 531.567353331458
+  },
+  "flatness": {
+   "median": 0.031562961637973785,
+   "iqr": 0.005583641119301319
+  },
+  "sub100_share": {
+   "median": 0.4730285108089447,
+   "iqr": 0.07808774709701538
+  },
+  "lowest_pitch": {
+   "median": 48.44970703125,
+   "iqr": 26.91650390625
+  },
+  "harmonic_share": {
+   "median": 0.8493978679180145,
+   "iqr": 0.02239319682121277
+  },
+  "clean_share": {
+   "median": 0.14468580294802172,
+   "iqr": 0.3099301784328937
+  },
+  "minor_share": {
+   "median": 0.08542471185688152,
+   "iqr": 0.13052497899725055
+  },
+  "chord_rate": {
+   "median": 1.7207350409736701,
+   "iqr": 0.6849527833001989
+  },
+  "repetitiveness": {
+   "median": 0.8983712792396545,
+   "iqr": 0.08503586053848267
+  },
+  "vocal_share": {
+   "median": 0.05442100390791893,
+   "iqr": 0.0
+  },
+  "vocal_voiced": {
+   "median": 0.7034313725490197,
+   "iqr": 0.0
+  },
+  "song_length": {
+   "median": 234.913,
+   "iqr": 45.29699999999997
+  },
+  "vocal_presence": {
+   "median": 0.1,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "thy-art-is-murder",
+ "name": "Thy Art Is Murder",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 288345578,
+  "deezer": 507954,
+  "spotify": "3et9upNERQI5IYt5jEDTxM"
+ },
+ "metadata": {
+  "formed": 2006,
+  "split": null,
+  "country": "AU",
+  "status": "active",
+  "members": 5,
+  "past_members": 8,
+  "full_lengths": 6,
+  "genre": "Deathcore",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 65048,
+  "themes": "Misogyny (early); Anti-religion, Violence, Murder, Politics",
+  "release_year": 2016
+ },
+ "partial": false,
+ "clips": [
+  "thy-art-is-murder/1702144594-106",
+  "thy-art-is-murder/1702144185-105",
+  "thy-art-is-murder/1458747233-106",
+  "thy-art-is-murder/1458860694-105",
+  "thy-art-is-murder/1458751392-105",
+  "thy-art-is-murder/1694211141-105",
+  "thy-art-is-murder/1702144594-107",
+  "thy-art-is-murder/1702144185-106",
+  "thy-art-is-murder/1458747233-105",
+  "thy-art-is-murder/1458860694-106",
+  "thy-art-is-murder/1458751392-106",
+  "thy-art-is-murder/1694211141-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 13.768048614625513
+  },
+  "onset_rate": {
+   "median": 2.3833189217298765,
+   "iqr": 3.633267297613709
+  },
+  "tempo_var": {
+   "median": 11.816784087116474,
+   "iqr": 12.500171801695958
+  },
+  "low_onset_rate": {
+   "median": 2.6333033513638426,
+   "iqr": 2.4999461082438645
+  },
+  "lufs": {
+   "median": -7.809512161647628,
+   "iqr": 1.2902680091874554
+  },
+  "rms_dbfs": {
+   "median": -7.090094188191847,
+   "iqr": 1.7001035541261968
+  },
+  "crest": {
+   "median": 7.090094566345215,
+   "iqr": 1.700103759765625
+  },
+  "centroid": {
+   "median": 2556.0669253523474,
+   "iqr": 191.51221061406932
+  },
+  "flatness": {
+   "median": 0.041941145434975624,
+   "iqr": 0.007263910956680775
+  },
+  "sub100_share": {
+   "median": 0.39663952589035034,
+   "iqr": 0.09719966351985931
+  },
+  "lowest_pitch": {
+   "median": 56.524658203125,
+   "iqr": 17.4957275390625
+  },
+  "harmonic_share": {
+   "median": 0.7471698820590973,
+   "iqr": 0.07530376315116882
+  },
+  "clean_share": {
+   "median": 0.0030935808197989174,
+   "iqr": 0.050850734725444706
+  },
+  "minor_share": {
+   "median": -0.015632890929270837,
+   "iqr": 0.13801595670052583
+  },
+  "chord_rate": {
+   "median": 2.183300328037369,
+   "iqr": 0.7999777025907637
+  },
+  "repetitiveness": {
+   "median": 0.9331885278224945,
+   "iqr": 0.02922980487346649
+  },
+  "vocal_share": {
+   "median": 0.16175556182861328,
+   "iqr": 0.09993140771985054
+  },
+  "vocal_voiced": {
+   "median": 0.16616664064300746,
+   "iqr": 0.17053760274645136
+  },
+  "song_length": {
+   "median": 246.2465,
+   "iqr": 45.980500000000006
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

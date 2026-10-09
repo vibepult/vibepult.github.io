@@ -1,0 +1,32 @@
+{
+ "id": "warmen/1691399430-106",
+ "band": "warmen",
+ "title": "Hell On Four Wheels",
+ "source": "itunes",
+ "album": "Here For None",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 5.032739903684826,
+  "tempo_var": 15.141973190876662,
+  "low_onset_rate": 5.399363340377098,
+  "lufs": -8.5473620915976,
+  "rms_dbfs": -7.391620407640184,
+  "crest": 7.39162015914917,
+  "centroid": 2534.0365819544213,
+  "flatness": 0.033652208745479584,
+  "sub100_share": 0.4256679117679596,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7407708168029785,
+  "clean_share": 0.008507347254447023,
+  "minor_share": -0.12245960371961478,
+  "chord_rate": 2.2663994268249548,
+  "repetitiveness": 0.909084677696228,
+  "vocal_share": 0.0692339837551117,
+  "vocal_voiced": 0.1386481802426343,
+  "song_length": 219.653
+ }
+}

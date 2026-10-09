@@ -1,0 +1,32 @@
+{
+ "id": "coroner/1830021398-106",
+ "band": "coroner",
+ "title": "The Law",
+ "source": "itunes",
+ "album": "Dissonance Theory",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 73.828125,
+  "onset_rate": 4.09740466733845,
+  "tempo_var": 15.615011394026379,
+  "low_onset_rate": 5.2966450577789725,
+  "lufs": -10.803388246809186,
+  "rms_dbfs": -9.91016471515133,
+  "crest": 9.910164833068848,
+  "centroid": 2443.0574589604867,
+  "flatness": 0.02786894515156746,
+  "sub100_share": 0.3789801001548767,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7673035264015198,
+  "clean_share": 0.2003093580819799,
+  "minor_share": -0.14946576395514644,
+  "chord_rate": 1.0993036912371452,
+  "repetitiveness": 0.9215136766433716,
+  "vocal_share": 0.015189104713499546,
+  "vocal_voiced": 0.0,
+  "song_length": 300.84
+ }
+}

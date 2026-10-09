@@ -1,0 +1,32 @@
+{
+ "id": "sybreed/269013928-106",
+ "band": "sybreed",
+ "title": "Neurodrive",
+ "source": "itunes",
+ "album": "Antares",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.813745575328517,
+  "tempo_var": 17.799647088368687,
+  "low_onset_rate": 5.312560611938127,
+  "lufs": -8.782946615396964,
+  "rms_dbfs": -7.9162836711779825,
+  "crest": 7.91628360748291,
+  "centroid": 2706.6489534412617,
+  "flatness": 0.05195797607302666,
+  "sub100_share": 0.5165372490882874,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6847314238548279,
+  "clean_share": 0.007757951900698216,
+  "minor_share": 0.26458777418754054,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.9305362701416016,
+  "vocal_share": 0.10488621145486832,
+  "vocal_voiced": 0.07019704433497537,
+  "song_length": 249.507
+ }
+}

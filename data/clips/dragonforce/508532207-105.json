@@ -1,0 +1,32 @@
+{
+ "id": "dragonforce/508532207-105",
+ "band": "dragonforce",
+ "title": "Wings of Liberty",
+ "source": "itunes",
+ "album": "The Power Within",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.9139825680065945,
+  "tempo_var": 13.54748456940847,
+  "low_onset_rate": 7.050001818358144,
+  "lufs": -8.468068463639009,
+  "rms_dbfs": -8.276157920726257,
+  "crest": 8.276158332824707,
+  "centroid": 2812.789585311298,
+  "flatness": 0.04443993419408798,
+  "sub100_share": 0.27125945687294006,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7649388313293457,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": -0.20610999374155559,
+  "chord_rate": 1.4367302283857828,
+  "repetitiveness": 0.7706246972084045,
+  "vocal_share": 0.260404497385025,
+  "vocal_voiced": 0.5042801556420233,
+  "song_length": 440.84
+ }
+}

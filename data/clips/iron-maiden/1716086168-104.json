@@ -1,0 +1,32 @@
+{
+ "id": "iron-maiden/1716086168-104",
+ "band": "iron-maiden",
+ "title": "The Clansman (2015 Remaster)",
+ "source": "itunes",
+ "album": "Virtual XI (2015 Remaster)",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 5.199921391966864,
+  "tempo_var": 15.205582729842249,
+  "low_onset_rate": 4.599930462124534,
+  "lufs": -22.645002060089695,
+  "rms_dbfs": -21.662906008183306,
+  "crest": 15.259719848632812,
+  "centroid": 1077.1116441788672,
+  "flatness": 0.0004889966803602874,
+  "sub100_share": 0.05395159497857094,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.9787388443946838,
+  "clean_share": 0.9930394431554525,
+  "minor_share": -0.03782305961855659,
+  "chord_rate": 1.0333177125062358,
+  "repetitiveness": 0.7043665051460266,
+  "vocal_share": 2.84658995042264e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 539.777
+ }
+}

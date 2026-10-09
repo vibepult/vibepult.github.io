@@ -1,0 +1,32 @@
+{
+ "id": "oceanhoarse/1564503784-104",
+ "band": "oceanhoarse",
+ "title": "One with the Gun",
+ "source": "itunes",
+ "album": "Dead Reckoning",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 1.336493235707705,
+  "tempo_var": 2.208965189468209,
+  "low_onset_rate": 2.606161809630025,
+  "lufs": -9.727856280745582,
+  "rms_dbfs": -8.602660229501913,
+  "crest": 8.602660179138184,
+  "centroid": 2374.4420196370775,
+  "flatness": 0.02469380758702755,
+  "sub100_share": 0.600573718547821,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8009386658668518,
+  "clean_share": 0.07447633824670287,
+  "minor_share": 0.19846558153090849,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.9007455110549927,
+  "vocal_share": 0.08912114053964615,
+  "vocal_voiced": 0.474169741697417,
+  "song_length": 190.43
+ }
+}

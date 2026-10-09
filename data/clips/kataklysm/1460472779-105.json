@@ -1,0 +1,32 @@
+{
+ "id": "kataklysm/1460472779-105",
+ "band": "kataklysm",
+ "title": "Laments of Fear and Despair",
+ "source": "itunes",
+ "album": "The Prophecy",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 1.1026069194588566,
+  "tempo_var": 10.127960062107109,
+  "low_onset_rate": 3.5417070746254184,
+  "lufs": -8.810939768331956,
+  "rms_dbfs": -9.061615167874963,
+  "crest": 9.061614990234375,
+  "centroid": 3078.478851634117,
+  "flatness": 0.05260753259062767,
+  "sub100_share": 0.397950679063797,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8056678771972656,
+  "clean_share": 0.0069821567106283944,
+  "minor_share": 0.07902062681217548,
+  "chord_rate": 2.3722754933811765,
+  "repetitiveness": 0.9341021180152893,
+  "vocal_share": 0.0483463816344738,
+  "vocal_voiced": 0.2979452054794521,
+  "song_length": 253.707
+ }
+}

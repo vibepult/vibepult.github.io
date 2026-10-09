@@ -1,0 +1,32 @@
+{
+ "id": "priestess/435046957-103",
+ "band": "priestess",
+ "title": "The Firebird",
+ "source": "itunes",
+ "album": "Prior To The Fire",
+ "year": 2009,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 4.310190685157349,
+  "tempo_var": 3.789898179888673,
+  "low_onset_rate": 3.9760673762304224,
+  "lufs": -7.506359301494448,
+  "rms_dbfs": -7.5195484312169345,
+  "crest": 7.519547939300537,
+  "centroid": 2701.569473389817,
+  "flatness": 0.03731793910264969,
+  "sub100_share": 0.10676770657300949,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.746333122253418,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": -0.03477847055851657,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.8066626191139221,
+  "vocal_share": 0.29678189754486084,
+  "vocal_voiced": 0.8110367892976589,
+  "song_length": 240.2
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "xandria/1183578584-106",
+ "band": "xandria",
+ "title": "Soulcrusher",
+ "source": "itunes",
+ "album": "Neverworld's End",
+ "year": 2012,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.733333333333333,
+  "tempo_var": 23.223674173131396,
+  "low_onset_rate": 5.933333333333334,
+  "lufs": -8.435876962313822,
+  "rms_dbfs": -8.040545039707233,
+  "crest": 8.040545463562012,
+  "centroid": 2507.681086386911,
+  "flatness": 0.03419749438762665,
+  "sub100_share": 0.33170631527900696,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.7627533078193665,
+  "clean_share": 0.02476780185758514,
+  "minor_share": 0.1616489746585142,
+  "chord_rate": 1.6,
+  "repetitiveness": 0.8282392024993896,
+  "vocal_share": 0.18957491219043732,
+  "vocal_voiced": 0.6775580395528805,
+  "song_length": 371.533
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "nightwish/1669946698-105",
+ "band": "nightwish",
+ "title": "Passion and the Opera",
+ "source": "itunes",
+ "album": "Oceanborn",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.9784373030112015,
+  "tempo_var": 2.3188328202410697,
+  "low_onset_rate": 7.250475803714299,
+  "lufs": -7.137209122247292,
+  "rms_dbfs": -7.277492605055842,
+  "crest": 7.277493000030518,
+  "centroid": 2951.181702941476,
+  "flatness": 0.06033879145979881,
+  "sub100_share": 0.3270036280155182,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7980929017066956,
+  "clean_share": 0.0,
+  "minor_share": 0.1902889759074281,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.8277081847190857,
+  "vocal_share": 0.15663619339466095,
+  "vocal_voiced": 0.8053097345132744,
+  "song_length": 288.827
+ }
+}

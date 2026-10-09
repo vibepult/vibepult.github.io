@@ -1,0 +1,32 @@
+{
+ "id": "ultar/1622740565-103",
+ "band": "ultar",
+ "title": "Shores of the Sleeping Seas",
+ "source": "itunes",
+ "album": "Kadath",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 5.045261964796587,
+  "tempo_var": 3.973257244883508,
+  "low_onset_rate": 8.820855355670853,
+  "lufs": -20.081281489835792,
+  "rms_dbfs": -19.328393746279986,
+  "crest": 14.309139251708984,
+  "centroid": 1361.4912612752862,
+  "flatness": 0.004287298768758774,
+  "sub100_share": 0.06813661009073257,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8945921063423157,
+  "clean_share": 0.6811481768813034,
+  "minor_share": -0.00034261539676982977,
+  "chord_rate": 0.33412330892692627,
+  "repetitiveness": 0.9468275308609009,
+  "vocal_share": 1.3251423069959856e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 167.227
+ }
+}

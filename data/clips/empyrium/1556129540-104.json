@@ -1,0 +1,32 @@
+{
+ "id": "empyrium/1556129540-104",
+ "band": "empyrium",
+ "title": "Fortgang",
+ "source": "itunes",
+ "album": "Weiland",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.374645420161955,
+  "tempo_var": 6.413874010308237,
+  "low_onset_rate": 3.174171434805799,
+  "lufs": -15.835174926849959,
+  "rms_dbfs": -14.924253379797676,
+  "crest": 14.924253463745117,
+  "centroid": 852.9420032007273,
+  "flatness": 0.0010402119951322675,
+  "sub100_share": 0.039128925651311874,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.9635240435600281,
+  "clean_share": 0.9511249030256013,
+  "minor_share": 0.003947284256549,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.6407492756843567,
+  "vocal_share": 0.12408029288053513,
+  "vocal_voiced": 0.9664268585131894,
+  "song_length": 431.6
+ }
+}

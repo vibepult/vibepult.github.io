@@ -1,0 +1,32 @@
+{
+ "id": "sleep/272772755-103",
+ "band": "sleep",
+ "title": "Numb",
+ "source": "itunes",
+ "album": "Volume One",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 2.9068727876642586,
+  "tempo_var": 24.102727121497676,
+  "low_onset_rate": 6.214693546040828,
+  "lufs": -12.169074555066299,
+  "rms_dbfs": -11.186472732114796,
+  "crest": 11.186471939086914,
+  "centroid": 2094.4431803092334,
+  "flatness": 0.013614524155855179,
+  "sub100_share": 0.3137824237346649,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8345655798912048,
+  "clean_share": 0.2373933281613654,
+  "minor_share": -0.07885285569894418,
+  "chord_rate": 2.0047398535615577,
+  "repetitiveness": 0.799690842628479,
+  "vocal_share": 0.06182446703314781,
+  "vocal_voiced": 0.41139240506329117,
+  "song_length": 210.293
+ }
+}

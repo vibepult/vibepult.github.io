@@ -1,0 +1,32 @@
+{
+ "id": "angel-witch/967291256-105",
+ "band": "angel-witch",
+ "title": "Witching Hour",
+ "source": "itunes",
+ "album": "As Above, So Below",
+ "year": 2012,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.9784373030112015,
+  "tempo_var": 24.39036795766115,
+  "low_onset_rate": 6.548816854967755,
+  "lufs": -7.160706775364178,
+  "rms_dbfs": -6.677617067067825,
+  "crest": 6.677617073059082,
+  "centroid": 2625.1257635609823,
+  "flatness": 0.042007043957710266,
+  "sub100_share": 0.3699471950531006,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7675737142562866,
+  "clean_share": 0.019394879751745538,
+  "minor_share": 0.015129814642459327,
+  "chord_rate": 2.338863162488484,
+  "repetitiveness": 0.9109296202659607,
+  "vocal_share": 0.19079221785068512,
+  "vocal_voiced": 0.7145631067961165,
+  "song_length": 349.84
+ }
+}

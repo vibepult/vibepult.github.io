@@ -1,0 +1,32 @@
+{
+ "id": "coldseed/1460470424-106",
+ "band": "coldseed",
+ "title": "Low",
+ "source": "itunes",
+ "album": "Completion Makes the Tragedy",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.009479707123115,
+  "tempo_var": 3.0700922866320988,
+  "low_onset_rate": 0.4009479707123115,
+  "lufs": -9.671413762913437,
+  "rms_dbfs": -8.262448773858166,
+  "crest": 8.262449264526367,
+  "centroid": 2088.703242115592,
+  "flatness": 0.02049281820654869,
+  "sub100_share": 0.5694519281387329,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.8227711319923401,
+  "clean_share": 0.26144297905352987,
+  "minor_share": 0.1800659307275594,
+  "chord_rate": 1.9379151917761723,
+  "repetitiveness": 0.9119047522544861,
+  "vocal_share": 5.968108780507464e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 243.592
+ }
+}

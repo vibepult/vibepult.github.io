@@ -1,0 +1,32 @@
+{
+ "id": "jesu/1290392740-103",
+ "band": "jesu",
+ "title": "Every Day I Get Closer to the Light from Which I Came",
+ "source": "itunes",
+ "album": "Every Day I Get Closer to the Light from Which I Came",
+ "year": 2013,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.9092427144450372,
+  "tempo_var": 1.2149349389942858,
+  "low_onset_rate": 5.9139825680065945,
+  "lufs": -8.541439128873062,
+  "rms_dbfs": -6.749153166100522,
+  "crest": 6.7491536140441895,
+  "centroid": 1257.9435573937176,
+  "flatness": 0.004071216564625502,
+  "sub100_share": 0.4761688709259033,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.8529822826385498,
+  "clean_share": 0.8192397207137315,
+  "minor_share": -0.19267174287333588,
+  "chord_rate": 0.5011849633903894,
+  "repetitiveness": 0.7681345343589783,
+  "vocal_share": 7.145573590605636e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 452.5
+ }
+}

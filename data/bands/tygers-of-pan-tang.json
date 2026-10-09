@@ -1,0 +1,127 @@
+{
+ "slug": "tygers-of-pan-tang",
+ "name": "Tygers of Pan Tang",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 3222883,
+  "deezer": 183006,
+  "spotify": "1MZ8NERIuOS610KBhr6yna"
+ },
+ "metadata": {
+  "formed": 1978,
+  "split": null,
+  "country": "GB",
+  "status": "active",
+  "members": 5,
+  "past_members": 19,
+  "full_lengths": 14,
+  "genre": "NWOBHM/Heavy Metal (early); Hard Rock/AOR (mid); Heavy Metal (later)",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 7621,
+  "themes": "Life, Partying, Love, Metal",
+  "release_year": 1983
+ },
+ "partial": false,
+ "clips": [
+  "tygers-of-pan-tang/1443734834-106",
+  "tygers-of-pan-tang/1443851992-105",
+  "tygers-of-pan-tang/1443728342-105",
+  "tygers-of-pan-tang/1605832331-105",
+  "tygers-of-pan-tang/277664819-105",
+  "tygers-of-pan-tang/1765134311-106",
+  "tygers-of-pan-tang/563536305-106",
+  "tygers-of-pan-tang/1479389341-106",
+  "tygers-of-pan-tang/1655648306-105",
+  "tygers-of-pan-tang/1443734834-105",
+  "tygers-of-pan-tang/1443851992-104",
+  "tygers-of-pan-tang/1443728342-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 19.822014526341803
+  },
+  "onset_rate": {
+   "median": 4.193247527032924,
+   "iqr": 1.3448463184308777
+  },
+  "tempo_var": {
+   "median": 3.2118963048629805,
+   "iqr": 6.503218655033468
+  },
+  "low_onset_rate": {
+   "median": 5.613271589972362,
+   "iqr": 2.336115504366941
+  },
+  "lufs": {
+   "median": -9.396915002404754,
+   "iqr": 2.21082932651165
+  },
+  "rms_dbfs": {
+   "median": -8.957403715860595,
+   "iqr": 2.339526202952282
+  },
+  "crest": {
+   "median": 8.957403659820557,
+   "iqr": 2.339526891708374
+  },
+  "centroid": {
+   "median": 2375.232638540159,
+   "iqr": 313.9695953433629
+  },
+  "flatness": {
+   "median": 0.02172847930341959,
+   "iqr": 0.012518299976363778
+  },
+  "sub100_share": {
+   "median": 0.22206361591815948,
+   "iqr": 0.09098289161920547
+  },
+  "lowest_pitch": {
+   "median": 59.21630859375,
+   "iqr": 28.2623291015625
+  },
+  "harmonic_share": {
+   "median": 0.7360755503177643,
+   "iqr": 0.06458774209022522
+  },
+  "clean_share": {
+   "median": 0.13227307990690457,
+   "iqr": 0.11132660977501938
+  },
+  "minor_share": {
+   "median": 0.03486007514596012,
+   "iqr": 0.18282161055015606
+  },
+  "chord_rate": {
+   "median": 1.553673386510207,
+   "iqr": 0.35918255709644575
+  },
+  "repetitiveness": {
+   "median": 0.8496856391429901,
+   "iqr": 0.2104703187942505
+  },
+  "vocal_share": {
+   "median": 0.23720509558916092,
+   "iqr": 0.1320982351899147
+  },
+  "vocal_voiced": {
+   "median": 0.8048627871636722,
+   "iqr": 0.1666014248414237
+  },
+  "song_length": {
+   "median": 260.171,
+   "iqr": 40.33975000000004
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

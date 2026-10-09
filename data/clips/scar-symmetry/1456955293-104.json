@@ -1,0 +1,32 @@
+{
+ "id": "scar-symmetry/1456955293-104",
+ "band": "scar-symmetry",
+ "title": "Cryonic Harvest",
+ "source": "itunes",
+ "album": "The Singularity (Phase I - Neohumanity)",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.911612641225816,
+  "tempo_var": 15.527942808544617,
+  "low_onset_rate": 2.205213838917713,
+  "lufs": -8.64790088395504,
+  "rms_dbfs": -8.54397281111771,
+  "crest": 8.543972969055176,
+  "centroid": 1961.2700424047239,
+  "flatness": 0.012678505852818489,
+  "sub100_share": 0.38193660974502563,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.895540714263916,
+  "clean_share": 0.23273855702094648,
+  "minor_share": 0.06903544250893956,
+  "chord_rate": 0.7684836105319304,
+  "repetitiveness": 0.7994855642318726,
+  "vocal_share": 0.0043741618283092976,
+  "vocal_voiced": 0.8992628992628993,
+  "song_length": 372.987
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "into-the-fray/1570799566-107",
+ "band": "into-the-fray",
+ "title": "Cold Front",
+ "source": "itunes",
+ "album": "Into the Fray",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.6753563981961888,
+  "tempo_var": 1.5942146448784362,
+  "low_onset_rate": 6.314930538718906,
+  "lufs": -6.8965467897921275,
+  "rms_dbfs": -6.194729095124227,
+  "crest": 6.194728851318359,
+  "centroid": 2566.6967288442247,
+  "flatness": 0.03757119178771973,
+  "sub100_share": 0.39916539192199707,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.7209908366203308,
+  "clean_share": 0.026377036462373934,
+  "minor_share": 0.045910042862464695,
+  "chord_rate": 1.3030809048150125,
+  "repetitiveness": 0.9062091708183289,
+  "vocal_share": 0.13085050880908966,
+  "vocal_voiced": 0.2017738359201774,
+  "song_length": 441.806
+ }
+}

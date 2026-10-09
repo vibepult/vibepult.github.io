@@ -1,0 +1,32 @@
+{
+ "id": "isis/368094228-106",
+ "band": "isis",
+ "title": "Deconstructing Towers",
+ "source": "itunes",
+ "album": "Celestial",
+ "year": 2000,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 5.078674295689279,
+  "tempo_var": 15.2673438596012,
+  "low_onset_rate": 4.945024972118508,
+  "lufs": -9.441918415084935,
+  "rms_dbfs": -8.146254115891521,
+  "crest": 8.14625358581543,
+  "centroid": 2358.4875285632197,
+  "flatness": 0.020249107852578163,
+  "sub100_share": 0.5972715020179749,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7885989546775818,
+  "clean_share": 0.09464701318851823,
+  "minor_share": 0.18645569437674314,
+  "chord_rate": 1.971327522668865,
+  "repetitiveness": 0.8649647235870361,
+  "vocal_share": 5.13415898240055e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 450.345
+ }
+}

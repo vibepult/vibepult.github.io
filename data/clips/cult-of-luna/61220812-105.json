@@ -1,0 +1,32 @@
+{
+ "id": "cult-of-luna/61220812-105",
+ "band": "cult-of-luna",
+ "title": "Adrift",
+ "source": "itunes",
+ "album": "Salvation",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 4.310190685157349,
+  "tempo_var": 1.5737387516497936,
+  "low_onset_rate": 4.9784373030112015,
+  "lufs": -7.279609639779575,
+  "rms_dbfs": -6.053832651877969,
+  "crest": 6.0538330078125,
+  "centroid": 2096.23249711209,
+  "flatness": 0.016342950984835625,
+  "sub100_share": 0.41400909423828125,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8644285798072815,
+  "clean_share": 0.01008533747090768,
+  "minor_share": 0.08204392622872025,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.7421309351921082,
+  "vocal_share": 0.06652820110321045,
+  "vocal_voiced": 0.4533029612756264,
+  "song_length": 439.773
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "dokken/1435852407-106",
+ "band": "dokken",
+ "title": "Care for You",
+ "source": "itunes",
+ "album": "Hell to Pay",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.566666666666667,
+  "tempo_var": 0.0,
+  "low_onset_rate": 2.6,
+  "lufs": -11.093650292579918,
+  "rms_dbfs": -9.6181606638488,
+  "crest": 9.618160247802734,
+  "centroid": 1708.637941199215,
+  "flatness": 0.006495737936347723,
+  "sub100_share": 0.4586620032787323,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8802233338356018,
+  "clean_share": 0.6431888544891641,
+  "minor_share": -0.08628034295963649,
+  "chord_rate": 0.9,
+  "repetitiveness": 0.6190701127052307,
+  "vocal_share": 0.18276388943195343,
+  "vocal_voiced": 0.9159763313609467,
+  "song_length": 251.667
+ }
+}

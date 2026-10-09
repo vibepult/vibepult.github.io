@@ -1,0 +1,32 @@
+{
+ "id": "overkill/1713522159-105",
+ "band": "overkill",
+ "title": "Half Past Dead",
+ "source": "itunes",
+ "album": "From the Underground and Below",
+ "year": 1997,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.099938020589258,
+  "tempo_var": 16.536038532593388,
+  "low_onset_rate": 6.03324212785899,
+  "lufs": -11.727028697151711,
+  "rms_dbfs": -10.152788380597277,
+  "crest": 10.152788162231445,
+  "centroid": 1940.1314671085333,
+  "flatness": 0.01024714671075344,
+  "sub100_share": 0.5064266324043274,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.89059978723526,
+  "clean_share": 0.5839133797370456,
+  "minor_share": -0.0140120907100163,
+  "chord_rate": 1.199981859684661,
+  "repetitiveness": 0.7026376128196716,
+  "vocal_share": 0.023354066535830498,
+  "vocal_voiced": 1.0,
+  "song_length": 330.187
+ }
+}

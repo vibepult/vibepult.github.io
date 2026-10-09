@@ -1,0 +1,32 @@
+{
+ "id": "hellyeah/219986867-106",
+ "band": "hellyeah",
+ "title": "GodDamn",
+ "source": "itunes",
+ "album": "HELLYEAH",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 75.99954044117646,
+  "onset_rate": 4.563520838243025,
+  "tempo_var": 20.94634648278369,
+  "low_onset_rate": 6.229039392346319,
+  "lufs": -6.540230907600237,
+  "rms_dbfs": -6.400736586208887,
+  "crest": 6.4007368087768555,
+  "centroid": 2665.3131255469602,
+  "flatness": 0.041191283613443375,
+  "sub100_share": 0.37801387906074524,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.7017028331756592,
+  "clean_share": 0.0015467904098994587,
+  "minor_share": -0.058752470659812595,
+  "chord_rate": 2.6315193154832044,
+  "repetitiveness": 0.9165785908699036,
+  "vocal_share": 0.14794950187206268,
+  "vocal_voiced": 0.12027833001988071,
+  "song_length": 200.587
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "electric-wizard/965386233-105",
+ "band": "electric-wizard",
+ "title": "Son of Nothing",
+ "source": "itunes",
+ "album": "Come My Fanatics...",
+ "year": 1997,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.1666187963900776,
+  "tempo_var": 2.598322584154472,
+  "low_onset_rate": 7.466553793593445,
+  "lufs": -6.3102352328254865,
+  "rms_dbfs": -5.271387655639364,
+  "crest": 5.271387577056885,
+  "centroid": 3056.1712488320572,
+  "flatness": 0.027399539947509766,
+  "sub100_share": 0.40535295009613037,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.9261607527732849,
+  "clean_share": 0.0007733952049497294,
+  "minor_share": -0.08680259209684404,
+  "chord_rate": 1.0333177125062358,
+  "repetitiveness": 0.7627680897712708,
+  "vocal_share": 0.0007344440091401339,
+  "vocal_voiced": 0.0,
+  "song_length": 405.227
+ }
+}

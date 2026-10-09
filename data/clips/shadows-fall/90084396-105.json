@@ -1,0 +1,32 @@
+{
+ "id": "shadows-fall/90084396-105",
+ "band": "shadows-fall",
+ "title": "Nurture",
+ "source": "itunes",
+ "album": "Somber Eyes to the Sky",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 6.515404524075062,
+  "tempo_var": 7.910264925503532,
+  "low_onset_rate": 5.9139825680065945,
+  "lufs": -13.333321635703765,
+  "rms_dbfs": -11.795979706952952,
+  "crest": 11.795979499816895,
+  "centroid": 2078.3084059992552,
+  "flatness": 0.019242800772190094,
+  "sub100_share": 0.48034876585006714,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.5572099685668945,
+  "clean_share": 0.11481768813033359,
+  "minor_share": 0.07880925952612775,
+  "chord_rate": 2.2720385007030983,
+  "repetitiveness": 0.9404390454292297,
+  "vocal_share": 0.17043225467205048,
+  "vocal_voiced": 0.05009633911368015,
+  "song_length": 316.867
+ }
+}

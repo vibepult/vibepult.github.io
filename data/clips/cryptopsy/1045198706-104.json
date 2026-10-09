@@ -1,0 +1,32 @@
+{
+ "id": "cryptopsy/1045198706-104",
+ "band": "cryptopsy",
+ "title": "White Worms",
+ "source": "itunes",
+ "album": "Whisper Supremacy",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 2.67298647141541,
+  "tempo_var": 16.80199583582943,
+  "low_onset_rate": 4.5106646705135045,
+  "lufs": -8.327937168108747,
+  "rms_dbfs": -8.222812170483781,
+  "crest": 8.222811698913574,
+  "centroid": 2729.180738228594,
+  "flatness": 0.04066481068730354,
+  "sub100_share": 0.3463517129421234,
+  "lowest_pitch": 188.41552734375,
+  "harmonic_share": 0.7664380073547363,
+  "clean_share": 0.004654771140418929,
+  "minor_share": -0.14810131163242096,
+  "chord_rate": 2.840048125878873,
+  "repetitiveness": 0.9456276297569275,
+  "vocal_share": 0.12547354400157928,
+  "vocal_voiced": 0.08840413318025259,
+  "song_length": 221.573
+ }
+}

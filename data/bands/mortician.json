@@ -1,0 +1,127 @@
+{
+ "slug": "mortician",
+ "name": "Mortician",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 75088299,
+  "deezer": 14704,
+  "spotify": "34PPy9Ut9m8qB8BnmCiVmO"
+ },
+ "metadata": {
+  "formed": 1989,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 2,
+  "past_members": 6,
+  "full_lengths": 6,
+  "genre": "Brutal Death Metal/Grindcore",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 10562,
+  "themes": "Gore, Death, Violence, Horror films",
+  "release_year": 2002
+ },
+ "partial": false,
+ "clips": [
+  "mortician/77600649-110",
+  "mortician/77646417-111",
+  "mortician/1596992764-111",
+  "mortician/77600649-113",
+  "mortician/77646417-113",
+  "mortician/1596992764-110",
+  "mortician/77600649-108",
+  "mortician/77646417-110",
+  "mortician/1596992764-112",
+  "mortician/77600649-114",
+  "mortician/77646417-115",
+  "mortician/1596992764-108"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 7.131125710227266
+  },
+  "onset_rate": {
+   "median": 4.9784373030112015,
+   "iqr": 2.5142778996751196
+  },
+  "tempo_var": {
+   "median": 4.022716098823102,
+   "iqr": 10.519924184051241
+  },
+  "low_onset_rate": {
+   "median": 8.403201219512194,
+   "iqr": 1.7625004545895369
+  },
+  "lufs": {
+   "median": -12.308419642026706,
+   "iqr": 3.088011852486119
+  },
+  "rms_dbfs": {
+   "median": -10.337513527277029,
+   "iqr": 3.8187266262492994
+  },
+  "crest": {
+   "median": 10.337513446807861,
+   "iqr": 3.8187270164489746
+  },
+  "centroid": {
+   "median": 2234.8231162450584,
+   "iqr": 366.6006862985769
+  },
+  "flatness": {
+   "median": 0.017246360890567303,
+   "iqr": 0.00874913134612143
+  },
+  "sub100_share": {
+   "median": 0.5283686518669128,
+   "iqr": 0.24363622069358826
+  },
+  "lowest_pitch": {
+   "median": 51.141357421875,
+   "iqr": 30.9539794921875
+  },
+  "harmonic_share": {
+   "median": 0.8115093410015106,
+   "iqr": 0.08224606513977051
+  },
+  "clean_share": {
+   "median": 0.2265321955003879,
+   "iqr": 0.3353374709076804
+  },
+  "minor_share": {
+   "median": 0.06933715786950986,
+   "iqr": 0.1864541873826725
+  },
+  "chord_rate": {
+   "median": 2.5894556441836785,
+   "iqr": 0.5680096251757747
+  },
+  "repetitiveness": {
+   "median": 0.8851589560508728,
+   "iqr": 0.06906245648860931
+  },
+  "vocal_share": {
+   "median": 0.0709022656083107,
+   "iqr": 0.08335293084383011
+  },
+  "vocal_voiced": {
+   "median": 0.4123422159887798,
+   "iqr": 0.28287498024340124
+  },
+  "song_length": {
+   "median": 156.8265,
+   "iqr": 75.3065
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.5
+ },
+ "sources_failed": []
+}

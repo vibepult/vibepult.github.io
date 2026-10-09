@@ -1,0 +1,32 @@
+{
+ "id": "havok/1659209643-106",
+ "band": "havok",
+ "title": "Killing Tendencies",
+ "source": "itunes",
+ "album": "Time Is Up",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 3.2,
+  "tempo_var": 26.166240349756674,
+  "low_onset_rate": 5.6,
+  "lufs": -9.015806509312215,
+  "rms_dbfs": -8.566493188042122,
+  "crest": 8.566493034362793,
+  "centroid": 2702.8421708252863,
+  "flatness": 0.0376572348177433,
+  "sub100_share": 0.4098302721977234,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7859212160110474,
+  "clean_share": 0.029411764705882353,
+  "minor_share": 0.11243569732250469,
+  "chord_rate": 1.8666666666666667,
+  "repetitiveness": 0.8917523622512817,
+  "vocal_share": 0.02946966327726841,
+  "vocal_voiced": 0.36363636363636365,
+  "song_length": 332.093
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "baron-rojo/911207029-105",
+ "band": "baron-rojo",
+ "title": "Siempre Estás Allí",
+ "source": "itunes",
+ "album": "Metalmorfosis",
+ "year": 1983,
+ "itunes_year": 1983,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.664345637457151,
+  "tempo_var": 13.856090831352516,
+  "low_onset_rate": 3.4977844721181897,
+  "lufs": -16.397192611083145,
+  "rms_dbfs": -16.018300048968875,
+  "crest": 16.018299102783203,
+  "centroid": 1717.8639333428669,
+  "flatness": 0.008155744522809982,
+  "sub100_share": 0.1043759137392044,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.8602822422981262,
+  "clean_share": 0.6558391337973705,
+  "minor_share": -0.1341577651484428,
+  "chord_rate": 1.065991458169353,
+  "repetitiveness": 0.6463624238967896,
+  "vocal_share": 0.32912012934684753,
+  "vocal_voiced": 0.9119433198380567,
+  "song_length": 389.0
+ }
+}

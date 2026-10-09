@@ -1,0 +1,127 @@
+{
+ "slug": "acid-bath",
+ "name": "Acid Bath",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 125351413,
+  "deezer": 7279,
+  "spotify": "3n5jeTRWZEbTPJWyHSYUqn"
+ },
+ "metadata": {
+  "formed": 1991,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 3,
+  "past_members": 4,
+  "full_lengths": 2,
+  "genre": "Sludge/Doom Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 15127,
+  "themes": "Death, Abortion, Drugs, Dark humour, Doom, Love, Insanity, Suicide",
+  "release_year": 1995
+ },
+ "partial": false,
+ "clips": [
+  "acid-bath/351783461-107",
+  "acid-bath/380187344-105",
+  "acid-bath/351783461-108",
+  "acid-bath/380187344-107",
+  "acid-bath/351783461-106",
+  "acid-bath/380187344-104",
+  "acid-bath/351783461-109",
+  "acid-bath/380187344-108",
+  "acid-bath/351783461-105",
+  "acid-bath/380187344-103",
+  "acid-bath/351783461-110",
+  "acid-bath/380187344-109"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 47.95935325164764
+  },
+  "onset_rate": {
+   "median": 3.0166484254063466,
+   "iqr": 2.083320735777864
+  },
+  "tempo_var": {
+   "median": 14.151617891769554,
+   "iqr": 10.120765940154953
+  },
+  "low_onset_rate": {
+   "median": 2.8166496347716716,
+   "iqr": 2.941648878918344
+  },
+  "lufs": {
+   "median": -11.105345364833777,
+   "iqr": 7.069843028769686
+  },
+  "rms_dbfs": {
+   "median": -11.373332848050158,
+   "iqr": 6.071621306429289
+  },
+  "crest": {
+   "median": 11.37333345413208,
+   "iqr": 4.530275344848633
+  },
+  "centroid": {
+   "median": 2487.397151078272,
+   "iqr": 629.1347668318667
+  },
+  "flatness": {
+   "median": 0.02330733649432659,
+   "iqr": 0.031921386951580644
+  },
+  "sub100_share": {
+   "median": 0.3084166496992111,
+   "iqr": 0.1508111208677292
+  },
+  "lowest_pitch": {
+   "median": 86.1328125,
+   "iqr": 72.00164794921875
+  },
+  "harmonic_share": {
+   "median": 0.7459653615951538,
+   "iqr": 0.21920426189899445
+  },
+  "clean_share": {
+   "median": 0.2896365042536736,
+   "iqr": 0.5106341840680587
+  },
+  "minor_share": {
+   "median": -0.006425411552976851,
+   "iqr": 0.1758682262267135
+  },
+  "chord_rate": {
+   "median": 1.849988813370743,
+   "iqr": 1.224992592637384
+  },
+  "repetitiveness": {
+   "median": 0.8219167292118073,
+   "iqr": 0.2193092405796051
+  },
+  "vocal_share": {
+   "median": 0.05031544901430607,
+   "iqr": 0.0366797111928463
+  },
+  "vocal_voiced": {
+   "median": 0.5223233566554375,
+   "iqr": 0.6222250922941188
+  },
+  "song_length": {
+   "median": 300.9865,
+   "iqr": 81.86650000000003
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

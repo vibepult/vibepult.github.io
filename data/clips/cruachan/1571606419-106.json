@@ -1,0 +1,32 @@
+{
+ "id": "cruachan/1571606419-106",
+ "band": "cruachan",
+ "title": "Spancill Hill",
+ "source": "itunes",
+ "album": "Folk-Lore",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 2.205213838917713,
+  "tempo_var": 18.295174806397895,
+  "low_onset_rate": 4.343603016050041,
+  "lufs": -12.710471637624929,
+  "rms_dbfs": -13.815244186963149,
+  "crest": 13.815244674682617,
+  "centroid": 2101.6014182514714,
+  "flatness": 0.015103127807378769,
+  "sub100_share": 0.0009016568656079471,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.9349570870399475,
+  "clean_share": 0.6974398758727696,
+  "minor_share": 0.0029506174070382807,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.44120800495147705,
+  "vocal_share": 0.27172207832336426,
+  "vocal_voiced": 0.8793650793650793,
+  "song_length": 360.627
+ }
+}

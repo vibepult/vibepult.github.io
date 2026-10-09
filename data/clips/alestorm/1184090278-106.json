@@ -1,0 +1,32 @@
+{
+ "id": "alestorm/1184090278-106",
+ "band": "alestorm",
+ "title": "Black Sails at Midnight",
+ "source": "itunes",
+ "album": "Black Sails at Midnight",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.866666666666666,
+  "tempo_var": 2.338852219001213,
+  "low_onset_rate": 7.2,
+  "lufs": -7.395535011055924,
+  "rms_dbfs": -7.106411886932497,
+  "crest": 7.106411933898926,
+  "centroid": 2822.0928027879295,
+  "flatness": 0.04989992454648018,
+  "sub100_share": 0.3169742524623871,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.6887019276618958,
+  "clean_share": 0.0,
+  "minor_share": 0.16163893994902945,
+  "chord_rate": 1.8666666666666667,
+  "repetitiveness": 0.9282349944114685,
+  "vocal_share": 0.1464867889881134,
+  "vocal_voiced": 0.09195402298850575,
+  "song_length": 210.987
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "balance-of-power/1221992944-105",
+ "band": "balance-of-power",
+ "title": "The Pleasure Room",
+ "source": "itunes",
+ "album": "Perfect Balance",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 1.336493235707705,
+  "tempo_var": 13.773336420958053,
+  "low_onset_rate": 1.9379151917761723,
+  "lufs": -22.436096824942727,
+  "rms_dbfs": -23.060843125581595,
+  "crest": 18.721046447753906,
+  "centroid": 2151.8162525841462,
+  "flatness": 0.02713306061923504,
+  "sub100_share": 0.026967938989400864,
+  "lowest_pitch": 180.340576171875,
+  "harmonic_share": 0.9354712963104248,
+  "clean_share": 0.5182311869666408,
+  "minor_share": 0.14880407543329432,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.5991135239601135,
+  "vocal_share": 0.058356497436761856,
+  "vocal_voiced": 0.5265306122448979,
+  "song_length": 363.88
+ }
+}

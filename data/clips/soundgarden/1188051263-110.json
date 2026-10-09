@@ -1,0 +1,32 @@
+{
+ "id": "soundgarden/1188051263-110",
+ "band": "soundgarden",
+ "title": "Nazi Driver",
+ "source": "itunes",
+ "album": "Ultramega OK (Expanded Reissue)",
+ "year": 1988,
+ "itunes_year": 1988,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.766579492373509,
+  "tempo_var": 11.43275954709283,
+  "low_onset_rate": 6.866562863751115,
+  "lufs": -10.191279348859215,
+  "rms_dbfs": -9.386388080863341,
+  "crest": 9.386387825012207,
+  "centroid": 2331.330277281475,
+  "flatness": 0.022564878687262535,
+  "sub100_share": 0.40972524881362915,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7988212704658508,
+  "clean_share": 0.13225058004640372,
+  "minor_share": 0.14540125151270725,
+  "chord_rate": 2.3332980604979516,
+  "repetitiveness": 0.9362524151802063,
+  "vocal_share": 0.2060059756040573,
+  "vocal_voiced": 0.8522537562604341,
+  "song_length": 232.3
+ }
+}

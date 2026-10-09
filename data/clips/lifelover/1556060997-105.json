@@ -1,0 +1,32 @@
+{
+ "id": "lifelover/1556060997-105",
+ "band": "lifelover",
+ "title": "Konvulsion",
+ "source": "itunes",
+ "album": "Konkurs",
+ "year": 2008,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.599945579053983,
+  "tempo_var": 2.2385125532948607,
+  "low_onset_rate": 5.599915345195084,
+  "lufs": -7.233255965832515,
+  "rms_dbfs": -7.3316343346602055,
+  "crest": 7.331634044647217,
+  "centroid": 2155.3267515799052,
+  "flatness": 0.013677801005542278,
+  "sub100_share": 0.20566818118095398,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.9071744680404663,
+  "clean_share": 0.019334880123743233,
+  "minor_share": -0.18957408723365643,
+  "chord_rate": 1.0333177125062358,
+  "repetitiveness": 0.8117703199386597,
+  "vocal_share": 0.005868933163583279,
+  "vocal_voiced": 1.0,
+  "song_length": 193.053
+ }
+}

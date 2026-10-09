@@ -1,0 +1,32 @@
+{
+ "id": "angra/1328534515-106",
+ "band": "angra",
+ "title": "War Horns",
+ "source": "itunes",
+ "album": "ØMNI",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 2.3722754933811765,
+  "tempo_var": 13.165595674867076,
+  "low_onset_rate": 3.94265504533773,
+  "lufs": -8.645627986562964,
+  "rms_dbfs": -7.887123897610321,
+  "crest": 7.887124061584473,
+  "centroid": 2078.8379139440044,
+  "flatness": 0.024564292281866074,
+  "sub100_share": 0.3434770703315735,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7882888317108154,
+  "clean_share": 0.09619860356865788,
+  "minor_share": -0.18018758522268324,
+  "chord_rate": 2.338863162488484,
+  "repetitiveness": 0.931792140007019,
+  "vocal_share": 0.07669480890035629,
+  "vocal_voiced": 0.02866779089376054,
+  "song_length": 283.213
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "anata/163531383-105",
+ "band": "anata",
+ "title": "Cold Heart Forged In Hell",
+ "source": "itunes",
+ "album": "The Conductor's Departure",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 7.250475803714299,
+  "tempo_var": 0.7603849007677589,
+  "low_onset_rate": 7.283888134606992,
+  "lufs": -9.875227691764538,
+  "rms_dbfs": -9.604492825926798,
+  "crest": 9.604493141174316,
+  "centroid": 2426.90173307868,
+  "flatness": 0.026645218953490257,
+  "sub100_share": 0.23744893074035645,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7614036202430725,
+  "clean_share": 0.04654771140418929,
+  "minor_share": 0.03769205138991549,
+  "chord_rate": 2.7063988023081027,
+  "repetitiveness": 0.9047099351882935,
+  "vocal_share": 0.00108101568184793,
+  "vocal_voiced": 1.0,
+  "song_length": 299.96
+ }
+}

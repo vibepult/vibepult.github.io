@@ -1,0 +1,32 @@
+{
+ "id": "neurotech/1003654427-104",
+ "band": "neurotech",
+ "title": "Built to Last",
+ "source": "itunes",
+ "album": "Stigma",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 6.949764825680066,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.045261964796587,
+  "lufs": -10.663850481483756,
+  "rms_dbfs": -8.535691910024667,
+  "crest": 8.53569221496582,
+  "centroid": 2265.363410390544,
+  "flatness": 0.021282313391566277,
+  "sub100_share": 0.6521216034889221,
+  "lowest_pitch": 32.2998046875,
+  "harmonic_share": 0.7716570496559143,
+  "clean_share": 0.20791311093871218,
+  "minor_share": 0.17651064248713955,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.9420966506004333,
+  "vocal_share": 0.01372288167476654,
+  "vocal_voiced": 0.6625766871165644,
+  "song_length": 374.5
+ }
+}

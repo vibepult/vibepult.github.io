@@ -1,0 +1,32 @@
+{
+ "id": "saint-vitus/592884061-104",
+ "band": "saint-vitus",
+ "title": "Blessed Night",
+ "source": "itunes",
+ "album": "Lillie: F-65",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.644313994084275,
+  "tempo_var": 16.825136880326024,
+  "low_onset_rate": 6.047631891577365,
+  "lufs": -9.24572385540234,
+  "rms_dbfs": -7.98325980365719,
+  "crest": 7.983260154724121,
+  "centroid": 2226.9405242102835,
+  "flatness": 0.019966812804341316,
+  "sub100_share": 0.35465535521507263,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.6907428503036499,
+  "clean_share": 0.2560124127230411,
+  "minor_share": -0.01301551188955663,
+  "chord_rate": 1.7374412064200164,
+  "repetitiveness": 0.8377090692520142,
+  "vocal_share": 0.0735289603471756,
+  "vocal_voiced": 0.7307001795332136,
+  "song_length": 239.4
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "draconian/1509154189-105",
+ "band": "draconian",
+ "title": "Moon over Sabaoth",
+ "source": "itunes",
+ "album": "Under a Godless Veil",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 63.02400914634146,
+  "onset_rate": 1.5333333333333334,
+  "tempo_var": 4.176770235920772,
+  "low_onset_rate": 1.7666666666666666,
+  "lufs": -10.9367890102355,
+  "rms_dbfs": -10.279098323627284,
+  "crest": 10.279098510742188,
+  "centroid": 1938.0734863203056,
+  "flatness": 0.014361192472279072,
+  "sub100_share": 0.3810383379459381,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8545792102813721,
+  "clean_share": 0.26160990712074306,
+  "minor_share": 0.17796617060852438,
+  "chord_rate": 1.1666666666666667,
+  "repetitiveness": 0.7793021202087402,
+  "vocal_share": 0.0531221404671669,
+  "vocal_voiced": 0.10030395136778116,
+  "song_length": 353.64
+ }
+}

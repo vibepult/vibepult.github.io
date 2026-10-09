@@ -1,0 +1,32 @@
+{
+ "id": "angra/1704073200-107",
+ "band": "angra",
+ "title": "The Shadow Hunter",
+ "source": "itunes",
+ "album": "Temple Of Shadows",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 6.433294432082043,
+  "tempo_var": 18.66067193342209,
+  "low_onset_rate": 4.46663965750774,
+  "lufs": -18.143215699939596,
+  "rms_dbfs": -17.127652195183515,
+  "crest": 15.109095573425293,
+  "centroid": 1071.4367897982977,
+  "flatness": 0.004399321042001247,
+  "sub100_share": 0.10251253098249435,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.9492284655570984,
+  "clean_share": 0.9327146171693735,
+  "minor_share": 0.08406817618593787,
+  "chord_rate": 1.83332224748452,
+  "repetitiveness": 0.7770456075668335,
+  "vocal_share": 8.186513582586485e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 486.493
+ }
+}

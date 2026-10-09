@@ -1,0 +1,32 @@
+{
+ "id": "darkwater/1451068773-106",
+ "band": "darkwater",
+ "title": "Insomnia",
+ "source": "itunes",
+ "album": "Human",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 1.236256243029627,
+  "tempo_var": 25.504074640484284,
+  "low_onset_rate": 0.9021329341027009,
+  "lufs": -13.174195737490045,
+  "rms_dbfs": -12.590529261005729,
+  "crest": 12.590530395507812,
+  "centroid": 2149.8798226357185,
+  "flatness": 0.015293631702661514,
+  "sub100_share": 0.30269095301628113,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8419432640075684,
+  "clean_share": 0.2575640031031808,
+  "minor_share": 0.2944989570352543,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.8514228463172913,
+  "vocal_share": 0.026427192613482475,
+  "vocal_voiced": 0.22608695652173913,
+  "song_length": 406.08
+ }
+}

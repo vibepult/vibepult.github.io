@@ -1,0 +1,32 @@
+{
+ "id": "judas-priest/207346167-106",
+ "band": "judas-priest",
+ "title": "Solar Angels",
+ "source": "itunes",
+ "album": "Point of Entry (Bonus Track Version)",
+ "year": 1981,
+ "itunes_year": 1981,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 3.4977844721181897,
+  "tempo_var": 34.59857152984363,
+  "low_onset_rate": 4.863586027897673,
+  "lufs": -8.831037574492933,
+  "rms_dbfs": -9.006726822883389,
+  "crest": 9.00672721862793,
+  "centroid": 2449.703006577035,
+  "flatness": 0.030105726793408394,
+  "sub100_share": 0.12500058114528656,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7933677434921265,
+  "clean_share": 0.07192575406032482,
+  "minor_share": -0.07306513404938275,
+  "chord_rate": 0.5996201952202611,
+  "repetitiveness": 0.7375772595405579,
+  "vocal_share": 0.16989412903785706,
+  "vocal_voiced": 0.8681135225375626,
+  "song_length": 243.96
+ }
+}

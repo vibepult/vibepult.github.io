@@ -1,0 +1,32 @@
+{
+ "id": "slayer/1440844570-107",
+ "band": "slayer",
+ "title": "Exile",
+ "source": "itunes",
+ "album": "God Hates Us All",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 3.933273873410833,
+  "tempo_var": 23.213853360614937,
+  "low_onset_rate": 3.866608214539463,
+  "lufs": -8.357862113680733,
+  "rms_dbfs": -8.715753095465574,
+  "crest": 8.715752601623535,
+  "centroid": 2803.2822035517124,
+  "flatness": 0.0536695271730423,
+  "sub100_share": 0.270061731338501,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.6479445099830627,
+  "clean_share": 0.0030935808197989174,
+  "minor_share": -0.1662486710745817,
+  "chord_rate": 1.8666384483983613,
+  "repetitiveness": 0.9560954570770264,
+  "vocal_share": 0.1965087354183197,
+  "vocal_voiced": 0.3542345276872964,
+  "song_length": 235.44
+ }
+}

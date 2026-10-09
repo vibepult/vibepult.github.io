@@ -1,0 +1,32 @@
+{
+ "id": "epidemia/1625888930-105",
+ "band": "epidemia",
+ "title": "Воля к жизни",
+ "source": "itunes",
+ "album": "Жизнь в сумерках",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 5.9473948988992875,
+  "tempo_var": 23.458614038234522,
+  "low_onset_rate": 6.11445655336275,
+  "lufs": -10.597180703991986,
+  "rms_dbfs": -10.188508126359917,
+  "crest": 10.188508033752441,
+  "centroid": 2408.579994657743,
+  "flatness": 0.022853897884488106,
+  "sub100_share": 0.23413175344467163,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.728809654712677,
+  "clean_share": 0.07137315748642359,
+  "minor_share": 0.11126981978679162,
+  "chord_rate": 2.1718015080250206,
+  "repetitiveness": 0.7777741551399231,
+  "vocal_share": 0.011745493859052658,
+  "vocal_voiced": 0.8387096774193549,
+  "song_length": 358.435
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "ajattara/1670003264-106",
+ "band": "ajattara",
+ "title": "Pahan Tuoma",
+ "source": "itunes",
+ "album": "Tyhjyys",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.6753563981961888,
+  "tempo_var": 2.1414780085975615,
+  "low_onset_rate": 8.453319715851235,
+  "lufs": -9.379356804289067,
+  "rms_dbfs": -8.502330799636217,
+  "crest": 8.502330780029297,
+  "centroid": 2346.7079083005306,
+  "flatness": 0.022692302241921425,
+  "sub100_share": 0.4016372859477997,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.8215084075927734,
+  "clean_share": 0.048875096974398756,
+  "minor_share": -0.09228688758364212,
+  "chord_rate": 2.138389177132328,
+  "repetitiveness": 0.7773967385292053,
+  "vocal_share": 0.07932863384485245,
+  "vocal_voiced": 0.06830601092896176,
+  "song_length": 206.813
+ }
+}

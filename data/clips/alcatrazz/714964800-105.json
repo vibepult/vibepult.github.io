@@ -1,0 +1,32 @@
+{
+ "id": "alcatrazz/714964800-105",
+ "band": "alcatrazz",
+ "title": "Desert Diamond",
+ "source": "itunes",
+ "album": "Disturbing the Peace",
+ "year": 1985,
+ "itunes_year": 1985,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 2.205213838917713,
+  "tempo_var": 5.372069034742301,
+  "low_onset_rate": 2.606161809630025,
+  "lufs": -12.395262635198934,
+  "rms_dbfs": -12.393830894164054,
+  "crest": 12.393831253051758,
+  "centroid": 2419.1442020413588,
+  "flatness": 0.013064137659966946,
+  "sub100_share": 0.0697622150182724,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.9074298143386841,
+  "clean_share": 0.35531419705197825,
+  "minor_share": 0.062217863548426844,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.717487096786499,
+  "vocal_share": 0.3778814375400543,
+  "vocal_voiced": 0.9232576350822239,
+  "song_length": 260.787
+ }
+}

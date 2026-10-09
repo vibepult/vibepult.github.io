@@ -1,0 +1,32 @@
+{
+ "id": "tankard/942700104-105",
+ "band": "tankard",
+ "title": "The Beauty and the Beast",
+ "source": "itunes",
+ "album": "The Beauty and the Beer",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.472512486059254,
+  "tempo_var": 21.988746275671993,
+  "low_onset_rate": 3.7087687290888813,
+  "lufs": -6.213177551115522,
+  "rms_dbfs": -6.006562429829185,
+  "crest": 6.00656270980835,
+  "centroid": 3142.0339319491673,
+  "flatness": 0.07020190358161926,
+  "sub100_share": 0.39190712571144104,
+  "lowest_pitch": 26.91650390625,
+  "harmonic_share": 0.6499470472335815,
+  "clean_share": 0.0,
+  "minor_share": 0.1393425064098645,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.8683147430419922,
+  "vocal_share": 0.09110205620527267,
+  "vocal_voiced": 0.07677165354330709,
+  "song_length": 365.787
+ }
+}

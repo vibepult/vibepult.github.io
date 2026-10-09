@@ -1,0 +1,32 @@
+{
+ "id": "devildriver/1183626742-106",
+ "band": "devildriver",
+ "title": "Gutted",
+ "source": "itunes",
+ "album": "Winter Kills",
+ "year": 2013,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.666666666666667,
+  "tempo_var": 10.99463984646166,
+  "low_onset_rate": 7.1,
+  "lufs": -7.236518308316645,
+  "rms_dbfs": -6.885829643710416,
+  "crest": 6.885829448699951,
+  "centroid": 2464.671216231486,
+  "flatness": 0.04279669001698494,
+  "sub100_share": 0.30219224095344543,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.623589813709259,
+  "clean_share": 0.0,
+  "minor_share": -0.06388682658938383,
+  "chord_rate": 2.066666666666667,
+  "repetitiveness": 0.9541944265365601,
+  "vocal_share": 0.25277838110923767,
+  "vocal_voiced": 0.06807131280388978,
+  "song_length": 208.4
+ }
+}

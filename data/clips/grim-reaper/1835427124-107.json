@@ -1,0 +1,32 @@
+{
+ "id": "grim-reaper/1835427124-107",
+ "band": "grim-reaper",
+ "title": "The Show Must Go On",
+ "source": "itunes",
+ "album": "See You In Hell",
+ "year": 1983,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 2.9999546492116522,
+  "tempo_var": 1.6288947336078157,
+  "low_onset_rate": 4.366600656074739,
+  "lufs": -13.752378310371933,
+  "rms_dbfs": -13.340652749980592,
+  "crest": 13.340652465820312,
+  "centroid": 2608.6790117464525,
+  "flatness": 0.025412801653146744,
+  "sub100_share": 0.2013854682445526,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.6700242161750793,
+  "clean_share": 0.10595514307811292,
+  "minor_share": 0.1052959674104671,
+  "chord_rate": 2.299965231062267,
+  "repetitiveness": 0.9108800888061523,
+  "vocal_share": 0.21626757085323334,
+  "vocal_voiced": 0.7321603128054741,
+  "song_length": 446.563
+ }
+}

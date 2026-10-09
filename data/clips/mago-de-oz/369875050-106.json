@@ -1,0 +1,32 @@
+{
+ "id": "mago-de-oz/369875050-106",
+ "band": "mago-de-oz",
+ "title": "El Arbol de la Noche Triste",
+ "source": "itunes",
+ "album": "Gaia",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.7,
+  "tempo_var": 4.399493485219958,
+  "low_onset_rate": 5.166666666666667,
+  "lufs": -11.343758986560177,
+  "rms_dbfs": -10.475504417231997,
+  "crest": 10.475503921508789,
+  "centroid": 2398.4003062175425,
+  "flatness": 0.018320998176932335,
+  "sub100_share": 0.2755608558654785,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.8680058717727661,
+  "clean_share": 0.31501547987616096,
+  "minor_share": 0.06149215922708484,
+  "chord_rate": 1.5333333333333334,
+  "repetitiveness": 0.7645779848098755,
+  "vocal_share": 0.14830511808395386,
+  "vocal_voiced": 0.8823529411764706,
+  "song_length": 288.67
+ }
+}

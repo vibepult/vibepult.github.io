@@ -1,0 +1,32 @@
+{
+ "id": "wormrot/1613218529-113",
+ "band": "wormrot",
+ "title": "Sea of Disease",
+ "source": "itunes",
+ "album": "Hiss",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 4.777963317655045,
+  "tempo_var": 22.8142000670978,
+  "low_onset_rate": 6.816115502109295,
+  "lufs": -9.041875436283002,
+  "rms_dbfs": -8.119553542815357,
+  "crest": 8.119553565979004,
+  "centroid": 2291.0398113429765,
+  "flatness": 0.026939311996102333,
+  "sub100_share": 0.46111437678337097,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7108414173126221,
+  "clean_share": 0.09852598913886734,
+  "minor_share": 0.07924511510928234,
+  "chord_rate": 1.4367302283857828,
+  "repetitiveness": 0.952225387096405,
+  "vocal_share": 4.905303399027616e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 130.893
+ }
+}

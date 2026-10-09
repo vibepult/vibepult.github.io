@@ -1,0 +1,32 @@
+{
+ "id": "battlelore/1183564313-105",
+ "band": "battlelore",
+ "title": "Shadowgate",
+ "source": "itunes",
+ "album": "Where the Shadows Lie",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 78.30255681818181,
+  "onset_rate": 4.066666666666666,
+  "tempo_var": 7.629813734228148,
+  "low_onset_rate": 5.266666666666667,
+  "lufs": -8.639285170569087,
+  "rms_dbfs": -8.250463632458793,
+  "crest": 8.25046443939209,
+  "centroid": 2499.2613657678367,
+  "flatness": 0.03359454125165939,
+  "sub100_share": 0.18723849952220917,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.6652909517288208,
+  "clean_share": 0.013157894736842105,
+  "minor_share": 0.21423370580576306,
+  "chord_rate": 2.1,
+  "repetitiveness": 0.8857171535491943,
+  "vocal_share": 0.3422740399837494,
+  "vocal_voiced": 0.2218487394957983,
+  "song_length": 244.533
+ }
+}

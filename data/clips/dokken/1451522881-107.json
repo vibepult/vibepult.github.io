@@ -1,0 +1,32 @@
+{
+ "id": "dokken/1451522881-107",
+ "band": "dokken",
+ "title": "I Feel",
+ "source": "itunes",
+ "album": "Shadowlife",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 5.1,
+  "tempo_var": 26.218254277365023,
+  "low_onset_rate": 5.333333333333333,
+  "lufs": -7.88262439679239,
+  "rms_dbfs": -7.432933810056933,
+  "crest": 7.432933807373047,
+  "centroid": 2481.5976824677987,
+  "flatness": 0.027999689802527428,
+  "sub100_share": 0.2853561043739319,
+  "lowest_pitch": 75.3662109375,
+  "harmonic_share": 0.7561920881271362,
+  "clean_share": 0.0456656346749226,
+  "minor_share": 0.11902972992047267,
+  "chord_rate": 1.7333333333333334,
+  "repetitiveness": 0.7894615530967712,
+  "vocal_share": 0.25308987498283386,
+  "vocal_voiced": 0.8298479087452472,
+  "song_length": 262.693
+ }
+}

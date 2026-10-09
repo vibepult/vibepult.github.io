@@ -1,0 +1,127 @@
+{
+ "slug": "avatar",
+ "name": "Avatar",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 187616241,
+  "deezer": 114366,
+  "spotify": "4jpaXieuls7LVzG1uma5Rs"
+ },
+ "metadata": {
+  "formed": 2001,
+  "split": null,
+  "country": "SE",
+  "status": "active",
+  "members": 5,
+  "past_members": 6,
+  "full_lengths": 10,
+  "genre": "Melodic Death Metal/Metalcore (early); Metalcore/Alternative Metal/Rock (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 80409,
+  "themes": "Inner struggles, Life, Emotions, Dystopia, Fantasy",
+  "release_year": 2012
+ },
+ "partial": false,
+ "clips": [
+  "avatar/1230551002-105",
+  "avatar/1230558651-106",
+  "avatar/1230551277-105",
+  "avatar/1841409771-108",
+  "avatar/1298681927-106",
+  "avatar/1510033805-105",
+  "avatar/1650504064-106",
+  "avatar/1831556987-105",
+  "avatar/1230551002-106",
+  "avatar/1230558651-107",
+  "avatar/1230551277-106",
+  "avatar/1841409771-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 111.21544471153845,
+   "iqr": 44.29602844427245
+  },
+  "onset_rate": {
+   "median": 3.4166568909636226,
+   "iqr": 2.132399725989336
+  },
+  "tempo_var": {
+   "median": 15.002602604143227,
+   "iqr": 5.801304255471665
+  },
+  "low_onset_rate": {
+   "median": 5.055924816951947,
+   "iqr": 1.7598988786492766
+  },
+  "lufs": {
+   "median": -8.757611105228518,
+   "iqr": 2.6588583472871203
+  },
+  "rms_dbfs": {
+   "median": -8.180233424985882,
+   "iqr": 1.9583071877585176
+  },
+  "crest": {
+   "median": 8.180233478546143,
+   "iqr": 1.9583076238632202
+  },
+  "centroid": {
+   "median": 2398.003093017899,
+   "iqr": 340.9173615530526
+  },
+  "flatness": {
+   "median": 0.030759956687688828,
+   "iqr": 0.014170625247061253
+  },
+  "sub100_share": {
+   "median": 0.34303584694862366,
+   "iqr": 0.15817555412650108
+  },
+  "lowest_pitch": {
+   "median": 53.8330078125,
+   "iqr": 32.2998046875
+  },
+  "harmonic_share": {
+   "median": 0.7730845808982849,
+   "iqr": 0.09902134537696838
+  },
+  "clean_share": {
+   "median": 0.01934984520123839,
+   "iqr": 0.1454444862859807
+  },
+  "minor_share": {
+   "median": 0.03879229174724802,
+   "iqr": 0.2842129593570871
+  },
+  "chord_rate": {
+   "median": 2.352804413357255,
+   "iqr": 0.5631106175203953
+  },
+  "repetitiveness": {
+   "median": 0.8752866983413696,
+   "iqr": 0.08800159394741058
+  },
+  "vocal_share": {
+   "median": 0.1476142331957817,
+   "iqr": 0.10656076483428478
+  },
+  "vocal_voiced": {
+   "median": 0.22872732134775992,
+   "iqr": 0.40972188325146747
+  },
+  "song_length": {
+   "median": 243.2625,
+   "iqr": 38.41399999999999
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.9,
+  "camp": 0.7
+ },
+ "sources_failed": []
+}

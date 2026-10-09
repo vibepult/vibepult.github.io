@@ -1,0 +1,32 @@
+{
+ "id": "cobrakill/1713246114-108",
+ "band": "cobrakill",
+ "title": "Hungry Heart",
+ "source": "itunes",
+ "album": "Serpent's Kiss",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 1.2666590073529411,
+  "tempo_var": 0.0,
+  "low_onset_rate": 2.23331982875387,
+  "lufs": -11.122980170089187,
+  "rms_dbfs": -9.755945994242422,
+  "crest": 9.755946159362793,
+  "centroid": 2400.531007294273,
+  "flatness": 0.023171624168753624,
+  "sub100_share": 0.5492739677429199,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8650692105293274,
+  "clean_share": 0.21964423820572312,
+  "minor_share": 0.08114252439010472,
+  "chord_rate": 2.066654169891641,
+  "repetitiveness": 0.8147647380828857,
+  "vocal_share": 0.004246540367603302,
+  "vocal_voiced": 0.48936170212765956,
+  "song_length": 248.889
+ }
+}

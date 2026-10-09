@@ -1,0 +1,32 @@
+{
+ "id": "powerwolf/1503785809-104",
+ "band": "powerwolf",
+ "title": "Incense and Iron (Orchestral Version)",
+ "source": "itunes",
+ "album": "The Symphony of Sin",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.3666666666666667,
+  "tempo_var": 3.2658316147728725,
+  "low_onset_rate": 7.766666666666667,
+  "lufs": -15.529945389429617,
+  "rms_dbfs": -15.205015341635558,
+  "crest": 15.205015182495117,
+  "centroid": 1815.8895537382684,
+  "flatness": 0.007442052010446787,
+  "sub100_share": 0.12048570811748505,
+  "lowest_pitch": 86.1328125,
+  "harmonic_share": 0.8724007606506348,
+  "clean_share": 0.3506191950464396,
+  "minor_share": 0.3390247982636252,
+  "chord_rate": 0.7,
+  "repetitiveness": 0.7942630052566528,
+  "vocal_share": 0.048852771520614624,
+  "vocal_voiced": 0.3142857142857143,
+  "song_length": 238.64
+ }
+}

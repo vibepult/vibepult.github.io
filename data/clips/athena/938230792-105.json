@@ -1,0 +1,32 @@
+{
+ "id": "athena/938230792-105",
+ "band": "athena",
+ "title": "Yamyam Zurna",
+ "source": "itunes",
+ "album": "Altüst",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.033211391945821,
+  "tempo_var": 29.811161922350344,
+  "low_onset_rate": 3.033241625347684,
+  "lufs": -9.212812066981177,
+  "rms_dbfs": -8.888681173639084,
+  "crest": 8.888681411743164,
+  "centroid": 2175.970537202613,
+  "flatness": 0.015988219529390335,
+  "sub100_share": 0.2840438783168793,
+  "lowest_pitch": 174.957275390625,
+  "harmonic_share": 0.7331780791282654,
+  "clean_share": 0.3534416086620263,
+  "minor_share": -0.2370098738517421,
+  "chord_rate": 2.333262788728988,
+  "repetitiveness": 0.7343136668205261,
+  "vocal_share": 0.29893481731414795,
+  "vocal_voiced": 0.6862745098039216,
+  "song_length": 211.527
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "bonfire/1672543272-105",
+ "band": "bonfire",
+ "title": "Longing for You (MMXXIII Version)",
+ "source": "itunes",
+ "album": "Don't Touch the Light (MMXXIII Version)",
+ "year": 1986,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 5.011849633903894,
+  "tempo_var": 10.854909955553767,
+  "low_onset_rate": 5.880570237113902,
+  "lufs": -7.991955736422562,
+  "rms_dbfs": -7.194310009930599,
+  "crest": 7.194309711456299,
+  "centroid": 2329.408641170532,
+  "flatness": 0.02303614839911461,
+  "sub100_share": 0.3915196657180786,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.717881441116333,
+  "clean_share": 0.021722265321955005,
+  "minor_share": 0.1286904660683873,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.8439180850982666,
+  "vocal_share": 0.15680836141109467,
+  "vocal_voiced": 0.45638629283489096,
+  "song_length": 234.48
+ }
+}

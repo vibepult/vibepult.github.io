@@ -1,0 +1,32 @@
+{
+ "id": "impellitteri/1766554955-106",
+ "band": "impellitteri",
+ "title": "Hell On Earth",
+ "source": "itunes",
+ "album": "War Machine",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 6.3,
+  "tempo_var": 12.97227535374585,
+  "low_onset_rate": 8.466666666666667,
+  "lufs": -8.461041217728832,
+  "rms_dbfs": -7.877851183550295,
+  "crest": 7.8778510093688965,
+  "centroid": 2511.6984306768845,
+  "flatness": 0.031641945242881775,
+  "sub100_share": 0.3371298015117645,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7870141267776489,
+  "clean_share": 0.010061919504643963,
+  "minor_share": -0.019815475741958077,
+  "chord_rate": 1.3333333333333333,
+  "repetitiveness": 0.892228901386261,
+  "vocal_share": 0.13065317273139954,
+  "vocal_voiced": 0.6844444444444444,
+  "song_length": 221.68
+ }
+}

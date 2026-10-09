@@ -1,0 +1,32 @@
+{
+ "id": "wolf-spider/1680229430-109",
+ "band": "wolf-spider",
+ "title": "Koniec?...",
+ "source": "itunes",
+ "album": "VI",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 5.513034597294284,
+  "tempo_var": 16.156218430555917,
+  "low_onset_rate": 6.448579862289677,
+  "lufs": -8.447672192279443,
+  "rms_dbfs": -7.952149250011832,
+  "crest": 7.952149391174316,
+  "centroid": 2747.077803637844,
+  "flatness": 0.042593806982040405,
+  "sub100_share": 0.3465324640274048,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.6414387226104736,
+  "clean_share": 0.031031807602792862,
+  "minor_share": -0.27458451821133395,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.8378554582595825,
+  "vocal_share": 0.1750190109014511,
+  "vocal_voiced": 0.7801231310466139,
+  "song_length": 221.053
+ }
+}

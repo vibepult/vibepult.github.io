@@ -1,0 +1,32 @@
+{
+ "id": "saille/1201424413-105",
+ "band": "saille",
+ "title": "Before the Crawling Chaos",
+ "source": "itunes",
+ "album": "Gnosis",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.109716699801193,
+  "tempo_var": 6.456387888338329,
+  "low_onset_rate": 7.250475803714299,
+  "lufs": -7.063444971706432,
+  "rms_dbfs": -6.5785439408955675,
+  "crest": 6.578543663024902,
+  "centroid": 2344.5651611461003,
+  "flatness": 0.022340625524520874,
+  "sub100_share": 0.3073056936264038,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.882482647895813,
+  "clean_share": 0.0,
+  "minor_share": 0.032628871570484885,
+  "chord_rate": 0.9355452649953935,
+  "repetitiveness": 0.7111726999282837,
+  "vocal_share": 0.07468552142381668,
+  "vocal_voiced": 0.5158013544018059,
+  "song_length": 418.933
+ }
+}

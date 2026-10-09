@@ -1,0 +1,32 @@
+{
+ "id": "damageplan/5356931-108",
+ "band": "damageplan",
+ "title": "Save Me",
+ "source": "itunes",
+ "album": "New Found Power",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 3.530664652567976,
+  "tempo_var": 2.334761718320323,
+  "low_onset_rate": 5.062839879154079,
+  "lufs": -7.160309848884546,
+  "rms_dbfs": -7.37100480481835,
+  "crest": 7.371005535125732,
+  "centroid": 2591.298063897426,
+  "flatness": 0.034356728196144104,
+  "sub100_share": 0.22112134099006653,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.760886549949646,
+  "clean_share": 0.01082753286929621,
+  "minor_share": 0.030061340394014868,
+  "chord_rate": 1.9318731117824774,
+  "repetitiveness": 0.8536812663078308,
+  "vocal_share": 0.1367012858390808,
+  "vocal_voiced": 0.7126068376068376,
+  "song_length": 214.04
+ }
+}

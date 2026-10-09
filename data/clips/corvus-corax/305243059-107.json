@@ -1,0 +1,32 @@
+{
+ "id": "corvus-corax/305243059-107",
+ "band": "corvus-corax",
+ "title": "Gaudalier",
+ "source": "itunes",
+ "album": "Mille Anni Passi Sunt",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.4,
+  "tempo_var": 0.9561771055953722,
+  "low_onset_rate": 2.8666666666666667,
+  "lufs": -13.05499182082258,
+  "rms_dbfs": -13.13191764639781,
+  "crest": 13.131917953491211,
+  "centroid": 2177.286968470449,
+  "flatness": 0.012486490420997143,
+  "sub100_share": 0.44748803973197937,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7720916271209717,
+  "clean_share": 0.36919504643962847,
+  "minor_share": -0.06422457357544858,
+  "chord_rate": 1.3333333333333333,
+  "repetitiveness": 0.8850088119506836,
+  "vocal_share": 0.008721763268113136,
+  "vocal_voiced": 0.13861386138613863,
+  "song_length": 222.213
+ }
+}

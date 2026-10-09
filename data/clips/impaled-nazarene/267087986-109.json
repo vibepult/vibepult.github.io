@@ -1,0 +1,32 @@
+{
+ "id": "impaled-nazarene/267087986-109",
+ "band": "impaled-nazarene",
+ "title": "Planet Nazarene",
+ "source": "itunes",
+ "album": "Manifest",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 6.582229185860447,
+  "tempo_var": 9.386304561581115,
+  "low_onset_rate": 7.217063472821607,
+  "lufs": -5.589550234407924,
+  "rms_dbfs": -5.467933190840057,
+  "crest": 5.467933654785156,
+  "centroid": 2768.5595141512263,
+  "flatness": 0.05171387270092964,
+  "sub100_share": 0.2894875407218933,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.7498733401298523,
+  "clean_share": 0.010861132660977503,
+  "minor_share": 0.15077916897605514,
+  "chord_rate": 2.572749478737332,
+  "repetitiveness": 0.8299257755279541,
+  "vocal_share": 0.16119462251663208,
+  "vocal_voiced": 0.12091503267973856,
+  "song_length": 230.56
+ }
+}

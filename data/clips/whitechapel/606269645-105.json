@@ -1,0 +1,32 @@
+{
+ "id": "whitechapel/606269645-105",
+ "band": "whitechapel",
+ "title": "Fairy Fay",
+ "source": "itunes",
+ "album": "The Somatic Defilement (Remastered)",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 6.333237592780155,
+  "tempo_var": 3.044690146597795,
+  "low_onset_rate": 9.399857900863177,
+  "lufs": -6.430404609267671,
+  "rms_dbfs": -6.144884837453226,
+  "crest": 6.144885063171387,
+  "centroid": 2230.571037666476,
+  "flatness": 0.02963033877313137,
+  "sub100_share": 0.2789849042892456,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.6985977292060852,
+  "clean_share": 0.0,
+  "minor_share": 0.14335352503131682,
+  "chord_rate": 2.699959184290487,
+  "repetitiveness": 0.9096457958221436,
+  "vocal_share": 0.16106151044368744,
+  "vocal_voiced": 0.23645320197044334,
+  "song_length": 213.493
+ }
+}

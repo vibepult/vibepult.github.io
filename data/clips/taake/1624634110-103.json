@@ -1,0 +1,32 @@
+{
+ "id": "taake/1624634110-103",
+ "band": "taake",
+ "title": "Nordbundet",
+ "source": "itunes",
+ "album": "Noregs Vaapen",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 1.5703795519565533,
+  "tempo_var": 2.8501158406746225,
+  "low_onset_rate": 4.777963317655045,
+  "lufs": -8.341071429215871,
+  "rms_dbfs": -8.640611431265043,
+  "crest": 8.64061164855957,
+  "centroid": 2916.5884489631235,
+  "flatness": 0.06652358174324036,
+  "sub100_share": 0.29652732610702515,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6469165682792664,
+  "clean_share": 0.0,
+  "minor_share": -0.14602621327277443,
+  "chord_rate": 1.1360192503515492,
+  "repetitiveness": 0.8454149961471558,
+  "vocal_share": 0.09669152647256851,
+  "vocal_voiced": 0.06504065040650407,
+  "song_length": 325.027
+ }
+}

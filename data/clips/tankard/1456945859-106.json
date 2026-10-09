@@ -1,0 +1,32 @@
+{
+ "id": "tankard/1456945859-106",
+ "band": "tankard",
+ "title": "Not One Day Dead (But One Day Mad)",
+ "source": "itunes",
+ "album": "A Girl Called Cerveza",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 0.4343603016050041,
+  "tempo_var": 31.318522490641108,
+  "low_onset_rate": 1.5369672210638607,
+  "lufs": -10.149417180102247,
+  "rms_dbfs": -10.084853625428721,
+  "crest": 10.084853172302246,
+  "centroid": 2455.2633953399295,
+  "flatness": 0.027189096435904503,
+  "sub100_share": 0.3395630717277527,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7462270855903625,
+  "clean_share": 0.20248254460822343,
+  "minor_share": 0.2269132180213952,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.8646544814109802,
+  "vocal_share": 0.023748312145471573,
+  "vocal_voiced": 0.0,
+  "song_length": 241.147
+ }
+}

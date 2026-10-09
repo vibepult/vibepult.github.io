@@ -1,0 +1,32 @@
+{
+ "id": "borknagar/297103261-105",
+ "band": "borknagar",
+ "title": "Krigsstev",
+ "source": "itunes",
+ "album": "Borknagar",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 80.74951171875,
+  "onset_rate": 6.415167531396984,
+  "tempo_var": 7.139366264953879,
+  "low_onset_rate": 6.916352494787374,
+  "lufs": -11.282610400404232,
+  "rms_dbfs": -12.185898857148086,
+  "crest": 11.871191024780273,
+  "centroid": 2900.8787613012228,
+  "flatness": 0.04381668567657471,
+  "sub100_share": 0.11514293402433395,
+  "lowest_pitch": 80.74951171875,
+  "harmonic_share": 0.791300356388092,
+  "clean_share": 0.0,
+  "minor_share": 0.016133304248035718,
+  "chord_rate": 1.971327522668865,
+  "repetitiveness": 0.9026937484741211,
+  "vocal_share": 0.013514996506273746,
+  "vocal_voiced": 0.8782608695652174,
+  "song_length": 123.333
+ }
+}

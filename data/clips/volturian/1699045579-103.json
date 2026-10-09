@@ -1,0 +1,32 @@
+{
+ "id": "volturian/1699045579-103",
+ "band": "volturian",
+ "title": "Harley",
+ "source": "itunes",
+ "album": "Red Dragon",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 6.333141855121538,
+  "tempo_var": 15.70379602138252,
+  "low_onset_rate": 6.933123715080421,
+  "lufs": -9.005563391479994,
+  "rms_dbfs": -8.482533284226065,
+  "crest": 8.48253345489502,
+  "centroid": 2738.0860767972326,
+  "flatness": 0.03349879011511803,
+  "sub100_share": 0.3831716775894165,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8409108519554138,
+  "clean_share": 0.007733952049497293,
+  "minor_share": 0.006409696453829772,
+  "chord_rate": 1.6666162776635627,
+  "repetitiveness": 0.8242707252502441,
+  "vocal_share": 0.18993622064590454,
+  "vocal_voiced": 0.889087656529517,
+  "song_length": 256.306
+ }
+}

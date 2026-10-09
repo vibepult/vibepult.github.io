@@ -1,0 +1,32 @@
+{
+ "id": "dissection/1632020898-108",
+ "band": "dissection",
+ "title": "Starless Aeon",
+ "source": "itunes",
+ "album": "Reinkaos (Instrumental)",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 4.243366023371963,
+  "tempo_var": 18.370930786280415,
+  "low_onset_rate": 5.4462099355088975,
+  "lufs": -13.795673675466452,
+  "rms_dbfs": -12.657960998138144,
+  "crest": 12.657960891723633,
+  "centroid": 2097.7757087695736,
+  "flatness": 0.01122923381626606,
+  "sub100_share": 0.4229666590690613,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.6770201325416565,
+  "clean_share": 0.24049650892164467,
+  "minor_share": -0.01769564134503987,
+  "chord_rate": 2.7063988023081027,
+  "repetitiveness": 0.9461560249328613,
+  "vocal_share": 3.01513097156203e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 225.176
+ }
+}

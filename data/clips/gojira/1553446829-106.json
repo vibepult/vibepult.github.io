@@ -1,0 +1,32 @@
+{
+ "id": "gojira/1553446829-106",
+ "band": "gojira",
+ "title": "Fortitude",
+ "source": "itunes",
+ "album": "Fortitude",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.2644360920429274,
+  "tempo_var": 1.1484746747797063,
+  "low_onset_rate": 5.363002151213381,
+  "lufs": -13.871818878412535,
+  "rms_dbfs": -12.74228974804943,
+  "crest": 12.742289543151855,
+  "centroid": 1016.6049154000659,
+  "flatness": 0.0018340550595894456,
+  "sub100_share": 0.20307263731956482,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8836089372634888,
+  "clean_share": 0.9234338747099768,
+  "minor_share": -0.21652465509244823,
+  "chord_rate": 1.565596901285894,
+  "repetitiveness": 0.7217664122581482,
+  "vocal_share": 0.050819508731365204,
+  "vocal_voiced": 0.6277915632754343,
+  "song_length": 127.578
+ }
+}

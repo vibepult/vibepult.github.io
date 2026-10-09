@@ -1,0 +1,32 @@
+{
+ "id": "meshuggah/1882469450-104",
+ "band": "meshuggah",
+ "title": "Neurotica",
+ "source": "itunes",
+ "album": "Chaosphere",
+ "year": 1998,
+ "itunes_year": 1998,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.533333333333333,
+  "tempo_var": 15.944512614008321,
+  "low_onset_rate": 5.3,
+  "lufs": -10.971832270066583,
+  "rms_dbfs": -10.876331793544685,
+  "crest": 10.87633228302002,
+  "centroid": 2781.9484809745677,
+  "flatness": 0.052384208887815475,
+  "sub100_share": 0.41565001010894775,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.6837384700775146,
+  "clean_share": 0.07972136222910217,
+  "minor_share": 0.01774851901563257,
+  "chord_rate": 2.966666666666667,
+  "repetitiveness": 0.8796973824501038,
+  "vocal_share": 5.146738430994446e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 319.427
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "rush/1445876680-103",
+ "band": "rush",
+ "title": "The Twilight Zone (Remastered 2012)",
+ "source": "itunes",
+ "album": "2112 (Remastered 2012)",
+ "year": 1976,
+ "itunes_year": 1976,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.299934997203368,
+  "tempo_var": 9.587571771445534,
+  "low_onset_rate": 3.2666172846971326,
+  "lufs": -11.758033989053821,
+  "rms_dbfs": -10.702434735095448,
+  "crest": 10.702434539794922,
+  "centroid": 1879.7268747345797,
+  "flatness": 0.008434385992586613,
+  "sub100_share": 0.2975870668888092,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.768259584903717,
+  "clean_share": 0.6063418406805878,
+  "minor_share": 0.3384840085273131,
+  "chord_rate": 1.8666384483983613,
+  "repetitiveness": 0.7623414993286133,
+  "vocal_share": 0.20497022569179535,
+  "vocal_voiced": 0.9442270058708415,
+  "song_length": 200.052
+ }
+}

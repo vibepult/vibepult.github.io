@@ -1,0 +1,32 @@
+{
+ "id": "kawir/1669183171-103",
+ "band": "kawir",
+ "title": "Cosmic Verve",
+ "source": "itunes",
+ "album": "Epoptia",
+ "year": 1999,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 4.9784373030112015,
+  "tempo_var": 1.0092840219208543,
+  "low_onset_rate": 6.782703171216603,
+  "lufs": -10.724313781178633,
+  "rms_dbfs": -11.280341435143747,
+  "crest": 11.280341148376465,
+  "centroid": 2907.1744752735544,
+  "flatness": 0.05615968257188797,
+  "sub100_share": 0.24963988363742828,
+  "lowest_pitch": 29.608154296875,
+  "harmonic_share": 0.7042466998100281,
+  "clean_share": 0.0,
+  "minor_share": -0.014457796150705693,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.8749191761016846,
+  "vocal_share": 0.047791738063097,
+  "vocal_voiced": 0.1771019677996422,
+  "song_length": 213.013
+ }
+}

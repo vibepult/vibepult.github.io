@@ -1,0 +1,32 @@
+{
+ "id": "angra/1237028395-106",
+ "band": "angra",
+ "title": "Violet Sky",
+ "source": "itunes",
+ "album": "Secret Garden",
+ "year": 2014,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 4.5106646705135045,
+  "tempo_var": 23.304214243786195,
+  "low_onset_rate": 3.7755933908742665,
+  "lufs": -10.652050687554825,
+  "rms_dbfs": -9.324902564778553,
+  "crest": 9.324902534484863,
+  "centroid": 1903.737169377913,
+  "flatness": 0.012446711771190166,
+  "sub100_share": 0.45042023062705994,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.848141074180603,
+  "clean_share": 0.5244375484871994,
+  "minor_share": 0.053863812854507254,
+  "chord_rate": 1.871090529990787,
+  "repetitiveness": 0.8311437368392944,
+  "vocal_share": 0.17573978006839752,
+  "vocal_voiced": 0.8810256410256411,
+  "song_length": 288.293
+ }
+}

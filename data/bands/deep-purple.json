@@ -1,0 +1,127 @@
+{
+ "slug": "deep-purple",
+ "name": "Deep Purple",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 135532,
+  "deezer": 864,
+  "spotify": "568ZhdwyaiCyOGJRtNYhWf"
+ },
+ "metadata": {
+  "formed": 1968,
+  "split": null,
+  "country": "GB",
+  "status": "active",
+  "members": 5,
+  "past_members": 9,
+  "full_lengths": 24,
+  "genre": "Heavy Metal/Hard Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 2019330,
+  "themes": "Rock 'n' Roll, Love, Relationships, Life, Society",
+  "release_year": 1981
+ },
+ "partial": false,
+ "clips": [
+  "deep-purple/1106649013-104",
+  "deep-purple/1106647456-104",
+  "deep-purple/1099334597-104",
+  "deep-purple/401568395-104",
+  "deep-purple/1097239656-105",
+  "deep-purple/1098027830-105",
+  "deep-purple/1444128062-105",
+  "deep-purple/829213313-105",
+  "deep-purple/952365090-105",
+  "deep-purple/324161795-106",
+  "deep-purple/307428638-105",
+  "deep-purple/616738145-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 110.00658118206522,
+   "iqr": 20.388303103146853
+  },
+  "onset_rate": {
+   "median": 4.320640736547423,
+   "iqr": 0.7909053646920974
+  },
+  "tempo_var": {
+   "median": 2.9831126207425593,
+   "iqr": 8.655568163866729
+  },
+  "low_onset_rate": {
+   "median": 3.9712161141440783,
+   "iqr": 0.7962186690132409
+  },
+  "lufs": {
+   "median": -13.09810038330038,
+   "iqr": 3.833840532205892
+  },
+  "rms_dbfs": {
+   "median": -13.42539457728714,
+   "iqr": 3.699931227513847
+  },
+  "crest": {
+   "median": 13.19361162185669,
+   "iqr": 2.53078031539917
+  },
+  "centroid": {
+   "median": 2323.075444196257,
+   "iqr": 676.2848149569095
+  },
+  "flatness": {
+   "median": 0.021916094236075878,
+   "iqr": 0.020868372404947877
+  },
+  "sub100_share": {
+   "median": 0.15242088586091995,
+   "iqr": 0.10307508707046509
+  },
+  "lowest_pitch": {
+   "median": 83.441162109375,
+   "iqr": 35.66436767578125
+  },
+  "harmonic_share": {
+   "median": 0.7391232252120972,
+   "iqr": 0.09074351191520691
+  },
+  "clean_share": {
+   "median": 0.10363495746326373,
+   "iqr": 0.3371298097951793
+  },
+  "minor_share": {
+   "median": -0.11969596669618837,
+   "iqr": 0.19152845309248445
+  },
+  "chord_rate": {
+   "median": 1.2824545484211511,
+   "iqr": 0.5752677306320519
+  },
+  "repetitiveness": {
+   "median": 0.765471875667572,
+   "iqr": 0.12440617382526398
+  },
+  "vocal_share": {
+   "median": 0.2526291310787201,
+   "iqr": 0.15423616021871567
+  },
+  "vocal_voiced": {
+   "median": 0.8331503841931943,
+   "iqr": 0.14921521354396927
+  },
+  "song_length": {
+   "median": 300.0315,
+   "iqr": 78.95425000000003
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

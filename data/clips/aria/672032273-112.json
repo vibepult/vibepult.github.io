@@ -1,0 +1,32 @@
+{
+ "id": "aria/672032273-112",
+ "band": "aria",
+ "title": "Небо",
+ "source": "itunes",
+ "album": "Дальнобойщики 2 (Саундтрек к компьютерной игре)",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.374645420161955,
+  "tempo_var": 2.9591195697647246,
+  "low_onset_rate": 3.9760673762304224,
+  "lufs": -11.817199618324812,
+  "rms_dbfs": -11.66340473323189,
+  "crest": 11.66340446472168,
+  "centroid": 2312.05831475046,
+  "flatness": 0.01714545674622059,
+  "sub100_share": 0.16269494593143463,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7718288898468018,
+  "clean_share": 0.3995345228859581,
+  "minor_share": -0.1315360295108462,
+  "chord_rate": 0.23388631624884837,
+  "repetitiveness": 0.9578502774238586,
+  "vocal_share": 9.122174446929421e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 179.733
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "violet-cold/1543748923-105",
+ "band": "violet-cold",
+ "title": "Sea",
+ "source": "itunes",
+ "album": "Magic Night",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 8.085784076031615,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.546446928186976,
+  "lufs": -8.41261167937303,
+  "rms_dbfs": -7.81486312299223,
+  "crest": 7.8148627281188965,
+  "centroid": 2124.811752908079,
+  "flatness": 0.01868610829114914,
+  "sub100_share": 0.3152114152908325,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.6953331828117371,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": 0.16158799215052777,
+  "chord_rate": 0.7684836105319304,
+  "repetitiveness": 0.8950473070144653,
+  "vocal_share": 4.542027909337776e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 353.846
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "angel-witch/967291256-102",
+ "band": "angel-witch",
+ "title": "Into the Dark",
+ "source": "itunes",
+ "album": "As Above, So Below",
+ "year": 2012,
+ "itunes_year": 2013,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 3.809005721766959,
+  "tempo_var": 0.704810685104152,
+  "low_onset_rate": 5.646683920865054,
+  "lufs": -7.733339716251392,
+  "rms_dbfs": -6.755903556041185,
+  "crest": 6.755903244018555,
+  "centroid": 2462.701159978646,
+  "flatness": 0.03206459432840347,
+  "sub100_share": 0.4876670241355896,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8242664933204651,
+  "clean_share": 0.060512024825446084,
+  "minor_share": 0.16824095311389375,
+  "chord_rate": 1.8376781990980944,
+  "repetitiveness": 0.8403214812278748,
+  "vocal_share": 0.04844847321510315,
+  "vocal_voiced": 0.7734806629834254,
+  "song_length": 311.133
+ }
+}

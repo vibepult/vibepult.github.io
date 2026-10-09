@@ -1,0 +1,32 @@
+{
+ "id": "nailbomb/280151959-101",
+ "band": "nailbomb",
+ "title": "Wasting Away",
+ "source": "itunes",
+ "album": "Point Blank",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 112.34714673913044,
+  "onset_rate": 5.797773795096063,
+  "tempo_var": 2.3361928154060982,
+  "low_onset_rate": 6.430864037089311,
+  "lufs": -12.268638299396747,
+  "rms_dbfs": -11.902699665532845,
+  "crest": 11.90269947052002,
+  "centroid": 2893.8225126239345,
+  "flatness": 0.05213795602321625,
+  "sub100_share": 0.23330751061439514,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.6359472274780273,
+  "clean_share": 0.008507347254447023,
+  "minor_share": 0.02637623034891573,
+  "chord_rate": 2.4990404289207166,
+  "repetitiveness": 0.9423621892929077,
+  "vocal_share": 0.04955966770648956,
+  "vocal_voiced": 0.3556851311953353,
+  "song_length": 186.053
+ }
+}

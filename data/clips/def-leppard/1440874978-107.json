@@ -1,0 +1,32 @@
+{
+ "id": "def-leppard/1440874978-107",
+ "band": "def-leppard",
+ "title": "Street Life",
+ "source": "itunes",
+ "album": "Yeah!",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.199921391966864,
+  "tempo_var": 1.589549896943388,
+  "low_onset_rate": 3.866608214539463,
+  "lufs": -8.008019391478307,
+  "rms_dbfs": -7.923940212690413,
+  "crest": 7.923940658569336,
+  "centroid": 2806.6591300575565,
+  "flatness": 0.03780042380094528,
+  "sub100_share": 0.22760291397571564,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.859248697757721,
+  "clean_share": 0.0069605568445475635,
+  "minor_share": -0.11547465753144237,
+  "chord_rate": 1.5999758129128812,
+  "repetitiveness": 0.7235153317451477,
+  "vocal_share": 0.16093558073043823,
+  "vocal_voiced": 0.8673100120627262,
+  "song_length": 206.011
+ }
+}

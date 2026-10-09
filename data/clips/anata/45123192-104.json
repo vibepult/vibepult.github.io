@@ -1,0 +1,32 @@
+{
+ "id": "anata/45123192-104",
+ "band": "anata",
+ "title": "Dance to the Song of Apathy",
+ "source": "itunes",
+ "album": "Under a Stone With No Inscription",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.479622266401591,
+  "tempo_var": 0.0,
+  "low_onset_rate": 7.484362119963148,
+  "lufs": -7.03584013050666,
+  "rms_dbfs": -7.312377453568509,
+  "crest": 7.312376976013184,
+  "centroid": 2761.555191611577,
+  "flatness": 0.04468191787600517,
+  "sub100_share": 0.28048262000083923,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7801436185836792,
+  "clean_share": 0.0,
+  "minor_share": -0.08604754949626492,
+  "chord_rate": 1.5369672210638607,
+  "repetitiveness": 0.7854200005531311,
+  "vocal_share": 0.12424829602241516,
+  "vocal_voiced": 0.20953757225433525,
+  "song_length": 280.067
+ }
+}

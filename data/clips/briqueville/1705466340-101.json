@@ -1,0 +1,32 @@
+{
+ "id": "briqueville/1705466340-101",
+ "band": "briqueville",
+ "title": "AKTE XVI",
+ "source": "itunes",
+ "album": "IIII",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 36.9140625,
+  "onset_rate": 0.3,
+  "tempo_var": 8.304533480268448,
+  "low_onset_rate": 6.7,
+  "lufs": -20.055812817611628,
+  "rms_dbfs": -16.264055157268643,
+  "crest": 10.62005615234375,
+  "centroid": 268.776810754629,
+  "flatness": 7.474637641280424e-06,
+  "sub100_share": 0.9121999740600586,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.9892892837524414,
+  "clean_share": 1.0,
+  "minor_share": 0.056443683827201774,
+  "chord_rate": 0.7,
+  "repetitiveness": 0.45494309067726135,
+  "vocal_share": 8.671909057511584e-08,
+  "vocal_voiced": 0.0,
+  "song_length": 417.139
+ }
+}

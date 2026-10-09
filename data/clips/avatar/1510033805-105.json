@@ -1,0 +1,32 @@
+{
+ "id": "avatar/1510033805-105",
+ "band": "avatar",
+ "title": "Scream Until You Wake",
+ "source": "itunes",
+ "album": "Hunter Gatherer",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 172.265625,
+  "onset_rate": 1.4333246662151702,
+  "tempo_var": 24.424219324428208,
+  "low_onset_rate": 2.933315595975232,
+  "lufs": -10.876388205716195,
+  "rms_dbfs": -9.966931628663785,
+  "crest": 9.96693229675293,
+  "centroid": 2564.918387826167,
+  "flatness": 0.040822677314281464,
+  "sub100_share": 0.32545042037963867,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.6407558917999268,
+  "clean_share": 0.010054137664346482,
+  "minor_share": 0.11240231614837248,
+  "chord_rate": 1.7666559839396285,
+  "repetitiveness": 0.836005449295044,
+  "vocal_share": 5.181597657610837e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 250.262
+ }
+}

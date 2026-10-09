@@ -1,0 +1,127 @@
+{
+ "slug": "red-fang",
+ "name": "Red Fang",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 263132120,
+  "deezer": 393428,
+  "spotify": "3u4HBuoQ4dgPBzX2Q9uf5S"
+ },
+ "metadata": {
+  "formed": 2005,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 4,
+  "past_members": 0,
+  "full_lengths": 4,
+  "genre": "Stoner Metal/Rock",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 40138,
+  "themes": "Life, Society, Mankind",
+  "release_year": 2014
+ },
+ "partial": false,
+ "clips": [
+  "red-fang/421219030-105",
+  "red-fang/691869543-106",
+  "red-fang/1131695807-106",
+  "red-fang/1499006947-108",
+  "red-fang/421219030-106",
+  "red-fang/691869543-105",
+  "red-fang/1131695807-105",
+  "red-fang/1499006947-106",
+  "red-fang/421219030-104",
+  "red-fang/691869543-107",
+  "red-fang/1131695807-107",
+  "red-fang/1499006947-109"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 139.77693256578948,
+   "iqr": 38.06886071189838
+  },
+  "onset_rate": {
+   "median": 3.641944067303496,
+   "iqr": 0.8854267686563553
+  },
+  "tempo_var": {
+   "median": 6.759615086139204,
+   "iqr": 10.692013401327952
+  },
+  "low_onset_rate": {
+   "median": 5.746920913543132,
+   "iqr": 1.3366126412258161
+  },
+  "lufs": {
+   "median": -9.81028796761375,
+   "iqr": 1.4117152036809433
+  },
+  "rms_dbfs": {
+   "median": -9.034953492667949,
+   "iqr": 1.5374518553024057
+  },
+  "crest": {
+   "median": 9.034953594207764,
+   "iqr": 1.5374512672424316
+  },
+  "centroid": {
+   "median": 2165.084526389328,
+   "iqr": 326.757554852516
+  },
+  "flatness": {
+   "median": 0.02062284853309393,
+   "iqr": 0.008192373206838965
+  },
+  "sub100_share": {
+   "median": 0.25709620118141174,
+   "iqr": 0.06932154670357704
+  },
+  "lowest_pitch": {
+   "median": 49.7955322265625,
+   "iqr": 23.55194091796875
+  },
+  "harmonic_share": {
+   "median": 0.6374306678771973,
+   "iqr": 0.0714004635810852
+  },
+  "clean_share": {
+   "median": 0.08029480217222654,
+   "iqr": 0.2063960470472947
+  },
+  "minor_share": {
+   "median": 0.05512287818231493,
+   "iqr": 0.17764417718632203
+  },
+  "chord_rate": {
+   "median": 1.8042658682054018,
+   "iqr": 0.4916074184971473
+  },
+  "repetitiveness": {
+   "median": 0.8795934915542603,
+   "iqr": 0.06228618323802948
+  },
+  "vocal_share": {
+   "median": 0.10343917831778526,
+   "iqr": 0.06596590485423803
+  },
+  "vocal_voiced": {
+   "median": 0.6748205100331557,
+   "iqr": 0.31699524535125767
+  },
+  "song_length": {
+   "median": 207.1265,
+   "iqr": 154.15550000000002
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.6
+ },
+ "sources_failed": []
+}

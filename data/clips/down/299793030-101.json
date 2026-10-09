@@ -1,0 +1,32 @@
+{
+ "id": "down/299793030-101",
+ "band": "down",
+ "title": "Temptation's Wings",
+ "source": "itunes",
+ "album": "Nola",
+ "year": 1995,
+ "itunes_year": 1995,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.032857803614993,
+  "tempo_var": 1.4426915313158495,
+  "low_onset_rate": 4.999410500349165,
+  "lufs": -9.926631607096322,
+  "rms_dbfs": -9.786061896138495,
+  "crest": 9.786062240600586,
+  "centroid": 2830.87717514179,
+  "flatness": 0.04967794567346573,
+  "sub100_share": 0.2445705384016037,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.5758861303329468,
+  "clean_share": 0.0030935808197989174,
+  "minor_share": 0.15319001194641596,
+  "chord_rate": 2.299728830160616,
+  "repetitiveness": 0.8664376139640808,
+  "vocal_share": 0.12767478823661804,
+  "vocal_voiced": 0.1812816188870152,
+  "song_length": 264.493
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "dark-moor/1615077513-105",
+ "band": "dark-moor",
+ "title": "Magic Land",
+ "source": "itunes",
+ "album": "Shadowland",
+ "year": 1999,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 6.281518207826213,
+  "tempo_var": 2.611816026905339,
+  "low_onset_rate": 7.8184854288900745,
+  "lufs": -10.350847292543031,
+  "rms_dbfs": -9.910263555655684,
+  "crest": 9.910264015197754,
+  "centroid": 1965.6770646484429,
+  "flatness": 0.012695031240582466,
+  "sub100_share": 0.09079166501760483,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8182899355888367,
+  "clean_share": 0.20791311093871218,
+  "minor_share": 0.06026328706176365,
+  "chord_rate": 1.0357822576734714,
+  "repetitiveness": 0.8571208119392395,
+  "vocal_share": 3.2159252896235557e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 298.48
+ }
+}

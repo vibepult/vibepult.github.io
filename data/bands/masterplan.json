@@ -1,0 +1,127 @@
+{
+ "slug": "masterplan",
+ "name": "Masterplan",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 72263728,
+  "deezer": 4852,
+  "spotify": "1OHNvr18TssBKYK0A75yvx"
+ },
+ "metadata": {
+  "formed": 2001,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 5,
+  "past_members": 6,
+  "full_lengths": 7,
+  "genre": "Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 19660,
+  "themes": "Metal, Life, Stories, Flying, Dreams",
+  "release_year": 2005
+ },
+ "partial": false,
+ "clips": [
+  "masterplan/942625223-106",
+  "masterplan/943476906-106",
+  "masterplan/1875417494-105",
+  "masterplan/942625223-105",
+  "masterplan/943476906-105",
+  "masterplan/1875417494-106",
+  "masterplan/942625223-107",
+  "masterplan/943476906-107",
+  "masterplan/1875417494-104",
+  "masterplan/942625223-104",
+  "masterplan/943476906-104",
+  "masterplan/1875417494-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 117.45383522727273,
+   "iqr": 45.09089543269231
+  },
+  "onset_rate": {
+   "median": 5.2563593035284235,
+   "iqr": 1.9829721120812027
+  },
+  "tempo_var": {
+   "median": 12.254839335816126,
+   "iqr": 10.615142293760602
+  },
+  "low_onset_rate": {
+   "median": 6.524289931144838,
+   "iqr": 1.1848562164573524
+  },
+  "lufs": {
+   "median": -8.210792947216536,
+   "iqr": 2.548342268631983
+  },
+  "rms_dbfs": {
+   "median": -7.796653870444548,
+   "iqr": 2.543263762111505
+  },
+  "crest": {
+   "median": 7.796653747558594,
+   "iqr": 2.543263554573059
+  },
+  "centroid": {
+   "median": 2624.6892209915313,
+   "iqr": 114.5430317039636
+  },
+  "flatness": {
+   "median": 0.036486875265836716,
+   "iqr": 0.0057261353358626366
+  },
+  "sub100_share": {
+   "median": 0.3503153920173645,
+   "iqr": 0.07733692228794098
+  },
+  "lowest_pitch": {
+   "median": 48.44970703125,
+   "iqr": 16.14990234375
+  },
+  "harmonic_share": {
+   "median": 0.8144040405750275,
+   "iqr": 0.03616853058338165
+  },
+  "clean_share": {
+   "median": 0.006194361594958111,
+   "iqr": 0.015496238249948238
+  },
+  "minor_share": {
+   "median": 0.10397121227372103,
+   "iqr": 0.09643913059046955
+  },
+  "chord_rate": {
+   "median": 1.3333333333333335,
+   "iqr": 0.37650563986178764
+  },
+  "repetitiveness": {
+   "median": 0.8130965232849121,
+   "iqr": 0.12416975200176239
+  },
+  "vocal_share": {
+   "median": 0.15516303479671478,
+   "iqr": 0.04398918151855469
+  },
+  "vocal_voiced": {
+   "median": 0.6278976437495315,
+   "iqr": 0.24042787690432588
+  },
+  "song_length": {
+   "median": 285.06,
+   "iqr": 65.05000000000004
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

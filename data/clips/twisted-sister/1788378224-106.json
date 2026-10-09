@@ -1,0 +1,32 @@
+{
+ "id": "twisted-sister/1788378224-106",
+ "band": "twisted-sister",
+ "title": "We're Gonna Make It",
+ "source": "itunes",
+ "album": "You Can't Stop Rock 'N' Roll",
+ "year": 1983,
+ "itunes_year": 1983,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 2.399985487616099,
+  "tempo_var": 15.332366885479114,
+  "low_onset_rate": 3.399979440789474,
+  "lufs": -12.886886613317552,
+  "rms_dbfs": -12.70348652237397,
+  "crest": 12.703486442565918,
+  "centroid": 2997.647530340641,
+  "flatness": 0.037553466856479645,
+  "sub100_share": 0.3105371296405792,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.45315372943878174,
+  "clean_share": 0.03944315545243619,
+  "minor_share": 0.02446077501098476,
+  "chord_rate": 0.7666620307662538,
+  "repetitiveness": 0.8265751004219055,
+  "vocal_share": 0.09537357091903687,
+  "vocal_voiced": 0.5253807106598984,
+  "song_length": 224.883
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "vader/1151949146-106",
+ "band": "vader",
+ "title": "Merciless Death",
+ "source": "itunes",
+ "album": "Future of the Past",
+ "year": 1996,
+ "itunes_year": 1996,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 2.6395741405227175,
+  "tempo_var": 23.219405562070026,
+  "low_onset_rate": 4.377015346942734,
+  "lufs": -11.803339107089716,
+  "rms_dbfs": -11.715562206997728,
+  "crest": 11.71556282043457,
+  "centroid": 2504.6263135212384,
+  "flatness": 0.02243170142173767,
+  "sub100_share": 0.11241595447063446,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.8278749585151672,
+  "clean_share": 0.11016291698991466,
+  "minor_share": -0.21023690205657097,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.751287043094635,
+  "vocal_share": 0.0001332223619101569,
+  "vocal_voiced": 1.0,
+  "song_length": 244.933
+ }
+}

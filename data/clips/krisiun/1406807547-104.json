@@ -1,0 +1,32 @@
+{
+ "id": "krisiun/1406807547-104",
+ "band": "krisiun",
+ "title": "Slay the Prophet",
+ "source": "itunes",
+ "album": "Scourge of the Enthroned",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 6.74929084032391,
+  "tempo_var": 2.632311598511741,
+  "low_onset_rate": 10.224173253163944,
+  "lufs": -7.022602133655966,
+  "rms_dbfs": -6.558658640731656,
+  "crest": 6.558659076690674,
+  "centroid": 3121.6287235328014,
+  "flatness": 0.06404092907905579,
+  "sub100_share": 0.466178297996521,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7666788101196289,
+  "clean_share": 0.0,
+  "minor_share": -0.16245139964746141,
+  "chord_rate": 1.7708535373127092,
+  "repetitiveness": 0.9532568454742432,
+  "vocal_share": 0.06655237078666687,
+  "vocal_voiced": 0.1111111111111111,
+  "song_length": 289.892
+ }
+}

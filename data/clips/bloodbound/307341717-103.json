@@ -1,0 +1,32 @@
+{
+ "id": "bloodbound/307341717-103",
+ "band": "bloodbound",
+ "title": "Take One",
+ "source": "itunes",
+ "album": "Tabula Rasa",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 184.5703125,
+  "onset_rate": 3.6753563981961888,
+  "tempo_var": 46.38625329561901,
+  "low_onset_rate": 2.1718015080250206,
+  "lufs": -10.42220865870487,
+  "rms_dbfs": -10.651478378800103,
+  "crest": 10.65147876739502,
+  "centroid": 1752.0182032039609,
+  "flatness": 0.01916557550430298,
+  "sub100_share": 0.4466369152069092,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7976799607276917,
+  "clean_share": 0.4127230411171451,
+  "minor_share": 0.0376091564850356,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.898094654083252,
+  "vocal_share": 6.56991744563129e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 244.453
+ }
+}

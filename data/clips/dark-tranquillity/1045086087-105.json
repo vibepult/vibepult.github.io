@@ -1,0 +1,32 @@
+{
+ "id": "dark-tranquillity/1045086087-105",
+ "band": "dark-tranquillity",
+ "title": "To a Bitter Halt",
+ "source": "itunes",
+ "album": "Projector",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.84478797944043,
+  "tempo_var": 2.705036993972654,
+  "low_onset_rate": 6.782703171216603,
+  "lufs": -8.608996704781237,
+  "rms_dbfs": -8.26393936625356,
+  "crest": 8.263938903808594,
+  "centroid": 2482.933658708331,
+  "flatness": 0.032880749553442,
+  "sub100_share": 0.304068922996521,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.7670458555221558,
+  "clean_share": 0.0,
+  "minor_share": 0.32736777507483605,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.7962716817855835,
+  "vocal_share": 0.10918319970369339,
+  "vocal_voiced": 0.13768115942028986,
+  "song_length": 288.4
+ }
+}

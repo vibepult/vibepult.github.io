@@ -1,0 +1,32 @@
+{
+ "id": "hamatom/1554999600-106",
+ "band": "hamatom",
+ "title": "Werft die Gläser an die Wand",
+ "source": "itunes",
+ "album": "Berlin (Ein akustischer Tanz auf dem Vulkan)",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.078674295689279,
+  "tempo_var": 11.527361946687636,
+  "low_onset_rate": 5.21232361926005,
+  "lufs": -7.970907262887976,
+  "rms_dbfs": -8.003668689224314,
+  "crest": 8.003668785095215,
+  "centroid": 2528.3875994443592,
+  "flatness": 0.03798539564013481,
+  "sub100_share": 0.24384881556034088,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.523479163646698,
+  "clean_share": 0.005430566330488751,
+  "minor_share": 0.2977741235425979,
+  "chord_rate": 1.0357822576734714,
+  "repetitiveness": 0.8976510763168335,
+  "vocal_share": 0.3145017921924591,
+  "vocal_voiced": 0.14084507042253522,
+  "song_length": 170.639
+ }
+}

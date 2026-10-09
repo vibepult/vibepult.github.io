@@ -1,0 +1,32 @@
+{
+ "id": "myrkur/1247992721-108",
+ "band": "myrkur",
+ "title": "Ulvinde",
+ "source": "itunes",
+ "album": "Mareridt (Deluxe Version)",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 4.666596120995903,
+  "tempo_var": 2.0469053683134844,
+  "low_onset_rate": 5.366585539145289,
+  "lufs": -5.542199715732587,
+  "rms_dbfs": -5.39842822582091,
+  "crest": 5.398428440093994,
+  "centroid": 2664.066655406654,
+  "flatness": 0.047829706221818924,
+  "sub100_share": 0.13216447830200195,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.8351637721061707,
+  "clean_share": 0.0,
+  "minor_share": 0.21639103160688822,
+  "chord_rate": 0.9666520536348657,
+  "repetitiveness": 0.6962301135063171,
+  "vocal_share": 0.24290688335895538,
+  "vocal_voiced": 0.5730612244897959,
+  "song_length": 263.928
+ }
+}

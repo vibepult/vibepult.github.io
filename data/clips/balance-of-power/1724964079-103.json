@@ -1,0 +1,32 @@
+{
+ "id": "balance-of-power/1724964079-103",
+ "band": "balance-of-power",
+ "title": "Monster",
+ "source": "itunes",
+ "album": "Fresh From The Abyss",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.565085055192175,
+  "tempo_var": 0.0,
+  "low_onset_rate": 5.931647543857528,
+  "lufs": -9.744644556802752,
+  "rms_dbfs": -9.916064708498336,
+  "crest": 9.916065216064453,
+  "centroid": 2929.5118523475485,
+  "flatness": 0.05453897640109062,
+  "sub100_share": 0.23050159215927124,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.6182481050491333,
+  "clean_share": 0.004640371229698376,
+  "minor_share": 0.21540229122905707,
+  "chord_rate": 1.6661931302970583,
+  "repetitiveness": 0.8878305554389954,
+  "vocal_share": 0.31695300340652466,
+  "vocal_voiced": 0.5754716981132075,
+  "song_length": 266.707
+ }
+}

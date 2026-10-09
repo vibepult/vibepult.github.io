@@ -1,0 +1,32 @@
+{
+ "id": "swallow-the-sun/1660649659-104",
+ "band": "swallow-the-sun",
+ "title": "Swallow (Horror Pt.1)",
+ "source": "itunes",
+ "album": "The Morning Never Came",
+ "year": 2003,
+ "itunes_year": 2003,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 2.472512486059254,
+  "tempo_var": 8.818223274259989,
+  "low_onset_rate": 6.582229185860447,
+  "lufs": -8.624680773485968,
+  "rms_dbfs": -8.43866078836773,
+  "crest": 8.438661575317383,
+  "centroid": 2323.9859882078686,
+  "flatness": 0.027676042169332504,
+  "sub100_share": 0.1216408833861351,
+  "lowest_pitch": 37.68310546875,
+  "harmonic_share": 0.7673122882843018,
+  "clean_share": 0.004654771140418929,
+  "minor_share": 0.2839281358164225,
+  "chord_rate": 0.9689575958880862,
+  "repetitiveness": 0.6291340589523315,
+  "vocal_share": 0.21153107285499573,
+  "vocal_voiced": 0.672665916760405,
+  "song_length": 325.493
+ }
+}

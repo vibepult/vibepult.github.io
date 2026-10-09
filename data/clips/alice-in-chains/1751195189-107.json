@@ -1,0 +1,32 @@
+{
+ "id": "alice-in-chains/1751195189-107",
+ "band": "alice-in-chains",
+ "title": "Acid Bubble",
+ "source": "itunes",
+ "album": "Black Gives Way To Blue",
+ "year": 2009,
+ "itunes_year": 2009,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.8989920360267782,
+  "tempo_var": 13.936773950266682,
+  "low_onset_rate": 6.864279993350762,
+  "lufs": -8.544015425439213,
+  "rms_dbfs": -8.418751135956319,
+  "crest": 8.41875171661377,
+  "centroid": 2359.6237709049888,
+  "flatness": 0.02829505316913128,
+  "sub100_share": 0.2927442789077759,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7393969893455505,
+  "clean_share": 0.17556071152358854,
+  "minor_share": 0.006015291780682941,
+  "chord_rate": 2.1325918425944117,
+  "repetitiveness": 0.8745357990264893,
+  "vocal_share": 0.142692431807518,
+  "vocal_voiced": 0.11182108626198083,
+  "song_length": 415.947
+ }
+}

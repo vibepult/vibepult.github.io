@@ -1,0 +1,32 @@
+{
+ "id": "warmen/1660695255-106",
+ "band": "warmen",
+ "title": "Singer's Chance",
+ "source": "itunes",
+ "album": "Beyond Abilities",
+ "year": 2001,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.777963317655045,
+  "tempo_var": 0.0,
+  "low_onset_rate": 6.649053847645832,
+  "lufs": -7.2528026402150365,
+  "rms_dbfs": -7.237353346935562,
+  "crest": 7.237353324890137,
+  "centroid": 2424.1422574534445,
+  "flatness": 0.036239903420209885,
+  "sub100_share": 0.22877778112888336,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.729881227016449,
+  "clean_share": 0.010861132660977503,
+  "minor_share": 0.021931933296249095,
+  "chord_rate": 0.9021329341027009,
+  "repetitiveness": 0.9415143132209778,
+  "vocal_share": 0.18193189799785614,
+  "vocal_voiced": 0.7848484848484848,
+  "song_length": 301.933
+ }
+}

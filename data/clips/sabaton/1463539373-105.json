@@ -1,0 +1,32 @@
+{
+ "id": "sabaton/1463539373-105",
+ "band": "sabaton",
+ "title": "Counterstrike",
+ "source": "itunes",
+ "album": "Primo Victoria",
+ "year": 2005,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 1.666656588622291,
+  "tempo_var": 13.814772352739652,
+  "low_onset_rate": 1.6333234568498451,
+  "lufs": -10.801128485378813,
+  "rms_dbfs": -9.304412559659337,
+  "crest": 9.304412841796875,
+  "centroid": 2957.09262104241,
+  "flatness": 0.0438346192240715,
+  "sub100_share": 0.6878648996353149,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.916309118270874,
+  "clean_share": 0.03557617942768755,
+  "minor_share": 0.03970524447106566,
+  "chord_rate": 2.1333204334365323,
+  "repetitiveness": 0.8909807801246643,
+  "vocal_share": 0.0019137244671583176,
+  "vocal_voiced": 0.0,
+  "song_length": 228.12
+ }
+}

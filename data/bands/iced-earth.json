@@ -1,0 +1,127 @@
+{
+ "slug": "iced-earth",
+ "name": "Iced Earth",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 18030030,
+  "deezer": 5797,
+  "spotify": "3KEixcRfBS5K3E91Vn1Kdy"
+ },
+ "metadata": {
+  "formed": 1988,
+  "split": null,
+  "country": "US",
+  "status": "on hold",
+  "members": 1,
+  "past_members": 26,
+  "full_lengths": 14,
+  "genre": "Power/Thrash Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 91153,
+  "themes": "Horror, Fantasy, Literature, Mythology, History, War",
+  "release_year": 1998
+ },
+ "partial": false,
+ "clips": [
+  "iced-earth/1045560453-104",
+  "iced-earth/1119632172-105",
+  "iced-earth/1045610534-104",
+  "iced-earth/1119632197-105",
+  "iced-earth/1045657795-106",
+  "iced-earth/1458652174-108",
+  "iced-earth/1045281091-105",
+  "iced-earth/1089149821-106",
+  "iced-earth/1221495863-105",
+  "iced-earth/1599385568-109",
+  "iced-earth/1045560453-103",
+  "iced-earth/1119632172-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 123.046875,
+   "iqr": 35.52252024291499
+  },
+  "onset_rate": {
+   "median": 5.613271589972362,
+   "iqr": 1.5014829459604915
+  },
+  "tempo_var": {
+   "median": 14.210173405004442,
+   "iqr": 9.282466401594876
+  },
+  "low_onset_rate": {
+   "median": 7.150238811036221,
+   "iqr": 3.310268069430623
+  },
+  "lufs": {
+   "median": -11.444094298557687,
+   "iqr": 4.652156399253158
+  },
+  "rms_dbfs": {
+   "median": -10.619185991269173,
+   "iqr": 4.880988063612591
+  },
+  "crest": {
+   "median": 10.619186401367188,
+   "iqr": 4.395983934402466
+  },
+  "centroid": {
+   "median": 2628.093098329282,
+   "iqr": 252.7205040323288
+  },
+  "flatness": {
+   "median": 0.03644070774316788,
+   "iqr": 0.01299583911895752
+  },
+  "sub100_share": {
+   "median": 0.2715577632188797,
+   "iqr": 0.14684296399354935
+  },
+  "lowest_pitch": {
+   "median": 59.21630859375,
+   "iqr": 24.224853515625
+  },
+  "harmonic_share": {
+   "median": 0.7288001477718353,
+   "iqr": 0.05649317800998688
+  },
+  "clean_share": {
+   "median": 0.037238169123351435,
+   "iqr": 0.08243018893282862
+  },
+  "minor_share": {
+   "median": 0.0482180189901425,
+   "iqr": 0.10821937092142227
+  },
+  "chord_rate": {
+   "median": 1.5179087567323564,
+   "iqr": 0.484478797944043
+  },
+  "repetitiveness": {
+   "median": 0.8585822880268097,
+   "iqr": 0.08629646897315979
+  },
+  "vocal_share": {
+   "median": 0.13568560034036636,
+   "iqr": 0.13533408381044865
+  },
+  "vocal_voiced": {
+   "median": 0.3010215533309782,
+   "iqr": 0.17707322040542914
+  },
+  "song_length": {
+   "median": 284.7265,
+   "iqr": 74.19049999999999
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.2
+ },
+ "sources_failed": []
+}

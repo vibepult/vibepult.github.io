@@ -1,0 +1,32 @@
+{
+ "id": "danzig/1440880562-105",
+ "band": "danzig",
+ "title": "Am I Demon",
+ "source": "itunes",
+ "album": "Danzig",
+ "year": 1988,
+ "itunes_year": 1988,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 5.033257244788439,
+  "tempo_var": 2.320584724462258,
+  "low_onset_rate": 5.9999092984233044,
+  "lufs": -8.265272054239158,
+  "rms_dbfs": -7.88765406609956,
+  "crest": 7.8876543045043945,
+  "centroid": 2319.9979903820795,
+  "flatness": 0.02106086164712906,
+  "sub100_share": 0.36134573817253113,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6751708984375,
+  "clean_share": 0.18174787316318639,
+  "minor_share": 0.14328753173444714,
+  "chord_rate": 1.7999727895269915,
+  "repetitiveness": 0.9506410956382751,
+  "vocal_share": 0.20198246836662292,
+  "vocal_voiced": 0.8873517786561265,
+  "song_length": 296.638
+ }
+}

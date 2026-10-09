@@ -1,0 +1,127 @@
+{
+ "slug": "death",
+ "name": "Death",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 17249530,
+  "deezer": 6254,
+  "spotify": "4f5V3PQ66nIrBCqugJtaGn"
+ },
+ "metadata": {
+  "formed": 1984,
+  "split": 2001,
+  "country": "US",
+  "status": "split-up",
+  "members": 4,
+  "past_members": 19,
+  "full_lengths": 7,
+  "genre": "Death Metal (early); Progressive Death Metal (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 214103,
+  "themes": "Death, Gore, Horror (early); Society, Enlightenment (later)",
+  "release_year": 1991
+ },
+ "partial": false,
+ "clips": [
+  "death/369043988-105",
+  "death/847924059-107",
+  "death/569024006-203",
+  "death/1703672233-105",
+  "death/214477696-105",
+  "death/413554238-201",
+  "death/369043988-106",
+  "death/847924059-108",
+  "death/569024006-202",
+  "death/1703672233-106",
+  "death/214477696-104",
+  "death/413554238-109"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 107.666015625,
+   "iqr": 10.264443861166015
+  },
+  "onset_rate": {
+   "median": 5.806868699297359,
+   "iqr": 1.016469561196912
+  },
+  "tempo_var": {
+   "median": 8.153578881455765,
+   "iqr": 8.116823909239749
+  },
+  "low_onset_rate": {
+   "median": 6.7498979607262175,
+   "iqr": 0.9793301298774146
+  },
+  "lufs": {
+   "median": -9.8411646284349,
+   "iqr": 1.0488526908003468
+  },
+  "rms_dbfs": {
+   "median": -9.66590320435921,
+   "iqr": 0.46247300191219587
+  },
+  "crest": {
+   "median": 9.665902614593506,
+   "iqr": 0.46247267723083496
+  },
+  "centroid": {
+   "median": 2836.29940106732,
+   "iqr": 385.5282576269733
+  },
+  "flatness": {
+   "median": 0.037526270374655724,
+   "iqr": 0.017983198631554842
+  },
+  "sub100_share": {
+   "median": 0.2340390980243683,
+   "iqr": 0.1351834125816822
+  },
+  "lowest_pitch": {
+   "median": 72.674560546875,
+   "iqr": 63.92669677734375
+  },
+  "harmonic_share": {
+   "median": 0.7320443093776703,
+   "iqr": 0.055929675698280334
+  },
+  "clean_share": {
+   "median": 0.013154003816693365,
+   "iqr": 0.09454321383207423
+  },
+  "minor_share": {
+   "median": 0.04480486065197864,
+   "iqr": 0.12280829788403952
+  },
+  "chord_rate": {
+   "median": 2.2026300415649662,
+   "iqr": 0.500050711541522
+  },
+  "repetitiveness": {
+   "median": 0.8906031250953674,
+   "iqr": 0.044267550110816956
+  },
+  "vocal_share": {
+   "median": 0.06556092947721481,
+   "iqr": 0.02677908167243004
+  },
+  "vocal_voiced": {
+   "median": 0.26598837209302323,
+   "iqr": 0.14790481062301508
+  },
+  "song_length": {
+   "median": 280.43399999999997,
+   "iqr": 100.51875000000001
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

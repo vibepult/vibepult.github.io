@@ -1,0 +1,32 @@
+{
+ "id": "exciter/295308343-105",
+ "band": "exciter",
+ "title": "I Wanna Be King",
+ "source": "itunes",
+ "album": "Exciter",
+ "year": 1988,
+ "itunes_year": 1988,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 2.940285118556951,
+  "tempo_var": 3.5983341398094204,
+  "low_onset_rate": 7.150238811036222,
+  "lufs": -20.224802744381964,
+  "rms_dbfs": -20.682210264183833,
+  "crest": 19.181316375732422,
+  "centroid": 2433.5685750925777,
+  "flatness": 0.014390436001121998,
+  "sub100_share": 0.14334635436534882,
+  "lowest_pitch": 78.057861328125,
+  "harmonic_share": 0.7829641103744507,
+  "clean_share": 0.2916989914662529,
+  "minor_share": 0.2491591307729092,
+  "chord_rate": 1.4367302283857828,
+  "repetitiveness": 0.766970157623291,
+  "vocal_share": 4.2425513129273895e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 262.0
+ }
+}

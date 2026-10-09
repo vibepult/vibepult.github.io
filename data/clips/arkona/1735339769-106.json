@@ -1,0 +1,32 @@
+{
+ "id": "arkona/1735339769-106",
+ "band": "arkona",
+ "title": "Туман яром",
+ "source": "itunes",
+ "album": "Во славу великим",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.5653171120861584,
+  "tempo_var": 0.0,
+  "low_onset_rate": 3.664738731551655,
+  "lufs": -12.484896371834907,
+  "rms_dbfs": -11.598446005010178,
+  "crest": 11.598445892333984,
+  "centroid": 2228.547506333078,
+  "flatness": 0.011760951019823551,
+  "sub100_share": 0.404815137386322,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.793663740158081,
+  "clean_share": 0.4060324825986079,
+  "minor_share": 0.10437104052905183,
+  "chord_rate": 2.0322642056786453,
+  "repetitiveness": 0.9374029636383057,
+  "vocal_share": 0.4823043942451477,
+  "vocal_voiced": 0.508519003931848,
+  "song_length": 170.627
+ }
+}

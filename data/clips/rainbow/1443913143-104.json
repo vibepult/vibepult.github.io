@@ -1,0 +1,32 @@
+{
+ "id": "rainbow/1443913143-104",
+ "band": "rainbow",
+ "title": "Makin' Love",
+ "source": "itunes",
+ "album": "Down to Earth",
+ "year": 1979,
+ "itunes_year": 1979,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 3.3666157730041877,
+  "tempo_var": 21.443935767027327,
+  "low_onset_rate": 3.966606702846518,
+  "lufs": -14.692257062320497,
+  "rms_dbfs": -14.81554002138906,
+  "crest": 14.815540313720703,
+  "centroid": 2240.1234285841215,
+  "flatness": 0.0185819324105978,
+  "sub100_share": 0.12423024326562881,
+  "lowest_pitch": 99.591064453125,
+  "harmonic_share": 0.7120368480682373,
+  "clean_share": 0.13611755607115236,
+  "minor_share": -0.05910549784302177,
+  "chord_rate": 1.7333071306556214,
+  "repetitiveness": 0.7900829315185547,
+  "vocal_share": 0.2401426136493683,
+  "vocal_voiced": 0.7112676056338029,
+  "song_length": 275.96
+ }
+}

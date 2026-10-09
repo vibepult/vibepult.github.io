@@ -1,0 +1,32 @@
+{
+ "id": "loudness/336668278-105",
+ "band": "loudness",
+ "title": "Who Knows",
+ "source": "itunes",
+ "album": "Lightning Strikes",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.343603016050041,
+  "tempo_var": 26.90288442953758,
+  "low_onset_rate": 4.9784373030112015,
+  "lufs": -17.244795425317374,
+  "rms_dbfs": -17.54466637685702,
+  "crest": 16.376340866088867,
+  "centroid": 2993.6921466136323,
+  "flatness": 0.04229319840669632,
+  "sub100_share": 0.19526593387126923,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.6728675365447998,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": -0.1653635415592567,
+  "chord_rate": 1.9379151917761723,
+  "repetitiveness": 0.8717449903488159,
+  "vocal_share": 0.20002469420433044,
+  "vocal_voiced": 0.9203655352480418,
+  "song_length": 242.638
+ }
+}

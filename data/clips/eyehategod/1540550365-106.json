@@ -1,0 +1,32 @@
+{
+ "id": "eyehategod/1540550365-106",
+ "band": "eyehategod",
+ "title": "High Risk Trigger",
+ "source": "itunes",
+ "album": "A History of Nomadic Behavior",
+ "year": 2021,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.109716699801193,
+  "tempo_var": 9.131873553257872,
+  "low_onset_rate": 5.98080722979198,
+  "lufs": -9.176020947120074,
+  "rms_dbfs": -7.310799464789962,
+  "crest": 7.310799598693848,
+  "centroid": 2074.525888635743,
+  "flatness": 0.010554143227636814,
+  "sub100_share": 0.610185980796814,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.8664295077323914,
+  "clean_share": 0.33747090768037236,
+  "minor_share": -0.13081919999402591,
+  "chord_rate": 2.572749478737332,
+  "repetitiveness": 0.7683138847351074,
+  "vocal_share": 0.03577978163957596,
+  "vocal_voiced": 0.26163723916532905,
+  "song_length": 257.813
+ }
+}

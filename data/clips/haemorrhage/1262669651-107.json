@@ -1,0 +1,32 @@
+{
+ "id": "haemorrhage/1262669651-107",
+ "band": "haemorrhage",
+ "title": "Medical Maniacs",
+ "source": "itunes",
+ "album": "We Are the Gore",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 7.3841251272850705,
+  "tempo_var": 6.011494956269448,
+  "low_onset_rate": 8.119196406924308,
+  "lufs": -6.122603020522335,
+  "rms_dbfs": -6.102299050876749,
+  "crest": 6.102299213409424,
+  "centroid": 2809.7632374693,
+  "flatness": 0.0638137012720108,
+  "sub100_share": 0.3099668622016907,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7154591679573059,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.003082948674531294,
+  "chord_rate": 2.3722754933811765,
+  "repetitiveness": 0.9313819408416748,
+  "vocal_share": 0.09129943698644638,
+  "vocal_voiced": 0.017605633802816902,
+  "song_length": 149.351
+ }
+}

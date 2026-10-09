@@ -1,0 +1,32 @@
+{
+ "id": "elderwind/1658378589-103",
+ "band": "elderwind",
+ "title": "Vast of Freedom",
+ "source": "itunes",
+ "album": "The Colder the Night",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 64.599609375,
+  "onset_rate": 2.472512486059254,
+  "tempo_var": 4.246142157617549,
+  "low_onset_rate": 3.107346773020414,
+  "lufs": -11.346453682089365,
+  "rms_dbfs": -11.289424250289734,
+  "crest": 11.289423942565918,
+  "centroid": 2469.6728696475498,
+  "flatness": 0.021288299933075905,
+  "sub100_share": 0.15097111463546753,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.9108784198760986,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": 0.19045388970636912,
+  "chord_rate": 0.23388631624884837,
+  "repetitiveness": 0.7447342276573181,
+  "vocal_share": 0.0015428471378982067,
+  "vocal_voiced": 1.0,
+  "song_length": 634.92
+ }
+}

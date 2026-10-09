@@ -1,0 +1,32 @@
+{
+ "id": "entwine/1669996717-105",
+ "band": "entwine",
+ "title": "My Mistress",
+ "source": "itunes",
+ "album": "The Treasures Within Hearts",
+ "year": 1999,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 3.474882412840033,
+  "tempo_var": 3.599761048511323,
+  "low_onset_rate": 6.281518207826213,
+  "lufs": -7.02497198770481,
+  "rms_dbfs": -7.292768769596918,
+  "crest": 7.292768955230713,
+  "centroid": 3099.6827195774936,
+  "flatness": 0.0638212189078331,
+  "sub100_share": 0.2342602163553238,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7993738651275635,
+  "clean_share": 0.0,
+  "minor_share": 0.20272409448119444,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.8085922002792358,
+  "vocal_share": 0.04775725305080414,
+  "vocal_voiced": 0.850632911392405,
+  "song_length": 275.56
+ }
+}

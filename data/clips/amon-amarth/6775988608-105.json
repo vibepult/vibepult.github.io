@@ -1,0 +1,32 @@
+{
+ "id": "amon-amarth/6775988608-105",
+ "band": "amon-amarth",
+ "title": "Upphaf",
+ "source": "itunes",
+ "album": "The Allfather Awakens",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.6332784084896677,
+  "tempo_var": 11.563641525354948,
+  "low_onset_rate": 2.499962207676377,
+  "lufs": -13.627979824321566,
+  "rms_dbfs": -12.32695689814896,
+  "crest": 12.326956748962402,
+  "centroid": 1521.39055400616,
+  "flatness": 0.008925188332796097,
+  "sub100_share": 0.36559242010116577,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.8260704874992371,
+  "clean_share": 0.617169373549884,
+  "minor_share": -0.28143172209854617,
+  "chord_rate": 1.1333162008132909,
+  "repetitiveness": 0.6399471759796143,
+  "vocal_share": 0.06591155380010605,
+  "vocal_voiced": 0.3903061224489796,
+  "song_length": 272.84
+ }
+}

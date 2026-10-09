@@ -1,0 +1,32 @@
+{
+ "id": "bathory/290064196-104",
+ "band": "bathory",
+ "title": "Under the Runes",
+ "source": "itunes",
+ "album": "Twilight of the Gods",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 4.677726324976968,
+  "tempo_var": 19.236125093773186,
+  "low_onset_rate": 7.150238811036222,
+  "lufs": -8.818711133141669,
+  "rms_dbfs": -9.445687366956774,
+  "crest": 9.445687294006348,
+  "centroid": 3062.179517536439,
+  "flatness": 0.05817411467432976,
+  "sub100_share": 0.37322694063186646,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.783208966255188,
+  "clean_share": 0.0,
+  "minor_share": -0.1862831182437853,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.9615492820739746,
+  "vocal_share": 0.10614781081676483,
+  "vocal_voiced": 0.5054282267792521,
+  "song_length": 358.0
+ }
+}

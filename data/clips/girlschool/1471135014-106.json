@@ -1,0 +1,32 @@
+{
+ "id": "girlschool/1471135014-106",
+ "band": "girlschool",
+ "title": "Don't Call It Love",
+ "source": "itunes",
+ "album": "Screaming Blue Murder",
+ "year": 1982,
+ "itunes_year": 1982,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.4,
+  "tempo_var": 0.6621330653985197,
+  "low_onset_rate": 4.833333333333333,
+  "lufs": -8.875368708295706,
+  "rms_dbfs": -9.050055545509629,
+  "crest": 9.050055503845215,
+  "centroid": 2271.9488423068224,
+  "flatness": 0.025535494089126587,
+  "sub100_share": 0.09222365915775299,
+  "lowest_pitch": 110.357666015625,
+  "harmonic_share": 0.6184799075126648,
+  "clean_share": 0.030959752321981424,
+  "minor_share": 0.16242783046945286,
+  "chord_rate": 1.0333333333333334,
+  "repetitiveness": 0.8276395797729492,
+  "vocal_share": 0.205229714512825,
+  "vocal_voiced": 0.5714285714285714,
+  "song_length": 222.867
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "dimmu-borgir/1460466658-106",
+ "band": "dimmu-borgir",
+ "title": "Ritualist",
+ "source": "itunes",
+ "album": "Abrahadabra",
+ "year": 2010,
+ "itunes_year": 2010,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.2666348200464395,
+  "tempo_var": 19.266299465808064,
+  "low_onset_rate": 7.166623331075852,
+  "lufs": -14.35920792235551,
+  "rms_dbfs": -15.121210938820877,
+  "crest": 15.121211051940918,
+  "centroid": 2445.369204019043,
+  "flatness": 0.025891268625855446,
+  "sub100_share": 0.34540098905563354,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7344153523445129,
+  "clean_share": 0.21577726218097448,
+  "minor_share": 0.07514395279240171,
+  "chord_rate": 2.066654169891641,
+  "repetitiveness": 0.9047072529792786,
+  "vocal_share": 0.07351181656122208,
+  "vocal_voiced": 0.21940298507462686,
+  "song_length": 313.027
+ }
+}

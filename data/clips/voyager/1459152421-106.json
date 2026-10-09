@@ -1,0 +1,32 @@
+{
+ "id": "voyager/1459152421-106",
+ "band": "voyager",
+ "title": "Cross the Line",
+ "source": "itunes",
+ "album": "Univers",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 4.71113865586966,
+  "tempo_var": 16.27551798814856,
+  "low_onset_rate": 4.209953692479271,
+  "lufs": -10.21805810265922,
+  "rms_dbfs": -9.579684913175804,
+  "crest": 9.57968521118164,
+  "centroid": 2213.432080819846,
+  "flatness": 0.02194831892848015,
+  "sub100_share": 0.30550748109817505,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7186620831489563,
+  "clean_share": 0.13188518231186966,
+  "minor_share": 0.32960685646280563,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.7531130313873291,
+  "vocal_share": 0.06217162683606148,
+  "vocal_voiced": 0.41371158392434987,
+  "song_length": 308.227
+ }
+}

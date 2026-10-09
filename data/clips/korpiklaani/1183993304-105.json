@@ -1,0 +1,32 @@
+{
+ "id": "korpiklaani/1183993304-105",
+ "band": "korpiklaani",
+ "title": "Spring Dance",
+ "source": "itunes",
+ "album": "Tales Along This Road",
+ "year": 2006,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 6.333333333333333,
+  "tempo_var": 13.546460948627997,
+  "low_onset_rate": 5.4,
+  "lufs": -7.476923160306505,
+  "rms_dbfs": -7.46228012107626,
+  "crest": 7.4622802734375,
+  "centroid": 2878.689490233958,
+  "flatness": 0.04920172318816185,
+  "sub100_share": 0.28460514545440674,
+  "lowest_pitch": 196.490478515625,
+  "harmonic_share": 0.74410080909729,
+  "clean_share": 0.0,
+  "minor_share": -0.1466959934548705,
+  "chord_rate": 2.1,
+  "repetitiveness": 0.8747959136962891,
+  "vocal_share": 4.817987928618095e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 185.547
+ }
+}

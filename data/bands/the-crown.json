@@ -1,0 +1,127 @@
+{
+ "slug": "the-crown",
+ "name": "The Crown",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 56178858,
+  "deezer": 428268,
+  "spotify": "76AHlOU3rj6ffoOfVPigLt"
+ },
+ "metadata": {
+  "formed": 1998,
+  "split": null,
+  "country": "SE",
+  "status": "active",
+  "members": 5,
+  "past_members": 6,
+  "full_lengths": 12,
+  "genre": "Melodic Death/Thrash Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 3305,
+  "themes": "Death, Satanism, Violence",
+  "release_year": 2002
+ },
+ "partial": false,
+ "clips": [
+  "the-crown/56178913-106",
+  "the-crown/56194227-106",
+  "the-crown/1058951805-106",
+  "the-crown/1058954305-105",
+  "the-crown/56583788-106",
+  "the-crown/1874381287-108",
+  "the-crown/1321120041-107",
+  "the-crown/1544149796-106",
+  "the-crown/1758804550-106",
+  "the-crown/56178913-105",
+  "the-crown/56194227-105",
+  "the-crown/1058951805-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 115.3564453125,
+   "iqr": 29.81520432692308
+  },
+  "onset_rate": {
+   "median": 5.973532846475784,
+   "iqr": 1.0875052287795386
+  },
+  "tempo_var": {
+   "median": 8.496486685786458,
+   "iqr": 8.194928535839079
+  },
+  "low_onset_rate": {
+   "median": 7.166944976482569,
+   "iqr": 1.1109600021820292
+  },
+  "lufs": {
+   "median": -9.304542095444045,
+   "iqr": 3.5771172092589216
+  },
+  "rms_dbfs": {
+   "median": -9.3571167990081,
+   "iqr": 3.5451709721928726
+  },
+  "crest": {
+   "median": 9.35711669921875,
+   "iqr": 3.5451706647872925
+  },
+  "centroid": {
+   "median": 2611.7774457872165,
+   "iqr": 282.3643381169659
+  },
+  "flatness": {
+   "median": 0.03893895633518696,
+   "iqr": 0.00814022682607174
+  },
+  "sub100_share": {
+   "median": 0.28586262464523315,
+   "iqr": 0.11052520200610161
+  },
+  "lowest_pitch": {
+   "median": 53.8330078125,
+   "iqr": 39.0289306640625
+  },
+  "harmonic_share": {
+   "median": 0.7113309502601624,
+   "iqr": 0.03947363793849945
+  },
+  "clean_share": {
+   "median": 0.002323785592529326,
+   "iqr": 0.0054305663304887505
+  },
+  "minor_share": {
+   "median": 0.059096049973234754,
+   "iqr": 0.1054018754014236
+  },
+  "chord_rate": {
+   "median": 2.1049768462396354,
+   "iqr": 0.2672986471415406
+  },
+  "repetitiveness": {
+   "median": 0.9234038889408112,
+   "iqr": 0.02776351571083069
+  },
+  "vocal_share": {
+   "median": 0.1254151463508606,
+   "iqr": 0.0615173764526844
+  },
+  "vocal_voiced": {
+   "median": 0.07670454545454546,
+   "iqr": 0.14539440947481513
+  },
+  "song_length": {
+   "median": 251.4615,
+   "iqr": 103.51299999999998
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

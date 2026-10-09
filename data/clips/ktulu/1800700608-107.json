@@ -1,0 +1,32 @@
+{
+ "id": "ktulu/1800700608-107",
+ "band": "ktulu",
+ "title": "Uno Mas",
+ "source": "itunes",
+ "album": "Involución",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 7.066538475492508,
+  "tempo_var": 9.143833336756904,
+  "low_onset_rate": 7.033205746834525,
+  "lufs": -10.299012785348763,
+  "rms_dbfs": -9.348108378054091,
+  "crest": 9.348108291625977,
+  "centroid": 3064.4591693340894,
+  "flatness": 0.06344393640756607,
+  "sub100_share": 0.603559672832489,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.6830037236213684,
+  "clean_share": 0.0069605568445475635,
+  "minor_share": 0.009168264855689612,
+  "chord_rate": 2.4332891920327975,
+  "repetitiveness": 0.9497519731521606,
+  "vocal_share": 0.04027266055345535,
+  "vocal_voiced": 0.07665505226480836,
+  "song_length": 221.263
+ }
+}

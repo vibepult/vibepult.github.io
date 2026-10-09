@@ -1,0 +1,32 @@
+{
+ "id": "green-carnation/1820264980-103",
+ "band": "green-carnation",
+ "title": "Me, My Enemy",
+ "source": "itunes",
+ "album": "A Dark Poem, Pt. I: The Shores of Melancholia",
+ "year": 2025,
+ "itunes_year": 2025,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.2666666666666666,
+  "tempo_var": 1.7661846613521233,
+  "low_onset_rate": 2.466666666666667,
+  "lufs": -21.34160394156907,
+  "rms_dbfs": -19.275063244805775,
+  "crest": 17.988584518432617,
+  "centroid": 1253.815057224307,
+  "flatness": 0.004893917124718428,
+  "sub100_share": 0.630157470703125,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8959200382232666,
+  "clean_share": 0.8506191950464397,
+  "minor_share": -0.03555924135822541,
+  "chord_rate": 2.3333333333333335,
+  "repetitiveness": 0.6710748672485352,
+  "vocal_share": 3.533612016326515e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 436.8
+ }
+}

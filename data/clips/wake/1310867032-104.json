@@ -1,0 +1,32 @@
+{
+ "id": "wake/1310867032-104",
+ "band": "wake",
+ "title": "Rot",
+ "source": "itunes",
+ "album": "Misery Rites",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 6.448579862289677,
+  "tempo_var": 2.97302075863982,
+  "low_onset_rate": 7.7850730979973815,
+  "lufs": -7.598931660813936,
+  "rms_dbfs": -7.110257694843012,
+  "crest": 7.110257625579834,
+  "centroid": 2269.6210334779985,
+  "flatness": 0.0268959179520607,
+  "sub100_share": 0.3133712410926819,
+  "lowest_pitch": 45.758056640625,
+  "harmonic_share": 0.781062126159668,
+  "clean_share": 0.0062063615205585725,
+  "minor_share": -0.05262089656772265,
+  "chord_rate": 3.107346773020414,
+  "repetitiveness": 0.9514142870903015,
+  "vocal_share": 0.13919296860694885,
+  "vocal_voiced": 0.18386108273748722,
+  "song_length": 121.29
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "furor-gallico/1734763147-104",
+ "band": "furor-gallico",
+ "title": "La Notte Dei Cento Fuochi",
+ "source": "itunes",
+ "album": "Songs from the Earth",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 5.966630587267802,
+  "tempo_var": 20.40744466085947,
+  "low_onset_rate": 8.633281129063468,
+  "lufs": -8.61797329661216,
+  "rms_dbfs": -8.292592451824646,
+  "crest": 8.292593002319336,
+  "centroid": 2120.383921953329,
+  "flatness": 0.030336443334817886,
+  "sub100_share": 0.3250604569911957,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.8576226830482483,
+  "clean_share": 0.10982211910286156,
+  "minor_share": 0.21026371425006174,
+  "chord_rate": 1.133326480263158,
+  "repetitiveness": 0.8656222820281982,
+  "vocal_share": 0.027780741453170776,
+  "vocal_voiced": 0.19011406844106463,
+  "song_length": 312.84
+ }
+}

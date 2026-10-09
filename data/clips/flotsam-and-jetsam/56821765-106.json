@@ -1,0 +1,32 @@
+{
+ "id": "flotsam-and-jetsam/56821765-106",
+ "band": "flotsam-and-jetsam",
+ "title": "Metalshock",
+ "source": "itunes",
+ "album": "Doomsday for the Deceiver",
+ "year": 1986,
+ "itunes_year": 1986,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.310190685157349,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 5.4462099355088975,
+  "lufs": -14.33690505667975,
+  "rms_dbfs": -14.220709608930594,
+  "crest": 14.220443725585938,
+  "centroid": 2345.4859129388406,
+  "flatness": 0.016531169414520264,
+  "sub100_share": 0.061941251158714294,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.8630815148353577,
+  "clean_share": 0.22498060512024826,
+  "minor_share": -0.11348209224021433,
+  "chord_rate": 0.8687206032100082,
+  "repetitiveness": 0.9552149772644043,
+  "vocal_share": 0.11944422870874405,
+  "vocal_voiced": 0.6671575846833578,
+  "song_length": 497.173
+ }
+}

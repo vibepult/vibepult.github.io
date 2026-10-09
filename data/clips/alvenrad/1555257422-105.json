@@ -1,0 +1,32 @@
+{
+ "id": "alvenrad/1555257422-105",
+ "band": "alvenrad",
+ "title": "Habitat",
+ "source": "itunes",
+ "album": "Habitat",
+ "year": 2014,
+ "itunes_year": 2014,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 5.613271589972361,
+  "tempo_var": 15.500818266901922,
+  "low_onset_rate": 5.746920913543131,
+  "lufs": -11.554849607368215,
+  "rms_dbfs": -11.110912053598202,
+  "crest": 11.110912322998047,
+  "centroid": 2499.7177787852906,
+  "flatness": 0.03190021216869354,
+  "sub100_share": 0.30612051486968994,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.6886286735534668,
+  "clean_share": 0.05508145849495733,
+  "minor_share": 0.02367769414158305,
+  "chord_rate": 1.4033178974930902,
+  "repetitiveness": 0.8610900640487671,
+  "vocal_share": 0.04642060771584511,
+  "vocal_voiced": 0.4184549356223176,
+  "song_length": 385.16
+ }
+}

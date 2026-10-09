@@ -1,0 +1,127 @@
+{
+ "slug": "all-shall-perish",
+ "name": "All Shall Perish",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 64942610,
+  "deezer": 3271,
+  "spotify": "7GkGdNLPzWw4e6ctwKvI2x"
+ },
+ "metadata": {
+  "formed": 2002,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 4,
+  "past_members": 7,
+  "full_lengths": 4,
+  "genre": "Deathcore",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 40782,
+  "themes": "Dejection, Cynicism, Death, Social struggles",
+  "release_year": 2007
+ },
+ "partial": false,
+ "clips": [
+  "all-shall-perish/6769869116-104",
+  "all-shall-perish/6769869902-106",
+  "all-shall-perish/1456924966-106",
+  "all-shall-perish/6770579656-107",
+  "all-shall-perish/6769869116-105",
+  "all-shall-perish/6769869902-105",
+  "all-shall-perish/1456924966-107",
+  "all-shall-perish/6770579656-108",
+  "all-shall-perish/6769869116-103",
+  "all-shall-perish/6769869902-107",
+  "all-shall-perish/1456924966-105",
+  "all-shall-perish/6770579656-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.123046875,
+   "iqr": 34.448323839882946
+  },
+  "onset_rate": {
+   "median": 5.149922147813337,
+   "iqr": 3.8321424893414195
+  },
+  "tempo_var": {
+   "median": 14.315921918276816,
+   "iqr": 4.347325704269515
+  },
+  "low_onset_rate": {
+   "median": 6.216572689755258,
+   "iqr": 3.473377314894263
+  },
+  "lufs": {
+   "median": -7.538677763099615,
+   "iqr": 1.1126811267490773
+  },
+  "rms_dbfs": {
+   "median": -7.117845460941837,
+   "iqr": 1.6897743964798417
+  },
+  "crest": {
+   "median": 7.11784553527832,
+   "iqr": 1.6897741556167603
+  },
+  "centroid": {
+   "median": 2723.246838497361,
+   "iqr": 334.64555398138054
+  },
+  "flatness": {
+   "median": 0.046392301097512245,
+   "iqr": 0.01235932856798172
+  },
+  "sub100_share": {
+   "median": 0.3457881957292557,
+   "iqr": 0.1551019363105297
+  },
+  "lowest_pitch": {
+   "median": 51.141357421875,
+   "iqr": 31.62689208984375
+  },
+  "harmonic_share": {
+   "median": 0.7442865669727325,
+   "iqr": 0.07461170852184296
+  },
+  "clean_share": {
+   "median": 0.003094780812358963,
+   "iqr": 0.12271738915218725
+  },
+  "minor_share": {
+   "median": 0.06755736124654813,
+   "iqr": 0.1608711491483553
+  },
+  "chord_rate": {
+   "median": 1.4833109098879835,
+   "iqr": 0.39685364567642
+  },
+  "repetitiveness": {
+   "median": 0.9339270293712616,
+   "iqr": 0.01340290904045105
+  },
+  "vocal_share": {
+   "median": 0.09252700209617615,
+   "iqr": 0.046821288764476776
+  },
+  "vocal_voiced": {
+   "median": 0.21806853582554517,
+   "iqr": 0.1239994591462415
+  },
+  "song_length": {
+   "median": 268.5025,
+   "iqr": 68.09225
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "enforcer/1665975349-107",
+ "band": "enforcer",
+ "title": "Nostalgia",
+ "source": "itunes",
+ "album": "Nostalgia",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 1.7708535373127092,
+  "tempo_var": 21.02798332301547,
+  "low_onset_rate": 3.8758303835523447,
+  "lufs": -16.526439361747926,
+  "rms_dbfs": -16.46780126034632,
+  "crest": 15.824270248413086,
+  "centroid": 1772.1027578851679,
+  "flatness": 0.0034328054171055555,
+  "sub100_share": 0.019048096612095833,
+  "lowest_pitch": 99.591064453125,
+  "harmonic_share": 0.9480994343757629,
+  "clean_share": 0.8091543832428238,
+  "minor_share": -0.051475870360605525,
+  "chord_rate": 0.7350712796392378,
+  "repetitiveness": 0.630622923374176,
+  "vocal_share": 1.140485096584598e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 233.156
+ }
+}

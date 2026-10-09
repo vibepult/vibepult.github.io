@@ -1,0 +1,127 @@
+{
+ "slug": "dragonforce",
+ "name": "DragonForce",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 3261249,
+  "deezer": 4421,
+  "spotify": "2pH3wEn4eYlMMIIQyKPbVR"
+ },
+ "metadata": {
+  "formed": 2001,
+  "split": null,
+  "country": "GB",
+  "status": "active",
+  "members": 7,
+  "past_members": 8,
+  "full_lengths": 10,
+  "genre": "Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 324381,
+  "themes": "Fantasy, Battles, Inner strength, Science fiction; Video games (later)",
+  "release_year": 2007
+ },
+ "partial": false,
+ "clips": [
+  "dragonforce/735681193-106",
+  "dragonforce/1679680511-104",
+  "dragonforce/1679612960-104",
+  "dragonforce/1679629670-104",
+  "dragonforce/508532207-105",
+  "dragonforce/1216344143-107",
+  "dragonforce/1471445986-105",
+  "dragonforce/1719838522-105",
+  "dragonforce/735681193-105",
+  "dragonforce/1679680511-105",
+  "dragonforce/1679612960-105",
+  "dragonforce/1679629670-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 99.38401442307692,
+   "iqr": 52.61506645927601
+  },
+  "onset_rate": {
+   "median": 5.347974489657194,
+   "iqr": 1.17290727785827
+  },
+  "tempo_var": {
+   "median": 16.578165590134788,
+   "iqr": 5.389478956452205
+  },
+  "low_onset_rate": {
+   "median": 6.016666666666667,
+   "iqr": 2.6772316810519
+  },
+  "lufs": {
+   "median": -8.371826607756436,
+   "iqr": 1.294593442179739
+  },
+  "rms_dbfs": {
+   "median": -8.121727652952352,
+   "iqr": 1.606340178866116
+  },
+  "crest": {
+   "median": 8.12172794342041,
+   "iqr": 1.6063406467437744
+  },
+  "centroid": {
+   "median": 2703.8960598191225,
+   "iqr": 215.47258971734846
+  },
+  "flatness": {
+   "median": 0.040062446147203445,
+   "iqr": 0.01081541646271944
+  },
+  "sub100_share": {
+   "median": 0.26405346393585205,
+   "iqr": 0.09458478912711143
+  },
+  "lowest_pitch": {
+   "median": 52.4871826171875,
+   "iqr": 16.14990234375
+  },
+  "harmonic_share": {
+   "median": 0.7802401185035706,
+   "iqr": 0.0729188472032547
+  },
+  "clean_share": {
+   "median": 0.0015497889981193572,
+   "iqr": 0.00484421648288567
+  },
+  "minor_share": {
+   "median": -0.10331024111786655,
+   "iqr": 0.19168084953844272
+  },
+  "chord_rate": {
+   "median": 1.1666666666666667,
+   "iqr": 0.7454648420700495
+  },
+  "repetitiveness": {
+   "median": 0.828570544719696,
+   "iqr": 0.12337681651115417
+  },
+  "vocal_share": {
+   "median": 0.2405163198709488,
+   "iqr": 0.10420661699026823
+  },
+  "vocal_voiced": {
+   "median": 0.792969302794444,
+   "iqr": 0.4142562424238132
+  },
+  "song_length": {
+   "median": 426.967,
+   "iqr": 82.53500000000003
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.7
+ },
+ "sources_failed": []
+}

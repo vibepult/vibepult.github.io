@@ -1,0 +1,32 @@
+{
+ "id": "manegarm/988469482-107",
+ "band": "manegarm",
+ "title": "Vanvett",
+ "source": "itunes",
+ "album": "Havets vargar (Re-Mastered)",
+ "year": 2000,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 198.76802884615384,
+  "onset_rate": 0.5011849633903894,
+  "tempo_var": 12.199050223385338,
+  "low_onset_rate": 3.7755933908742665,
+  "lufs": -8.39112050313202,
+  "rms_dbfs": -8.578716323047411,
+  "crest": 8.578716278076172,
+  "centroid": 2773.8698903814125,
+  "flatness": 0.04817136377096176,
+  "sub100_share": 0.2519972324371338,
+  "lowest_pitch": 67.291259765625,
+  "harmonic_share": 0.7150137424468994,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": 0.016574979631626047,
+  "chord_rate": 2.6395741405227175,
+  "repetitiveness": 0.93879634141922,
+  "vocal_share": 0.18881788849830627,
+  "vocal_voiced": 0.13706140350877194,
+  "song_length": 171.044
+ }
+}

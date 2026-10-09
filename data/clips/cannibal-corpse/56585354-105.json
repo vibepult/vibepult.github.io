@@ -1,0 +1,32 @@
+{
+ "id": "cannibal-corpse/56585354-105",
+ "band": "cannibal-corpse",
+ "title": "Necropedophile",
+ "source": "itunes",
+ "album": "Tomb of the Mutilated",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.4665840274523445,
+  "tempo_var": 5.05748013291508,
+  "low_onset_rate": 6.3665704222158395,
+  "lufs": -11.103623785057417,
+  "rms_dbfs": -11.399080760399798,
+  "crest": 11.399080276489258,
+  "centroid": 3107.3466358527976,
+  "flatness": 0.053762342780828476,
+  "sub100_share": 0.20334751904010773,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.6514291763305664,
+  "clean_share": 0.008507347254447023,
+  "minor_share": -0.11720752494647871,
+  "chord_rate": 3.3332829435685025,
+  "repetitiveness": 0.9198077917098999,
+  "vocal_share": 0.0661754235625267,
+  "vocal_voiced": 0.09819967266775777,
+  "song_length": 245.773
+ }
+}

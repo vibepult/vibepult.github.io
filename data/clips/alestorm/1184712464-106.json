@@ -1,0 +1,32 @@
+{
+ "id": "alestorm/1184712464-106",
+ "band": "alestorm",
+ "title": "Terror on the High Seas",
+ "source": "itunes",
+ "album": "Captain Morgan's Revenge",
+ "year": 2008,
+ "itunes_year": 2008,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 7.133333333333334,
+  "tempo_var": 2.2027311008657833,
+  "low_onset_rate": 8.066666666666666,
+  "lufs": -8.374010359200613,
+  "rms_dbfs": -8.12208802260219,
+  "crest": 8.122088432312012,
+  "centroid": 2822.788356421932,
+  "flatness": 0.05250193923711777,
+  "sub100_share": 0.3199285864830017,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.6229018568992615,
+  "clean_share": 0.006191950464396285,
+  "minor_share": 0.07051550874366963,
+  "chord_rate": 2.2,
+  "repetitiveness": 0.9393321871757507,
+  "vocal_share": 0.1679273545742035,
+  "vocal_voiced": 0.14358322744599747,
+  "song_length": 231.0
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "gorguts/214481095-106",
+ "band": "gorguts",
+ "title": "Bodily Corrupted",
+ "source": "itunes",
+ "album": "Considered Dead",
+ "year": 1991,
+ "itunes_year": 1991,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 4.310190685157349,
+  "tempo_var": 7.1887688212500676,
+  "low_onset_rate": 8.119196406924308,
+  "lufs": -9.928556431816252,
+  "rms_dbfs": -9.028120429971867,
+  "crest": 9.028120994567871,
+  "centroid": 2530.8168415914797,
+  "flatness": 0.02153453230857849,
+  "sub100_share": 0.30805298686027527,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.8357232809066772,
+  "clean_share": 0.08688906128782002,
+  "minor_share": -0.03198557194083823,
+  "chord_rate": 3.1407591039131066,
+  "repetitiveness": 0.9345042109489441,
+  "vocal_share": 0.07744789123535156,
+  "vocal_voiced": 0.2134935304990758,
+  "song_length": 221.75
+ }
+}

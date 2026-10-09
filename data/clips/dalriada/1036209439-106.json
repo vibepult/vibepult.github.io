@@ -1,0 +1,32 @@
+{
+ "id": "dalriada/1036209439-106",
+ "band": "dalriada",
+ "title": "Világfa",
+ "source": "itunes",
+ "album": "Áldás",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 103.359375,
+  "onset_rate": 1.336493235707705,
+  "tempo_var": 20.12623798782291,
+  "low_onset_rate": 0.9689575958880862,
+  "lufs": -8.805143397840657,
+  "rms_dbfs": -7.638201820823177,
+  "crest": 7.63820219039917,
+  "centroid": 2459.896839528521,
+  "flatness": 0.036940351128578186,
+  "sub100_share": 0.4135521650314331,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7665308117866516,
+  "clean_share": 0.013188518231186967,
+  "minor_share": -0.22401035711562506,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.8926986455917358,
+  "vocal_share": 4.425853035172622e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 283.773
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "finntroll/1660522569-106",
+ "band": "finntroll",
+ "title": "Blodnatt",
+ "source": "itunes",
+ "album": "Midnattens Widunder",
+ "year": 1999,
+ "itunes_year": 2006,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 3.474882412840033,
+  "tempo_var": 8.594605732391006,
+  "low_onset_rate": 6.014219560684673,
+  "lufs": -11.086402075106966,
+  "rms_dbfs": -10.629148489091689,
+  "crest": 10.629148483276367,
+  "centroid": 2323.8287343414004,
+  "flatness": 0.030543390661478043,
+  "sub100_share": 0.45986291766166687,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8057737946510315,
+  "clean_share": 0.2924747866563227,
+  "minor_share": 0.363355459376172,
+  "chord_rate": 1.4701425592784756,
+  "repetitiveness": 0.8879982233047485,
+  "vocal_share": 0.05248918756842613,
+  "vocal_voiced": 0.0,
+  "song_length": 310.4
+ }
+}

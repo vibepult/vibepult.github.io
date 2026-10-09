@@ -1,0 +1,32 @@
+{
+ "id": "edenbridge/1710349896-201",
+ "band": "edenbridge",
+ "title": "Sunrise in Eden (Gandalf Mix)",
+ "source": "itunes",
+ "album": "Sunrise in Eden (Definitive Edition)",
+ "year": 2000,
+ "itunes_year": 2000,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.266587050838234,
+  "tempo_var": 6.240827712243217,
+  "low_onset_rate": 4.733261779867274,
+  "lufs": -9.218124893737293,
+  "rms_dbfs": -8.916806589866182,
+  "crest": 8.9168062210083,
+  "centroid": 2357.2758662041933,
+  "flatness": 0.021174611523747444,
+  "sub100_share": 0.21962691843509674,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.8571479320526123,
+  "clean_share": 0.1531322505800464,
+  "minor_share": -0.044103271305406144,
+  "chord_rate": 0.8333207358921256,
+  "repetitiveness": 0.7206318378448486,
+  "vocal_share": 0.14341826736927032,
+  "vocal_voiced": 0.9690949227373068,
+  "song_length": 524.063
+ }
+}

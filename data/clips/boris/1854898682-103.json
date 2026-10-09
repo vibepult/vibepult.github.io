@@ -1,0 +1,32 @@
+{
+ "id": "boris/1854898682-103",
+ "band": "boris",
+ "title": "Hama",
+ "source": "itunes",
+ "album": "Amplifier Worship",
+ "year": 1998,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 5.299967951818886,
+  "tempo_var": 14.090152600449642,
+  "low_onset_rate": 3.866643285603715,
+  "lufs": -32.20290900608162,
+  "rms_dbfs": -31.576312149107157,
+  "crest": 13.697071075439453,
+  "centroid": 1367.0159296886682,
+  "flatness": 0.0012101808097213507,
+  "sub100_share": 0.000557875435333699,
+  "lowest_pitch": 200.0,
+  "harmonic_share": 0.9726011753082275,
+  "clean_share": 0.9930394431554525,
+  "minor_share": -0.011293773987747224,
+  "chord_rate": 0.26666505417956654,
+  "repetitiveness": 0.9816499948501587,
+  "vocal_share": 3.225226828362793e-05,
+  "vocal_voiced": 0.0,
+  "song_length": 451.377
+ }
+}

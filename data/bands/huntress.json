@@ -1,0 +1,127 @@
+{
+ "slug": "huntress",
+ "name": "Huntress",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 483170142,
+  "deezer": 1000915,
+  "spotify": "2JDEtAc1gGiAbCvjUnK2iZ"
+ },
+ "metadata": {
+  "formed": 2007,
+  "split": 2018,
+  "country": "US",
+  "status": "split-up",
+  "members": 4,
+  "past_members": 6,
+  "full_lengths": 3,
+  "genre": "Heavy Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 5915,
+  "themes": "Fantasy, Occult, Witchcraft, Hunters",
+  "release_year": 2013
+ },
+ "partial": false,
+ "clips": [
+  "huntress/1184713735-106",
+  "huntress/1184091957-106",
+  "huntress/1183627916-106",
+  "huntress/1184713735-105",
+  "huntress/1184091957-107",
+  "huntress/1183627916-105",
+  "huntress/1184713735-107",
+  "huntress/1184091957-105",
+  "huntress/1183627916-107",
+  "huntress/1184713735-104",
+  "huntress/1184091957-108",
+  "huntress/1183627916-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 99.9755859375,
+   "iqr": 45.46101542603989
+  },
+  "onset_rate": {
+   "median": 4.800000000000001,
+   "iqr": 0.9333333333333336
+  },
+  "tempo_var": {
+   "median": 11.53550605575347,
+   "iqr": 8.461357118928674
+  },
+  "low_onset_rate": {
+   "median": 5.566666666666666,
+   "iqr": 1.5999999999999996
+  },
+  "lufs": {
+   "median": -8.52865567691616,
+   "iqr": 1.5813882503503933
+  },
+  "rms_dbfs": {
+   "median": -8.422795061158594,
+   "iqr": 2.359476359778877
+  },
+  "crest": {
+   "median": 8.422794818878174,
+   "iqr": 2.3594765663146973
+  },
+  "centroid": {
+   "median": 2437.1369857043683,
+   "iqr": 105.85272456175517
+  },
+  "flatness": {
+   "median": 0.02774109225720167,
+   "iqr": 0.006228058598935604
+  },
+  "sub100_share": {
+   "median": 0.2134331911802292,
+   "iqr": 0.2012719362974167
+  },
+  "lowest_pitch": {
+   "median": 72.674560546875,
+   "iqr": 43.06640625
+  },
+  "harmonic_share": {
+   "median": 0.7536640465259552,
+   "iqr": 0.08162200450897217
+  },
+  "clean_share": {
+   "median": 0.03715170278637771,
+   "iqr": 0.058049535603715174
+  },
+  "minor_share": {
+   "median": 0.01613058172521825,
+   "iqr": 0.18492875625008187
+  },
+  "chord_rate": {
+   "median": 1.3333333333333335,
+   "iqr": 0.5249999999999999
+  },
+  "repetitiveness": {
+   "median": 0.7979861795902252,
+   "iqr": 0.15692651271820068
+  },
+  "vocal_share": {
+   "median": 0.221011683344841,
+   "iqr": 0.05701269954442978
+  },
+  "vocal_voiced": {
+   "median": 0.8035777300856948,
+   "iqr": 0.22489042193930164
+  },
+  "song_length": {
+   "median": 280.28,
+   "iqr": 70.87299999999999
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

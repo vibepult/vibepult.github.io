@@ -1,0 +1,32 @@
+{
+ "id": "grim-reaper/1835427124-101",
+ "band": "grim-reaper",
+ "title": "See You In Hell",
+ "source": "itunes",
+ "album": "See You In Hell",
+ "year": 1983,
+ "itunes_year": 1984,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 5.366585539145289,
+  "tempo_var": 14.146302901895377,
+  "low_onset_rate": 5.733246662937824,
+  "lufs": -10.119428487406644,
+  "rms_dbfs": -10.453461391433345,
+  "crest": 10.453461647033691,
+  "centroid": 3441.1340116867586,
+  "flatness": 0.05729655176401138,
+  "sub100_share": 0.13613301515579224,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7111788988113403,
+  "clean_share": 0.0,
+  "minor_share": -0.27000555882381133,
+  "chord_rate": 2.0333025955767865,
+  "repetitiveness": 0.8789210915565491,
+  "vocal_share": 0.27825942635536194,
+  "vocal_voiced": 0.22763507528786536,
+  "song_length": 258.456
+ }
+}

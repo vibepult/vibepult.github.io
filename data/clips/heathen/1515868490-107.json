@@ -1,0 +1,32 @@
+{
+ "id": "heathen/1515868490-107",
+ "band": "heathen",
+ "title": "In Black",
+ "source": "itunes",
+ "album": "Empire of the Blind",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 2.5393371478446394,
+  "tempo_var": 1.4210854715202004e-14,
+  "low_onset_rate": 1.4033178974930902,
+  "lufs": -8.477180226127393,
+  "rms_dbfs": -7.475693325266204,
+  "crest": 7.475693225860596,
+  "centroid": 2502.941434768689,
+  "flatness": 0.028112312778830528,
+  "sub100_share": 0.2952820956707001,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7578228712081909,
+  "clean_share": 0.09542280837858805,
+  "minor_share": -0.16153268858689762,
+  "chord_rate": 2.205213838917713,
+  "repetitiveness": 0.9250505566596985,
+  "vocal_share": 7.871211096244224e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 278.307
+ }
+}

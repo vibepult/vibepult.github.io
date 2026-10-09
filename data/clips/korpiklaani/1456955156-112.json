@@ -1,0 +1,32 @@
+{
+ "id": "korpiklaani/1456955156-112",
+ "band": "korpiklaani",
+ "title": "Sumussa Hämärän Aamun",
+ "source": "itunes",
+ "album": "Manala",
+ "year": 2012,
+ "itunes_year": 2012,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 0.6666626354489164,
+  "tempo_var": 12.814921225459992,
+  "low_onset_rate": 0.6999957672213623,
+  "lufs": -11.324340991096765,
+  "rms_dbfs": -10.450025179809998,
+  "crest": 10.450024604797363,
+  "centroid": 2259.5521704814437,
+  "flatness": 0.01256218645721674,
+  "sub100_share": 0.32769036293029785,
+  "lowest_pitch": 145.34912109375,
+  "harmonic_share": 0.898177444934845,
+  "clean_share": 0.5050270688321732,
+  "minor_share": -0.226408851745726,
+  "chord_rate": 1.3333252708978327,
+  "repetitiveness": 0.6557702422142029,
+  "vocal_share": 5.386323209677357e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 379.669
+ }
+}

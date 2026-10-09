@@ -1,0 +1,32 @@
+{
+ "id": "nocturnus/1401551408-104",
+ "band": "nocturnus",
+ "title": "Neolithic",
+ "source": "itunes",
+ "album": "The Key (Full Dynamic Range Edition)",
+ "year": 1990,
+ "itunes_year": 1990,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 4.0428920380158075,
+  "tempo_var": 10.156839086007823,
+  "low_onset_rate": 7.250475803714299,
+  "lufs": -14.756876479354906,
+  "rms_dbfs": -15.125870858699686,
+  "crest": 15.125870704650879,
+  "centroid": 2661.726694975565,
+  "flatness": 0.028918813914060593,
+  "sub100_share": 0.3079860806465149,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.6975653171539307,
+  "clean_share": 0.0504266873545384,
+  "minor_share": 0.20110367504698035,
+  "chord_rate": 2.338863162488484,
+  "repetitiveness": 0.9094383120536804,
+  "vocal_share": 0.08541248738765717,
+  "vocal_voiced": 0.2494802494802495,
+  "song_length": 290.827
+ }
+}

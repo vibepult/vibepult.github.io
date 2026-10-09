@@ -1,0 +1,32 @@
+{
+ "id": "saxon/1689552940-106",
+ "band": "saxon",
+ "title": "Ministry of Fools",
+ "source": "itunes",
+ "album": "Unleash the Beast",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 5.045261964796587,
+  "tempo_var": 12.010277896384029,
+  "low_onset_rate": 5.579859259079669,
+  "lufs": -10.294142742115449,
+  "rms_dbfs": -10.775317948302991,
+  "crest": 10.775318145751953,
+  "centroid": 2782.083135372444,
+  "flatness": 0.045516759157180786,
+  "sub100_share": 0.16202814877033234,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.7114088535308838,
+  "clean_share": 0.004654771140418929,
+  "minor_share": -0.06119081822875605,
+  "chord_rate": 1.069194588566164,
+  "repetitiveness": 0.8034628629684448,
+  "vocal_share": 0.24628594517707825,
+  "vocal_voiced": 0.7403474903474904,
+  "song_length": 271.373
+ }
+}

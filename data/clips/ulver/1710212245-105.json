@@ -1,0 +1,32 @@
+{
+ "id": "ulver/1710212245-105",
+ "band": "ulver",
+ "title": "Shadows of the Sun",
+ "source": "itunes",
+ "album": "Shadows of the Sun",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 95.703125,
+  "onset_rate": 0.43332678266390534,
+  "tempo_var": 3.6288113703457143,
+  "low_onset_rate": 8.366540188356941,
+  "lufs": -18.496226369530312,
+  "rms_dbfs": -17.76437171768549,
+  "crest": 14.207353591918945,
+  "centroid": 1178.6268370040113,
+  "flatness": 0.0016218129312619567,
+  "sub100_share": 0.15625007450580597,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.9490060806274414,
+  "clean_share": 0.9149265274555298,
+  "minor_share": -0.1724597651668377,
+  "chord_rate": 0.3999939532282203,
+  "repetitiveness": 0.9344668388366699,
+  "vocal_share": 0.1084849014878273,
+  "vocal_voiced": 0.7256317689530686,
+  "song_length": 276.333
+ }
+}

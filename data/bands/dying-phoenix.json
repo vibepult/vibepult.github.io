@@ -1,0 +1,126 @@
+{
+ "slug": "dying-phoenix",
+ "name": "Dying Phoenix",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1640711754,
+  "deezer": 180518337,
+  "spotify": "7s9B0wGJSFRfTVYSggCSK3"
+ },
+ "metadata": {
+  "formed": 2011,
+  "split": null,
+  "country": "DE",
+  "status": "active",
+  "members": 6,
+  "past_members": 7,
+  "full_lengths": 1,
+  "genre": "Symphonic Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 27,
+  "themes": "George R.R. Martin's \"A Song of Ice and Fire\"",
+  "release_year": 2023
+ },
+ "partial": false,
+ "clips": [
+  "dying-phoenix/1675847692-107",
+  "dying-phoenix/1675847692-106",
+  "dying-phoenix/1675847692-108",
+  "dying-phoenix/1675847692-105",
+  "dying-phoenix/1675847692-109",
+  "dying-phoenix/1675847692-104",
+  "dying-phoenix/1675847692-110",
+  "dying-phoenix/1675847692-103",
+  "dying-phoenix/1675847692-111",
+  "dying-phoenix/1675847692-102",
+  "dying-phoenix/1675847692-112"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 103.359375,
+   "iqr": 44.322509765625
+  },
+  "onset_rate": {
+   "median": 3.94265504533773,
+   "iqr": 1.420024062939436
+  },
+  "tempo_var": {
+   "median": 10.3986716185613,
+   "iqr": 15.793963155673277
+  },
+  "low_onset_rate": {
+   "median": 5.9473948988992875,
+   "iqr": 1.7040288755273236
+  },
+  "lufs": {
+   "median": -8.99199888552654,
+   "iqr": 3.6466255295986176
+  },
+  "rms_dbfs": {
+   "median": -8.292002686971804,
+   "iqr": 4.147898191042497
+  },
+  "crest": {
+   "median": 8.29200267791748,
+   "iqr": 4.01861572265625
+  },
+  "centroid": {
+   "median": 2354.3023544194857,
+   "iqr": 385.25771517478825
+  },
+  "flatness": {
+   "median": 0.02722683548927307,
+   "iqr": 0.018183501437306404
+  },
+  "sub100_share": {
+   "median": 0.3655044436454773,
+   "iqr": 0.12275750935077667
+  },
+  "lowest_pitch": {
+   "median": 64.599609375,
+   "iqr": 37.68310546875
+  },
+  "harmonic_share": {
+   "median": 0.7938821911811829,
+   "iqr": 0.10356464982032776
+  },
+  "clean_share": {
+   "median": 0.0791311093871218,
+   "iqr": 0.4623739332816137
+  },
+  "minor_share": {
+   "median": 0.08630435822301663,
+   "iqr": 0.052427776146353744
+  },
+  "chord_rate": {
+   "median": 1.3699055666003976,
+   "iqr": 0.5345972942830819
+  },
+  "repetitiveness": {
+   "median": 0.7933606505393982,
+   "iqr": 0.180225670337677
+  },
+  "vocal_share": {
+   "median": 0.23695076256990433,
+   "iqr": 0.1567351296544075
+  },
+  "vocal_voiced": {
+   "median": 0.7714517249363279,
+   "iqr": 0.15735735315203236
+  },
+  "song_length": {
+   "median": 243.333,
+   "iqr": 33.747499999999974
+  },
+  "vocal_presence": {
+   "median": 0.9090909090909091,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.4,
+  "camp": 0.3
+ },
+ "sources_failed": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "burzum/286841886-103",
+ "band": "burzum",
+ "title": "Ansuzgardaraiwo",
+ "source": "itunes",
+ "album": "Hlidskjalf",
+ "year": 1999,
+ "itunes_year": 1999,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 0.8353082723173156,
+  "tempo_var": 13.303302896042592,
+  "low_onset_rate": 8.252845730495078,
+  "lufs": -12.649710666267852,
+  "rms_dbfs": -12.588899673719734,
+  "crest": 12.588899612426758,
+  "centroid": 1248.0161866476958,
+  "flatness": 0.002764049917459488,
+  "sub100_share": 0.08841171860694885,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.9349445700645447,
+  "clean_share": 0.6400310318076028,
+  "minor_share": 0.16660001334576158,
+  "chord_rate": 0.30071097803423363,
+  "repetitiveness": 0.8325019478797913,
+  "vocal_share": 2.6425715986988507e-05,
+  "vocal_voiced": 0.0,
+  "song_length": 268.493
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "gloryhammer/1675544727-106",
+ "band": "gloryhammer",
+ "title": "Fife Eternal",
+ "source": "itunes",
+ "album": "Return to the Kingdom of Fife",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 7.299051068190681,
+  "tempo_var": 4.843901394650434,
+  "low_onset_rate": 7.665670071615784,
+  "lufs": -10.19132256365684,
+  "rms_dbfs": -9.624057599217444,
+  "crest": 9.62405776977539,
+  "centroid": 2738.6736166336336,
+  "flatness": 0.039333734661340714,
+  "sub100_share": 0.3889751136302948,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7696510553359985,
+  "clean_share": 0.014694508894044857,
+  "minor_share": -0.09893256287096697,
+  "chord_rate": 1.299831012143546,
+  "repetitiveness": 0.9203929901123047,
+  "vocal_share": 0.08729885518550873,
+  "vocal_voiced": 0.5396825396825397,
+  "song_length": 185.061
+ }
+}

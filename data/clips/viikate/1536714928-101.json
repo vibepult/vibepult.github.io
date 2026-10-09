@@ -1,0 +1,32 @@
+{
+ "id": "viikate/1536714928-101",
+ "band": "viikate",
+ "title": "Unholan Urut",
+ "source": "itunes",
+ "album": "Unholan Urut",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.045261964796587,
+  "tempo_var": 13.104811042126775,
+  "low_onset_rate": 7.517774450855841,
+  "lufs": -8.418729037751001,
+  "rms_dbfs": -7.604976181072257,
+  "crest": 7.604975700378418,
+  "centroid": 2108.314173506436,
+  "flatness": 0.018889300525188446,
+  "sub100_share": 0.3337647020816803,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8027715086936951,
+  "clean_share": 0.057408844065166796,
+  "minor_share": 0.2687665486737616,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.7573481798171997,
+  "vocal_share": 0.20528405904769897,
+  "vocal_voiced": 0.8846918489065606,
+  "song_length": 266.747
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "ne-obliviscaris/1651271436-104",
+ "band": "ne-obliviscaris",
+ "title": "Suspyre",
+ "source": "itunes",
+ "album": "Exul",
+ "year": 2023,
+ "itunes_year": 2023,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.677726324976968,
+  "tempo_var": 21.4685302526566,
+  "low_onset_rate": 4.410427677835426,
+  "lufs": -13.012883477383342,
+  "rms_dbfs": -12.169607346114619,
+  "crest": 12.169608116149902,
+  "centroid": 2213.038025204259,
+  "flatness": 0.016734814271330833,
+  "sub100_share": 0.2702549397945404,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.8083856701850891,
+  "clean_share": 0.14817688130333592,
+  "minor_share": 0.09396077922676316,
+  "chord_rate": 1.0023699267807789,
+  "repetitiveness": 0.7396997809410095,
+  "vocal_share": 0.020350279286503792,
+  "vocal_voiced": 0.02040816326530612,
+  "song_length": 608.608
+ }
+}

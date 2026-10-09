@@ -1,0 +1,127 @@
+{
+ "slug": "six-feet-under",
+ "name": "Six Feet Under",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 28917807,
+  "deezer": 2995,
+  "spotify": "4pFAF1L1tYnJHLe5hgyKuI"
+ },
+ "metadata": {
+  "formed": 1993,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 5,
+  "past_members": 9,
+  "full_lengths": 19,
+  "genre": "Death/Groove Metal, Death 'n' Roll",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 46458,
+  "themes": "Gore, Death, Murder, Politics, Cannabis",
+  "release_year": 2005
+ },
+ "partial": false,
+ "clips": [
+  "six-feet-under/57658954-106",
+  "six-feet-under/58731126-106",
+  "six-feet-under/57659356-106",
+  "six-feet-under/57647957-106",
+  "six-feet-under/57659559-106",
+  "six-feet-under/346920805-105",
+  "six-feet-under/219742929-105",
+  "six-feet-under/292203628-106",
+  "six-feet-under/517684414-106",
+  "six-feet-under/599203456-106",
+  "six-feet-under/972721511-105",
+  "six-feet-under/1099905481-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 139.77693256578948,
+   "iqr": 35.565582041240404
+  },
+  "onset_rate": {
+   "median": 4.2934845197110025,
+   "iqr": 1.3131719338440897
+  },
+  "tempo_var": {
+   "median": 14.002921593154614,
+   "iqr": 11.094350156405106
+  },
+  "low_onset_rate": {
+   "median": 5.596565424526014,
+   "iqr": 3.4512740662609023
+  },
+  "lufs": {
+   "median": -9.309642279829408,
+   "iqr": 1.4706461794730181
+  },
+  "rms_dbfs": {
+   "median": -8.288706865023617,
+   "iqr": 2.0520846927358694
+  },
+  "crest": {
+   "median": 8.28870677947998,
+   "iqr": 2.052085041999817
+  },
+  "centroid": {
+   "median": 2495.6770333599343,
+   "iqr": 407.30100478868235
+  },
+  "flatness": {
+   "median": 0.03096924815326929,
+   "iqr": 0.015306370332837105
+  },
+  "sub100_share": {
+   "median": 0.2733570635318756,
+   "iqr": 0.19605974480509758
+  },
+  "lowest_pitch": {
+   "median": 53.8330078125,
+   "iqr": 23.55194091796875
+  },
+  "harmonic_share": {
+   "median": 0.7100628614425659,
+   "iqr": 0.16167263686656952
+  },
+  "clean_share": {
+   "median": 0.03600247678464393,
+   "iqr": 0.04266873545384019
+  },
+  "minor_share": {
+   "median": 0.06748655156530761,
+   "iqr": 0.07041362712222753
+  },
+  "chord_rate": {
+   "median": 2.054858349900597,
+   "iqr": 0.3954288207893313
+  },
+  "repetitiveness": {
+   "median": 0.8463968634605408,
+   "iqr": 0.12286128103733063
+  },
+  "vocal_share": {
+   "median": 0.15790960937738419,
+   "iqr": 0.07849881052970886
+  },
+  "vocal_voiced": {
+   "median": 0.021303238783887086,
+   "iqr": 0.06803330185765823
+  },
+  "song_length": {
+   "median": 210.827,
+   "iqr": 36.111999999999995
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

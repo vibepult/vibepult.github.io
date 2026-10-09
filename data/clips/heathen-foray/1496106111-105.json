@@ -1,0 +1,32 @@
+{
+ "id": "heathen-foray/1496106111-105",
+ "band": "heathen-foray",
+ "title": "Weg",
+ "source": "itunes",
+ "album": "Weltenwandel",
+ "year": 2020,
+ "itunes_year": 2020,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 6.081044222470058,
+  "tempo_var": 5.978947360848871,
+  "low_onset_rate": 8.119196406924308,
+  "lufs": -6.605605618782376,
+  "rms_dbfs": -6.140657637417614,
+  "crest": 6.140657424926758,
+  "centroid": 2646.1352973202092,
+  "flatness": 0.044581688940525055,
+  "sub100_share": 0.40770310163497925,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.7176613807678223,
+  "clean_share": 0.0,
+  "minor_share": -0.15803444311319476,
+  "chord_rate": 1.2028439121369345,
+  "repetitiveness": 0.9149866104125977,
+  "vocal_share": 0.1017434224486351,
+  "vocal_voiced": 0.04568527918781726,
+  "song_length": 347.307
+ }
+}

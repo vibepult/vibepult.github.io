@@ -1,0 +1,32 @@
+{
+ "id": "loudness/336669037-105",
+ "band": "loudness",
+ "title": "Red Light Shooter",
+ "source": "itunes",
+ "album": "Soldier of Fortune",
+ "year": 1989,
+ "itunes_year": 1989,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.143129030693886,
+  "tempo_var": 17.34508193205138,
+  "low_onset_rate": 5.21232361926005,
+  "lufs": -16.381475055077132,
+  "rms_dbfs": -16.509164285081912,
+  "crest": 15.976818084716797,
+  "centroid": 2673.7534866378383,
+  "flatness": 0.036402855068445206,
+  "sub100_share": 0.1259039342403412,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.7166255712509155,
+  "clean_share": 0.022498060512024826,
+  "minor_share": 0.21408265642522484,
+  "chord_rate": 1.3030809048150125,
+  "repetitiveness": 0.7300509214401245,
+  "vocal_share": 0.28691455721855164,
+  "vocal_voiced": 0.8141447368421053,
+  "song_length": 290.365
+ }
+}

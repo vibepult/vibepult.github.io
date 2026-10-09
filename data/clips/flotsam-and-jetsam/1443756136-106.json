@@ -1,0 +1,32 @@
+{
+ "id": "flotsam-and-jetsam/1443756136-106",
+ "band": "flotsam-and-jetsam",
+ "title": "Double Zero",
+ "source": "itunes",
+ "album": "Cuatro",
+ "year": 1992,
+ "itunes_year": 1992,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 3.6085317364108036,
+  "tempo_var": 3.5164713106500454,
+  "low_onset_rate": 3.5417070746254184,
+  "lufs": -10.594947936471872,
+  "rms_dbfs": -10.829300815045917,
+  "crest": 10.829300880432129,
+  "centroid": 3045.8321564610437,
+  "flatness": 0.051726821810007095,
+  "sub100_share": 0.19049258530139923,
+  "lowest_pitch": 83.441162109375,
+  "harmonic_share": 0.6032729148864746,
+  "clean_share": 0.003878975950349108,
+  "minor_share": 0.1331261584839487,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.8306861519813538,
+  "vocal_share": 0.25678008794784546,
+  "vocal_voiced": 0.8042986425339367,
+  "song_length": 223.013
+ }
+}

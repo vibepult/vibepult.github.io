@@ -1,0 +1,32 @@
+{
+ "id": "the-agonist/1184702704-108",
+ "band": "the-agonist",
+ "title": "The Wake",
+ "source": "itunes",
+ "album": "Five",
+ "year": 2016,
+ "itunes_year": 2016,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 50.666360294117645,
+  "onset_rate": 2.1,
+  "tempo_var": 19.14039760415948,
+  "low_onset_rate": 5.1,
+  "lufs": -27.41721261234944,
+  "rms_dbfs": -27.13615248052473,
+  "crest": 18.039600372314453,
+  "centroid": 1211.0544898960184,
+  "flatness": 0.0004157967050559819,
+  "sub100_share": 0.02396509237587452,
+  "lowest_pitch": 164.190673828125,
+  "harmonic_share": 0.9670484662055969,
+  "clean_share": 0.9992260061919505,
+  "minor_share": 0.1881051032938278,
+  "chord_rate": 0.8333333333333334,
+  "repetitiveness": 0.698767900466919,
+  "vocal_share": 3.165633415846969e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 164.613
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "battlelore",
+ "name": "Battlelore",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 54673976,
+  "deezer": 10860,
+  "spotify": "6vDPwpGZIflBoW6Gy3FWFw"
+ },
+ "metadata": {
+  "formed": 1999,
+  "split": null,
+  "country": "FI",
+  "status": "active",
+  "members": 7,
+  "past_members": 4,
+  "full_lengths": 7,
+  "genre": "Epic Symphonic Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 5939,
+  "themes": "Epic battles, Fantasy, Tolkien",
+  "release_year": 2006
+ },
+ "partial": false,
+ "clips": [
+  "battlelore/1183564313-105",
+  "battlelore/1184107310-106",
+  "battlelore/1184719525-107",
+  "battlelore/1183975930-105",
+  "battlelore/1183988775-106",
+  "battlelore/1183596548-106",
+  "battlelore/1611051595-106",
+  "battlelore/1183564313-104",
+  "battlelore/1184107310-105",
+  "battlelore/1184719525-108",
+  "battlelore/1183975930-104",
+  "battlelore/1183988775-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 124.1731621853547,
+   "iqr": 68.70533167469573
+  },
+  "onset_rate": {
+   "median": 4.88325926149877,
+   "iqr": 1.4416666666666664
+  },
+  "tempo_var": {
+   "median": 8.399994189732404,
+   "iqr": 9.030402747901583
+  },
+  "low_onset_rate": {
+   "median": 5.783333333333333,
+   "iqr": 1.9749999999999996
+  },
+  "lufs": {
+   "median": -8.77153493716783,
+   "iqr": 1.3531861956990845
+  },
+  "rms_dbfs": {
+   "median": -8.329416501905456,
+   "iqr": 1.896677607575242
+  },
+  "crest": {
+   "median": 8.329416751861572,
+   "iqr": 1.896677851676941
+  },
+  "centroid": {
+   "median": 2431.7971524326886,
+   "iqr": 663.8265260985017
+  },
+  "flatness": {
+   "median": 0.028356189839541912,
+   "iqr": 0.03519665100611746
+  },
+  "sub100_share": {
+   "median": 0.36140814423561096,
+   "iqr": 0.09922020882368088
+  },
+  "lowest_pitch": {
+   "median": 52.4871826171875,
+   "iqr": 21.533203125
+  },
+  "harmonic_share": {
+   "median": 0.8140442669391632,
+   "iqr": 0.12489877641201019
+  },
+  "clean_share": {
+   "median": 0.006576253654471924,
+   "iqr": 0.14609133126934987
+  },
+  "minor_share": {
+   "median": 0.02330146168809072,
+   "iqr": 0.21545925075873934
+  },
+  "chord_rate": {
+   "median": 1.5833333333333335,
+   "iqr": 0.9833333333333334
+  },
+  "repetitiveness": {
+   "median": 0.8123818635940552,
+   "iqr": 0.1597469598054886
+  },
+  "vocal_share": {
+   "median": 0.13521189987659454,
+   "iqr": 0.03655771352350712
+  },
+  "vocal_voiced": {
+   "median": 0.6566557447638783,
+   "iqr": 0.6214440104318921
+  },
+  "song_length": {
+   "median": 255.207,
+   "iqr": 115.26049999999998
+  },
+  "vocal_presence": {
+   "median": 0.8333333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.5,
+  "camp": 0.4
+ },
+ "sources_failed": []
+}

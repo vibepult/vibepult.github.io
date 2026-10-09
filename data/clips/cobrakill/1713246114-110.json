@@ -1,0 +1,32 @@
+{
+ "id": "cobrakill/1713246114-110",
+ "band": "cobrakill",
+ "title": "Silent Running",
+ "source": "itunes",
+ "album": "Serpent's Kiss",
+ "year": 2024,
+ "itunes_year": 2024,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 2.733316805340557,
+  "tempo_var": 28.68123368303133,
+  "low_onset_rate": 2.6333174100232197,
+  "lufs": -12.91330126556216,
+  "rms_dbfs": -11.691238302160514,
+  "crest": 11.691238403320312,
+  "centroid": 2307.3802141540345,
+  "flatness": 0.027865609154105186,
+  "sub100_share": 0.5124451518058777,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.7080456018447876,
+  "clean_share": 0.4779582366589327,
+  "minor_share": 0.18270791966232813,
+  "chord_rate": 1.0333270849458205,
+  "repetitiveness": 0.8289089202880859,
+  "vocal_share": 5.67023278108536e-07,
+  "vocal_voiced": 0.0,
+  "song_length": 241.364
+ }
+}

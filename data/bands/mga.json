@@ -1,0 +1,127 @@
+{
+ "slug": "mga",
+ "name": "Mgła",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 1439907216,
+  "deezer": 62316192,
+  "spotify": "2hbkBlGBgvJkC3tpUn9w4C"
+ },
+ "metadata": {
+  "formed": 2000,
+  "split": null,
+  "country": "PL",
+  "status": "active",
+  "members": 2,
+  "past_members": 1,
+  "full_lengths": 4,
+  "genre": "Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 20970,
+  "themes": "Darkness, Misanthropy, Nihilism, Pessimism, Philosophy",
+  "release_year": 2015
+ },
+ "partial": false,
+ "clips": [
+  "mga/1439908964-104",
+  "mga/1439910664-103",
+  "mga/1479040873-103",
+  "mga/1439908964-103",
+  "mga/1439910664-104",
+  "mga/1479040873-104",
+  "mga/1439908964-105",
+  "mga/1439910664-102",
+  "mga/1479040873-102",
+  "mga/1439908964-102",
+  "mga/1439910664-105",
+  "mga/1479040873-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 147.77688419117646,
+   "iqr": 41.12708050271739
+  },
+  "onset_rate": {
+   "median": 6.15,
+   "iqr": 1.6999999999999993
+  },
+  "tempo_var": {
+   "median": 11.635691774893019,
+   "iqr": 4.253445556882626
+  },
+  "low_onset_rate": {
+   "median": 6.2,
+   "iqr": 1.791666666666666
+  },
+  "lufs": {
+   "median": -8.987469824094708,
+   "iqr": 1.4032549079563026
+  },
+  "rms_dbfs": {
+   "median": -9.019082313237096,
+   "iqr": 1.7457028067103835
+  },
+  "crest": {
+   "median": 9.019082069396973,
+   "iqr": 1.745703101158142
+  },
+  "centroid": {
+   "median": 2599.9738851786205,
+   "iqr": 198.95167912236548
+  },
+  "flatness": {
+   "median": 0.04047061316668987,
+   "iqr": 0.009872179478406906
+  },
+  "sub100_share": {
+   "median": 0.23850491642951965,
+   "iqr": 0.07165634445846081
+  },
+  "lowest_pitch": {
+   "median": 59.21630859375,
+   "iqr": 37.01019287109375
+  },
+  "harmonic_share": {
+   "median": 0.7476665079593658,
+   "iqr": 0.08387619256973267
+  },
+  "clean_share": {
+   "median": 0.0,
+   "iqr": 0.0
+  },
+  "minor_share": {
+   "median": 0.02196319816567427,
+   "iqr": 0.06246576188022891
+  },
+  "chord_rate": {
+   "median": 1.2166666666666668,
+   "iqr": 0.45833333333333326
+  },
+  "repetitiveness": {
+   "median": 0.9210371971130371,
+   "iqr": 0.029602840542793274
+  },
+  "vocal_share": {
+   "median": 0.05104384571313858,
+   "iqr": 0.020547952502965927
+  },
+  "vocal_voiced": {
+   "median": 0.21144278606965175,
+   "iqr": 0.08466596955966074
+  },
+  "song_length": {
+   "median": 362.476,
+   "iqr": 115.6395
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.5,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

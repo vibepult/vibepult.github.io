@@ -1,0 +1,32 @@
+{
+ "id": "wormrot/1613218529-110",
+ "band": "wormrot",
+ "title": "Seizures",
+ "source": "itunes",
+ "album": "Hiss",
+ "year": 2022,
+ "itunes_year": 2022,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 107.666015625,
+  "onset_rate": 7.150238811036222,
+  "tempo_var": 10.114008176877942,
+  "low_onset_rate": 7.016589487465451,
+  "lufs": -7.234447648463133,
+  "rms_dbfs": -6.922045235161498,
+  "crest": 6.9220452308654785,
+  "centroid": 2283.8459911289765,
+  "flatness": 0.03053366020321846,
+  "sub100_share": 0.352481484413147,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.678016185760498,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": 0.22282900640728465,
+  "chord_rate": 1.6372042137419387,
+  "repetitiveness": 0.9579830169677734,
+  "vocal_share": 0.25573354959487915,
+  "vocal_voiced": 0.23666092943201378,
+  "song_length": 171.68
+ }
+}

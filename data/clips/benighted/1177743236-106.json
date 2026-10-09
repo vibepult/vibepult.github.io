@@ -1,0 +1,32 @@
+{
+ "id": "benighted/1177743236-106",
+ "band": "benighted",
+ "title": "Der Doppelgaenger",
+ "source": "itunes",
+ "album": "Necrobreed",
+ "year": 2017,
+ "itunes_year": 2017,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 7.718248436211996,
+  "tempo_var": 0.0,
+  "low_onset_rate": 8.319670392280464,
+  "lufs": -6.761416412604217,
+  "rms_dbfs": -6.461436466315009,
+  "crest": 6.461436748504639,
+  "centroid": 2576.705831964893,
+  "flatness": 0.04370202496647835,
+  "sub100_share": 0.37706458568573,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.6806192398071289,
+  "clean_share": 0.0,
+  "minor_share": -0.042520232879751596,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.9243716597557068,
+  "vocal_share": 0.17409555613994598,
+  "vocal_voiced": 0.14242115971515767,
+  "song_length": 228.453
+ }
+}

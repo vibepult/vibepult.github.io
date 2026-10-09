@@ -1,0 +1,32 @@
+{
+ "id": "bucium/1656020532-104",
+ "band": "bucium",
+ "title": "Cântecul Soarelui / The Song of the Sun (feat. Ligia Hojda)",
+ "source": "itunes",
+ "album": "Zimbrul Alb / White Wisent",
+ "year": 2022,
+ "itunes_year": 2021,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 5.011849633903894,
+  "tempo_var": 14.095832035138995,
+  "low_onset_rate": 5.045261964796587,
+  "lufs": -9.770960891382588,
+  "rms_dbfs": -8.844863736807532,
+  "crest": 8.844863891601562,
+  "centroid": 2753.584103682638,
+  "flatness": 0.03148519620299339,
+  "sub100_share": 0.3997921943664551,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.7952423691749573,
+  "clean_share": 0.010861132660977503,
+  "minor_share": 0.3052407395246758,
+  "chord_rate": 1.5035548901711682,
+  "repetitiveness": 0.7875698208808899,
+  "vocal_share": 0.2132330685853958,
+  "vocal_voiced": 0.8476716653512234,
+  "song_length": 304.013
+ }
+}

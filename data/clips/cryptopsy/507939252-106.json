@@ -1,0 +1,32 @@
+{
+ "id": "cryptopsy/507939252-106",
+ "band": "cryptopsy",
+ "title": "Swine at the Cross",
+ "source": "itunes",
+ "album": "Blasphemy Made Flesh",
+ "year": 1994,
+ "itunes_year": 1994,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 6.281518207826213,
+  "tempo_var": 13.2642643058731,
+  "low_onset_rate": 8.553556708529312,
+  "lufs": -17.514227260186463,
+  "rms_dbfs": -17.694580050181,
+  "crest": 17.694580078125,
+  "centroid": 3324.961989170457,
+  "flatness": 0.07309862226247787,
+  "sub100_share": 0.15496325492858887,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.6644293665885925,
+  "clean_share": 0.0031031807602792862,
+  "minor_share": 0.0964160248544837,
+  "chord_rate": 3.30782075837657,
+  "repetitiveness": 0.9499902129173279,
+  "vocal_share": 0.16092099249362946,
+  "vocal_voiced": 0.25499231950844853,
+  "song_length": 186.227
+ }
+}

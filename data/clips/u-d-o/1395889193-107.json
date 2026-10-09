@@ -1,0 +1,32 @@
+{
+ "id": "u-d-o/1395889193-107",
+ "band": "u-d-o",
+ "title": "Rising High",
+ "source": "itunes",
+ "album": "Steelfactory",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 117.45383522727273,
+  "onset_rate": 6.666626354489164,
+  "tempo_var": 2.482836340564117,
+  "low_onset_rate": 6.366628168537152,
+  "lufs": -9.314307993827116,
+  "rms_dbfs": -9.081889516261572,
+  "crest": 9.081889152526855,
+  "centroid": 2314.053161548978,
+  "flatness": 0.05106373876333237,
+  "sub100_share": 0.369650661945343,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.739789605140686,
+  "clean_share": 0.04640371229698376,
+  "minor_share": 0.2668618784729179,
+  "chord_rate": 1.2666590073529411,
+  "repetitiveness": 0.9048060178756714,
+  "vocal_share": 0.08396138995885849,
+  "vocal_voiced": 0.0,
+  "song_length": 250.259
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "strapping-young-lad/1045623722-106",
+ "band": "strapping-young-lad",
+ "title": "AAA",
+ "source": "itunes",
+ "album": "City",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 92.28515625,
+  "onset_rate": 3.7087687290888813,
+  "tempo_var": 14.10921326061019,
+  "low_onset_rate": 5.412797604616205,
+  "lufs": -8.733067957439763,
+  "rms_dbfs": -9.02462250183935,
+  "crest": 9.024622917175293,
+  "centroid": 2710.329830130357,
+  "flatness": 0.05481158196926117,
+  "sub100_share": 0.2122516632080078,
+  "lowest_pitch": 51.141357421875,
+  "harmonic_share": 0.6899466514587402,
+  "clean_share": 0.0023273855702094647,
+  "minor_share": 0.12975362865104106,
+  "chord_rate": 1.9045028608834795,
+  "repetitiveness": 0.9431965947151184,
+  "vocal_share": 0.3340318202972412,
+  "vocal_voiced": 0.4939236111111111,
+  "song_length": 321.907
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "elderwind/1658378589-105",
+ "band": "elderwind",
+ "title": "Silence",
+ "source": "itunes",
+ "album": "The Colder the Night",
+ "year": 2018,
+ "itunes_year": 2018,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 5.312560611938127,
+  "tempo_var": 13.296315655404317,
+  "low_onset_rate": 5.011849633903894,
+  "lufs": -10.656749134261043,
+  "rms_dbfs": -10.926845058585531,
+  "crest": 10.92684555053711,
+  "centroid": 2680.5944147099926,
+  "flatness": 0.029588013887405396,
+  "sub100_share": 0.1337853968143463,
+  "lowest_pitch": 61.907958984375,
+  "harmonic_share": 0.8942251205444336,
+  "clean_share": 0.0,
+  "minor_share": 0.1835229214425237,
+  "chord_rate": 0.6348342869611598,
+  "repetitiveness": 0.6008828282356262,
+  "vocal_share": 0.0003732292097993195,
+  "vocal_voiced": 1.0,
+  "song_length": 440.573
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "norther/700718624-107",
+ "band": "norther",
+ "title": "The Cure",
+ "source": "itunes",
+ "album": "Death Unlimited",
+ "year": 2004,
+ "itunes_year": 2004,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.677726324976968,
+  "tempo_var": 16.379258003810016,
+  "low_onset_rate": 5.9139825680065945,
+  "lufs": -8.25174228299642,
+  "rms_dbfs": -7.977267945489097,
+  "crest": 7.977267265319824,
+  "centroid": 2697.2648655215917,
+  "flatness": 0.04350753128528595,
+  "sub100_share": 0.3521881699562073,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7889185547828674,
+  "clean_share": 0.0007757951900698216,
+  "minor_share": 0.1929578460490845,
+  "chord_rate": 1.169431581244242,
+  "repetitiveness": 0.702099084854126,
+  "vocal_share": 0.14320018887519836,
+  "vocal_voiced": 0.20361247947454844,
+  "song_length": 283.693
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "dark-moor/1462669811-106",
+ "band": "dark-moor",
+ "title": "Devil in the Tower",
+ "source": "itunes",
+ "album": "Tarot",
+ "year": 2007,
+ "itunes_year": 2007,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 5.34597294283082,
+  "tempo_var": 24.091154746158004,
+  "low_onset_rate": 4.911612641225816,
+  "lufs": -8.437662090967077,
+  "rms_dbfs": -7.721311780719868,
+  "crest": 7.721312046051025,
+  "centroid": 2137.2996423239088,
+  "flatness": 0.01841413602232933,
+  "sub100_share": 0.3035285174846649,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.8191378712654114,
+  "clean_share": 0.1799844840961986,
+  "minor_share": 0.17018390528405136,
+  "chord_rate": 1.0023699267807789,
+  "repetitiveness": 0.8099245429039001,
+  "vocal_share": 0.23661407828330994,
+  "vocal_voiced": 0.7983798379837984,
+  "song_length": 471.467
+ }
+}

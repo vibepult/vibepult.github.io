@@ -1,0 +1,32 @@
+{
+ "id": "neurosis/1882105289-105",
+ "band": "neurosis",
+ "title": "Seething and Scattered",
+ "source": "itunes",
+ "album": "An Undying Love for a Burning World",
+ "year": 2026,
+ "itunes_year": 2026,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 3.866608214539463,
+  "tempo_var": 3.0717938529083333,
+  "low_onset_rate": 5.033257244788439,
+  "lufs": -8.737544433718254,
+  "rms_dbfs": -7.829196495065092,
+  "crest": 7.829196929931641,
+  "centroid": 2029.6545034944843,
+  "flatness": 0.015602690167725086,
+  "sub100_share": 0.4041472375392914,
+  "lowest_pitch": 72.674560546875,
+  "harmonic_share": 0.7280776500701904,
+  "clean_share": 0.028615622583139984,
+  "minor_share": 0.01925356870859285,
+  "chord_rate": 1.333313177427401,
+  "repetitiveness": 0.8453509211540222,
+  "vocal_share": 0.10915431380271912,
+  "vocal_voiced": 0.3850415512465374,
+  "song_length": 493.067
+ }
+}

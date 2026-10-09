@@ -1,0 +1,32 @@
+{
+ "id": "idi-bihotz/200790795-106",
+ "band": "idi-bihotz",
+ "title": "Noiz",
+ "source": "itunes",
+ "album": "Herriaren Taupada",
+ "year": 1997,
+ "itunes_year": 1997,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.443840008728119,
+  "tempo_var": 19.247558412096584,
+  "low_onset_rate": 3.3412330892692625,
+  "lufs": -16.18026811460956,
+  "rms_dbfs": -15.187995526226405,
+  "crest": 15.187995910644531,
+  "centroid": 2626.9091100809173,
+  "flatness": 0.023144112899899483,
+  "sub100_share": 0.39672642946243286,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7523802518844604,
+  "clean_share": 0.17843289371605897,
+  "minor_share": 0.04352024160139745,
+  "chord_rate": 1.236256243029627,
+  "repetitiveness": 0.7357821464538574,
+  "vocal_share": 0.28032299876213074,
+  "vocal_voiced": 0.9253393665158371,
+  "song_length": 321.782
+ }
+}

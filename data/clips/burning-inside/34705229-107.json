@@ -1,0 +1,32 @@
+{
+ "id": "burning-inside/34705229-107",
+ "band": "burning-inside",
+ "title": "Apparition",
+ "source": "itunes",
+ "album": "Apparation",
+ "year": 2001,
+ "itunes_year": 2001,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 123.046875,
+  "onset_rate": 5.4462099355088975,
+  "tempo_var": 7.057811025926483,
+  "low_onset_rate": 7.651423774426611,
+  "lufs": -8.079125424140965,
+  "rms_dbfs": -7.458896604143373,
+  "crest": 7.458896636962891,
+  "centroid": 2247.822669348258,
+  "flatness": 0.01999080367386341,
+  "sub100_share": 0.22299163043498993,
+  "lowest_pitch": 96.8994140625,
+  "harmonic_share": 0.7833354473114014,
+  "clean_share": 0.0791311093871218,
+  "minor_share": -0.09025135294135922,
+  "chord_rate": 2.338863162488484,
+  "repetitiveness": 0.9095871448516846,
+  "vocal_share": 0.08663292974233627,
+  "vocal_voiced": 0.11378848728246319,
+  "song_length": 199.181
+ }
+}

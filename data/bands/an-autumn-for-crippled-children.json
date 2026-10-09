@@ -1,0 +1,127 @@
+{
+ "slug": "an-autumn-for-crippled-children",
+ "name": "An Autumn for Crippled Children",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 361405732,
+  "deezer": 1425363,
+  "spotify": "7yMpYMZTr6Hm1Dm5CR0CRZ"
+ },
+ "metadata": {
+  "formed": 2009,
+  "split": null,
+  "country": "NL",
+  "status": "active",
+  "members": 3,
+  "past_members": 0,
+  "full_lengths": 11,
+  "genre": "Post-Black Metal, Shoegaze",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 2410,
+  "themes": "Depression, Anguish, Anger, Hate, Love",
+  "release_year": 2014
+ },
+ "partial": false,
+ "clips": [
+  "an-autumn-for-crippled-children/361405731-105",
+  "an-autumn-for-crippled-children/461020168-105",
+  "an-autumn-for-crippled-children/555342201-104",
+  "an-autumn-for-crippled-children/1664253803-105",
+  "an-autumn-for-crippled-children/968506046-105",
+  "an-autumn-for-crippled-children/1176671679-105",
+  "an-autumn-for-crippled-children/1436751759-105",
+  "an-autumn-for-crippled-children/1496861117-105",
+  "an-autumn-for-crippled-children/1548869211-104",
+  "an-autumn-for-crippled-children/1672644208-105",
+  "an-autumn-for-crippled-children/361405731-104",
+  "an-autumn-for-crippled-children/461020168-104"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 112.34714673913044,
+   "iqr": 25.1220703125
+  },
+  "onset_rate": {
+   "median": 4.644313994084275,
+   "iqr": 1.4283771456626093
+  },
+  "tempo_var": {
+   "median": 7.975470935816691,
+   "iqr": 10.980061995765372
+  },
+  "low_onset_rate": {
+   "median": 6.933058660233719,
+   "iqr": 2.556043313290985
+  },
+  "lufs": {
+   "median": -8.001458275296846,
+   "iqr": 2.385594446552929
+  },
+  "rms_dbfs": {
+   "median": -7.76226595154735,
+   "iqr": 2.8633706539125487
+  },
+  "crest": {
+   "median": 7.762266159057617,
+   "iqr": 2.8633707761764526
+  },
+  "centroid": {
+   "median": 2222.20304282265,
+   "iqr": 350.93306419166197
+  },
+  "flatness": {
+   "median": 0.0231239078566432,
+   "iqr": 0.02324052364565432
+  },
+  "sub100_share": {
+   "median": 0.12355338037014008,
+   "iqr": 0.07203461602330208
+  },
+  "lowest_pitch": {
+   "median": 60.5621337890625,
+   "iqr": 56.524658203125
+  },
+  "harmonic_share": {
+   "median": 0.8161147832870483,
+   "iqr": 0.08863554894924164
+  },
+  "clean_share": {
+   "median": 0.0,
+   "iqr": 0.08533747090768037
+  },
+  "minor_share": {
+   "median": -0.01489038469439219,
+   "iqr": 0.15331004668378595
+  },
+  "chord_rate": {
+   "median": 0.8353082723173155,
+   "iqr": 0.5011849633903894
+  },
+  "repetitiveness": {
+   "median": 0.8358777165412903,
+   "iqr": 0.0615888386964798
+  },
+  "vocal_share": {
+   "median": 0.04182202368974686,
+   "iqr": 0.020345700904726982
+  },
+  "vocal_voiced": {
+   "median": 0.2936708860759494,
+   "iqr": 0.3300168206265932
+  },
+  "song_length": {
+   "median": 286.959,
+   "iqr": 64.81099999999998
+  },
+  "vocal_presence": {
+   "median": 0.5833333333333334,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.1,
+  "camp": 0.0
+ },
+ "sources_failed": []
+}

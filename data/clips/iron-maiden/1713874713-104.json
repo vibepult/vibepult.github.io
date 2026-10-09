@@ -1,0 +1,32 @@
+{
+ "id": "iron-maiden/1713874713-104",
+ "band": "iron-maiden",
+ "title": "Phantom of the Opera (2015 Remaster)",
+ "source": "itunes",
+ "album": "Iron Maiden (2015 Remaster)",
+ "year": 1980,
+ "itunes_year": 1980,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 129.19921875,
+  "onset_rate": 6.333237592780155,
+  "tempo_var": 3.4186383919366508,
+  "low_onset_rate": 6.333237592780155,
+  "lufs": -10.24767253089126,
+  "rms_dbfs": -9.571687422577027,
+  "crest": 9.571687698364258,
+  "centroid": 2265.857982004822,
+  "flatness": 0.01920497603714466,
+  "sub100_share": 0.4542578160762787,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.8186342716217041,
+  "clean_share": 0.02474864655839134,
+  "minor_share": 0.16566754089124414,
+  "chord_rate": 2.866623331468912,
+  "repetitiveness": 0.8920340538024902,
+  "vocal_share": 0.1401502788066864,
+  "vocal_voiced": 0.7575757575757576,
+  "song_length": 441.477
+ }
+}

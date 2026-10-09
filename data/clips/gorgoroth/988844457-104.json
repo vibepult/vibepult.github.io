@@ -1,0 +1,32 @@
+{
+ "id": "gorgoroth/988844457-104",
+ "band": "gorgoroth",
+ "title": "Come Night",
+ "source": "itunes",
+ "album": "Instinctus Bestialis",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 89.10290948275862,
+  "onset_rate": 1.3999915344427245,
+  "tempo_var": 12.422652744066118,
+  "low_onset_rate": 2.0999873016640866,
+  "lufs": -8.626314356973857,
+  "rms_dbfs": -8.128767320601929,
+  "crest": 8.128767013549805,
+  "centroid": 2596.417401519676,
+  "flatness": 0.035622674971818924,
+  "sub100_share": 0.4035777747631073,
+  "lowest_pitch": 91.51611328125,
+  "harmonic_share": 0.8392682075500488,
+  "clean_share": 0.2977571539056458,
+  "minor_share": 0.1131593429304052,
+  "chord_rate": 1.499990929760062,
+  "repetitiveness": 0.6355265974998474,
+  "vocal_share": 0.010342031717300415,
+  "vocal_voiced": 0.9473684210526315,
+  "song_length": 160.787
+ }
+}

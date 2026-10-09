@@ -1,0 +1,32 @@
+{
+ "id": "raven/1349223818-107",
+ "band": "raven",
+ "title": "Fire Burns Within",
+ "source": "itunes",
+ "album": "Extermination",
+ "year": 2015,
+ "itunes_year": 2015,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 99.38401442307692,
+  "onset_rate": 4.610901663191583,
+  "tempo_var": 15.763636798785896,
+  "low_onset_rate": 4.544077001406197,
+  "lufs": -7.678681941676543,
+  "rms_dbfs": -7.960445253074326,
+  "crest": 7.960445404052734,
+  "centroid": 2741.92371229037,
+  "flatness": 0.05012987554073334,
+  "sub100_share": 0.17513662576675415,
+  "lowest_pitch": 56.524658203125,
+  "harmonic_share": 0.6385310888290405,
+  "clean_share": 0.0031031807602792862,
+  "minor_share": 0.003815724751424221,
+  "chord_rate": 2.071564515346943,
+  "repetitiveness": 0.8630276322364807,
+  "vocal_share": 0.32962560653686523,
+  "vocal_voiced": 0.636211232187762,
+  "song_length": 295.92
+ }
+}

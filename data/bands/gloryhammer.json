@@ -1,0 +1,127 @@
+{
+ "slug": "gloryhammer",
+ "name": "Gloryhammer",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 609712495,
+  "deezer": 4506681,
+  "spotify": "7dkEByOe0oHqc54qU4hwzV"
+ },
+ "metadata": {
+  "formed": 2009,
+  "split": null,
+  "country": "GB",
+  "status": "active",
+  "members": 6,
+  "past_members": 3,
+  "full_lengths": 5,
+  "genre": "Symphonic Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 47692,
+  "themes": "Fantasy, Science fiction, Epic tales, Fictional history",
+  "release_year": 2017
+ },
+ "partial": false,
+ "clips": [
+  "gloryhammer/1183597485-106",
+  "gloryhammer/1184705317-106",
+  "gloryhammer/1456399283-106",
+  "gloryhammer/1675544727-106",
+  "gloryhammer/1183597485-107",
+  "gloryhammer/1184705317-105",
+  "gloryhammer/1456399283-105",
+  "gloryhammer/1675544727-105",
+  "gloryhammer/6782098667-107",
+  "gloryhammer/1183597485-105",
+  "gloryhammer/1184705317-107",
+  "gloryhammer/1456399283-107"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 126.72650642942585,
+   "iqr": 52.00853166537047
+  },
+  "onset_rate": {
+   "median": 6.2666666666666675,
+   "iqr": 1.209105852075445
+  },
+  "tempo_var": {
+   "median": 12.587422470072795,
+   "iqr": 11.949715866906864
+  },
+  "low_onset_rate": {
+   "median": 6.866666666666667,
+   "iqr": 1.2333333333333334
+  },
+  "lufs": {
+   "median": -8.84907435150849,
+   "iqr": 0.8194364568681642
+  },
+  "rms_dbfs": {
+   "median": -8.059853559995592,
+   "iqr": 1.0378487024243137
+  },
+  "crest": {
+   "median": 8.059853792190552,
+   "iqr": 1.037848711013794
+  },
+  "centroid": {
+   "median": 2578.927508070702,
+   "iqr": 99.97402929826058
+  },
+  "flatness": {
+   "median": 0.03435945510864258,
+   "iqr": 0.009520525578409433
+  },
+  "sub100_share": {
+   "median": 0.38212040066719055,
+   "iqr": 0.11566860973834991
+  },
+  "lowest_pitch": {
+   "median": 43.06640625,
+   "iqr": 12.78533935546875
+  },
+  "harmonic_share": {
+   "median": 0.7517123818397522,
+   "iqr": 0.03653070330619812
+  },
+  "clean_share": {
+   "median": 0.004256965944272446,
+   "iqr": 0.017995356037151702
+  },
+  "minor_share": {
+   "median": 0.009002172949219733,
+   "iqr": 0.19930077027191845
+  },
+  "chord_rate": {
+   "median": 1.1333333333333333,
+   "iqr": 0.35019851481682274
+  },
+  "repetitiveness": {
+   "median": 0.8867163956165314,
+   "iqr": 0.05102472007274628
+  },
+  "vocal_share": {
+   "median": 0.17048834264278412,
+   "iqr": 0.09620583057403564
+  },
+  "vocal_voiced": {
+   "median": 0.5396825396825397,
+   "iqr": 0.28211167314750396
+  },
+  "song_length": {
+   "median": 282.9335,
+   "iqr": 57.15375000000003
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.9,
+  "camp": 1.0
+ },
+ "sources_failed": []
+}

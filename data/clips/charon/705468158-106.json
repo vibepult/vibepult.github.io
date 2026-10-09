@@ -1,0 +1,32 @@
+{
+ "id": "charon/705468158-106",
+ "band": "charon",
+ "title": "She Hates",
+ "source": "itunes",
+ "album": "Songs for the Sinners (Finnish version)",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 86.1328125,
+  "onset_rate": 2.5393371478446394,
+  "tempo_var": 23.73213740854543,
+  "low_onset_rate": 5.412797604616205,
+  "lufs": -7.536676493086198,
+  "rms_dbfs": -7.487988237392401,
+  "crest": 7.487988471984863,
+  "centroid": 2757.5599063460827,
+  "flatness": 0.04309284687042236,
+  "sub100_share": 0.23095355927944183,
+  "lowest_pitch": 53.8330078125,
+  "harmonic_share": 0.7650572061538696,
+  "clean_share": 0.0015515903801396431,
+  "minor_share": -0.0017397055701954267,
+  "chord_rate": 1.3699055666003976,
+  "repetitiveness": 0.7599095702171326,
+  "vocal_share": 0.20041656494140625,
+  "vocal_voiced": 0.5402397260273972,
+  "song_length": 261.6
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "haemorrhage/1677129898-107",
+ "band": "haemorrhage",
+ "title": "Exhuming Impulse",
+ "source": "itunes",
+ "album": "Morgue Sweet Home",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 4.5106646705135045,
+  "tempo_var": 9.046132926794217,
+  "low_onset_rate": 7.417537458177763,
+  "lufs": -9.232264563788076,
+  "rms_dbfs": -8.967821441380604,
+  "crest": 8.96782112121582,
+  "centroid": 2488.1350913705164,
+  "flatness": 0.040041033178567886,
+  "sub100_share": 0.29536914825439453,
+  "lowest_pitch": 59.21630859375,
+  "harmonic_share": 0.7188432812690735,
+  "clean_share": 0.07137315748642359,
+  "minor_share": 0.0839680069701581,
+  "chord_rate": 2.4391001551665616,
+  "repetitiveness": 0.9527984857559204,
+  "vocal_share": 0.08372581750154495,
+  "vocal_voiced": 0.04777415852334419,
+  "song_length": 181.08
+ }
+}

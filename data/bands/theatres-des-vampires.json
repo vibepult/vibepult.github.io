@@ -1,0 +1,127 @@
+{
+ "slug": "theatres-des-vampires",
+ "name": "Theatres des Vampires",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 80570950,
+  "deezer": 12041,
+  "spotify": "4vNrZHCyGyELnv8tAgZZRt"
+ },
+ "metadata": {
+  "formed": 1994,
+  "split": null,
+  "country": "IT",
+  "status": "active",
+  "members": 5,
+  "past_members": 9,
+  "full_lengths": 11,
+  "genre": "Melodic Black/Gothic Metal (early); Gothic Metal (later)",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 12713,
+  "themes": "Vampirism, Tales, Blood, Love",
+  "release_year": 2003
+ },
+ "partial": false,
+ "clips": [
+  "theatres-des-vampires/1798547554-105",
+  "theatres-des-vampires/1058959629-106",
+  "theatres-des-vampires/1058952452-105",
+  "theatres-des-vampires/1796451245-108",
+  "theatres-des-vampires/152618865-105",
+  "theatres-des-vampires/277709971-105",
+  "theatres-des-vampires/399448856-106",
+  "theatres-des-vampires/1734223929-106",
+  "theatres-des-vampires/1734232722-105",
+  "theatres-des-vampires/1798547554-106",
+  "theatres-des-vampires/1058959629-105",
+  "theatres-des-vampires/1058952452-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 143.5546875,
+   "iqr": 22.799862132352928
+  },
+  "onset_rate": {
+   "median": 4.7278448213160065,
+   "iqr": 1.6695101814140418
+  },
+  "tempo_var": {
+   "median": 9.275231550884236,
+   "iqr": 17.20761927814071
+  },
+  "low_onset_rate": {
+   "median": 5.780333244435824,
+   "iqr": 2.6281392438054603
+  },
+  "lufs": {
+   "median": -9.881978766881776,
+   "iqr": 1.3492971844056463
+  },
+  "rms_dbfs": {
+   "median": -9.468321338548485,
+   "iqr": 1.5063514200025239
+  },
+  "crest": {
+   "median": 9.468321323394775,
+   "iqr": 1.5063514709472656
+  },
+  "centroid": {
+   "median": 2348.777030209325,
+   "iqr": 554.9287011452061
+  },
+  "flatness": {
+   "median": 0.020452911034226418,
+   "iqr": 0.017817591316998005
+  },
+  "sub100_share": {
+   "median": 0.33382508158683777,
+   "iqr": 0.11820853129029274
+  },
+  "lowest_pitch": {
+   "median": 55.1788330078125,
+   "iqr": 34.31854248046875
+  },
+  "harmonic_share": {
+   "median": 0.80875563621521,
+   "iqr": 0.07613742351531982
+  },
+  "clean_share": {
+   "median": 0.10619297124754112,
+   "iqr": 0.1757554144959967
+  },
+  "minor_share": {
+   "median": 0.06481373139513177,
+   "iqr": 0.28709641765120547
+  },
+  "chord_rate": {
+   "median": 1.3182861166335322,
+   "iqr": 0.3970898858429268
+  },
+  "repetitiveness": {
+   "median": 0.7468003034591675,
+   "iqr": 0.12813280522823334
+  },
+  "vocal_share": {
+   "median": 0.10694421082735062,
+   "iqr": 0.06674091517925262
+  },
+  "vocal_voiced": {
+   "median": 0.542192046556741,
+   "iqr": 0.3503645417983645
+  },
+  "song_length": {
+   "median": 266.073,
+   "iqr": 55.16299999999998
+  },
+  "vocal_presence": {
+   "median": 0.9166666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.9,
+  "camp": 0.5
+ },
+ "sources_failed": []
+}

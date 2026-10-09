@@ -1,0 +1,32 @@
+{
+ "id": "ram/6800362281-105",
+ "band": "ram",
+ "title": "Machine Invaders",
+ "source": "itunes",
+ "album": "Forced Entry",
+ "year": 2005,
+ "itunes_year": 2005,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 161.4990234375,
+  "onset_rate": 7.566552281900501,
+  "tempo_var": 10.532180214229447,
+  "low_onset_rate": 8.466538676663996,
+  "lufs": -8.240040375869707,
+  "rms_dbfs": -7.831324946683198,
+  "crest": 7.831324577331543,
+  "centroid": 2831.76849297827,
+  "flatness": 0.04931415989995003,
+  "sub100_share": 0.3254660964012146,
+  "lowest_pitch": 40.374755859375,
+  "harmonic_share": 0.7110075354576111,
+  "clean_share": 0.0,
+  "minor_share": -0.08104387222857301,
+  "chord_rate": 1.9333041072697315,
+  "repetitiveness": 0.8876854181289673,
+  "vocal_share": 0.14745767414569855,
+  "vocal_voiced": 0.35926573426573427,
+  "song_length": 315.315
+ }
+}

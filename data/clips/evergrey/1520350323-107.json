@@ -1,0 +1,32 @@
+{
+ "id": "evergrey/1520350323-107",
+ "band": "evergrey",
+ "title": "Out of Reach (Remastered)",
+ "source": "itunes",
+ "album": "Glorious Collision (Remasters Edition)",
+ "year": 2011,
+ "itunes_year": 2011,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 1.336493235707705,
+  "tempo_var": 13.016227859988447,
+  "low_onset_rate": 2.4391001551665616,
+  "lufs": -11.20684951571805,
+  "rms_dbfs": -10.079182368715054,
+  "crest": 10.079182624816895,
+  "centroid": 2690.7589763545475,
+  "flatness": 0.03347387537360191,
+  "sub100_share": 0.46407550573349,
+  "lowest_pitch": 34.991455078125,
+  "harmonic_share": 0.8101574778556824,
+  "clean_share": 0.008533747090768037,
+  "minor_share": 0.06355620880272739,
+  "chord_rate": 1.6706165446346313,
+  "repetitiveness": 0.9018213152885437,
+  "vocal_share": 0.01073512714356184,
+  "vocal_voiced": 0.7846153846153846,
+  "song_length": 223.12
+ }
+}

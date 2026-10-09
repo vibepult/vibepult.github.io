@@ -1,0 +1,127 @@
+{
+ "slug": "borknagar",
+ "name": "Borknagar",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 28430680,
+  "deezer": 160978,
+  "spotify": "0vxxsjcDy61x5zvrOqwHIL"
+ },
+ "metadata": {
+  "formed": 1994,
+  "split": null,
+  "country": "NO",
+  "status": "active",
+  "members": 5,
+  "past_members": 11,
+  "full_lengths": 12,
+  "genre": "Progressive Viking/Folk/Black Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 18194,
+  "themes": "Nature, Science, Spirituality, Cosmos, Mythology",
+  "release_year": 2002
+ },
+ "partial": false,
+ "clips": [
+  "borknagar/297103261-105",
+  "borknagar/1045200343-104",
+  "borknagar/1045224975-104",
+  "borknagar/1045202171-105",
+  "borknagar/1045199879-105",
+  "borknagar/1045193907-106",
+  "borknagar/1045217298-105",
+  "borknagar/1690642589-105",
+  "borknagar/1045132447-105",
+  "borknagar/1473032626-105",
+  "borknagar/1717851428-104",
+  "borknagar/297103261-106"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 140.59914981617646,
+   "iqr": 70.13760270743535
+  },
+  "onset_rate": {
+   "median": 4.9784373030112015,
+   "iqr": 2.4004526272668207
+  },
+  "tempo_var": {
+   "median": 15.96439452687341,
+   "iqr": 15.85527500340205
+  },
+  "low_onset_rate": {
+   "median": 6.515404524075062,
+   "iqr": 3.1991204138384077
+  },
+  "lufs": {
+   "median": -9.960818454016524,
+   "iqr": 1.860947167668737
+  },
+  "rms_dbfs": {
+   "median": -10.058791700257277,
+   "iqr": 2.2498238715292675
+  },
+  "crest": {
+   "median": 10.058791160583496,
+   "iqr": 2.18536376953125
+  },
+  "centroid": {
+   "median": 2581.127943503928,
+   "iqr": 598.4986152687766
+  },
+  "flatness": {
+   "median": 0.034421990625560284,
+   "iqr": 0.027786792488768697
+  },
+  "sub100_share": {
+   "median": 0.170846626162529,
+   "iqr": 0.24639194458723068
+  },
+  "lowest_pitch": {
+   "median": 67.291259765625,
+   "iqr": 38.35601806640625
+  },
+  "harmonic_share": {
+   "median": 0.7881326079368591,
+   "iqr": 0.12916840612888336
+  },
+  "clean_share": {
+   "median": 0.013947513525416143,
+   "iqr": 0.19080391701571447
+  },
+  "minor_share": {
+   "median": 0.02549745781518592,
+   "iqr": 0.2709024284978011
+  },
+  "chord_rate": {
+   "median": 1.4868487247248219,
+   "iqr": 0.46912395313385136
+  },
+  "repetitiveness": {
+   "median": 0.864461749792099,
+   "iqr": 0.23925939202308655
+  },
+  "vocal_share": {
+   "median": 0.11451005935668945,
+   "iqr": 0.07887765765190125
+  },
+  "vocal_voiced": {
+   "median": 0.7766179540709812,
+   "iqr": 0.46831482998414
+  },
+  "song_length": {
+   "median": 330.36,
+   "iqr": 88.50649999999996
+  },
+  "vocal_presence": {
+   "median": 0.75,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.2,
+  "camp": 0.1
+ },
+ "sources_failed": []
+}

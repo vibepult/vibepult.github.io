@@ -1,0 +1,127 @@
+{
+ "slug": "lizzy-borden",
+ "name": "Lizzy Borden",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 60356216,
+  "deezer": 11966,
+  "spotify": "0ZdLFpb5MhkSrsHef7A3Bb"
+ },
+ "metadata": {
+  "formed": 1983,
+  "split": null,
+  "country": "US",
+  "status": "active",
+  "members": 3,
+  "past_members": 17,
+  "full_lengths": 7,
+  "genre": "Heavy/Power Metal",
+  "vocals": "clean",
+  "instrumental": false,
+  "fans": 4938,
+  "themes": "Horror, Love, Metal (early); Social issues",
+  "release_year": 1988
+ },
+ "partial": false,
+ "clips": [
+  "lizzy-borden/60357236-105",
+  "lizzy-borden/60357280-105",
+  "lizzy-borden/60375335-105",
+  "lizzy-borden/60357194-106",
+  "lizzy-borden/60368952-106",
+  "lizzy-borden/263131306-105",
+  "lizzy-borden/1357802684-107",
+  "lizzy-borden/60357236-106",
+  "lizzy-borden/60357280-106",
+  "lizzy-borden/60375335-104",
+  "lizzy-borden/60357194-107",
+  "lizzy-borden/60368952-105"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 132.59919819078948,
+   "iqr": 27.377524394762844
+  },
+  "onset_rate": {
+   "median": 4.5440770014061975,
+   "iqr": 1.4534363938321286
+  },
+  "tempo_var": {
+   "median": 9.539334030331602,
+   "iqr": 12.207786106458931
+  },
+  "low_onset_rate": {
+   "median": 5.596565424526014,
+   "iqr": 1.9128559436066528
+  },
+  "lufs": {
+   "median": -7.811737404802054,
+   "iqr": 4.443248884719568
+  },
+  "rms_dbfs": {
+   "median": -7.543279331119051,
+   "iqr": 4.676488802438878
+  },
+  "crest": {
+   "median": 7.54327917098999,
+   "iqr": 4.676488995552063
+  },
+  "centroid": {
+   "median": 2636.106554042362,
+   "iqr": 287.4235349443916
+  },
+  "flatness": {
+   "median": 0.037003032863140106,
+   "iqr": 0.00748585257679224
+  },
+  "sub100_share": {
+   "median": 0.13817482441663742,
+   "iqr": 0.06635443679988384
+  },
+  "lowest_pitch": {
+   "median": 69.98291015625,
+   "iqr": 16.82281494140625
+  },
+  "harmonic_share": {
+   "median": 0.7192952334880829,
+   "iqr": 0.10457669198513031
+  },
+  "clean_share": {
+   "median": 0.009309542280837859,
+   "iqr": 0.03549262994569433
+  },
+  "minor_share": {
+   "median": 0.027908393121449826,
+   "iqr": 0.2487801982245545
+  },
+  "chord_rate": {
+   "median": 1.5870857174028996,
+   "iqr": 0.4594195497745237
+  },
+  "repetitiveness": {
+   "median": 0.843999058008194,
+   "iqr": 0.11184845864772797
+  },
+  "vocal_share": {
+   "median": 0.25118403881788254,
+   "iqr": 0.11321767047047615
+  },
+  "vocal_voiced": {
+   "median": 0.6581184984170059,
+   "iqr": 0.06584920848353437
+  },
+  "song_length": {
+   "median": 257.7275,
+   "iqr": 51.000249999999994
+  },
+  "vocal_presence": {
+   "median": 1.0,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.8,
+  "camp": 0.7
+ },
+ "sources_failed": []
+}

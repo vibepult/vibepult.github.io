@@ -1,0 +1,127 @@
+{
+ "slug": "crimson-shadows",
+ "name": "Crimson Shadows",
+ "extractor_version": "0.3.0",
+ "ids": {
+  "itunes": 320153270,
+  "deezer": 5205860,
+  "spotify": "1H3YohuDrK3djO7Oiqcl2h"
+ },
+ "metadata": {
+  "formed": 2006,
+  "split": null,
+  "country": "CA",
+  "status": "active",
+  "members": 4,
+  "past_members": 6,
+  "full_lengths": 3,
+  "genre": "Melodic Death/Power Metal",
+  "vocals": "harsh",
+  "instrumental": false,
+  "fans": 935,
+  "themes": "Battles, Magic, Legends, Fate, Villains, Evil, Darkness, Despair",
+  "release_year": 2014
+ },
+ "partial": false,
+ "clips": [
+  "crimson-shadows/1804122111-104",
+  "crimson-shadows/1183614302-105",
+  "crimson-shadows/1823212573-105",
+  "crimson-shadows/1804122111-105",
+  "crimson-shadows/1183614302-106",
+  "crimson-shadows/1823212573-104",
+  "crimson-shadows/1804122111-103",
+  "crimson-shadows/1183614302-104",
+  "crimson-shadows/1823212573-106",
+  "crimson-shadows/1804122111-106",
+  "crimson-shadows/1183614302-108",
+  "crimson-shadows/1823212573-103"
+ ],
+ "features": {
+  "tempo_bpm": {
+   "median": 99.38401442307692,
+   "iqr": 3.97536057692308
+  },
+  "onset_rate": {
+   "median": 6.799897204879745,
+   "iqr": 1.3000725612613575
+  },
+  "tempo_var": {
+   "median": 12.994286913130463,
+   "iqr": 6.042870353463069
+  },
+  "low_onset_rate": {
+   "median": 8.066666666666666,
+   "iqr": 2.1583794399681535
+  },
+  "lufs": {
+   "median": -7.60742149876556,
+   "iqr": 0.9642586553130386
+  },
+  "rms_dbfs": {
+   "median": -7.234326010336218,
+   "iqr": 0.5675327091391269
+  },
+  "crest": {
+   "median": 7.234326124191284,
+   "iqr": 0.5675328969955444
+  },
+  "centroid": {
+   "median": 2554.2081460151094,
+   "iqr": 197.17336325243969
+  },
+  "flatness": {
+   "median": 0.03891782835125923,
+   "iqr": 0.01738582318648696
+  },
+  "sub100_share": {
+   "median": 0.3595295697450638,
+   "iqr": 0.0774221122264862
+  },
+  "lowest_pitch": {
+   "median": 43.06640625,
+   "iqr": 11.43951416015625
+  },
+  "harmonic_share": {
+   "median": 0.7786856293678284,
+   "iqr": 0.06150943040847778
+  },
+  "clean_share": {
+   "median": 0.003869969040247678,
+   "iqr": 0.027853451186311624
+  },
+  "minor_share": {
+   "median": -0.06576760642961776,
+   "iqr": 0.1871515104935863
+  },
+  "chord_rate": {
+   "median": 1.4666555809184039,
+   "iqr": 0.40832627876625693
+  },
+  "repetitiveness": {
+   "median": 0.8863276839256287,
+   "iqr": 0.055889055132865906
+  },
+  "vocal_share": {
+   "median": 0.09736374020576477,
+   "iqr": 0.016219791024923325
+  },
+  "vocal_voiced": {
+   "median": 0.12368798058649826,
+   "iqr": 0.19230827415796353
+  },
+  "song_length": {
+   "median": 354.003,
+   "iqr": 66.70724999999999
+  },
+  "vocal_presence": {
+   "median": 0.6666666666666666,
+   "iqr": 0.0
+  }
+ },
+ "hand": {
+  "persona": 0.3,
+  "camp": 0.5
+ },
+ "sources_failed": []
+}

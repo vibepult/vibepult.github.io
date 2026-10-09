@@ -1,0 +1,32 @@
+{
+ "id": "asphodele/1483323433-101",
+ "band": "asphodele",
+ "title": "Candide",
+ "source": "itunes",
+ "album": "Jours Pâles",
+ "year": 2019,
+ "itunes_year": 2019,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 4.109716699801193,
+  "tempo_var": 22.931684561149027,
+  "low_onset_rate": 4.176541361586578,
+  "lufs": -9.920250305914845,
+  "rms_dbfs": -8.350757849751544,
+  "crest": 8.350757598876953,
+  "centroid": 1807.1994176370692,
+  "flatness": 0.014353396371006966,
+  "sub100_share": 0.5062050819396973,
+  "lowest_pitch": 43.06640625,
+  "harmonic_share": 0.7829118371009827,
+  "clean_share": 0.49340574088440653,
+  "minor_share": -0.06308131653539506,
+  "chord_rate": 1.5703795519565533,
+  "repetitiveness": 0.888251006603241,
+  "vocal_share": 1.3461591379382298e-06,
+  "vocal_voiced": 0.0,
+  "song_length": 129.979
+ }
+}

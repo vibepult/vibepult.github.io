@@ -1,0 +1,32 @@
+{
+ "id": "firewind/434683600-107",
+ "band": "firewind",
+ "title": "Pictured Life",
+ "source": "itunes",
+ "album": "Between Heaven and Hell",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 143.5546875,
+  "onset_rate": 6.548816854967755,
+  "tempo_var": 3.4124365443226763,
+  "low_onset_rate": 6.949764825680066,
+  "lufs": -7.7831580889144,
+  "rms_dbfs": -7.2484809360617755,
+  "crest": 7.248480319976807,
+  "centroid": 2846.4405229367358,
+  "flatness": 0.04250745102763176,
+  "sub100_share": 0.37650132179260254,
+  "lowest_pitch": 48.44970703125,
+  "harmonic_share": 0.8073886632919312,
+  "clean_share": 0.0,
+  "minor_share": 0.09079580149730382,
+  "chord_rate": 2.9068727876642586,
+  "repetitiveness": 0.8252310156822205,
+  "vocal_share": 0.14277637004852295,
+  "vocal_voiced": 0.6699588477366255,
+  "song_length": 217.339
+ }
+}

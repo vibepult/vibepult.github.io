@@ -1,0 +1,32 @@
+{
+ "id": "superjoint/1610770939-105",
+ "band": "superjoint",
+ "title": "The Alcoholik",
+ "source": "itunes",
+ "album": "Use Once and Destroy",
+ "year": 2002,
+ "itunes_year": 2002,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 135.99917763157896,
+  "onset_rate": 4.333333333333333,
+  "tempo_var": 11.760936945513226,
+  "low_onset_rate": 5.333333333333333,
+  "lufs": -8.41213278335306,
+  "rms_dbfs": -8.51708938766799,
+  "crest": 8.517088890075684,
+  "centroid": 2634.4200102142595,
+  "flatness": 0.041188787668943405,
+  "sub100_share": 0.20618854463100433,
+  "lowest_pitch": 69.98291015625,
+  "harmonic_share": 0.7162021994590759,
+  "clean_share": 0.029411764705882353,
+  "minor_share": 0.02696864298906476,
+  "chord_rate": 1.7666666666666666,
+  "repetitiveness": 0.8627188205718994,
+  "vocal_share": 0.07960902899503708,
+  "vocal_voiced": 0.34714285714285714,
+  "song_length": 150.76
+ }
+}

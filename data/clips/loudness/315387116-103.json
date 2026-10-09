@@ -1,0 +1,32 @@
+{
+ "id": "loudness/315387116-103",
+ "band": "loudness",
+ "title": "Streetlife Dreams (Remastered)",
+ "source": "itunes",
+ "album": "Shadows of War",
+ "year": 1986,
+ "itunes_year": 1987,
+ "year_source": "metal-archives",
+ "extractor_version": "0.3.0",
+ "features": {
+  "tempo_bpm": 151.99908088235293,
+  "onset_rate": 5.546446928186976,
+  "tempo_var": 23.417143877563333,
+  "low_onset_rate": 5.746920913543131,
+  "lufs": -8.964961368313965,
+  "rms_dbfs": -9.434104002010976,
+  "crest": 9.434103965759277,
+  "centroid": 3162.303129062075,
+  "flatness": 0.04734896868467331,
+  "sub100_share": 0.19663624465465546,
+  "lowest_pitch": 64.599609375,
+  "harmonic_share": 0.7943107485771179,
+  "clean_share": 0.0,
+  "minor_share": 0.03237710344821543,
+  "chord_rate": 2.0047398535615577,
+  "repetitiveness": 0.7139540314674377,
+  "vocal_share": 0.07742974162101746,
+  "vocal_voiced": 0.594306049822064,
+  "song_length": 266.636
+ }
+}
