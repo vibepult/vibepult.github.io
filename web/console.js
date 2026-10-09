@@ -512,22 +512,8 @@ function commitBand(band, { announce = true } = {}) {
   if (announce) say(`${band.name}, ${band.genre}`);
 }
 
-// The Ko-fi button speaks the pack's dialect.
-const TIPS = {
-  steel:      'Buy the crew a coffee',
-  black:      'Buy me a black coffee',
-  death:      'Buy me a bloody mary mix',
-  doom:       'Buy me a slow brew',
-  folk:       'Buy me a horn of mead',
-  industrial: 'Buy me a can of oil',
-  power:      'Buy me a mighty beverage',
-  prog:       'Buy me a 7/8 espresso',
-  thrash:     'Buy me a gas station coffee',
-};
-
 function applyPack(name, slug, trim) {
   const p = data.packs[name] || data.packs.steel;
-  $('donate-btn').textContent = TIPS[name] || TIPS.steel;
   const root = document.documentElement;
   const assets = skin(name, slug, p, manifest, trim); // procedural asset set (docs/designs/skins.md), null for a palette-only pack
   for (const slot of SLOTS) {
