@@ -13,7 +13,7 @@ import { compose, dayBoard, withFaders, clockPosition, nearestStop, stopPosition
 import { $, el, applyAssets, buildLever, buildStepped, buildStrips, interacted, lightMeters, mount, reducedMotion, render, say, ui } from './desk.js';
 import { PALETTES, FONTS, skin2 } from './skins2.js';
 
-const STEER_MS = 200, CLOCK_MS = 30_000;
+const STEER_MS = 200, CLOCK_MS = 30_000, STATS_MS = 30_000;
 const hash = () => new URLSearchParams(location.hash.slice(1));
 const writeHash = (k, v) => { const h = hash(); v === null ? h.delete(k) : h.set(k, v); history.replaceState(null, '', '#' + h.toString().replace(/%2B/g, '+')); };
 const share = () => encodeState({ theme, haiku, position: following ? null : position, board, tweaks });
@@ -66,6 +66,8 @@ $('llm').setAttribute('aria-pressed', String(haiku));
 $('llm').addEventListener('click', () => { haiku = !haiku; $('llm').setAttribute('aria-pressed', String(haiku)); lastAsk = null; commit(true); });
 $('play').addEventListener('click', play);
 $('stop').addEventListener('click', () => { if (player.isOpen()) { send({ control: 'stop' }); playing = false; } });
+// A listener's verdict with the desk as it was: labelled ground truth for the judges. The lamp line goes with the next chunk.
+$('bad').addEventListener('click', () => { if (!player.isOpen()) return; player.send({ s: share(), mark: 'bad' }); lamp('noted: sounds bad'); });
 setInterval(() => {
   if (!following || clockPosition(new Date()) === position) return;
   position = clockPosition(new Date());
@@ -77,6 +79,8 @@ setInterval(() => {
   const mmss = t => `${Math.floor(t / 60)}:${String(Math.floor(t % 60)).padStart(2, '0')}`;
   $('stats').textContent = playing ? `played ${mmss(s.played)} · gaps ${s.gaps} · buffer ${s.buffered.toFixed(1)} s` : '';
 }, 500);
+// Audio health to the session log: player.send, not send(), which would redraw the monitor.
+setInterval(() => { if (playing && player.isOpen()) player.send({ s: share(), stats: player.status() }); }, STATS_MS);
 $('lamp').style.setProperty('--fade', `${player.FADE}s`);
 render();
 commit();
@@ -129,6 +133,7 @@ function showTweaks(i) {
 // ------------------------------------------------------------------------------------------ transport
 
 async function play() {
+  if (player.isConnecting()) return lamp('still connecting, hold on'); // a second click while the relay cold-starts
   if (!player.isOpen()) {
     lamp('connecting to relay');
     try { await player.connect(player.RELAY, onFrame); }

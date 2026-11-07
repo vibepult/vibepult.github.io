@@ -4,6 +4,8 @@
 // which Lyria plays as a hard cut; cross() hides it with a second deck.
 // scheduled buffers, an AudioWorklet ring buffer if they glitch.
 
+import { mastering } from "./mastering.js";
+
 const RATE = 48000;
 // Tuning knob: gap safety against steer latency. 1.0 s gapped once in 10 live minutes and came within 0.07 s
 // in another run (2026-10-12); chunks arrived up to 1 s late. Every second here is a second of fader lag.
@@ -28,22 +30,31 @@ if (frag.has("token")) {
 // modules load and nothing shows with JavaScript off. Not on localhost: the relay there is in dev mode, any token goes.
 const blank = () => { document.body.hidden = true; };
 if (LOCAL || localStorage.relayToken) document.body.hidden = false; else blank();
+// The mastering chain (mastering.js) sits between the decks and the volume. Always, since 2026-11-06: heard better on
+// three Party pairs offline and not worse live. `p=master:0` plays the plain path, one reload apart,
+// for an A/B by ear. Read once at load, like the token.
+const MASTERED = !(frag.get("p") || "").split(",").includes("master:0");
 
-let ctx, master, url, onstatus, deck, fading; // deck: the one steered and heard; fading: the old one on its way out
+let ctx, master, input, url, onstatus, deck, fading; // input: the chain or the volume; deck: the one steered and heard; fading: the old one on its way out
+let pending = null; // the connect in flight: a second Play waits on it instead of opening a second deck (2026-11-02)
 const stats = { gaps: 0, played: 0 };  // played: seconds of audio scheduled since PLAY
 const last = { playing: false };  // prompts, config, playing: what a reconnect replays
 let delay = 1000;  // reconnect backoff, 1 s doubling to 30 s
 
-// Must run from a user gesture (PLAY): browsers block audio before one.
-export async function connect(relay, status) {
+// Must run from a user gesture (PLAY): browsers block audio before one. The Fly relay cold-starts on the first Play,
+// so a second click 5 to 25 s later is normal; it must not open a second socket (heard 2026-10-22: two decks for 17
+// minutes, only one steered).
+export function connect(relay, status) {
+  if (pending) return pending;
   if (!ctx) {
     ctx = new AudioContext({ sampleRate: RATE });
     master = ctx.createGain();
     master.connect(ctx.destination);
+    input = MASTERED ? mastering(ctx, master) : master; // the volume last: the knob must not drive the limiter
   }
   ctx.resume();
   url = relay; onstatus = status;
-  deck = await open();
+  return pending = open().then((d) => { deck = d; }).finally(() => { pending = null; });
 }
 
 // Resolves on the relay's first frame (its ack to our token), rejects with the close code (e.code) before that:
@@ -55,6 +66,7 @@ function open() {
     let acked = false;
     d.ws.onopen = () => d.ws.send(JSON.stringify({ token: localStorage.relayToken || "" }));
     d.ws.onmessage = (ev) => {
+      if (acked && d !== deck && d !== fading) return close(d);  // orphaned by two opens in flight: nobody steers it, nobody hears it
       if (typeof ev.data !== "string") return d.live && enqueue(d, ev.data);
       const m = JSON.parse(ev.data);
       if (!acked) { acked = true; ok(d); }
@@ -98,7 +110,7 @@ export function send(frame) {
   if (frame.control === "play" && !deck.live) {
     deck.live = true; deck.prime = true;
     deck.bus = ctx.createGain();
-    deck.bus.connect(master);
+    deck.bus.connect(input);
     if (!fading) { stats.gaps = 0; stats.played = 0; }
   }
   if (frame.control === "stop" || frame.control === "pause") { cut(deck); if (fading) close(fading); fading = null; }
@@ -134,8 +146,11 @@ function fade(at) {
 }
 
 export const isOpen = () => deck?.ws.readyState === WebSocket.OPEN;
+export const isConnecting = () => pending !== null;
 export const volume = (v) => { if (master) master.gain.value = v; };
-export const status = () => ({ ...stats, buffered: deck?.live ? Math.max(0, deck.nextStart - ctx.currentTime) : 0 });
+// The page shows this and sends it to the relay every 30 s as a stats frame: a replay then shows gaps and double decks.
+export const status = () => ({ ...stats, buffered: deck?.live ? Math.max(0, deck.nextStart - ctx.currentTime) : 0,
+  decks: [deck, fading].filter((d) => d?.live).length });
 
 // Silence now: audio already scheduled plays into a disconnected bus.
 function cut(d) {

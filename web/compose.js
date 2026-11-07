@@ -98,7 +98,8 @@ export const DAY = [
     candle: { label: 'Candlelight', hint: 'a quiet table', push: { energy: -30, dreamy: 25, hard: -20 } },
     disco: { label: 'Disco', hint: 'someone pushes the table aside', push: { groove: 30, melodic: 25, voice: 20, dark: -20 } },
   } },
-  { id: 'party', label: 'Party', at: 22.5, push: { tempo: 35, energy: 40, hard: 35, groove: 30, dark: 25, steady: 20, melodic: -10 }, tweaks: {
+  // No Tempo push since #46: the word's own centre carries the party (BPM), +10 never landed on the bench (2026-11-04).
+  { id: 'party', label: 'Party', at: 22.5, push: { energy: 40, hard: 35, groove: 30, dark: 25, steady: 20, melodic: -10 }, tweaks: {
     peak: { label: 'Peak time', hint: 'hands in the air', push: { energy: 25, tempo: 15, steady: 15 } },
     acid: { label: 'Acid', hint: 'squelch', push: { hard: 30, melodic: -15 } },
     tribal: { label: 'Tribal', hint: 'drums and sweat', push: { organic: 35, groove: 15, melodic: -10 } },
@@ -160,11 +161,19 @@ export function clockPosition(date) {
 export const THEMES = {
   // palette: the instruments Lyria knows best for the theme (the guide's keyword list). `beat` is the drum noun when
   // Organic is at rest, `keys` fills the keys slot when no keys fader is pushed. Guesses until heard.
-  techno: { label: 'Techno', production: 'studio recording, clean club mix, tight low end, wide stereo', palette: { beat: 'TR-909 beat', keys: 'dub chord stabs with delay and Spacey Synths' }, words: { morning: 'ambient dub', focus: 'minimal techno', lunch: 'Berlin dub techno', flow: 'hypnotic techno', surf: 'melodic techno', sunset: 'deep dub techno', dinner: 'Detroit techno', party: 'acid techno' } },
-  house: { label: 'House', production: 'studio recording, warm analog production, polished club mix', palette: { beat: 'TR-909 beat and shaker', keys: 'Rhodes Piano chords' }, words: { morning: 'lo-fi hip hop', focus: '90s deep house', lunch: 'nu disco', flow: 'deep tech house', surf: 'Chicago house', sunset: 'organic house', dinner: 'disco house', party: 'tech house' } },
-  bass: { label: 'Breaks & bass', production: 'studio recording, clean sub-focused mix, crisp punchy drums', palette: { beat: 'breakbeat', keys: 'Rhodes Piano chords and Dirty Synths' }, words: { morning: 'Bristol trip hop', focus: 'downtempo breakbeat', lunch: 'UK garage', flow: 'deep dubstep', surf: 'breakbeat', sunset: 'lo-fi breakbeat', dinner: 'UK garage', party: 'dubstep' } },
-  balearic: { label: 'Balearic & trance', production: 'studio recording, lush, wide, sunlit production', palette: { beat: 'soft TR-909 beat and shakers', keys: 'Warm Acoustic Guitar and Smooth Pianos' }, words: { morning: 'Balearic chillout', focus: 'progressive house', lunch: 'Balearic house', flow: 'progressive trance', surf: 'uplifting trance', sunset: 'Balearic downtempo', dinner: 'Ibiza lounge house', party: 'psytrance' } },
-  afro: { label: 'Afro & organic', production: 'studio recording, warm organic production, natural percussion, live feel', palette: { beat: 'groove on Conga Drums, Djembe and shakers', keys: 'Kalimba and Marimba melodies' }, words: { morning: 'organic downtempo', focus: 'organic house', lunch: 'afro house', flow: 'deep afro house', surf: 'tribal house', sunset: 'world downtempo', dinner: 'amapiano', party: 'afro tech' } },
+  techno: { label: 'Techno', production: 'studio recording, clean club mix, tight low end, wide stereo', palette: { beat: 'TR-909 beat', keys: 'dub chord stabs with delay and Spacey Synths' }, words: { morning: 'ambient dub', focus: 'minimal techno', lunch: 'Berlin dub techno', flow: 'hypnotic techno', surf: 'melodic techno', sunset: 'deep dub techno', dinner: 'Detroit techno', party: 'acid techno' } }, // no Party body: a solo body lost the kick (92 to 112 found against 140), the full sentence keeps it (bench 2026-11-05)
+  // #46: the Party body per theme. Hard's high end is the theme's signature at the party and solos as dubstep's does (the solo rule
+  // below): the word and the body, no density, brightness or temperature, so the word's own priors decide. Every theme sent the same
+  // acid body at the party until 2026-11-05. Benched, then heard: techno and afro keep the full sentence (their solo
+  // bodies lost the kick; afro's party is its centre at 135), breaks & bass parties on speed garage, not brostep (every half-time or
+  // breaks body read as chill or focus to the ear, 2026-11-06).
+  house: { label: 'House', production: 'studio recording, warm analog production, polished club mix', palette: { beat: 'TR-909 beat and shaker', keys: 'Rhodes Piano chords' }, words: { morning: 'lo-fi hip hop', focus: '90s deep house', lunch: 'nu disco', flow: 'deep tech house', surf: 'Chicago house', sunset: 'organic house', dinner: 'disco house', party: 'tech house' },
+    phrases: { hard: { high: 'a tight TR-909 beat, a rolling bassline and filtered disco stabs', solo: 'high' } } },
+  bass: { label: 'Breaks & bass', production: 'studio recording, clean sub-focused mix, crisp punchy drums', palette: { beat: 'breakbeat', keys: 'Rhodes Piano chords and Dirty Synths' }, words: { morning: 'Bristol trip hop', focus: 'downtempo breakbeat', lunch: 'UK garage', flow: 'deep dubstep', surf: 'breakbeat', sunset: 'lo-fi breakbeat', dinner: 'UK garage', party: 'speed garage' }, // speed garage since #46: dubstep gave the one bad clip of 2026-10-15, five brostep bodies read as chill-step (2026-11-06)
+    phrases: { hard: { high: 'shuffling, skipping garage hats over a light, punchy kick, a bouncy warped sub bassline, chopped diva vocals and rave organ stabs', solo: 'high' } } }, // a light kick: the hard one choked the ear
+  balearic: { label: 'Balearic & trance', production: 'studio recording, lush, wide, sunlit production', palette: { beat: 'soft TR-909 beat and shakers', keys: 'Warm Acoustic Guitar and Smooth Pianos' }, words: { morning: 'Balearic chillout', focus: 'progressive house', lunch: 'Balearic house', flow: 'progressive trance', surf: 'uplifting trance', sunset: 'Balearic downtempo', dinner: 'Ibiza lounge house', party: 'psytrance' },
+    phrases: { hard: { high: 'a driving kick, a rolling psytrance bassline and plucked, phasing synth leads', solo: 'high' } } },
+  afro: { label: 'Afro & organic', production: 'studio recording, warm organic production, natural percussion, live feel', palette: { beat: 'groove on Conga Drums, Djembe and shakers', keys: 'Kalimba and Marimba melodies' }, words: { morning: 'organic downtempo', focus: 'organic house', lunch: 'afro house', flow: 'deep afro house', surf: 'tribal house', sunset: 'world downtempo', dinner: 'amapiano', party: 'afro tech' } }, // no Party body: the solo body ran 3 kHz bright and lost the kick, a log drum clause was too chill; the acid sentence at 135 is the afro party (bench and ear, 2026-11-06)
   // A theme may carry its own five tweaks per stop (`tweaks`, same shape as a stop's); the day's tweaks serve the
   // stops it leaves out. It may also reword a fader's end (`phrases: { fader: { low, high } }`) where the shared one misses.
   // Dubstep's day runs from chillstep (the Blackmill morning) to brostep (the Skrillex party), written 2026-10-15,
@@ -259,10 +268,10 @@ export const BPM = {
   'lo-fi hip hop': 85, 'deep house': 122, '90s deep house': 122, 'Chicago house': 124, 'nu disco': 115, 'deep tech house': 124, 'piano house': 125, 'organic house': 118, 'disco house': 122, 'tech house': 127,
   'trip hop': 90, 'Bristol trip hop': 90, 'downtempo breakbeat': 100, 'UK garage': 134, 'deep dubstep': 140, 'breakbeat': 132, 'lo-fi breakbeat': 92, 'dubstep': 140,
   'Balearic chillout': 95, 'progressive house': 127, 'Balearic house': 115, 'progressive trance': 135, 'uplifting trance': 139, 'Balearic downtempo': 95, 'Ibiza lounge house': 112, 'psytrance': 144,
-  'organic downtempo': 95, 'afro house': 121, 'deep afro house': 121, 'tribal house': 125, 'world downtempo': 95, 'amapiano': 113, 'afro tech': 125,
-  // chillstep 80: the morning push (-35 Tempo, -10 bpm) lands on 70, the half-time feel of 140. brostep 130:
-  // the party push (+10 bpm) lands on dubstep's 140; 150 came out as hardbass. Both heard 2026-10-15.
-  'Jamaican dub': 75, 'chillstep': 80, 'glitch hop': 110, 'melodic dubstep': 140, 'future garage': 130, 'brostep': 130,
+  'organic downtempo': 95, 'afro house': 121, 'deep afro house': 121, 'tribal house': 125, 'world downtempo': 95, 'amapiano': 113, 'afro tech': 135, // afro tech 135 since #46: at 125 the percussion thins out and the party goes with it (ear, 2026-11-06)
+  // chillstep 80: the morning push (-35 Tempo, -10 bpm) lands on 70, the half-time feel of 140. brostep
+  // 140 since #46 (no party push); 150 came out as hardbass. Both heard 2026-10-15.
+  'Jamaican dub': 75, 'chillstep': 80, 'glitch hop': 110, 'melodic dubstep': 140, 'future garage': 130, 'brostep': 140, 'speed garage': 138,
 };
 // The rhythm skeleton of each word; four-on-the-floor unless listed. Two words with the same skeleton blend (leak G),
 // a skeleton change is a hard cut like a tempo step.
@@ -270,7 +279,7 @@ export const BEAT = {
   'ambient dub': 'down', 'lo-fi hip hop': 'breaks', 'trip hop': 'breaks', 'Bristol trip hop': 'breaks', 'downtempo breakbeat': 'breaks', 'UK garage': 'garage',
   'deep dubstep': 'half', 'breakbeat': 'breaks', 'lo-fi breakbeat': 'breaks', 'dubstep': 'half',
   'Balearic chillout': 'down', 'Balearic downtempo': 'down', 'organic downtempo': 'down', 'world downtempo': 'down',
-  'Jamaican dub': 'down', 'chillstep': 'half', 'glitch hop': 'breaks', 'melodic dubstep': 'half', 'future garage': 'garage', 'brostep': 'half',
+  'Jamaican dub': 'down', 'chillstep': 'half', 'glitch hop': 'breaks', 'melodic dubstep': 'half', 'future garage': 'garage', 'brostep': 'half', 'speed garage': 'garage',
 };
 export const beatOf = style => BEAT[style] ?? 'four';
 // A fader end's words: the theme's own if it rewords that fader, else the shared phrase. A solo end may be { as, words }.
@@ -343,8 +352,10 @@ export function compose(board, style, p = {}, theme = null) {
   const s = at('steady');
   const config = {
     bpm: p.bpm ?? bpmOf(at('tempo'), style),
-    ...(asked('energy') && { density: round(at('energy') / 100) }),
-    ...(asked('dark') && { brightness: round(1 - at('dark') / 100) }),
+    // #46: density caps at 0.7 and brightness floors at 0.4. Google's guide calls 0.9 a chaotic orchestra and low brightness dark and
+    // bass-heavy; its samples run 0.2 to 0.5 and 0.4 to 0.7. Brightness 0.25 put the Party at 1.4 kHz against a 2 to 3 kHz band (bench, 2026-11-04).
+    ...(asked('energy') && { density: Math.min(0.7, round(at('energy') / 100)) }),
+    ...(asked('dark') && { brightness: Math.max(0.4, round(1 - at('dark') / 100)) }),
     ...(asked('steady') && { temperature: round(s >= 50 ? 1.1 - 0.4 * (s - 50) / 50 : 1.1 + 0.3 * (50 - s) / 50) }),
     ...(p.density !== undefined && { density: p.density }), // p= pins a field for an A/B by ear
     ...(p.temperature !== undefined && { temperature: p.temperature }),
