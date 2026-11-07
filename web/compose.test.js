@@ -74,7 +74,7 @@ test('config: tempo steps, energy to density, dark to brightness, p overrides', 
   assert.equal(bpmOf(50, 'psytrance') - bpmOf(50, 'ambient dub'), 55);
   for (const t of Object.values(THEMES)) for (const w of Object.values(t.words)) assert.ok(BPM[w], `no bpm for ${w}`);
   const r = compose(board({ energy: 80, dark: 20 }), W, { bpm: 128, guidance: 3, seed: 7 });
-  assert.equal(r.config.density, 0.8);
+  assert.equal(r.config.density, 0.7); // Energy 80 asks 0.8, the cap says 0.7
   assert.equal(r.config.brightness, 0.8);
   assert.equal(r.config.temperature, undefined);
   assert.ok(!('density' in compose(board({ energy: 54 }), W).config)); // inside the deadband: the prior decides
@@ -149,11 +149,11 @@ test("a theme's own tweaks replace the day's at that stop, under their own ids, 
   const asked = askState({ theme: 'dubstep', position: 100, tweaks: { 'dubstep.party.chill': 90 }, heard: stopBoard(7, { 'dubstep.party.chill': 90 }, 'dubstep') });
   assert.deepEqual(asked.tweaks, [{ label: 'Chill', means: 'the growl, a bit laid back', value: 90 }]);
   assert.equal(asked.solo, true); // Haiku is told the sentence is the sound
-  assert.equal('solo' in askState({ theme: 'house', position: 100, heard: stopBoard(7) }), false);
-  // The theme rewords the Hard fader, in the sentence and in what Haiku reads; other themes keep the shared phrase.
+  assert.equal('solo' in askState({ theme: 'afro', position: 100, heard: stopBoard(7) }), false); // afro has no solo body
+  // The theme rewords the Hard fader, in the sentence and in what Haiku reads; a theme-less call keeps the shared phrase (every theme rewords Hard since #46).
   const hard = THEMES.dubstep.phrases.hard.high;
   assert.ok(sentence(compose(board({ hard: 100 }), 'brostep', {}, 'dubstep')).includes(hard));
-  assert.ok(sentence(compose(board({ hard: 100 }), 'brostep', {}, 'techno')).includes(FADERS.hard.high));
+  assert.ok(sentence(compose(board({ hard: 100 }), 'brostep')).includes(FADERS.hard.high));
   assert.equal(asked.faders.find(f => f.name === 'Hard').high, hard);
   // Hard is dubstep's solo: pushed past SOLO it owns the sentence, both ends; nearer rest the full sentence returns.
   const r = compose(board({ hard: 90, tempo: 100, dreamy: 100 }), 'brostep', {}, 'dubstep');
@@ -171,11 +171,11 @@ test("a theme's own tweaks replace the day's at that stop, under their own ids, 
   assert.equal(pedal.solo, true);
   assert.equal(compose(board({ hard: 70 }), 'brostep', {}, 'dubstep').solo, false);
   assert.equal(pedal.style, 'brostep');
-  assert.equal(pedal.config.bpm, 130);
+  assert.equal(pedal.config.bpm, 140); // the genre centre, no Party push
   // The solo drops density, brightness and temperature so the genre's own priors decide, as the heard clips did; p= still pins.
-  assert.deepEqual(compose(board({ hard: 90, energy: 90, dark: 80, steady: 70 }), 'brostep', {}, 'dubstep').config, { bpm: 130, guidance: 4, musicGenerationMode: 'QUALITY' });
+  assert.deepEqual(compose(board({ hard: 90, energy: 90, dark: 80, steady: 70 }), 'brostep', {}, 'dubstep').config, { bpm: 140, guidance: 4, musicGenerationMode: 'QUALITY' });
   assert.equal(compose(board({ hard: 90, energy: 90 }), 'brostep', { density: 0.3 }, 'dubstep').config.density, 0.3);
-  assert.ok(sentence(compose(board({ hard: 90, tempo: 100 }), 'brostep', {}, 'techno')).startsWith('fast, driving brostep track with '));
+  assert.ok(sentence(compose(board({ hard: 90, tempo: 100 }), 'brostep', {}, 'afro')).startsWith('fast, driving brostep track with '));
 });
 
 test('themes: a word for every stop, the word lands in the sentence, a flip at the midpoint, junk is techno', () => {
@@ -242,4 +242,31 @@ test('askState: words not ids, only what is away from rest, the rule sentence as
   assert.ok(!('previous' in a));
   const prev = [{ text: 'x', weight: 1 }];
   assert.deepEqual(askState({ theme: 'house', position, heard, previous: prev }).previous, prev);
+});
+
+test('#46: brightness floors at 0.4, density caps at 0.7, the Party tempo is the genre centre', () => {
+  // the control tokens are spectral-centroid and onset priors, not moods; Google's samples run density 0.2 to 0.5 and brightness 0.4 to 0.7
+  assert.deepEqual([0, 25, 50, 75, 100].map(v => compose(board({ dark: v }), W).config.brightness), [1, 0.75, undefined, 0.4, 0.4]);
+  assert.deepEqual([0, 25, 50, 75, 100].map(v => compose(board({ energy: v }), W).config.density), [0, 0.25, undefined, 0.7, 0.7]);
+  assert.equal(compose(board({ energy: 100 }), W, { density: 0.9 }).config.density, 0.9); // a p= pin still goes through
+  assert.ok(sentence(compose(board({ dark: 100 }), W)).startsWith(`${FADERS.dark.high} `)); // Dark keeps its words
+  assert.equal(stopBoard(7).tempo, 50); // no Party push on Tempo: the word's own centre carries it
+  for (const [t, th] of Object.entries(THEMES)) assert.equal(compose(stopBoard(7, {}, t), th.words.party, {}, t).config.bpm, bpmOf(50, th.words.party), t);
+});
+
+test('#46: each theme owns its Party body, by the solo rule dubstep set', () => {
+  for (const t of ['house', 'bass', 'balearic']) {
+    const word = THEMES[t].words.party, r = compose(stopBoard(7, {}, t), word, {}, t);
+    assert.equal(sentence(r), `${word} track with ${THEMES[t].phrases.hard.high}`, t);
+    assert.deepEqual(r.config, { bpm: bpmOf(50, word), guidance: 4, musicGenerationMode: 'QUALITY' }, t); // the word's priors decide
+    assert.ok(sentence(compose(board({ hard: 10 }), word, {}, t)).includes(FADERS.hard.low), t); // the low end stays the shared one
+    assert.equal(compose(stopBoard(7, { 'party.afters': 100 }, t), word, {}, t).solo, false, t); // Afters brings the full sentence back
+  }
+  const afro = compose(stopBoard(7, {}, 'afro'), 'afro tech', {}, 'afro'); // afro keeps the full sentence, no body: its party is the centre at 135
+  assert.equal(afro.solo, false);
+  assert.ok(sentence(afro).includes(FADERS.hard.high) && sentence(afro).includes(THEMES.afro.palette.beat), sentence(afro));
+  assert.deepEqual([afro.config.bpm, afro.config.density, afro.config.brightness], [135, 0.7, 0.4]);
+  assert.equal(beatOf(THEMES.bass.words.party), 'garage'); // breaks & bass: the word and the body agree on the beat
+  assert.ok(THEMES.bass.phrases.hard.high.includes('garage hats') && THEMES.bass.phrases.hard.high.includes('kick'));
+  assert.notEqual(THEMES.bass.words.party, 'dubstep'); // the one bad clip of 2026-10-15
 });

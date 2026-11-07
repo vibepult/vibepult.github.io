@@ -136,7 +136,7 @@ export function parseP(text) {
     if (k === 'style' && v) p.style = v.replace(/\+/g, ' ');
     else if (k === 'inst' && v !== undefined) p.inst = v.split('+').filter(id => INSTRUMENTS[id]).slice(0, MAX_INSTRUMENTS);
     else if (k === 'mode' && ['QUALITY', 'DIVERSITY', 'VOCALIZATION'].includes(v)) p.mode = v;
-    else if (['guidance', 'seed', 'bpm', 'temperature', 'density', 'brightness', 'production'].includes(k) && Number.isFinite(+v) && v !== '') p[k] = +v;
+    else if (['guidance', 'seed', 'bpm', 'temperature', 'density', 'brightness', 'production', 'master'].includes(k) && Number.isFinite(+v) && v !== '') p[k] = +v; // master: player.js reads it (0 bypasses the chain)
   }
   return p;
 }
