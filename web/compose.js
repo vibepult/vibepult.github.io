@@ -33,8 +33,9 @@ export const DEADBAND = 0.1; // |v - 50| / 50 below this is "don't care", the v0
 export const SOLO = 0.5; // a theme's solo fader past 75 (or below 25) owns the sentence
 export const MAX_CLAUSES = 5; // strongest pushes speak; every extra clause dilutes the sentence (v1, finding 10). 5 keeps it under 45 words
 // bpm is a learned prior per style: a genre word at a tempo it never has costs quality. Each word
-// gets its natural centre; Tempo and the day pushes move at most ±15 inside it, in 5 bpm steps.
-export const bpmOf = (v, style = '') => Math.round(((BPM[style] ?? 110) + 0.3 * (v - 50)) / 5) * 5;
+// gets its natural centre; Tempo and the day pushes move at most ±15 inside it, in 5 bpm steps. A spec's own `bpm`
+// map (a typed day's words) comes before the shared table.
+export const bpmOf = (v, style = '', bpm = null) => Math.round(((bpm?.[style] ?? BPM[style] ?? 110) + 0.3 * (v - 50)) / 5) * 5;
 const DEFAULTS = { guidance: 4.0 }; // the API default. Heard 2026-10-15 against 4.5 and 5.5: the 5.5 of v1 (metal) renders the most obvious version of the prompt; p= overrides
 
 export const restBoard = () => Object.fromEntries(IDS.map(id => [id, 50]));
@@ -42,11 +43,12 @@ const round = x => Math.round(x * 100) / 100;
 const clamp = v => Math.max(0, Math.min(100, Math.round(v)));
 const unit = position => Math.max(0, Math.min(100, position)) / 100; // a day position as 0..1, unrounded
 
-// The day: stops in slider order, evenly spaced from 0 to 100. Each stop is a push over the rest board, the hour the
-// clock reaches it, and five tweaks. A tweak slider at 100 adds its push to its own stop, at 0 subtracts it, at 50
-// does nothing; tweaks stack. Pushes are guesses until heard. The surf office's own (bbq, shopping, taverna,
-// grilling) were written by Gemini Flash once on 2026-10-12 and kept as plain values. A model-authored vibe endpoint
-// was built and reverted 2026-10-12: the free Gemini key cannot reach a flash model reliably.
+// The built-in day: stops in slider order, evenly spaced from 0 to 100. Each stop is a push over the rest board, the
+// hour the clock reaches it, and five tweaks. A tweak slider at 100 adds its push to its own stop, at 0 subtracts it,
+// at 50 does nothing; tweaks stack. Pushes are guesses until heard. The surf office's own (bbq, shopping,
+// taverna, grilling) were written by Gemini Flash once on 2026-10-12 and kept as plain values. Since #48 a day is
+// data: every day function below takes a spec (`builtin(theme)` wraps this day with a theme; a typed day comes from
+// the relay, written by a model and gated by the bench).
 export const DAY = [
   { id: 'morning', label: 'Lofi morning', at: 7, push: { tempo: -35, energy: -30, dusty: 35, dreamy: 10, melodic: 10, groove: -30, hard: -40 }, tweaks: {
     coffee: { label: 'Second coffee', hint: 'waking up for real', push: { tempo: 20, energy: 20, melodic: 10 } },
@@ -107,36 +109,39 @@ export const DAY = [
     afters: { label: 'Afters', hint: 'the sun is coming up', push: { tempo: -30, energy: -30, dreamy: 30, hard: -25 } },
   } },
 ];
-export const stopPosition = i => i * 100 / (DAY.length - 1);
-export const nearestStop = position => Math.round(unit(position) * (DAY.length - 1));
+// A spec: { id, label, skin, stops: [{ id, label, hint?, at, push, tweaks: { [t]: { label, hint, push } } }],
+// theme: { label, words: { [stop]: word }, production, palette: { beat, keys }, phrases?, bpm?: { [word]: n },
+// beat?: { [word]: skeleton } } }. Hours in order; after midnight is 24 plus the hour. `skin` is the built-in theme
+// whose look it borrows.
+export const stopPosition = (spec, i) => i * 100 / (spec.stops.length - 1);
+export const nearestStop = (spec, position) => Math.round(unit(position) * (spec.stops.length - 1));
 
 const add = (out, push, k = 1) => { for (const [f, d] of Object.entries(push)) out[f] += k * d; return out; };
 const clampBoard = b => Object.fromEntries(IDS.map(id => [id, clamp(b[id])]));
 
-// The five tweaks of a stop, as [id, tweak]: the theme's own when it has them for that stop (`THEMES[t].tweaks`,
-// ids `theme.stop.tweak`), else the day's (`stop.tweak`).
-export function stopTweaks(i, theme) {
-  const s = DAY[i], own = THEMES[theme]?.tweaks?.[s.id];
-  return own ? Object.entries(own).map(([t, tw]) => [`${theme}.${s.id}.${t}`, tw]) : Object.entries(s.tweaks).map(([t, tw]) => [`${s.id}.${t}`, tw]);
-}
+// The five tweaks of a stop, as [id, tweak], ids `stop.tweak`.
+export const stopTweaks = (spec, i) => Object.entries(spec.stops[i].tweaks).map(([t, tw]) => [`${spec.stops[i].id}.${t}`, tw]);
+// Every tweak id of a spec, stop by stop: the order of the tweaks in the share string.
+export const tweakIds = spec => spec.stops.flatMap((s, i) => stopTweaks(spec, i).map(([id]) => id));
+export const restTweaks = spec => Object.fromEntries(tweakIds(spec).map(id => [id, 50]));
 
 // A stop's board with its own tweaks on top. Tweaks belong to their stop, so they fade as the slider leaves it.
-export function stopBoard(i, tweaks = {}, theme = null) {
-  const out = add(restBoard(), DAY[i].push);
-  for (const [id, tw] of stopTweaks(i, theme)) add(out, tw.push, ((tweaks[id] ?? 50) - 50) / 50);
+export function stopBoard(spec, i, tweaks = {}) {
+  const out = add(restBoard(), spec.stops[i].push);
+  for (const [id, tw] of stopTweaks(spec, i)) add(out, tw.push, ((tweaks[id] ?? 50) - 50) / 50);
   return clampBoard(out);
 }
 
 // Where a position sits: stop i, and t of the way from it to stop i + 1.
-export function daySpan(position) {
-  const x = unit(position) * (DAY.length - 1), i = Math.min(Math.floor(x), DAY.length - 2);
+export function daySpan(spec, position) {
+  const n = spec.stops.length, x = unit(position) * (n - 1), i = Math.min(Math.floor(x), n - 2);
   return { i, t: x - i };
 }
 
 // Every position 0..100 is a board: a straight line between the two nearest stops.
-export function dayBoard(position, tweaks = {}, theme = null) {
-  const { i, t } = daySpan(position);
-  const a = stopBoard(i, tweaks, theme), b = stopBoard(i + 1, tweaks, theme);
+export function dayBoard(spec, position, tweaks = {}) {
+  const { i, t } = daySpan(spec, position);
+  const a = stopBoard(spec, i, tweaks), b = stopBoard(spec, i + 1, tweaks);
   return Object.fromEntries(IDS.map(id => [id, Math.round(a[id] + t * (b[id] - a[id]))]));
 }
 
@@ -144,14 +149,15 @@ export function dayBoard(position, tweaks = {}, theme = null) {
 export const withFaders = (day, board = {}) => clampBoard(add({ ...day }, Object.fromEntries(IDS.map(id => [id, (board[id] ?? 50) - 50]))));
 
 // The clock: each stop at its hour, a straight line between them, the first stop before it, the last stop after it.
-// after midnight is party until 4:00, then morning; tune by ear.
-export function clockPosition(date) {
+// after midnight is the last stop until 4:00, then the first; tune by ear.
+export function clockPosition(spec, date) {
+  const stops = spec.stops;
   let h = date.getHours() + date.getMinutes() / 60;
   if (h < 4) h += 24;
-  if (h <= DAY[0].at) return 0;
-  const i = DAY.findLastIndex(s => s.at <= h);
-  if (i === DAY.length - 1) return 100;
-  return Math.round(stopPosition(i) + (h - DAY[i].at) / (DAY[i + 1].at - DAY[i].at) * stopPosition(1));
+  if (h <= stops[0].at) return 0;
+  const i = stops.findLastIndex(s => s.at <= h);
+  if (i === stops.length - 1) return 100;
+  return Math.round(stopPosition(spec, i) + (h - stops[i].at) / (stops[i + 1].at - stops[i].at) * stopPosition(spec, 1));
 }
 
 // Themes: the flavour of the whole day, one genre word per stop. Only the word changes, the boards stay: the faders
@@ -257,10 +263,10 @@ export const THEMES = {
       },
     } },
 };
-// Every tweak id, the day's then each theme's own: the order of `w=` in the hash.
-export const TWEAK_IDS = [...DAY.flatMap(s => Object.keys(s.tweaks).map(t => `${s.id}.${t}`)),
-  ...Object.entries(THEMES).flatMap(([id, t]) => Object.entries(t.tweaks ?? {}).flatMap(([s, tw]) => Object.keys(tw).map(k => `${id}.${s}.${k}`)))];
-export const restTweaks = () => Object.fromEntries(TWEAK_IDS.map(id => [id, 50]));
+// The built-in days as specs: the shared DAY under one theme, the theme's own tweaks in place of the day's where it
+// has them. An unknown theme is techno, as a junk share link is.
+const BUILTIN = Object.fromEntries(Object.keys(THEMES).map(id => [id, { id, label: THEMES[id].label, skin: id, stops: DAY.map(s => ({ ...s, tweaks: THEMES[id].tweaks?.[s.id] ?? s.tweaks })), theme: THEMES[id] }]));
+export const builtin = theme => Object.hasOwn(BUILTIN, theme) ? BUILTIN[theme] : BUILTIN.techno;
 // The centre of each word's typical range. General knowledge, not measured; a word not here
 // gets 110. Check by ear and move the number, not the fader.
 export const BPM = {
@@ -281,9 +287,9 @@ export const BEAT = {
   'Balearic chillout': 'down', 'Balearic downtempo': 'down', 'organic downtempo': 'down', 'world downtempo': 'down',
   'Jamaican dub': 'down', 'chillstep': 'half', 'glitch hop': 'breaks', 'melodic dubstep': 'half', 'future garage': 'garage', 'brostep': 'half', 'speed garage': 'garage',
 };
-export const beatOf = style => BEAT[style] ?? 'four';
+export const beatOf = (style, beat = null) => beat?.[style] ?? BEAT[style] ?? 'four';
 // A fader end's words: the theme's own if it rewords that fader, else the shared phrase. A solo end may be { as, words }.
-export const phrase = (theme, id, side) => { const x = THEMES[theme]?.phrases?.[id]?.[side]; return x === undefined ? FADERS[id][side] : x.words ?? x; };
+export const phrase = (spec, id, side) => { const x = spec?.theme.phrases?.[id]?.[side]; return x === undefined ? FADERS[id][side] : x.words ?? x; };
 
 // A small genre move blends instead of cutting: the
 // old prompts fade as the new ones rise, one frame per RAMP step, RAMP_MS apart. Same texts merge; zero weights drop.
@@ -294,19 +300,20 @@ export function ramp(from, to, k) {
   return [...w].filter(([, weight]) => weight > 0).map(([text, weight]) => ({ text, weight }));
 }
 // The genre word flips at the midpoint between two stops: a hard cut there, as any style change.
-export const dayStyle = (theme, position) => THEMES[theme].words[DAY[nearestStop(position)].id];
+export const dayStyle = (spec, position) => spec.theme.words[spec.stops[nearestStop(spec, position)].id];
 
-// The two objects the model sees: one sentence at 1.0 and the production phrase at its share. `style` is the genre word.
-export function compose(board, style, p = {}, theme = null) {
-  const pushes = [];
+// The two objects the model sees: one sentence at 1.0 and the production phrase at its share. `style` is the genre
+// word; `spec` brings the theme's palette, production, phrases, bpm and solo rule, none of them without a spec.
+export function compose(board, style, p = {}, spec = null) {
+  const theme = spec?.theme, pushes = [];
   for (const id of IDS) {
     const v = board[id] ?? 50, w = Math.abs(v - 50) / 50, side = v > 50 ? 'high' : 'low';
-    const words = phrase(theme, id, side);
+    const words = phrase(spec, id, side);
     if (w >= DEADBAND && words) pushes.push({ id, w, side, slot: FADERS[id].slot, words });
   }
   pushes.sort((a, b) => b.w - a.w);
   const lead = pushes.filter(t => t.slot === 'lead').map(t => t.words).join(', ');
-  const palette = THEMES[theme]?.palette;
+  const palette = theme?.palette;
   // One drum clause from up to three pushes: "a straight, tight, busy TR-909 beat with rolling hi-hats".
   const drums = pushes.filter(t => t.slot === 'drums');
   const organic = drums.find(t => t.id === 'organic')?.side;
@@ -329,18 +336,18 @@ export function compose(board, style, p = {}, theme = null) {
   // alone pulled it to 0.9 to 1.7 kHz. Every extra clause dilutes (v1, finding 10); for a signature sound, fatally.
   // `by` lists other faders whose far ends swap the solo body for a variant (a body, or { as, words } to reword the
   // genre too, in the sentence only); the strongest pushed one wins.
-  const solo = pushes.find(t => { const x = THEMES[theme]?.phrases?.[t.id]?.solo; return (x === true || x === t.side) && t.w >= SOLO; });
+  const solo = pushes.find(t => { const x = theme?.phrases?.[t.id]?.solo; return (x === true || x === t.side) && t.w >= SOLO; });
   let sentence = `${lead ? lead + ' ' : ''}${style} track${body ? ' with ' + body : ''}`;
   if (solo) {
-    const by = THEMES[theme].phrases[solo.id].by ?? [], k = pushes.find(t => t.w >= SOLO && by.some(b => b.fader === t.id && b[t.side]));
-    const v = k ? by.find(b => b.fader === k.id)[k.side] : THEMES[theme].phrases[solo.id][solo.side], { as = style, words } = typeof v === 'string' ? { words: v } : v;
+    const by = theme.phrases[solo.id].by ?? [], k = pushes.find(t => t.w >= SOLO && by.some(b => b.fader === t.id && b[t.side]));
+    const v = k ? by.find(b => b.fader === k.id)[k.side] : theme.phrases[solo.id][solo.side], { as = style, words } = typeof v === 'string' ? { words: v } : v;
     sentence = `${as} track with ${words}`;
   }
   // The share is a p= pin for the A/B by ear; 0 drops the production prompt.
   const share = p.production ?? PRODUCTION_SHARE;
   const prompts = [
     { text: sentence, weight: 1.0 },
-    ...(share > 0 ? [{ text: THEMES[theme]?.production ?? PRODUCTION, weight: round(share / (1 - share)) }] : []),
+    ...(share > 0 ? [{ text: theme?.production ?? PRODUCTION, weight: round(share / (1 - share)) }] : []),
   ];
   const at = id => board[id] ?? 50;
   // density, brightness and temperature are learned priors per style: a field is sent only when
@@ -351,7 +358,7 @@ export function compose(board, style, p = {}, theme = null) {
   const asked = id => !solo && Math.abs(at(id) - 50) / 50 >= DEADBAND;
   const s = at('steady');
   const config = {
-    bpm: p.bpm ?? bpmOf(at('tempo'), style),
+    bpm: p.bpm ?? bpmOf(at('tempo'), style, theme?.bpm),
     // #46: density caps at 0.7 and brightness floors at 0.4. Google's guide calls 0.9 a chaotic orchestra and low brightness dark and
     // bass-heavy; its samples run 0.2 to 0.5 and 0.4 to 0.7. Brightness 0.25 put the Party at 1.4 kHz against a 2 to 3 kHz band (bench, 2026-11-04).
     ...(asked('energy') && { density: Math.min(0.7, round(at('energy') / 100)) }),
@@ -369,21 +376,23 @@ export function compose(board, style, p = {}, theme = null) {
 }
 
 // The share link, `s=` in the hash: the whole page as base64url bits, sparse, the way v1's engine.js packs its desk.
-// Header: TWEAK_IDS.length in 7 bits, so a link from another layout reads as the opening page. Then the theme index in
-// 3 bits, Haiku in 1, follow-the-clock in 1 and, when not following, the day in 7. Then one mask bit per fader and 7 bits
-// for each pushed one; then the pushed tweak count in 7 bits and, per tweak, 7 bits of index and 7 of value. The opening
-// page is 6 characters; one fader and one tweak away from rest make 9. Junk reads as the opening page.
+// Header: the spec's tweak count in 7 bits, so a link from another layout reads as the opening page. Then the theme
+// index in 3 bits (picks the built-in spec; 0 and ignored under a typed day, `d=`), Haiku in 1, follow-the-clock in 1
+// and, when not following, the day in 7. Then one mask bit per fader and 7 bits for each pushed one; then the pushed
+// tweak count in 7 bits and, per tweak, 7 bits of index into the spec's tweak ids and 7 of value. The opening page is
+// 6 characters; one fader and one tweak away from rest make 9. Junk reads as the opening page.
 const B64 = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_';
 const THEME_IDS = Object.keys(THEMES);
-export const openingState = () => ({ theme: 'techno', haiku: false, position: null, board: restBoard(), tweaks: restTweaks() });
-export function encodeState({ theme, haiku, position, board, tweaks }) {
+export const openingState = (day = null) => ({ theme: 'techno', haiku: false, position: null, board: restBoard(), tweaks: restTweaks(day ?? builtin('techno')) });
+export function encodeState({ theme, haiku, position, board, tweaks }, day = null) {
+  const ids = tweakIds(day ?? builtin(theme));
   const bits = [], push = (v, n) => { for (let i = n - 1; i >= 0; i--) bits.push((v >> i) & 1); };
   const at = (b, id) => Math.round(b[id] ?? 50);
-  push(TWEAK_IDS.length, 7); push(THEME_IDS.indexOf(theme), 3); push(haiku ? 1 : 0, 1);
+  push(ids.length, 7); push(Math.max(0, THEME_IDS.indexOf(theme)), 3); push(haiku ? 1 : 0, 1);
   push(position === null ? 1 : 0, 1); if (position !== null) push(position, 7);
   for (const id of IDS) push(at(board, id) !== 50 ? 1 : 0, 1);
   for (const id of IDS) if (at(board, id) !== 50) push(at(board, id), 7);
-  const moved = TWEAK_IDS.map((id, i) => [i, at(tweaks, id)]).filter(([, v]) => v !== 50);
+  const moved = ids.map((id, i) => [i, at(tweaks, id)]).filter(([, v]) => v !== 50);
   push(moved.length, 7);
   for (const [i, v] of moved) { push(i, 7); push(v, 7); }
   while (bits.length % 6) bits.push(0);
@@ -392,8 +401,8 @@ export function encodeState({ theme, haiku, position, board, tweaks }) {
   return out;
 }
 // Untrusted input (anyone can paste a link): anything malformed, out of range or with trailing junk is the opening page.
-export function decodeState(text) {
-  const s = openingState(), bad = () => { throw new RangeError(); };
+export function decodeState(text, day = null) {
+  const s = openingState(day), bad = () => { throw new RangeError(); };
   if (typeof text !== 'string' || !text.length || [...text].some(c => !B64.includes(c))) return s;
   const bits = [];
   for (const c of text) for (let i = 5; i >= 0; i--) bits.push((B64.indexOf(c) >> i) & 1);
@@ -401,31 +410,35 @@ export function decodeState(text) {
   const read = n => { if (pos + n > bits.length) bad(); let v = 0; for (let i = 0; i < n; i++) v = 2 * v + bits[pos++]; return v; };
   const value = () => { const v = read(7); if (v > 100) bad(); return v; };
   try {
-    if (read(7) !== TWEAK_IDS.length) bad();
+    const count = read(7);
     s.theme = THEME_IDS[read(3)] ?? bad();
+    const ids = tweakIds(day ?? builtin(s.theme));
+    if (count !== ids.length) bad();
+    s.tweaks = Object.fromEntries(ids.map(id => [id, 50]));
     s.haiku = read(1) === 1;
     if (!read(1)) s.position = value();
     const mask = IDS.map(() => read(1) === 1);
     IDS.forEach((id, i) => { if (mask[i]) s.board[id] = value(); });
-    for (let n = read(7), last = -1; n > 0; n--) { const i = read(7); if (i <= last || i >= TWEAK_IDS.length) bad(); s.tweaks[TWEAK_IDS[i]] = value(); last = i; }
+    for (let n = read(7), last = -1; n > 0; n--) { const i = read(7); if (i <= last || i >= ids.length) bad(); s.tweaks[ids[i]] = value(); last = i; }
     if (bits.length - pos >= 6 || bits.slice(pos).some(b => b)) bad(); // exactly the padding, nothing else
     return s;
-  } catch (e) { if (e instanceof RangeError) return openingState(); throw e; }
+  } catch (e) { if (e instanceof RangeError) return openingState(day); throw e; }
 }
 
 // What Haiku reads (the relay's prompt file says how): words, not ids, and only what is away from rest.
 // `heard` is the board the model hears; `previous` is Haiku's last answer, so a small move keeps its wording.
-export function askState({ theme, position, tweaks = {}, heard, p = {}, previous }) {
-  const { i, t } = daySpan(position), genre = dayStyle(theme, position);
-  const { prompts, config, solo } = compose(heard, genre, p, theme);
+export function askState({ spec, position, tweaks = {}, heard, p = {}, previous }) {
+  const { i, t } = daySpan(spec, position), genre = dayStyle(spec, position), stops = spec.stops;
+  const { prompts, config, solo } = compose(heard, genre, p, spec);
   const value = id => tweaks[id] ?? 50;
+  const near = stops[nearestStop(spec, position)];
   return {
-    theme: THEMES[theme].label,
+    theme: spec.theme.label,
     genre,
-    day: { from: DAY[i].label, to: DAY[i + 1].label, toward: round(t) },
-    tweaks: stopTweaks(nearestStop(position), theme).filter(([id]) => value(id) !== 50).map(([id, tw]) => ({ label: tw.label, means: tw.hint, value: value(id) })),
+    day: { from: stops[i].label, to: stops[i + 1].label, toward: round(t), ...(near.hint && { means: near.hint }) },
+    tweaks: stopTweaks(spec, nearestStop(spec, position)).filter(([id]) => value(id) !== 50).map(([id, tw]) => ({ label: tw.label, means: tw.hint, value: value(id) })),
     faders: IDS.filter(id => Math.abs(heard[id] - 50) >= 5)
-      .map(id => ({ name: FADERS[id].label, value: heard[id], low: phrase(theme, id, 'low') || 'instrumental, no voices', high: phrase(theme, id, 'high') })),
+      .map(id => ({ name: FADERS[id].label, value: heard[id], low: phrase(spec, id, 'low') || 'instrumental, no voices', high: phrase(spec, id, 'high') })),
     config: { bpm: config.bpm, density: config.density, brightness: config.brightness, mode: config.musicGenerationMode },
     rules: prompts[0].text,
     ...(solo && { solo: true }),

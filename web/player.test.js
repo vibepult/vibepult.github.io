@@ -142,6 +142,23 @@ test('double Play: two connects before the ack share one socket and one deck', a
   assert.deepEqual(player.status(), { gaps: 0, played: 2, buffered: 4, decks: 1 });
 });
 
+test('double Reseed: two crosses before the ack share one open; the second lands as a reset on the new deck', async () => {
+  const n = sockets.length, old = sockets.at(-1), frame = { prompts: [{ text: 'r', weight: 1 }], config: { bpm: 120 }, control: 'play' };
+  const a = player.cross(frame);
+  const b = player.cross(frame); // the person clicks again before the relay's ack
+  assert.equal(sockets.length, n + 1);
+  await Promise.all([a, b]);
+  assert.equal(sockets.length, n + 1); // one new socket, not two
+  assert.deepEqual(sockets.at(-1).sent.slice(1).map(f => f.control), ['play', 'reset']);
+  assert.equal(player.status().decks, 2);
+  sockets.at(-1).pcm(2); // the first chunk: one fade
+  assert.equal(curves.length, 6);
+  mock.timers.tick(7000); // LEAD + FADE
+  assert.equal(old.closed, true);
+  assert.equal(player.status().decks, 1);
+  assert.ok(player.isOpen());
+});
+
 test('Play while a reconnect is pending: two opens, one deck; the orphan closes on its first frame', async () => {
   const n = sockets.length;
   sockets.at(-1).close(1006); // the relay drops mid-play: a reconnect in 1 s
