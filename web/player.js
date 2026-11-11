@@ -37,6 +37,7 @@ const MASTERED = !(frag.get("p") || "").split(",").includes("master:0");
 
 let ctx, master, input, url, onstatus, deck, fading; // input: the chain or the volume; deck: the one steered and heard; fading: the old one on its way out
 let pending = null; // the connect in flight: a second Play waits on it instead of opening a second deck (2026-11-02)
+let opening = null; // the cross in flight: a second cross() before the ack waits on it instead of opening a third deck
 const stats = { gaps: 0, played: 0 };  // played: seconds of audio scheduled since PLAY
 const last = { playing: false };  // prompts, config, playing: what a reconnect replays
 let delay = 1000;  // reconnect backoff, 1 s doubling to 30 s
@@ -121,12 +122,14 @@ export function send(frame) {
 // scheduled, the two cross-fade over FADE seconds and the old one closes. If no second deck opens, or a fade is
 // still running, the reset goes to this deck: the hard cut, but the tempo lands. A third deck mid-fade would put
 // a second gain curve on a bus that is still fading, which Web Audio refuses (heard 2026-10-15: every chunk after
-// that threw, and the deck's chunks piled up on one start time).
+// that threw, and the deck's chunks piled up on one start time). A second cross() before the relay's ack waits for
+// that open, then takes the fade branch: its frame lands as a reset on the new deck, never as a third socket.
 export async function cross(frame) {
+  if (opening) return opening.then(() => cross(frame));
   if (fading) return send({ ...frame, control: "reset" });
-  let next;
-  try { next = await open(); }
-  catch { return send({ ...frame, control: "reset" }); }
+  const next = await (opening = open().catch(() => null));
+  opening = null;
+  if (!next) return send({ ...frame, control: "reset" });
   fading = deck; deck = next;
   send(frame);
   deck.bus.gain.value = 0;

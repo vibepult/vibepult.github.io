@@ -39,11 +39,16 @@
             <p class="hint" id="hint">Press Play, then drag a fader.</p>
             <p class="note">The faders say how it moves. The theme says what it is.</p>
           </div>
+          <div class="describe">
+            <textarea class="describe__text" id="describe" rows="2" maxlength="1000" aria-label="Describe your day" placeholder="Describe your day: a Sunday at the lake, late breakfast, a swim, aperitivo, a bonfire"></textarea>
+            <button class="next" id="make" type="button" title="A model writes the day from your words, every stop is checked by ear-less measurement, and the day opens on its own link. About five minutes.">Write my day</button>
+          </div>
           <div class="output__foot transport">
             <button class="next" id="play" type="button">Play</button>
             <button class="next" id="stop" type="button">Stop</button>
             <button class="next" id="llm" type="button" aria-pressed="false">More LLM help</button>
             <button class="next" id="bad" type="button" title="Tell us this moment sounds wrong. It is logged with the desk as it is now.">Sounds bad</button>
+            <button class="next" id="reseed" type="button" title="Same board, same prompt, different music: a new take cross-fades in.">Reseed</button>
             <span class="band__match" id="stats"></span>
           </div>
           <div class="sr-only" id="announce" aria-live="polite"></div>
