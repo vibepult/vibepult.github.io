@@ -141,8 +141,9 @@ svg { fill: none; stroke: currentColor; stroke-width: 2.5; stroke-linecap: round
 .band__meta { font-family: var(--font-lcd); font-size: 13px; color: var(--text-2); min-height: 17px; }
 .hint, .message { font-size: 15px; color: var(--text-2); }
 .note { font-size: 12px; letter-spacing: .04em; color: var(--text-3); } /* fine print under the band */
-/* v2: the describe box, a typed day in a sentence or two */
-.describe { display: flex; gap: 8px; align-items: stretch; }
+/* v2: the describe box, a typed day in a sentence or two. Hidden until days get their own screen behind a login;
+   the wiring stays and a d= link still plays. To show it again: display: flex. */
+.describe { display: none; gap: 8px; align-items: stretch; }
 .describe__text { flex: 1; min-height: 44px; padding: 8px 10px; resize: vertical; background: var(--well); border: 1px solid var(--panel-line); border-radius: 6px; color: var(--lcd); font-family: var(--font-lcd); font-size: 13px; }
 .describe__text::placeholder { color: var(--text-3); }
 .describe .next { height: auto; }
